@@ -1,0 +1,12 @@
+0x0747B307 = ~z~I know, we need food.
+
+0x5D0F5E95 = ~z~How'd you know I was gonna say that?
+
+0x6AC8FA08 = ~z~You're walking. You're only walking when you're not cooking, and
+
+0x30A105B5 = ~z~
+
+0x59CA5807 = ~z~you're only not cooking when there's not enough food.
+
+0xF9C117FA = ~z~Mr. Morgan! Mr. Morgan.
+

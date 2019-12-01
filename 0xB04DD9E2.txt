@@ -1,0 +1,92 @@
+0x025D2C9B = ~z~~sl:2.4:1.3~Sure.
+
+0x08E53670 = ~z~
+
+0x0A2FAA9D = ~z~a sheep in wolf's clothing.
+
+0x0D2F3E09 = ~z~Absolutely, Bill.
+
+0x0D464271 = ~z~I know.
+
+0x1D1D9BBC = ~z~a sheep in wolf's clothing.
+
+0x1D2EDDBC = ~z~Don't mention it.
+
+0x2DEF7F3D = ~z~Well thanks, Hosea.
+
+0x2EFE81A7 = ~z~~sl:0.0:2.7~Now I think you're a fine, upstanding gentleman~sl:~who got stuck in the wrong place and wrong time.
+
+0x2F3F3FFF = ~z~Well, thanks... thank you.
+
+0x4A3DF5FC = ~z~We all have, ain't that so, Arthur?
+
+0x4A6CB837 = ~z~I like that.
+
+0x4EF34D03 = ~z~No, you ain't.
+
+0x5AF66509 = ~z~~sl:0.0:0.9~I don't blame you,~sl:~I used to think you was one sorry excuse for a man.
+
+0x5ED46590 = ~z~You know, we been riding a long time together, haven't we?
+
+0x5F965569 = ~z~Well, thanks... thank you.
+
+0x30CA10B1 = ~z~~sl:0.0:0.8~Well, I'm...~sl:0.3~I'm sorry.
+
+0x32D2949F = ~z~
+
+0x53F1096A = ~z~Absolutely, Bill.
+
+0x60BB6520 = ~z~You do?
+
+0x95BDD362 = ~z~
+
+0x144ED7BB = ~z~~sl:0.0:2.0:1~You told me a fair few times.
+
+0x200CE7FE = ~z~I used to think you were all stuck up.
+
+0x441AABDF = ~z~Something like that.
+
+0x1260C86C = ~z~Sure.
+
+0x6484AA91 = ~z~What is it you called him, uh...
+
+0x76764E74 = ~z~Sure.
+
+0x87803E20 = ~z~you've-you've changed your mind since then, right?
+
+0x513738AB = ~z~Don't mention it.
+
+0x694601AC = ~z~Well,
+
+0x1595530B = ~z~You all right, old man?
+
+0x1890475E = ~z~What is it you called him, uh...
+
+0x3875526B = ~z~Is that right?
+
+0x22847426 = ~z~I did?
+
+0xB1CA0B7A = ~z~~sl:1.3~When I first met you, I...
+
+0xC37F9D1E = ~z~Absolutely, Bill.
+
+0xC43B1E79 = ~z~Is that right?
+
+0xC2652CB0 = ~z~Sure.
+
+0xD1BA3993 = ~z~We all have, ain't that so, Arthur?
+
+0xD3F9BDF6 = ~z~That's it.
+
+0xE0235665 = ~z~Sure.
+
+0xEFA0C0CB = ~z~Don't mention it.
+
+0xF01A8816 = ~z~Good.
+
+0xF8AE14BB = ~z~
+
+0xF906A51E = ~z~
+
+0xF246460E = ~z~That's it.
+

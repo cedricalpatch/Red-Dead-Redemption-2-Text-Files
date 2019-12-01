@@ -1,0 +1,14 @@
+0x1A250C85 = ~z~Nonsense.
+
+0x2B7EAF38 = ~z~Mark my words.
+
+0x4E81753D = ~z~So who do you think the rat is?
+
+0x75AA438E = ~z~I reckon they just... caught our scent and we can't shake 'em off, that's all.
+
+0x86ECE613 = ~z~I think it's Marston.
+
+0xE05F98FB = ~z~Rat?
+
+0xF20D3C56 = ~z~Well, someone's talking to somebody! They has to be.
+

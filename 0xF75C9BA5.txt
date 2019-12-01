@@ -1,0 +1,28 @@
+0x0236BFDC = ~z~You stay out of this, Morgan.
+
+0x4F5A8AD8 = ~z~You know, I don't like your attitude.
+
+0x6B06422F = ~z~
+
+0x7C2AB3B6 = ~z~~sl:1.2:0.0~Half shit.
+
+0x7D0CE63C = ~z~Well, okay then.
+
+0x31F6D011 = ~z~~sl:0.4:0.0~Don't you disrespect me, boy.
+
+0x61A22F67 = ~z~I didn't. Damn, Bill.
+
+0x97279A6D = ~z~~sl:0.0:1.5:1~Damn right, it's okay!
+
+0x1685192E = ~z~Hey, come here, kid.
+
+0x4433748A = ~z~What? Why?
+
+0xCDB1D6D3 = ~z~Whatever you say.
+
+0xCE1B6AEA = ~z~Get lost Bll.
+
+0xDD2D090D = ~z~Little half shit.
+
+0xE4598422 = ~z~The boy needs to learn some respect.
+

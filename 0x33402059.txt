@@ -1,0 +1,168 @@
+0x007EA73B = ~z~There ain't nothing left, mister.
+
+0x0187A633 = ~z~just across from Butcher's Creek...
+
+0x024818D7 = ~z~Hey, you're the money lender, ain't ya?
+
+0x0886F39D = ~z~we lent Arthur some money, you see...
+
+0x0C522CEF = ~z~Oh boy, you can't exactly beat it out of him now, can you?
+
+0x1E72D12C = ~z~I'm sorry, feller, but you're too late.
+
+0x3CFF46CE = ~z~On your way, now.
+
+0x5BC84BD6 = ~z~Arthur's dead.
+
+0x6D43CE89 = ~z~I just...
+
+0x7BB097DD = ~z~maybe you and your friend that leant him the money...
+
+0x7EA7F151 = ~z~wanted to say...
+
+0x8BD63DE0 = ~z~You want my boy's shoes?
+
+0x9B752AEB = ~z~I guess I was just coming to say that...
+
+0x9C4BDECB = ~z~You want the food out our bellies?
+
+0x9D1D5BC2 = ~z~I'm sorry, ma'am...
+
+0x9D275ACA = ~z~I just wish you'd done it before he worked his self into the grave.
+
+0x11FBCBE7 = ~z~It'll be an adventure.
+
+0x23AD6F4A = ~z~I don't want an adventure. I want my daddy.
+
+0x28D577DC = ~z~You want me to lie down for you?
+
+0x33FEFC44 = ~z~he here?
+
+0x43E89362 = ~z~I'm looking for an Arthur Londonderry. I was told he works here?
+
+0x47B2B288 = ~z~but I'd hurry.
+
+0x50D715B0 = ~z~Well...
+
+0x65AB6B9B = ~z~could do things differently.
+
+0x69EC47DE = ~z~the debt's cancelled, and, erm...
+
+0x71D077E6 = ~z~The man's dead?
+
+0x86C886C6 = ~z~Arthur's dead.
+
+0x89B5076B = ~z~Good luck, ma'am.
+
+0x715C0440 = ~z~I really am.
+
+0x954E68AB = ~z~Don't do that!
+
+0x3067C35E = ~z~Arthur's dead.
+
+0x4621EED2 = ~z~I know and a...
+
+0x5767CF14 = ~z~Like...
+
+0x6409EE50 = ~z~everything.
+
+0x6596B087 = ~z~Hey, uh, can I help you? We're trying to mine coal here.
+
+0x9842A9BA = ~z~Mrs. Londonderry?
+
+0x25786E14 = ~z~You ain't gonna be the only one a-knocking.
+
+0x193858A2 = ~z~What little there is.
+
+0x346610BB = ~z~I don't wanna go.
+
+0x892932CE = ~z~But you know...
+
+0x6226384E = ~z~thank you.
+
+0x86837292 = ~z~Head way down there towards the coal face.
+
+0x89647552 = ~z~What do you want now?
+
+0xA2D3A830 = ~z~you son of a bitch.
+
+0xA3B3595A = ~z~No you don't!
+
+0xA397EF1D = ~z~You gonna pack all your stuff, angel?
+
+0xA308841F = ~z~Come on, now!
+
+0xAD38FBF9 = ~z~Excuse me.
+
+0xB2D7862A = ~z~Why you're a good man.
+
+0xB5BB11A9 = ~z~No! No I...
+
+0xB7E7E3D0 = ~z~That's it.
+
+0xB26BC760 = ~z~it's just...
+
+0xBD7DFE1A = ~z~I don't want you shopping for customers, money lender.
+
+0xBE3D8E6E = ~z~Hold on there!
+
+0xBEF29F6C = ~z~not threaten a man.
+
+0xC35F2CF1 = ~z~Arthur gave everything to pay your bills...
+
+0xC29625A7 = ~z~Why...
+
+0xCA2D9FEA = ~z~Londonderry? You'll want to speak to the foreman.
+
+0xCA871A10 = ~z~Alright there. You got any business at the mine?
+
+0xCC782AE3 = ~z~Stop that!
+
+0xCCCA5313 = ~z~Arthur Londonderry... is he here?
+
+0xCF21B28B = ~z~Well, I'll be.
+
+0xD05CC134 = ~z~you need money and I don't.
+
+0xD08ADF23 = ~z~Hey!
+
+0xD7A9439A = ~z~Arthur Londonderry...
+
+0xD7F53B79 = ~z~He's down in the pit.
+
+0xD239F9DB = ~z~I said get!
+
+0xDA9D585B = ~z~You ought to be ashamed of yourself.
+
+0xDABC9809 = ~z~So, it was you...
+
+0xDB311BE4 = ~z~Arthur Londonderry? I think you're going to want to speak with the foreman.
+
+0xE45EE938 = ~z~It won't bring your husband back, I know...
+
+0xEA5A77D5 = ~z~Hey, I ain't the god forsaken money lender.
+
+0xEC0B3AA6 = ~z~I'm sorry for it...
+
+0xED3C4E7C = ~z~the debt's cancelled.
+
+0xED56029C = ~z~Be brave, sweet angel... be brave.
+
+0xEFDC05F6 = ~z~And now there's some fellers coming to take the house.
+
+0xF0624646 = ~z~You know where I can find Arthur Londonderry?
+
+0xF2A7DE83 = ~z~
+
+0xF6C3D017 = ~z~Mrs. Londonderry?
+
+0xF79B0381 = ~z~What's wrong with you?
+
+0xF5548DCD = ~z~You might get something off his widow...
+
+0xFA2114BC = ~z~here take this.
+
+0xFE3785C2 = ~z~Get outta here.
+
+0xFF40A671 = ~z~Fine.
+

@@ -1,0 +1,24 @@
+0x0039E442 = ~z~But Abigail.
+
+0x0ADD44C8 = ~z~I thought so...
+
+0x9A8318D6 = ~z~
+
+0x64DBAD88 = ~z~Have a drink with me, Karen.
+
+0x80F765BF = ~z~Oh... my company's not good enough for you?
+
+0x537D0ACB = ~z~I'm okay for now.
+
+0xADBDBF4B = ~z~Get off of me! You're being an idiot.
+
+0xD16906A1 = ~z~You're too fine and... mighty.
+
+0xE4B72D3D = ~z~No, but...
+
+0xE132F168 = ~z~Am I being an idiot?
+
+0xEF1841FF = ~z~We ain't married, you know...
+
+0xFE0F2B2C = ~z~Yes.
+

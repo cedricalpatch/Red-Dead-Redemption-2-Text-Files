@@ -1,0 +1,30 @@
+0x0C0715A9 = ~z~I'm sorry, reverend.
+
+0x5C812DC3 = ~z~Them ain't the facts, sir.
+
+0x27F544AC = ~z~You're weak and you're hiding and your being up there in heaven don't give two shits about you.
+
+0x39A0F0DC = ~z~But the way I see it, your kind is parasites deceiving people and a greater evil than those of us who know better.
+
+0x3717E2F1 = ~z~Whatever you say, reverend, it's all the same with me.
+
+0x15579F71 = ~z~I take morphine, for medical reasons.
+
+0x17152BC5 = ~z~Yes it is.
+
+0x94941E28 = ~z~I am not an opium user, sir...
+
+0xA05335A6 = ~z~I thought the opium did it for your appetite. It usually does.
+
+0xDB6DABDA = ~z~So you take opium to feel okay... and them's the facts.
+
+0xDF1E3BD8 = ~z~Excuse me.
+
+0xE8D24F40 = ~z~Is that so?
+
+0xF467666A = ~z~You're excused.
+
+0xF1325763 = ~z~Why, sir?
+
+0xFEA8F250 = ~z~Interesting to see you eat.
+

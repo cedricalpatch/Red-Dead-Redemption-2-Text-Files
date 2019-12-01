@@ -1,0 +1,28 @@
+0x3BB3883C = ~z~
+
+0x7E5AD531 = ~z~
+
+0x7FC599DB = ~z~It'll be nothing but, uh... the finest game in the pot, now Dead Eye Macguire's back!
+
+0x21D09C06 = ~z~Hey listen, I just wanted to say... I know you bastards missed me...
+
+0x448B617B = ~z~But... I'm back home now. So everything's going to be okay.
+
+0x5145F96E = ~z~Even you, you grumpy old bastard, Arthur.
+
+0x13937F8C = ~z~~sl:0.8:0.0~And don't you worry, Mr. Pearson, you drunk old shit bag.
+
+0x3083396B = ~z~
+
+0xA1CCDDE1 = ~z~~sl:0.0:6.2:1~I love you bastards... have fun. Have lots of fun!
+
+0xA2391CD9 = ~z~I'll keep them girls in line, if I have to whip'em, I will!
+
+0xAB8BF15F = ~z~~sl:0.0:2.2~And don't worry about nothing Miss Grimshaw...~sl:0.4:3.2:1~we'll have this camp running like clockwork...
+
+0xDB348ECF = ~z~~sl:0.0:2.8:1~Even you, Arthur... even you...
+
+0xE8E72A34 = ~z~And don't you worry, Miss Grimshaw, you old crone,
+
+0xFF965792 = ~z~Uncle Sean is back.
+

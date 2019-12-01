@@ -1,0 +1,1408 @@
+0x0063EB5C = ~z~~sl:0.0:2.6~So, Cripps Trading Company... remember that whole~sl:~brainwave to make us both rich?
+
+0x0098ABA1 = ~z~Just be careful, this is precious cargo.
+
+0x01299524 = ~z~Hey, I thought you had some hunting to do?
+
+0x016A1CC8 = ~z~~sl:0.0:3.3~and he's got some supplies we could really use right now.~sl:~He's after some gator skins, so...
+
+0x018D0D02 = ~z~Feels like the least we can do, don't you think? Good.
+
+0x027C9561 = ~z~Nice job last time. Let's see if you can make another deal.
+
+0x02C62022 = ~z~Damn outlaws jumped us!
+
+0x03991750 = ~z~Shit, I've lost all my supplies!
+
+0x03B53F23 = ~z~~sl:0.0:1.5~Well, anyway, a job for you.~sl:0.0:2.8~My trader friend wants a wolf, no questions asked...~sl:0.1~a dead one, I should add.
+
+0x040763AC = ~z~Got a small batch here ready for market.
+
+0x042ACE1E = ~z~Well don't bring that back here, make the drop.
+
+0x04C93730 = ~z~Me losing interest in the whole idea.
+
+0x052F02E9 = ~z~Nice work.
+
+0x0556C5E5 = ~z~Alright, old Cripps has done it again... goods ready to go? Yes. Buyer lined up? Yes.
+
+0x05614E96 = ~z~Anything else, just say the word.
+
+0x0573C958 = ~z~~sl:0.0:3.7~So, while I head into town in search of some, er, company,~sl:~could you go make a sale?
+
+0x05AD0BF4 = ~z~What are you waiting for? You won't make it in time.
+
+0x05FBC4EF = ~z~Anyway, you know the stuff I need... I'll leave it with you.
+
+0x06CE735E = ~z~You'll kick yourself if you miss out on this.
+
+0x07607E84 = ~z~Bunch of thieving shits! Take them down!
+
+0x07679915 = ~z~They're yours, really, take them.
+
+0x07DE96A1 = ~z~We're being attacked!
+
+0x08CE2946 = ~z~~sl:0.0:3.8~I'm sure you haven't forgotten it's my birthday, at least~sl:~I think it is. Certain dates have shifted over time.
+
+0x09EC5043 = ~z~~sl:0.0:1.8~got a local buyer lined up, so,~sl:~should be an easy run for you.
+
+0x0B1BB698 = ~z~~sl:0.0:1.3~Well, what do you think?~sl:0.0:2.7~Cripps Trading Company is officially up and running.~sl:0.4~So, get out there and do some hunting.
+
+0x0B45AEBB = ~z~Much appreciated. Now I'll really look the part.
+
+0x0B298C25 = ~z~Supplies are good, I'm a happy man.
+
+0x0B599C52 = ~z~I've been breaking down animals since I was knee high to a splinter...
+
+0x0C248D3F = ~z~No time like the present.
+
+0x0C893D49 = ~z~~sl:0.6:3.6~Only joking, you've been very well-behaved of late.~sl:0.0:2.4~But my contact's been in touch again,~sl:~said he'd trade some more supplies for a bear pelt.
+
+0x0DD20424 = ~z~That would have been my choice too. Great minds.
+
+0x0E45D7A4 = ~z~I've been thinking... it's time to give back to the community.
+
+0x0F3187F5 = ~z~Well, if you insist.
+
+0x0FF2207E = ~z~If you don't get going soon, the buyers'll walk.
+
+0x1A7DDE57 = ~z~~sl:0.0:4.0~This is the life, huh? Self-sufficient, answering to no one.~sl:~We are making something of ourselves.
+
+0x1A27BB33 = ~z~It's an ambush! Take them out!
+
+0x1AA85FC0 = ~z~~sl:0.0:3.0~Did I ever tell you about the time I stowed away on a ship~sl:~and ended up imprisoned by the Sultanate of Sulu?
+
+0x1AB0F8C3 = ~z~You should taste that stew... melts in your mouth.
+
+0x1ADA3FFA = ~z~Go on, please, take them.
+
+0x1B54C61A = ~z~Ah, the life of a visionary craftsman. Always one step ahead of the pack.
+
+0x1B28765E = ~z~That's everything. Good work. Those supplies are all yours.
+
+0x1B978142 = ~z~Just my style.
+
+0x1C0E321E = ~z~~sl:0.0:2.4~Reckon you could bring me some gator skins?~sl:~I'll trade you some supplies for them.
+
+0x1C40EC8D = ~z~~sl:0.0:1.7~I still need that wagon of supplies~sl:~to get the business up and running.
+
+0x1CCE2E92 = ~z~Well, what are you waiting for?
+
+0x1CF3CB78 = ~z~I don't even have a roof over my head. But we are getting closer every day.
+
+0x1D06D23D = ~z~I really am moving up in the world.
+
+0x1D20C487 = ~z~Come on, I'd like you to have these.
+
+0x1DE4465E = ~z~I can't do nothing without that stuff. Please, it shouldn't take you too long...
+
+0x1F55597C = ~z~Well that didn't go very well, did it?
+
+0x2A46AEE0 = ~z~There's something about this spot... I'll be sad to leave it.
+
+0x2A267DA8 = ~z~~sl:0.0:2.3~Now this might even put a smile on your face...~sl:0.2~it's time to make a sale.
+
+0x2B3D3FED = ~z~~sl:0.0:1.4~Have you had a chance to look into those~sl:~supply trains I wrote to you about?
+
+0x2B6C846E = ~z~A-hem...
+
+0x2B901E33 = ~z~So how about this? You hunt some animals for me, and I'll give you a good batch of supplies in return?
+
+0x2B4092FD = ~z~Ready to make a trade?
+
+0x2C615FA6 = ~z~Bandits! Look out!
+
+0x2D15E4C1 = ~z~it'd be nice to get this business going some time this century if we can...
+
+0x2DEFF553 = ~z~Should help with those deliveries.
+
+0x2E0D1954 = ~z~Yes, take a look.
+
+0x2E2F5C17 = ~z~You know the chemicals I use for the tanning... after a few hours, the effects are rather pleasant.
+
+0x2E11BA06 = ~z~Your enthusiasm is contagious.
+
+0x2E969D3A = ~z~Good. That's the lot. Feel free to take those supplies now.
+
+0x2EA56EDB = ~z~So, can you go pick some herbs and see if my contact is willing to trade some supplies for them?
+
+0x2ECD3615 = ~z~~sl:0.0:2.0~Can't believe I'm suggesting this, but...~sl:0.0:1.5~maybe we should get a dog?~sl:~Something to go find you if you're gone and troubles starts?
+
+0x2F9AAA3D = ~z~Not bad but I can't trade till you bring me everything.
+
+0x2F649C8D = ~z~Well I can't fault you on the supplies.
+
+0x2FADD2BB = ~z~Help!
+
+0x2FE60107 = ~z~The suspense is killing me.
+
+0x3B6C2715 = ~z~~sl:0.0:2.5~Don't forget... just need a small investment~sl:~and we can get that business up and running.
+
+0x3BAA83DF = ~z~That should come in real handy.
+
+0x3BC8B0BC = ~z~~sl:0.0:1.6~Sooner you get me what I need,~sl:~sooner we can get back up and running.
+
+0x3C7D353C = ~z~Lucky that dog found you in time!
+
+0x3C8C2157 = ~z~~sl:0.0:1.6~because we have a sale to make.~sl:0.2:2.5~The buyer's already lined up, ain't top dollar~sl:~but it's local so it's nice and easy, so...
+
+0x3CD44473 = ~z~My Lord, was there ever a man more cut out for this than me?
+
+0x3CE2D3C6 = ~z~Oh, they're the uh, sheep with the, er, big horns.
+
+0x3D1E3800 = ~z~Well you have certainly held up your side of the bargain with the supplies. Good work.
+
+0x3D2B55F3 = ~z~Okay, I've got a small batch of goods ready for sale.
+
+0x3D14C273 = ~z~You changed your mind? Good.
+
+0x3D30D4B4 = ~z~~sl:0.0:3.2~I passed through this area in the 50's, I think.~sl:~Don't remember too much of the 50's.
+
+0x3D57E308 = ~z~~sl:0.0:2.6~You know I like to keep my ear to the ground,~sl:~and not just when I'm passed out in the dirt.
+
+0x3D67B844 = ~z~Are you here to make up for last time?
+
+0x3D70F0B3 = ~z~Supplies are looking healthy right now.
+
+0x3D483337 = ~z~Guess beggars can't be choosers.
+
+0x3E8694A5 = ~z~~sl:0.0:3.5~As the saying goes... all's fair in love, war...~sl:~and the trading of pristine animal parts.
+
+0x3EE6529B = ~z~You won't catch me petting that thing.
+
+0x3F9BA296 = ~z~~sl:0.0:4.0~Well, guess who has just the supplies we need right now?~sl:~The local law.
+
+0x3F1083DA = ~z~Well something's better than nothing.
+
+0x3FA43F55 = ~z~Perfect. That's everything I needed. Go help yourself to those supplies.
+
+0x4A33EE68 = ~z~~sl:0.0:2.6~Could you go hunt some bighorn and pay my contact~sl:~a visit, see if he's willing to trade?
+
+0x4A67B5E0 = ~z~All that work and you couldn't even make the sale? Not good.
+
+0x4A7426DC = ~z~Everyone feels good about themselves. Genius, right?
+
+0x4A153942 = ~z~The buyer's local, so should be an easy enough sale.
+
+0x4BCDD092 = ~z~~sl:0.0:3.3~Not that you'd ever admit it, but I think you rather enjoy it.~sl:0.2~Between your legwork and my craftwork, we're the perfect team.
+
+0x4C383008 = ~z~~sl:0.0:2.2~So, why don't you go try'n track 'em down~sl:~and see what's left of their supplies?
+
+0x4CEAE21F = ~z~I knew you'd come around.
+
+0x4D2A0498 = ~z~~sl:0.0:2.8~Now, it'll be a long ride, but they're offering good money.~sl:~So just keep your eyes out for bandits.
+
+0x4D25D5F2 = ~z~Are you going to train that dog up to find you if trouble starts? Otherwise what use is it?
+
+0x4D875439 = ~z~Like I say, I'm at a standstill here.
+
+0x4EF8CA22 = ~z~you source the materials.
+
+0x4F582469 = ~z~At least you brought some of it back.
+
+0x5A01C6D7 = ~z~What's this? I've always learned to beware the person not bearing gifts.
+
+0x5A3E918F = ~z~~sl:0.0:3.1~Doesn't it feel good to be earning a good, solid,~sl:0.0:2.1:1~almost honest living for once?
+
+0x5A8608C7 = ~z~~sl:0.0:2.0~Neither Pete nor Phil was really cut out~sl:0.0:2.0~for running, though... they got picked up at the end of town and~sl:~hanged the next day.
+
+0x5AAB7B25 = ~z~Go on, take them.
+
+0x5AB372A0 = ~z~So, what are you after?
+
+0x5B0CFC13 = ~z~Just what I needed.
+
+0x5B55B930 = ~z~but I like to think we've always had a pretty flat hierarchy. Right?
+
+0x5B2573BF = ~z~~sl:0.0:1.1~Well...~sl:0.0:1.2~I ain't even sure I should be~sl:0.0:0.9~bothering with you after last time...~sl:0.5~but we all make mistakes... I guess.
+
+0x5BD97359 = ~z~When are you going to train that dog to come find you? What is we get an attack and you're not here?
+
+0x5BEE7458 = ~z~I assume you're here to do some business?
+
+0x5C4A8E60 = ~z~Help me!
+
+0x5C121127 = ~z~~sl:0.0:3.0~Which is why I sort of promised my friend~sl:0.0:1.9~you'd deliver him some bear pelts~sl:~in exchange for some supplies, okay?
+
+0x5CD6428D = ~z~Guess this is why they say the early bird gets the worm.
+
+0x5D3A4E13 = ~z~~sl:0.0:3.2~In general, I'd say old drunks and explosive chemicals are~sl:0.0:3.4:1~not a good mix... but I seem to be the exception to that rule.
+
+0x5D76425D = ~z~~sl:0.0:1.7~Got some goods ready for market here,~sl:~if you can send your boss over.
+
+0x5DA93967 = ~z~So go make me proud too, partner.
+
+0x5EA7B8D3 = ~z~~sl:0.0:2.8~You know how I like to keep a close eye on~sl:0.0:2.2~the competition... well, some other traders are apparently~sl:~having some wagon difficulties.
+
+0x5F73D690 = ~z~~sl:0.0:2.3~Anyway, the old Cripps would have asked you for a case~sl:0.0:~of good brandy, but you know what the new Cripps wants?
+
+0x5FA395DF = ~z~~sl:0.0:1.9~I think it's best we keep things on hold~sl:~while you've got the law on your tail.
+
+0x5FF985C1 = ~z~They're all yours, go on.
+
+0x6A06AE5A = ~z~~sl:0.0:2.6~My friend was telling me he has a client willing to pay~sl:~top dollar for a panther, some taxidermist I think.
+
+0x6B00541D = ~z~~sl:0.0:3.8~you must be so proud of me. Anyway,~sl:0.0:2.5~talking of journeys, we have some buyers lined up...~sl:~they ain't local, but they pay well.
+
+0x6B1FB770 = ~z~Now you know how I am, I prefer to do things by the book.
+
+0x6B80E25A = ~z~~sl:0.0:2.5~He was a strange man... claimed to be a mute,~sl:~but talked in his sleep.
+
+0x6C2F3570 = ~z~~sl:0.0:2.8~I heard from my contact, he's ready to trade again...~sl:~I told him I send my best person. You, of course.
+
+0x6C614306 = ~z~~sl:0.0:0.9~Now, first off,~sl:0.0:3.4~if you stumbled across that latrine situation out back...~sl:~my sincere apologies.
+
+0x6C855403 = ~z~~sl:0.0:2.0~Right, I've got a batch ready to go,~sl:~and a buyer already lined up...
+
+0x6CC4E0DF = ~z~There's just too many of 'em!
+
+0x6D63726F = ~z~~sl:0.0:4.1~Yes, tanning supplies! The only gift I need this year.~sl:~And next year, we'll be millionaires.
+
+0x6DF57CFB = ~z~What happened with that sale?
+
+0x6E3F224C = ~z~Are you taking them or not? You earned it fair and square.
+
+0x6E53B5AA = ~z~Like I said, you're the best.
+
+0x6E8580E2 = ~z~~sl:0.0:2.6~and even longer with four walls and a roof.~sl:~But I've never been happier...
+
+0x6E72633C = ~z~Better clean up after that thing.
+
+0x6E607252 = ~z~Nice bit of profit from that sale!
+
+0x6ED420AB = ~z~~sl:0.0:2.3~If there's one thing I learned from my Pa,~sl:~it's that honest work will only get you so far.
+
+0x6EE2DB93 = ~z~I've made a little headway, but I'm out of supplies now, unfortunately.
+
+0x6F04638A = ~z~She claimed to be royalty but, had a head the size of a pumpkin.
+
+0x6F2E411B = ~z~Jesus, that was close... didn't think any of us were going to make it.
+
+0x6FE013ED = ~z~Which is why I knew you wouldn't mind doing some hunting for my friend in exchange for some supplies...
+
+0x7AF9EE7D = ~z~Well done.
+
+0x7B3E89FE = ~z~~sl:0.0:3.5~Now, when Group One, us, has a demand for supplies~sl:~and Group Two, them, has said supplies in their possession,
+
+0x7BE2D8F6 = ~z~~sl:0.0:1.7~But there's a local business with some~sl:0.0:2.4~very attractive merchandise in stock~sl:0.2~and should that fall into our possession,
+
+0x7BEAE166 = ~z~Alright, moving right along...
+
+0x7BF86894 = ~z~Supplies are starting to run low, just so you know.
+
+0x7CA8F71F = ~z~I've made some progress here, but I need a few more supplies.
+
+0x7D5145A9 = ~z~Nice work, now bring me the rest.
+
+0x7DA808A3 = ~z~Got a lot of stock here and I've seen some shady folks around. Just keep your eye out.
+
+0x7DB12796 = ~z~Skins, plumes, horns and the like.
+
+0x7DBDD5C8 = ~z~~sl:0.0:1.9~So most of the legwork's done on this...~sl:~except for the panther part.
+
+0x7DCE2E24 = ~z~Get rid of these things!
+
+0x8B3118AC = ~z~Travel safe.
+
+0x8C43EC42 = ~z~~sl:0.0:2.6~the stench in there knocked the clerk on his back when he~sl:~opened the door and we managed to escape.
+
+0x8D1E2DD6 = ~z~~sl:0.0:2.6~Anyway, I'm sure I don't need to tell you to be~sl:~careful with the stuff. Travel slow with it.
+
+0x8D6D7C0B = ~z~~sl:0.0:3.9~well, I think I'd be willing to bend my ethics just this once.~sl:~The rest I leave to you.
+
+0x8DAF0C01 = ~z~Getting a little low on supplies here.
+
+0x8DB29FDC = ~z~Almost there, I just need a few more supplies.
+
+0x8E010698 = ~z~~sl:0.0:2.6~Well, I'm still waiting for that wagon of supplies.~sl:~What's taking so long?
+
+0x8E7CE160 = ~z~~sl:0.0:1.7~I have enough on my plate.~sl:~Thanks, partner. You're the best.
+
+0x8ECB9715 = ~z~I'm after a nice bear pelt for a client of mine.
+
+0x8EFDF3C6 = ~z~I need help here!
+
+0x8F2473B2 = ~z~Fly it high and proud.
+
+0x9AE63D30 = ~z~Let the boss know there's some stuff ready to sell.
+
+0x9B436FB0 = ~z~Quick as you can. I'm twiddling my thumbs here.
+
+0x9B1625ED = ~z~Kill those goddamn bandits!
+
+0x9BC0A217 = ~z~~sl:0.0:2.2~You're as useless as teats on a boar...~sl:~although, teats seem fairly essential for a boar...
+
+0x9BD85CC7 = ~z~~sl:0.0:3.6~“Well done, Cripps, you're amazing”. “Why thank you”.~sl:~And now it's over to you...
+
+0x9BDF6BEB = ~z~No rest for the wicked, not that you're all that wicked. A killer with a heart, I'd say, and who doesn't like that?
+
+0x9BF28FAE = ~z~~sl:0.0:4.9~"Cripps Law, page fourteen : Robbing criminals isn't a crime."~sl:0.1:1.9:1~It just makes no sense.
+
+0x9C4C50C6 = ~z~Very dapper.
+
+0x9C73BB31 = ~z~Don't do anything I wouldn't do.
+
+0x9D1A0449 = ~z~See, you pretend you don't like me...
+
+0x9D535A23 = ~z~~sl:0.0:1.9~Anyway, a few more supplies and~sl:0.0:1.9~I should be able to get this batch finished.~sl:0.1~Think you can grab those for me?
+
+0x9D36545E = ~z~~sl:0.0:2.6~I figured you'd be able to arrange that for him.~sl:~I'm always singing your praises, you know me.
+
+0x9D45147A = ~z~Expanding already? I like it.
+
+0x9DCD3A6B = ~z~~sl:0.0:2.8~Anyway, I've cut a deal with a friend of mine who's willing~sl:~to trade for some pelts and carcasses.
+
+0x9EBFD05C = ~z~well like I say, who am I to judge? Just be careful, of course.
+
+0x9F88A44A = ~z~~sl:0.0:2.7~But I need a new batch of supplies before I can do much~sl:~more at this stage. Could you pick some up for me?
+
+0x9FD98BED = ~z~You really came through for me with that last job.
+
+0x10FBC18B = ~z~So, I'm about halfway through production but need to stock up on more supplies.
+
+0x12A8BF45 = ~z~~sl:0.0:2.2~So I heard from my trader friend...~sl:~I don't like abetting the competition, but uh, I trust him
+
+0x12E45DE9 = ~z~How's your pig hunting? Got some supplies here to trade if you can bring me some dead ones.
+
+0x13DC0567 = ~z~Shouldn't you get a move on?
+
+0x14EA6651 = ~z~Is this business or pleasure?
+
+0x16D9CEF3 = ~z~I don't want to rush you but...
+
+0x19DC298A = ~z~We're well-stocked for the time being.
+
+0x20B8C20B = ~z~Hurry, or you'll miss the sale.
+
+0x20FA7743 = ~z~Let's finish them off, come on!
+
+0x21AB0E5E = ~z~That's a good start for sure, but it ain't everything I asked for, unfortunately.
+
+0x21EAEDD5 = ~z~This'll do me nicely. You can grab yourself those supplies.
+
+0x22BEF88C = ~z~~sl:0.0:2.6~Who'd have thought you'd be such a natural at sales?~sl:~Not me.
+
+0x22F52E6A = ~z~I did not think you'd pick that one.
+
+0x26B436F3 = ~z~~sl:0.0:2.3~I'm not sure what for, but... it's making me wish~sl:~I hadn't eaten that pie when I last saw him.
+
+0x28EAC9DA = ~z~~sl:0.0:2.3~Well, we make quite the couple, don't we?~sl:0.4:2.8:1~Not like that... you're far too old for me.
+
+0x30CE7E42 = ~z~That's what I like to see.
+
+0x30ED4B65 = ~z~~sl:0.0:2.1~Another glamorous job for you...~sl:~my contact is after some possums,
+
+0x32B2B528 = ~z~Do something! They're going to eat me alive!
+
+0x32D620B4 = ~z~~sl:0.0:2.3~So, I heard some folks have been having trouble with~sl:~animals attacking their livestock.
+
+0x32EB1E7D = ~z~I'll take whatever I can get.
+
+0x34D8F246 = ~z~All our supplies are destroyed!
+
+0x34DAE888 = ~z~~sl:0.0:5.5~Just a few cute little kitty cats... well, panthers to be exact.~sl:~But, shouldn't be a problem for you, right?
+
+0x35EC8F38 = ~z~~sl:0.0:2.8~And who would be crazy enough to steal from the law?~sl:0.1:1.6:1~I'm looking right at them.
+
+0x37AEABC7 = ~z~~sl:0.0:3.0~It wasn't easy... I've cut myself so many times it's a~sl:~miracle I've got any blood left in me... Anyway,
+
+0x39C9AECA = ~z~Ah, if my kids could only see me now... I swear, I'd introduce myself and apologize.
+
+0x39D6E72B = ~z~~sl:0.0:2.6~Anyway, my trader pal has supplies for us~sl:~if you can do some hunting for him in exchange.
+
+0x39F2AFEA = ~z~~sl:0.0:1.7~There's a decent batch here ready to go~sl:~whenever you can make the sale.
+
+0x39F6798B = ~z~You made it.
+
+0x40C99725 = ~z~Another sale in the bag, excellent.
+
+0x41D2C7EE = ~z~We're in business.
+
+0x45DB8D23 = ~z~So, here's a deal for you... hunt me some deer and I'll give you a nice batch of supplies in return.
+
+0x45F97413 = ~z~I mean...
+
+0x47BA4587 = ~z~That's what I like to see.
+
+0x47C11ADB = ~z~~sl:0.0:2.0~Did I ever tell you I briefly trained~sl:0.0:1.6~as an acrobat in Portugal?~sl:0.2~I think it's one of the reasons I've stayed so spry.
+
+0x47DD2025 = ~z~Glad you're back. I know you're good for it.
+
+0x49ECA96B = ~z~Well done with that sale. What a team.
+
+0x51DBF2AC = ~z~Damn it, no, more of them!
+
+0x53B2E3A7 = ~z~Maybe I'll end up liking that dog after all!
+
+0x53B66371 = ~z~~sl:0.0:1.8~Next batch of goods is ready to go out.~sl:~And it's a fairly healthy one.
+
+0x56FDF1C8 = ~z~~sl:0.0:3.4~So before I forget, a friend of mine wants to trade some supplies.~sl:~Good honest work, just how you like it.
+
+0x58C8C172 = ~z~All our supplies are destroyed!
+
+0x58FC3BDF = ~z~I was thinking you could go check on them and maybe lighten their load for the return journey?
+
+0x60B3D7E3 = ~z~~sl:0.0:3.2~So, some good news. The local law have been kind enough~sl:0.0:2.6~to lend us some supplies. Only thing is...~sl:0.0:1.5:1~they don't know about it yet.
+
+0x60C1EF18 = ~z~Why are you still here, Willis?
+
+0x60D699AB = ~z~~sl:0.0:3.4~Now, I know that can't possibly be true, but...~sl:0.0:3.0~make an old man happy and go fetch it,~sl:~will you please?
+
+0x63A71CB8 = ~z~Very regal.
+
+0x65A0F059 = ~z~~sl:0.0:3.8~Okay, sorry, too deep... anyway I have some good news.~sl:~Another batch ready for market!
+
+0x68D50F1D = ~z~~sl:0.0:1.6~I still can't do anything else~sl:~until you bring me some supplies.
+
+0x68DD7CDF = ~z~Hey, I thought you had a job to do?
+
+0x70BE80FA = ~z~Things are looking good. We are building some serious inventory here.
+
+0x71D5B915 = ~z~I expect you to salute it every morning.
+
+0x71FB3A37 = ~z~~sl:0.0:2.9~Alright, since you are a person of principle and honor~sl:~these days, and I mean that with only a pinch of sarcasm,
+
+0x73CC844F = ~z~~sl:0.0:3.6~Now I'd do this myself, of course, but a good businessman~sl:~knows how to delegate. So, uh, just try to be nice to him, okay?
+
+0x73E39BD1 = ~z~~sl:0.0:2.7~Don't leave that wagon of supplies out there for too long~sl:~or someone'll nab them.
+
+0x74E8905F = ~z~There you are, queen of the supply run.
+
+0x75F126B5 = ~z~I apologize in advance for the quality of the stew.
+
+0x75F336B5 = ~z~Should keep you out of mischief for... quite a while.
+
+0x77A12046 = ~z~~sl:0.0:3.4~Now we could sacrifice our precious capital and buy this~sl:~stuff, of course or... well, I think you know what to do.
+
+0x79ADF5A6 = ~z~See you later.
+
+0x80C245EB = ~z~~sl:0.0:2.7~Anyway, my friend has some more goods to trade~sl:0.0:2.0~if we can hunt him some deer.~sl:~And by we, I obviously mean you.
+
+0x81C8446A = ~z~you know the things I need. What a team, huh?
+
+0x83A53A30 = ~z~Buyers are lined up, not too far from here, so all you have to do is head over and make the sale.
+
+0x83B64D37 = ~z~No use bringing that back to me.
+
+0x85D51D9D = ~z~~sl:0.0:2.6~what a great evening, but then it came to me...~sl:~a brainwave. Protection.
+
+0x85EB51CF = ~z~Good, good.
+
+0x86DE519C = ~z~~sl:0.0:3.2~Look, I'm sorry, I ain't going to bother making anything else~sl:~until you make a sale. It's just sitting here.
+
+0x87CACCEA = ~z~Phew, thank you. Don't reckon I would have made it otherwise.
+
+0x87F7DE6B = ~z~~sl:0.0:3.7~Okay, so the word on the street is that the local law is in~sl:~possession of some supplies that could be very useful to us.
+
+0x89C55DA0 = ~z~Are you saying my clothes smell?
+
+0x89F7C4F3 = ~z~~sl:0.0:2.8~I'm sure Leviticus Cornwall didn't get where he is with~sl:~hugs and kisses. Just try not to get killed.
+
+0x90C3F7D0 = ~z~~sl:0.0:2.8~But he's willing to trade some supplies in return.~sl:~Should be easy enough for you?
+
+0x90E73603 = ~z~Alright, I've got some supplies here to trade if you can hunt me some raccoons? Leave the butchering to me, unpleasant as it is.
+
+0x93B99A45 = ~z~Can you send your boss over? I've run out of supplies here.
+
+0x94B68610 = ~z~Okay, I'm out of supplies here.
+
+0x94D59199 = ~z~~sl:0.0:2.7~You know, like when there's a train full of supplies to rob.~sl:0.3~So fly crooked, my friend, and do what you do best.
+
+0x94FBEDD7 = ~z~~sl:0.0:3.0~Sorry, I'm on strike until you actually sell something.~sl:~At the moment, this is a hobby, not a business.
+
+0x95A2778B = ~z~Well done on that last job.
+
+0x95C6BD80 = ~z~~sl:0.0:3.2~So, the other day I woke up face down in the mud with no~sl:~memory of the night before... and my first thought was...
+
+0x95D66901 = ~z~That was impressive. I sure am glad you showed up when you did.
+
+0x96D86473 = ~z~Phew, am I glad you were here.
+
+0x97A16B98 = ~z~~sl:0.0:2.9~the sort of people who deserve to be borrowed from.~sl:0.6~I think you understand me?
+
+0x97DAF9CB = ~z~If you insist.
+
+0x98EAF5B1 = ~z~~sl:0.0:2.0~Listen, there's no point in me making all this~sl:~if you ain't gonna sell it.
+
+0x112ADE98 = ~z~Thank God that dog finally made itself useful!
+
+0x120EDBD6 = ~z~~sl:0.0:2.9~I like this new working relationship we got going now.~sl:~Feels, you know, a little less feudal.
+
+0x123C5F43 = ~z~Lost some profit on that last sale, huh?
+
+0x140F585C = ~z~~sl:0.0:1.3~Just let me know if you're interested~sl:~in starting up that business.
+
+0x151BFF07 = ~z~Never much cared for dogs, I have to say.
+
+0x167A512B = ~z~Can I leave that with you?
+
+0x172B722A = ~z~Let me know if there's anything else you need.
+
+0x173C9E80 = ~z~~sl:0.0:2.9~who told me he's having problems with some wild animals,~sl:~said he'd give us some supplies if we help him out.
+
+0x188A6F85 = ~z~~sl:0.0:3.9~You know, I really feel like a new man. All these long~sl:~dormant passions surging through me once more.
+
+0x191E8A30 = ~z~~sl:0.0:3.4~and I get a sinking feeling you've forgotten all about~sl:~the wagon of supplies you were supposed to collect for me.
+
+0x198F9C92 = ~z~~sl:0.0:0.9~Keep an eye out for those~sl:~supply trains coming through, okay?
+
+0x199D0D8D = ~z~Found ourselves a decent spot here.
+
+0x233F5836 = ~z~~sl:0.0:2.5~Okay, so I heard some of our competitors have gone~sl:~missing. Would you go see if you can track them down?
+
+0x266FFE86 = ~z~~sl:0.0:4.1~Tit for tat. Quid pro quo. I don't really know what any of~sl:~these things mean, but traders must trade...
+
+0x272D813E = ~z~Good news, we have another batch ready for market.
+
+0x290DC222 = ~z~Well I assured him I had just the person for the job.
+
+0x295D82F8 = ~z~~sl:0.0:1.9~Don't forget about that business opportunity.~sl:~You'll kick yourself if you miss out.
+
+0x313FCAFF = ~z~Glad you went for that.
+
+0x317CD7EF = ~z~Well, no point dawdling round here.
+
+0x344BA969 = ~z~Excellent, thank you.
+
+0x365D1E74 = ~z~~sl:0.0:2.6~so I've set up a meet with my contact to barter some~sl:~supplies. And uh, I was hoping you could handle that?
+
+0x381F114F = ~z~How did you manage to mess up that sale?
+
+0x396A17EC = ~z~~sl:0.0:2.0~I was just thinking... have you ever wondered~sl:~why they call it a building when it's already built?
+
+0x401DC298 = ~z~Okay, I really need to get hold of some panthers, dead ones of course. D-don't ask me why... but I'll make a good trade for them.
+
+0x449C11CE = ~z~~sl:0.0:2.0~Anyway, there's some chemicals I need~sl:~to help with the tanning and preservation process.
+
+0x471D7FBC = ~z~~sl:0.0:2.4~Say, could you, uh, go pick up some more for me?~sl:0.0:2.4~Oh, and best skip the rubbing alcohol this time...~sl:0.9~that turned into a bad night.
+
+0x471F9E2C = ~z~~sl:0.0:3.6~I don't have any money to give you in return, but...~sl:~please, take these supplies?
+
+0x492C05B7 = ~z~We need help here!
+
+0x499AD06F = ~z~Just let me know what you need.
+
+0x531C2F19 = ~z~What happened out there? No luck?
+
+0x535F47F9 = ~z~In your own time.
+
+0x560EB4B3 = ~z~~sl:0.0:4.2~This is such delicate work. Part artist, part scientist.~sl:~A complex marriage, like they all are.
+
+0x570C5A8D = ~z~Pristine pelts and animal parts, for bulk sale.
+
+0x571AF55F = ~z~~sl:0.0:4.1~So a client of mine is desperate for some good bison pelts.~sl:~If you can get me some, I've got a good stock of supplies here to trade.
+
+0x581AC229 = ~z~~sl:0.0.:2.4~You help some of the locals deal with the outlaws~sl:~'round here, they pay you with supplies.
+
+0x581C2E06 = ~z~Well I have some goods ready to go, at least, but I need to restock before I can do much else.
+
+0x585F6965 = ~z~Okay then...no comment.
+
+0x617AC2AD = ~z~Definitely a perk of the trade. Anyway, I seem to be going through it at quite a rate.
+
+0x628A4558 = ~z~~sl:0.0:3.1~Treated myself to a second pair of socks yesterday.~sl:0.3~We are moving up in the world.
+
+0x628DE450 = ~z~Okay, phew, I think that's the last of them.
+
+0x640EEDF0 = ~z~I really need to get hold of some bear pelts. If you can bring me some, I'll trade you some supplies for them.
+
+0x659D6C75 = ~z~Come on, I'm a busy man.
+
+0x670F5BF3 = ~z~~sl:0.0:3.0~My contact has some more supplies for us, said he'd~sl:~trade them for a gator skin, if you can arrange that?
+
+0x685A0DED = ~z~You know what you're looking for?
+
+0x688EC6EE = ~z~Stocks are looking good.
+
+0x741C760D = ~z~Just make it snappy. Sorry, I'm a couple of brandies deep.
+
+0x748A29EE = ~z~~sl:0.0:1.8~Even an old man whose hands shake~sl:~like hummingbirds till late afternoon... anyway,
+
+0x753D77CE = ~z~I'm worried about all this stock sitting here... if word's got out to the wrong people.
+
+0x760F28F3 = ~z~You'll miss your chance if you don't get going soon.
+
+0x837B8945 = ~z~Have fun out there.
+
+0x869C6536 = ~z~See, I'm looking at the blank expression on your face,
+
+0x885CA38C = ~z~Is this just a social call? Because I can't trade you something for nothing.
+
+0x893CF481 = ~z~I'm sure you can handle that... right?
+
+0x897BF38E = ~z~~sl:0.0:2.1~How are you at cougar hunting?~sl:0.2:3.0~If you can bring me some, dead and whole,~sl:~I'll happily trade you some supplies.
+
+0x924DE575 = ~z~~sl:0.0:1.8~Can you do another supply run for me?~sl:~I've already blasted through that last batch.
+
+0x950B0FDD = ~z~You know where to find me.
+
+0x966E4470 = ~z~Can you get those for me? We're nearly there.
+
+0x968BD94B = ~z~So, I'm thinking...
+
+0x979A9AB8 = ~z~Now, I've already got hold of a small wagon...
+
+0x980BBA80 = ~z~Getting fancy.
+
+0x985B9A40 = ~z~~sl:0.0:2.7~Well, he said he'll give us some supplies in return.~sl:~Happy hunting.
+
+0x992D1C29 = ~z~Damn things stripped us bare.
+
+0x995B5944 = ~z~~sl:0.0:1.8~Well, you've certainly held up your side~sl:~of the bargain with the supplies. Good work.
+
+0x1027A883 = ~z~~sl:0.0:1.8~There's some stew in the pot, if you're hungry.~sl:~A little bland, but edible.
+
+0x1189C673 = ~z~~sl:0.0:2.9~People always say there's no rules in business.~sl:0.4~Do they say that? I don't know. It sounds about right.
+
+0x1606B1AC = ~z~Now, like I said in my letter. We are going into business.
+
+0x1985D44C = ~z~~sl:0.0:2.7~Okay, my friend's agreed to trade us some supplies~sl:~if we can hunt some raccoons for him.
+
+0x3155BA76 = ~z~~sl:0.0:2.8~and I thought you'd be the perfect person to go give them~sl:~a taste of their own medicine. Just be careful.
+
+0x3268E056 = ~z~~sl:0.0:1.8~"Cripps Law, page seventeen:~sl:0.0~Always keep your friends close and screw over your rivals."
+
+0x3296FFFF = ~z~Crap, what am I going to do now?
+
+0x3578FCA9 = ~z~~sl:0.0:3.1~Feels like the sporting thing to do. I sure hope nothing~sl:~bad's happened to them but, if it has, well,
+
+0x3686B0E0 = ~z~Alright, you know where to find me.
+
+0x4023F056 = ~z~~sl:0.0:2.8~Okay, my loyal foot soldier, I have sort of~sl:~promised your services to a feller near here...
+
+0x4043BD03 = ~z~Hi there, you got business for me?
+
+0x4190E0D0 = ~z~You should really get going on this.
+
+0x4192BBC0 = ~z~I suppose this will do.
+
+0x4227A58A = ~z~Some time today would be nice.
+
+0x4473CCB4 = ~z~I can see how excited you are about this.
+
+0x4561C837 = ~z~~sl:0.0:2.2~Are you still going to try to get me those supplies?~sl:~Otherwise, I'm just stuck here like a lemon.
+
+0x4763E91A = ~z~Some beautiful country round here, I must say.
+
+0x4870D7F4 = ~z~Got some supplies to trade, if you can do some hunting for me.
+
+0x5012A681 = ~z~~sl:0.0:2.1~Don't think for a second that dog won't turn~sl:~and rip your face off.
+
+0x5039F8EE = ~z~You know me, I hate dogs but it might be useful to get one for protection.
+
+0x5941CD18 = ~z~Kill those goddamn bandits!
+
+0x6001AB87 = ~z~You won't regret this, I promise.
+
+0x6434C24B = ~z~Thank you. We made it, but not without a cost.
+
+0x6537D7C3 = ~z~Keep your eyes peeled. Lots of goods here, wouldn't want them falling into the wrong hands.
+
+0x6616A9DB = ~z~I'd hurry if I was you.
+
+0x6735AD4E = ~z~Aha, excellent, you know the way to my heart.
+
+0x7284CE9A = ~z~No messing around, huh?
+
+0x7292BF2D = ~z~but needs must, and our needs are supplies right now.
+
+0x7706AB80 = ~z~My hands are still tied without more stock to work with.
+
+0x7710C1DC = ~z~~sl:0.0:1.9~Managed to get ourselves locked in the safe.~sl:~After a weekend of nature calling,
+
+0x7931F080 = ~z~~sl:0.0:2.8~Well , this really has been quite the emotional journey~sl:0.0:~for me.  From self-indulgence to self-discipline...
+
+0x7979E652 = ~z~Help us!
+
+0x8144B6B6 = ~z~You know, some good honest bartering. Wonderful.
+
+0x8176BEF1 = ~z~Got a batch ready to go out, decent amount too.
+
+0x8254D31D = ~z~~sl:0.0:2.8~And, since you seem to have no qualms about getting your~sl:~hands dirty of late, I thought you might want to go take a look.
+
+0x8260B139 = ~z~Cripps Trading Company.
+
+0x8500AF4D = ~z~~sl:0.0:2.1~So, I think it's time to cut a few corners~sl:0.0:1.7~and borrow some items from one of the~sl:~local businesses to help speed things along.
+
+0x8605C2CE = ~z~Thanks, not as quick on the draw as I used to be.
+
+0x8769E920 = ~z~~sl:0.0:2.2~Anyways, I told him "I don't want your money..."~sl:~"I want your supplies". And he said “deal”.
+
+0x9210E9EC = ~z~Are you going to deliver that then?
+
+0x9280AA82 = ~z~It's a very long story.
+
+0x9472D40D = ~z~What are you doing back here without my supplies?
+
+0x9493BC04 = ~z~Now you know me, I ain't a feller to judge.
+
+0x10137F55 = ~z~~sl:0.2:1.9~I don't remember too much of the 40's.~sl:~Anyway, I'm already out of supplies again.
+
+0x10907B74 = ~z~You know, I once traveled with a circus not far from here.
+
+0x17035BA4 = ~z~Thieves.
+
+0x30521E19 = ~z~~sl:0.0:2.6~Didn't go too well last time, did it?~sl:0.5~Guess I can give you another chance...
+
+0x31831EAD = ~z~Are you going to train that feral mutt any time soon?
+
+0x36272FAF = ~z~Got some restaurant-quality stew simmering in the pot.
+
+0x43945EF3 = ~z~~sl:0.0:1.8~So, there's a gang or some such~sl:~on the move with some supplies we need...
+
+0x46879CF0 = ~z~The supplies are ruined!
+
+0x47129FDC = ~z~~sl:0.0:2.6~no point letting their supplies go to waste.~sl:0.0:2.5~Always look for the silver lining, I say.~sl:~Just keep your eyes open.
+
+0x56025EE7 = ~z~I just keep surprising myself... and to think my pa said I'd be a drunken hobo my whole life.
+
+0x58340AB5 = ~z~~sl:0.0:3.0~And I said, "Only a maniac would hunt a panther..."~sl:0.0:1.8~"I've got just the person!"~sl:1.0~One of these days I'll get you to crack a smile.
+
+0x64414E04 = ~z~That must have been really something.
+
+0x68106F9E = ~z~~sl:0.2:4.1:1~Who's the deadbeat now, Mrs. Cripps One, Two and Three?
+
+0x68438D5C = ~z~I'd go if you're going. This is a fairly urgent opportunity.
+
+0x80627BBD = ~z~~sl:0.0:2.0~Now, I've basically done all the hard work,~sl:0.1:2.2~all you need to do is go make the sale.~sl:0.2~Bit of a trek, but... I know you like a ride.
+
+0x81966C9E = ~z~Had any luck with those supply trains yet?
+
+0x85323E6E = ~z~~sl:0.0:1.9~Don't forget about the wagon of supplies.~sl:~I need that before we can get set up.
+
+0x91218A66 = ~z~“Cripps, you handsome genius”.
+
+0x92739CEE = ~z~~sl:0.0:2.4~Got some buyers lined up not far from here.~sl:~So over to you, go make the deal.
+
+0x104230EC = ~z~Good to see you again. That worked out well last time.
+
+0x211844B6 = ~z~So, could you go collect some more preserving supplies for me? I just ran out again...
+
+0x217812B3 = ~z~Oh, thank God! Kill these damn things!
+
+0x299089E5 = ~z~That was close. Good work.
+
+0x435251AC = ~z~Alright, good. Now bring me the rest and we can trade.
+
+0x542327FE = ~z~Could you track down some more for me? Just make sure you ride careful with it.
+
+0x555779E7 = ~z~You should probably get those supplies back to old Cripps.
+
+0x616085C4 = ~z~~sl:0.0:3.1~So, I heard about some supplies on a train coming this way~sl:0.0:1.7~that could be very useful to us...~sl:0.3~and free, so to speak, for the right opportunist.
+
+0x681102AA = ~z~Help me out here before I'm dinner!
+
+0x685401AC = ~z~~sl:0.0:2.8~A little dicky bird told me about some supplies coming in~sl:~on a train, supplies that we desperately need...
+
+0x925767B1 = ~z~~sl:0.0:4.1~I think I can leave the rest in your capable hands, don't you?~sl:~Just watch yourself.
+
+0x2226307C = ~z~~sl:0.0:2.3~Okay, don't ask me how I know this, but~sl:~some of our fellow traders are having some transportation difficulties.
+
+0x2476735C = ~z~~sl:0.0:3.2~No? Well, remind me later... it's a corker.~sl:~Anyway, business first, time to make a sale.
+
+0x3113268E = ~z~~sl:0.0:2.4~You know, I'm all for a barter economy.~sl:0.0:3.1~Like the good old days before we all became beholden to~sl:~pieces of shiny paper.
+
+0x3712994A = ~z~What happened to that job you agreed to do for me?
+
+0x3995293D = ~z~This looks promising.
+
+0x5749606D = ~z~~sl:0.0:2.4~If you can bring me a wolf carcass,~sl:~I'm happy to trade you some supplies.
+
+0x6325911A = ~z~~sl:0.0:3.2~Nothing too much, he's just after a few, er,~sl:~cougars for a taxidermist client of his.
+
+0x6532544B = ~z~Troubling news, I'm afraid. Some of our fellow traders set off for market but never arrived.
+
+0x6770512B = ~z~Good luck.
+
+0x8532723B = ~z~A Guinean once told me that no arrow flies truly straight.
+
+0x21647066 = ~z~Competitors.
+
+0x24404405 = ~z~~sl:0.0:2.2~Sitting ducks out there, by all accounts.~sl:0.1:~So, I mean, better we rob them than somebody else, right?
+
+0x24908429 = ~z~~sl:0.0:2.9~Now maybe if you go help them out, they'll give us some~sl:~of the supplies we need in return.
+
+0x28044386 = ~z~Should be easy enough... all in a day's work for you.
+
+0x30416913 = ~z~We've lost all the supplies!
+
+0x37973528 = ~z~That'll do nicely.
+
+0x42420799 = ~z~~sl:0.0:1.8~I figured maybe you could help them out~sl:0.0:2.2~in exchange for some supplies we need?~sl:~That way, everyone's happy.
+
+0x42573668 = ~z~My poor knees are burning again.
+
+0x44378251 = ~z~Whoo, we took quite the hit there but appreciate your help.
+
+0x56227357 = ~z~If you can do some hunting for me, I'll happily trade you some supplies in return.
+
+0x62416158 = ~z~Okay, I know you need supplies so how about you hunt some birds for me and I'll trade you some?
+
+0x63039543 = ~z~You better get that stuff back to Mr. Cripps. I'm sure he's champing at the bit.
+
+0x70858047 = ~z~Alright, I think we're in the clear. Thank God.
+
+0x78488228 = ~z~"How does it feel being a tycoon of industry", you might ask me. Well, I wouldn't really know yet.
+
+0x83151907 = ~z~~sl:0.0:2.5~And to ignore your nefarious tendencies would be to~sl:~overlook a potential asset, which is just bad business.
+
+0x94867780 = ~z~Just, uh... don't get caught.
+
+0xA06C4B0A = ~z~~sl:0.0:2.4~Okay, we need more supplies... I'm sorry,~sl:0.0:2.6:1~ain't my fault I work at such a blistering pace.
+
+0xA08381E0 = ~z~~sl:0.0:2.3~I truly am a human dynamo.~sl:~Living proof that machine will never replace man.
+
+0xA3E98B76 = ~z~Did you get my note? It could be worth your while.
+
+0xA4F5C1F2 = ~z~~sl:0.0:3.4~Anyway, artisan and hunter, craftsman and salesman...~sl:~talking of which, we have a batch ready to go.
+
+0xA5F43EBA = ~z~Where's your boss? I need them to go on a supply run.
+
+0xA5F8886F = ~z~Hey there, ready to do some business?
+
+0xA6D73931 = ~z~we'll get everything set up.
+
+0xA7D1D1BF = ~z~Shoot this damn thing!
+
+0xA8B22A66 = ~z~You know, you're really an excellent hunter.
+
+0xA8C97DC6 = ~z~I know the market's there; all I need is a partner.
+
+0xA8CCAEAA = ~z~~sl:0.0:2.7~Strictly speaking, also my worst person.~sl:~But anyway... get to it.
+
+0xA8D97219 = ~z~~sl:0.0:2.1~Time for us to make our fortune.~sl:~I need some luxury and repose in my twilight years...
+
+0xA8F3E581 = ~z~~sl:0.0:2.3~I was hoping you could source some more tanning fluid~sl:0.0:2.3~for me? I'm getting pretty damn good with the stuff,~sl:~I have to admit.
+
+0xA20A93DA = ~z~Get rid of these things!
+
+0xA28E4B77 = ~z~If that dog even thinks about biting me...
+
+0xA55E32AA = ~z~~sl:0.0:2.9~An entirely meaningless phrase, but one I like to come~sl:~back to when I'm grasping for moral justification.
+
+0xA65CA716 = ~z~Not a bad spot, this.
+
+0xA92D36A0 = ~z~Too late, it's all gone. Goddamn bandits.
+
+0xA97F0091 = ~z~Now, with any opportunity comes risk.
+
+0xA98FC077 = ~z~I leave all that to the young'uns these days, like yourself.
+
+0xA505A882 = ~z~So I bumped into a feller in town, told me he was having some problems with a gang 'round here.
+
+0xA760A38E = ~z~You sure that ain't got fleas?
+
+0xA762B894 = ~z~They destroyed us.
+
+0xA771A2A9 = ~z~~sl:0.0:2.9~Did I ever tell you about that bank job in Tennessee?~sl:0.3~It was me, Limpy Pete and Phil the Crab.
+
+0xA3642EEB = ~z~So, how about it?
+
+0xA10024BE = ~z~Phew. Just about held them off but we took some damage.
+
+0xA18741DF = ~z~~sl:0.0:3.8:1~Supplies, supplies, the endless quest for supplies.
+
+0xA4705044 = ~z~I need to speak to your higher-up about making a sale.
+
+0xAA05FC45 = ~z~over to you, charmer.
+
+0xAA6F62B6 = ~z~~sl:0.0:2.8~One day I'll have to tell you about the thousand-pound~sl:~alligator I wrestled... no, it didn't actually happen, but it's a good story.
+
+0xAABA3EFD = ~z~~sl:0.0:2.9~If you can hunt a few and deliver them to him on a plate...~sl:~wait, wait, no, no, definitely not on a plate...
+
+0xABC46F1C = ~z~~sl:0.0:3.3~But, here we are... almost at full stock.~sl:0.3~I just need a few more supplies to finish the batch.
+
+0xACCD6D1B = ~z~~sl:0.0:2.1~how do we rebalance the economy?~sl:~By robbing them blind, of course. Simple.
+
+0xAD0BC291 = ~z~I like your style.
+
+0xAD27BC56 = ~z~~sl:0.0:3.9~Okay, apparently my contact has some more goods to trade~sl:~if we can hunt and bring him some birds.
+
+0xAD412979 = ~z~Shit, here come their friends!
+
+0xADA0160C = ~z~~sl:0.0:3.5~Next time you make a sale, maybe try to sell all of it?~sl:~I'm working like a dog here.
+
+0xAE0EF44B = ~z~Very kind of you.
+
+0xAE63E730 = ~z~Should make for a better night's sleep.
+
+0xAEA99A7B = ~z~What are you looking for?
+
+0xAEEFE89E = ~z~Reckon you can hunt me a cougar? I'll trade you some supplies for it.
+
+0xAF0A3C01 = ~z~You don't seem in a rush to make this sale?
+
+0xAF4BDC9F = ~z~Excellent. I'll get to work!
+
+0xAF861CD2 = ~z~There you are, king of the supply run.
+
+0xAF28884E = ~z~That'll do the trick. You've earned yourself those supplies.
+
+0xB0406304 = ~z~Okay, I got another job for you, partner. I mean, I know strictly speaking you're still my boss,
+
+0xB0E374A3 = ~z~~sl:0.0:3.5~So I was thinking if you could pay a visit to a certain store~sl:~not far from here and relieve them of a few items,
+
+0xB1EDA4AF = ~z~That's top notch.
+
+0xB2C491BC = ~z~Wouldn't that be nice?
+
+0xB4AE517F = ~z~Now, I will require an initial modest investment of course.
+
+0xB4C7EFEA = ~z~That dog keeps looking at me funny.
+
+0xB4E4F2AD = ~z~Guess that didn't go so well, huh?
+
+0xB5AF009A = ~z~~sl:0.0:2.8~Okay, I know how you love to help people,~sl:~tiptoe the moral highground and all that...
+
+0xB5D5EDC7 = ~z~Get it away!
+
+0xB8CF71E1 = ~z~~sl:0.0:2.9~Goods have been flying off my table, so much so,~sl:0.0:2.0~I'm out of tanning supplies again.~sl:0.2~Could you grab some more for me?
+
+0xB15D200E = ~z~Thank you for stepping in, really.
+
+0xB58D16D9 = ~z~Why don't you come back when you've paid off your bounty?
+
+0xB82DE03A = ~z~I don't think I'm going to sleep very well tonight.
+
+0xB86CDB1C = ~z~~sl:0.0:2.3~You know, you leave soup out in the sun,~sl:0.0:2.1~you pay the price...~sl:~talking of which, I've found us a buyer!
+
+0xB679E6D4 = ~z~Phew, it was messy, but we survived. Thank you.
+
+0xB692B0C8 = ~z~Don't forget to pick up that note I sent you.
+
+0xB708A519 = ~z~If it's supplies you're after, I'll happily trade you some if you can hunt a panther for me.
+
+0xB1842F42 = ~z~Good work with that last thing, by the way. Credit where credit's due.
+
+0xB2377AAE = ~z~I'll trade you some supplies, if you can get me a nice gator skin.
+
+0xB9344F0B = ~z~I can do anything else until I get some more supplies.
+
+0xB49654AF = ~z~Good.
+
+0xB52040AB = ~z~~sl:0.0:3.2~Look, I'm sorry, I can't be getting tangled up with the law.~sl:~Whatever you've been doing, just deal with it.
+
+0xB82445B1 = ~z~That'll add a bit of flair. I like it.
+
+0xB3883325 = ~z~~sl:0.0:2.6~A milliner I know is after some beavers.~sl:0.1:2.3~Whole animal, not just the pelt.~sl:~If you can get me some, I'll do you a good trade.
+
+0xB7252973 = ~z~All you need to do is make the sale. Bit of a ride for you, but the money's good.
+
+0xBA52F6F3 = ~z~I'll hold the fort here.
+
+0xBA134ABD = ~z~~sl:0.0:2.2~I reckon it's best you take a break from the business~sl:~while you've got problems with the law.
+
+0xBAEFAB2F = ~z~That's it! Keep at 'em!
+
+0xBAF0CEE3 = ~z~~sl:0.0:2.8~One of the best I've ever known, the sort of person who~sl:~faces down grizzlies without skipping a beat.
+
+0xBB4DA42E = ~z~pack the rest on there, will you?
+
+0xBB6F1776 = ~z~Keep driving them back!
+
+0xBC9433FA = ~z~~sl:0.0:1.8~There some stew if you're hungry.~sl:~It's slop, but it'll put a lining on the ribs.
+
+0xBCB2B639 = ~z~I wouldn't hang around too long.
+
+0xBF1E4A8F = ~z~~sl:0.0:2.8~I bet you didn't think old Cripps had it in him, did ya?~sl:~From camp dogsbody to artisanal entrepreneur...
+
+0xBF9B3A50 = ~z~~sl:0.0:2.8~I want them to look at Cripps Trading Company and say~sl:~“that man is a hero of the people”.
+
+0xBF31E06A = ~z~~sl:0.0:2.4~I know... don't ask me what he wants them for.~sl:0.0:2.2~Best just to keep him happy, I reckon.~sl:0.2~I mean, we need the supplies.
+
+0xBF82CDFC = ~z~Oh God, here come more of them!
+
+0xBFAB402A = ~z~Beautiful.
+
+0xBFB6A33F = ~z~~sl:0.0:2.2~You know, I was just thinking it's been years now~sl:~since I slept with four walls around me,
+
+0xC038EDC9 = ~z~~sl:0.0:2.9~My contact's willing to trade again for a bison pelt.~sl:~Think you can handle that?
+
+0xC03F061E = ~z~So, I've got three words for you.
+
+0xC04C379F = ~z~A client of mine is after some rabbits. I don't have time to be out hunting... if you can bring me some, I've got supplies here to trade?
+
+0xC05E0673 = ~z~Shame you couldn't get all of it... but thank you anyway.
+
+0xC0C8DB98 = ~z~~sl:0.0:2.8~Now, you know, as a general rule I would rather~sl:~garrote myself with a rusty wire than help out the competition...
+
+0xC1C36173 = ~z~Well don't keep the buyers waiting.
+
+0xC1DCB523 = ~z~You know, my pa used to say “a cat doesn't make a good dog”.
+
+0xC1F28700 = ~z~and since you like to kid yourself you're a do-gooder these days,
+
+0xC3E0F945 = ~z~~sl:0.0:2.9~Before you say anything, I ain't taking a break.~sl:0.0:2.7~I'm just out of cleaning and tanning supplies so~sl:~I can't do too much more right now.
+
+0xC3F73421 = ~z~Hell, we might even eat well out of this for once too.
+
+0xC5AE30A7 = ~z~~sl:0.2~Dog eat dog and all that.
+
+0xC6CB646C = ~z~Help!
+
+0xC6E7F5F2 = ~z~Start-up costs and suchlike, but you'll recoup that as fast as you can say...
+
+0xC7A8CA23 = ~z~~sl:0.0:1.3~There's some stew in the pot.~sl:~I recommend eating it quickly.
+
+0xC7B9CBF1 = ~z~Here to make a deal?
+
+0xC9AC3546 = ~z~Okay. Not a problem, I'll order them in.
+
+0xC9EDB441 = ~z~~sl:0.0:3.8~If there's a feller on this green earth who deserves a drink more than me today,~sl:~I'd like to meet him...
+
+0xC15F3FE6 = ~z~What do you need?
+
+0xC21CCE4E = ~z~New man, new look.
+
+0xC34AB254 = ~z~Can't be partnering with you while you've got a price on your head.
+
+0xC72D188B = ~z~~sl:0.0:1.6~My friend's willing to trade us some,~sl:0.0:2.2~so I need a very small favor,~sl:~almost nothing at all, the slightest of errands...
+
+0xC267F7A1 = ~z~Tell your boss I need a word, I have to pick up a few things.
+
+0xC373FF74 = ~z~That's what I like to see.
+
+0xC890E765 = ~z~~sl:0.0:1.9~I need you to do a favor for a friend.~sl:0.0:3.9~He's after a cougar for some hat or charm he's making...~sl:~I ain't sure, I was fairly drunk at the time.
+
+0xC1623D90 = ~z~Well, at least you sold some of it, I guess.
+
+0xC2970DC0 = ~z~The supplies are ruined!
+
+0xC9667E4F = ~z~and most of what we'll need in terms of initial supplies.
+
+0xC73425CD = ~z~Shit, more of them have sniffed us out!
+
+0xC874246C = ~z~Alright, time for a little lesson on supply and demand.
+
+0xC1916199 = ~z~You help him out, he helps us out. And nobody even needs to get robbed.
+
+0xC2616165 = ~z~I've had to halt production for now, need more supplies.
+
+0xCAA9852D = ~z~Okay, phew. That was close. Anyway... waste not, want not. Might as well use what we can.
+
+0xCCCEB12F = ~z~~sl:0.0:2.8~Apparently some of our competitors never made it back~sl:~home from market, and folks are fearing the worst.
+
+0xCE019C45 = ~z~~sl:0.0:2.1~Thanks partner. You know, I still can't believe~sl:~one of my ideas is actually working...
+
+0xCE0BC9AA = ~z~Oh, yeah...
+
+0xCE294885 = ~z~then you go out and make the sale.
+
+0xCFBBA517 = ~z~Follow me.
+
+0xCFD822CB = ~z~~sl:0.0:2.9~I heard a few folks around here are getting shaken down~sl:~by some local heavies...
+
+0xD0193D19 = ~z~~sl:0.0:1.1~Straight to business, huh?~sl:~I knew I'd picked the right partner.
+
+0xD070C223 = ~z~~sl:0.0:2.0~They can't see colors, though, terrible at poker.~sl:0.1~Anyway, I digress and you have work to do.
+
+0xD0F46BFD = ~z~Interesting choice.
+
+0xD1EC024E = ~z~He's also got some supplies we could use so I thought, why not kill two birds with one stone?
+
+0xD1F1AC3D = ~z~I worry all this stuff in camp will bring animals sniffing.
+
+0xD4E64907 = ~z~Okay, I think we're good. Thank you. Don't think I could've held them off much longer.
+
+0xD5A3D9A2 = ~z~What a waste of materials and time!
+
+0xD5B0BAD7 = ~z~He needs pigs... or boars, peccaries... anything vaguely porcine, I guess. Bacon is bacon.
+
+0xD5DB35E7 = ~z~~sl:0.0:2.1~Just need you to hunt a few wolves~sl:~and deliver them to him. That's it.
+
+0xD5F76F91 = ~z~Did you pick up my letter yet? I think you'll find it interesting.
+
+0xD6B19ABA = ~z~~sl:0.0:2.8~Did I ever tell you, back in the day I once killed~sl:~thirty bison in an hour?
+
+0xD9D2FA00 = ~z~I've got some real nice supplies here. Willing to trade if you can get hold of some wolf carcasses for me.
+
+0xD9D3C392 = ~z~Here. Take these supplies for your troubles.
+
+0xD52E4AF4 = ~z~That's it, kill the lot of them!
+
+0xD83F50E4 = ~z~~sl:0.0:2.1~Anyway, uh, don't let me keep ya.
+
+0xD86A98F7 = ~z~I might be looking at the next Leviticus Cornwall here.
+
+0xD88ABBA8 = ~z~So, er, what's happening with this wagon of supplies? You're as slow as a cow in a bog hole.
+
+0xD93E0E1A = ~z~~sl:0.0:1.4~Got a batch here ready for sale.~sl:~Ain't the largest, but it's enough.
+
+0xD95E7D7E = ~z~~sl:0.0:2.7~Alright, since I know how much you love hunting,~sl:0.0:2.4~I kind of promised your services to my friend~sl:~in return for some supplies.
+
+0xD335CBB6 = ~z~~sl:0.0:2.4~And at this rate, I'll be wearing a marble hat~sl:~before I get a taste of the good life.
+
+0xD707B567 = ~z~There are too many!
+
+0xD724DF7D = ~z~So I'm after a bison pelt. If you can bring me one, I've got supplies to trade.
+
+0xD1748E6B = ~z~When you change your mind, I should say.
+
+0xD3830CC8 = ~z~Oh, I forgot.
+
+0xD7668DFC = ~z~Can you track down some more for me? Much appreciated.
+
+0xD8576D2C = ~z~Looking to trade?
+
+0xDA07B62A = ~z~Get this thing off me!
+
+0xDA3AF840 = ~z~~sl:0.0:2.2~You know, I'm always thinking...~sl:0.0:2.2~it's a blessing and a curse.~sl:~And I don't always remember much of it.
+
+0xDA134BB1 = ~z~Okay then, let's get to business.
+
+0xDA666F9E = ~z~~sl:0.0:1.5~I've done what I can with the stew,~sl:~but it ain't the best, I have to admit.
+
+0xDB0D7742 = ~z~This is good quality.
+
+0xDB6B9B1C = ~z~Bandits raided us. Made off with everything.
+
+0xDB69CD49 = ~z~~sl:0.0:3.5~This is going to require a particular kind of angry lunatic,~sl:0.3~so I figured it was right up your alley.
+
+0xDBA06A4C = ~z~~sl:0.0:1.5~If you keep selling at this rate,~sl:~we'll be dripping in gold by this time next year.
+
+0xDBD71D74 = ~z~No problem to pay me later.
+
+0xDBE276C6 = ~z~A customer of mine keeps asking me for possums. No idea what she does with them, but if you can hunt and bring me some, I'm happy to trade you some supplies?
+
+0xDC65A622 = ~z~~sl:0.0:2.2~That's like a bison a minute, that's...~sl:0.0:2.7~no, no, a bison every three minutes...~sl:~no... anyway, it was impressive, but...
+
+0xDCA98D18 = ~z~Which seemed harsh to me.
+
+0xDD717BB6 = ~z~Good stuff.
+
+0xDE5C790D = ~z~Alright, I think you know me, I'm all about playing fair.
+
+0xDE5F4DB2 = ~z~~sl:0.3:2.9~Don't come too close, my breath is lethal.~sl:0.7~Onions, it turns out... not a great snack.
+
+0xDEAEC8B0 = ~z~~sl:0.0:3.4~Oh, there you are. I sent you a note... just some details of~sl:~a few potentially lucrative possibilities.
+
+0xDEEC675D = ~z~This is just what I needed. Feel free to help yourself to those supplies.
+
+0xDF0327D0 = ~z~Those things tore us apart.
+
+0xDF9B2AB8 = ~z~Alright, you'll know where to find me if you change your mind.
+
+0xDF696A91 = ~z~~sl:0.0:2.3~You think I ain't heard about the price on your head?~sl:0.3~We can't have bounty hunters sniffing around here.
+
+0xDFEF6D71 = ~z~Your provisions, Mr. Cripps.
+
+0xE0BE49D6 = ~z~~sl:0.0:2.1~I've seen some wild animals sniffing around,~sl:~you should keep your eye out.
+
+0xE1A0C8E1 = ~z~and I worked as a tanner up in Wisconsin back in the sixties.
+
+0xE1E2EFF8 = ~z~I'll clean 'em and prep 'em...
+
+0xE1E85B35 = ~z~What the hell? Here's more of them.
+
+0xE1FC2930 = ~z~~sl:0.0:3.0~We've been making progress here, slowly but surely...~sl:0.2~big pat on the back for me.
+
+0xE2A54DBA = ~z~If at first you don't succeed, and all that...
+
+0xE2BC4A0E = ~z~So close, a few more supplies and I can get this batch finished.
+
+0xE3C83127 = ~z~Impatient, ain't you?
+
+0xE4AAEB43 = ~z~~sl:0.0:3.2~Flush but lazy. Okay then, no problem...~sl:~I'll put in an order instead.
+
+0xE4BA1475 = ~z~They wiped us out.
+
+0xE4CD14A7 = ~z~Goddamn it, they bled us dry.
+
+0xE6B5EEAD = ~z~~sl:0.0:3.2~Clever little things, raccoons. I know a feller who trained~sl:0.0:~one to ride a bicycle once.
+
+0xE7F55F60 = ~z~Now, I've negotiated a trade with my friend for more supplies, if you can do some hunting for him.
+
+0xE8D359CF = ~z~~sl:0.0:1.7~Help yourself to some stew, by the way.~sl:~It won't win any prizes, but it fills a hole.
+
+0xE13F9CD3 = ~z~~sl:0.0:2.5~I was in the area once with my second wife.~sl:~Dark days.
+
+0xE18F9B9B = ~z~~sl:0.0:2.5~I hate the damn things but, with all the stuff sitting 'round~sl:~here, I'm thinking it might be good to get a guard dog.
+
+0xE30E829A = ~z~Howdy, you here to trade?
+
+0xE34E2EF6 = ~z~but I mean, these things happen, right?
+
+0xE37A0F4B = ~z~You won't regret it.
+
+0xE42FE8F7 = ~z~Keep at it! Get rid of them!
+
+0xE56E80F1 = ~z~You had some luck, I see.
+
+0xE70DF4A8 = ~z~Well I can't fault you on the supplies.
+
+0xE71ED8A9 = ~z~Should protect you from the elements a little.
+
+0xE75A7D0F = ~z~All that work for nothing.
+
+0xE195D867 = ~z~Should be no problem for a hunter of your caliber.
+
+0xE540E0F7 = ~z~~sl:0.0:3.0~And I mean that as the highest of compliments.~sl:~Just please don't die.
+
+0xE2132EBF = ~z~~sl:0.0:2.2~Anyway, sooner you fetch that wagon,~sl:~sooner we can get up and running.
+
+0xE3701BB0 = ~z~Ugh, I'd rather pet a pig.
+
+0xE4243B67 = ~z~~sl:0.0:2.6~I don't know, I seem to go through supplies~sl:0.0:2.0~like a hog goes through acorns.~sl:0.6~And hogs love acorn.
+
+0xE7216AE9 = ~z~Look at that, a thing of beauty.
+
+0xE7477FF8 = ~z~~sl:0.0:2.2~We're doing well, very well.~sl:0.0:3.5~Just at a standstill till I get some more tanning supplies.~sl:0.1~Would you pick some up for me?
+
+0xE70718DA = ~z~My contact sent a message... apparently, he has goods to trade if we can get him some bison pelts.
+
+0xE263774D = ~z~Kill these damn things!
+
+0xEA7C0DF0 = ~z~~sl:0.0:2.9~Don't worry, I'm not going to send you on another~sl:~supply errand... course I am.
+
+0xEA12186E = ~z~We're ready to go.
+
+0xEAA50DF2 = ~z~Okay. This'll have to do.
+
+0xEB0DB06F = ~z~I like it here. Good clean air.
+
+0xEB279722 = ~z~Very nice.
+
+0xEC721C46 = ~z~Smell that stew, huh? Delicious.
+
+0xEC896E7D = ~z~~sl:0.0:2.5~I've got a good stock of supplies here to trade~sl:~if you can pick me some herbs.
+
+0xEC229499 = ~z~~sl:0.0:2.0~But at this rate, by the time we get ahead~sl:~of the competition, I'll be dead in the dirt, so...
+
+0xECAD44DC = ~z~Come on.
+
+0xECBE4A22 = ~z~Supplies are running down fast.
+
+0xED8CC33B = ~z~Now, you don't have to pay me right now of course...
+
+0xED55C2E9 = ~z~Are you in?
+
+0xED786ADB = ~z~Take these supplies. Please, it's uh, the least I can do.
+
+0xEE7E4CD6 = ~z~Thank God that's over.
+
+0xEE9CEE2D = ~z~~sl:0.0:3.6~Anyway, enough of my dietary mishaps, we need supplies...~sl:0.1:2.4~and my contact says he's willing to trade~sl:~if you can do some hunting for him?
+
+0xEEA699B8 = ~z~~sl:0.0:2.6~Alright, my friend, time to make some money.~sl:0.2~There's another batch ready to go. Sure feels good.
+
+0xEFDB9506 = ~z~Keep going!
+
+0xF022FFD2 = ~z~~sl:0.0:2.9~I've had to stop for now, but I can push on with the rest as~sl:~soon as I get more supplies. I'm about halfway through.
+
+0xF053E917 = ~z~There's always next time.
+
+0xF09846F6 = ~z~Not much in the coffers right now is there?
+
+0xF2FBB0F8 = ~z~Shit, they stripped us clean.
+
+0xF3BA24F9 = ~z~Mr. Cripps sent you over, huh?
+
+0xF3C38259 = ~z~Damn it, I really need more supplies here.
+
+0xF3D3204E = ~z~Anything's better than nothing.
+
+0xF3EB32DB = ~z~Thank you, but I need the full batch before I can make a trade.
+
+0xF4BAD939 = ~z~Damn outlaws jumped me!
+
+0xF4C155AF = ~z~~sl:0.0:3.2~Stranded, at the mercy of brigands and outlaws.~sl:0.0:3.0~So we can play nice or we can play smart.~sl:0.3~And you aren't very good at playing nice.
+
+0xF4E20680 = ~z~~sl:0.0:2.6~Well, I heard from my contact again... he's after some~sl:0.0:3.4~beaver pelts and carcasses. Now, normally I'd say no,~sl:~but he's got some supplies we need.
+
+0xF4FC848F = ~z~Bunch of thieving shits! Take them down!
+
+0xF5AEC02D = ~z~Don't know how you can touch that thing.
+
+0xF5F77448 = ~z~~sl:0.0:1.5~Keep your eyes peeled for animals.~sl:~They must be able to smell this place a mile away.
+
+0xF6D515E6 = ~z~~sl:0.0:2.3~You know I love you like a wayward child,~sl:0.8:2.5~but I wouldn't say charm's your best trait~sl:0.2~so I'm going to need you to dig deep here...
+
+0xF6F3522B = ~z~Bandits, I couldn't stop them. They took the damn lot.
+
+0xF6F8174C = ~z~~sl:0.0:3.5~I've found some buyers locally, not the highest price, but~sl:~easy money... and I'll take easy over hard any day.
+
+0xF8CCBC65 = ~z~And God knows there's enough bison to go around. So I said you'd be in touch shortly.
+
+0xF10CCA73 = ~z~~sl:0.0:2.9~Well, I heard some other traders might have broken down~sl:~on a delivery run and I'd hate for them to get robbed out there...
+
+0xF27D06E7 = ~z~Alright, guess I can just order them then.
+
+0xF27E442B = ~z~~sl:0.5:2.0~Hard keeping up with me, ain't it?~sl:0.0:2.7~My second wife used to say the same thing...~sl:0.3~or maybe that was “putting up with me”?
+
+0xF39B189F = ~z~~sl:0.0:2.8~I never really knew what he meant by that, but...~sl:0.1~I feel like I finally found my calling.
+
+0xF44E6397 = ~z~~sl:0.4:3.1~Why didn't I come up with this idea forty years ago?~sl:~I'd be living in a palace by now...
+
+0xF48F9745 = ~z~Damn it, do I have to do everything myself?
+
+0xF49FF3AB = ~z~Why not? Treat yourself.
+
+0xF50DEEB1 = ~z~Can't believe it. I was so nearly done, but I ran out of supplies.
+
+0xF60DD5B2 = ~z~That'll work too.
+
+0xF411FF88 = ~z~Damn it, more of the damn things!
+
+0xF974AF66 = ~z~Looking to do some business?
+
+0xF1122E7A = ~z~~sl:0.0:2.0~I'm a one-man sweatshop here.~sl:0.0:2.6~Already ran out of tanning and cleaning supplies...~sl:~reckon you can pick some more up for me?
+
+0xF2017B95 = ~z~~sl:0.0:3.6~You know, part of me, the part that normally gives up~sl:0.0:1.7~on things almost immediately,~sl:~wondered if I'd actually be able to do this.
+
+0xF2699C8C = ~z~Said he'd give us some supplies in return. Easy enough, right?
+
+0xF5587FEC = ~z~~sl:0.0:2.6~so I offered your services to some of our neighbors here~sl:0.0:3.2~who are being hassled by some kind of wild animals,~sl:~they didn't say what.
+
+0xF10953BC = ~z~I'll trade you some supplies if you can hunt for Bighorn for me.
+
+0xF17595FA = ~z~I swear, you could sell water to a drowning man.
+
+0xF29092BF = ~z~But, if we combine our talents, we'll be unstoppable.
+
+0xF44389C8 = ~z~~sl:0.0:2.0~I think he's planning to make some hats with them...~sl:~or something, not sure, a man's business is his own.
+
+0xF63796DF = ~z~~sl:0.0:2.9~The buyer's not local, but we're getting a good price,~sl:~so should be worth the ride.
+
+0xF207494E = ~z~~sl:0.0:3.8~Meanwhile, I think it's time I gave the workers, I.E. me,~sl:0.1~a well-earned break. Take your time.
+
+0xFA6B312A = ~z~~sl:0.0:2.5~I thought it might be quicker if we just borrowed~sl:~some of the items I need from some people...
+
+0xFA8D11C0 = ~z~Done deal.
+
+0xFAA4FD72 = ~z~There's some stew in the pot. Not my best, but it's alright.
+
+0xFACE99D4 = ~z~~sl:0.0:3.8~Okay, it goes without saying that only a lunatic would hunt~sl:~a bear, so I need you to hunt a bear.
+
+0xFB1D9B85 = ~z~~sl:0.0:4.2~Well, there's a lot to be said for an existence of lazy debauchery.~sl:~Running a business is harder than it looks.
+
+0xFBDADA6A = ~z~We made it, but we paid the price. What a mess.
+
+0xFBF0E363 = ~z~This is gonna be fun.
+
+0xFC2FB6D0 = ~z~~sl:0.0:1.9~It'll be a bit of a journey, I'm afraid, but~sl:~the buyer's offering good money.
+
+0xFC3BE415 = ~z~If you can grab that and bring it back to camp...
+
+0xFC9201B7 = ~z~~sl:0.0:1.6~Can you track down some more for me?~sl:~Quite volatile stuff, so be careful with it.
+
+0xFCF28AD8 = ~z~Good honest work, just how you like it.
+
+0xFD75831F = ~z~~sl:0.0:1.6~Some stew in the pot, if you want it.~sl:~I did what I could with what I had.
+
+0xFDAA9AE9 = ~z~I'd say I've got about half the batch done at this stage, but I'm out of supplies again.
+
+0xFE188388 = ~z~We can't hold 'em!
+
+0xFEB04C9A = ~z~Well don't let me keep you.
+
+0xFF0DC910 = ~z~That's a start, but I ain't trading until you bring me the lot.
+
+0xFF1A8D4E = ~z~What a beauty. We'll be able to carry a lot in this one.
+
+0xFF84EFAF = ~z~Going to be out of supplies before too long.
+
+0xFF136664 = ~z~My talents extend far beyond the harmonica, I can assure you.
+
+0xFFCA67B6 = ~z~but the sooner we're up and running the better.
+
+0xFFECC33B = ~z~I have to say, I've outdone myself with the stew this time.
+

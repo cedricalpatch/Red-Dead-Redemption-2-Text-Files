@@ -1,0 +1,1392 @@
+0x0024BC06 = Clemens Cove
+
+0x008FB138 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0x01172017 = to the ~HC_~1p~~ranch~s~
+
+0x016D9A48 = You lost honor as you chose not to follow the additional objectives.
+
+0x02CC4370 = to the ~HC_~1p~~fort~s~
+
+0x03844D6A = Search Area
+
+0x03AA1C92 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supply bag
+
+0x03E0732F = The Loft
+
+0x042B0028 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x047892D8 = SUPPLY RUN
+
+0x047ED1E5 = to ~HC_~1p~~Downes Ranch~s~
+
+0x04804DFB = ~1~ is helping somebody in need ~2b~. Regroup with them to take part.
+
+0x0619E7E7 = to ~HC_~1p~~Stillwater Creek~s~
+
+0x0652A0E4 = to ~HC_~1p~~Hamlin's Passing~s~
+
+0x06E3016E = Resupply
+
+0x0733F693 = to the ~HC_~1p~~Gray Woolen Mill~s~
+
+0x077C18D9 = You have brought a cart ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x07930C60 = Ox
+
+0x07C5C379 = to ~HC_~1p~~Clemens Point~s~
+
+0x0850CCC6 = to the ~HC_~1p~~location~s~
+
+0x08843C1B = to ~HC_~1p~~Siltwater Strand~s~
+
+0x08C2AE89 = to ~HC_~1p~~Pacific Union Railroad~s~
+
+0x0956FDCC = to ~HC_~1p~~Jorge's Gap~s~
+
+0x09BFCFB8 = Search near the target's last known location ~o~~BLIP_OBJECTIVE~~s~. Deliver the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+0x09F13B3B = The ~COLOR_ENEMY~enemies~s~ have taken a prisoner ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x0A7DA6BD = Army Wagon
+
+0x0ACC4A68 = Production halted
+
+0x0B8FCB32 = Mission Testbed
+
+0x0B8969CB = to ~HC_~1p~~Blackwater~s~
+
+0x0BA16DBE = A stranger ~1b~ is requesting help. Help them by defending their campsite from the attackers.
+
+0x0C5DE241 = You can only carry one supply bag at a time.
+
+0x0C86148F = to ~HC_~1p~~Cueva Seca~s~
+
+0x0CCCA86C = Enemy
+
+0x0D5F4332 = Wolf Skin
+
+0x0D8E2200 = to ~HC_~1p~~Hani's Bethel~s~
+
+0x0DB32B44 = Firwood Rise
+
+0x0E49AC22 = to the ~HC_~1p~~dock~s~
+
+0x0E218C8B = Elk
+
+0x0E2215E3 = to ~HC_~1p~~Saint Denis Docks~s~
+
+0x0F66DF69 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ ~1~
+
+0x0F7624C2 = to the ~HC_~1p~~Annesburg Station~s~
+
+0x1A512BB9 = to ~HC_~1p~~Firwood Rise~s~
+
+0x1ACEA893 = to ~HC_~1p~~Greenhollow~s~
+
+0x1B117842 = to ~HC_~1p~~Armadillo Station~s~
+
+0x1B670671 = to ~HC_~1p~~Twin Rocks~s~
+
+0x1BFFD62C = Decline Mission
+
+0x1C9D650B = Caravan Wagon
+
+0x1C412D2F = Stop the ~COLOR_MP_OBJECTIVE~train
+
+0x1CCBB293 = to the ~HC_~1p~~Annesburg Sheriff's Office~s~
+
+0x1CF2DC97 = to ~HC_~1p~~Bard's Crossing~s~
+
+0x1D6B08E0 = Supply Wagon
+
+0x1D18816E = to the ~HC_~1p~~shack~s~
+
+0x1DB769A6 = to the ~HC_~1p~~shack~s~
+
+0x1DF1951B = to the ~HC_~1p~~Dead Snake Woods~s~
+
+0x1E31CBFE = to ~HC_~1p~~Butcher Creek~s~
+
+0x1F9F193F = White Wolf
+
+0x1F265AEF = to the ~HC_~1p~~homestead~s~
+
+0x1F325FB4 = Buggy
+
+0x2AF2B20D = Beaver Hollow
+
+0x2B44D386 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x2B94C33C = RESUPPLY
+
+0x2B974A38 = to ~HC_~1p~~Stillwater Creek~s~
+
+0x2B4581CA = Destination
+
+0x2B18294F = You earned ~1$~
+
+0x2C069F90 = to the ~HC_~1p~~shack~s~
+
+0x2D164AB2 = to the ~HC_~1p~~shack~s~
+
+0x2E03F7B8 = You have brought the buggy ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x2E5FA57E = to ~HC_~1p~~Wapiti Indian Reservation~s~
+
+0x2E22E9F2 = Bounty Complete
+
+0x2E619887 = to the ~HC_~1p~~shack~s~
+
+0x2E643617 = Resupply
+
+0x2EB185B6 = Cumberland Falls
+
+0x2F24B9FC = Boat
+
+0x2F4732F8 = Repossession
+
+0x2FE7B948 = Supply Cart
+
+0x3A795B47 = Dead bounty targets can still be delivered but for a reduced reward.
+
+0x3B2B6C90 = Killing guards will lose you honor.
+
+0x3B5FCF9D = Supplies
+
+0x3B7DBA1C = to ~HC_~1p~~Quaker's Cove~s~
+
+0x3B49CACF = to the ~HC_~1p~~shack~s~
+
+0x3BF8F603 = Mailbag
+
+0x3BF9398E = The target is nearby. Search their last known location ~o~~BLIP_AMBIENT_SECRET~~s~ for signs of their whereabouts.
+
+0x3C19F773 = The ~COLOR_ENEMY~enemies~s~ have taken a boat ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x3C252D9F = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the targets.
+
+0x3CA3E310 = to ~HC_~1p~~O'Creagh's Run~s~
+
+0x3E67A560 = to the ~HC_~1p~~cottage~s~
+
+0x3EBE0411 = You abandoned the job
+
+0x3EDE7895 = Jail
+
+0x3F0641D9 = to the ~HC_~1p~~cottage~s~
+
+0x3F4F0B47 = Deer
+
+0x3F655DF3 = Goods Delivery
+
+0x3F955D3D = ~1~ has joined in the Hunt
+
+0x3FA2C523 = to ~HC_~1p~~Smithfields Saloon~s~
+
+0x4A83764C = You have brought a wagon ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x4AA136E2 = to ~HC_~1p~~Manzanita Post~s~
+
+0x4AE1F676 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0x4B60B899 = Gaptooth Breach
+
+0x4B63BB6B = to the ~HC_~1p~~shack~s~
+
+0x4B80125F = Search near the targets' last known location ~o~~BLIP_OBJECTIVE~~s~. Deliver the targets ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+0x4C0D31A9 = You delivered a bounty dead
+
+0x4C3A8771 = Supply Wagon
+
+0x4C6C608D = to the ~HC_~1p~~Valentine Sheriff's Office~s~
+
+0x4D5F5F20 = to ~HC_~1p~~Lagras~s~
+
+0x4D7BE2A1 = You have brought a stagecoach ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x4DD26F22 = The ~COLOR_ENEMY~enemies~s~ have taken the cart ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x4DEBAA46 = Track down the target.
+
+0x4E1C39F3 = Timer expired
+
+0x4E7EFE0F = to ~HC_~1p~~Cholla Springs~s~
+
+0x4E773CB7 = Pike's Basin
+
+0x4E203987 = to the ~HC_~1p~~Saint Denis Graveyard~s~
+
+0x4EA73017 = Keys
+
+0x4F3DB5F7 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was lost
+
+0x4F7CE0D1 = The ~COLOR_ENEMY~enemies~s~ have taken a buggy ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x4F6460F7 = to the ~HC_~1p~~Emerald Ranch General Store~s~
+
+0x4FB63DED = You must dismount your horse to inspect the clue.
+
+0x5A4EF9AC = The Targets were killed
+
+0x5A5A2862 = to ~HC_~1p~~Lake Don Julio~s~
+
+0x5A37F4C7 = to the ~HC_~1p~~woods~s~
+
+0x5A52A571 = to ~HC_~1p~~Carmody Dell~s~
+
+0x5AC5E3AA = ~1~ is escorting a stranger
+
+0x5ACC5AE9 = to the ~HC_~1p~~Tumbleweed Sheriff's Office~s~
+
+0x5AF013A6 = to ~HC_~1p~~Roanoke Ridge~s~
+
+0x5B5D4A96 = to ~HC_~1p~~Sean's camp~s~
+
+0x5B9D9BAF = to ~HC_~1p~~Monto's Rest~s~
+
+0x5B35AD37 = Get on the horse
+
+0x5BCF37CC = The ~COLOR_ENEMY~enemies~s~ have taken a stagecoach ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x5BD7A3EA = Train
+
+0x5BE0AF2D = to the ~HC_~1p~~ranch~s~
+
+0x5C3F19DD = The horse ~1b~ is now safely within the drop off area.
+
+0x5C353F63 = Wolf
+
+0x5C59450D = to ~HC_~1p~~Fort Wallace~s~
+
+0x5CD38075 = Laborer
+
+0x5CE2C76C = to the ~HC_~1p~~sheriff's office~s~
+
+0x5D1B9E34 = to ~HC_~1p~~Eris Field~s~
+
+0x5D6B1B8B = Willard's Rest
+
+0x5D615E69 = to the ~HC_~1p~~Saint Denis Police Station~s~
+
+0x5DEAC876 = Drop off the dead bounty target in the area outside to deliver them.
+
+0x5E5361B8 = You have brought a boat ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x5F1C5697 = to the ~HC_~1p~~Upper Montana River~s~
+
+0x5F15018C = The proof of the kill ~1b~ is now safely within the drop off area.
+
+0x5FDADEB2 = Use ~INPUT_INTERACT_LOCKON~ on the Defend Target ~1b~ to counter a rival player's mission.
+
+0x6A93B099 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the target.
+
+0x6A229C33 = Lawman
+
+0x6A15767E = to ~HC_~1p~~Moonstone Pond~s~
+
+0x6A703853 = Medicine Wagon
+
+0x6ACFEEDF = to ~HC_~1p~~Viking Tomb~s~
+
+0x6B024C40 = to ~HC_~1p~~Cairn Lake~s~
+
+0x6B04BE00 = to the ~HC_~1p~~Heartlands Kerosene & Tar~s~
+
+0x6B429BDE = Treasure Hunter
+
+0x6B1021BC = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x6B697464 = Skiff
+
+0x6C8B04D0 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x6C832910 = Trader
+
+0x6CB39D69 = Horse
+
+0x6D96E058 = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0x6DA8C854 = ~COLOR_ENEMY~Hunted~s~
+
+0x6DF02445 = to the ~HC_~1p~~shack~s~
+
+0x6E34FA93 = to the ~HC_~1p~~farm~s~
+
+0x6F28221C = to the ~HC_~1p~~cottage~s~
+
+0x6FB550FF = The target hasn't been this way. Backtrack to~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_SECRET~~s~and try another path.
+
+0x6FEEDC8E = to the ~HC_~1p~~Heartland Oil Fields~s~
+
+0x7A0B0DE9 = The ~COLOR_ENEMY~enemies~s~ have taken the supplies ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x7A84AD23 = Enemy Area
+
+0x7BA148FA = to the ~HC_~1p~~Logging Camp~s~
+
+0x7BC88033 = Supplies were destroyed
+
+0x7BD378BF = to ~HC_~1p~~Wallace Overlook~s~
+
+0x7C4AB7A7 = Bounty delivered alive
+
+0x7D08CE2A = to ~HC_~1p~~Bluewater Marsh~s~
+
+0x7D633647 = to the ~HC_~1p~~Van Horn Station~s~
+
+0x7E47D165 = Bringing the canoe into the rapids will cause it to sink.
+
+0x7E50F430 = to ~HC_~1p~~Barrow Lagoon~s~
+
+0x7E519316 = Dog
+
+0x7F1F9296 = to ~HC_~1p~~Kamassa River~s~
+
+0x7F6F2A48 = Bag
+
+0x8A5FAB45 = Guard Boat
+
+0x8A60F94E = to the ~HC_~1p~~Blackwater Police Department~s~
+
+0x8AF1AA81 = to ~HC_~1p~~Keane's Saloon~s~
+
+0x8B7F1A83 = RESUPPLY
+
+0x8C3C6E8D = Coach
+
+0x8CA6B1D4 = The stranger ~1b~ is now safely within the drop off area.
+
+0x8CB01372 = to the ~HC_~1p~~shack~s~
+
+0x8D1C9ABB = to the ~HC_~1p~~homestead~s~
+
+0x8D769BD4 = Buyer
+
+0x8DC7DF38 = Camp
+
+0x8EB62049 = A Target ~1b~ is now safely within the drop off area.
+
+0x8EC4F4B3 = Your Posse delivered a bounty alive
+
+0x8ED36B68 = to ~HC_~1p~~Heartland Overflow~s~
+
+0x8F88A0A6 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bag~s~
+
+0x8F81418D = Bounty Hunter
+
+0x8FD487DC = to the ~HC_~1p~~location~s~
+
+0x9A748533 = Campsite
+
+0x9AB5CAF2 = to the ~HC_~1p~~location~s~
+
+0x9AC3D1DE = The Posse entered combat
+
+0x9AD96F38 = to the ~HC_~1p~~cabin~s~
+
+0x9B6C35D9 = to ~HC_~1p~~Benedict Pass~s~
+
+0x9D891648 = to ~HC_~1p~~Fort Brennand~s~
+
+0x9E778A48 = Prisoner
+
+0x9EED655E = Alligator Skin
+
+0x9EEDFC7A = Recipient
+
+0x9FDA0F60 = You lost a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x9FFCAC88 = Prisoner Boat
+
+0x11B42A06 = to ~HC_~1p~~Gaptooth Ridge~s~
+
+0x11ED4BB6 = Tiger
+
+0x12BF6F67 = Cart
+
+0x13EE4594 = The boat ~1b~ is now safely within the drop off area.
+
+0x14A5E92B = to the ~HC_~1p~~cabin~s~
+
+0x14B64FAC = Bear
+
+0x14F940A0 = to ~HC_~1p~~Hotel La Licorne~s~
+
+0x17E4AAF2 = to the ~HC_~1p~~manor~s~
+
+0x18EB2018 = ~1~ delivered a bounty dead
+
+0x19AC1A39 = The buggy ~1b~ is now safely within the drop off area.
+
+0x22C65CF2 = The prisoner ~1b~ is now safely within the drop off area.
+
+0x22EA569B = Mission Passed
+
+0x23DA3E8C = You have brought the stranger ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x23EDBF4D = Wagon
+
+0x26AB42EA = Payroll Cash bag
+
+0x28E6D314 = to the ~HC_~1p~~Rhodes Parlour House~s~
+
+0x29FADC8B = Drop off the targets
+
+0x30BD96AA = Some supplies ~1b~ are now safely within the drop off area.
+
+0x31E2A46B = Take the Bounty Wagon to the area to deliver your bounty targets.
+
+0x31F0FD02 = RESUPPLY
+
+0x32F319F4 = to the ~HC_~1p~~location~s~
+
+0x33B0E363 = to ~HC_~1p~~Rhodes Sheriff's Office~s~
+
+0x33D97838 = Siltwater Strand
+
+0x39ACFDF6 = Cash bag
+
+0x39CFD7AD = to the ~HC_~1p~~location~s~
+
+0x41BFA388 = Drop off the dead bounty target at the wagon to deliver them.
+
+0x46CC5E5F = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+0x46EC8CEA = Supply bags delivered
+
+0x47AC3802 = Worker
+
+0x50AF4BBA = The ~COLOR_ENEMY~enemies~s~ have taken a canoe ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x51AFE9EA = Stranger
+
+0x51CFD8EB = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x51EF09A5 = to ~HC_~1p~~Wallace Station~s~
+
+0x52A0CCCD = to ~HC_~1p~~Elysian Pool~s~
+
+0x52EE63FE = Take the Bounty Wagon to the wagon to deliver your bounty target.
+
+0x53A86D62 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0x54BDC058 = to ~HC_~1p~~Cholla Springs~s~
+
+0x54CA8039 = to ~HC_~1p~~Scarlett Cabin~s~
+
+0x55F4FFFF = Quaker's Cove
+
+0x55FEA118 = You have brought some supplies ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x58ED792D = to the ~HC_~1p~~shack~s~
+
+0x58F796A9 = Deliver ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ ~1~
+
+0x59ACB6CE = The ~COLOR_ENEMY~enemies~s~ have taken the prisoner ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x59C80ECA = Turn in item
+
+0x60BEFB61 = ~1~ is stealing a Captive
+
+0x60DBC1D5 = to the ~HC_~1p~~location~s~
+
+0x61BE60D8 = Door
+
+0x62FC6945 = to the ~HC_~1p~~farm~s~
+
+0x63BE4555 = Fort Mercer
+
+0x64A1EFF8 = Inspected Clue
+
+0x65CC63D6 = to ~HC_~1p~~Fort Mercer~s~
+
+0x65F99B2C = Player Bounty
+
+0x67EED8E8 = Prison Wagon
+
+0x69ADDD05 = to ~HC_~1p~~Mount Hagen~s~
+
+0x69C68505 = The ~COLOR_ENEMY~enemies~s~ have taken the horse ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x69DDB364 = Police Wagon
+
+0x69F66F4D = A horse ~1b~ is now safely within the drop off area.
+
+0x70A4E6D9 = to the ~HC_~1p~~alley~s~
+
+0x70AEE8CC = to ~HC_~1p~~Rhodes~s~
+
+0x71E0520C = Cripps
+
+0x71F6273C = to ~HC_~1p~~Aurora Basin~s~
+
+0x73DFF88F = The Posse abandoned the job
+
+0x74D0E696 = Materials added
+
+0x76E816DB = to ~HC_~1p~~Silent Stead~s~
+
+0x77F133EA = to ~HC_~1p~~Beaver Hollow~s~
+
+0x78ACFF72 = Resupply
+
+0x78B20919 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x79FF5EA0 = to ~HC_~1p~~Doyle's Tavern~s~
+
+0x80FAEFCC = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the targets
+
+0x81A777A9 = ~1~/~2~
+
+0x81B8CF00 = to the ~HC_~1p~~Rhodes Granary~s~
+
+0x81D9FCD0 = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0x84A994EB = ~1~ alive, ~2~ dead
+
+0x84B81C53 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0x86B22779 = to the ~HC_~1p~~Strawberry Sheriff's Office~s~
+
+0x86EBF161 = Rancher
+
+0x87FF8752 = Cueva Seco
+
+0x89B62062 = to the ~HC_~1p~~abandoned building~s~
+
+0x90A1F948 = to the ~HC_~1p~~gallows~s~
+
+0x90C4EAEB = Use ~INPUT_VEH_SHUFFLE~ to take the reins from the driver and control the wagon.
+
+0x91EC5629 = to ~HC_~1p~~Benedict Point~s~
+
+0x94FFDC05 = to the ~HC_~1p~~location~s~
+
+0x96D29632 = to ~HC_~1p~~Thieves Landing~s~
+
+0x96F3BD1E = to ~HC_~1p~~Butcher Creek~s~
+
+0x97D58281 = to ~HC_~1p~~Doverhill~s~
+
+0x97E65C90 = The ~COLOR_ENEMY~enemies~s~ have taken the boat ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x98C8AAC2 = Defend Target
+
+0x98DE0762 = to ~HC_~1p~~Rhodes Parlor House~s~
+
+0x143D2BE2 = The ~COLOR_ENEMY~enemies~s~ have taken a stranger ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x250D3BD0 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the target.
+
+0x286C0581 = to the ~HC_~1p~~Loft~s~
+
+0x365A34C8 = You have brought the proof of the kill ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x401D7411 = ~1~ (~2p~)
+
+0x416CD62C = Solomon's Folly
+
+0x425BA21D = You have brought a stranger ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x452BA018 = You have brought the cart ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x463E5D8B = You have brought the canoe ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x497DE0D0 = to ~HC_~1p~~Pleasance Settlement~s~
+
+0x500A6DEB = to the ~HC_~1p~~shack~s~
+
+0x503AFE0C = Rattlesnake Hollow
+
+0x529C8F54 = to ~HC_~1p~~Emerald Station~s~
+
+0x554F69F7 = Caravan Escort
+
+0x570D1ABA = Defend
+
+0x576A33E5 = The ~COLOR_ENEMY~enemies~s~ have taken the caravan ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x581F3F11 = to ~HC_~1p~~Painted Sky~s~
+
+0x598D26E1 = Oil Wagon
+
+0x609FA87A = You have brought a horse ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x611E0DF8 = to ~HC_~1p~~Old Greenbank Mill~s~
+
+0x614DF114 = to the ~HC_~1p~~Tree House~s~
+
+0x619BC2B3 = to ~HC_~1p~~Larned Sod~s~
+
+0x629FA73A = to ~HC_~1p~~Window Rock~s~
+
+0x657A7822 = to ~HC_~1p~~Emerald Station~s~
+
+0x669C2BF5 = to ~HC_~1p~~Van Horn Trading Post~s~
+
+0x692F6BDF = Get in the rowing seat
+
+0x700DA8AA = Your Posse abandoned the job
+
+0x721E8228 = to ~HC_~1p~~Owanjila Dam~s~
+
+0x730B0B5A = Iguana
+
+0x746E9270 = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bag~s~
+
+0x787D708F = to ~HC_~1p~~Rathskeller Fork~s~
+
+0x795E5FF7 = Reward
+
+0x817C8101 = The caravan ~1b~ is now safely within the drop off area.
+
+0x817E3376 = to the ~HC_~1p~~search area~s~
+
+0x820D2ED9 = to ~HC_~1p~~Plainview~s~
+
+0x836D4DAF = Hold ~INPUT_CONTEXT_B~ to stop the wagon driver.
+
+0x847EE0D3 = Your Posse abandoned the hunt
+
+0x871ACBE3 = to the ~HC_~1p~~ranch~s~
+
+0x881E8481 = You have brought the target ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x925CE8B2 = Inspect
+
+0x951C4C87 = A prisoner ~1b~ is now safely within the drop off area.
+
+0x954E2194 = ~1~ is escorting a Captive
+
+0x982A6D90 = Turn in bag
+
+0x982B7797 = to ~HC_~1p~~Bolger Glade~s~
+
+0x1367BDFB = Follow Me
+
+0x1529F606 = to ~HC_~1p~~Hanging Rock~s~
+
+0x1645B3DA = to ~HC_~1p~~Nekoti Rock~s~
+
+0x1713F9F6 = Prison Wagon
+
+0x1959A3CB = Supply bag delivered
+
+0x2337EF96 = Resupply
+
+0x2784AA95 = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has been lost
+
+0x2864E36D = to the ~HC_~1p~~homestead~s~
+
+0x3026A954 = to ~HC_~1p~~Lonnie's Shack~s~
+
+0x3034B6CC = to ~HC_~1p~~Twin Stack Pass~s~
+
+0x3134F06E = Goods Wagon
+
+0x3449D039 = to the ~HC_~1p~~estate~s~
+
+0x3554AF3B = Take the supplies ~1~
+
+0x3859AE38 = to ~HC_~1p~~Frontera Overlook~s~
+
+0x3882AE2D = Resupply
+
+0x3917BCE8 = to the ~HC_~1p~~location~s~
+
+0x3960A10A = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~
+
+0x3992C038 = $~1~
+
+0x4294A882 = Resupply
+
+0x4431D19D = Known Target Moving
+
+0x4482DD8D = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x4866B5DA = to the ~HC_~1p~~Thieves Landing Docks~s~
+
+0x5154CAB7 = to ~HC_~1p~~Rio Bravo~s~
+
+0x5202B389 = Enemy Area
+
+0x5288C3ED = to ~HC_~1p~~Aurora Basin~s~
+
+0x5808A18D = to ~HC_~1p~~Roanoke Valley~s~
+
+0x5862C792 = Goat
+
+0x6041C12B = The ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ is escaping. Catch up to them before they get away.
+
+0x6147B865 = The ~COLOR_ENEMY~enemies~s~ have taken the target ~1b~ to the drop off area and they can no longer be interacted with.
+
+0x6404C9F2 = to ~HC_~1p~~Two Crows~s~
+
+0x6504A2B8 = to ~HC_~1p~~Butter Bridge~s~
+
+0x6567B388 = Pig
+
+0x6955E9B9 = to ~HC_~1p~~Castor's Ridge~s~
+
+0x7038B8E2 = to the ~HC_~1p~~camp~s~
+
+0x7114EE6C = You have brought a buggy ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x7238FA6E = You have brought a prisoner ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x7863DC53 = You delivered a supply bag
+
+0x7941E659 = Supplies were destroyed
+
+0x7975C16B = Hideout Cleared
+
+0x9244C9F2 = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+0x9351C6B6 = Herbalist Goods
+
+0x9547F38E = Resupply
+
+0x11318A4B = to ~HC_~1p~~Gaptooth Breach~s~
+
+0x13898D2B = The stagecoach ~1b~ is now safely within the drop off area.
+
+0x14142F90 = to ~HC_~1p~~Pike's Basin~s~
+
+0x14251E34 = You have brought the prisoner ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x14472AF7 = The supplies ~1b~ are now safely within the drop off area.
+
+0x23400C4B = Boat Theft
+
+0x28622B2B = to the ~HC_~1p~~graveyard~s~
+
+0x29356E12 = to ~HC_~1p~~Rhodes Train Station~s~
+
+0x30316EE1 = Get off the horse
+
+0x32489CBA = to the ~HC_~1p~~Lower Montana River~s~
+
+0x38507CC4 = The ~COLOR_ENEMY~enemies~s~ have taken the proof of the kill ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x42527D69 = Target Escaped
+
+0x49018D5F = Destroy Supplies
+
+0x53483B33 = Accept Mission
+
+0x66302F4F = Delivery
+
+0x79934AB5 = Goods Delivery
+
+0x82946D19 = Early Execution
+
+0x83766BC0 = Shady Belle
+
+0x83855C49 = to the ~HC_~1p~~Armadillo Sheriff's Office~s~
+
+0x84575D4A = You abandoned the hunt
+
+0x86183AC9 = to their ~HC_~1p~~camp~s~
+
+0x95672B40 = to ~HC_~1p~~Lakay~s~
+
+0x96781FB5 = The ~COLOR_ENEMY~enemies~s~ have taken the wagon ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x97697E94 = to the ~HC_~1p~~station~s~
+
+0x134910BD = ~1~ alerted the target
+
+0x149342CD = to ~HC_~1p~~Old Tom's Blind Camp~s~
+
+0x192845B1 = Known Target
+
+0x291735C4 = Colter
+
+0x312838DE = Ambush
+
+0x383788EA = Hanging Dog Ranch
+
+0x446997B6 = to the ~HC_~1p~~Valentine Station~s~
+
+0x539900BE = The ~COLOR_ENEMY~enemies~s~ have taken a wagon ~1b~ to the drop off area and it can no longer be interacted with.
+
+0x784693FD = to the ~HC_~1p~~Central Union Railroad Camp~s~
+
+0x807156BB = You have brought the boat ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x812848D3 = Bounty
+
+0x826207FE = Get on the ~COLOR_MP_OBJECTIVE~train
+
+0x864860F2 = to the ~HC_~1p~~Police Station~s~
+
+0x917081D6 = A canoe ~1b~ is now safely within the drop off area.
+
+0x938473B9 = Your Posse delivered a supply bag
+
+0x945296FF = to ~HC_~1p~~Aberdeen Pig Farm~s~
+
+0x961144BB = to the ~HC_~1p~~prison wagon~s~
+
+0x4343998B = to ~HC_~1p~~Benedict Point~s~
+
+0x5269883D = Take the bounty target inside to deliver them alive.
+
+0x5783630C = You lost honor as you or your Posse chose not to follow the additional objectives.
+
+0x5944956A = to the ~HC_~1p~~shack~s~
+
+0x7229512D = Pick up bag
+
+0x19548707 = to ~HC_~1p~~Ambarino~s~
+
+0x30758963 = You have brought the caravan ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0x31125862 = Drop off the target
+
+0x31209935 = to ~HC_~1p~~Brandywine Drop~s~
+
+0x36041864 = ~1~ alerted the targets
+
+0x37021102 = to the ~HC_~1p~~Rhodes Sheriff's Office~s~
+
+0x42506565 = Unlock
+
+0x43528917 = to the ~HC_~1p~~homestead~s~
+
+0x62642608 = Captive
+
+0x64310079 = Take the Bounty Wagon to the wagon to deliver your bounty targets.
+
+0x72076915 = Bear Skin
+
+0x73047522 = to ~HC_~1p~~Scratching Post~s~
+
+0x77968340 = Outlaw
+
+0x81702416 = Donkey
+
+0x90944605 = Bounty
+
+0x95629983 = to the ~HC_~1p~~Annesburg Mines~s~
+
+0xA033CAC7 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye, sharpening your senses for a limited amount of time.
+
+0xA04C7D42 = to ~HC_~1p~~Flatneck Station~s~
+
+0xA0AECA5A = Prisoner
+
+0xA0B2EE83 = to ~HC_~1p~~Millesani Claim~s~
+
+0xA0D001BB = The ~COLOR_ENEMY~enemies~s~ have taken the stranger ~1b~ to the drop off area and they can no longer be interacted with.
+
+0xA0E4939E = Circus Wagon
+
+0xA0EAB52A = to ~HC_~1p~~Hill Haven Ranch~s~
+
+0xA3BE7C98 = The ~COLOR_ENEMY~enemies~s~ have taken a horse ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xA4C08E8D = Horse
+
+0xA4CF4471 = Camp Raid
+
+0xA6FC7D4B = Jail Door
+
+0xA7E33401 = to the ~HC_~1p~~location~s~
+
+0xA64E67FC = Black Wolf
+
+0xA67FD731 = to the ~HC_~1p~~chapel~s~
+
+0xA88C3D52 = The Posse abandoned the hunt
+
+0xA260F8BD = to ~HC_~1p~~MacFarlane's Ranch~s~
+
+0xA996A4D9 = The wagon ~1b~ is now safely within the drop off area.
+
+0xA2214E27 = to ~HC_~1p~~Emerald Ranch~s~
+
+0xA6076B39 = The target has left the area. Follow their tracks to any clues they have left behind to find them.
+
+0xA7177D9C = to ~HC_~1p~~Solomon's Folly~s~
+
+0xA7254BBE = to ~HC_~1p~~Ringneck Creek~s~
+
+0xA8388E75 = Steal the supplies and deliver them to Camp ~1b~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xAA6C8E4D = Start Wagon
+
+0xAA7B3BFF = to ~HC_~1p~~Canebreak Manor~s~
+
+0xAAF11B8A = Hideout
+
+0xABB35C46 = Go ~1~
+
+0xABD34CD7 = You have brought the supplies ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xABE50061 = to ~HC_~1p~~Strawberry~s~
+
+0xAC6E9E9A = to ~HC_~1p~~Riley's Charge~s~
+
+0xACE6342C = to ~HC_~1p~~Blackwater Dock~s~
+
+0xACEDC993 = to ~HC_~1p~~Cumberland Forest~s~
+
+0xAEA9D7D2 = Time Remaining
+
+0xAEDBE7CD = to ~HC_~1p~~Scarlett Meadows~s~
+
+0xAEE6867A = to the ~HC_~1p~~shack~s~
+
+0xAEFB99FD = A bounty target has been killed
+
+0xAF7D4EB6 = Goods Delivery
+
+0xAF334051 = The cart ~1b~ is now safely within the drop off area.
+
+0xAFB7E0EC = to the ~HC_~1p~~Jackson Worth Auction Yard~s~
+
+0xB0077C87 = Last Known Location
+
+0xB03D4B9C = to the ~HC_~1p~~Whiskey Tree~s~
+
+0xB08EBC9E = Press ~INPUT_INTERACT_HIT_CARRIABLE~ to hit the bounty target and prevent them from escaping.
+
+0xB0C64041 = to ~HC_~1p~~Old Trail Road~s~
+
+0xB0EB2DF1 = to ~HC_~1p~~Saint Denis~s~
+
+0xB3F1133B = to the ~HC_~1p~~shack~s~
+
+0xB3FD0549 = to ~HC_~1p~~Saints Hotel~s~
+
+0xB5AAD103 = Goods Sack
+
+0xB5D1B6EE = Bounty Hunter
+
+0xB6E25741 = You have brought a target ~1b~ to the drop off area.
+
+0xB8DC4C90 = ~1~ alive, ~2~ dead, ~3~ lost
+
+0xB8F3FCD0 = to ~HC_~1p~~Venter's Place~s~
+
+0xB12E71A1 = The Old Bacchus Place
+
+0xB16D82A9 = to the ~HC_~1p~~homestead~s~
+
+0xB38B7EAD = to ~HC_~1p~~Gaptooth Shore~s~
+
+0xB42C80AE = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0xB70FFE0C = Stagecoach
+
+0xB71F51A6 = to the ~HC_~1p~~shack~s~
+
+0xB976A3AE = to the ~HC_~1p~~shack~s~
+
+0xB2874FCA = to ~HC_~1p~~West Elizabeth~s~
+
+0xB3731CC2 = Use ~INPUT_VEH_BOAT_TURN_LR~ to control the canoe. ~n~Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle faster.
+
+0xB8551CCE = to the ~HC_~1p~~hideout~s~
+
+0xB9956B14 = A hogtied stranger ~1b~ is requesting help. Approach them and hold ~INPUT_CONTEXT_B~ when prompted to untie them.
+
+0xB553730E = to ~HC_~1p~~Tall Trees~s~
+
+0xB871473A = Your Posse delivered a bounty dead
+
+0xB899868A = to the ~HC_~1p~~shack~s~
+
+0xB9746348 = to ~HC_~1p~~Limpany~s~
+
+0xBA46F387 = Take the Bounty Wagon to the area to deliver your bounty target.
+
+0xBA48CE63 = Bounty delivered dead
+
+0xBB05C579 = to ~HC_~1p~~Bacchus Station~s~
+
+0xBCA1861C = to ~HC_~1p~~Barrow Lagoon~s~
+
+0xBCAEF140 = Sea of Coronado
+
+0xBD96B7D8 = Goods
+
+0xBDA33FFF = Mission Over
+
+0xBDBA1946 = ~1~ delivered a supply bag
+
+0xBDBE91B3 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply bags~s~ for Camp
+
+0xBF8CE1D6 = to ~HC_~1p~~Valentine~s~
+
+0xBF4314F8 = Take the bounty target to the wagon and deliver them alive.
+
+0xBFC64369 = Lakay
+
+0xC0186FCC = to ~HC_~1p~~Ridgewood Farm~s~
+
+0xC0485465 = to the ~HC_~1p~~abandoned oil derrick~s~
+
+0xC06AC5D6 = Grizzlies Mine
+
+0xC070561F = A buggy ~1b~ is now safely within the drop off area.
+
+0xC1C8226D = to ~HC_~1p~~Spider Gorge~s~
+
+0xC2ACB146 = to ~HC_~1p~~Tumbleweed~s~
+
+0xC3CC87E2 = to ~HC_~1p~~Fort Riggs~s~
+
+0xC3F8CE60 = ~1~/~2~ bags delivered
+
+0xC4CAEDCD = A wagon ~1b~ is now safely within the drop off area.
+
+0xC6BBCDBB = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0xC6C32598 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the target
+
+0xC7B4249F = Stop Wagon
+
+0xC7BCB7E8 = Sheep
+
+0xC8F02497 = Stolen Wagon
+
+0xC11B9D62 = Fort Brennand
+
+0xC27B3253 = Supplies
+
+0xC75F3B0E = Farmer
+
+0xC523FD22 = to the ~HC_~1p~~homestead~s~
+
+0xC701C538 = Cholla Springs
+
+0xC770DB93 = to ~HC_~1p~~Lake Isabella~s~
+
+0xC2056B59 = You have brought a canoe ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xC4509BD9 = The target can be stored on your horse for easy transport if there is space.
+
+0xC16826E4 = to the ~HC_~1p~~drop off~s~
+
+0xC54872CC = Fort Riggs
+
+0xC617695E = to the ~HC_~1p~~homestead~s~
+
+0xC3493390 = Go ~1~
+
+0xCA3B4746 = to ~HC_~1p~~Willard's Rest~s~
+
+0xCC64C39A = rival Posses
+
+0xCC75F70F = Six Point Cabin
+
+0xCCAAF791 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0xCCE4A8FE = to ~HC_~1p~~Maclean's House~s~
+
+0xCCE812EB = Manteca Falls
+
+0xCD13BE99 = to ~HC_~1p~~New Hanover~s~
+
+0xCD126B4D = Millesani Claim
+
+0xCD358F08 = ~1~ delivered a bounty alive
+
+0xCD628D48 = Mission Failed
+
+0xCD666F84 = to ~HC_~1p~~Annesburg~s~
+
+0xCD582145 = to ~HC_~1p~~Cotorra Springs~s~
+
+0xCE0CD07E = Traveler
+
+0xCED1F7EF = to ~HC_~1p~~Colter~s~
+
+0xCEEDF4AF = A stranger ~1b~ is requesting help. Approach them and hold ~INPUT_INTERACT_LOCKON~ when prompted to speak to the stranger.
+
+0xCF99793A = Testbed
+
+0xCFA54CD0 = Owanjila Dam
+
+0xCFD40F34 = Early Release
+
+0xCFF05B39 = The targets are nearby. Search their last known location ~o~~BLIP_AMBIENT_SECRET~~s~ for signs of their whereabouts.
+
+0xD067D4DB = to the ~HC_~1p~~shack~s~
+
+0xD2E4483A = to the ~HC_~1p~~freight yard~s~
+
+0xD3CA36E9 = to ~HC_~1p~~Shady Belle~s~
+
+0xD3E64857 = ~1~ units of materials added
+
+0xD4C8ED76 = Recovery
+
+0xD5BE3718 = The canoe ~1b~ is now safely within the drop off area.
+
+0xD5C09D37 = Repentance
+
+0xD5D8B022 = Cow
+
+0xD6B81FE6 = Cougar
+
+0xD6D30CD6 = to ~HC_~1p~~Armadillo~s~
+
+0xD7EEBD9A = Turn in mail
+
+0xD9A928FB = Get out of the vehicle
+
+0xD26C6A2F = to the ~HC_~1p~~shack~s~
+
+0xD26FA35B = A bounty has been delivered alive
+
+0xD54BF68A = to the ~HC_~1p~~crater~s~
+
+0xD67DC534 = You have brought the target ~1b~ to the drop off area.
+
+0xD91A2FD3 = to the ~HC_~1p~~stable~s~
+
+0xD99FFFFD = to the ~HC_~1p~~train~s~
+
+0xD193F0D6 = to ~HC_~1p~~Copperhead Landing~s~
+
+0xD538C464 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the targets.
+
+0xD933A1F7 = to the ~HC_~1p~~Prinz & Co. Slaughterhouse~s~
+
+0xD2362C34 = to the ~HC_~1p~~Rhodes General Store~s~
+
+0xD9172FC4 = Target Captured and Delivered
+
+0xD26657B1 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xD32224C3 = Canoe
+
+0xD54360DD = Hideout
+
+0xD209946A = Prisoner
+
+0xD678075A = to ~HC_~1p~~Oddfellow's Rest~s~
+
+0xD3388497 = The ~COLOR_ENEMY~enemies~s~ have taken a target ~1b~ to the drop off area and they can no longer be interacted with.
+
+0xD3957351 = to ~HC_~1p~~Rathskeller Fork~s~
+
+0xD6008829 = On The Hunt
+
+0xDA255CF0 = to the ~HC_~1p~~Great Plains~s~
+
+0xDAA02849 = Pronghorn
+
+0xDAA96CB0 = The ~COLOR_ENEMY~enemies~s~ have taken the supplies ~1b~ to the drop off area and they can no longer be interacted with.
+
+0xDAC6B1B7 = to ~HC_~1p~~Riggs Station~s~
+
+0xDAEAD70F = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0xDB6A3D8C = to ~HC_~1p~~Mercer Station~s~
+
+0xDB6EA48C = to ~HC_~1p~~Big Valley~s~
+
+0xDB36D302 = Bushwhack
+
+0xDBBFD463 = The ~COLOR_ENEMY~enemies~s~ have taken the buggy ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xDBDAFB7D = The Target ~1b~ is now safely within the drop off area.
+
+0xDC08A541 = Flatneck Station
+
+0xDC815A80 = VIPs Remaining
+
+0xDC918A87 = Bear Claw
+
+0xDC8990C8 = Resupply
+
+0xDCAE1103 = Cougar Skin
+
+0xDDA2C7BD = Customer
+
+0xDDB579E3 = The ~COLOR_ENEMY~enemies~s~ have taken the stagecoach ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xDE1A2FC0 = Jailbreak
+
+0xDE370248 = Gray Wolf
+
+0xDF94F78A = to ~HC_~1p~~Cairn Lodge~s~
+
+0xDFC9C4C4 = Track down the target and return them to the law
+
+0xE0C76C15 = Bandits have raided your Camp and stolen ~COLOR_ENEMY~~1~~s~ of your goods from Cripps Trading Co.
+
+0xE2CF2B0A = to the ~HC_~1p~~Braithwaite Estate~s~
+
+0xE4F746E8 = to the ~HC_~1p~~bridge~s~
+
+0xE5DF5E2D = Focus on the clue
+
+0xE5FF0322 = Campsite Defend
+
+0xE6C4C016 = to the ~HC_~1p~~Cornwall Kerosene & Tar~s~
+
+0xE8CCCA10 = Payroll Wagon
+
+0xE35AB126 = You have brought a target ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xE37E6D94 = Trail
+
+0xE51B0F7B = to ~HC_~1p~~Ewing Basin~s~
+
+0xE57A8C7A = to the ~HC_~1p~~Elysian Pool cave~s~
+
+0xE65FEC14 = Get in the driver seat
+
+0xE86B6BAD = The goods ~1b~ have been damaged. Driving offroad, recklessly, or colliding with obstacles will cause damage.
+
+0xE89DEE60 = A cart ~1b~ is now safely within the drop off area.
+
+0xE95B139F = Drop Off
+
+0xE96C2D17 = Wagon Theft
+
+0xE107BD08 = Target
+
+0xE139B6E8 = to the ~HC_~1p~~farm~s~
+
+0xE384CFBC = to ~HC_~1p~~Shepherds Rise~s~
+
+0xE3829FBB = You have brought the stagecoach ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xE4073C5D = Accept Escort
+
+0xE13065FF = Hamlin's Passing
+
+0xE71469AF = to the ~HC_~1p~~farm~s~
+
+0xE677403C = ~COLOR_ENEMY~Hunt Over~s~
+
+0xE752834B = Bacchus Station
+
+0xE2936184 = You have brought the horse ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xE4068474 = to ~HC_~1p~~MacFarlane's Ranch Station~s~
+
+0xE5820593 = to the ~HC_~1p~~Swamp~s~
+
+0xE9634693 = You have brought the wagon ~1b~ to the drop off area. Enemies cannot interact with you while inside the drop off area.
+
+0xEB0B2AB6 = A boat ~1b~ is now safely within the drop off area.
+
+0xEB701210 = to ~HC_~1p~~Macomb's End~s~
+
+0xEBA94181 = Targets Escaped
+
+0xEBE3740E = You delivered a bounty alive
+
+0xEC4CA07E = Alligator
+
+0xEC80AB73 = Bounty Over
+
+0xEC73560C = to the ~HC_~1p~~cabin~s~
+
+0xEE45A772 = to ~HC_~1p~~Bayou Train Overpass~s~
+
+0xEEA355F3 = Mailbox
+
+0xEF9F8575 = to the ~HC_~1p~~Blackwater Police Department~s~
+
+0xEF80B5FF = Bringing the boat into the rapids will cause it to sink.
+
+0xEFD1C52E = Use ~INPUT_VEH_BOAT_TURN_LR~ to control the boat. ~n~Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle faster.
+
+0xEFE510C4 = War Wagon
+
+0xF1AB797E = to the ~HC_~1p~~orchards~s~
+
+0xF2C1B35F = Rescue
+
+0xF2D8EF24 = The ~COLOR_ENEMY~enemies~s~ have taken a cart ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xF3B59C2D = ~1$~ player bounty nearby
+
+0xF4E118DA = to the ~HC_~1p~~Grizzlies~s~
+
+0xF7EE98DC = A bounty has been delivered dead
+
+0xF7FF9BC9 = Bison Pelt
+
+0xF8D98D0B = You are escorting a ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~
+
+0xF8E74DC9 = Get on the wagon
+
+0xF23A1974 = to the ~HC_~1p~~Heartlands~s~
+
+0xF46BE642 = Wagon
+
+0xF56B8229 = to ~HC_~1p~~Black Bone Forest~s~
+
+0xF57E3462 = Supplies Bag
+
+0xF86BF898 = to the ~HC_~1p~~stables~s~
+
+0xF86F545A = Train
+
+0xF335A62F = to the ~HC_~1p~~shack~s~
+
+0xF367C965 = to the ~HC_~1p~~cabin~s~
+
+0xF720C58F = Leader
+
+0xF760D26E = Horse Theft
+
+0xF933E041 = to ~HC_~1p~~Bayou Nwa~s~
+
+0xF978A8B9 = to ~HC_~1p~~Pleasance House~s~
+
+0xF99482BC = to ~HC_~1p~~Riley's Charge~s~
+
+0xF1286326 = Passenger
+
+0xF2049163 = to the ~HC_~1p~~ranch~s~
+
+0xF3494709 = to the ~HC_~1p~~mine~s~
+
+0xF8227544 = to the ~HC_~1p~~Valentine General Store~s~
+
+0xFA1D91A8 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xFA3EB996 = Townfolk
+
+0xFA4AFFE5 = Delivery Wagon
+
+0xFA65EAE4 = The ~COLOR_ENEMY~enemies~s~ have taken the canoe ~1b~ to the drop off area and it can no longer be interacted with.
+
+0xFB4A9A39 = A stagecoach ~1b~ is now safely within the drop off area.
+
+0xFB39E539 = Elk Pelt
+
+0xFBB47162 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ were lost
+
+0xFC3A5CF6 = to the ~HC_~1p~~Blackwater Camp~s~
+
+0xFC8F49D9 = You lost honor as you killed a guard.
+
+0xFC3310D0 = Cow
+
+0xFCA6C050 = Get on the horse
+
+0xFCA26203 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye, sharpening your senses for a limited amount of time.
+
+0xFD10B362 = Twin Rocks
+
+0xFDE02398 = ~COLOR_ENEMY~Hunted~s~
+
+0xFE7AE6F4 = Zebra
+
+0xFF7A7B5E = to the ~HC_~1p~~Van Horn Stables~s~
+
+0xFFBF4E43 = Kamassa River
+

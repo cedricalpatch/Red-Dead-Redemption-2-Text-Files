@@ -1,0 +1,32 @@
+0x010BE18C = ~z~~sl:0.0:2.6~Wonder if we're going to make it this time,~sl:0.0:2.4~wonder if ole Dutch hasn't bitten off more than he can chew.
+
+0x01C5A17C = ~z~
+
+0x1BC25591 = ~z~~sl:0.0:1.2~when all of a sudden I looked~sl:0.0:2.3:1~and my money and my gun had disappeared!
+
+0x2E06BB79 = ~z~~sl:0.0:3.1~I thought I could con the paint off a wall but he was good.~sl:0.2~He was good.
+
+0x3C079603 = ~z~~sl:0.0:1.5~Though who knows exactly what.
+
+0x3F505E0C = ~z~~sl:0.0:2.0~Oh, Dutch was something special back then,~sl:~I guess he's something special now.
+
+0x8DBBFAEE = ~z~~sl:0.0:4.4~I'd spun him this yarn about a mile long~sl:~about my daddy the ambassador and would
+
+0x12C684F9 = ~z~~sl:0.0:1.2~I feel...~sl:0.9:1.0~Well...~sl:1.0~I feel like I look.
+
+0x49B23158 = ~z~~sl:0.0:1.5~Here we're at.~sl:0.0:1.2~Facing...~sl:0.3:1.2~something....~sl:0.3~together... I guess.
+
+0x64CAA900 = ~z~~sl:0.0:1.5~Chicago back in...~sl:0.2:0.7~when was it?~sl:0.0:1.8~'78 or thereabouts...~sl:2.2~more than 20 years.
+
+0x467A9902 = ~z~Mind if join you?
+
+0x498B7282 = ~z~And we ain't dead yet, not quite.
+
+0x2970F0EE = ~z~~sl:0.0:1.2~We laughed and...~sl:1.5~said we'd face the future together.
+
+0xA522E838 = ~z~he help me find my way back to Paris, France,
+
+0xE4912897 = ~z~~sl:4.3:2.1~Pair of hucksters trying to rob each other,~sl:1.0~by a fire just like this on the road to
+
+0xF64ECC12 = ~z~~sl:0.0:1.3~Good ole Dutch.~sl:0.2:1.2~My best friend.~sl:3.0~You know how we met?
+

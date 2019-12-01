@@ -1,0 +1,24 @@
+0x3CA29E9F = ~z~
+
+0x5CC54236 = ~z~You been fishing at all?
+
+0x6EFFE6AB = ~z~No.
+
+0x29DC5C61 = ~z~One day, I hope you can understand that.
+
+0x93ACB004 = ~z~How's the book?
+
+0x184AB93E = ~z~Okay.
+
+0x889046C3 = ~z~It ain't just you John. He's awful to everybody.
+
+0xA5EB5481 = ~z~Okay.
+
+0xC6F2168E = ~z~You know, son, I love you more than I can say. Really I do.
+
+0xCB5D1A7B = ~z~But my God, are you a miserable little brat at times.
+
+0xE1A94BFC = ~z~Things I done... sacrifices I made... the only principle I always held dear, is my love for you.
+
+0xFE0384B0 = ~z~How are your studies?
+

@@ -1,0 +1,12 @@
+0x1D0C7EEA = ~z~Get up, kid! Get up and do some goddamn work!
+
+0x1E8A56F4 = ~z~Useless sack of crap, this kid is...
+
+0x10C03B60 = ~z~~sl:0.7:0.8:1~Sure.
+
+0x75DD308E = ~z~Yes!
+
+0xA55E0F8F = ~z~I was just...
+
+0xB347AB62 = ~z~I ain't interested, get up and work!
+

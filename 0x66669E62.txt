@@ -1,0 +1,8 @@
+0x25C075E6 = ~z~We won't have to kill this one, will we? She's my favorite.
+
+0x300E8A86 = ~z~It's alright, I won't make you do anything till you're ready.
+
+0x654BF500 = ~z~I ain't doing it. I-I-I can't... I-I ain't... tough like you.
+
+0xEFFD0A60 = ~z~One day we might have to, yeah. If we need the meat.
+

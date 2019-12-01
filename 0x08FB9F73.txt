@@ -1,0 +1,10 @@
+0x8DE4822B = ~z~Don't worry... you healing up okay?
+
+0x9FF92654 = ~z~Arthur! Arthur! I just wanted to thank you for saving my hide once more.
+
+0x72B14BC5 = ~z~Of course, of course. But you look after yourself.
+
+0x55869170 = ~z~Sure, right as rain... except for the headaches, and wonky vision and peeing blood...
+
+0xCBA47DAA = ~z~Well, you look after yourself.
+

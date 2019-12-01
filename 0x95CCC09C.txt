@@ -1,0 +1,22 @@
+0x2F08E93E = ~s~Joshua Brown~s~
+
+0x2FAA99FA = Joshua Brown's corpse could not be retrieved.
+
+0x3EA0EE05 = ~s~Capture ~e~Joshua Brown~s~ alive~s~
+
+0x5E7B9D0B = Joshua Brown was left behind.
+
+0x9A17127D = Joshua Brown has died.
+
+0x621A4B24 = You became wanted.
+
+0x693FD369 = You attacked the sheriff.
+
+0x757CCAE5 = Joshua Brown's corpse was left behind.
+
+0xCE5E13A0 = ~s~Disarm ~e~Joshua Brown~s~
+
+0xDEF2AF44 = You abandoned the jail.
+
+0xF6678E6A = Joshua Brown escaped.
+

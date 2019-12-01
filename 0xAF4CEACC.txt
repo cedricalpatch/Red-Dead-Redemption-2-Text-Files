@@ -1,0 +1,50 @@
+0x0E3004F8 = ~z~Why are you naysaying this?
+
+0x2EA057E1 = ~z~I talk to a few folks, and it turns out something real bad did transpire.
+
+0x2F0305B3 = ~z~Ok, no worries. Just thought I'd seen your face before somewhere.
+
+0x5CD66256 = ~z~My mama left me for dead as a child and I've been on my own ever since,
+
+0x7AAB1DFF = ~z~~sl:0.0:6.6~I don't hold any pain, not no more, but I'm sure she carried that around.~sl:0.2~Just like them people of Rhodes carry theirs.
+
+0x44DD68B2 = ~z~~sl:0.0:1.8~Now I didn't get into no details,~sl:0.2~and they don't like talking about it, but it's quite a thing.
+
+0x59EA0848 = ~z~Soon as I stepped foot in there, I sensed something... a mood.
+
+0x71B937E6 = ~z~I remember I stopped off in the town of Rhodes for a day or two last winter.
+
+0x71E7AB8A = ~z~Well, can't be jawing all day, things to do...
+
+0x84CD3243 = ~z~maybe that gives me a different eye for things.
+
+0x336B45CE = ~z~~sl:0.0:1.8~Seems an innocent got killed...~sl:0.7~and the whole place has the blood on their hands...
+
+0x8374A492 = ~z~No, you don't.
+
+0x56170B25 = ~z~~sl:0.0:2.6~Like, when you walk into an empty room...~sl:~and immediately either feel laughter, or tears.
+
+0xA506F745 = ~z~No, you don't.
+
+0xB61C0975 = ~z~Do I know you, mister? You kinda look familiar.
+
+0xBE575121 = ~z~I get that sometimes, a feeling about a person or a place.
+
+0xCF93384C = ~z~Okay, I'll leave it there, you're clearly a man who can't see past the end of his nose.
+
+0xD0A86335 = ~z~You know what I'm talking about, right?
+
+0xDBB88BEF = ~z~Sadness, shame... hard to say for sure, but you could feel it like a mist in the air.
+
+0xDE4574DE = ~z~Don't think so.
+
+0xE8DCCC5B = ~z~You see the color of my skin? I understand the difference well enough. Something else.
+
+0xE61B5594 = ~z~That's right, you dig beneath the surface a bit...
+
+0xF7DF65AC = ~z~Just hear me out, now.
+
+0xF70168A4 = ~z~And I don't mean the normal kind of sadness in them southern towns.
+
+0xFAF06E0B = ~z~Don't think so.
+

@@ -1,0 +1,78 @@
+0x086FDB64 = ~z~Hope you knocked some sense into him. You know what momma do when they lively.
+
+0x0E32E6EA = ~z~Slippery lil' feller.
+
+0x1DD9FCC8 = ~z~Who the hells this? Get that boy!
+
+0x1EA685FF = ~z~Y'all heading out?
+
+0x1F0887FF = ~z~They should mind, alright?
+
+0x6CDA441A = ~z~All of 'em except us.
+
+0x6D283138 = ~z~Traveler... on his way from Annesburg to Roanoke.
+
+0x6FC92843 = ~z~Someone's got get supplies for momma.
+
+0x7F53FEE2 = ~z~care to make of him.
+
+0x43CB8CD5 = ~z~I ain't minding. It's outsiders should be minding.
+
+0x68A6A401 = ~z~I'm going get you boy!
+
+0x69A4377E = ~z~Been Murfree hills for more than a hundred years.
+
+0x81FBCCA8 = ~z~Might find me a traveler.
+
+0x91EB677C = ~z~These been our hills for over a hundred years.
+
+0x128CA6A2 = ~z~Picking getting slimmer, folks getting fatter.
+
+0x1959A4D0 = ~z~Someone's near the back way! We got to get this boy!
+
+0x4121E627 = ~z~I see you, outsider! I see you!
+
+0x17495C3C = ~z~Yeah, Murfrees going get what's theirs, don't you mind.
+
+0x22921C05 = ~z~What... what y'all got here?
+
+0x28345D4F = ~z~Anything out there belongs to us.
+
+0x77991E12 = ~z~We got a boy near the back way!
+
+0xA3C2920B = ~z~He may come to yet. If he do, we do something with him.
+
+0xA28B94F8 = ~z~These is Murfree hills.
+
+0xAD561E51 = ~z~Just look out.
+
+0xB5E83BB1 = ~z~Y'all ready? We only got till sun up.
+
+0xB980BD87 = ~z~Aww hell, he's all limp.
+
+0xB2749CCF = ~z~Have me some fun with him.
+
+0xBA74B88E = ~z~I know how long they been ours.
+
+0xBB614541 = ~z~Y'all come with me. Y'all go off by yourself.
+
+0xBED82A6E = ~z~Who that?! Who that right there?!
+
+0xC5DCC39F = ~z~Hey, y'all make sure no one spies you coming out here now.
+
+0xCBB1EE4A = ~z~Go on get him inside, see what momma
+
+0xCBC1E602 = ~z~Take what you can, and kill if you have to
+
+0xD7166612 = ~z~Hiding like dogs in Murfree Country.
+
+0xDF7F6CAD = ~z~Murfrees don't deserve this.
+
+0xE68D3057 = ~z~Slim pickings these days. Slim pickings.
+
+0xEBC08372 = ~z~There! There! There! He near the hollow!
+
+0xF6773B60 = ~z~If anyone's out there, I'm gonna find 'em.
+
+0xFCDB5CF3 = ~z~Yeah, I know.
+

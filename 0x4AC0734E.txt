@@ -1,0 +1,54 @@
+0x06E91D24 = ~z~~sl:0.0:2.2:1~You know, it's good to sit down for a minute.
+
+0x0D15A376 = ~z~~sl:0.0:1.6~Shit, shit.~sl:~I'm sorry.
+
+0x2A9D9DF4 = ~z~I had something real interesting I was going to tell you boys and all.
+
+0x6DAFE4A5 = ~z~~sl:0.0:1.7~And it didn't turn too...~sl:0.2:1.3:1~good for him in the end.
+
+0x9C1AC2BE = ~z~~sl:0.0:1.0~with his whiskey,~sl:~and he said it was something about the combination.
+
+0x11CF2E29 = ~z~Alright? That's the problem, is mixing.
+
+0x12D7AEF2 = ~z~May he rest in peace.
+
+0x22CBCEE2 = ~z~~sl:0.0:1.8~I am annoyed with myself.
+
+0x26F7D87A = ~z~I just hope that's not what's happening to me.
+
+0x75AEF5EB = ~z~~sl:0.5:1.2:1~Don't.
+
+0x108DB06D = ~z~Gents.
+
+0x898F1C67 = ~z~And I... I can't...
+
+0x3447B148 = ~z~Is forgetting shit.
+
+0x5107EAC8 = ~z~You know they say that's the first sign of madness?
+
+0x20614A05 = ~z~See he...
+
+0x30916A6D = ~z~You know, my-my daddy started forgetting things.
+
+0x180278BE = ~z~~sl:0.0:1.3:1~You know, I...
+
+0xB1E4EE52 = ~z~~sl:0.0:1.1~And by the time he passed,~sl:~he didn't know his left from his right.
+
+0xB5E3750B = ~z~~sl:0.0:1.0~alright, he...~sl:~he liked moonshine
+
+0xC3529131 = ~z~It's... I don't like mixing drinks.
+
+0xD909BC9F = ~z~~sl:0.6:1.1:1~It's bad business.
+
+0xE2C98E4D = ~z~I... I can't remember...
+
+0xED86A3C7 = ~z~I can't remember what I was gonna say.
+
+0xF58C75A4 = ~z~
+
+0xFCED831E = ~z~~sl:0.0:1.2~I just hope that...~sl:0.6~I'm not gonna have that kind of future.
+
+0xFF3C4732 = ~z~~sl:0.0:1.1~I was...~sl:0.9~shit!
+
+0xFF3907BD = ~z~It would have been amazing!
+

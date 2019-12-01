@@ -1,0 +1,28 @@
+0x06BCAB6F = ~z~You know, I once saw Mac beat up fifteen sailors.
+
+0x1D02D7FB = ~z~Sure.
+
+0x2A407276 = ~z~Real shame about them Callander boys, I reckon.
+
+0x4FB23D59 = ~z~Sure, that ain't nothing. I once beat up twenty.
+
+0x9C6F56DA = ~z~But, uh, I'm gonna miss Mac. He was a good man.
+
+0x78A22FB5 = ~z~Heartless son of a bitch, but he had a heart. If that makes any sense?
+
+0x80E04031 = ~z~I know what you mean... R.I.P, Mac.
+
+0x406F9ED4 = ~z~Okay...
+
+0x859A2930 = ~z~Oh, that so?
+
+0x5327C444 = ~z~That's why they float.
+
+0x9408E682 = ~z~
+
+0x77752D67 = ~z~Kind of feller you... like to rob alongside, you know?
+
+0x843346E3 = ~z~Yeah.
+
+0xF7760CE2 = ~z~That ain't nothing. Everybody knows them navy boys can't fight.
+

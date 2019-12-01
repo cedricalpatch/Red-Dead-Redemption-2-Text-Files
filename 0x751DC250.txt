@@ -1,0 +1,622 @@
+0x013DFFB4 = ~z~Cornwall, you say? Alright, I'll talk to them. But it may take a little... convincing.
+
+0x0176C61B = ~z~Of course no one is talking.
+
+0x0375B07D = ~z~The railroad managed to deal with that land issue and we are back up and running.
+
+0x0422AEDE = ~z~The land up ahead got bought out from under us and we can't finish the track.
+
+0x04983C2F = ~z~Alright then. Guards! Come see this man off.
+
+0x051BEEA8 = ~z~Well, if you'll excuse me, I should keep an eye on these fellers.
+
+0x05AC75CD = ~z~Alright, guess I'll leave you to it.
+
+0x0631D1F5 = ~z~they've gotta be stashing it away from camp somewhere.
+
+0x06444E04 = ~z~You know what?
+
+0x066BDEEE = ~z~Untie him at once! That man is railroad property.
+
+0x0719052D = ~z~No luck yet. I got my suspicions, though.
+
+0x0799963B = ~z~Oh... oh. Eh...
+
+0x087E6CF0 = ~z~Alright, I gotta go for a piss. Y'all keep at it.
+
+0x08AD6E64 = ~z~How's it going there?
+
+0x0A62D49D = ~z~You can drop the act.
+
+0x0DDE3B02 = ~z~The land up ahead got bought out from under us and we can't finish the track.
+
+0x0EB26092 = ~z~Oh, err...
+
+0x0EDF24F1 = ~z~I swear to God, I'll never steal again.
+
+0x0EF05C98 = ~z~Here, for your trouble.
+
+0x0F225985 = ~z~Just don't kill me, please.
+
+0x1C98C064 = ~z~Come on, you don't have to tie me up.
+
+0x1CF13EF2 = ~z~All dynamite must be overseen by a railroad employee.
+
+0x1D0CF9F1 = ~z~What's it to ya?
+
+0x1D53B04E = ~z~Well, why don't you go walk someplace else?
+
+0x1F0DDD61 = ~z~They won't admit it... but I just know this is the Cornwall Company's doing.
+
+0x1F98DB52 = ~z~Randal? That dirty rat!
+
+0x1FA52F76 = ~z~But I wouldn't test my patience, though.
+
+0x1FF222FF = ~z~I know you wouldn't help me the last time, but I got another proposition for you.
+
+0x2B750FF3 = ~z~Hey you! Come here a minute!
+
+0x2D66A0AD = ~z~I really hope we get to the bottom of this soon, my Junior Foreman's gone missing now too.
+
+0x2E14D91E = ~z~Stealing? What!
+
+0x2EE19D9A = ~z~Ah, you're gonna live here all happily ever after, is that it?
+
+0x2F761F61 = ~z~Oh, er, sure, just thought you'd like to know...
+
+0x3AB69195 = ~z~Now here, take some for payment...
+
+0x3C4BAD97 = ~z~Stay back from the tracks, won't be my fault if you get hurt.
+
+0x3C5AFFE8 = ~z~I promise I'll leave.
+
+0x3DC04ACC = ~z~For chrissakes, come on. Pick up the pace.
+
+0x3DF6FF5E = ~z~Let me go, you crazy bastard!
+
+0x3E3183B4 = ~z~I ain't gonna tell you again, get outta here!
+
+0x3FBF10E7 = ~z~Doing your friend Percy a little favor. He says one of the workers has been stealing.
+
+0x4B143CC8 = ~z~I'll pay you well, I promise.
+
+0x4C3F34A6 = ~z~passed away under tragic circumstances.
+
+0x4C41BEF3 = ~z~Well, don't let me keep you.
+
+0x4CB2A08E = ~z~What are you doing?
+
+0x4D075C2F = ~z~a little more persuasive...
+
+0x4D6220C0 = ~z~Ain't even worth it. Here!
+
+0x4EFDED47 = ~z~Let's go, let's go. Put some goddamn energy into it.
+
+0x4FA4B0B7 = ~z~Well, I just wanted to thank you for your help.
+
+0x5A5EDB5D = ~z~Would you, uh... talk to them for me?
+
+0x5B38F892 = ~z~an-an-and you look like you're a...
+
+0x5BE92911 = ~z~
+
+0x5BF07D81 = ~z~they don't seem too happy.
+
+0x5DA14CB0 = ~z~I don't see how we ever would have taken care of this if you hadn't come by.
+
+0x5E718293 = ~z~Hey, you.
+
+0x5F25FAAA = ~z~He bought up the land to try and sabotage us!
+
+0x5F99D68F = ~z~I can't do nothing without the deed!
+
+0x6AAEA4A8 = ~z~No breaks until that money turns back up.
+
+0x6AF69BCC = ~z~How'd you get on?
+
+0x6B5FE82D = ~z~Cornwall is a persistent man.
+
+0x6B10E31D = ~z~Move it quick. Cornwall won't lie quiet for long.
+
+0x6B3111A5 = ~z~Alright, alright! I'll show you!
+
+0x6D7D4579 = ~z~Maybe I'll check back on you later, then.
+
+0x6D58170E = ~z~Well. Everyone's happy then I guess.
+
+0x6DF39F13 = ~z~I think I need someone a little more neutral...
+
+0x6E08582C = ~z~Sorry, I don't have time to deal with you right now.
+
+0x6E6A59DE = ~z~It's none of your damn business how I treat them. Now stay out of our way.
+
+0x6EBD0712 = ~z~Surprised to see us working, I bet?
+
+0x6F51D44D = ~z~Just taking a walk.
+
+0x7A954740 = ~z~Glad to hear it.
+
+0x7B3699E8 = ~z~This is sabotage! I don't know where else to turn.
+
+0x7BB7B3CD = ~z~Wait! I wanna thank you.
+
+0x7BFBC8B4 = ~z~Percy Whitsickle...
+
+0x7CCCC440 = ~z~Back again?
+
+0x7D168B9A = ~z~Well, happy to be of assistance.
+
+0x7D951CD4 = ~z~She was right, maybe I'm not cut out for this.
+
+0x7DB8925E = ~z~now get out of here. Leave and never come back.
+
+0x8A841123 = ~z~Wish it was my problem, but it ain't.
+
+0x8B2B2658 = ~z~Well, then, I guess that's my good deed for the day.
+
+0x8B53F7AF = ~z~Oh hey, er, fellers. If you wouldn't mind keeping it moving, busy production line here.
+
+0x8BF6FDE3 = ~z~Hey! Didn't I warn you about stealing?
+
+0x8DCE6C59 = ~z~Central Union Railroad Company.
+
+0x8ECA3481 = ~z~the tree with the notch.
+
+0x9AF8664E = ~z~It's none of your business, now out of my way.
+
+0x9C811A09 = ~z~Just passing through.
+
+0x9CB6B588 = ~z~Do you have any idea how long it's taking to deal with the deed for that land?
+
+0x9CCD7F79 = ~z~Well, I got an idea who it is, but I ain't found the money yet.
+
+0x9DE64BCE = ~z~Well, whatever your reasons, you did us a huge service.
+
+0x10A16352 = ~z~Oh shit, what the hell?
+
+0x11B426ED = ~z~I got your money. Here.
+
+0x13A0445A = ~z~Feel free to help yourself to any of them. Least I can do for all the help you gave me.
+
+0x13C763EE = ~z~Here... for your trouble.
+
+0x14CA6F36 = ~z~so they ain't going any further.
+
+0x15C73296 = ~z~Thanks for stopping, sir. Thank you. Uhm...
+
+0x16AB498B = ~z~I got your money. Here.
+
+0x19CB2A91 = ~z~Please tell me you found the money?
+
+0x19E3EA26 = ~z~Oh no, not again. Ain't you caused enough problems round here?
+
+0x19EA846C = ~z~Hey, I saw that.
+
+0x20B8E7DA = ~z~Well I'm sure you have other things to do.
+
+0x22A65ED4 = ~z~It's time you left now.
+
+0x22BDC289 = ~z~Well, any luck?
+
+0x22C2D1BB = ~z~Why would I want any work from you?
+
+0x24D1EF98 = ~z~Hey, what is your problem?
+
+0x30A25511 = ~z~I got enough problems of my own with Cornwall without making more.
+
+0x30BB35A9 = ~z~We offer you honest work for honest pay, and you steal from us.
+
+0x31A96A5A = ~z~Percy Whitsickle.
+
+0x31F8546B = ~z~I ain't wasting no more breath on you.
+
+0x32DC2B59 = ~z~y-you're trespassing.
+
+0x34AC3A16 = ~z~one of my...
+
+0x34CBA1A4 = ~z~Hey, you.
+
+0x37CA2E4B = ~z~ I've got your money.
+
+0x40ACF1D4 = ~z~Ain't decided on that yet.
+
+0x40D2B6CF = ~z~Well, how's that for hospitality?
+
+0x41EB20EF = ~z~I'm glad you passed by. We've got some leftover supplies.
+
+0x49DA04F3 = ~z~Me and Mr. Cornwall go way back.
+
+0x50E35E25 = ~z~Those men you dealt with up there? They was working for Leviticus Cornwall.
+
+0x56B9F0C6 = ~z~Hey, stop that!
+
+0x57E0ECDD = ~z~Please tell me you have good news.
+
+0x60AAE7F5 = ~z~It has to be.
+
+0x61C12F27 = ~z~Any more of that and I will call the guards on you.
+
+0x61FBCB29 = ~z~Come on, let me go.
+
+0x62E59688 = ~z~One of my...
+
+0x64C55991 = ~z~Here... for your trouble.
+
+0x65B3EE3B = ~z~Well, that was easy.
+
+0x68E8B111 = ~z~What did they say?
+
+0x69F002D1 = ~z~Geez, I was just making a comment. Please forget I said anything.
+
+0x71C18ADB = ~z~Would you take that elsewhere, please? It's only going to unsettle the workers further.
+
+0x71C57FA7 = ~z~Listen, I'm sorry, fellers. Can't have unauthorized personnel near the work site. Railroad policy.
+
+0x77A55226 = ~z~You're pathetic.
+
+0x79F78AE2 = ~z~Well hey there. You sure pass through this way a lot!
+
+0x81A110B7 = ~z~Come on! Come on!
+
+0x83C9D844 = ~z~thanks for stopping, sir.
+
+0x84BE4F2C = ~z~This is private property...
+
+0x86A9998B = ~z~Oh sure, no problem. I... I didn't mean nothing by it.
+
+0x88B63316 = ~z~Just thought I'd ask...
+
+0x88E497C4 = ~z~Oh, shit. Let's get out of here.
+
+0x89DFF69B = ~z~All... alright, I'll go. Thank you.
+
+0x94B3EF17 = ~z~What're you doing here?
+
+0x94DDD2A4 = ~z~I got a proposition for you. Just hear me out.
+
+0x95FBB994 = ~z~Lower your weapon now, please.
+
+0x98DF911A = ~z~Now get, while I'm still feeling generous! Lazy bums...
+
+0x99DDE63C = ~z~Okay, okay...
+
+0x130EA8F7 = ~z~Well, keep an eye on him. He's bound to slip up sooner or later.
+
+0x149AFF69 = ~z~Whoa, what are you doing here?
+
+0x161C55CA = ~z~See, you didn't need my help.
+
+0x211AF534 = ~z~Guards! This man needs to be escorted away.
+
+0x227FFD0D = ~z~This is private property, you-you're trespassing!
+
+0x228D03D1 = ~z~Randal? I don't believe it. You oughta be ashamed of yourself.
+
+0x254FBBDF = ~z~One deed to the property. They was very understanding.
+
+0x286BF01D = ~z~It has to be.
+
+0x377BCE1C = ~z~Oh, just tell me. I'm resigned to the worst.
+
+0x387F3BA6 = ~z~If it's work you're looking for, I don't have nothing for you, I'm afraid.
+
+0x455C3879 = ~z~Well, sorry. Just thought you'd like to know...
+
+0x495F9FBB = ~z~Going as fast as we can.
+
+0x529D295E = ~z~You! Yes, you. You want to make some money?
+
+0x573E18FB = ~z~Well, I'll be seeing you then.
+
+0x633FDF05 = ~z~Back again, huh? All been going pretty smoothly here, knock on wood.
+
+0x680C0299 = ~z~You ready to return that money you stole?
+
+0x682FFF51 = ~z~What business is it of yours?
+
+0x686DED03 = ~z~You didn't have to kill him, though. My god.
+
+0x801CFD43 = ~z~They might work harder if you didn't treat them like shit.
+
+0x890D8F2B = ~z~Not yet. I'm keeping my eye out.
+
+0x961C7CE9 = ~z~Thank you.
+
+0x1515D7ED = ~z~Didn't mean to touch a nerve.
+
+0x1770D1BE = ~z~Whoa! Easy there, feller!
+
+0x1910F297 = ~z~I really ain't too concerned about your little railroad project.
+
+0x2167DFFE = ~z~Well, how'd it go?
+
+0x2497EC94 = ~z~Come on. Would you help me, please?
+
+0x3694BD15 = ~z~I won't stand for no more trouble.
+
+0x4561A6FF = ~z~You are gonna need a new Junior Foreman, though. He just...
+
+0x4902E1F1 = ~z~What... what are you doing back here?
+
+0x5127F30D = ~z~Maybe you can help me.
+
+0x5822B2AE = ~z~I got another proposition for you.
+
+0x6154BF9D = ~z~I'm the Junior Foreman here. It's them orientals you want to speak to.
+
+0x6407D4E4 = ~z~It's all in the tent over there. Take whatever you want.
+
+0x7872B411 = ~z~I just...
+
+0x8116F5FF = ~z~What do you need?
+
+0x8728ED91 = ~z~It didn't go well, did it?
+
+0x9592C709 = ~z~Look, I've got work to do.
+
+0x9592CEB2 = ~z~Sure, maybe I'll take a look.
+
+0x13594D4B = ~z~We are scuppered this time, properly scuppered!
+
+0x21264F25 = ~z~Hey there. Look, we're nearly done. Would you believe it?
+
+0x35169C78 = ~z~Please, nobody's been paid in weeks. They'll kill me.
+
+0x35750DBE = ~z~Just... just take the money, for chrissakes.
+
+0x85198F3C = ~z~Goddamn freak.
+
+0x85744D18 = ~z~Yeah, I got it.
+
+0x295508E8 = ~z~Oh... hey! Just the man I want to see.
+
+0x649417C4 = ~z~Please, I can't lose my job. My wife won't let me live it down.
+
+0x796982D5 = ~z~Cornwall is a persistent man.
+
+0x875916D3 = ~z~Go on, get.
+
+0x995117B8 = ~z~We've got enough problems with stealing around here as it is.
+
+0x1864765A = ~z~look for anyone sneaking off the line...
+
+0x4156141A = ~z~Oh, hey, you left without coming to see me.
+
+0x7972949B = ~z~I don't have time for this right now.
+
+0x12524809 = ~z~I tried talking to them myself but they just laughed in my face.
+
+0x14366724 = ~z~Thank you for your help, partner.
+
+0x25321005 = ~z~The boys at the railroad camp...
+
+0x31747452 = ~z~I reckon I just found him.
+
+0x33362999 = ~z~The way they look at me...
+
+0x43879782 = ~z~Oh, hey, I guess you changed your mind?
+
+0x43932343 = ~z~You hear that? Railroad policy.
+
+0x46824511 = ~z~What're you doing here?
+
+0x53073615 = ~z~Wait. I want to thank you.
+
+0x54951955 = ~z~You need to leave and never come back.
+
+0x57338040 = ~z~I must ask you to leave the area now, sir. Immediately.
+
+0x83244164 = ~z~You know what, I ain't got time for this. You can do your own dirty work.
+
+0x88205390 = ~z~everyone and everywhere ten times over!
+
+0xA07A7C37 = ~z~Don't mess me around, or I'll make you piss for real.
+
+0xA2BDD6E8 = ~z~Wait. I've got something for you.
+
+0xA4FB90CC = ~z~Well, I best be getting on.
+
+0xA5A36931 = ~z~You need to leave.
+
+0xA6FB1EAA = ~z~Oh...
+
+0xA9BFE566 = ~z~You do... whatever you need to do.
+
+0xA9F11611 = ~z~could you see what you could sniff out?
+
+0xA11C5925 = ~z~It's right there...
+
+0xA15E7DD8 = ~z~Oh please, won't you change your mind? I'm desperate here.
+
+0xA84ED424 = ~z~Well, that does explain a few things...
+
+0xA472B79F = ~z~You get the hell away from me.
+
+0xA25193F1 = ~z~Come on, put your backs into it
+
+0xA94771D6 = ~z~Would you, uh... talk to them for me?
+
+0xA96214E7 = ~z~I'm not one for matters of personnel...
+
+0xAA081B11 = ~z~Damn bastard.
+
+0xAA0C1075 = ~z~You may not realize it but you did us a huge service.
+
+0xAA979504 = ~z~Apologies, boys.
+
+0xAAA6189B = ~z~three weeks running.
+
+0xAC5FAAD4 = ~z~Well, I'd best get back to it. Lots to supervise.
+
+0xAC6D270B = ~z~If you don't leave, I'll have to call the guards.
+
+0xADB1A998 = ~z~Don't make me call the guards.
+
+0xAECEBEA4 = ~z~Well, if you could keep on passing.
+
+0xAFA0EF43 = ~z~I don't know if we could have ever gotten finished without your help.
+
+0xB08B7283 = ~z~Here... for your trouble.
+
+0xB3D6F522 = ~z~What are you doing over here, what are you doing?
+
+0xB6ACE9E8 = ~z~No complaining, just get the job done!
+
+0xB6C63461 = ~z~Just taking a look on my way through.
+
+0xB7A13643 = ~z~Keep your nose outta my business.
+
+0xB7AB9CA7 = ~z~I'll see what I can do...
+
+0xB11F1BC3 = ~z~Well, can you help me? My head is on the block here...
+
+0xB72FB08E = ~z~I'll pay you for your efforts, of course.
+
+0xB3586BB9 = ~z~What's your problem? Why are you following me?
+
+0xB2293506 = ~z~oh... oh, err...
+
+0xBA33FA62 = ~z~I'm right behind you.
+
+0xBA492F3D = ~z~Hey, what are you doing?
+
+0xBAC5C3BC = ~z~I do not want to call the guards on you.
+
+0xBB061553 = ~z~I'll pay you well, I promise.
+
+0xBC73BC36 = ~z~I have searched...
+
+0xBDB0BB36 = ~z~Must have got it wrong then.
+
+0xBEC8CCB3 = ~z~Hey there. Good to see you.
+
+0xBEEECC2A = ~z~You're damn right that's the least you can do.
+
+0xC3C1474B = ~z~What the hell did you just say?
+
+0xC7C54488 = ~z~I don't know what you're doing here, but you best keep out of the way.
+
+0xC9EC9B0D = ~z~What are you going to do to me?
+
+0xC74F80CF = ~z~Sir, could you put that down, please?
+
+0xC86FBEA6 = ~z~Do you really think I care?
+
+0xC4958CB1 = ~z~You're gonna need a new junior foreman though. He just quit.
+
+0xCA2B9732 = ~z~How'd you get on?
+
+0xCA883B7A = ~z~Sorry, I can't have you loitering around the work site.
+
+0xCDECDDFC = ~z~Find the thief, and recover the money...
+
+0xCE3F5C53 = ~z~You better start running, you son of a bitch.
+
+0xCFC46EAE = ~z~All moving ahead nicely here now, thanks to you.
+
+0xD0B264B3 = ~z~one of my workers has been stealing wages...
+
+0xD1D10485 = ~z~Come here for a second.
+
+0xD2CC17A4 = ~z~Oh my Lord, who is that you're carrying?
+
+0xD5B0253B = ~z~Just leave me alone.
+
+0xD6A5688C = ~z~Where's the money?
+
+0xD6BB01B6 = ~z~It's disgusting!
+
+0xD6F9CA15 = ~z~I want to give you more, but I got a funeral to arrange.
+
+0xD9A9C096 = ~z~Okay, that's enough now.
+
+0xD60AEACA = ~z~thought he was entitled to a bonus.
+
+0xD60F6BE7 = ~z~go wash his fat feet?
+
+0xD584E007 = ~z~Don't you go distracting the team here. We got to get this track built.
+
+0xD771A7B8 = ~z~What are you doing here? Back to not help us again?
+
+0xD33529F0 = ~z~Thank you for your help, partner. Here, for your trouble.
+
+0xD33703A0 = ~z~Not good. Look at this useless bunch. Moving at a snail's pace.
+
+0xDADD3248 = ~z~And if you're gonna talk, talk English!
+
+0xDB0F4CB2 = ~z~Thank you.
+
+0xDB4E4D8C = ~z~Understood?
+
+0xDB93A864 = ~z~You got my money?
+
+0xDBB37995 = ~z~and I gotta watch the camp, so...
+
+0xDBD8BA8C = ~z~Well, I got an idea who it is but I ain't found the money yet.
+
+0xDD6CF736 = ~z~Oh hey, just the man I wanted to see.
+
+0xDDAA1748 = ~z~I'll hear it if you don't.
+
+0xDDE70170 = ~z~We own this land...
+
+0xDEA07F63 = ~z~and give him his marching orders!
+
+0xDF16004E = ~z~What exactly is it you want me to do?
+
+0xE3CC8A80 = ~z~I caught him stealing money from the camp. I'm taking him back to the foreman.
+
+0xE5AA505C = ~z~Damn it.
+
+0xE94DE92F = ~z~All... all right. I'll go.
+
+0xE240F1D1 = ~z~Oh, thank you. Thank you!
+
+0xE402C1E0 = ~z~See, I reckon you'll stand for plenty.
+
+0xE961C2EC = ~z~well this ain't the old me, so consider yourself lucky.
+
+0xE90791E7 = ~z~why don't you run on home, and...
+
+0xE6129329 = ~z~I'll show you.
+
+0xEB9532B0 = ~z~All right, all right! I'm leaving!
+
+0xED1C1D66 = ~z~What's all this gotta do with me?
+
+0xEDCB4CD3 = ~z~Yes, I was just about to call it a day. Thank you.
+
+0xEDEB8270 = ~z~They won't admit it... but I just know this is old Leviticus Cornwall's doing.
+
+0xEE82E08B = ~z~Randal? I don't believe it.
+
+0xEECCA553 = ~z~I should just hand in my resignation now and draw up the divorce papers.
+
+0xEEE1C234 = ~z~Just seeing how it's coming along.
+
+0xF0A5A6ED = ~z~Looks like you're in their way.
+
+0xF2C99892 = ~z~That's it. I need a guard over here!
+
+0xF2CFC125 = ~z~The money is in the tree. Just... please don't kill me.
+
+0xF42B079C = ~z~First my Junior Foreman goes missing, and now this!
+
+0xF59AACB1 = ~z~On second thoughts...
+
+0xF5217266 = ~z~Hey, get off our land.
+
+0xFAB9354A = ~z~Everyone knows you're Cornwall's nursemaids, so...
+
+0xFB8B35CA = ~z~Your colleague here...
+
+0xFBB46791 = ~z~Now the old me, he'd be punching your face in right now, but
+
+0xFCF541A4 = ~z~I'm finished.
+
+0xFD9A4244 = ~z~This ain't got nothing to do with you.
+
+0xFEB1F887 = ~z~Hey, what are you doing there?
+
+0xFFA7DFE4 = ~z~I see any of you again you'll wish I shot you, too! Lazy bums...
+

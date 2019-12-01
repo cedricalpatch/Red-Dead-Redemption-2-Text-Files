@@ -1,0 +1,436 @@
+0x0001C9AE = ~z~Kill each other, why don't you!
+
+0x0003936B = ~z~They would if they could. Come on, Saint Denis awaits.
+
+0x00D92B8C = ~z~This is what this country's become! It's a cesspit, a disaster, an abomination.
+
+0x0271DF5B = ~z~We are bloody, but unbowed. We will never surrender.
+
+0x03956345 = ~z~Stop him!
+
+0x04C564BC = ~z~Seems right to me.
+
+0x0520C622 = ~z~No you don't, alright?
+
+0x059DE880 = ~z~Understand that, you dumb bastard?
+
+0x06B46209 = ~z~You'll get your comeuppance, alright!
+
+0x0701AB71 = ~z~Yeah, this is it.
+
+0x07D5B7A1 = ~z~Ain't really up to you.
+
+0x08F829E2 = ~z~Kill this swine before he takes me away!
+
+0x0A209744 = ~z~We've been beaten down and driven out enough.
+
+0x0B5155CD = ~z~You ever think, maybe I should've just... tried to get along with folk?
+
+0x0BCC4BA2 = ~z~You all are messing with the entirety of the Lemoyne Raiders.
+
+0x0C69B776 = ~z~That's right, we coming back stronger.
+
+0x0FF85B51 = ~z~
+
+0x1A8ACD07 = ~z~He's got me. Don't let him absquatulate!
+
+0x1B1054C3 = ~z~We're gonna have the last laugh.
+
+0x1C6EE2B7 = ~z~It's greedy, grasping, carpet bagger bullcrap and we're drowning in it! We're up to our ears, our ears, sir.
+
+0x1E8F7A93 = ~z~Sure...
+
+0x1EA0BAB3 = ~z~To not pay tax? Yeah, yeah, I know this tune. Save it for your sentencing.
+
+0x1EA1714C = ~z~Y'all messing with the whole of the south.
+
+0x1F695BB0 = ~z~Men! You're just in time! He's attempting an abduction!
+
+0x2B3CBDBB = ~z~Come away peacefully and you can live, Mr. Wofford.
+
+0x2DDC6178 = ~z~Most of them is dead, you son of a bitch.
+
+0x3A3231D8 = ~z~Oh yeah, of course, most of them is.
+
+0x3AC1F886 = ~z~Let's make a stand, boys!
+
+0x3AFB7368 = ~z~Easy to say when you ain't living in an occupied territory.
+
+0x3AFFBFE7 = ~z~I do not surrender!
+
+0x4A33F079 = ~z~Cold blooded murder is all I'd expect from you, you wretched scum.
+
+0x4F6995FC = ~z~I got me a captive.
+
+0x5B7909A6 = ~z~We'll see.
+
+0x5BFB8FA2 = ~z~Well, I'm afraid you ain't got nowhere else to go.
+
+0x5E481239 = ~z~I hope the Night Folk get you, you son of a bitch. And hang you from a tree.
+
+0x6B5B9F0F = ~z~Yeah, this is it.
+
+0x6FFA7184 = ~z~~sl:0.0:2.0~Well, lookie here.~sl:0.0:3.2:1~We got a genuine Lemoyne Raider in the building.
+
+0x7ABB4A95 = ~z~~sl:1.4~You're a traitor, sir.
+
+0x7BCEF315 = ~z~Who's still fighting? Anyone? Godammit.
+
+0x7BD9C0D5 = ~z~or... the other thing, if it comes to it.
+
+0x8AEBC3C5 = ~z~Hey, I just been thinking... I could've brought you in dead, and I didn't. How dumb is that?
+
+0x8CB06347 = ~z~I got me a captive.
+
+0x8E4B8831 = ~z~How you finding Saint Denis? Is it the seething snake pit you thought it was?
+
+0x8F1C675A = ~z~Lindsey Wofford. I got here a warrant for your arrest,
+
+0x8F554652 = ~z~But we're collecting that bounty instead of you.
+
+0x9AA001B1 = ~z~It's an abomination!
+
+0x9D9383C3 = ~z~You're looking well, Mr. Wofford. They're feeding you, at least.
+
+0x9E3DCE0A = ~z~Got a live one for you.
+
+0x9F4AA8EC = ~z~Chief, can you get this feller out of here?
+
+0x11C036E4 = ~z~Damn you!
+
+0x23BC5ADC = ~z~Hold on, let's go.
+
+0x24A9A68F = ~z~~sl:1.0~This ain't de jure, the Federal Government don't have no jurisdiction over me!
+
+0x33CC0F39 = ~z~Back of that horse, that's Lindsey Wofford.
+
+0x35D447C6 = ~z~It would have been self-defense, but... yeah, well.
+
+0x41F20387 = ~z~It would have been self-defense, but... yeah, well.
+
+0x55F6D5C6 = ~z~There's no room for freedom. No, sir, there ain't. No room when there's money to be made, it's deplorable.
+
+0x57D5C0CD = ~z~We'll see.
+
+0x59C9FD41 = ~z~Damn you!
+
+0x60CBE216 = ~z~Huh? Uh, well, I would go on hunger strike, only... I doubt word of it would reach the papers.
+
+0x63F316DB = ~z~Oh be quiet. You're just a dirty little killer getting his due.
+
+0x68F53707 = ~z~They would've if they could. Come on, Saint Denis awaits.
+
+0x72C26A39 = ~z~Look. Now he's dead.
+
+0x75A3A3D5 = ~z~Everyone wants a piece of you, Mister Wofford. Now, let's get you back.
+
+0x80A0D954 = ~z~Damn you to hell.
+
+0x81A014CF = ~z~~sl:0.0:2.6:1~Make the poor feller comfortable in one of our cells.
+
+0x83AA838D = ~z~Bet you ain't felt a bed in a while.
+
+0x83CC5AEB = ~z~We're gonna take that body, mister! It's worth too much for you.
+
+0x87B66220 = ~z~You won't get a hundred paces!
+
+0x90CDAB76 = ~z~I did all the hard work!
+
+0x91E5D723 = ~z~Yankee collaborating scum... believe it!
+
+0x91EB7BE9 = ~z~I guess all that remains is to take you in...
+
+0x93DB4C4B = ~z~Sounds like one for the lawyers.
+
+0x104D1E0C = ~z~We will not rest until we are free to... to...
+
+0x108E3533 = ~z~Now sit tight. I'll get us to Saint Denis.
+
+0x174B3199 = ~z~A federal warrant? No, no no, that don't mean much in a sovereign territory, mister.
+
+0x215BFE30 = ~z~Damn you.
+
+0x223DFFDC = ~z~
+
+0x234A986B = ~z~And I doubt you have the resolve... carry on.
+
+0x239AA34F = ~z~Men! Men?
+
+0x293BFA6D = ~z~Now sit tight. I'll get us to Saint Denis.
+
+0x296FDFB1 = ~z~You ain't got my dignity jail keeper.
+
+0x333DF9DF = ~z~Stop him! Stop him!
+
+0x367AD190 = ~z~Easy to say when you ain't living in an occupied territory.
+
+0x446A55FF = ~z~Someone's here to see you, Sheriff.
+
+0x500D7D56 = ~z~Who's that warrant from, huh? The US government?
+
+0x538A7C34 = ~z~A traitor to your state!
+
+0x549BF662 = ~z~Well now... so much for them boys being the terror of the South.
+
+0x573E939A = ~z~Damn you!
+
+0x637E659E = ~z~Gloat all you like, you sons of bitches.
+
+0x646C60C9 = ~z~Free me, fellers!
+
+0x701ABB9D = ~z~He's trying to take me, men!
+
+0x712DEAE3 = ~z~Your kind are really pathetic, my friend. You lost, and you'll keep losing.
+
+0x810CFC22 = ~z~Our journey is almost at an end.
+
+0x884B6A54 = ~z~You're looking well, Mr. Wofford. They're feeding you, at least.
+
+0x902D0AB1 = ~z~Just go, why don't you?
+
+0x959C5D95 = ~z~Cut him up!
+
+0x1053DE1C = ~z~We'll be back soon... stronger than ever.
+
+0x1181CF5E = ~z~Men! Over here! He's got me tied up!
+
+0x1186F03D = ~z~Drop that Raider in the cart out back, come around for your bounty.
+
+0x1679C0A6 = ~z~Come away peacefully and you can live, Mr. Wofford.
+
+0x1987DB05 = ~z~I won't go there. I won't.
+
+0x2124FE2E = ~z~I did all the hard work!
+
+0x4200D8A5 = ~z~You know, I ain't sure that we will.
+
+0x6245E168 = ~z~He's trying to take me, men! Over here!
+
+0x7078B69A = ~z~Our journey is almost at an end.
+
+0x7358B5A6 = ~z~This is how tyranny begins. Mark me, this is the start of something terrible.
+
+0x9569FFF6 = ~z~Federalist pigs!
+
+0x16646AB7 = ~z~Someone's here to see you, Sheriff.
+
+0x37357B3C = ~z~We're Lemoyne Raiders and we proud.
+
+0x41163F77 = ~z~I didn't ask you to comment.
+
+0x56642C6B = ~z~Cold blooded murder is all I'd expect from you, you wretched scum.
+
+0x76920DA2 = ~z~And I doubt you have the resolve... carry on.
+
+0x84082F5C = ~z~It's just an arrest, you melodramatic clown.
+
+0x90014C47 = ~z~Men! You're just in time! He's got me over here!
+
+0x174903B2 = ~z~When the time comes, you'll be first against the wall!
+
+0x563469DC = ~z~Most of them is dead, you son of a bitch.
+
+0x791419D0 = ~z~Hey, thanks for keeping him alive, mister.
+
+0x3724825B = ~z~Ain't really up to you, partner.
+
+0x4841751D = ~z~We will not rest until we are free to... to...
+
+0x6398907D = ~z~Look. Now he's dead.
+
+0x9568059D = ~z~Come on, you son of a bitch!
+
+0x49922736 = ~z~I won't go there. I won't.
+
+0x64624438 = ~z~Men! Men?  Is anyone left? Goddamn...
+
+0x70744184 = ~z~Surrender... or I'm well within my rights to shoot you.
+
+0xA2C60F38 = ~z~This is government for you.
+
+0xA997A68D = ~z~See that coat... that's Lindsay Wofford's.
+
+0xA123759E = ~z~~sl:3.7~Lemoyne Raiders coming back on top.
+
+0xA2930108 = ~z~Get your own damn bounty!
+
+0xA8790509 = ~z~Oh, Mr. Bounty Hunter. Mr. Carpet Bagger.
+
+0xAB2BF526 = ~z~or... the other thing, if it comes to it.
+
+0xAB9D1526 = ~z~Make the poor feller comfortable in one of our cells.
+
+0xABA3514E = ~z~I hope the Night Folk get you, you son of a bitch. And hang you from a tree.
+
+0xABAE2BFE = ~z~~sl:1.0~You the fellers took the Belle?
+
+0xADC436BF = ~z~You fought the Federal Government, and now the Federal Government's gonna hang ya.
+
+0xAE054D41 = ~z~Enough with the words... I ain't in the mood.
+
+0xB093E975 = ~z~There gonna be many Raiders at your funeral... or they forgotten all about you?
+
+0xB0D72E1F = ~z~~sl:0.5~Shame on you!
+
+0xB9E6A7E4 = ~z~It's not one man you're messing with now.
+
+0xB44B89CF = ~z~Well now... so much for them boys being the terror of the South.
+
+0xB47CB56E = ~z~~sl:1.0~This is an atrocity!
+
+0xB73FC1F0 = ~z~~sl:0.2~It's just an arrest, you melodramatic clown.
+
+0xB162DEFD = ~z~Damn traitor's bed! Get me off of here.
+
+0xB605FB77 = ~z~Everyone wants a piece of you, Mister Wofford. Now, let's get you back.
+
+0xBAC94081 = ~z~This is how tyranny begins. Mark me, this is the start of something terrible.
+
+0xBB6C9448 = ~z~Come on.
+
+0xBC2ABBE3 = ~z~Hey, I just been thinking... I could've brought you in dead, and I didn't. How dumb is that?
+
+0xBC18DD95 = ~z~Stop him! Stop him!
+
+0xBC86D685 = ~z~Enough with the words... I ain't in the mood.
+
+0xBD2F192C = ~z~Lindsey Wofford. I got here a warrant for your arrest,
+
+0xBDF0D083 = ~z~Hey, Wofford, don't like talking to you folk normally, but... you're a Lemoyne Raider, right?
+
+0xBFBE522F = ~z~Let's get you out of here, mister.
+
+0xC08003EB = ~z~You fought the Federal Government, and now the Federal Government's gonna hang ya.
+
+0xC0F0DD48 = ~z~Hey! Stop him! He's trying to take me!
+
+0xC2F7326A = ~z~I have no desire to speak with you.
+
+0xC4AF3CB5 = ~z~~sl:0.0:0.8:1~Believe it!
+
+0xC6C4D5E0 = ~z~Come on.
+
+0xC7FCC259 = ~z~There!
+
+0xC9DF9D9D = ~z~No you don't, alright?
+
+0xC74EB596 = ~z~How you finding Saint Denis? It the seething snake pit you thought it was?
+
+0xC860A7E9 = ~z~I guess all that remains is to take you in...
+
+0xC896F5C2 = ~z~To not pay tax? Yeah, yeah, I know this tune. Save it for your sentencing.
+
+0xC6152D62 = ~z~I believe this body's worth something.
+
+0xC3603920 = ~z~Show him what you think of that piece of paper.
+
+0xCA87ECC5 = ~z~I have no desire to speak with you.
+
+0xCA627A28 = ~z~Hold on, let's go.
+
+0xCAC33F65 = ~z~Bounty hunters killing each other for the pleasure of taking a man's freedom? Awful, awful.
+
+0xCAE01B01 = ~z~Oh yeah, of course, most of them is.
+
+0xCC2A9E12 = ~z~Sure...
+
+0xCC9EE42C = ~z~Oh be quiet. You're just a dirty little killer getting his due.
+
+0xCD8D056C = ~z~Get out of here, you traitor.
+
+0xCDA7E7C0 = ~z~This is... this is illegal... and immoral... and a whole lot more besides!
+
+0xCDD9482E = ~z~Well, I'm afraid you ain't got nowhere else to go.
+
+0xCEAD1485 = ~z~I do not surrender!
+
+0xCFD6D209 = ~z~This is our Alamo!
+
+0xD0435C68 = ~z~Hey! He's mine!
+
+0xD0D40ED5 = ~z~Calm down.
+
+0xD5E287E0 = ~z~Help!
+
+0xD54F8A51 = ~z~There gonna be many Raiders at your funeral... or they forgotten all about you?
+
+0xD90B03E1 = ~z~Huh? Uh, well, I would go on hunger strike, only... I doubt word of it would reach the papers.
+
+0xD176A5D8 = ~z~Seems right to me.
+
+0xD298B655 = ~z~Let's get you out of here, mister.
+
+0xD645C9FA = ~z~Damn the police! Damn every one of them! Traitors.
+
+0xD9300E4C = ~z~You ever think, maybe I should've just... tried to get along with folk?
+
+0xD127278F = ~z~We'll be back soon... stronger than ever.
+
+0xD522729B = ~z~Damn the police! Damn every one of them! Traitors.
+
+0xD622436C = ~z~Damn you to hell.
+
+0xD675818C = ~z~You murdering animals. You savage Yankee bastards!
+
+0xDA3A66D4 = ~z~Get him!
+
+0xDB8111C6 = ~z~Alright, ya damn lackey! Come here!
+
+0xDD16FD2A = ~z~~sl:0.3~Your kind are really pathetic, my friend. You lost, and you'll keep on losing.
+
+0xDE30D458 = ~z~I'm taken prisoner!
+
+0xE088BD48 = ~z~Calm down.
+
+0xE7E23587 = ~z~Surrender... or I'm well within my rights to shoot you.
+
+0xE8FA48F2 = ~z~Sounds like one for the lawyers.
+
+0xE10F000D = ~z~Well, lookie here. We got a genuine Lemoyne Raider in the building.
+
+0xE78A298C = ~z~The Lemoyne Raiders ain't done yet!
+
+0xE531DB87 = ~z~You won't get a hundred paces!
+
+0xE58454E6 = ~z~Get your own damn bounty!
+
+0xE2147684 = ~z~You gonna let him take me?
+
+0xE4561257 = ~z~You goddamn animals!
+
+0xEB74924A = ~z~Off me.
+
+0xEBC7B4D4 = ~z~I am a citizen of the Free State of Lemoyne and am subject to state law alone.
+
+0xEC1E93B6 = ~z~~sl:0.3~Bastard.
+
+0xF0869517 = ~z~When they get me out of here... we all are coming for you all.
+
+0xF8B94C36 = ~z~You'll die, you dog!
+
+0xF34EF07B = ~z~Hey! He's mine!
+
+0xF54DB446 = ~z~Stop! Stop it!
+
+0xF112CC77 = ~z~Now, get out of here!
+
+0xF7703B54 = ~z~You're outside of the law, mister!
+
+0xF8624E09 = ~z~But it ain't valid, 'cause I'm no longer a citizen of the so-called "United States".
+
+0xF645047C = ~z~Over here! Over here!
+
+0xF8881247 = ~z~Drop that Raider in the cart out back, come around for your bounty.
+
+0xFB44E0DB = ~z~Bye, you scum. Awful scum.
+
+0xFD6D4F7B = ~z~So I thought I'd say... I'm bunking at your old place at the moment... Shady Belle?
+
+0xFD22E76A = ~z~Bet you ain't felt a bed in a while.
+
+0xFDB336C7 = ~z~
+
+0xFDD9372B = ~z~Lackey.
+
+0xFE7AEA22 = ~z~Damn traitor's bed! Get me off of here.
+

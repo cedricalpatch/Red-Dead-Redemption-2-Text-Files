@@ -1,0 +1,48 @@
+0x1F5B54AD = ~z~One day, folk will take orders from me...
+
+0x5A960A05 = ~z~~sl:0.8:0.0~I can hardly wait... what a... what a joy that'll be.
+
+0x5B3D4B14 = ~z~~sl:0.0:2.2~Let me tell you, if you were my boss...~sl:0.4~I'd never laugh again.
+
+0x6D90EFBB = ~z~No, no, no. Definitely not.
+
+0x7E2D5133 = ~z~You mean, I could be the person on the wanted posters?
+
+0x8A092A07 = ~z~N-never.
+
+0x9F70D4D6 = ~z~One day.
+
+0x33BAFC14 = ~z~I-it wouldn't be a laughing matter.
+
+0x53F2FCBF = ~z~There's a dream for you, boy.
+
+0x79E289BA = ~z~Perish the thought.
+
+0x217F97D9 = ~z~You'd be famous.
+
+0x301F3518 = ~z~
+
+0x483C2516 = ~z~Excuse me, Bill.
+
+0x546ABEC7 = ~z~You two laughing at me?
+
+0x6631E255 = ~z~Us?
+
+0xA2B1DB54 = ~z~
+
+0xACCF2E72 = ~z~and one day all this could be yours.
+
+0xAD33705B = ~z~W-what about you, Bill? You ever wanna run your own bunch?
+
+0xAF1BF428 = ~z~~sl:0.0:1.9:1~What a proud black boy I'll be.
+
+0xB737434A = ~z~~sl:0.0:3.2~You mean, folks might wanna lynch me because of who I am,~sl:0.2~n-not just because I'm an uppity darkie?
+
+0xD1A0B939 = ~z~and trust me, it won't be no laughing matter.
+
+0xD4E37EA2 = ~z~~sl:0.0:1.8:1~Sheer paradise for you, kid.
+
+0xFB014AD5 = ~z~Now, you boys act right and learn to do things proper...
+
+0xFE2B90F6 = ~z~~sl:0.0:1.2~Not a word of a lie.~sl:0.9~Never again.
+

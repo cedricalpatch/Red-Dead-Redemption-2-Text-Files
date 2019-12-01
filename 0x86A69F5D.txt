@@ -1,0 +1,36 @@
+0x1FD9E8A9 = Bartender: Coming Right up.
+
+0x5BA8E7B8 = Order Lamb's Heart (~1$~)
+
+0x9ABA0CDE = Order Lobster Bisque (~1$~)
+
+0x9EE7EAB4 = Leave
+
+0x13CBA9A0 = Cancel
+
+0x40A785B0 = Order Chili (~1$~)
+
+0x81B00C09 = Arthur: I'll have some stew.
+
+0x81D492EA = Arthur: I'll have some steak.
+
+0x276DEFC5 = Order Fried Catfish (~1$~)
+
+0x676C26A0 = Order Roast Beef (~1$~)
+
+0x966ECC2F = Order Prairie Chicken (~1$~)
+
+0x10675CA0 = Order Cracked Wheat & Milk (~1$~)
+
+0x516936E6 = Order Lamb's Fry (~1$~)
+
+0xA2777B12 = Order Prime Rib (~1$~)
+
+0xAA7E5682 = Order Fish Stew (~1$~)
+
+0xB0F7FCFA = Order Beef Stew (~1$~)
+
+0xC9F790EF = Order Peach Cobbler (~1$~)
+
+0xF6759AC6 = Order Oatmeal (~1$~)
+

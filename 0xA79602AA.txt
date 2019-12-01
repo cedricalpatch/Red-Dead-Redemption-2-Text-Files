@@ -1,0 +1,40 @@
+0x079671D7 = ~z~But I need you...
+
+0x3B40F3AD = ~z~You trust yourself?
+
+0x6A10514F = ~z~Hey.
+
+0x7B5CDC6A = ~z~Hey Arthur!
+
+0x7ED27AD3 = ~z~~sl:0.0:2.3~We ain't done yet. Not like this.~sl:0.5~You trust me.
+
+0x238E24A4 = ~z~Just give me time.
+
+0x802D63B6 = ~z~~sl:0.0:2.2~We have got some badder fish to fry.~sl:0.4~I'm counting on you.
+
+0x964F8F5B = ~z~I'm counting on you.
+
+0x980A8D97 = ~z~Just give me time.
+
+0x55620E20 = ~z~~sl:0.0:2.0~you're in a bad situation here~sl:~but I need you to look after yourself on this.
+
+0x602823AC = ~z~Now I understand...
+
+0x1153802F = ~z~Why, a bit of time and we can...
+
+0xA4AF138B = ~z~I just need some time.
+
+0xB1A8460C = ~z~Alright?
+
+0xC052E361 = ~z~I am counting...
+
+0xD508F43E = ~z~~sl:0.0:2.5~I have it. Inside.~sl:~The answer.
+
+0xDCBD1C25 = ~z~I need you to look after this, yourself.
+
+0xEAEEB888 = ~z~We have got badder fish to fry.
+
+0xF2D2D06E = ~z~Hey Arthur!
+
+0xF967D57A = ~z~~sl:0.0:1.2~That is a...~sl:~a nasty pile of worms you've found yourself in.
+

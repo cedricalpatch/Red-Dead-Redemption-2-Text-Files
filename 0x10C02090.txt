@@ -1,0 +1,42 @@
+0x0C8E31FC = ~z~but my brother wrote to me and asked me if I'd help his family move out west.
+
+0x0FD59F94 = ~z~And you know what?
+
+0x4E4BACA0 = ~z~Alright, you want me to stop, I'll stop, heartless bastard...
+
+0x6D898C36 = ~z~Sure, too many...
+
+0x9B064EEA = ~z~We hadn't spoken in years, two very different fellers, but I thought this is something I can do.
+
+0x9E27DE46 = ~z~Asking when I'm gonna settle down, acting like he's better.
+
+0x66F26FF0 = ~z~I travel out to meet them, ride with the wagon train...
+
+0x627BE6EF = ~z~them and a couple other families. All soft-handed city types.
+
+0x1467A8BC = ~z~~sl:0.0:2.4~Even started... eating each other.~sl:1.7~And I'll always have that one on my conscience.
+
+0x5472CADD = ~z~Couple of days in my brother's irking me something rotten.
+
+0x16381E2D = ~z~Starting to regret sitting down here.
+
+0xB1BF34FE = ~z~Hey, I'm telling you the truth here.
+
+0xBAAA52F5 = ~z~Sure, too many...
+
+0xC5D2D6E4 = ~z~D'you have regrets?
+
+0xCBD5A1D5 = ~z~Look, I'm sorry, you don't need to hear this. I need to keep busy.
+
+0xD1DB0443 = ~z~Oh, rest up here if you want, I won't be much company.
+
+0xD99F3328 = ~z~~sl:0.0:3.9~So, just as we start the climb to cross over the Grizzlies...~sl:0.4~I bolt, and don't look back.
+
+0xE14008E3 = ~z~Starting to regret sitting down here.
+
+0xFB30B582 = ~z~Wish I could tell you this had a happy ending.
+
+0xFDBF945F = ~z~I been a loner for a long time, prefer it that way...
+
+0xFDDAFB9F = ~z~~sl:0.0:2.3~They got caught in bad weather in the mountains...~sl:0.4:1.0~and died.~sl:0.8~Every single one.
+

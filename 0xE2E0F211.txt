@@ -1,0 +1,68 @@
+0x0DAF2A27 = ~z~Mierda! Do you think we should run?
+
+0x1B64EB7D = ~z~I must really look like someone bad.
+
+0x1C04B9E5 = ~z~Hey? Oye! Over here.
+
+0x2F2E7D8A = ~z~Over here I said.
+
+0x7A30C6B5 = ~z~Ah, well.
+
+0x7E787AB0 = ~z~Can you help?
+
+0x9AFFD2D1 = ~t~In Spanish: Who do these people think I am?
+
+0x9EAD121C = ~z~~sl:0.6~Nearly there...
+
+0x10EA4102 = ~z~Come on!
+
+0x38B1B3DF = ~z~~sl:0.6:2.9~Never thought I'd feel safe in Thieves' Landing, but...~sl:0.3~I never thought I'd be in a shootout, neither.
+
+0x80E1A5A1 = ~z~I'm not who you think I am! You gotta believe me.
+
+0x87B04D53 = ~z~Please, you're making a mistake!
+
+0x91C9A152 = ~z~We have to do something.
+
+0x635BE5E0 = ~z~Please, I need to speak to you.
+
+0x902B6A8E = ~z~Take this, please. Least I can do.
+
+0x951CE82C = ~t~In Spanish: You'll all go to hell for this... Every last one of you.
+
+0x64599B07 = ~t~In Spanish: Too late for him. Poor bastard.
+
+0x812544D9 = ~t~In Spanish: Funny how it goes...
+
+0x23919770 = ~t~In Spanish: What are you waiting for?
+
+0xA080BAEC = ~z~Guess they think we all look the same.
+
+0xA7B29FA8 = ~z~Are you going then?
+
+0xAD8C0B78 = ~z~~sl:0.0:4.8~Listen, I, uh... I can't stay around here. I know some people down in Thieves' Landing.~sl:~C-could I ask you to give me a ride?
+
+0xAE05D5F6 = ~z~~sl:0.0:3.7~Dios mio. Thank you. Crazy bastards.~sl:0.2~They said I had a price on my head.
+
+0xB5823B47 = ~z~I'd go quick, if I was you. They looked mean.
+
+0xB270276E = ~z~Thank you.
+
+0xBAC9B385 = ~z~My name's Juan Cardenas. I'm just a laborer, I swear to you.
+
+0xC0ACB60A = ~z~~sl:0.5~Here's hoping this twin of mine isn't sat at home having dinner with my wife.
+
+0xC6B6A4C5 = ~z~Oh good, thank you. This isn't my kind of thing.
+
+0xCA4964D5 = ~z~I don't know what else to tell you.
+
+0xCCBAB646 = ~z~Goddamn it, I don't believe this!
+
+0xCE17D96F = ~z~~sl:0.0:3.0~I'm not sure what to do and you look... well...~sl:~like you might be better at dealing with something like this than me.
+
+0xE0417DC2 = ~z~~sl:0.0:0.7~Hey, listen.~sl:1.0~Some outlaws grabbed a man by his camp over the way.
+
+0xF6C94353 = ~z~Just please hurry.
+
+0xFBDE0685 = ~t~In Spanish: Christ!
+

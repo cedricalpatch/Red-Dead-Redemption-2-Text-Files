@@ -1,0 +1,202 @@
+0x0028B74A = ~1~ turned in a prisoner
+
+0x00685A6C = Prisoners turned in by rival Posse
+
+0x0107B084 = ~1~/~2~ prisoners freed
+
+0x044DE402 = ~COLOR_ENEMY~~1~~s~ is trying to turn in the prisoners
+
+0x050231BA = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~ ~1~
+
+0x05056AB5 = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ on the way ~1~
+
+0x0AB7055C = Take the prisoner ~1~
+
+0x0CE9CA2C = Take the prisoner ~1~
+
+0x0D0FCBBF = Prisoner turned in
+
+0x1C901414 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x1DEEF202 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+0x2DA82DD2 = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~
+
+0x3E3DBEB8 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ to the Sheriff's Office
+
+0x3EB23B2E = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+0x4AAEE9B2 = Prisoners freed
+
+0x4BFEE30D = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~
+
+0x4DA810B5 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x5DC146CC = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0x5E2BD652 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+0x5E4DFBD0 = Prisoners freed
+
+0x5F15F85C = Prisoner killed
+
+0x6C473167 = You triggered a rival mission against ~1~. Turn in the prisoner ~2b~ to gain the full reward.
+
+0x6D184051 = ~1~ is escorting a prisoner
+
+0x7D69B578 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~prisoners~s~
+
+0x8A974BD5 = Your Posse turned in a prisoner
+
+0x8C7FC962 = Take the prisoners ~1~
+
+0x8CA93A00 = Take the prisoners ~1~
+
+0x8FC5C0AE = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0x9B45D3B7 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ to Van Horn Trading Post
+
+0x9BCE8219 = ~1~ triggered a rival mission against ~2~. Turn in all the prisoners ~3b~ to gain the full reward.
+
+0x9C994464 = ~1~ triggered a rival mission against ~2~. Turn in the prisoner ~3b~ to gain the full reward.
+
+0x26EEBF51 = Use ~INPUT_INTERACT_LOCKON~ to lock on to the prisoner ~1b~ and lead them yourself.
+
+0x30B6D198 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~hogtied prisoner~s~
+
+0x41E03537 = A prisoner has been lost
+
+0x42B466CB = Break the prisoner out of the wagon
+
+0x43A439F2 = Breakout the prisoner from the prison wagon ~1b~ and take them to the drop off to earn the full reward.
+
+0x45FAEA44 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner transport wagon~s~ is escaping!
+
+0x48D7D70C = You are delivering a prisoner
+
+0x50CC1FB9 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~ ~1~
+
+0x55B7802A = The prisoners ~1b~ are escaping from the prison wagon. Use your lasso to hogtie the prisoners and take them to the drop off.
+
+0x69BB7499 = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+0x72C5F59D = Hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+0x75B1AA74 = You are escorting a ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0x81B53EBB = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~ on the way ~1~
+
+0x92D44B10 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ has been killed
+
+0x366AD572 = The prison wagon ~1b~ is on the move. Rescue the prisoners before the prison wagon reaches its destination.
+
+0x392CA178 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ from the wagon
+
+0x401BCB04 = Prisoners killed
+
+0x499E7BFC = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~
+
+0x511C1098 = A prisoner has been turned in
+
+0x675E2386 = Take control of the prison wagon ~1b~ or bring the prison wagon to a stop and shoot the padlock to release the prisoners.
+
+0x752ED421 = Use ~INPUT_CUT_FREE~ to cut free the prisoner or ~INPUT_PICKUP_CARRIABLE~ to pick them up.
+
+0x877DE68B = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ to Riggs Station
+
+0x982B00EA = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ to the MacFarlane Train Station
+
+0x2634D57E = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~hogtied prisoner~s~
+
+0x3775D182 = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~
+
+0x3961F3B1 = A prisoner ~1b~ is following you. Lead them to the drop off.
+
+0x5059AF9D = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ to the Sheriff's Office
+
+0x6713A04B = Prisoners turned in
+
+0x7492ED8B = Shoot the lock off the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x9288B5FC = The prison wagon ~1b~ is on the move. Rescue the prisoner before the prison wagon reaches its destination.
+
+0x38763D83 = ~1~ is delivering a prisoner
+
+0x50506B24 = Breakout the prisoners from the prison wagon ~1b~ and take them all to the drop off to earn the full reward.
+
+0x56493C73 = Prisoner freed
+
+0x84879A32 = ~1~ alerted the ~COLOR_ENEMY~law~s~
+
+0x756264CF = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ on the way ~1~
+
+0x14337011 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x59998202 = ~1~ delivered a prisoner
+
+0x72709755 = ~1~/~2~ prisoners turned in
+
+0x73105868 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ from the wagon
+
+0x93959288 = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ out of the wagon
+
+0xA755DDA0 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ to the MacFarlane Train Station
+
+0xAC0839F1 = You killed a ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+0xAC29CBCA = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0xB86A6439 = The prisoner was not freed
+
+0xBD91C406 = You triggered a rival mission against ~1~. Turn in all the prisoners ~2b~ to gain the full reward.
+
+0xC17085FF = You delivered a prisoner
+
+0xC888752F = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ to Van Horn Trading Post
+
+0xCDF3F244 = ~COLOR_ENEMY~Rival players~s~ can turn in the prisoners
+
+0xCE35C0FB = Prisoners not freed
+
+0xCECBEDA2 = A prisoner has been delivered
+
+0xCEFAD9EE = Prisoner freed
+
+0xCFC906FB = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoners~s~ on the way ~1~
+
+0xD03F78E7 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xD7E5EF4E = Take out any ~COLOR_ENEMY~witnesses~s~
+
+0xD12B94AD = Exit the wagon
+
+0xD303A286 = Prisoner turned in by rival Posse
+
+0xD1712C37 = A prisoner ~1b~ is getting too far and will soon escape recapture.
+
+0xD542407E = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ out of the wagon
+
+0xDEDEE19B = Your Posse delivered a prisoner
+
+0xE0E5B23D = ~COLOR_ENEMY~Rival players~s~ can turn in the prisoner
+
+0xE6A602A4 = A prisoner ~1b~ is getting too far away and will soon be lost.
+
+0xE8B38A21 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xE6461A80 = Break the prisoners out of the wagon
+
+0xE319903D = You turned in a prisoner
+
+0xE4820311 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ to Riggs Station
+
+0xEA8396A8 = Hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~
+
+0xEE64730D = Get on the horse
+
+0xEFA6CCA0 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xF51C2A94 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xF7134C95 = ~COLOR_ENEMY~~1~~s~ is trying to turn in the prisoner
+

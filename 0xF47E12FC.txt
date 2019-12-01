@@ -1,0 +1,30 @@
+0x0F7E4EB2 = The stranger was dropped off
+
+0x34ED9168 = Take the stranger ~1b~ to the destination.
+
+0x75A245D6 = Get on the horse
+
+0x197F5C4C = Pick up the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~
+
+0x733D3BB6 = The stranger was killed
+
+0x5878D4C7 = Escort
+
+0x1642315B = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0x1716500F = Use ~INPUT_INTERACT_LOCKON~ to lock on to the stranger ~1b~ and lead them yourself.
+
+0xC2D4A3B1 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ to the destination
+
+0xC3D33DF9 = Deliver the stranger to the destination
+
+0xC301151A = Accept Escort
+
+0xCF9A2820 = The stranger ~1b~ is following you. Lead them to the destination.
+
+0xD04381D0 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ ~1~
+
+0xD3C78E1C = The stranger was killed
+
+0xDAC7A0ED = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ ~1~
+

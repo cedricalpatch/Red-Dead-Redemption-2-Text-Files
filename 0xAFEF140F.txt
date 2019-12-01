@@ -1,0 +1,12 @@
+0x01448CBF = ~z~Keep clear of the coach, will you?
+
+0x935A302A = ~z~Oh, Christ!
+
+0x5869629D = ~z~You hear me? I said you're too close.
+
+0xBEDE4E40 = ~z~Just get out of here. You don't scare me!
+
+0xBFAE46A5 = ~z~We may have a problem here...
+
+0xEB53D102 = ~z~Hey! Clear the road, mister.
+

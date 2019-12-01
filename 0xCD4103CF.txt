@@ -1,0 +1,54 @@
+0x07FAAAC0 = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can now rob the shop's side business.
+
+0x09DB2AFB = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+0x0AEA04ED = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can rob the shop's side business.
+
+0x1A4A019E = ~s~You've found a hidden operation at the ~BLIP_SHOP_GUNSMITH~. You can now rob the shop's side business.
+
+0x1F391437 = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+0x2B82DAFB = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can now rob the shop's side business.
+
+0x5EA3CC3A = Point of Interest
+
+0x6E941478 = ~s~You've found a hidden operation at the ~BLIP_SHOP_GUNSMITH~. You can rob the shop's side business.
+
+0x486CF780 = Select to have discovered the secret area, or entering the secret area.
+
+0x3537D718 = Rob Back Room
+
+0x6268DDCA = Safe
+
+0x39593A54 = Peek through window
+
+0x447055EA = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can now rob the shop's side business.
+
+0xA5B88602 = Stranger
+
+0xA16E2550 = ~s~You've found suspicious activity at the ~BLIP_SHOP_GUNSMITH~. You can now rob the shop's side business.
+
+0xA95D982E = Captive
+
+0xA14859FF = ~s~You've found a hidden operation at the ~BLIP_SHOP_STORE~. You can rob the shop's side business.
+
+0xACADC9B3 = ~s~You've found suspicious activity at the ~BLIP_SHOP_GUNSMITH~. You can rob the shop's side business.
+
+0xAFB5A4DE = Stranger
+
+0xBE8FA153 = Guard
+
+0xC6AC017E = ~s~Take the ~o~money~s~ from the table~s~
+
+0xCAE704EC = ~s~You've found a hidden operation at the ~BLIP_SHOP_DOCTOR~. You can rob the shop's side business.
+
+0xD58472F0 = Rob Basement
+
+0xDB1A9252 = ~s~Rob the ~p~valuables~s~ from the gambling room
+
+0xE91BB07C = Money
+
+0xF14C1658 = ~s~Go to the gambling room on the ~o~third floor~s~
+
+0xF70A7AFD = New Weapon
+

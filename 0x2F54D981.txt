@@ -1,0 +1,36 @@
+0x3B81ADB4 = ~s~Deal with the ~e~goon leader~s~
+
+0x4EBEB9BF = Deed
+
+0x5A0EEACE = ~s~Return to ~o~Percy~s~
+
+0x7A2AD410 = Get Money
+
+0x12C35C3C = ~s~Retrieve the ~o~money~s~
+
+0x24C6DD2F = Goons
+
+0x70B19943 = ~s~Search the ~o~encampment~s~ for the property deed~s~
+
+0x82F63DCC = ~s~Get the supplies from the supply tent~s~
+
+0x214DF951 = ~s~Confront the ~o~Junior Foreman~s~
+
+0x2284CDAF = Give Deed
+
+0x49504951 = ~s~Go to the ~o~encampment~s~ and talk to the goons~s~
+
+0xB5C0A234 = ~s~Find the ~o~money~s~
+
+0xB6CA8EF1 = Money
+
+0xBE5838D2 = ~s~Follow the ~o~Junior Foreman~s~ to the money~s~
+
+0xCFD4D788 = ~s~Convince the ~o~Junior Foreman~s~ to return the money
+
+0xF0289707 = ~s~Follow the ~o~Junior Foreman~s~ discreetly~s~
+
+0xFCFA30AA = ~s~Watch the ~o~tracks~s~ for suspicious activity~s~
+
+0xFFE5367C = ~s~Get the ~o~property deed~s~
+

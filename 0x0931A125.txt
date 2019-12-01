@@ -1,0 +1,438 @@
+0x011345BD = ~z~I'm glad you here... are you looking for a job?
+
+0x01E3CF54 = ~z~I have nothing appropriate just now.
+
+0x02DBA0CB = ~z~Good... I've got a job, but it's a little confusing... little unclear.
+
+0x0416CCFF = ~z~Good. There's plenty of work, but this is probably most urgent.
+
+0x044A2CF9 = ~z~I am not a man to be annoyed by the unjust and the uncivilized.
+
+0x046CE906 = ~z~Come on, move.
+
+0x0604AC97 = ~z~Enough.
+
+0x06267F6E = ~z~You need some more back up for this one, friend.
+
+0x081DEA8C = ~z~Why are you here and not finishing your goddamn work?
+
+0x082D48DE = ~z~Damn you, you imbecile.
+
+0x0970D56C = ~z~Not now.
+
+0x0B31ABBF = ~z~You be very careful.
+
+0x0E5FE056 = ~z~Good to see you... you up for work? I got plenty...
+
+0x0FBFFEFF = ~z~Go see if you can bring it back to its rightful owner for me.
+
+0x0FD2C033 = ~z~Stop that right now!
+
+0x1CBECEE2 = ~z~Watch yourself.
+
+0x1F1353D7 = ~z~You revolt me. Get the hell away from me.
+
+0x1FF4051A = ~z~~sl:0.0:3.0~I believe it's the O'Driscoll's, if you know 'em.~sl:0.5:2.2~They went to a farm, killed a hand,~sl:~and a farm girl there and stole some wagons.
+
+0x2BD4B728 = ~z~So go do your damn duty.
+
+0x2CE4EF25 = ~z~Don't you dare.
+
+0x2D8BEFDC = ~z~I have nothing just now.
+
+0x2E47D2F4 = ~z~You're on a roll. Keep fighting for justice.
+
+0x3C28FF3A = ~z~There you go. Take it.
+
+0x3C818128 = ~z~Watch where you're aiming the gun.
+
+0x3DAADB89 = ~z~Clock is ticking. You don't have much time left.
+
+0x3E6849DF = ~z~~sl:0.0:3.3~A gentleman in this town reported his wagon stolen~sl:~near Gaptooth Ridge.
+
+0x4A68DA03 = ~z~I mean, go kill all of them as you find and bring back the wagons.
+
+0x4BA1463A = ~z~In fact...
+
+0x4C2DBCD7 = ~z~the tenth who remain will live calm and peaceful lives.
+
+0x4CFC5EC9 = ~z~~sl:0.0:2.2~Go get that poor man his property back.~sl:0.5~The decent people of Tumbleweed thank you.
+
+0x4E00E133 = ~z~I believe they're somewhere near Rio Bravo.
+
+0x5A6B6B34 = ~z~Fight well and good luck.
+
+0x5D7E796F = ~z~You want to help out, partner?
+
+0x5D5769A6 = ~z~let me see...
+
+0x6C71A5E5 = ~z~~sl:0.0:4.5~Well, if it was out there, I imagine it was Del Lobos did it.~sl:0.3~Still, they left him alive, which is something I guess.
+
+0x6EF9826E = ~z~is public executions.
+
+0x6FAB1DC8 = ~z~So you are interested in work, eh?
+
+0x6FC874EB = ~z~No. Don't you dare.
+
+0x7C97F87E = ~z~Nothing for the likes of you, partner.
+
+0x7D822984 = ~z~The good folk here value your help.
+
+0x8C41483C = ~z~Get out of here.
+
+0x8CD197CF = ~z~~sl:0.0:4.2~I think you know me well enough by now to act on my behalf.~sl:0.5~Be safe, stay good.
+
+0x8E676063 = ~z~So are you looking for a business opportunity, my friend?
+
+0x8EC69CDB = ~z~I have nothing for you just now.
+
+0x9A8B3342 = ~z~~sl:0.0:2.6~Doesn't seem like a big problem, but...~sl:~head over there and use your best judgment.
+
+0x9A30D8DC = ~z~Calm, peaceful lives, where their main form of entertainment...
+
+0x9AB14690 = ~z~I ain't got no business for likes of you, just now.
+
+0x9B0D8022 = ~z~Hurry up and get moving. There's no time to waste.
+
+0x9CA17BF3 = ~z~So, you want some work, partner? I've got some.
+
+0x9D257855 = ~z~Okay... this just came in, a telegram. Have a look and go to work.
+
+0x9EB4C41F = ~z~~sl:0.0:2.6~I hope your crime was not so ugly~sl:0.0:4.1~I shall regret not killing you here and now.~sl:0.2~Go.
+
+0x9F88C1DF = ~z~Are you here to cause trouble or to help me out?
+
+0x9F863BA0 = ~z~I cannot believe you messed that up so badly.
+
+0x13BFF7ED = ~z~Hm... well, it's you... you failed last time, I hope this will go better.
+
+0x16BEC2D9 = ~z~What are you doing? Cut that out.
+
+0x16FE34E5 = ~z~It's there.
+
+0x17FE1C49 = ~z~Good job, partner.
+
+0x18F6116B = ~z~~sl:0.0:4.3~I cannot abide violent robbery of a person's property.~sl:0.3~It's a goddamn sin. And I do not like sin.
+
+0x19E6EC51 = ~z~Damn you.
+
+0x20E570BB = ~z~then I'm always looking for guns to help out.
+
+0x21D179FD = ~z~Okay, get on with it for me.
+
+0x31A12874 = ~z~~sl:0.0:4.6~Farmer's very upset. I need you go get back his property...~sl:~and enact the full authority of the law.
+
+0x39D2A29D = ~z~need escorting through some dangerous country.
+
+0x43C873DD = ~z~Well done, friend.
+
+0x50A757AC = ~z~Kill any bastards get in your way.
+
+0x52F74A6A = ~z~Again, for the record, am I being clear?
+
+0x58C36F7E = ~z~So don't show weakness.
+
+0x60EA0485 = ~z~I've got plenty of work needs doing, friend.
+
+0x67CC7414 = ~z~Good.
+
+0x71C32D8E = ~z~Go on, get moving.
+
+0x77A419C3 = ~z~Hey, citizen. I've got some business you may be interested in.
+
+0x78D93024 = ~z~So you're interested in some work, huh?
+
+0x81E9A86A = ~z~~sl:0.0:5.0~Feller's name is Hugh Gibbons. Seems nice enough. Pays his taxes.~sl:~Keep him safe. Country is full of Del Lobos. You see 'em, kill 'em.
+
+0x82AC2CD3 = ~z~Come back another time.
+
+0x83B44791 = ~z~~sl:0.0:3.4~Do whatever you got to do out there to protect the innocent,~sl:0.3~the fallen have chosen their path.
+
+0x84BD060E = ~z~What happened? You failed.
+
+0x85A2AFC0 = ~z~So be it.
+
+0x85A41B4C = ~z~~sl:0.0:1.4~Should be along, shortly.~sl:1.0~Good luck out there.
+
+0x88C63CF3 = ~z~I've only got work for scum just now.
+
+0x89DE1BE4 = ~z~Put that down.
+
+0x91C91DC1 = ~z~Do that again. I dare you.
+
+0x93FDCF76 = ~z~This job isn't available for you. Come back later.
+
+0x94F7ACBD = ~z~Because I've got more than enough trouble, my friend.
+
+0x95CB33BA = ~z~You think I'm joking here, huh?
+
+0x107A4329 = ~z~Good day to you.
+
+0x127F5E45 = ~z~~sl:0.0:0.6~Good.~sl:0.6~This just came in, down the wire. Take a read and go to work.
+
+0x155F6F90 = ~z~~sl:0.0:2.0~Some thieves came through last night,~sl:0.0:2.6~stole the wagons of a local business owner.~sl:0.2~His name is Jake Aldereny.
+
+0x160D1020 = ~z~You did good last time.
+
+0x237DBD60 = ~z~Nice work on those previous jobs.
+
+0x262A0EDE = ~z~I'm busy.
+
+0x274F7333 = ~z~Good... there's a lot of work out here, but this is most pressing.
+
+0x292C5941 = ~z~Take it.
+
+0x332FB36E = ~z~~sl:0.0:5.5~Get it back for him. His name is Rowlands. Benedict Rowlands.~sl:1.0~And good luck.
+
+0x342D26CD = ~z~You want work again, friend?
+
+0x422E8B14 = ~z~I don't deal with wanted criminals.
+
+0x446EB7D1 = ~z~Now...
+
+0x716B5F6B = ~z~Well you ain't dead... more's the pity.
+
+0x783E01AA = ~z~Come back later.
+
+0x814DB192 = ~z~until we make it so, it won't be.
+
+0x898B377D = ~z~this whole county is not too keen on civilization.
+
+0x983F7D80 = ~z~~sl:0.0:1.4~Very good.~sl:1.0:2.7~I got a lot of business just now...~sl:0.2:2.0~let me find something pressing.~sl:0.4:3.6:1~I know how you like to do the most good you can.
+
+0x990FE09F = ~z~Good... take a read of this. I need your help pretty urgently.
+
+0x2489D967 = ~z~Nothing doing just now, my friend.
+
+0x3237C875 = ~z~Great work completing that last business.
+
+0x3590D76E = ~z~Great work completing that job for me.
+
+0x5069E35D = ~z~I can't talk right now.
+
+0x7057FBC2 = ~z~~sl:0.0:4.6~And he's paying to bring it. Go bring it in from Ridgewood Farm.~sl:0.3~But try, if possible, to avoid killing any of Albert's employees.
+
+0x7346A6B6 = ~z~~sl:0.0:4.3~Good... this just came in, down the wire.~sl:0.5~Take a read, and go to work.
+
+0x8993A455 = ~z~Come back another time.
+
+0x9677F6F7 = ~z~Are you dumb, my friend? Get to work.
+
+0x9766BED1 = ~z~I will not let that happen. Keep them safe for me.
+
+0x9810B849 = ~z~You fool.
+
+0x14001E5A = ~z~You have a price on your head. Get out of here, before I'm holding that head up severed at the neck.
+
+0x16448CBD = ~z~Get moving.
+
+0x38359F63 = ~z~right now there's some wagons outside...
+
+0x62265F5F = ~z~~sl:0.0:3.8~A dispute between cousins. Ownership of a wagon.~sl:0.4~Cousin Albert says it's his. Cousin Malcolm says it's his.
+
+0x65200DD5 = ~z~My friend, any chance you want to work again?
+
+0x82427ADD = ~z~I serve justice, do not make me serve it upon you.
+
+0x83580ED4 = ~z~Don't point that at me.
+
+0x95026A2D = ~z~~sl:0.0:2.6~Don't show mercy, that's a big mistake.~sl:0.3~Be safe... and stay good.
+
+0x510128B9 = ~z~You appear to be wanted. Get the hell away from me.
+
+0x514520B7 = ~z~Good. So here, take a look at this... I reckon you can help out.
+
+0x799008D7 = ~z~Go on a course of self-improvement before you come near me.
+
+0x1725737D = ~z~~sl:0.0:3.1~Good... because something just came in.~sl:0.6~Stolen wagons and dead farmers.
+
+0x5883275F = ~z~You appear to have bounties after you, get the hell away from me.
+
+0x7068884C = ~z~I've nothing for you just now.
+
+0x13366923 = ~z~I've got some more business, friend.
+
+0x60175596 = ~z~Enough, goddamn you.
+
+0x64261254 = ~z~You turned idiot, partner? Get to work.
+
+0x82198701 = ~z~So, if you intend on annoying me...
+
+0x82878465 = ~z~I don't have anything for you right now.
+
+0xA02DBA8A = ~z~Don't you dare.
+
+0xA1FC73B2 = ~z~Go on, get.
+
+0xA4A97849 = ~z~Decent fellers.
+
+0xA4B801F5 = ~z~I will kill you if you don't calm down.
+
+0xA6E2D097 = ~z~Good.
+
+0xA55B44E1 = ~z~Excuse me?
+
+0xA858E0B5 = ~z~~sl:0.0:2.6~But if they head out alone into the wilderness...~sl:~the monsters and degenerates will come out to play.
+
+0xA4345AD5 = ~z~Well done, partner.
+
+0xA3924153 = ~z~You be very careful.
+
+0xA7000748 = ~z~Killing bastards is kindness.
+
+0xAAF393F1 = ~z~~sl:0.0:2.9~Remember, justice must be served~sl:0.0:2.8~as harsh as the situation demands.~sl:0.4~Weakness is a tool of evil. Perhaps its greatest tool.
+
+0xAB4D851A = ~z~~sl:0.0:2.4~This business don't sound too good...~sl:0.3:2.7~go out there and see what needs doing,~sl:0.0:1.3~and use your intuition.~sl:0.3~You see any fools, kill.
+
+0xAC522432 = ~z~Another time, my friend.
+
+0xAD7C1E90 = ~z~Good to see you... you up for justice?
+
+0xAE0E6D4A = ~z~I'm out of work just now, partner.
+
+0xAE55959C = ~z~Idiot. Goddamn idiot.
+
+0xAFD57561 = ~z~You low life, get the hell away from me.
+
+0xAFE35F1C = ~z~I don't have anyting for you, my friend.
+
+0xB1F0A252 = ~z~So you free to work, partner?
+
+0xB5F0FE4E = ~z~Good job.
+
+0xB8C570E0 = ~z~I cannot do business with you right now.
+
+0xB13A6542 = ~z~Hold it right there.
+
+0xB65D1BAC = ~z~I wish the world were different, but...
+
+0xB67CA57E = ~z~You need to get out of here.
+
+0xB79D9EF4 = ~z~On your way, get out of here.
+
+0xB6083C73 = ~z~Well, last time, you failed me, but perhaps this will go better.
+
+0xBA068410 = ~z~These are decent people wanting to travel.
+
+0xBA24771A = ~z~Am I making myself understood?
+
+0xBAD3B93F = ~z~Hey, I've got a job you might be interested in.
+
+0xBC3A18F7 = ~z~You fool. Stop.
+
+0xBE78C6F8 = ~z~Get on with it.
+
+0xBE1590F1 = ~z~I don't have anything available for you right now.
+
+0xBE51038C = ~z~Go on, take it.
+
+0xC1F01946 = ~z~You stop that. Now.
+
+0xC4C8D9F4 = ~z~What happened on that last job? I pray you will perform better next time.
+
+0xC9F9D78B = ~z~Citizen, are you looking for work again?
+
+0xC70F2384 = ~z~What are you doing?
+
+0xC820DBCF = ~z~I have nothing new for you.
+
+0xC5603A79 = ~z~On your way.
+
+0xC6750FBB = ~z~let me know now so we can step outside...
+
+0xC11133F1 = ~z~Good luck to you. Kill those as deserve it with my blessing.
+
+0xCCB31394 = ~z~You goddamn fool.
+
+0xCD614C91 = ~z~~sl:0.0:2.2~Did not deserve to be robbed.~sl:0.4~Can you go try recover his wagon for him?
+
+0xCE6BBD5A = ~z~You better stop that.
+
+0xD05D30BD = ~z~Good. Okay... in particular, I got another convoy needs protecting...
+
+0xD3B99A95 = ~z~You need more guns in your posse for this one.
+
+0xD6A151A8 = ~z~But they will be.
+
+0xD86D6097 = ~z~Time for you to go.
+
+0xD88E018A = ~z~If you're looking to work, I hope you're not planning to fail again.
+
+0xD433D3C9 = ~z~I've nothing nice just now, just work for scum.
+
+0xD441CD19 = ~z~~sl:0.0:1.9~You have my blessing on that.~sl:0.4~Just keep that feller and his property safe.
+
+0xD7507238 = ~z~You, friend, you want some work?
+
+0xDA0C0E69 = ~z~What are you doing back here? Get on with the job.
+
+0xDC8EEAEC = ~z~~sl:2.1:4.2~A citizen of this town had his wagon stolen out by Solomon's Folly.~sl:0.5~Decent feller. Andrew Wilton... nice man. Decent man.
+
+0xDCDFDBEF = ~z~Would you like me to kill you? Is that it?
+
+0xDE77E185 = ~z~And good luck out there... this country ain't civilized yet.
+
+0xE07905C4 = ~z~~sl:0.0:1.1~The thief's name?~sl:0.0:2.7~I don't know and I don't particularly wanna know.~sl:~I just want 'em dead for the goddamn impudence.
+
+0xE1E6CAB7 = ~z~Take it already...
+
+0xE8CF7221 = ~z~Really? You fool.
+
+0xE17C26FF = ~z~So you did good with that thing.
+
+0xE21A2461 = ~z~You're running out of time.
+
+0xE85F43E0 = ~z~This needs more hired guns.
+
+0xE52175A4 = ~z~I've only got work appropriate to degenerates right now.
+
+0xE7926194 = ~z~Well done bringing that back to me.
+
+0xEA98F761 = ~z~You watch yourself.
+
+0xEADC077A = ~z~~sl:0.0:1.0~Good.~sl:1.2:4.1~I've got so much vice and degeneracy around here,~sl:~there's work enough for an army. Let me see...
+
+0xEB630D21 = ~z~Be just, but don't waste time on being merciful.
+
+0xEBF87C56 = ~z~If I have to string nine out of ten up...
+
+0xEE4EA16F = ~z~In my town? I believe they rode off up towards Jorge's Gap...
+
+0xEE70570E = ~z~Fool!
+
+0xEEF52E58 = ~z~Maybe you'll do a little better next time, eh?
+
+0xEF1F006D = ~z~You want me to execute you, amigo?
+
+0xF3FBFD5D = ~z~You be very careful.
+
+0xF4C704AA = ~z~~sl:0.0:2.4~As I cannot yet determine who's lying.~sl:0.4~So get the wagon, but avoid unnecessary murdering.
+
+0xF4D549D7 = ~z~Move, you moron.
+
+0xF5D92F49 = ~z~So you're back... Looking for work?
+
+0xF42EEB2E = ~z~and spare one of us the trouble.
+
+0xF98F97B4 = ~z~~sl:0.0:3.2~Some decent citizens have applied for an escort...~sl:~they're travelling by wagon down to Gaptooth Ridge.
+
+0xF803E66D = ~z~We need more like you... keep going.
+
+0xF622229F = ~z~Good luck.
+
+0xFB5A0B79 = ~z~I don't have any work just now.
+
+0xFB5FD110 = ~z~Go get the job done, fool.
+
+0xFB230BA2 = ~z~Watch yourself, you goddamn fool.
+
+0xFC505820 = ~z~~sl:0.0:6.1~Good. Okay... I've got a stolen wagon needs recovering.~sl:0.2~Taken out near Gaptooth Ridge.
+
+0xFD71CB51 = ~z~Let's hope it goes better than last time, eh?
+
+0xFD4833D7 = ~z~~sl:0.0:2.6~You need to bring all hell and damnation~sl:0.0:2.4~to those who bring it forth to others.~sl:0.4~That's the very kindest thing you can do.
+
+0xFF6B01A6 = ~z~I'll tell you...
+
+0xFF242D39 = ~z~if you're looking to help out a poor town teetering on the abyss...
+

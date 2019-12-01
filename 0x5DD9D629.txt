@@ -1,0 +1,500 @@
+0x012A4487 = ~z~I killed men, women and children too, animals. I even killed rocks.
+
+0x01AE08AC = ~z~Hey, you know what?
+
+0x027F0FCA = ~z~I ain't a killer?
+
+0x032576A3 = ~z~It don't matter.
+
+0x034FAFDF = ~z~Looks who's back!
+
+0x04340938 = ~z~This ain't the place for any of that... I made me a promise to the law.
+
+0x04D07BDC = ~z~I bashed folks, butchered folks...
+
+0x0527E333 = ~z~That something you was worried about?
+
+0x060CE210 = ~z~No...
+
+0x061B12DE = ~z~Well, well...
+
+0x0637E5CB = ~z~You used to be a quick draw guy...
+
+0x06A9AF7F = ~z~And I'm gonna enjoy it now.
+
+0x06B2F9A8 = ~z~Fork's on the fence. What you waiting for?
+
+0x07BD816B = ~z~Besides...
+
+0x0860118C = ~z~Watch it. Don't get any ideas, mister.
+
+0x0A2A7412 = ~z~Hey, I get it, alright? You're mean. But what about Calloway?
+
+0x0AEDDD3B = ~z~Now it's clean enough to eat off of.
+
+0x0B218837 = ~z~~sl:0.0:0.7:1~Look at this...
+
+0x0DB4A4A8 = ~z~You can keep your stories, and your hog shit.
+
+0x0F7C8442 = ~z~Hey, you.
+
+0x0F10E054 = ~z~Jim Boy weren't nothing, you know. Me...
+
+0x1BB27EC4 = ~z~I guess I'm done?
+
+0x1D5E2B63 = ~z~Don't do it!
+
+0x1E01C153 = ~z~just a crazy old man.
+
+0x1EA44814 = ~z~I hadn't made a deal with the federals...
+
+0x1FA1CB7F = ~z~Since I cleaned this place up...
+
+0x2A32DB0D = ~z~Calloway said you was full of piss...
+
+0x2ECAE43D = ~z~but he didn't tell me the half of it.
+
+0x3B421D5B = ~z~You a chicken killer?
+
+0x3B168268 = ~z~I-I got too much to lose.
+
+0x3BD5E643 = ~z~Ah, don't mind me...
+
+0x3D0600B3 = ~z~Well, seeing as I cleaned up this pigsty...
+
+0x3D6784C2 = ~z~You owe me that.
+
+0x3E6FEED7 = ~z~Goddamn it.
+
+0x3E43D5E2 = ~z~Weren't always that way though, were it?
+
+0x3EA8EE9B = ~z~Playing with fire, boy. Be wise to leave it where it be.
+
+0x3F9D2DD1 = ~z~I needs these hogs!
+
+0x3FA65542 = ~z~Boy, that's real nasty.
+
+0x4A9783C6 = ~z~we can talk while you work.
+
+0x4B859B82 = ~z~Well, well...
+
+0x4B58217B = ~z~This is your last chance, Mr. Granger...
+
+0x4D5D26F5 = ~z~Too much to lose?
+
+0x4D2722E9 = ~z~Alright, I cleaned up your mess.
+
+0x4DC5C262 = ~z~My damn chicken! No shame.
+
+0x4E4E268F = ~z~Hey, you be careful.
+
+0x5B0D3A71 = ~z~Hell...
+
+0x5BFE3BC7 = ~z~That's my stick!
+
+0x5C7A8047 = ~z~No shortage of shit round here.
+
+0x5C22C238 = ~z~A killer like me...
+
+0x5C72277F = ~z~Well, shit...
+
+0x5CEA4607 = ~z~I figure I'm in my rights to...
+
+0x5D21AC32 = ~z~You interested in the old days?
+
+0x5DD1C43E = ~z~Now go on...
+
+0x6AA7C3EA = ~z~I can't talk to you now.
+
+0x6B4D4889 = ~z~What's to know?
+
+0x6C9E3285 = ~z~You want that story, you're gonna have to shovel this!
+
+0x6C30DCD8 = ~z~You don't know who your trifling with.
+
+0x6D6B27C4 = ~z~Walk away, alright? You been fool enough.
+
+0x6E0EE618 = ~z~They're just words is all.
+
+0x6EC424DA = ~z~Comes from hungry hogs...
+
+0x6F5AFC0A = ~z~and eaten you... like a sausage.
+
+0x6FE36BF9 = ~z~go ahead and wreck it.
+
+0x7DB5B644 = ~z~No doubt...
+
+0x7E2F072C = ~z~he didn't say the half of it.
+
+0x7E4EDD46 = ~z~No good thief's all you are.
+
+0x7FA7C356 = ~z~It's only pig shit, sonny.
+
+0x8D4B8949 = ~z~What do you want?
+
+0x8EA1A199 = ~z~Alright.
+
+0x8FFC2AC6 = ~z~Calloway said you were full of piss...
+
+0x9AA1BE19 = ~z~you should make it about me.
+
+0x9B7F3E92 = ~z~Least there ain't no shit to shovel.
+
+0x9CAF0F56 = ~z~No...
+
+0x9CFF7B7E = ~z~Not that hog.
+
+0x9D9045EE = ~z~got this farm.
+
+0x9D522956 = ~z~Howdy. You Granger?
+
+0x12F226B4 = ~z~Don't bring none of that up to my hog farm... I won't have it.
+
+0x17BF5E16 = ~z~I'll get no bacon from that. Dammit.
+
+0x19B3A55B = ~z~Who's this long streak of piss?
+
+0x20AA4B4C = ~z~just a crazy old man.
+
+0x25CD0DCC = ~z~I shot folks, stabbed folks, skinned folks. I scalped some...
+
+0x25D95705 = ~z~Hey, let me work.
+
+0x28FB7422 = ~z~It's gonna be the last thing you do.
+
+0x30F6ECB9 = ~z~Why, you'd already be hog feed...
+
+0x33D7ECFF = ~z~I don't think you were anything at all...
+
+0x34BBD80F = ~z~I'm knee deep in hog crap.
+
+0x37A0F58E = ~z~Alright, I'll shovel your damn shit!
+
+0x41D727F2 = ~z~You walk away. Right now.
+
+0x42B2F63D = ~z~I don't know about that...
+
+0x46DD7C56 = ~z~just a quote for a book.
+
+0x48B681C8 = ~z~These better be some stories.
+
+0x49B81E3B = ~z~give me a quote for the book!
+
+0x62A59E91 = ~z~And who might you be?
+
+0x63C19D78 = ~z~There you go.
+
+0x68D6DDE8 = ~z~Only you ain't worth my time...
+
+0x69C9CA08 = ~z~Your fork's on the fence, and your shits is on the ground. They been getting high while you left 'em.
+
+0x70E16715 = ~z~give me a quote for the book!
+
+0x74B263DB = ~z~You can't go in there! The federals is hearing about this!
+
+0x77D2764B = ~z~Let's see.
+
+0x79E77845 = ~z~and all I wanted was a quote.
+
+0x84DDFBF5 = ~z~I burned folks alive, buried folks alive, one time I...
+
+0x86AA14E8 = ~z~Now I got a hoggery, with no cussing hogs on it.
+
+0x88E4591A = ~z~and no hands.
+
+0x93BC80BE = ~z~you knew Jim 'Boy' Calloway?
+
+0x95D48C55 = ~z~That's private.
+
+0x102CEB40 = ~z~Now I got a hoggery, with no cussing hogs on it.
+
+0x171C5F01 = ~z~You work shy or something, boy? Come on.
+
+0x255B5103 = ~z~I'm going do this for you, but I don't like it.
+
+0x282DB604 = ~z~Hey, I get it, alright? You're mean. But what about Calloway?
+
+0x534C2D3F = ~z~I figure I'm in my rights to wreck it.
+
+0x550C18B3 = ~z~A book about Jim Boy?
+
+0x653BAD2A = ~z~Your back's gonna hurt when you done.
+
+0x741A4BB0 = ~z~or get out of here and stop wasting my time.
+
+0x790B6405 = ~z~Ah, I don't know about that...
+
+0x797AFB90 = ~z~tell me about Calloway.
+
+0x805F0514 = ~z~I guess I'm done?
+
+0x876B98CD = ~z~One time...
+
+0x913AFBBE = ~z~That's it, I'll keep all my stories to myself!
+
+0x952FBCD9 = ~z~You gonna shovel this shit after all?
+
+0x954A71E6 = ~z~Hell, that stinks.
+
+0x964DB691 = ~z~You know what?
+
+0x992D03CC = ~z~Alright. Get out of here.  Won't have none of that carry on!
+
+0x995B9632 = ~z~Oh, they are. Pick up the fork and get to work...
+
+0x2565F40B = ~z~Well, well... couldn't stay away...
+
+0x2612FABD = ~z~He dead and the meat's likely spoiled too.
+
+0x3388A943 = ~z~And I killed 'em good.
+
+0x3406F0E5 = ~z~You knew him...
+
+0x5428B484 = ~z~You don't wanna do that...
+
+0x5740D12A = ~z~Howdy. You Granger?
+
+0x6104C52A = ~z~Stop it! I'm not interested.
+
+0x7556DCA0 = ~z~~sl:0.6~Sorriest looking son of a bitch, ever I saw...
+
+0x7741F94E = ~z~Hey, hey, hey, you don't w-want to hit an old man of peace...
+
+0x7867F626 = ~z~You knew him...
+
+0x8436E912 = ~z~That ain't yours!
+
+0x27113CBA = ~z~Look at me...
+
+0x41748F1C = ~z~Let's see.
+
+0x66893F05 = ~z~No, don't like the look of it...
+
+0x71533BEC = ~z~It don't matter.
+
+0x74683EC5 = ~z~There you go.
+
+0x88232D40 = ~z~Someone ain't having eggs for breakfast.
+
+0x96274EFE = ~z~What do you want?
+
+0x154016FE = ~z~Pitch fork's right there. Pick it up you want that story...
+
+0x600366DD = ~z~You gonna eat that?  Huh?
+
+0x2227965D = ~z~I said quit!
+
+0x8316781F = ~z~Can't nothing good come of this...
+
+0x17828860 = ~z~and my occupation too, if you hadn't noticed.
+
+0x87480082 = ~z~young man like you would get it done in half the time.
+
+0x98683622 = ~z~You owe me that.
+
+0xA1AC1C45 = ~z~Stop it! I'm not interested.
+
+0xA5AF92B0 = ~z~You get that barrow to the shit pile...
+
+0xA5C1D22D = ~z~all I wanted was a quote.
+
+0xA6C08FB5 = ~z~boy... they scream when you scalp 'em.
+
+0xA8F45ABE = ~z~You making a book...
+
+0xA9FB70F0 = ~z~That's all my chooks damn you! Blood and feathers now!
+
+0xA95D01E0 = ~z~Hey, hey, leave that.
+
+0xA690D081 = ~z~That something you was worried about?
+
+0xA971A8DB = ~z~You didn't, no!
+
+0xA7716E6A = ~z~I'm gonna see your guts!
+
+0xA32487C8 = ~z~Leave that boy...
+
+0xA377203E = ~z~Hey, I thought you wanted to hear this?
+
+0xA3905116 = ~z~I don't think you're anything at all...
+
+0xAA3C4A18 = ~z~That's a sloppy one.
+
+0xAB1F2BEE = ~z~Come back here and get the fork... unless you want to use your hands...
+
+0xAC283316 = ~z~Alright, I'll shovel your damn shit!
+
+0xAE772E60 = ~z~You better go now, mister. Can't have any of that business here.
+
+0xB00C2197 = ~z~Hear that squeal? Stop.
+
+0xB2A40771 = ~z~You earned yourself a killing.
+
+0xB5BC0AFF = ~z~Let's slice you open, boy!
+
+0xB7C118BF = ~z~Here comes the boy with all the questions...
+
+0xB71F351F = ~z~No doubt...
+
+0xB136E6C3 = ~z~that stinks.
+
+0xB876F9C3 = ~z~give me something... anything.
+
+0xB2956F20 = ~z~Give me a quote and I'll leave you alone.
+
+0xB14704C3 = ~z~You earned yourself a killing.
+
+0xB84937E3 = ~z~and I suppose you is.
+
+0xB151434E = ~z~What you taking, huh?
+
+0xBA3F91DE = ~z~I'd probably have chopped your head off, stuffed you...
+
+0xBC60CA33 = ~z~Hey! I knew you was trouble. Take that trouble somewhere else.
+
+0xBC800B7D = ~z~The hogs been waiting for you to come back, clean up after them.
+
+0xBCCCE564 = ~z~Get your back into it, boy, you ain't done.
+
+0xBCCF8048 = ~z~Too much to lose?
+
+0xBDDC6DAE = ~z~I don't give you squat.
+
+0xBEE97EAC = ~z~You gotta work for a living. Your momma should'a taught you that.
+
+0xC07752FE = ~z~How bout that?
+
+0xC1F977B8 = ~z~Goddamn it.
+
+0xC2A07616 = ~z~we can talk while you work.
+
+0xC4FD3920 = ~z~She ain't going be right...
+
+0xC5BA4CF3 = ~z~You better not.
+
+0xC7D5FE41 = ~z~Need you to tell me about Jim Boy...
+
+0xC7DAE905 = ~z~I knew you was soft from the moment I saw you... can't even shovel shit!
+
+0xC7F9866A = ~z~Your pitchfork's leaning against the fence... gonna want to pick it up.
+
+0xC16CBB85 = ~z~I said quit!
+
+0xC31BDBE7 = ~z~Dumb city boy... the fork's right here. Gonna need it to scoop that hog shit.
+
+0xC48CA8A0 = ~z~Come here! Come here!
+
+0xC86D0133 = ~z~Weren't always like that though, were it?
+
+0xC6845010 = ~z~That's all my chooks damn you! Blood and feathers now!
+
+0xC7869362 = ~z~Okay, I cleaned up your mess.
+
+0xCAC9A810 = ~z~~sl:0.0:2.9:1~There's hog shit with your name on it. You interested, partner?
+
+0xCB109B72 = ~z~just give me something... anything.
+
+0xCBF409DD = ~z~You keep your hands clean...
+
+0xCC6419D9 = ~z~God forbid they take that away.
+
+0xCF61A414 = ~z~This is your last chance, Mr. Granger...
+
+0xCFFD8E90 = ~z~I ain't talking and shovelling.
+
+0xD0EF12B3 = ~z~Well, don't mind me...
+
+0xD3F3CA1C = ~z~Draw.
+
+0xD5B7DA95 = ~z~Leave that girl.
+
+0xD8B62361 = ~z~I tell you some stories.
+
+0xD60BB84C = ~z~you walk away right now.
+
+0xD2712DB7 = ~z~Don't trifle with me, old man.
+
+0xD4406FD1 = ~z~Alright.
+
+0xDACFD526 = ~z~I'mma stick you alright!
+
+0xDDCCBFEE = ~z~Go on, tell me about Calloway.
+
+0xDE332CBF = ~z~You used to be a quick draw guy...
+
+0xE0CDC452 = ~z~You can keep your stories, and your hog shit.
+
+0xE1BB4E43 = ~z~no government witness.
+
+0xE2B349BB = ~z~Don't trifle with me, old man.
+
+0xE2E69F29 = ~z~That's my name...
+
+0xE4E5BB0F = ~z~God forbid they take that away.
+
+0xE6BA52C5 = ~z~Give me something to say and I'll leave you alone.
+
+0xE6C14147 = ~z~These better be some stories.
+
+0xE8CE8A48 = ~z~How bout that?
+
+0xE27F0FE5 = ~z~Least there ain't no shit to shovel.
+
+0xE27F9FC4 = ~z~I'm going do this for you, but I don't like it.
+
+0xE29FE774 = ~z~And I'm gonna enjoy it now.
+
+0xE46AF7FB = ~z~You going to mess up her laying.
+
+0xE55A529E = ~z~Hey, you.
+
+0xE69C5971 = ~z~I'm itching to drop you, girly.
+
+0xE185CBE0 = ~z~I didn't say they'd be about him.
+
+0xE768C0C6 = ~z~You shovel this shit...
+
+0xE35968DB = ~z~Boy, that's real nasty.
+
+0xE8677055 = ~z~Come on!
+
+0xEC0D7579 = ~z~You have no idea, girly. Why, effeminate type like you...
+
+0xEC9149F7 = ~z~just a quote for a book.
+
+0xED024A5D = ~z~you knew Jim 'Boy' Calloway?
+
+0xEF3BE74C = ~z~I said I'd tell you stories...
+
+0xEF8C61CF = ~z~You shovel. I got better things to do.
+
+0xF09B3A92 = ~z~Used to be's correct...
+
+0xF2BC8AA0 = ~z~Hey, let me work.
+
+0xF6A83057 = ~z~Someone ain't having eggs for breakfast.
+
+0xF7CEF8DD = ~z~You shovel. I got better things to do.
+
+0xF8C0476B = ~z~You just took yourself a regular shit shower, Mr. Granger.
+
+0xF9CB646B = ~z~I need you to tell me about Jim Boy...
+
+0xF9D0FD96 = ~z~it don't take much to end up on the end of my knife.
+
+0xF65C4614 = ~z~them days are long over.
+
+0xF125B836 = ~z~You just took yourself a regular shit shower, Mr. Granger.
+
+0xF38703DD = ~z~I dunno what's got into these hogs, but I know what's coming out of 'em.
+
+0xF853469D = ~z~No...
+
+0xF2589349 = ~z~A waste of a damn hog.
+
+0xFCEC7F29 = ~z~They're just words is all.
+
+0xFD51EC94 = ~z~Here's trouble alright...
+
+0xFFC59F11 = ~z~I'm gonna cut you!
+

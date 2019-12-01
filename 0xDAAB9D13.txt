@@ -1,0 +1,12 @@
+0x4A27FE8B = ~z~Well done, cowpoke, well done...
+
+0x44EFFA62 = ~z~I'm sorry, Arthur... we're, uhh... it's private, you know.
+
+0x276E9B13 = ~z~Don't act like a child, Arthur. Give us a minute.
+
+0x18011A3E = ~z~I just need some goddamn peace to think!
+
+0x57889F97 = ~z~Don't mind me.
+
+0xCDD685E6 = ~z~I said give us a minute!
+

@@ -1,0 +1,36 @@
+0x07330D7A = ~z~I hear that voice and wake up in a cold sweat.
+
+0x17B3AE77 = ~z~
+
+0x35E5E387 = ~z~Miss Jones, what are you doing?
+
+0x39A4FC28 = ~z~I just cannot stand it anymore.
+
+0x61EF78E6 = ~z~
+
+0x74C37264 = ~z~so help me god, I will throttle her myself.
+
+0x82D86BD9 = ~z~She's awful, Arthur, and you know it.
+
+0x83F8DC39 = ~z~Make these 'ladies' earn their keep, Mr. Morgan.
+
+0x1355AF86 = ~z~Miss Jones! Miss Jones!
+
+0x8748C398 = ~z~You just be ready for work.
+
+0x754750B7 = ~z~I hear that voice and wake up in a cold sweat.
+
+0xB7C743D5 = ~z~Leave me out of it, Miss Grimshaw.
+
+0xC83C0831 = ~z~Alchemy, Miss Grimshaw. It's my new hobby.
+
+0xC85F999F = ~z~I know.
+
+0xD701B6E3 = ~z~I tell you, Tilly, if I hear that voice one more time,
+
+0xDB49AE4C = ~z~I'll let you know when I find the recipe for gold.
+
+0xE9C74B47 = ~z~Oh, very funny.
+
+0xF9A5725B = ~z~
+

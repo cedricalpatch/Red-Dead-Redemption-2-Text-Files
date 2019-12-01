@@ -1,0 +1,354 @@
+0x007BB65F = ~z~~sl:1.4:3.2~Well that's a feeling I imagine you're just too familiar with,~sl:~hmm, darling?
+
+0x02D53DB7 = ~z~~sl:0.0:2.9~Oh, my God. He's a brilliant man.~sl:0.6:3.0~But there wasn't a busboy, or a bellhop~sl:~from here to Timbuktu he didn't seduce.
+
+0x02FF1843 = ~z~~sl:0.0:1.4:1~Thank God she's dead.
+
+0x03F15E9F = ~z~But I can't say for sure.. he wouldn't show me. But, my God, what a bore!
+
+0x0425D9F5 = ~z~~sl:0.0:2.8~It's the great American sickness...~sl:0.6~vanity.
+
+0x0648BBD1 = ~z~~sl:0.0:5.2:1~So make yourselves at home, you're gonna all fit right in.
+
+0x079B9A74 = ~z~They say hanged, not hung, when it's people.
+
+0x09CF4906 = ~z~What are you looking at, cowboy?
+
+0x0A9474AF = ~z~Can someone bring me something to eat?
+
+0x0B87B87D = ~z~~sl:0.0:3.4:1~What is it about second sons born into privilege?
+
+0x0FA83BB5 = ~z~I'm an old mess.
+
+0x1CE65631 = ~z~judging by what... fate has handed to me. Look at me!
+
+0x1DA4945D = ~z~Tom?
+
+0x1F8A90BE = ~z~~sl:0.0:3.2~All my life I've been surrounded by morons...~sl:~claiming to know the answer to that question.
+
+0x1FAD85B0 = ~z~What does a dried up old hag have to do to get drunk round here?
+
+0x1FE96140 = ~z~~sl:2.4:0.0~I mean... "Evelyn Miller"?
+
+0x1FF8EB4F = ~z~Ugh, I simply must have some!
+
+0x2B14F28E = ~z~And he hated woman...
+
+0x2DC29495 = ~z~~sl:0.3:0.0~We need another war...
+
+0x3A407FBD = ~z~You know something?
+
+0x3D220C8C = ~z~Oh, Tom. He's sulking with me again.
+
+0x3ECF5D2C = ~z~side of despair...
+
+0x3F28E188 = ~z~The novel is dead. Such tripe.
+
+0x4A4DC617 = ~z~Where is that little shit?
+
+0x4A8F2766 = ~z~~sl:0.0:3.0:1~I think someone's pissed in his porridge.
+
+0x4CCE3608 = ~z~What kind of a sick fellow thought it up. Answer me that, any of you?
+
+0x4EC1D2EA = ~z~Now shoo, please. I'm waiting for someone interesting to turn up...
+
+0x5A32B858 = ~z~Place used to be sophisticated.
+
+0x5ABED214 = ~z~Jimmy! Is Jimmy here?
+
+0x5B0A7C69 = ~z~~sl:0.0:1.9:1~You're not even good drunks.
+
+0x5CD45B62 = ~z~Now even the ballless hate me...
+
+0x5E6874DC = ~z~~sl:0.0:1.9~Bet he's off having his dress mended...~sl:1.6:1.9~snivelling little leech.~sl:0.4~Reprobate...
+
+0x6A4BA643 = ~z~~sl:0.0:1.0:1~I'm very drunk.
+
+0x6A57BE3C = ~z~I bet you all vote. I bet you all care!
+
+0x6B370F7D = ~z~~sl:0.0:4.3~Let me be very clear, gentlemen, I do not want the bloody vote!~sl:~I want to be a queen.
+
+0x6BE987A2 = ~z~Darling...
+
+0x6E8822E0 = ~z~~sl:0.0:6.1~Why just the other day, I was so tired of just being brilliant like this,~sl:~I drank all day.
+
+0x6F46B540 = ~z~I met him once... Jimmy did you hear that? I met Evelyn Miller.
+
+0x6FA9D181 = ~z~Liars, bloody lot of them. Narcissi, all of them!
+
+0x7AAF4E71 = ~z~~sl:0.0:2.6~Tom, can I get another bloody drink over here?~sl:0.9~Where is Tom?
+
+0x7D57AA7E = ~z~~sl:0.0:0.6~Darling!~sl:1.4~I said, "Darling, can I get another bloody drink over here?"
+
+0x7EF7DFD5 = ~z~Who knew you?
+
+0x8C2A7A3A = ~z~The worst types, darling. Intellectuals.
+
+0x8C61AF4C = ~z~I hope you are going to act a little less fresh now, my dear boy.
+
+0x8EC53A20 = ~z~Have you seen Jimmy, tough guy?
+
+0x8FBB4F45 = ~z~~sl:0.3:0.0~C'mon, chop chop, darling. I'm dying of thirst.
+
+0x9A5C969E = ~z~In other words, men without balls.
+
+0x9AB14BEB = ~z~~sl:0.0:2.6~It's quite tiresome, all that posturing.~sl:0.4~Quite wears me out just to think about it.
+
+0x9DA62D5D = ~z~~sl:0.0:4.0~Just what exactly are we doing alive?~sl:0.6~It's a mystery to me, no mistake.
+
+0x9F400D8E = ~z~Well I ain't too sure.
+
+0x10FA8B83 = ~z~You're-you're-you're dull... dull, dull, dull.
+
+0x14E9CC55 = ~z~~sl:0.0:6.1:1~I need a bloody drink! Somebody get me a drink. Tom?
+
+0x15B87D1A = ~z~Liars, bloody lot of them. Narcissi, all of them!
+
+0x15C6B6CA = ~z~Down here, you say "lynched". But you always did mangle the language.
+
+0x19CF45E3 = ~z~~sl:0.0:2.4~That's what my nanny used to say.~sl:~Silly old Scotch hag, smelled of old fish.
+
+0x22A7748E = ~z~~sl:0.0:2.7~so far the twentieth century...~sl:0.2~is the century that will venerate stupidity as no other before it.
+
+0x29C60B98 = ~z~~sl:0.4:3.5~Princes, paupers... office clerks.~sl:0.4~David had them all.
+
+0x30E7110D = ~z~It's the Time of the Idiot.
+
+0x32EA078E = ~z~~sl:0.0:2.4:1~I'm a... fat old mess.
+
+0x39BE9EDA = ~z~I bet none of you bores have any...
+
+0x48F995E6 = ~z~Not an interesting mind or a nasty habit among the lot of you.
+
+0x49DEDA12 = ~z~Please... gentlemen, you're embarrassing yourselves.
+
+0x54AF3BAE = ~z~Can I get another bloody drink? I'm parched.
+
+0x58B762EA = ~z~Tommy, darling, where are you?
+
+0x62B8A8A7 = ~z~My God, I am so bloody bored.
+
+0x66AB2F40 = ~z~Geldings. I was popular with geldings, darling.
+
+0x68E0AAD4 = ~z~It's too bad, it really is. Can somebody horsewhip him for me, please?
+
+0x75A307DC = ~z~Can't say that I have.
+
+0x76B87163 = ~z~All of you, you're all... boring. You should be ashamed of yourselves.
+
+0x81A30738 = ~z~And we're left with the choirmasters. And not the fun kind. No siree.
+
+0x84C24F54 = ~z~~sl:0.0:3.5~We've got a terribly difficult job.~sl:0.3~Just being clever like this is so very hard. It's exhausting.
+
+0x85AD74E7 = ~z~~sl:1.3:~My God... what, what is wrong with all of you?
+
+0x90C9906A = ~z~Now I'm just the bloody town drunk.
+
+0x92F5EBBB = ~z~That's the thing, darling. We intellectuals have to drink.
+
+0x94CE005A = ~z~He gets what he deserves and that's a fact.
+
+0x96E51981 = ~z~~sl:0.0:2.9~He wrote a long section for the timpani...~sl:0.8~all because he was in love with the percussionist.
+
+0x97CBE7A2 = ~z~No wonder his symphony was laughed at.
+
+0x121FC5AD = ~z~God, he's even got a woman's name. Poor bugger.
+
+0x184A101A = ~z~~sl:0.0:2.3~Something light and refreshing like...~sl:0.7~cocaine, on toast, with a...
+
+0x278E14DD = ~z~I'm not drunk, I'm an intellectual.
+
+0x402BB967 = ~z~Oh, don't be shocked. What're you, virgins? Gimme a break.
+
+0x548B0C4C = ~z~~sl:0.3:0.0~Do you know I burnt my new novel? Finished it, and burnt it.
+
+0x565CCACA = ~z~Little catamite was a priest until he got defrocked. Oh, it was an outrage.
+
+0x587A12DE = ~z~~sl:0.0:2.3~Hermaphrodites, as my mother would call them.~sl:0.6~Eunuchs, as my father liked to say.
+
+0x996F9614 = ~z~~sl:0.3:0.0~Tom? Tom? Where's Tom?
+
+0x4374B246 = ~z~and if you did, I bet none of you would share.
+
+0x5429C4BF = ~z~~sl:1.5:1.3:1~This world...
+
+0x6291D063 = ~z~I have an education. Daddy hired a wonderful tutor.
+
+0x6422E656 = ~z~~sl:0.0:1.1:1~He'll tell you all about it.
+
+0x7470D26E = ~z~Oh, there's nothing worse than caring. Caring hurts!
+
+0x8283F3DF = ~z~Well who knew you?
+
+0x8478DFB0 = ~z~
+
+0x9816CCC3 = ~z~Bloody little man's late with my cocaine.
+
+0x37060A78 = ~z~Probably a eunuch... judging by the people he lets do well.
+
+0x41578DEF = ~z~~sl:0.0:2.8~Poor fellow, fell in love with my mother...~sl:0.2~hanged himself.
+
+0x65644EBB = ~z~This town is so bloody boring. Boring!
+
+0x104132C7 = ~z~Tom? Tommy?
+
+0x156562D7 = ~z~~sl:0.0:1.5~He reminds me of my husband.~sl:0.4~Did I ever tell any of you fools about David?
+
+0x475280B7 = ~z~Have you got any ideas, big man?
+
+0x762382D0 = ~z~My God... it's the angriest man in the world!
+
+0x31184567 = ~z~~sl:0.0:5.3~I hated my characters... and after I tortured them for thirty pages,~sl:~even I was losing the will to live.
+
+0x31363415 = ~z~~sl:0.0:1.5:1~Well, at least you're honest.
+
+0x79006412 = ~z~~sl:0.4:0.0~No, not really...
+
+0x93149856 = ~z~~sl:0.0:1.5:1~Well, at least you're honest.
+
+0xA04E706B = ~z~This is meant to be a saloon, not a bloody vicarage.
+
+0xA3D16912 = ~z~~sl:0.0:4.1:1~Oh, I wish I knew more. Can't get enough of the stuff.
+
+0xA16BB504 = ~z~~sl:0.0:2.8~It's the great American sickness...~sl:0.6~vanity.
+
+0xA54FA15D = ~z~My God, but... there's a small-minded simpleton.
+
+0xA59CBA10 = ~z~~sl:0.0:1.5~Lillian Powell.~sl:1.1~I used to be quite well known...
+
+0xA75D06B0 = ~z~Does anyone have a woman to spare?
+
+0xA361E359 = ~z~Well, when you see him, punch him for me, will you?
+
+0xABD2C135 = ~z~~sl:0.0:4.0:1~I don't want to hurt. I want to drink, and inject cocaine...
+
+0xAC4C5C8A = ~z~Not anymore. The devil's gone elsewhere.
+
+0xADBFAA8D = ~z~What are you looking at, cowboy?
+
+0xAE4567C9 = ~z~God, I am so bored!
+
+0xAF547CC0 = ~z~~sl:0.0:2.6~I'd give up booze and opium...~sl:0.4~and that little toy I had sent from Paris...
+
+0xB4D9A2C1 = ~z~~sl:0.0:3.1~Voting is... demeaning. It's unnatural.~sl:0.8~It's what's wrong with this country.
+
+0xB5F19BAD = ~z~Oh, what's wrong with you?
+
+0xB7EF5EB5 = ~z~And you, Miss, uh?
+
+0xB20A8220 = ~z~Oh, what I would give for the love of a good woman!
+
+0xB57FB519 = ~z~~sl:0.3:1.5~I'm bored!~sl:0.8~I need some cocaine.
+
+0xB59F4D23 = ~z~~sl:1.6:0.0~Nice to see you again, cowboy.
+
+0xB92D6131 = ~z~Geldings. I was popular with geldings, darling.
+
+0xB9942B1E = ~z~Nice little housewife I could devour...
+
+0xB282557D = ~z~Life is very hard...
+
+0xBAC3C495 = ~z~Now shoo, please. I'm waiting for someone interesting to turn up...
+
+0xBB15CCE9 = ~z~Did any of you morons read that last drivel written by Evelyn Miller?
+
+0xBCAE9774 = ~z~Oh, don't be shocked, none of you. Not even you, Tom.
+
+0xBDFD658A = ~z~Devour virgins whole... usual sort of stuff.
+
+0xBE578EF5 = ~z~Tom, forgive old Lillian. I'm such a bad boy, I really am.
+
+0xBEDFAE8D = ~z~Now even the ballless hate me...
+
+0xBF252D87 = ~z~Oh... I feel like I have been sitting here for years!
+
+0xBFFE0B3A = ~z~~sl:0.4:0.0~No... you know nothing. Bunch of ignorami.
+
+0xC3D3E98C = ~z~And you, Miss...
+
+0xC5FD374D = ~z~Does anyone have any cocaine?
+
+0xC8DFFD76 = ~z~~sl:0.5:0.0~Eros, you are such a shit to us mortals.
+
+0xC9B26A22 = ~z~They used to say, at Yale, that he has a tiny penis. Oh, don't be shocked!
+
+0xC49B3900 = ~z~~sl:0.0:2.4:1~A girl have to do to get drunk around here?
+
+0xC88E602A = ~z~~sl:1.4:3.2~Well that's a feeling I imagine you're just too familiar with,~sl:~hmm, darling?
+
+0xC162F33E = ~z~~sl:0.0:4.6~I must stop working quite so much and... learn to relax.~sl:~I'm quite withered by stress.
+
+0xC5837D33 = ~z~~sl:0.0:3.2~All my life I've been surrounded by morons...~sl:~claiming to know the answer to that question.
+
+0xC65445B6 = ~z~Too many bloody rights. And given to entirely the wrong people!
+
+0xCA90B690 = ~z~~sl:0.0:4.1~My cousin says he's an even bigger moron.  And a drug addict.~sl:~Oh, are any of you drug addicts?
+
+0xCABB20B4 = ~z~~sl:0.0:5.9~That's plural for ignoramus. Latin, like... cunnilingus.~sl:0.6:1.0~Also Latin.
+
+0xCB8A352B = ~z~Oh, do any of you know about Tom? He was a priest!
+
+0xCB44F9BE = ~z~~sl:0.5:~Little catamite. I'm horrifed.
+
+0xCBB10634 = ~z~~sl:0.0:2.3~Hermaphrodites, as my mother would call them.~sl:0.6~Eunuchs, as my father liked to say.
+
+0xCC8D6847 = ~z~Jimmy! Is Jimmy here?
+
+0xCCD54A78 = ~z~~sl:0.0:2.4:1~I'm a... fat old mess.
+
+0xCDD9CAF0 = ~z~Well let me break it to you...
+
+0xD3FD79A5 = ~z~Hmm... no, not really.
+
+0xD10E0408 = ~z~~sl:0.0:1.5~Lillian Powell.~sl:1.1~I used to be quite well known...
+
+0xD91BD04E = ~z~~sl:0.6:0.0~Where is bloody Tom? Tom, where in the blazes are you?
+
+0xD9686BDE = ~z~They keep talking about giving us the vote.
+
+0xD92653BB = ~z~~sl:0.0:3.9~A-and what about that other fellow... Harold MacDougal?~sl:~T-t-the anthropologist...
+
+0xDA403871 = ~z~~sl:0.0:3.5:1~Stories I heard would make a devil blush.
+
+0xDB3985A3 = ~z~Have you seen Jimmy, tough guy?
+
+0xDC9A2806 = ~z~In other words, men without balls.
+
+0xDE08F407 = ~z~
+
+0xE0DBA3A3 = ~z~Now I'm just the bloody town drunk.
+
+0xE1D355EC = ~z~~sl:0.0:4.9~Oh forgive me, Tom. I'm sorry I called you a catamite,~sl:~I know it's not true, darling.
+
+0xE2A1946F = ~z~Well, when you see him, punch him for me, will you?
+
+0xE48E1AF2 = ~z~Have you got any ideas, big man?
+
+0xE9692BEF = ~z~~sl:0.5:2.2:1~For the love of all that is holy...
+
+0xE9182160 = ~z~I can't say that I have.
+
+0xEABFC45D = ~z~~sl:1.6:0.0~Nice to see you again, cowboy.
+
+0xECA66B92 = ~z~~sl:0.4:0.0~Tom. Tommy?
+
+0xEE9733EB = ~z~~sl:0.0:5.8:1~Was any man... any man, that prefers trees to tits...
+
+0xEED47F17 = ~z~~sl:0.3:0.0~Yale is well shot of him.
+
+0xEF08CCE3 = ~z~The worst types, darling. Intellectuals.
+
+0xF01E15A4 = ~z~~sl:0.5:0.0~Well, I ain't too sure.
+
+0xF0D230D0 = ~z~Bloody little man's late with my cocaine.
+
+0xF0E099CE = ~z~Jimmy? Jimmy, are you still here?
+
+0xF2DC378E = ~z~~sl:0.0:4.0~Just what exactly are we doing alive?~sl:0.6~It's a mystery to me, no mistake.
+
+0xFA62E6F5 = ~z~~sl:0.0:1.0:1~I'm very drunk.
+
+0xFD8D66CC = ~z~~sl:1.2:0.0~Love...
+
+0xFDB11CD0 = ~z~~sl:0.0:5.3~"Boo hoo... I'm bored of being a professor. I want to stare at trees."~sl:0.1~You're a moron, my friend.
+

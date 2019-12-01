@@ -1,0 +1,84 @@
+0x011936BA = ~z~Show you care! Come on, please, somebody.
+
+0x03D3720B = ~z~~sl:0.0:1.8~Please give if you can.
+
+0x0635D9BF = ~z~I am just trying to help where I can, sir.
+
+0x1EF2EAB8 = ~z~Please be generous.
+
+0x5EFA0B4A = ~z~What I do is none of your damn business, okay?
+
+0x7ABF9C85 = ~z~If you say so.
+
+0x8C713FE8 = ~z~I do... and who do you help?
+
+0x14C7D709 = ~z~Use your... use your strength to help the weak!
+
+0x21BE90D0 = ~z~You would have killed that man.
+
+0x37E2BD18 = ~z~You're just full of charity, ain't you?
+
+0x74B21362 = ~z~I hear poor Tommy is in quite a bad way.
+
+0x95BF1BFF = ~z~~sl:0.0:5.1~It is in giving that we receive the true gifts of life that are eternal...
+
+0x233D73F4 = ~z~ I-I do all I can manage, are you doing all you can? Huh?
+
+0x437BD44A = ~z~Okay, oh... okay, sir...
+
+0x970E5522 = ~z~I'll help you learn to keep your mouth closed.
+
+0x981E4627 = ~z~Let's make this country a brotherhood of man!
+
+0x9452EEA2 = ~z~Oh, you're still here?
+
+0x82072E0C = ~z~I hope you're not here to cause more trouble.
+
+0x53587403 = ~z~Or interfere.
+
+0xA4DCF0BF = ~z~Sorry, sir.
+
+0xA5BBF999 = ~z~Let's try and help each other. It's not about survival of the fittest...
+
+0xA64EE288 = ~z~~sl:0.0:1.3~So give what you can.~sl:1.1:1.2~We're in it together!~sl:0.5~We can be one!
+
+0xA75013F4 = ~z~~sl:0.0:2.1~Please give money to the orphans!~sl:0.6:0.8:1~Remember...
+
+0xB605344F = ~z~Oh, it's you.
+
+0xB7823500 = ~z~Keep up the good work.
+
+0xBC6B3E2A = ~z~~sl:0.0:3.8~remember it's better to give than to receive...
+
+0xC07FE5EB = ~z~How about you, sir?
+
+0xC1B573EB = ~z~~sl:0.0:1.4~So give generously,~sl:0.4~for that is what this country needs, to help each other!
+
+0xD073C7EC = ~z~You get a lot of money doing this?
+
+0xD8B9DE47 = ~z~Be generous! Help people! Try to do what you can!
+
+0xD878DE72 = ~z~Sir, please. We don't need more any problems here.
+
+0xDAE65FC9 = ~z~I hope you don't harbor a grudge against me.
+
+0xDBB3C620 = ~z~Sir?
+
+0xDE1E6341 = ~z~Not much but it's the trying that counts.
+
+0xE43B572B = ~z~Will you help?
+
+0xE98DCE46 = ~z~prove we ain't a land of savages, prove we're here for each other!
+
+0xE306F38E = ~z~Well, best you keep your mouth shut then.
+
+0xEED79237 = ~z~Come on, please! Please, somebody, be generous.
+
+0xF2EFF494 = ~z~Every little counts.
+
+0xF79D6A65 = ~z~Give more! Please...
+
+0xF87E1E76 = ~z~Come on, try and help people!
+
+0xFA115E87 = ~z~We're collecting for an orphange in Saint Denis!
+

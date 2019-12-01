@@ -1,0 +1,18 @@
+0x2F575718 = ~z~
+
+0x7D847371 = ~z~Hey, come over here!
+
+0x20EA3A3E = ~z~You know, I ain't no O'Driscoll.
+
+0x130C9E83 = ~z~Come over here, O'Driscoll.
+
+0x420D7C84 = ~z~Our old neighbour back in Donegal was called O'Driscoll. And we couldn't stand him neither.
+
+0xBB7156A7 = ~z~You want some, big man?
+
+0xCCBB793B = ~z~Don't annoy me, boy.
+
+0xDE261C28 = ~z~
+
+0xF1927ABF = ~z~
+

@@ -1,0 +1,200 @@
+0x006E486B = ~z~We keep leading trouble right to us.~rp~ We're carrying too much dead weight.
+
+0x025549ED = ~z~I'm sure you've tried.
+
+0x05E27B29 = ~z~Come on, Morgan, we're on the clock here!
+
+0x06BDE37E = ~z~Hurry up, Morgan.
+
+0x0A307C2B = ~z~Probably a good idea.
+
+0x0BE7DBEA = ~z~You got that right.
+
+0x0BE15F84 = ~z~Alright, best we get out of here. We'll split that up later. I trust you, cowpoke.
+
+0x0CCCB9E6 = ~z~Amusing...~rp~ Charm...and a little money.
+
+0x1A8BFCD9 = ~z~Go on, I'll see you back at camp.
+
+0x1D7E7F17 = ~z~You just don't understand women, Morgan.
+
+0x1D988073 = ~z~Swanson does his share?~rp~ Molly? Come on.
+
+0x2FF4BA43 = ~z~Let's go!
+
+0x3FD159F6 = ~z~I'm joking, Bill.
+
+0x4AF85B32 = ~z~We ain't doing that.
+
+0x4E81E3B9 = ~z~we are wedded in this chaos for better or worse, at this point.
+
+0x5A6EF7DF = ~z~Yeah,~rp~ round the back of the Blackwater camp.~rp~ Dirty little thing, too.
+
+0x6A0F1AC7 = ~z~I got no doubts about John.~rp~ I've known him for fifteen years.
+
+0x6E49A414 = ~z~See,~rp~ I don't like leaving trails... unlike the rest of you.
+
+0x6F51254B = ~z~Well, if we really are gonna escape somewhere like me and Dutch have been talking about,
+
+0x7C28B9A6 = ~z~Okay, here we are.
+
+0x7C47400F = ~z~Which I recovered the next day when he met with a tragic boating accident.
+
+0x7DF9BEF4 = ~z~You know I had Jenny?
+
+0x8E99059A = ~z~You got an actual plan this time?
+
+0x8F948471 = ~z~We gentlemen have ourselves a coach to rob.
+
+0x9ABF79B7 = ~z~I'm joking.
+
+0x9B4141FF = ~z~Williamson, you take the other side.
+
+0x9C7EA165 = ~z~There's a good spot we can hit it as it comes over the river into the swamps north of here.
+
+0x9D2214A2 = ~z~Why me?
+
+0x14B2C3DA = ~z~Mount up then, Morgan.
+
+0x16BC7507 = ~z~What do you mean by that?
+
+0x20DC4D37 = ~z~Got some good cover here... you hide behind this tree to my left, Morgan.
+
+0x25E2BBD8 = ~z~Shit, get after 'em! Come on!
+
+0x30FF8243 = ~z~Charm, Bill...~rp~ not something you can learn, I regret to inform you.
+
+0x41F247FE = ~z~Sullied but strong.
+
+0x47C5AFCF = ~z~Why did he tip you off?
+
+0x55D1F24D = ~z~Challenging every move Dutch makes.
+
+0x59BBFAF9 = ~z~Go find the strong men you want, and leave.
+
+0x66B191C8 = ~z~Who you got your eye on then, Bill?
+
+0x74FC73DD = ~z~I'll set them in the road over here so we can blow it as it comes over the bridge.
+
+0x88D3FA0C = ~z~I got three sticks of dynamite, I got two pistols,
+
+0x92AE6C05 = ~z~for a year, wasn't it?
+
+0x125EE7C0 = ~z~I ain't talking about getting attached,~rp~ well not in that sense.
+
+0x154B6DA9 = ~z~She could've been carrying Micah Bell the Fourth for all I know...
+
+0x230BE664 = ~z~Very true, you're proof of that.
+
+0x380D76A1 = ~z~Try to stay outta sight, we don't wanna spook 'em.
+
+0x480B56C0 = ~z~I don't trust him.~rp~ I've been talking to Dutch.~rp~ Feels to me like he's turned.
+
+0x544E7C02 = ~z~What the hell did you do that for?
+
+0x987C755D = ~z~Oh, I don't believe in attachments. Never have.
+
+0x988A516F = ~z~I go right to the source.
+
+0x1247EC12 = ~z~Hey, I like you boys.~rp~ And with the price on our heads,
+
+0x3436ADAF = ~z~Everyone does their share.~rp~ I don't see you lifting a finger around camp.
+
+0x3472AD1F = ~z~I got you and Bill, that count as a plan?
+
+0x5192FD79 = ~z~Hey!
+
+0x8241C9C4 = ~z~Is it too much to ask considering they get a piece of every damn dollar I bring in?
+
+0x83584B15 = ~z~You get soft, you get dead, in my experience.
+
+0x285113A4 = ~z~Come to think of it, I wonder if Lenny knows...
+
+0x373660AB = ~z~I'll get the explosives planted. Coach should be coming through any minute now.
+
+0x21730990 = ~z~Something like that.
+
+0x49485592 = ~z~What?
+
+0x87005239 = ~z~Not really, but let's go.
+
+0xA4BF0D9A = ~z~That's different.
+
+0xA77B1686 = ~z~I prefer a tight crew...~rp~just five or six strong gunmen.
+
+0xA88F2B7C = ~z~Okay, fellers, we're good. Get in there and grab the loot, Morgan.
+
+0xA993BFBD = ~z~Let's cut across here, it'll be quicker.
+
+0xAB419BD3 = ~z~We could almost leave now, if we chopped half the dead wood.
+
+0xAEC47DE3 = ~z~You can keep your funny little station friend in Rhodes,
+
+0xB1AB90BA = ~z~You gonna shoot the charges, Morgan? About time you did something.
+
+0xB6CF8815 = ~z~Time to go, cowpoke. Come on.
+
+0xB10FA76F = ~z~From what Dutch says the coffers are looking pretty good again.
+
+0xB22CCCC1 = ~z~Micah and Bill? This is a death sentence...
+
+0xB40D3E1E = ~z~Grab the loot and let's go.
+
+0xB46C95D9 = ~z~Get behind something, Morgan.
+
+0xB54EB22D = ~z~We need to be leaner so we can move faster, quieter.
+
+0xBC151884 = ~z~No, a man on the inside at Boles Overland.
+
+0xBED8C0C5 = ~z~shame...~rp~well, anyway, that's enough reminiscing about love.
+
+0xC06D6942 = ~z~Excellent. I'm in.
+
+0xC2F4A05F = ~z~We need to get going or we'll miss it.
+
+0xC134C685 = ~z~I've always liked Abigail, though, that's my kind of girl.
+
+0xCAE1F021 = ~z~Because I got the lead on this and Williamson's a halfwit.
+
+0xCB62DE55 = ~z~Right...
+
+0xD3A6EB69 = ~z~See,~rp~ this is what I mean.
+
+0xD51811FB = ~z~Coach stickup.
+
+0xD3564706 = ~z~Please tell me it wasn't an O'Driscoll this time.
+
+0xDC857FC2 = ~z~I know you have your doubts about him too, Morgan.
+
+0xDF010105 = ~z~I'm always likely to despise them more afterwards.
+
+0xE2FD890E = ~z~Don't tell him that.
+
+0xE3D40E5F = ~z~It would be a coward's move to bail on Dutch now.~rp~ Not like John did...
+
+0xE6D4B574 = ~z~What are we doing?
+
+0xE7D0A5A4 = ~z~Are you getting it or not?
+
+0xE38DE775 = ~z~So who told you about this?
+
+0xE66D121D = ~z~who won't even fuck you if you put a gun to their head?
+
+0xEE010970 = ~z~Here they come.
+
+0xEFA8236B = ~z~Well,~rp~ I don't get the sense the feeling is mutual.
+
+0xEFF32769 = ~z~Well, nobody's stopping you.~rp~ There's a whole world out there.
+
+0xF9A0BB03 = ~z~Got it, we're looking good.
+
+0xF20DAAD2 = ~z~I heard about him disappearing on you fellers...
+
+0xF86AD8A0 = ~z~Bill, come on...
+
+0xFCA73E91 = ~z~I mean, why the hell do we need a gaggle of girls
+
+0xFCCD3C9D = ~z~You're gonna make somebody a real lucky lady one of these days, Micah.
+
+0xFDD5C0FA = ~z~we're gonna need to cut some loose.
+

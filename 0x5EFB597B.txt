@@ -1,0 +1,36 @@
+0x00F4935B = ~s~Return the wagon to the ~o~doctor~s~ in Rhodes
+
+0x4DD713D5 = The Doctor has died.
+
+0x5BAC6173 = Go to ~o~Macomb's End~s~
+
+0x9DF72179 = ~s~Get on the ~o~wagon~s~
+
+0x26AE8D76 = Return to the ~o~wagon~s~
+
+0x53C36CE3 = Doctor
+
+0x65C7110E = Macomb's End
+
+0x70F1DA0A = You lost the Doctor's wagon.
+
+0x80B57991 = The Doctor's wagon was destroyed.
+
+0x98E1C63B = Antagonize
+
+0x127C1D20 = The draft horses have died.
+
+0x369CE561 = You abandoned the Doctor.
+
+0x4286C597 = ~s~Locate the doctor's ~o~wagon~s~
+
+0x9684F289 = Wagon
+
+0x62600AE6 = Greet
+
+0x245440D0 = The law were alerted.
+
+0xC3009CCF = Greet
+
+0xC9790B1B = You annoyed the camp inhabitants.
+

@@ -1,0 +1,26 @@
+0x0FC08DEB = ~z~Just... making conversation...
+
+0x5E05FCDD = ~z~Strange and horrible and an O'Driscoll, but... sweet.
+
+0x6BD4987A = ~z~You're very sweet.
+
+0x44B87942 = ~z~What are you doing?
+
+0x58C19FEC = ~z~You're very pretty.
+
+0x61CBB200 = ~z~~sl:0.5~I'm sorry, I'm not being forward or nothing... but ya are.
+
+0x85E24C95 = ~z~Okay, whatever you say.
+
+0x193FA0E9 = ~z~I'm sorry.
+
+0x337B56C8 = ~z~What's it look like I'm doing?
+
+0x945AE986 = ~z~~sl:1.0~I'm not an O'Driscoll, miss.
+
+0x4650FB0B = ~z~I was being catty. I... I don't know why.
+
+0xF419D6A2 = ~z~It looks like you're reading.
+
+0xFD5FE92E = ~z~And I am. So why do you ask?
+

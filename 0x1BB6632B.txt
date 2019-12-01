@@ -1,0 +1,394 @@
+0x00AAA66C = ~z~What they could have done better.
+
+0x016E4002 = ~z~Going fishing.
+
+0x01A15A0C = ~z~And you're off. Hold on tight.
+
+0x02921369 = ~z~Why is everything in English said differently than it's written? To make us feel stupid?
+
+0x02FC8963 = ~z~You know... I can't even return to my country because the price on my head is so big.
+
+0x0361FDAF = ~z~Let's go, Arthur.
+
+0x042127B1 = ~z~I've heard people talk about a huge smallmouth in Lake Owanjila,
+
+0x05E1615E = ~z~There's a spot not too far from here that I've been wanting to try out.
+
+0x08B10761 = ~z~Another one.
+
+0x0DEA453A = ~z~This... this is nothing exactly new to me. And I'll always be loyal to Dutch.
+
+0x0E61BF15 = ~z~Okay, let's go.
+
+0x0F16E833 = ~z~Ah, it's not the bait. It's me.
+
+0x0FE6DCF7 = ~z~you're far too good.
+
+0x1D265F36 = ~z~Dutch wanted to try to live a different way.
+
+0x1DDC5B27 = ~z~west of Strawberry over in Big Valley.
+
+0x1F51BB73 = ~z~I thought you wanted to win at something, Arthur?
+
+0x2A7CBFE9 = ~z~What are you doing back there, Javier?
+
+0x2AB039C5 = ~z~the O'Driscolls robbed and killed them all the next day further down the trail.
+
+0x2B57FB99 = ~z~Then Colm's mean streak got meaner and Dutch...
+
+0x2B842C63 = ~z~You coming?
+
+0x2C4995BC = ~z~You wanna join me?
+
+0x3B9E83A8 = ~z~You got one!
+
+0x3C71C298 = ~z~Alright, I'll see you around. I had fun today.
+
+0x3DFAAB1E = ~z~That's a baby, Arthur.  No point in keeping that little feller.
+
+0x3EADF4D7 = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+0x3F3A8DDD = ~z~This one looks bigger than the last one.
+
+0x4A9D98A4 = ~z~Probably since we went looking for John up on that mountain.
+
+0x4A795EF7 = ~z~Especially compared with you and Hosea.
+
+0x4AC7372D = ~z~Let's catch a couple more and then head back.
+
+0x4AE6DFDE = ~z~Just try some of my, here...
+
+0x4B0C8F1F = ~z~Not bad, you see? It's the bait.
+
+0x4B2037DB = ~z~It's getting close to night fall.
+
+0x4BFE3326 = ~z~Well done.
+
+0x4EDC0224 = ~z~We open the door, and it's full of women and children. Rich, but women and children.
+
+0x5B16B0DC = ~z~We'll cut through to the right here.
+
+0x5F65FC82 = ~z~Use those crickets, Arthur, these fish love them.
+
+0x6A1E76AB = ~z~Good for you.
+
+0x6B1E7F50 = ~z~~sl:1.7~Already seems long ago... How you feeling about everything?
+
+0x6BD942A1 = ~z~So much for this lightning fast horse of yours.
+
+0x6D5BD3BD = ~z~~sl:0.9~It ain't just the bait...
+
+0x6D62672F = ~z~There you go, Arthur.
+
+0x6F5A86BD = ~z~Good job, Arthur.
+
+0x6FD55759 = ~z~Hey, what do you think about racing back? You can try your luck against Boaz here.
+
+0x7B9C703E = ~z~~sl:0.0:2.8~I'm gonna head back, you wanna join me or, uh...~sl:~you keep trying for these bastards?
+
+0x7B449FA8 = ~z~He sees the world the same as I do. If we have to fight, we fight.
+
+0x7C1ADEC8 = ~z~It's almost noon. Fish will stop biting soon.
+
+0x7CFEE4EC = ~z~And to think, this was your idea.
+
+0x7F22CD46 = ~z~Okay, it's just down the hill here.
+
+0x8E577B6F = ~z~Whoa! Look at that one.
+
+0x9B36151B = ~z~You only just won.
+
+0x9B706048 = ~z~If we have to run, we'll run.
+
+0x9D20A0D3 = ~z~Fine with me.
+
+0x9E396FEB = ~z~Bear left here.
+
+0x9F29BD30 = ~z~I don't know what you're worse at, riding or fishing.
+
+0x9F533B78 = ~z~Don't give up on me.
+
+0x11BA8887 = ~z~Lucky.
+
+0x26BD9780 = ~z~Sorta like...
+
+0x30AB25B5 = ~z~Are you coming or not?
+
+0x30EB75E1 = ~z~We're lucky we got such nice weather.
+
+0x32B3AF1C = ~z~Ah, I blame it on the horse.
+
+0x38B40AA0 = ~z~He's a fighter.
+
+0x38B29300 = ~z~Fish will stop feeding soon.
+
+0x38D99352 = ~z~My fish bag is getting full.
+
+0x39AA019C = ~z~The other day, I rode down to the Lannahechee River, caught some beautiful steelhead trout.
+
+0x42AEF33B = ~z~Happens to the best of us.
+
+0x46ABB66B = ~z~Hey, you know... I can't even return to my country because the price on my head is so big.
+
+0x50BC3891 = ~z~Almost got it. Don't give up... you'll get one.
+
+0x51A13C83 = ~z~Alright, come on.
+
+0x54C4B673 = ~z~This is the place.
+
+0x58A8EAE2 = ~z~The fish won't just jump into your bag.
+
+0x58C7A170 = ~z~Got one.
+
+0x64A92DBE = ~z~So we let it go... and read in the newspaper that
+
+0x66F66407 = ~z~Guide him in, Arthur.
+
+0x79B0723E = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+0x79E84916 = ~z~Let's get started.
+
+0x87CF0687 = ~z~Mount up then.
+
+0x95EA16BE = ~z~What are you waiting for, Javier?
+
+0x99B95E05 = ~z~Lead him in.
+
+0x201EDEF1 = ~z~Don't give up.
+
+0x395F952E = ~z~Surprise, surprise.
+
+0x478B64B9 = ~z~Come on.
+
+0x537A636D = ~z~Hey. Where are you going?
+
+0x567CB062 = ~z~He sees the world the same as I do. If we have to fight, we'll fight.
+
+0x570FC225 = ~z~Sometimes big fish think the rain drops are insects.
+
+0x594CDBAD = ~z~Probably since we went looking for John on the mountain.
+
+0x694A669A = ~z~But rain can be good.
+
+0x747AE0C6 = ~z~Again.
+
+0x748B55C0 = ~z~Okay, come on. Let's go try our luck.
+
+0x802CE4C5 = ~z~Yep... you know, way back in the day,
+
+0x833FAB90 = ~z~You saw what happened with that girl on the ferry.
+
+0x907F6B06 = ~z~staring at the sky.
+
+0x908D07AC = ~z~So maybe we try a few more and then head back?
+
+0x1346E3B7 = ~z~Oh, come on, come on, hey. Join me...
+
+0x4124BF72 = ~z~I can't fish with you...
+
+0x5572B79C = ~z~I think it's a smallmouth. Hold on tight.
+
+0x5821FA48 = ~z~I've always been a poor fisherman.
+
+0x7734CD19 = ~z~Glad my riding is better than my fishing.
+
+0x8130CC69 = ~z~It's your bait, I think...
+
+0x8635D3E7 = ~z~Come on, the fish should be hungry for their breakfast.
+
+0x9386AA75 = ~z~~sl:1.0~That already seems long ago... How you feeling about everything?
+
+0x16936A4C = ~z~The rivers round here...
+
+0x21170BE3 = ~z~Whoa! Not bad Arthur! You were close!
+
+0x32314D99 = ~z~He's small but might make a nice meal.
+
+0x44960E8B = ~z~Another small one. I'd throw that back.
+
+0x50358B5A = ~z~I reckon you should stick to fishing.
+
+0x54770D56 = ~z~Well, not friends, but they had an understanding.
+
+0x76036C98 = ~z~They feed early morning or late evening because that's when the insects are more likely to be out.
+
+0x91899FE5 = ~z~I don't think this is your day, Arthur.
+
+0x373952D7 = ~z~Yeah, it was a tip from that crooked lawman in Reno.
+
+0x829330CA = ~z~Ah, beautiful.
+
+0x880695A9 = ~z~Are you getting off?
+
+0x3413322B = ~z~This is fun.
+
+0x6377293B = ~z~Maybe you're right.
+
+0x7484629B = ~z~~sl:1.0~Maybe you're right.
+
+0x13773533 = ~z~You mean the 'Lanna-ha-see' River.
+
+0x23175473 = ~z~No no no no no no, no, the Lannaheche. It runs right near here.
+
+0x48407248 = ~z~Come on, the fish should be hungry for their dinner.
+
+0x48618625 = ~z~You take this spot, Arthur.
+
+0x55922086 = ~z~I'm going to cast from over to the right there, so we're not in each other's way.
+
+0x58821797 = ~z~Yes, they only feed in the morning and evening when it is cool and the bugs are out.
+
+0x59907049 = ~z~Feller I met showed me of a couple of spots.
+
+0x90535844 = ~z~Ah, I'll stay.
+
+0xA1AA4231 = ~z~Don't rub it in.
+
+0xA7C307CD = ~z~No problem, I'll see you back there.
+
+0xA9BDEEA4 = ~z~Look at that. That's a good-looking fish.
+
+0xA188DC48 = ~z~Make sure he's tired before you reel in.
+
+0xA747E7C6 = ~z~Don't rush it Arthur.
+
+0xA954B158 = ~z~A win is a win, my friend.
+
+0xA9233D30 = ~z~Don't make this too easy on me.
+
+0xABB71BCB = ~z~Let's get going.
+
+0xAE6699F0 = ~z~I'll come.
+
+0xAF431A3D = ~z~Damn, he's strong.
+
+0xAF2184ED = ~z~Okay, follow me.
+
+0xB1F0CA73 = ~z~Because of the bugs?
+
+0xB7D9D41A = ~z~Colm O'Driscoll and Dutch were sort of friends.
+
+0xB27A7324 = ~z~Slowly... slowly...
+
+0xB44F6050 = ~z~Sure, let's do it... maybe I can win at something today.
+
+0xB68FF383 = ~z~Off the road here.
+
+0xB546FA42 = ~z~This is an angry one.
+
+0xB8677F2D = ~z~You're asking the wrong feller...
+
+0xBA1516AB = ~z~That's fine with me.
+
+0xBAEE9F24 = ~z~Been a while since we rode out, just you and me.
+
+0xBCC15778 = ~z~He'll tire before you do.
+
+0xBD3F2621 = ~z~Pretty country.
+
+0xBD6E0456 = ~z~What you doing?
+
+0xBD308890 = ~z~Pull to the left as he goes right.
+
+0xBE65716F = ~z~Maybe next time.
+
+0xBF16DCDC = ~z~Alright, I'll see you around, Arthur. I had fun today.
+
+0xBF17A9D1 = ~z~Thanks.
+
+0xBFD2A490 = ~z~And now here we are...
+
+0xC5A1305A = ~z~And Dutch, you... you don't feel like, well... that he's doing things a little differently now?
+
+0xC6C4F1F0 = ~z~Friends?
+
+0xC61D15FA = ~z~I thought you said it wasn't far?
+
+0xC870D335 = ~z~Another one.
+
+0xC8610D93 = ~z~You need me to slow down?
+
+0xC51799E7 = ~z~Come on.
+
+0xC2058776 = ~z~If we must die, we'll die... but we'll stay free.
+
+0xCC69C475 = ~z~crickets.
+
+0xCF522864 = ~z~Too far to walk, though. Yeah, come on.
+
+0xD8CCDD3C = ~z~Come on, let's go see what's biting.
+
+0xD8EF2957 = ~z~Oh sure, that was it.
+
+0xD9AE418B = ~z~You got this one.
+
+0xD9B23094 = ~z~Arthur, come on. Don't leave.
+
+0xD32BE8AB = ~z~Let me get out of your way.
+
+0xD61EA90E = ~z~You okay back there?
+
+0xD144A259 = ~z~Looks like a big one.
+
+0xD515CF43 = ~z~No fight, good or bad, is won without blood. I know that better than most.
+
+0xD4544B29 = ~z~Let's try for one more and then head back. What do you say?
+
+0xD7321867 = ~z~Okay, let's try for another.
+
+0xD8045922 = ~z~If we must die, we'll die, but... we'll stay free.
+
+0xDB7DE61E = ~z~You should let that one go, Arthur. Give it a chance to grow into something worth catching.
+
+0xDC27FCAC = ~z~Come on Arthur, mount up.
+
+0xDD298459 = ~z~come use some of mine.
+
+0xE025A8EB = ~z~Keeping you.
+
+0xE4F40712 = ~z~I'll show you a couple of my tricks.
+
+0xE7A09527 = ~t~In Spanish: Very good.
+
+0xE8D98ED9 = ~z~famous for the small mouth bass.
+
+0xE8E3A599 = ~z~He's a fighter. Trick is to let him tire himself out.
+
+0xE9CCCB12 = ~z~I think maybe all these fish I caught weighed me down.
+
+0xE4519E43 = ~z~You will be too when you start pulling out smallmouth.
+
+0xE7756E5A = ~z~You'd need a lure to catch one that big, though.
+
+0xE9053670 = ~z~I was thinking, you remember that stagecoach we held up in Nevada?
+
+0xEA678E61 = ~z~Where's your pole, Arthur?
+
+0xEBA6E3B6 = ~z~Told you it wasn't that hard.
+
+0xEC539AFA = ~z~You're better than you let on.
+
+0xED9357F7 = ~z~Come on, Arthur.
+
+0xEED602C3 = ~z~I think too many people are focusing on Dutch, when they should be looking at themselves.
+
+0xEF1FB3DF = ~z~Glad you're so excited about this.
+
+0xF5E13C4C = ~z~Well I guess it's still relaxing even if I don't catch anything.
+
+0xF344F899 = ~z~Hold on tight.
+
+0xF524F88F = ~z~Yeah, but it's pronounced 'Lanna-hass-e'.
+
+0xF78161CF = ~z~Too bad.
+
+0xF1235932 = ~z~I thought you said you were coming?
+
+0xFA6E9E43 = ~z~Been a strange couple of months.
+
+0xFBC02B9D = ~z~Fight him hard, Arthur.
+
+0xFBCEF831 = ~z~Time of day really can make a difference.
+
+0xFC1C6FB1 = ~z~What took you so long?
+

@@ -1,0 +1,328 @@
+0x00FA1F4D = ~z~Come on. Let's go.
+
+0x01B5169B = ~z~Sure!
+
+0x02AE94A8 = ~z~That's very funny...
+
+0x03C99015 = ~z~Hey, don't tell me you're done already?
+
+0x047FF1A5 = ~z~I bet you got the big one there!
+
+0x04A0884B = ~z~It has to be the big one!
+
+0x04AD3463 = ~z~I think you'll have more luck closer to me here.
+
+0x05492D2C = ~z~You keep saying that.
+
+0x05794BFF = ~z~It might be, it's putting up one hell of a fight.
+
+0x05A29CAB = ~z~Arthur, are you seeing this? Feller's naked as a jaybird.
+
+0x09CFA2E2 = ~z~Yes.
+
+0x0C6C9376 = ~z~I reckon I'm going to head back to camp, if that's okay?
+
+0x0CA35D08 = ~z~Get after that bluegill, Arthur.
+
+0x0DF48C10 = ~z~We might get lucky.
+
+0x0E8E3788 = ~z~What's wrong? That big fish didn't scare you off, did it?
+
+0x0E53BB8A = ~z~That's a good one.
+
+0x0E204E39 = ~z~I know where that is. Come on, let's go!
+
+0x0F6D4174 = ~z~Who'd've thought it?
+
+0x1AD20FDA = ~z~Are you coming, then?
+
+0x1AF63089 = ~z~Sure, go on. I'll see you later.
+
+0x1B8F1D64 = ~z~That got you real excited, huh?
+
+0x1C7F801E = ~z~I don't know, it don't feel like much of a fighter.
+
+0x1E10CB6C = ~z~yes, very-very funny.
+
+0x2B0502B9 = ~z~Sounds perfect for the drowning.
+
+0x2DFAD44C = ~z~Sure.
+
+0x2E1E7B37 = ~z~“how do I know you won't turn on us, then?”
+
+0x3A617C2A = ~z~I'm more Kieran van der Linde than Kieran O'Driscoll at this point, honest to God...
+
+0x3AB9BC92 = ~z~Did you hook him? The big one?
+
+0x3AB9EE1D = ~z~Get your rod out then, Arthur, before I catch them all.
+
+0x3BC6D28B = ~z~Is that why you like this spot?
+
+0x3BF52CA4 = ~z~Bass?
+
+0x3CB871C7 = ~z~But I am...
+
+0x3CBAA624 = ~z~Let's try our luck somewhere else. I know another spot where hopefully we won't be interrupted.
+
+0x3D4E9190 = ~z~When I'm in camp, I got Bill and Sadie
+
+0x3E9B77D3 = ~z~I don't think we got much chance here, Arthur.
+
+0x3EF17990 = ~z~Let's see if I can reel him in.
+
+0x3F72550B = ~z~I'm going to head back to camp to see if I can find something better.
+
+0x3FB928D9 = ~z~Whoa, you're right up on me there, huh?
+
+0x4B333C75 = ~z~Nope, not the big one. Let's keep trying.
+
+0x4CC0AAE6 = ~z~What in the world?
+
+0x4D02B0F0 = ~z~See, look at this. Life ain't so bad. Least you ain't tied to a tree.
+
+0x4DDEF1E4 = ~z~I don't have a chance in hell with my bait.
+
+0x4F1FAD4A = ~z~I reckon we should call it a day.
+
+0x4F24353B = ~z~without being terrified one of Colm's boys is gonna pick me up.
+
+0x5AA5E1FA = ~z~Er, very funny.
+
+0x5B379C73 = ~z~So, who taught you how to fish?
+
+0x6AAAB64F = ~z~Nice. Good catch, Arthur.
+
+0x6B90A456 = ~z~Otherwise, maybe some bread or cheese.
+
+0x6BA56655 = ~z~Sure, go on.
+
+0x7AB57493 = ~z~Come on Arthur, lets walk down to the beach.
+
+0x7B868E9B = ~z~Not too fast, you could break the line.
+
+0x7EADE363 = ~z~Like I said, I was real young. After that, I was on my own pretty much.
+
+0x8AF388EC = ~z~I don't think we have much chance, we need better bait.
+
+0x8B03ACF5 = ~z~It's like living in a nightmare.
+
+0x8CB1DD27 = ~z~You won't catch much if you don't cast a line.
+
+0x8D90C483 = ~z~Hey, careful, I don't want to hook you, Arthur.
+
+0x8E1B3B33 = ~z~What?
+
+0x8F708831 = ~z~Well, guess I'll head back to camp now. Good job, Arthur.
+
+0x9B8E607E = ~z~Well, er, I think we could spread out a little bit.
+
+0x9DDCE1C7 = ~z~Nice catch, but that's not the big one we saw.
+
+0x9F1A55C2 = ~z~There you go!
+
+0x21B0E5FB = ~z~How do you know I ain't just looking for a good place to drown you?
+
+0x21C6BBF4 = ~z~Do you wanna go fishing with me?
+
+0x31E172CE = ~z~I'm going to head back to camp, Arthur, if that's okay?
+
+0x35CA7AD7 = ~z~Of course not.
+
+0x41EF267F = ~z~I bet you got the big one there!
+
+0x55F09F2F = ~z~Hard to say... whatever it is, it's putting up a good fight.
+
+0x60FE58EF = ~z~I can't step outside camp by myself for a second
+
+0x66BCBDA3 = ~z~I hope we land this monster.
+
+0x70EA47DC = ~z~But I knew horses and fishing.
+
+0x71B81829 = ~z~Sure.
+
+0x72A6FC40 = ~z~I'm still a prisoner, Arthur.
+
+0x75DD77D5 = ~z~No, that's not it.
+
+0x76C46939 = ~z~Is it that monster?
+
+0x76FD5E24 = ~z~Uh huh.
+
+0x79DD0AA8 = ~z~Christ. If I'd know you were going to moan this much, I'd never have said yes to this.
+
+0x84D6910F = ~z~You getting many bites there, O'Driscoll?
+
+0x85E12167 = ~z~Now see if you can hook another.
+
+0x90E3D2B7 = ~z~Not much further.
+
+0x167AEE02 = ~z~You got it. That has got to be the one, right?
+
+0x203BB09E = ~z~Guess we'll see.
+
+0x315C38DF = ~z~You keep trying, though.
+
+0x405B1FB0 = ~z~I don't know what you want to hear.
+
+0x419C25D1 = ~z~Wasn't that long ago I was tied to the back of your horse while begging for mercy.
+
+0x508EDFFC = ~z~Are you giving up on me already?
+
+0x591DE132 = ~z~You got it. That has got to be the one, right?
+
+0x673F7F6B = ~z~You better believe I mean it, now where's this spot?
+
+0x837DB4D7 = ~z~Arthur.
+
+0x874BC350 = ~z~This is the place, some beautiful smallmouth here.
+
+0x885B2844 = ~z~Keep it coming, but carefully.
+
+0x1376A5F7 = ~z~Whoa, it sure is a fighter!
+
+0x1841A8DA = ~z~Will you come?
+
+0x2503D94A = ~z~Or running off to Colm O'Driscoll?
+
+0x3217DFDD = ~z~Not sure. It's a fighter, whatever it is.
+
+0x5759DDAA = ~z~No, don't feel very big to me.
+
+0x6698A79C = ~z~Oh, too bad!  Maybe next time.
+
+0x8589E548 = ~z~Don't tell me you changed your mind?
+
+0x8643A7BB = ~z~You don't have to stand that far away, I don't smell that bad.
+
+0x8666B527 = ~z~Alright then, grab your horse and let's go.
+
+0x12191C99 = ~z~Shut up.
+
+0x23269C74 = ~z~Okay, make sure you go straight back there.
+
+0x30536FF1 = ~z~I saved your life...
+
+0x31868C74 = ~z~That's a little close, ain't it, Arthur?
+
+0x62382A78 = ~z~Well, just think now, you'll never be alone again.
+
+0x62577DF7 = ~z~Where are you going?
+
+0x83877A5C = ~z~Did you hook him? The big one?
+
+0x84189AF8 = ~z~but mostly I'm Kieran Duffy.
+
+0x334178FB = ~z~I think this is the place that naked feller was talking about.
+
+0x764046B5 = ~z~I'm ready when you are.
+
+0x4092201E = ~z~I'm trying hard to feel sorry for you, but somehow, I just can't manage to.
+
+0x5776983A = ~z~Alright then. See you later.
+
+0x13223550 = ~z~It's too big to catch.
+
+0x59880045 = ~z~Bait with worms or crickets if you got them.
+
+0x62453790 = ~z~Sure, go on. I'll see you later.
+
+0x90454698 = ~z~Not bad, but it ain't the one we saw jump out of the water.
+
+0xA06BDFD4 = ~z~Not in the slightest, my friend.
+
+0xA096E02A = ~z~I can't win. I promise loyalty, he says “but you wasn't loyal to Colm”...
+
+0xA0C7A792 = ~z~Your mammy?
+
+0xA54D2B9B = ~z~Hey, wait up!
+
+0xA663EF6F = ~z~Hard to say, feels pretty light.
+
+0xA6729BCA = ~z~I've been meaning to try this spot out.
+
+0xA2566748 = ~z~Come on. You don't mean that?
+
+0xAB29659B = ~z~and now you torture me. Ho ho ho.
+
+0xAE7F4301 = ~z~My pappy, mostly. I lost my mammy and pappy when I was young, to cholera.
+
+0xAE53F395 = ~z~whispering in my ear all the time, how they're gonna kill me in my sleep.
+
+0xB00CD31E = ~z~You might want to see if the stores round here sell anything better.
+
+0xB6F2197F = ~z~Okay, follow me.
+
+0xB15AF57C = ~z~I hate to break it to you but I ain't sure Kieran van der Linde is going to stick...
+
+0xB34E8581 = ~z~if I say I got no allegiance to nobody, he says
+
+0xB630D5B1 = ~z~Well you ain't known for your luck, Kieran.
+
+0xB78711A9 = ~z~so we are more than even on that front.
+
+0xBAFF8931 = ~z~Did you see that amazing bluegill?
+
+0xBFEC0739 = ~z~Bottom rung of the ladder.
+
+0xC2C07535 = ~z~Hey! What's wrong? What are you doing?
+
+0xC5F9935C = ~z~He barely knew my name.
+
+0xC7E9EE63 = ~z~What are you waiting for?
+
+0xC44DB402 = ~z~I know a great little fishing spot along the beach.
+
+0xCDD53E45 = ~z~But I save your life every day I don't kill you,
+
+0xCE370514 = ~z~Not sure, but he feels big!
+
+0xD034BFF6 = ~z~You got it! Amazing!
+
+0xD1CC6269 = ~z~Cast a line then, Arthur.
+
+0xD9B23AC5 = ~z~I was just a runner, helping out with the horses mainly.
+
+0xD38F49B9 = ~z~Because I saved your life, Arthur.
+
+0xD82C37C1 = ~z~Colm goes through men like cigars. They ain't like you folks...
+
+0xD2859D63 = ~z~I'll teach you something.
+
+0xDB76329B = ~z~Did you get it?
+
+0xE17C06BA = ~z~Cast one in then, Arthur.
+
+0xE250B7A9 = ~z~I think I'm going to head back to camp, Arthur, if that's okay?
+
+0xE725C6A3 = ~z~I-I've found an interesting spot, we'll do well.
+
+0xE7561BDF = ~z~Seeing lots of Bluegill and Bass over here.
+
+0xE48707EE = ~z~Why aren't you fishing?
+
+0xEB5FDE20 = ~z~I'd only been with them a couple of months.
+
+0xEBF5C13A = ~z~Sure wish I was the one to catch it.
+
+0xEF6A016E = ~z~Now we're off fishing together.
+
+0xF060F00D = ~z~I was joking.
+
+0xF4DEB057 = ~z~This strip of shore looks perfect, pick a spot.
+
+0xF4F3623E = ~z~I'm not a great fisherman.
+
+0xF17A6A5D = ~z~And to think that was the high point of your career.
+
+0xF619C732 = ~z~My Lord... there's somebody who needs to go to confession.
+
+0xFB2D7DBB = ~z~I ain't an O'Driscoll! I told you fellers a hundred times.
+
+0xFC3C92E5 = ~z~Where you going?
+
+0xFC7E97E0 = ~z~So you think Dutch trusts me now?
+
+0xFC49E8BB = ~z~It ain't easy to catch a fish like that with bread and cheese, but you never know.
+
+0xFF658E0E = ~z~You going fishing?
+

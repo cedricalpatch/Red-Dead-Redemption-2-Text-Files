@@ -1,0 +1,76 @@
+0x02E90497 = ~z~What are you fools up to there?
+
+0x0689C8EB = ~z~~sl:0.0:3.3:1~Hurry up. You search that, and I'll toss this.
+
+0x06D0CCCD = ~z~That's it, run back to your hole!
+
+0x4D0D438A = ~z~Got friends, do you?
+
+0x4F475A65 = ~z~~sl:0.0:1.1~But I need a boot.~sl:1.1:2.5~Shoulda been mine, dammit. I mean, look at that!~sl:1.2~I never get nothing.
+
+0x5D293701 = ~z~More of you... of course.
+
+0x6D6474B6 = ~z~You nasty little weasels.
+
+0x8D972698 = ~z~You nasty little weasels.
+
+0x9B0A8A5E = ~z~Shit. Wrong kind of hillbillies.
+
+0x11B0E0F4 = ~z~I don't like the look of this, you bottom-feeders!
+
+0x39F4A115 = ~z~You done? Poor fools shouldn't have camped here.
+
+0x53B87B86 = ~z~Take the stupid thing and let's go.
+
+0x76CC0661 = ~z~You done? Poor fools shouldn't have camped here.
+
+0x86EAE1EA = ~z~Hey, look at this hat. I look like a Saint Denis gentleman.
+
+0x91AA362F = ~z~More of you... of course.
+
+0x206C43D0 = ~z~These are city folk. They gonna have trinkets and all.
+
+0x3426A424 = ~z~~sl:1.8:3.0:1~What is it? I knew I shoulda been searching there...
+
+0x6157FE86 = ~z~It's a boot. And if it ain't my size, too.
+
+0x18367AC2 = ~z~I'll let the law deal with you, you reprobates!
+
+0x34413C98 = ~z~You look just like one. But you sure don't smell like one.
+
+0x66808BE4 = ~z~I don't like the look of this, you bottom-feeders!
+
+0x226698E3 = ~z~I wouldn't wanna smell like no city boy anyway. They smell like dinner to me.
+
+0x870649E2 = ~z~~sl:1.0:2.3:1~Look here. I think I got something.
+
+0x77157125 = ~z~Shut up about that.
+
+0xA7B78285 = ~z~I'll let the law deal with you, you reprobates!
+
+0xA252C79F = ~z~I want food, not trinkets. You can't eat trinkets.
+
+0xABA21315 = ~z~~sl:0.0:1.2~Just my lucky day.~sl:1.3~Come on. Let's get.
+
+0xAF072DE7 = ~z~Got friends, do you?
+
+0xC6542CB8 = ~z~Something's up. We got to scram. Come on.
+
+0xCB3E9976 = ~z~You ain't never gonna be pretty.
+
+0xCEFE0C07 = ~z~Shit. Wrong kind of hillbillies.
+
+0xD010A31A = ~z~Well, food don't gonna make you pretty.
+
+0xD42EDB57 = ~z~What are you fools up to there?
+
+0xDD0587C5 = ~z~Something tells me, you didn't strike this camp.
+
+0xEEB7490A = ~z~Something tells me, you didn't strike this camp.
+
+0xF884F402 = ~z~That ain't how you was acting last night.
+
+0xF679256E = ~z~That's it, run back to your hole!
+
+0xFB5A9EC1 = ~z~Someone's coming, someone's coming. Let's get.
+

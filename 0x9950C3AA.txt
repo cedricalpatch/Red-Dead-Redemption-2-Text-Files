@@ -1,0 +1,892 @@
+0x0004EB76 = ~z~I'll take that as a yes?
+
+0x0032D797 = ~z~Good for him.
+
+0x003F8785 = ~z~If you don't leave me alone, I'll shoot you. I swear it!
+
+0x005E8CC5 = ~z~You're...
+
+0x01A8BEDF = ~z~but it's okay to ask me to help in saving your family.
+
+0x0205036C = ~z~but I'll come home...
+
+0x023DBDE9 = ~z~Somewhere out near Carmody Dell, I think.
+
+0x028DD0B2 = ~z~~sl:1.6~You moron!
+
+0x037327A4 = ~z~You're nervous about seeing her, aren't you?
+
+0x03AFCAE1 = ~z~Better than wanting paradise?
+
+0x04B835E3 = ~z~Leave me alone, Arthur! I didn't ask for your help!
+
+0x05F8534D = ~z~~sl:0.0:1.9~The boy has chosen a path, sir.~sl:1.4~The path to truth.
+
+0x067EF752 = ~z~pneumonia.
+
+0x06E422E2 = ~z~I was doing just fine by myself!
+
+0x07007A95 = ~z~Yeah, I miss you too.
+
+0x071F5E8C = ~z~Come on, that ain't true. ~rp~Tell me something you like.
+
+0x07B8A39B = ~z~I'll go see.
+
+0x07DA5ED6 = ~z~Hosea. Yep, ~rp~still the same, sort of.
+
+0x09A0F8B6 = ~z~Come on, Jamie! Your sister's worried about you.
+
+0x09A46DFE = ~z~Okay.
+
+0x09D37292 = ~z~My father...
+
+0x0A656A76 = ~z~You're searching for whoever stole your common sense, you nutcase!
+
+0x0A2780E7 = ~z~Sure.
+
+0x0AFAF1F9 = ~z~Hey, what are you doing?
+
+0x0B700000 = ~z~you come here looking for me, is that it?
+
+0x0C2B97BD = ~z~Jamie!
+
+0x0C6AEB67 = ~z~~sl:0.0:2.4~Well, maybe that right there's the problem.~lr:0.6~She was always too good for me.
+
+0x0C997064 = ~z~that strange religious order.
+
+0x0D4C52E6 = ~z~Mary...
+
+0x0D92EA00 = ~z~Please, kid...
+
+0x0D777228 = ~z~You're the only person he'd listen to.
+
+0x0E5C93D7 = ~z~but one thing I do know...
+
+0x0E34236E = ~z~What are you talking about? You ain't no killer!
+
+0x0EED3380 = ~z~Sir?
+
+0x0F65D959 = ~z~you're gonna have to find someone else...
+
+0x1A41EDF1 = ~z~Sure.
+
+0x1AA81005 = ~z~Yeah, me too.
+
+0x1AB734D4 = ~z~Father's been very sad.
+
+0x1ACA8CC6 = ~z~I wasn't good enough.
+
+0x1AF38304 = ~z~~sl:0.0:1.0~Shut up.~lr:1.0:3.5~All father kept telling me was ~rp~“you won't amount to anything”,~lr:0.1~“you're not enough of a man”...
+
+0x1B138E9C = ~z~at least compared to the rest of them.
+
+0x1BF02478 = ~z~Take care of yourself.
+
+0x1DE7A4EF = ~z~you've been made a widow and...
+
+0x1E1B80C2 = ~z~if your teachings are so great...
+
+0x1FD38E85 = ~z~Leave me alone!
+
+0x1FEE84D4 = ~z~But of course you may speak with him.
+
+0x2B14B514 = ~z~It's in the mountains...
+
+0x2C0BD683 = ~z~Who do you think you are?
+
+0x2D4F27BB = ~z~I had to get away. ~rp~I couldn't take it any more.
+
+0x2D6EF864 = ~z~Chelonia...
+
+0x2D992029 = ~z~Jamie knows the truth.
+
+0x2E4347F6 = ~z~The rancher there said he'd...
+
+0x2EF22165 = ~z~Better than what?
+
+0x3B82DFA3 = ~z~Chelonia...
+
+0x3D000E29 = ~z~Yes?
+
+0x3ECF4CBF = ~z~Shit, ~rp~maybe Mary did make the right choice.
+
+0x3FA857C5 = ~z~It's my little brother, Jamie.
+
+0x4B5E2AF5 = ~z~I heard you and your friends was around, I...
+
+0x4B44E8BA = ~z~No, not a chance!
+
+0x4C6CF14E = ~z~You want me to help them?
+
+0x4C35C51B = ~z~You already owe me.
+
+0x4D41DE04 = ~z~this is crap...
+
+0x4E56F762 = ~z~Well, I'm sorry to hear that.
+
+0x4E540397 = ~z~that strange religious order.
+
+0x4EC231AD = ~z~I, erm...
+
+0x5A46FBED = ~z~Shell of safety...
+
+0x5B6A05F8 = ~z~So are you two getting back together?
+
+0x5C047B89 = ~z~you're better than this.
+
+0x5CAF2F05 = ~z~They're just using you! Telling you what you want to hear!
+
+0x5CF48148 = ~z~Well... his sister just wants to speak with him.
+
+0x5EF81754 = ~z~Oh, okay...
+
+0x5F3E2765 = ~z~Chelonia...
+
+0x5F95A61A = ~z~the Chelonians...
+
+0x5F2479D5 = ~z~I understand if you don't wanna help me, but...
+
+0x6A2F97EF = ~z~That's enough, Arthur.
+
+0x6A99E95C = ~z~Oh, I'm sorry. I didn't mean to disturb you ma'am.
+
+0x6AD25DFA = ~z~Come on, you ain't stupid. You can see this is crazy.
+
+0x6BEF43D2 = ~z~Is this clear enough for you?
+
+0x6C95A0D8 = ~z~~sl:0.0:3.1~You're a fool for everyone's god, you're a maniac.~sl:~Now, let me talk to the goddamn boy!
+
+0x6CB3DBDF = ~z~Well, ~rp~this wasn't how I thought today would turn out.
+
+0x6CE08173 = ~z~Oh, no...
+
+0x6D1AC31E = ~z~Chelonia...
+
+0x6D1C962A = ~z~
+
+0x6D32B3C9 = ~z~No, ain't like that, Arthur.
+
+0x6D69CDAE = ~z~Now move out my way.
+
+0x6D845A6D = ~z~Jamie!
+
+0x6E4794DF = ~z~seen him around the Cumberland Forest area.
+
+0x6F3B25D5 = ~z~~sl:0.3:0.7~Arthur...~sl:1.1~I've chosen a path.
+
+0x7BF6303C = ~z~I just want him back, Arthur.
+
+0x7D276337 = ~z~Chelonia...
+
+0x7DA2E739 = ~z~You think I'm playing here?
+
+0x7DFE6D74 = ~z~you're making a big mistake.
+
+0x7E727F5C = ~z~~sl:0.0:5.5~It's been a long time, Jamie Gillis. ~rp~You were a kid last time I saw you,~sl:0.5~and didn't try to kill yourself.
+
+0x7ED64ACC = ~z~Thing is... he's right. ~rp~I'm not good at anything.
+
+0x7FCBBB88 = ~z~~sl:0.0:1.0:1~Shell of safety...
+
+0x8AC0DA0B = ~z~I'm...
+
+0x8B43FFA6 = ~z~No, ain't like that, Arthur.
+
+0x8BB808E7 = ~z~I'm not taking advice from you...
+
+0x8BDF73CC = ~z~For chrissakes, Arthur!
+
+0x8C27B5D4 = ~z~Chelonia.
+
+0x8E3088F7 = ~z~to run your errands.
+
+0x8F87DABF = ~z~I'm begging you, Arthur.
+
+0x8F76893B = ~z~where's what's his name?
+
+0x8FE6ABD7 = ~z~thank you...
+
+0x8FFF914E = ~z~I'm a man now...
+
+0x9A22EED5 = ~z~I know it's a lot to ask.
+
+0x9C2327AC = ~z~I understand if you don't wanna help me, but...
+
+0x9D9DC741 = ~z~thank you.
+
+0x9D167EB6 = ~z~what harm can I do?
+
+0x9E462858 = ~z~Only when dealing with idiots. Now let me talk to the boy!
+
+0x9F2E02E5 = ~z~Just come and speak with Mary...
+
+0x10C96EB0 = ~z~With the turtles.
+
+0x11CB2C26 = ~z~I know that.
+
+0x12A1B14B = ~z~I've...
+
+0x15ACFA7B = ~z~And Annabelle and Bessie?
+
+0x16B1838E = ~z~I ain't a kid no more, Arthur.
+
+0x16C4A065 = ~z~Do you really want to do this the hard way?
+
+0x17D49893 = ~z~Chelonia...
+
+0x17FE9E3D = ~z~Will you help me?
+
+0x22A2490A = ~z~~sl:2.2:1.8~I'm not a very cultured man.~sl:0.8~Forgive me, please.
+
+0x22BDAD93 = ~z~Don't make me beg you, Arthur.
+
+0x22F0C84E = ~z~I'm sure. ~rp~Please tell me you didn't give them any money.
+
+0x23F9215F = ~z~So uh...
+
+0x23FE171D = ~z~I'm afraid they're dead.
+
+0x25C8B47B = ~z~Chelonia...
+
+0x27E03E00 = ~z~Please, Arthur.
+
+0x27EF2853 = ~z~I always liked Jamie...
+
+0x28CCC8B7 = ~z~I don't know enough about it...
+
+0x28FA8DEB = ~z~~sl:0.0:2.4~Shell of safety. Shell of safety. Shell of safety.~sl:~Shell of safety. Shell of safety...
+
+0x29A93EC2 = ~z~If you find him, bring him to me at the station.
+
+0x30F23C99 = ~z~Happened a while ago...
+
+0x31A6BBA6 = ~z~My money, my life, me...
+
+0x32C78315 = ~z~Chelonia...
+
+0x33FFD017 = ~z~My money, my life, me...
+
+0x34FF6964 = ~z~please, you've...
+
+0x35BA05E7 = ~z~Chelonia...
+
+0x36B46FD5 = ~z~They were very nice to me. ~rp~They're decent.
+
+0x38AD0595 = ~z~Do you even understand the question?
+
+0x38D4D899 = ~z~They'll kill him.
+
+0x39A8CD62 = ~z~~sl:0.5:0.0~Come home...
+
+0x39C64CF9 = ~z~Sure.
+
+0x41F19941 = ~z~Move! Move!
+
+0x44EDDC6C = ~z~You know Barry Linton's dead? Pneumonia.
+
+0x45AE0279 = ~z~It's okay, kid.
+
+0x45C0589D = ~z~Forgive me, but your father's a bully and a coward, don't listen to him.
+
+0x47EE69ED = ~z~~sl:0.0:0.9:1~Jamie!
+
+0x48A7F967 = ~z~He's broken daddy's heart.
+
+0x50E6DD5A = ~z~I'm sorry.
+
+0x51A7962A = ~z~I'm starting to lose my patience with you.
+
+0x52BE8467 = ~z~It's in the mountains...
+
+0x52F9529A = ~z~Is erm...
+
+0x56F4FB06 = ~z~Hey, don't talk about him like that.
+
+0x59A2C76E = ~z~Is Mrs. Linton in?
+
+0x59F7B667 = ~z~Too well, apparently. ~rp~Chelonia, though? ~rp~Really, you'd fall for that?
+
+0x60BE99C9 = ~z~Don't make me beg you, Arthur.
+
+0x61CDCFA2 = ~z~Oh, Arthur...
+
+0x61CFF047 = ~z~is Mrs. Linton in?
+
+0x62FC40A4 = ~z~That woman confuses me and plays me for a fiddle like no one else alive.
+
+0x63F2CEEA = ~z~You don't know who I am!
+
+0x64C6853D = ~z~A long time ago now.
+
+0x65F1106C = ~z~I'm not coming with you, Arthur.
+
+0x66A5F9FB = ~z~I can see you haven't changed much.
+
+0x68A9A077 = ~z~I told you, no. She ~rp~just asked me for a favor.
+
+0x69D40E40 = ~z~Please, Arthur. I...
+
+0x69DC3FCB = ~z~So...
+
+0x69EA4217 = ~z~but, you and me...
+
+0x71EECACC = ~z~They're quite mad, Arthur.
+
+0x72A04B9D = ~z~I warn you, Arthur! I'm... I'm gonna...
+
+0x72E59F3B = ~z~I miss you.
+
+0x72EF64A4 = ~z~That... is where we are heading, Jamie.
+
+0x74E8D540 = ~z~I'll see what I can do.
+
+0x75DE145F = ~z~We don't have all day here...
+
+0x77AB71C2 = ~z~~sl:0.0:2.1~I just wanted to believe that there might be something good...~sl:~coming my way one day.
+
+0x78AF6C0A = ~z~I feel like a fool.
+
+0x78D75ACD = ~z~Oh, okay...
+
+0x79B7C985 = ~z~These are my friends. What are you even doing here?
+
+0x79B14F70 = ~z~Stop that, you lunatic!
+
+0x79FB117B = ~z~Chelonia...
+
+0x81A33CB6 = ~z~Yeah, I miss you too.
+
+0x81DC0FBE = ~z~And you, Arthur...
+
+0x83D3C237 = ~z~I'm just so worried about him.
+
+0x86FF476E = ~z~Okay.
+
+0x88C9A001 = ~z~there ain't no shame in looking for a better world.
+
+0x89B1F0A7 = ~z~Sorry, mister.
+
+0x89E58331 = ~z~but I think of you often.
+
+0x91EB8BED = ~z~And you want me to help them?
+
+0x92E7E95F = ~z~then make up your mind.
+
+0x93C416E6 = ~z~I say let Jamie live Jamie's life, and not the...
+
+0x94C7059B = ~z~What is wrong with you?
+
+0x94ED7A1E = ~z~Okay...
+
+0x95D52A6F = ~z~to found a great place of safety...
+
+0x97D39DE5 = ~z~I like Jamie...
+
+0x98E5EDBC = ~z~
+
+0x109B12A7 = ~z~Please, Arthur...
+
+0x112EA4CA = ~z~Of course I did. ~rp~They rely on charitable donations.
+
+0x129A1FE1 = ~z~somehow, I imagine I shall.
+
+0x162A85C2 = ~z~well, y-y-you've been...
+
+0x188F9C8F = ~z~I just want him back, Arthur.
+
+0x194F1189 = ~z~Your father will understand, Jamie... it's paradise.
+
+0x202ABB02 = ~z~I trust I will not make a godawful fool of myself once more, but...
+
+0x218E5836 = ~z~I don't have to answer to you!
+
+0x278DA1AC = ~z~That's all in the past, ~rp~we're different people now.
+
+0x280EB70D = ~z~You're the only person he'd listen to.
+
+0x302DC97B = ~z~well, y-y-you've been...
+
+0x306A255F = ~z~Exactly...
+
+0x346D2467 = ~z~but I think of you often.
+
+0x347F51E8 = ~z~Chelonia!
+
+0x349C15E0 = ~z~I'll go see.
+
+0x356B6EA0 = ~z~~sl:1.4:0.0~I am a fool for my god and a happy one, sir. I bless you.
+
+0x397F1FAE = ~z~Mary...
+
+0x425C6DD8 = ~z~So uh...
+
+0x500DEF3C = ~z~~sl:0.0:1.6~No doubt.~lr:0.4~But none of it is anything like the nonsense you read in the newspapers.
+
+0x501DBCC3 = ~z~That's all a long time ago, son.
+
+0x509E0A25 = ~z~Chelonia.
+
+0x512A211A = ~z~Yes, Jamie, we are heading to paradise.
+
+0x556FF9BD = ~z~put that gun down.
+
+0x566B95F6 = ~z~I'm...
+
+0x600F9D63 = ~z~~sl:0.0:2.0:1~Whoa, whoa, whoa... you little jackass.
+
+0x621AA2B6 = ~z~You goddamn lunatic.
+
+0x624B621C = ~z~Chelonia.
+
+0x669D3659 = ~z~Listen, Arthur. I...
+
+0x686E0B6C = ~z~I like Jamie...
+
+0x766A3D18 = ~z~By that token, you must really like shooting and robbing people.
+
+0x766FC52B = ~z~Daddy has a heart?
+
+0x788BABAF = ~z~Will you help me?
+
+0x800EF73A = ~z~Let's go see your sister.
+
+0x826BAC89 = ~z~Are you and Mary sweet on one another again?
+
+0x845D9CE7 = ~z~Mrs. Linton, a caller for you.
+
+0x860F778D = ~z~I'll owe you.
+
+0x877AE50B = ~z~You shouldn't have come here.
+
+0x902D480C = ~z~I missed you, Arthur.
+
+0x913F4F25 = ~z~Hello, Arthur.
+
+0x998FF58E = ~z~~sl:1.4:0.0~Are you always this negative and antagonistic, sir?
+
+0x1832F7C2 = ~z~~sl:3.4:1.2:1~Can I speak to the boy?
+
+0x1842FC1C = ~z~Sorry.
+
+0x2331CA2D = ~z~What do I dream about? Who are my heroes?
+
+0x2982B090 = ~z~Chelonia...
+
+0x3340FB9B = ~z~You pop up out of nowhere!
+
+0x3706E52B = ~z~I don't know...
+
+0x4023C2B7 = ~z~I don't know about this nonsense. Let me speak to the boy!
+
+0x4051D2D4 = ~z~Sure... but come home.
+
+0x4770E612 = ~z~I'm sorry.
+
+0x5419C4BB = ~z~
+
+0x5946CD00 = ~z~Chelonia...
+
+0x6377E162 = ~z~Chelonia...
+
+0x6650AB8B = ~z~Oh, it sounds wonderful.
+
+0x7221B677 = ~z~you're a real sad man.
+
+0x7241DBA0 = ~z~Okay...
+
+0x7386B42D = ~z~He won't be happy I saw you.
+
+0x8250DF2D = ~z~pneumonia.
+
+0x8265DE2F = ~z~you come here looking for me, is that it?
+
+0x8640B928 = ~z~Oh, I'm sorry. I didn't mean to disturb you ma'am.
+
+0x8641C71B = ~z~Please, Arthur.
+
+0x8727DE93 = ~z~~sl:0.0:2.0~I was thinking more along the lines of...~sl:0.0:2.6~carpentry or horses or something, but...~lr:0.4~alright, go work in an orchard then.
+
+0x9531E3D3 = ~z~Arthur...
+
+0x9704A529 = ~z~Now calm down.
+
+0x31194F6C = ~z~~sl:0.0:4.5~The boy has chosen a path, he's chosen safety...~sl:0.6~what path have you chosen, sir?
+
+0x49498D3F = ~z~I feel like... the luckiest man alive and...
+
+0x59184FB6 = ~z~Chelonia...
+
+0x62562A23 = ~z~Just stop and let's talk about this!
+
+0x63543DC5 = ~z~okay.
+
+0x75853F7D = ~z~~sl:0.0:2.5~I don't know, safety?~sl:1.4~Safety and, and meaning?
+
+0x90977A92 = ~z~you've been made a widow and...
+
+0x179077E7 = ~z~~sl:1.7:0.0~I'm... still searching, I guess.
+
+0x374445B9 = ~z~We need your help real bad.
+
+0x420830C0 = ~z~Yes?
+
+0x483012D8 = ~z~You know, ~rp~you taught me how to ride a horse.
+
+0x572394A4 = ~z~Kid, just calm down...
+
+0x625911D2 = ~z~What do you want me to say, Jamie? ~rp~He's a good father? ~rp~A nice man?
+
+0x684636E9 = ~z~I don't wanna live any more!
+
+0x741923E2 = ~z~nightmare that his daddy dreamed up for him.
+
+0x812871B3 = ~z~nightmare that his daddy dreamed up for him.
+
+0x844660D8 = ~z~He's broken daddy's heart.
+
+0x1266684E = ~z~Better than thinking these fools...
+
+0x1537115E = ~z~Good for him.
+
+0x4472266A = ~z~Chelonia.
+
+0x6293175A = ~z~You're a sad man, Arthur...
+
+0x19500531 = ~z~So the door's open, so to speak.
+
+0x46647838 = ~z~seen him around the Cumberland Forest.
+
+0x53007891 = ~z~She told me.
+
+0x63201684 = ~z~~sl:0.0:3.0~I only like shooting young idiots who run away from me...~sl:~when I'm trying to help them.
+
+0x74935889 = ~z~Jamie's so innocent, Arthur.
+
+0x76693062 = ~z~Now, kid, come on...
+
+0x84310727 = ~z~Yes, Jamie, that is where we are heading.
+
+0x95299141 = ~z~I'm sorry.
+
+0xA0865538 = ~z~Mary.
+
+0xA09F1BF5 = ~z~Mary.
+
+0xA1BB2DC4 = ~z~Died.
+
+0xA1D4227D = ~z~Mountains.
+
+0xA2EDB539 = ~z~I'm begging you, Arthur.
+
+0xA3B02F76 = ~z~It's my little brother, Jamie.
+
+0xA4EF2495 = ~z~I, erm...
+
+0xA7A10791 = ~z~I'll owe you.
+
+0xA7EA8944 = ~z~Where is he?
+
+0xA9E1BE19 = ~z~me too.
+
+0xA16A2F6A = ~z~you're gonna have to find someone else...
+
+0xA31DFE8B = ~z~The rancher there said he'd...
+
+0xA40CA17C = ~z~My family...
+
+0xA43B39C5 = ~z~I've found something...
+
+0xA58E395A = ~z~I'm sorry, Mary.
+
+0xA65BC261 = ~z~What the hell do you know about it, Arthur?
+
+0xA76F35CC = ~z~I wasn't good enough.
+
+0xA80C8BC8 = ~z~Jamie's so innocent, Arthur.
+
+0xA80DA05E = ~z~Yeah, I love apples.
+
+0xA643B1FD = ~z~For chrissakes, Jamie. Just hold up a minute!
+
+0xA809CED8 = ~z~Place of safety.
+
+0xAA0F40AC = ~z~after all that's happened...
+
+0xAAFA33E9 = ~z~Chelonia.
+
+0xAB6B62E0 = ~z~come on.
+
+0xAB839196 = ~z~but, you and me...
+
+0xABC541E0 = ~z~Well, I'm sorry to hear that.
+
+0xAC1BA556 = ~z~Please send him my worst regards.
+
+0xADC97C46 = ~z~Make it quick or I might run off again.
+
+0xAF9AEB3B = ~z~and you.
+
+0xB0712840 = ~z~Arthur?
+
+0xB07F6953 = ~z~You're the crazy one!
+
+0xB4D853FE = ~z~Okay.
+
+0xB8D6589A = ~z~Little Jamie's joined...
+
+0xB9AACCB8 = ~z~I...
+
+0xB16B9E10 = ~z~
+
+0xB17F5475 = ~z~you're an outlaw.
+
+0xB46F50F4 = ~z~I need your help.
+
+0xB53DA2CA = ~z~You already owe me.
+
+0xB58B7F42 = ~z~Hello, Arthur.
+
+0xB63D16CF = ~z~We rise!~n~~m~We rise!
+
+0xB65D2639 = ~z~to run your errands.
+
+0xB419C708 = ~z~~sl:0.0:1.5~And when we get there, Jamie...~sl:0.4~we will write to your father, together.
+
+0xB480DA50 = ~z~a calling.
+
+0xB562D75B = ~z~Okay.
+
+0xB35054DE = ~z~Just forget I asked.
+
+0xB89691E0 = ~z~Are we going in, then?
+
+0xB4615828 = ~z~I'm sorry.
+
+0xB9170471 = ~z~If you can't answer then perhaps you should go.
+
+0xBAC6E6DC = ~z~You're just a kid...
+
+0xBD3EE9DB = ~z~A long time ago now.
+
+0xBD92E57B = ~z~Yeah, me too...
+
+0xBECBCDDA = ~z~Apples?
+
+0xBF4E2B3E = ~z~Mrs. Linton, a caller for you.
+
+0xBFE2B903 = ~z~~sl:0.0:1.2:1~Don't think too hard.
+
+0xC00EACEC = ~z~Chelonia.
+
+0xC2FD4EC2 = ~z~What do we search for, do you think?
+
+0xC3BACBFE = ~z~I'm not...
+
+0xC4B17006 = ~z~Leave me alone!
+
+0xC4E84509 = ~z~~sl:0.0:1.3:~I have no idea...~sl:2.0~Turtles... yeah, turtles, hey...
+
+0xC6BAF58B = ~z~You mean the family that always looked down on me?
+
+0xC9D49212 = ~z~Leave him alone.
+
+0xC23B6D62 = ~z~Chelonia...
+
+0xC42CF173 = ~z~my family...
+
+0xC47B7734 = ~z~I know that look.
+
+0xC52A8170 = ~z~Have I been a terrible fool, Arthur?
+
+0xC141F3FA = ~z~You leave me alone...
+
+0xC627F69D = ~z~Where's erm...
+
+0xC656EB82 = ~z~Together...
+
+0xC697FC95 = ~z~but it's okay to ask me to help in saving your family.
+
+0xC963CE76 = ~z~I say let Jamie live Jamie's life, and not the...
+
+0xC1692D27 = ~z~He has fallen so we must rise!
+
+0xC3402F58 = ~z~So, do you have an answer?
+
+0xC8621027 = ~z~for you.
+
+0xCA1DCC8A = ~z~If you find him, bring him to me at the station.
+
+0xCB67A2D4 = ~z~It's good to see you, Mary.
+
+0xCB491556 = ~z~One hundred years ago,
+
+0xCC7E365B = ~z~Here we are. She must be waiting inside.
+
+0xCC14FF17 = ~z~We need your help real bad.
+
+0xCCDF68ED = ~z~Father told me what you do.
+
+0xCD0A8852 = ~z~I'm just so worried about him.
+
+0xCD1ED4CC = ~z~I'm sorry, Mary.
+
+0xCD6F6B21 = ~z~Apples, I guess.
+
+0xCE60D630 = ~z~It's all in the past now.
+
+0xCEDD8330 = ~z~Damn it, we got to do this the hard way?
+
+0xD0B20CD1 = ~z~Where is he?
+
+0xD0C28BDA = ~z~Bad business.
+
+0xD1EEDFDD = ~z~Gentlemen.
+
+0xD2B80E8D = ~z~Sure.
+
+0xD8CD9E30 = ~z~I miss you.
+
+0xD9DA8E6B = ~z~Where's what's his name?
+
+0xD31EE176 = ~z~~sl:0.0:1.1~You love turtles.~sl:0.5:0.9~I love them too...~sl:2.5~Turtles!
+
+0xD87D8FE7 = ~z~Together...
+
+0xD153EB6F = ~z~~sl:0.0:2.1~We are all searching...~sl:0.4~Chelonianism is about searching.
+
+0xD1180E22 = ~z~Am I getting through to you now?
+
+0xD9545F77 = ~z~Chelonia.
+
+0xD9715FA5 = ~z~Chelonia.
+
+0xD9736B35 = ~z~I'll see what I can do.
+
+0xD62801FC = ~z~Are you always this negative and antagonistic, sir?
+
+0xD2911487 = ~z~So, I'm too rough to marry into your family...
+
+0xDAA2B4A8 = ~z~My boy, my sweet boy...
+
+0xDAE39DDC = ~z~Daddy has a heart?
+
+0xDB5FA4FC = ~z~I know it's a lot to ask.
+
+0xDB4485AB = ~z~I'm sure he did.
+
+0xDB19985D = ~z~They're my friends!
+
+0xDB80226D = ~z~Somewhere out near Carmody Dell, I think.
+
+0xDC2236AD = ~z~Get off him.
+
+0xDC271452 = ~z~Are you crazy?
+
+0xDCBD4776 = ~z~
+
+0xDCF4DEFD = ~z~So?
+
+0xDD1B74C5 = ~z~after all that's happened...
+
+0xDD6B06D8 = ~z~Either you have the answer, or not.
+
+0xDD2773BD = ~z~Take care of yourself.
+
+0xDD583974 = ~z~~sl:0.0:2.3~the great Chelonian master,~sl:~led pilgrims across the Lannahechee into the wilderness...
+
+0xDE2C966B = ~z~~sl:0.4:0.0~Jamie!
+
+0xDF16979B = ~z~Bad business.
+
+0xE3B91EAC = ~z~They'll kill him.
+
+0xE5F2E0D4 = ~z~This is none of your damn business!
+
+0xE6B16AEA = ~z~Chelonia...
+
+0xE21A1CAA = ~z~You mean the family that always looked down on me.
+
+0xE37F1E30 = ~z~the Chelonians...
+
+0xE38CB3AE = ~z~Arthur...
+
+0xE72BFB1A = ~z~Chelonia...
+
+0xE93B15F8 = ~z~know a damn thing about paradise...
+
+0xE357F37E = ~z~Chelonia...
+
+0xE7514D0B = ~z~Stop it, Arthur.
+
+0xE8052AC0 = ~z~Died.
+
+0xE8222F30 = ~z~It is wonderful, Jamie, really wonderful.
+
+0xE2049457 = ~z~Don't think too hard.
+
+0xE9122146 = ~z~Are you still with Dutch and, what was his name... Hester?
+
+0xE9964169 = ~z~Please, Arthur. I...
+
+0xEA50237B = ~z~I'm warning you, Arthur Morgan!
+
+0xEAF6A87F = ~z~~sl:0.0:1.7~Now let's just get you back to your sister.~sl:~She's waiting at the station for us.
+
+0xEB1C3E4D = ~z~I always liked Jamie...
+
+0xEB939E78 = ~z~~sl:1.4:1.0:1~Shell of safety...
+
+0xEC6D05A8 = ~z~Chelonia.
+
+0xEC7C3B22 = ~z~~sl:0.0:1.9~So what are you gonna do, Jamie?~sl:0.2~Live the rest of your life in the mountains, with those people?
+
+0xED439615 = ~z~So, I'm too rough to marry into your family...
+
+0xEEEC3512 = ~z~They're quite mad, Arthur.
+
+0xEEF4DCAD = ~z~And what is Chelonianism?
+
+0xF0DD3208 = ~z~Hmm... erm...
+
+0xF4B553BF = ~z~Happened a while ago...
+
+0xF6ACD9EE = ~z~It's all in the past now.
+
+0xF6FA466A = ~z~I need your help.
+
+0xF7E8B353 = ~z~now let me take you home.
+
+0xF9DBF31E = ~z~Come home...
+
+0xF17EE1C1 = ~z~~sl:0.0:2.4~No less than the recent rediscovery...~sl:0.3:1.6:1~of theology.
+
+0xF34D4150 = ~z~I heard you and your friends was around, I...
+
+0xF216BB5F = ~z~Little Jamie's joined...
+
+0xF723FA4C = ~z~Oh, you'll never change...
+
+0xF801EF66 = ~z~Father wouldn't know sadness if it died in his bed...
+
+0xFA12A0F3 = ~z~Chelonia...
+
+0xFB6E3E39 = ~z~~sl:0.0:3.6:1~Hello, son. Your sister is very worried.
+
+0xFB67D45B = ~z~From the mountains...
+
+0xFC89C7EE = ~z~they're good people.
+
+0xFDE9D1FF = ~z~Arthur, please just go.
+
+0xFDF463FD = ~z~at least compared to the rest of them.
+
+0xFE7ACA13 = ~z~Guess that's dead in the water.
+
+0xFE244EDA = ~z~She's not, and you seem just the same.
+
+0xFEE1B611 = ~z~I can see you haven't changed much.
+
+0xFF841C8F = ~z~Chelonia.
+
+0xFFA401B5 = ~z~Jesus, Jamie. Come on.
+

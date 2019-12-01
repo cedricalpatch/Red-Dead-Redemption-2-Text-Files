@@ -1,0 +1,16 @@
+0x0809C2EB = ~z~Did she?
+
+0x6B0688DF = ~z~It's hard Arthur. I love her... but I can't stand still. Can't do it!
+
+0x9A33E739 = ~z~Poor woman.
+
+0x19D46680 = ~z~Oh, she's fine... she knows who she married.
+
+0x88234318 = ~z~I know you saw me, in town... with my wife.
+
+0xC5AFBE30 = ~z~I never knew you were married.
+
+0xEC8C0BF0 = ~z~
+
+0xFE43AF5F = ~z~No, probably not.
+

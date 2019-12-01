@@ -1,0 +1,40 @@
+0x3D0E732D = ~z~Hurting and killing folks I didn't need to.
+
+0x6C5D0684 = ~z~What you been doing?
+
+0x7A30A22B = ~z~I'm fine.
+
+0x7E3A2683 = ~z~We'll see.
+
+0x8D4A98B7 = ~z~You okay, Arthur?
+
+0x9B93B549 = ~z~Sure.
+
+0x9EB36B30 = ~z~Acting like a fool.
+
+0x22C42A1F = ~z~You're a good man, Arthur... underneath, I mean.
+
+0x72B149F8 = ~z~Well, that's one way of looking at it.
+
+0x74A3E77A = ~z~You don't look okay.
+
+0x80DA446E = ~z~I've been robbing a bunch of people who didn't deserve it. Taking the easy money.
+
+0x90C8CF5B = ~z~How so?
+
+0x441C5781 = ~z~Killing and robbing folks I didn't need to.
+
+0x846FED75 = ~z~My, you have been busy.
+
+0x2534F472 = ~z~Yes you are... just do what you gotta do and stop getting into trouble.
+
+0xB204BAFE = ~z~Hurting and robbing folks I didn't need to.
+
+0xB94644DB = ~z~Hey, Arthur. You wanna talk?
+
+0xBED2CCF1 = ~z~Just stay calm and do what you do best.
+
+0xC890E06D = ~z~I've lost my mind, Mary-Beth... it's finally happened. I... I don't feel in control.
+
+0xF2F58FF4 = ~z~It seems I'm best at mayhem... sure, I'm no better than Micah.
+

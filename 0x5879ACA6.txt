@@ -1,0 +1,44 @@
+0x3EC115FE = ~z~I'm not sad, just bored.
+
+0x8C036651 = ~z~Okay.
+
+0x9DBCCEB4 = ~z~~sl:1.2:0.0~It ain't fun, Arthur.
+
+0x93FBC072 = ~z~~sl:0.0:1.6~Be grateful for being bored, lady...~sl:0.5~'cause soon enough you're gonna be scared.
+
+0x862E24D7 = ~z~~sl:0.0:0.8~You're bored?~sl:0.9:1.1~Bored's good.~sl:0.7~Bored means you ain't scared.
+
+0x3447EB56 = ~z~I don't know. I used to dream a lot.
+
+0xA7E6E848 = ~z~Why you walking around so sad?
+
+0xB6A1BB91 = ~z~Cheer up. Smile. Try to forget about things.
+
+0xB3040127 = ~z~I'm not sad, I'm bored.
+
+0xB8315330 = ~z~You okay?
+
+0xBF9D9A56 = ~z~You're bored?
+
+0xBF5511E0 = ~z~Cheer up. Smile. Try to forget about things.
+
+0xC706F0DB = ~z~Sure.
+
+0xC8935F74 = ~z~I guess...
+
+0xCA6F17D2 = ~z~We all dreamt a lot.
+
+0xCD58B5CC = ~z~~sl:0.0:1.6~Be grateful for being bored, lady...~sl:0.5~'cause soon enough you're gonna be scared.
+
+0xD09E3C5B = ~z~You men have no idea just how small our lives are, Arthur.
+
+0xE421E362 = ~z~Why you walking around so sad?
+
+0xE963A110 = ~z~Either that or start praying real hard...
+
+0xE1905B9A = ~z~When I was a little girl, I guess I hoped for...
+
+0xE124557E = ~z~I guess...
+
+0xF831F357 = ~z~~sl:0.0:3.8~Then we grew into women. Saw what the world was for us.~sl:1.0~How little it values us.
+

@@ -1,0 +1,28 @@
+0x03D73A46 = ~z~Now... well, I'll miss 'em.
+
+0x05DA3E48 = ~z~Man... them Callander boys... they were something else...
+
+0x2AF3887A = ~z~You're back, I see... you are back.
+
+0x3C972BC1 = ~z~No... my guess is he died... I didn't hear nothing, but... looks like he got shot up pretty bad.
+
+0x5D366CFF = ~z~Yes, I'm back big man... back from the dead, the ginger Lazarus.
+
+0x26FB38C9 = ~z~
+
+0x225FF753 = ~z~Anything about Mac?
+
+0x797F2594 = ~z~
+
+0x2674076E = ~z~Even our old Arthur knows that.
+
+0x15481563 = ~z~~sl:4.6~Callander boys...
+
+0xD1FEE2C5 = ~z~Ah, the world's too bad, big man.
+
+0xE3AC8620 = ~z~It's too bad.
+
+0xF01812C4 = ~z~
+
+0xF6319EFB = ~z~Me too big man, me too.
+

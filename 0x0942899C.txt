@@ -1,0 +1,1030 @@
+0x0021D1FA = ~z~I like what you're thinking.
+
+0x008EEA6F = ~z~Hey, hey! You let me go! I done nothing to you.
+
+0x009F3CF8 = ~z~Whoa, hey!
+
+0x013A2DC3 = ~z~Okay, how about you? You willing to help?
+
+0x01B19E0D = ~z~Lousy shit! I just wanted a picture.
+
+0x03B1319D = ~z~Wait until I'm ready.
+
+0x049D4C48 = ~z~I think we're done now, okay?
+
+0x04A073AC = ~z~Gimme a minute, just one minute.
+
+0x04A40987 = ~z~What a beauty...
+
+0x04C209B2 = ~z~This picture's got to have everyone in it...
+
+0x04ECFF74 = ~z~I'll tell you when I'm ready.
+
+0x05C39A96 = ~z~Okay, I think you're too close.
+
+0x0616DD50 = ~z~What's the holdup? Bring that pretty thing over.
+
+0x06FFB3BE = ~z~Hey, hey. I, uh... you wanna make some money?
+
+0x0723FA17 = ~z~In Spanish: More or less...
+
+0x07757D71 = ~z~Yep, I'm gonna do well with this picture. Damn well.
+
+0x07E5C0AC = ~z~How about it? Sharp?
+
+0x0820918E = ~z~Yes! Okay, I need to get myself set, eh?
+
+0x085E2CA6 = ~z~You tell me how I'm looking, alright? This gotta look good.
+
+0x0941A36C = ~z~No, no, I don't want to be carried.
+
+0x097B4A11 = ~z~I'm keeping the picture.
+
+0x09B8A556 = ~z~You're all wasting my time.
+
+0x09D7688A = ~z~Time's wasting here. Take the picture.
+
+0x0AE8374E = ~z~Take the photo now.
+
+0x0AFD5E36 = ~z~Make sure you can see me.
+
+0x0B6D1CFC = ~z~~sl:0.0:4.6~You don't have a horse? C'mon. You have one, yes?~sl:~I need a horse. Not to keep, just for a minute. I'll pay you.
+
+0x0BBB6977 = ~z~Shoulda let it be!
+
+0x0C002BD0 = ~z~Oh, you again? Alright, good, c'mere.
+
+0x0C1B5569 = ~z~Hey! Too soon. Wait.
+
+0x0CD44874 = ~z~It's over, this horse is mine now!
+
+0x0D13E07E = ~z~Oh. Well then.
+
+0x0D349D9E = ~z~Must be a horse somewhere 'round here.
+
+0x0D143665 = ~z~Sure appreciate it. Here.
+
+0x0EEF9769 = ~z~~sl:0.0:1.5~You gonna take the photo, then?~sl:~We gotta go fast, but not too loud, neither.
+
+0x0FFD026F = ~z~Seen worse. I could show it around, I suppose.
+
+0x1AA8E788 = ~z~Goddamn you!
+
+0x1B203975 = ~z~This is taking too long.
+
+0x1D6B8B16 = ~z~I'll handle the picture.
+
+0x1E7AB7B0 = ~z~Will any of you do this for me?
+
+0x1E70EEB8 = ~z~What are you doing?
+
+0x1EA03661 = ~z~~sl:0.0:5.0~Hey, uh... remember me? Let's forget about last time,~sl:0.3~just... give me a hand, will ya?
+
+0x1F05C40E = ~t~In Spanish: Mother of God...
+
+0x1F0E1BD3 = ~z~Listen. We ain't friends here. Leave me be.
+
+0x2A3D338D = ~z~The other one, take the picture. It'll be great.
+
+0x2A50C89E = ~z~Here. Guess you did your best...
+
+0x2A2674B5 = ~z~You, how about you? Gonna help me?
+
+0x2ABB1EE1 = ~z~Well, fine. Guess this picture's a bust.
+
+0x2AE25B72 = ~z~Hey, hello! You got a minute?
+
+0x2B4DC128 = ~z~~sl:0.0:2.8~It won't take long! Let's have some fun.~sl:~Life's too short.
+
+0x2BD2BD82 = ~t~In Spanish: Go to hell!
+
+0x2C6FEE57 = ~z~Oh, oh... shit, shit!
+
+0x2CEB8B69 = ~t~In Spanish: We're friends, no?
+
+0x2CED5CD8 = ~z~Don't hurt me!
+
+0x2D4A57CE = ~z~And the other one, you take the picture.
+
+0x2D448195 = ~z~Leave me be, dammit.
+
+0x2E7C5371 = ~z~Hey, hello! Hello! Come on already!
+
+0x2EDD3D1C = ~z~Good idea.
+
+0x2F42B7E1 = ~z~So, one of you gonna tie me, or what?
+
+0x2F79E228 = ~t~In Spanish: Cocksuckers.
+
+0x2F7638D0 = ~z~You need to get off the horse now.
+
+0x3A6431FA = ~z~You are too fast! Wait until I'm ready...
+
+0x3BA9293F = ~z~Stay back from it. It will run.
+
+0x3BF2F215 = ~z~Bring your horse over. Now. Come on.
+
+0x3C213B00 = ~z~Well? Take the picture already!
+
+0x3CDB549E = ~z~Too close for a picture. I know that.
+
+0x3CE41EDF = ~z~Make sure the horse and me are both in the frame, okay?
+
+0x3D045364 = ~z~Someone's gotta tie me up. Not too tight.
+
+0x3DAFD9BA = ~z~Make sure it's in the frame, I'm not holding it up for fun.
+
+0x3E6E1A08 = ~z~Here, take this. For what you did.
+
+0x3E479D75 = ~z~A beauty!
+
+0x3E816DF3 = ~z~No one coming...
+
+0x3EAD9D08 = ~z~Fine. Quit wasting my time, then.
+
+0x3EB6E03E = ~z~Okay! How's it look?
+
+0x3FBBE1EC = ~z~Decent. That was decent.
+
+0x4A6646B9 = ~z~Hey, hey, stupid! Don't get so close to it.
+
+0x4AB18657 = ~z~This is a bust...
+
+0x4BA4382E = ~z~Oh, you got an eye!
+
+0x4C7DC135 = ~z~Cut me free! This is starting to hurt.
+
+0x4C95E49B = ~z~~sl:0.2:1.6~Good of you helping me out back there.~sl:0.6~Good eye, you got.
+
+0x4C109852 = ~z~Can you see everyone?
+
+0x4CB1C087 = ~z~Here. Could be decent.
+
+0x4D05701A = ~z~You're just a group of low-lives. Never mind this.
+
+0x4D643A75 = ~z~Oh, I get it. You're scared of danger? Figures.
+
+0x4E3877FA = ~z~Fine, fine! I made a mistake, okay? Don't kill me.
+
+0x4F0C7900 = ~z~Get back some. You're real close.
+
+0x4F4CE83A = ~z~You can't see me from that far.
+
+0x4F4E1B16 = ~z~Okay, no picture. Let's let that be the end of it.
+
+0x4F20D836 = ~z~~sl:0.0:4.4~Well? What d'you say? I think it'd be a real fine picture.~sl:~And I'm great with horses.
+
+0x4F567D07 = ~z~You sure you got this thing in the frame?
+
+0x4FD6D682 = ~z~Oh, you! I remember you. You're a piece of work.
+
+0x5AD22C1C = ~z~I'm not asking for a lot. Help me out.
+
+0x5B220058 = ~z~Okay, get your camera ready.
+
+0x5C7F6448 = ~z~Well, how about you? What d'you say?
+
+0x5C633BC3 = ~z~Oh, please!
+
+0x5EE5A354 = ~z~Starting to lose my patience with you here...
+
+0x5F039909 = ~z~~sl:0.0:2.6~Come on. Let's set up a scene, all of us.~sl:0.1~Something fun, a little dangerous.
+
+0x5F4172C1 = ~z~Make sure the animal's in frame, okay?
+
+0x6A3D0B4D = ~z~Let me get into place.
+
+0x6A99FA4A = ~z~Don't leave me out. Or the horse.
+
+0x6AA620C0 = ~z~In Spanish: Stupid fool.
+
+0x6B018149 = ~z~Get your camera out.
+
+0x6B109B6C = ~z~Alright. I'll get into place.
+
+0x6BDA3C20 = ~z~Take a step back, okay? Make a good picture.
+
+0x6BFBCE6F = ~z~C'mon, I know you can hear me.
+
+0x6C62FFE9 = ~z~Very good. Take this, okay?
+
+0x6D2D3C5C = ~z~Oh, gracias! You had this coming!
+
+0x6DCBA0E2 = ~z~Yeah? Good. Lemme get set, hold on.
+
+0x6EDA0466 = ~z~~sl:0.0:3.3~Yeah. I found this beautiful view and I want a picture by it.~sl:~Real heroic, real manly.
+
+0x7A1C9863 = ~z~C'mon, take the picture before it hears us and heads off. C'mon.
+
+0x7AF5B574 = ~z~Losing light...
+
+0x7B481A06 = ~z~Okay... okay, I got you...
+
+0x7BAFAE32 = ~z~Let me get ready...
+
+0x7BB68CE5 = ~t~In Spanish: Stupid, stupid!
+
+0x7BC11619 = ~z~Here. For the time.
+
+0x7CC024C6 = ~z~Where's your camera anyway?
+
+0x7D0114E3 = ~z~~sl:0.0:2.3~I want one of you to tie me up, and then have~sl:~the rest of y'all stand by me, like I'm captured.
+
+0x7DB077C2 = ~z~Clearly we're done here. I'm heading off.
+
+0x7DCF4DA5 = ~z~Oh, you're done now.
+
+0x7E3C22C4 = ~z~Okay... no problem...
+
+0x8A5EBCF4 = ~z~Thanks for the effort...
+
+0x8A91B899 = ~z~Let's see what you are...
+
+0x8AF75A0F = ~z~You try me, I'll shoot! And I'm a great shot.
+
+0x8B455613 = ~z~C'mon... c'mon...
+
+0x8C0FD550 = ~z~I wasn't ready.
+
+0x8C84450E = ~z~~sl:0.0:3.3~But one of you has to stay back and take the photograph.~sl:0.4~Goes without saying.
+
+0x8D8E4753 = ~z~Make sure the coyote is in the picture?
+
+0x8DEBE621 = ~z~Come on. I'm clean enough, and good with animals.
+
+0x8E99C7F1 = ~z~I am a queen!
+
+0x8E492204 = ~z~~sl:0.0:3.0~Oh... didn't recognize you for a moment...~sl:~why don't we bury the hatchet?
+
+0x8F5247AF = ~z~Oh! Okay.
+
+0x8F348497 = ~z~Come on, y'all gather by me.
+
+0x8FA84A96 = ~t~In Spanish: Come on...
+
+0x8FA915F4 = ~z~I better see that cougar in the picture.
+
+0x9A8E0942 = ~z~~sl:0.0:2.8~Hey, you have a horse nearby?~sl:~I need one for something I'm working on.
+
+0x9B0A7B5F = ~z~Right, good. Let me get ready.
+
+0x9B2210DB = ~z~~sl:0.3~Son of a bitch ran off! What the hell you scare it for?
+
+0x9BA499BA = ~z~I'll shoot you, you try anything!
+
+0x9BB91D42 = ~z~Oh, oh, you again! Come here, help me out!
+
+0x9BEF9964 = ~z~Okay. Best not step into an open mouth...
+
+0x9C8FE156 = ~z~You tried. I guess.
+
+0x9CB7FEE0 = ~z~C'mon... cut me loose.
+
+0x9CCD81D4 = ~z~Don't cut me out of the picture.
+
+0x9DE721FC = ~z~I need y'all over here so we can take the picture.
+
+0x9E1AAAB3 = ~z~You there, c'mere.
+
+0x9E4E3C0D = ~z~In Spanish: Stupid piece of shit!
+
+0x9E8DB845 = ~z~Any of you? C'mon...
+
+0x9E14ED65 = ~z~You aiming at me or what?
+
+0x9E21198B = ~z~Oh, enough of you.
+
+0x9E476894 = ~z~~sl:0.0:1.2~Okay, how about this?~sl:~Y'all come over by me and hold your guns up.
+
+0x9FE40BFC = ~z~It was good of you to help me.
+
+0x10B9DE4C = ~z~You did nicely. Well earned.
+
+0x11FE3C7D = ~z~Holy hell... thing near got me...
+
+0x12B8C658 = ~z~That's a keeper!
+
+0x12B549CB = ~z~No, no!
+
+0x13D90C5D = ~z~Alright... edge is back a ways, right?
+
+0x15EB4813 = ~z~Here you go. Damn, I'm a comely feller.
+
+0x15EE40E2 = ~z~The film, friend.
+
+0x16CD4858 = ~z~Goddammit that ain't your horse!
+
+0x16D65A7E = ~z~All set. Take the shot.
+
+0x18A8A54A = ~z~Here. You tried at least.
+
+0x18D26EF7 = ~t~In Spanish: Goddamn idiot!
+
+0x18F75C29 = ~z~Don't take the picture yet.
+
+0x19BB70AA = ~z~You're making a damn mistake here.
+
+0x20AD5449 = ~z~Come on...
+
+0x23D0D493 = ~z~Hey, that's my horse!
+
+0x24C7B5DA = ~t~In Spanish: Son of a bitch...
+
+0x24CBAAC9 = ~z~You got the whole picture, right? Me? Your horse?
+
+0x25A35F4C = ~z~You can see me and that wolf, right?
+
+0x30B75316 = ~z~You need to have me and the animal in the picture.
+
+0x32C02248 = ~z~Swell picture. Thank you much.
+
+0x34D74CAC = ~z~You won't take this seriously? I'm done with it.
+
+0x38CEB70F = ~z~Cut me free! Cut me free!
+
+0x38E8A363 = ~z~What is there to decide?
+
+0x38F79A29 = ~z~Untie me now!
+
+0x39D9C9DD = ~z~I was not ready. Take another picture.
+
+0x41D9B5DD = ~t~In Spanish: What the hell?
+
+0x41E93E83 = ~z~And one of you, stand back so you can take the picture.
+
+0x41FFE8AA = ~z~Back? Fine...
+
+0x42A1428E = ~z~Can you see all of the buck in the frame?
+
+0x44AD5E35 = ~z~What's the damn holdup here?
+
+0x47B88E7B = ~t~In Spanish: Goddamned monster!
+
+0x47D29FB2 = ~z~No horse. You will die out here with no horse, friend.
+
+0x49E89D6C = ~z~Yeah, this'll look real fine.
+
+0x50CC0F7C = ~z~Alright!
+
+0x51D1368C = ~z~So bored...
+
+0x51E1F402 = ~z~I'll take the picture with me.
+
+0x51EF6FA3 = ~z~Dammit! Lousy animal!
+
+0x55CAA8CA = ~z~~sl:0.0:2.3~Okay, one of you point your gun at me.~sl:~But... just point it.
+
+0x55CDD9FE = ~z~Better next time...
+
+0x55D11768 = ~z~Okay. That's fine.
+
+0x57B4F227 = ~z~I can't wait all day. Take the picture.
+
+0x58FA9001 = ~z~Whoa! You're ugly!
+
+0x59D22498 = ~z~Wasting light...
+
+0x59F44FD1 = ~z~How's my position? Should I do something? Go on.
+
+0x60A1404C = ~t~In Spanish: Goddamn you!
+
+0x60B34A4A = ~z~Okay, one of you stand by me and hold your gun up.
+
+0x63DC6E1F = ~z~Okay, one of you needs to take the picture.
+
+0x63E440C3 = ~z~You're wasting my time, and yours. I'm done.
+
+0x64D51561 = ~z~Hey, look at that! Pretty thing, too.
+
+0x68A447C4 = ~z~Don't be shy! Just a minute!
+
+0x70F2C615 = ~z~You will? Good news!
+
+0x77B5E5E3 = ~z~It won't take long! Help out, huh?
+
+0x77C94A61 = ~z~You did okay by me here. Thank you.
+
+0x79BD68CD = ~z~What? Fine. Then go away.
+
+0x79D6CD08 = ~z~Okay, now. One of you needs to tie me.
+
+0x79ECDDBC = ~z~Get the hell away from me!
+
+0x82BDE9AB = ~z~Alright! I knew you looked kind.
+
+0x82CC54FF = ~z~Here, here, okay? You did good.
+
+0x82DE1C62 = ~z~You refuse to help, fine. Leave it at that.
+
+0x83B3D2D6 = ~z~~sl:0.0:1.8~Y'know, most folk's too stupid~sl:~to help out with something like this.
+
+0x83EE69C7 = ~z~Okay. I think I know where you're going...
+
+0x84CD8F7D = ~z~Okay, okay, bring your horse over here.
+
+0x85B8E679 = ~z~~sl:0.0:1.8~Come on, let's set up a scene here.~sl:~Something fun, a little dangerous.
+
+0x85DAC675 = ~z~~sl:0.0:2.8~So y'all gather round and point guns at my head.~sl:~Gonna look like real artwork.
+
+0x90D27710 = ~t~In Spanish: Donkey!
+
+0x95A423BE = ~z~Oh, that's a good one!
+
+0x96B04270 = ~z~I'll take the film.
+
+0x96D0C75C = ~z~Well? You got a horse or not?
+
+0x97B82F91 = ~z~Could kill any man...
+
+0x174FAECD = ~z~Everyone in frame now?
+
+0x216AF947 = ~z~Air's nice, too...
+
+0x225B8997 = ~z~Okay, the picture's done. Untie me.
+
+0x233E3CF5 = ~z~What, are you ignoring me?
+
+0x258FB8A8 = ~z~Thought you was friendly. Guess not.
+
+0x283F938C = ~z~~sl:0.0:1.9~Okay, goodbye then.~sl:~Don't let me hold you up any longer.
+
+0x299F2496 = ~z~Why are you following me, eh?
+
+0x302CB098 = ~z~I'll take it.
+
+0x341A6DD8 = ~z~~sl:0.0:1.4~Oh, okay, listen.~sl:0.0:3.5~Let's all of us do a photo like a theater scene?~sl:~Something dramatic...
+
+0x358D368B = ~z~I asked for a simple favor! What is wrong with you?
+
+0x362E7F4B = ~z~Should just buy a dead one...
+
+0x380BEAD2 = ~z~Anyone willing to help?
+
+0x384A1BDE = ~z~You look more agreeable. You willing to help?
+
+0x460DC7EA = ~z~~sl:0.0:2.1~Well? What's the word?~sl:~You gonna take my picture, or what?
+
+0x490C8891 = ~z~What're you, scared? Help me out!
+
+0x491B06A6 = ~z~Well, hop off then.
+
+0x494DED9E = ~z~One of you can take the picture. What the hell, right?
+
+0x535A8C3E = ~z~Okay, why don't you maybe leave me alone, alright?
+
+0x548A6DF4 = ~z~We're all done except I need to be untied.
+
+0x556F0F0E = ~z~Oh, perfect. Happy to hear it.
+
+0x557F2A08 = ~z~You cut me free!
+
+0x561FB4E1 = ~z~Get those weapons out and point 'em up!
+
+0x605F0C32 = ~z~What are you doing? If you won't help why say so?
+
+0x610BD78C = ~z~Leave me alone!
+
+0x708AB07C = ~z~Okay, here. You earned this.
+
+0x736C2995 = ~z~I don't got all day. Take the picture.
+
+0x758C56CD = ~z~I like this one for catching farmgirls.
+
+0x762B0981 = ~z~Thanks for it.
+
+0x784FCBA7 = ~z~~sl:0.0:3.6~One of you can take the picture, the other poses with me.~sl:~What the hell, right?
+
+0x808B8689 = ~z~Hey, listen... why don't we start fresh? Help me out?
+
+0x821A1756 = ~z~Adios!
+
+0x853A9E0E = ~z~Dismount, come on! Don't you see how this works?
+
+0x853E8019 = ~z~Lemme get ready.
+
+0x864C96A2 = ~z~You shot too soon! Wait 'til I say so.
+
+0x884EAFC5 = ~z~~sl:0.0:1.8~Come on, leave me be.~sl:~Make yourself feel better without me.
+
+0x980B93E6 = ~z~
+
+0x985E74AB = ~z~It was nice of you to try, even if you were bad at it.
+
+0x1019BBFD = ~z~I need one of you over here with me.
+
+0x1554AAE8 = ~t~In Spanish: Incredible.
+
+0x1612FAE3 = ~z~Let's go. The light is changing.
+
+0x2105A83D = ~t~In Spanish: Stupid.
+
+0x2861D69D = ~z~Well... that was exciting... okay. Enough for today.
+
+0x3207BA0A = ~z~Something like this?
+
+0x3385E237 = ~z~Any of you want to help? I got money.
+
+0x3702AB38 = ~z~Oh, come on! What the hell?
+
+0x4179FF26 = ~z~~sl:0.0:3.4~That fine animal there. How about letting me~sl:~mount up for a photograph with it?
+
+0x5215CA92 = ~z~We need one of y'all to take the picture.
+
+0x5279B6DB = ~t~In Spanish: Worthless pigs.
+
+0x5339D348 = ~z~Ready when you are.
+
+0x5564BFD6 = ~z~I'll deal with the printing.
+
+0x5608CAA9 = ~z~Well. Take this anyway.
+
+0x5889E831 = ~z~I'm going solo now.
+
+0x5956D7C4 = ~z~You have the horse and me both in the picture?
+
+0x6333A8E3 = ~z~Okay, fair enough. Serviceable, I'd say.
+
+0x7480BF2A = ~z~So impatient! Wait until I'm ready.
+
+0x8714D39A = ~z~Get these ropes off, c'mon!
+
+0x8729F836 = ~z~No! Fair is fair! You gave it to me!
+
+0x8895F597 = ~z~Too close! Step back.
+
+0x9234BB0F = ~z~Our business is done.
+
+0x9426E6A2 = ~z~You gotta get down so I can mount up.
+
+0x13270C80 = ~z~Leave me alone.
+
+0x14429A2D = ~z~You see the animal in the frame? We have to get this right!
+
+0x25031B5E = ~z~I don't want your company.
+
+0x28436C73 = ~z~~sl:0.0:2.9~I want to take a photograph here with me mounted on a horse.~sl:~It's for a magazine. Can I use yours? I'll pay you.
+
+0x35381E2F = ~z~Rides like a dream!
+
+0x37570A22 = ~z~Don't leave the buck out, now. Gotta get that buck.
+
+0x37905E6D = ~z~World full of fools!
+
+0x40248B32 = ~z~Who's gonna help me? Hmm?
+
+0x57233B37 = ~z~My horse!
+
+0x63739A9B = ~t~In Spanish: Perfect!
+
+0x64739B10 = ~z~Guns at my head, like it's a holdup.
+
+0x65677B9E = ~z~Alright, bring your horse over and I'll hop right on.
+
+0x68914A4D = ~z~Come on. Let me on my way.
+
+0x71662DFE = ~z~~sl:0.0:3.3~What do you say? Before it starts to stink...~sl:~it's just the one photo.
+
+0x77423B4E = ~z~Well? Get off the horse already!
+
+0x82426E63 = ~z~Sorry, this is mine now!
+
+0x82722BEF = ~z~Get yourself the hell away from me.
+
+0x91353E36 = ~z~One of you, over here to me.
+
+0x93750AB0 = ~z~Am I in the picture?
+
+0x94632B90 = ~z~I just wanted my picture taken.
+
+0x96718C9F = ~z~Not great.
+
+0x185267BF = ~z~Give me the picture.
+
+0x258077D2 = ~z~Okay, ready to go!
+
+0x293576CB = ~t~In Spanish: Oh my God!
+
+0x373795BB = ~z~Not sure you're in the frame yet...
+
+0x575727D9 = ~z~Enough of you. I'm going alone, alright?
+
+0x723545F0 = ~z~You best not be fooling with me, friend...
+
+0x736338EF = ~z~Okay, guns at my head...
+
+0x921788BD = ~z~Jesus, it's big...
+
+0x3817109E = ~z~How 'bout you? You take my picture?
+
+0x4028508F = ~z~I'll take the picture from you.
+
+0x6707323E = ~z~Okay! What I wanted to hear.
+
+0x9412322D = ~z~Wait 'til I'm set, dammit.
+
+0x14761409 = ~z~You'll need your camera.
+
+0x16976405 = ~z~~sl:0.0:3.1~Hey, listen... you keep to yourself,~sl:0.0:2.0~maybe we can work together again...~sl:~but you have to be fast.
+
+0x24898646 = ~z~It's just a picture!
+
+0x28037875 = ~z~~sl:0.0:2.2~Hey, keep clear of the animal!~sl:~Don't you ruin this shot for me, now.
+
+0x31129664 = ~z~I want the animal in the picture. Make sure.
+
+0x55290638 = ~z~Shit, it's after me!
+
+0x89404958 = ~z~But, uh... well. Help me out, I forget I owe you a gut punch.
+
+0x94578087 = ~t~In Spanish: Damn you!
+
+0x94889430 = ~z~Get your camera ready. Know you got one.
+
+0xA03986CB = ~z~Why not? Too good to help a lady.
+
+0xA0C522BA = ~z~We're both in the frame, right? Me and the animal?
+
+0xA2B53AC0 = ~z~Psh. I should have known.
+
+0xA3A18D08 = ~z~Great. You are bad at this.
+
+0xA4ACB52B = ~z~~sl:0.0:2.2~I'm ready. Do I need to be closer?~sl:~I can do it. I'm not scared...
+
+0xA4B22920 = ~z~Well. It's a picture. That's something.
+
+0xA4E8F11C = ~z~Are we both in frame?
+
+0xA4ED59C7 = ~z~This is what I was hoping to get.
+
+0xA5B22C73 = ~z~C'mon, over here. Move that animal!
+
+0xA5F66BA0 = ~z~~sl:1.0~Fine. Shoulda known.
+
+0xA6AC7F74 = ~z~Just go away now, okay?
+
+0xA6CDE313 = ~z~Bad mistake!
+
+0xA9A8B921 = ~z~Remember me? I need some help with another photo!
+
+0xA14BEDDD = ~z~Get your camera ready.
+
+0xA35C734D = ~z~Come on. What are you waiting for? Take the photograph.
+
+0xA54CAE5F = ~z~Don't think you can see me...
+
+0xA55ED02B = ~t~In Spanish: My horse!
+
+0xA79F5821 = ~z~Look dangerous. The other one, you take the picture.
+
+0xA82EAE85 = ~z~You stuffed upstairs? Come over!
+
+0xA67240C9 = ~z~What are you looking for? I think we're done here...
+
+0xA2056780 = ~z~Oh? Oh... something here...
+
+0xAAC85F99 = ~z~You shot off early, heh. Wait up a minute.
+
+0xAB2FA887 = ~z~~sl:1.2:3.6~I think... I think that's it for me today.~sl:0.3~Appreciate you stepping in, I suppose.
+
+0xAB494F08 = ~z~Nice shot there. That'll look good.
+
+0xABFF576F = ~z~I should kill you!
+
+0xAC8B6A4F = ~z~Some other time, alright? Hasta luego.
+
+0xACFBB9AB = ~z~You aren't much good at this, huh?
+
+0xAD33136A = ~z~I wanna recognize myself! Get closer.
+
+0xADB1F644 = ~z~One's gotta take the picture though, remember?
+
+0xADCE58F4 = ~z~~sl:0.0:2.1~Want some money? Okay.~sl:0.3:3.4~You see that creature there? Real impressive, huh?~sl:0.9~I want a picture with it.
+
+0xAE1355FA = ~z~You make sure to see the whole bear, okay?
+
+0xAF5726E7 = ~z~I better be in the picture, okay?
+
+0xAFE2C38B = ~z~I need to be in the picture!
+
+0xB0BB2840 = ~z~Yes or no?
+
+0xB0CDDA99 = ~z~If you don't want to help, I'm finished here.
+
+0xB0D53C41 = ~z~~sl:0.0:3.2~Goddammit. All that waiting, ruined.~sl:~Thanks for nothing.
+
+0xB2DE9CD9 = ~z~The picture. I want it.
+
+0xB5EC4A00 = ~z~C'mon, don't you ignore me now.
+
+0xB6EE4CF9 = ~z~~sl:0.0:2.5~Okay, one of you, tie me up and stand beside me,~sl:~like I'm a captured bounty.
+
+0xB7D8D43F = ~z~You hungry? You look stupid. I could take you.
+
+0xB7E1C34B = ~z~Well? Do you have a horse or not?
+
+0xB9C7E774 = ~z~Not looking for any more photographs today, though...
+
+0xB12BC4C8 = ~t~In Spanish: Idiot!
+
+0xB62B8080 = ~z~Now! Take it.
+
+0xB72EFE4A = ~z~Maybe I will see you again sometime.
+
+0xB187AF43 = ~z~Most people don't help, but you did.
+
+0xB207C53F = ~z~I want both me and your animal in the photograph.
+
+0xB687EB10 = ~z~Oh, yes. I look dangerous.
+
+0xB857EF81 = ~z~I'm not taking a picture with both of us on the horse.
+
+0xB8794CD7 = ~z~I'm gonna die!
+
+0xB97207B6 = ~z~That's good!
+
+0xB192826F = ~z~Shit, you again? Just... just leave me alone!
+
+0xB421659A = ~z~If there's one thing a lady admires, it's a fearsome animal.
+
+0xBA7B0067 = ~z~~sl:0.0:1.5~You don't have a horse, fine.~sl:~I'm sure you're curious, but I've got no interest in idlers.
+
+0xBB6B7D26 = ~z~Shit... you are damn terrible.
+
+0xBB78EC8D = ~z~Hold up 'til I'm ready.
+
+0xBC1A835F = ~z~What'd I expect from you bunch...
+
+0xBC66CEF0 = ~z~Oh, hey! I know you. You helped me with the photograph.
+
+0xBC74B85B = ~z~I don't got nothing for you...
+
+0xBD7980A2 = ~z~~sl:0.0:1.7~Hey, I could use a hand here?~sl:~It won't take you long.
+
+0xBDCE67E9 = ~z~It's you?
+
+0xBDE1B4C7 = ~z~You're too far to get the details.
+
+0xBE2ADDDA = ~z~Back? Really. Okay...
+
+0xBE63BA5D = ~z~~sl:0.0:3.8~Won't take long. I hop on, you take the picture.~sl:~C'mon. This here's the perfect spot.
+
+0xBEBA50DF = ~z~Just do it quick and we'll be fine.
+
+0xBF3D0B7D = ~z~Well? What is the wait?
+
+0xBFDE30F7 = ~z~Best see me in the picture there.
+
+0xC00F4373 = ~z~Okay... you! Help me out?
+
+0xC1C30B0E = ~z~Alright, horseless. Leave me alone.
+
+0xC3BC6882 = ~z~~sl:0.9~I'll enjoy showing these off to the fellers back in town.
+
+0xC4B2D0EA = ~z~Thanks for your trouble.
+
+0xC5EB0D2B = ~z~Forget about the picture, alright? You tried. Now go on.
+
+0xC8DBDBCA = ~z~Well? Where's that camera?
+
+0xC8F420F8 = ~z~Take a step back, maybe.
+
+0xC9CFD9F7 = ~z~Well. That's pretty low. Thought we was all kin out here.
+
+0xC19BE7A2 = ~z~Make sure you can see me.
+
+0xC32E2ABE = ~t~In Spanish: Jesus Christ!
+
+0xC36DCDA5 = ~t~In Spanish: Jesus.
+
+0xC71F646A = ~z~I wasn't ready!
+
+0xC76DF9FA = ~z~Alright. Get the camera out, c'mon.
+
+0xC79DD8EA = ~z~You are too far.
+
+0xC83F64A4 = ~z~~sl:0.0:2.0~Not for long and I'll pay.~sl:~Nothing dangerous, don't worry...
+
+0xC654A628 = ~z~Leave me be already.
+
+0xC677EDD5 = ~z~Oh, God, not you again! Get away from me!
+
+0xC739E8FD = ~z~You? Oh, shit... you keep away from me!
+
+0xC778FAB3 = ~z~Psst. You there! C'mon.
+
+0xC4153EA9 = ~z~Now this. This here's a view.
+
+0xC13423E7 = ~z~I am ready. Go on.
+
+0xC982272D = ~z~Okay, okay. Take the picture.
+
+0xCAC91E52 = ~z~Okay, guns to the air!
+
+0xCB907D4E = ~z~~sl:0.0:1.8~If we're gonna take this picture,~sl:~y'all need to be here by me.
+
+0xCB74803B = ~z~You get me loose goddammit.
+
+0xCBC27369 = ~z~The thing's huge!
+
+0xCBE20641 = ~z~Hey! Over here.
+
+0xCC8C1F1C = ~z~You saved my life.
+
+0xCC451E2F = ~z~What's life without a bit of fun, right?
+
+0xCEB8B37D = ~z~We don't have business. You did your best. Bye.
+
+0xCF4CC5E3 = ~z~This picture's got to have both of us in it...
+
+0xD0BE8D2F = ~z~Alright. That'll do fine.
+
+0xD2C003A7 = ~z~Hey, come on, just gimme a minute.
+
+0xD4C4AAD7 = ~z~I'll get ready.
+
+0xD4CF44F5 = ~t~In Spanish: Nice horse!
+
+0xD4DF0AC7 = ~z~Maybe we'll cross paths again sometime...
+
+0xD4E8F380 = ~z~Get closer! I want to be big.
+
+0xD4E69439 = ~z~C'mon, you can hear me...
+
+0xD7C20460 = ~z~C'mon, take the picture already.
+
+0xD7FB5641 = ~z~Closer to the... the animal? Fine... no problem.
+
+0xD15F8F79 = ~z~How could you hurt a dumb animal?
+
+0xD44CBDA4 = ~z~I'll take the film, print it, frame it.
+
+0xD59C33F8 = ~z~Guns out and raise 'em high.
+
+0xD71F5AD5 = ~z~Hey, I could use a photo with this fish I caught.
+
+0xD86FC9DA = ~z~Come on, please. I need some help here.
+
+0xD650F6B4 = ~z~You need to equip your camera...
+
+0xD673F2AC = ~z~Ugh. No good. But... eh...
+
+0xD861E799 = ~z~Don't take the photo quite yet.
+
+0xD3451B6D = ~z~C'mon. Leave me on my way.
+
+0xD3541432 = ~z~Forget it. You ain't taking this seriously.
+
+0xD9120425 = ~z~I always get my way!
+
+0xDA78FC76 = ~z~That's alright, alright. Here you go.
+
+0xDA81C206 = ~z~Okay, take the photograph.
+
+0xDAA97BAA = ~z~Okay, fine.
+
+0xDAC0A23B = ~z~Leave that poor donkey alone!
+
+0xDB05B90A = ~z~I just wanted to take a picture!
+
+0xDB72C1D0 = ~z~I know one of you wants to help...
+
+0xDB128C32 = ~z~Y'all are fools. I'm done with it.
+
+0xDD3123B4 = ~z~What the hell you doing this for anyway?
+
+0xDD42925C = ~z~Go away!
+
+0xDDC6E3FD = ~z~You gonna scare it away. Keep some distance.
+
+0xDEDFA494 = ~z~Make sure the coyote's in frame.
+
+0xE0CF3681 = ~z~Ain't got shit else to do with you.
+
+0xE1D6BE5F = ~z~I want you to see me. That's too far.
+
+0xE1F1014A = ~z~Bye now. I'm going solo...
+
+0xE2B26BAF = ~z~Back? Uh... sure. Why not?
+
+0xE4BEEAFC = ~z~Alright. I'm ready to go. Take the picture.
+
+0xE9A86822 = ~z~Ay, yes! Just what I wanted.
+
+0xE21C7D3C = ~z~Close in, you're too far.
+
+0xE62AE550 = ~z~Just come here, it won't take long, I promise.
+
+0xE74B7F99 = ~z~You see me in the picture?
+
+0xE75D05D5 = ~z~Okay. I'm a real lonesome sort... get me?
+
+0xE374E2B4 = ~z~Okay, come over here.
+
+0xE403DC30 = ~z~Okay, now.
+
+0xE485BFD1 = ~z~Oh, it's gone. Ruined! Idiota.
+
+0xE640C347 = ~z~It ran away. Thanks for nothing.
+
+0xE744CEE2 = ~z~You leave me alone.
+
+0xE928C7A6 = ~z~No? You a coward? It's just a picture.
+
+0xE4762A98 = ~z~~sl:0.0:2.0~Okay, you see that animal?~sl:0.2:3.0~Can you take a photograph of me by it? I'll pay you.~sl:~It's for the newspaper.
+
+0xE7097CDB = ~z~Just give up! My animal now!
+
+0xE7365D7C = ~z~Make some room. It'll make a better shot.
+
+0xE82541EF = ~z~Make sure you've got the whole animal in the frame.
+
+0xE415266E = ~z~You got the fish in the frame? I'm not sure...
+
+0xE418535A = ~z~None of you are help at all.
+
+0xE9663778 = ~z~Okay, back, you got it... big cliff...
+
+0xEAB5304B = ~z~Why you so close in? Back up.
+
+0xEB0AE79A = ~z~The wolf is in the picture, yes?
+
+0xEB9D5C61 = ~z~You see me and the cougar, yes?
+
+0xEB77E768 = ~z~~sl:0.0:2.3~Listen. The picture was terrible.~sl:~Let's just go our separate ways, huh?
+
+0xECC1646D = ~z~Any of you willing to help out a lady?
+
+0xECECD48B = ~z~You're too far off for a good picture.
+
+0xED9BE525 = ~z~Oh, hey! I need your help again.
+
+0xED88EBFB = ~z~Hey, hey. I said tie me, not carry me.
+
+0xED7367E9 = ~z~Take the picture already.
+
+0xEE1A1E1E = ~z~Make sure you got the bear in frame. That's the whole point.
+
+0xF03A4159 = ~z~No, not you! Pretend you didn't see me!
+
+0xF04C24BB = ~z~~sl:0.0:3.4~Alright! Found me a dummy. Thanks for the horse.~sl:~Really is a pretty thing.
+
+0xF0A98992 = ~z~You're playing a foolish game here. Untie me.
+
+0xF4E4D599 = ~z~Pretty good...
+
+0xF5D1AEF7 = ~z~You then. You will help me?
+
+0xF5D2B076 = ~z~Could you cut me free now?
+
+0xF6B8DBFC = ~z~Looking forward to showing this picture around, let me tell you.
+
+0xF6B16428 = ~t~In Spanish: Goddamn idiot!
+
+0xF7A1A5B5 = ~z~Looks real fine.
+
+0xF10E686F = ~z~You ain't much good at this, huh?
+
+0xF18EA9D2 = ~z~Just keep your horse, okay?
+
+0xF27ED149 = ~z~Get away from me!
+
+0xF45B92F2 = ~z~I need to get ready.
+
+0xF199A72B = ~z~This feels right. Fine, I bet.
+
+0xF5136A7F = ~z~What do you want? Let me be.
+
+0xF5954FB7 = ~z~Wonder if it smells me... nah...
+
+0xF8601F8C = ~z~You stay back, now!
+
+0xF7987683 = ~z~~sl:0.0:2.2~Just one good camera picture, that's all,~sl:~and you're on your way. I'll pay you.
+
+0xFABD47A9 = ~z~Guns at my head. I'm trusting you here...
+
+0xFAC229C4 = ~z~Sure the animal's in the picture?
+
+0xFAEBE189 = ~z~Pretty pretty.
+
+0xFB2BF7A5 = ~z~Ah, I knew it! Let me set up, okay?
+
+0xFB397124 = ~z~You won't take a good 'un from that distance. C'mon!
+
+0xFBB4AE84 = ~z~I'll take the picture.
+
+0xFC7EB88C = ~z~Where's a horse when you need one...
+
+0xFC9FA5D1 = ~z~Impressive, right? Can you take one?
+
+0xFC329E24 = ~z~Oh, hey, you! You got a minute?
+
+0xFC6289AE = ~z~Put me down now.
+
+0xFCEB6597 = ~z~Hey! Come here a minute.
+
+0xFCEFF4AB = ~z~Okay, I'm ready. Lemme know if I should get closer...
+
+0xFE642330 = ~z~Who's got the camera?
+
+0xFFE0CC83 = ~z~~sl:0.0:3.6~Well? Just one picture, me and this fish.~sl:~I, I know you wanna. C'mon...
+

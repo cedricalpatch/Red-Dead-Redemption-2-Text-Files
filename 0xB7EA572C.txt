@@ -1,0 +1,24 @@
+0x0D93FBC0 = ~z~It's much better, thank you.
+
+0x1F419F23 = ~z~How's the hand, Mr. Smith?
+
+0x2D35BB03 = ~z~But we still need feeding.
+
+0x3F775F86 = ~z~Yeah.
+
+0x48D07238 = ~z~Glad to be out of that cold!
+
+0x91CA042A = ~z~Yeah, but you know how lazy folk get.
+
+0x134D8733 = ~z~Should be easy enough around here.
+
+0x76554D41 = ~z~No, not you, just some people.
+
+0x8003609D = ~z~Me?
+
+0xB035100B = ~z~Well, that's their business. I'll do my share.
+
+0xE4211715 = ~z~Will you help feed us, Arthur?
+
+0xF6733BB9 = ~z~Maybe.
+

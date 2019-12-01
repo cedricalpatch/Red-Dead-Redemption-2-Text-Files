@@ -1,0 +1,230 @@
+0x01E7C772 = ~z~Here.
+
+0x02214718 = ~z~Have this.
+
+0x025F40DC = ~z~Seek redemption, all! It's never too late.
+
+0x035C9E96 = ~z~~sl:0.0:3.5~Not... because you... do not know,~sl:1.5~but because you are afraid of what you know.
+
+0x04396563 = ~z~maybe earn your fortune.
+
+0x06575E4D = ~z~Thank you, I guess.
+
+0x08C1B541 = ~z~You keep hidden all that matters, sir, maybe even from yourself.
+
+0x0A94118C = ~z~You must decide between your past and other's future, friend...
+
+0x0BF94ABE = ~z~Alright, friend.
+
+0x0F3A7013 = ~z~Well, okay then.
+
+0x0F9662CF = ~z~Have this.
+
+0x1DC0EE4D = ~z~Okay, I ain't too sure what to make of that.
+
+0x1E3E31A4 = ~z~for the man with no nose is coming for you.
+
+0x2B2019E2 = ~z~Here you go.
+
+0x2C1ECC87 = ~z~~sl:1.5:1.4~Be not unkind,~sl:0.5~help the blind!
+
+0x3A4DA766 = ~z~Er, sure. Okay, mister. All the best now.
+
+0x3C1B3B0B = ~z~Here.
+
+0x3E54CE43 = ~z~Er, right. Okay, friend. All the best now.
+
+0x3EECBF36 = ~z~Be warned, sir, be warned.
+
+0x4D496C2C = ~z~Alright, well, I'll have to take your word for it.
+
+0x4EB799D6 = ~z~decide, for soon it will be too late.
+
+0x4FBEE0DA = ~z~the devil will make his sacrifice.
+
+0x5B0787A8 = ~z~Alright, mister.
+
+0x5C9534F4 = ~z~Help the blind!
+
+0x6A2222EC = ~z~~sl:0.0:3.2~Keep moving sir, keep moving...~sl:1.2~but don't move too fast.
+
+0x6F8C91E7 = ~z~Well, okay, then. Thank you, I guess.
+
+0x6F18326D = ~z~I tell thee.
+
+0x6FE72A88 = ~z~nor such a fiend... the past is done and the future yet to come.
+
+0x7DA8C60B = ~z~You're a fool, fiend, but not so much of a fool as you think,
+
+0x7EF04C88 = ~z~~sl:0.0:0.8~Thank you sir!~sl:1.1~Thank you.
+
+0x7FC72FD7 = ~z~~sl:0.0:0.9~Help me...~sl:0.8~and I shall help thee.
+
+0x8AB6B7B8 = ~z~Penny for the blind.
+
+0x8C85ED48 = ~z~For not all will go willingly.
+
+0x9A6E32C3 = ~z~~sl:0.0:1.9~A dollar for your future...~sl:0.6~a dollar for your fate...
+
+0x9B981F6F = ~z~Help me please, kind sir...
+
+0x9BD1D9EE = ~z~Penny for the blind!
+
+0x9E1FE0C0 = ~z~Run from the seeker, sir. Run and keep running, or help others to run.
+
+0x9FE9DFA8 = ~z~Find charity! Maybe charity will find you...
+
+0x12D89F02 = ~z~Enjoy the world while you can.
+
+0x15F43798 = ~z~Seek salvation, and maybe ye shall find peace...
+
+0x17C97900 = ~z~Learn about tomorrow.
+
+0x18B4AF83 = ~z~But you have lived better than most.
+
+0x28E70499 = ~z~Alright, well, I'll have to take your word for it.
+
+0x29E11697 = ~z~Here you go.
+
+0x41A9C4B0 = ~z~Surrounded by fields of burning fire and flesh,
+
+0x49B4D70F = ~z~Okay, here you are.
+
+0x63A27EFF = ~z~You didn't run when last we spoke sir... you didn't run far enough.
+
+0x63FB0ACA = ~z~Take this.
+
+0x70C0F093 = ~z~And see clearly friend. See and hear.
+
+0x73F22B89 = ~z~Okay, sure.
+
+0x74C75096 = ~z~I see sand and ocean and palm trees.
+
+0x77D3CC4D = ~z~~sl:0.0:3.0~Come close. I will see your future~sl:0.3~with the same sad clarity that I once saw my past.
+
+0x99C91084 = ~z~~sl:0.0:1.1~Maybe today...~sl:0.3~is the beginning of the end!
+
+0x344F66B8 = ~z~They will come for you, friend.
+
+0x421A024D = ~z~And when they do, you will not have a choice.
+
+0x436E88A0 = ~z~Embrace those who love you, not the memory of those who pretended to.
+
+0x589D74E0 = ~z~Take this.
+
+0x596AE0AC = ~z~Come close... come close...
+
+0x648B2339 = ~z~Be not afraid... I see only true things.
+
+0x753D8249 = ~z~But which eternity?
+
+0x807EC3D1 = ~z~Okay, sure.
+
+0x814D3568 = ~z~Okay, I will try to bear that in mind.
+
+0x924D676E = ~z~Okay, here you are.
+
+0x957BC77C = ~z~~sl:0.0:3.8~Sir? Madam? Come to me...~sl:0.6~learn tomorrow's mysteries.
+
+0x1417FBCE = ~z~For loyalty is both your saving and your curse.
+
+0x5907D45B = ~z~Penny for the blind...
+
+0x6288A1CB = ~z~I am just a sad old man with a gift he's never profited from.
+
+0x6344E8D5 = ~z~Penny for the blind?
+
+0x6686B415 = ~z~Find the black flower and you will be rewarded.
+
+0x7121FA23 = ~z~~sl:0.0:2.9~I sense great confusion in you, sir.~sl:0.8~Great confusion.
+
+0x7364DBF0 = ~z~Be warned, sir. Do not slumber too deeply...
+
+0x350596C6 = ~z~Would you like to see tomorrow, sir?
+
+0x878326D4 = ~z~I tell thee, and I tell thee now, eternity waits for us all!
+
+0x4035819A = ~z~Help me... and I shall help thee.
+
+0x6286541E = ~z~That which is killing you will help you, finally to see.
+
+0x65554406 = ~z~~sl:0.0:1.0~Enjoy today,~sl:1.3:1.2~for tomorrow...~sl:1.9~tomorrow... awaits us all.
+
+0x78751335 = ~z~Penny for the blind?
+
+0x84603518 = ~z~You have learned the most important lesson of all...
+
+0xA19FE0BC = ~z~Old Blind Man Cassidy is not "Old Crazy Man Cassidy"...
+
+0xA67B009F = ~z~~sl:0.0:2.8~Please... someone show kindness...~sl:0.5~on a man with no sight...
+
+0xA9859E6D = ~z~~sl:0.0:3.2~You are not who you think you are, sir...~sl:1.2~which is lucky.
+
+0xAE0C7E63 = ~z~Penny for the blind?
+
+0xB5B306C1 = ~z~Help the blind.
+
+0xB9ED11A2 = ~z~One from this world...
+
+0xB57B6031 = ~z~I'm just a blind old fool...
+
+0xBCA54CEA = ~z~I see the morrows, and see them clearly, sir.
+
+0xBFC69D51 = ~z~One brings hatred...
+
+0xC0DD417F = ~z~Make your final moments your best moments, sir.
+
+0xC2D3D9E7 = ~z~Bethink yourself before taking possession of another man's horse.
+
+0xC3B8D120 = ~z~Give, and ye shall receive!
+
+0xC8028BCD = ~z~Help the blind!
+
+0xCB49C3F7 = ~z~~sl:0.0:1.9~Bad news awaits you, sir.~sl:0.8~Sadly, sooner than you think.
+
+0xCF7DCB3E = ~z~That only one thing matters!
+
+0xD2DDE580 = ~z~Know glory and forget about shame.
+
+0xD4D38C9C = ~z~You remember the past at the expense of the future.
+
+0xD9C42F50 = ~z~Help the blind!
+
+0xD206C1D1 = ~z~perhaps one from another...
+
+0xDAA9BC7A = ~z~~sl:0.0:1.2~Your whole life, sir,~sl:0.8~you have followed the wrong star...
+
+0xDDA219EF = ~z~Your father is seduced by the one with the forked tongue... it's no use hoping.
+
+0xDDC619E2 = ~z~Just as evil begat evil your whole life long, so good may begat good.
+
+0xE072EE49 = ~z~~sl:0.0:1.3~But beyond the news,~sl:1.0:1.5~paradise awaits!~sl:1.5~Paradise...
+
+0xE5A7F792 = ~z~And all else is lies.
+
+0xE7C509FD = ~z~~sl:0.0:3.0~Embrace my ignorant ramblings for the...~sl:0.4~delusions they are.
+
+0xE7DC7AE5 = ~z~Help the blind, and maybe ye shall see!
+
+0xE33B6E53 = ~z~~sl:0.0:1.8~I cannot see today,~sl:0.3:1.5~but I can see tomorrow.~sl:1.1~Learn the mysteries of fate.
+
+0xE667A06E = ~z~Even when all reason is lost, and all truth has become lie, you will stand firm.
+
+0xEB2CF421 = ~z~Two strangers seek thee...
+
+0xEDCACCF7 = ~z~Your whole life has been one of regret... but it can end better than it began.
+
+0xF3E82243 = ~z~Be not afraid of a sad old liar like me, sir.
+
+0xF48C06DB = ~z~I'm not so sure what the other brings...
+
+0xF66C49C9 = ~z~Learn your fortune...
+
+0xF156BF9E = ~z~Help the blind!
+
+0xF414B9C8 = ~z~Ok, I guess I'll bear that in mind.
+
+0xFA68AF50 = ~z~~sl:0.0:0.9~Come close...~sl:1.3~learn my stupidity.
+
+0xFED672EA = ~z~~sl:0.0:1.4~don't be like me,~sl:1.2:1.4~be a wise man...~sl:1.4~be a fool for love.
+

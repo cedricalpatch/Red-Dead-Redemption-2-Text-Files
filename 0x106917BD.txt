@@ -1,0 +1,56 @@
+0x1A377E55 = ~z~Hey! Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0x1AF5EBB1 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+0x1D1303C0 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+0x2B69A06D = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0x6BF522DB = ~z~Hey! Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0x12A2F038 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0x63B8FD36 = ~z~In 1861, the yankee war began!~n~~m~In 1861, the yankee war began!
+
+0x92E070B5 = ~z~In 1863, the slaves were all set free!~n~~m~In 1863, the slaves were all set free!
+
+0x320FAF15 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0x637A908E = ~z~Old John Brown was the abolition man,~n~~m~Old John Brown was the abolition man,
+
+0x671B1927 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0x753D3413 = ~z~Old John Brown was the abolition man!~n~~m~Old John Brown was the abolition man!
+
+0xA00A8B09 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0xA8841AF0 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0xADE31189 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0xB0CC9798 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0xB6DB379E = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+0xBD8B460A = ~z~In 1863, the slaves were all set free!~n~~m~In 1863, the slaves were all set free!
+
+0xBE28B214 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0xC824D9E5 = ~z~Old John Brown was the abolition man!~n~~m~Old John Brown was the abolition man!
+
+0xC1104C08 = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0xD06E6BD0 = ~z~In 1863, the slaves were all set free,~n~~m~In 1863, the slaves were all set free,
+
+0xD9BE7D18 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0xDFD5F56E = ~z~In 1861, the yankee war began,~n~~m~In 1861, the yankee war began,
+
+0xE4C81483 = ~z~Glory, glory, hallelujah,~n~~m~Glory, glory, hallelujah,
+
+0xE285FB0A = ~z~Glory, glory, hallelujah!~n~~m~Glory, glory, hallelujah!
+
+0xE7208407 = ~z~as we go marching on!~n~~m~as we go marching on!
+
+0xF562208A = ~z~In 1861, the yankee war began!~n~~m~In 1861, the yankee war began!
+

@@ -1,0 +1,718 @@
+0x01439427 = ~z~You see that cast, Jack?
+
+0x0177FFB3 = ~z~flaws and all.
+
+0x01A331DC = ~z~Look up there, Jack. That's an eagle.
+
+0x01B28270 = ~z~I haven't seen him for months.
+
+0x0219419D = ~z~I'll mount up and lift you on when you're ready.
+
+0x0223BC6C = ~z~Well, this is clearly the spot for redfin pickerel.
+
+0x02ACD01A = ~z~Oh, okay.
+
+0x0348C22A = ~z~Mine too.
+
+0x03D82617 = ~z~World is full of disagreeable men... ~rp~that's why you got all of us. ~rp~To protect you from folk like them.
+
+0x044D506F = ~z~This is going to be fun.
+
+0x056B8906 = ~z~bring in Van der Linde...
+
+0x05E6389C = ~z~Something's tugging at your rod, Uncle Arthur!
+
+0x0733D3A4 = ~z~Let's try over here.
+
+0x07AE4F72 = ~z~Okay.
+
+0x08F692D2 = ~z~Why?
+
+0x09F78FEE = ~z~while you still can.
+
+0x0AD53788 = ~z~and in such complex circumstances.
+
+0x0B8CA8B9 = ~z~I'm going to try my luck over there.
+
+0x0D025FA6 = ~z~I'll take him in the morning.
+
+0x0D9C579D = ~z~Got one, Jack!
+
+0x0DC8A59E = ~z~We should really throw these smaller ones back, give 'em a chance to grow up a bit.
+
+0x0EED9542 = ~z~We know a lot about you.
+
+0x0F6D5043 = ~z~You gotta stick at things, Jack.
+
+0x0FEF0499 = ~z~Yeah!
+
+0x1A80DE26 = ~z~This one's a smallmouth bass. Not bad.
+
+0x1D62D115 = ~z~I guess...
+
+0x1DA84B7E = ~z~I see them all swimming around!
+
+0x1DCF4D3E = ~z~Let's try again.
+
+0x1E71B027 = ~z~Why didn't you take it?
+
+0x1EB1BFA5 = ~z~Just want to catch one more, then we'll call it a day.
+
+0x1EDD5A76 = ~z~What is it?
+
+0x1F4FBB66 = ~z~but merciful.
+
+0x1F69BDDE = ~z~That so?
+
+0x2C3BE8A5 = ~z~Look at all those fish, Uncle Arthur!
+
+0x2C238560 = ~z~There you are!
+
+0x2CEF4DD7 = ~z~You should go get some.
+
+0x2D2F2017 = ~z~you know his father's useless.
+
+0x2D767953 = ~z~Now how about that necklace you made... ~rp~you still got it, right?
+
+0x2FCF75EE = ~z~~sl:0.0:1.5:1~It's good for you?
+
+0x3AA526B6 = ~z~I know.
+
+0x3B3A0CC3 = ~z~If you're lucky. But until then, you just...
+
+0x3BED76E5 = ~z~Old Dutch?
+
+0x3C0442CC = ~z~So just like you.
+
+0x3C66CE39 = ~z~It was... okay, I think... ~rp~It's a lot of waiting around.
+
+0x3E138C54 = ~z~There! I can see a fish!
+
+0x3E43707F = ~z~Good...
+
+0x3FC81DF6 = ~z~Yeah, I got it.
+
+0x4A4F8902 = ~z~into doing something stupid.
+
+0x4A7F8BA2 = ~z~Were you followed back here?
+
+0x4AA7E013 = ~z~Well, I don't know about brave... I ain't much of a kid no more.
+
+0x4B1C5BEB = ~z~Where should we stand, Uncle Arthur?
+
+0x4B917260 = ~z~Momma told me to stay away from those.
+
+0x4BD1DCBC = ~z~You know this reminds me... I taught another boy to fish once, a long time ago.
+
+0x4BD6AE06 = ~z~Great, we caught a fish...
+
+0x4CAFAFAE = ~z~Really?
+
+0x4EB11960 = ~z~Some of us sooner than others.
+
+0x4F028578 = ~z~and bring it forward in a smooth motion.
+
+0x4F376642 = ~z~Let's go then, Uncle Arthur.
+
+0x4FD0D3B8 = ~z~Cheese?
+
+0x5A50AA38 = ~z~Okay.
+
+0x5CAE1271 = ~z~~sl:0.6~I'm just talking silly... it's been a tough few weeks up in that snow.
+
+0x5D147F41 = ~z~You mean Lenny?
+
+0x5ECA224A = ~z~Good.
+
+0x6A74D0E7 = ~z~Goodbye.
+
+0x6B67D3FC = ~z~Aw no.
+
+0x6B75B000 = ~z~Yeah.
+
+0x6B581754 = ~z~Too slow there.
+
+0x6BAE3CBF = ~z~Don't jinx it, kid.
+
+0x6BC10B98 = ~z~Smellier the better.
+
+0x6C634208 = ~z~It's about time that you started to earn your keep.
+
+0x6E02D19C = ~z~I'd better go speak with Dutch.
+
+0x6E639D04 = ~z~I think so. This is hard.
+
+0x6EA83F29 = ~z~Coyote. Need to keep him away from the chickens.
+
+0x6EB7D412 = ~z~and they know we're here.
+
+0x6F5E35AB = ~z~Like that?
+
+0x6F15B724 = ~z~Are you taking me back?
+
+0x7A22F73B = ~z~Best to wear him out first before you try'n reel him in.
+
+0x7B57EEF9 = ~z~orphaned street kid seduced by that maniac's silver tongue...
+
+0x7BFB6C59 = ~z~We have turned a corner...
+
+0x7C96752A = ~z~Good day, Mr. Morgan.
+
+0x7CEDF145 = ~z~Nice to finally meet.
+
+0x7D835071 = ~z~It is.
+
+0x7DDCB81C = ~z~Think I got one!
+
+0x7DDE725F = ~z~and they know about the train...
+
+0x7E275563 = ~z~Well... we're not. This is our spot... for now, anyway. Why?
+
+0x7EC175C8 = ~z~Agent Milton.
+
+0x7ED1FAD0 = ~z~Bad luck.
+
+0x7F6D4482 = ~z~Okay.
+
+0x7F863F49 = ~z~You okay there?
+
+0x7FC57521 = ~z~just met some folk.
+
+0x8AD10B28 = ~z~We got a problem.
+
+0x8C130D58 = ~z~Just go check on him, it would mean a lot to me.
+
+0x8CEAB049 = ~z~Why am I not catching any?
+
+0x8CF808B3 = ~z~What you making there?
+
+0x8DD23D78 = ~z~Hey, look at this.
+
+0x8E6D4C72 = ~z~Why aren't you fishing?
+
+0x8E9AB391 = ~z~Did you thank Uncle Arthur?
+
+0x8F13158F = ~z~For me?
+
+0x9CB2E8FD = ~z~Are you bored of fishing already?
+
+0x9D17AFB5 = ~z~What?
+
+0x9EB5AC2E = ~z~You'll see. It's a surprise.
+
+0x9EEF3627 = ~z~Yes, Arthur Morgan...
+
+0x9F00C045 = ~z~I'm fine.
+
+0x15C27645 = ~z~You feeling better? I know you was a little sick.
+
+0x15F86775 = ~z~~sl:0.0:1.2~Not too much...~sl:0.9~shooting's more my thing.
+
+0x18A6D32B = ~z~What a fine young man...
+
+0x19F6EF86 = ~z~~sl:0.5:0.8:1~Really?
+
+0x20EE8282 = ~z~Didn't hook him!
+
+0x21BB1C8C = ~z~The one near Blackwater?
+
+0x22BBEF6B = ~z~Alright, let's go then.
+
+0x24AFB146 = ~z~Look, Jack, it's a redfin pickerel! It's almost as small as you!
+
+0x26EFA93D = ~z~Well, if you feel the tip of your fishing rod just... twitching? Don't yank it yet, that just means one's nibbling.
+
+0x27F16182 = ~z~Alright, let's see what's biting there.
+
+0x31AC601F = ~z~so really it was more of a mercy killing.
+
+0x42CA78D8 = ~z~Well what do we do now?
+
+0x49D386EA = ~z~They offered me my freedom in exchange they did.
+
+0x50BCB17D = ~z~You show me where, Uncle Arthur.
+
+0x50BDB1A8 = ~z~I see lots of fishes in there.
+
+0x53C03D75 = ~z~Pull him in!
+
+0x54E29B4B = ~z~no one at all.
+
+0x55CA41E3 = ~z~~sl:0.0:2.2~But then... something happens,~sl:0.8~and you can get food for days.
+
+0x56C9C388 = ~z~I see, I see!
+
+0x57D227EE = ~z~Van der Linde's most trusted associate.
+
+0x58FCFAA2 = ~z~At what?
+
+0x60D79AA8 = ~z~I don't like it here any more.
+
+0x61DFBFBD = ~z~Oh, we're all gonna die, Agent.
+
+0x65B1DA8C = ~z~Well, this is clearly the spot for smallmouth bass.
+
+0x71D82954 = ~z~Thank you.
+
+0x72A1DCAD = ~z~You're a wanted man, Mr. Morgan.
+
+0x76CAAC64 = ~z~Oh, I forgot... Momma told me to say thank you again for my new pants.
+
+0x79CAB439 = ~z~Ignore that one, Jack, that was my mistake.
+
+0x82C77B11 = ~z~a feller named, erm...
+
+0x84E4E9EC = ~z~This is taking ages!
+
+0x85C17D78 = ~z~You see that deer?
+
+0x85C10220 = ~z~Milton and, erm...
+
+0x85D5667B = ~z~Ew, you squished it.
+
+0x91F421F9 = ~z~Spare me the philosophy lesson...
+
+0x96E2EE69 = ~z~Damn it. Didn't get him.
+
+0x97CD2640 = ~z~And?
+
+0x103BF98E = ~z~Her and a few other women, I guess...
+
+0x150C9D5D = ~z~I say we do nothing...
+
+0x164C723A = ~z~Thank you.
+
+0x179D301F = ~z~Because I'm your preferred nursemaid?
+
+0x188FA6A3 = ~z~I just met some guys out near the river...
+
+0x276C405B = ~z~Come on, lets pick up your things and get home.
+
+0x285EB574 = ~z~~sl:0.0:1.3:1~And go catch us some fish!
+
+0x327D4C6E = ~z~Now, to cast your line, swing the rod back over your shoulder,
+
+0x350ECA20 = ~z~It's getting late Jack, your mother will be worried. Let's head back.
+
+0x354DDDDF = ~z~they know we're near here...
+
+0x370BAA7B = ~z~There we go!
+
+0x379F6B3D = ~z~Who are they?
+
+0x451AA6F0 = ~z~
+
+0x497C15EE = ~z~See him fighting there, Jack? That's when you gotta be careful or you'll break the line.
+
+0x505F1DEB = ~z~Uncle Arthur!
+
+0x534F0B54 = ~z~Uncle Hosea made me one.
+
+0x537E6360 = ~z~There, got him!
+
+0x559CC192 = ~z~and I made you this necklace.
+
+0x600DE1F8 = ~z~At what?
+
+0x608A387E = ~z~Do you?
+
+0x610F7635 = ~z~I'm gonna use some cheese.
+
+0x620B541A = ~z~I can't wait to get started.
+
+0x630BB95A = ~z~No...
+
+0x650F08E9 = ~z~Don't worry about it. You're growing so fast, we can't keep up.
+
+0x657DC345 = ~z~and matures into a degenerate murderer.
+
+0x675FE50E = ~z~~sl:0.7:0.0~Yeah, I know, boring as hell.
+
+0x705B5292 = ~z~I can get it by myself.
+
+0x792CCDB6 = ~z~But if you feel a hard tug, that's a fish going for the bait, so yank hard to hook it.
+
+0x837B9D6B = ~z~Just be patient.
+
+0x931D9DA0 = ~z~We want Van der Linde.
+
+0x968F062A = ~z~I liked the snow.
+
+0x998C3221 = ~z~Listen...
+
+0x1250BAFB = ~z~Ain't I the luckiest...
+
+0x1352A4D4 = ~z~and you have my word, you won't swing.
+
+0x1447C5BD = ~z~This one's a perch. Not bad.
+
+0x2355C372 = ~z~He was pretty shot up by the time I got to him...
+
+0x3694A789 = ~z~I'm gonna pick some of those red flowers. I'll be right back!
+
+0x4565F412 = ~z~I guess...
+
+0x5044E4F2 = ~z~Look, Jack, it's a rock bass! It's almost as small as you!
+
+0x6414DE74 = ~z~Seems like he's taking a rest now I'm gonna try reeling him in nice and steady.
+
+0x7264A050 = ~z~Here.
+
+0x7695B233 = ~z~No, no, this was long before I met Lenny, long before you was even born.
+
+0x9599C811 = ~z~Look, Jack, it's a chain pickerel! It's almost as small as you!
+
+0x9852B18C = ~z~Can I ask you a favor?
+
+0x11821FCB = ~z~Slow...
+
+0x14389F15 = ~z~they are employees of the Pinkerton Detective Agency...
+
+0x18122C23 = ~z~Enjoy your fishing, kid...
+
+0x20698B97 = ~z~Though your momma might disagree.
+
+0x22503CE7 = ~z~Pinkerton Detective Agency...
+
+0x28380CD4 = ~z~Fish on the line!
+
+0x30315E75 = ~z~this is my offer, Mr. Morgan...
+
+0x36856DEF = ~z~Because he likes you and, well...
+
+0x44237C2B = ~z~Hey, is that yarrow?
+
+0x55818D17 = ~z~Little squirrel... just there.
+
+0x58860BDD = ~z~Hey, you ran right over that little thing!
+
+0x61329DC2 = ~z~How do I know when I've got a bite?
+
+0x70224AA8 = ~z~All we do now, Jack, is wait for a fish to take the bait.
+
+0x75384A93 = ~z~How far are we going?
+
+0x83296F94 = ~z~Okay.
+
+0x85871B11 = ~z~Just by the water there, you mean?
+
+0x93137F3B = ~z~When are we going back to the other camp?
+
+0x93203CAE = ~z~Fishing sure is boring, Uncle Arthur.
+
+0x169911E9 = ~z~Good. Well let's go get it then.
+
+0x186589C5 = ~z~Can we go now, please?
+
+0x195577E7 = ~z~Where do you want to stand?
+
+0x483507D4 = ~z~Five thousand dollars?
+
+0x508796A6 = ~z~Hey...
+
+0x569129E8 = ~z~Mac Callander?
+
+0x791056D6 = ~z~I sure do.
+
+0x850082EF = ~z~This one's a bluegill. Not bad.
+
+0x867139FE = ~z~How you boys getting on?
+
+0x879485CF = ~z~And...
+
+0x905589F0 = ~z~Whatchu up to?
+
+0x1944729E = ~z~Can I take a break from fishing? I want to make something.
+
+0x7796626F = ~z~and they want you, Dutch.
+
+0x8118591F = ~z~That's it, good.
+
+0x36354494 = ~z~Really? When?
+
+0x39140881 = ~z~What's wrong?
+
+0x48076838 = ~z~We'll... we'll see. Got fish to catch first.
+
+0x49093078 = ~z~Good. ~rp~So did you like fishing?
+
+0x68606719 = ~z~Ain't that pretty?
+
+0x68884956 = ~z~Agent Ross.
+
+0x94275265 = ~z~You're alright.
+
+0xA0545704 = ~z~No need...
+
+0xA0E30C88 = ~z~~sl:0.0:2.3~Just down to the river near here.~sl:~We shouldn't go too far from camp.
+
+0xA0E61AA0 = ~z~I forgot a story book there. We left so quick.
+
+0xA1E559C2 = ~z~Is it a big one?
+
+0xA2D7C190 = ~z~savagely.
+
+0xA4C39107 = ~z~Necklace?
+
+0xA5DE4767 = ~z~This one's a redfin pickerel. Not bad.
+
+0xA19D03DD = ~z~Missed him! That's just a part of fishing, Jack.
+
+0xA19DF3DE = ~z~Alright.
+
+0xA23EC28E = ~z~I've already heard it...
+
+0xA96FEC11 = ~z~This one's a rock bass. Not bad.
+
+0xA339F08A = ~z~My arms are tired.
+
+0xA454FEEB = ~z~Fox over there, you see it?
+
+0xA878C623 = ~z~Please? Arthur, the boy's been through a lot.
+
+0xA935C5AD = ~z~just yet.
+
+0xA8962A38 = ~z~Yes, but not like that.
+
+0xA94549F3 = ~z~Can I turn myself in?
+
+0xAAB74C14 = ~z~Milton and Ross...
+
+0xAC013B8A = ~z~You can go faster than this!
+
+0xAD09FAB5 = ~z~Well, this is clearly the spot for bluegill.
+
+0xAD1CD282 = ~z~Who are you?
+
+0xAD9296AB = ~z~Thanks, Uncle Arthur.
+
+0xADA7053F = ~z~Alright, hold on tight.
+
+0xAEEDF437 = ~z~we had a good time.
+
+0xAF55D431 = ~z~you did real fine, kid.
+
+0xB0D6D590 = ~z~You know, the red plant you are supposed to chew on when you get hurt?
+
+0xB1E2135B = ~z~Are you okay there, Uncle Arthur?
+
+0xB2B2960B = ~z~Ride fast, Uncle Arthur.
+
+0xB6C6511C = ~z~Come on, faster!
+
+0xB7E84EA6 = ~z~Look Jack, it's a bluegill! It's almost as small as you!
+
+0xB9E4E94F = ~z~Thanks.
+
+0xB9E15924 = ~z~This is a great fishing spot.
+
+0xB9F2CCF1 = ~z~What do you mean?
+
+0xB17A6538 = ~z~You still alright over there?
+
+0xB72DD7A0 = ~z~Playing.
+
+0xB75C6DC1 = ~z~Apparently not.
+
+0xB78BEFFE = ~z~Probably not...
+
+0xB95CE95F = ~z~Ross...
+
+0xB896F03A = ~z~belonging to Leviticus Cornwall up near Granite Pass.
+
+0xB11546DF = ~z~~sl:0.0:1.0~Let's go get your pole then.~sl:~Now you do have a fishing pole, don't you?
+
+0xB318622D = ~z~All of you.
+
+0xB6056373 = ~z~There's five thousand dollars for your head alone.
+
+0xB9158878 = ~z~~sl:0.0:1.6~sit, and wait, and...~sl:1.1:1.3~try not to worry.~sl:1.3~It's good for you.
+
+0xBA0EEE0A = ~z~Looks like we held onto this one too long, sorry little feller.
+
+0xBA0F8A7A = ~z~Nothing...
+
+0xBA734D0A = ~z~Well, I'm sure someone can get you another story book.
+
+0xBACB976A = ~z~Sure.
+
+0xBAE73B71 = ~z~Okay.
+
+0xBB1E14A4 = ~z~Why did you lie about where Uncle Dutch is?
+
+0xBB6CDE70 = ~z~Look, rabbits are out.
+
+0xBB35EB9D = ~z~He's playing over by the horses.
+
+0xBC2033C6 = ~z~No problem.
+
+0xBD35E1DD = ~z~Use your wrist, not your elbow.
+
+0xBD941F79 = ~z~Go fast, like the last time.
+
+0xBED988AD = ~z~I'm ready! I got my pole!
+
+0xC080BC87 = ~z~Do you fish a lot?
+
+0xC8F933C5 = ~z~For momma.
+
+0xC17ACA75 = ~z~This necklace I made.
+
+0xC34FFA82 = ~z~What?
+
+0xC41F4DE1 = ~z~Because you do what you say.
+
+0xC53F8B65 = ~z~Very funny.
+
+0xC54E09A4 = ~z~old fashioned nowadays?
+
+0xC129FA9C = ~z~You've read the files, typical case...
+
+0xC370FA23 = ~z~They're just trying to scare us...
+
+0xC780F291 = ~z~Faster, Uncle Arthur!
+
+0xC9064D92 = ~z~Thank you.
+
+0xC464720D = ~z~Anything fun?
+
+0xC841891E = ~z~Hey, look at that. A boar.
+
+0xCA11932F = ~z~Oh, ain't that a little...
+
+0xCB20B4A9 = ~z~Because... ~rp~well ~rp~because those are disagreeable men ~rp~and I don't want them to hurt him.
+
+0xCBB4BBBA = ~z~What, you saying I'm slow?
+
+0xCC001418 = ~z~You can't fish without a pole.
+
+0xCC3EDE32 = ~z~Down by the shore. Come on, follow me.
+
+0xCCA3952B = ~z~No one to worry about...
+
+0xCD798ED9 = ~z~Yeah, Uncle Hosea told me about it once.
+
+0xCD9060C3 = ~z~Please?
+
+0xCE641AF8 = ~z~You see, I haven't done anything wrong...
+
+0xCF7190BD = ~z~Why don't you get your horse ready for us, Uncle Arthur?
+
+0xCFB193C4 = ~z~We just need to stay calm.
+
+0xCFFB2AF0 = ~z~When are we going?
+
+0xCFFF653C = ~z~Where do we stand?
+
+0xD0091CD6 = ~z~You people venerate savagery...
+
+0xD3AF90A7 = ~z~You wanna come fishing with me?
+
+0xD3BED44A = ~z~I think you've got a bite, look!
+
+0xD3E04993 = ~z~Necklace?
+
+0xD6DCE93F = ~z~~sl:0.0:2.3~You should show that to old Hosea, you'll...~sl:0.7~you'll surprise him, I guess.
+
+0xD25E9C21 = ~z~seconded to the United States Government.
+
+0xD34D01D9 = ~z~That isn't gonna bite us, is it?
+
+0xD87CCF61 = ~z~What did they mean about Mac? Is he in jail?
+
+0xD93DAC6B = ~z~Oops, held on to that one a little too long.
+
+0xD298EFF3 = ~z~So where are we going?
+
+0xD28637F6 = ~z~Look, Jack, it's a smallmouth bass! It's almost as small as you!
+
+0xDC3936A2 = ~z~aside from not play the games to your rules.
+
+0xDCC5CECF = ~z~Well, this is clearly the spot for chain pickerel.
+
+0xDCD83674 = ~z~and you will die...
+
+0xDF623FAA = ~z~Would you do something with Jack?
+
+0xDF851F2B = ~z~Are we ever going to get there?
+
+0xDFE7B3B5 = ~z~Uh, if you say so...
+
+0xE0FD2348 = ~z~Look at that buck over there.
+
+0xE1C08B56 = ~z~You'll need to lift me onto the horse.
+
+0xE2CAE3FD = ~z~No.. I don't, err, think so... ~rp~I hope he's just fine where he is.
+
+0xE6ABD849 = ~z~This one's a chain pickerel. Not bad.
+
+0xE8F9D023 = ~z~Oh, I ain't gonna swing anyways Agent, um...
+
+0xE8FC4BE8 = ~z~Ah shoot, he's given up on us. Not to worry.
+
+0xE11D3E52 = ~z~Where's your pole, Uncle Arthur?
+
+0xE14F6471 = ~z~This necklace I made.
+
+0xE40CBC7A = ~z~we survived them mountains.
+
+0xE69FBBFC = ~z~Look, Jack, it's a perch! It's almost as small as you!
+
+0xE539C97F = ~z~Because I heard...
+
+0xE29571F7 = ~z~You've got a bite, Uncle Arthur.
+
+0xE78019C1 = ~z~Oh, I'm fine.
+
+0xEA18BD79 = ~z~Fishing?
+
+0xEAAD9E05 = ~z~Hey look at this.
+
+0xEC08E30B = ~z~Over here, Uncle Arthur!
+
+0xECDE5684 = ~z~You enjoy being a rich man's toy do you?
+
+0xED1BDB1D = ~z~He seems kind of down.
+
+0xEDF85A14 = ~z~from Mac Callander.
+
+0xEF843A47 = ~z~That thing is very close to us.
+
+0xF0A8D492 = ~z~Huh, very funny...
+
+0xF2E3E4D3 = ~z~a guy fitting his description robbed a train...
+
+0xF6EB0CB2 = ~z~Alright, this looks as good a spot as any.
+
+0xF8B7EF9F = ~z~Milton.
+
+0xF9C452EB = ~z~First we need some bait.
+
+0xF80D66B7 = ~z~I don't remember the other feller's name.
+
+0xF82A599C = ~z~~sl:0.0:0.7~Sure.~sl:0.2~You're...
+
+0xF88E0E15 = ~z~Hey, Arthur. Come here a minute.
+
+0xF1799FFF = ~z~Well, this is clearly the spot for perch.
+
+0xF4677A67 = ~z~I like the look of that spot.
+
+0xF401866A = ~z~Like I said, don't worry about them.
+
+0xF9198261 = ~z~I just saw a big one!
+
+0xFA3AF08D = ~z~Are you waiting for something?
+
+0xFA5CBF7A = ~z~You're a brave kid.
+
+0xFAA16D8A = ~z~Arthur Morgan?
+
+0xFAB0F229 = ~z~I enjoy society...
+
+0xFB0EA4CC = ~z~Well, this is clearly the spot for rock bass.
+
+0xFC3B1A54 = ~z~Arthur, isn't it?
+
+0xFC357950 = ~z~All this upheaval can't have been easy on the poor kid.
+

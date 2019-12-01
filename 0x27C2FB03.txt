@@ -1,0 +1,184 @@
+0x01AA2A89 = ~z~You got everything. Well done. We're almost ready.
+
+0x0D38F179 = ~z~~sl:0.0:2.5~You got the stagecoach! Alright.~sl:0.3~Now all we need is that wagon and them uniforms.
+
+0x0FF4471D = ~z~Good.
+
+0x1B7E5393 = ~z~Now...
+
+0x1E134492 = ~z~~sl:0.0:1.8~You want the wagon, take it.~sl:0.3~I'll be better off on foot anyhow.
+
+0x1F4D2045 = ~z~Once we gone a good distance, we will.
+
+0x2BD9E01F = ~z~They'll be searching the roads, for all of us.
+
+0x2D6BF76E = ~z~my mistress wanted me to thank you...
+
+0x2E2B038E = ~z~meet me in Saint Denis when you can...
+
+0x2EFDCB54 = ~z~~sl:0.0:2.9~Look out. Law ain't letting anyone into Strawberry today.~sl:0.3~I heard it was some hangings.
+
+0x3D340B7F = ~z~Shit, you killed him.
+
+0x3F33673C = ~z~Well, what're you waiting for?
+
+0x3F917053 = ~z~of why you have your freedom.
+
+0x4C694015 = ~z~Don't you get in the way!
+
+0x4F0BBAAD = ~z~Ah, there you are...
+
+0x5A1AC308 = ~z~Prisoners, on the run!
+
+0x6C9167F5 = ~z~Hey, they got our wagon!
+
+0x6D00BBAB = ~z~And you was right. Hangman's going to have to wait a while yet.
+
+0x6D624F48 = ~z~and I'll go get some supplies and we'll meet back here.
+
+0x6D979880 = ~z~You don't want to follow me, buddy.
+
+0x7E3A5E1E = ~z~~sl:0.0:2.2~I knew we wasn't done. I told you...~sl:0.3~wait and there will be a chance.
+
+0x7E8219F1 = ~z~I'm sure there'll be more – but for now, goodbye...
+
+0x7F460EF2 = ~z~~sl:0.0:1.7~I been planning this job well over a year~sl:0.0:1.5~and I thought you was the bad apples~sl:0.0~gonna help me carry it out.
+
+0x8AAA8688 = ~z~My friends...
+
+0x8D0CAA7F = ~z~~sl:0.0:2.5~It's an Express Company stage from Strawberry...~sl:0.2~armored and all.
+
+0x8E031089 = ~z~We're gonna need an express company stagecoach.
+
+0x9A4D3385 = ~z~Now leave me alone.
+
+0x9C71AA16 = ~z~but until then...
+
+0x9FBFB402 = ~z~An express company stagecoach and some uniforms.
+
+0x10F69B1D = ~z~So long, you idiots.
+
+0x15C1E8B6 = ~z~Well, well. Looks like everything we need.
+
+0x21A03C70 = ~z~Go, go, go!
+
+0x26F5C270 = ~z~You all go do that...
+
+0x31C5FA97 = ~z~Clear off, alright?
+
+0x31EDFEEC = ~z~~sl:0.0:1.5~I just wish they'd let us go.~sl:0.7:2.0~I mean, I know they want to see these fellers hung,~sl:~but we got work to do.
+
+0x34F938FC = ~z~You want the wagon, take it. We're hoofing it.
+
+0x42B6F9F2 = ~z~There's a stage outside the jail in Strawberry...
+
+0x42B8671B = ~z~Long as we can get clear of here.
+
+0x44A11815 = ~z~Stop 'em!
+
+0x51E114F6 = ~z~I'm sure there'll be more business to attend to in the future...
+
+0x57AA56A0 = ~z~you did it.
+
+0x58E34E5C = ~z~and alive and flourishing I see.
+
+0x61BE1285 = ~z~And don't tell no one what direction we was going.
+
+0x62AD61F0 = ~z~You weren't wrong, Horley.
+
+0x68EEE248 = ~z~Well, what're you waiting for?
+
+0x74CDA6EC = ~z~Folks near me, end up dead.
+
+0x76C06B8D = ~z~Sooner we get these things, sooner we can do the real job.
+
+0x76D96236 = ~z~And don't take too long.
+
+0x77E92911 = ~z~Is there a reason you ain't going to get me that stage?
+
+0x86BEDA90 = ~z~~sl:0.0:2.6~Hey! You should stay out of Strawberry.~sl:0.2:1.7~The law ain't letting people in~sl:~until they deal with these prisoners.
+
+0x88B9731C = ~z~This is a hell of a piece of luck.
+
+0x237F5E0A = ~z~Y'all don't want to start this fight!
+
+0x318DC4C6 = ~z~Let's ditch the wagon up the road here.
+
+0x428BC269 = ~z~I ain't threatening you, that's just a fact.
+
+0x489C3870 = ~z~So...
+
+0x685FF7F7 = ~z~and we will finish this thing one way or another.
+
+0x764CDDCD = ~z~my mistress asked me to remind you...
+
+0x888E9008 = ~z~~sl:0.0:2.3~You hear me? I ain't buddying up.~sl:0.1~Not with you, not with anyone.
+
+0x921F224A = ~z~Won't get it done just standing around.
+
+0x1418C342 = ~z~~sl:0.0:1.7~We're meant to be an express company...~sl:0.2~and our stagecoach is stuck here stock-still.
+
+0x5903A568 = ~z~~sl:0.0:2.7~Turn around. Law ain't letting anyone into town,~sl:~while they're dealing with some prisoners.
+
+0x6889CF20 = ~z~Ain't no sense in standing around here.
+
+0x7924E37D = ~z~If luck is what you need.
+
+0x9118BB75 = ~z~You got him in the end, you bastards!
+
+0x14781D75 = ~z~and they'll be some uniforms in a supply wagon...
+
+0x33635A28 = ~z~Being real horse-asses about it, besides.
+
+0x846586D7 = ~z~Go on. Get out of here.
+
+0x64223978 = ~z~and good luck.
+
+0xA052D10B = ~z~~sl:0.0:1.7~And a wagon holding uniforms,~sl:0.0:2.5~out somewhere to the west of the Great Plains.~sl:0.2~Start searching out there.
+
+0xA4D23280 = ~z~~sl:0.0:2.5~It's an Express Company stage from Strawberry...~sl:0.2~armored and all.
+
+0xA8C04F8C = ~z~Go on and make a nuisance of yourself.
+
+0xA9FE7A81 = ~z~~sl:0.0:2.2~If you're hoping to see them hangings, you're out of luck.~sl:0.2~Law ain't letting no one into Strawberry.
+
+0xAC4049B3 = ~z~good luck.
+
+0xACBE3492 = ~z~~sl:0.0:1.8~Looks like you got them uniforms.~sl:0.3~Now how 'bout we get that Express Company stage?
+
+0xB03BFD64 = ~z~for your attention to her business.
+
+0xBF47FD7A = ~z~~sl:0.0:3.1~I might not have got away, if you didn't cause that ruckus.~sl:0.2~But... I ain't looking to buddy up again.
+
+0xC392AE6A = ~z~I'm just trying to save my ass, here!
+
+0xC3836FE2 = ~z~~sl:0.0:2.0~And a wagon with some uniforms in it that's~sl:~going through the Great Plains to Blackwater.
+
+0xCD54C1EE = ~z~All I wants to do is lose the law!
+
+0xCDA70429 = ~z~~sl:0.0:1.7~I been planning this job well over a year~sl:0.0:1.5~and I thought you was the bad apples~sl:0.0~gonna help me carry it out.
+
+0xCE49B39C = ~z~Ain't you got business in town?
+
+0xCF539C6F = ~z~You all keep following, we'll think you're up to something.
+
+0xD5C7C827 = ~z~I believe so.
+
+0xDD2A2EDA = ~z~out on the road nearby.
+
+0xDDB63934 = ~z~We ain't looking to form no gang.
+
+0xE0893228 = ~z~Just one more thing.
+
+0xE59D3B50 = ~z~I like my chances better on foot.
+
+0xE82B1442 = ~z~I said we still need them uniforms. Go on.
+
+0xF31BD74D = ~z~we're nearly ready.
+
+0xF708DE27 = ~z~Take that wagon, if you want it.
+
+0xF3568DE2 = ~z~Well...
+
+0xFC5F1555 = ~z~These bastards know how to fight.
+

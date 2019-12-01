@@ -1,0 +1,60 @@
+0x09146741 = ~z~It's my Louis, h-he might be in trouble...
+
+0x1C4B060B = ~z~Please... he's been gone a while now.
+
+0x2AB2C69D = ~z~Phew, I tell you I can hardly win for losing these days.
+
+0x2C1FA5B4 = ~z~I-I'm just worried something might have happened to him.
+
+0x3FD7BCEF = ~z~Okay there. Came out here with my friend...
+
+0x5A30221C = ~z~Oh, Jesus.
+
+0x7C30379F = ~z~Is it so much to ask? Fine...
+
+0x7E15E461 = ~z~Oh, you have got to be kidding me?
+
+0x9AD5047C = ~z~~sl:0.0:1.1~Hey... are those...~sl:0.2~those wolves gone?
+
+0x9CC5ABC2 = ~z~You will? Oh, thank you, it'd really put my mind at ease.
+
+0x16D9CD83 = ~z~Hey? Is someone there? I'm, uh... I'm down here...
+
+0x95A75D33 = ~z~~sl:0.0:4.0~Listen. My lady's down the mountain a ways, and I'm all out of sorts here.~sl:1.0~Think you could bring me there?
+
+0x182DF170 = ~z~Oh thank you. I really appreciate this.
+
+0x535F159D = ~z~Please, he might be hurt.
+
+0x679B8CC9 = ~z~Here. Me to you. Least I can do.
+
+0x773B49D9 = ~z~Oh, oh! You there! Yeah, you.
+
+0x1444E5BA = ~z~~sl:0.0:2.1~I-I don't wanna leave him in case he comes back,~sl:~c-could you go look for him?
+
+0x31869FA0 = ~z~~sl:0.6~Boy, am I glad to be outta that mess.
+
+0x50530E62 = ~z~Shit, got one down.
+
+0x67913E01 = ~z~Are you going or not?
+
+0x18802238 = ~z~Quite a camping trip...
+
+0x53431516 = ~z~Oh, thank God, Louis!
+
+0xBA2FA7D4 = ~z~~sl:0.0:2.3~Oh shit, I'm happy to see you.~sl:0.6~Goddamn wolves cornered me in here...
+
+0xC7DAF7EA = ~z~Goddamn it, what's this now?
+
+0xD1D77280 = ~z~Can't see a damn thing...
+
+0xE3AB1627 = ~z~I could really use a hand back here.
+
+0xE6FCBCD6 = ~z~Go on now, please, won't take you long.
+
+0xE6868A3E = ~z~~sl:0.0:1.9~He took up the hill a ways and he ain't back yet~sl:~and I'm worried he got into trouble...
+
+0xF754C3C2 = ~z~Please, just come here a minute!
+
+0xFA75DC27 = ~z~Up the hill a ways. But please hurry.
+

@@ -1,0 +1,48 @@
+0x2C8A114E = ~z~~sl:0.6:2.6:1~This kid is too smart, Arthur.
+
+0x2DC047C8 = ~z~It ain't difficult.
+
+0x3B7EE345 = ~z~Keep quiet, Morgan... he'll eat you alive.
+
+0x3C95CC47 = ~z~Now, your uncle, what was he?
+
+0x3EA9B58D = ~z~How do you mean?
+
+0x3EB2247F = ~z~He's a rich dreamer playing at being one of us...
+
+0x4AD768CA = ~z~Yes, he's very... ornamental, as my uncle would say.
+
+0x6E89C95E = ~z~
+
+0x7C5B3F6A = ~z~Well, I do like talking with you...
+
+0x10BE509F = ~z~How do you mean?
+
+0x61C916B1 = ~z~~sl:0.2:3.9~Miller's a slave too, a slave to pretty words and empty phrases,~sl:~but he don't understand.
+
+0x65E61280 = ~z~Thank you, sir.
+
+0x292AA571 = ~z~The outlaws, those unprotected by wealth.
+
+0x325C0BD3 = ~z~The way I see it... he's the worst kind of fraud, Mr. Dutch.
+
+0x360E134B = ~z~But answer me this, if Miller is a fraud, is he an honest fraud?
+
+0x695B9977 = ~z~
+
+0x938B7A35 = ~z~You are too harsh a critic.
+
+0x999ABFAE = ~z~~sl:0.8:3.3~Look... you're a great man, Mr Dutch.~sl:0.3~But you ain't great 'cause of Evelyn Miller.
+
+0x7057B3CE = ~z~Miller writes about men like him.
+
+0x1930057C = ~z~You are too hard on him, he-he writes with incredible beauty.
+
+0x8623788D = ~z~
+
+0x60341383 = ~z~He was a slave. Most educated man in his county, but a slave.
+
+0xD6B97425 = ~z~
+
+0xF738C18A = ~z~He's on vacation with the lower classes.
+

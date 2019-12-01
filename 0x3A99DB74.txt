@@ -1,0 +1,936 @@
+0x003A3557 = ~z~Come on, let's get this over with.
+
+0x004828C3 = ~z~I think we got one left. Let's smoke him out.
+
+0x01590B0E = ~z~Looks like we lost 'em for now. Come on, let's just get there.
+
+0x020FE70F = ~t~In Italian: Who are these clowns?
+
+0x021ABC21 = ~z~Where's your host?
+
+0x0289C7E3 = ~z~Come on.
+
+0x028ECC0E = ~z~Relax... I got this.
+
+0x03173917 = ~z~Damn, the law's here. Come on, let's see if that gate's open.
+
+0x031BB6E6 = ~z~Careful, they're leading us out in the open.
+
+0x036B4B58 = ~z~do as Dutch says.
+
+0x04044036 = ~z~You boys ready?
+
+0x0510815F = ~z~He best not be playing games with us.
+
+0x05EB4AD0 = ~z~thank you.
+
+0x060043F0 = ~z~Hey, friend.
+
+0x06201D4C = ~z~Wait a second.
+
+0x075BE230 = ~z~You, you, you twist words...
+
+0x080583D9 = ~z~There's someone coming, hide.
+
+0x085921BE = ~z~Stop.
+
+0x08B3F9A1 = ~z~You should get yourself home.
+
+0x095DD588 = ~z~Let's stay on them, come on!
+
+0x09C1CA9B = ~z~I can think of better ways to spend an evening.
+
+0x0A7CBC0F = ~z~What are you doing? Let's leave the horses here.
+
+0x0CDA818C = ~z~What the hell are you doing?
+
+0x0D1B65B4 = ~z~Can I go play now?
+
+0x0E46FBD8 = ~z~I hear something in there.
+
+0x0ED10DC2 = ~z~I'm fine... ~rp~Papa Bronte said you'd come for me.
+
+0x0F1F1478 = ~z~Keep it down. Don't want 'em to bolt on us.
+
+0x0F4D306D = ~z~You boys found my pappy's watch yet?
+
+0x1A0D7F38 = ~z~I think I heard someone coming.
+
+0x1BC810A0 = ~z~Salute.
+
+0x1C5DCA3B = ~z~Shush.
+
+0x1C66B174 = ~z~I had a bit to drink. My friend... died...
+
+0x1C781BDF = ~z~I said...
+
+0x1CC4C26D = ~z~Bastards are trying to draw us out.
+
+0x1CF34BB9 = ~z~You boys found my pappy's watch yet?
+
+0x1DF33719 = ~z~That's okay.
+
+0x1F7D4405 = ~z~Robbing graverobbers... we've hit the big time.
+
+0x2A3D326F = ~z~~sl:0.0:0.6:1~Come on.
+
+0x2AE82A7C = ~z~You had nothing to do with destroying the liquor business?
+
+0x2B196A48 = ~z~I guess...
+
+0x2B960C12 = ~z~What are you doing? Let's go get Jack.
+
+0x2C0E3AD1 = ~z~I think we lost them.
+
+0x2CD9BCA2 = ~z~why did you take his son?
+
+0x2CF6CCBF = ~z~You know, ~rp~I thought I heard gunshots ~rp~but the gramophone was playing.
+
+0x2D86B41D = ~z~Salute.
+
+0x2D455331 = ~z~~sl:0.0:2.2:1~Oh, uh, I'm sorry, I...
+
+0x2DA476F3 = ~z~Just Mister Bronte...
+
+0x2DF30152 = ~z~Italian food.
+
+0x2E7533FD = ~z~~sl:1.5:0.0~Dammit!
+
+0x2FA30471 = ~z~Someone already cleaned this one out.
+
+0x3A6CA9BF = ~z~You coming in with me?
+
+0x3AE5E0FE = ~z~Let's go around the side.
+
+0x3B9AB6A2 = ~z~~sl:0.0:1.0:1~Pray.
+
+0x3BE6B696 = ~z~I got my son back!
+
+0x3E085640 = ~z~See they've taken, not only to desecrating the dead...
+
+0x3E5E9732 = ~z~Come on. I still can't believe we're doing this.
+
+0x3E175B60 = ~z~Oh he'll be there too... ~rp~seems to more or less run this city, ~rp~at least that's the way he sees it.
+
+0x3E306F32 = ~z~Unbelievable.
+
+0x3ECDE352 = ~z~But... Bronte knows by now there's no Braithwaites left to pay him.
+
+0x3F3AD321 = ~z~and that which we weren't innocent of, well we...
+
+0x3F42C8DA = ~z~Well, let me tell you all about him.
+
+0x3F28363E = ~z~I found a body!
+
+0x4BAD768C = ~z~And Bronte?
+
+0x4C87F33F = ~z~but they've done so without paying a tribute to the living.
+
+0x4D4C6105 = ~z~C'mon, let's get the drop on 'em.
+
+0x4D69EFBB = ~z~Where'd they go now?
+
+0x4D396172 = ~z~Was that the special Dutch charm I heard so much about?
+
+0x4DB2DA2E = ~z~I'm fine, thanks.
+
+0x4EBE7337 = ~z~~sl:0.0:0.9~Oh yes,~lr:~I had the best time, but ~rp~I can't wait to see momma. ~rp~Did she miss me?
+
+0x4F0E7498 = ~z~Mount up, Arthur, it's been a long night.
+
+0x4F766E4D = ~z~~sl:0.4~Of course you did.
+
+0x4FEAC198 = ~z~~sl:0.7~Which ones?
+
+0x5A1F65D1 = ~z~clearly got power and money.
+
+0x5AB5A83C = ~z~A whole heap of them. ~rp~We about doubled the population of that graveyard.
+
+0x5BD92EEF = ~z~I got a feeling most things round here get back to him pretty fast.
+
+0x5CC30D05 = ~z~Arthur, the pleasure is mine...
+
+0x5CC61F9F = ~z~But Bronte knows by now there's no Braithwaites left to pay him.
+
+0x5DDCE0E4 = ~z~Looks like someone beat us to it here.
+
+0x5E52E3BA = ~z~We should go on foot from here, Arthur.
+
+0x5EB4FC62 = ~z~Come here, you silly boy.
+
+0x5EE71391 = ~z~nor you with us...
+
+0x6A629949 = ~z~thank you.
+
+0x6AF5CD28 = ~z~How's he even gonna know we did what he asked?
+
+0x6AFD3CE7 = ~z~~sl:0.0:1.5~He'll be fine.~sl:0.9~I figure... the Braithwaites were going to hold Jack ransom,
+
+0x6B636A5B = ~z~What the hell?
+
+0x6BE6007A = ~z~~sl:2.0:0.0~It's a graveyard. It's what people do here.
+
+0x6C4E53CE = ~z~We'll get you settled and cleaned up in no time.
+
+0x6DCF533A = ~z~~sl:0.0:1.7~When my time comes, Arthur...~sl:0.6~make sure they put me deep in the ground.
+
+0x6DFE95AC = ~z~They're still with us.
+
+0x6E5C9CE9 = ~z~Follow me.
+
+0x6E7E78A6 = ~z~Not another one.
+
+0x6F256556 = ~z~Thank Mr. Bronte...
+
+0x6FA0396F = ~z~Thing is, they see my men, of course, they run a mile.
+
+0x6FDC6A24 = ~z~This way.
+
+0x7A354915 = ~z~and you have gone, and you have took his son...
+
+0x7B9F993C = ~z~We don't even know where Jack is.
+
+0x7BA04ABF = ~z~Dutch van der Linde...
+
+0x7BA66282 = ~z~
+
+0x7C22CDEB = ~z~She sure did. ~rp~Like you wouldn't know.
+
+0x7CA73DD2 = ~z~I don't know how to say it...
+
+0x7CC2DD3A = ~z~Alright, we got to keep looking.
+
+0x7D955429 = ~z~Why, you tell me more about my manners.
+
+0x7E54C39C = ~z~~sl:0.0:4.2:1~Excuse me, sir. We have an appointment to see Mr. Bronte.
+
+0x7F31A4B8 = ~z~You see that?
+
+0x8A543404 = ~z~~sl:0.4:3.0:1~Okay, Arthur... now's our chance...
+
+0x8AB4DFBD = ~z~interesting work.
+
+0x8AF979A7 = ~z~C'mon, let's keep on 'em.
+
+0x8B08E990 = ~z~Arthur Morgan...
+
+0x8B267837 = ~z~Goddamn it, Arthur! How are we gonna get Jack back now?
+
+0x8C7FEDAA = ~z~over some dispute with some inbred ex-slavers.
+
+0x8DD3E723 = ~z~we met Mr. Bronte.
+
+0x9C3DEA0D = ~z~Feller like this is gonna have a lot of protection.
+
+0x9C8FB3E8 = ~z~Oh, I had a bath last night.
+
+0x9C948EE2 = ~z~Papa Bronte teached me lots of Italian words.
+
+0x9C908374 = ~z~thank you.
+
+0x9D1F76FD = ~z~Shit, that's all we need. We gotta lose them, Morgan!
+
+0x9E0B825C = ~z~Jack!
+
+0x9E78080B = ~z~I just hope we shot the right fellers.
+
+0x9EB10FA0 = ~z~So, can my friend have his son?
+
+0x9EEB8952 = ~z~Abigail.
+
+0x9F15E028 = ~z~You know where the cemetery is?
+
+0x9F77A378 = ~z~~sl:0.0:0.8~Dammit.~sl:2.0~Come on.
+
+0x10B19A0A = ~z~They can hear us, you know... they're still with us...
+
+0x13E96E16 = ~z~Well... you took your time.
+
+0x14B3E153 = ~z~Pa!
+
+0x17A0EE3B = ~z~Dutch, Arthur, thank you...
+
+0x17D24B4F = ~z~At the graveyard... ~rp~Uncle Dutch and Papa Bronte told me...
+
+0x17EB05A2 = ~z~by simply allowing you to breathe in my presence?
+
+0x21FE2A10 = ~z~~sl:0.0:1.5~for all the money we cost 'em,~sl:0.2~and they must have sent him here so we couldn't get to him.
+
+0x22C9BCD1 = ~z~You alright?
+
+0x23B02BC8 = ~z~~sl:0.0:4.8~Mr. Bronte has invited us to a garden party at the mayor's house.~sl:1.1~And us, just simple country boys.
+
+0x26B193D0 = ~z~Are we going in then?
+
+0x26EB2806 = ~z~I love this guy, I love you.
+
+0x27B4F1DD = ~z~I'm fine.
+
+0x30F8A85E = ~z~Come on, what are you doing?
+
+0x31F6FADF = ~z~This is the police! Give up, we got you surrounded!
+
+0x33D6C1D5 = ~z~A couple of people have taken to grave robbing in the cemetery.
+
+0x34A2D21D = ~z~Let's bail, boys! This ain't worth it!
+
+0x34B35986 = ~z~Have you ever had spaghetti?
+
+0x35FACE0F = ~z~Locked, let's just track back to where we came in.
+
+0x40A65F49 = ~z~
+
+0x40FA5FDE = ~z~Ok, I think this is it. Keep it down. Let's hitch the horses up ahead.
+
+0x41E3D863 = ~z~Indeed you have.
+
+0x42D59C86 = ~z~You see anything?
+
+0x43B92CDE = ~z~they fed me good.
+
+0x44B3DB9B = ~z~You perform a simple job for me...
+
+0x44C1E371 = ~z~This place is like a maze.
+
+0x46AF8030 = ~z~How did you fellers get on? ~rp~Any problems?
+
+0x50DE089A = ~z~~sl:0.0:1.6~Either the dead are waking up,~sl:1.0~or somebody's trying to wake 'em.
+
+0x51A277F0 = ~z~It ain't got nothing to do with anyone of us.
+
+0x51EEF611 = ~z~No, no, no, so, how about this?
+
+0x52A0AC4D = ~z~You know, Arthur...
+
+0x54AC1F78 = ~z~None, I guess.
+
+0x55CF804A = ~z~we are simple country folk.
+
+0x57DC4347 = ~z~Three, Four? Hard to tell.
+
+0x59CE1ED2 = ~z~
+
+0x60B9003A = ~z~You ever eat that?
+
+0x65CAE9AE = ~z~They're going to ground, Morgan!
+
+0x66CEED16 = ~z~Let's go, quickly... now.
+
+0x67B83189 = ~z~It's locked, we'll have to go back the way we came.
+
+0x67EE9213 = ~z~Well, it looks like someone's been here.
+
+0x71DE2E07 = ~z~I hate this place.
+
+0x75ACC124 = ~z~You ask me to show compassion?
+
+0x75CCB5ED = ~z~Well, the boy's safe, thank goodness.
+
+0x75E3BDFA = ~z~Of course I know you would not want that..
+
+0x77E3A468 = ~z~Hey, they're back! I think I see Jack!
+
+0x81CE2EBF = ~z~Are we moving then?
+
+0x82E203E9 = ~z~Alright, let's get this boy back to his mother.
+
+0x85DA2533 = ~z~Goddamn place... I mean, goshdarn shithole.
+
+0x85E202A1 = ~z~Come on, dammit! We're gonna lose them!
+
+0x87A3E17A = ~z~No...
+
+0x88FFAA7A = ~z~Over here, I think I've found something.
+
+0x89C9B590 = ~z~Do you trust one word that comes out of that bastard's mouth?
+
+0x90A1F706 = ~z~So, you walk into my city...
+
+0x90CC93AD = ~z~Don't back out on me now, Arthur.
+
+0x90D00961 = ~z~~sl:0.0:1.2~Dutch is with him now.~lr:~All things considered, it ~rp~could've gone a lot worse.
+
+0x92F8D783 = ~z~Ain't no one gonna get shot, Arthur, so everyone just relax. We'll charm him.
+
+0x93B17282 = ~z~Shhh...
+
+0x94C788C7 = ~z~Anyway, ~rp~we got Jack and ~rp~that's all that matters for now. ~rp~Come on.
+
+0x95AF5CF4 = ~z~the boy's gonna get shot. That I guarantee.
+
+0x95DCF967 = ~z~So what'd you say this was... a garden party?
+
+0x96AFFCC3 = ~z~~sl:0.2~This one's got a house, ~rp~not as nice as Mr. Bronte's, mind you.
+
+0x98D38E40 = ~z~Hey, John. Over here.
+
+0x98D8956D = ~z~~sl:1.5:0.0:~Best keep looking.
+
+0x126EB91F = ~z~Reckon this is gonna wake a few people up.
+
+0x136CFBBE = ~z~I don't see 'em.
+
+0x139B6E27 = ~z~
+
+0x149C0D56 = ~z~Got it.
+
+0x153B02DF = ~z~So what did you say this was... a garden party?
+
+0x159C1039 = ~z~Let's go. We have a new camp set up, Jack, you're going to love it.
+
+0x172E6D26 = ~z~Jack, Jack, Jack...
+
+0x175DE6E9 = ~z~There you are.
+
+0x192A8C85 = ~z~That is a fine place for it, the best.
+
+0x192A9D88 = ~z~We best stick to the side.
+
+0x195C5B68 = ~z~Uh... I... I'm sorry. I-I don't mean to... stare.
+
+0x227E6A65 = ~z~We got you your son, everything...
+
+0x259E5758 = ~z~Alright, let's get this done.
+
+0x298A7F7F = ~z~Hey there, boy.
+
+0x314E876B = ~z~Can't see worth a damn!
+
+0x336F6BE9 = ~z~We can't go back to Bronte empty-handed. Let's have a look where they first shot at us from.
+
+0x371AD124 = ~z~Why do you take his son?
+
+0x380C3B35 = ~z~Come on...
+
+0x431AD152 = ~z~Shhh...
+
+0x434C7FAD = ~z~Get in cover and we'll bust the door in.
+
+0x439C52B1 = ~z~You ever meet an Italian strong man before?
+
+0x458B26C0 = ~z~Yeah,~rp~ me and your Pa dealt with them.
+
+0x500F8953 = ~z~Hmm, think I see something.
+
+0x506D42D8 = ~z~Listen, ~rp~we found Bronte, ~rp~we got in there...
+
+0x516B5AC4 = ~z~Fresh blood, must have just been killed. They're still here.
+
+0x549CCB2B = ~z~That poor kid. I ain't been a good father to him. I hope... he's okay.
+
+0x630DEAE9 = ~z~We sure picked the right night for it.
+
+0x666C9855 = ~z~Well...
+
+0x669BC7A4 = ~z~Are you coming or not? We waited long enough for you already.
+
+0x683E64BD = ~z~No doubt.
+
+0x699E28FF = ~z~but if you wanna start one...
+
+0x704D7549 = ~z~Are we doing this?
+
+0x731C5909 = ~z~You had a nice night, then?
+
+0x771C406B = ~z~But...
+
+0x793C69B5 = ~z~He almost certainly is, ~rp~but let's just see. ~rp~Keep your head, act normal.
+
+0x795F3E3A = ~z~quite a character.
+
+0x828D2D6A = ~z~You hear something?
+
+0x889AB6A0 = ~z~Momma!
+
+0x934D4243 = ~z~I told him you would.
+
+0x941BC1B6 = ~z~Look at the size of these things... corpses in this city live better than we do.
+
+0x974E4CDE = ~z~Are you going to mount up?
+
+0x1000A01C = ~z~Shit.
+
+0x1856E7C5 = ~z~Next time Dutch can go, and I'll have the drink.
+
+0x1994C435 = ~z~Quiet.
+
+0x2303E924 = ~z~Come on then.
+
+0x2338CBB1 = ~z~With me.
+
+0x2802A5D1 = ~z~and you tell me how to act?
+
+0x3032BF97 = ~z~Could open up some opportunities for us. It's been a chaotic few days, but we can finally move forward now.
+
+0x3244DC86 = ~z~Stupid mutt, get out of here.
+
+0x3393BDA3 = ~z~Why do I spend my life waiting on you, Arthur?
+
+0x3513CFDE = ~z~~sl:0.0:2.0~for all the money we cost 'em.~sl:0.4~They must have sent him here so we couldn't get to him.
+
+0x4435F1A0 = ~z~I'll try this way.
+
+0x4584FB29 = ~z~For... that... for taking so long...
+
+0x4725EA0F = ~z~
+
+0x5549F60C = ~z~Is he now?
+
+0x5781C883 = ~z~Don't exactly make it too hard for grave robbers, do they?
+
+0x6117DDD9 = ~z~Wait till you see this new camp.
+
+0x6169E546 = ~z~You alright?
+
+0x7303C036 = ~z~and you, Mr. Van der Linde...
+
+0x7331B1DB = ~z~That bastard better keep his word.
+
+0x7710AA67 = ~z~Come on, let's just get this over with.
+
+0x7969FB1A = ~z~Of course you did.
+
+0x8273DAAA = ~z~there is gonna be a lot of folks dead in this room before it's done.
+
+0x8346B823 = ~z~Not much, just that he's some slick, little, greasy-haired European who's
+
+0x8559FD84 = ~z~Most enjoyable... ~rp~well the man's an intolerable blowhard, ~rp~but he stocks a fine bar.
+
+0x8587D62F = ~z~well let's go.
+
+0x8598CFB5 = ~z~Thank you, Arthur, I...
+
+0x9856C290 = ~z~Come on, quick, let's get back to Dutch.
+
+0x16043AAA = ~z~C'mon, Arthur.
+
+0x19630E8A = ~z~
+
+0x29626C41 = ~z~Where are these sons of bitches?
+
+0x32803F28 = ~z~and you get your son back.
+
+0x45015FBD = ~z~A slipper?
+
+0x50755A9A = ~z~Oh, um, I'm sorry, I'm sorry, I had a... had a bit to drink.
+
+0x54407D1C = ~z~Now...
+
+0x57469EAC = ~z~~sl:0.0:5.0~I had a fun time. ~rp~I had my own room with a big bed and a toy box.~lr:0.3~And lots of books.
+
+0x60627F8D = ~z~How are you, boy?
+
+0x61707ACB = ~z~Like I said, you took your time.
+
+0x63493CAA = ~z~Grave robbers? You think he's taking us for a fool?
+
+0x64749EB4 = ~z~stinking of shit and looking like this...
+
+0x72273A19 = ~z~and you come into my house, before you have a bath...
+
+0x80528E86 = ~z~You should have paid Mr. Bronte.
+
+0x80661A4B = ~z~Why do I get the feeling Bronte's got his feet up, laughing at us?
+
+0x82896BFF = ~z~~sl:0.0:1.6~Dutch is with him now.~lr:0.3~All things considered, it ~rp~could've gone a lot worse.
+
+0x84057FA6 = ~z~With pleasure.
+
+0x84877CCF = ~z~Coming this way, get down.
+
+0x99417CD6 = ~z~But first let's have a drink.
+
+0x142841CD = ~z~We've been on some strange jobs, Morgan, but this one...
+
+0x197308A1 = ~z~Well, er, ~rp~I'm just glad you're alright.
+
+0x204248D0 = ~z~Oh, this one's got a house, ~rp~not as nice as Mr. Bronte's, mind you.
+
+0x207833C2 = ~z~Each to their strengths, Arthur. ~rp~I went in there with a gun ~rp~and left with a party invitation.
+
+0x247131BA = ~z~Look out, they're making a run for it!
+
+0x288688F8 = ~z~Jack!
+
+0x496575B9 = ~z~Excuse me?
+
+0x681324D1 = ~z~All we have is each other...
+
+0x2149190E = ~z~Let's go, Abigail will be worried sick.
+
+0x4026778A = ~z~Well,~rp~ it's lucky I ain't a religious man.
+
+0x7415064A = ~z~Come on, let's get the hell outta here!
+
+0x7851842D = ~z~Dammit!
+
+0x9797671C = ~z~Well, you took your time.
+
+0x10250601 = ~z~~sl:0.0:2.1~Jack ain't much use to him anymore.~lr:0.4~Let's just get this done... ~rp~and let Dutch handle the rest.
+
+0x21093232 = ~z~Did they... do anything to you?
+
+0x30645806 = ~z~Let's just get back there,~rp~ collect our side of the deal.
+
+0x49456856 = ~z~Have I not shown you almost infinite compassion already...
+
+0x50014717 = ~z~Come on, we're not riding in there.
+
+0x63771142 = ~z~We got Jack back!
+
+0x80228552 = ~z~Alright, now let's find their stash. Gotta be round here someplace.
+
+0x94180349 = ~z~Like I said, let's look around where they jumped us.
+
+0x96847880 = ~z~Can't believe we're doing this.
+
+0x97055007 = ~z~You know, you did good, ~rp~holding your tongue in there.
+
+0xA0F17378 = ~z~Now, listen, if we go in there and start shooting up the place,
+
+0xA2B2A49D = ~z~Get the money we need and disappear.
+
+0xA5DAA16E = ~z~Is that right?
+
+0xA5F5C20A = ~z~This is idiotic...
+
+0xA5F8A0D7 = ~z~You see 'em?
+
+0xA6B66F69 = ~z~I think so, ~rp~pretty sure I rode by it earlier. ~rp~It's real impressive.
+
+0xA9B097E4 = ~z~Go be with your family.
+
+0xA13F3A15 = ~z~~sl:0.9:1.9:1~This place gives me the chills.
+
+0xA96FBC12 = ~z~Hang on, that might be something.
+
+0xA97AF94A = ~z~Stuff of nightmares.
+
+0xA312D9AF = ~z~How many you see?
+
+0xA465E347 = ~z~Just keep your eyes and ears open.
+
+0xA9870AFB = ~z~Let's get going.
+
+0xA22197BD = ~z~Angelo Bronte.
+
+0xA1076050 = ~z~Come on, let's get this over with.
+
+0xA6223000 = ~z~They can't be far, let's keep going.
+
+0xA9692510 = ~z~should I be out of pocket over a misunderstanding?
+
+0xAA2F8749 = ~z~Shit, it's the law. Let's go, maybe we can get out that gate.
+
+0xAA349421 = ~z~Which ones?
+
+0xABAC3E35 = ~z~What?
+
+0xABC7253B = ~z~A big gala at the mayor's house. ~rp~I'm told every rich fool in Lemoyne will be there.
+
+0xABCC82C7 = ~z~Are you going or not?
+
+0xABDC894A = ~z~Must be.
+
+0xAC6DE695 = ~z~I think there might be something in here.
+
+0xAD20C374 = ~z~I'm gonna check over here.
+
+0xAE6A43B1 = ~z~~sl:0.0:1.4~Shh, hold up.~sl:0.4~I think I heard something...
+
+0xAE7CC30B = ~z~~sl:0.0:2.2~Jack ain't much use to him anymore.~lr:0.6~Let's just... get this done... ~rp~and let Dutch handle the rest.
+
+0xAEA4279B = ~z~Boys, we got some work to do...
+
+0xAF0786B7 = ~z~Alright, let's see what's going on in here.
+
+0xAF6A8D8F = ~z~That's definitely something.
+
+0xAFB22ADF = ~z~Everything's okay now.
+
+0xB0956637 = ~z~Okay, but we'll need to be quick.
+
+0xB4BB1223 = ~z~
+
+0xB27EFBD3 = ~z~What was that?
+
+0xB44BD058 = ~z~~sl:0.0:1.1~He'll be fine.~sl:0.9~I figure... the Braithwaites were going to hold Jack ransom,
+
+0xB520E058 = ~z~No idea. What choice do we have?
+
+0xB664B3BB = ~z~Who are you?
+
+0xB832A6DA = ~z~I just hope you're right.
+
+0xB2421E60 = ~z~Come on, quick, let's get back to Dutch.
+
+0xB6114FDA = ~z~Let's keep going.
+
+0xB8817F1B = ~z~I found a body!
+
+0xB2911293 = ~z~~sl:0.0:1.5~How they expect anyone to rest in peace~sl:~when they ain't even buried 'em in the ground?
+
+0xBA0F349E = ~z~What else do you know about this guy?
+
+0xBA57E89F = ~z~~sl:0.0:1.8~Okay, I think this is it.~sl:0.8:1.0~~rp~Keep it down.~rp~~sl:1.1~Let's hitch the horses up ahead.
+
+0xBAF21B4E = ~z~He's fine!
+
+0xBB34AE56 = ~z~But a fine man.
+
+0xBD76F22D = ~z~Like I said,~rp~ we'll just see where we're at once we've got Jack.
+
+0xBD342922 = ~z~You had to hear it that time.
+
+0xBDC264B7 = ~z~I'll check this way.
+
+0xBE1B2DC7 = ~z~Trust me. This the place?
+
+0xBE88D08B = ~t~In Italian: I love you.
+
+0xBE7144DD = ~z~It's just a dog.
+
+0xBFABD4CE = ~z~~sl:0.0:2.6~Don't worry, boys, we come in peace.~sl:0.3~We just need straighten a couple of things out with your boss.
+
+0xBFB049B3 = ~z~John, you go be with your family.
+
+0xBFD2250E = ~z~Abigail!
+
+0xC035E748 = ~z~~sl:0.0:1.2~Okay... ~sl:0.6~Come on.
+
+0xC04F5ACC = ~z~So maybe you two head off...
+
+0xC07FD33D = ~z~John Marston.
+
+0xC0C114BF = ~z~I'll go first, you stick close.
+
+0xC0FF9C98 = ~z~There.
+
+0xC1C9D548 = ~z~That's a face you don't forget.
+
+0xC4DAE4CE = ~z~We can't go back to Bronte with nothing to show for it, Arthur.
+
+0xC8A48172 = ~z~What? What's that?
+
+0xC8B783B3 = ~z~
+
+0xC8C439D7 = ~z~Wait, what was that?
+
+0xC42E240C = ~z~Real good to see you, Jack.
+
+0xC86BB97F = ~z~C'mon, let's find them and get the hell outta here.
+
+0xC357EA67 = ~z~Someone's here somewhere, c'mon.
+
+0xC373D25E = ~z~I know, but you won't care once we get the boy back.
+
+0xC421D3BE = ~z~He is...
+
+0xC1534CF4 = ~z~Me too. Why don't you go left... I'll keep going straight, alright?
+
+0xC10157BB = ~z~It's food... it looks like worms, but it's delicious.
+
+0xC7085502 = ~z~
+
+0xCC5C9D7A = ~z~Stick with me.
+
+0xCC6A5282 = ~z~Friend died...
+
+0xCCA05DC3 = ~z~Come on...
+
+0xCCECEC17 = ~z~Of course, of course.
+
+0xCD0B41DF = ~z~If it moves, blast it!
+
+0xCD45C5B9 = ~z~You said you were going first?
+
+0xCE9B36B4 = ~z~Place is starting to make my skin crawl.
+
+0xCE62B002 = ~z~I'm gonna push ahead, you watch my back.
+
+0xD0467406 = ~t~In Italian: Give these men drinks.
+
+0xD0C50A98 = ~z~Sooner we get this done, the sooner we get Jack back.
+
+0xD0FF54A7 = ~z~Come on.
+
+0xD1DC99F0 = ~z~Stay quiet, we don't wanna spook 'em.
+
+0xD1E9B615 = ~z~You coming?
+
+0xD5C5A794 = ~z~What the hell do you think you're doing?
+
+0xD5FD707D = ~z~I understand.
+
+0xD8E50543 = ~z~you lie shamelessly...
+
+0xD9E57ABC = ~z~~sl:0.0:2.6~You get your boss down here and now,~sl:~so we can talk about this like gentlemen.
+
+0xD10BB320 = ~z~Wait.
+
+0xD15C05A8 = ~t~In Italian: They've come about the boy we took.
+
+0xD56EB846 = ~z~You looking for a problem?
+
+0xD73C92DC = ~z~Good, now let's get out of here.
+
+0xD149EDAE = ~z~I think I heard someone coming.
+
+0xD246EEE0 = ~z~Arthur...
+
+0xD655D215 = ~z~We got him!
+
+0xD827A06C = ~z~I'm... I'm sorry.
+
+0xD915C922 = ~z~Put the guns down and come out with your hands up!
+
+0xD977E480 = ~z~You okay, John?
+
+0xD1471CFD = ~z~What's the problem, Arthur? Let's go.
+
+0xD74246FE = ~z~Arthur, come take a look at this.
+
+0xDA1338E7 = ~z~Stay close.
+
+0xDC41D201 = ~z~Hope Dutch is enjoying his brandy and cigars.
+
+0xDDBA59B5 = ~z~Are we doing this or not?
+
+0xDDF36714 = ~z~I thought you were taking the lead?
+
+0xDE0B6465 = ~z~Hey... did you hear that?
+
+0xDE2DF609 = ~z~They can hear us, you know.
+
+0xDE74E4B2 = ~z~Can hardly see what I'm shooting at.
+
+0xDF100511 = ~z~~sl:0.0:1.4:1~Run along now, boy.
+
+0xDFBA945A = ~z~Where are those sons of bitches?
+
+0xE006004E = ~z~What are you doing? They're getting away!
+
+0xE0BB4F92 = ~z~Looks fresh, still bleeding. Must just been killed. They're still here.
+
+0xE3AEEC8E = ~z~We're too late here. Been and gone.
+
+0xE7D51C71 = ~z~Just some damn birds. Come on.
+
+0xE24D9A57 = ~z~~sl:0.0:1.6:1~Don't call him that, please...
+
+0xE26A83CF = ~z~You got my son back.
+
+0xE34D57A3 = ~z~Shush.
+
+0xE45BF628 = ~z~~sl:0.0:1.3~Is that what you want, Marston,~sl:0.2~peace?
+
+0xE47BE171 = ~z~Hey, looks like we got something here.
+
+0xE79F9A5D = ~z~I just hope we shot the right fellers.
+
+0xE282C15E = ~z~Think it came from around here somewhere.
+
+0xE399A300 = ~z~
+
+0xE580A522 = ~z~What is it?
+
+0xE5922E14 = ~t~In Italian: With money?
+
+0xE40831FB = ~z~Sure hope they ain't seeing better than we are.
+
+0xE374259D = ~z~Let's get after 'em!
+
+0xE410399D = ~z~Hey Arthur... I think I hear something in here.
+
+0xEA6644E9 = ~z~What for?
+
+0xEAF4C32F = ~z~You should get outta here, mister, it ain't safe.
+
+0xEB2D67D7 = ~z~Shush.
+
+0xEB51F13C = ~z~Come on, son...
+
+0xED30FFCB = ~z~I'm fine, Momma...
+
+0xEE7D052D = ~z~Alright, should be one more of 'em.
+
+0xEE8CE1DA = ~z~C'mon, stay together.
+
+0xEE1975F1 = ~z~
+
+0xEEF540CA = ~z~We ain't got no problems with you, sir...
+
+0xEF1A3319 = ~z~Damn fog!
+
+0xEF1A3823 = ~z~They have to be here somewhere. You try the left and I'll go straight ahead.
+
+0xEFC982B0 = ~z~Alright, let's go.
+
+0xEFD14292 = ~t~In Italian: Inside.
+
+0xF0FA0257 = ~z~
+
+0xF1CCBC03 = ~z~A big gala at the mayor's house, ~rp~I'm told every rich fool in Lemoyne will be there.
+
+0xF2AA38CD = ~z~you think you are better than everyone else...
+
+0xF2C0B7BE = ~z~all mine, please.
+
+0xF2C31DB4 = ~z~'Course.
+
+0xF2FE7939 = ~z~Okay, I'll lead, you watch behind me.
+
+0xF3F73C97 = ~z~We was innocent bystanders...
+
+0xF3F516A3 = ~z~There it is again. Come on.
+
+0xF4F97AFB = ~z~Hold on.
+
+0xF8A5EDA4 = ~z~Came from somewhere over here, right?
+
+0xF8D18518 = ~z~Nice shooting, Arthur.
+
+0xF8F00360 = ~z~Shush.
+
+0xF24E3A58 = ~z~They gave me two pairs,~rp~ one for day and one for night.
+
+0xF25EA494 = ~z~I think that's all of 'em.
+
+0xF584B627 = ~z~Let's go.
+
+0xF884C6C5 = ~z~~sl:0.0:3.6~You know “cavallo”? That means horse...~sl:0.3~and ~rp~“pantofola”, that's a slipper.
+
+0xF2594E9D = ~z~Just keep your head down.
+
+0xF3311E4E = ~z~Am I glad to see you.
+
+0xF3407FFE = ~z~Of all the ways I thought today was gonna turn out, this sure weren't one of them.
+
+0xF24389F0 = ~z~Abigail!
+
+0xF514347E = ~z~Not outside of a circus.
+
+0xF3221171 = ~z~Go on then.
+
+0xF4132720 = ~z~You got him.
+
+0xFA5DC039 = ~z~So?
+
+0xFCAD6977 = ~z~You sure you're okay, son?
+
+0xFCBC1523 = ~z~You too, Uncle Arthur. ~rp~Did you catch the bad guys?
+
+0xFD430193 = ~z~for everything.
+
+0xFDA1CEBC = ~z~we most surely were ignorant of.
+
+0xFDF9EE37 = ~z~
+
+0xFE0E24CC = ~z~Can I help you?
+
+0xFE805820 = ~z~Come on, let's quickly check that spot where it all kicked off.
+
+0xFEF4F858 = ~z~Come on, it's high time we met this 'Mr. Bronte'.
+
+0xFF232BBA = ~z~One day.
+

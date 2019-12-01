@@ -1,0 +1,14 @@
+0x0085F297 = ~z~How so?
+
+0x4948041E = ~z~Mr. Pearson! Mr. Pearson!
+
+0x12729670 = ~z~Well... It's been at least 6 months since you killed anyone with your cooking.
+
+0xA9434413 = ~z~Don't tempt me, you repulsive little maggot!
+
+0xD6F39F77 = ~z~I love you, too!
+
+0xE48A3AA0 = ~z~Yes?
+
+0xF6C7DF1B = ~z~I think you're losing your touch.
+

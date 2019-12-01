@@ -1,0 +1,36 @@
+0x078BD2AE = ~z~It's a shame they weren't princesses in fairy tales.
+
+0x1C7CB56F = ~z~~sl:0.7:1.8:1~What you doing, Tilly?
+
+0x9A787885 = ~z~
+
+0x33AD23D2 = ~z~These girls, Mr. Morgan.
+
+0x87F25379 = ~z~These girls, Mr. Morgan. I...
+
+0x132A62DD = ~z~Well, it looks like they found their fairy godmother.
+
+0x3952B63B = ~z~Well, it looks like they found their fairy godmother.
+
+0x9520D155 = ~z~~sl:0.0:1.4:1~You...
+
+0x232889E7 = ~z~
+
+0x87793606 = ~z~Useless whore.
+
+0xA7BD4BEE = ~z~~sl:0.0:2.5~I don't care what you feel, girl.~sl:~Get ready!
+
+0xBBCE7410 = ~z~
+
+0xC32902C5 = ~z~~sl:0.0:1.5~You're a worm. Ridiculous.~sl:~Get ready.
+
+0xD9532F19 = ~z~~sl:0.0:1.5~But I don't wanna work, Miss Grimshaw,~sl:~I don't feel right.
+
+0xE4E78658 = ~z~It's a shame they weren't princesses in fairy tales.
+
+0xED41D6FA = ~z~Nothing, Miss Grimshaw.
+
+0xF51DE6AE = ~z~~sl:0.0:1.2~You're worse than useless.~sl:~You're a parasite.
+
+0xFAE77245 = ~z~~sl:0.0:1.4~That's right. Nothing.~sl:0.3~You're useless.
+

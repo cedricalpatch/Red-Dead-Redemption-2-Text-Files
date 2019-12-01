@@ -1,0 +1,206 @@
+0x014ADF72 = ~z~I'm here to speak with you... about Boy Calloway.
+
+0x06A7F170 = ~z~Hey! Who's that?
+
+0x072E29C8 = ~z~Vamos, cabron. Vamos! Flaco's dead.
+
+0x077A0296 = ~z~Men? Talk to me.
+
+0x0B498A39 = ~z~Gonzalo? What happened out there?
+
+0x1DC32F28 = ~z~Men?
+
+0x1DEBFE72 = ~z~You in the wrong camp, stranger.
+
+0x1E7C1473 = ~z~Hey! Who's that?
+
+0x3E7008F4 = ~z~We don't take to visitors up here...
+
+0x4A5D5A8C = ~z~Hey, hey! Who's that?
+
+0x4AC051B5 = ~z~Hey! Who's that?
+
+0x6F1DB05E = ~z~Come on. Flaco did nothing for us, let's go.
+
+0x7B444900 = ~z~Ach... okay. If it's just questions... he's up in the cabin.
+
+0x7C391304 = ~z~We don't take to visitors up here...
+
+0x7D11B3AD = ~z~Well, well, look at this.
+
+0x7EA3A394 = ~z~I just wanna talk...
+
+0x8B12CD77 = ~z~Flaco Hernandez. You in there?
+
+0x8D5BC0FC = ~z~Sure...
+
+0x8D67963C = ~z~I'm here to speak with you about Boy Calloway.
+
+0x8F4144CF = ~z~ about Boy Calloway.
+
+0x9A1B7C20 = ~z~Crazy bastard.
+
+0x9DDE83A6 = ~z~What's wrong with you?
+
+0x9EF16427 = ~z~here's your message.
+
+0x12A64233 = ~t~In Spanish: If Flaco don't mind the cold, I don't mind the cold.
+
+0x32D67DBA = ~z~We don't take to visitors up here...
+
+0x32DDBDA7 = ~z~You're only going to find trouble here, go away!
+
+0x43C82476 = ~t~In Spanish: You're cold. You're just too drunk to know it.
+
+0x53C6C3D7 = ~t~In Spanish: A roof over your head and a fire by your boots?
+
+0x58F14D4D = ~z~Holy hell.
+
+0x62FF7E78 = ~z~Kill this fool!
+
+0x69AFEFA9 = ~t~In Spanish: You know what'd get me warm?
+
+0x71C109C7 = ~z~I'm unarmed.
+
+0x71ECBB3F = ~z~You in the wrong camp, stranger.
+
+0x72D22209 = ~z~How many of them?
+
+0x73C58DD8 = ~z~I'm unarmed.
+
+0x74BBBB1D = ~z~Flaco wanted to duel, he dueled, okay. Vamos.
+
+0x74F8ED7F = ~z~Don't make one move, mister. Go on.
+
+0x85A60488 = ~z~
+
+0x86D53123 = ~z~Die you, damned killer!
+
+0x87D53974 = ~z~Take me to him, I got some questions to ask.
+
+0x97E42904 = ~z~This one won't miss!
+
+0x207BD905 = ~z~Kill this fool!
+
+0x226E1CC8 = ~z~Oh! You there!
+
+0x499BCF9D = ~z~What's happening? Hey?
+
+0x603FA441 = ~z~Damn Flaco... I ain't dying for that fool. Come on.
+
+0x652D9243 = ~z~They're here in the Valley! Get your guns!
+
+0x747D980E = ~z~You be real careful now, I got eyes on you.
+
+0x848CA562 = ~t~In Spanish: That... or giving you a whooping.
+
+0x871D1A4D = ~z~Kill this fool!
+
+0x2109B5B9 = ~z~Anselmo? Elisio?
+
+0x5417EAC9 = ~z~Hey! Who's that?
+
+0x7817AC63 = ~z~You in the wrong camp, stranger.
+
+0x8379AD38 = ~z~I just wanna talk about Boy Calloway.
+
+0x8406C1F8 = ~z~You ain't getting in here. Put them away.
+
+0x30467D73 = ~t~In Spanish: Flaco's inside, he don't care. We're out here like animals.
+
+0x80689C01 = ~z~Ach... okay. If it's just questions... he's up in the cabin.
+
+0x84156B68 = ~z~Warn Flaco... they've come for us!
+
+0x85907E55 = ~z~I'm watching you... go real easy.
+
+0x368909F8 = ~t~In Spanish: I ain't cold.
+
+0x614814B3 = ~z~Shit! He's dead!
+
+0x654886F6 = ~z~Men? Men?
+
+0x794829E2 = ~z~I didn't want trouble, but... I'm just here to speak with you... about Boy Calloway.
+
+0x954766F3 = ~z~Did you get them yet?
+
+0x57003588 = ~z~Someone's here! We got work to do!
+
+0x79019580 = ~z~They were my hermanos!
+
+0x88074887 = ~z~We don't take to visitors up here...
+
+0x94290530 = ~z~Flaco Hernandez. I don't want trouble.
+
+0xA2A116E7 = ~z~The gringo got him...
+
+0xA7960C93 = ~z~Take me to him, I got some questions to ask.
+
+0xAB07FF6B = ~z~I ain't coming out if you're armed.
+
+0xADF6F836 = ~t~In Spanish: You got it all wrong, cabron. You got it all mixed up.
+
+0xAEB0F7F3 = ~z~Kill this fool!
+
+0xAF902709 = ~z~Animal!
+
+0xB3AC622B = ~z~Someone found the hideout! Come on!
+
+0xB5CC8881 = ~t~In Spanish: Eh, we need to get out of this cold.
+
+0xB35C7289 = ~z~Alright, look out, everybody. Got a man here to see Flaco.
+
+0xB77A86F1 = ~z~That door ain't coming down.
+
+0xB346A016 = ~z~Turn yourself around, friend. And pretend you haven't seen us.
+
+0xBE9BCD52 = ~z~Ah, okay. If it's just questions... he's up in the cabin.
+
+0xBE55B90F = ~z~What's happening?
+
+0xBFA95AD8 = ~z~Watch it, people. Stranger in the camp. He ain't going to be here long.
+
+0xC223FF98 = ~z~Flaco Hernandez! I don't want any trouble.
+
+0xC940AA7D = ~z~You ain't getting in here.
+
+0xC21918C0 = ~z~Flaco Hernandez. You in there?
+
+0xC990982D = ~z~I don't mean no harm, okay? I just want to speak to Hernandez.
+
+0xCD0B86CF = ~z~Put your weapons away... and I'll come out.
+
+0xCDF24C45 = ~z~
+
+0xD252D433 = ~z~You wanna talk? Holster it.
+
+0xD2686237 = ~z~You don't want to die for Hernandez, do you?
+
+0xDB874F0A = ~z~Who's that?
+
+0xDBBDE144 = ~z~~sl:1.0:0.0~You don't want to die for Hernandez, do you?
+
+0xDC33E8C8 = ~z~This one won't miss!
+
+0xDFD63EF9 = ~z~Don't shoot this fool... he's having words with the boss.
+
+0xE0282418 = ~z~I ain't avenging that fool. Come on.
+
+0xE1ADE99F = ~z~I'm unarmed.
+
+0xE7D36434 = ~z~I didn't want trouble, but... I'm just here to speak with you... about Boy Calloway.
+
+0xE92119EC = ~z~Got a man coming through... he's just got some questions to ask.
+
+0xEA130A2C = ~z~Ach... okay. If it's just questions... he's up in the cabin.
+
+0xEC55C7C7 = ~z~I don't mean no harm. I just want to speak to Hernandez.
+
+0xF5F3122D = ~z~I'm unarmed.
+
+0xF8B0DBC2 = ~z~You better not be full of hot air... on you go.
+
+0xF497CD50 = ~z~You in the wrong camp, stranger.
+
+0xFB223C17 = ~z~You'd be better off freezing than staying here... off with you!
+

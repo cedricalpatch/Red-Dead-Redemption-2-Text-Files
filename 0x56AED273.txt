@@ -1,0 +1,22 @@
+0x3EF519A6 = ~z~Good for you.
+
+0x4AB408D8 = ~z~I meant no harm. Quite a place you got.
+
+0x5CEAAD45 = ~z~It's very nice, but it ain't mine.
+
+0x9F2931C1 = ~z~Nothing... just... looking around.
+
+0x70C2FD41 = ~z~~sl:0.3~I guess... pretty good pay for me, though.
+
+0x70F25554 = ~z~This is private property.
+
+0x24673C3B = ~z~~sl:1.0~What do you want?
+
+0xAE76507F = ~z~Travelling, huh? Lucky them.
+
+0xD1ED9771 = ~z~Feller here had some back luck himself... him and his family got hit hard by the sickness...
+
+0xE082349A = ~z~Him and his daughter went off travelling, trying to deal with the sadness, I guess.
+
+0xFBF8EB87 = ~z~~sl:1.0~I'm farming it for some other feller. I had some bad luck on my place.
+

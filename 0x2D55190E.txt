@@ -1,0 +1,14 @@
+0x4A651CEE = ~z~
+
+0x5B64BEED = ~z~~sl:0.0:2.5~I know, but go to bed...~sl:1.4:2.4:1~Please... Karen...
+
+0x6CF5E20F = ~z~~sl:0.0:1.4:1~I'm fine!
+
+0x9486B130 = ~z~
+
+0xA6C155A5 = ~z~~sl:3.0~Leave me alone!
+
+0xB7F4780B = ~z~~sl:0.0:1.2:1~Go to bed...
+
+0xFCE381E8 = ~z~Go to bed, Karen...
+

@@ -1,0 +1,22 @@
+0x7C0C4920 = ~z~~sl:0.0:4.3~The thing you ain't understanding properly, Hosea, is this.~sl:0.5:2.0~You're the one with the death wish.~sl:~I am doing everything I can to keep these people alive.
+
+0x9F638FCE = ~z~~sl:0.0:3.5~And none of them dumb enough to take that pass in winter,~sl:0.0:2.3~or think us fool enough to do it neither.~sl:0.2:1.3~We got a few weeks.~sl:0.0:2.3~By the time they find out where we are,~sl:~we'll be gone.
+
+0x106071C6 = ~z~
+
+0xB1A07343 = ~z~
+
+0xC0DAD2BC = ~z~~sl:0.0:0.9~Pinkertons!~sl:0.0:1.7~Lots of them and bounty hunters too.~sl:0.0:1.8~More than ever before, and all after us.~sl:~We was set up in Blackwater.
+
+0xD525FB52 = ~z~I ain't got that yet.
+
+0xE75A9FB7 = ~z~Where to?
+
+0xE84AA197 = ~z~But this ain't done...
+
+0xE708DE2F = ~z~
+
+0xEE1F2D44 = ~z~Not no way.
+
+0xF9884412 = ~z~
+

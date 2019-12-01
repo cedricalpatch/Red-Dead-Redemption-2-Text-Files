@@ -1,0 +1,170 @@
+0x00FBEFC5 = Bag stolen
+
+0x027D460E = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~ from ~COLOR_ENEMY~~1~
+
+0x02DF2611 = Deliver the bag to the ~COLOR_MP_OBJECTIVE~recipient~s~
+
+0x05C4A155 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~bags~s~
+
+0x0628429B = Bags stolen
+
+0x0780A336 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~bag~s~
+
+0x0806F9EA = Holster weapons and equipment before speaking with the recipient.
+
+0x0AB70012 = Your Posse stole a bag
+
+0x0B90CF8E = ~1~/~2~ mail deliveries stolen
+
+0x0DA5FC62 = Mail stolen
+
+0x0DB2D07B = You delivered a bag
+
+0x0FEF54C9 = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~mailbag~s~
+
+0x1B2445A0 = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~
+
+0x2CBF785F = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~ from ~COLOR_ENEMY~~1~
+
+0x3F424EE5 = Bag stolen by rival Posse
+
+0x3FF9BC00 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~
+
+0x4A0B9C44 = Deliver the bag to the ~COLOR_MP_OBJECTIVE~recipient~s~
+
+0x4AFDA422 = Bag delivered
+
+0x4CD50C9A = Deliver the mail to the ~COLOR_MP_OBJECTIVE~mailbox~s~
+
+0x4EFD0E93 = ~1~ delivered some mail
+
+0x4F3B5C2D = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~
+
+0x6BB50C99 = ~COLOR_ENEMY~Rival players~s~ can steal the bag
+
+0x6E04B96F = Bags delivered
+
+0x6ECD0301 = Bags delivered by rival Posse
+
+0x6F5C0DA6 = Mail stolen
+
+0x7C067AA1 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~bag~s~ to the ~COLOR_MP_OBJECTIVE~recipient~s~
+
+0x7D5B52B5 = The bag was lost
+
+0x8B7E50A0 = A bag has been delivered
+
+0x8C6EA1E6 = Mail stolen by rival Posse
+
+0x8F4D1E9E = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~mailbag~s~
+
+0x9BC06F0B = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~mail
+
+0x9C5E19D3 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~ from ~COLOR_ENEMY~~1~
+
+0x9C71937E = The bags were lost
+
+0x18FEE28C = Deliver the mail to the ~COLOR_MP_OBJECTIVE~recipient~s~
+
+0x23CF64B8 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~bags~s~ from ~COLOR_ENEMY~~1~
+
+0x53C689D1 = You stole some mail
+
+0x54E0A617 = ~COLOR_ENEMY~~1~~s~ is trying to steal the mail
+
+0x56E537E2 = ~1~ triggered a rival mission against ~2~. Steal and turn in the mail ~3b~ to gain the full reward.
+
+0x59FEB08A = ~1~/~2~ bags delivered
+
+0x71FA5F96 = ~1~ delivered a bag
+
+0x72C7C8D1 = You triggered a rival mission against ~1~. Steal and turn in the mail ~2b~ to gain the full reward.
+
+0x74C66DA9 = You delivered some mail
+
+0x76EA4119 = ~1~/~2~ bags stolen
+
+0x83C40540 = Your Posse delivered some mail
+
+0x92CABE0D = ~1~ stole a bag
+
+0x97B018C9 = Goods destroyed
+
+0x334D3E18 = Deliver the bags ~1b~ to the recipients within the time limit to earn the full reward.
+
+0x386A973C = Some mail has been stolen
+
+0x440C2890 = Bag stolen
+
+0x752C1C68 = You triggered a rival mission against ~1~. Steal and turn in the bag ~2b~ to gain the full reward.
+
+0x799C37A5 = ~COLOR_ENEMY~~1~~s~ is trying to steal the bag
+
+0x898BD30E = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~
+
+0x907A3FFA = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~mail~s~ from ~COLOR_ENEMY~~1~
+
+0x3260C845 = You stole a bag
+
+0x5349F456 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~bag~s~ from ~COLOR_ENEMY~~1~
+
+0x9085FA0B = Deliver the bag ~1b~ to the recipients within the time limit to earn the full reward.
+
+0x4996504E = ~COLOR_ENEMY~Rival players~s~ can steal the bags
+
+0xA3C075C6 = Deliver the mail to the ~COLOR_MP_OBJECTIVE~recipient~s~
+
+0xA9CED7B7 = ~1~ stole some mail
+
+0xA12FF66F = ~1~ triggered a rival mission against ~2~. Steal and turn in the bag ~3b~ to gain the full reward.
+
+0xA14B1789 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~mail
+
+0xA5769FEA = ~COLOR_ENEMY~~1~~s~ is trying to steal a bag
+
+0xAD4CD352 = A bag has been stolen
+
+0xB1BCBFEB = ~1~ triggered a rival mission against ~2~. Steal and turn in the bags ~3b~ to gain the full reward.
+
+0xB1CFA962 = Bags stolen
+
+0xB3F61AA0 = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~bags~s~
+
+0xB9A7B221 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~bag~s~ from ~COLOR_ENEMY~~1~
+
+0xC7BD60A7 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~bags~s~ to the ~COLOR_MP_OBJECTIVE~recipients~s~
+
+0xC58AB699 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~mail
+
+0xC88422A3 = Some mail has been delivered
+
+0xCA6D4B98 = ~1~/~2~ mail deliveries made
+
+0xCAE61B09 = The mail was lost
+
+0xCC22D012 = Deliver the mail ~1b~ to a series of recipients within the time limit to earn the full reward.
+
+0xCFD9D67C = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~mail~s~
+
+0xE1D6F4F0 = Bags stolen by rival Posse
+
+0xE4DDE093 = Deliver the mail to the ~COLOR_MP_OBJECTIVE~mailbox~s~
+
+0xE74008D2 = You can only carry one bag at a time.
+
+0xF1A6F9C4 = You triggered a rival mission against ~1~. Steal and turn in the bags ~2b~ to gain the full reward.
+
+0xF1BADC5F = Mail delivered
+
+0xF6CC5C51 = Pick up one of the ~COLOR_MP_OBJECTIVE_NEUTRAL~bags~s~
+
+0xF5901893 = Mail delivered by rival Posse
+
+0xFA93DF73 = Bag delivered by rival Posse
+
+0xFC7F7D34 = Your Posse delivered a bag
+
+0xFC29C95B = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~bags~s~ from ~COLOR_ENEMY~~1~
+
+0xFD992529 = Your Posse stole some mail
+

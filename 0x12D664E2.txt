@@ -1,0 +1,440 @@
+0x0025073D = ~z~Show him he hasn't. ~rp~It's what you owe.
+
+0x03C06D09 = ~z~We're officers of the law... this ain't none of your concern.
+
+0x041842B4 = ~z~that bastard is holed up tight as he can be.
+
+0x04D7502F = ~z~Show them all the mercy they would'a shown us.
+
+0x06A110B9 = ~z~Okay.
+
+0x094F95EE = ~z~and remember, these are the people that put you in jail.
+
+0x0A55FB01 = ~z~I swore I would kill them, each and every one of them.
+
+0x0AB19A12 = ~z~Besides, he's holed up in there besieged by marshals.
+
+0x0B952702 = ~z~I did it...
+
+0x0C747532 = ~z~Shoot that bastard!
+
+0x0CFB4934 = ~z~I can imagine.
+
+0x1A5B6F3A = ~z~I've already had two men shot since last we spoke.
+
+0x1B6A7D55 = ~z~Put one in their backs.
+
+0x1C3D1ECF = ~z~I will do.
+
+0x1C6648A4 = ~z~and he was begging for his life.
+
+0x1D083EBF = ~z~Perhaps, but...
+
+0x1E61A78B = ~z~Why, that's a sin and that's good.
+
+0x1F446EEE = ~z~Yes.
+
+0x2A9A24C7 = ~z~You think I'm afraid of you fools?
+
+0x2A29E267 = ~z~~sl:0.0:3.9~But I hope, either way, good, bad or plain indifferent,~sl:0.3:2.0~~rp~after all she has done for you,~sl:~that you will be loyal to my mistress.
+
+0x2AF7BC1C = ~z~Teddy Brown...
+
+0x2B0E569C = ~z~Lady, that's none of your damn business.
+
+0x2C25DBC2 = ~z~and no one will know you had anything to do with it.
+
+0x2D0B0A7B = ~z~My associates...
+
+0x2D2A4E47 = ~z~Up here. Come on.
+
+0x2D405624 = ~z~~sl:0.0:4.4~Now, I know you're willing to do good and bad as it suits you,~sl:0.3:2.2~and ~rp~maybe that's everyone's right,~sl:~and maybe it's the right way to be.
+
+0x2E52EC7D = ~z~no woman would ever marry his kind.
+
+0x2F67EE02 = ~z~Let's see if there's anything left of Brown underneath that helmet.
+
+0x3A410E08 = ~z~Stay with me.
+
+0x3B4E0C3E = ~z~Lay waste to the bastards!
+
+0x3B73F28B = ~z~~sl:0.0:2.5~You seem to live by your own rules.~sl:0.4:2.1~~rp~In some ways I admire that,~sl:0.4~~rp~although maybe at times you seem a touch...
+
+0x3C55FE54 = ~z~God damn you...
+
+0x3CE47D3F = ~z~It's too early to show your hand, madam.
+
+0x3DB08A97 = ~z~~sl:0.0:0.6~That it?~sl:1.2~I think we're clear.
+
+0x3FBC82EF = ~z~what good did a marshal ever do anyone?
+
+0x4B3E50FF = ~z~Well...
+
+0x5A26E49E = ~z~there's folk in Blackwater...
+
+0x5C2A838C = ~z~You'll pay.
+
+0x5C1837A8 = ~z~I know you don't care so very much for what's right and wrong.
+
+0x5F116D5B = ~z~My Lord, look at you...
+
+0x6B1C09FD = ~z~Mount up, we got to go.
+
+0x6CB2C42C = ~z~and gave you your freedom?
+
+0x6CEBC73A = ~z~You see the cannon?
+
+0x6CFE0938 = ~z~I read about this.
+
+0x7A9A2470 = ~z~Amos Lancing and Jeremiah Shaw perhaps?
+
+0x7A46AF0F = ~z~You have, huh?
+
+0x7AAF77CC = ~z~stay here.
+
+0x7ABF62E1 = ~z~The cannon's there!
+
+0x7B2775EB = ~z~Direct your fire at the barricade.
+
+0x7D04605C = ~z~he's just a second rate, common no good horse thief.
+
+0x7F44AEDD = ~z~I think I've found a way of ensuring they don't get themselves shot...
+
+0x7F191D24 = ~z~They don't tell you that a thing can be both. Well... they often are.
+
+0x7F837D11 = ~z~~sl:0.0:3.0~The marshal and his men were in hot water when I left them,~sl:0.3~~rp~pushed off their guns and almost out of the fight.
+
+0x8A45C3C7 = ~z~Y'know, I don't know... maybe.
+
+0x8ACC1A45 = ~z~well, you'll wind up in jail, or worse...
+
+0x8B69AC78 = ~z~Do as much damage as you can.
+
+0x8C824958 = ~z~and what's more...
+
+0x8D2DDCDC = ~z~~sl:0.0:2.5~That's each person's business, I mean.~sl:0.6~So ~rp~I'm not going to appeal to your sense of civic justice here.
+
+0x8DE96709 = ~z~Damn you.
+
+0x8DF8AA07 = ~z~~sl:0.0:4.4~Kill Teddy Brown. ~rp~Not out of vengeance, or righteousness,~sl:~but out of duty to her, compassion for her.
+
+0x9A3E1492 = ~z~Let's hope things have improved a touch.
+
+0x9B7DEF97 = ~z~Now, take out his boys.
+
+0x9B29E18A = ~z~Let's stay with them, give them support.
+
+0x9C6905A6 = ~z~Stay with me, now.
+
+0x9CEDC7F1 = ~z~~sl:0.0:2.3~He thinks he got away with taking my master,~sl:0.0:1.7~and taking your freedom...~sl:0.6~~rp~show him he hasn't. ~rp~It's what you owe.
+
+0x9D20BEEE = ~z~You kill him and the rest of his boys...
+
+0x9E40D23B = ~z~Take him down.
+
+0x9E67C17C = ~z~You know it and I know it.
+
+0x16AD9DAA = ~z~~sl:0.0:2.9~Kill Teddy Brown because he took that time from you~sl:~and almost sent you to the gallows.
+
+0x19A13691 = ~z~So don't overly concern yourself with pity.
+
+0x20B2599D = ~z~~sl:0.0:2.6~He thinks he got away with taking my master,~sl:0.0:1.7~and taking your freedom...~sl:0.6~~rp~show him he hasn't. ~rp~It's what you owe.
+
+0x26F7CBFB = ~z~~sl:0.0:3.6~He wears a gun on his hip like the one that shot my master.~sl:0.5~~rp~He's dangerous.
+
+0x38F46237 = ~z~~sl:0.0:2.0~That's each person's business, I mean.~sl:0.5~So ~rp~I'm not going to appeal to your sense of civic justice here.
+
+0x39F6412B = ~z~~sl:0.0:1.8~The armor's going to slow you down,~sl:0.3~but God knows you'll need it.
+
+0x40FB11CD = ~z~ I did kill him.
+
+0x41D89970 = ~z~That metal won't hold forever.
+
+0x43E1D2FB = ~z~
+
+0x53F52C98 = ~z~I believe Teddy Brown killed my husband.
+
+0x54AD3F19 = ~z~Get him.
+
+0x54FF3811 = ~z~~sl:0.0:4.4~Now, I know you're willing to do good and bad as it suits you,~sl:0.3:2.2~and ~rp~maybe that's everyone's right,~sl:~and maybe it's the right way to be.
+
+0x56E62EED = ~z~~sl:0.9~Teddy Brown's going to pay for this.
+
+0x63CA55A7 = ~z~~sl:0.0:2.5~You seem to live by your own rules.~sl:0.4:2.1~~rp~In some ways I admire that,~sl:0.4~~rp~although maybe at times you seem a touch...
+
+0x67C50C61 = ~z~Now, put a cannon ball into that gate.
+
+0x67F3803B = ~z~But...
+
+0x69B4648D = ~z~The fort is protected by blockades, see? At the front and rear.
+
+0x73CDED3F = ~z~God damn you.
+
+0x76DF11CF = ~z~You got him!
+
+0x77FC7119 = ~z~We lost a good man, there.
+
+0x78D0036F = ~z~Shit.
+
+0x79A377F4 = ~z~If he did so, he did it on behalf of his sister...
+
+0x80E99778 = ~z~Keep firing.
+
+0x85B50AE1 = ~z~Kill Teddy Brown because you owe it to us, me and my mistress.
+
+0x87DE3AF3 = ~z~Okay, men. Advance.
+
+0x88FD5ECB = ~z~Come on. Let's get this done.
+
+0x89C2A35F = ~z~Your husband?
+
+0x90E87B82 = ~z~~sl:0.0:2.4~You seem to live by your own rules.~sl:0.3:2.2~~rp~In some ways I admire that,~sl:0.5~~rp~although maybe at times you seem a touch...
+
+0x98FD9852 = ~z~Oh, I am being sensible.
+
+0x148A2994 = ~z~Then I guess we'll kill the lot of them.
+
+0x189A2F40 = ~z~~sl:0.0:2.6~I've tried to make the fight somewhat even...~sl:0.7~~rp~just wait 'til we get there, okay?
+
+0x200C5839 = ~z~~sl:0.0:2.4~You seem to live by your own rules.~sl:0.3:2.2~~rp~In some ways I admire that,~sl:0.5~~rp~although maybe at times you seem a touch...
+
+0x363F1CCF = ~z~One of the worst.
+
+0x406C867D = ~z~No...
+
+0x435D0928 = ~z~Please.
+
+0x450F23A4 = ~z~Hey, where you going?
+
+0x500E25C0 = ~z~God damn you, Teddy Brown.
+
+0x505E2432 = ~z~That's why we'll send in our professionals to get the job done...
+
+0x517A0DBB = ~z~I know you're trying to do what's good. ~rp~God knows that's hard.
+
+0x531C5170 = ~z~Men, on me.
+
+0x547AEB77 = ~z~~sl:0.0:3.5~God knows, you've killed before, so do this now...~sl:0.5~even though it's right.
+
+0x550F39F5 = ~z~That little milksop.
+
+0x602BADBA = ~z~You getting on the cannon?
+
+0x644DF3D3 = ~z~We're moving up.
+
+0x655D4A57 = ~z~Bring the barricade down! The wall, too.
+
+0x655DDA92 = ~z~I guess I imagined he was your brother...
+
+0x723DFCA4 = ~z~The marshal and his men were in hot water when I left them, ~rp~pushed off their guns and almost out of the fight.
+
+0x760BA8EE = ~z~Take out the gate.
+
+0x774CB9D0 = ~z~Who the hell are you ,anyway?
+
+0x811AC343 = ~z~It's down! Push inside and find Mr. Brown.
+
+0x884FB4B0 = ~z~He's down.
+
+0x935F67CC = ~z~We have an opening! Let's get in there and find him.
+
+0x975A3457 = ~z~Who.
+
+0x1490F94B = ~z~Check on Brown.
+
+0x3241FCA4 = ~z~~sl:0.0:3.7~Now, I know you're willing to do good and bad as it suits you,~sl:0.6:2.1~and ~rp~maybe that's everyone's right,~sl:0.4~and maybe it's the right way to be.
+
+0x3263FD00 = ~z~~sl:0.0:3.9~Kill Teddy Brown. ~rp~Not out of vengeance, or righteousness,~sl:~but out of duty to her. Compassion for her.
+
+0x3811D678 = ~z~But, Mrs. LeClerk...
+
+0x3950F321 = ~z~Who?
+
+0x3978F7A0 = ~z~Marshals...
+
+0x4201EA58 = ~z~I'm afraid my mind's made up.
+
+0x4778BF42 = ~z~Teddy Brown is a bad man...
+
+0x5800C5C0 = ~z~Keep firing at the bastard.
+
+0x6735D319 = ~z~her husband, or Jeremiah Shaw.
+
+0x8720E77F = ~z~~sl:0.0:3.7~Now, I know you're willing to do good and bad as it suits you,~sl:0.6:2.1~and ~rp~maybe that's everyone's right,~sl:0.4~and maybe it's the right way to be.
+
+0x21208D79 = ~z~
+
+0x30372BA6 = ~z~
+
+0x50710E45 = ~z~Man that cannon!
+
+0x77767EC3 = ~z~Husband.
+
+0x79799E2A = ~z~Come on.
+
+0x906120EF = ~z~There's the fort. ~rp~We'll find the marshal.
+
+0x8876124C = ~z~Dammit! Man down.
+
+0x9083805E = ~z~Where you off to?
+
+0x24643917 = ~z~~sl:0.0:1.9~God knows, you've killed before...~sl:0.5:1.4~so do this now.~sl:1.3~Even though it's right.
+
+0x26663321 = ~z~From the way I see it...
+
+0x85709084 = ~z~Who killed my husband?
+
+0xA4BEE86F = ~z~~sl:0.0:2.2~Well, killing Teddy Brown, for that lady...~sl:~my mistress, who lost everything...
+
+0xA8D81D21 = ~z~Now clear out that fort and find Mr. Brown.
+
+0xA9D5E4CF = ~z~~sl:0.0:2.9~Retake those guns, or use your own explosives~sl:0.0:2.2~to get them blockades down...~sl:~or you could try to climb those ladders, at the side there?
+
+0xA808FF4D = ~z~My friends...
+
+0xA2667520 = ~z~Put those on.
+
+0xA9619553 = ~z~~sl:0.0:3.2~Kill Teddy Brown because he took that time from you~sl:~and almost sent you to the gallows.
+
+0xAA33A13B = ~z~You're to stay with me.
+
+0xAB111821 = ~z~Confused? ~rp~Confusing? I don't know.
+
+0xAE34BBC0 = ~z~Stay in the fight.
+
+0xAFBC19FD = ~z~That's too bad.
+
+0xB09365D3 = ~z~and we will never find out who killed your husband.
+
+0xB0B111B5 = ~z~like your deputies.
+
+0xB3A06746 = ~z~Thank you.
+
+0xB5F82675 = ~z~Luckily...
+
+0xB9D6F950 = ~z~Hello, Mrs. LeClerk.
+
+0xB62D9B96 = ~z~let me take you up.
+
+0xB3371A36 = ~z~Get on your horse.
+
+0xB2493003 = ~z~Hey, if you're inside there, make Brown and his boys pay.
+
+0xBC2C097B = ~z~~sl:0.0:2.2~We had some cannons in place to take them out,~sl:~but we got pushed off our line.
+
+0xBC9D1165 = ~z~~sl:0.0:3.1~Wears a gun on his hip like the one that shot my master.~sl:0.1~~rp~He's dangerous.
+
+0xBDAA792A = ~z~~sl:0.0:2.3~Well, killing Teddy Brown, for that lady...~sl:~my mistress, who lost everything...
+
+0xBFDB63B3 = ~z~Take that fort. Teddy Brown is in there somewhere.
+
+0xC0265FA3 = ~z~Stay with me.
+
+0xC3A4852E = ~z~They don't tell you that a thing can be both... well, they often are.
+
+0xC5DF8BC4 = ~z~We shall be in touch.
+
+0xC20C15E2 = ~z~Guess I got to do you with a normal bullet, then.
+
+0xC53D55A4 = ~z~Scum.
+
+0xC57ABEBD = ~z~Come on, we've got to go.
+
+0xC140AD9E = ~z~My mistress is in quite a mood already. Leave her.
+
+0xC385B646 = ~z~Australian I believe...
+
+0xC860C5A5 = ~z~Men, it's safe. I need you up here, clearing these blockades.
+
+0xCAAD6F0B = ~z~~sl:0.0:3.1~Kill Teddy Brown, out of respect for her.~sl:0.5:2.6~~rp~He thinks he got away with taking my master,~sl:~and taking your freedom.
+
+0xCABAC08A = ~z~She don't need you bothering her.
+
+0xCB0ED0A2 = ~z~I've brought in the cavalry.
+
+0xD003FF5E = ~z~Where you going?
+
+0xD07400FD = ~z~You get close enough and you'll see.
+
+0xD4E28F4E = ~z~What're you doing here? Can't you see there's a siege on?
+
+0xD5F9D725 = ~z~Come on. Let's push up with them.
+
+0xD5F560CE = ~z~~sl:0.0:1.4~We got them pinned back.~sl:~Men, get up here and clear these blockades.
+
+0xD61A41DC = ~z~Bring them to heel.
+
+0xD3518CF9 = ~z~Madam, I implore you to be sensible.
+
+0xD7242E4D = ~z~That's one down, three to go.
+
+0xDAB591B5 = ~z~Dammit, that's Brown. Must'a made some armor of his own.
+
+0xDBD0EA54 = ~z~Dead or alive.
+
+0xDCDEFBAF = ~z~Let's see how that armor does against an exploding bullet.
+
+0xDE6A756F = ~z~Let's clean up the rest of them.
+
+0xDE590CDC = ~z~Let's stop that cockroach from crawling under a rock, shall we?
+
+0xDF3DEDB6 = ~z~always wanted to see if it works.
+
+0xDF942FF4 = ~z~They're turning tail.
+
+0xE3C1CAFB = ~z~You.
+
+0xE5ED5BAF = ~z~Pathetic really.
+
+0xE8A34216 = ~z~They're trying to run.
+
+0xE9D4065E = ~z~Bring us Teddy Brown.
+
+0xE9EBC7CF = ~z~They were on the other side of this.
+
+0xE9F8FF06 = ~z~Leave Mrs. LeClerk alone.
+
+0xE22FCA01 = ~z~ Killed.
+
+0xE69A5428 = ~z~Confused? ~rp~Confusing? I don't know.
+
+0xE91A5239 = ~z~Mr. Horley, pay our friends for their service.
+
+0xE145A2A0 = ~z~And he's made himself very hard to kill.
+
+0xE153FD2C = ~z~So to speak.
+
+0xEABC1769 = ~z~I'm going to blow your head to mush inside that tin can.
+
+0xF0233070 = ~z~Go on, it's time to question Mr. Brown.
+
+0xF0C772B1 = ~z~In those get ups... you'll have more luck than we had.
+
+0xF4B9ECC3 = ~z~Madam...
+
+0xF8AD8133 = ~z~Who put you up it?
+
+0xF18D1258 = ~z~powerful folk, who asked my boss to get me to leave him alone.
+
+0xF37AE276 = ~z~~sl:0.0:2.9~Kill Teddy Brown, out of respect for her.~sl:0.3:2.9~~rp~He thinks he got away with taking my master,~sl:~and taking your freedom.
+
+0xF50E6FBE = ~z~My.
+
+0xF205C994 = ~z~~sl:0.0:2.2~Unless you're bringing me the head of Teddy Brown,~sl:~I would ask you to take a walk.
+
+0xF806A2C3 = ~z~Come on.
+
+0xF2647CF3 = ~z~I've tried to make the fight somewhat even... ~rp~just wait 'til we get there, okay?
+
+0xF2927D57 = ~z~~sl:0.0:2.9~Brown's shown himself to be a desperado...~sl:0.3~~rp~more than his other three conspirators.
+
+0xF5606E38 = ~z~Come with me...
+
+0xFA607BB4 = ~z~But I hope that you will be loyal to my mistress.
+
+0xFCF03464 = ~z~How you getting on, Marshal?
+
+0xFF86FD16 = ~z~~sl:0.0:2.7~Brown's shown himself to be a desperado...~sl:0.5~~rp~more than his other three conspirators.
+
+0xFF5096C2 = ~z~~sl:0.0:4.8~But I hope, either way, good, bad or plain indifferent,~sl:0.0:2.6~~rp~after all she has done for you,~sl:~that you will be loyal to my mistress.
+

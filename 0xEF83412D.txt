@@ -1,0 +1,90 @@
+0x085D5FDD = Go to the top of the ~o~lighthouse~s~
+
+0x0C241C99 = Keep up with ~o~John~s~
+
+0x1FE112F0 = Return to ~o~ Beaver Hollow~s~
+
+0x2C8C3410 = The money was abandoned.
+
+0x2D1FA0A7 = Go to the ~o~pier~s~
+
+0x4FD4CE05 = Return for the money
+
+0x5D321429 = A getaway horse has died.
+
+0x7C0AE919 = Return to ~o~John~s~.
+
+0x8C5D450B = Find the ~o~money~s~
+
+0x29B1E66B = Chest
+
+0x46ADB9AD = Leave the ~o~caves~s~
+
+0x55D96500 = Call out
+
+0x121E04B0 = Fight your way to ~o~Beaver Hollow~s~
+
+0x993BCC18 = You abandoned Beaver Hollow.
+
+0x8017F688 = Fend off the ~e~pursuers~s~
+
+0x8751E845 = All them years
+
+0x9072BE41 = Use ~INPUT_MOVE_UD~ to crawl to the gun.
+
+0x685648C8 = Ride
+
+0x93380985 = Escape with ~o~John~s~
+
+0xA0535E66 = Fend off the ~e~Pinkertons~s~
+
+0xA47E8B3F = Take out the ~e~Pinkertons~s~
+
+0xA3771AA3 = Grapple
+
+0xA750640D = Enter the ~o~building~s~
+
+0xAA1F11A7 = The Pinkertons were alerted.
+
+0xB4072EE7 = Mount Horse
+
+0xBB086BE9 = Help John get to safety
+
+0xC94EC17A = Kill ~e~Micah~s~
+
+0xC4796A39 = Grab
+
+0xCCE2DC07 = Fend off the ~e~pursuers~s~
+
+0xD63DD846 = Crawl
+
+0xD93D903A = Cover John's escape
+
+0xD794F16B = Follow ~o~John~s~
+
+0xD830C9F9 = Climb out of the ~o~caves~s~
+
+0xDA26F755 = Cover ~o~Sadie~s~
+
+0xDAF7744E = Sadie and Abigail were abandoned.
+
+0xE1D3433F = Return to ~o~Van Horn~s~
+
+0xE4BD3C4E = You fell off the cliff.
+
+0xE9E56D62 = Follow ~o~John~s~ through the caves
+
+0xE768CE1D = Mount up with ~o~Sadie~s~
+
+0xE67711EB = Kill ~e~Micah~s~
+
+0xEA0C88DA = You lost John.
+
+0xEB3B4600 = Follow ~o~Sadie~s~ to reach Van Horn safely
+
+0xF7F26F30 = Get to the ~o~horses~s~
+
+0xF4351206 = Return to ~o~Beaver Hollow~s~
+
+0xFEB04FC8 = Crawl to the gun
+

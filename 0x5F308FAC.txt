@@ -1,0 +1,578 @@
+0x0026F08D = ~z~Yeah, he was a real annoying little bastard... I should have shot him, but I'm trying to be a good boy.
+
+0x0193FFC8 = ~z~~sl:0.0:2.8~So he needs yous to destroy all the evidence.~sl:0.4:2.0~It's on wagons from Manzanita~sl:~and passing through Tall Trees and Great Plains.
+
+0x01FBD9C6 = ~z~Be on your way.
+
+0x0321CF36 = ~z~I'm clean out of work right now, friend.
+
+0x038603AC = ~z~~sl:0.0:2.3~But now the law has stabbed him in the back,~sl:~stolen his contraband and has a warrant out for his arrest.
+
+0x03F22DD9 = ~z~~sl:0.0:1.5~Yes, a bloody louse~sl:~whose squealing about matters back home that are best left un-squealed about.
+
+0x0488C91E = ~z~~sl:0.0:2.8~Done all manner of almost unspeakable things...~sl:0.5~stolen kiddie milk, annoyed old ladies, worn hats in church.
+
+0x06FB176A = ~z~Look the hell out.
+
+0x074E31B2 = ~z~You'll get yourself killed if you do this again.
+
+0x085920A6 = ~z~~sl:0.0:3.2~Some folks needs murdering, and that's a fact.~sl:~An undeniable fact. All these bastards needs killing.
+
+0x08BF5C47 = ~z~That's how it goes, I guess.
+
+0x0B6D513C = ~z~~sl:0.0:5.2:1~So... someone just sent me this, another of these notes.
+
+0x0B7F39B4 = ~z~Well, good luck out there.
+
+0x0CF1131A = ~z~My Lord, but that was a bad business.
+
+0x0ED01FA2 = ~z~~sl:0.0:3.3~And try not to get yourself served up as lunch, eh? ~sl:~I imagine it's an unpleasant experience... on the whole.
+
+0x0F1B140C = ~z~And now they want to kill him, they do.
+
+0x0F9B269F = ~z~Would you take it, already?
+
+0x0FD9EA7C = ~z~Nah, we lived like sultans in our fucking tents.
+
+0x0FF2F5B4 = ~z~You best go, you fool.
+
+0x1AEFC5D3 = ~z~~sl:0.0:3.0~They've been acting like they're the kings of the country, so they have,~sl:~and yous need to teach them a lesson.
+
+0x1BAFB097 = ~z~Well, let's hope that wasn't your finest hour, eh?
+
+0x1C8A0829 = ~z~Lose the law before speaking to me, partner.
+
+0x1D5EB093 = ~z~~sl:0.0:2.1~They've framed a friend of mine, Alan.~sl:0.4:2.3~They framed him for a crime he did commit.~sl:0.3~But... committed fair and square.
+
+0x1E8162C0 = ~z~What is it?
+
+0x2AEE4A36 = ~z~~sl:0.3:2.3~And this has been coming for quite a while.~sl:~They've annoyed too many folk, both good and bad.
+
+0x2B402595 = ~z~Are you fucking mad? Lose the law.
+
+0x2CC4E97D = ~z~The noble art of murder, no less. Yes, murder.
+
+0x2CC554D4 = ~z~Aye, you did a good job, there.
+
+0x2E0A95C8 = ~z~~sl:0.0:3.0~Anyway... there's a stagecoach... another one.~sl:~Full of rich bastards with even richer bastards awaiting 'em.
+
+0x2E45E41F = ~z~~sl:0.0:1.4~Okay, well...~sl:0.5:1.0~so...~sl:0.5~I just got sent this by... a feller I know.
+
+0x2F514DDD = ~z~Go calm the fuck down, partner.
+
+0x2F632CD2 = ~z~Stop that nonsense.
+
+0x3A91B533 = ~z~~sl:0.0:1.9~So you're going to kill them for me,~sl:0.4~and we'll both make a packet, we will. So good luck.
+
+0x3A741AF4 = ~z~~sl:0.0:2.7~And shut old Darragh up once and for all.~sl:0.7:3.0~Nobody likes a loud mouth in our game, eh? Eh?~sl:1.0~Exactly.
+
+0x3BB980DC = ~z~~sl:0.2:1.0~As far as we know,~sl:0.2~they're holding the crates of liquor near Manzanita Post.
+
+0x3D086A4B = ~z~And this loud mouth... you know, one of these annoying idiots talks way too much and says way too little...
+
+0x3E04B7CB = ~z~I can't talk to you right now.
+
+0x3EC94992 = ~z~That type of shite, is it?
+
+0x3F828EF8 = ~z~~sl:0.0:2.4~Now don't go all fucking high and mighty on us, eh, now?~sl:0.4~I know murder is not usually a noble art. But bear with me.
+
+0x3F2211CD = ~z~~sl:0.0:4.2~Point is, he's something in politics and some other worthy folk in politics~sl:~want him killed as that's how democracy works.
+
+0x3FDB3197 = ~z~~sl:0.0:2.8~Look, it's a filthy job, but someone has to do it...~sl:0.3~these bastards need killing, they do.
+
+0x4D48DAA1 = ~z~~sl:0.0:3.3~Bastards are hiding out in Stillwater Creek and Manteca Falls,~sl:~south west of Thieves Landing...
+
+0x4DAB4D37 = ~z~~sl:0.0:2.5~And for a killing, you need professionals.~sl:0.3~So I thought of you as being well-suited.
+
+0x4F5D0EF8 = ~z~I was out drinking the other night, right...
+
+0x5D36B70C = ~z~And my buddy Brendan is spitting vinegar and pissing bile.
+
+0x6AA84B25 = ~z~~sl:0.0:4.0~Now, I've got one word for that, and that word is not right.~sl:0.5~It's not right.
+
+0x6C6A14AD = ~z~I can't chat just now.
+
+0x6CF6E155 = ~z~Bloody take it, won't you?
+
+0x6F7A8489 = ~z~Shit.
+
+0x7A4D095A = ~z~No stopping you, is there?
+
+0x7AE6B8F4 = ~z~~sl:0.0:3.0~You'll make me happy and you'll make my mentor happy,~sl:0.5:2.1~if I ever find the bastard that is...~sl:0.8~good luck now.
+
+0x7B58C188 = ~z~Gives me a real nasty feeling inside.
+
+0x7CC30D66 = ~z~I ain't got work for you, just as yet.
+
+0x7CE806A8 = ~z~I can't chat while you got a price on your head now, can I?
+
+0x7E13944F = ~z~~sl:0.0:2.4~See, this just came my way, dear friend.~sl:0.6:2.0~Here, have a look.~sl:1.0~ Go on.
+
+0x7F2A5D0F = ~z~If you asked nicely, I might be able to give you a job.
+
+0x7F80E42D = ~z~Get out of here, you fool.
+
+0x7FB71313 = ~z~~sl:0.0:1.4~So it should be ripe for the plucking.~sl:0.5:3.1~Head over there and see if you can requisition the thing from dear old Colm~sl:~and do all of us a favour.
+
+0x8B4BB943 = ~z~The best of luck to ya, then.
+
+0x8BB7FFF4 = ~z~You're a fine operator, eh?
+
+0x8D7BF9B2 = ~z~I might be able to put you to work, you know...
+
+0x8D616901 = ~z~and I can't guarantee someone else isn't going to try...
+
+0x8E5C3098 = ~z~Come back later.
+
+0x8EA7D29C = ~z~~sl:0.0:1.8~Well that's just fine and dandy...~sl:0.6~as I've got something I wanted to tell you.
+
+0x8FDF5B7F = ~z~I ain't chatting, right now.
+
+0x9A230044 = ~z~Big bunch, not like you lot.
+
+0x9C2ECE7D = ~z~Let's hope you don't shit this one up like last time, eh?
+
+0x9C7D9814 = ~z~~sl:0.0:3.0~Travelling towards the fair city of Blackwater~sl:0.0:2.6~through the Great Plains area to Manzanita Post...~sl:0.8~perfect.
+
+0x9C76F29F = ~z~~sl:0.0:2.5~One of them luxury ones, protected of course, but...~sl:0.3~that's nothing to a person with your proclivity.
+
+0x9C298685 = ~z~but it'd be a rotten shame to let it pass by.
+
+0x9D8C77F3 = ~z~~sl:0.0:2.5~Bit random, but, could be a nice earner for you, eh?~sl:0.5:1.2~See what you think.~sl:1.4~Go on then.
+
+0x9D44601C = ~z~You looking for...
+
+0x9DFD9BD6 = ~z~~sl:0.0:2.2~Okay... well...~sl:1.0:2.4~this came me way... see?~sl:1.2~Here you go.
+
+0x9F3FB8CE = ~z~You're too high and mighty for the likes of me, friend.
+
+0x9F589DD1 = ~z~~sl:0.0:2.8~Nice boy he is... fine lad...~sl:0.7~be a real shame if got himself hanged...
+
+0x9F154796 = ~z~~sl:0.0:3.8~Should be fun. Wrestling with cannibals, trying not to get eaten...~sl:1.5:1.1~what could be better?~sl:1.5:1.7~Fun for all the family...
+
+0x10B46A5B = ~z~I ain't got nothing for you, just as now.
+
+0x10C2ED82 = ~z~of a bastard I owed a killing to.
+
+0x10EC5B8C = ~z~~sl:1.0:3.0~Thing's running from New Austin to Blackwater.~sl:0.5~Good luck to you now.
+
+0x11BCC90B = ~z~I know the type.
+
+0x13DD1040 = ~z~You did good with that last thing, eh?
+
+0x14B8BFE7 = ~z~Stop that right now.
+
+0x14C74F4C = ~z~What the fuck do you want, eh?
+
+0x16D36DB3 = ~z~~sl:0.0:3.2~Well, that's good, because there's a gang I want to tell you all about.~sl:0.4~Right nasty bastards they is. Awful.
+
+0x20D88FBD = ~z~Cut that shit out.
+
+0x23F85B7A = ~z~~sl:0.0:1.9~But he's some big loud-mouthed feller~sl:~that other loud-mouthed fellers couldn't beat at being loud-mouthed...
+
+0x24CB7B78 = ~z~~sl:0.0:2.9~That's a compliment, so feel free to smile...~sl:0.8~it's a bunch of bastards in Blackwater, so it is.
+
+0x25BB54D8 = ~z~~sl:0.0:3.6~Stealing shine of his and all sorts of nonsense, they is.~sl:0.6~He wants me to ask ya to go destroy it all for him.
+
+0x28FFEE35 = ~z~Are you joking?
+
+0x33FAF157 = ~z~~sl:0.2:2.1~It's them awful Skinner Brothers again.~sl:0.4~They keep robbing a pal of mine, and... he's not a bad feller.
+
+0x34D2C871 = ~z~So, you... you're interested, eh?
+
+0x35DC8E6E = ~z~Get it done then, won't ya?
+
+0x36FF6A9E = ~z~Me neither, but by all accounts, it leaves a sour taste in the mouth.
+
+0x40EDB729 = ~z~~sl:0.0:3.0~So, I met this idiot the other night, right?~sl:0.4~ A real bloody moron they was...
+
+0x51B68899 = ~z~Get the hell out of here.
+
+0x54BB3CFF = ~z~~sl:0.0:4.9~So, they had him arrested and now he's going to testify, so they want him dead...~sl:0.5~whole thing sounds bloody awful, if you ask me.
+
+0x62B4BA0E = ~z~~sl:0.0:2.2~Done all manner of nasty shite.~sl:~Killed, robbed, molested animals. Been unkind to women and dogs.
+
+0x62C0C782 = ~z~~sl:0.0:2.9~Anyone dumb enough to eat a feller is not to be scared of.~sl:0.7~Anyway, they get away with murder.
+
+0x63A380FD = ~z~~sl:0.0:1.3~Well, I ain't one to judge.~sl:0.6:3.4~As long as it's the right people are being killed and robbed...
+
+0x63F32D12 = ~z~You need to get out of here.
+
+0x70DFF548 = ~z~I'm choosing to play dumb on this one, to be frank.
+
+0x71BE7E3B = ~z~~sl:0.5~You need more people in your posse for this one.
+
+0x73C8B082 = ~z~I don't have anything available for you, right now.
+
+0x73E1C6DD = ~z~~sl:0.0:3.6~So I speak as a man of rare experience in the matter.~sl:0.5~So... I've got a stagecoach for yous, another one.
+
+0x77C3228C = ~z~~sl:0.0:1.7~I reckon that could be good for the likes of you...~sl:0.5~nothing too tough... just good times...
+
+0x80BC7E17 = ~z~Good. So, you ever been stabbed in the back by the government?
+
+0x83F8882D = ~z~Guess I don't have anything for you, friend.
+
+0x84C01042 = ~z~Look what the cat dragged in. Looking for work?
+
+0x95E5B8A3 = ~z~I can't be seen speaking to you, while you have a bounty.
+
+0x95E92E12 = ~z~~sl:0.0:3.8~Something to sink your teeth into... deep into...~sl:0.6~you'll love it.
+
+0x113F014A = ~z~Good, so, you do want some work, eh?
+
+0x175EEEBE = ~z~~sl:0.0:3.1~Assume they're heavily armed and pretty nasty...~sl:~pretty nasty indeed. Okay?
+
+0x238DA5E7 = ~z~So, you are in the hunt for business?
+
+0x249CF308 = ~z~~sl:0.0:4.1~It's different, but... I reckon you might enjoy it, you know?~sl:2.0~Have a crack.
+
+0x303F532A = ~z~~sl:0.0:3.3~Okay... well, I was just sent this.~sl:1.2~Might be interesting. Just take a look.
+
+0x355D36BA = ~z~Still waters run deep.
+
+0x390EC132 = ~z~I ain't talking to you while the law wants you.
+
+0x436F4A0E = ~z~~sl:0.0:2.9~And a dear pal of mine hates him something proper...~sl:~and my pal, he's a proper feller.
+
+0x449C0B39 = ~z~~sl:0.0:2.3~So how about you go destroy them for us?~sl:0.4~They're at a shack at Aurora Basin.
+
+0x509FED3F = ~z~I've temporarily lost me friends, it's a fucking disaster.
+
+0x511AAB9E = ~z~~sl:0.0:3.2~And, you know... kill any of them you come across, of course.
+
+0x527C2E6B = ~z~What are you doing?
+
+0x563BDF7A = ~z~Take care then.
+
+0x608AE3CA = ~z~How's about doing it then?
+
+0x634D568D = ~z~~sl:0.0:1.8~Well good work I've got for you...~sl:~something fine and true and necessary.
+
+0x650C8D48 = ~z~~sl:0.0:2.9~Good, so you ever meet Colm O'Driscoll?~sl:0.5~What a clown.
+
+0x691A0418 = ~z~~sl:0.0:3.4~Well, that's just fine because I've got something you'll like.~sl:~Being the angel of vengeance.
+
+0x708C6319 = ~z~Folk get unnecessarily scared of cannibals, in my opinion.
+
+0x709AAC0C = ~z~Now, I don't like to kill innocent folk myself.
+
+0x725CB2F8 = ~z~Anyways, on with ya's.
+
+0x731D2969 = ~z~~sl:0.0:3.4~So when the opportunity to rob some of O'Driscoll's boys came in...~sl:1.3~well, I jumped at it and I reckon you will too.
+
+0x744D1DE7 = ~z~~sl:0.0:4.2~You know, one of these yapping dogs with opinions on everything.~sl:1.0~The absolute worst.
+
+0x774B8223 = ~z~~sl:0.0:1.8~But politics is bad business,~sl:~he's being taken across the Great Plains towards Blackwater.
+
+0x777D2447 = ~z~I had a better idea. I'd leave them for you.
+
+0x900FEAF6 = ~z~But these bastards, well...
+
+0x931C24F3 = ~z~~sl:0.0:1.9~I was thinking it might be fun for ya.~sl:0.4~Different, but fun... you know?
+
+0x964B3368 = ~z~So, it's you. You looking for gainful employment?
+
+0x1540A721 = ~z~~sl:0.0:2.1~He thought he had paid off some officials~sl:~to turn a blind eye to some... innocent smuggling.
+
+0x2885F700 = ~z~Put him six feet under where he belongs. Loud mouth bastard he is.
+
+0x3419FBBD = ~z~~sl:0.0:6.0~Good. So, let me ask you a question, when is a murder not a murder?~sl:1.0~Think about it... no idea? Well I'll tell you...
+
+0x3612E3A1 = ~z~Well done, friend... very well done.
+
+0x3761A876 = ~z~~sl:0.0:2.0~That's what my mentor'd say, you'd like him.~sl:0.4:3.2~Yeah, folks generally do... he's got a great, uh...~sl:~moustache.
+
+0x7514EA66 = ~z~You know, I'm clean out of work for the likes of you, friend.
+
+0x7634F93E = ~z~Lose the bounty and maybe we can talk.
+
+0x8205C732 = ~z~There's a coach running from Blackwater to Lone Mule Stead, find it and take it.
+
+0x8692D054 = ~z~~sl:0.0:3.2~I mean... he's not even really very Irish, but...~sl:~he gives the lot of us a bad name.
+
+0x9228DE03 = ~z~~sl:0.0:2.9~Where I you and not trying to better myself, morally,~sl:0.4~I'd go and kidnap the whole lot of 'em.
+
+0x9768B634 = ~z~Come on, take it.
+
+0x17294A88 = ~z~Watch where you're aiming the gun.
+
+0x24126DB6 = ~z~Ah, you looking for work, that it?
+
+0x29615A2B = ~z~Just take it.
+
+0x61078CE6 = ~z~murder and mayhem.
+
+0x85968D6D = ~z~~sl:0.0:1.5~You know about the Skinner brothers?~sl:0.0:3.7~Well, it's mostly bluster, as they are a bunch of fools,~sl:~but the bluster is loud, I'll grant you that.
+
+0x92103A9C = ~z~You stop that, you hear?
+
+0x96822D40 = ~z~I don't have anything for you, right now.
+
+0x420979E8 = ~z~~sl:0.0:2.8~So, you'll have to destroy all the evidence they're taking~sl:~from Blackwater... through Great Plains. Alright?
+
+0x466622E9 = ~z~~sl:0.0:2.4~Let's hope you just made a mistake last time...~sl:~and aren't actually a moron, eh?
+
+0x684849B7 = ~z~Damn... I heard things went real bad.
+
+0x747622A2 = ~z~~sl:0.0:1.0~I guessed as much...~sl:0.4:4.1~on account of you being not overly interested in the social aspects of~sl:~killing and murdering folk.
+
+0x815783FA = ~z~Listen, I'm out of business right now... come see us another time.
+
+0x862613AF = ~z~Take it.
+
+0x904163A9 = ~z~~sl:0.0:2.9~Should be easy enough, them buggers can't fight,~sl:~and I reckon we should make a decent whack as well.
+
+0x1122117F = ~z~I'm not working with you now, because of that.
+
+0x1219723B = ~z~Hey, cut that out.
+
+0x3216960E = ~z~~sl:0.0:1.9~Bullies who have annoyed a lot of folk there,~sl:~and killed an acquaintance of mine. So vengeance must be sought.
+
+0x6849769E = ~z~~sl:0.0:4.1~Thus, Darragh has go. Yes, he has to go.~sl:0.9~And you're going to send him on his merry way.
+
+0x7596749F = ~z~Look the fuck out.
+
+0x8053263A = ~z~I don't like getting surprised.
+
+0x9389174F = ~z~But their major complaint appeared to be that... you was yellow. You know, a coward.
+
+0x23139227 = ~z~Strong, silent, real frightening.
+
+0x52432687 = ~z~~sl:0.0:2.0~They robbed some crates from a pal of mine.~sl:0.3:1.8~Them crates now need destroying,~sl:~what with discretion being the better part of valor.
+
+0x52504755 = ~z~Good luck out there, eh?
+
+0x60943166 = ~z~Well, gainful I don't know about... but I've got something I wanted to discuss, so...
+
+0x81637304 = ~z~That ain't something I feel qualified to discuss... just thought I'd pass it on...
+
+0x81936240 = ~z~With plenty of loot hidden on it, so they was telling me, plenty of loot.
+
+0xA00454C8 = ~z~Aren't you the cock of the walk and the belle of the ball?
+
+0xA1DA7355 = ~z~Away with you, go on.
+
+0xA5CB3BD3 = ~z~Was gonna put a hole in his head on account of us being friendly and all...
+
+0xA6FF4AA0 = ~z~Who can you trust? It's a bloody scandal, so it is.
+
+0xA9D169C2 = ~z~What happened on that last job? Right fool you made of yourself.
+
+0xA9EA5614 = ~z~~sl:0.0:1.8~Good... good...~sl:0.4~because I've got a fine bit of business you might be interested in.
+
+0xA45AFE02 = ~z~And they particularly seemed to hate you.
+
+0xA47D5C7F = ~z~~sl:0.0:4.1~The fake Irish sack of shite always has himself a few things worth robbing,~sl:0.3~and his gang, well...
+
+0xA88F6D5A = ~z~Put that gun away.
+
+0xA196C1E8 = ~z~Off with you, now.
+
+0xA817D701 = ~z~You know, maybe I got something you might be interested in.
+
+0xA5414BCD = ~z~~sl:0.3~Come back another time.
+
+0xA531152C = ~z~Ah, yeah, yeah...
+
+0xAA3489B9 = ~z~~sl:0.0:3.4~Because your boy Sean knows the only pleasure in shutting someone up,~sl:~is to shut them up personally.
+
+0xAA706885 = ~z~~sl:0.0:2.2~And if you see Colm, put a bullet in him and all.~sl:0.0:2.9~From a real Irishman to a pretend one.~sl:0.7~You got that?
+
+0xAB47B5A8 = ~z~~sl:0.0:3.3~I reckons you go and rob the thing good and proper...~sl:~make yourself rich, eh?
+
+0xAC5EE229 = ~z~Go see what you can find out and cause some mayhem for me, eh?
+
+0xAC75A4E9 = ~z~And I lost the folk I ride with.
+
+0xAC96C866 = ~z~Are you quite finished? Get out of here.
+
+0xACA93872 = ~z~~sl:0.0:1.0~Guessed as much.~sl:0.4:2.9~By the way, did you ever meet Fineas Moss?
+
+0xB4C9BF63 = ~z~Bye now.
+
+0xB4F1DE8B = ~z~I ain't one to judge. But these fuckers have to go.
+
+0xB6F538B4 = ~z~Once was for three months, it was.
+
+0xB9F0FAB3 = ~z~So, you're back, eh? Work it is you'll be wanting, huh?
+
+0xB70BDE54 = ~z~and they're calling you all manner of things.
+
+0xB168CB59 = ~z~You did real good with that last business, eh?
+
+0xB596E57C = ~z~I'm a bad man, and you... well, you ain't... just now, is you?
+
+0xB1619267 = ~z~~sl:0.0:1.4~Stop hanging around.~sl:~You're freaking me out.
+
+0xBA30537C = ~z~~sl:0.0:2.1~Declan was a real sack of shit.~sl:0.5:1.8~I won't bore you with the details, but...~sl:0.6~you'd be doing me a real favor if you could save Fineas for me.
+
+0xBA85542A = ~z~~sl:0.0:3.4~It's bad because... I reckon he did do it, but...~sl:0.1:2.0~I also reckon the bastard he murdered...~sl:0.5~deserved killing.
+
+0xBABC0E91 = ~z~What are you doing? Cut that out.
+
+0xBB618A4B = ~z~~sl:0.0:2.4~He's taken possession of a wagon laden with booty and I...~sl:~I hear they're moving it from Strawberry to some place across West Elizabeth.
+
+0xBF9EF3E5 = ~z~~sl:0.0:4.0~By the way, I like you, I do... I really do...~sl:0.3:3.6~I'm developing a sort of a... a friendship for you...~sl:~even though you lack a certain charm.
+
+0xBF8619C5 = ~z~~sl:0.7~This requires a few more guns, friend.
+
+0xBFA40609 = ~z~You after ungainful employment, friend?
+
+0xC5B940C2 = ~z~~sl:0.0:4.3~Now, I was tempted to kill them, then and there, on account of our friendship...~sl:~but in the end I decided against it.
+
+0xC5C9264B = ~z~~sl:0.7~You'll need a few more guns if you want to do this, partner.
+
+0xC6F7DC21 = ~z~Now, I heard a fella say it's laden with silver.
+
+0xC7A3BEEB = ~z~Is everything alright in that head of yours?
+
+0xC7A6B50C = ~z~What the fuck, buddy!
+
+0xC7A9CB6D = ~z~What's your problem, partner? Get the job done.
+
+0xC7CD8714 = ~z~~sl:0.6~Nicely done.
+
+0xC7D303FD = ~z~~sl:0.0:2.9~Right shite he is, him and his boys.~sl:~I cannot stand them. And I ain't the only one...
+
+0xC55A1453 = ~z~~sl:0.0:0.9~Well, that's good.~sl:0.2:4.0~As I've got something I think you'll probably enjoy.~sl:0.7:1.9~If you don't get yourselves killed.
+
+0xC62A9A2D = ~z~Come on, the clock is running.
+
+0xC88EF036 = ~z~~sl:0.0:1.2~I supposed as much...~sl:1.6:3.7~You still ain't much of a conversationalist now, is you?
+
+0xC589E0E3 = ~z~So long, then.
+
+0xC2130A76 = ~z~~sl:0.0:2.4~Go clean that filthy conscience of yours.~sl:0.3~I'm a good boy, me.
+
+0xC8374016 = ~z~Go on, ya daft bastard.
+
+0xCA29AD6C = ~z~Quit that, you fool.
+
+0xCB12976F = ~z~I ain't got much right now, come see me n'other time.
+
+0xCC1C5590 = ~z~~sl:0.0:2.1~Could be a decent earner for you, I reckon.~sl:0.8:~From the looks of you... you need it.
+
+0xCC3AF795 = ~z~It's murder he up on, murder charges.
+
+0xCF21B1CB = ~z~It's Colm O'Driscoll we'll be robbing.
+
+0xD0C0A852 = ~z~~sl:0.0:1.0~Good to see ya...~sl:0.5:1.1~d'you want a spot of business,~sl:~or just a nice quiet chat about the finer things?
+
+0xD1BEC973 = ~z~~sl:0.0:0.6~Good...~sl:0.5~so you ever meet my old acquaintance Darragh from Tipperary on your travels?
+
+0xD3E4B5A1 = ~z~Clock is ticking. You don't have much time left.
+
+0xD4DC595C = ~z~Get on with ya, ya eejit.
+
+0xD5A4BB3A = ~z~~sl:0.0:2.6~You're doing the work of the police so right you are...~sl:0.4~trust old Sean on this one... he'll see you right.
+
+0xD5C579BC = ~z~I can't rob it...
+
+0xD7CE8EB8 = ~z~~sl:0.0:2.1~Well, I know this because it was his brother he murdered, and...~sl:0.6~whereas you wouldn't find a kinder feller than Fineas,
+
+0xD8D6C53C = ~z~~sl:0.0:2.1~So you're going to do an assassination.~sl:0.5~Nasty feller you'll be killing, but that's not the point.
+
+0xD8DA6B69 = ~z~Well, it's really a service to society. We're just misunderstood...
+
+0xD14A1DDF = ~z~Didn't you do fine, eh?
+
+0xD380F1CB = ~z~Anyway, where was I?
+
+0xD81944F1 = ~z~Good work on those last jobs.
+
+0xD1532967 = ~z~You looking for business again, my friend?
+
+0xDA7B3041 = ~z~Well done, my friend.
+
+0xDBEE6D2C = ~z~~sl:0.0:3.0~I mean, well, there's only one way to end a blood feud...~sl:~and that's you killing them for yourself.
+
+0xDD062E63 = ~z~There's a price on the streets for all their heads... pretty decent price and all.
+
+0xDE9EC38D = ~z~You're not honorable enough to be talking with me right now.
+
+0xDE726C8C = ~z~Could ya just get on with it, then?
+
+0xDF59E4A9 = ~z~~sl:0.0:2.0~No? Well lucky you.~sl:0.9~Darragh from Tipperary is a total arse of a man. Not a man at all, a louse.
+
+0xDFA33970 = ~z~~sl:0.0:2.9~I don't think this job would suit someone...~sl:~as fine as you.
+
+0xDFF115B1 = ~z~Time for you to go.
+
+0xE4EA5DB3 = ~z~This job isn't available for you, yet. Come back another time.
+
+0xE4F7FBDA = ~z~~sl:0.0:2.8~And you're the seeker, on my behalf.~sl:0.4~He was a nice feller, Scottish lad he was.
+
+0xE7D9E62E = ~z~Enough, you fool.
+
+0xE7DF5FAF = ~z~~sl:0.0:2.9~So go kill them. Every one of them.~sl:0.4~There's many a folk 'round here will pat you on the back.
+
+0xE31ACCF6 = ~z~Someone's come crawling back. Looking for employment?
+
+0xE33A9272 = ~z~I went away for a couple of days on a killing of a...
+
+0xE47CEC10 = ~z~I can't give you this bit of business again, yet.
+
+0xE59B2A51 = ~z~~sl:0.0:1.0~If you do see them...~sl:0.7~you let me know.
+
+0xE66D1B0B = ~z~I don't know how innocent these bastards are.
+
+0xE479BEC6 = ~z~~sl:0.0:5.1~Good, now how do you feel about the police, dear friend?~sl:1.1~Because I'll level with you... I'm not much of a fan myself.
+
+0xE2890FDB = ~z~I'll find them again, I've lost them before, ya know.
+
+0xE8332F86 = ~z~~sl:0.0:3.5~Anyway, that ain't my concern. Unlike robbery.~sl:~Robbery is my concern. Especially the noble art of highway robbery.
+
+0xE34682A6 = ~z~What are you doing back here? Get on with the job.
+
+0xE71161B1 = ~z~When it's an assassination. That's when.
+
+0xE91447FB = ~z~To interfere and stop the natural order of things from playing out.
+
+0xEAC7D940 = ~z~Well, I'm guessing you're in the market for some more work, is ya?
+
+0xEB0AFBA8 = ~z~You want to get yourself killed or something, huh?
+
+0xEC69F1EC = ~z~Come on, quit that shit.
+
+0xECA9D0CC = ~z~~sl:0.2~Good work, bringing that back to me.
+
+0xEDBB6EFE = ~z~~sl:0.0:3.0~Well, truth is, they can't fight for shit.~sl:0.4~ So we, well, you... well, you're going to rob them blind.
+
+0xEDF8CC31 = ~z~Anyway, good luck to you.
+
+0xEF525B45 = ~z~~sl:0.0:3.0~Now, I understand why he's so mad, I mean...~sl:0.3~if you cannot trust a bribed official...
+
+0xF05066F0 = ~z~You're a hard one, eh? Go be nice and maybe we can work.
+
+0xF5E311BB = ~z~~sl:0.0:1.5~Some bounty hunters have him and...~sl:0.2:2.7~they're taking him across Tall Trees to Blackwater.~sl:0.9~You go find 'em.
+
+0xF9BF8706 = ~z~Well, that's good, because I reckon I've got something I wanted to discuss.
+
+0xF34DA6A8 = ~z~~sl:0.0:2.7~And even danced with lassies they wasn't engaged too.~sl:1.2~Well, that and... far too much goddamn killing of folk.
+
+0xF41BEF08 = ~z~~sl:0.0:2.6~So, you looking for some way to spend a little time,~sl:~or you just come for a chat?
+
+0xF629CB73 = ~z~~sl:0.0:2.8~My family has been robbing stage coaches for three hundred years...~sl:0.4~on two continents, we have...
+
+0xF641E256 = ~z~~sl:0.0:3.4~Always sticking their noses in, they are.~sl:0.2~And for what exactly?
+
+0xF7917CFA = ~z~Go on,... you're on the clock here, friend.
+
+0xF14330B7 = ~z~There's a stage, runs out of Aurora Basin.
+
+0xF34645A7 = ~z~~sl:0.0:2.5~By the way, you haven't seen a strange bunch about?~sl:0.6~About twenty-five of them... men and women.
+
+0xF224589F = ~z~~sl:0.0:1.2~I guessed as much...~sl:~by the way... you ever run into Freddie O'Hallaghan?
+
+0xF509262B = ~z~Why are you back and the job undone?
+
+0xF551369F = ~z~I had them.
+
+0xF2291640 = ~z~~sl:0.0:2.8~Left a widow and two wee kiddies, he did.~sl:0.5~Yeah... real shame.
+
+0xF8219359 = ~z~You need to calm it for a bit, partner.
+
+0xFCB99C29 = ~z~Enjoy yourself and try to stay alive, eh?
+
+0xFEB9496F = ~z~Ah, good man.
+

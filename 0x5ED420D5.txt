@@ -1,0 +1,18 @@
+0x2E121DCC = ~z~Mr. Morgan... Mr. Morgan.
+
+0x3A573656 = ~z~Reverend.
+
+0x8BCF5939 = ~z~Okay, what is it?
+
+0x9D7B7C91 = ~z~Oh no, sir. I can't do that... really, I can't.
+
+0x56D66F48 = ~z~I can't remember... oh, this frightful curse!
+
+0x61F70589 = ~z~I've been wanting to ask you something, I've been wanting to for days...
+
+0x45834CA2 = ~z~I...
+
+0xBB00379A = ~z~I've ruined my life with it.
+
+0xC352483E = ~z~Then stop doing it.
+

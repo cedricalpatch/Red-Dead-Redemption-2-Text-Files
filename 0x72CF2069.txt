@@ -1,0 +1,236 @@
+0x060C2824 = ~z~They're all yours!
+
+0x066658F5 = ~z~Give up the chase.
+
+0x0759BE27 = ~z~~sl:0.0:4.9~The weak die... ~rp~that's the way it is. ~rp~Always has been.~sl:0.5~~rp~Whether they is taken by a...
+
+0x09C82589 = ~z~I still got my muzzle free.
+
+0x0A1E9AB2 = ~z~It's what wolves do. ~rp~I just took what I could.
+
+0x0AC0A03E = ~z~Keep going!
+
+0x2C78D452 = ~z~might not be.
+
+0x2D049A64 = ~z~Here they come! I knew it.
+
+0x3BE73829 = ~z~You're just in time, get 'em!
+
+0x3F2F091E = ~z~Rip 'em to pieces!
+
+0x4D1F448B = ~z~Goddammit!
+
+0x4D1949A5 = ~z~I'm living apart from you... and your laws, a free man.
+
+0x4DE42E17 = ~z~I can't get free.
+
+0x4EEEA65A = ~z~Yep...
+
+0x5EC9ED06 = ~z~~sl:0.0:1.9~Don't you bring your rules where there ain't place for them.~sl:~I'm free, damn you.
+
+0x7B029843 = ~z~Stay with me, pack.
+
+0x7E1BC86A = ~z~Go back while you still can.
+
+0x8A801B73 = ~z~~sl:0.0:3.8~All we is is teeth and eyes and stomachs...~sl:0.7:2.8~~rp~least wolves got respect for the pack.~sl:0.4~~rp~We just out for ourselves.
+
+0x8AE714FE = ~z~Hold 'em as long as you can.
+
+0x8BAF8036 = ~z~I can't watch this no more.
+
+0x8FEB40BD = ~z~He's a real life monster...
+
+0x9ACB3E12 = ~z~~sl:2.8~They'll forget and we can go back down there.
+
+0x9B8ABD88 = ~z~
+
+0x9C14D90C = ~z~Well... one of the two ways it can go.
+
+0x9CF63290 = ~z~
+
+0x9DA3267F = ~z~You shoulda tied me better!
+
+0x9FB959F8 = ~z~Here they come. You ain't out of this yet.
+
+0x18B1C3B3 = ~z~~sl:0.7~It's tighter this time.
+
+0x37AACB3D = ~z~I'mma bite ya!
+
+0x39C7E139 = ~z~Kill me, damn you.
+
+0x48EFB2C7 = ~z~you heard about him?
+
+0x49E46FB0 = ~z~I'mma take a chunk out you.
+
+0x54F8740C = ~z~Grizzly! Grizzly!
+
+0x59DBAEFB = ~z~You don't freeze to death...
+
+0x64B1F8DA = ~z~~sl:0.0:2.1~I never signed up to your rules, I won't be bound by them,~sl:~you hear me? ~rp~I never signed up. ~rp~You leave me here.
+
+0x64B3CFDB = ~z~~sl:0.0:4.2~by a flood, or a fire, or the hands of man,~sl:0.0:5.5~it's all the same. ~rp~The thinning of the flock. The hand of God.~sl:0.4~~rp~Are you listening?
+
+0x65A01773 = ~z~You want to die up here? You're welcome too.
+
+0x72DC17DD = ~z~You don't wanna feel my teeth.
+
+0x82AA2FA4 = ~z~Damn you!
+
+0x82B2A64C = ~z~Sounds like a tall tale, don't it?
+
+0x84B904B5 = ~z~like most things wild...
+
+0x87CED270 = ~z~Go and get 'em!
+
+0x88B9B3B1 = ~z~If you chase me, you're going to leave a trail of blood.
+
+0x93D0B021 = ~z~Keep your teeth sharp. You're gonna need 'em.
+
+0x113B938A = ~z~
+
+0x233E9099 = ~z~There's a bear!
+
+0x264CF9E5 = ~z~
+
+0x272D0312 = ~z~Kill me, don't cage me, goddamn you.
+
+0x328CAF35 = ~z~She angry!
+
+0x396BA78F = ~z~I won't be caged!
+
+0x561F5BB5 = ~z~
+
+0x563DF182 = ~z~
+
+0x582A513C = ~z~The Wolf Man...
+
+0x757D8BE2 = ~z~A man living up there with the wolves.
+
+0x836FB651 = ~z~
+
+0x905E0BF5 = ~z~I'm gonna rejoin the pack.
+
+0x7228EF11 = ~z~Fight, dammit!
+
+0x9522A9EB = ~z~Damn you.
+
+0x51643D4F = ~z~
+
+0x89561D6B = ~z~Fight! Fight!
+
+0x376620F2 = ~z~I'll bite ya!
+
+0x851312A2 = ~z~~sl:0.0:2.4~It's just you lot and me...~sl:~you lot and me against all the rest of them.
+
+0x2194729C = ~z~~sl:0.0:4.1~Nature's laws is all I follow. ~rp~That's kill or be killed.~sl:~~rp~Survival of the fittest.
+
+0x3364163B = ~z~~sl:0.0:3.2~Them's I took was weak. ~rp~Weak enough for taking.~sl:0.6~~rp~I ain't no more guilty than the flu.
+
+0x7164123A = ~z~
+
+0x18657126 = ~z~That's it! Where are the rest of my pack?
+
+0x63387059 = ~z~What's that? What you got?
+
+0x92291563 = ~z~
+
+0xA4B17B87 = ~z~I'm gonna bite a chunk out you, you come any closer!
+
+0xA5E6D68C = ~z~Tear their guts out!
+
+0xA5FCD26C = ~z~They sent you after me 'cause I'm free.
+
+0xA7B85FC1 = ~z~I said I'd come. No need to be so rough.
+
+0xA9BFF462 = ~z~and one that needs hunting down.
+
+0xA905CD4E = ~z~you might just find him.
+
+0xAA9EDDB9 = ~z~~sl:0.9:2.8~You'll get some of that good meat soon.~sl:0.1~Just wait 'til it's settled down.
+
+0xAB8BDF97 = ~z~~sl:0.0:4.5~They're fearful of us... and maybe they should be.~sl:0.8~But we can't help what we is.
+
+0xAC2C248E = ~z~You keep coming, there won't be no going back.
+
+0xACC81836 = ~z~Where you taking me?
+
+0xAD664A29 = ~z~
+
+0xAD514852 = ~z~Not again!
+
+0xAF177F15 = ~z~I wish it was.
+
+0xB3F4268E = ~z~Don't you take me off this hill!
+
+0xB226A207 = ~z~I changed my mind. I ain't coming with you after all.
+
+0xB346E1D0 = ~z~Be warned though...
+
+0xB41072DF = ~z~Come on!
+
+0xBC21C46D = ~z~You're on my territory, turn around.
+
+0xBEBFEB2F = ~z~You better kill me this time!
+
+0xBFBCEED6 = ~z~~sl:1.9~Dammit.
+
+0xC0363D92 = ~z~Bounty hunters are you? I wish she'd eaten ya!
+
+0xC9D10302 = ~z~Off!
+
+0xC16B094C = ~z~
+
+0xC28BC7E9 = ~z~Chase 'em down!
+
+0xC7624D6A = ~z~I won't go down there... amongst the people.
+
+0xCBF0C230 = ~z~No. No. No.
+
+0xD000CD4A = ~z~
+
+0xD0EB9D39 = ~z~I expect he'll be skittish.
+
+0xD3B5ADE1 = ~z~~sl:0.0:2.7~What would you a done, huh? ~rp~Up here through winter.~sl:0.1:2.4~~rp~Cold. Shivering. Starving.~sl:0.3~~rp~I got to feed myself, don't I?
+
+0xD4D2CA87 = ~z~Go up to Lake Isabella and look around those parts.
+
+0xD82E4C61 = ~z~Eat up!
+
+0xD541CCC0 = ~z~Make 'em bleed.
+
+0xDCCDAAAF = ~z~I'll bite that off.
+
+0xE017C6A1 = ~z~~sl:0.0:4.4~We all beasts... ~rp~don't ya see? It's all we is.~sl:~~rp~All of us men... but only I seems to see it.
+
+0xE4B24FDA = ~z~~sl:0.0:3.7~If you'd seen 'em there... ~rp~in all their innocence.~sl:0.2~~rp~You woulda done the same.
+
+0xE22F52D4 = ~z~You killed them all. Such a waste.
+
+0xE51D261B = ~z~Let go of me.
+
+0xE295A2A9 = ~z~Where are you taking me, huh?
+
+0xEACFA1C8 = ~z~You want to get lost in this country?
+
+0xEB90846D = ~z~Get that off!
+
+0xEDAB4C6A = ~z~
+
+0xEDEE77E1 = ~z~~sl:1.7~There's dinner!
+
+0xEE526E9E = ~z~Come this end so I can bite you.
+
+0xEEE86446 = ~z~~sl:0.0:2.1~The boy, ~rp~he shoulda protected himself.~sl:0.2:1.4~~rp~He shoulda been stronger.~sl:0.6~~rp~I only took him 'cause I could.
+
+0xF01A8A1F = ~z~You smell something?
+
+0xF5D74039 = ~z~Bounty hunter are you? I wish she'd eaten you.
+
+0xF7AD77D5 = ~z~~sl:0.0:3.0~Ain't no one going to give us nothing.~sl:~We got to take it.
+
+0xFB7108DB = ~z~You want hydrophobia, huh?
+
+0xFD7305A3 = ~z~Get 'em!
+
+0xFF3D79DC = ~z~His wolves on the other hand...
+

@@ -1,0 +1,192 @@
+0x038FAC11 = ~z~A little frustrated with the workings of our order...
+
+0x06C240CC = ~z~Alms for the poor!
+
+0x077D0288 = ~z~God is people, and people are God, so...
+
+0x07F574D1 = ~z~maybe... be a missionary.
+
+0x0ACE059A = ~z~but equally they are rarely impure either.
+
+0x0FCC10BA = ~z~well not impossible but...
+
+0x1C046D51 = ~z~Hello, Sister. Here's some money you can use to buy food.
+
+0x1D898563 = ~z~Please, a few cents can go a long way.
+
+0x1DD32F34 = ~z~we must all do what we can.
+
+0x2D9F6FC8 = ~z~Please, make a donation. There are many without food or shelter!
+
+0x3CED9ECC = ~z~Oh he's quite well.
+
+0x4A30DA03 = ~z~Every little helps!
+
+0x5B3B2797 = ~z~because I did not believe that goodness existed...
+
+0x5CE495EC = ~z~~sl:0.0:3.5~Every child deserves to eat.~sl:0.8~Please, give what you can.
+
+0x6C5949D3 = ~z~and then, one day, I saw that love did exist...
+
+0x6FE45355 = ~z~go find them some food.
+
+0x7C20109F = ~z~Well, anyway, I must focus on the work at hand.
+
+0x7E5EDB6B = ~z~Consider your good deed done for the day. I won't subject you to anymore benevolence.
+
+0x7EA5EE6C = ~z~and ever since then, doing bad things became...
+
+0x8D476C68 = ~z~Now, that ain't true.
+
+0x8D800AC4 = ~z~hearts are rarely pure...
+
+0x8D881456 = ~z~Please, any contribution, no matter how small!
+
+0x8F4E8F7D = ~z~I very much doubt that.
+
+0x8F27CD67 = ~z~And bless you again for trying.
+
+0x8F7103CA = ~z~Are you sure?
+
+0x9BE66060 = ~z~Don't thank me yet Sister, there's still more I'll need to bring.
+
+0x9C0A09ED = ~z~~sl:1.4:0.0~You are wonderful, Mr. Morgan.
+
+0x9D802BE0 = ~z~No, I did terrible things...
+
+0x9D43699E = ~z~~sl:0.8:4.7:1~What were you able to bring me, Mr. Morgan? I have four very hungry mouths to feed.
+
+0x9E1C284C = ~z~No time like the present, Mr. Morgan.
+
+0x9FD2AF69 = ~z~Religion is just a word...
+
+0x12ED8A79 = ~z~You know, a long time ago...
+
+0x13B25CD3 = ~z~Mr. Morgan!
+
+0x16CE03E9 = ~z~Money for the poor?
+
+0x23F22C82 = ~z~I was like you.
+
+0x38AED5FB = ~z~I'm quite sure, Sister.
+
+0x44E93F1E = ~z~I meant wonderful but so very frightening. Exactly.
+
+0x62FFB9BC = ~z~I'll still think of you in very nasty terms...
+
+0x64D3A697 = ~z~Sister Ethel makes a fabulous stew. They will be so happy.
+
+0x71B79287 = ~z~Please, try to get some more. These children are desperate for a good meal.
+
+0x76C3BB20 = ~z~Please don't delay, these people need food!
+
+0x77D9DFB0 = ~z~I shall pray for you.
+
+0x80A35320 = ~z~~sl:0.0:2.1~Oh, I meant wonderful, but...~sl:0.8~so very frightening... as you wish.
+
+0x84AF7CEB = ~z~Don't worry so much about your heart.
+
+0x90F48BEF = ~z~Money or food, it all helps!
+
+0x221FB561 = ~z~ridiculous.
+
+0x290E45AA = ~z~and the heart follows.
+
+0x388F64DC = ~z~as you wish.
+
+0x631CB4D7 = ~t~In Spanish: Alms for the poor!
+
+0x807EA5F1 = ~z~Mr. Morgan!
+
+0x5281C9F4 = ~z~he keeps trying to be sent overseas.
+
+0x6034E55A = ~z~And how is Brother Dorkins?
+
+0x6583AFE8 = ~z~Sure.
+
+0x65843B05 = ~z~Oh I'm not a religious man, Sister...
+
+0x93275B99 = ~z~Now, that ain't true.
+
+0x334157A4 = ~z~I guess I'm just hoping for a...
+
+0x496183E4 = ~z~and I could not stop doing terrible things...
+
+0x998345BF = ~z~Goodbye then! I have already taken up far too much of your time.
+
+0x5270986E = ~z~The actions will lead...
+
+0x6598825C = ~z~Help the poor!
+
+0x17375360 = ~z~Hello, Sister...
+
+0x88000000 = ~z~a dignified exit.
+
+0x95966077 = ~z~Oh, you're so wonderful Mr. Morgan.
+
+0xA2F94250 = ~z~You know what Sister? I I've got some money on me right now... you can buy some food with this.
+
+0xA7DC1886 = ~z~Would anyone like to make a donation?
+
+0xA9C52563 = ~z~You know what, Sister? I think I've already got plenty of food on me... they can just eat mine.
+
+0xAAAA846C = ~z~Some, well, not enough for four, I don't reckon.
+
+0xABC3C867 = ~z~awful things...
+
+0xAE41214E = ~z~Have you anything to spare for the poor?
+
+0xAEA3F248 = ~z~These children need your help!
+
+0xAF84D302 = ~t~In Spanish: Every little helps.
+
+0xAF3792C4 = ~z~Oh, you're so wonderful, Mr. Morgan!
+
+0xAFA2442C = ~z~And how are you?
+
+0xB21CD3FD = ~z~Well, what fun!
+
+0xB168CE15 = ~z~Please, help the poor. They are in desperate need.
+
+0xBA8C1A0B = ~z~Brother Dorkins and I were talking about you just the other day...
+
+0xBDB3E04F = ~z~Never better.
+
+0xBFA3339B = ~z~Hello, Sister. I got you that food that you requested.
+
+0xC7FBD0F6 = ~z~Hello, Sister...
+
+0xC94A3787 = ~z~and hoping we would see you again.
+
+0xC2667490 = ~z~I'm an outlaw.
+
+0xCCB64DC1 = ~z~I meant wonderful, but so very frightening! Exactly.
+
+0xD3DC2415 = ~z~Oh, you are wonderful, Mr. Morgan.
+
+0xD62E9144 = ~z~He's a lovely man.
+
+0xDF290D09 = ~z~I ain't done yet, Sister. You're still gonna need more than this.
+
+0xE8C6C150 = ~z~To me...
+
+0xE76E0FDA = ~z~Calderon.
+
+0xE1067661 = ~z~Now, that ain't true.
+
+0xEBDA4B3F = ~z~These people are starving...
+
+0xEE43D8E4 = ~z~I meant wonderful, but so very frightening... exactly.
+
+0xF3F80CE2 = ~z~Calderon.
+
+0xF7CDDB4C = ~z~Like I said, actions lead and the heart follows.
+
+0xF8A8E54D = ~z~Money for the poor.
+
+0xFABA5A5B = ~z~You know, do something with more challenge...
+
+0xFB0665CF = ~z~That's an interesting way of putting it.
+
+0xFF967B89 = ~z~Now, that ain't true.
+

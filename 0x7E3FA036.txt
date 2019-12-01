@@ -1,0 +1,288 @@
+0x0027E782 = ~z~So be it. Who am I to judge?
+
+0x0629DCE5 = ~z~Just like I didn't.
+
+0x067C8C9F = ~z~Jones says stop.
+
+0x08F8BE8B = ~z~~sl:0.0:2.7~You got to live with that last change a while longer,~sl:~before I can help you again.
+
+0x0AABB57E = ~z~But...
+
+0x0B90579B = ~z~Maybe now it's time to look somewhere else.
+
+0x1BE0B767 = ~z~I'm getting tired of you.
+
+0x1CD6D9D4 = ~z~who am I to judge?
+
+0x1FDD7D99 = ~z~~sl:0.0:2.5~A fall, is that what you're looking for?~sl:~To the depths of depravity, huh? Oh boy.
+
+0x2DDB42E4 = ~z~Not another one.
+
+0x2E4EC215 = ~z~Watch where you aim.
+
+0x2E6B057D = ~z~Okay, so you're here and you're...
+
+0x2F191EAC = ~z~Maybe now it's time to look somewhere else.
+
+0x2F217E69 = ~z~Go forth and be a total nightmare for all and sundry.
+
+0x3B1987C0 = ~z~pay up and I'll make things right for ya.
+
+0x3EE473C1 = ~z~~sl:0.0:4.3~I know this is a matter of the soul, but it costs in other ways.~sl:0.2~Come back when you can pay.
+
+0x4AAED35B = ~z~Look at this, come to see old Jonesey.
+
+0x4B5F8F45 = ~z~If it's time for a reinvention... let's make you anew.
+
+0x4B9D7E68 = ~z~So, you wanna buy sin, because you can't get your own?
+
+0x4DE91454 = ~z~~sl:0.0:2.3~Time for a change, huh?~sl:0.3~Old Jonesey can help, but it will cost.
+
+0x4E9D0257 = ~z~You still bent on vengeance? Or you got other concerns?
+
+0x5C19C9C4 = ~z~So, you want help.
+
+0x5CB6B912 = ~z~Stop that now.
+
+0x6C083D83 = ~z~Put it down.
+
+0x6D07980C = ~z~Was only a matter of time, before you showed up here.
+
+0x6DEC6D69 = ~z~Moral improvement, is that it?
+
+0x7A08D92E = ~z~How that's Horley, then?
+
+0x7A7EA6ED = ~z~Old Jones ain't able to help you right now.
+
+0x7BC2B582 = ~z~I been expecting you.
+
+0x7EBD0F0E = ~z~Well, the main thing to improve yourself morally...
+
+0x8C4B7DB3 = ~z~And how's the madam?
+
+0x8C8E0050 = ~z~But someone who actually wants to be a bigger fool...
+
+0x8CA99C97 = ~z~I don't roughhouse.
+
+0x8E9A9F1D = ~z~Don't shoot.
+
+0x9CAC61FA = ~z~Oh, no.
+
+0x9D3E3C64 = ~z~Quit that.
+
+0x9F8BB79C = ~z~~sl:0.0:1.4~Let me help you.~sl:0.5~Who you are don't need to decide what you can be.
+
+0x9F89B671 = ~z~Look at that, your sins washed off of you.
+
+0x18CFF21A = ~z~Don't you want to see how that change feels? Go on, now.
+
+0x22C42AFC = ~z~Put that away.
+
+0x27BB781A = ~z~Give me strength.
+
+0x28D3E335 = ~z~But in the meantime, to speed things along...
+
+0x29EE5382 = ~z~You're pushing it...
+
+0x30A8D74A = ~z~~sl:0.0:4.5~Paying ain't for everyone... you don't got the money,~sl:~maybe you should work on a change yourself.
+
+0x31E103E4 = ~z~Just don't take up painting.
+
+0x36B64018 = ~z~~sl:0.0:2.1~I would embark on this journey~sl:~when you ain't being chased by the law.
+
+0x36D4A4A8 = ~z~You'll be leaving.
+
+0x42F6A60F = ~z~A little joke of mine.
+
+0x55FEE3FC = ~z~~sl:0.0:3.6~Redemption is possible, my friend. Anything is...~sl:~if you know where to look for it.
+
+0x60E6A6EA = ~z~Found some direction, I hope. When I met you first, you was lost.
+
+0x61CD457F = ~z~Stop shooting!
+
+0x70B70A10 = ~z~So let me get this straight...
+
+0x73E6BA78 = ~z~You can't make a change like this with the law on you.
+
+0x79F32BD8 = ~z~~sl:0.0:3.2~Think it's time to crawl out the gutter?~sl:0.2~Well, I'll help you out if you can pay for it.
+
+0x91DA4C56 = ~z~You're wanting hell in a hand basket, huh?
+
+0x120C66F4 = ~z~What's it to me?
+
+0x293B6C5C = ~z~Free your head from that bounty before you free your soul from its past.
+
+0x317EA0DB = ~z~~sl:0.0:3.3~You're tired of being up there with the angels and~sl:~you want to be down here with the devils, huh?
+
+0x456B8E1C = ~z~Hey, hold on.
+
+0x484E57A9 = ~z~I choose who I help, and I don't help pushy fools.
+
+0x502F3817 = ~z~And now you're a bad 'un. How you like it?
+
+0x562C9386 = ~z~Well, go!
+
+0x792B5E5C = ~z~Another two bit sinner seeking out redemption, huh?
+
+0x821EC23A = ~z~What took you so long? I been waiting.
+
+0x883C4268 = ~z~~sl:0.0:2.0~My powers ain't working, alright?~sl:~I'll have them back soon, I hope.
+
+0x919B5A28 = ~z~Now you should leave.
+
+0x932E9DBB = ~z~~sl:0.0:1.5~Free from your sins.~sl:0.4~For how long... it's up to you.
+
+0x971AB179 = ~z~Unhand me, alright?
+
+0x1102A57B = ~z~Easy, alright?
+
+0x1844DCEF = ~z~Bit soon for more help, ain't it?
+
+0x1887E1C1 = ~z~I think, somehow, you'll manage it.
+
+0x4169A2F9 = ~z~Now good luck to ya.
+
+0x5449F354 = ~z~You'll find it has its own rewards.
+
+0x5746EC8B = ~z~Oh, I knew you'd come.
+
+0x6341D810 = ~z~Thank you.
+
+0x6959D5F8 = ~z~Hands off of me.
+
+0x8015A8CD = ~z~Is that it?
+
+0x8874F65C = ~z~You don't need to do that.
+
+0x34156BA0 = ~z~Now, now...
+
+0x42689C8A = ~z~You got a little bit of the devil about you now, don't ya?
+
+0x66251EF5 = ~z~Lose the law before speaking to me.
+
+0x75987CBD = ~z~Now...
+
+0x925710B3 = ~z~so anything can be bought.
+
+0x25130125 = ~z~On you should go.
+
+0x42723149 = ~z~I can't help you again, just now.
+
+0x55531019 = ~z~Don't think of violence.
+
+0x60404269 = ~z~Don't.
+
+0x67220636 = ~z~~sl:0.0:3.1~You ain't never going to be an angel,~sl:~but you can be better, if you pay for it.
+
+0x89672462 = ~z~is be less of an ass!
+
+0xA3D9FEA5 = ~z~You gots to go.
+
+0xA76A3AD9 = ~z~So, there you are.
+
+0xAAC81859 = ~z~You going to ask?
+
+0xAB7DD8E3 = ~z~Hey.
+
+0xAF1EC3A1 = ~z~World needs good folk and bad, don't forget that.
+
+0xAFA7E297 = ~z~What are you doing?
+
+0xB012CC2A = ~z~And even stuff for cleaning souls.
+
+0xB4AE91FE = ~z~And you need my help?
+
+0xB9A5EBD0 = ~z~~sl:0.0:3.0~From the ashes of the old you,~sl:~a new, different you, can be raised.
+
+0xB186A109 = ~z~Right on time, you're right on time.
+
+0xB4494DB2 = ~z~We all been judged... a few of us is fit.
+
+0xBC7DBBC4 = ~z~Well? What?
+
+0xBC2070C1 = ~z~~sl:0.0:2.0~Don't like what you've become, huh?~sl:0.3~That don't matter. All can be forgotten.
+
+0xBE38F3CF = ~z~And now you're a good 'un. Feel any different?
+
+0xC8F87924 = ~z~You just made it so.
+
+0xC66A3575 = ~z~and you want to be entirely awful.
+
+0xC67B3EE5 = ~z~~sl:0.0:1.7~You'll need to come back later.~sl:~I can't speak to you right now.
+
+0xC159B372 = ~z~Go and be the biggest fool you can.
+
+0xC164E82D = ~z~The soul is a mystery, ain't it?
+
+0xC380F306 = ~z~Well, this is America...
+
+0xC450A8C9 = ~z~It's shameful.
+
+0xC792D1EE = ~z~Well? What shall we do?
+
+0xCB8A8D07 = ~z~~sl:0.0:1.2~I want to help you,~sl:~but you ain't got the means for that kind of change.
+
+0xCCE21D3B = ~z~No you don't.
+
+0xCD5286AD = ~z~Jolly good.
+
+0xCE138837 = ~z~Go forth and sin no more.
+
+0xD0646144 = ~z~You got what you came for, ain't you?
+
+0xD6EFD680 = ~z~you're bored with being half way decent...
+
+0xD94B2888 = ~z~I'm afraid the price of change might be too high for you.
+
+0xD94D7563 = ~z~Waiting on your word...
+
+0xD885CAFA = ~z~It ain't right making this change with a bounty on your head.
+
+0xD6194C5A = ~z~We can't even teach people imagination enough...
+
+0xDE43A88F = ~z~Even souls.
+
+0xE1C3C6FE = ~z~Hey, hey...
+
+0xE3EE8EEB = ~z~~sl:0.0:1.9~Jones don't care if you're good or bad,~sl:~but he cares if you're a bastard to him. So go.
+
+0xE5B2E554 = ~z~There's a bounty on you, ain't you? Why don't you get rid of it first.
+
+0xE6F7EE17 = ~z~to sin right.
+
+0xE7C7878F = ~z~~sl:0.0:3.5~Looking to climb that long hard road to heaven, huh?~sl:0.3~Maybe I knows a short cut.
+
+0xE34CADCC = ~z~than they already are is almost impossible to imagine.
+
+0xE73A35A3 = ~z~Oh, no.
+
+0xE96B160E = ~z~How's about it, then?
+
+0xE567E28A = ~z~~sl:0.0:1.2~Look out, now.~sl:0.2~Long is the road that'll take you back to where you was.
+
+0xE6338CE2 = ~z~I done all I can...
+
+0xEC0215E3 = ~z~~sl:0.0:2.3~Do I got a good'un that wants to go bad?~sl:0.2~'Cause that's how it seems. You know it costs, don't ya?
+
+0xEE5613AC = ~z~Away with you, then.
+
+0xF052604B = ~z~I hads me enough.
+
+0xF9C7B16E = ~z~~sl:0.0:2.9~You want to get them clean hands dirty?~sl:0.3~That's something I could help you with... for a price.
+
+0xF9C613B3 = ~z~Shame on us, shame on us all.
+
+0xF2252B58 = ~z~I don't need to help you if you're going to be belligerent.
+
+0xF5742B63 = ~z~I think what you're looking for is out there somewhere.
+
+0xF104493B = ~z~By just wanting it you make it so.
+
+0xF144741B = ~z~go and be a decent human being.
+
+0xFA906128 = ~z~So pay up and I'll make it so, amigo.
+
+0xFB23F9BE = ~z~Whoa, there.
+
+0xFF96C209 = ~z~What is it?
+

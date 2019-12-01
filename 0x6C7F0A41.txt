@@ -1,0 +1,120 @@
+0x00915C68 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the Dynamite.
+
+0x009AE2CE = Galloping continuously will cause your horse's Stamina to drain quickly. Slow to a canter to allow your horse to regain Stamina.
+
+0x0A691A92 = Plant dynamite in the ~e~distillery~s~
+
+0x0C6014A9 = Get in the ~o~wagon~s~
+
+0x0F809DF3 = Send Bill to distillery moonshiner
+
+0x0FAAB13B = Drop the Moonshiner with the other ~o~captives~s~
+
+0x2EC46F9F = Dutch's Horse has died.
+
+0x3F704A55 = You failed to destroy the stills.
+
+0x4A58F4BB = Sneak up behind a Moonshiner and press ~INPUT_MELEE_ATTACK~ to knock them out.
+
+0x4DCFF65A = Follow ~o~Archibald~s~
+
+0x5CF61154 = Moonshiner
+
+0x5E018D08 = Return to the ~o~Swamp~s~
+
+0x6F6E3BAA = Pick up the ~e~Moonshiner~s~
+
+0x8A507157 = A Moonshiner escaped.
+
+0x9AD7A5D8 = Wait by the ~o~moonshine wagon~s~ for your companions
+
+0x9C5868E8 = You ran over a companion's Horse.
+
+0x22BAA8FC = Use the radar to avoid detection by the Moonshiners.
+
+0x25ECCACB = Send Bill
+
+0x28E1F519 = Knock out the remaining ~e~Moonshiner~s~ without being spotted
+
+0x30D39819 = Decline race
+
+0x32AE248A = Stand clear from the ~e~distillery~s~ and blow the dynamite
+
+0x40B5B3F4 = Left
+
+0x40CAAC11 = You killed one of the Moonshiners.
+
+0x70C3AAB1 = Take out the ~e~Lemoyne Raiders~s~
+
+0x78A5845D = Carry the Moonshiner to the ~o~wagon~s~
+
+0x86CE8F7F = Use ~INPUT_DUCK~ to crouch.
+
+0x93B21DA0 = Follow ~o~Dutch~s~
+
+0x97F62FA1 = The Moonshiners were alerted.
+
+0x376E4A21 = With the Weapon Wheel open, hover over Throwables using ~INPUTGROUP_RADIAL_MENU_NAV~ and use ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to cycle to Dynamite.
+
+0x451E256A = Wait for ~f~Archbald's~s~ instructions.
+
+0x587CB4D2 = Bill's Horse has died.
+
+0x664C10E3 = Race ~f~Dutch~s~ back to ~o~Camp~s~
+
+0x877EA821 = Takedown
+
+0x3177EB71 = You damaged the prison wagon.
+
+0x4914AF9D = You committed a crime in front of the Deputy.
+
+0x7451F2B9 = Use ~INPUT_VEH_DUCK~ to switch between Camera views during the ride.
+
+0x36903BA0 = Take cover from the ~e~Moonshiner~s~ until it's safe
+
+0x52383DAA = Dismount from the wagon
+
+0x77399EBE = Lead ~f~Bill~s~ left or right
+
+0x80381D8E = Return to ~o~Dutch~s~
+
+0x2963289E = Deputy Archibald has died.
+
+0x6749528E = Moonshiner
+
+0x52911483 = Your companions were abandoned.
+
+0xA975B266 = Right
+
+0xA87479EE = You blew your cover.
+
+0xA3820355 = The moonshine wagon was no longer drivable.
+
+0xAE5C599D = Get on your ~o~horse~s~
+
+0xC1787CE1 = Return to your ~o~companions~s~
+
+0xC11402E9 = Take the lead
+
+0xCD7F2B70 = You went off the route to the Moonshine distillery.
+
+0xDE3697B3 = To select the Dynamite. Open the Weapon Wheel with ~INPUT_OPEN_WHEEL_MENU~.
+
+0xDF9E3D83 = The prison wagon was no longer drivable.
+
+0xE93B021C = Accept race
+
+0xEB83ADB4 = Hogtie the unconscious ~e~Moonshiner~s~
+
+0xEC51572F = Drop by wagon
+
+0xF9ED3CEA = Ride to the ~o~swamp~s~
+
+0xF927243C = Find ~o~Bill~s~
+
+0xFD00B29B = Help ~f~Bill~s~ knock out the ~e~Moonshiners~s~ without being spotted
+
+0xFD36F960 = Send Bill to tree moonshiner
+
+0xFF68EED9 = Press ~INPUT_ATTACK~ to place the dynamite without igniting it.
+

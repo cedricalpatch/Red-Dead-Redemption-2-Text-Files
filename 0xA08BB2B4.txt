@@ -1,0 +1,16 @@
+0x4A889B78 = ~z~Try harder.
+
+0x6C2ADECC = ~z~Who said that? Micah? Dutch?
+
+0x8EADA3C1 = ~z~Come on, man... right now... be strong, be together.
+
+0x58E13839 = ~z~Oh so it's true... you're undermining us all... just when it matters the most?
+
+0x84BE8FE3 = ~z~I'm trying.
+
+0x7555F122 = ~z~It doesn't matter who said it, it's true!
+
+0xA05D4730 = ~z~Why you doing all this stuff behind Dutch's back, Arthur? Why?
+
+0xAFBBE5ED = ~z~It ain't like that.
+

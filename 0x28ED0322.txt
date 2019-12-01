@@ -1,0 +1,20 @@
+0x0C68F920 = Take out the ~e~enemies~s~ in the gun store
+
+0x81F94F38 = Return to the ~o~gang~s~
+
+0x90976F19 = The gang was abandoned.
+
+0xAF9C1B51 = Kill the ~e~Grays~s~
+
+0xC394502A = This weapon is loaded with explosive slugs. Switch between ammo types with ~INPUT_QUICK_SELECT_SECONDARY_NAV_NEXT~ and ~INPUT_QUICK_SELECT_SECONDARY_NAV_PREV~ on the Weapon Wheel.
+
+0xCA28D06A = Fend off the ~e~attackers~s~
+
+0xDA229494 = Enter the back of the ~o~gun store~s~
+
+0xDDE777E7 = Follow ~o~Micah~s~
+
+0xE52B067E = Follow the ~o~gang~s~
+
+0xF92D2E82 = Fend off the ~e~ambushers~s~
+

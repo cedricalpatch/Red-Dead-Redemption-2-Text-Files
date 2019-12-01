@@ -1,0 +1,54 @@
+0x03B53902 = The canoe got stuck.
+
+0x04F21E49 = Dynamite
+
+0x055A4630 = Take the Lead
+
+0x1D4526CE = Open Cage
+
+0x4F42550E = Cage
+
+0x5C12291A = Throw dynamite into the ~o~cave~s~
+
+0x7BB1CA64 = Go to ~o~Butcher Creek~s~
+
+0x9A13C80A = Return to the ~o~woman~s~
+
+0x9BC01469 = Return to the ~o~canoe~s~
+
+0x41BF7579 = Take out the ~e~Murfrees~s~
+
+0x93D5849B = The woman was abandoned.
+
+0x99B3535C = Sneak
+
+0x130A33E7 = Get into the ~o~canoe~s~
+
+0x342FEA8A = Approach the ~o~cave~s~
+
+0x709D82B0 = Take Canoe
+
+0x31392092 = Woman
+
+0xA5D3FD35 = The canoe was destroyed.
+
+0xA556487E = Use ~INPUTGROUP_VEH_MOVE_ALL~ to control the boat and hold ~INPUT_VEH_BOAT_ACCELERATE~ to row. Tap ~INPUT_VEH_BOAT_ACCELERATE~ to row faster.~s~
+
+0xABF39883 = Open the ~o~cage~s~
+
+0xBC03176D = Beaver Hollow?
+
+0xCD9C2BBD = Go to ~o~Annesburg~s~
+
+0xCE340F94 = Send Charles
+
+0xD47A54B0 = Get back into the ~o~canoe~s~
+
+0xDB654052 = Ride with me
+
+0xDCA29634 = The woman has died.
+
+0xE6106FB5 = Talk to ~o~Charles~s~
+
+0xEE1B16A4 = Ride Horse
+

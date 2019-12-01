@@ -1,0 +1,18 @@
+0x02A4681C = ~z~Someone smashed the box.
+
+0x7CAB5C44 = ~z~Ah, me too... me too.
+
+0x49C87663 = ~z~I don't know... look at this place... all divided... everyone anxious and at each other's throats...
+
+0x3806D2E0 = ~z~Why did they smash it?
+
+0x6749B165 = ~z~The money box... we'd had that for so many years...
+
+0x8589EDE5 = ~z~What box?
+
+0x201022F3 = ~z~Arthur.
+
+0xAAFB38E3 = ~z~I'm heart broken.
+
+0xF0E14496 = ~z~Susan?
+

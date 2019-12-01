@@ -1,0 +1,18 @@
+0x0F7D7FC4 = ~z~A little medicine.
+
+0x1D631B8F = ~z~What you making there, old man?
+
+0x2B0336CF = ~z~Just who do you think you're speaking to?
+
+0x4AD47671 = ~z~If you find any ginseng... I'll make some for you.
+
+0x38F7D2B8 = ~z~Real medicine or snake oil?
+
+0x826D65AA = ~z~It's easy enough... it'll keep you well... even with my illness, it's kept me alive far too long.
+
+0x590112D2 = ~z~Oh, I'm sorry.
+
+0x74224914 = ~z~Oh, you'll outlive us all.
+
+0xADEA3CA3 = ~z~Maybe... maybe.
+

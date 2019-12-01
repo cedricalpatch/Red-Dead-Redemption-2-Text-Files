@@ -1,0 +1,68 @@
+0x00592904 = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoners~s~ out of jail
+
+0x0077EB56 = Use ~INPUT_CUT_FREE~ to cut the prisoner free or ~INPUT_PICKUP_CARRIABLE~ to pick them up.
+
+0x02EBA621 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ while he searches for his stash
+
+0x07CB2FCD = The prisoner ~1b~ is following you. Lead them to the drop off.
+
+0x4E8B9427 = PICKUP VIPS
+
+0x6B84C48E = The ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ found his stash
+
+0x6DEFE9AB = Break the prisoner out of jail and help him escape within the time limit to earn the full reward.
+
+0x7EF3377D = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~gallows~s~ at the graveyard
+
+0x8E657B8D = Break the prisoners out of jail
+
+0x9D180A23 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~Saints Hotel~s~
+
+0x9EEE927A = You are escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0x46AF7ADD = ~1~ is now escorting the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0x54F8CDF4 = Enter the ~COLOR_MP_OBJECTIVE~Sheriff's Office~s~
+
+0x80BBEA80 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~alley~s~
+
+0x84AD0EB4 = Aim at the Lawman ~1b~ to keep him quiet while freeing the prisoner.
+
+0x85F87E15 = The prisoner was killed
+
+0x99DFE708 = Break the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~ out of jail
+
+0x127DBC17 = Use ~INPUT_INTERACT_LOCKON~ to lock on to the prisoner ~1b~ and lead them yourself.
+
+0x272EDE22 = Break the prisoner out of jail
+
+0x388CBF55 = Return to the ~COLOR_MP_OBJECTIVE_NEUTRAL~prisoner~s~
+
+0x762FD5E5 = The prisoner was killed
+
+0x4475C6F4 = Unlock the ~COLOR_MP_OBJECTIVE~jail cell~s~
+
+0x27409BB0 = Go ~1~
+
+0x105045AF = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+0x623701A7 = Help your Posse take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ ~1~
+
+0xA26D6894 = You killed the prisoner
+
+0xBE999B7D = Untie the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~
+
+0xBFA45BD8 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~prisoner~s~ to the ~COLOR_MP_OBJECTIVE~stable~s~
+
+0xCC5B09DE = Keep a lookout while the ~COLOR_MP_OBJECTIVE~jail cell~s~ is opened
+
+0xCCF15CCF = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~jail cell keys~s~
+
+0xD58C78A4 = Enter the ~COLOR_MP_OBJECTIVE~Police Department~s~
+
+0xE0256362 = The prisoners were delivered
+
+0xE4AB9250 = The ~COLOR_ENEMY~Law~s~ has been alerted
+
+0xE12FB497 = The prisoner was delivered
+

@@ -1,0 +1,8 @@
+0x884C36C5 = Offer Money (~1$~)
+
+0x49382F0F = ~s~Park the lumber wagon near the house
+
+0x7510364B = Destination
+
+0xE11A0CE7 = Give Wood
+

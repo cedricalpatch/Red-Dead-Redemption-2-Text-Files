@@ -1,0 +1,16 @@
+0x02479CFD = ~z~Oh... very good.
+
+0x09F065A3 = ~z~Fine. You're free to go.
+
+0x0F9D7DAE = ~z~Get on then. You can go.
+
+0x5CD8063B = ~z~Just get the hell out.
+
+0x8C621AA1 = ~z~Get moving before I change my mind.
+
+0x2483A5A9 = ~z~Alright, just move along.
+
+0xB3B850E3 = ~z~If you'll leave me to it then...
+
+0xEE035349 = ~z~Fair enough, on with you then.
+

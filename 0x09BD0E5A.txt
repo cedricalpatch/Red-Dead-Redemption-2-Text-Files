@@ -1,0 +1,24 @@
+0x0650A5D9 = ~z~I wasn't... suit yourself.
+
+0x0E2AB589 = ~z~Any as judges those who find it hard, is a fool.
+
+0x5ABACEA8 = ~z~Yeah well, turns out I am!
+
+0x29B76CA6 = ~z~You know... nobody's laughing.
+
+0x90F17E44 = ~z~And then all of you laughing at me, or feeling sorry for me... I can't, I just can't!
+
+0x91E38040 = ~z~For believing I was better, somehow!
+
+0x487D2A2D = ~z~I'm a lot of things, I'm not quite a fool.
+
+0x1771C81B = ~z~~sl:0.8:3.6:1~Go away! Stop laughing at me!
+
+0xA8B9ADEC = ~z~Why? For believing in somebody?
+
+0xDD4953C3 = ~z~~sl:0.0:4.1:1~Laughing at me... lying to me, now laughing, oh...
+
+0xF4060144 = ~z~~sl:0.0:3.4:1~Shut up! Don't you talk down to me!
+
+0xFCE012F4 = ~z~Listen... it's a hard life, this world... for anyone born without means.
+

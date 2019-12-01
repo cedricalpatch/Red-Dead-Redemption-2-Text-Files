@@ -1,0 +1,22 @@
+0x5C9726F9 = ~z~So this is it, huh?
+
+0x6A9B4305 = ~z~We all just gonna get shot like any other hoodlum.
+
+0x8E320A2E = ~z~~sl:0.0:1.8~was just something to make us better at killing folk,~sl:~faster at running away.
+
+0x52FB93C6 = ~z~~sl:0.0:2.3~We all gonna die and never see no promised land.~sl:0.6~No heaven on Earth.
+
+0x83C70F8E = ~z~~sl:0.0:2.5~ I hope God can forgive me for what I done on this earth~sl:~'cause ain't much I'm proud of.
+
+0x998B20E0 = ~z~~sl:0.0:1.4~No man unleashed,~sl:0.0:2.3~no real land, no pure land,~sl:~or none of that stuff Dutch spouts.
+
+0x2766BC95 = ~z~~sl:0.0:1.8~ain't never gonna atone for my sins,~sl:~ain't never nothing but gonna get shot for 'em.
+
+0xB204D1D3 = ~z~Ain't never gonna see my son grow up,
+
+0xC0E8EF9B = ~z~~sl:0.0:1.5~Put down like any other pest~sl:~and all that stuff we believed in,
+
+0xE3C6B556 = ~z~~sl:0.0:1.1~Well...~sl:0.8:1.4~I guess it is what it is and~sl:1.0~right now this is it.
+
+0xF617F3FA = ~z~And a whole lot I hope he's forgotten about.
+

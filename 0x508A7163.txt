@@ -1,0 +1,26 @@
+0x11E18907 = ~z~Oh, we can always use your help.
+
+0x51B58B3A = ~z~Well, I best get back to it.
+
+0x56F89116 = ~z~Thank you.
+
+0x315C47FC = ~z~Go somewhere where the people can hate me for the right reasons.
+
+0x442F6DA2 = ~z~You won't need my help round here much longer.
+
+0x892F7583 = ~z~Anyway, I best get back to it.
+
+0x57271391 = ~z~You always have a home here. You know that, you're family.
+
+0xA4DBAEF5 = ~z~The farm looks good.
+
+0xAD27C21D = ~z~You can't leave me here with the drunkest, oldest ranchhand in West Elizabeth just yet.
+
+0xADF2C3AF = ~z~Ain't that right, John?
+
+0xBF8866DE = ~z~You love him, really.
+
+0xBFA36710 = ~z~Of course. And either way, stay a while longer.
+
+0xDF162369 = ~z~It's time I moved on soon anyway. Leave this country once and for all.
+

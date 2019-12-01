@@ -1,0 +1,120 @@
+0x0393D984 = Approach ~o~army camp~s~
+
+0x03CCD8A3 = You attacked Captain Monroe.
+
+0x09B817E7 = Arthur's sickness?
+
+0x0FB7A34A = Dutch?
+
+0x2D2AB77A = Leave the area
+
+0x2F64B730 = The Sacred Items can no longer be reached.
+
+0x3D571753 = Retrieve stolen items
+
+0x4A65E0FC = Flask
+
+0x5F2E22DA = Rains Fall's horse has died.
+
+0x5FD9E487 = Shout
+
+0x6CD95E28 = Arthur's son?
+
+0x6E8BD6AF = Retrieve the ~o~sacred items~s~
+
+0x7F6158B6 = Clue
+
+0x8CAE1739 = You gained honor as you agreed to help Monroe on the reservation.
+
+0x8D30F445 = Inspect
+
+0x15F4F14C = Follow ~o~Rains Fall~s~
+
+0x40A205BA = The reservation?
+
+0x67E30021 = Monroe's Horse
+
+0x73ACA31C = Rains Fall
+
+0x83A543CF = Investigate the clue near ~o~Rains Fall~s~
+
+0x94C21529 = You killed Rains Fall.
+
+0x150FB1BC = Return to the ~o~Army Camp~s~
+
+0x213D732D = Investigate the smoke stack near the ~o~cliff edge~s~
+
+0x696BD568 = Search the ~o~area~s~ for clues
+
+0x833ED36F = The Army Camp was abandoned.
+
+0x853D56AE = Bottle
+
+0x871B9A10 = Tent
+
+0x1711B29A = Monroe?
+
+0x3322A5F0 = Escape the law without abandoning ~o~Rains Fall.~s~
+
+0x7522E823 = You lost honor as you decided not to help Monroe on the reservation.
+
+0x7982CA1B = You can use Binoculars to investigate your surroundings.
+
+0x9644B0AF = Enter
+
+0x58275D67 = You killed Captain Monroe.
+
+0x83263EB7 = Whiskey Soaked Logs
+
+0x203777B3 = Don't help
+
+0x422396D2 = Chanupa and the Sacred Items
+
+0x568230B7 = Help
+
+0x923044DC = Pick Up
+
+0x42648467 = The Sacred Items have been destroyed.
+
+0xA9FA7160 = Search the ~o~camp~s~ for the sacred items
+
+0xB3F33780 = You attacked Rains Fall's Horse.
+
+0xB7ABCB0F = Rains Fall was abandoned with the Chanupa.
+
+0xBA1BC076 = Logs
+
+0xC2BA6DC7 = Return to the ~o~Chanupa~s~
+
+0xCC6DF493 = Rains Fall was abandoned.
+
+0xCE637BAF = You've harmed a Wapiti civilian.
+
+0xCE343544 = You attacked Rains Fall.
+
+0xD6F52AB1 = Rains Fall's Horse
+
+0xD8D459EE = Whiskey Bottle
+
+0xD12C5F4D = Mount your ~o~horse~s~
+
+0xD142C31D = You gained honor as you helped Rains Fall recover his sacred relics.
+
+0xDA761610 = The Sacred Items were abandoned.
+
+0xE4B9F639 = Army Flask
+
+0xE209C7EF = Eagle Flies?
+
+0xE101374A = Retrieve ~p~stolen items~s~
+
+0xEA093358 = Return to ~o~Rains Fall~s~
+
+0xEBFCBD2B = Monroe
+
+0xEC9E5D7B = Wolf
+
+0xF07707E5 = Get to the ~o~camp~s~
+
+0xF16F012B = Stealth Knockout
+

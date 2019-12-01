@@ -1,0 +1,30 @@
+0x03B96497 = ~z~Me?
+
+0x1D88982D = ~z~Well, I don't... I think... I'm getting a little long in the tooth for...
+
+0x2FC33CA2 = ~z~Me?
+
+0x3C3BD72E = ~z~Can I borrow a few dollars? I'm good for it.
+
+0x4D3EF799 = ~z~You know, to a-like a magic lantern show or some such?
+
+0x5A0E92D3 = ~z~Okay.
+
+0x49CE7253 = ~z~Borrow money? Oh, you horrible man!
+
+0x56FA8B10 = ~z~Oh, nonsense! How about tomorrow?
+
+0x83C86646 = ~z~So that's a yes?
+
+0x99B074A8 = ~z~Well, you can't blame a feller for trying.
+
+0x7064BF7F = ~z~Well... now, if I'm gonna go out with you, I'm gonna have to look my best, so... Can I borrow ten dollars?
+
+0x69392F8D = ~z~Well, let me think.
+
+0xCC9C765E = ~z~There you are!
+
+0xD5F70913 = ~z~You.
+
+0xF2CFC2C4 = ~z~Yes, you! When you gonna let me take you out for an evening, into town...
+

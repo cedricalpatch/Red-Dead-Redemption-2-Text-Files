@@ -1,0 +1,56 @@
+0x011B184B = ~z~I was miles away I'm afraid.
+
+0x09DC3BC1 = ~z~~sl:0.0:5.1~I know I said a lot of things and I meant them, I suppose,~sl:~at the time,
+
+0x09E63023 = ~z~The, uh... do-gooder?
+
+0x1C256053 = ~z~~sl:0.0:3.6~but I am not so proud as to not speak to people who care for me,~sl:~or cared for me.
+
+0x1EF461E1 = ~z~and I heard tell of a man who sounded like you.
+
+0x10F137F7 = ~z~So it seems.
+
+0x24FF71F3 = ~z~~sl:0.0:6.2~I saw a couple of the girls, or whatever the polite term is for them,~sl:0.1~that ran with you and your associates in town
+
+0x45AB216E = ~z~are you okay?
+
+0x52DF4DCA = ~z~~sl:0.0:2.4~I've written this letter a hundred times or more~sl:~and I cannot get it right.
+
+0x68C967C2 = ~z~Anyway...
+
+0x362A826D = ~z~can, can I...
+
+0x654F72AA = ~z~It's me. You know it's me from the bad handwriting.
+
+0x990BCE68 = ~z~Not so gentle... I don't like his kind. Superior.
+
+0x4091A92F = ~z~Dear Arthur,
+
+0x73727CFC = ~z~Yes...
+
+0x5917485E = ~z~it's that fellow, Downes.
+
+0xA840E698 = ~z~Mr. Morgan...
+
+0xA7756B3B = ~z~As you wish.
+
+0xB8B51564 = ~z~~sl:0.0:1.8~I would love to see you again,~sl:~if you could spare me a little bit of your time.
+
+0xB5658723 = ~z~he was quite ridiculous when I went to see him. You've not been to see him yet, I take it?
+
+0xB7471684 = ~z~~sl:0.0:6.4~I had some bad luck and, well, it's a long story~sl:~and not an interesting one, but I am here for now.
+
+0xC3FA244C = ~z~I-I'm sorry, Herr Strauss... had a lot on... I'll go give him a gentle reminder.
+
+0xC9A13B38 = ~z~I've been in Valentine for a couple of months.
+
+0xCB473A88 = ~z~I'm renting a room at Chadwick Farm, just north of Valentine.
+
+0xD513CE21 = ~z~Yours,
+
+0xE07CDD51 = ~z~Exactly. We lent him quite a sum... it seems he has little intention of repaying us...
+
+0xE762F2BF = ~z~Mary Linton.
+
+0xF7B3176F = ~z~~sl:0.0:2.7~I know I said when we last spoke and I was going off~sl:~to get married, that we would not speak again.
+

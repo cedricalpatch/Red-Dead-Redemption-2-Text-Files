@@ -1,0 +1,48 @@
+0x1AB0373A = ~z~~sl:0.0:3.7~I mean it... it-it... it corrupts a man.~sl:0.3~It corrupts a man totally.
+
+0x1AF554A9 = ~z~~sl:0.0:1.8~But, it was by mutual consent~sl:0.3:2.1~on the account of our differing opinions~sl:0.2:0.8~or that's how...~sl:0.1~that's how the captain put it.
+
+0x1B81B8AD = ~z~~sl:2.4:1.6~No-no, it was a woman.~sl:0.3~I was robbed by a woman!
+
+0x2D575C58 = ~z~And then I met Dutch.
+
+0x7F5C8061 = ~z~~sl:0.0:2.0:1~I've seen what Uncle Sam can do up close.
+
+0x13FF46B9 = ~z~~sl:0.0:1.1~The army?~sl:0.1~They had their opinion, and I had mine.
+
+0x21A5E206 = ~z~Differing opinions.
+
+0x70ADE304 = ~z~~sl:0.0:1.5~Now unlike some of you...~sl:0.1~vagrants and vagabonds and orphans and murderers,
+
+0x387A0FAE = ~z~~sl:0.0:2.6~Now me... I...~sl:1.1:4.0~I spent a few nights sleeping rough. I admit...~sl:0.8~I, uh...
+
+0x499B14DF = ~z~~sl:0.0:0.4~I...~sl:2.0:1.9~I was robbed by someone that was a...~sl:0.7~well, you know, well....
+
+0x774D65F7 = ~z~And... and that's the way it's gonna be...
+
+0x2999F1F2 = ~z~~sl:0.0:3.5~and it wasn't on a case of no dishonorable discharge~sl:0.2~like I'm sure some of you have heard around here.
+
+0x4659AB6D = ~z~~sl:0.0:2.7:1~We was equals, but we went our separate ways.
+
+0x6662CE6E = ~z~~sl:0.0:1.8~what power can do~sl:0.4~to a captain in the US army.
+
+0x54992ADB = ~z~~sl:0.0:3.8~Nothing will make you believe in a man like Dutch~sl:0.4~more than seeing what power can...
+
+0x1120999F = ~z~~sl:0.0:1.4~And it was a woman!~sl:0.2~I see you chuckling.
+
+0x3750704A = ~z~I-I-I... I was robbed.
+
+0xC1A9A213 = ~z~~sl:0.0:1.7:1~You mind if I sit?
+
+0xDAC52CE5 = ~z~~sl:0.0:1.3~But, I...~sl:0.6~I believe in Dutch.
+
+0xE8446F48 = ~z~I had just left the army...
+
+0xE5034161 = ~z~~sl:0.0:1.5~And I know...~sl:0.3:1.5~Dutch is Dutch.~sl:1.5~But I believe in him, where...
+
+0xF93D7421 = ~z~~sl:1.7:1.5:1~funny, I...
+
+0xF721E59E = ~z~where he talks, I walks.
+
+0xF6380B2F = ~z~~sl:0.0:2.0~You know when I first met Dutch...~sl:0.2~when I first met many of you.
+

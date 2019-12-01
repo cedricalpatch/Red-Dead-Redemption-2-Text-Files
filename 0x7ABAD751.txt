@@ -1,0 +1,68 @@
+0x0C5E9587 = John's horse has died.
+
+0x0D3E98A7 = You attracted the law.
+
+0x1B4A4BEA = Ride to ~o~Shady Belle~s~
+
+0x2FE95C9C = You attacked Dutch.
+
+0x3DC9F85D = Dutch's horse has died.
+
+0x5DAB2CBC = Pick up another ~o~body~s~ from the house
+
+0x6B61C829 = Search the remaining ~o~rooms~s~ upstairs
+
+0x7DF78939 = Shady Belle
+
+0x8C2D1522 = Dutch was abandoned.
+
+0x9A62B18D = The house was abandoned.
+
+0x25E38B54 = Saint Denis
+
+0x86EAAB51 = Swamp
+
+0x213CBA22 = Return to ~o~Dutch
+
+0x927A1659 = Search the ~o~rooms ~s~for any Lemoyne stragglers
+
+0x2529B9B1 = Follow ~o~Dutch~s~ on horseback
+
+0x5397A3F8 = John has died.
+
+0x5995145D = Enter the ~o~house~s~
+
+0x45600789 = Your horse has died.
+
+0xA0DFB324 = Follow ~o~John
+
+0xA85843BB = Return to the ~o~house
+
+0xB6B746B0 = Follow ~o~Dutch
+
+0xB7E7311A = Old House
+
+0xC3CD375C = Search the remaining ~o~rooms~s~ downstairs
+
+0xC4C1864E = Dutch has died.
+
+0xC7A60276 = Return to your ~o~horse
+
+0xC74275FE = Body
+
+0xD1EC08C9 = Return to ~o~John
+
+0xD44E9B79 = Pick up the ~o~dead body
+
+0xD3652395 = John was abandoned.
+
+0xDB01E385 = Dump the body in the ~o~swamp ~s~around the jetty
+
+0xE6843FE4 = Meet ~o~John~s~ by the entrance
+
+0xEC3016D3 = Mount your ~o~horse~s~
+
+0xF9100F0A = Room
+
+0xF37017AD = Return to ~o~Shady Belle
+

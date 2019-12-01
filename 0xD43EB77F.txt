@@ -1,0 +1,72 @@
+0x04A617CD = ~z~Hello? I need some help over here.
+
+0x0894D6A5 = ~z~I really appreciate this.
+
+0x7E6D5F35 = ~z~Where you want me to sit, huh?
+
+0x8B692A52 = ~z~Please... I'm really hurting...
+
+0x9D7DD59E = ~z~You're gonna make me feel better about the whole situation...
+
+0x12A78D63 = ~z~~sl:0.0:0.9~Fine.~sl:1.0~Just forget it then.
+
+0x49E62250 = ~z~~sl:0.0:0.9~Hey!~sl:0.9~You there!
+
+0x49FDAC46 = ~z~~sl:0.0:2.5~Oh anyway, I'll shut up.~sl:0.1~I'm sure you don't want to listen to my complaining.
+
+0x55DB0776 = ~z~Walking's better than this.
+
+0x61C9F08F = ~z~~sl:0.0:0.9~Here...~sl:0.5~this is for you.
+
+0x63E4A389 = ~t~In Spanish: Okay, that's it.
+
+0x98C793C0 = ~z~On foot. C'mon.
+
+0x181C5A53 = ~z~Your horse buck you, too? How we getting there?
+
+0x245A6100 = ~z~~sl:0.0:4.2~First I lose close to three dollars on the poker table,~sl:~then the damn horse throws me.
+
+0x552FF15B = ~z~Come on... I don't think I'll make it on foot.
+
+0x564A7D56 = ~z~~sl:0.0:1.4~Oh thank God.~sl:0.2:4.7~My horse bucked me... it feels like I might have broken a bone.~sl:0.4~You think you can give me a ride?
+
+0x758A2B8E = ~z~You gonna help me out here?
+
+0x1611C381 = ~t~In Spanish: Ahh... hurts to sit... damn horse...
+
+0x1699C57F = ~z~I just want this day to be over.
+
+0x2721ADF3 = ~z~So, listen. That horse put me in a bad mood.
+
+0x67438F01 = ~z~Come on, I'm in pain! My horse bucked me.
+
+0x1422584F = ~t~In Spanish: Putting you in the ground!
+
+0x62168924 = ~t~In Spanish: Let's see, how about...
+
+0xA6B3AE81 = ~z~Oh, good. Thank you.
+
+0xA720600C = ~t~In Spanish: Lousy horse! Nearly broke my damn back! Goddammit.
+
+0xBA278C94 = ~t~In Spanish: That goddamned horse. If I find it, I'll put a bullet in its skull...
+
+0xBA89641B = ~t~In Spanish: Buck me? I'll teach you for bucking me...
+
+0xBFE1F685 = ~t~In Spanish: I'm spending the rest of the day drunk, that's for sure.
+
+0xC7D32A48 = ~t~In Spanish: Assuming you got something I want...
+
+0xC7E5280F = ~z~I told my brother that horse was trouble the minute I laid eyes on it.
+
+0xCA927755 = ~z~Get down off there, now.
+
+0xD6D32D70 = ~z~~sl:0.0:1.8~Okay, thank you again.~sl:0.2~Watch out for your horse there. Got that same look in its eye... that mine did.
+
+0xE74F959C = ~z~Give me an answer at least?
+
+0xE8733FF2 = ~t~In Spanish: Should'a eaten you, filthy animal... Jesus, my ass hurts...
+
+0xF634DB75 = ~t~In Spanish: Rotten goddamned horse. Son of a bitch.
+
+0xFAA5B3AB = ~z~I know some people in Thieves Landing, if you can get me there?
+

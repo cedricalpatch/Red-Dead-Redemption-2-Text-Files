@@ -1,0 +1,182 @@
+0x01514351 = ~z~Erm...
+
+0x02DEBF98 = ~z~Keep yourself busy, take your mind off it.
+
+0x059FA699 = ~z~You know, I was wrong about you.
+
+0x0A0919F4 = ~z~Can I go see the house?
+
+0x0D8605FE = ~z~It's yours.
+
+0x0EA85C93 = ~z~because of your behavior...
+
+0x1A0F7361 = ~z~and your decisions.
+
+0x1EB82862 = ~z~Ours.
+
+0x2B6E1422 = ~z~unless you're running off, too.
+
+0x2C3917B4 = ~z~We got a son.
+
+0x3A19B179 = ~z~I ain't going nowhere.
+
+0x3B54B5EB = ~z~I got a son.
+
+0x3BEA7DB6 = ~z~Sure, pop.
+
+0x3C3DB929 = ~z~And I love you too much to watch that no more.
+
+0x4C673427 = ~z~Hey, you think I could speak with Mr. Geddes?
+
+0x4F005EAE = ~z~part of you is hell bent on ending up the same way.
+
+0x5FE35B1F = ~z~You've turned into a fine worker, Jim Milton.
+
+0x6C12737D = ~z~I'm sure he'd be happy to hear you speak at least.
+
+0x6EED1A47 = ~z~I'm a family man.
+
+0x7CF788BA = ~z~Listen...
+
+0x7D1C8908 = ~z~but it don't seem to make much difference.
+
+0x7DE7B5A8 = ~z~Gotta save money and get her what she wants.
+
+0x7F19302D = ~z~Abigail?
+
+0x8BB55143 = ~z~What does she want?
+
+0x8EAE2C27 = ~z~I've begged you...
+
+0x9A7A6ECD = ~z~She wants a place of her own...
+
+0x9F577BF3 = ~z~unless you find gossip about a man's marriage...
+
+0x10D6E25C = ~z~Where's the wife, Milton?
+
+0x10E35F0D = ~z~I'm here to work.
+
+0x21A6FFB8 = ~z~and the bags.
+
+0x35F625C6 = ~z~You? A rancher?
+
+0x44ACC5C7 = ~z~I can handle a gun, sure.
+
+0x55F516DB = ~z~Who's my new rival?
+
+0x59E27472 = ~z~We all saw what happened to them that didn't, but you...
+
+0x62EC7FB2 = ~z~You'll starve.
+
+0x75C6D676 = ~z~he'll warm up.
+
+0x83B6F25E = ~z~I should see about that boy.
+
+0x86F74A5B = ~z~Or hear about you shooting more fellers over by Strawberry?
+
+0x90E4DF0E = ~z~Ain't nothing interesting...
+
+0x108C0C02 = ~z~Just give him some time...
+
+0x184B3678 = ~z~Sure.
+
+0x420DC161 = ~z~There's work to be done...
+
+0x682A3B45 = ~z~Oh, that's Rufus, he's...
+
+0x749CA9E6 = ~z~I hoped you would change.
+
+0x3093CCF1 = ~z~Come on.
+
+0x5483E849 = ~z~And I love our son enough...
+
+0x7440A5C6 = ~z~Guess not.
+
+0x8870FBCA = ~z~It's quite a place you got here.
+
+0x29346DC2 = ~z~Ah, thank you.
+
+0x65748A2A = ~z~that I can't have him around while you're like this.
+
+0x85334B13 = ~z~I had so many dreams, John.
+
+0x2738084A = ~z~said she found a plot up at Beecher's Hope.
+
+0x6463060B = ~z~worthy of your time.
+
+0x23748797 = ~z~Abigail.
+
+0xA6BAE8D5 = ~z~See if maybe he's open to offering me some guidance?
+
+0xA13AFEE2 = ~z~Just who are you, Jim Milton?
+
+0xA3520310 = ~z~That don't surprise me.
+
+0xAB909465 = ~z~Them men shot at me.
+
+0xB9DA30F8 = ~z~Just interested, that's all.
+
+0xB5531C2F = ~z~Thank you, Mr. Dickens.
+
+0xB9112E8E = ~z~What she do, catch you with a show girl?
+
+0xB428771B = ~z~She had men problems of her own...
+
+0xBA7E5FF0 = ~z~loyal, dumb and angry...
+
+0xBA8A6008 = ~z~so he reminded us of you.
+
+0xC08C06FB = ~z~You always did have that fine way with words.
+
+0xC5D0CAE5 = ~z~I've tried everything I know to make you grow up.
+
+0xC218C09D = ~z~You married, Mr. Dickens?
+
+0xC6109AEF = ~z~but that's a different story.
+
+0xC271203E = ~z~Abigail?
+
+0xCCE5859A = ~z~That your idea of a joke, miss?
+
+0xCE18A214 = ~z~You doing alright, son?
+
+0xD065E00F = ~z~And you know I love you...
+
+0xD5C4E7F5 = ~z~No.
+
+0xD7D13E70 = ~z~Darling John...
+
+0xD99441F6 = ~z~a kind lady in the village helped me write this.
+
+0xDBC73DAD = ~z~you're...
+
+0xDE1BA806 = ~z~I guess.
+
+0xE5DD8C6A = ~z~I saw her leaving with the boy...
+
+0xE21ADF90 = ~z~Well, that's her full.
+
+0xE98CD938 = ~z~You...
+
+0xE35385EA = ~z~but loving you means I can't watch you do this.
+
+0xEB1FE50D = ~z~Abigail?
+
+0xF01BA0E6 = ~z~she's out.
+
+0xF0961B07 = ~z~Probably.
+
+0xF0C97CED = ~z~Hey.
+
+0xF2B66B4F = ~z~I...
+
+0xF3E6A438 = ~z~What's going on?
+
+0xF38E0276 = ~z~Means a lot.
+
+0xF73BF496 = ~z~What the hell...
+
+0xFCE60899 = ~z~Darling John...
+
+0xFDE1BB06 = ~z~Time after time we've had to run...
+

@@ -1,0 +1,896 @@
+0x00518CBA = ~z~Oh, it'll be stone cold by now.
+
+0x0067EEB3 = ~z~~sl:0.0:4.3:1~Folk can be so quick to judge, can't they?
+
+0x0104434B = ~z~~sl:0.0:2.7~The last thing we need is more trouble with the law.~sl:~Get the hell outta here!
+
+0x0112FA56 = ~z~~sl:0.0:3.9~Look, we know you're a good person. So are we.~sl:0.1~But we need someone who can be bad right now.
+
+0x0145DAB9 = ~z~Well, that could've gone better.
+
+0x01869686 = ~z~~sl:0.0:2.4~We've been hearing good things about you.~sl:0.3~And “good” ain't exactly what we're looking for, right now.
+
+0x01E437BD = ~z~Well look who it is, Tammy.
+
+0x0272B96F = ~z~This looks very promising, Tammy.
+
+0x02D3E05A = ~z~And I'm sure a rich feller like Mr. Cornwall won't miss one or two.
+
+0x03160A1C = ~z~Well now, I hope you've got your tail between your legs.
+
+0x03875FF3 = ~z~You again? Hey, just leave us alone.
+
+0x038A0247 = ~z~Hey.
+
+0x038AA885 = ~z~~sl:0.5~Whoa now, what's this all about?
+
+0x04599173 = ~z~~sl:0.2~For sanitary reasons.
+
+0x0529A782 = ~z~Here, come on. Don't be shy.
+
+0x05507A71 = ~z~~sl:0.0:1.7~See, there's a bunch down at...~sl:0.0:2.6~Hill Haven Ranch in Scarlett Meadows~sl:~and the farmer there's a falldown drunk.
+
+0x0575F6D5 = ~z~~sl:0.4:5.3~Oh, well... that's like asking a man not to breathe, princess.~sl:0.7~But anyhow, I got an idea.
+
+0x06F97D49 = ~z~Hey.
+
+0x07364F71 = ~z~Shouldn't I be speaking to your boss?
+
+0x074DBA79 = ~z~Oh, I like the look of this.
+
+0x07EEB680 = ~z~Oh, you must think we've got a real short memory. Get outta here!
+
+0x086701C8 = ~z~We're just trying to focus on each other, for the time being.
+
+0x0C7DA399 = ~z~I wouldn't stick around too long. The wind after he eats squirrel will curl your toes.
+
+0x0CB0F55D = ~z~~sl:0.0:4.5~So, if you could... take care of this person,~sl:0.2:3.0~make sure he never does us any wrong again...~sl:0.2~we'd be ever so grateful.
+
+0x0DBCD9DD = ~z~Oh, I knew you'd be back before too long... so is this business or pleasure?
+
+0x0DC20CDB = ~z~~sl:0.0:4.7:1~Oh, what am I gonna do with you, you big old softie?
+
+0x0E893EF2 = ~z~Well you're keen. A little too keen, unfortunately.
+
+0x1B1EF4B7 = ~z~~sl:1.5~Everything I need's written down here.
+
+0x1EE50716 = ~z~Well, you sure know how to put a smile on a feller's face.
+
+0x1FD4CBC0 = ~z~Well I would eat your meat off a dirty floor, princess.
+
+0x1FEDADC6 = ~z~Yep, but it is all gone now, though. Waste not, want not, I say.
+
+0x2A0785C0 = ~z~Well hey, we are so very pleased with you.
+
+0x2A7A2902 = ~z~I'd hurry if I was you. I do not need Tammy fretting.
+
+0x2AB07C26 = ~z~Well, shit!
+
+0x2AD3F717 = ~z~Hey now, no need for that.
+
+0x2BBAD228 = ~z~~sl:1.2~Anyway, the details are all written down here.
+
+0x2BEB583D = ~z~Well now I wonder just how I got so distracted, sweetie pie.
+
+0x2C111351 = ~z~Hey, cut that out.
+
+0x2C902694 = ~z~Oh, these damn trotters.
+
+0x2CD04C3D = ~z~I know you won't let us down.
+
+0x2CD866DD = ~z~~sl:0.0:3.3~Well, we appreciate the social call, but uh...~sl:0.4~we have squirrel to mince.
+
+0x2E14683F = ~z~Nonsense.
+
+0x2E46286A = ~z~~sl:0.0:1.7~My ma always used to say,~sl:~"There's some things a lady never tells."
+
+0x2F4D7213 = ~z~~sl:0.0:3.7~Sorry friend, I already got myself an angel here.~sl:0.4:2.1~We're looking for someone with a little more...~sl:0.6~fire and brimstone experience.
+
+0x3A7CE0E2 = ~z~~sl:0.0:3.8:1~Oh, I do like it when you take charge, sugarlump.
+
+0x3ABA3678 = ~z~~sl:0.0:1.6~I ain't sure we have anything...~sl:~suitable for you right now, sweetie.
+
+0x3BAE11A7 = ~z~What are you playing at?
+
+0x3BE87BC4 = ~z~Well, I hope you are here to redeem yourself.
+
+0x3C1B68E1 = ~z~~sl:1.1~Sorry, we are otherwise engaged in here...
+
+0x3C9DFBF6 = ~z~What do you want? I still ain't talking to you.
+
+0x3C541FAD = ~z~~sl:0.0:3.5:1~I'd do it myself, but my nethers've been giving me hell.
+
+0x3CE5CE87 = ~z~Much better than that, honey pie. You'll see.
+
+0x3D8303C5 = ~z~Refuse?
+
+0x3DA8A63C = ~z~~sl:0.0:1.7~Feels like our only hope is to~sl:~try and get to them before they get to us.
+
+0x3F5D0957 = ~z~Well, if you wouldn't mind giving us a little privacy now?
+
+0x3F64A383 = ~z~Well, this is a nice surprise.
+
+0x3F59629C = ~z~Is this business or pleasure?
+
+0x4A05BB10 = ~z~~sl:0.0:3.4~So, if you could track them down and...~sl:0.0:4.4~find a permanent solution to this unfortunate situation...~sl:0.5~we'd really appreciate it.
+
+0x4A1C6EE6 = ~z~~sl:0.3~And the smell? Strips the hair clean outta your nose, it does.
+
+0x4CD7C4C7 = ~z~~sl:0.0:4.8:1~Could you go bring them back here so we can straighten this out?
+
+0x4D7FB54A = ~z~You need to calm the hell down.
+
+0x4D242BD8 = ~z~~sl:0.0:2.2~If you were any more in our good books...~sl:0.1~this here would be a love story.
+
+0x4DBB0C24 = ~z~Sorry, we need a little... privacy right now.
+
+0x4E659805 = ~z~There's some stew in the pot.
+
+0x4ED391B3 = ~z~~sl:0.0:2.8~Well, if you wouldn't mind, friend...~sl:0.4~it is nearly time for our sponge bath.
+
+0x4F174817 = ~z~Hey, sorry, we ain't ready for you just yet.
+
+0x5AB1607A = ~z~~sl:0.0:3.7~over a simple medicinal error. Last we heard,~sl:~they're on their way up from Rhodes to Valentine.
+
+0x5AE0D2A7 = ~z~Alright, you need to leave right now!
+
+0x5AE7C06C = ~z~Well, don't beat the devil around the stump, sweetie. Get going if you're going.
+
+0x5D586EAE = ~z~~sl:0.0:3.1~It's alright, no need to apologize.~sl:0.2~Hey, we all make mistakes.
+
+0x5E7A7B5B = ~z~Well hello there, are you looking for work or is this just a social call?
+
+0x5EB32084 = ~z~Appreciate it.
+
+0x5EF3AD38 = ~z~Hey, buy me a whisky first.
+
+0x6A05D549 = ~z~~sl:1.2~And I won't stand for someone disrespecting my Tammy.
+
+0x6A0CDCD8 = ~z~Yes.
+
+0x6A66C57B = ~z~Sorry, this ain't a good time.
+
+0x6A98568E = ~z~and then just...
+
+0x6B8B01AC = ~z~~sl:0.0:3.9~Hey, what's this? N-no, we don't know you.~sl:~Yeah, not with the law on your tail, anyway.
+
+0x6C7D8DBB = ~z~Oh, I could kiss you.
+
+0x6C324B00 = ~z~Maybe next time we'll open a bottle and have some fun.
+
+0x6CA9BD3C = ~z~Are you ready to put those hands to good use again?
+
+0x6E6F1B26 = ~z~And I'd... rather Bray didn't know.
+
+0x6F53A59E = ~z~It's best you speak to Tammy first. I'll only get it wrong.
+
+0x7A057CC9 = ~z~~sl:0.0:4.3~And we've been generating... a lot more as of late and, you know,~sl:~Bray's knees just ain't what they used to be.
+
+0x7BC21C3D = ~z~It's okay, don't be shy.
+
+0x7C4CF9D7 = ~z~~sl:0.0:2.5~Especially some fancy dan~sl:~with a degenerate tolerance for narcotics.
+
+0x7C236680 = ~z~Get the hell outta our house.
+
+0x7D99B97B = ~z~Now, I know you ain't much for conversation...
+
+0x7E078740 = ~z~Now last we heard...
+
+0x7F1DE014 = ~z~~sl:0.7:3.6~You caught us with our pants down. Not literally, but...~sl:0.3~well, kinda... you know what, can you just come back?
+
+0x7F44D296 = ~z~~sl:0.0:1.1~Well, go on now.~sl:~What are you waiting for, a pinch on the backside?
+
+0x7F839BEC = ~z~Will you just get the hell outta here?
+
+0x7F3105CE = ~z~Good luck.
+
+0x7FF9BA98 = ~z~~sl:0.0:1.7~No. Sorry, friend.~sl:0.3~You think we ain't heard about the price on your head?
+
+0x8A3EC7AD = ~z~Hey, watch where you're pointing that thing.
+
+0x8A441F28 = ~z~We just can't get rid of you, can we?
+
+0x8A160265 = ~z~You need to leave now, or we'll make you.
+
+0x8AFDC9EE = ~z~Well hey there, we were hoping you'd be back.
+
+0x8BC217E9 = ~z~yes.
+
+0x8BD622DD = ~z~they was fixing to take a stagecoach north from Saint Denis...
+
+0x8CDFBB35 = ~z~Now what do you think you're doing?
+
+0x8DB29CA2 = ~z~~sl:0.0:2.4~We heard he's in a convoy on his way~sl:~from Annesburg to Emerald Station.
+
+0x8E43C96A = ~z~Well, hello there. I am very pleased with you.
+
+0x8E961E89 = ~z~Took advantage of our warm hospitality...
+
+0x8E31711D = ~z~Okay, I have a job for you, but keep it under your hat.
+
+0x8F86C083 = ~z~Hey, hey, hey, don't be waving that around.
+
+0x9AB16113 = ~z~~sl:0.0:2.2~Sorry friend, we heard all about you.~sl:0.1~You're trouble, we don't need it right now.
+
+0x9B6E85DB = ~z~Don't overstay your welcome, now.
+
+0x9BB0DB9F = ~z~Well, that's very disappointing.
+
+0x9C53D5D0 = ~z~Are you going to take this?
+
+0x9C596CA5 = ~z~Hey, good to see you, friend.
+
+0x9CCC8787 = ~z~~sl:0.0:1.5~It sure is...~sl:0.6~Hey, we ever tell you we used to be pig farmers?
+
+0x9D3AE50B = ~z~Hey, what are you bringing the law 'round here for?
+
+0x9E291538 = ~z~Hey, you ain't welcome here no more. Not after the way you acted.
+
+0x10A28D2E = ~z~Okay, so we've got ourselves a teeny-weeny problem.
+
+0x10BC90CB = ~z~What are you doing?
+
+0x11C7917A = ~z~~sl:0.0:2.4~Sorry about the smell in here, by the way,~sl:~we had some goat tripe turn on us... must be the heat.
+
+0x12EE4CE2 = ~z~We sure did.
+
+0x15DB79A3 = ~z~~sl:0.0:1.7~Mine got stolen and...~sl:0.7~Bray's... just buckled under him one day, poor thing.
+
+0x15F999D6 = ~z~~sl:1.1:3.3~But yes, there was a misunderstanding...~sl:0.1:2.7~some fellers think we owe them money,~sl:0.1~they been threatening us.
+
+0x17D58BA6 = ~z~He sure did.
+
+0x17F16BCE = ~z~That makes me very happy.
+
+0x17FEC478 = ~z~~sl:0.0:1.6~The friends of this feller?~sl:0.2~A bunch of inbred hillbilly folk.
+
+0x18E2ECF5 = ~z~Are you outta your damn mind?
+
+0x19F6F251 = ~z~Now ain't this a nice surprise... and we have just the thing for you.
+
+0x20C9E899 = ~z~spent all last night tossing and turning, didn't we, Bray?
+
+0x23BBB55A = ~z~Apparently, they're on their way south now towards Rhodes.
+
+0x28C89295 = ~z~Nothing going on right now, honey.
+
+0x30D96A72 = ~z~~sl:0.0:4.4~Yeah... well, I've been taking down the stairs like a...~sl:0.2:2.0:1~baby foal these days.
+
+0x34F7449C = ~z~~sl:0.0:4.9~But the trimmings still pile up... we've tried burning 'em out back,~sl:~but they just don't catch that well.
+
+0x36E4AC42 = ~z~You just mind your own business there, flappy ears.
+
+0x37D96F0F = ~z~~sl:0.0:1.4~Apologies, friend.~sl:~I reckon we need someone with a little more... seniority.
+
+0x38F1DCA2 = ~z~~sl:0.4~No harm done.
+
+0x39E330D9 = ~z~Well look who it is... back for more, huh?
+
+0x41C1D0F7 = ~z~~sl:0.0:3.5~So, we need some help with tracking down a few old friends,~sl:~or... ex-friends, over a terrible confusion.
+
+0x42A096D1 = ~z~~sl:0.0:2.2~Well, look who it is, Tammy...~sl:0.1~just about our favorite person in the whole wide world.
+
+0x43BC3203 = ~z~~sl:0.4:4.7~Hey, we are God-fearing folks here.~sl:~I mean, we can't be fraternizing with criminals.
+
+0x44BE94AF = ~z~You know what?
+
+0x44DD9E09 = ~z~~sl:1.1~Always.
+
+0x45F0E7DC = ~z~~sl:0.0:3.4~Now, I'm gonna be a but forward, but...~sl:0.0:2.7~I think you like that, and...~sl:~better to be forward than backwards, my pa always used to say.
+
+0x46D68EEB = ~z~~sl:1.5:3.9:1~I don't know, you can be nimble when you wanna be.
+
+0x53EDD98C = ~z~~sl:0.4~Would you look at this ray of sunshine, Tammy.
+
+0x53F03B5C = ~z~~sl:0.0:4.8~My pa used to say, "When you wallow with pigs, you get stinky."~sl:0.2~And maybe you ain't ready for that.
+
+0x56DF86FF = ~z~There's just no stopping you, is there?
+
+0x56F8BB4D = ~z~~sl:0.0:3.1~I think I know what you're really after...~sl:0.4~but Tammy is very tired today.
+
+0x57C0383F = ~z~Away from the property, as far as possible.
+
+0x57D2D6AA = ~z~~sl:0.2~Oh yes.
+
+0x57EA1BA9 = ~z~What are you whispering about?
+
+0x58A021EE = ~z~Come back later. I promise, you don't want to see this.
+
+0x61A9C3B9 = ~z~Someone let his plate go cold, didn't he?
+
+0x62AD9F37 = ~z~~sl:0.0:3.5~Well, someone's been naughty... why don't you come back~sl:~when you've paid off your bounty?
+
+0x63A49326 = ~z~So I jotted down what we need. Nothing too crazy.
+
+0x69A8BF26 = ~z~I know I can trust you.
+
+0x69A10F30 = ~z~See, I knew we could count on you.
+
+0x70C3933B = ~z~~sl:0.0:2.6~Well done with that last little job.~sl:~I've half a mind to say let's open a bottle and all let loose.
+
+0x70D84389 = ~z~Oh, hey, uh... I'm sorry, friend. Could you come back later?
+
+0x70F30D97 = ~z~~sl:0.0:3.8~Listen, friend, maybe you should go to confession~sl:~before coming 'round here again.
+
+0x71C7D362 = ~z~
+
+0x71C11E27 = ~z~~sl:0.0:4.1~Oh, hey there, uh... you know, we saw your face on a poster?~sl:~You're a little too famous for us right now.
+
+0x72A44DDF = ~z~Now why would you tease us by coming back here empty-handed?
+
+0x72F7B362 = ~z~~sl:0.1~Terrible.
+
+0x74BDC388 = ~z~Bye now.
+
+0x74D083E7 = ~z~Have you lost your mind?
+
+0x74E0359D = ~z~~sl:0.2:1.6~All in the name of discretion.~sl:0.6~Which happens to be Tammy's middle name.
+
+0x78EFF33D = ~z~and disrespected Tammy here...
+
+0x79A6BC98 = ~z~Oh, you little beauty.
+
+0x82BFC291 = ~z~Well, hello there.
+
+0x83F377B9 = ~z~Should be easy pickings for someone of your... unique talents.
+
+0x87FBDEF2 = ~z~You should probably go now.
+
+0x88BF8CB8 = ~z~Are you hungry?
+
+0x88E8046B = ~z~Maybe next time you can stay a while.
+
+0x90FF760B = ~z~I really wouldn't dilly-dally on this'un.
+
+0x92D96CA9 = ~z~If it's work you're after, speak to Tammy.
+
+0x94E3D692 = ~z~Well, I'd say you proved yourself more than capable last time.
+
+0x94EE66EE = ~z~Back for more, are you?
+
+0x95DEA6F6 = ~z~Tammy, come on down. We've got company.
+
+0x97AB0B3B = ~z~We sure would, we got our hands full 'round here.
+
+0x97E4EBB7 = ~z~You know just how to put a smile on my face.
+
+0x98A055B8 = ~z~
+
+0x110A2353 = ~z~~sl:0.0:5.7~So, we need some help resolving an... awkward situation,~sl:0.2~to do with a so-called gentleman who was courting me.
+
+0x145E580A = ~z~You should really get going.
+
+0x156BAEC7 = ~z~~sl:0.0:1.9~Oh... it's you.~sl:0.4~You're lucky we're the forgiving types.
+
+0x186A8B83 = ~z~~sl:0.0:5.9~So, if you could source us some oil... a whole lot of oil,~sl:~we reckon that might help things along.
+
+0x222CA843 = ~z~Are you looking to make some money?
+
+0x370EA8C3 = ~z~~sl:0.0:1.9~Sorry friend, but if you want work,~sl:0.0:2.3~you got to pay off that bounty first.~sl:~News travels fast 'round here.
+
+0x422FAB60 = ~z~~sl:0.1:4.4:1~Yes, I'd say it's time for another liedown, honey pie.
+
+0x429C859F = ~z~Stop it...
+
+0x437EC576 = ~z~You know, I can hear every word.
+
+0x438A74FF = ~z~So, we could use your help with arranging a little reunion.
+
+0x493D7B12 = ~z~~sl:0.0:5.1~Huh... now what is worse than strangers bearing gifts?~sl:0.9~Friends not bearing gifts.
+
+0x531FDAC8 = ~z~~sl:0.4~Would you look at you, you absolute treat.
+
+0x534ABAE3 = ~z~And then... they stab me in the back.
+
+0x589FDD1C = ~z~Oh, ain't you just the sweetest?
+
+0x625D31A2 = ~z~Sorry, no. We can't have your reputation dragging us down with it.
+
+0x636A4186 = ~z~But it's a surprise for him.
+
+0x649ED699 = ~z~Well, this one's got a hungry look in their eye, Tammy.
+
+0x666F00D1 = ~z~Oh hey... well, we were just talking about you.
+
+0x712AECF2 = ~z~Much as we'd love to get to know you better, there ain't much time to get this done.
+
+0x725D7216 = ~z~~sl:0.0:3.6~Listen, why don't you come back later? No hard feelings.~sl:0.2~I'm saving all my pleasures for a little lady here.
+
+0x741DD427 = ~z~~sl:0.2~Well now, I told you, I was sat right here, didn't hear nothing.
+
+0x758D3A15 = ~z~If you wouldn't mind giving us some privacy, now.
+
+0x788B0563 = ~z~Put my faith in them.
+
+0x802F4755 = ~z~Okay, uh, so Tammy generally handles the business end of things.
+
+0x959F9C98 = ~z~~sl:0.0:2.5~"When the wolves are circling the pigpen..."~sl:0.2~"you got no choice but to grab the shotgun."
+
+0x984EB102 = ~z~Hey, I figure we got ourselves a strong, silent type here, Bray.
+
+0x991BFB82 = ~z~Oh, we are starting to like you.
+
+0x999FB3A8 = ~z~Some bad folk.
+
+0x1100FCB0 = ~z~~sl:0.0:0.6:1~Yes.
+
+0x2167CDDE = ~z~...and we can be real grateful.
+
+0x2254B092 = ~z~~sl:0.1:4.2~See, somebody, who shall remain nameless,~sl:~let the darn horses get loose. Ain't that right, Bray?
+
+0x2342C7C4 = ~z~Normally Bray would handle these matters, but...
+
+0x2844CBBC = ~z~No such thing as a stranger here.
+
+0x3494EA68 = ~z~~sl:0.2~But I just ain't as nimble as I used to be.
+
+0x3557E5E2 = ~z~Oh, hey.
+
+0x4006ECF2 = ~z~~sl:0.0:2.6~Me and Bray are respectable folk.~sl:0.3~We can't be seen associating with the likes of you.
+
+0x4650B853 = ~z~~sl:0.0:4.0~I'm sorry, we can't be doing business with likes of you.~sl:~We got our moral standards.
+
+0x4737E32B = ~z~~sl:0.0:3.8:1~Well you know I sure do love your surprises, princess...
+
+0x5704A0A9 = ~z~I'm really starting to like you.
+
+0x6283EBC8 = ~z~What the hell?
+
+0x6985C25C = ~z~You're frisky...
+
+0x7370D2B6 = ~z~Oh, what are you plotting now, you bad girl?
+
+0x7504EA6F = ~z~Yes...
+
+0x7704F93B = ~z~Ain't this just a day to be thankful for.
+
+0x7835A45E = ~z~Why, hey there, friend.
+
+0x8399CE26 = ~z~You should probably speak to Tammy first. She is the boss.
+
+0x8668DA50 = ~z~~sl:0.0:3.0~I rub his feet with dripping to no avail.~sl:0.2~I've taken to bathing him right there in that chair.
+
+0x8975EC2B = ~z~If you keep up this good run, we might never let you leave.
+
+0x9109D54B = ~z~Now that ain't a good idea, honey.
+
+0x9161EEA0 = ~z~~sl:1.2~Believe you me.
+
+0x9536F85C = ~z~
+
+0x9606A006 = ~z~~sl:0.0:2.3~Many hands make light work...~sl:0.3~and I don't reckon you got enough yet.
+
+0x9751FC8E = ~z~~sl:0.0:3.5~Never did care much for that feller over there, but...~sl:~he's got some real fine horses, do us up very nicely.
+
+0x9795A1C6 = ~z~I do like a strong silent type.
+
+0x9892BBC5 = ~z~Much as we'd love you to stay, duty calls, I'm afraid.
+
+0x11356FDB = ~z~~sl:0.2~Oh, Tammy.
+
+0x14761A4A = ~z~What are you doing?
+
+0x26340AE1 = ~z~~sl:0.2~She's been calling me that since I was six years old.
+
+0x26573DA8 = ~z~We don't got nothing for you right now.
+
+0x30593B68 = ~z~There's wagon-loads of the stuff at Cornwall Kerosene and Tar.
+
+0x32757DF3 = ~z~~sl:0.0:3.6~Sorry, friend, things have finally quietened down 'round here,~sl:~thank the good Lord.
+
+0x36652B2D = ~z~Well howdy... you are just in time to do us another tweeny-weeny favor.
+
+0x44859A97 = ~z~Well, we couldn't be any happier with you.
+
+0x47317C45 = ~z~~sl:3.2:2.6:1~Hopefully we have better luck with this batch.
+
+0x49391FCE = ~z~Well, don't let us keep you.
+
+0x63221A51 = ~z~Time ain't on our side here, friend.
+
+0x66849C04 = ~z~Well, don't let us keep you.
+
+0x79496D44 = ~z~Oh, please tell me you're fixing possum chitlins?
+
+0x80914CFF = ~z~And I am all lady.
+
+0x90214B38 = ~z~~sl:0.0:3.6~If you could head up to Elysian Pool by Butcher Creek~sl:0.0:5.0~and deal with the bastards... well, maybe just for once,~sl:0.0:2.6:1~love and respect can prevail.
+
+0x93579EE1 = ~z~~sl:0.0:2.2~The kind of help we need, well...~sl:0.6~probably ain't suitable for a goody-two-shoes like you.
+
+0x107784D9 = ~z~So, are you looking for work, or... something else?
+
+0x168135C2 = ~z~~sl:0.0:4.6~So, if you could... acquire some wagons for us,~sl:~that would make our lives a lot easier.
+
+0x261460A3 = ~z~~sl:0.0:5.3~Us! Simple country folk. We're living in fear,~sl:~and that just ain't right.
+
+0x265813A4 = ~z~Hey, don't ask me, speak to the lady of house.
+
+0x447279DE = ~z~~sl:0.0:2.7~Sorry, nothing doing for the time being.~sl:0.7~We're trying to behave ourselves.
+
+0x470788C1 = ~z~It ain't your birthday yet, honey pie. Just wait.
+
+0x548177FE = ~z~Well, off you go then.
+
+0x607795AA = ~z~It's a surprise for Bray.
+
+0x860877FC = ~z~~sl:0.2~Maybe if you had your face out of my pie for five minutes?
+
+0x6081350E = ~z~Well don't you let us keep you, friend.
+
+0x7941555F = ~z~We ain't ready for company just yet. Can you come back?
+
+0x8534763D = ~z~Nothing you need to worry about, cuddly bear.
+
+0x15305103 = ~z~Oh, you got some nerve coming back here after what you did.
+
+0x15382523 = ~z~Okay, there's something you can do for me, harmless stuff.
+
+0x22527082 = ~z~Now, that's what I like to see.
+
+0x65817207 = ~z~~sl:0.0:1.4~The kind of people who just...~sl:0.0:3.4~can't be reasoned with, for love nor money.~sl:0.5~It's taken quite a toll on us...
+
+0x69884508 = ~z~We still ain't forgotten what you did.
+
+0x78224984 = ~z~Oh, if it ain't my favorite little helper?
+
+0x79366464 = ~z~You still ain't welcome here.
+
+0x85487778 = ~z~~sl:0.0:2.7~Sorry, we are good folk.~sl:~We can't be working with no lowdown guttersnipe.
+
+0x88850301 = ~z~I still don't think you're deserving of our hospitality.
+
+0x95124709 = ~z~Okay, you need to go, now!
+
+0xA0FE6594 = ~z~~sl:0.0:1.3~What are you doing back here?~sl:0.4~Sorry. Work before play, sweetie.
+
+0xA1A74E7F = ~z~Now I think I'm gonna finish off the stew.
+
+0xA1CDC4F8 = ~z~Real silky.
+
+0xA1DE76F4 = ~z~Whoa, what are you doing?
+
+0xA5B9D613 = ~z~Well, if you don't mind, I need to rub Bray's feet.
+
+0xA5CE1CB8 = ~z~~sl:0.0:3.0~I think we'd better wait a while before jumping back into...~sl:0.1~any more of that business.
+
+0xA7FCB3E9 = ~z~So, I assume this ain't a social call?
+
+0xA9C8F84A = ~z~So, who do we have here, then?
+
+0xA9F7AFD4 = ~z~~sl:0.0:3.5:1~I always have my hands full with you, honey pie.
+
+0xA13A9CEB = ~z~Hey, that is enough!
+
+0xA23B58C3 = ~z~You do.
+
+0xA78D031A = ~z~Oh, look who's back... didn't go so well last time, huh?
+
+0xA484A138 = ~z~Now that there is a real shame. I hate disappointing my Tammy.
+
+0xA629EDC9 = ~z~Whoa now, why don't you put that down?
+
+0xA669C034 = ~z~Alright, this ain't funny now.
+
+0xA5463BE5 = ~z~Well, you are just in time. Like my ma used to say...
+
+0xA5822E28 = ~z~~sl:0.0:3.6~Well, at least give a lady a chance to prepare herself.~sl:0.4~Come back later.
+
+0xA9010F17 = ~z~See, Bray? I said they'd be back.
+
+0xA1529017 = ~z~~sl:0.9:5.2~Anyway, a couple of fellers we invited in and took care of,~sl:~now seem to have some grievance against us...
+
+0xA6278045 = ~z~Well hey there, what a nice surprise.
+
+0xAA0EEE67 = ~z~Don't be acting like that in my house.
+
+0xAA4DAF3F = ~z~~sl:0.0:3.5~Okay, you timed this well. We were just talking about~sl:~a little... waste disposal problem we're up against.
+
+0xAA3645C5 = ~z~~sl:0.0:4.2~We are so isolated out here, so... vulnerable.~sl:0.3:3.1~And now our lives are under threat again, for what?~sl:0.1~The crime of hospitality?
+
+0xAA90230E = ~z~And we'll pay you in any way you want.
+
+0xAAC988C2 = ~z~Hey, don't be waving that around.
+
+0xAAEC26F4 = ~z~Still need some more details to work out for that one.
+
+0xAB5457F1 = ~z~someone like yourself might see fit to apprehending said folk...
+
+0xAC1A1545 = ~z~Well, look who it is.
+
+0xAC4AE0D7 = ~z~And... general offcuts.
+
+0xAC523A84 = ~z~~sl:1.3:4.5:1~Well I'm sorry, we're about to be in the middle of something here.
+
+0xADD17FE0 = ~z~No... just when I was starting to like you.
+
+0xADF3B697 = ~z~We were.
+
+0xADFB9718 = ~z~Hey, what the hell?
+
+0xAE5C8380 = ~z~What are you doing?
+
+0xAEA1FA6C = ~z~Take it, then.
+
+0xAF48DEF6 = ~z~Might be... just the person we need for you know what.
+
+0xAFB660A5 = ~z~~sl:0.0:3.5~Now, if you could apprehend some of them and bring 'em back here...~sl:5.7~Yup.
+
+0xB06307CD = ~z~~sl:0.0:2.5~Well, I am glad to see you.~sl:0.3:~We're in a terrible bind, ain't left the house in days...
+
+0xB0C90E80 = ~z~Oh, hey there! We are very happy with you.
+
+0xB6A8D075 = ~z~~sl:0.0:2.0~Sorry, you've come too soon.~sl:0.7~Not you this time, Bray.
+
+0xB6A24573 = ~z~Oh dear... you know we was really counting on you.
+
+0xB6FAEF52 = ~z~Mmm yeah, that is nice.
+
+0xB7D9BD25 = ~z~~sl:0.0:2.8~I ain't gonna lie, that is probably~sl:~the best night of the month for me.
+
+0xB7EA23CA = ~z~Well, ain't this a treat?
+
+0xB9FA6F2D = ~z~Well, ain't this a rare treat.
+
+0xB14A7F79 = ~z~Enough! Get out of our house.
+
+0xB33DC260 = ~z~
+
+0xB40F72BE = ~z~Well, no time like the present, sweetie.
+
+0xB71C58F5 = ~z~Whoa there.
+
+0xB77FE058 = ~z~~sl:0.2~May she rest in peace.
+
+0xB81ECA04 = ~z~~sl:0.0:2.8~You think we ain't heard about the price on your head?~sl:0.3~We can't be fraternizing with criminals, sweetie.
+
+0xB93AA675 = ~z~~sl:0.0:3.3~Okay, looks like we might need to give this'un~sl:~another chance, Tammy.
+
+0xB276D8F8 = ~z~I reckon this one thinks they're moving in, Tammy.
+
+0xB5915F1B = ~z~You're gonna need to round up some more friends for this one.
+
+0xB4868217 = ~z~Sorry, we ain't got nothing for you right now.
+
+0xBAC85770 = ~z~Sorry, friend, but uh... you caught us at a bad time.
+
+0xBB4E6264 = ~z~Alright, so I need some help with a somewhat delicate matter...
+
+0xBB7A0310 = ~z~You know that.
+
+0xBC152B59 = ~z~Hey, now that's how people get hurt.
+
+0xBC4333A7 = ~z~What are you doing?
+
+0xBC57636B = ~z~Easy, now.
+
+0xBD224B60 = ~z~We ain't got nothing like that going right now.
+
+0xBD237AAF = ~z~I think you might be right.
+
+0xBE6B39E7 = ~z~Now here's a sight for sore eyes.
+
+0xBE174A1C = ~z~~sl:0.0:3.0:1~Ended up spatchcocked like a chicken.
+
+0xC0610020 = ~z~Hey... you think we could speak to your boss first?
+
+0xC1C404C0 = ~z~~sl:0.0:3.9:1~Well, I think you know just how grateful we can be.
+
+0xC2FF775E = ~z~Hey, there's no need for that.
+
+0xC3B8245C = ~z~It is time for you to leave, friend.
+
+0xC7FD3CB0 = ~z~Well, if it ain't our star pupil?
+
+0xC42D7C65 = ~z~Well, like they say, the early hog gets the acorn.
+
+0xC47BC60C = ~z~Oh... did you miss me?
+
+0xC56FF918 = ~z~You get the hell off our property.
+
+0xC59E164C = ~z~Well, we'd pay them real well.
+
+0xC64D8DF7 = ~z~What do you think with the extra curd?
+
+0xC66FB6CE = ~z~~sl:0.2:2.0~We're still working out a few details here,~sl:~can you come back and see us later?
+
+0xC724DA29 = ~z~Just make sure you burn this afterwards.
+
+0xC3891B8E = ~z~~sl:0.4~Sometimes literally.
+
+0xC4812FC9 = ~z~Are you outta your mind?
+
+0xC18505B2 = ~z~You must think we got a real short memory, friend.
+
+0xCA80B898 = ~z~~sl:0.0:2.3~Now... why would you come back here~sl:~and not bearing gifts for little ol' Tammy?
+
+0xCB1BB367 = ~z~Here you go.
+
+0xCBDD8B1F = ~z~You better stop that, right now.
+
+0xCC1C839F = ~z~Can you round up a bigger posse? More the merrier and all that.
+
+0xCCB90ACE = ~z~You betcha.
+
+0xCE13EA15 = ~z~~sl:0.0:2.1~Yeah, there's this... other spot,~sl:~it's called Granger's Hoggery just east of Flatneck Station...
+
+0xCED91EFA = ~z~Now, we're just simple farmers.
+
+0xCF017878 = ~z~I ain't gonna tell you again.
+
+0xCFA945A6 = ~z~No, no, you ain't welcome here. Get out.
+
+0xD01C0E78 = ~z~That's it, you need to go.
+
+0xD3B6515B = ~z~~sl:0.0:2.8~Hey, I reckon we'll need some more help soon, but...~sl:0.2~we don't have nothing for you right now.
+
+0xD3C2A7ED = ~z~You see there's some folk who done us wrong.
+
+0xD3DCC992 = ~z~Whoa there, take a break, friend. You'll work yourself to death.
+
+0xD6DC99A3 = ~z~~sl:0.0:4.4~There's a creepy old place down in Lemoyne, Lakay it's called.~sl:0.1~It's full of outlaws and degenerates...
+
+0xD9CAAEC9 = ~z~Don't worry, it's alright.
+
+0xD9CAE2D8 = ~z~This really needs to get done now.
+
+0xD35E2818 = ~z~gone away.
+
+0xD65B4B45 = ~z~Have fun, now.
+
+0xD99C8DEC = ~z~~sl:0.0:2.4:1~We'll pay you for it, of course.
+
+0xD158FC8C = ~z~~sl:0.0:2.7~Sorry honey, we heard you got a price on your head.~sl:0.2~That's trouble we don't need.
+
+0xD253C8E4 = ~z~Dear oh dear, maybe I was wrong about you.
+
+0xD300A55F = ~z~~sl:0.0:1.2~Sorry, but uh...~sl:~I ain't sure we got anything suitable for you right now.
+
+0xD380DAF7 = ~z~Oh hey, you're back.
+
+0xD745EBA0 = ~z~You just can't get enough, can you?
+
+0xD3844E89 = ~z~Don't let me down.
+
+0xD9114B2C = ~z~Nothing doing right now, friend.
+
+0xD14513E9 = ~z~Now you just calm yourself.
+
+0xD30152F0 = ~z~Keep up the good work and we'll be asking you to move in.
+
+0xD2509535 = ~z~Can you come back later? We ain't decent.
+
+0xD5449549 = ~z~Hey now.
+
+0xD9455660 = ~z~Well, lookie-lookie here.
+
+0xDA4C48E8 = ~z~~sl:0.0:3.0~It can be so hard sometimes.~sl:0.0:2.0~I open my heart to people,~sl:0.0:2.6:1~offer all of myself and more.
+
+0xDB791F87 = ~z~~sl:0.0:2.9~Hey, what about that thing you were supposed to be helping~sl:~us with? Well, you ain't forgotten, have you?
+
+0xDC0BA973 = ~z~~sl:0.0:3.3~These men... oh, folks can be so judgemental...~sl:0.3~but we will always choose love over hate, ain't that so, Bray?
+
+0xDE04B6BD = ~z~~sl:0.3~Oh, I love 'em so much, but they make me fart like a brass band.
+
+0xDE06BD55 = ~z~But uh...
+
+0xDE1BFD7B = ~z~~sl:0.0:1.6~Hey, what the hell are you doing coming here~sl:~with the law on your tail?
+
+0xDE4AAAD5 = ~z~Alright, you need to get the hell outta here.
+
+0xDE4727F4 = ~z~Safety in numbers, friend. This is a big job.
+
+0xDEB31815 = ~z~~sl:0.2~And try to use as much as we can, of course.
+
+0xDEF68B5E = ~z~Story of my life.
+
+0xDF085855 = ~z~What's gotten into you?
+
+0xDFCE37CD = ~z~~sl:0.0:2.3~Sorry, honey. A good Samaritan~sl:~ain't exactly what we need right now.
+
+0xE059B4AF = ~z~I think you'll need some more folks for this one.
+
+0xE1ABE530 = ~z~~sl:0.0:1.7~You can't get enough, can you?~sl:0.2~Well, you'll just have to hold your horses, my friend.
+
+0xE3B3086B = ~z~~sl:0.0:2.1~Sorry, can I have a word with whoever's in~sl:~charge of this little... band of yours?
+
+0xE3D92097 = ~z~Now, you just turn around and get the hell outta here.
+
+0xE8A23D2E = ~z~~sl:0.0:2.6~Well, you'd be doing the world a favor by relieving them~sl:0.0:2.6:1~of their poor horses, I'll tell you that for free.
+
+0xE8BADCA9 = ~z~towards Van Horn.
+
+0xE8E2EEF5 = ~z~Come on, I won't bite.
+
+0xE8F28133 = ~z~Maybe I should have stressed to you how urgent this is?
+
+0xE37F3856 = ~z~~sl:0.2:3.8:1~I won't apologize for living my life with open arms.
+
+0xE38B31D6 = ~z~Oops.
+
+0xE38E1509 = ~z~~sl:0.0:2.6~So, one thing we could really use around here~sl:~is some good strong horses.
+
+0xE39DA91A = ~z~~sl:0.0:3.1~Oh hey, sorry, you know what, this ain't a good time.~sl:~We're about to bone some possum.
+
+0xE41DC373 = ~z~See, I told you I heard something.
+
+0xE58A9F18 = ~z~You should really get a move on.
+
+0xE66B3E35 = ~z~Hey, what are you playing at?
+
+0xE68D27C9 = ~z~~sl:0.2:2.5:1~Well, just look at my belly.
+
+0xE73B09A6 = ~z~Are you crazy?
+
+0xE472CCD6 = ~z~Oh hello, that last thing didn't go too well now, did it?
+
+0xE1989F2D = ~z~~sl:0.0:4.3~Now, there's someone else who's done us a great wrong,~sl:~abused our kindness and then slipped our hand.
+
+0xEAD5AA64 = ~z~Oh! Oh, is it offal night?
+
+0xEB4C47F0 = ~z~~sl:0.0:5.6~So... could you deal with these bastards for us... definitively?~sl:0.7~Last we heard, they're down near Hagen Orchards.
+
+0xEB8C7AEE = ~z~A visitor.
+
+0xECEFD93D = ~z~Hey, sorry. Much as we love a runt, right now we need a boss hog.
+
+0xEDF3FF7E = ~z~Well, you're keen... but don't you have a job to do?
+
+0xEE766531 = ~z~~sl:0.0:4.4~Okay, good. So there's something else we need your help with.~sl:0.4~See, we like to dispose of our...
+
+0xEEED4940 = ~z~I reckon you're gonna need to find some more friends for this'un.
+
+0xF015CAEB = ~z~Watch yourself, friend.
+
+0xF0433C82 = ~z~~sl:0.0:3.5~And see, we was always taught that sometimes,~sl:0.1:1.9~you gotta kill a bad pig~sl:~for the good of the rest of the sty...
+
+0xF0672EBB = ~z~~sl:3.0~This really is a good year for squirrel.
+
+0xF09CD49D = ~z~Alright, that's enough now.
+
+0xF2BA0949 = ~z~Oh, maybe our prayers've been answered, Tammy.
+
+0xF2CDA2AF = ~z~Oh, I knew you wouldn't be able to stay away for long.
+
+0xF9C2E793 = ~z~I do believe this one's sweet on you, Tammy. Wouldn't be the first.
+
+0xF36C52AF = ~z~~sl:1.5~It's all written down on here.
+
+0xF46CD6BD = ~z~~sl:0.0:3.1~If you could find them and bring 'em back here,~sl:0.0:3.9:1~well I'm sure we can clear up this mess once and for all.
+
+0xF49BDA96 = ~z~Hey, we're all friends here!
+
+0xF53D1180 = ~z~~sl:0.0:3.3~There was the most minor of misunderstandings~sl:0.0:1.5~with a gentleman caller...~sl:0.4~and now we have some horrible thugs after us.
+
+0xF55EFF39 = ~z~~sl:1.8:2.6~A man was found dead in a ditch near here~sl:~and now they're trying to put the blame on us.
+
+0xF61CF02A = ~z~~sl:1.3~I wasn't sure you'd even show your face back here again.
+
+0xF345A7CE = ~z~No, no, don't you be getting us mixed up with the law.
+
+0xF546D9E4 = ~z~Watch it.
+
+0xF567ABD4 = ~z~Sorry, sweetie. I don't have anything for you right now.
+
+0xF4768FAF = ~z~Hey!
+
+0xF8057B1A = ~z~and returning 'em here to us for some reckoning of the situation.
+
+0xF8507BD4 = ~z~Well I think that's a yes!
+
+0xFA584221 = ~z~And poor Bray's mobility ain't the best right now.
+
+0xFAB67814 = ~z~Sorry... I still ain't ready to forgive you yet.
+
+0xFAFD51F6 = ~z~Yep.
+
+0xFB41D132 = ~z~See, we do a lot of trapping.
+
+0xFB3025AE = ~z~If you're going to do this for us, you better do it now.
+
+0xFDA7D5C4 = ~z~Who you think you are?
+
+0xFE1EAB2B = ~z~Go on. We don't have time to wait around on this.
+
+0xFF847E66 = ~z~Sorry friend, the cupboard is kinda bare right now.
+

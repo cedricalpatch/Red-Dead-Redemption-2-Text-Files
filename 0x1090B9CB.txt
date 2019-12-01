@@ -1,0 +1,46 @@
+0x02210C5A = Explore further away from the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_TRAIN~~s~ for more Collectibles.
+
+0x0E17899F = Many Collectibles from the wreckage can be found in this ~COLOR_MP_OBJECTIVE~area~s~. However ~COLOR_MP_OBJECTIVE_ENEMY~enemy bandits~s~ may have already left the area with some items.
+
+0x2D1AECF5 = Explore further away from the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_MP_WRECKAGE~~s~ for more Collectibles.
+
+0x3B204736 = Salvage
+
+0x3F27F237 = Combat Disabled
+
+0x5E290B59 = ~COLOR_MP_OBJECTIVE_ENEMY~Enemy bandits~s~ will attack to protect what they have found. Loot them to find any Collectibles they may be carrying.
+
+0x9CA0E95F = You only have 1 life and will not respawn if you are killed.
+
+0x47B9D0D6 = Salvage
+
+0x54EC7367 = Bandit
+
+0x66C3F0E0 = Collectibles are concentrated around the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_WAGON~~s~ but can also be found further away from the ~COLOR_MP_OBJECTIVE~area~s~.
+
+0x70A3ACC3 = Explore further away from the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_WAGON~~s~ for more Collectibles.
+
+0x392A0747 = Search for Collectibles concentrated around the wreckage. Look out for ~COLOR_MP_OBJECTIVE_ENEMY~enemy bandits~s~ who may have already collected some items.
+
+0x965DF882 = Search near the ~COLOR_MP_OBJECTIVE~wreckage~s~ for Collectibles
+
+0x7175A06E = Collectibles are concentrated around the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_AMBIENT_TRAIN~~s~ but can also be found further away from the ~COLOR_MP_OBJECTIVE~area~s~.
+
+0x9273EA03 = Search for Collectibles
+
+0x22603A84 = You found ~1~ collectibles
+
+0x70170E5E = Collectibles are concentrated around the wreckage ~COLOR_MP_OBJECTIVE~~BLIP_MP_WRECKAGE~~s~ but can also be found further away from the ~COLOR_MP_OBJECTIVE~area~s~.
+
+0x199562DA = Combat Disabled
+
+0xBD7DA5BB = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to look for signs of collectibles. Some items may require additional equipment to locate and collect.
+
+0xBEE8F8EE = You found ~1~ Collectibles
+
+0xC1E58640 = ~1~ found ~COLOR_MP_OBJECTIVE~~2p~~s~
+
+0xE6E8D6C7 = You found ~1~ Collectible
+
+0xE6F64D39 = Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to activate Eagle Eye to look for signs of collectibles. Some items may require additional equipment to locate and collect.
+

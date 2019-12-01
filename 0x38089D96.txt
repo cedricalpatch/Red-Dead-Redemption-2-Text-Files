@@ -1,0 +1,100 @@
+0x0046EC90 = Last seen North of Guthrie Farm
+
+0x012718B4 = You left jail.
+
+0x0277E79A = You alerted the law
+
+0x04AD27DA = Threaten
+
+0x07478604 = The moonshine wagon was destroyed.
+
+0x0988A3B1 = Pay ~1$~
+
+0x0B310DD3 = McDaniels has died.
+
+0x1A5EBF37 = Take McDaniels back to ~o~Professor Bell~s~
+
+0x1B6BAE48 = The moonshine wagon was abandoned.
+
+0x2B3D8377 = Pay ~1$~
+
+0x5DFBE8F3 = Pay ~1$~
+
+0x5E913496 = You lost McDaniels.
+
+0x5F79E900 = Return to ~e~McDaniels~s~
+
+0x8EA4EC32 = Leave
+
+0x10E2A0C3 = Talk to the ~o~police chief~s~
+
+0x21A1BAB8 = Professor Bell has died.
+
+0x24C25FEA = The moonshine wagon got stuck.
+
+0x33B1B5B7 = ~e~McDaniels~s~ is escaping~s~
+
+0x39AC2C53 = You annoyed the camp inhabitants
+
+0x54AD6249 = Locate ~o~McDaniels~s~
+
+0x58D22B33 = McDaniel's camp
+
+0x71D4F27F = Pick up ~e~McDaniels~s~
+
+0x72E61767 = Greet
+
+0x77AA99CD = Wait for the wagon
+
+0x78F96966 = McDaniels was abandoned.
+
+0x422A2EC9 = Steal the ~o~wagon~s~
+
+0x646BCC45 = Demand
+
+0x668FF794 = Take the moonshine wagon to the ~o~Professor
+
+0x897D3D72 = Force the ~o~wagon~s~ to stop
+
+0x6863EC20 = Get permission to demonstrate electric chair
+
+0x9290BE75 = Question
+
+0x52931C9A = You interfered with the demonstration.
+
+0x201993C9 = You became wanted.
+
+0x72592448 = REWARD OFFERED
+
+0xA7DE472F = You became wanted.
+
+0xAE31A0AB = FOR THE LIVE CAPTURE
+
+0xAFC075EC = The moonshine was destroyed.
+
+0xB9D78A1A = The moonshine wagon escaped.
+
+0xC0BF78F1 = The police chief has died.
+
+0xC0E38787 = The police chief
+
+0xC5B3BE62 = Murder, bigamy and immoral animal husbandry
+
+0xC27D85B2 = By Order of Saint Denis Office
+
+0xC76FA5AE = Capture ~e~McDaniels ~s~alive~s~
+
+0xCA66726B = Negotiate
+
+0xCB8202E1 = Place McDaniels on the ground near ~o~Professor Bell~s~
+
+0xCCBEEA3C = Get on the ~o~horse~s~
+
+0xE843E6F2 = The wagon was abandoned.
+
+0xEB744A24 = Police Chief
+
+0xED0FDD87 = Ask
+
+0xFDDB77F4 = WILSON J. MCDANIELS
+

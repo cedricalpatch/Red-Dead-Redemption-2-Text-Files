@@ -1,0 +1,258 @@
+0x00661C24 = ~z~A happy day to you all.
+
+0x022E12A4 = ~z~A college where men can learn in nature!
+
+0x023D82DA = ~z~~sl:0.0:2.8~We are a simple mountain town...~sl:0.5:6.0:1~for people who believe in a better, wiser, kinder America.
+
+0x02C143E9 = ~z~~sl:0.0:0.7~Hell...~sl:0.1:2.5:1~in the whole damn country!
+
+0x032EF977 = ~z~My family always wondered why I moved here...
+
+0x039EC5AC = ~z~~sl:0.0:2.3~And what we promise, is~sl:0.1~justice, honor, and good manners.
+
+0x043635FD = ~z~~sl:0.0:2.8:1~Family. My god, it's why we all ran away!
+
+0x04A52989 = ~z~living the life of some east-coast knob, with a
+
+0x071B9275 = ~z~They were very unkind to my wife.
+
+0x08FA050D = ~z~~sl:0.0:1.4~Good to see you, sir!~sl:0.2~Good to see you.
+
+0x0B2831A8 = ~z~~sl:0.0:2.6~Fine people of Strawberry...~sl:0.3:2.2~by living in peace and harmony~sl:~we are building a great Jerusalem,
+
+0x0EAA2263 = ~z~an American Sorbonne.
+
+0x1DD8C9F9 = ~z~If I can just get a rich benefactor to give me a million dollars...
+
+0x1F38BAF6 = ~z~~sl:0.0:4.1~and the Temperance Society has ten new members~sl:0.3~this month alone!
+
+0x1F83FB01 = ~z~Welcome to Strawberry, my friends.
+
+0x2C008599 = ~z~silly old great wooden camp by a lake and a bank...
+
+0x2CAF83F0 = ~z~Please, make yourself at home, but be nice.
+
+0x2F8D6D62 = ~z~I pledge to found the finest college in the west.
+
+0x3B6A9713 = ~z~My family always wondered why I moved here...
+
+0x3D5D11D5 = ~z~~sl:0.8:2.0~A Venice in the mountains.~sl:0.1~Manhattan without the pollution.
+
+0x3E721403 = ~z~~sl:0.0:1.0~but more than that,~sl:0.1~I have raised the cultural element.
+
+0x4AB323AD = ~z~We're founding a university here!
+
+0x4D65D931 = ~z~~sl:0.0:3.1~The finest fair town in all of Big Valley.~sl:0.5~Hell, in west of the Lanahassee!
+
+0x4DB0BB9F = ~z~They blamed my failure at Princeton,
+
+0x4E46B3AC = ~z~~sl:0.0:2.0~Since I've been elected mayor,~sl:0.1~I have reduced the criminal element significantly,
+
+0x4FFCFAFA = ~z~~sl:0.0:2.1~Go about your business in peace...~sl:0.1~I beg of you.
+
+0x5AD6B24D = ~z~~sl:0.0:2.5~Kind burghers of Strawberry...~sl:0.2~this is your mayor speaking!
+
+0x5B0B4D31 = ~z~~sl:0.0:2.7~I, no, we...~sl:0.1~have transformed Strawberry into a veritable Versailles of the west.
+
+0x5B3E5DD1 = ~z~The new sheriff has my blessing.
+
+0x5E696763 = ~z~~sl:0.0:1.9~Well... neither do I,~sl:0.1:1.6~but it sounds very interesting.~sl:0.4~And we love interesting people!
+
+0x6B90DB5E = ~z~~sl:0.0:2.1:1~Just like my awful brother.
+
+0x6B479BD4 = ~z~Enjoy our fair town in peace and be nice.
+
+0x6BC6EEA8 = ~z~So welcome one, welcome all!
+
+0x6E5A2DF6 = ~z~Thank you.
+
+0x6FFCEEBB = ~z~~sl:0.8:1.6~I am shaping lives ~sl:0.2~and raising the level of civilization in our region.
+
+0x7C921E2A = ~z~The people have spoken and they elected me.
+
+0x7E6821D6 = ~z~That's democracy.
+
+0x7F657B6A = ~z~~sl:0.0:1.9~a sophisticated mayor!~sl:0.2~And I think I've been true to my word.
+
+0x8B09D857 = ~z~~sl:0.0:1.0~Remember everyone,~sl:0.5~I'm your elected official.
+
+0x8BF9BD71 = ~z~We is proper, and those that ain't will discover,
+
+0x9D3D7FBF = ~z~Be nice.
+
+0x9E5C393F = ~z~~sl:0.0:3.7~The barbarians shall not win here!~sl:0.7~Not while I have breath in my body!
+
+0x16A4A062 = ~z~Is it?
+
+0x16BA02AD = ~z~~sl:0.0:3.1~Strawberry, my friends,~sl:0.0:2.1~the Athens of the west,~sl:0.2~a new Rome, a better Oxford...
+
+0x23B5DE87 = ~z~~sl:0.0:3.1~Whether you're stopping for an hour or a lifetime...~sl:0.2:3.0:1~we embrace you!
+
+0x25ECA112 = ~z~and nestled in some of nature's most bounteous wilderness!
+
+0x27B4FCFA = ~z~~sl:0.0:1.7~Anyway, I do go on.~sl:0.2~It's unseemly somehow...
+
+0x32D2E9E3 = ~z~~sl:0.0:1.7~Anyway, I do go on.~sl:0.2~It's unseemly somehow...
+
+0x41D3AE38 = ~z~Almost Tolstoyan, if you know what that means.
+
+0x43ED5921 = ~z~~sl:0.0:2.1~Please, make yourself at home,~sl:0.2~but treat our town with respect.
+
+0x49F56531 = ~z~Hello sir, and welcome to Strawberry!
+
+0x59BA610C = ~z~~sl:0.0:2.1:1~Just like my awful brother.
+
+0x75A890CF = ~z~~sl:0.0:3.3~that though we may be kind and fair,~sl:0.2~we ain't afraid of justice.
+
+0x77BCB1BD = ~z~~sl:0.0:3.5~and as such it's a town for fair and nice~sl:0.1~and proper people.
+
+0x82D703EF = ~z~Welcome to our fair city!
+
+0x85A735E2 = ~z~It's a magnificent little community we're building here.
+
+0x86D552EF = ~z~Good day kind sir!
+
+0x92F77730 = ~z~I don't...
+
+0x96C520A1 = ~z~living the life of some east-coast knob, with a
+
+0x195E36FA = ~z~~sl:0.0:2.8:1~Family. My God, it's why we all ran away!
+
+0x241E86A3 = ~z~~sl:0.0:2.4~Welcome one, welcome all.~sl:0.2~This is Strawberry.
+
+0x282CF098 = ~z~~sl:0.0:2.5~Yes, it is. As mayor of this town,~sl:0.1:~I, Nicholas Timmins, love all our visitors.
+
+0x515EBFFF = ~z~~sl:0.0:1.8~Welcome to Strawberry!~sl:0.2~Welcome!
+
+0x882A836C = ~z~~sl:0.0:1.7~well, the fact is,~sl:0.1~building a fine community here is doing far more good than
+
+0x934C3559 = ~z~I am doing God's work.
+
+0x1409B65B = ~z~Where men can exercise and study as the Greeks did.
+
+0x1416E694 = ~z~~sl:0.0:2.8~This is a place of rare beauty, sure!~sl:0.5~But also a place of rare dignity.
+
+0x1722D952 = ~z~Enjoy our fair town in peace and be nice.
+
+0x1763CF06 = ~z~Is it?
+
+0x2499F440 = ~z~Hello.
+
+0x4225C044 = ~z~A-an oasis of culture and civilization in the west.
+
+0x4992D56A = ~z~~sl:0.0:3.8~This is Strawberry, West Elizabeth~sl:0.2:4.5~and I'm your mayor and you're my...~sl:0.5~our citizens.
+
+0x5064CBD9 = ~z~Be nice.
+
+0x5641EEC8 = ~z~~sl:0.0:1.6~Your mayor.~sl:0.3~And you elected me on a ticket of probity as well as democracy.
+
+0x9015CABF = ~z~I don't...
+
+0x9260DB61 = ~z~~sl:0.0:2.9~Temperance, diligence, forbearance~sl:~shall make for a happy land here.
+
+0x9297C56C = ~z~~sl:0.0:1.4~Good to see you, sir!~sl:0.2~Good to see you.
+
+0x9407A650 = ~z~~sl:0.0:1.0~Citizens...~sl:0.2~enjoy yourselves.
+
+0x9890E7C1 = ~z~~sl:0.0:2.0~Be well my proud people,~sl:~be well and be happy!
+
+0x9927D755 = ~z~~sl:0.0:1.6~We can compete with New England...~sl:~when it comes to manners and fine breeding.
+
+0x20481B91 = ~z~~sl:0.0:1.8~Fine people of Strawberry.~sl:~Citizens! Gentlemen! Ladies...
+
+0x51889FB1 = ~z~~sl:0.0:1.9~When you elected me I promised you~sl:0.2~a welcoming mayor, a kind mayor,
+
+0x547064D9 = ~z~~sl:0.0:4.5~American ingenuity, European sophistication,~sl:0.2:3.0~fine architecture, and above all...~sl:0.5~good manners.
+
+0x20168272 = ~z~~sl:1.1:2.36~This is a fair town~sl:0.2~and a nice town and a proper town,
+
+0x38693618 = ~z~Hello.
+
+0x57630008 = ~z~It's a magnificent little community we're building here.
+
+0x73439745 = ~z~Welcome one, welcome all!
+
+0xA02D6AEE = ~z~Thank you.
+
+0xA1B914B3 = ~z~Almost Tolstoyan, if you know what that means.
+
+0xA4175F48 = ~z~A chance to make you feel like this is your home.
+
+0xA5515963 = ~z~~sl:0.0:5.1~I may only be the mayor of a small town~sl:0.1:1.2~but trust me,~sl:0.1~there is no finer job in this world.
+
+0xAAE4FACF = ~z~~sl:0.0:2.7~And I believe wholeheartedly in...~sl:0.3~fairness, probity, and dignity.
+
+0xAAFDAB3A = ~z~Named after some of nature's finest bounty,
+
+0xAB448197 = ~z~Good day kind sir!
+
+0xB1A0FA5B = ~z~~sl:0.0:3.4~All we ask is you give us a chance.~sl:0.6~A chance to make you happy.
+
+0xB2FD0AFF = ~z~Strawberry is a nice place, for nice folks.
+
+0xB6DD3EFB = ~z~Please, make yourself at home, but be nice.
+
+0xBA5467BF = ~z~I wasn't...
+
+0xC6FD1E3B = ~z~~sl:0.0:3.8~A place where, one day, financiers might vacation.~sl:0.6~There's nothing finer than financiers!
+
+0xC93E96B8 = ~z~silly old great wooden camp by a lake and a bank...
+
+0xC485DA4C = ~z~~sl:0.0:1.9~Well... neither do I,~sl:0.1:1.6~but it sounds very interesting.~sl:0.4~And we love interesting people!
+
+0xCD123A64 = ~z~~sl:0.0:3.1~and a rather nasty rumor that went around about me,~sl:0.1~but it wasn't true, I...
+
+0xCD74176E = ~z~~sl:0.4:3.4~Our town is now flourishing as never before!
+
+0xD00F4523 = ~z~~sl:0.0:4.9~We encourage those... who ain't nice and ain't proper,~sl:0.2~or ain't American, to keep on moving.
+
+0xD0B4BCC2 = ~z~a new Athens in the mountains.
+
+0xD6AB6BC6 = ~z~~sl:0.0:1.7~And them that'd deny us...~sl:0.2:1.3~will swing!~sl:0.2:1.4~That's what got me elected,~sl:0.2:1.7~and that's how I feel.
+
+0xD20C9733 = ~z~They blamed my failure at Princeton,
+
+0xD39C51CB = ~z~Hello sir, and welcome to Strawberry!
+
+0xD48AB956 = ~z~~sl:0.0:3.7~Strawberry is a nice place for nice people!~sl:0.4~Our own little Adirondack camp of a town.
+
+0xD86E6CD7 = ~z~~sl:0.0:3.1:1~All here, in West Elizabeth.
+
+0xDF50DEE1 = ~z~I wasn't...
+
+0xE039338C = ~z~~sl:0.0:3.1~and a rather nasty rumor that went around about me,~sl:0.1~but it wasn't true!
+
+0xE0B3666B = ~z~An American place, for American folks.
+
+0xE6B55BAF = ~z~A place that will really put Strawberry on the map!
+
+0xE6F2902B = ~z~~sl:0.0:4.8~And you'll be fair and proper and like-minded~sl:0.3~or we will not tolerate you in our town.
+
+0xE8D97C45 = ~z~~sl:0.0:2.1~Please, make yourself at home,~sl:0.2~but treat our town with respect.
+
+0xE66B8B3E = ~z~We ain't no rough and ready frontier town.
+
+0xF0D7DE35 = ~z~But, we also have our weekly musical soirees,
+
+0xF1B0E1C1 = ~z~~sl:0.0:1.0~Visitors...~sl:0.2~amuse yourselves.
+
+0xF1CD2209 = ~z~We are America, the promised land!
+
+0xF1D79140 = ~z~They were very unkind to my wife.
+
+0xF1DD1FB4 = ~z~~sl:0.0:3.4~And to those that live here, stay here!~sl:0.2~We're a fine town, for fine people.
+
+0xF8B62FD3 = ~z~We are a little piece of the east moved to the west.
+
+0xF9A18A5F = ~z~We are a sophisticated place, for sophisticated folk.
+
+0xF83BFEBC = ~z~~sl:0.3:1.7~This town is going places,~sl:~going places I tell you!
+
+0xF5855E24 = ~z~~sl:0.0:2.5~Yes, it is. As mayor of this town,~sl:0.1:~I, Nicholas Timmins, love all our visitors.
+
+0xF2630505 = ~z~~sl:0.0:1.7~well, the fact is,~sl:0.1~building a fine community here is doing far more good than
+
+0xFB89F399 = ~z~Yes, we have the occasional untoward incident.
+
+0xFC6FCE19 = ~z~~sl:0.0:2.3~This is a fine place,~sl:0.1~in a wild land!
+

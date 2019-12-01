@@ -1,0 +1,44 @@
+0x0A8348A6 = The bartender was injured.
+
+0x0CB9119B = Magnifico
+
+0x2C191BF4 = Magnifico was attacked.
+
+0x5E5C901E = Search in the ~o~smoke~s~ for Magnifico
+
+0x7E8D10AB = Stranger
+
+0x8BFF1870 = Your horse has been scared off and won't respond.
+
+0x9E4434AB = Clearing
+
+0x59CFE73E = The bartender was killed.
+
+0x64A08D02 = Bertram was spooked.
+
+0x71A7CE66 = Subdue ~e~Bertram~s~
+
+0x75D42F69 = Magnifico got away.
+
+0x85FA5F59 = Chase after ~o~Magnifico~s~
+
+0x87CBBC49 = Miss Marjorie was killed.
+
+0x583F7440 = Magnifico was killed.
+
+0x915AE676 = The law were alerted.
+
+0x4796D2EF = Miss Marjorie was spooked.
+
+0x10947361 = Greet
+
+0x90027369 = Approach ~o~Magnifico~s~
+
+0xAE2C890A = Miss Marjorie was injured.
+
+0xB36D3A42 = Search the ~o~clearing~s~ for Magnifico
+
+0xD2AB4662 = Bertram was killed.
+
+0xD711149A = You left the area.
+

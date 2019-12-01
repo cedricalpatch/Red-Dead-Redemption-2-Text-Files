@@ -1,0 +1,18 @@
+0x4BAE8AD3 = ~z~Ain't that so John?
+
+0x5E032F7C = ~z~We run... they'll pick us off, one weak, desperate fool after the other.
+
+0x9EDEB132 = ~z~Come on... both of you... a little faith... a little faith!
+
+0x153C1DEF = ~z~You okay, son?
+
+0x7165D641 = ~z~I guess... I guess one of these days we'll find out.
+
+0x892805C5 = ~z~I'm getting nervous, boss.
+
+0xAC64CC3E = ~z~You don't think we should... scatter?
+
+0xB69EE0B2 = ~z~Me too, son... but we'll be okay... if we stick together.
+
+0xDA56A825 = ~z~Scatter? We have a problem to solve, we solve it together or we die alone.
+

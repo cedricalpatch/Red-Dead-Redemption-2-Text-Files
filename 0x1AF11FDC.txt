@@ -1,0 +1,108 @@
+0x052BF6FD = ~z~Alright, I don't have time for this.
+
+0x0932F9DF = ~z~I once had high tea with the Viceroy of India.
+
+0x0BF2848A = ~z~What's the problem?
+
+0x0E8109AF = ~z~But I am prepared to sell it to you for the low price of...
+
+0x2C093F5B = ~z~I have spent the last three months...
+
+0x4A42AD27 = ~z~Senor, can I show you something?
+
+0x4AD60390 = ~z~Well, rumor has it, they buried gold somewhere in this area...
+
+0x4B9E8629 = ~z~Well, good for you.
+
+0x4D5DFDB5 = ~z~You there, come here a minute!
+
+0x5D5BA9A3 = ~z~No, no, hold on.
+
+0x6F434D72 = ~z~in the Japanese archipelago...
+
+0x8A0200AF = ~z~Me?
+
+0x9B009D7C = ~z~There has been much written about me.
+
+0x9C830B8A = ~z~Quite the contrary.
+
+0x15B67DEF = ~z~Alright, I ain't got time for this.
+
+0x21F0B1C2 = ~z~You just need to follow the landmarks drawn here.
+
+0x30CD3428 = ~z~give me a minute of your life.
+
+0x35D452F1 = ~z~I have had... many women.
+
+0x39DFE2A8 = ~z~It was made by the Jack Hall Gang.
+
+0x90FB90E2 = ~z~in search of the legendary Tokushima Sapphire.
+
+0x148D9094 = ~z~Can't say I have.
+
+0x150A98FE = ~z~They robbed banks all the way from here to California.
+
+0x157C98DA = ~z~Oh, them you have heard of, but me...
+
+0x381DDF24 = ~z~You see this map here?
+
+0x474E7C7D = ~z~Yeah, I know who the Jack Hall Gang are.
+
+0x640DBC27 = ~z~Hey, over here!
+
+0x2936BF12 = ~z~given the potential returns.
+
+0x3811DE04 = ~z~but were killed before they could retrieve it.
+
+0x42186BA9 = ~z~Maximo Cristobal Valdespino.
+
+0x916410AF = ~z~Yes.
+
+0x2679346B = ~z~The renowned explorer.
+
+0x91417503 = ~z~What's the problem?
+
+0xA2543393 = ~z~Beautiful country, reminds me a lot of Almeria...
+
+0xAE76C998 = ~z~Okay, good for you.
+
+0xB416D718 = ~z~but, tomorrow I set sail for the island of Shikoku...
+
+0xB826C2D1 = ~z~for me, but not for you.
+
+0xC2A9F33A = ~z~Me?
+
+0xC4D65E40 = ~z~What's the problem?
+
+0xCBC5856D = ~z~this is the first, and should lead you to the second.
+
+0xCE6AEF59 = ~z~Problem? No, there's no problem.
+
+0xD25C0C32 = ~z~I'm sure you will have heard of me...
+
+0xD49F15E4 = ~z~I know who the Jack Hall Gang are.
+
+0xD8749FCF = ~z~hunting treasure on the American frontier.
+
+0xE5D09E24 = ~z~No, wait, no, wait...
+
+0xE9D9A636 = ~z~Well, there is a problem...
+
+0xE9FB40A4 = ~z~A trifle in investment for a man such as you...
+
+0xE356AE27 = ~z~I've climbed mountains, and swam across seas.
+
+0xE747BC71 = ~z~Unfortunately I am out of time now.
+
+0xE2617126 = ~z~What's the problem?
+
+0xEE0BC391 = ~z~I helped liberate South America.
+
+0xF36E5382 = ~z~No, can't say I have.
+
+0xFBB6E41B = ~z~ten dollars.
+
+0xFE54EA8B = ~z~They created two maps to ensure it was well hidden...
+
+0xFF6E515F = ~z~I might just change it forever.
+

@@ -1,0 +1,130 @@
+0x0885D4E4 = ~z~Just leave this one to me.
+
+0x0BA66AB5 = ~z~This bounty you're after... the lady... what she do?
+
+0x0D3A875E = ~z~That one? They say she's sleeping rough near Cumberland Falls.
+
+0x1C788EF9 = ~z~Well, looks like trouble, alright.
+
+0x2B3D9AFA = ~z~Read the fine print – we want that one with colour in their cheeks.
+
+0x3F4F1697 = ~z~I'm good.
+
+0x4A8F345D = ~z~We got enough crap round here from the livestock...
+
+0x4E632F9C = ~z~Sure.
+
+0x5A1C6AA4 = ~z~The terror of Valentine.
+
+0x5C677D4D = ~z~Poster says alive. A.L.I.V.E.
+
+0x6A4027EB = ~z~instead she got some debts and that bounty on her head.
+
+0x6F0BD8D3 = ~z~instead she got some debts and that bounty on her head.
+
+0x8BC30C5A = ~z~Our very own avenging angel... look on the wall there if you're after another quarry.
+
+0x8EA9D733 = ~z~Certain type of lady is drawn to this place.
+
+0x9B5F0CC0 = ~z~Nasty individual.
+
+0x9DA690FB = ~z~Just leave this one to me.
+
+0x9EA6772C = ~z~Indeed.
+
+0x23B89086 = ~z~You want to catch a sinner for us, look on the wall there.
+
+0x36BE4176 = ~z~This is a cattle town... there's three men to every woman...
+
+0x37DCB3A1 = ~z~I'll go and introduce myself.
+
+0x53DC94A5 = ~z~And what's more, they say she ain't sleeping alone.
+
+0x57F58356 = ~z~she thought she could kill him and inherit a fortune...
+
+0x59CF2E5A = ~z~This bounty you're after... the lady... what she do?
+
+0x67ED6E0C = ~z~That one? They say she's sleeping rough near Cumberland Falls.
+
+0x80C9558B = ~z~Indeed.
+
+0x84BD27AB = ~z~I got it.
+
+0x86A184B5 = ~z~Check the wall there.
+
+0x99D37205 = ~z~There any bounties outstanding in New Hanover?
+
+0x99EA87D5 = ~z~This lady murderer... that kind of thing happen much around here?
+
+0x323C9101 = ~z~There any bounties outstanding in New Hanover?
+
+0x366D044F = ~z~Yeah, I'm okay.
+
+0x440D02D6 = ~z~Mrs. Swan? The poor dear married the wrong man...
+
+0x644D9C94 = ~z~and three women to every woman of the marrying kind.
+
+0x760F0B5C = ~z~Be relentless in your pursuit.
+
+0x806BBAB7 = ~z~and three women to every woman of the marrying kind.
+
+0x820F4D36 = ~z~What we got here? I been saying for years, you don't send a saint to catch sinners.
+
+0x927EC32E = ~z~And what's more, they say she ain't sleeping alone.
+
+0x950F7E17 = ~z~Certain type of lady is drawn to this place.
+
+0x956DD0DE = ~z~Sure.
+
+0x3109F4EE = ~z~Okay.
+
+0x3301DDFE = ~z~If this ain't a bounty hunter. Poster's over there.
+
+0x4159AA86 = ~z~I'm good.
+
+0x6967FF57 = ~z~Valentine out for any miscreants?
+
+0x7658E76D = ~z~she thought she could kill him and inherit a fortune...
+
+0x27518CF3 = ~z~Valentine out for any miscreants?
+
+0x31784FD9 = ~z~I got it.
+
+0x68606FFF = ~z~Hound 'em to hell.
+
+0x72361E4C = ~z~This is a cattle town... there's three men to every woman...
+
+0x451236AC = ~z~You needing the services of a bounty hunter here?
+
+0x527868D8 = ~z~If they're in New Hanover, I'll find 'em.
+
+0x98492566 = ~z~If I ain't mistaken, you're looking for a bounty. Look no further than that wall, son.
+
+0xA336EC70 = ~z~Okay.
+
+0xA926A84F = ~z~The terror of Valentine.
+
+0xA980115E = ~z~You needing the services of a bounty hunter here?
+
+0xAE9351FA = ~z~Look here, you want to catch another sinner, bounty hunter... take a gander at the poster there.
+
+0xAFAE0795 = ~z~Yeah, I'm okay.
+
+0xB0433634 = ~z~I'll go and introduce myself.
+
+0xB22D5BCC = ~z~If we got posters, we hang 'em there.
+
+0xC3DFFF31 = ~z~We display our sinners on the wall there.
+
+0xC3FFC1DE = ~z~This lady murderer... that kind of thing happen much around here?
+
+0xD4E0FF6F = ~z~If they're in New Hanover, I'll find 'em.
+
+0xD6E40131 = ~z~Mrs. Swan? The poor dear married the wrong man...
+
+0xE5C381F0 = ~z~Nasty individual.
+
+0xF6A323AF = ~z~Looks like trouble, alright.
+
+0xF8F33666 = ~z~Don't get twitchy on 'em. Bring 'em in breathing.
+

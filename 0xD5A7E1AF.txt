@@ -1,0 +1,86 @@
+0x04E1F75D = ~z~?Que diantres es lo que quieres de mi?
+
+0x06D46FC5 = ~z~?Oye! ?Debes irte de aqui!
+
+0x0A73CC5B = ~z~?Tu hiciste esto?
+
+0x3B2B21CC = ~z~?Te dare pelea! ?Tengo orgullo!
+
+0x3DB939C5 = ~z~?Toma! ?Es esto lo que quieres?
+
+0x5A860575 = ~z~?Por favor! ?Baja el arma, por favor!
+
+0x8CC94507 = ~z~?No me quedare singhacer nada!
+
+0x8F4F6F07 = ~z~?Oh, no! ?Singarmas! ?Asi no!
+
+0x9BF32DEA = ~z~?No, no! ?Para ya de hacerle eso!
+
+0x20B7841C = ~z~?No, no lo hagas!
+
+0x22C032DF = ~z~?Oh! ?No quiero nada de esto!
+
+0x23E69F95 = ~z~?No quiero nada de esto!
+
+0x36ABB2DE = ~z~In Spanish: No time to talk! Fussar will send more men!
+
+0x39C7DF80 = ~z~In Spanish: Alright.
+
+0x75DE1938 = ~z~?No te acerques a mi! ?Fuera!
+
+0x149EC8C0 = ~z~In Spanish: I don't want this to go any further.
+
+0x326A2781 = ~z~?Por favor! ?No!
+
+0x561A4153 = ~z~?Por favor! ?Tienes que largarte de aqui!
+
+0x580E82F8 = ~z~?Por favor! ?Tienes que detenerte!
+
+0x817B99CC = ~z~No se bien que dices...
+
+0x873A03A9 = ~z~In Spanish: I hope you survive Fussar!
+
+0x4180E091 = ~z~In Spanish: Please, we can not tolerate more problems here.
+
+0x4246EA6B = ~z~?Por que me sigues?
+
+0x43616A9C = ~z~?Que miras?
+
+0x56685A49 = ~z~?Alejate de mi!
+
+0xA71B3F0E = ~z~?Me darias algo de espacio al menos?
+
+0xAA32A158 = ~z~Tengo otras cosas mas interesantes de las que ocuparme.
+
+0xAE03B61A = ~z~In Spanish: You are heaven sent! Thank you, mister.
+
+0xBC178F07 = ~z~?Que dijiste?
+
+0xBF9BCC2A = ~z~Me limitare a ignorarte.
+
+0xC6C42DC9 = ~z~In Spanish: You should leave now, though. More men will be coming. Always more.
+
+0xC80BEA92 = ~z~In Spanish: We need to get off the roads! It's the only way to lose them!
+
+0xC393DE67 = ~z~De nuevo, hola.
+
+0xD6543E18 = ~z~?Por que le haces eso? ?Por favor, para!
+
+0xDA1EA9A5 = ~z~?Oye! ?No hagas eso!
+
+0xDA51A037 = ~z~?No! ??Como pudiste?!
+
+0xDFEC3C62 = ~z~?Muevete a un lado!
+
+0xE5C5A637 = ~z~Ten cuidado.
+
+0xE1259CF7 = ~z~Ten cuidado a donde vas.
+
+0xE2228CBC = ~z~Muy bien, ?quedate con esto!
+
+0xF1D25104 = ~z~?Por favor! ?Busquemos otra forma de resolverlo!
+
+0xF5404C2A = ~z~?Que hace?
+
+0xFD9FBE46 = ~z~?Tienes mucha maldad! ?Cuanta maldad!
+

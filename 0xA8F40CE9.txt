@@ -1,0 +1,144 @@
+0x005ED057 = ~z~From... far and wide.
+
+0x00A152FC = ~z~don't speak.
+
+0x0AF4DAA3 = ~z~Here is a list of things that I need...
+
+0x0FA7EFD1 = ~z~the offer will still be there.
+
+0x1A4A794E = ~z~and a map that will set you on your way to finding them.
+
+0x1CA58C3C = ~z~I say I find things, but really it is others who do the finding.
+
+0x3A4C2013 = ~z~Hello, stranger.
+
+0x3A9244BD = ~z~A small fee is really the least I should ask...
+
+0x3D39C650 = ~z~Please...
+
+0x4B4EECD6 = ~z~when you are ready to pursue it.
+
+0x4F65EE64 = ~z~How about it?
+
+0x5D458B13 = ~z~Will you join me?
+
+0x5F0D0DB6 = ~z~Do you want to be one of my collectors?
+
+0x5F9D9597 = ~z~then that is the first thing you should go looking for.
+
+0x6AED21BA = ~z~seller of the strange and exotic.
+
+0x7A719FE9 = ~z~I told you.
+
+0x7CFDCCC7 = ~z~purpose.
+
+0x8A79E57B = ~z~What is it to be?
+
+0x8B1DEC97 = ~z~I have something I think you'll find very interesting.
+
+0x8C154330 = ~z~You don't got the eye...
+
+0x9B3B86FE = ~z~This could be the start of a long and interesting journey.
+
+0x41FE5481 = ~z~What is it to be?
+
+0x81C2D679 = ~z~you see that is something I can help you with.
+
+0x93DB792E = ~z~Yes...
+
+0x125BF671 = ~z~Let me see.
+
+0x148C541C = ~z~Or I see much pain and suffering in your future.
+
+0x239EF241 = ~z~A crook, and a charlatan.
+
+0x243A180D = ~z~I make sure they are rewarded quite handsomely.
+
+0x602D9327 = ~z~It's not something you've lost...
+
+0x713EB3F5 = ~z~you're searching for something.
+
+0x853FB585 = ~z~Go away, old man.
+
+0x982D7C3A = ~z~since everyone seems to be a fortune teller now...
+
+0x1711FDBD = ~z~Sometimes with ease, and sometimes through great hardship.
+
+0x1845FC69 = ~z~Make sure you know what you're getting into with this one.
+
+0x8615DDA3 = ~z~yes...
+
+0x9578FDE5 = ~z~Come to work for me.
+
+0x66271F42 = ~z~Some meaning in the chaos of this life.
+
+0x680422FC = ~z~Well...
+
+0x728737DA = ~z~but something you're... missing.
+
+0x18540701 = ~z~One moment...
+
+0x61801478 = ~z~What though?
+
+0x92737482 = ~z~for giving you what you're looking for...
+
+0xA7B29F00 = ~z~and setting you up with everything you need to get started.
+
+0xA8AC7C5E = ~z~just an eye for a deal.
+
+0xA27B10D1 = ~z~Channeler of spirits.
+
+0xA4980DEB = ~z~It is amazing what you will discover now that you are paying attention.
+
+0xA912239B = ~z~No, no, it's not that.
+
+0xAABBA842 = ~z~Yes...
+
+0xB1D239FF = ~z~Excellent, excellent.
+
+0xB43FB45A = ~z~Finder of lost things, and...
+
+0xB66BBD5E = ~z~The hard part of looking for something is...
+
+0xBCB0453F = ~z~Which one of these can I help you with today?
+
+0xBE634E3D = ~z~Whose spirit you wish to contact on the other side?
+
+0xBFD9D03A = ~z~knowing when you have found it.
+
+0xC1F6CFC8 = ~z~don't listen to him.
+
+0xC6D4B8AA = ~z~Go away.
+
+0xC320DC9C = ~z~return to me, and I will set you on your way.
+
+0xCC94EAA0 = ~z~A dead lover.
+
+0xCE42F2E0 = ~z~When you've found some...
+
+0xD02370CD = ~z~There are more tools you may want from me in due course...
+
+0xD2ECD0DE = ~z~Nothing but false prophecies and fake jewelry.
+
+0xD3B4F344 = ~z~I am Madam Nazar.
+
+0xD919886D = ~z~Ah, if money is the problem...
+
+0xDCC8092A = ~z~It is work that can be as honest or...
+
+0xE1D31428 = ~z~but, first you will need to prove yourself.
+
+0xE7D1A5DD = ~z~Well, like I said, you can come back to me at any time.
+
+0xEB76A2CB = ~z~Hey.
+
+0xF6B83F2A = ~z~Wait...
+
+0xF598416A = ~z~I see a great future for you...
+
+0xF3763686 = ~z~dishonest as you want it to be.
+
+0xFCF54A6C = ~z~If you don't want to start now, you can find me again, and...
+
+0xFF2E514E = ~z~I tell them what I'm looking for and they collect it for me.
+

@@ -1,0 +1,194 @@
+0x04EE55C9 = Advanced
+
+0x0595E05B = Toggle Photo Review On
+
+0x0837E5DB = Reset
+
+0x08D77A87 = Camera: Orbit
+
+0x2BA5F7A3 = Zoom
+
+0x2C520697 = Filter Intensity
+
+0x3B5BF5AD = Alternative
+
+0x3BC272CB = Weapon Wheel
+
+0x3BDF23EA = HUD
+
+0x3D521F4E = Remove Tripod
+
+0x3E4C2152 = You cannot use the camera while on a horse.
+
+0x3FA33697 = Focus Distance
+
+0x4A050F50 = Kill Cam
+
+0x4BAB8211 = Calotype Negative
+
+0x5E3304B0 = Fail
+
+0x6D0AA25F = Honorable
+
+0x6E3E4704 = Blur Strength
+
+0x7A7A3C9C = Dof
+
+0x8A8BFBAF = Exposure Lock: On
+
+0x8ABAE2D4 = Press ~INPUT_CONTEXT_RT~ to take a photograph.
+
+0x9A5B03C3 = 2-Strip
+
+0x9F3B26B8 = Lens
+
+0x14A51BAD = Enable Focus Lock
+
+0x23E4ECE5 = Handheld
+
+0x26CDB85A = Carbon Print
+
+0x29D6460F = Disable Focus Lock
+
+0x41CCCDB6 = Take Photo
+
+0x42EDD4E6 = Western
+
+0x48E0F111 = Intensity
+
+0x54AB195C = Switch Mode
+
+0x54D33732 = Movement
+
+0x58FEED06 = You cannot use the camera while on a vehicle.
+
+0x61EA90A6 = Back
+
+0x61F2AE9F = Daguerrotype
+
+0x62DCF54A = Expression
+
+0x64B6958D = Camera: Free
+
+0x71A33C97 = Exposure
+
+0x81B14C0A = Basic
+
+0x82C0CDCB = Dishonorable
+
+0x83C732FD = View Photos
+
+0x86CDB6DC = Filters
+
+0x99CCA836 = Exposure
+
+0x359FD5FE = Woodburytype
+
+0x469BF7F6 = Tintype
+
+0x560FAB1C = Game
+
+0x575BD094 = Depth Of Field
+
+0x632B85AD = Roll
+
+0x716B84FB = Zoom
+
+0x782E6B73 = Height
+
+0x3357BEBC = Focus Distance
+
+0x5938DE73 = Contrast
+
+0x7847EBD5 = Dead Eye Core
+
+0x8918AD52 = Gum Bichromate
+
+0x19131CE5 = Silver Gelatin
+
+0x31005D47 = End Credits
+
+0x35882A53 = Filter
+
+0x66686F12 = Blur Strength
+
+0x78875C57 = Place Tripod
+
+0x81194C23 = Toggle Photo Review Off
+
+0x1190529C = Put Away
+
+0x5372222A = Stamina Core
+
+0x77375928 = None
+
+0x77911182 = Self Portrait
+
+0x98843004 = Vintage
+
+0xA63D47BF = Health Core
+
+0xA91D3CF7 = Cyanotype
+
+0xA8491947 = Pause Menu
+
+0xACA1AC01 = Filter
+
+0xB4B8387D = Blue Pass
+
+0xBA1ABCEA = Injured
+
+0xBBBAF2BA = Spectator Cam
+
+0xBD166326 = Lens
+
+0xBE9F1A09 = Focus Lock
+
+0xC3E3D07C = Predator
+
+0xC884D952 = Health Tonic
+
+0xC132516D = Battlefield
+
+0xC3255557 = Yellow Pass
+
+0xCB8486D2 = Roll
+
+0xCC61E29C = Effects
+
+0xCE13F5EA = Exposure Lock: Off
+
+0xD56E7391 = Guarma
+
+0xD176F1FA = Red Pass
+
+0xD841BDAD = Contrast
+
+0xD2740FA8 = Photogravure
+
+0xDA03A98C = Pose
+
+0xDDD1DFDE = Charcoal
+
+0xDF918E2F = Noir
+
+0xE74FC9E3 = Drunk
+
+0xE152A79C = Lock Exposure
+
+0xEC2F5EA2 = Orbit / Free Cam
+
+0xED9C2A44 = Post-Apocalyptic
+
+0xF6CA5854 = Platinum Print
+
+0xF189E402 = Camera
+
+0xF3222EFC = Eagle Eye
+
+0xF9156D6E = Dead Eye
+
+0xFBE246D0 = Bleach Bypass
+
+0xFCD6FEB7 = Save Photo
+

@@ -1,0 +1,38 @@
+0x03BA0551 = ~z~Normal, you know?
+
+0x4B101219 = ~z~I'll do no such thing...
+
+0x4BDAEC37 = ~z~You had any luck in town?
+
+0x5D4DB694 = ~z~every moment, we all got to make a choice what's right and what's wrong.
+
+0x5F7E137D = ~z~Fighting for the wrong side.
+
+0x7B2AF24E = ~z~Tell her she's gone soft in the head, Arthur.
+
+0x28A525CC = ~z~and I was going to rob a lady, but she began to cry and I couldn't go through with it.
+
+0x71B8B7F2 = ~z~No doubt, but she was old... real old... and I felt bad.
+
+0x78AC45D9 = ~z~Why on earth not?
+
+0x368C6AF5 = ~z~I don't see things like that.
+
+0x9485A503 = ~z~
+
+0x95247EC9 = ~z~Said she needed the money... her son had lost his leg in the war.
+
+0x161880B3 = ~z~I robbed a feller...
+
+0x619517AF = ~z~Reckon she feels bad for the war?
+
+0xAFB35B5E = ~z~You're going soft too.
+
+0xB9C9C81B = ~z~I don't think she caused it more than I did... she was just a woman, Karen.
+
+0xC1E5FFC3 = ~z~Oh no, I'd have robbed her blind. But that's me.
+
+0xEFB9DD51 = ~z~Clear, but not simple.
+
+0xFD2F783C = ~z~I know... you see things simple and clear.
+

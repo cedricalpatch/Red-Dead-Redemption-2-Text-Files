@@ -1,0 +1,300 @@
+0x056961FF = ~z~So when I don't follow the plan, it's the eighth deadly sin,
+
+0x065BD9FD = ~z~You get your filthy hands off her right now!
+
+0x06837FB5 = ~z~Arthur! Where are you going?
+
+0x08108CDC = ~z~If you insist.
+
+0x082BD26A = ~z~Are you trying to sabotage this? Get behind here.
+
+0x09F43B32 = ~z~Hey, what's up, big man?
+
+0x0AB98298 = ~z~Arthur... I guess you can watch and give us marks out of ten.
+
+0x0DD9D92B = ~z~
+
+0x0F5B5FD7 = ~z~Shut up.
+
+0x0F8D175D = ~z~First time we laid eyes on her... she was being chased by three real angry-looking fellers.
+
+0x1C892637 = ~z~Once they're unawares, I'll put in a few shots to let them know we mean business, then move in fast to hold them up.
+
+0x2BF33C48 = ~z~Let's cut up here, it'll be quicker.
+
+0x2CC1359B = ~z~Hey, it's coming down from Valentine. I know a great spot to set up an ambush.
+
+0x3A55B6BD = ~z~Morgan, get in cover.
+
+0x3B439DDC = ~z~Oh. Hello, Arthur.
+
+0x3C873DE6 = ~z~And now you're making off with all the money too?
+
+0x3E863A7B = ~z~Drop your guns now or I'll blow her pretty head off, I swear to God!
+
+0x3FF66D19 = ~z~So, Mary-Beth, like I said... you'll be at the side of the road to flag them down, give them some sob story.
+
+0x4ABA1272 = ~z~We'll be getting rich, not killed.
+
+0x4C27A9B1 = ~z~They seem threatened to me!
+
+0x4CA256B3 = ~z~Let go of me.
+
+0x4CDC48B9 = ~z~Hey!
+
+0x4F248C78 = ~z~This way.
+
+0x5D9B627F = ~z~What're you doing?
+
+0x5EF7AB1F = ~z~We'll be hiding up above...
+
+0x5FA0D9C5 = ~z~Might want a rifle with a scope, if you've got one. We'll be back a bit from the road.
+
+0x5FE97D41 = ~z~I got your little lady friend here. Drop your guns.
+
+0x6AAA4D9A = ~z~So while you two write about that in your journals, can we get back to the matter at hand here?
+
+0x6BEB2EF9 = ~z~Oh it didn't feel right... well you can bust in there and get the money then.
+
+0x6CD25F9E = ~z~Should be coming from the North any minute.
+
+0x6F05DB09 = ~z~I'm so bored I'd rather be shot.
+
+0x7A43ECC9 = ~z~And we thought... that poor young girl getting picked on like that.
+
+0x7AF0B882 = ~z~~sl:0.0:1.3:1~Oh, thank you...
+
+0x7CB4E798 = ~z~Come on you two. This is going to be fun.
+
+0x7CE4F6C7 = ~z~Away with yourself, Arthur Morgan.
+
+0x8CF2B1E2 = ~z~Come on. Hurry up, before we get the law on us.
+
+0x8F4C9C76 = ~z~but I ain't letting you take her out robbing.
+
+0x9B08FAE8 = ~z~Like I said it would be. Next time, just leave us to it, okay?
+
+0x9B1CB416 = ~z~A stagecoach some feller told me about.
+
+0x9DDAB6FD = ~z~I think that's the lot.
+
+0x9E7BFF98 = ~z~What's the trouble here, miss?
+
+0x9EA45545 = ~z~Let's grab the money and go, Arthur.
+
+0x15EBB310 = ~z~Shit!
+
+0x30B83436 = ~z~Hey, hey, stop please!
+
+0x30D29F14 = ~z~Get off me, you son of a bitch!
+
+0x34AD2BFC = ~z~~sl:0.0:4.5~I don't know where I am... you must think I'm such a featherbrain...~sl:0.8~what's your name, sir?
+
+0x36FD1543 = ~z~nothing at all.
+
+0x37D278DE = ~z~Get moving, or we'll miss it.
+
+0x42A68096 = ~z~Anyway, can we talk about this later? I'm gonna bust in and grab the money.
+
+0x46CB85DD = ~z~But she had a bag full of wallets and gold watches.
+
+0x53C44ED1 = ~z~Nothing...
+
+0x56C825D2 = ~z~Mary-Beth can pick a pocket faster than you can blink, believe me.
+
+0x63F7C031 = ~z~I wouldn't go quite that far.
+
+0x63FDC4B5 = ~z~You alright, Mary-Beth? That was a close one.
+
+0x78D0EF7F = ~z~Sounds good. Come on then, let's go rob this...
+
+0x81C7808C = ~z~Just a little light robbery, Arthur.
+
+0x88BAD416 = ~z~Hey!
+
+0x88D2CF13 = ~z~You think I'm playing games here?
+
+0x89D55881 = ~z~Just go! We don't have time to hang around.
+
+0x268E8FBF = ~z~~sl:1.2:4.9~Thank God. I seem to have got myself all spun around out here.~sl:0.7~My horse ran off and well...
+
+0x358A6477 = ~z~Constant shite these English give me.
+
+0x417B4598 = ~z~Laurence.
+
+0x430E7E5F = ~z~Hey, she's probably robbed more folk than both of us put together.
+
+0x448DB070 = ~z~I brought...
+
+0x470D0BF8 = ~z~what we robbing?
+
+0x577F34F4 = ~z~You know what you're doing, right?
+
+0x657DEA42 = ~z~We'll split it later, we better get out of here.
+
+0x797E45E9 = ~z~For Christ's sake, didn't I say I'd shoot first?
+
+0x871E70D0 = ~z~I'll see you boys later!
+
+0x1593B461 = ~z~Are you coming or not? Make your mind up.
+
+0x3113CF54 = ~z~Yes, of course, easy enough.
+
+0x4864FDEE = ~z~Right now, you're at a one.
+
+0x5022E2E7 = ~z~~sl:0.0:2.0~Oh, Laurence...~sl:1.2~would you gentlemen possibly give me a ride to the nearest town?
+
+0x5817ABA6 = ~z~Split up and meet back at camp. Go! We don't have time to hang around.
+
+0x6508E495 = ~z~Such a privilege to be instructed by the master himself.
+
+0x6953D085 = ~z~Wonderful. Come on, you can tell me more on the ride.
+
+0x9004C755 = ~z~She's doing nothing too.
+
+0x49572D32 = ~z~Let's leave the horses here so they're out of sight.
+
+0x82598AA8 = ~z~Of course she knows what she's doing.
+
+0x88288B9B = ~z~Alright, alright.
+
+0x367769A9 = ~z~I'm in.
+
+0x963069CE = ~z~
+
+0x5413206C = ~z~My job, that I've brought you both in on.
+
+0x5471242B = ~z~No, you leave that to me.
+
+0x6301414B = ~z~Fine, fine. I'll lighten the pockets of our dearly departed friends here.
+
+0x6651917A = ~z~We'll divvy it up later, let's split up and meet back at camp.
+
+0x26055544 = ~z~Are you going to mount up then?
+
+0x35905845 = ~z~Jesus, can't believe you had to tag along on this just to keep an eye on the girl.
+
+0x75466746 = ~z~I'm fine. Just remind me to bring a gun next time I go robbing with you two.
+
+0xA1D4C186 = ~z~You can kill any one of us...
+
+0xA1EE08B2 = ~z~Unbelievable.
+
+0xA1EEA2DE = ~z~Here it comes. I'll put in a couple of shots to spook them, like.
+
+0xA8B7F8BB = ~z~Then what's she doing?
+
+0xA9F5CF61 = ~z~I like how you swan into this at the last minute and then make off with all the money.
+
+0xA29E9C6B = ~z~I think that's the lot.
+
+0xA48A0BBC = ~z~~sl:0.0:3.7~Come on, Harry. Nice young girl like that...~sl:1.8~and I'm sure we can make an exception.
+
+0xA52E5051 = ~z~Well, alright then.
+
+0xA65D49B7 = ~z~And you need to get Mary-Beth killed as well as yourself?
+
+0xA147BF8C = ~z~Besides, Arthur...
+
+0xAF1EEC5F = ~z~I thought you were just threatening him?
+
+0xAF22B573 = ~z~It didn't feel right.
+
+0xB01BDB7F = ~z~So we're killing them all then?
+
+0xB08E5961 = ~z~Happy memories, I'm sure.
+
+0xB1E56223 = ~z~Okay, you're the boss.
+
+0xB4A46F3D = ~z~Soon as the shooting starts, get low and get the hell out of there, okay?
+
+0xB6F7DC19 = ~z~See the road down there, Mary-Beth?
+
+0xB18E7B19 = ~z~Are you getting in that coach then?
+
+0xB19A20A1 = ~z~
+
+0xB49F9972 = ~z~There's a spot ~rp~that should give us a good view of the road.
+
+0xB735EB68 = ~z~What exactly are you planning?
+
+0xB389543D = ~z~Remember the crap you gave me for turning up at that train job with Marston and Charles.
+
+0xBD6151F0 = ~z~but Arthur Morgan can do whatever the hell he wants?
+
+0xBE039AEC = ~z~Wouldn't dream of it.
+
+0xBE83DC08 = ~z~And then, we'll move in.
+
+0xC0765096 = ~z~Have it your way.
+
+0xC8D5FC6F = ~z~What the hell, Arthur?
+
+0xC24D7FE2 = ~z~You really think they was just gonna give it up?
+
+0xC66F3D11 = ~z~Alright, ~rp~just over this ridge.
+
+0xC3677EFF = ~z~Alright, follow me.
+
+0xC47806CC = ~z~Not without an extra gun.
+
+0xC5357894 = ~z~She ain't blind.
+
+0xCD7179E3 = ~z~You sure about that?
+
+0xD0721928 = ~z~Oh right, very funny.
+
+0xD3B9A54F = ~z~But she'll be acting, not fighting.
+
+0xD7B32C62 = ~z~Nothing a serious feller like yourself needs to worry about.
+
+0xD84C29FC = ~z~We're ready, Sean.
+
+0xD97D95E2 = ~z~What are you doing?
+
+0xD663EF6F = ~z~This is a banking stage, miss, we can't be picking up passengers.
+
+0xDE2F1B66 = ~z~Your eyes ain't what they used to be, old feller.
+
+0xE07A3FB0 = ~z~Alright, Arthur, me and you will take cover behind that log over there.
+
+0xE0DAE09A = ~z~Just don't start acting like you're the lead on this. Like you always do.
+
+0xE8C03088 = ~z~If you say so.
+
+0xE8556FEB = ~z~Told you.
+
+0xE9797AD8 = ~z~Hey Sean.
+
+0xE39741EE = ~z~Back up north.
+
+0xE502372A = ~z~I'm keeping an eye on you, not her. I know she's solid.
+
+0xE3900933 = ~z~What are you doing? It'll be here any second.
+
+0xEA36FEE5 = ~z~I see you! We ain't falling for this!
+
+0xED81D8E3 = ~z~We don't want you in, we got this ourselves.
+
+0xF028079A = ~z~Not much.
+
+0xF5FC469F = ~z~
+
+0xF7C61D9C = ~z~Shit! Get after them!
+
+0xF8E16C82 = ~z~Where we heading?
+
+0xF69FB208 = ~z~Not exactly what we planned, but a decent take.
+
+0xF212836D = ~z~That's a nice take. You did good, Sean. You too, Mary-Beth.
+
+0xFBC67D80 = ~z~Of course.
+
+0xFCCCF779 = ~z~I've seen you fight, little feller.
+
+0xFD1FBB60 = ~z~Now'd be a good time.
+
+0xFD85746E = ~z~Yes, keep your hair on.
+
+0xFE6882CC = ~z~You're up, Mary-Beth.
+

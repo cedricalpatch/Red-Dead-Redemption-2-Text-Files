@@ -1,0 +1,34 @@
+0x1CA3A837 = ~z~Stay here, with us... folk... they ain't so bad.
+
+0x7A01DCB7 = ~z~and life is gonna go on. That's the truth of it, I won't lie to you.
+
+0x42BE6E2D = ~z~I just... I just miss him so much.
+
+0x61C13271 = ~z~You'll be safe here.
+
+0x83ABF00B = ~z~You're gonna suffer...
+
+0x313ECB2E = ~z~~sl:0.6~Oh Miss Roberts...
+
+0x521F932E = ~z~~sl:0.6~I know.
+
+0x873FFD6E = ~z~At least for now... until you're back on your feet properly.
+
+0x995EA1A7 = ~z~Of course.
+
+0x7452D794 = ~z~~sl:0.0:0.6:1~But...
+
+0x30564F9C = ~z~It's nasty out there, on your own.
+
+0x98089EFB = ~z~~sl:1.5:1.1:1~Thank you.
+
+0x178597BC = ~z~I know.
+
+0xBEC5663D = ~z~~sl:0.0:2.0:1~Wher-where am I gonna go?
+
+0xD2530D58 = ~z~How you getting along, Mrs. Adler?
+
+0xDC0A20C6 = ~z~~sl:2.1:1.5:1~What am I gonna do?
+
+0xEDD8C463 = ~z~Of course you do... goes without saying.
+

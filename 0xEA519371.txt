@@ -1,0 +1,34 @@
+0x095D9C81 = Target
+
+0x6BBB3AC1 = Master Archer
+
+0x8FAD57C7 = Wait for Master Archer to finish
+
+0x76E32AE4 = Outer Ring +~1~
+
+0x87DFBFCB = Shoot the ~COLOR_MP_OBJECTIVE~targets~s~
+
+0x307D3926 = REFILL ARROWS
+
+0x2239E3C1 = Scored ~1~
+
+0x48453F60 = Hitting the bullseye on the target ~COLOR_MP_OBJECTIVE~~BLIP_OBJECTIVE~~s~ will result in a high score. Make the shot from a greater distance to further increase your score.
+
+0xAEDB4121 = Use your Bow to hit targets during ~COLOR_FREEMODE_EVENT~Master Archer~s~ to score the most points to win. Your accuracy and distance from the targets will increase your score.
+
+0xC34FF5BE = Moving Target +~1~
+
+0xC114BEEC = A Bow has been temporarily added to your inventory for the duration of ~COLOR_FREEMODE_EVENT~Master Archer.
+
+0xCDDC5DB0 = Long Shot +~1~
+
+0xD25D5990 = Inner Ring +~1~
+
+0xD7401538 = Collect more arrows when running low ~BLIP_AMMO_ARROW~
+
+0xE0E6AC98 = Is the Master Archer
+
+0xE88A1492 = Shoot the ~COLOR_MP_OBJECTIVE~targets
+
+0xF6A4F9FF = BULLSEYE! +~1~
+

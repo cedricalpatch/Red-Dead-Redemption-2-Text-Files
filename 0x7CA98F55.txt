@@ -1,0 +1,48 @@
+0x0CA2224A = ~z~I ain't got no brother;
+
+0x0E3AA493 = ~z~Poor lonesome cowboy;
+
+0x1C8285D5 = ~z~To buy the clothes I wear.
+
+0x1EE9C6D9 = ~z~I ain't got no brother;
+
+0x2A542178 = ~z~I ain't got no father;
+
+0x4DC4E855 = ~z~I'm a poor lonesome cowboy;
+
+0x4E27E91F = ~z~I ain't got no father;
+
+0x9C5E058A = ~z~I ain't got no mother;
+
+0x20ADC979 = ~z~Poor lonesome cowboy;
+
+0x32E36DE4 = ~z~And a long ways from home.
+
+0x40D94E82 = ~z~I ain't got no father;
+
+0x67B4D86E = ~z~Poor lonesome cowboy;
+
+0x69A0DB5E = ~z~To drive the steers with me.
+
+0x79BF7C83 = ~z~Poor lonesome cowboy;
+
+0x96B6FA38 = ~z~Poor lonesome cowboy;
+
+0x452A1359 = ~z~To mend the clothes I wear.
+
+0x575FB7C4 = ~z~I'm a poor lonesome cowboy;
+
+0x732E3327 = ~z~Long way from home.
+
+0x925A2DBC = ~z~I ain't got no mother;
+
+0x3137EB75 = ~z~I ain't got no brother;
+
+0x6548975C = ~z~I'm a poor lonesome cowboy;
+
+0xA280CE09 = ~z~I ain't got no mother;
+
+0xFC10003E = ~z~I'm a poor lonesome cowboy;
+
+0xFC108127 = ~z~And a long ways from home.
+

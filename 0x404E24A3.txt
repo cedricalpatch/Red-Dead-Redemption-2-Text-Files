@@ -1,0 +1,708 @@
+0x0020E07C = ~z~I'm taking you alive, whether you like it or not.
+
+0x009F73F1 = ~z~a public one.
+
+0x02AFBF13 = ~z~I know you, sir, the bounty chaser.
+
+0x0491DFA5 = ~z~You know you want it, so scribble on some paper, and I'll get it done for you.
+
+0x08168ECF = ~z~Eyes bleeding. Some of 'em popped out.
+
+0x0918C96B = ~z~
+
+0x0A8E9132 = ~z~No permit, no execution, mister. It's a hundred and fifty in fees.
+
+0x0A94196C = ~z~The calm removal of this man's existence.
+
+0x0A888324 = ~z~One of you idiots, cut me loose!
+
+0x0B1308DC = ~z~The next thing I need is a...
+
+0x0B71778D = ~z~That moonshine is rather integral to my plans.
+
+0x0C0BBD7C = ~z~Off you go and fetch the man. His kindly and noble executioner awaits.
+
+0x0CED332F = ~z~Well, as luck would have it...
+
+0x0E1C823F = ~z~and love's gonna come pretty cheap.
+
+0x0E17D069 = ~z~it'll save the condemned a whole lot of pain.
+
+0x0E2122FC = ~z~Excuse me.
+
+0x0EF7EB16 = ~z~What the hell you talking about?
+
+0x1D29AB95 = ~z~All I've done is get some creep a lot of drink.
+
+0x1DEF4322 = ~z~Take me in. Just take me to the jail house.
+
+0x1E3BDF61 = ~z~Excellent.
+
+0x1E39171D = ~z~perhaps you've heard of me?
+
+0x1EFCAE67 = ~z~I seen trees explode in front of me.. I seen desert sand baked into glass. That's what I seen lighting do.
+
+0x1F953B86 = ~z~Okay, well, the price is fair. Here you go.
+
+0x2B7D7682 = ~z~Just... clearing out the old cobwebs. You have business with the chief, my friend.
+
+0x2BE2B270 = ~z~Can't say that I have.
+
+0x2CCE89A4 = ~z~Tell you what, I'll give you a permit, but it's going to cost you a hundred dollars in fees.
+
+0x2CF25640 = ~z~And here, sir, is your permit. Pending the usual formalities, of course.
+
+0x2DB94BE0 = ~z~But, hey. This electricity the professor's got planned for you... why that must be of an entirely different kind.
+
+0x2E3F0641 = ~z~~sl:0.0:2.4~A chair so powerful,~sl:0.4:3.1~it takes the sinner back to God.~sl:0.7:3.6~Oh, come around, come around, come around,~sl:~bring the children to the front.
+
+0x2E9D5C72 = ~z~All this wonderful methanol.
+
+0x3A409948 = ~z~
+
+0x3AABC01E = ~z~Oh, well...
+
+0x3B2D91FE = ~z~What are you waiting for?
+
+0x3B40F2DD = ~z~Such as finding a suitable candidate for... humane dispatchment.
+
+0x3B97CDB0 = ~z~I don't like your tone, mister. But I heard about this professor's invention, and I am interested.
+
+0x3C5FA282 = ~z~~sl:0.0:3.0~and immoral animal husbandry~sl:0.0:3.5~atones for his sins~sl:0.2:2.7~and future sinners through the...~sl:0.2~warm, peaceful embrace of electricity.
+
+0x3CDAEC6B = ~z~a demonstration...
+
+0x3DB4D073 = ~z~Wilson J. McDaniels, get your hands up.
+
+0x3E8F1141 = ~z~Somebody shoot me, please...
+
+0x3ECAEED7 = ~z~A way to end the barbarity of a public hanging.
+
+0x3ED76BD8 = ~z~Guess that's why he's the professor and I'm the bounty catcher.
+
+0x4B917A64 = ~z~have done a great deed.
+
+0x4C40BB6A = ~z~Well, well.
+
+0x4C12864E = ~z~It's got something to do with moonshine. But I don't quite know what.
+
+0x4CEF6E32 = ~z~I'm here for Wilson McDaniels. Don't want anyone else.
+
+0x4D398BB4 = ~z~Now, you've helped me develop the most humane machine imaginable.
+
+0x4DAF7104 = ~z~I mean, I know you'd have to go out into the woods.
+
+0x4DCED0B6 = ~z~And, what are they?
+
+0x4E0B90E5 = ~z~There was me thinking you was in a rush.
+
+0x4E906BA9 = ~z~I'm here for Wilson McDaniels. Anyone gets in the way, gets a bullet.
+
+0x4E23670D = ~z~Erm...
+
+0x4F5FBA62 = ~z~Come on... let me get a look at him, please.
+
+0x5A36D9E9 = ~z~Never shall a man have been so humanely dispatched as this poor wretch McDaniels. Please assure him of that.
+
+0x5B362B9E = ~z~I said au revoir.
+
+0x5BC04115 = ~z~Fine. Take the money.
+
+0x5C0712B3 = ~z~
+
+0x5C6C3533 = ~z~Good luck.
+
+0x5C33268F = ~z~but I got no reason to doubt the quality of his work.
+
+0x5D4C94B2 = ~z~
+
+0x5D7BBAD6 = ~z~our erm...
+
+0x5D9ED6E0 = ~z~Get him into position.
+
+0x5E9F4BF8 = ~z~I can't possibly help you, if you don't tell me what you need.
+
+0x5EFB134F = ~z~Why?
+
+0x5F9F7457 = ~z~That's it.
+
+0x5F410B46 = ~z~Bring him over here.
+
+0x6AE4B06E = ~z~Mr. McDaniels?
+
+0x6B0EFFE0 = ~z~
+
+0x6B3B0B7A = ~z~Professor?
+
+0x6B5D3158 = ~z~So...
+
+0x6BF3957E = ~z~Uh huh. Me too. Well, you'll be happy to know we ain't got far to go. Hold on tight now.
+
+0x6E03FDAC = ~z~Come on. Do I got a special treat for you.
+
+0x6E5F9302 = ~z~You okay, Mr. McDaniels? You're awful quiet.
+
+0x6F1FDCE0 = ~z~Must been a dozen head of cattle, lying there, piled up, mangled. Strange scars across their backs, legs, necks.
+
+0x6F175E0D = ~z~Alright, let's get our...
+
+0x6FCB4EAB = ~z~Do you know the Police Chief?
+
+0x7A637B83 = ~z~Won't take but a moment of your time.
+
+0x7A718E04 = ~z~Hey! I got someone here!
+
+0x7CD446CD = ~z~Shut up.
+
+0x7CD7784F = ~z~Half like they was burned... and half like the skin was ripped off of them.
+
+0x7D5E2753 = ~z~I'm going!
+
+0x7D8FEA34 = ~z~As well as anyone.
+
+0x7DBDBDBA = ~z~That's it... so,
+
+0x7DE9E1D8 = ~z~A hundred gallons of hooch...
+
+0x7E7D9C42 = ~z~immoral animal husbandry.
+
+0x7ECFAD06 = ~z~What a helpful fellow.
+
+0x7ED8FD90 = ~z~Yeah, let's hope.
+
+0x8A3B44F0 = ~z~Chief, I'm representing the inventor of a humane execution machine, an electric chair.
+
+0x8C881D52 = ~z~and repent.
+
+0x8C6407E0 = ~z~Wonderful!
+
+0x8E3E97AA = ~z~The final piece of the puzzle.
+
+0x8E135062 = ~z~Hey, look, this will save you money in the long run, and...
+
+0x8F0F6B43 = ~z~You ain't going to die needlessly, is what I mean.
+
+0x8F575C45 = ~z~They gone? I'm sorry about that, McDaniels. You alright?
+
+0x8FD52371 = ~z~We ain't got time for this, just kill 'em.
+
+0x8FE4E208 = ~z~Andrew Bell... the Third.
+
+0x9A39B744 = ~z~Born free. I was born free goddamn you.
+
+0x9BD8B8B5 = ~z~Get that son of a bitch!
+
+0x9D19611C = ~z~Well, here we are. The professor will be real pleased to meet you.
+
+0x9DBA961E = ~z~You're a wonderful man.
+
+0x9FABE925 = ~z~~sl:0.0:1.4~You are about to watch history~sl:0.6:5.5~as this poor unfortunate, Mr. Wilson J. McDaniels.~sl:1.2~Guilty of murder, bigamy
+
+0x13D6A60B = ~z~Oh, they would. We got a permit and everything.
+
+0x15D24B2C = ~z~This is all... part of my process. You have your own work to do, do you not? Now move along.
+
+0x15D65570 = ~z~~sl:0.0:0.8~Welcome one,~sl:0.1:1.1~welcome all,~sl:0.0:2.5~to this excellent demonstration~sl:0.0:2.8~of my most marvellous machine.~sl:0.5~The humane electric ending facilitator.
+
+0x16E8E50B = ~z~
+
+0x20D90C79 = ~z~Money?
+
+0x22CE4DA0 = ~z~Put him down just here.
+
+0x22FBB421 = ~z~Yes. He's going to strap you into this contraption, and run a large electric current through your system.
+
+0x27D4B3C9 = ~z~Shit. We got a visitor.
+
+0x27E7B5DD = ~z~It's for a good cause.
+
+0x28A97093 = ~z~and help me put him out of his misery.
+
+0x28F400D7 = ~z~It's all too much, I can't believe this is really happening. Let me... oh... a good walk will clear my mind.
+
+0x28FAFA8B = ~z~Nah, nah. No.
+
+0x29ACF899 = ~z~Mr. McDaniels? How you doing back there?
+
+0x31B7AE36 = ~z~j-just wonderful.
+
+0x34E8F367 = ~z~So long.
+
+0x36D753BC = ~z~Please, friend.
+
+0x37BFD996 = ~z~I do hope you're here to pay for a demonstration, sir.
+
+0x37CF6F7E = ~z~ready for the demonstration.
+
+0x41D9E3A7 = ~z~Well... if anyone knows who's moving that kind of 'shine, it'll be that stagecoach guy in Rhodes.
+
+0x44F10E25 = ~z~I... In... Incredible!
+
+0x45DCAB01 = ~z~Here, find him for me...
+
+0x46E50ECF = ~z~Come on!
+
+0x46E7125E = ~z~What you playing at, mister?
+
+0x48B547AE = ~z~Okay.
+
+0x50DCB5DC = ~z~Please.
+
+0x51FBDB30 = ~z~
+
+0x52AE2EF1 = ~z~Very good. And here is your permit. Pending the usual formalities.
+
+0x52D629EF = ~z~Breathe deep...
+
+0x54A09E60 = ~z~~sl:0.0:3.7~calmly and cleanly.~sl:1.9:0.9~There.~sl:0.8:1.9~Our subject is ready.~sl:0.4~Have you any last words, Mr. McDaniels?
+
+0x55D10EE3 = ~z~Oh you, sir...
+
+0x57FE9612 = ~z~Look, I don't have that money on me. I'll come back and see you soon.
+
+0x59AE4CB4 = ~z~Why, you wanna get overdrunk?
+
+0x60DCE735 = ~z~He's a lucky man, this Mr. McDaniels. He'll have a place in the history books.
+
+0x62FE20A6 = ~z~You got my money?
+
+0x65CB5FB5 = ~z~So humane...
+
+0x67F272CD = ~z~Yes, yes, you sir.
+
+0x68DD52BF = ~z~Arms ready!
+
+0x74CA3EED = ~z~A machine of love.
+
+0x78D9BC79 = ~z~Here...
+
+0x79B5D78A = ~z~Hey. Who the hell's this feller?
+
+0x80A6378F = ~z~
+
+0x80C45C32 = ~z~It's, it's for a very good cause.
+
+0x83C8964A = ~z~Can I help you with something?
+
+0x85BF15F5 = ~z~Sounds like sour grapes.
+
+0x86F48C49 = ~z~No.
+
+0x88C40D9F = ~z~You should be paying us... how about we give you half?
+
+0x88EF86AC = ~z~You got the permit, there anything else?
+
+0x89C89495 = ~z~Aerate that son of a bitch.
+
+0x90F8C4F1 = ~z~Ah... ah...
+
+0x91E784E7 = ~z~Nuh uh, this place ain't for you. Get!
+
+0x93BD7254 = ~z~Now where's my money?
+
+0x98AEE679 = ~z~Finding a suitable... subject.
+
+0x98B594B3 = ~z~I don't read much.
+
+0x98E466CC = ~z~Andrew Bell... the third.
+
+0x106FA8E3 = ~z~Now lay him over here.
+
+0x151CDE71 = ~z~Hey.
+
+0x192A9863 = ~z~J-J-Just bring it here.
+
+0x205D74F4 = ~z~That remains to be seen, but... I'll give you the permit for fifty.
+
+0x245F4F78 = ~z~Bud.
+
+0x247A4FB2 = ~z~Buddy old pal.
+
+0x285B5F0C = ~z~Anything else I can help you with?
+
+0x288CC25B = ~z~to our most troubles souls.
+
+0x307DFA50 = ~z~What is it for?
+
+0x384B9F08 = ~z~~sl:0.0:2.2~Listen... bit of a weird question, but...~sl:0.2~do you know where I might find some moonshine?
+
+0x403A8A0A = ~z~Such as finding a poor wretch to sit in that chair.
+
+0x413CB0EA = ~z~What?
+
+0x436B6CE4 = ~z~I'll pay.
+
+0x450C04C4 = ~z~Up ya get.
+
+0x497D92DA = ~z~our poor unfortunate...
+
+0x499C7D4B = ~z~Well, well, are you here to pay for your permit?
+
+0x509ED227 = ~z~So... I got your moonshine.
+
+0x518CF03F = ~z~This professor, Andrew Bell the third, I believe he said, he's a little odd, and maybe hare-brained,
+
+0x531CA167 = ~z~Why this is all coming together wonderfully.
+
+0x570AB558 = ~z~Can't raise no animals, take no wives.
+
+0x572FDAF7 = ~z~You won't see me again!
+
+0x591AB6C5 = ~z~Wait, what you doing, huh?
+
+0x605DC4FE = ~z~Ladies and gentlemen, behold.
+
+0x717AD436 = ~z~A way to induce calmness...
+
+0x740E4B5D = ~z~You got my money?
+
+0x741F4E9C = ~z~Yes?
+
+0x786CF1DE = ~z~Fill him full of holes!
+
+0x796A482D = ~z~Alright, I'm trying...
+
+0x799AA9F9 = ~z~Sir, welcome to our humble Police House.
+
+0x802D803D = ~z~once they buy my Humane Electric Ending Facilitator...
+
+0x836CD19F = ~z~I got him.
+
+0x841F1C5C = ~z~I think it's mighty fine.
+
+0x894BB1DE = ~z~Wanted for murder, bigamy and...
+
+0x901AC71F = ~z~No.
+
+0x905AFB5F = ~z~My name is Professor Andrew Bell the third...
+
+0x918FEFE3 = ~z~Bring him to me.
+
+0x932A955D = ~z~Perhaps you can encourage him to let me demonstrate the chair?
+
+0x952E7522 = ~z~You're wonderful...
+
+0x971E9181 = ~z~Maybe you've...
+
+0x971F1C6A = ~z~He wants to try his new electricity chair on you. To kill you. Humanely.
+
+0x1260A4A1 = ~z~it'll be amazing.
+
+0x2404F1CD = ~z~Now...
+
+0x2609CBF3 = ~z~Oh, do come and watch...
+
+0x2838FF61 = ~z~Hurry, my friend. The sooner you speak to the chief, the sooner we can show everyone.
+
+0x3022E789 = ~z~We was trying to live free, and you come along and laid waste.
+
+0x4004FF41 = ~z~Excellent. Excellent.
+
+0x4037FFCB = ~z~You do that, I'll be here.
+
+0x4916E8C6 = ~z~
+
+0x5969B174 = ~z~No.
+
+0x6144A8E7 = ~z~Uh huh?
+
+0x6326F654 = ~z~I'm familiar with the man and his work.
+
+0x7130E9A4 = ~z~This ain't America. We ain't free no more.
+
+0x7473E842 = ~z~That's a bit steep for me, alright. I'm going to go away and think about it.
+
+0x8648EFD2 = ~z~well, that's too bad.
+
+0x8945C1F2 = ~z~You are in for a sight, my friend. Just as soon as I get my hands on that methanol.
+
+0x9941DDDC = ~z~Take me to damn court then.
+
+0x37014EAC = ~z~Moonshine... the rougher the better. That's what I need my friend.
+
+0x43615C68 = ~z~Now listen, I don't need that much.
+
+0x75470D8E = ~z~I thought you looked nice.
+
+0x97012C62 = ~z~You was in animal husbandry, am I right?
+
+0x124884CB = ~z~Wilson J. McDaniels. I'm going to need you, mister.
+
+0x205559FF = ~z~No, no, it's not for drinking.
+
+0x230445E4 = ~z~Come along.
+
+0x311831C8 = ~z~Here, I got him.
+
+0x316050EA = ~z~No?
+
+0x331179FF = ~z~That's shine, alright. Let's get you home.
+
+0x391911B9 = ~z~Don't worry about me. Speak to the chief, and I'll have that chair ready.
+
+0x516952D9 = ~z~And he, uh, wants to demonstrate his invention here.
+
+0x757094AF = ~z~
+
+0x793045FC = ~z~Hold him here, I'm moving positions. Goddamn.
+
+0x813644AB = ~z~Hello Professor... Professor?
+
+0x907120C0 = ~z~there'll be money enough for you, sir.
+
+0x3129976C = ~z~So, the chief says you can test out your machine.
+
+0x4619088D = ~z~I'll tell that to the professor.
+
+0x4946690D = ~z~For a hundred and fifty dollars in fees, I will write you a permit.
+
+0x5530850B = ~z~Wonderful.
+
+0x12083830 = ~z~He's nearly dead.
+
+0x13271478 = ~z~They wouldn't let you do this to me. They wouldn't.
+
+0x49708813 = ~z~Now you're just taking up space in my Police House.
+
+0x58859769 = ~z~Sir?
+
+0x60142369 = ~z~Well, it-it is the most wonderful invention, friend.
+
+0x80787231 = ~z~The electric chair.
+
+0x84827809 = ~z~It would help bring this town into the next century.
+
+0x88331337 = ~z~Cat's paw bastard.
+
+0xA041FE1A = ~z~
+
+0xA3D65BCA = ~z~His life may have been troubled...
+
+0xA5EBEB1E = ~z~The mind shudders.
+
+0xA7DE4278 = ~z~and quite fascinating...
+
+0xA8FF80EC = ~z~Speak to the chief, and I'll put the finishing touches to my machine.
+
+0xA14B40F6 = ~z~Well, you ever seen lightning strike livestock, Mr. McDaniels?
+
+0xA27F1A5A = ~z~How much?
+
+0xA33CE979 = ~z~Yes, yes.
+
+0xA64C83A0 = ~z~
+
+0xA83E1DA4 = ~z~Nope, your death's going to be an... important step in the advancement of human knowledge.
+
+0xA574B915 = ~z~What's this damned professor got to do with anything?
+
+0xA903D649 = ~z~Stay calm.
+
+0xA6113D66 = ~z~Oh, so, so humane.
+
+0xA82325A2 = ~z~Yes, thereabouts.
+
+0xAA82222C = ~z~What in hell you saying, mister?
+
+0xAC554D77 = ~z~Go on... show that permit to whoever's got to see it.
+
+0xAF675FD2 = ~z~Protect me, you idiots!
+
+0xB2CA90E6 = ~z~I'll come with you, you son of a bitch.
+
+0xB4CA88DB = ~z~What's that?
+
+0xB8A9E407 = ~z~Where is it?
+
+0xB21FD64E = ~z~That's the feller that took our moonshine!
+
+0xB39CE599 = ~z~I ain't ever seen the actual impact, but I came across a pasture some time after.
+
+0xB44FD9E3 = ~z~What are you talking about?
+
+0xB58CFF37 = ~z~but, his passing is peaceful!
+
+0xB60E0572 = ~z~But for shine, well...
+
+0xB67DFBB8 = ~z~What can I do for you?
+
+0xB73FE13B = ~z~Yes, yes, a chair full of electricity...
+
+0xB355D95F = ~z~Well, it's in my laboratory.
+
+0xB380A93F = ~z~Ah, hello friend.
+
+0xB981CDAC = ~z~I got your moonshine!
+
+0xB14552F6 = ~z~If I hadn't seen the storm, well, I would have thought some devil caused that mischief.
+
+0xB63270A6 = ~z~For you will be moved to a better realm.
+
+0xB72277DC = ~z~I guess that makes sense. I'll tell the professor.
+
+0xBA5C08D5 = ~z~don't seem overly humane to me.
+
+0xBB02DC62 = ~z~What's it going to be?
+
+0xBB4A2581 = ~z~You're doing a great service, sir. And a lucrative one, to boot.
+
+0xBBB99FFE = ~z~Shit.
+
+0xBD9D38D0 = ~z~
+
+0xBEB9A072 = ~z~Good stuff.
+
+0xC04C6FA0 = ~z~Yes, c-c-could you do that?
+
+0xC3F5A141 = ~z~I'm guessing you'd need to go out into the woods.
+
+0xC5C8F1EE = ~z~Well?
+
+0xC6E47E34 = ~z~But, no sir, it was lightning. Electricity does something, alright.
+
+0xC8E6201F = ~z~If you want the permit, just get me that money, sir.
+
+0xC9BC7994 = ~z~And I'll be here waiting.
+
+0xC47E344D = ~z~Alright, shit, you got me.
+
+0xC50AB2A0 = ~z~Stay back!
+
+0xC50E0E5D = ~z~you're going to be in a better place.
+
+0xC165A211 = ~z~This fellow here...
+
+0xC354D1A9 = ~z~Come on. Don't be shy now. Let's go.
+
+0xC395D453 = ~z~You know, you ain't going to court, and you ain't going to jail either...
+
+0xC605DFA6 = ~z~Hold this ground. I'm falling back. Shit.
+
+0xC2665A28 = ~z~I'm building a machine.
+
+0xC20363A0 = ~z~You killed them all, you animal.
+
+0xC42406AA = ~z~Ah, excuse me, bud.
+
+0xC121412F = ~z~Shine's here.
+
+0xC740953C = ~z~Can I trouble you?
+
+0xC6787038 = ~z~Oh, oh...
+
+0xCA651C0F = ~z~I ain't wrong. It's you that's wrong.
+
+0xCA4202B3 = ~z~It will be just like... well... like switching off a light.
+
+0xCAED6FFA = ~z~What?
+
+0xCCD9FCF7 = ~z~read about me?
+
+0xCE62D1C8 = ~z~Hello, Professor...
+
+0xD4AE30A1 = ~z~All I did was graze my livestock. Married them that needed marrying. And killed any that tried to stop it.
+
+0xD4D1FEFF = ~z~About a hundred gallons.
+
+0xD5C2F8AD = ~z~I'm taking you to a professor I know.
+
+0xD5FF1EB1 = ~z~Yes, judgement.
+
+0xD7E732FE = ~z~Goddamn government cat's paw.
+
+0xD34FAAE0 = ~z~There, there...
+
+0xD41F4784 = ~z~Ah, funny you should mention.
+
+0xD57B31B1 = ~z~Hello.
+
+0xD4511B5D = ~z~The what?
+
+0xDAF30B01 = ~z~You ain't gonna die here, mister.
+
+0xDB19CF89 = ~z~you are in the legal hooch capital of America.
+
+0xDB53C4FA = ~z~You stay here much longer, I might get you a cell.
+
+0xDB75A0FF = ~z~Ah, you're back. Do you have that money?
+
+0xDBE7B4C8 = ~z~Now, where's this shine?
+
+0xDD471B39 = ~z~Will you speak to your friend in Rhodes for me?
+
+0xDDEE3A3B = ~z~Storm had just cleared and there was smoke in the air, smell of burning hair.
+
+0xDF6DA21E = ~z~I'm an inventor.
+
+0xE0487593 = ~z~Ah, hello friend.
+
+0xE04B2EAA = ~z~Someone do something!
+
+0xE04BE922 = ~z~Get away from me!
+
+0xE08C70AE = ~z~Who we got here?
+
+0xE6A6F71A = ~z~~sl:0.0:3.8~Not the savagery of a hanging,~sl:0.5:1.2~or the...~sl:0.3:2.6~the brutality of a firing squad.~sl:~No, no, no, no, no.
+
+0xE7C868E6 = ~z~There's plenty of real booze here.
+
+0xE8AA6571 = ~z~Huh...
+
+0xE8DB6009 = ~z~If you've decided to get that permit, you can just pay up.
+
+0xE9D1440D = ~z~No.
+
+0xE40DBACE = ~z~it calmly and peacefully dispatches sinners to face judgement.
+
+0xE57D738D = ~z~Ya, won't take me, you bastard.
+
+0xEC060D26 = ~z~Pending the usual formalities.
+
+0xED4179C8 = ~z~Wilson J. McDaniels.
+
+0xED70921B = ~z~
+
+0xEDCFB221 = ~z~I don't like asking, but I need permission to demonstrate a chair that executes with electricity.
+
+0xEDF7D110 = ~z~~sl:0.0:5.9~This is execution the way God intended it.~sl:~Peacefully,
+
+0xEDFDCA0F = ~z~He's got me bound over here!
+
+0xF5D4910E = ~z~I have only a few more adjustments to make. Please hurry with our subject. Science awaits him.
+
+0xF5DE4117 = ~z~Of shine?
+
+0xF6A7AC3B = ~z~Okay. Sit tight, fellers. We're still waiting on them's that buying it.
+
+0xF7A45D77 = ~z~As I said, I can pass on his assurances that this is a most humane way to go.
+
+0xF8ADD206 = ~z~Get me that methanol and the world will thank you, friend. I promise you.
+
+0xF8F59BAF = ~z~
+
+0xF179B01A = ~z~You're a lucky man, mister. You get to be part of... a great experiment.
+
+0xF466DA4C = ~z~Oh, creepers... excellent.
+
+0xF821E1C2 = ~z~N-Nonsense.
+
+0xF9503D68 = ~z~Yeah, for all the running around I been doing.
+
+0xFB1B048C = ~z~You haven't found that money, have you?
+
+0xFB50E70C = ~z~
+
+0xFBD7A621 = ~z~Moonshine. You know, strong liquor... over strong.
+
+0xFCDEE7D1 = ~z~I'm tied! Help me!
+
+0xFEAB8415 = ~z~My good man.
+
+0xFEB796C4 = ~z~Oh, I just need some.
+
+0xFEF2010F = ~z~You're your own jail keeper, mister. In a prison of your own making.
+
+0xFF141D6D = ~z~he seems sturdy enough, and he's guilty as sin.
+
+0xFFE4CF5E = ~z~You're wonderful, j-just wonderful.
+

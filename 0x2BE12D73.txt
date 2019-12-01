@@ -1,0 +1,624 @@
+0x00B6659B = ~z~Oh come gentlemen...
+
+0x00C4AA42 = ~z~Mr. Devon, you're with me.
+
+0x0153160F = ~z~I thought maybe a little entertainment might be enjoyable, but...
+
+0x03EC804E = ~z~John needs help moving these joists, now come on.
+
+0x04C4E948 = ~z~All he does is whine, whine, whine...
+
+0x058EF499 = ~z~But I'll tell you what I think, just to be safe.
+
+0x05BB3547 = ~z~He said the Skinner Brothers was hanging around...
+
+0x065432A2 = ~z~See, I told you it wouldn't be no trouble.
+
+0x06803E84 = ~z~and is unsurprisingly a pillar of strength.
+
+0x08E69508 = ~z~You're no mammal.
+
+0x09C46FC6 = ~z~unless you wanna dig a six foot deep hole for me...
+
+0x0B6EC5B6 = ~z~the life I've led.
+
+0x0B17B4B4 = ~z~I'll get you a good deal.
+
+0x0BDB358C = ~z~this place is gonna be too fine for the likes of you, John Marston.
+
+0x0C0A755F = ~z~horses will pull it clean down.
+
+0x0C5F597A = ~z~I met Uncle while I was coming out of the bank and...
+
+0x0C49D984 = ~z~How can I help you, friend?
+
+0x0C3875B3 = ~z~No woman would touch this place.
+
+0x0CF3AC94 = ~z~Do you want to buy a house?
+
+0x0ED5FE46 = ~z~It's awful.
+
+0x1B0715CC = ~z~Excuse me?
+
+0x1B5DAF30 = ~z~Charles, dear boy...
+
+0x1BBF270D = ~z~Almost there!
+
+0x1D42633D = ~z~These Skinners can be nasty.
+
+0x1D275828 = ~z~I know.
+
+0x1F67FF8B = ~z~The land you read about in the newspaper...
+
+0x1FD59A61 = ~z~Oh sure...
+
+0x2AD64DF9 = ~z~Oh, well here comes Charles...
+
+0x2B4CD270 = ~z~What've we got to eat?
+
+0x2C6D0A5D = ~z~Together...
+
+0x2CCC5CD3 = ~z~I'm a creature of habit, sir...
+
+0x2E857B8F = ~z~You wanna build a house with a sniper rifle then?
+
+0x2FAD0553 = ~z~Where in town?
+
+0x2FE40888 = ~z~The best smith around is that Norwegian feller up there.
+
+0x3D7B76CD = ~z~I thought you was cooking.
+
+0x3D8A516B = ~z~Okay. On me.
+
+0x3E2CDC17 = ~z~you're worse than a snake with a toothache.
+
+0x3F707755 = ~z~They'll be back, but...
+
+0x4AA1DBDF = ~z~We pulling?
+
+0x4B0DD9C6 = ~z~but around here you don't have to be a genius to stand out.
+
+0x4C0906F3 = ~z~only problem is you told me so much other bullshit besides...
+
+0x4D9D4602 = ~z~What're you doing here?
+
+0x4F6D3CB3 = ~z~Who'd have thought that a boy like you...
+
+0x4FB6F5C4 = ~z~You got this, John? I'll go when you do.
+
+0x5AAC2439 = ~z~how was I to know you'd actually be telling the truth for once?
+
+0x5ADE4850 = ~z~Not crazy, friend.
+
+0x5D9F1430 = ~z~That's it. That's it.
+
+0x5D48352B = ~z~Gentlemen...
+
+0x5E501026 = ~z~in an effort to impress you.
+
+0x5F7B9C40 = ~z~I think so.
+
+0x6A10031B = ~z~Another fine job there, gentlemen.
+
+0x6B082C86 = ~z~Alright, just pull.
+
+0x6C97B221 = ~z~
+
+0x6CF105D1 = ~z~and, uh, you sign your name there...
+
+0x6E54B02F = ~z~but I'm trying very hard...
+
+0x6F53CD88 = ~z~I told you.
+
+0x7A4F1D5D = ~z~Mr. Wayne, this is...
+
+0x7A6112A2 = ~z~aside from...
+
+0x7B9D2477 = ~z~even though it's thankless work.
+
+0x7BE4567D = ~z~Well...
+
+0x7C012C2B = ~z~I just need a bit of peace and quiet...
+
+0x7CA1BCED = ~z~You two are dumber than a pair of rocks.
+
+0x7EAF294D = ~z~Now, you write your name here...
+
+0x7F88C6D1 = ~z~My hands. I need to reset.
+
+0x8A47ED81 = ~z~
+
+0x8B2DF510 = ~z~Alright.
+
+0x8D74DBA7 = ~z~in his own fashion.
+
+0x8D122CB7 = ~z~The very latest in modern convenience.
+
+0x8DE50597 = ~z~Come on.
+
+0x8EBC6308 = ~z~Little more... little more...
+
+0x8EFC4ECD = ~z~I'm joking, I'm joking.
+
+0x8F76CDCC = ~z~Yes, many times.
+
+0x8FB39A01 = ~z~And you, Charles.
+
+0x8FD90C35 = ~z~Pull already.
+
+0x9AA4E024 = ~z~I'm not sure...
+
+0x9B91B03C = ~z~Ah, feels like old times.
+
+0x9B68976D = ~z~The house...
+
+0x9C29DE53 = ~z~same as if it were a bicycle.
+
+0x9CCEEA72 = ~z~How can I help you, friend?
+
+0x9D331E96 = ~z~Or failing that...
+
+0x9EB57E28 = ~z~he has been enormously helpful...
+
+0x9ECBE996 = ~z~maybe sooner.
+
+0x9F7B029F = ~z~No doubt.
+
+0x9F66515F = ~z~Each one is entirely unique, but...
+
+0x10D65330 = ~z~Charles Smith has also appeared...
+
+0x12B20926 = ~z~This is great.
+
+0x14E7D494 = ~z~It's that easy?
+
+0x14FDD3CC = ~z~got attacked on the road.
+
+0x16AC0A9A = ~z~Place just needs a woman's touch.
+
+0x19F2F4D6 = ~z~I'm joking.
+
+0x21EFBFB6 = ~z~That and an orphanage.
+
+0x25EDA691 = ~z~Those plans make any sense?
+
+0x28D9126D = ~z~I've purchased a home.
+
+0x29ECA774 = ~z~and I'm sure I shall die a fool...
+
+0x31E71F27 = ~z~Where the hell?
+
+0x32A25E5B = ~z~No wonder she didn't stay with you.
+
+0x32B12AE3 = ~z~Get her down.
+
+0x35C7177E = ~z~I'll take that one.
+
+0x35CECFCB = ~z~So, same as usual?
+
+0x41BBAC37 = ~z~Why?
+
+0x43C44843 = ~z~is now ours...
+
+0x48BFEEC9 = ~z~Now, I reckon these horses can have it down in a minute.
+
+0x53C20741 = ~z~and I mean that literally. You got no hope.
+
+0x54B564C3 = ~z~~sl:0.0:2.2:1~Uncle, I thought you was...
+
+0x55D58C44 = ~z~Oh, darling Abigail. I've changed...
+
+0x55E7159C = ~z~This way.
+
+0x56DB4B8F = ~z~I bet you never even walked on a real floor before.
+
+0x58D1609E = ~z~Well I don't think this'll burn the place down.
+
+0x61F969EB = ~z~Now we head into town...
+
+0x63FDF3EB = ~z~Ah yes, we have that one in stock.
+
+0x69C680CA = ~z~This food is wretched.
+
+0x72ED26D9 = ~z~I know this sounds crazy...
+
+0x74CB45D6 = ~z~which is less of a brain.
+
+0x79E4ECDF = ~z~that's the goddamn truth.
+
+0x80B7C26E = ~z~Listen...
+
+0x82C89824 = ~z~Excuse me?
+
+0x83F34B90 = ~z~You're also not a smart man...
+
+0x84E26949 = ~z~your dream home.
+
+0x89BEF0C6 = ~z~We good?
+
+0x91B21248 = ~z~You did...
+
+0x94A812C9 = ~z~I'll do the reading and planning and...
+
+0x97BC7613 = ~z~On you, John.
+
+0x99A127E0 = ~z~it's always the greatest of men that's the least appreciated.
+
+0x109D74C2 = ~z~At least till this fool gets his woman back.
+
+0x169A0A7E = ~z~Here, come on. Tie that end around the horses...
+
+0x192C12F2 = ~z~What are you trying to say?
+
+0x198F06A5 = ~z~My darling Abigail...
+
+0x222BF5DB = ~z~we've built you a home.
+
+0x244CAC5B = ~z~Nearly done.
+
+0x319F93DA = ~z~John.
+
+0x322A8F1D = ~z~Albert Cakes Esquire, at your service.
+
+0x375A2FB4 = ~z~No, I just hang around here for fun.
+
+0x391ADBFC = ~z~I'm simply going to use what I've got...
+
+0x461CF600 = ~z~It, it's inaccurate and not what's gonna happen.
+
+0x470BF245 = ~z~laugh at John.
+
+0x503BCC67 = ~z~And I already got credit from the bank.
+
+0x503CB30D = ~z~Convenient and cost efficient.
+
+0x529EF8D8 = ~z~I remain a fool...
+
+0x552AEB10 = ~z~up at Beecher's Hope...
+
+0x574B6F96 = ~z~was telling me there's these houses you can buy pre-cut.
+
+0x602DB8CF = ~z~We gotta get started before the rains come.
+
+0x607B6BBE = ~z~You boys give me a minute.
+
+0x607F868F = ~z~You're strong men. Come on.
+
+0x634FA738 = ~z~I've had better nightmares than this dream.
+
+0x652B0B55 = ~z~some dumb old coot I know...
+
+0x708A0D13 = ~z~I guarantee your home in a matter of weeks...
+
+0x770ACD9A = ~z~look at this place...
+
+0x780C99F0 = ~z~I left Uncle armed to the teeth back at the ranch.
+
+0x845C4E48 = ~z~This is easy.
+
+0x861C6878 = ~z~While you use what you've got...
+
+0x867FB356 = ~z~Let's do it. Come on.
+
+0x869FB333 = ~z~Cakes Hardwood & Timber.
+
+0x936B956B = ~z~You two like two bitter peas in a pod...
+
+0x972D5B97 = ~z~But fortunately you have old Uncle to set you right...
+
+0x2036DEF2 = ~z~over a goddamn hammer.
+
+0x2148EC62 = ~z~A feller came by the farm...
+
+0x2559AA71 = ~z~Now you used to be decent company, but now...
+
+0x2574A833 = ~z~you loop that end around there...
+
+0x2791F9E8 = ~z~of a factory built home.
+
+0x2821A3CA = ~z~I hope you and Jack are doing well.
+
+0x3538E3DE = ~z~We should get on with this.
+
+0x3872E932 = ~z~Don't tempt me.
+
+0x4257FDC6 = ~z~Not even a retired two dollar whore would stay with you...
+
+0x4529CB53 = ~z~You work here?
+
+0x5077D529 = ~z~Whip him if you have to.
+
+0x5337CC68 = ~z~buy ourselves a house right out of a book...
+
+0x6200A3BE = ~z~I mean, look at you...
+
+0x7613E49B = ~z~Get a move on.
+
+0x7740CE3E = ~z~Oh, don't get all angry, it ain't gonna change nothing.
+
+0x9097F4B5 = ~z~I have done something very silly...
+
+0x9671A77D = ~z~Oh, I know.
+
+0x9974DDC4 = ~z~probably.
+
+0x13144EE1 = ~z~Come on.
+
+0x29104A95 = ~z~not for a while.
+
+0x44675C69 = ~z~to be something like the man you deserve.
+
+0x58268C8D = ~z~which is a brain.
+
+0x85946AE5 = ~z~You're hopeless...
+
+0x88252E2A = ~z~Certainly never lived in one before...
+
+0x260212A0 = ~z~We doing this?
+
+0x375847A3 = ~z~Good horses.
+
+0x4285179E = ~z~Which house do you want?
+
+0x7700689B = ~z~to this happy home.
+
+0x8348328F = ~z~And if you order today...
+
+0x33369045 = ~z~We ain't got that kind of money, Charles.
+
+0x49035787 = ~z~That's it.
+
+0x64946701 = ~z~would live in a place with a real floor?
+
+0x69370697 = ~z~But if I don't go with you, who, who's gonna...
+
+0xA1A631E0 = ~z~you two sound like a married couple already.
+
+0xA1D86237 = ~z~Alright then, let's go buy us some tools.
+
+0xA3C90B33 = ~z~Now I call that a good day's work.
+
+0xA8E6FF0A = ~z~Oh would you be quiet, please.
+
+0xA9FE3D75 = ~z~you do the building.
+
+0xA28A2153 = ~z~Let's get started.
+
+0xA82A23D9 = ~z~And that is...
+
+0xA704F7E0 = ~z~You wanna get robbed for your house?
+
+0xA83595FA = ~z~Put your back into it!
+
+0xAB7BF4D7 = ~z~jail, I spent some time in had flooring.
+
+0xAB8A8896 = ~z~I miss you and the boy...
+
+0xAB41075A = ~z~Excuse me, sir, you work here?
+
+0xACA253DE = ~z~Thank you.
+
+0xAD550CA3 = ~z~Yours always...
+
+0xADD054B9 = ~z~It's good to have the old gang back together again.
+
+0xAF68078A = ~z~No, but...
+
+0xAFFC85EC = ~z~Okay, you keep working here.
+
+0xB04D8A6D = ~z~If there's Skinners about, we need 'em.
+
+0xB0A2101E = ~z~She tried to kill me because she thought I was sweet on her sister.
+
+0xB1DBA946 = ~z~Pull the reins.
+
+0xB5A9CBEF = ~z~It's a dump.
+
+0xB5B52F13 = ~z~one day you will thank me.
+
+0xB50A7CA7 = ~z~Perhaps I'm going too fast, sir.
+
+0xB604C848 = ~z~first thing it says is the foundation.
+
+0xB651C7BF = ~z~We got it.
+
+0xB960A399 = ~z~No, I just hang around here for fun.
+
+0xB7005C94 = ~z~You don't need Abigail back...
+
+0xB32484DF = ~z~Yes sir, we're ready.
+
+0xB36755B2 = ~z~Wow, this place is really coming together.
+
+0xBA62DE92 = ~z~
+
+0xBB9AA92E = ~z~come back to me.
+
+0xBCA2A1FF = ~z~We're gonna be heading up to the Manzanita Post.
+
+0xBDF5E86E = ~z~Don't get sentimental, level it.
+
+0xBE8FA6F1 = ~z~Guns for hire.
+
+0xBE352DEB = ~z~I hope soon to show it to you.
+
+0xBF33C208 = ~z~You're not a nice man.
+
+0xC0D57C44 = ~z~As long as you'll stay with us.
+
+0xC0D62042 = ~z~Good, because you're about to get shot at...
+
+0xC2A6B448 = ~z~Feels like old times...
+
+0xC3CA6830 = ~z~Get some self-respect you miserable sack of shit.
+
+0xC3FCB539 = ~z~We're pathetic.
+
+0xC6FF0716 = ~z~what'd I tell you, Charles?
+
+0xC54C4B8A = ~z~Excuse me, sir.
+
+0xC55DD27A = ~z~Just give me a moment.
+
+0xC62EB723 = ~z~Pleasure to meet you, Mr. Martin...
+
+0xC85B6CF5 = ~z~Well...
+
+0xC843FF1B = ~z~Well, I ain't going to be making a habit of it.
+
+0xC7268A25 = ~z~Man, that woman of yours can't get here soon enough...
+
+0xC46063DC = ~z~Watch the horses! Shit.
+
+0xC58106D6 = ~z~or we're all gonna starve.
+
+0xCA5F0E2C = ~z~He's right.
+
+0xCAF9FA23 = ~z~we can sit by the fire...
+
+0xCB3BC7F8 = ~z~Please...
+
+0xCB2359EF = ~z~I don't mean to say I'm a genius, but...
+
+0xCC748265 = ~z~Seems easy enough, I think.
+
+0xCDAD4414 = ~z~Sir, good to meet you.
+
+0xCDC84FBC = ~z~from your incessant yapping.
+
+0xCE5D1530 = ~z~How'd you get on?
+
+0xD00C4D58 = ~z~Yeah...
+
+0xD00CF90A = ~z~
+
+0xD1BD3628 = ~z~also the same.
+
+0xD2C0921F = ~z~You gonna pull that horse or I got to give it a kick?
+
+0xD8A1AAB1 = ~z~You're very annoying.
+
+0xD8C92AAA = ~z~Boy is as sour as week old milk.
+
+0xD60AEFB6 = ~z~Must be a novel experience for you.
+
+0xD66C6D95 = ~z~Mr. Geddes kindly helped me buy the land.
+
+0xD99A510B = ~z~I tell you what...
+
+0xD571D9DE = ~z~It's good to have the old gang back together again.
+
+0xD633DB41 = ~z~Well excuse me.
+
+0xD3604CB3 = ~z~There's a feller by the train store...
+
+0xD6050CA5 = ~z~it's gotta go.
+
+0xD7774D84 = ~z~Yeah, so they say.
+
+0xD540567A = ~z~I'll give you a luxurious, entirely unique pre-cut palace.
+
+0xD4659293 = ~z~Oh now, that is plain unfair.
+
+0xD5228683 = ~z~Definitely not a job for a man with terminal lumbago...
+
+0xDA0E9160 = ~z~It needs leveling.
+
+0xDAF9B1CB = ~z~and when she comes, you act nice...
+
+0xDC08FFD0 = ~z~I need a break.
+
+0xDCA4B1BF = ~z~maybe he can lighten the mood a little.
+
+0xDD11CD8D = ~z~I see I'm boring you.
+
+0xDFD38063 = ~z~and we are going to try our hand at ranching.
+
+0xE1A2AD0D = ~z~How did I know you'd try to weasel out of doing any work?
+
+0xE4CF2849 = ~z~let's get going.
+
+0xE4F93690 = ~z~The dumb animals don't know what to do, and neither do the horses.
+
+0xE5AF4E9A = ~z~it's very common amongst us mammals.
+
+0xE7AAC86D = ~z~Let's just hope things don't turn out like last time.
+
+0xE8C87A4A = ~z~Milton, Jim Milton.
+
+0xE9D1FD75 = ~z~Who are these two?
+
+0xE33FAFFB = ~z~I mean how hard can it be?
+
+0xE57E79D6 = ~z~Couple more years I'll start my memoirs...
+
+0xE72C7D53 = ~z~Let's just hope things don't turn out like last time.
+
+0xE547C528 = ~z~So do you.
+
+0xE551E939 = ~z~You boys ready?
+
+0xE23233F4 = ~z~Almost!
+
+0xE202249F = ~z~I wouldn't ask my worst enemy to take a shit in.
+
+0xE470251E = ~z~Which involves moving those heavy wooden joists.
+
+0xEB6F87B6 = ~z~Listen...
+
+0xEC9B77BC = ~z~Thank you, sir.
+
+0xEE6BC106 = ~z~an opulent evening at a Viennese ball awaits.
+
+0xF0ACCB29 = ~z~
+
+0xF2FF26BA = ~z~while I know your feelings about him...
+
+0xF4E31B4A = ~z~more than I can express.
+
+0xF6B6801A = ~z~I think so.
+
+0xF6F6CA2B = ~z~when the work day's over.
+
+0xF74D1D73 = ~z~What a fine place we have for ourselves.
+
+0xF94C215E = ~z~What'd I tell you, Charles, what'd I tell you?
+
+0xF95F1D83 = ~z~and you will be the proud owner...
+
+0xF348AD2E = ~z~Give me the signal.
+
+0xF7051CD0 = ~z~There he goes...
+
+0xF78518DB = ~z~lots of 'em.
+
+0xF81653EF = ~z~I think that's the last of it.
+
+0xF361615B = ~z~John Marston, you have a home.
+
+0xF899972D = ~z~And now?
+
+0xF4585840 = ~z~It's coming!
+
+0xFB6C6FF0 = ~z~There he goes...
+
+0xFBFD26D3 = ~z~I ever tell you boys about my second wife?
+
+0xFC0822D5 = ~z~Everything okay?
+
+0xFC3F5919 = ~z~come live with me in an outhouse...
+
+0xFC8BD65A = ~z~Build a house a lady would set foot in.
+
+0xFC521729 = ~z~I know old Nils real well...
+
+0xFD81F5A0 = ~z~And I think that's everything.
+
+0xFE09B03A = ~z~Charles, make him work.
+
+0xFE4F29DD = ~z~I forgot to mention, I can't cook.
+
+0xFE5AA8A2 = ~z~Oh, fantastic.
+
+0xFEE3E797 = ~z~
+

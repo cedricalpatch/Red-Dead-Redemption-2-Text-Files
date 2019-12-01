@@ -1,0 +1,16 @@
+0x49B66E94 = ~z~You know... hair pomade?
+
+0x966487EB = ~z~Well, if you happen to find some...
+
+0xA2EF2100 = ~z~Sure... I'll buy you some hair pomade.
+
+0xC67EE81F = ~z~No.
+
+0xD9131B9C = ~z~Hair pomade.
+
+0xDA0BD7B4 = ~z~Say Morgan, Morgan, you got any hair pomade?
+
+0xEAD0BF17 = ~z~What was it you wanted?
+
+0xEC2AB376 = ~z~Excuse me?
+

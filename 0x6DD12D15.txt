@@ -1,0 +1,42 @@
+0x0059B6B5 = Emmet Granger
+
+0x03B4B3FC = Place Dynamite
+
+0x0E578A78 = Place dynamite on the ~o~manure store~s~
+
+0x3D64B396 = Take out ~e~Emmet Granger~s~
+
+0x6A428317 = You killed Emmet Granger.
+
+0x6C0D5CA2 = You didn't place the dynamite on the manure store.
+
+0x9B492E75 = Emmet Granger was abandoned.
+
+0x14CFC256 = Emmet Granger's head is not visible to the camera. Make sure it is in frame and not obscured.
+
+0x47AEB1F6 = Emmet Granger's corpse is not visible to the camera. Make sure you are facing him and he is not obscured.
+
+0x54C6F2CF = Manure Store
+
+0x566A941C = Release Donkey
+
+0x763C9B0F = You attacked Emmet Granger.
+
+0x773CB7D5 = Question
+
+0x6777FD7A = Emmet Granger was scared.
+
+0x54056149 = The camera is too far from Emmet Granger to capture a good likeness. Try moving closer to the corpse.
+
+0xACF751D1 = You failed to take a photo of Emmet Granger.
+
+0xD6EF1E8C = Return to the ~o~pen~s~
+
+0xD81CB780 = Take out ~e~Emmet Granger~s~
+
+0xE1623372 = Return to ~o~Emmet Granger
+
+0xF05DE802 = Take a closeup photo of ~o~Emmet Granger~s~
+
+0xFCE18109 = Defeat ~e~Emmet Granger~s~ in the duel
+

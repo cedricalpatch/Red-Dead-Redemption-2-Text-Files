@@ -1,0 +1,34 @@
+0x09A17D20 = ~z~Yeah.
+
+0x0AC6CC9F = ~z~Have you been up to much, have ya?
+
+0x2D5B4493 = ~z~I've had more fun, well, watching the grass grow.
+
+0x3EA0E71E = ~z~You know... I'd wouldn't wanna be stuck in the wilderness with you, Charles.
+
+0x7E0AB335 = ~z~No.
+
+0x13F711CB = ~z~No, some day, you will warm up to me.
+
+0x703D179A = ~z~You heard any good jokes?
+
+0x869CF719 = ~z~
+
+0x1819E745 = ~z~Fine.
+
+0x21342C45 = ~z~Please, go watch it.
+
+0xA70A8534 = ~z~Read any interesting books recently?
+
+0xB4D620CB = ~z~Not really.
+
+0xCCCF837D = ~z~No.
+
+0xD3C95EB1 = ~z~Seen any plays?
+
+0xE139F992 = ~z~No.
+
+0xFB10DFFF = ~z~Well... fancy sharing it with me?
+
+0xFE243366 = ~z~So, how are you, Mr. Smith?
+

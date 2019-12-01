@@ -1,0 +1,176 @@
+0x0E65BCAF = ~z~Leave me alone. Just go away.
+
+0x1B4C4AEC = ~z~Please, not another step! You're not wanted here.
+
+0x2BDF2BA8 = ~z~Go away. Oh, and by the way, you smell awfully.
+
+0x2EE38DB5 = ~z~I really don't want company.
+
+0x3C355A1D = ~z~I've seen America. I'm happier in this cave.
+
+0x4A0E705B = ~z~Just sod off, will you?
+
+0x4A902CBF = ~z~There are nasty things and nasty people down here.
+
+0x4CFCE89C = ~z~Go, go, go!
+
+0x5A1DCBDA = ~z~And I don't mean you.
+
+0x5CAE7EF4 = ~z~It's hard to imagine anything less interesting than talking to a man who attacks sad men living in caves.
+
+0x5ED3833E = ~z~Oh, you're back... what are you going to do this time? Try and eat me?
+
+0x6C50ADF7 = ~z~Go and find your own cave.
+
+0x6FE52561 = ~z~You sad fool. You should find your own cave and go live there.
+
+0x8A203422 = ~z~I'm above humanity. Miles above it.
+
+0x8B2D9222 = ~z~You philistine!
+
+0x8C4CDB92 = ~z~I know everything about nothing and nothing about anything!
+
+0x8CDD32D5 = ~z~Why don't you turn around and go back to the light.
+
+0x9D13E797 = ~z~Goodbye!
+
+0x9D413C49 = ~z~I don't want presents. I offered her presents. She didn't want them either.
+
+0x9DFA7EED = ~z~I live in a cave... I rant about the meaning of meaninglessness!
+
+0x27F41580 = ~z~I bet you have a deep-seated sense of your own inadequacies, don't you?
+
+0x29D4F7BF = ~z~Come on, go away!
+
+0x32D2353B = ~z~Imagine the worst place ever...
+
+0x33E587AE = ~z~I'm not lonely. I've never been lonely. I've got my thoughts and my memories.
+
+0x40E88301 = ~z~I tried Oxford. Land of goddamn morons. They didn't understand me.
+
+0x41EA24EF = ~z~Only a moron would want to go out there when they could live in here.
+
+0x52CA0CCF = ~z~Could we possibly be this stupid? Don't answer that... it's a rhetorical question.
+
+0x60ADE3E4 = ~z~If I wanted a friend, I wouldn't choose you.
+
+0x63B57C04 = ~z~Go away.
+
+0x69AC733B = ~z~I'm above your feeble morality. I don't like you. I don't need you. I don't.
+
+0x83A44A19 = ~z~I've never been with a woman!
+
+0x86D0A65C = ~z~Go away, go away, go away!
+
+0x188E77C5 = ~z~You beast! You monster!
+
+0x349BE043 = ~z~I don't know you, I don't like you, I don't want you.
+
+0x384ED372 = ~z~I'm the devil. I'm the devil. I'm the devil!
+
+0x392BB7EF = ~z~Goodbye.
+
+0x442FA842 = ~z~They are special. Special, special, special. You'll not get them. You won't.
+
+0x465CF3ED = ~z~the age of the common man. The age of democracy. The age of idiots.
+
+0x530EDAB7 = ~z~wanting anything but you?
+
+0x553B4AA9 = ~z~I see you... man. You're just a man... I'm an immortal spirit...
+
+0x653B9A21 = ~z~Well that's what this cave is like, now go away.
+
+0x655B4BE6 = ~z~I'm happy here. I'd rather eat bear shit than speak with human beings.
+
+0x786E90BF = ~z~I am the spirit of living in a cave and laughing at idiots like you.
+
+0x874D66D7 = ~z~I'm too intelligent for you. Go away.
+
+0x889DF9FF = ~z~Will you stop annoying me? I've got my bloody thoughts. I'm a genius!
+
+0x4759B7E8 = ~z~You're a moron.
+
+0x6424AF84 = ~z~Are we dumber than them? Are we really?
+
+0x6710EE54 = ~z~I am. I am. I am. And that's a fact.
+
+0x9678EFC2 = ~z~I'm very lonely, and still I don't know how to be friends!
+
+0x44655CB4 = ~z~Even if I wasn't me, I still wouldn't like you!
+
+0x45390C2A = ~z~Real intelligent men, we have to live in caves. We do.
+
+0x57594E95 = ~z~I prove that by living in a cave.
+
+0x436149BC = ~z~Oh great, what a surprise, it's you, the silent killer, the monster.
+
+0x530727C6 = ~z~Now bugger off!
+
+0x7223382F = ~z~Even if I wasn't strange and odd and in a cave, I wouldn't like you or know you or be your friend.
+
+0x19160616 = ~z~If you were Socrates and I was Plato, I'd give you the hemlock myself.
+
+0x29898604 = ~z~Why don't you go away now?
+
+0x38175762 = ~z~We've put the idiots in charge and we wonder why the world has turned stupid!
+
+0x52812632 = ~z~She didn't understand me...
+
+0xA06B03B6 = ~z~Go away!
+
+0xA7F8D120 = ~z~My philosophy is that man doesn't know anything at all, and all knowledge is an illusion
+
+0xA602CE2C = ~z~Monster!
+
+0xA92793F6 = ~z~Please, turn around and head up to the fresh air, and to the happy Americans up in the world.
+
+0xA7689199 = ~z~Me, when I was sane, I was dull, and now I'm insane and I'm very dull.
+
+0xAEFDDFC2 = ~z~I'm not lonely. I'm a philosopher. Philosophers live in caves. Well, the good ones do.
+
+0xAFC08B57 = ~z~Listen, if I wanted to make friends, I wouldn't live in a cave.
+
+0xB7B9D6AD = ~z~I imagine even that's lost on you.
+
+0xB7C1324A = ~z~The person who is so desperate for friends, you keep annoying me!
+
+0xB84D9A9B = ~z~Go back now, please!
+
+0xB1009685 = ~z~Okay, I'm not the devil, but I want to be. I want to be... and that's even worse.
+
+0xBAE58F96 = ~z~Leave me alone!
+
+0xBB1AC105 = ~z~Get the hell out of my cave.
+
+0xBB2F778D = ~z~and life is an illusion and words have no true meaning and all language is a lie.
+
+0xBCD47B6F = ~z~The bad ones, the ones people understand, they live in universities.
+
+0xC0423508 = ~z~I'm a nasty man... go away. I don't want you here.
+
+0xCB6E980B = ~z~It was too brilliant for Boston.
+
+0xCDB1AA97 = ~z~Can you leave my cave, please?
+
+0xCF1C54CE = ~z~This cave isn't for the likes of you. You'll not be happy here.
+
+0xCF67DA1E = ~z~Go away, go away!
+
+0xD94EF833 = ~z~I'd talk to you, but quite frankly, I have no interest in anything you have to say... you attack people in caves!
+
+0xE0A49538 = ~z~Oh, will you please, please, please stop coming here to annoy me? I don't like you.
+
+0xE7B0C96E = ~z~If I come out of the shadows, you'll be very, very, very frightened.
+
+0xE103A00A = ~z~You horrible pig!
+
+0xE15129CF = ~z~Nothing... nothing makes me long for the time of kings more than this...
+
+0xEA36D1F6 = ~z~Go away, please.
+
+0xF2E3B9B6 = ~z~I won't listen to you, I don't want a friend like you!
+
+0xF81D24C1 = ~z~Is that so bad? Wanting solitude, wanting loneliness...
+
+0xF661E6D0 = ~z~I don't want friends, I don't want company and I particularly don't want you. Whoever you are.
+

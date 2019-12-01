@@ -1,0 +1,600 @@
+0x006BEA12 = ~z~Arthur!
+
+0x009FB6A5 = ~z~for the army to come and wreak its revenge?
+
+0x00C5D228 = ~z~I'm trying.
+
+0x00DDEA42 = ~z~and we're gonna go north.
+
+0x01B4E824 = ~z~The infantry division posted at Fort Wallace.
+
+0x0207E7D2 = ~z~I just...
+
+0x02174AC3 = ~z~Okay, young man, lead the way.
+
+0x0323D404 = ~z~Never thought about it in those terms.
+
+0x041A6999 = ~z~You mind the horses, I need a smoke.
+
+0x05A5F6DC = ~z~You okay, Mr. Morgan?
+
+0x09DF0A8B = ~z~~sl:0.0:2.6~And we can slip away.~sl:0.3~Like I said, we just need that noise and one more score.
+
+0x0A3CE3C1 = ~z~I have the horses under control, you go up front.
+
+0x0C6B7BA9 = ~z~Your father said that fighting was an impossible gamble.
+
+0x0C274DB4 = ~z~Of course we ain't...
+
+0x0EBFFF7A = ~z~Shall we go, son?
+
+0x0F707B97 = ~z~Come along...
+
+0x1AD8EB17 = ~z~and after the horses are we gonna wait...
+
+0x1AFC8B99 = ~z~~sl:0.0:6.0~That bridge we just blew... the army has a contract with the railroad...~sl:~it was all in those papers Micah found...
+
+0x1B2C9853 = ~z~Stop worrying.
+
+0x1E7D20BC = ~z~Sure.
+
+0x1EB84A34 = ~z~That's the boat there.
+
+0x2C00726F = ~z~Good luck.
+
+0x2CB32F06 = ~z~~sl:0.0:5.0~You know, I went back for the chest I had hidden outside Shady Belle,~sl:~and we're close, Arthur.
+
+0x2E9F39F4 = ~z~What do you think, Charles?
+
+0x2E50AD41 = ~z~Hold on!
+
+0x2F3F8172 = ~z~The boat is still moored in the channel.
+
+0x3AA66F4A = ~z~Come here.
+
+0x3ADC58EE = ~z~we've suffered too much...
+
+0x3ADFD981 = ~z~Yes.
+
+0x3B91192B = ~z~Try not to splash too much, Arthur.
+
+0x3BF0D57F = ~z~I guess...
+
+0x3BFF0D36 = ~z~~sl:0.0:1.7:1~Send her over to me, I got lots of money.
+
+0x3C0575BB = ~z~~sl:0.0:3.6~That dynamite, the railroad contract with the army...~sl:0.1~it was all in those papers Micah found.
+
+0x3C73DBB9 = ~z~We'll set up a good spot for you.
+
+0x3CA0DB0F = ~z~his father is a great chief.
+
+0x3D28DF03 = ~z~I see that.
+
+0x3F02E0D7 = ~z~and when Colm's dealt with, you come meet us there.
+
+0x4A167762 = ~z~been lied to too much...
+
+0x4B8D67BA = ~z~You boys alright back there?
+
+0x4D494C55 = ~z~Over here, come on.
+
+0x4E09C378 = ~z~What the hell?
+
+0x4E1B7FF8 = ~z~I'll speak with him.
+
+0x4E92868C = ~z~You're going to let these bastards walk all over you? No, you're not!
+
+0x4EF90127 = ~z~Father has confused wisdom with weakness.
+
+0x5C4A5B87 = ~z~Let's wait till nightfall.
+
+0x5C8D6ABD = ~z~We can go higher than that.
+
+0x5C782257 = ~z~This is all that's wrong with this world.
+
+0x5CED2313 = ~z~Now they have been chasing us south and east and west.
+
+0x5E1C02CB = ~z~~sl:0.0:1.5~The old are weak and sick,~sl:~but they deliberately withhold medicine and supplies from us.
+
+0x5E268ECA = ~z~they'll help us.
+
+0x5F0BA7FC = ~z~Then Tahiti, the Fiji Islands, or this place, New Guinea.
+
+0x5F4875DC = ~z~~sl:0.0:4.4~That dynamite, the railroad contract with the army...~sl:0.2~it was all in those papers Micah found.
+
+0x5FA00024 = ~z~Reverend.
+
+0x6BD9A11D = ~z~Will one of you help me return the horses to my men?
+
+0x6C5A95C3 = ~z~you're quite the best pilot I've ever come across.
+
+0x6CA10B8C = ~z~~sl:1.0~What was that?
+
+0x6D3A3DA9 = ~z~His people, my people...
+
+0x6E510E48 = ~z~Goddamn it, no... I'm out.
+
+0x6EAF274D = ~z~Nothing...
+
+0x7A8CAD94 = ~z~We need to get that boat ashore...
+
+0x7B94C4F0 = ~z~Ah, seems like Uncle Sam likes you fellers even less than he likes us!
+
+0x7B390BAD = ~z~~sl:0.0:3.2:1~I'd say I'm sorry, fellers, but I'd be lying!
+
+0x7C4051C9 = ~z~~sl:0.0:1.6~We got enough folks coming after us~sl:~without adding army to the list...
+
+0x7CECC3C8 = ~z~Guess it was nothing.
+
+0x7E8C3DFC = ~z~You okay, Mr. Morgan?
+
+0x7E28B95F = ~z~Well whatever else is wrong with you...
+
+0x7F2CFC7E = ~z~I have a plan. You just have to trust me.
+
+0x7FF0EF17 = ~z~~sl:0.0:4.6~Not this again.~rp~ It's been quite a while since we helped anyone,~sl:~but ourselves, and even you know that.
+
+0x8A08B703 = ~z~Good.
+
+0x8AF6C793 = ~z~Raise you.
+
+0x8B45F340 = ~z~You men have helped me before...
+
+0x8C4AD979 = ~z~I don't know, Reverend.
+
+0x8C466B09 = ~z~These men, like I said...
+
+0x8C68089E = ~z~The canoes should be in the cove up ahead.
+
+0x8CFAAF30 = ~z~Don't know what I'm gonna tell my wife...
+
+0x8D0603F4 = ~z~and then we disappear.
+
+0x8DC994AD = ~z~I've got these, you round up the others.
+
+0x9A0165A8 = ~z~I'll be retiring in the morning at this rate.
+
+0x9AF1F6C7 = ~z~These are challenging times...
+
+0x9B3E99B9 = ~z~Not well, sir.
+
+0x9C3968CF = ~z~
+
+0x9D60A349 = ~z~We're gonna get a boat...
+
+0x9DAC9263 = ~z~Are you coming or not, Arthur?
+
+0x9E71D21A = ~z~Now that's just plain rude.
+
+0x9EFD3BB1 = ~z~~sl:0.0:2.7~Kill two birds with one stone.~sl:0.6~Cornwall was funding the Pinkertons' assault on us.
+
+0x21A5A8C0 = ~z~You think I have the first idea how this anchor works?
+
+0x21D03371 = ~z~Damn it, Arthur! What the hell are you doing?
+
+0x21DE1D06 = ~z~~sl:0.0:3.1~I know. I understand Eagle Flies is angry,~sl:~but I don't see how this will help anything.
+
+0x24B49731 = ~z~Well, he is a wise man, but you know... I think that I agree with you.
+
+0x25B8ED7B = ~z~Easy, they are going to hear us.
+
+0x25B3498C = ~z~~sl:0.0:3.7~With Cornwall gone, the government's far more likely...~sl:~to divert them to other issues, especially if there's one more scandal.
+
+0x25F42F1E = ~z~now, they've taken our horses.
+
+0x27A48A2F = ~z~quietly.
+
+0x27E10A8E = ~z~We're taking back what's ours.
+
+0x27F99DB3 = ~z~You know I never had a son...
+
+0x30A0C5FB = ~z~without hunting...
+
+0x31F46928 = ~z~Pull up alongside... quietly.
+
+0x37B1C1E1 = ~z~The boat is still moored in the channel.
+
+0x37B75168 = ~z~and it is one that will suit both of our purposes.
+
+0x37E7CC85 = ~z~Put your money away, son.
+
+0x38ABC1F7 = ~z~What is wrong with you?
+
+0x43C4AEEE = ~z~Shit, we got a problem here!
+
+0x43DDBF07 = ~z~~sl:0.0:2.2~And then we can slip away.~sl:0.3~Like I said, we just need that noise and one more score.
+
+0x45CD6D94 = ~z~Fighting the army ain't wise.
+
+0x45E06D96 = ~z~did me a great favor.
+
+0x49F4F8A3 = ~z~Without horses, we cannot hunt...
+
+0x50BD8B60 = ~z~Dancing girls,  freedom...
+
+0x53D74EF2 = ~z~The horses are confused, we need to round them up.
+
+0x61B7B2A5 = ~z~I told you.~rp~ Noise. We need noise, Arthur.~rp~ Noise and faith.
+
+0x61D22579 = ~z~Charles and I we erm...
+
+0x62ADEC9F = ~z~I'll get these four, Arthur, can you go after the others?
+
+0x63AB3E26 = ~z~~sl:0.0:3.3~With Cornwall gone, the government's far more likely...~sl:~to divert them to other issues, especially if there's one more scandal.
+
+0x63C19822 = ~z~Yeah, I think so...
+
+0x67FCA276 = ~z~I got the canoes.
+
+0x68AB3517 = ~z~Would you?
+
+0x69A5E883 = ~z~"Sorry darling, no food this month. That cheating bastard Pennington robbed it all!"
+
+0x72A2C2EA = ~z~We have attackers on board!
+
+0x73BA4941 = ~z~I've brought a friend, Arthur.
+
+0x73BF4B3F = ~z~Your father would rather you did not do anything so foolish!
+
+0x73E22E57 = ~z~This ends today. You have my word on that.
+
+0x76A9C2F2 = ~z~~sl:0.0:2.1~And we can slip away.~sl:0.5~Like I said, we just need that noise and one more score.
+
+0x80F1545F = ~z~they'll help us.
+
+0x86E6718D = ~z~Speak with Rains Fall?
+
+0x90F52A7E = ~z~Wait here, I'll go take a look...
+
+0x91AE7CA5 = ~z~Especially not with Dutch whipping him up into a frenzy.
+
+0x92C6487E = ~z~Alright, let's head out.
+
+0x93E1DAC0 = ~z~Gentlemen...
+
+0x94A29F64 = ~z~~sl:0.0:6.0~Not this again.~rp~ It's been quite a while since we helped anyone,~sl:~but ourselves, and even you know that.
+
+0x96BBC2B2 = ~z~Full house!
+
+0x106EF7E6 = ~z~Hurry up, this young fella needs our help.
+
+0x125FEB54 = ~z~He's a vile man. He and his regiment take pleasure in persecuting us.
+
+0x127B22A7 = ~z~~sl:0.0:1.7~And then we can slip away.~sl:0.3~Like I said, we just need that noise and one more score.
+
+0x130ADB83 = ~z~I will.
+
+0x130B76B3 = ~z~We're heading to those rocks.
+
+0x159F3ED9 = ~z~~sl:0.0:2.9~The civilized world is closing on us.~lr:~Who knows what else Molly told them?
+
+0x221DFB88 = ~z~~sl:0.0:3.5~Kill two birds with one stone.~sl:0.4~Cornwall was funding the Pinkertons' assault on us.
+
+0x290BB411 = ~z~Oh, and Sadie told me about Colm.
+
+0x311F42E2 = ~z~Come on, Arthur. Too late to back out now.
+
+0x330A33DC = ~z~
+
+0x434B7DD4 = ~z~Come on, Arthur.
+
+0x496B8215 = ~z~~sl:0.0:5.3~Stop questioning and think. Just think for a second.~lr:~The Pinkertons have had time to reinforce.
+
+0x505AE749 = ~z~~sl:0.0:2.3~The horses are on a boat near Van Horn.~sl:0.3~I have a man waiting for us there with some canoes.
+
+0x563AE75B = ~z~Pull up alongside...
+
+0x567DFAC3 = ~z~There's only so much treachery and betrayal that a man can take...
+
+0x583B9244 = ~z~Hello.
+
+0x596F9C18 = ~z~we are gonna go to New York.
+
+0x673E0179 = ~z~Your father must be a great man... he raised you.
+
+0x766ED012 = ~z~How's your father?
+
+0x794BA594 = ~z~Thank you.
+
+0x816D5379 = ~z~the horses are spooked...
+
+0x828D18AB = ~z~Why are you getting involved in this, Dutch?
+
+0x846B76E1 = ~z~Arthur, deal with that anchor.
+
+0x878A7490 = ~z~Just blow it up then. Hurry!
+
+0x894BFC7C = ~z~New York?
+
+0x1857E61D = ~z~I like you, son...
+
+0x3050B9EB = ~z~We can get them more horses.
+
+0x3168B091 = ~z~An old friend of Evelyn Miller like you? I doubt that.
+
+0x4218CE95 = ~z~~sl:0.0:2.7~We wouldn't last five minutes out there.~sl:~Not you, not me, not any of us.
+
+0x4329E309 = ~z~and I have money.
+
+0x4509F94E = ~z~~sl:0.0:2.9~You know me...~rp~ we shoot fellers as need shooting,~sl:~we save fellers as need saving, feed them as need feeding.
+
+0x4551D51F = ~z~~sl:0.0:5.2~We have to stick together,~rp~ now more than ever.~sl:~Alone,~rp~ they'll pick us off.
+
+0x4699EAD1 = ~z~come along.
+
+0x4971F4B1 = ~z~Dutch, this is Eagle Flies...
+
+0x6462AABE = ~z~This is the only idea...
+
+0x6593ACF4 = ~z~Hello.
+
+0x7847E75F = ~z~~sl:0.0:3.3~You know, I went back for the chest I had hidden outside Shady Belle,~sl:~and we're close, Arthur.
+
+0x9115D475 = ~z~What the hell?
+
+0x9446E11D = ~z~Where the hell did these bastards come from?
+
+0x27922FC8 = ~z~What are you doing? Get over here.
+
+0x48335E2E = ~z~before he must admit to himself that he is no longer a man.
+
+0x54270A23 = ~z~Pretended to be mercenaries...
+
+0x56360E65 = ~z~Is this a good idea?
+
+0x60640AB7 = ~z~I must be going crazy...
+
+0x77303EFF = ~z~but there's a huge hole in the boat...
+
+0x77415C8D = ~z~Boys, go find out about those horses down below.
+
+0x93378EF7 = ~z~we're gonna get on a river...
+
+0x95770DC2 = ~z~he'd rather live in ignorance.
+
+0x280832E2 = ~z~Yeah well, I do.
+
+0x590295C6 = ~z~would you talk to him?
+
+0x775320F0 = ~z~Is that you, feller?
+
+0x821165EF = ~z~Pardon me for interrupting.
+
+0x883240C1 = ~z~Alright. Call.
+
+0x1462057A = ~z~You know I told your father I will not fight over some horses.
+
+0x3381354B = ~z~Try not to kill anyone, Arthur.
+
+0x34056630 = ~z~Why do you think I dealt with him?
+
+0x64558126 = ~z~I think the best plan is to paddle up there silently, board her,
+
+0x77382016 = ~z~I'm in.
+
+0x84596657 = ~z~I found a body!
+
+0x88556649 = ~z~~sl:0.0:4.4~With Cornwall gone, the government's far more likely...~sl:~to divert them to other issues, especially if there's one more scandal.
+
+0x91138757 = ~z~I understand.
+
+0xA29AAA65 = ~z~Dutch's behavior it's...
+
+0xA47FA9A1 = ~z~Are you joining us then, Arthur?
+
+0xA54A1D14 = ~z~Come on, let's go.
+
+0xA77AB3B1 = ~z~Why?
+
+0xA88A664F = ~z~For Christ's sakes, Pennington, you're taking us for a ride here.
+
+0xA138A639 = ~z~I said I would stop this from happening...
+
+0xA333CEFB = ~z~Is everything okay around there?
+
+0xA915B567 = ~z~Well, I am sorry to hear that.
+
+0xA2733B05 = ~z~~sl:0.0:6.9~Stop questioning and think. Just think for a second.~lr:~The Pinkertons have had time to reinforce.
+
+0xA338796D = ~z~So... what's next?
+
+0xA4253186 = ~z~Reverend Swanson, would you excuse us a minute.
+
+0xAD68E365 = ~z~Need some help back there?
+
+0xAEFCBFCD = ~z~Sure, I'm fine...
+
+0xAF0C3098 = ~z~These men, like I said...
+
+0xAFC842CC = ~z~Dutch van der Linde.
+
+0xB0B07697 = ~z~
+
+0xB0F52FA4 = ~z~So it goes... my father doesn't want to fight again.
+
+0xB5FBD533 = ~z~Of course...
+
+0xB6F92ED5 = ~z~for all of us...
+
+0xB43ED265 = ~z~a whole lot of commotion...
+
+0xB67EA260 = ~z~I hope not.
+
+0xB91A05D0 = ~z~Sure, but what's this gotta do with any of that?
+
+0xB102C4D9 = ~z~There's no winning for you in this.
+
+0xB112B172 = ~z~We need to do something about that anchor, Arthur.
+
+0xB73034F6 = ~z~~sl:0.0:2.5~All the young have been taken from our reservation,~sl:~shipped off to reform schools. Many women too.
+
+0xB3266403 = ~z~~sl:0.0:3.9~Some good honest conflict between the army and the Indians...~sl:~might be just the distraction we need.
+
+0xBA176AF9 = ~z~~sl:0.0:5.2~That bridge we just blew... the army has a contract with the railroad...~sl:0.2~it was all in those papers Micah found...
+
+0xBBB48AFD = ~z~I still don't know what that means.
+
+0xBBDCCEC3 = ~z~We're all waiting on you, Arthur.
+
+0xBC229063 = ~z~~sl:0.4~I guess so...
+
+0xBD99D0CD = ~z~~sl:0.0:3.2~Kill two birds with one stone.~sl:0.6~Cornwall was funding the Pinkertons' assault on us.
+
+0xBFC4B803 = ~z~We'll be ashore before anybody even knows what happened.
+
+0xBFD964E2 = ~z~Thank you, Arthur.
+
+0xC0B409E3 = ~z~There's Paytah...
+
+0xC2C1E857 = ~z~Come along, gentlemen.
+
+0xC3CAB93A = ~z~Just deal, will you?
+
+0xC4ADCA3E = ~z~Yes...
+
+0xC4E3D05D = ~z~Of course. What will be will be.
+
+0xC6DBA153 = ~z~We need to move towards a conclusion now.
+
+0xC7C0F8BD = ~z~New York...
+
+0xC18A6510 = ~z~Certainly.
+
+0xC60C68D0 = ~z~out of hand.
+
+0xC81C799A = ~z~Thank you for this.
+
+0xC87D0AF9 = ~z~Come on.
+
+0xC92E0B75 = ~z~These will follow me, there are more up river.
+
+0xC201EDEB = ~z~But first we have to make a whole lot of smoke...
+
+0xC637DEE7 = ~z~I got the canoes.
+
+0xC4200C07 = ~z~they'll have to send more money and supplies.
+
+0xC55147B7 = ~z~Go on, go on!
+
+0xC97688EF = ~z~~sl:0.0:3.5~You know me...~rp~ we shoot fellers as need shooting,~sl:~we save fellers as need saving, feed them as need feeding.
+
+0xCB807A3C = ~z~How do you do?
+
+0xCBF9FCAF = ~z~Who?
+
+0xCD239115 = ~z~~sl:0.0:2.7~Kill two birds with one stone.~sl:0.6~Cornwall was funding the Pinkertons' assault on us.
+
+0xCF0F363C = ~z~~sl:0.0:3.7~We have to stick together,~rp~ now more than ever.~sl:0.4~Alone,~rp~ they'll pick us off.
+
+0xCF637460 = ~z~~sl:0.0:4.5~Some good honest conflict between the army and the Indians...~sl:~could be just the distraction we need.
+
+0xD0CB864A = ~z~we will starve.
+
+0xD1E4052D = ~z~I'm gonna go smoke, alright? Be back in a bit.
+
+0xD3AC8C14 = ~z~his people won't stop until we're all dead.
+
+0xD3AFF9DF = ~z~Good.
+
+0xD4A45AED = ~z~~sl:0.3:0.0~No, not again.
+
+0xD6F5F2FF = ~z~Sure.
+
+0xD7A03307 = ~z~I have a plan. You just have to trust me.
+
+0xD7F89520 = ~z~it's not my fight.
+
+0xD34FE782 = ~z~very challenging.
+
+0xD38D9102 = ~z~Are you feeling alright, Arthur?
+
+0xD614E4A3 = ~z~and when we got control, we'll deal with that anchor, float away.
+
+0xD7136B3B = ~z~Come on, let's get 'em outta here.
+
+0xD2240643 = ~z~We'll start some light reconnaissance out at Fort Wallace...
+
+0xDB67AFE8 = ~z~I thought you were getting the other horses, Arthur?
+
+0xDC4DFF31 = ~z~Anyway, son, tell me about this Colonel Favours?
+
+0xDE1C9F0C = ~z~This is exactly the distraction that we need.
+
+0xDE83839C = ~z~Surely this can be done without killing anyone?
+
+0xDEF534B8 = ~z~~sl:0.0:3.7~Some good honest conflict between the army and the Indians...~sl:~could be just the distraction we need.
+
+0xDF77A3AA = ~z~Colonel Favours is a liar and a murderer...
+
+0xE07FA2FA = ~z~Meet us in Doyle's Tavern in Saint Denis when you can.
+
+0xE1CD5BB8 = ~z~~sl:0.0:1.8~We wouldn't last five minutes out there.~sl:~Not you, not me, not any of us.
+
+0xE1FB7959 = ~z~now let's go check out that fort of theirs.
+
+0xE4D04752 = ~z~~sl:0.0:4.4~You know, I went back for the chest I had hidden outside Shady Belle,~sl:~and we're close, Arthur.
+
+0xE6E343C8 = ~z~I told you. Noise.~rp~ We need noise, Arthur.~rp~ Noise and faith.
+
+0xE7C804FE = ~z~Well, Arthur will...
+
+0xE15F7B41 = ~z~We're being ambushed!
+
+0xE25BAE9E = ~z~We ain't so good at doing scores any more, Dutch.
+
+0xE65DFE60 = ~z~I ain't had a sniff of a good hand all night.
+
+0xE1829FBC = ~z~Arthur, we must go with them...
+
+0xE94009CD = ~z~~sl:0.0:4.4~Some good honest conflict between the army and the Indians...~sl:~might be just the distraction we need.
+
+0xE1398355 = ~z~You don't seem yourself, somehow...
+
+0xEA3EB9AC = ~z~It's...
+
+0xEB34B320 = ~z~to try to stop things from getting...
+
+0xEB81BBB6 = ~z~This is another act of war.
+
+0xED825F4F = ~z~Why do you think I dealt with him?
+
+0xEE563F7F = ~z~Father need not know anything...
+
+0xEEA9C68E = ~z~I've left the morphine, sir. I'm...
+
+0xEF851C1E = ~z~and we're taking on water.
+
+0xEFCD435D = ~z~I can't get any more involved in this business, Charles.
+
+0xF01A4A1B = ~z~One score, and one whole hell of a lot of noise.
+
+0xF05807FD = ~z~Okay.
+
+0xF1B32448 = ~z~I've always felt...
+
+0xF2F328CE = ~z~Arthur, what are you doing? They'll hear us.
+
+0xF3AFB1D8 = ~z~I guess so...
+
+0xF4B14619 = ~z~But I made no such promise.
+
+0xF4E0CEF0 = ~z~You head on back to camp, check on the others.
+
+0xF5E7BC6C = ~z~We seem to be going pretty fast, Dutch.
+
+0xF9B25637 = ~z~I don't know, Dutch...
+
+0xF107CDA0 = ~z~~sl:1.6:2.2:1~Reverend...
+
+0xF912A96E = ~z~~sl:0.0:3.8~You know, I went back for the chest I had hidden outside Shady Belle,~sl:~and we're close, Arthur.
+
+0xFA1BDC1C = ~z~We can't let that last one get away!
+
+0xFB3D6061 = ~z~We need more commotion?
+
+0xFCBE2B24 = ~z~
+
+0xFCCA2F02 = ~z~ah, Arthur needs to rest.
+
+0xFF75CE33 = ~z~Aren't you dealing with the anchor?
+

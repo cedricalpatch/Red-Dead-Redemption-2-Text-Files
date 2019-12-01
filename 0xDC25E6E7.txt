@@ -1,0 +1,334 @@
+0x04B1737A = ~z~Someone's gotta keep watch. Go!
+
+0x08F3E5D1 = ~z~Look at the trouble you got us in.
+
+0x09FAA23A = ~z~You okay? I'm-I'm just the apprentice.
+
+0x0BDE2788 = ~z~You caused a scene!
+
+0x0BE8FEB9 = ~z~Easy, mister. We'll go.
+
+0x0F17DB92 = ~z~Stay close to me now.
+
+0x0F85CA21 = ~z~Of all the boys in town I pick you.
+
+0x0F8038EE = ~z~You gonna take it?
+
+0x0FA74287 = ~z~Alright.
+
+0x0FED0682 = ~z~~sl:3.1~Can't we just get married l-like normal folks?
+
+0x1DD94B7E = ~z~I can't do it now!
+
+0x1E558AF5 = ~z~What you find?
+
+0x1F1F80B6 = ~z~You don't need that. Just... talk to them.
+
+0x2A7AD7D5 = ~z~Come down off there. We got to look real inconspicuous.
+
+0x2BF3F1D5 = ~z~Just take it, mister!
+
+0x2C4974D6 = ~z~Your auntie's long past prudishness.
+
+0x2DCB4582 = ~z~It's all clear.
+
+0x2EA8F749 = ~z~
+
+0x3B893A5F = ~z~Say something!
+
+0x3C382EF6 = ~z~I'll be buried too by the time you make up your mind...
+
+0x3EBCA66F = ~z~Ma'am, would you mind clearing out of here for some maintenance work?
+
+0x4B42E4CF = ~z~She had a broach, here. Looks like diamonds.
+
+0x4B937ACC = ~z~Don't! Shit.
+
+0x4BFEC097 = ~z~You start picking out a box for yourself if you don't got that money you owe Leopold Strauss.
+
+0x4ED4C3BD = ~z~~sl:0.0:2.1~Oh, this ain't right...~sl:~I mean, I'll get you your money, but, uh...
+
+0x5E2D64F4 = ~z~Gwyn Hughes?
+
+0x6A531141 = ~z~Get out of here, kids. Move.
+
+0x6AD975A0 = ~z~Don't be shy, ain't no one around!
+
+0x6DE68466 = ~z~Well, I-I don't... I-I... I need more time.
+
+0x7A1BD598 = ~z~Damn choir boy.
+
+0x7BA6EE0E = ~z~Gentlemen, church grounds are closed.
+
+0x7C4092F8 = ~z~You hear this feller?
+
+0x8A0DE7C3 = ~z~You don't wanna hang around here.
+
+0x8A2EFB04 = ~z~~sl:0.0:2.9~You'd rather disrespect the living, breathing woman...~sl:0.0:1.4:1~you got here in front of you?
+
+0x8BA9BFEC = ~z~Wait! Wait-wait-wait-wait-wait, I... I can get it for you!
+
+0x8E15D8C6 = ~z~You missed your chance, boy.
+
+0x8E68298F = ~z~Get to the gate! I can't get caught like this!
+
+0x8EC237FB = ~z~I heard him, alright.
+
+0x9AC20F17 = ~z~Look at this. Overgrown and all.
+
+0x9B6175DD = ~z~Hello there, sir.
+
+0x9F9C59AF = ~z~We're gonna lick you, bastard.
+
+0x9FC57C25 = ~z~Come on, I knew we shouldn't have been here.
+
+0x10A537DF = ~z~I was on my way anyway, thank you very much.
+
+0x12C48F75 = ~z~I'll get to this, uh... this exhumation.
+
+0x24DE0124 = ~z~I'll come back in the morning.
+
+0x28A1B906 = ~z~The undertaker's putting his feet up.
+
+0x30A98767 = ~z~~sl:0.0:3.2:1~What ain't right is borrowing money you can't pay back.
+
+0x33C50175 = ~z~For heaven's sake.
+
+0x36F32F45 = ~z~Uh huh.
+
+0x39ABB1E9 = ~z~We're caught!
+
+0x40ECA34D = ~z~
+
+0x46CDEEFD = ~z~No, I ain't going to mind you at all. You carry on with your business, we'll carry on with ours.
+
+0x52F70CD0 = ~z~I suggest you start heading back that way.
+
+0x58B6D15B = ~z~Just my auntie.
+
+0x61D05541 = ~z~They ain't gone yet.
+
+0x68EBE86F = ~z~You're done here, move along!
+
+0x69D114F8 = ~z~Ain't nothing doing in this town.
+
+0x69EA4A95 = ~z~I don't care very much what they are. We're looking for some privacy.
+
+0x72AA20A6 = ~z~Still don't look quite right...
+
+0x79FAB66B = ~z~I said don't hurt anyone.
+
+0x87E27125 = ~z~This feller. Oof.
+
+0x91E6BDC8 = ~z~Maybe we shouldn't be seen together.
+
+0x91E34CBB = ~z~Gladly. It's about time this place got cleaned up.
+
+0x92A6BF43 = ~z~~sl:0.0:1.0~But don't hurt nobody!~sl:0.9~We don't want no fuss.
+
+0x93BF549D = ~z~Quick as you can.
+
+0x130EDF90 = ~z~Please. Watch the gate, won't you?
+
+0x146CE63C = ~z~I said, stay close.
+
+0x171C56D3 = ~z~Come with me to the churchyard?
+
+0x219D651E = ~z~Shit. I hope this hole's dug.
+
+0x373A7CAF = ~z~What happened here? Oh Lord.
+
+0x375B94BF = ~z~~sl:0.2:0.0~the morality of the matter is a little more confusing than that.
+
+0x439B49AD = ~z~Put that away, please.
+
+0x446DA2C6 = ~z~Save me from this man!
+
+0x466E2374 = ~z~No one got manners no more, not even church folk.
+
+0x472E8EEB = ~z~I don't know what to say to you...
+
+0x529D4B42 = ~z~~sl:0.0:2.8~Rest a little easier knowing churches been taking~sl:~more then they need off poor folks since time began.
+
+0x548B8A78 = ~z~Hey, look, we're closed for some... excavation work. Would you mind?
+
+0x640C14CC = ~z~The dead don't care if it's pretty, right?
+
+0x703D05D9 = ~z~There's still folk here.
+
+0x816C1CCE = ~z~~sl:0.0:1.3~Oh, I got it, I got it.~sl:~Look, you clear 'em off, and I'll wait right around here.
+
+0x877AB508 = ~z~~sl:0.1:0.0~I guess, I guess, I guess you're correct, but uh...
+
+0x4075A36A = ~z~They only just buried her.
+
+0x4496AF35 = ~z~~sl:1.1:3.3~You ain't the first to put his hand in the collection box~sl:~and you won't be the last.
+
+0x4538CBD0 = ~z~Sure would.
+
+0x5174A377 = ~z~Married? Don't be goopy.
+
+0x5691CE97 = ~z~You best be leaving.
+
+0x6401A09D = ~z~Alright, well, uh... I'm outta here.
+
+0x9416CE40 = ~z~~sl:0.0:3.2:1~this, it ain't exactly right... what we're doing.
+
+0x9572D37E = ~z~That casket for you or you want another?
+
+0x9852EE06 = ~z~Don't leave me now.
+
+0x30072E58 = ~z~Well, there's your payment. Forgive me, Mrs. Claypole.
+
+0x59016B74 = ~z~I don't want to get caught... graverobbing. Please. Man the gate down there.
+
+0x61044EC8 = ~z~Please! Quick. I need you on the gate!
+
+0x74770A61 = ~z~Oh, the nerve of you.
+
+0x309270F0 = ~z~Everyone's going to look over here!
+
+0x2096028B = ~z~Yup.
+
+0x8311700D = ~z~Alright. Now go watch the gate.
+
+0x42423902 = ~z~Whatever are you... that's Mrs. Claypole's grave!
+
+0x66010963 = ~z~I ain't doing this myself, come back.
+
+0x68923872 = ~z~Now get out of here before someone sees you.
+
+0xA3B59D97 = ~z~Just need to slip by you.
+
+0xA6B57CA5 = ~z~Can't believe it's come to this...
+
+0xA7EE9A2F = ~z~I'm sorry, ma'am. The church grounds are closed for maintenance work.
+
+0xA9FB79FD = ~z~Well like I said, well...
+
+0xA26F6AF1 = ~z~~sl:0.8:1.8:1~well, you will see...
+
+0xA29C868E = ~z~Things was done on merit, you and me would be running things.
+
+0xA70A7B33 = ~z~That's good. Keep it up.
+
+0xA730AE0B = ~z~We was fine until you got here mister. Good day now.
+
+0xA980785F = ~z~You need to get rid of all of them...
+
+0xAD4674A9 = ~z~Get back to the gate or we're done.
+
+0xAECAA348 = ~z~What the hell have I got myself into?
+
+0xB0572203 = ~z~Uh huh. That's how it is.
+
+0xB0928E3F = ~z~Run along.
+
+0xB0C15F1A = ~z~Quick! Take it before somebody sees us.
+
+0xB0EB8A73 = ~z~But, uh... well, uh...
+
+0xB1D039CC = ~z~You mind if I get past?
+
+0xB3A7740D = ~z~Get back there. Quick!
+
+0xB5B20568 = ~z~Wh-what you leave the gate for? Get back over there.
+
+0xB5F24B8E = ~z~You two may want to find somewhere a little more private.
+
+0xB92A0C43 = ~z~I'm standing next to an open grave. Please.
+
+0xB547B6E6 = ~z~That-that should more than, than clear what I owe you.
+
+0xB9432A00 = ~z~Sorry. Church grounds are closed.
+
+0xB6105926 = ~z~Clear the church yard, and I'll get you them jewels.
+
+0xBA9F0F2F = ~z~Okay. You head on into church, I'll keep watch.
+
+0xBEA6C79F = ~z~Well, it's about time too, the place was in need of some care and attention.
+
+0xBF30548C = ~z~Sir, if you don't mind...
+
+0xC7B4B906 = ~z~The hell's he doing?
+
+0xC68E2716 = ~z~Take the broach to your horrible German friend, and leave me alone, won't you?
+
+0xC825AA3C = ~z~~sl:0.1:1.5~Well, it ain't in there. It's under here.~sl:0.7~I'm digging up Mrs. Claypole.
+
+0xC852FDAB = ~z~Just... have a word with them folk. Okay?
+
+0xC1100BEA = ~z~You would not believe the state of you.
+
+0xC7404FD5 = ~z~There's them's that born to it, and there's everyone else.
+
+0xC73996EF = ~z~Least they could do is keep you presentable.
+
+0xCC826F30 = ~z~Can I get by, please?
+
+0xCC664168 = ~z~And stay close...
+
+0xD1F65B66 = ~z~Okay. It's, uh, good of you do be doing it out of hours, I guess.
+
+0xD6D55AA0 = ~z~Churchyard's closed. Get out.
+
+0xD6E5A4CA = ~z~Goody two shoes.
+
+0xD32AC04A = ~z~~sl:0.0:1.4~Oh, dammit.~sl:1.9~There's a bunch of people here.
+
+0xD35A98E0 = ~z~Whoa. Don't.
+
+0xD501EB58 = ~z~That's for sure.
+
+0xD545C485 = ~z~I think I should be alone, mister.
+
+0xD663C6B8 = ~z~Jesus!
+
+0xD2730EFE = ~z~Go on now. Get to the entrance.
+
+0xDC02E0A1 = ~z~Doesn't everybody?
+
+0xDD05F8A7 = ~z~They've seen me!
+
+0xDD1D40D3 = ~z~You're more of a fool than I thought.
+
+0xDD7ED7BA = ~z~I... I-it's disrespectful.
+
+0xDE0A712C = ~z~Can I... can I help you?
+
+0xDE924ECB = ~z~Just move 'em along.
+
+0xDEF5A803 = ~z~I ain't starting 'til you guard the gate.
+
+0xDF216B5C = ~z~Go on.
+
+0xE009582B = ~z~I ain't never gonna get the hang of this...
+
+0xE3DDB4C0 = ~z~You got to scare them off.
+
+0xE7F56191 = ~z~Well c'mon, clear 'em off.
+
+0xE38B6107 = ~z~Well, she got a bunch of  jewels in there that she don't need.
+
+0xE90C6C8E = ~z~Get the hell out of this churchyard, or you boys gonna need yourselves a preacher.
+
+0xE93EC97C = ~z~You get this guy? Huh?
+
+0xE632B419 = ~z~This'll do...
+
+0xE3076008 = ~z~Please, uh, I don't know how I feel right now.
+
+0xEA022EC8 = ~z~You want a fitting?
+
+0xF3F5535B = ~z~~sl:0.9:3.6:1~Apprentice... more like servant.
+
+0xF6C2416E = ~z~Come on, quick.
+
+0xF9BFA074 = ~z~My, my. I guess I'll come back later, then.
+
+0xF99E5A24 = ~z~Come on.
+
+0xFDF915DE = ~z~The pastor will hear about this.
+
+0xFEA8B6C4 = ~z~You need to watch the gate... or someone might walk in on me.
+

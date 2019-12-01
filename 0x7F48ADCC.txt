@@ -1,0 +1,34 @@
+0x1ED15C2A = ~z~Charles. How you doing?
+
+0x2D06F895 = ~z~Hey, Arthur.
+
+0x7ACBD64C = ~z~Well... you've saved my hide often enough, brother.
+
+0x8C003686 = ~z~He needs my help.
+
+0x52CD8650 = ~z~Good luck.
+
+0x99BFD205 = ~z~Yeah, I remember.
+
+0x4107E2C5 = ~z~This is just a one man job.
+
+0x95280B0C = ~z~Some boys he knows have been taken... they are being sent to reform school or someplace far away.
+
+0x3042413A = ~z~This should be easy enough. I'll sneak in at night and send them home.
+
+0xA762AF81 = ~z~I said I would see if there was some way I could help free 'em.
+
+0xB00BC0D3 = ~z~Okay.
+
+0xBE429B0A = ~z~Okay... there anything I can help with?
+
+0xC315A4B0 = ~z~Listen... I'll be taking off for a few days.
+
+0xD51648B1 = ~z~Fine...
+
+0xE7936DAB = ~z~Eagle Flies... the Chief's son.
+
+0xF5A809DC = ~z~Sure... what are you up to?
+
+0xFEF4DEA4 = ~z~No... I feel this it is something that means more to me than you.
+

@@ -1,0 +1,198 @@
+0x00D81DA9 = ~z~~sl:0.0:3.3~I been in worse scrapes than this, and I come back.~sl:~I always do. You count me out, you'd be a fool.
+
+0x0250787C = ~z~Sooner you drop me off in there, the sooner I can break out.
+
+0x03308D19 = ~z~Are these fools bounty hunters?
+
+0x04A44ABD = ~z~That's a lot of mommas gonna be sore with you.
+
+0x0AD2A47B = ~z~He's got hisself a vested interest in Ben's demise.
+
+0x1A2E9ACC = ~z~Leave.
+
+0x1D81C9D9 = ~z~Meet him over at Mercer Station...
+
+0x2CFAF27E = ~z~They took over a train up near Armadillo.
+
+0x2DA1299D = ~z~
+
+0x2E91F91C = ~z~~sl:0.0:2.0~Ain't no cell can hold me in.~sl:~There's going to be another chapter written in my book.
+
+0x2FC7DD33 = ~z~They got me! They got Red Ben!
+
+0x3A00EDC9 = ~z~and most likely somewhere in between.
+
+0x3A758D77 = ~z~And that's all I can give you for free.
+
+0x3C1FC8BD = ~z~This is about that goddamned bounty!
+
+0x3DD2BBA0 = ~z~Is this fool a bounty hunter?
+
+0x3EB9196E = ~z~This ain't over til it's over. Mark me on that.
+
+0x3F6FCD3A = ~z~The hell?
+
+0x4CB55965 = ~z~At least there ain't any more of them.
+
+0x4E0D15D5 = ~z~Rob enough trains...
+
+0x5A2CD055 = ~z~~sl:0.0:4.1~No indeed, I don't call this beat.~rp~~sl:~I call this a minor inconvenience.
+
+0x5CB0287D = ~z~~sl:0.0:2.2~I been in worse scrapes than this.~sl:0.3~And I weren't the one who didn't come out of them.
+
+0x5DD8B954 = ~z~What y'all waiting for?
+
+0x6B20A747 = ~z~Charming.
+
+0x7B2A89ED = ~z~~sl:0.0:2.7~That little one-legged bastard's going to pay~sl:~for putting us on to this.
+
+0x7D2112CD = ~z~~sl:0.0:1.8~Bastard made me a cripple...~sl:0.5:1.0~but that don't mean I'm gonna~sl:0.0:1.9:1~give him up on a plate for nothing.
+
+0x7E9ECE43 = ~z~I'll remember that.
+
+0x8C78E118 = ~z~~sl:0.0:4.7~Alright then. Let me see... by the time you get to 'em,~sl:0.0:1.9~the train will be going through here.~sl:0.4~Get there quick, you'll find 'em.
+
+0x9E7B6352 = ~z~Get after him, and don't tell him I sent ya.
+
+0x27C1D63B = ~z~This could not get any worse.
+
+0x46A54EC2 = ~z~I hope you think it's worth it.
+
+0x50DDB090 = ~z~but came real bitter with it.
+
+0x50E3BDC3 = ~z~~sl:0.0:3.8~It took a state full of lawmen, a bounty big as a house...~sl:0.0:3.1~and a backstabbing little bastard to bring me down,~sl:~and I still ain't beat.
+
+0x56FA0409 = ~z~I knew it!
+
+0x57EC2D7F = ~z~They got Red Ben! Get me out of this!
+
+0x94D43D40 = ~z~~sl:0.0:4.3~We robbed a train... and all we got is a train.~sl:0.8~Where the goddamned loot?
+
+0x123C72D4 = ~z~Goddamn.
+
+0x263F8FA8 = ~z~~sl:0.0:4.3~Did you hear me? If you ain't paying, get to riding.~sl:0.3~He ain't going to find himself.
+
+0x443B5E80 = ~z~~sl:0.0:1.8~I knew it was you!~sl:~I knew it was you, you little yellow bastard!
+
+0x533CC279 = ~z~~sl:0.0:1.9~I bet y'all think you're smart...~rp~~sl:0.5:3.6~real clever getting one over on the “Terror of the Rails”,~sl:0.2~the "Train Robbery King." Huh? You ain't!
+
+0x546BCF81 = ~z~~sl:0.0:2.6~I'd recognize that coat anywhere.~sl:0.7:1.6~Killed him, did you?~sl:0.6~And the rest of them too, I'd wager. Shit...
+
+0x546BF9F2 = ~z~Go to hell.
+
+0x641B7591 = ~z~~sl:0.0:2.9~You can go looking for 'em, or you can let me tell you.~sl:1.0~It's one or the other.
+
+0x664DAD5E = ~z~~sl:0.0:2.7~Little yellow bastard... couldn't cut it in the gang,~sl:~so he sold us all out? He's going to pay for that.
+
+0x740C48DB = ~z~~sl:0.0:1.8~He knows I'm getting out of this,~sl:~and I'm coming back for that other leg.
+
+0x4293EDCF = ~z~Ain't this cozy?
+
+0x4727E79E = ~z~Hell! We're getting jumped!
+
+0x5201FA0D = ~z~What the hell you bring him here for? Get him outta here.
+
+0x5372F763 = ~z~That damn bounty's gonna get us all killed.
+
+0x6537A084 = ~z~~sl:0.0:2.1~I didn't Mr. Ben, I swear.~sl:0.0:3.0~They came and found me, on account of this leg.~sl:~I couldn't run nowhere.
+
+0x26053B28 = ~z~I'm going to go round you, or I'm going to go through you.
+
+0x59746CCE = ~z~~sl:0.0:3.2~I didn't wanna say it, but that bounty's rattled him.~sl:~Red Ben is losing his steel.
+
+0x95512F0C = ~z~~sl:0.0:0.9~This the spot?~rp~~sl:0.5~Looks like our journey together is almost over.
+
+0x595703B4 = ~z~Real nice.
+
+0x631859C5 = ~z~~sl:0.0:1.1~What the hell is this?~sl:0.4~It's a goddamned busted flush. There's nothing here.
+
+0x657266E4 = ~z~~sl:0.0:3.1~I'm down, but I ain't out,~rp~ you hear me?~rp~~sl:0.4~I'm coming back from this. Ain't no chains can tie me.
+
+0x798881E9 = ~z~he might tell you where to go.
+
+0x4235133F = ~z~A feller he used to run with lost his leg...
+
+0x17682152 = ~z~~sl:0.0:4.2~Ah... guess you couldn't find that train.~sl:0.6~You wanna... pay up for some help now?
+
+0x35138569 = ~z~~sl:0.3:2.6~It's money or it's nothing, you hear?~sl:~That ain't gonna work.
+
+0xA0C3979F = ~z~Get him outta here. What you waiting for? Get him out.
+
+0xA2EABF8F = ~z~one of these companies is going to put a price on your head.
+
+0xA854E934 = ~z~~sl:0.0:2.1~By now they'll be going at quite a clip,~sl:0.0:2.1~so you'll have to find 'em near Tumbleweed~sl:~and get on board somehow.
+
+0xAB01E7DB = ~z~~sl:1.6:3.0:1~If you don't want my help, you better get on with the search.
+
+0xACF06D78 = ~z~Keep looking... there's got to be something here.
+
+0xADFD3212 = ~z~~sl:0.0:0.9~Let's go.~sl:1.3~I'm taking that leg!
+
+0xB65FB567 = ~z~You wanna get 'em? Go.
+
+0xB1305C1A = ~z~Or maybe all of 'em.
+
+0xBB6B7090 = ~z~acts like he's never heard a sermon.
+
+0xBC574EC6 = ~z~~sl:0.0:4.0~They came and put it to me, but... but I didn't say nothing.~sl:0.3~I swear it on all that's holy.
+
+0xBF079699 = ~z~~sl:0.0:2.5~Hey... you looking for Red Ben?~sl:0.6:1.5~She told me you'd be here,~sl:~but you better hurry up if you wanna catch him.
+
+0xC2A1DC02 = ~z~This wasn't a part of the arrangement. Go.
+
+0xC6AC92E9 = ~z~If you don't got a ticket, you're gonna have to get off.
+
+0xC128C623 = ~z~~sl:0.0:1.2~You want him or not?~sl:~I can give you the spot where you'll find 'em exactly.
+
+0xC264BEB1 = ~z~Who put us onto this train? There's nothing here.
+
+0xC999E94B = ~z~You're going to pay for this. With that good leg of yours!
+
+0xCA220DFD = ~z~Red Ben Clempson...
+
+0xCB14F6EB = ~z~You see that look in his eyes?~rp~ He knows I ain't done yet.
+
+0xCD8B03BB = ~z~~sl:0.1~Slacken that up, okay? I ain't no steer.
+
+0xD6DE070C = ~z~I ain't getting killed for a train with nothing on it.
+
+0xD532A42E = ~z~He's a hero to some folks...
+
+0xD1095BFA = ~z~It's a goddamn ghost train is what it is.
+
+0xD4869CE9 = ~z~Let's just get this over with.
+
+0xD4542261 = ~z~dresses like he's on the way to church...
+
+0xD8623654 = ~z~Who the hell is on my train?
+
+0xDDAFA404 = ~z~How the hell this happen to me?
+
+0xDE4BF7A0 = ~z~Go. Go on. Get him out of here.
+
+0xDEBF7766 = ~z~~sl:0.0:3.7~Unless we can sell this whole hunk of metal back to the railway company,~sl:~we've wasted our time.
+
+0xE7C1520C = ~z~I expected a little more urgency from a bounty hunter.
+
+0xE50DBBC5 = ~z~I'm lame already... what else you going do to me?
+
+0xE98DC27E = ~z~You don't want to come between me and my way out of here.
+
+0xE22848B9 = ~z~~sl:0.0:2.9~I ain't going to miss you... I'll tell you that for free.~rp~~sl:1.0~Now, let's get this done.
+
+0xE369409B = ~z~a villain to others...
+
+0xEEDDB3CA = ~z~Shit.
+
+0xF5D9AD28 = ~z~~sl:0.0:1.3~Goddamn...~sl:1.4~you've killed all my boys.
+
+0xF5D18205 = ~z~~sl:0.5~I don't scare so easy, okay?
+
+0xF7F72133 = ~z~~sl:0.0:1.9~You paid for the information...~sl:~why don't you get to using it?
+
+0xF7562627 = ~z~~sl:0.0:2.7~I want nothing more than to see them all go down...~sl:0.5~but I gotta get paid first.
+
+0xFA0D02F4 = ~z~Hey, this might interest you.
+
+0xFB85666D = ~z~You'd be unwise to count Red Ben out of this.
+

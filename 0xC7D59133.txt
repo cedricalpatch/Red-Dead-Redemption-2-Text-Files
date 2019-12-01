@@ -1,0 +1,40 @@
+0x06C32D0B = ~z~Now I had real suffering and I lost everything, my vocation, my faith, my family...
+
+0x1FA99553 = ~z~Are you okay, Reverend?
+
+0x2D1F303E = ~z~I'm sober... if that's what you mean...
+
+0x2F437E0B = ~z~oh... I've been such a fool.
+
+0x3DF11B6E = ~z~searching for I don't know what in that stuff...
+
+0x5E1AFD55 = ~z~We're all fools, Reverend.
+
+0x5FFB0115 = ~z~Tell her Arthur... tell her what a fool I've been.
+
+0x7C57CE9E = ~z~I've been on quite a tear.
+
+0x8A426A73 = ~z~Me and Mary-Beth have been so worried about you.
+
+0x51E2F9C5 = ~z~
+
+0x52BF450A = ~z~and yet I know, in a few days, I'll be back at it...
+
+0x54F1FFD3 = ~z~My life took a turn for the worse when I took up with morphine and opium...
+
+0x58FB07E5 = ~z~You girls, y-you have beautiful hearts... really you do.
+
+0x66ACA348 = ~z~I don't know about that... but we care about you... you seem very sad.
+
+0x1474C86E = ~z~it made all my previous suffering just seem ridiculous...
+
+0x6175E277 = ~z~So am I...
+
+0x22431A76 = ~z~I was told it would alleviate my suffering, and in many ways they were correct...
+
+0xE33B65FC = ~z~I'm... I'm sorry about that.
+
+0xF0FA0179 = ~z~and but for Dutch and you poor people, I would have lost my life long ago.
+
+0xFDAF76AD = ~z~I've been such a fool.
+

@@ -1,0 +1,52 @@
+0x00C35148 = Fight the ~e~attackers~s~
+
+0x3D2907A9 = Follow ~o~Charles~s~
+
+0x3F0D42B4 = Fend off the ~e~attackers~s~
+
+0x5A7F94F1 = Approach the ~o~workshop~s~
+
+0x12B32805 = Find ~o~Charles~s~
+
+0x35E1C34F = Save ~o~Charles Chatenay~s~
+
+0x41AC9DDB = Charles Chatenay has died.
+
+0x63B0DF0E = Return to ~o~Charles~s~
+
+0x92D2C717 = Look at the money lenders
+
+0x780C06D8 = Left Charles Chatenay behind.
+
+0x1773B87F = You caused too much of a commotion.
+
+0x2137A920 = Threaten
+
+0x2958E9C7 = Escort ~o~Charles~s~
+
+0x3180F0CD = Charles Chatenay
+
+0x4126E7F7 = Charles was spotted.
+
+0x7293BDA4 = Charles Chatenay has died.
+
+0x96469EA1 = Charles left.
+
+0x274618ED = You disrupted the exhibition.
+
+0x477461E0 = The doorman was scared.
+
+0xA5C3ECF9 = Look at the catcallers
+
+0xA7F5171A = Charles was abandoned.
+
+0xC99DF808 = You attacked Charles.
+
+0xF006E000 = Gallery
+
+0xF451B3FD = Follow ~o~Charles~s~
+
+0xFD871415 = Low level crimes will be investigated by lawmen. Leave the area to avoid becoming wanted.
+
+0xFDE139CA = Search the ~o~gallery~s~ for Charles
+

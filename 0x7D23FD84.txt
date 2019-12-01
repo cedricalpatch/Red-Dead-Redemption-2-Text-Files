@@ -1,0 +1,26 @@
+0x1D8CD580 = ~z~I cannot... I cannot get over Miss. O'Shea... She's dead.
+
+0x2E458B66 = ~z~Tilly, I do believe you've got a cold heart.
+
+0x8C7F47E4 = ~z~Me too... me too....
+
+0x26EAE83C = ~z~Well, I'm glad she shot her... she deserved it... and truth be told, I never liked her anyway.
+
+0x60D0707B = ~z~Of course it ain't, but I'm scared.
+
+0x748B17FC = ~z~Now you know that ain't true.
+
+0x40112EFD = ~z~She had to go... its bad but...
+
+0xB108BDB5 = ~z~If she betrayed us, if she really did... well, it's a bad business either way, but I'm confused like both of you.
+
+0xBC71134A = ~z~And she betrayed us.
+
+0xCB10B089 = ~z~You don't know that...
+
+0xDFEADA3D = ~z~She told us.
+
+0xF2A57FB2 = ~z~She was in love, she would have said anything... who knows what she did or didn't do?
+
+0xFECED940 = ~z~What do you think, Arthur?
+

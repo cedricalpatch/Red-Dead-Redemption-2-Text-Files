@@ -1,0 +1,24 @@
+0x2B91E230 = ~z~Thank you.
+
+0x5D262396 = ~z~Mary-Beth.
+
+0x44D572F9 = ~z~Not very good... I hear the most wonderful words in my head and then... I write absolute poppycock.
+
+0x102A89A4 = ~z~Hey Arthur.
+
+0x3692D674 = ~z~But I love it.
+
+0x8203ED51 = ~z~How's the writing?
+
+0xABA76259 = ~z~Well, I can't do much about the stories or a quiet room, but maybe I'll find you a pen.
+
+0xC6E6BF9F = ~z~Yeah, me too.
+
+0xD39358F8 = ~z~My journal... I was reading some the other day...
+
+0xE1C97564 = ~z~
+
+0xEFEF11AF = ~z~I write like a fool!
+
+0xFBE829A1 = ~z~One day, I'd love a beautiful fountain pen and a... great desk in a quiet room and... to write the most beautiful stories.
+

@@ -1,0 +1,332 @@
+0x015F45FB = ~z~Tell them if they need me to testify, I'm more than willing.
+
+0x02312424 = ~z~I don't need your smutty fairies, partner.
+
+0x0411F462 = ~z~So tell me, you like pornography, lad? You know, exotic stuff...
+
+0x052948D6 = ~z~Leave off, you scrawny wee maggot!
+
+0x0970E5A8 = ~z~Send your horse to a knacker's yard when we're done, 'cause the old nag's past it.
+
+0x09CDA367 = ~z~You're lucky I ain't slipped outta this rope and slit you're damn throat.
+
+0x0A0123DA = ~z~I'll get you.
+
+0x0A1E0977 = ~z~Dammit!
+
+0x0AA92DD0 = ~z~Okay. The Sheriff of Rhodes is waiting.
+
+0x0CCC4AC5 = ~z~I should have been gone home years ago.
+
+0x0D8B3F20 = ~z~Guess the sheriff likes you, keeping you around so long.
+
+0x0D812AC9 = ~z~Uhh... hello?
+
+0x0EE1E100 = ~z~Bollocks. You wouldn't go near a courthouse. You're shady as they come.
+
+0x0FDE0BF6 = ~z~I can get you some... photographs... of wee tiny folk up to all sorts.
+
+0x1A442818 = ~z~Damn, blasted bounty.
+
+0x1B33C63F = ~z~The blooming cheek.
+
+0x1C8BC8E3 = ~z~Some kind of bounty hunter you are. I've met tougher lassies in a school yard.
+
+0x1D44EBB6 = ~z~Enjoy it while you can, eh.
+
+0x2B27C289 = ~z~Laddie, they're a thing to behold. Send your mind into a fair old spin.
+
+0x2D17FCB1 = ~z~Pull up a seat, pal. Eh?
+
+0x2D64EAA1 = ~z~Damn you.
+
+0x2D386A3C = ~z~Got caught by a bounty man with half a heid, so I did.
+
+0x2E0489A8 = ~z~Shit!
+
+0x2F5AF0E9 = ~z~Come on.
+
+0x3CAC37DB = ~z~You're a two-bit bouty hunter, nothing more.
+
+0x3D1D6674 = ~z~How's about it? It'll blow your mind. They're real fairies.
+
+0x3E27DF4D = ~z~Now I'm taking you in for sure.
+
+0x4ADDF375 = ~z~Fortunately, I can do what I want.
+
+0x5B5B4B06 = ~z~Come on now. Come out of there.
+
+0x5DDE81AE = ~z~or get your neck broke on the gallows?
+
+0x5E4F6A3D = ~z~Hey, I was thinking 'bout giving up on you before you threw that...
+
+0x5E8B3A88 = ~z~What a piss poor bounty hunter you are.
+
+0x5E78F511 = ~z~You impatient? Have a sleep.
+
+0x6AB43509 = ~z~Uhh... hello?
+
+0x6EF2BB5A = ~z~Off me, you bastard. Get off!
+
+0x7A0DF3FA = ~z~Not a chance!
+
+0x8A6794AD = ~z~You'll not get me.
+
+0x8B13A6A2 = ~z~You nearly burnt me, mister... and now I got you right here.
+
+0x8BE9B830 = ~z~This is all a grave error, Sheriff Thomas.
+
+0x8E5B48B4 = ~z~There's nothing you can do, you bastard. It's a sheriff's office.
+
+0x8F146419 = ~z~What you think? You gonna break rocks for a few years on a chain gang,
+
+0x9C7BB8D5 = ~z~Shove it up your arse.
+
+0x9DBC78C8 = ~z~Fortunately, I can do what I want.
+
+0x11AB0654 = ~z~Shit!
+
+0x11E0CBF1 = ~z~Go.
+
+0x17B0D1E3 = ~z~Me old friend, eh.
+
+0x20B4512F = ~z~Laidlaw?
+
+0x31FCB5A4 = ~z~Bounty's the same whether you was nearly inflamed or not, I'm afraid.
+
+0x37C9E69D = ~z~You, sir, are a disgrace to all humanity.
+
+0x38CC66D3 = ~z~~sl:0.7~Who you looking for, feller? It's a bounty hunter, run!
+
+0x40A01117 = ~z~Eh. Eh.
+
+0x45B756EB = ~z~Here's your Scotsman...
+
+0x46E7046B = ~z~or get your neck broke on the gallows?
+
+0x53BB5515 = ~z~Now I'm taking you in for sure.
+
+0x56C35979 = ~z~Less you want a cell right next to me, you dunderhead.
+
+0x63F38FDD = ~z~Believe that, do you?
+
+0x64F7073E = ~z~Aye, fine enough. Don't need you in here, telling more tales.
+
+0x68D55F25 = ~z~About time, you dozy bastard.
+
+0x77A11BB9 = ~z~Like hell you did.
+
+0x84A8F52F = ~z~You got everything you need here, Laidlaw?
+
+0x92BCB2F7 = ~z~Okay, almost there. They can deal with you.
+
+0x138F3F53 = ~z~That might be a bargain I'm willing to strike.
+
+0x200F4920 = ~z~Believe that, do you?
+
+0x216DA5D9 = ~z~Hey, I was thinking 'bout giving up on you before you threw that...
+
+0x228D6D4A = ~z~Off you trot.
+
+0x291FC6F5 = ~z~Now where the hell you going?
+
+0x321ED998 = ~z~Saved the world it did. Not this bollock in the arsehole of Lemoyne.
+
+0x325DEDBD = ~z~Just doing what the poster said... you was good, no one woulda come after you.
+
+0x333FB941 = ~z~And it smells of arse back here.
+
+0x382DCFFD = ~z~Laidlaw?
+
+0x400CF17C = ~z~Really? Hey, where are you?
+
+0x445FFEFB = ~z~Look at that patch, eh. How you lose the eye?
+
+0x558AA914 = ~z~The suspense is killing me. Now get out of here, you morbid depressing bastard.
+
+0x738C30E0 = ~z~You and the sheriff getting along?
+
+0x829E7C41 = ~z~Whatever clan you're from, it's the one of the treacherous inbred ones.
+
+0x967C2A6D = ~z~You monkey's arse.
+
+0x2198AF6B = ~z~Breasts and arse and all the business, only arty like?
+
+0x3399AA6F = ~z~The suspense is killing me. Now get out of here, you morbid depressing bastard.
+
+0x3724E182 = ~z~Come on now. Come out of there.
+
+0x4082DEBF = ~z~Aye, fine enough. Don't need you in here, telling more tales.
+
+0x4363E805 = ~z~You ain't making me like you.
+
+0x4809F7D4 = ~z~I didn't ask for your opinion.
+
+0x6980FEF4 = ~z~That might be a bargain I'm willing to strike.
+
+0x19278FC5 = ~z~Let's see if they can add arson to those charges. Come on.
+
+0x55722AC3 = ~z~Get te buggery.
+
+0x72582CA6 = ~z~Just doing what the poster said... you was good, no one woulda come after you.
+
+0x72631B04 = ~z~You impatient? Have a sleep.
+
+0x255662E1 = ~z~Less you want a cell right next to me, you dunderhead.
+
+0x537993A5 = ~z~About time, you dozy bastard.
+
+0x9711445B = ~z~Here's your Scotsman... nearly torched me, but I got him.
+
+0x84855100 = ~z~Aye, I do. Except me freedom, which you so cruelly took.
+
+0xA3DE8B70 = ~z~Don't go telling tales about me, eh?
+
+0xA8E86C49 = ~z~Okay. The Sheriff of Rhodes is waiting.
+
+0xA590CBD5 = ~z~I didn't ask for your opinion.
+
+0xACA94C89 = ~z~You really want to run round this field for an hour? I got the time, if you do.
+
+0xAEEC5DB6 = ~z~Bastard.
+
+0xB2F90E1F = ~z~Go on, lad. Go.
+
+0xB11F4592 = ~z~Here's your Scotsman...
+
+0xB21DD974 = ~z~Now where the hell you going?
+
+0xB22FBAE9 = ~z~Look at that patch, eh. How you lose the eye?
+
+0xB43F75E3 = ~z~You and the sheriff getting along?
+
+0xB45D38EF = ~z~I don't need your smutty fairies, partner.
+
+0xB8233F62 = ~z~I didn't do nothing to that man!
+
+0xB732069A = ~z~There's nothing you can do, you bastard. It's a sheriff's office.
+
+0xB851294A = ~z~You got everything you need here, Laidlaw?
+
+0xBC29EB8A = ~z~I ain't in the mood for this. Come out.
+
+0xBC468476 = ~z~Don't go telling tales about me, eh?
+
+0xBDD58FF5 = ~z~I ain't in the mood for this. Come out.
+
+0xBE80A57D = ~z~Let's see if they can add arson to those charges. Come on.
+
+0xBE264F14 = ~z~How long's this blooming taking you?
+
+0xBED50382 = ~z~I'll take it, if you'll take him.
+
+0xBF5CB9EE = ~z~You nearly burnt me, mister... and now I got you right here.
+
+0xC0186CE1 = ~z~Okay, almost there. They can deal with you.
+
+0xC0CE39B9 = ~z~Really? Hey, where are you?
+
+0xC4E9AA27 = ~z~You ain't no Scot at all, keeping me locked up like this.
+
+0xC4E914ED = ~z~Here's your Scotsman... nearly torched me, but I got him.
+
+0xC5C3D652 = ~z~Figured someone woulda take a disliking to you.
+
+0xC5E882D8 = ~z~It's folks like you that brought this town to its knees. Bad breeding.
+
+0xC68FAFB2 = ~z~It's me favorite bounty hunter.
+
+0xC116F8CD = ~z~What you think? You gonna break rocks for a few years on a chain gang,
+
+0xC2358DAA = ~z~Aye, I do. Except me freedom, which you so cruelly took.
+
+0xC5774CFB = ~z~I lost it at poker... what you think, you daft prick? Some goon took her out with a hook.
+
+0xCB972B78 = ~z~You really want to run round this field for an hour? I got the time, if you do.
+
+0xCB4593FF = ~z~It's embarrassing, getting caught by you.
+
+0xCC51411E = ~z~Off me, you bastard. Get off!
+
+0xCC402469 = ~z~Tales is they? Huh.
+
+0xCEDD9D98 = ~z~Leave off.
+
+0xCF951A20 = ~z~Oh dear, Mr. Laidlaw. That is going to count against you. Cell's there for him.
+
+0xD4BD1ED6 = ~z~Enjoy it while you can, eh.
+
+0xD6A3EF54 = ~z~Figured someone woulda take a disliking to you.
+
+0xD9AC061F = ~z~Good for glue and nay much else.
+
+0xD882FBD0 = ~z~I lost it at poker... what you think, you daft prick? Some goon took her out with a hook.
+
+0xD6106FD3 = ~z~Lie down. You'll be here a while.
+
+0xDD0A7899 = ~z~Go back to Rhodes and tell 'em where to stick it!
+
+0xDD7FB873 = ~z~Just the bloody worst. Absolutely terrible, mind.
+
+0xDDF32216 = ~z~You're just the worst.
+
+0xDFF37571 = ~z~Have some of that!
+
+0xE3E68334 = ~z~I'll take it, if you'll take him.
+
+0xE77EDEC6 = ~z~You call this a hogtieing, you miserable bastard?
+
+0xE259D340 = ~z~You ain't making me like you.
+
+0xE359BC0F = ~z~It's a shambles, the legal system here... Scottish law, now that's something.
+
+0xE434BF70 = ~z~Oh, that cell will be empty soon enough, but not for the reason you want it to be.
+
+0xE875713E = ~z~From one Scot to another, show me clemency.
+
+0xE5189155 = ~z~Guess the sheriff likes you, keeping you around so long.
+
+0xE8141014 = ~z~Like hell you did.
+
+0xEA8560F3 = ~z~Lie down. You'll be here a while.
+
+0xEC4D00CA = ~z~Get out.
+
+0xEC22D5B9 = ~z~You dribble of piss.
+
+0xEC642B8F = ~z~Are we there yet?
+
+0xEDC1C1B3 = ~z~Come on.
+
+0xF0395E73 = ~z~Bollocks. You wouldn't go near a courthouse. You're shady as they come.
+
+0xF1A526FC = ~z~Tales is they? Huh.
+
+0xF6E6AC51 = ~z~Shove that poster up your jacksie, why don't you!
+
+0xF8CC0164 = ~z~I've tied laundry tighter.
+
+0xF9A870C4 = ~z~You wee little bawbag.
+
+0xF20C869B = ~z~Look at this numptie.
+
+0xF6081D3D = ~z~It's a shambles, the legal system here... Scottish law, now that's something.
+
+0xF25050DF = ~z~Eh! Eh! Eh! Eh! Laddie? I said... I said... do you like lewd images?
+
+0xFB1A2761 = ~z~Saved the world it did. Not this bollock in the arsehole of Lemoyne.
+
+0xFCAD8B8F = ~z~You're just the worst.
+
+0xFE57FAB0 = ~z~Tell them if they need me to testify, I'm more than willing.
+
+0xFE439CDA = ~z~Our kind has to stick together... are, are your people from the highlands or the low, Sheriff?
+
+0xFEF2A615 = ~z~On your way.
+
+0xFF48F987 = ~z~I'll have none of it. I came peacefully.
+
+0xFFDC7514 = ~z~I should have been gone home years ago.
+
+0xFFF12264 = ~z~Good day, sir.
+

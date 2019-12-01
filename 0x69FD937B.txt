@@ -1,0 +1,86 @@
+0x0467DE56 = ~z~You don't look so good.
+
+0x0709A85F = ~z~You lost a bit of weight or something?
+
+0x0AD3007D = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0x0BC25571 = ~z~You, er, look like a man in need of some of this fine Strawberry air.
+
+0x0C154DA6 = ~z~You looking for anyone, partner?
+
+0x2C1D7286 = ~z~Maybe. Anyway, welcome back.
+
+0x2F491C7E = ~z~Oh, er, hardly. Just making conversation.
+
+0x3D7BB8E3 = ~z~Forget I said anything.
+
+0x4A6B7FAD = ~z~It's just a cough.
+
+0x5B62FC0E = ~z~Why don't you just do your job?
+
+0x7D844080 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+0x8A630776 = ~z~Hey. I no get tie up again. No you worry. Yes.
+
+0x8FBE4A36 = ~z~What kind of welcome's that?
+
+0x9D8F32C8 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+0x12D27B2B = ~z~Hey there, mister. You okay?
+
+0x19A7E8CB = ~z~You need something, mister?
+
+0x19CFF18C = ~z~So you're the expert now?
+
+0x29B018A9 = ~z~I really can't afford to get sick again this month.
+
+0x97B904FA = ~z~You worry about your horses, not me.
+
+0x890F479C = ~z~Can I help you?
+
+0x22565EF8 = ~z~I don't know... maybe you just gained some?
+
+0x757415A2 = ~z~Hellfire, you look like death.
+
+0x37672449 = ~z~You alright there, friend?
+
+0xAD28D1D6 = ~z~You. You come with lady, save me from Mexican. Many thank you.
+
+0xB6C5585B = ~z~You, er, come down with something there, partner?
+
+0xB35A5E5E = ~z~Flu? No, what are you talking about?
+
+0xC6F15359 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+0xC86BE65F = ~z~Alright, none of my business.
+
+0xC224FBF3 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+0xC284BA86 = ~z~Everything alright, sir?
+
+0xC581B5C0 = ~z~I'd refer you to the doctor, but he ain't been seen in weeks!
+
+0xC929FD24 = ~z~Some bad flu going around.
+
+0xD2C7889A = ~z~The Mexican. You save me, dead now. I read it. Thank lady for me.
+
+0xD48F9E22 = ~z~you know what, never mind. What can I do for you?
+
+0xD13697A8 = ~z~You alright there, sir?
+
+0xDFD9EA70 = ~z~I'm fine.
+
+0xE45E3DBF = ~z~Been some grippe going around here... and I just thought...
+
+0xEC7F8E7B = ~z~Something you need, friend?
+
+0xF6242A35 = ~z~Oh, hello again, sir.
+
+0xFAA52AC6 = ~z~How you doing there, partner?
+
+0xFCAFC040 = ~z~I'm fine, don't you worry about me.
+
+0xFD5D9507 = ~z~Oh it's you... didn't recognize you for a minute there.
+
+0xFEF1731D = ~z~Yes, why?
+

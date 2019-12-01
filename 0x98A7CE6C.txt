@@ -1,0 +1,54 @@
+0x02B20C3C = ~z~Why, never better! Come on, dance with me!
+
+0x0569C0CF = ~z~
+
+0x0A1DCE20 = ~z~My pleasure, Miss Grimshaw.
+
+0x1B583D84 = ~z~You okay, Dutch?
+
+0x1D6C41AC = ~z~Okay, Miss Grimshaw?
+
+0x2B1B0C31 = ~z~Okay... fine.
+
+0x4B999E0A = ~z~
+
+0x4E67A3A6 = ~z~
+
+0x8A0E4DFF = ~z~Still got it.
+
+0x30ED5123 = ~z~This is nice... just like being a normal girl!
+
+0x48F3B98C = ~z~
+
+0x3609F194 = ~z~
+
+0x27063D55 = ~z~And normal's good, is it?
+
+0x258251DC = ~z~
+
+0x710368DD = ~z~
+
+0x14779838 = ~z~No... but aspects of it is, that's the problem.
+
+0x60304737 = ~z~
+
+0xA9255920 = ~z~
+
+0xC5EBABF3 = ~z~
+
+0xCE14D1E0 = ~z~Dance with me, Arthur, just for a minute!
+
+0xD9AEC1F5 = ~z~
+
+0xD79C4F54 = ~z~
+
+0xEC9167BE = ~z~Another time.
+
+0xEEAA1739 = ~z~
+
+0xF821105D = ~z~There... thank you!
+
+0xFC4B67E0 = ~z~
+
+0xFC60B2A6 = ~z~Well, thank you, Mr. Van der Linde.
+

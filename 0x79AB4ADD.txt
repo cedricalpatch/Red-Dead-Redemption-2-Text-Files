@@ -1,0 +1,14 @@
+0x1F5A9206 = ~z~Yes... some survive, others must perish. That's the world, you can't save nothing.
+
+0x7BFFCB53 = ~z~All them new friends you got... they lead you down a false path.
+
+0x8E356FBE = ~z~So the thing is, Arthur, the thing is, you seem to have forgotten what life is.
+
+0x68ACA4AD = ~z~I feel sad for you. Sickness seems to have got to your brain.
+
+0x5547FDE0 = ~z~Well maybe that's no longer my world.
+
+0x4316597D = ~z~I feel sad for you, Arthur...
+
+0xA1A6169F = ~z~That so?
+

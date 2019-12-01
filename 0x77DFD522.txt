@@ -1,0 +1,74 @@
+0x01A2BCE9 = ~z~Ah, yes, I was curious if I'd lay eyes on this snake. Set down him in the cell, and I'll see to your reward.
+
+0x3BC2F697 = ~z~The body's getting a little high, don't you think.
+
+0x5BDE8FD5 = ~z~You don't want your money?
+
+0x6E0FFA46 = ~z~Looks right.
+
+0x7F897B78 = ~z~From the city of St. Denis to you, sir, with thanks.
+
+0x9F1F68CB = ~z~I wish I could say we'd rid St Denis of the criminal element, but they'll be another poster up there post haste.
+
+0x55C227EA = ~z~I make good on my promises, here's your payment.
+
+0x85A3C57A = ~z~Ah, yes, I was curious if I'd lay eyes on this snake. Set down him in the cell, and I'll see to your reward.
+
+0x93CB61C9 = ~z~Got a bounty. This the place for him?
+
+0x487F9010 = ~z~If you can kill it, you can take it outside.
+
+0x638B1AB3 = ~z~Please. Take that body outside.
+
+0x733F0024 = ~z~Wrangled up a bounty for you. Interested?
+
+0x955F02DD = ~z~You leaving this for me?
+
+0x6740CD92 = ~z~Come on, bounty hunter. Get it out of here.
+
+0x9533FE04 = ~z~Once you put the body out back, we'll pay you. Don't worry.
+
+0x60695EF9 = ~z~Gracious of you.
+
+0x69814F80 = ~z~That's what they're worth, and not a penny more.
+
+0xA7C9A7B2 = ~z~You forgot your reward, come on now!
+
+0xA26B81BC = ~z~I hope my men can do as good a job on these outlaws as you have... arrests around here are being made by deputies from now on. No more bounties in St Denis, I'm afraid.
+
+0xB1C7B72F = ~z~The corpse cart is at the back of the station. Avail yourself.
+
+0xBB1E9462 = ~z~That's it.
+
+0xBFEDBCC0 = ~z~The police department is being modernized. We're going to try and arrest our own criminals. So, don't expect any more bounties here for a while.
+
+0xC1D20280 = ~z~That's it.
+
+0xCA863331 = ~z~I'm worth every penny.
+
+0xD0D81154 = ~z~Well, you have come to the right location. If you wouldn't mind laying our guest down in his new abode, I will see to your remuneration.
+
+0xD3AF51EE = ~z~With an increase in population comes an increase in criminality, I'm afraid. Look out for another poster on that wall.
+
+0xD3B3A643 = ~z~I'm worth every penny.
+
+0xD30F2EA2 = ~z~Forgot the money, huh? That's the most important part.
+
+0xDDDEE641 = ~z~We endeavor to be hard on crime in St Denis. They'll be another bounty poster up in no time, believe me.
+
+0xE3C0F211 = ~z~No shortage of outlaws in St Denis. You'll find another poster up if you come back here soon.
+
+0xE59B3ADA = ~z~This one here is wanted, I believe.
+
+0xE67FCBDB = ~z~Gracious of you.
+
+0xE85EEA62 = ~z~Well, you have come to the right location. If you wouldn't mind laying our guest down in his new abode, I will see to your remuneration.
+
+0xE259CD37 = ~z~Money is still there. Take it and get on.
+
+0xEF581854 = ~z~Got a bounty. This the place for him?
+
+0xF83C6F54 = ~z~Looks right.
+
+0xF7320358 = ~z~I said throw 'em in a cell.
+

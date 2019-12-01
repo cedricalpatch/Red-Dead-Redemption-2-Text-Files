@@ -1,0 +1,240 @@
+0x01FA5E61 = ~z~Y'all plotting something here?
+
+0x07C0BA7B = ~z~How 'bout you do your planning with your traps closed, eh?
+
+0x0957037B = ~z~Leave him. I think he shat his pants.
+
+0x0AE697AE = ~z~Okay. Let's just drop the son of a bitch!
+
+0x0B3DC700 = ~z~You got us a plan yet? Or you just letting out gas?
+
+0x0D4E99D1 = ~z~The tough guy act ain't convincing, feller. Not at all.
+
+0x1AC4B4BD = ~z~I was hoping you'd get your hackles up. Idiots.
+
+0x1B6FF2A8 = ~z~I said, bunk down.
+
+0x1BB3D7E0 = ~z~W-what if they keep on going? Or if they speed up when they see the iron?
+
+0x2A82236A = ~z~Look, I get it. Orders is orders.
+
+0x2ACEDE15 = ~z~Alright... okay... hold on a sec', that's gonna get my toes curled up.
+
+0x2E86E664 = ~z~Well, I see you fellers just don't wanna think philosophical on the subject.
+
+0x2FEAC2EF = ~z~Hey, one man's dumb is another man's free thinker.
+
+0x3A271468 = ~z~Well, shit, it didn't happen, you see?
+
+0x3CDA3B11 = ~z~We see you over there. Now back off real slow.
+
+0x3EBA73F4 = ~z~Colm says stay off the drink,
+
+0x4B65FC92 = ~z~Right here. That's where we dry gulch 'em.
+
+0x4CA59235 = ~z~Relax. I'll back off, you can carry on.
+
+0x4E8E58D4 = ~z~Alright, alright, I heard ya.
+
+0x4FBB8EAF = ~z~You hear me? You're gonna get shot up.
+
+0x4FE9B0AC = ~z~Yellow bastard's run away.
+
+0x5C35D38C = ~z~Go now, you don't want a running race with a bullet.
+
+0x6F2C1C54 = ~z~You're a dumb old bunch, ain't ya?
+
+0x7B3017A9 = ~z~Now, who we got here?
+
+0x7CDFABB2 = ~z~Hey, you. Get outta here, or you'll get bushwhacked.
+
+0x7FA1E504 = ~z~Hey! What you hollering for?
+
+0x9A90B4DF = ~z~We stone cold killers. We ain't going to warn you again.
+
+0x9B711C78 = ~z~The usual way, with a six shooter.
+
+0x9D2296F4 = ~z~Come out the front?
+
+0x11C57980 = ~z~O'Driscolls, was you?
+
+0x14A9FE22 = ~z~That's where the deputies is.
+
+0x16C14D9D = ~z~
+
+0x25E1FC48 = ~z~Quit your hollering!
+
+0x26D53677 = ~z~But then we going back on ourselves.
+
+0x28EA724D = ~z~Well, shit, I don't know.
+
+0x30DAB84C = ~z~You got a problem with that? 'Cos you in the wrong gang if you do.
+
+0x40E5216B = ~z~
+
+0x54E3421B = ~z~Don't you all look stupid?
+
+0x56AF4CFF = ~z~Alright, if you're too yellow, I guess we get back to planning, then.
+
+0x59C8F18E = ~z~That it, you bastards? Shit.
+
+0x61ADF318 = ~z~Where are we gonna find a lady?
+
+0x62BA27BF = ~z~Let me get this right. All this expostulating... is just so you can get your prick teased more regular? Huh?
+
+0x62FFB9AB = ~z~Silly son of a bitch, alright!
+
+0x63DC3F71 = ~z~What the hell's wrong with ya? We shoot interlopers.
+
+0x64E0E216 = ~z~If you all hiding out, you ain't doing it well.
+
+0x66D17CB4 = ~z~Well, you're about the right size?
+
+0x71FAC9B6 = ~z~If I gotta to hear one more idiot idea out your mouths...
+
+0x73DC9D81 = ~z~Look at you all, talking round the campfire.
+
+0x74E6A0D4 = ~z~Know what, you got me curious. I can't just leave it like that.
+
+0x76A3530B = ~z~Ain't these boys faults they're as dumb as rocks.
+
+0x77B5A966 = ~z~Ah, shut up.
+
+0x85C13911 = ~z~Least I'm reasoning, not just sitting there bored out my skull.
+
+0x91CDA0DA = ~z~Guess even two-bit outlaws need a rest.
+
+0x98FF0554 = ~z~Look, I think you just might look good in a dress, is all.
+
+0x175E83CA = ~z~Hey, you. You get outta here. We don't like spies 'round here.
+
+0x211FA39E = ~z~Sorry, if I find an O'Driscoll, I ain't gonna just leave him like that.
+
+0x425C6C6D = ~z~All I'm saying... is that just 'cos Colm says we gotta do something, doesn't mean we gotta do it.
+
+0x427C6DC5 = ~z~Front, back, sideways, dressed up as hogs, make a damn decision.
+
+0x434A3DB5 = ~z~If only they'd been friendly.
+
+0x606E98B7 = ~z~Call yourself a man?
+
+0x631CD2FB = ~z~Ah, it's Dutch's boy. Make an example of that fool.
+
+0x637E4887 = ~z~How we going to get 'em to stop?
+
+0x772A4B04 = ~z~Alright, we'll go in the back, then we come out the front. They'll never expect it.
+
+0x923EDB84 = ~z~That's tough talk, but I ain't going anywhere now.
+
+0x925F5A7A = ~z~We go in the back, and come out the back.
+
+0x4145D37C = ~z~If there's some fellers in the woods, a-and they've been drinking and they come across some ladies...
+
+0x4590EAA4 = ~z~You all meeting to decide who's the stupidest?
+
+0x5360C80B = ~z~What you fellers doing?
+
+0x6200A71A = ~z~Or so I been told.
+
+0x6376C42D = ~z~Never seen so many idiots around one campfire.
+
+0x7439D68D = ~z~Colm's got a hold on you boys, I ain't never gonna understand.
+
+0x8672C6E0 = ~z~
+
+0x9280B2C3 = ~z~You are plumb outta warnings, boy!
+
+0x36444C0B = ~z~I heard your plan, it sounds dumb.
+
+0x41569B75 = ~z~I don't have a problem with getting curled up... I'd just rather not.
+
+0x84233E0E = ~z~Ain't this a cozy fireside scene.
+
+0x100367A3 = ~z~Alright, I got it... I got it, we go in the back, and then send you out front to meet the deputy.
+
+0x296472E3 = ~z~I see you better shut your trap.
+
+0x338437F9 = ~z~Like, if a bear falls in the woods, there ain't no one to see. Or-or like...
+
+0x344390BB = ~z~So it would happen, even by your horn-dog reasoning.
+
+0x505482F4 = ~z~Why, you're dumber than I thought.
+
+0x683277AD = ~z~Who's there? You come one step closer and we'll kill you dead.
+
+0x8062531E = ~z~Alright. We'll leave it.
+
+0x84862797 = ~z~Well, they might not stop for you and me, but they might stop for a lady.
+
+0xA55C8AF5 = ~z~Wait, I got-I got an idea... what if one of us would lay in the road and pretend to be sick-like?
+
+0xA3656EFD = ~z~And besides. We'd be there to see the goings on. And so would the strumpets.
+
+0xA55984CD = ~z~We ain't no O'Driscoll boys, fellers. We men.
+
+0xAA8E5895 = ~z~Okay, let's just drop the son of a bitch.
+
+0xAFD7888C = ~z~Okay, okay, I'll be on my way.
+
+0xB09B8099 = ~z~Then we go in the front and come out the back, then.
+
+0xB9CDE1B4 = ~z~The clue's in the name, fool. Colm O'Driscoll. We O'Driscoll boys.
+
+0xB530BCBA = ~z~Now let's get some shut eye, we'll figure this out in the morning.
+
+0xBBDC8111 = ~z~You ain't thinking philosophical. You thinking with your pecker.
+
+0xBC5CF1A2 = ~z~Whoa. Okay. I'll go. Easy there.
+
+0xBE1CA516 = ~z~Yes, sir. I'll be off right now.
+
+0xC2E590E8 = ~z~These killers ain't gonna stop for no invalid. They don't want no consumption.
+
+0xC8FEE553 = ~z~You are gonna take that back.
+
+0xC46237D2 = ~z~You there, move your ass!
+
+0xC2592414 = ~z~Or...
+
+0xC3485787 = ~z~there ain't no one there to see, or-or not hear nothing...
+
+0xCB739A49 = ~z~This one's got a death wish. Oblige him.
+
+0xCDC421B4 = ~z~Who's there? You come one step closer and we'll kill ya dead.
+
+0xCF154F70 = ~z~Stay outta Valentine.
+
+0xCF947701 = ~z~More a man than you ever was.
+
+0xD0631743 = ~z~says, stay off the whoring.
+
+0xDA599613 = ~z~Know what, I got plans, buddy. And leaving here ain't one of them.
+
+0xDD2F5F41 = ~z~And maybe... maybe this gang's too big for one man to get all dictational.
+
+0xDF7F14F4 = ~z~That all of you? Shit.
+
+0xE99C83BE = ~z~We ain't got a plan, we're just gonna wing it. Now everyone bunk down for the night.
+
+0xE67457F1 = ~z~Well... shit! Maybe we don't want to.
+
+0xE276246A = ~z~Just leave him. I think he shat his pants.
+
+0xEAE53B2E = ~z~If you're gonna be like that, I'll head off, okay?
+
+0xECA39069 = ~z~Guess it's my camp now.
+
+0xF0C88673 = ~z~
+
+0xF1FB56C9 = ~z~Yellow bastard's running away.
+
+0xF8B356CA = ~z~Okay. Alright. I'll be on my way.
+
+0xF69E479D = ~z~Need my advice on any of this?
+
+0xF7634852 = ~z~If you fellers don't like the plan, then we can think on something else.
+
+0xFE5CCB1C = ~z~But what's an order to an orderer, if the orderer a-ain't sure that order being followed? You get me?
+
+0xFE232128 = ~z~Maybe we wanna get our peckers pulled.
+

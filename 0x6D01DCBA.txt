@@ -1,0 +1,122 @@
+0x068140D5 = Find & recover the lost wagon
+
+0x081FA4D6 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~cart~s~
+
+0x088E5343 = Search the area ~1b~ for the lost wagon and return it within the time limit to earn the full reward.
+
+0x0AA7ECAC = ~1~ triggered a rival mission against ~2~. Destroy the stagecoach ~3b~ to gain the full reward.
+
+0x0BC01FC8 = The stagecoach has been destroyed
+
+0x0DD7485F = You triggered a rival mission against ~1~. Destroy the wagon ~2b~ to gain the full reward.
+
+0x2B2B5817 = ~1~ triggered a rival mission against ~2~. Destroy the cart ~3b~ to gain the full reward.
+
+0x2BA5E184 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the stagecoach
+
+0x3B1CCF71 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~cart~s~
+
+0x3CA755CD = Find & recover the lost stagecoach
+
+0x4E4C5874 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~stagecoach~s~ ~1~
+
+0x5C9F9BAD = ~COLOR_ENEMY~~1~~s~ is intercepting the wagon
+
+0x5E25A1DF = Wagon destroyed
+
+0x5F23B2CE = Go to the ~COLOR_MP_OBJECTIVE~search area~s~
+
+0x6BD1578E = The cart has been destroyed
+
+0x6DFDF849 = Get the ~COLOR_MP_OBJECTIVE_ENEMY~cart~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x7FD2069E = Stagecoach destroyed
+
+0x9B89C83A = Stagecoach delivered
+
+0x9E1A1A90 = Cart destroyed
+
+0x9EDB0A86 = Destroy the stagecoach
+
+0x35C4DFCE = Search the area ~1b~ for the lost cart and return it within the time limit to earn the full reward.
+
+0x47E0B303 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x55ED237E = Search the area ~1b~ for the lost stagecoach and return it within the time limit to earn the full reward.
+
+0x80B64F89 = Stagecoach delivered
+
+0x90B91EA2 = ~1~ triggered a rival mission against ~2~. Destroy the wagon ~3b~ to gain the full reward.
+
+0x94A8434A = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~
+
+0x363C065A = Cart destroyed
+
+0x582F16B4 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~stagecoach~s~
+
+0x594FF882 = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~stagecoach~s~
+
+0x684FA577 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the wagon
+
+0x843A02D6 = Find & recover the lost cart
+
+0x960A4C85 = ~COLOR_ENEMY~~1~~s~ is intercepting the stagecoach
+
+0x3956A4A0 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x6289FB55 = Destroy the cart
+
+0x7837EFC8 = ~COLOR_ENEMY~Rival players~s~ can attack the wagon
+
+0x9086C345 = Get the ~COLOR_MP_OBJECTIVE_ENEMY~stagecoach~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x9373C4DA = Wagon delivered
+
+0x28713FA2 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~cart~s~ ~1~
+
+0x764934EF = Wagon delivered
+
+0x81966311 = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~cart~s~
+
+0xA5A9C30B = Wagon destroyed by rival Posse
+
+0xB1D5CC00 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ ~1~
+
+0xBCA7CA3D = Deliver the cart ~1~
+
+0xBECD1067 = Stagecoach destroyed by rival Posse
+
+0xC29CEC98 = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xC9697B0E = You triggered a rival mission against ~1~. Destroy the stagecoach ~2b~ to gain the full reward.
+
+0xCCA042D7 = Cart destroyed by rival Posse
+
+0xD149DBB9 = Cart delivered
+
+0xD833B895 = Stagecoach destroyed
+
+0xE7E3D716 = Deliver the wagon ~1~
+
+0xE81B1166 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~stagecoach~s~
+
+0xE398A77D = The wagon has been destroyed
+
+0xE1461FAB = ~COLOR_ENEMY~Rival players~s~ can attack the stagecoach
+
+0xEAC96990 = ~COLOR_ENEMY~Rival players~s~ can attack the cart
+
+0xEFEB4E04 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the cart
+
+0xF6BC141B = You triggered a rival mission against ~1~. Destroy the cart ~2b~ to gain the full reward.
+
+0xF7B1EB19 = Destroy the wagon
+
+0xF645EAA8 = Wagon destroyed
+
+0xF885D298 = Deliver the stagecoach ~1~
+
+0xF5817DC7 = Cart delivered
+
+0xFFD3B05A = ~COLOR_ENEMY~~1~~s~ is intercepting the cart
+

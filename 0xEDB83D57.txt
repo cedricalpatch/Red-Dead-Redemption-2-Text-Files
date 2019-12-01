@@ -1,0 +1,18 @@
+0x6F89E9C2 = ~z~Your charm is your best feature.
+
+0x7D538555 = ~z~No... I did not.
+
+0x28E6DC7D = ~z~I'd like to say I'll miss you, but... really I won't, get outta here.
+
+0x37C27A34 = ~z~Running away?
+
+0x5541B532 = ~z~Likewise...
+
+0x9224AEF7 = ~z~Well... don't worry... I'm...
+
+0xD31930DF = ~z~That sounds about right... well...
+
+0xEF9269D1 = ~z~Did you... did you go and collect any of the debts?
+
+0xFE680780 = ~z~I suppose so.
+

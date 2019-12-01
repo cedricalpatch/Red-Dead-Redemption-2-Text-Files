@@ -1,0 +1,110 @@
+0x05704D47 = Kill ~e~Micah~s~
+
+0x0833A7F8 = Reason
+
+0x0E32851F = Follow ~o~Charles~s~ to Mount Hagen
+
+0x1B7C3AD4 = Cleet was knocked out before revealing Micah's location.
+
+0x1D7B6361 = Spare
+
+0x2EAB8BF4 = Return to ~o~Charles~s~
+
+0x4DC65477 = Tie
+
+0x4ED7C308 = Hang
+
+0x5E4A264A = Search for Cleet in ~o~Strawberry~s~
+
+0x5F2B1491 = Lever
+
+0x6A244C98 = Move from cover to cover with ~o~Sadie~s~
+
+0x6A906F12 = Return to ~o~Mt. Hagen~s~
+
+0x6D0E6347 = Noose
+
+0x6EAC8619 = Go to the ~o~lever~s~
+
+0x7C7FE1B8 = Ride towards ~o~Mount Hagen~s~
+
+0x7DEA6086 = What're you doing here?
+
+0x8AE93F09 = Beat up ~e~Cleet~s~
+
+0x8D0B9396 = Get into ~o~cover~s~
+
+0x8DD676B3 = Chase ~e~Cleet~s~
+
+0x8F27268D = Tie the noose round ~e~Cleet's~s~ neck~s~
+
+0x9DC649CC = Drag ~e~Cleet~s~
+
+0x10E94199 = Pull lever
+
+0x16BDEFEC = Go back for ~e~Cleet~s~
+
+0x17BB38B7 = Mount your ~o~horse~s~
+
+0x25DE8682 = Reason with Dutch and Micah
+
+0x28E2C3A3 = Follow ~o~Sadie~s~ to Strawberry
+
+0x58E08F4E = Return to ~o~Strawberry~s~
+
+0x58EB4C0A = Threaten ~e~Cleet~s~ by moving the lever
+
+0x81CA1176 = Grab
+
+0x479D8A26 = Return to ~e~Micah~s~
+
+0x3052C55C = We all did our best
+
+0x5550E51D = Kill the ~e~Sniper~s~
+
+0x7948F714 = Sadie was abandoned in Strawberry.
+
+0x30694EC9 = You lost Cleet.
+
+0x56223DE5 = Find ~o~Micah~s~
+
+0x74434D38 = Let her go
+
+0x2626872D = Follow ~o~Sadie~s~
+
+0x8652083D = Cleet died before revealing Micah's location.
+
+0x9966177D = You started it
+
+0xA3D9B762 = You fled from Micah
+
+0xA8A34C08 = Force ~e~Cleet~s~ up the stairs~s~
+
+0xB5DB5067 = Arthur saved me
+
+0xC33F3F8F = Continue up the mountain with ~o~Sadie~s~
+
+0xC80BF4C8 = Let her go!
+
+0xD4CD8E53 = Say something!
+
+0xD96C48F3 = Return to the ~o~Gallows~s~
+
+0xDD1658F2 = Approach Cleet and press ~INPUT_MELEE_GRAPPLE~ to drag him.
+
+0xDDBBA02F = Killing me won't solve nothing!
+
+0xDF0562FF = You left Mt. Hagen.
+
+0xE0D8C087 = Take out ~e~Micah's Goons~s~
+
+0xEF33B6BC = Regroup with ~o~Sadie~s~
+
+0xF2A95B24 = Hang ~e~Cleet~s~ or leave him be
+
+0xF37CCBB1 = Come on now
+
+0xF299694B = Sadie and Charles were abandoned.
+
+0xFA135CAA = Drag Cleet to the ~o~Gallows~s~
+

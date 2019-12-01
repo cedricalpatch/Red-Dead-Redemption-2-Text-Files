@@ -1,0 +1,48 @@
+0x00C2143C = ~z~Gotta get this thing out of the road...
+
+0x05F8582C = ~z~Yeah?
+
+0x0CFB2EBE = ~z~Not a chance, pal!
+
+0x2D89BAD2 = ~z~Eyes up! We got an outlaw!
+
+0x6EF0B6D1 = ~z~Stop that coach now!
+
+0x6EF96C91 = ~z~Bastard!
+
+0x8EB7BEE2 = ~z~Howdy.
+
+0x9A38BC04 = ~z~Hey, clear the road!
+
+0x9DBCC1CA = ~z~Hey, move it, you dumb animal!
+
+0x34EC7C88 = ~z~I don't like this...
+
+0x41E5C862 = ~z~Stop that coach now!
+
+0x92DEAC0E = ~z~Am I gonna have to make you into dinner? Go on! Git!
+
+0x512E6ACC = ~z~Step down from here nice and easy and nobody gets hurt.
+
+0x1138A4B5 = ~z~Ain't stopping for you, I know that much.
+
+0x59009F4A = ~z~You need to back off, feller.
+
+0x20595362 = ~z~What's that doing here?
+
+0x62092423 = ~z~Howdy.
+
+0xA5ABF8B1 = ~z~You must think I'm a goddamn idiot!
+
+0xC627514A = ~z~What the hell you up to?
+
+0xC999162F = ~z~You're threatening me? I don't think so!
+
+0xCCE796FC = ~z~Look out, you're too close to the coach.
+
+0xDCC1704A = ~z~Step down from here nice and easy and nobody gets hurt.
+
+0xE7115A45 = ~z~This feller means trouble...
+
+0xF8DAFDD8 = ~z~Keep ready for anything.
+

@@ -1,0 +1,32 @@
+0x0C132B23 = ~z~~sl:0.7:0.7~I'm...~sl:2.1~ I'll think about it.
+
+0x8E4E255C = ~z~You know me better than that.
+
+0x27ADE258 = ~z~Just think about it, that's all I'm saying.
+
+0x252DDD58 = ~z~~sl:0.0:3.7~Meet you all someplace and we'll be home free.~sl:~That's it.
+
+0x457B13B3 = ~z~~sl:0.0:3.2~I think you misunderstood me earlier...~sl:0.3~I ain't trying to rob you.
+
+0x537EB9FD = ~z~~sl:0.7:3.2:1~I'll go back to Blackwater and get the money.
+
+0x63843F3C = ~z~~sl:0.0:1.9~Will you stop lingering like a bad smell~sl:~and speak some sense to him.
+
+0x9136926A = ~z~What are you trying to do, Micah?
+
+0xA3E637C9 = ~z~~sl:0.0:1.4~Save you...~sl:0.8:1.4~Save everybody.~sl:~You know me.
+
+0xB9B2FC25 = ~z~What is it?
+
+0xE086D403 = ~z~
+
+0xE0E5CA8A = ~z~~sl:0.0:2.2~Listen, uh, Dutch.~sl:0.3~Can I talk to you a minute?
+
+0xEEC9F091 = ~z~~sl:0.0:1.5~Thank you...~sl:0.1~You're...
+
+0xEFE85BB1 = ~z~~sl:0.6:2.2:1~Trying to speak some sense to him, cowboy.
+
+0xFA6007BD = ~z~Way I see it, we gotta try.
+
+0xFE5E0FB1 = ~z~~sl:0.0:1.7~I'll do whatever you say...~sl:0.5~Always.
+

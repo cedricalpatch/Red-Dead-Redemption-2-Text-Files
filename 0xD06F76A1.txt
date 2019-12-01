@@ -1,0 +1,22 @@
+0x0233ECA7 = ~z~Not much, I was only little.
+
+0x0631CA46 = ~z~Ain't that right, John?
+
+0x5BFC75DA = ~z~The past is gone. We left that behind.
+
+0x81F57627 = ~z~Why?
+
+0x94D311E3 = ~z~He did save us, yeah.
+
+0x511A9472 = ~z~Some silly pride thing I'll never quite understand.
+
+0x3870AEC3 = ~z~But your pa don't like talking about him.
+
+0x75865D49 = ~z~But... you know your pa don't like talking about him.
+
+0xA5B8B3AE = ~z~None of us would be here today if it weren't for Arthur.
+
+0xDF082650 = ~z~Arthur... he saved us, didn't he?
+
+0xF1554AEA = ~z~You remember that time?
+

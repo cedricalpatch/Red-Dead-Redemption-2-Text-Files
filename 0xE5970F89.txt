@@ -1,0 +1,112 @@
+0x0B93FD2C = ~z~Okay.
+
+0x0EF181AF = ~z~that's it.
+
+0x1EE0A3C9 = ~z~You'll find him up in the hills north of Strawberry.
+
+0x2ED54042 = ~z~You never have done before.
+
+0x5B0C18AF = ~z~For cattle, and feed, I mean.
+
+0x5DCB2D01 = ~z~Dutch tells me we're gonna be ranchers.
+
+0x6BB250CE = ~z~Still working, Mr. Strauss?
+
+0x6C7FC25A = ~z~Living in a place called Catfish Jackson, near Scarlett Meadows.
+
+0x7FDAE910 = ~z~Some fisherman by the name of Davison, Algie Davison.
+
+0x8B801069 = ~z~Still working, Mr. Strauss?
+
+0x8DC7FE26 = ~z~will you help me finalize our business here?
+
+0x19AA95F1 = ~z~I don't know.
+
+0x20BB2542 = ~z~We're a union built on debt, you know.
+
+0x23C430E0 = ~z~You never have done before.
+
+0x26BBC6DE = ~z~before we leave, Mr. Morgan.
+
+0x34F45B54 = ~z~Perhaps, but...
+
+0x39A95CAA = ~z~Why flinch now?
+
+0x39DDED22 = ~z~So you'll be joining us in Tahiti?
+
+0x44C86C28 = ~z~Why flinch now?
+
+0x45F66FB4 = ~z~A fisherman.
+
+0x49DD7656 = ~z~Well, here they are.
+
+0x77EED274 = ~z~This is filthy work.
+
+0x99EC99DF = ~z~Living in a place called Catfish Jackson, near Scarlett Meadows.
+
+0x104E06A4 = ~z~Refinery worker turned hunter by the name of Winton Holmes.
+
+0x156F2449 = ~z~lots of opportunity.
+
+0x395F642A = ~z~so far we have not raised many cattle.
+
+0x712B4BAD = ~z~Well, here they are.
+
+0x829D76A5 = ~z~I rather fancied Australia.
+
+0x939A09CA = ~z~No.
+
+0x2443AE93 = ~z~And then, hmm...
+
+0x4807F967 = ~z~For cattle, and feed, I mean.
+
+0x14848CD1 = ~z~And...
+
+0x32154A36 = ~z~an apprentice undertaker, working in Rhodes.
+
+0x329200B3 = ~z~Still working Mr. Strauss? what you been up to?
+
+0x629627C3 = ~z~We'll need money in Australia.
+
+0x1672963D = ~z~I don't know.
+
+0x4819019D = ~z~lots of opportunity.
+
+0x10101987 = ~z~I rather fancied Australia.
+
+0x15592419 = ~z~A similar kind of people to us...
+
+0x40846714 = ~z~His name was Gwyn Hughes.
+
+0x90791260 = ~z~A similar kind of people to us...
+
+0xA2A3B6B1 = ~z~What you been up to?
+
+0xA80EB623 = ~z~A fisherman.
+
+0xA7103F8E = ~z~before we leave, Mr. Morgan.
+
+0xB0655234 = ~z~Trying to wrap up our accounts...
+
+0xB4D6DB1B = ~z~So you'll be joining us in Tahiti?
+
+0xC573ED7D = ~z~So, Mr. Morgan...
+
+0xCB448FF1 = ~z~What you been up to?
+
+0xCE2705A3 = ~z~Alright.
+
+0xCF260451 = ~z~Hughes, yeah.
+
+0xD8822A6C = ~z~Trying to wrap up our accounts...
+
+0xDD5CA0BE = ~z~Some fisherman by the name of Davison, Algie Davison.
+
+0xDE8CA66E = ~z~thats it.
+
+0xE446DBAB = ~z~Mr. Morgan.
+
+0xECB442BD = ~z~And...
+
+0xF24FC864 = ~z~Okay.
+

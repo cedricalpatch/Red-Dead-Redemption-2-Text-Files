@@ -1,0 +1,36 @@
+0x2FD5540B = ~z~You see, our captain had a theory...
+
+0x3E9AF196 = ~z~~sl:0.0:1.2~he said, "A lit fire~sl:~would just bring the Indians on us that much quicker."
+
+0x6F5291DD = ~z~Alright, I know what you boys are thinking...
+
+0x79BAE7D9 = ~z~~sl:0.0:1.2~So there we were at night,~sl:0.3:2.3~either cold and frightened of the wolves~sl:~or warm and frightened of the Indians.
+
+0x4258B7DA = ~z~Damn Indians...
+
+0x14579D10 = ~z~~sl:0.0:1.7~But the only problem was,~sl:~no fire, brought the wolves on us.
+
+0x23063A6D = ~z~Yes sir.
+
+0x34169B56 = ~z~the horses.
+
+0xA0F87528 = ~z~but I don't frighten that easy!
+
+0xA85A03EB = ~z~That's all I'm saying.
+
+0xC7A903B4 = ~z~and we was out on patrol.
+
+0xC4863C43 = ~z~And I could never figure out what frightened me more.
+
+0xCBDCCAF0 = ~z~~sl:0.0:1.5~You know what, why don't you try yourselves,~sl:~couple of nights out on that prairie,
+
+0xDA13E75E = ~z~You can't blame a man for his honesty.
+
+0xDCFB2E58 = ~z~We couldn't light no fires.
+
+0xE7A643AE = ~z~Nice fire.
+
+0xF970E743 = ~z~You know, back when I was in the army,
+
+0xFE35AF95 = ~z~~sl:0.0:2.2~surrounded by savages trying to eat you alive,~sl:~and we'll see who the real man is!
+

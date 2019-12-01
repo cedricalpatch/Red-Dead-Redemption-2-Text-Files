@@ -1,0 +1,26 @@
+0x0697CA5C = ~z~No, John, I don't like it... I love it. It's home.
+
+0x08288E2D = ~z~Are you being sarcastic, John Marston?
+
+0x0FCF1D8E = ~z~since you bought this millstone around our necks, we better try and keep this place going.
+
+0x1EA1BB33 = ~z~Alright, John Marston...
+
+0x3AD0F37D = ~z~Yes, ma'am.
+
+0x7BD4349B = ~z~Me? Never.
+
+0x211F402E = ~z~I paid our debts with that money I... uhh...
+
+0x5932EF59 = ~z~Good.
+
+0x27750BDE = ~z~Anyway, I thought you liked this place?
+
+0xA492C717 = ~z~I don't wanna talk about that money. And no more of that...
+
+0xC89F8F30 = ~z~I'm sure...
+
+0xD7662CBD = ~z~It's over, Abigail.
+
+0xFAE9F3C4 = ~z~Then get to work, on this ranch you own and raising your boy.
+

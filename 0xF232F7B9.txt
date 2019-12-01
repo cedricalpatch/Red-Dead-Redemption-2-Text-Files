@@ -1,0 +1,476 @@
+0x00999FB4 = ~z~
+
+0x00A0CC18 = ~z~ Please?
+
+0x02962350 = ~z~~sl:0.4~They've been saying that nonsense since they invented the wheel... the wickedness of bosses...
+
+0x02CB49B6 = ~z~Well, goodbye, Alden...
+
+0x03A123A8 = ~z~well, if you'd like to come with me.
+
+0x0448CD85 = ~z~He's also one of the...
+
+0x04C212E8 = ~z~And I can do this silently?
+
+0x0514DF6D = ~z~Yeah... I know.
+
+0x053EBFDB = ~z~through Siltwater Strand.
+
+0x055E2949 = ~z~You've... you've... oh will you be quiet?
+
+0x06728A3F = ~z~would you sing something for me?
+
+0x0A653AA4 = ~z~Are you busy, Arthur?
+
+0x0AEB636B = ~z~I'm hoping we won't need those.
+
+0x0B62B8DA = ~z~Well, aside from all the shooting and getting shot at...
+
+0x0CBC394E = ~z~you know I have.
+
+0x0D051B8E = ~z~You hang back, don't let them spot you or you'll scupper the whole thing.
+
+0x0D3C3B8E = ~z~So sorry, gentlemen, for the interruption... farewell.
+
+0x0DC3D671 = ~z~Because what can possibly go wrong there?
+
+0x0F373CEF = ~z~
+
+0x0F43086B = ~z~A what?
+
+0x1B003F64 = ~z~Well I'm hoping complete silence won't be necessary...
+
+0x1B947C1E = ~z~Among other things...~rp~ I had quite a nice little business going for a while.
+
+0x1C0A05A0 = ~z~What did I tell you?~rp~ Simple as can be.~rp~ Seems a lot of the station workers are in on it these days.
+
+0x1C8C58E6 = ~z~Have you ever robbed a stagecoach?
+
+0x1D5D8853 = ~z~I'll put on a little performance and you can scurry round...
+
+0x1D49FF62 = ~z~My friend Arthur here, has a present for you...
+
+0x1EA172A0 = ~z~I think you'll like this one, Josiah.
+
+0x1EE9DDA9 = ~z~And what's the problem with stagecoaches?
+
+0x1F02DF1B = ~z~The event, is on the twenty-third of this month... I can't say enough, Mrs. Damsen... magnifico.
+
+0x2A1F9F09 = ~z~
+
+0x2E3DFC49 = ~z~No, never...
+
+0x2E642A60 = ~z~What were you thinking?
+
+0x3AD3772A = ~z~I'll ride ahead and get the coach to stop.
+
+0x3B9955BB = ~z~Ah, I see.
+
+0x3C017EF3 = ~z~What was that noise?
+
+0x3DE38436 = ~z~you can wave your guns round like you normally do.
+
+0x3E0FB7BA = ~z~Here we are. This is the spot.
+
+0x3F1EC330 = ~z~discouraged men.
+
+0x3F242074 = ~z~Let's hope it goes a little smoother next time.
+
+0x3FB988D6 = ~z~Course, if everything goes wrong...
+
+0x4A3C30DD = ~z~I know, but...
+
+0x4AAF29E1 = ~z~It's a trick! We're being robbed!
+
+0x4BF9ED36 = ~z~Really, Arthur? Please.~rp~ I like to talk, but I haven't survived this long without knowing when to keep my mouth shut.
+
+0x4FD77E37 = ~z~and very informed on the comings and goings of coaches round these parts.
+
+0x5CCCFE8C = ~z~That's it...
+
+0x6A80D25A = ~z~Well I-I-I-I don't know...
+
+0x6C3A1D6A = ~z~Oh, and Josiah...
+
+0x6E9BC997 = ~z~Well don't keep my in suspense, how did we do?
+
+0x6E52AA30 = ~z~I ain't sure about going back to Strawberry after all that Micah business.
+
+0x6FE2BDEB = ~z~The singer?
+
+0x7ABC0C96 = ~z~Okay, let's go. This way.
+
+0x7AC639AA = ~z~Oh, adieu, Josiah.
+
+0x7D3C589E = ~z~Oh you flatter me...
+
+0x7D60BFB7 = ~z~Thank you very much.
+
+0x7E0E5BF1 = ~z~You made quite a mess there, Arthur. My way would have been so much cleaner, but there we go...
+
+0x8B9FF645 = ~z~Something to do with the Grays. I thought I'd nab you first.
+
+0x8B777514 = ~z~Giuseppe Muldoon...
+
+0x8C2AF6E1 = ~z~The train station... the clerk there, Alden, is quite a fellow...
+
+0x8C9D92CF = ~z~Here we are. We can hitch up outside. I'll make the introductions, Arthur.
+
+0x8DE4D0D7 = ~z~We're being robbed. Shoot that man... shoot that man!
+
+0x8E0E6112 = ~z~if you or Arthur are ever out Strawberry way...
+
+0x8E256979 = ~z~Come on, we have a coach to catch.
+
+0x9A6C9364 = ~z~So~rp~ where exactly are we going?
+
+0x9BDBB50F = ~z~Miss Damsen... you owe it to West Elizabeth.
+
+0x9DFA8B14 = ~z~My good man, they're perfectly safe.
+
+0x9E1B09E0 = ~z~We're hoping to be long gone before that. Dutch has a plan.
+
+0x9E9AAE29 = ~z~What the hell was that?
+
+0x9EE1C83C = ~z~Well done, sir...
+
+0x10B74383 = ~z~Here.
+
+0x11AF038A = ~z~Not at all.
+
+0x11C741B2 = ~z~Wages got cut again, they reckon they just invented a new horseless carriage will be the end of us.
+
+0x16C82AE6 = ~z~New Yorkers are prigs and fools who believe westerners don't know anything about culture.
+
+0x20DDA1E7 = ~z~I'm preparing for a show.
+
+0x20F9FCDD = ~z~Well, lead the way and we'll find out.
+
+0x22D54304 = ~z~I couldn't agree more.
+
+0x26E75732 = ~z~without threatening someone to open it for me?
+
+0x36CBC2DA = ~z~Did you tell those bounty hunters anything we need to worry about?~rp~ Whatever it is we'll work it out.
+
+0x45B45632 = ~z~
+
+0x45EA6C00 = ~z~Did you say a show?
+
+0x55D94DDE = ~z~We always hope that, Arthur.
+
+0x56AFCB7E = ~z~Dandy... and you, friend?
+
+0x56C80C1C = ~z~let me present you with something real.
+
+0x64E9975E = ~z~It didn't sound like you left anyone alive to recognize you, so I wouldn't worry too much, dear boy.
+
+0x75D630C8 = ~z~How the hell you end up down here anyway?
+
+0x79AD2A2A = ~z~Hey! Where are you going? Get back here!
+
+0x80B2D6B3 = ~z~So~rp~ I gotta ask, one last time... and be straight with me.
+
+0x80C050A0 = ~z~
+
+0x84E4F629 = ~z~Are you going to give me my cut, dear boy?
+
+0x93B54981 = ~z~See you soon, Arthur.
+
+0x99B61191 = ~z~Mrs. Chester Damsen.
+
+0x99E155D9 = ~z~Well, that didn't go exactly according to plan...
+
+0x99EE92E2 = ~z~Oh I almost forgot. Bill asked me to give you a message to meet him here in town as soon as you can.
+
+0x133BEB91 = ~z~You sure seem to have got about round here.
+
+0x169DCAAB = ~z~Well done, sir.
+
+0x240F2645 = ~z~It's a small benefit... to build an opera house... in Blackwater.
+
+0x250EF753 = ~z~Okay, I think I know a good spot to wait. Follow me.
+
+0x313D024F = ~z~why who would've even thought...
+
+0x316E8509 = ~z~Now, go see Alden from time to time.
+
+0x352DF3BF = ~z~This should work.
+
+0x546A12BC = ~z~but still a man.
+
+0x589BD710 = ~z~Arthur!
+
+0x605F8DEE = ~z~Mount up then, let's go.
+
+0x650AA8A1 = ~z~Anyway,~rp~ while they're off chasing their pot of confederate gold, hidden at the end of some rainbow,
+
+0x656D99FB = ~z~
+
+0x688B1534 = ~z~adieu.
+
+0x720B8235 = ~z~Hello, Alden.
+
+0x816CD064 = ~z~Like he said... there, Strawberry... could create a lot of opportunities for a man in your line of work.
+
+0x818C6D00 = ~z~Well, I know you think I'm just some effete buffoon.
+
+0x934F6BBA = ~z~You know me,~rp~ I like to make friends in low places.
+
+0x939F74C9 = ~z~Earning a pittance,~rp~ the unions are whipping them up, so they want something on the side.
+
+0x967DD579 = ~z~Here...
+
+0x1043BDF7 = ~z~It was easy.
+
+0x1068D62F = ~z~It'll be coming south down the river road...
+
+0x2060DEF5 = ~z~God, these amateurs! Why do I bother? Yah!
+
+0x2061DD29 = ~z~Sometimes.
+
+0x2151A216 = ~z~He did? Okay thanks.
+
+0x2196AFCB = ~z~What the hell does he want?
+
+0x3353E3FD = ~z~Miss Damsen, why did you stop singing?
+
+0x3518CA5D = ~z~It's a free country...
+
+0x4387A6E4 = ~z~Of course I've robbed a goddamn stagecoach...
+
+0x5406F5A5 = ~z~the loot is located in a strong box, which is in the back.
+
+0x5720FD5E = ~z~Bravissimo!
+
+0x6438E690 = ~z~Hello, Josiah, how have you been?
+
+0x9939F691 = ~z~or should I say...
+
+0x38986E8A = ~z~I-I'm looking for a mezzosoprano.
+
+0x51132B89 = ~z~but you're going to wish you had your ear plugs.
+
+0x85093F6E = ~z~a fellow man of distinction.
+
+0x88768DDD = ~z~Back off now! We've seen your friend, we ain't gonna fall for this.
+
+0x400148AC = ~z~Nicely done, Arthur. A little finesse for once.
+
+0x484438FB = ~z~Ain't you kind, sir.
+
+0x532112A2 = ~z~Come on over then.
+
+0x1243697A = ~z~ask for my colleague there, feller called Hector.
+
+0x4196505C = ~z~Time is of the essence here, dear boy.
+
+0x7554740B = ~z~Mrs. Damsen...
+
+0x55142781 = ~z~Would... could... could you... it-it's such a small show but...
+
+0x58349094 = ~z~I... I did madam.
+
+0xA06CF635 = ~z~Call him Arthur.
+
+0xA2F40ADF = ~z~Yeah, that's how it goes.~rp~ Thanks for disappearing on us during that Sean business, by the way.
+
+0xA6C11277 = ~z~what did you call us again?
+
+0xA7AD5196 = ~z~Well, let's go then.
+
+0xA7FA5866 = ~z~Hold tight, they'll be here soon.
+
+0xA9FB0951 = ~z~Okay, well...
+
+0xA70B55B2 = ~z~If anything goes wrong, let's meet back here at this crossroad. Okay?
+
+0xA99231AF = ~z~I'd done my part. Each to their strengths, dear boy.
+
+0xAAB6BF54 = ~z~A man of words and not of action...
+
+0xAB87F52D = ~z~Terrible.
+
+0xAB649C31 = ~z~Keep your distance so they don't see you... and, please leave that gun in its holster for once.
+
+0xABF812DB = ~z~So where do we find this friend of yours?
+
+0xAC34A788 = ~z~Can we go, please? I got a train to catch.
+
+0xB02C71B1 = ~z~Who are you?
+
+0xB2EE834A = ~z~Oh, jolly good.
+
+0xB4B8F10D = ~z~Alright.
+
+0xB7E711E4 = ~z~How did we do?
+
+0xB9E842EF = ~t~In Italian: Slowly, very slowly.
+
+0xB12E2753 = ~z~Until, well, that unfortunate run-in with the law.
+
+0xB15EEC23 = ~z~Oh, very good, Alden, very good.
+
+0xB93E909A = ~z~They often are... but how's work, Alden?
+
+0xB9065BF3 = ~z~hardly a man at all.
+
+0xB16283A8 = ~z~Madam... I've heard enough... might I have your card?
+
+0xB26515B3 = ~z~Okay, damn it! Do it your way then. Meet me back at the crossroads.
+
+0xB41335BC = ~z~Okay, this should do.
+
+0xBC13FC35 = ~z~Okay, maybe this can still work, if you hang back for heaven's sake. Are you capable of that?
+
+0xBC85B3F6 = ~z~Rhodes.
+
+0xBD333FCE = ~z~There it is, right on time. Let's go.
+
+0xBE691A3B = ~z~Here you go.
+
+0xBEA90E8E = ~z~Come on. Hang back a bit and let me do the talking. We don't want to scare him off.
+
+0xC0C7DFB4 = ~z~I cannot believe...
+
+0xC1E0B12E = ~z~Who the hell is this?
+
+0xC3CAA3FC = ~z~Well I could require a whole lot.
+
+0xC6F3AC04 = ~z~My Mrs. is a bad woman. A terrible woman.
+
+0xC7B9ACE0 = ~z~Go see Alden from time to time.
+
+0xC8D902A5 = ~z~I thought you might like to see that pantomime.
+
+0xC47EE722 = ~z~I flatter nobody...
+
+0xC54A582A = ~z~Sure.
+
+0xC62EEC83 = ~z~
+
+0xC72CAE30 = ~z~the odds.
+
+0xC80FD53A = ~z~I could ask the same of you.~rp~ I have a few commitments over this way... some expenses to meet.
+
+0xC497D6D9 = ~z~All this trouble... you gentlemen are becoming quite the celebrities, aren't you?
+
+0xC614760F = ~z~Well I think you're as slippery as an eel in an oil slick...
+
+0xC5172797 = ~z~Thank you.
+
+0xC6923914 = ~z~Who's this feller?
+
+0xCA1D9D9C = ~z~open the strong box and relieve them of their goodies.
+
+0xCB3F18B9 = ~z~So...talking of men of words, not action?
+
+0xCC386777 = ~z~Why don't you be quiet, you horrible little man.
+
+0xCD04F894 = ~z~This is a small town,~rp~ people talk. I tried to mention it to Hosea but you know how he is.
+
+0xCE7A7B19 = ~z~Whoa!
+
+0xCE46EA37 = ~z~Soon you'll be on the front of a dime novel... and dead, of course.
+
+0xD6A54B67 = ~z~Like I said, times are tough.
+
+0xD7C038E1 = ~z~And how do I open the strong box...
+
+0xD8DBDB23 = ~z~Arthur! For the love of God!
+
+0xD8F7F6E4 = ~z~Discouraged men, Alden.
+
+0xD8FBCE5E = ~z~hot-blooded degenerate could require.
+
+0xD9B4557E = ~z~we did fine.
+
+0xD9CD35D5 = ~z~Come on, we're not walking there.
+
+0xD9D6D384 = ~z~I mean, is it worth the robbing?
+
+0xD287C39D = ~z~We have to go!
+
+0xD778FC87 = ~z~Here.
+
+0xD3175B89 = ~z~He's one of us...
+
+0xD7197D51 = ~z~Madam... madam, we should move. The roads, they're not safe.
+
+0xD47192C5 = ~z~Because I think I've...
+
+0xD93840C5 = ~z~Help me!
+
+0xD2058247 = ~z~Stop the coach... my good man... stop the coach!
+
+0xD3540532 = ~z~You know,~rp~ you boys should really watch yourselves with those two families.
+
+0xD9740202 = ~z~One more time, from the top.
+
+0xD9881335 = ~z~Good day.
+
+0xDA4DF9B6 = ~z~Expenses... what expenses? Gentleman's canes and rabbits to pull out of hats...
+
+0xDB0E0E7E = ~z~You ain't gonna get away with this!
+
+0xDBD7ED0A = ~z~this is perfect timing.
+
+0xDD1C87CE = ~z~Better safe than sorry.
+
+0xDD5CD822 = ~z~You did all the work.
+
+0xDFD0E0DB = ~z~See you soon.
+
+0xE0CA6022 = ~z~
+
+0xE1E3ADA9 = ~z~I've found something interesting.
+
+0xE7DAA4F9 = ~z~But with the price on your heads, especially on Dutch,~rp~ there will be more where they came from.
+
+0xE9ADF571 = ~z~Well, that didn't go exactly according to plan.
+
+0xE72E6AC3 = ~z~he's going to give you all the decent, robbable stagecoaches a...
+
+0xE2299997 = ~z~Okay,~rp~ I had to ask.
+
+0xE8177005 = ~z~The armed men attempting to put a bullet in your head?
+
+0xEA7D19C9 = ~z~A discouraged man is no man at all Alden... no man at all.
+
+0xEB9D0B34 = ~z~Why?
+
+0xEBE4B7EE = ~z~Hello...
+
+0xEDF2F94E = ~z~Team work my dear boy, team work.
+
+0xEE999291 = ~z~Thank you, Alden.
+
+0xEF1D481C = ~z~Yeah?
+
+0xF6E59B01 = ~z~River road through Siltwater Strand, he said.
+
+0xF7AB3425 = ~z~I know... my comrades here and I are greatly discouraged from the adequate fulfillment of our duty...
+
+0xF9CC9109 = ~z~Well done.
+
+0xF9CFC134 = ~z~Well according to this...
+
+0xF158A7A5 = ~z~I like that.
+
+0xF4373345 = ~z~
+
+0xF5778755 = ~z~I can introduce you to a new best friend, and he's...
+
+0xFA7C14CE = ~z~Not quite...
+
+0xFBA8C28F = ~z~You ain't gonna get away with this!
+
+0xFBE6F524 = ~z~The New York audience... they were... rather cruel.
+
+0xFCFE1C11 = ~z~Thank you.
+
+0xFEEA2002 = ~z~You can come over now, Arthur! Don't worry, they've gone!
+
+0xFEF2DE0A = ~z~I hope you don't mind my singing.
+
+0xFF4D4390 = ~z~Shares in a gold mining company. Excellent returns for the investor of a certain financial standing.
+

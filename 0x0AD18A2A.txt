@@ -1,0 +1,22 @@
+0x2ED27851 = ~z~See, Arthur knows an idiot when he sees one. He recognizes one of his own.
+
+0x5CB35204 = ~z~I ain't doing it.
+
+0x6F7DF799 = ~z~You're ridiculous. You sound like a child.
+
+0x9AEAD1E9 = ~z~Please kid, give up on me.
+
+0x52F23E82 = ~z~You gave me your word.
+
+0x89E7AC6C = ~z~You ready for that reading?
+
+0x96E2C6B2 = ~z~I said I'd try and I've tried and it's not for me.
+
+0x4050993F = ~z~I am a child. A child of God... and God gave me the ability not to read.
+
+0xA23A5F07 = ~z~Arthur, help.
+
+0xB07AFB88 = ~z~The boy's an idiot, you're wasting your time.
+
+0xE4B0E574 = ~z~I'm not giving up on you.
+

@@ -1,0 +1,1640 @@
+0x0026039D = ~z~Huh?
+
+0x0049009B = ~z~So long then.
+
+0x00C57D1D = ~z~I found him.
+
+0x00CE1915 = ~z~Well, I'm grateful for it. It's nice to meet you.
+
+0x00F3A5C4 = ~z~I do.
+
+0x01388FBB = ~z~Thanks again.
+
+0x01A85ABD = ~z~Row quick, bastard just bumped me!
+
+0x01EC3207 = ~z~You wanna go out hunting?
+
+0x0291E580 = ~z~Okay. Good luck to you, sir.
+
+0x02CD2B58 = ~z~That's the problem.
+
+0x03322724 = ~z~Please sir, I'm a proud man, I don't like asking...
+
+0x035AF0D7 = ~z~You were after a hunt.
+
+0x03801E71 = ~z~Alright, sure. Why not.
+
+0x0454AB3F = ~z~Okay. Good luck to you, sir.
+
+0x0465EE9F = ~z~I appreciate the company.
+
+0x04B0362F = ~z~Years ago a friend of mine helped you retrieve your horse...
+
+0x05258367 = ~z~You hear that?
+
+0x0566100B = ~z~We don't get her, what's the worst that can happen?
+
+0x056A8A2B = ~z~What the hell!
+
+0x056D4915 = ~z~Easy, Buell.
+
+0x05B0C90E = ~z~Huh?
+
+0x0626C9F2 = ~z~I was ready to offer my complete and unconditional...
+
+0x06BC30DD = ~z~You see anything yet?
+
+0x06F09D67 = ~z~cannon ball.
+
+0x07059D95 = ~z~How'd you lose the leg again?
+
+0x0720E031 = ~z~Easy, Buell.
+
+0x075314AD = ~z~I got you.
+
+0x07ABE32D = ~z~Hooked him.
+
+0x07B4C932 = ~z~Come in.
+
+0x07D0D85F = ~z~Hey, look out.
+
+0x080B79F9 = ~z~Damnit!
+
+0x08262F49 = ~z~Don't take much persuading to get me to go fishing.
+
+0x08393E8B = ~z~I still see him in my dreams.
+
+0x08BF3A1D = ~z~Me...
+
+0x08F0BDF0 = ~z~Would you like some more coffee?
+
+0x0907694A = ~z~If you want another go at him, I still got my lure.
+
+0x097DBAE5 = ~z~Row quick, bastard just bumped me!
+
+0x09B60A02 = ~z~Stop a second.
+
+0x09CDC06A = ~z~Come on in.
+
+0x0A3A284D = ~z~What we fishing for?
+
+0x0ABABC82 = ~z~Arthur caught that.
+
+0x0AC710BD = ~z~You're doing good.
+
+0x0AE3C4D6 = ~z~First, let's just talk a while. Okay?
+
+0x0C6B13E5 = ~z~Is that all of 'em?
+
+0x0D0F318F = ~z~Supposed to take him years ago.
+
+0x0D883DBD = ~z~Keeping fine, thank you.
+
+0x0DA91659 = ~z~He's tiring alright.
+
+0x0DBF6353 = ~z~You're a good man, mister.
+
+0x0DC5CADB = ~z~Now they're stuck hiding in the few corners of wilderness we got left.
+
+0x0E18F393 = ~z~Hey, are we going?
+
+0x0EF52B34 = ~z~right over on the other side of O'Creaghs Run there.
+
+0x0F67C548 = ~z~This is my home, mister. I ain't giving it up to you!
+
+0x0FDA86FF = ~z~Nice and slow, okay?
+
+0x0FE14DF1 = ~z~There's a huge she wolf that's been stalking me...
+
+0x1A1A7CF2 = ~z~Stand your ground!
+
+0x1AB554AA = ~z~Door ain't locked.
+
+0x1BA643C0 = ~z~He's just where you left him.
+
+0x1BD7B2B6 = ~z~We got you now, Tyrant. We got you now.
+
+0x1BFD62BB = ~z~Let's go take care of it.
+
+0x1C0FD8D9 = ~z~If you don't mind, I'd like to.
+
+0x1C5AD02E = ~z~I was reading through his journal.
+
+0x1C52DF22 = ~z~Get the hell away from here before I return fire!
+
+0x1CBBE0F9 = ~z~We just sitting here, or we fishing?
+
+0x1D31E892 = ~z~a few nights I've been out.
+
+0x1E6FA852 = ~z~Ha, civilization.
+
+0x1EA9E804 = ~z~What's that?
+
+0x1ECCD50A = ~z~Hey, you wanna go out fishing?
+
+0x1F6D24D1 = ~z~Come on up here...
+
+0x1F90E2FE = ~z~Come look at these.
+
+0x1FDA1E3B = ~z~You got something?
+
+0x2A8D92BF = ~z~Woah.
+
+0x2A12BE46 = ~z~dress this animal.
+
+0x2AEE0406 = ~z~Sure. Why not.
+
+0x2B3E3603 = ~z~Jesus, no.
+
+0x2B218E4E = ~z~Yeah... you don't want to lose that.
+
+0x2B1065A6 = ~z~I don't have much pain and I didn't get any gangrene.
+
+0x2B6075BD = ~z~Let's go in my boat.
+
+0x2BBC2D46 = ~z~Nah... he's your fish now... cast away...
+
+0x2C941EC5 = ~z~We got to get there quick, come on.
+
+0x2C949477 = ~z~Away!
+
+0x2D984D2D = ~z~So long, then.
+
+0x2DC04426 = ~z~Get going, boy. There's a wolf about.
+
+0x2DFEBA84 = ~z~Oh, what's this...
+
+0x2E31892D = ~z~That's the one. He...
+
+0x2E248259 = ~z~you became friends.
+
+0x2FE8E5D8 = ~z~
+
+0x2FF392A0 = ~z~Just a bit faster now.
+
+0x3AAEFD45 = ~z~Yeah, but we'll get him. He came through here, alright.
+
+0x3AB65B3F = ~z~Ain't he something?
+
+0x3AE389A7 = ~z~jack or something?
+
+0x3BBA999C = ~z~What's the problem?
+
+0x3BBBA441 = ~z~Arthur wasn't it?
+
+0x3C3F3622 = ~z~You alright?
+
+0x3C98347E = ~z~Wolves!
+
+0x3D9E92D5 = ~z~yeah, I saw what civilization and industrial advancement...
+
+0x3D6299A9 = ~z~Sure.
+
+0x3DE59F9F = ~z~I got company.
+
+0x3E5A6239 = ~z~You got the time to spare, mister?
+
+0x3E9E093D = ~z~Yeah, I guess so.
+
+0x3F838E8C = ~z~Pretty clean though.
+
+0x4A53355F = ~z~Okay. Get tracking. I'll be close behind you.
+
+0x4AB685A1 = ~z~Get on your horse, come on.
+
+0x4BAA1298 = ~z~This might be the one, cast it!
+
+0x4BEFED69 = ~z~Let's row back.
+
+0x4C78BAD5 = ~z~We ain't far now.
+
+0x4CCB2821 = ~z~Not without my leg and my horse, anyway...
+
+0x4D3C004A = ~z~He was.
+
+0x4D673EA2 = ~z~I ain't company.
+
+0x4D4385F9 = ~z~Hamish.
+
+0x4D134842 = ~z~I do.
+
+0x4DC136B6 = ~z~There's a whole lot of over there.
+
+0x4E873B99 = ~z~Where's he gone?
+
+0x4ED75479 = ~z~Damn you... come on!
+
+0x4FADF696 = ~z~Would'a got my toes too, if they weren't wooden.
+
+0x5A5D9B8E = ~z~What we do?
+
+0x5A135E4E = ~z~Yes!
+
+0x5ACB70E4 = ~z~Off me, you beasts!
+
+0x5AFDD7DF = ~z~Nothing gonna spook you here.
+
+0x5B27E1FC = ~z~Goddamn.
+
+0x5B87DD1F = ~z~Sorry to say he passed, soon after that.
+
+0x5BC965AE = ~z~Yeah, I guess.
+
+0x5BFD8AC7 = ~z~Arthur! Shit, Arthur!
+
+0x5CFE82B9 = ~z~Lord help us.
+
+0x5D8CD6BB = ~z~Hey, up there. Is that the she-wolf?
+
+0x5D272472 = ~z~Yeah, and I guess I got hunted.
+
+0x5EC49312 = ~z~Damn you, tyrant!
+
+0x5F270487 = ~z~He don't keep far away from me, the Tyrant. Wants me to know who's lake it is.
+
+0x6A7CD869 = ~z~with my wooden leg...
+
+0x6A76B033 = ~z~I found him.
+
+0x6A9278F8 = ~z~Besides, I ain't lonely up here...
+
+0x6A641981 = ~z~Shit.
+
+0x6AD162ED = ~z~And fast, too.
+
+0x6ADAFE9F = ~z~Come on...
+
+0x6B0F08DA = ~z~Now reel a mite quicker.
+
+0x6B8FA7A1 = ~z~Got a hide like cast iron...
+
+0x6BB03E33 = ~z~Pigshit. He's been across here twice.
+
+0x6BD2ED52 = ~z~We'll show him who's boss.
+
+0x6BED0CFD = ~z~Yeah, it's strange. When the whole country was wild, they could go where they liked.
+
+0x6C4DE748 = ~z~Partner.
+
+0x6C90C1A6 = ~z~And bring it in slow, but not too slow.
+
+0x6C446489 = ~z~I'm doing pretty well I guess.
+
+0x6EF61EB3 = ~z~He's gone. That Tyrant's a clever one. Let's try again.
+
+0x6F008DBE = ~z~Funny, I never saw myself as a wandering man...
+
+0x6F09BC95 = ~z~
+
+0x6F605179 = ~z~What we got here... that a fresh kill?
+
+0x6FA59916 = ~z~John.
+
+0x7AA8FB57 = ~z~
+
+0x7BF19143 = ~z~Come on. You want track this animal, or should I?
+
+0x7BFB6368 = ~z~Keeping fine, thank you.
+
+0x7C165DB8 = ~z~Not many folks coming by.
+
+0x7CA2BA0C = ~z~Nope. Lost him. We're gonna get this son of a bitch.
+
+0x7CE1870B = ~z~You like fishing?
+
+0x7D06588E = ~z~I got you.
+
+0x7D5FB48A = ~z~Come in.
+
+0x7DAB7EC6 = ~z~Anyway, if you see an angry bastard of a horse...
+
+0x7DB5E679 = ~z~Living out here...
+
+0x7EA52369 = ~z~Ah, that's a shame.
+
+0x7EE01B83 = ~z~it's own kind included.
+
+0x7EEC2D95 = ~z~Me...
+
+0x7F081A05 = ~z~making them, losing them, getting them right... tried coins, shell casings, even a medal...
+
+0x7F2DE9E4 = ~z~Shit.
+
+0x7FA736EA = ~z~What we do?
+
+0x8C93EC72 = ~z~Easy does it, eh? Better calm you down.
+
+0x8CA1C900 = ~z~I'm a wanderer.
+
+0x8EAD0268 = ~z~Keep up with me, alright?
+
+0x8FA76596 = ~z~Now cast again.
+
+0x8FE8CDFE = ~z~I'm sorry to hear that.
+
+0x8FFBAEA7 = ~z~Stay close to me.
+
+0x9B775221 = ~z~That's the problem.
+
+0x9BAFC0C5 = ~z~I'm sorry to hear that.
+
+0x9C32003A = ~z~Yeah, he's a great horse...
+
+0x9CE368B8 = ~z~I'm not so sure...
+
+0x9D9B4D0F = ~z~Up there. On the outcrop, you see her? Let's go around it.
+
+0x9D9B6963 = ~z~I was reading through his journal.
+
+0x9D81EFF2 = ~z~There he is.
+
+0x9DD84F9C = ~z~I'm a pretty poor fisherman.
+
+0x9DF7B910 = ~z~Can't go far with that leg in your stirrup.
+
+0x9E9A4BE4 = ~z~Over here.
+
+0x9E74AD28 = ~z~he was.
+
+0x9E75CFC3 = ~z~Sometimes, maybe.
+
+0x9E471EDB = ~z~So long.
+
+0x9EDF6542 = ~z~This is peaceful and all, but we should row.
+
+0x9F6B5C99 = ~z~a jack or something?
+
+0x9F253DDE = ~z~Yep.
+
+0x9F9069C1 = ~z~Get going, girl. There's a wolf about.
+
+0x9F539477 = ~z~~sl:1.0:3.0:1~Would'a got my toes too, if they weren't wooden.
+
+0x11C3097D = ~z~
+
+0x11D68D3B = ~z~Keep your eyes up, okay? I got mine in the dirt.
+
+0x13D4FCC8 = ~z~Stop a second. You'll snap the line you reel when he's fighting like that.
+
+0x16AE5576 = ~z~Can't say I ever thought this was much of a swimming spot.
+
+0x17A9DD6C = ~z~Okay.
+
+0x17B56D0F = ~z~I don't think the wolves woulda shown much mercy.
+
+0x17FB6DA3 = ~z~Goddamn...
+
+0x19A2B068 = ~z~He's just where you left him.
+
+0x20B314F4 = ~z~Damn... I... can't see her.
+
+0x21D1B3C4 = ~z~hold her.
+
+0x22A3C554 = ~z~Thank you.
+
+0x24A435D9 = ~z~Yeah, guess I... got hunted.
+
+0x25C78699 = ~z~Pursue, damn it. I'll get the horses.
+
+0x25E586D1 = ~z~Buell loves hills. Don't ya, boy? You eat them up for breakfast.
+
+0x25EC79F1 = ~z~Holy hell.
+
+0x27A3AFAB = ~z~And down this one in front of us. But I can't tell which tracks is fresher.
+
+0x27CEE376 = ~z~Good.
+
+0x28CA0B60 = ~z~I did.
+
+0x29F08330 = ~z~Wolves shouldn't come so close to people.
+
+0x30AA2CFB = ~z~Stop there!
+
+0x32AF937B = ~z~I'll grab the mounts.
+
+0x33B80534 = ~z~I made these.
+
+0x33CE1212 = ~z~What's that?
+
+0x35AFC448 = ~z~Okay.
+
+0x35D5583B = ~z~You going back to the cabin?
+
+0x35ED3FAF = ~z~He's hooked.
+
+0x36CA3F83 = ~z~Ain't you a fine horse?
+
+0x36CF0D04 = ~z~From my read of it, she didn't go that way.
+
+0x37A29E47 = ~z~Funny, I never saw myself as a wandering man...
+
+0x37F4389E = ~z~Let me take a look.
+
+0x41C9A35E = ~z~Right behind you. Take it slow.
+
+0x41D31015 = ~z~So, you better be good, you hear?
+
+0x42AC027A = ~z~I get the notion he's not a man you want to cross.
+
+0x42B3A7F0 = ~z~And down this one in front of us. But I can't tell which tracks is fresher.
+
+0x43DF31E6 = ~z~Don't let him pull you.
+
+0x44B7F4E2 = ~z~away from civilization.
+
+0x45CE7982 = ~z~Got that lure I gave you? Get her out.
+
+0x47F11352 = ~z~Okay.
+
+0x47FAFC86 = ~z~Yeah, hope I won't either.
+
+0x51ABFBAA = ~z~Come on. You're fishing ain't you?
+
+0x52B6C4D3 = ~z~I think you've lost the track there.
+
+0x53CB4621 = ~z~Come on. Where are you?
+
+0x53CF808F = ~z~Right here. We'll cast off towards the island.
+
+0x54A286FB = ~z~Come on... here we go...
+
+0x54E3965F = ~z~Scary thing.
+
+0x57E051A4 = ~z~Send your horse somewhere safe.
+
+0x57F277B8 = ~z~Mister?
+
+0x60E368CA = ~z~I know you ain't forgot about him.
+
+0x60ED0822 = ~z~Let's try again.
+
+0x61BCF283 = ~z~I was born further north, spent a lot of time out west.
+
+0x61D0AA9F = ~z~She went in there alright. We got to track her.
+
+0x62DD7ADE = ~z~This ain't a country for wild animals, nor wild men neither.
+
+0x65DB4B4B = ~z~You hear that?
+
+0x67DF234B = ~z~Let's get up to the top, have a look around from up there.
+
+0x68B641AC = ~z~Yeah...
+
+0x68C1D6C1 = ~z~I'm fine with losing chickens.
+
+0x70ABED13 = ~z~Just a moment.
+
+0x70BB8796 = ~z~I read about you in his journal.
+
+0x70D67FBE = ~z~I don't see my chances here.
+
+0x71EFC9B1 = ~z~I may.
+
+0x71EFDFEB = ~z~Come on, Buell. Let's go.
+
+0x71FA9EE2 = ~z~If he could speak, the stories he'd tell.
+
+0x71FBED5E = ~z~Years ago a friend of mine helped you retrieve your horse...
+
+0x72DD7445 = ~z~I ain't going nowhere.
+
+0x72E78CDE = ~z~as long as there still is some.
+
+0x72F188AD = ~z~Shit, he's after him.
+
+0x73BC22C5 = ~z~What the hell!
+
+0x74A600E3 = ~z~So it's alright then is it?
+
+0x75F223EE = ~z~She runs off with a chicken?
+
+0x75FC201C = ~z~C'mon.
+
+0x78D7DBD3 = ~z~Won't likely see another like him for some time.
+
+0x79ED1F8A = ~z~Hamish...
+
+0x79F1E423 = ~z~He sure was something, huh?
+
+0x80AC9A7B = ~z~Nothing gonna spook you here.
+
+0x80C49C74 = ~z~John! Shit, John!
+
+0x82AB2B65 = ~z~Years ago a friend of mine helped you retrieve your horse...
+
+0x83D2CFE9 = ~z~Come on, she went around to the left. Round the lake.
+
+0x85A12252 = ~z~Other baits might work for other fish, but there's only one lure for the Tyrant.
+
+0x85C07400 = ~z~I'm over here!
+
+0x85E1B3AF = ~z~Stay there, I'll row out to you.
+
+0x85F27170 = ~z~I'm glad to see someone out here.
+
+0x86AD1B32 = ~z~We fishing or rowing? 'Cause the best fishing spot's over there.
+
+0x86CB206A = ~z~You know...
+
+0x86E388AC = ~z~I'm incapacitated over here!
+
+0x86F4A91C = ~z~My guess... she's gone somewhere over there.
+
+0x87C47B89 = ~z~finally found something he seems to like, and I hear you can buy them in a shop.
+
+0x87F1C0CC = ~z~This ain't his spot.
+
+0x88C01D84 = ~z~How's the false one?
+
+0x91C2BF7A = ~z~finally found something he seems to like, and I hear you can buy them in a shop.
+
+0x92A0D0F1 = ~z~Take Buell for me, would you?
+
+0x92D13EC4 = ~z~Come on. You're not so nasty.
+
+0x93DD063B = ~z~It went all slack... it went all slack... come back...
+
+0x93FE7F6B = ~z~Goddamn! He's bigger than I remember.
+
+0x94BFCC2E = ~z~away from civilization.
+
+0x95C7EF99 = ~z~Okay...
+
+0x96F42E07 = ~z~Buell?
+
+0x98EDDE49 = ~z~Quick. While we got eyes on her.
+
+0x99A2E868 = ~z~Wolves shouldn't come so close to people.
+
+0x99AE8C30 = ~z~Okay. Right here. Our hopes of catching this bastard lie with you.
+
+0x99C08720 = ~z~You hurt?
+
+0x135B3988 = ~z~You throw me again you old dumb bastard...
+
+0x153A39FE = ~z~Sometimes, maybe.
+
+0x155D73A7 = ~z~Just tracks.
+
+0x161C0BBF = ~z~Hamish...
+
+0x168AB254 = ~z~But I lost a leg already, and I got to pull down my pants to shit in these woods, so...
+
+0x189FE3F9 = ~z~You could speed that up a little.
+
+0x195A0651 = ~z~Second time a prick named Buell cost me a leg.
+
+0x199C6A07 = ~z~Arthur! Arthur! Quick, son.
+
+0x236DAE21 = ~z~Slow, okay? Needs to look like it's swimming there.
+
+0x239ACA86 = ~z~when I lost it.
+
+0x263C37EB = ~z~So it's alright then is it?
+
+0x272BD7BF = ~z~And who might you be?
+
+0x273DFA8A = ~z~Those were bad times.
+
+0x277E4818 = ~z~Quickly now. This way.
+
+0x291CF4E6 = ~z~come on in.
+
+0x350EEA2A = ~z~You earned it.
+
+0x352F4FE3 = ~z~What you think? You got a moment?
+
+0x419B7E45 = ~z~Yeah.
+
+0x461B3B38 = ~z~Those were bad times.
+
+0x468C12B1 = ~z~Got a hide like cast iron...
+
+0x485F7691 = ~z~So long.
+
+0x499A36D1 = ~z~Let's head down here.
+
+0x513D517C = ~z~Please.
+
+0x517ED5B6 = ~z~Just a little faster.
+
+0x535A996E = ~z~Let me take a look.
+
+0x539B5640 = ~z~I'm a wanderer.
+
+0x579D2DB6 = ~z~Don't worry. Tracks go this way. Come on.
+
+0x581D3CA9 = ~z~Can't go bucking him like that.
+
+0x582E601A = ~z~I was born further north, but I spent a lot of time out west.
+
+0x586F575E = ~z~You picked the wrong cabin to put holes in. Go. Now!
+
+0x596C9EDA = ~z~making them, losing them, getting them right... tried coins, shell casings, even a medal...
+
+0x621B5BCE = ~z~Progress, well...
+
+0x624F3FAC = ~z~Scary thing.
+
+0x630EABA9 = ~z~If you could help, I'd be real glad of it.
+
+0x674FBA11 = ~z~Arthur, come on in.
+
+0x699A7944 = ~z~How is he?
+
+0x713A37FD = ~z~
+
+0x718A4E86 = ~z~So, how you keeping out here?
+
+0x724D773E = ~z~They are pretty.
+
+0x727C7EB9 = ~z~Come on, then. Let's get you back.
+
+0x750DE529 = ~z~Look at him...
+
+0x792BC5AE = ~z~Shit. Spooked alright.
+
+0x796E46D6 = ~z~Huh... where is it?
+
+0x807C7E1A = ~z~So, you better be good, you hear?
+
+0x810EE7EF = ~z~Oh, I ain't gonna poach from your pond.
+
+0x844B3E12 = ~z~Alright... come on.
+
+0x844E08A7 = ~z~Yeah, any time.
+
+0x861E1868 = ~z~Young boy went into battle with me got cut in half...
+
+0x863B030A = ~z~Let him tire.
+
+0x882FC582 = ~z~It's a feeling with which I can sympathize.
+
+0x916CCD00 = ~z~Stand steady.
+
+0x935B8AE9 = ~z~I'm afraid I lost sight of him.
+
+0x937EFC86 = ~z~I'm sorry.
+
+0x963F8078 = ~z~I don't think the wolves woulda shown much mercy.
+
+0x972CD419 = ~z~My guess... she's gone somewhere over there.
+
+0x980C8DCE = ~z~Damn you, tyrant!
+
+0x985DA7EE = ~z~Hamish...
+
+0x990ABE19 = ~z~It's okay.
+
+0x1046C317 = ~z~Well, he's been up this hill to the right.
+
+0x1100D627 = ~z~Hey, hey!
+
+0x1246CD7C = ~z~Hamish.
+
+0x1318BDAA = ~z~Thought I'd pay you a call.
+
+0x2256BAF2 = ~z~Okay. I'll track her. Stick to me.
+
+0x2274EB63 = ~z~You finding my horse, Buell, or what?
+
+0x2388ACE4 = ~z~you stop by again.
+
+0x2398CD38 = ~z~It went all slack... it went all slack... come back...
+
+0x2470FB6D = ~z~Hamish?
+
+0x2555F34A = ~z~I was born further north, spent a lot of time out west.
+
+0x2792F865 = ~z~Oh, I guess you're busy then.
+
+0x2982FFD4 = ~z~Oh yeah, yeah.
+
+0x3588BC9F = ~z~Hamish...
+
+0x3621A167 = ~z~Now they're stuck hiding in the few corners of wilderness we got left.
+
+0x3925F8CE = ~z~Okay. I'll track her. Stick to me.
+
+0x4399B33D = ~z~you coulda walked across the whole field...
+
+0x4719B3EC = ~z~There's a whole lot of over there.
+
+0x4935B44F = ~z~We're going to have to track her through the scrub. Better to be on foot.
+
+0x5119CCF7 = ~z~Okay.
+
+0x5243CB83 = ~z~We got him, old man.
+
+0x5259BC4B = ~z~it ain't always progress.
+
+0x5417EF16 = ~z~Right here. We'll cast off towards the island.
+
+0x5691E82D = ~z~What you doing? I said get after him!
+
+0x5835CE2F = ~z~They're pretty.
+
+0x6192F227 = ~z~That close?
+
+0x6294F499 = ~z~Okay...
+
+0x6639B355 = ~z~Now, you want to take the lead or shall I?
+
+0x6699C841 = ~z~big son of a bitch.
+
+0x7042DDA7 = ~z~Can't go bucking him like that.
+
+0x7125C001 = ~z~
+
+0x7332ACAD = ~z~Cast it out there.
+
+0x7481F572 = ~z~I get the notion he's not a man you want to cross.
+
+0x7632AA13 = ~z~Up there. On the outcrop, you see her? Let's go around it.
+
+0x8005C415 = ~z~We're onto her. Come on.
+
+0x8051A7B2 = ~z~Whoa, they weren't lying.
+
+0x8060D830 = ~z~Hamish!
+
+0x8207D498 = ~z~And fast, too.
+
+0x8385C548 = ~z~I met your feller.
+
+0x8694F74D = ~z~Yeah, and I hope I won't neither.
+
+0x8742BA35 = ~z~I got thrown, and the bastard hog got me.
+
+0x8747C699 = ~z~I'm fine with losing chickens.
+
+0x9549B7DF = ~z~You know...
+
+0x9630AC6C = ~z~You want to go out again...
+
+0x9796E6C9 = ~z~Pigshit. He's been across here twice.
+
+0x9848EBDE = ~z~Damned dogs!
+
+0x9930C9F8 = ~z~away from civilization.
+
+0x10941F97 = ~z~Come on up here...
+
+0x13330DAC = ~z~Nice and slow, give him a chance to catch it.
+
+0x16835F92 = ~z~Good pig...
+
+0x24154D69 = ~z~She runs off with a chicken?
+
+0x25311BF0 = ~z~Jesus, no.
+
+0x25610FF8 = ~z~Keep behind me, let's take this slow.
+
+0x27555B1A = ~z~Can't go far with that leg in your stirrup.
+
+0x35654B2E = ~z~Let's split up. You go up, and I'll go onwards.
+
+0x36149BE7 = ~z~The bodies lay so thick...
+
+0x38489F9B = ~z~What do you do?
+
+0x51438CAB = ~z~Thanks for taking me out.
+
+0x60686D9A = ~z~passed, soon after that.
+
+0x61857E2B = ~z~She's not going to wait around.
+
+0x62938D06 = ~z~And while you're at it, give old Buell a kick for me would ya?
+
+0x62972A82 = ~z~We've walked into something here!
+
+0x66776AB2 = ~z~This one's mine, you can have the spare.
+
+0x70098A3A = ~z~Strong ain't he?
+
+0x73092B42 = ~z~Shit. Spooked alright.
+
+0x73228E31 = ~z~Goddamn! He's bigger than I remember.
+
+0x75157DB8 = ~z~
+
+0x76853F49 = ~z~
+
+0x79176D34 = ~z~Try pulling that rod up as you reel.
+
+0x79881D99 = ~z~Now, where'd she get to?
+
+0x84097ACB = ~z~Could be... is the blood set?
+
+0x85901DF4 = ~z~So, uh... how is the false one?
+
+0x89732A7D = ~z~Ha, civilization...
+
+0x93316EA6 = ~z~She's down here somewhere.
+
+0x109986B8 = ~z~Won't take you but a moment, but I'd be grateful.
+
+0x162281CF = ~z~What are you sorry for? You caught him!
+
+0x180895E4 = ~z~Hey, you ever want to go out hunting...
+
+0x235541B9 = ~z~Damn...
+
+0x248806BF = ~z~Okay, I'm with you.
+
+0x279424B2 = ~z~
+
+0x322716D9 = ~z~Hamish...
+
+0x335569FB = ~z~Buell was my general...
+
+0x369826FC = ~z~There's this huge she wolf been stalking me...
+
+0x434341A7 = ~z~You with me? Come on.
+
+0x519828C9 = ~z~Stop you beast.
+
+0x558880DE = ~z~~sl:1.9~Just my rod...
+
+0x619869B0 = ~z~I got enough food for weeks. If this is a siege situation, you better be ready to wait!
+
+0x786787DF = ~z~I know I'm a boring old man, but I know my fishing. You want to use the lure that I gave you.
+
+0x815969F7 = ~z~Not too quick... you want to bring it in slow.
+
+0x851334DD = ~z~Look at the size of that boar.
+
+0x905846BF = ~z~A caller... John Marston.
+
+0x923027CF = ~z~I'd be real grateful.
+
+0x931280B8 = ~z~There she is... got shy all of a sudden...
+
+0x946745E3 = ~z~Goring wolves too...
+
+0x966564D4 = ~z~But I lost a leg already, and I got to pull down my pants to shit in these woods, so...
+
+0x1449543C = ~z~but he's strong.
+
+0x1737278A = ~z~Yep.
+
+0x1907611D = ~z~Okay.
+
+0x2484686F = ~z~Tracks don't go that way.
+
+0x2839788C = ~z~I'd be careful in there... the Tyrant might have you.
+
+0x3213994B = ~z~Not any more, it seems...
+
+0x3377570F = ~z~Here, here...
+
+0x3926186C = ~z~I've been calling in on folks.
+
+0x4348019E = ~z~That's the best of 'em.
+
+0x5757943B = ~z~You gonna help?
+
+0x5956032E = ~z~Stop you beast.
+
+0x6116092C = ~z~We heading down here?
+
+0x6480556F = ~z~No matter how big and strong you are.
+
+0x7165021D = ~z~Arthur... well, come in.
+
+0x7405817E = ~z~Come on, then. Let's get you back.
+
+0x7635400A = ~z~but he took my damn leg.
+
+0x7752061B = ~z~Alright. Boat's out this way, come on.
+
+0x8249712A = ~z~Is that all of 'em?
+
+0x8930350F = ~z~Hello, sir.
+
+0x11942335 = ~z~Yeah.
+
+0x12056784 = ~z~What kind of wolf you gotta be to get this big?
+
+0x12599144 = ~z~They brought us up here to be slaughtered.
+
+0x15013988 = ~z~Oh, in the war...
+
+0x18855817 = ~z~Did he?
+
+0x19528273 = ~z~Take us over there to the right. We'll set up ten yards or so off shore.
+
+0x20496981 = ~z~let's mount up.
+
+0x27447595 = ~z~And he killed that with his hands.
+
+0x31685915 = ~z~I'd prefer if you did it, if that's alright.
+
+0x34062316 = ~z~I got the horses. Chase the boar, why don't you!
+
+0x36658278 = ~z~The optimism of youth.
+
+0x44853814 = ~z~Me...
+
+0x47488997 = ~z~There you go.
+
+0x50535016 = ~z~We're onto her. Come on.
+
+0x57928552 = ~z~Hamish...
+
+0x70180256 = ~z~Can you help me, mister?
+
+0x78915370 = ~z~Thanks for taking me out.
+
+0x84648744 = ~z~I'm afraid I lost sight of him.
+
+0x88571042 = ~z~Quickly now. This way.
+
+0x93257198 = ~z~Whoa, pig.
+
+0x95131806 = ~z~Come on. Where are you?
+
+0x98925007 = ~z~Only one thing worth catching in this lake.
+
+0x99387337 = ~z~Ya lost him... let's try again.
+
+0xA0219768 = ~z~You lost anything?
+
+0xA077E6FE = ~z~Oh yeah, Arthur, yeah.
+
+0xA1BB5A86 = ~z~He won't go for nothing, except that special lake lure... believe me, I've tried it all.
+
+0xA1E90FA0 = ~z~Okay. Get tracking. I'll be close behind you.
+
+0xA2C5B5BE = ~z~Mount up, let's ride.
+
+0xA2E08970 = ~z~John! John! Quick, son.
+
+0xA2E533AA = ~z~Where's he gone?
+
+0xA2EF688D = ~z~And who might you be?
+
+0xA3DD736A = ~z~He's a good horse.
+
+0xA5DFDF9E = ~z~You said we might go out fishing.
+
+0xA6BB12FD = ~z~We going to that fishing spot?
+
+0xA6C5FE74 = ~z~We won't catch him from here, believe me.
+
+0xA6E7BF35 = ~z~Alright... come on.
+
+0xA6E82B85 = ~z~
+
+0xA7AA4EAC = ~z~The hell!
+
+0xA9F3BE0A = ~z~I'll stay up here a while...
+
+0xA10BD4EB = ~z~Hey, how'd you lose the leg?
+
+0xA32D49C5 = ~z~I'll bear that in mind.
+
+0xA36BD2DB = ~z~I can still hunt, fish...
+
+0xA45BE6FF = ~z~I got the trail, this way.
+
+0xA63B59BE = ~z~I know some pretty good spots.
+
+0xA70C96D4 = ~z~Goddamn ambush!
+
+0xA177F2AC = ~z~Sure.
+
+0xA234A2EA = ~z~
+
+0xA2446EAF = ~z~Come on. Come on.
+
+0xA3114C2B = ~z~You got something?
+
+0xA3824C9C = ~z~Goddamn.
+
+0xA7285C28 = ~z~He won't be over this way.
+
+0xA89024BF = ~z~Not too bad at least...
+
+0xA342710D = ~z~Yep. That was her dinner.
+
+0xA3213246 = ~z~I spent years working on that... finding the right combination of feathers, twine, and glimmer...
+
+0xA3378039 = ~z~Hamish.
+
+0xA7062205 = ~z~A bushwhacking, I'd call it.
+
+0xA8295071 = ~z~Huh?
+
+0xAA983B26 = ~z~Damnit!
+
+0xAB028435 = ~z~Thought I'd pay you a call.
+
+0xAB6A40F7 = ~z~You going back to the cabin?
+
+0xAB9E43D3 = ~z~So long then.
+
+0xABD4E982 = ~z~Okay, I'm with you.
+
+0xABD6153F = ~z~It's a drop back!
+
+0xAC458CAE = ~z~Oh!
+
+0xAC108431 = ~z~What have we here?
+
+0xAC267441 = ~z~I spent years working on that... finding the right combination of feathers, twine, and glimmer...
+
+0xACD47FC7 = ~z~Well, I'm grateful I'm one of 'em.
+
+0xACDB3F09 = ~z~Oh, Lord. More of them!
+
+0xADC38477 = ~z~you said we might go out on a hunt?
+
+0xAE44BED6 = ~z~That's one hell of a fish.
+
+0xAE57A485 = ~z~aside from when the devil's got him.
+
+0xAEC50C7B = ~z~Man eating pike, that would be a first.
+
+0xAF31EBAF = ~z~it's okay.
+
+0xAFD09DDD = ~z~How about that coat, hey?
+
+0xAFD4F740 = ~z~will get you in the war.
+
+0xAFF55AF7 = ~z~proud thing.
+
+0xB0031355 = ~z~I think I hooked him.
+
+0xB0A0FF04 = ~z~That our bait then, a...
+
+0xB0EDD21A = ~z~That is if you're sure you don't want him?
+
+0xB0F1113F = ~z~Not any more, it seems...
+
+0xB0FD0DA9 = ~z~Good pig...
+
+0xB4C1CF0E = ~z~You don't know how long I was calling out.
+
+0xB4C29812 = ~z~Start reeling.
+
+0xB4D075CC = ~z~so all things considered...
+
+0xB4D807C8 = ~z~Where is he? You see him?
+
+0xB5D177A6 = ~z~enjoy the outside.
+
+0xB6EADE08 = ~z~Trail's hot. Come on.
+
+0xB7F47E94 = ~z~We don't want to get separated.
+
+0xB8F7DD7B = ~z~Dammit.
+
+0xB9C364EC = ~z~You got some extra miles on you tonight?
+
+0xB23B8725 = ~z~It's alright then is it?
+
+0xB36D5840 = ~z~If we gotta chase her, let's chase her.
+
+0xB38C84F7 = ~z~The great tyrant.
+
+0xB57CD160 = ~z~Damnit... too slow. It looks like she's headed into the woodland.
+
+0xB65A458F = ~z~And make sure to use that lure I gave you.
+
+0xB65DFA03 = ~z~You can come with me some day...
+
+0xB67F35B9 = ~z~Goddamn!
+
+0xB77BCD78 = ~z~I got something alright...
+
+0xB88E088E = ~z~Yeah, he was a kind man to me.
+
+0xB122CEF9 = ~z~What's the problem?
+
+0xB145E894 = ~z~Oh, what's this...
+
+0xB202ED6B = ~z~passed, soon after that.
+
+0xB324A013 = ~z~You said...
+
+0xB444FE39 = ~z~He don't keep far away from me, the Tyrant. Wants me to know who's lake it is.
+
+0xB661FF97 = ~z~Yeah, I guess.
+
+0xB883B68E = ~z~We know where he is... come on... let's get there.
+
+0xB908FFE9 = ~z~Hey, I ain't in no hurry, you just want to go for a row, that's alright with me.
+
+0xB2316A06 = ~z~We got him, old man.
+
+0xB2750C6D = ~z~You rowing?
+
+0xB3396D88 = ~z~Heya! Come on, Buell.
+
+0xB7541E68 = ~z~So what do you do?
+
+0xB21581ED = ~z~Hell no, he's a clever old bastard.
+
+0xB51632E4 = ~z~Could be... is the blood set?
+
+0xB87794CD = ~z~Arthur caught that.
+
+0xB93878F5 = ~z~I'd prefer if you did it, if that's alright.
+
+0xB97880C8 = ~z~We want to find the Tyrant, we got to go over there.
+
+0xB654176A = ~z~Pursue...
+
+0xB2056362 = ~z~Away!
+
+0xB5091120 = ~z~That's quite something.
+
+0xB7379921 = ~z~Holy hell.
+
+0xB9468564 = ~z~Arthur.
+
+0xBA1D1C59 = ~z~Where you going? Won't catch him with your hands.
+
+0xBA6FF4FE = ~z~Ah, okay.
+
+0xBA77CA7B = ~z~
+
+0xBB7EA58A = ~z~Bring it in now.
+
+0xBB8F3C18 = ~z~You supposed to search up the hill.
+
+0xBB473B84 = ~z~The door's open.
+
+0xBBC8277E = ~z~Can you help?
+
+0xBBFD20EA = ~z~So...
+
+0xBC2DE05A = ~z~Let's climb. Up the hill. See if we can head her off.
+
+0xBCA156F7 = ~z~Sorry.
+
+0xBCAAE378 = ~z~Nah, it's still early.
+
+0xBCE7BF2F = ~z~Sir! Some help!
+
+0xBD0A1912 = ~z~Here she is.
+
+0xBE25A85B = ~z~Please.
+
+0xBE178832 = ~z~Weren't sent too crazy by it.
+
+0xBEC4A938 = ~z~He may be stubborn...
+
+0xBEC4BBC5 = ~z~There, there.
+
+0xBF9E0EC3 = ~z~Thank you.
+
+0xBF67B2F2 = ~z~I think...
+
+0xBFD8AC81 = ~z~Funny, I never saw myself as a wandering man, but...
+
+0xC049869B = ~z~I got something alright...
+
+0xC06A9867 = ~z~Keeping fine, thank you.
+
+0xC06E238A = ~z~Ha, civilization.
+
+0xC09BC90D = ~z~You're right, he's a brute.
+
+0xC1A3AF7F = ~z~She's acting brazen.
+
+0xC1B710B5 = ~z~Yeah well I'm great, so between the two of us we'd do okay.
+
+0xC1E5AB4E = ~z~You alright there?
+
+0xC4B66279 = ~z~
+
+0xC4CE4366 = ~z~we could go for a hunt.
+
+0xC4E0DD54 = ~z~His name's Buell.
+
+0xC4FFDDF8 = ~z~You alright?
+
+0xC5B869F1 = ~z~Come on, now, tyrant, I got you.
+
+0xC5C3693B = ~z~
+
+0xC6C4D641 = ~z~What we got here... that a fresh kill?
+
+0xC6C5DC94 = ~z~I think I hooked him.
+
+0xC6C10AC2 = ~z~No matter how big and strong you are.
+
+0xC6C10892 = ~z~You alright?
+
+0xC6E85752 = ~z~Keep your gun out, just in case.
+
+0xC9ECF437 = ~z~Well, he's been up this hill to the right.
+
+0xC16EE70F = ~z~Don't worry. Tracks go this way. Come on.
+
+0xC18D96F5 = ~z~I'll show you where we're rowing to.
+
+0xC26C5DE5 = ~z~Over here!
+
+0xC32B7695 = ~z~Pass me the tyrant.
+
+0xC41BE112 = ~z~Cast back to where we were.
+
+0xC44AB7F2 = ~z~This ain't a country for wild animals, nor wild men neither.
+
+0xC49E5F0C = ~z~You lost anything?
+
+0xC61C2502 = ~z~I think we're close.
+
+0xC295A343 = ~z~Damn leg's weighing me down.
+
+0xC317DBC1 = ~z~I ain't going nowhere soon, friend... but it's kinda odd, you just lingering about like that.
+
+0xC351DA42 = ~z~My goddamn horse got spooked and run off.
+
+0xC678B3FF = ~z~Yeah I got the whole of nature up here...
+
+0xC3424C8C = ~z~The optimism of youth.
+
+0xC5534FD5 = ~z~Easy does it, eh? Better calm you down.
+
+0xC43807C7 = ~z~Off me, you beasts!
+
+0xC464122D = ~z~That's the one. He...
+
+0xC672532B = ~z~Let's see a nice strong cast, okay?
+
+0xC7769257 = ~z~Are you hurt?
+
+0xCA3ADD24 = ~z~Get going, girl. There's a wolf about.
+
+0xCA5A3DC4 = ~z~Goring wolves too...
+
+0xCADA4574 = ~z~she can wait.
+
+0xCB922B0F = ~z~that's okay.
+
+0xCB7316F0 = ~z~Wait...
+
+0xCB824395 = ~z~I got the horses... come on.
+
+0xCBAABB33 = ~z~Did he?
+
+0xCBD9FA00 = ~z~I may.
+
+0xCBEACBF8 = ~z~
+
+0xCC3BD6B3 = ~z~You ain't near as angry as he said.
+
+0xCC37AB46 = ~z~You're right, he's a brute.
+
+0xCCA9C58B = ~z~That close?
+
+0xCCB147EF = ~z~Reel it in.
+
+0xCCCCC289 = ~z~Thanks.
+
+0xCD0D4A08 = ~z~Hey! You there!
+
+0xCDD7ED9C = ~z~You ain't near as angry as he said.
+
+0xCE24ABD0 = ~z~Nah, I'm only kidding.
+
+0xCE7522F2 = ~z~Come on, now, tyrant, I got you.
+
+0xCEBE1D9A = ~z~I'll bear that in mind.
+
+0xCF33EA35 = ~z~If you don't mind, I'd like to.
+
+0xCF60BDBF = ~z~You mind rowing?
+
+0xD0562CAF = ~z~Anyway, I ain't got much to pay you with.
+
+0xD2B4501A = ~z~Right there by the outhouse.
+
+0xD2C46D5E = ~z~Hamish Sinclair.
+
+0xD2C6525C = ~z~A caller, John Marston.
+
+0xD2CDC193 = ~z~Easy for you to say. But maybe I'm inclined to agree.
+
+0xD2ED4CD4 = ~z~Shit.
+
+0xD3C14406 = ~z~Guess that means I'm tracking. Stay close to me.
+
+0xD4F94DD0 = ~z~I know you ain't forgot about him.
+
+0xD5DB10C3 = ~z~Hey, stay with me.
+
+0xD7DA1BB7 = ~z~Easy for you to say. But maybe I'm inclined to agree.
+
+0xD7F13D29 = ~z~I'm a pretty poor fisherman.
+
+0xD8ABDF87 = ~z~And I'm grateful for it.
+
+0xD8BF869E = ~z~Wait. Don't reel while he's thrashing like that.
+
+0xD8E86F4F = ~z~I got the trail, this way.
+
+0xD11FDAB8 = ~z~We don't get her, what's the worst that can happen?
+
+0xD26DEAE3 = ~z~We'll show him who's boss.
+
+0xD39E5CB7 = ~z~If we got to chase her, let's chase her.
+
+0xD91CE1F9 = ~z~Let's talk a while.
+
+0xD93BB1CE = ~z~Damned dogs!
+
+0xD93EF705 = ~z~Dammit.
+
+0xD103E9E5 = ~z~Hey, you wanna hand me that leg there please?
+
+0xD164C1C7 = ~z~Sure.
+
+0xD201F9D3 = ~z~If you want another go at him, I still got my lure.
+
+0xD350BA7B = ~z~Hamish.
+
+0xD831C7F5 = ~z~How you keeping out here?
+
+0xD3881FC4 = ~z~When he bumped me, I had to check twice... thought I'd find a chunk of me missing.
+
+0xD3896FCD = ~z~Infernal wolves!
+
+0xD8714EC0 = ~z~eats everything else that spawns around here...
+
+0xD31379B9 = ~z~Buell?
+
+0xD941617F = ~z~When he bumped me, I had to check twice... thought I'd find a chunk of me missing.
+
+0xD4887819 = ~z~Reel. Let's land the bastard.
+
+0xD4899935 = ~z~I'll give him his honors then.
+
+0xDA07E229 = ~z~What's this?
+
+0xDA7BF28A = ~z~Hamish!
+
+0xDA953E8F = ~z~Arthur wasn't it?
+
+0xDA986140 = ~z~Yes they were.
+
+0xDAD469CB = ~z~That him?
+
+0xDB2A6203 = ~z~Hamish?
+
+0xDB30098A = ~z~Hamish!
+
+0xDBA48939 = ~z~There, there.
+
+0xDBB65598 = ~z~You see that thing? It's as big as a buffalo.
+
+0xDBCA14E0 = ~z~Let's row back.
+
+0xDC3D4FEC = ~z~John... well, come in.
+
+0xDC5B008D = ~z~She could be half a mile in front of us... or behind that next bush.
+
+0xDC10CF30 = ~z~Get in your satchel and change your lure. You won't catch the Tyrant with that.
+
+0xDC64E826 = ~z~It's a feeling with which I can sympathize.
+
+0xDC5864C1 = ~z~Almost a shame we killed it.
+
+0xDCE23278 = ~z~Man eating pike, that would be a first.
+
+0xDCF74DC8 = ~z~Well, is that our bait then, a...
+
+0xDCFC3A02 = ~z~here's a pelt.
+
+0xDD6B9213 = ~z~Just my rod...
+
+0xDD8E03DA = ~z~The whole pack!
+
+0xDD390AF6 = ~z~Goddamn.
+
+0xDD166664 = ~z~Yeah, she's right across there.
+
+0xDDC55E38 = ~z~So, how you keeping out here?
+
+0xDEEBAA8A = ~z~Can you help me, mister?
+
+0xDFC72819 = ~z~Okay, now we're talking...
+
+0xE080949F = ~z~Sorry.
+
+0xE1A200E9 = ~z~That's quite an ambush she led us into.
+
+0xE1DEF938 = ~z~You got some extra miles on you tonight?
+
+0xE1DFEBAA = ~z~Hamish!
+
+0xE2CF257C = ~z~Whoa, pig.
+
+0xE3C7EE9D = ~z~and I'm gonna make the most of it...
+
+0xE4C304A8 = ~z~Keep up. Got to get her while she's here.
+
+0xE4D17CF1 = ~z~Reel. Let's land the bastard.
+
+0xE4D35C7D = ~z~I'm gonna put a bullet in ya.
+
+0xE5F22438 = ~z~You want a chance at him, you'll get that lure out.
+
+0xE6C26516 = ~z~Living out here...
+
+0xE9A2BF48 = ~z~Wouldn't be quiet so satisfying... getting him with something shop-bought.
+
+0xE9BE7613 = ~z~Let's split up. You go up, and I'll go onwards.
+
+0xE23A1BD6 = ~z~Where you off to?
+
+0xE32E655A = ~z~What we fishing for?
+
+0xE41A33A8 = ~z~Hamish.
+
+0xE54F6210 = ~z~Hamish.
+
+0xE66AEAB3 = ~z~Mean as hell northern pike...
+
+0xE67E7B2C = ~z~It's nice to meet you.
+
+0xE72E3E7E = ~z~I ain't gonna poach from your pond.
+
+0xE76E2649 = ~z~Stay there, I'll row out to you.
+
+0xE81EA413 = ~z~That took... come on.
+
+0xE95B1BA3 = ~z~You see anything yet?
+
+0xE96C9AAE = ~z~John.
+
+0xE96D2604 = ~z~It's a drop back!
+
+0xE113C7CA = ~z~Shit.
+
+0xE152AF37 = ~z~Thanks for taking me out.
+
+0xE228F121 = ~z~And who might you be?
+
+0xE419D7BA = ~z~You're a real gentleman, you know?
+
+0xE882DA6A = ~z~Oh yeah, yeah. Come on in.
+
+0xE9347D1A = ~z~I saw some cattle gored the other day...
+
+0xE60952E9 = ~z~Got the trail, this way.
+
+0xE66691C6 = ~z~We split up, remember? You were going up that hill.
+
+0xE80562E1 = ~z~I'll see ya again.
+
+0xE258738A = ~z~Oh come on, help me!
+
+0xE1640075 = ~z~over here, over here.
+
+0xE4886508 = ~z~Wouldn't be quiet so satisfying... getting him with something shop-bought.
+
+0xE6357048 = ~z~I still see him in my dreams.
+
+0xEA4B0264 = ~z~We'll come at him from the other way. Row over there.
+
+0xEA8E6C2F = ~z~No reason to be pig headed about this. Change your lure and you might catch him.
+
+0xEA576BBD = ~z~You're wasting your time with the wrong lure there.
+
+0xEA82545B = ~z~Wolves!
+
+0xEAF4B471 = ~z~Hey, you need...?
+
+0xEB6EABFC = ~z~Leave it a moment. He's fighting ya.
+
+0xEB23FF37 = ~z~Sure.
+
+0xEBA32936 = ~z~How about that coat, hey?
+
+0xEC12FAD3 = ~z~Living out here...
+
+0xEC18E196 = ~z~and your leg.
+
+0xEC94ED03 = ~z~Come on, let's push off.
+
+0xECF33FBA = ~z~That's one hell of a fish.
+
+0xED8D85DC = ~z~but I didnt think it was possible.
+
+0xEE4A3032 = ~z~He went that way, I think.
+
+0xEE80DD0B = ~z~you come by and see me.
+
+0xEE6083CE = ~z~I still see him in my dreams.
+
+0xEECF017B = ~z~'Member catching that.
+
+0xEF9A34D3 = ~z~Come on... here we go...
+
+0xEF25D6FF = ~z~I'm not so sure...
+
+0xEF720783 = ~z~I'm a wanderer.
+
+0xF006CCA4 = ~z~There he is.
+
+0xF0233D92 = ~z~
+
+0xF0477015 = ~z~Weren't but a snake that spooked him.
+
+0xF1F45F2A = ~z~I think we've found him, cast again.
+
+0xF6A6D321 = ~z~Thanks for taking me out.
+
+0xF6D38CA4 = ~z~You said we might go fishing.
+
+0xF6F21AB3 = ~z~and your leg.
+
+0xF7DBADF2 = ~z~Ain't you a fine horse?
+
+0xF28C9EC8 = ~z~Look out!
+
+0xF30D0C93 = ~z~I'm dug in in here! You won't take me alive!
+
+0xF30D956B = ~z~Yeah, it's strange.~rp~ When the whole country was wild, they could go where they liked.
+
+0xF32B4B63 = ~z~Over here.
+
+0xF41C09DD = ~z~Come on. You're not so nasty.
+
+0xF43C96A8 = ~z~He was a kind man to me.
+
+0xF58D4AF8 = ~z~Stop there!
+
+0xF60B4962 = ~z~What are you sorry for? You caught him!
+
+0xF63D3362 = ~z~Okay.
+
+0xF85F777F = ~z~What's that?
+
+0xF88D67AD = ~z~Give him a break.
+
+0xF90FB058 = ~z~Get going, boy. There's a wolf about.
+
+0xF116FB4E = ~z~We ain't far now.
+
+0xF299CDBE = ~z~Strong cast...
+
+0xF367A474 = ~z~A bushwhacking, I'd call it.
+
+0xF377F436 = ~z~My cabin is...
+
+0xF6432B8C = ~z~Shit, he's after him.
+
+0xF9091E21 = ~z~without your boots touching mud.
+
+0xF9772CB7 = ~z~Arthur.
+
+0xF87504C3 = ~z~Sure.
+
+0xF181118A = ~z~Time to reel.
+
+0xF524546A = ~z~They brought us here to be slaughtered.
+
+0xF5002522 = ~z~Come on. She'll move quick.
+
+0xF5625756 = ~z~Thank you.
+
+0xF7531153 = ~z~John...
+
+0xF9494482 = ~z~I met your feller.
+
+0xFB5DCDF7 = ~z~Nah... he's your fish now... cast away...
+
+0xFC99A8F2 = ~z~the last few nights I've been out, but...
+
+0xFCBD7F82 = ~z~Hey, you need...?
+
+0xFCC3B586 = ~z~Damn you... monster...
+
+0xFD597FF2 = ~z~Yeah... you don't want to lose that.
+
+0xFD871E73 = ~z~Just tracks.
+
+0xFD63213F = ~z~You won't find a way into this cabin! I'm sealed in tight!
+
+0xFDABFEC1 = ~z~Sorry.
+
+0xFEB27BD4 = ~z~
+
+0xFF2E39AB = ~z~The hell!
+
+0xFF5A881D = ~z~A caller, John Marston.
+
+0xFF51FEB1 = ~z~So long.
+
+0xFF71A9A4 = ~z~Damn, I thought I got him.
+
+0xFF952D43 = ~z~Come on, Buell. Let's go.
+
+0xFFD39370 = ~z~You don't know the half of it.
+

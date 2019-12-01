@@ -1,0 +1,290 @@
+0x01528D7F = ~z~It's that son of a bitch who robbed me. Kill him!
+
+0x022AB1A8 = ~z~Stop poking around and get back up here!
+
+0x03F54D97 = ~z~I don't know who's dumber, you, Ethan, Edgar, or Ezra!
+
+0x03FC3899 = ~z~You always this hospitable with your guests, lady?
+
+0x0429EDEB = ~z~Let me give you some advice.
+
+0x05788D8C = ~z~You always this hospitable with your guests, lady?
+
+0x0AE56A8D = ~z~What have you done?
+
+0x0B9B6EFC = ~z~You're as good as dead already!
+
+0x0D3E6029 = ~z~I keep telling you, Ma, we'll get you a new place. Anything you want!
+
+0x0F2A8F9B = ~z~What the hell?
+
+0x2A09CDA4 = ~z~Are you crazy? I ain't going in your cellar.
+
+0x2AC5BC9C = ~z~You wait, you stinking piece of shit!
+
+0x2BA6B629 = ~z~Hey back up, bonehead.
+
+0x2C969C5C = ~z~Ain't so tough now, are you?
+
+0x2F8869EA = ~z~Goddamn it!
+
+0x3AD50432 = ~z~Which one are you again? Walker? Wheeler?
+
+0x3B4B801A = ~z~Untie me, you goddamn yokel!
+
+0x3B8D85CB = ~z~I don't know, all you boys look the same these days...
+
+0x3E8460F5 = ~z~Goddamn it.
+
+0x3EC11170 = ~z~Reckon you can cross these four off that list.
+
+0x3FDC5C5A = ~z~I'll do worse than that if you don't stop squawking.
+
+0x4BC8FF4E = ~z~You rotten son of a bitch!
+
+0x4C1930C0 = ~z~Is that clear enough for you, you dumb yack?
+
+0x4F078770 = ~z~It's him. It's gotta be him.
+
+0x5C1D219B = ~z~The hell was that?
+
+0x6AF70B20 = ~z~We got a visitor!
+
+0x6BBE11BA = ~z~I said get the hell out of my house!
+
+0x6CF1E840 = ~z~Goddamn it.
+
+0x6D2D02B9 = ~z~Alright, alright, I heard you.
+
+0x7A0B98A5 = ~z~You made a big mistake coming here.
+
+0x7ABA03D4 = ~z~You don't rob from the Watson boys!
+
+0x7B54F877 = ~z~Hey, wait, that's my gun!
+
+0x7C282B6A = ~z~You put that back, or we will hunt you down!
+
+0x8B1317F3 = ~z~Thieving bastard! My eyes ain't that bad!
+
+0x8B311619 = ~z~Shit, that smells.
+
+0x8CA40A8C = ~z~Goddamn it!
+
+0x8F7E64E4 = ~z~And, uh, which way's that again?
+
+0x8FD2043F = ~z~Stay away from me, you son of a bitch!
+
+0x9A500C7B = ~z~You best be gone, you son of a bitch!
+
+0x9B4744EE = ~z~You made a big mistake coming here.
+
+0x9E47F6CD = ~z~Now, you son of a bitch!
+
+0x9F2085BD = ~z~We got a visitor!
+
+0x10C0856E = ~z~You made a big mistake coming here.
+
+0x15DC8A1D = ~z~What the hell are you talking about?
+
+0x19E312A2 = ~z~Hey, I don't need to smell you that close.
+
+0x22C6BB59 = ~z~What the hell you think you're doing?
+
+0x25EFC5B3 = ~z~I'd start running if I was you!
+
+0x26FC08B5 = ~z~You don't need to know my name.
+
+0x35D1C868 = ~z~You don't need to know my name.
+
+0x35F582D5 = ~z~Hey! What's going on out there?
+
+0x39C1B4FB = ~z~What, you gonna rob me, is that it?
+
+0x48A2BE76 = ~z~Stealing from me's the worst mistake you ever made!
+
+0x50B630AA = ~z~Reckon you can cross these four off that list
+
+0x52E58CE3 = ~z~Goddamn bastard!
+
+0x54DB32B7 = ~z~I'll do worse than that if you don't stop squawking.
+
+0x55F30D06 = ~z~Are you crazy? I ain't going in your cellar.
+
+0x56DE7F81 = ~z~We got a visitor!
+
+0x75C9041F = ~z~Are you dead in the head, boy? Put the loot down in the cellar with the rest of it.
+
+0x77CA63EE = ~z~I thought they said it'd be one of them Russell boys.
+
+0x94BB3456 = ~z~You think you can steal from me?
+
+0x282C4AD6 = ~z~You're making a big mistake.
+
+0x440EFC74 = ~z~Wait a second now, I don't remember you...
+
+0x458BE45E = ~z~You! You dirty son of a bitch!
+
+0x477B506E = ~z~You may be even more lean-witted than you look!
+
+0x502D7F36 = ~z~I wouldn't stand there, not with my gas.
+
+0x641E1A04 = ~z~Goddamn it!
+
+0x898C0267 = ~z~I'm just going to take what I need, lady, then be on my way.
+
+0x997EDF50 = ~z~You don't rob from the Watson boys!
+
+0x3479D0B0 = ~z~Are you cracked in the head?
+
+0x4273E980 = ~z~Get the hell away from me!
+
+0x4609F2B7 = ~z~That's it, I'm going to find my sons.
+
+0x4845D63B = ~z~Shut your mouth, 'fore I shut it for you!
+
+0x5260B4CD = ~z~They normally says if they sending somebody new.
+
+0x5291C4EC = ~z~Alright, alright, I heard you.
+
+0x9589DE46 = ~z~My gut's giving me hell, and I ain't in a sociable mood...
+
+0x14804D84 = ~z~And you sure as hell don't go near our ma!
+
+0x28023C3C = ~z~Look at you, you slack-jawed clodhopper.
+
+0x60619B5F = ~z~Get the hell out of here!
+
+0x80592CA9 = ~z~Take that, you son of a bitch!
+
+0x200617D1 = ~z~You don't know who you're dealing with!
+
+0x220127EF = ~z~And you sure as hell don't go near our ma!
+
+0x274681B4 = ~z~What the hell you think you're doing?
+
+0x460096DA = ~z~We got a visitor!
+
+0x551010BF = ~z~Shit, that smells.
+
+0x919747BC = ~z~You don't rob from the Watson boys!
+
+0x6469081D = ~z~We got a visitor!
+
+0x8781923E = ~z~Where do they find these idiots?
+
+0x71842253 = ~z~Goddamn it!
+
+0x78563997 = ~z~What the hell are you talking about?
+
+0xA05D958B = ~z~I will kill you and everyone you ever knew!
+
+0xA1D74D34 = ~z~My sons are gonna tear you apart!
+
+0xA3CD7ACD = ~z~Just leave what you got in the cellar and be on your way.
+
+0xA6E84840 = ~z~You should go now while you still can.
+
+0xA7B57BBD = ~z~And you sure as hell don't go near our ma!
+
+0xA3964C04 = ~z~I ain't sure what you want from me, lady.
+
+0xA78814BE = ~z~Ain't like we're short on money.
+
+0xAA8C39B3 = ~z~You don't want to come after me!
+
+0xAAC17A10 = ~z~Goddamn it.
+
+0xAC598B8E = ~z~I will piss on his bleeding corpse!
+
+0xAD2CE3DF = ~z~I'm gonna kill you so slow!
+
+0xAE3A7593 = ~z~I ain't sure what you want from me, lady.
+
+0xAF320C7D = ~z~No! My boy! Kill that bastard!
+
+0xB1C3A9CE = ~z~Sorry, what are you talking about?
+
+0xB2ED571E = ~z~Are you shitting me?
+
+0xB3A18C9B = ~z~About damn time.
+
+0xB28C629C = ~z~Hey, what's taking so long down there?
+
+0xB31C2BE6 = ~z~I don't want a new place, I got everything I need right here!
+
+0xB9319D44 = ~z~That's right, get going you dumb son of a bitch!
+
+0xB25419D9 = ~z~Goddamn it!
+
+0xB63233E0 = ~z~It's that son of a bitch who put them scars on me. Kill him!
+
+0xBA3977AD = ~z~I got two rooms, muttonhead, which way do you think is back?
+
+0xC2FA608F = ~z~Yeah, I ain't seen you before!
+
+0xC3F6910F = ~z~Now that's the worst mistake you could ever make!
+
+0xC8B97AD6 = ~z~Stay there, Momma!
+
+0xC80CF056 = ~z~Ain't so tough now, are you?
+
+0xC33210EB = ~z~No, not my donkey!
+
+0xC33632CA = ~z~You made a big mistake coming here.
+
+0xC1672826 = ~z~They said you'd be through two days ago.
+
+0xCDE3815F = ~z~Turn around, walk out of here, get far, far away.
+
+0xD0AA2EC0 = ~z~And, uh, which way's that again?
+
+0xD8EE999B = ~z~You dumb bastard!
+
+0xD778B876 = ~z~How dumb are you? Ain't you heard of the Watson Boys?
+
+0xD3015746 = ~z~I'm just going to take what I need, lady, then be on my way.
+
+0xDB0B1CB3 = ~z~They'll skin you alive when I tell 'em what you done.
+
+0xDCF2319C = ~z~Are you slow in the head? Speak up, boy
+
+0xDDF8B670 = ~z~This is gonna end real bad for you.
+
+0xDF7E742D = ~z~It's that son of a bitch who robbed me. Kill him!
+
+0xE06F852F = ~z~Hey! I'm talking to you, you smelly sack of shit. Who the hell are you?
+
+0xE083D648 = ~z~Through the back there. And no meddling!
+
+0xE4AD57B9 = ~z~And you sure as hell don't go near our ma!
+
+0xE6F8D8D0 = ~z~You got no idea of the pain coming your way!
+
+0xE15E9BD3 = ~z~Where the hell is my donkey?
+
+0xEB443E50 = ~z~What are you doing? Let me go, you bastard!
+
+0xEE8D14F7 = ~z~Nice family.
+
+0xEE646B27 = ~z~Just put a bullet in him!
+
+0xEED4C567 = ~z~I'll kill you!
+
+0xF4AA9096 = ~z~Couldn't have happened to a nicer lady.
+
+0xF6AD41C7 = ~z~Sorry, what are you talking about?
+
+0xF6CDB33C = ~z~How many times, Elijah?
+
+0xF42DCC49 = ~z~You don't rob from the Watson boys!
+
+0xF874793E = ~z~Nice family.
+
+0xFB75997A = ~z~Goddamn it, get the hell out of there! Now!
+
+0xFBAAD523 = ~z~You wait till my boys get their hands on you!
+
+0xFD1CE66E = ~z~You have the first idea who you're dealing with?
+
+0xFDC0A323 = ~z~Couldn't have happened to a nicer lady.
+

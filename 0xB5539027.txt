@@ -1,0 +1,122 @@
+0x023A22A4 = Lead
+
+0x1A85A126 = Veteran
+
+0x1B8CA56A = Catch the ~o~legendary northern pike~s~
+
+0x1B738B0E = Search ~o~nearby~s~ for Buell
+
+0x1B3793E1 = Fight the ~e~wolves~s~
+
+0x2AB3EE33 = Follow ~o~Hamish~s~
+
+0x2B848F56 = Buell was killed.
+
+0x3BBAE99C = Get closer to the ~e~wolf~s~
+
+0x4A26E304 = Search the ~o~area~s~ for signs of the boar
+
+0x4B9C0025 = Dead Wolf
+
+0x5A8C3B43 = ~s~Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.~s~
+
+0x5A919254 = Inspect the ~o~wolf carcass~s~
+
+0x5FCF9A7C = The boat was beached.
+
+0x6B78129B = Row to the ~o~fishing spot~s~
+
+0x7E9AEF15 = Return to ~o~Hamish~s~
+
+0x8AE7557D = Return to the ~o~dock~s~
+
+0x8E45E27C = Return to ~o~Hamish~s~
+
+0x41F37699 = Greet
+
+0x53B14719 = Buell cannot be mounted right now and must be led back to the veteran.
+
+0x65C7DC03 = Get back in the ~o~boat~s~
+
+0x219E5C62 = Buell
+
+0x232EB5E0 = Calm and lead ~o~Buell~s~
+
+0x245AC669 = Follow the boar tracks with ~o~Hamish~s~
+
+0x339ABB97 = The veteran was killed.
+
+0x347EFC64 = Return Buell to the ~o~veteran~s~
+
+0x457AF815 = The veteran was abandoned.
+
+0x740D788E = Return to the ~o~boat~s~
+
+0x888B80B4 = Return to ~o~Buell~s~
+
+0x1838C5AB = Stranger
+
+0x3627C2DD = Check on ~o~Hamish~s~
+
+0x4269EF6A = Row to the ~o~fishing spot~s~
+
+0x6418E9F2 = Hamish Sinclair
+
+0x7416D0FA = Gored Wolf
+
+0x8288D533 = ~s~Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.~s~
+
+0x22329AD5 = Take Trophy
+
+0x32798F62 = Get in the ~o~boat~s~
+
+0x588412DB = Buell was attacked.
+
+0x751461E1 = Catch the ~o~legendary northern pike~s~
+
+0x5789265B = The pike was attacked.
+
+0x25652158 = Check on ~o~Hamish~s~
+
+0xA04F3CE3 = The boat was wrecked.
+
+0xA9C4A088 = Hamish was killed.
+
+0xAD4DBB19 = Kill the ~e~boar~s~
+
+0xAE4578A0 = Wait for ~o~Hamish~s~ to catch up
+
+0xB60EDFEB = Investigate the ~o~gunshots~s~
+
+0xB8003B71 = Boar
+
+0xBA60F81A = Hamish was attacked.
+
+0xBCEDC773 = Kill the ~e~alpha wolf~s~
+
+0xBDC6F9F2 = Follow the tracks
+
+0xBEE05CDC = Mount your ~o~horse~s~
+
+0xC655068D = The veteran was spooked.
+
+0xCFA3C42D = Follow the boar tracks~s~
+
+0xCFDCFA22 = Search Area
+
+0xD2C9AA66 = Answer ~o~Hamish~s~
+
+0xD33A1643 = You can't whistle for your horse right now.
+
+0xD640F84C = Row to ~o~Hamish~s~
+
+0xDA029F6C = Hamish was abandoned.
+
+0xE31AB16F = Follow
+
+0xEC0AEEF2 = Wolf
+
+0xF2B1A347 = The boar got away.
+
+0xFAC5CCA7 = Hamish Sinclair
+

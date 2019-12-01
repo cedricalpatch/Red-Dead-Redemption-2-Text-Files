@@ -1,0 +1,36 @@
+0x4D666E5E = Micah's horse
+
+0x7E2CCDB1 = ~s~Toggle the bandana in your kit. The bandana will conceal your identity during a crime.~s~
+
+0x8A6A71E8 = ~s~Get on the ~o~stagecoach~s~
+
+0x8FAFBFE0 = ~s~Attack the ~e~guards~s~ and ~e~rival gang~s~ members~s~
+
+0x98F9D274 = ~s~Attack the ~e~guards~s~ and stop the ~o~stagecoach~s~.
+
+0x71664780 = ~s~Mount your ~o~horse~s~
+
+0x94968640 = ~s~Ride with ~f~Micah~s~ on the stagecoach~s~
+
+0xAA3F74FF = ~s~Follow ~o~Micah~s~
+
+0xB99582F4 = Return to the ~o~stagecoach~s~
+
+0xC1E7934A = Catch up to the ~o~stagecoach~s~
+
+0xD3ED4862 = Shoot the ~o~lock~s~
+
+0xD61AA200 = The stagecoach was abandoned.
+
+0xD70AC12B = stagecoach
+
+0xDCFC1C45 = Your horse died.
+
+0xE2E8576A = The stagecoach became inoperable.
+
+0xE7E16F83 = The stagecoach crashed off a cliff.
+
+0xE633ECEF = Meet Micah at the ~o~stagecoach~s~
+
+0xF33706F5 = ~s~Attack the ~e~rival gang~s~ members~s~
+

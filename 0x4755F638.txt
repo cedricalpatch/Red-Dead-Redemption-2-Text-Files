@@ -1,0 +1,46 @@
+0x1C32EE06 = ~z~I have been called many names over the centuries. Now go, or I'll feed on you too!
+
+0x2BA69D3C = ~z~You're a goddamn idiot.
+
+0x2C2443E1 = ~z~Stay back, for your own sake. I walk with the undead!
+
+0x2DC15CB4 = ~z~What, you're a vampire?
+
+0x7E5A4A54 = ~z~Free me now or I will bleed you slowly...
+
+0x30FD9987 = ~z~Hey, what are you doing?
+
+0x70BA7A2D = ~z~You're no more a vampire than I am.
+
+0x93A4F4F4 = ~z~What, you're a vampire?
+
+0x103E6F70 = ~z~You are the seventh!
+
+0x928D942C = ~z~You're a goddamn idiot.
+
+0x44330B92 = ~z~I'll suck you dry.
+
+0x5380202D = ~z~You will pay for this!
+
+0xA1BF111D = ~z~Unbind me and I will spare you the worst.
+
+0xB6B18C75 = ~z~Hey, what are you doing?
+
+0xB480B6A0 = ~z~You are making a grave mistake.
+
+0xC5A1D8E2 = ~z~Oh, you will truly suffer now!
+
+0xD7E79AA1 = ~z~You're no more a vampire than I am.
+
+0xD7707C7F = ~z~You think you can restrain me?
+
+0xDA652DF5 = ~z~I cannot be killed!
+
+0xDB940624 = ~z~Your blood is mine!
+
+0xE710A126 = ~z~So... you found me!
+
+0xFBA37071 = ~z~You have done your worst, now I will do mine!
+
+0xFE05CAFF = ~z~Come to me, mortal!
+

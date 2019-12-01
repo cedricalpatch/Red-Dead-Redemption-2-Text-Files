@@ -1,0 +1,72 @@
+0x02142902 = ~z~
+
+0x065C2981 = ~z~I told you.
+
+0x0B504264 = ~z~Oh gosh.
+
+0x0CCBEA82 = ~z~I guess I missed it.
+
+0x0DCEEC94 = ~z~you'll have to listen closer next time.
+
+0x3C601D99 = ~z~You want another drink?
+
+0x4B4DBB74 = ~z~Sure.
+
+0x4FE5C4A4 = ~z~You know, you're okay... for a greaser.
+
+0x5F909EF9 = ~z~No wonder all the fellers find you so creepy.
+
+0x6D173ED5 = ~z~Man, you're a real creep, Morgan!
+
+0x6EB53D42 = ~z~
+
+0x27D84C27 = ~z~
+
+0x362AE8CC = ~z~I'll see you later.
+
+0x1990D7FB = ~z~And yours.
+
+0x3753EB1A = ~z~Me too.
+
+0x5288A187 = ~z~Nice...
+
+0x9298C1E4 = ~z~You fellers, man... you fellers...
+
+0x29214EB5 = ~z~I'm drunk as a Lord.
+
+0x276373A0 = ~z~
+
+0x990956F2 = ~z~Your good health.
+
+0x44790568 = ~z~
+
+0xB34A835F = ~z~It makes my heart warm.
+
+0xB60C88CB = ~z~Do you?
+
+0xC8EA2E86 = ~z~I... I love you fellers. I do.
+
+0xD06945AD = ~z~Oh, you know, you're okay... for an asshole.
+
+0xD3BDC445 = ~z~Hey... w-what is your story, anyway, Micah?
+
+0xD15ABF7F = ~z~you're all dumb and innocent and stuff.
+
+0xD392F81D = ~z~
+
+0xDC84D5BB = ~z~Sure... I mean... you're all..
+
+0xDE51E17E = ~z~
+
+0xE21060EA = ~z~
+
+0xE25915A9 = ~z~
+
+0xED8D06DE = ~z~Look at me... look at...
+
+0xF13FB376 = ~z~
+
+0xFF824FEF = ~z~Well then I guess...
+
+0xFFAF2B22 = ~z~
+

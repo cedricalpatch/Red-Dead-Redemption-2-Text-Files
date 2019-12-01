@@ -1,0 +1,278 @@
+0x02937272 = ~z~Tell you what... I'm gonna sneak over to the other side of them, draw their attention, and then run like hell.
+
+0x04595A99 = ~z~Okay, come on. Let's try another hole.
+
+0x04D2AB73 = ~z~
+
+0x077CCB1C = ~z~Yeah, crawfish...
+
+0x087D40C3 = ~z~Well, this has been very pleasant. Very pleasant indeed.
+
+0x08E4B9D5 = ~z~Are you tired already?
+
+0x0A0801C3 = ~z~Talking of other creatures... there.
+
+0x0CE5BE5B = ~z~Get in, quick.
+
+0x0D248C24 = ~z~I've heard that line before...
+
+0x0DB49834 = ~z~I told you I had an Aunt Cathie?
+
+0x0DE22CD0 = ~z~There we go.
+
+0x0E045843 = ~z~Come on, let's go gather some crawfish...
+
+0x0E1BF8D3 = ~z~Okay, go slow so I can see... my eyes aren't what they used to be.
+
+0x0F32D7B8 = ~z~Won't be much of a gumbo if we don't find some more.
+
+0x1A5FF0E2 = ~z~finest eating there is.
+
+0x1A8A26EF = ~z~I've done before, in Sumatra, It's easy.
+
+0x1B089E9A = ~z~a new reptilian best buddy...
+
+0x1BF6B4B8 = ~z~You must have.
+
+0x1C64A67C = ~z~Those Gators?
+
+0x2CC04541 = ~z~Alright, sir, take us back to the dock.
+
+0x2CEE9F99 = ~z~You see that swamp, Arthur?
+
+0x3B8FEAB2 = ~z~It's alright, they don't really bite.
+
+0x3F5C7B83 = ~z~How's your Aunt Cathie?
+
+0x4D1EDC72 = ~z~Yeah, I've met him. He's quite the character.
+
+0x5C6B775A = ~z~Go nice and deep.
+
+0x5C9B10B0 = ~z~Here, have some crawfish...
+
+0x5F4C8458 = ~z~How you getting on?
+
+0x6A531329 = ~z~Any luck?
+
+0x6AF907A8 = ~z~Come on, jump in.
+
+0x6F41C70F = ~z~Yeah.
+
+0x7ED3B9CC = ~z~I thought you were a man.
+
+0x8A8A5397 = ~z~Feel anything?
+
+0x8D216001 = ~z~Enough of that old man nonsense...
+
+0x9ACADDAB = ~z~Keep going, Mr Morgan.
+
+0x9C45DCCC = ~z~Come on, Arthur.
+
+0x29C7C56A = ~z~That's your plan? You're madder than I thought.
+
+0x30AEA413 = ~z~Stop your whining, please. It's beneath you.
+
+0x34DF8736 = ~z~All water under the bridge now... no pun intended.
+
+0x34E5A4F9 = ~z~No, sir...
+
+0x36B5B327 = ~z~Bored.
+
+0x36D42C2C = ~z~Soon as you feel one, grab it.
+
+0x40EA6F87 = ~z~Get down... get down!
+
+0x65D6A46E = ~z~The what?
+
+0x72FB9A7C = ~z~And there! There, you see?
+
+0x73E6408D = ~z~Head for those trees across from us and we'll take a look. On the starboard-side.
+
+0x74FE574A = ~z~Yeah... three, and they're female... must be guarding nests.
+
+0x75B01513 = ~z~Got something.
+
+0x79D54B24 = ~z~and give me some of those eggs.
+
+0x81AA2795 = ~z~What's wrong?
+
+0x83D84D6F = ~z~I'm in the prime of my life.
+
+0x85C2A637 = ~z~This is the place, now tell me, Arthur, have you ever birthed a cow?
+
+0x85E8C7F6 = ~z~No, there's monsters out there...
+
+0x99B2E7EA = ~z~Good... seems easy enough.
+
+0x125EC68B = ~z~Yah, yeah! Come on!
+
+0x202D6228 = ~z~Yah, yeehaw... come on!
+
+0x217F0182 = ~z~Find anything?
+
+0x351FDF7A = ~z~What exactly are we looking for?
+
+0x515F100C = ~z~Gator eggs... really valuable, even better eating, I love cooking with them...
+
+0x559E02AE = ~z~That was fun...
+
+0x592C6D86 = ~z~I am very much a coward.
+
+0x670A3B62 = ~z~Okay...
+
+0x674DA60D = ~z~I must get out more.
+
+0x807B9BA9 = ~z~No.
+
+0x836C4E7A = ~z~Really selling this, aren't you?
+
+0x885DD676 = ~z~and what are we eating?
+
+0x904EFA2A = ~z~Go on, one more squelch down there can't hurt.
+
+0x926B9FBA = ~z~Arthur, you free?
+
+0x2791A6A2 = ~z~There's a thought...
+
+0x2795C2BE = ~z~Best not to think about it too much.
+
+0x5367A471 = ~z~The what?
+
+0x5963A65D = ~z~You're not squeamish, are you?
+
+0x6612F0B4 = ~z~Hurry, the mothers of those babies don't look too happy.
+
+0x6715A7B8 = ~z~I bet there's more in there.
+
+0x8285F259 = ~z~So...
+
+0x8982FB91 = ~z~to replace Micah, I suppose.
+
+0x9239EA2E = ~z~That's God's own pantry...
+
+0x346380C8 = ~z~Because who doesn't want a hat with an egg on it?
+
+0x421601CE = ~z~Head for those trees across from us and we'll take a look. On the port-side.
+
+0x432223BB = ~z~That's quite a range.
+
+0x5750532F = ~z~We shouldn't linger here too much longer.
+
+0x6417105E = ~z~Here?
+
+0x12907707 = ~z~What did I tell you?
+
+0x47833348 = ~z~What are you waiting for?
+
+0x58688992 = ~z~My right, your left. This is a boat, Arthur.
+
+0x82593937 = ~z~Well, it's sort of like a natural trap... just wanna stick your hand in, watch...
+
+0x82618702 = ~z~Pull up right behind you, Arthur.
+
+0x87704365 = ~z~Let's go find another hole.
+
+0xA5A80A58 = ~z~For millinery, of all things.
+
+0xA7C0C776 = ~z~They like to dig in, the little blighters.
+
+0xA941CCDD = ~z~Pull in just behind you.
+
+0xAA558933 = ~z~Now, do you see this hole?
+
+0xAAF37A27 = ~z~Let's go.
+
+0xAB544EA1 = ~z~You try this time, Arthur.
+
+0xAEB35B07 = ~z~My left, your right. This is a boat, Arthur.
+
+0xB2F7A213 = ~z~It's not just crawfish...
+
+0xB12C6497 = ~z~Aye, aye, captain.
+
+0xB15E7D6E = ~z~Well it's nothing like that, but it's equally as gruesome if you're squeamish.
+
+0xB38EE177 = ~z~Bring her ashore, then.
+
+0xB46F27E6 = ~z~I'm told there's a collector in Saint Denis who gives top dollar for them.
+
+0xB966AB4E = ~z~Look there, another crayfish hole. See it?
+
+0xB972EADA = ~z~Remember to reach down deep and get right in there.
+
+0xBA244BB9 = ~z~Is that your idea of fun, is it?
+
+0xC0DDFF5C = ~z~Okay... whatever you say.
+
+0xC0F3595F = ~z~Hey, maybe you could hatch that...
+
+0xC1261E0F = ~z~If that's how you're going to be, you're on your own! I'm heading back!
+
+0xCA1EED05 = ~z~Okay... whatever you say.
+
+0xCBCAEF06 = ~z~Thank you.
+
+0xCCA35F04 = ~z~Oh, I'm sorry.
+
+0xCD5A1CFA = ~z~Ah, now this looks promising.
+
+0xCDF6C38C = ~z~I'm over here in the boat, Mr. Morgan.
+
+0xCEBF59A2 = ~z~that'll eat a feller for fun.
+
+0xCF3C5D80 = ~z~People pay a lot of money for those eggs.
+
+0xD5DE73EB = ~z~Yeah, yeah, come on.
+
+0xD39BEF5A = ~z~Pull us in over there.
+
+0xD84E4E0D = ~z~Oh years... well, must have been a year, at least...or close to that.
+
+0xD89F2B97 = ~z~A bit further, go on.
+
+0xD182BA70 = ~z~Sure, old man.
+
+0xD253FC20 = ~z~get yourself a new friend.
+
+0xD4955DB2 = ~z~Yep.
+
+0xD8421DD0 = ~z~Now, assuming I don't get eaten, you go plunder the nests.
+
+0xDFDDFEC3 = ~z~Don't think I've ever seen you move that fast.
+
+0xE085FD2F = ~z~Oh, Arthur...
+
+0xE3D8BCED = ~z~No, no. Ground is too high here. Keep following the shoreline.
+
+0xE3DB8D74 = ~z~Venison?
+
+0xE3EF06E5 = ~z~Excellent. That's what I call teamwork.
+
+0xE4C22313 = ~z~You know the drill now.
+
+0xE54B6EDE = ~z~You coming, Arthur?
+
+0xE687EA80 = ~z~So how long were you in the navy?
+
+0xEA2BD123 = ~z~Fine, I believe. I haven't heard from her in a while.
+
+0xEBE9C405 = ~z~Nicely done, why don't you see if there's any more down there?
+
+0xEC1F1461 = ~z~see what else we can get.
+
+0xF6FF0FCC = ~z~Follow me you big dumb monsters!
+
+0xF627945B = ~z~So, er, why are we stopped?
+
+0xFB81B232 = ~z~when it comes to prehistoric monsters...
+
+0xFE0D2FE6 = ~z~Sorry, Arthur, you're on your own!
+
+0xFEED39FD = ~z~Crawfish?
+
+0xFF0FC0D6 = ~z~You know... there's more than crayfish in these waters.
+
+0xFF2D7396 = ~z~We're looking for low ground and a lot of muck.
+
+0xFF6370A2 = ~z~Oh ye of little faith... wait here, Mr. Morgan.
+

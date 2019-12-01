@@ -1,0 +1,918 @@
+0x005DED92 = ~z~They're only ranch hands. Just watch the sheep.
+
+0x00866361 = ~z~~sl:1.1:2.3~Just do one thing or another,~sl:~not be two people at once, that's all I'm saying.
+
+0x00C3E477 = ~z~Where are you going? That's right at them!
+
+0x00FB3C1F = ~z~Oh, God!
+
+0x020C0211 = ~z~Please! You can't leave me like this!
+
+0x0280DE0A = ~z~Come on, you've done the hard part.
+
+0x0283406D = ~z~Come on, Dutch is waiting for us.
+
+0x032353FB = ~z~There's some getting away.
+
+0x035508F6 = ~z~Then that's the way it goes, I guess.
+
+0x0358F111 = ~z~I can't do this!
+
+0x03AC1F09 = ~z~More coming in!
+
+0x03FDBEFA = ~z~Well, we did, we can't change that now.
+
+0x041441EE = ~z~Nor do I want to be this "Dutch van der Linde," whomever he may be.
+
+0x044FE130 = ~z~So... feeling better?
+
+0x04B21A58 = ~z~What are you waiting for?
+
+0x0509982D = ~z~He is?
+
+0x0646C38C = ~z~Maybe we shouldn't have robbed that train...
+
+0x0699729F = ~z~~sl:0.0:1.8~Folk in town were saying that the owner's trying~sl:~to stamp out every farm from here to Annesburg.
+
+0x06B6852E = ~z~Just think of it as...
+
+0x07473C76 = ~z~I've seen ones with less...
+
+0x08E6C187 = ~z~~sl:0.0:1.2~Calm down...~lr:0.2~it's done now, ain't it?
+
+0x0A1A4514 = ~z~Okay, okay, fine, you can... pay me later.
+
+0x0AEFD1E2 = ~z~Put Strauss on the back of John's horse and let's get out of here.
+
+0x0B8EF894 = ~z~Dutch says that we...
+
+0x0BE4F938 = ~z~'Til we can get back to Blackwater and collect.
+
+0x0CC1C76B = ~z~They're okay.
+
+0x0D60A31D = ~z~Looks like one of them don't scare too easy.
+
+0x0E2A74B2 = ~z~Hurry, before they get too far away.
+
+0x0F0BDABB = ~z~and?
+
+0x0FDFD6D7 = ~z~That oughta do it.
+
+0x1A60DDB3 = ~z~Still good money.
+
+0x1AFF63E6 = ~z~Well, you seen better round here?
+
+0x1B48EF42 = ~z~~sl:0.0:1.5~I guess we'll soon find out.~lr:0.4:1.6~Let's get these things,~lr:0.1~bring 'em back to the yards.
+
+0x1D132CE2 = ~z~You're going the wrong... way.
+
+0x1DA67264 = ~z~Yep, that spooked 'em alright.
+
+0x1DF2F2FE = ~z~I think they're over there.
+
+0x1E4C59D3 = ~z~Oh, well, hello again. How can I help you today?
+
+0x1FD77B15 = ~z~Stop sulking and let's get a drink.
+
+0x2A0AF2BC = ~z~when I think the moment's right...
+
+0x2A7952F0 = ~z~Just follow me.
+
+0x2B1B8D53 = ~z~Sure...
+
+0x2B1C58E2 = ~z~Quickest route back to Valentine is right round that mountain.
+
+0x2BBC82A1 = ~z~What are you doing, Arthur?
+
+0x2C0AA123 = ~z~I lost my glasses!
+
+0x2C4B13B9 = ~z~and we'll have his terrifying wound tended to.
+
+0x2CF192A3 = ~z~Let's go get the strays.
+
+0x2D48D252 = ~z~You're buying, but we're paying.
+
+0x2DC6E982 = ~z~~sl:0.0:1.2~So I'm thinking,~sl:0.2:2.5~that the herd'll make it to auction alright, but,~rp~~sl:0.3~a couple of new ranch hands'll be collecting on the sale.
+
+0x2DEE89C4 = ~z~I'm trying to say...
+
+0x2E0048D9 = ~z~I'm right here, you sons of bitches!
+
+0x2E34D118 = ~z~They hit Strauss!
+
+0x2EA15F8E = ~z~Alright...
+
+0x2EB8A0FD = ~z~We need to get moving on this, Arthur.
+
+0x2FAA87B7 = ~z~~sl:0.0:1.8~You know what... Marston.~sl:0.2~~rp~Why don't you leave the sheep to me? You ride shank,
+
+0x3A04DA31 = ~z~Let's go! Head for that wagon!
+
+0x3C275AA7 = ~z~What, you see yourself as a shepherd now?
+
+0x3CE0DC1D = ~z~~sl:0.0:1.7~No, you ain't.~lr:0.3~If you say the boy ain't yours, what's the difference?
+
+0x3D69AC25 = ~z~We'll cut across here.
+
+0x3D321310 = ~z~Everything I got's in the catalogue there.
+
+0x3E91B0BD = ~z~Goddamn it! How will we get paid if you kill 'em all?
+
+0x3E312A49 = ~z~ you give me twenty five percent kick back...
+
+0x3EEBB718 = ~z~We shook on eighteen, I believe?
+
+0x3F647689 = ~z~I'm buying your sins.
+
+0x4CEA002A = ~z~Let's do this then, come on.
+
+0x4D2E539D = ~z~I'd put a little distance between you and this herd if I were you.
+
+0x4D3A95F8 = ~z~
+
+0x4E6452D6 = ~z~Leopold, my good friend...
+
+0x4EB8B4A4 = ~z~Getting out of here!
+
+0x4F96BDD3 = ~z~by letting scum like you...~n~~m~Why not.
+
+0x4FB05978 = ~z~I'm a sitting duck!
+
+0x4FE768DC = ~z~A living nightmare.
+
+0x5A0C33F5 = ~z~Quick, before they all run off on us.
+
+0x5A2B89F1 = ~z~Where have you been?
+
+0x5AA30007 = ~z~Not everything... but, in the end,
+
+0x5B256172 = ~z~What are you doing, Arthur? Stay behind the wagon!
+
+0x5BD8234D = ~z~~sl:0.0:1.7~Alright, I think we got them all.~sl:0.6~Let's head for town.
+
+0x5C53979C = ~z~Let's head up to the ridge up there... get a proper view.
+
+0x5D6E74F4 = ~z~This is insane!
+
+0x5D78E35F = ~z~Alright. Whatever you say, ~rp~I'm done arguing.
+
+0x5EB4C285 = ~z~Why are we stopped?
+
+0x5F30A4B7 = ~z~Alright, follow me.
+
+0x5FB66D53 = ~z~What you trying to say?
+
+0x5FEBDE9B = ~z~What about that one back there?
+
+0x6A66C1AD = ~z~Why don't you run now while you still can!
+
+0x6B5C3AFE = ~z~What the hell are you shooting at?
+
+0x6BA89004 = ~z~How hard could it be?
+
+0x6BF0EF14 = ~z~What are we doing?
+
+0x6C42D67D = ~z~Help me out of here, please!
+
+0x6C455867 = ~z~Mount up, let's go.
+
+0x6C540292 = ~z~Looking for a rifle... something with a sight on it.
+
+0x6CECA49A = ~z~I don't believe in absolutes, just shades of gray.
+
+0x6DD2C4E0 = ~z~and I won't say nothing to nobody.
+
+0x6DF1D3CB = ~z~Go on, now.
+
+0x6E7815A6 = ~z~~sl:0.0:2.3~Folk in town's saying that the owner's trying~sl:~to stamp out every farm from here to Annesburg.
+
+0x6E881319 = ~z~Sure.
+
+0x6FCD8D75 = ~z~Fine sheep.
+
+0x7A8FD895 = ~z~Feeling better?
+
+0x7A7772E6 = ~z~Arthur! John! Someone, help me!
+
+0x7ADA589E = ~z~Good God!
+
+0x7B572CB7 = ~z~Drink?
+
+0x7BA7CD46 = ~z~Nice.
+
+0x7D56FA8A = ~z~Come on, let's get down there.
+
+0x7EBD68C4 = ~z~You sure you don't want me to have a try?
+
+0x7ECA704F = ~z~Where are you taking 'em?
+
+0x7F6A35E9 = ~z~want to blow your own brains out.
+
+0x8A0CCF3B = ~z~We'll get back to camp...
+
+0x8AB78064 = ~z~Enough with the yapping.
+
+0x8B7ABF56 = ~z~I brought you in on this.
+
+0x8B73AC85 = ~z~Well, you wrap up your business here and we'll get moving.
+
+0x8BAB0353 = ~z~Goddamn it, you lost 'em.
+
+0x8BEEB5CE = ~z~~sl:0.0:1.2~Come on, sunshine.~sl:0.3~I'll buy you a whiskey.
+
+0x8CE57B3B = ~z~I was the prize pony once, now I'm the workhorse. Listen.
+
+0x8D2A7DCA = ~z~Lucky you.
+
+0x8D79E4E5 = ~z~Hey, where are you riding off to now?
+
+0x8DEF8519 = ~z~Twenty.
+
+0x8E4F1188 = ~z~
+
+0x8EB13F5F = ~z~Bookish little Austrian fresh off the boat, his eyes out on stalks.
+
+0x8EBA67CF = ~z~Now's our chance, come on.
+
+0x8EBB01BB = ~z~What are you shooting for?
+
+0x9A9C5CF2 = ~z~I'm trying.
+
+0x9BBFD620 = ~z~This is a case...
+
+0x9C041067 = ~z~Come on, shoot.
+
+0x9CE6DBCA = ~z~Well, I guess the...
+
+0x9CEA9C30 = ~z~Sure.
+
+0x9D33D005 = ~z~~sl:1.3~So... what we gonna do?
+
+0x9EA8AD2D = ~z~Come along.
+
+0x9F99AA28 = ~z~You just watch out for wolves.
+
+0x12CBB3B1 = ~z~Dutch is waiting for us at the saloon.
+
+0x14BA639D = ~z~Goddamn it!
+
+0x19F8BE5C = ~z~Sure...
+
+0x22A4340F = ~z~You're trampling 'em.
+
+0x22D21D45 = ~z~Go on, give them a warning shot, something close enough to make them cut and run.
+
+0x24B32CDD = ~z~Lucky you.
+
+0x24D20646 = ~z~Get behind the wagon as we push, Arthur. You can use it as cover.
+
+0x27EE78CE = ~z~Thanks... for all the help with this. ~rp~Can't herd, can't swim...
+
+0x30E83970 = ~z~~sl:0.0:1.2~So...~lr:0.3:2.6~ I'm thinking that the herd'll make it to auction alright, but...~rp~ ~sl:0.4~a couple of new ranch hands'll be collecting on the sale.
+
+0x34D14306 = ~z~Why are you being so cagey about all this?
+
+0x34E963B2 = ~z~Morgan! We can't do this on foot.
+
+0x34F158A9 = ~z~Hey! Don't stomp all over'em.
+
+0x34FF1ADD = ~z~~sl:0.3:0.0~Well, no, wait, we ain't even discussed terms.
+
+0x37E1A6DF = ~z~And you reckon we can just take them?
+
+0x38A4BF01 = ~z~Keep 'em together.
+
+0x38B56F68 = ~z~Hey, this way.
+
+0x38C4902F = ~z~ I'll make a move.~n~~m~You think I got where I am...
+
+0x38F5C832 = ~z~There you go.
+
+0x40D1CAB1 = ~z~Better to be blind than dead, we can always get you more glasses.
+
+0x43AC3123 = ~z~Nope.
+
+0x43B33D70 = ~z~there ain't no funny business.
+
+0x43C86B07 = ~z~How's the scar?
+
+0x47E0435A = ~z~That's enough! Are you outta your goddamn mind?
+
+0x51C04D4B = ~z~You got it?
+
+0x53FDDE05 = ~z~why don't you and John go make sure...
+
+0x56CA1A74 = ~z~Bring that coward Cornwall out here!
+
+0x58B19BE9 = ~z~You ain't helping.
+
+0x62E60155 = ~z~than admonishing a man...
+
+0x71FB74C5 = ~z~Let's see what we can see from up here.
+
+0x72D62F9E = ~z~Hey, where are you going?
+
+0x74CE4BF8 = ~z~Got something.
+
+0x75B60D35 = ~z~You start spinning a yarn and...
+
+0x75D74E0E = ~z~Well where exactly are we going?
+
+0x76C15D69 = ~z~Tether the horse and I'll meet you across the street.
+
+0x79AD6D35 = ~z~What are you doing?
+
+0x79BD0918 = ~z~Move where?
+
+0x79E41C29 = ~z~~sl:0.0:2.5~It'll be quicker this way, trust me.~sl:0.2~~rp~This ain't the right time for you to be learning how to herd.
+
+0x80D02CD1 = ~z~We're supposed to be selling 'em not killing 'em.
+
+0x85B064BF = ~z~Done what?
+
+0x86A925DB = ~z~This is the place.
+
+0x86B6187B = ~z~
+
+0x88F1FEC3 = ~z~~sl:1.2:2.5~We are just gonna walk outta here!
+
+0x88FBC800 = ~z~Gentlemen.
+
+0x89B4834B = ~z~~sl:0.2~I already don't like how this is going...
+
+0x89E1F142 = ~z~Alright, let's go round 'em up.
+
+0x94AACE5C = ~z~
+
+0x94CA58BB = ~z~You son of a bitch.
+
+0x99C95BF3 = ~z~keep watch for any trouble.
+
+0x126C8850 = ~z~So you just lazing about or...
+
+0x131D1189 = ~z~You sure you know what you're doing?
+
+0x166E779F = ~z~Compromises.
+
+0x180BE53F = ~z~~sl:0.0:3.4~Same as with you and that girl, what was her name...~sl:0.4~Mary?
+
+0x190A6D38 = ~z~We'll get back to camp.
+
+0x200F8A7B = ~z~Looks like we're clear. Let's go.
+
+0x219F6D36 = ~z~Hello, how can I help you today?
+
+0x260EEE14 = ~z~Get out here now!~n~~m~What the hell...
+
+0x271B308F = ~z~help us get some sheep.
+
+0x271D796D = ~z~What'd you do that for?
+
+0x288F0810 = ~z~~sl:0.6~My god, that was some business in town.
+
+0x292E3884 = ~z~Come on, let's get to that wagon!
+
+0x302C08F6 = ~z~What the hell, Morgan? They're not flying.
+
+0x303C1737 = ~z~Close her up, boys.
+
+0x327D9A1E = ~z~~sl:0.0:2.4~Just do one thing or another,~sl:~not be two people at once, that's all I'm saying.
+
+0x357C7196 = ~z~It's just a scratch, shut up!
+
+0x375DA5AC = ~z~~sl:0.0:1.1:1~You're fine.
+
+0x395E0A6B = ~z~~sl:0.0:1.1~Come on.~sl:0.2~We ain't got all day here.
+
+0x421BACD5 = ~z~Shoot at them, not the sky.
+
+0x450B7352 = ~z~for twenty five percent.
+
+0x465A495B = ~z~a few sheep.
+
+0x472CBFB2 = ~z~~sl:0.0:1.2~Calm down...~lr:0.4~it's done now, ain't it?
+
+0x476B45C7 = ~z~~sl:0.1:0.0~I'm not fine.
+
+0x496DC434 = ~z~~sl:0.0:1.4~You had a run-in?~lr:0.2~I've had a run-in with half that town.
+
+0x503F933A = ~z~We're taking 'em to Valentine, right?
+
+0x513BF238 = ~z~You coming?
+
+0x517A8555 = ~z~Maybe...
+
+0x517B50DD = ~z~A lot less.
+
+0x519FDE62 = ~z~You make sure nobody's following us.
+
+0x534F937B = ~z~Oh, you want to come at me?
+
+0x576C124E = ~z~I heal pretty fast.
+
+0x607FF7F1 = ~z~Oh, he's fine. That's not the problem.
+
+0x616E7DFF = ~z~we can't stick around after this.
+
+0x637C96BD = ~z~What are you waiting for?
+
+0x666DE110 = ~z~Yeah, I know that place.
+
+0x699FB6B5 = ~z~I heal pretty fast.
+
+0x717FE81B = ~z~Hurry. Let's go.
+
+0x753B0231 = ~z~You again? What the hell are you doing here?
+
+0x759A6A39 = ~z~This is madness!
+
+0x857A77D0 = ~z~~sl:1.2:1.2~Is that all you got?
+
+0x868A84F4 = ~z~Eighteen.
+
+0x868CEF75 = ~z~you got any leads?
+
+0x1169BA84 = ~z~Here come more of 'em!
+
+0x1450F656 = ~z~Round up the stragglers.
+
+0x1507AC5B = ~z~For me, yes.
+
+0x1600CB55 = ~z~~sl:0.5:0.0~A quiet drink? I get shot.
+
+0x1907A9D0 = ~z~Calm yourself, friend.
+
+0x1949DDC6 = ~z~What are you killing 'em for?
+
+0x2357AEA4 = ~z~it just makes you look stupid.
+
+0x2495FEFF = ~z~Get him on the horse, and let's go.
+
+0x2510B570 = ~z~We'll be making next week's auction at this rate.
+
+0x3020FD7C = ~z~Looking for a rifle, something with a sight on it.
+
+0x3215BB64 = ~z~Why we need this rifle you couldn't buy yourself?
+
+0x3396D069 = ~z~Sure, I'll excuse you...
+
+0x3636A190 = ~z~~sl:0.0:3.2~Why are you so interested in my life?~sl:0.1~Ain't you got one of your own?
+
+0x4636FB34 = ~z~What are you riding over'em for?
+
+0x4691B84B = ~z~You're going to get yourself killed over there!
+
+0x5223C2E9 = ~z~Now get out here, now!
+
+0x5448C737 = ~z~rob from me?
+
+0x5482E021 = ~z~just give them boys a scare.
+
+0x5782E05E = ~z~~sl:0.0:2.8~I had a run-in with that feller earlier.~lr:0.4~We ain't on the best of terms.
+
+0x5801ADFB = ~z~Arthur!
+
+0x5926EC12 = ~z~I am Archibald Smith,
+
+0x6112F748 = ~z~~sl:0.0:1.8~No, you ain't.~lr:0.5~If you say the boy ain't yours, what's the difference?
+
+0x6137E133 = ~z~You left one behind.
+
+0x6445B872 = ~z~There's a hitching post over there.
+
+0x6566DE7E = ~z~You'll probably only run off again.
+
+0x6704D0BA = ~z~Okay, like I said, I'll handle this.
+
+0x6761ED65 = ~z~Deal with this nonsense.
+
+0x6872C593 = ~z~Strauss is down!
+
+0x6910DC8F = ~z~just don't bleed out on us.
+
+0x7382F173 = ~z~Let's go.
+
+0x7539A628 = ~z~What is worse...
+
+0x8018E96C = ~z~Everything alright here?
+
+0x8325F141 = ~z~Christ, you're annoying...
+
+0x8347A858 = ~z~depraved piece of trash!
+
+0x8680BC28 = ~z~Oh you're done now.
+
+0x8980CBB4 = ~z~~sl:0.0:1.5~Most cowboys I know are...~sl:0.4~dumb as trees.
+
+0x9312C7EE = ~z~Get out here you...~n~~m~Well, I..
+
+0x9591E12C = ~z~Of course.
+
+0x11930B1B = ~z~that might work for Dutch, but for you...
+
+0x21917FC6 = ~z~We're just waiting to get some pay on...
+
+0x24492AEE = ~z~~sl:0.0:1.8~Same as with you and that girl,~sl:0.6:1.0~what was her name...~sl:~Mary?
+
+0x24601FF9 = ~z~Doubt the town will care to notice too much.
+
+0x27021BBC = ~z~Look out, we're losing some.
+
+0x30511A67 = ~z~Who wants to be the Messiah?
+
+0x44410D9E = ~z~Oh God, why aren't you moving?
+
+0x47464D13 = ~z~~sl:0.5:1.3~Here they come, boys.~sl:0.7~Open her up.
+
+0x48796A02 = ~z~Nearly there, come on.
+
+0x49607E0F = ~z~I thought you said you'd done this before?
+
+0x59941B20 = ~z~enigmatic and interesting...
+
+0x61778CE1 = ~z~Are you running off on me?
+
+0x62407A8A = ~z~as long as you're here...
+
+0x67917EDB = ~z~~sl:0.0:1.2~You had a run-in? ~lr:~I've had a run-in with half that town.
+
+0x75611A7E = ~z~~sl:0.0:2.5~I had a run-in with that feller earlier.~lr:0.2~We ain't on the best of terms.
+
+0x76808BA2 = ~z~Please, gentlemen, this is a terrible mistake.
+
+0x78992CBB = ~z~for the sins...
+
+0x81025B63 = ~z~Why couldn't you have done that?
+
+0x82226F92 = ~z~We're getting nowhere fast here.
+
+0x91888CBD = ~z~Sure.
+
+0x94190AD2 = ~z~Or ignore me and shoot right at 'em.
+
+0x97764E3A = ~z~Where, wh-where did they all come from?
+
+0x98109CF9 = ~z~Okay, I think that's them over there.
+
+0x119591F2 = ~z~Watch where you're riding.
+
+0x135937A6 = ~z~Morgan, come on. Let's get going.
+
+0x140093E8 = ~z~Forget it, they're gone.
+
+0x239583CE = ~z~Marston's thing.
+
+0x255833EC = ~z~Excuse me?
+
+0x284281D7 = ~z~Come on, over this way.
+
+0x493637BA = ~z~Just need to pick up something.
+
+0x630264AA = ~z~Van der Linde, you're done.
+
+0x738985D6 = ~z~There's still one back there.
+
+0x771995ED = ~z~Arthur, cover us!
+
+0x790032F1 = ~z~That's more like it.
+
+0x816324B7 = ~z~I should have left him where I found him all those years ago.
+
+0x933287DD = ~z~Oh yeah? What do you mean by that?
+
+0x956355ED = ~z~Arthur, shoot from behind here! You're wide open!
+
+0x1365002A = ~z~Bought that gun.
+
+0x3932401C = ~z~Watch them runners.
+
+0x8759374F = ~z~What the hell are you shooting at?
+
+0x9700534D = ~z~So where are we going?
+
+0x17146527 = ~z~~sl:0.0:2.5~Then we'll just have to turn them against him,~sl:~we've beaten his sort before.
+
+0x20420410 = ~z~Come on then, hitch up.
+
+0x25180121 = ~z~
+
+0x30461426 = ~z~What are you trying to prove with this?
+
+0x35502743 = ~z~Good...
+
+0x43313741 = ~z~Or I can take it in a way that... ain't so polite?
+
+0x49479087 = ~z~Don't leave me here!
+
+0x52425806 = ~z~Stop that, you goddamn lunatic!
+
+0x61024004 = ~z~One of you get me out of here!
+
+0x80916382 = ~z~Come on.
+
+0xA0472403 = ~z~How's the scar?
+
+0xA09D6303 = ~z~What do you think?
+
+0xA0C55A13 = ~z~A gun store?
+
+0xA1E8FAC5 = ~z~~sl:0.0:1.2:1~Come on, Leopold.
+
+0xA1E70E92 = ~z~Well I have never been a man for ~rp~compromise, and I fear at my age I am ~rp~too old ~rp~to change.
+
+0xA3FD4A4A = ~z~The gun store?
+
+0xA5E7FAF6 = ~z~What the hell are you doing?
+
+0xA7B0B1BC = ~z~You see them?
+
+0xA8C78E34 = ~z~Working...
+
+0xA9A27541 = ~z~Dutch van der Linde finishing school has some strange graduates.
+
+0xA21C6386 = ~z~I, I just want this to be over.
+
+0xA22B7D15 = ~z~You ever work on a ranch, Marston?
+
+0xA83FF839 = ~z~John, we'll push the wagon. Arthur, shoot someone!
+
+0xA85AEDB3 = ~z~~sl:0.0:1.3~Let's get Strauss and go.~sl:0.3~Come on, come on!
+
+0xA99A400C = ~z~Put a shot in near them, I reckon they'll hightail it.
+
+0xA4002C45 = ~z~What are you doing? You're gonna spook 'em.
+
+0xA4788CA4 = ~z~Was that necessary?
+
+0xA67409A1 = ~z~Yes.
+
+0xA3207171 = ~z~What the hell are you doing?
+
+0xAAFD749B = ~z~of mistaken identity.
+
+0xAB7A6E9E = ~z~~sl:0.0:1.1~Go on.~sl:0.2~We just need something with a scope on it.
+
+0xABD18EA3 = ~z~That Cornwall, he's got deep pockets and a bad temper.
+
+0xAC01DA51 = ~z~~sl:0.0:4.8~Dutch is... but... but, well...~sl:0.4~you was at that thing in Blackwater.
+
+0xB0C67EC5 = ~z~~sl:0.0:1.0~Shouldn't be a problem.~sl:0.3~If you wanna see what we've got, it's all in the catalogue here.
+
+0xB2A9DCC8 = ~z~Alright, I better get outta here.
+
+0xB3E20711 = ~z~Hurry, hurry please.
+
+0xB7C6255D = ~z~~sl:0.0:0.9~Arthur, come on!~sl:0.1~What the hell are you doing?
+
+0xB22E0AAD = ~z~Let's move up!
+
+0xB27C1A1D = ~z~~sl:0.0:1.3~Anyway, for the love of God,~sl:0.1:2.1~will you tell me what you got me doing here~sl:~before I turn around and hit the breeze?
+
+0xB43B4AD0 = ~z~~sl:0.0:1.2~No, it ain't,~lr:0.3~just the same.
+
+0xB63BEEC7 = ~z~Yep, can you head in and pick up a sniper rifle? I'll explain later.
+
+0xB312FEAE = ~z~I'll show you.
+
+0xB528A47B = ~z~Shit!
+
+0xB588ABD6 = ~z~Are you doing this or not?
+
+0xB892C6BE = ~z~Gentlemen.
+
+0xB948ADF9 = ~z~Are you coming then?
+
+0xB16423C8 = ~z~That's it.
+
+0xB2432839 = ~z~Got the job done.
+
+0xBA774E50 = ~z~Always playing some goddamn game.
+
+0xBA862C0C = ~z~~sl:0.0:4.1~He's rich in money, Arthur, poor in life,~sl:~he is a horrible little goblin of a man.
+
+0xBA201634 = ~z~That it does.
+
+0xBAD2B0CA = ~z~We're gonna gather the troops...
+
+0xBC4D638F = ~z~Shut your mouth.
+
+0xBDFB1DC2 = ~z~I am not a man to be messed with by the likes of you.
+
+0xC02063B5 = ~z~So...
+
+0xC0693A75 = ~z~Shoot somebody, will you?
+
+0xC07ED95C = ~z~Take the shot, Arthur.
+
+0xC2BEC642 = ~z~For Christ's sake. Get 'em moving, Morgan.
+
+0xC2FE8031 = ~z~They're pretty scattered. Let's get them all rounded up.
+
+0xC3F66992 = ~z~That's our horses over there! Come on, grab Strauss.
+
+0xC7BE6515 = ~z~Dutch, Leopold.
+
+0xC7FAF2DE = ~z~Let's go, come on!
+
+0xC8B5EACD = ~z~~sl:0.0:1.0~Me?~lr:0.3~I ain't the one taking Jack on fishing trips.
+
+0xC30E2A5E = ~z~Don't you wear yourself out now.
+
+0xC41E8306 = ~z~After you, sir
+
+0xC61A2E28 = ~z~To your good health.
+
+0xC68AEFB5 = ~z~Worked, didn't it?
+
+0xC76E76D3 = ~z~You know that attempt to seem all...
+
+0xC612C8CA = ~z~Dutch, Leopold.
+
+0xC8134BDE = ~z~of another?
+
+0xC9594F2E = ~z~
+
+0xC274989C = ~z~That was different.
+
+0xC4373165 = ~z~Eighteen percent? ~rp~I thought we was doing the robbing here.
+
+0xC7939780 = ~z~Put another shot in close, he'll get the message.
+
+0xCA1D1201 = ~z~Where are you going?
+
+0xCA40364C = ~z~My name is Leviticus Cornwall.
+
+0xCBCA9E34 = ~z~
+
+0xCE81BBC5 = ~z~Are you just gonna leave that one behind?
+
+0xCE6639C9 = ~z~Are you getting Strauss or not, Arthur?
+
+0xCEB7BF3F = ~z~Get out here, before I have these men killed!
+
+0xD09ED9EF = ~z~~sl:0.0:1.7~Oh, a day here or there,~sl:0.0:1.1:1~but not much.
+
+0xD0FD39B0 = ~z~If you're paying, I'll take it. I guess.
+
+0xD2BF87D4 = ~z~~sl:0.0:2.8~Why are you so interested in my life?~sl:0.4~Ain't you got one of your own?
+
+0xD9BF94EE = ~z~You'll see. That train job was a start, but we need more money.
+
+0xD9FD9572 = ~z~I was worried you'd say that.
+
+0xD20FDDC2 = ~z~For God's sakes, Arthur, will you get to it?
+
+0xD45CCAAD = ~z~Thank you.
+
+0xD56F58C3 = ~z~ambiguity about their provenance.
+
+0xD218AAC4 = ~z~You can talk. We all heard you whine about a little knick from a wolf.
+
+0xD822E064 = ~z~~sl:0.0:3.5~I ain't quite decided yet, but we're okay, Arthur.~sl:~We keep moving, this won't be a serious problem.
+
+0xD966D499 = ~z~but you keep robbing me.
+
+0xD4518B93 = ~z~We don't run, Mr. Strauss!
+
+0xD6280DF5 = ~z~Horses are over there! Grab Strauss and let's go.
+
+0xD7066AB1 = ~z~Where have you been?
+
+0xD11662F1 = ~z~Are you giving up on this already?
+
+0xD75717E7 = ~z~Do you want me to put another hole in your head?
+
+0xD4121284 = ~z~Least you ain't pushing this thing!
+
+0xD4292759 = ~z~You're on the front line now, Mr. Strauss!
+
+0xDA900E29 = ~z~Alright, let's get them in there and get paid.
+
+0xDBE924A9 = ~z~So what now?
+
+0xDC2FB18D = ~z~Come back after the auction, you'll get your money.
+
+0xDC197BC0 = ~z~No need to get testy. Just tie the horse up and get over here.
+
+0xDCF8FAF1 = ~z~Now you got it.
+
+0xDD5F71BE = ~z~He's a very rich man, Dutch... he's one of the richest in the country.
+
+0xDD87F634 = ~z~You make sure nobody's following us.
+
+0xDD859D64 = ~z~~sl:0.0:1.7~There's a herd of sheep coming down~sl:~to auction from Emerald Ranch.
+
+0xDDFB2746 = ~z~Who's herding who here?
+
+0xDE868AC2 = ~z~You got some dawdlers, Arthur.
+
+0xDE266635 = ~z~~sl:0.3:1.1~Shouldn't be a problem.~sl:0.4~If you want to see what we've got, it's all in the catalogue here.
+
+0xDF1BEF14 = ~z~I'm gonna have to take this on... credit.
+
+0xDFF05EA2 = ~z~Are you not going back for that one?
+
+0xE0946779 = ~z~Push up, stay with me!
+
+0xE0B7777A = ~z~Nothing like talking to old Strauss to make you...
+
+0xE0E276E9 = ~z~~sl:0.0:2.3~There's a herd of sheep coming down~sl:~to auction from Emerald Ranch.
+
+0xE1D57C5C = ~z~~sl:0.0:0.8~No.~lr:0.1~You?
+
+0xE2E2BFA6 = ~z~Get back here!
+
+0xE2F1E7D7 = ~z~Van der Linde!
+
+0xE4E5CC18 = ~z~And we already seen Pinkertons here.
+
+0xE6B4182B = ~z~Compromising?
+
+0xE7C37152 = ~z~You don't know me...
+
+0xE8A03A79 = ~z~Folks swing for rustling livestock.
+
+0xE9B1888B = ~z~~sl:0.0:1.8~It ain't that simple.~lr:~You know that as well as anyone.
+
+0xE9C4CF0A = ~z~
+
+0xE13A1236 = ~z~C'mon, let's go.
+
+0xE50D7E87 = ~z~Hurry up, Arthur, let's get outta here.
+
+0xE73E6632 = ~z~~sl:0.0:2.0~I ain't looking for no trouble.~sl:0.1~Just need a rifle, something with a sight on it.
+
+0xE83C31EF = ~z~It'll come with a noose.
+
+0xE797B188 = ~z~~sl:0.0:1.4~Anyway, for the love of God,~sl:0.0:1.9~will you ~rp~tell me what you got me doing here~sl:~before I turn around and hit the breeze?
+
+0xE931F1B0 = ~z~~sl:1.2:0.0~Never again.
+
+0xE485042E = ~z~Sure...
+
+0xE7658891 = ~z~a lay preacher...
+
+0xEAB3BF12 = ~z~Let's go.
+
+0xEB241747 = ~z~There you go.
+
+0xEC4A1538 = ~z~Gentlemen.
+
+0xEC242FE5 = ~z~~sl:0.0:1.8~Reckon we shouldn't get too close,~lr:0.4~least, not till we know what we're dealing with.
+
+0xED8004CC = ~z~~sl:0.0:1.2~Why the hell not?~sl:0.4~Come on, Morgan, we don't have time for this.
+
+0xEDDE04AE = ~z~Give it a rest, will you? ~rp~We ain't kids no more.
+
+0xEE05F908 = ~z~~sl:0.0:1.7~Arthur we leave no man behind.~sl:0.2~Go get Strauss.
+
+0xEE319D27 = ~z~Come on, let's get this flock moving.
+
+0xEF278042 = ~z~Get out here.
+
+0xEFB3E1B4 = ~z~~sl:0.0:6.1~New century's coming. This life, this way? Well, we're the last, I reckon.~sl:0.2~And we ain't long for it.
+
+0xF0CB1895 = ~z~~sl:0.3~Yes... is Strauss still alive?
+
+0xF1DBCEAF = ~z~This'll go a lot faster if you shut up, Marston.
+
+0xF2BFA0A3 = ~z~and get 'em to start packing up.
+
+0xF5A9A519 = ~z~Not me...
+
+0xF6F48FB4 = ~z~Van der Linde!
+
+0xF6FE7EED = ~z~Mount up, let's go.
+
+0xF31C1F7A = ~z~Can't pay you till they're sold now, can I?
+
+0xF61B4E8B = ~z~~sl:0.0:1.2~It ain't that simple.~lr:0.6~You know that as well as anyone.
+
+0xF252DC67 = ~z~Done.
+
+0xF770F574 = ~z~Would you shut up and kill these bastards?
+
+0xF2621CC6 = ~z~This way, Arthur.
+
+0xF58802C4 = ~z~Are you going in then?
+
+0xF908546A = ~z~Collect something...
+
+0xFAB994C7 = ~z~Just get us out of here.
+
+0xFAE1DEFC = ~z~Twenty five percent.
+
+0xFBB1E09C = ~z~Fifteen.
+
+0xFCFE87F2 = ~z~~sl:0.0:1.6~Reckon we shouldn't get too close,~lr:0.3~least not till we know what we're dealing with.
+
+0xFD5E2FE4 = ~z~~sl:0.0:1.3~No, it ain't,~lr:0.3~just the same.
+
+0xFD20A333 = ~z~We never really was.
+
+0xFD795C69 = ~z~Dutch says a lot. Now, that's his gift... saying things.
+
+0xFE135D95 = ~z~~sl:0.1:~I'm here to tell you, we try to collect that money any time soon...
+
+0xFF3FE82A = ~z~You good?
+

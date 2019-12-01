@@ -1,0 +1,1736 @@
+0x00A4F961 = ~z~There's one of them right here. Get over here.
+
+0x019A3D0B = ~z~Dutch...
+
+0x026ABF7D = ~z~never talked a word, had to let her go.
+
+0x0293E30B = ~z~Goddamn it, more of them, go left!
+
+0x02B705FF = ~z~~sl:0.0:1.9:1~We gotta move. Hurry, Arthur...
+
+0x02DB933D = ~z~And trust me... I'mma get Marston too...
+
+0x02E27B13 = ~z~just, stop this...
+
+0x034CF759 = ~z~You should have left with your friend, Marston. Let the money be...
+
+0x038FF5AB = ~z~Milton told me.
+
+0x03F0916B = ~z~Micah's a goddamn sickness.
+
+0x046F3BF5 = ~z~
+
+0x04E1D970 = ~z~There ain't no more time for talk.
+
+0x04E898A8 = ~z~do it my way, honey. It's for the best.
+
+0x055436FF = ~z~think!
+
+0x05E09445 = ~z~Come on...
+
+0x06AF2C5D = ~z~Makes dying easier.
+
+0x071D2B47 = ~z~I'm with you. Keep going.
+
+0x076AE04D = ~z~I tried.
+
+0x078CAFB0 = ~z~With all our money.
+
+0x0865D031 = ~z~survivor, Black Lung...
+
+0x08A2069A = ~z~You did.
+
+0x09076132 = ~z~~sl:0.0:1.6:1~Oh, Black Lung...
+
+0x090FCBBE = ~z~I saved Jack...
+
+0x09C6DF93 = ~z~Move it, come on!
+
+0x0A05D2A4 = ~z~You still okay there, Abigail?
+
+0x0A0A7CE3 = ~z~
+
+0x0A8229A2 = ~z~
+
+0x0A234814 = ~z~~sl:0.0:3.9:1~Micah was the rat, John. Milton told me.
+
+0x0A295085 = ~z~He's lying...
+
+0x0AF7F2B5 = ~z~Well, we're doing our best.
+
+0x0B02B3FF = ~z~Those bastards left me for dead.
+
+0x0B3C55E6 = ~z~living and dying.
+
+0x0B95D07C = ~z~You can't even hurt a sick man, you fool.
+
+0x0B11655E = ~z~~sl:0.0:1.0:1~You ain't.
+
+0x0BB8B82C = ~z~Abigail's safe...
+
+0x0C975C48 = ~z~Where are you, Dutch?
+
+0x0D40D7E9 = ~z~I knew you wanted the money as much as any of us...
+
+0x0D389BC2 = ~z~She's just a girl...
+
+0x0DD5A849 = ~z~In the trees here!
+
+0x0DE95997 = ~z~Go.
+
+0x0DF45128 = ~z~Okay...
+
+0x0DFA8DA6 = ~z~Stay the hell away from me!
+
+0x0E912F2E = ~z~Come on. Ride!
+
+0x0EF9DDFA = ~z~Him!
+
+0x0F9C1F80 = ~z~Let's go, come on!
+
+0x0F51FED6 = ~z~
+
+0x0F74BDE0 = ~z~
+
+0x0FA1D29D = ~z~
+
+0x0FF3D9BE = ~z~We gotta go.
+
+0x1A9E968A = ~z~Look out on the right!
+
+0x1A94748E = ~z~I'm a...
+
+0x1AC06F1F = ~z~Agent Milton and his men...
+
+0x1ADD7322 = ~z~~sl:0.0:3.7~Sure... but I also wanted you...~sl:~you rat... dead.
+
+0x1AE5F8E5 = ~z~You brought this on yourself, Dutch!
+
+0x1BE19D39 = ~z~he's talking crazy.
+
+0x1CA05ADC = ~z~Sure, I guess. I don't know.
+
+0x1CA72A0D = ~z~Sure...
+
+0x1CA739DF = ~z~~sl:0.7~Let's go, come on!
+
+0x1D51DDEC = ~z~here...
+
+0x1D84EA09 = ~z~No. Oh, wait a second...
+
+0x1D63022D = ~z~Goddamn bastards.
+
+0x1DB10CD9 = ~z~In the end...
+
+0x1DCCB0B5 = ~z~Can't even kill a dying man...
+
+0x1DDBBBFF = ~z~We need to get outta here. Let's go!
+
+0x1E075CC9 = ~z~so's Jack.
+
+0x1E72F6BC = ~z~Come on, Dutch.
+
+0x1E74B1E7 = ~z~Let's keep moving!
+
+0x1F958496 = ~z~All of you, hold it right there! They're escaping into the woods.
+
+0x1FFA608B = ~z~Hidden under a wagon.
+
+0x2A073984 = ~z~he's dying...
+
+0x2B584BCC = ~z~You're scum, Micah.
+
+0x2BBB16DB = ~z~You rat!
+
+0x2BF6A79D = ~z~please.
+
+0x2BFB4681 = ~z~Kill me then, come on!
+
+0x2C39A9EA = ~z~I did.
+
+0x2C89595A = ~z~Come on, we need to get going!
+
+0x2C460189 = ~z~That ain't what you mean.
+
+0x2D26DCBC = ~z~Sure... ~rp~guess he began to believe he was God, or something.
+
+0x2DCDFFEF = ~z~Ambush. Get her out of here.
+
+0x2E011F78 = ~z~And you're dead.
+
+0x2E41BDD0 = ~z~More on the right, Arthur!
+
+0x2EA87FBB = ~z~For me.
+
+0x2ED4A9CF = ~z~What are you doing? Get on, Arthur.
+
+0x2F5FE07F = ~z~I guess we're gonna have to talk this out like gentlemen.
+
+0x2F8A8183 = ~z~You are completely surrounded. Lay down your weapons now or we will kill you both.
+
+0x2F4600F6 = ~z~You're good women...
+
+0x2F757354 = ~z~
+
+0x2FD68EAC = ~z~You see any more of them?
+
+0x3A0214BE = ~z~They're with Sadie...
+
+0x3AD71576 = ~z~You take this money too.
+
+0x3B30F8D0 = ~z~Or he went crazy... ~rp~what a mess.
+
+0x3C07A461 = ~z~John...
+
+0x3C4EBF27 = ~z~Of course it is!
+
+0x3C11A059 = ~z~Where are you, Micah?
+
+0x3C96CFEA = ~z~It's alright... Jack and Tilly are fine.
+
+0x3C627D3E = ~z~Fool... fool... fool...
+
+0x3D1AEF51 = ~z~You rat!
+
+0x3DC08506 = ~z~Now? He don't care who dies, so long as he and Micah get rich off of it.
+
+0x3E1D9DD6 = ~z~If they're putting her on a boat, they'll probably dock at the north end of town,
+
+0x3E82B1C8 = ~z~we picked him up...
+
+0x3EF072A2 = ~z~Come on Arthur, with me!
+
+0x4A8B5BA0 = ~z~Oh, shit.
+
+0x4A1990FA = ~z~There's Pinkertons up ahead! In the trees.
+
+0x4A6126C9 = ~z~You're both dead men!
+
+0x4CBC90C6 = ~z~
+
+0x4CF48EE6 = ~z~Stay with me, Arthur!
+
+0x4D1D5670 = ~z~Who amongst you...
+
+0x4D6EB22C = ~z~Now come on...
+
+0x4D94BEF6 = ~z~
+
+0x4D913AEA = ~z~Take Jack...
+
+0x4E093F54 = ~z~Oh, Arthur...
+
+0x4E46F1D0 = ~z~I see clearly that your world is not a world from which one can escape.
+
+0x4E710C06 = ~z~There's Pinkertons everywhere. We gotta move!
+
+0x4E40622A = ~z~you damn fools.
+
+0x4E439400 = ~z~~sl:1.6:2.1:1~And you're dying.
+
+0x4E864542 = ~z~Micah!
+
+0x4EC5A509 = ~z~Go, Arthur. Hurry.
+
+0x4ED8643A = ~z~let's go.
+
+0x4EEA2759 = ~z~Well, seems his mind got changed on that idea.
+
+0x4F8E425E = ~z~you gotta go get that boy.
+
+0x4F72377F = ~z~They're blocking the road, this way.
+
+0x5A91B693 = ~z~John's a...
+
+0x5A872A0B = ~z~Keep going!
+
+0x5AAB9551 = ~z~let's go, buddy.
+
+0x5AB2FAD0 = ~z~Jennings, take your men around and cut them off.
+
+0x5C2BFBCD = ~z~You're dying, Black Lung.
+
+0x5C3D65FE = ~z~We're gonna make this right, me and you together, what's left of it. Now come on.
+
+0x5C4D4D37 = ~z~
+
+0x5C5F1282 = ~z~She's okay...
+
+0x5C7CAABA = ~z~That all you got?
+
+0x5C9ECE0D = ~z~We're gonna make this right, ~rp~me and you together, ~rp~what's left of it. ~rp~Now come on.
+
+0x5D1BBA65 = ~z~I was on the train and I didn't see it.
+
+0x5E2FAAE5 = ~z~You ain't no man.
+
+0x5E8F346B = ~z~
+
+0x5E69DC4C = ~z~You saved my life...
+
+0x5E98C92F = ~z~Where are you?
+
+0x5F705EA8 = ~z~and you wait at Copperhead Landing...
+
+0x5F4142FB = ~z~Guess I am... but I'm a happy one.
+
+0x5F116172 = ~z~Miss Tilly...
+
+0x5FB056AF = ~z~Horrible man.
+
+0x5FC96842 = ~z~Why, you're a good man.
+
+0x6AA2917A = ~z~There's Pinkertons coming, fast.
+
+0x6ACDF6AB = ~z~I'll... I'll miss...
+
+0x6ACEC75E = ~z~You weak fool.
+
+0x6B7E4C51 = ~z~he came back here to rob you.~n~~m~No!
+
+0x6B9A0DF1 = ~z~it's been a lotta fun.
+
+0x6B507A89 = ~z~I'm going to kill you, Arthur.
+
+0x6B749C9E = ~z~I told you, Dutch.
+
+0x6C152FDD = ~z~Arthur, there's no time.
+
+0x6CC00C1B = ~z~You failed.
+
+0x6D53986E = ~z~I know.
+
+0x6DCAF4D8 = ~z~But John said... Abigail knows where the money's hidden... if we can get to her in time, we might be able to get to it before they do.
+
+0x6DD927CA = ~z~Find the horses, we need to get the hell out of here.
+
+0x6DDD5A33 = ~z~Come on, Arthur.
+
+0x6DFB203F = ~z~
+
+0x6E7A2D1E = ~z~Come on...
+
+0x6E498FAF = ~z~Pinkertons on the left, they'll keep the others busy!
+
+0x6E718A66 = ~z~~sl:0.0:7.8~Hosea, Mac, Davey, Jenny, Sean, Lenny, now John...~sl:0.7:2.0:1~we have to put an end to this.
+
+0x6E170140 = ~z~Hey! They're over here!
+
+0x6EB7A0E4 = ~z~Inside you're dead.
+
+0x6F7AD410 = ~z~I've already beaten you...
+
+0x6F81E89B = ~z~Now he don't even care if he orphans his friend's child so long as he gets rich?
+
+0x6F99BAB3 = ~z~Drop your weapons, put your hands in the air and we will cease fire.
+
+0x6F275A17 = ~z~and get outta here.
+
+0x6F603EBA = ~z~Dutch...
+
+0x6F615EF0 = ~z~No.
+
+0x7A75D56E = ~z~You're goddamn traitors, the pair of you!
+
+0x7A25372A = ~z~
+
+0x7AF5A886 = ~z~You dirty little thief.
+
+0x7B697E50 = ~z~Come on, you first.
+
+0x7C4B4869 = ~z~~sl:0.0:6.6~I thought ~rp~I could find a way to get John, ~rp~Abigail and Jack out of this mess.~lr:0.8~To give them... a life.
+
+0x7CCE07A6 = ~z~~sl:0.0:1.6:1~Okay... go.
+
+0x7CD935E7 = ~z~Now!
+
+0x7CE02779 = ~z~you pick your side now, because this is over.
+
+0x7D2D1B69 = ~z~No...
+
+0x7D5C1CD3 = ~z~Dutch, it's just a girl...
+
+0x7D9F88C7 = ~z~Die... die... die...
+
+0x7DAAF9CE = ~z~Arthur!
+
+0x7E6B5489 = ~z~Hold up a moment.
+
+0x7E76BC14 = ~z~I just don't want any more folks to die, Dutch.
+
+0x7F4ADE8F = ~z~Come on.
+
+0x7F60CEEB = ~z~let's go.
+
+0x7FC10A11 = ~z~Arthur, you go up first.
+
+0x7FD8A8B1 = ~z~Go on, get outta here.
+
+0x8A4EB556 = ~z~Abigail...
+
+0x8A76F8E5 = ~z~Come on, Arthur... keep pushing.
+
+0x8A511BED = ~z~And Micah, we need to talk... figure out some things.
+
+0x8AB013D8 = ~z~Well, what about the money?
+
+0x8ADB5125 = ~z~I'm happy... that I won't see you again...
+
+0x8B09B82E = ~z~You're right.
+
+0x8B8AA1DE = ~z~Okay ladies, let's get out of here.
+
+0x8BEA2255 = ~z~~sl:0.0:1.3~Dutch!~sl:1.3:1.6~Micah!~sl:0.7~Come and get me, you bastards!
+
+0x8C2F0292 = ~z~He's fine... Tilly's got him.
+
+0x8C3AC921 = ~z~Yeah, I think so...
+
+0x8CB5FC2E = ~z~We still have two of them by the cave.
+
+0x8D08BB20 = ~z~this is done.
+
+0x8E9E0FF4 = ~z~Then why are you still alive?
+
+0x8E15CFD7 = ~z~
+
+0x8E626C87 = ~z~Now he don't care if he orphans his friend's child so long as he gets rich?
+
+0x8F3B3E23 = ~z~Abigail Roberts...
+
+0x8F95C31B = ~z~You're weak.
+
+0x8F671B76 = ~z~We are not criminals.
+
+0x8F702C68 = ~z~
+
+0x8FA2C054 = ~z~Alright, Arthur.
+
+0x8FF47A2C = ~z~Seems old Micah was pretty close with Milton.
+
+0x9A609A34 = ~z~I feel like I just don't know Dutch no more.
+
+0x9AAB7B0B = ~z~That he'd come back here to rob us.
+
+0x9B148F64 = ~z~It all makes sense now.
+
+0x9B8654DB = ~z~ride with me!
+
+0x9BE6B645 = ~z~Let's go.
+
+0x9BE6687C = ~z~You okay?
+
+0x9C07AAC7 = ~z~Greedy snakes always get killed first.
+
+0x9C6F3836 = ~z~I gotta go to my family.
+
+0x9CAA6E1A = ~z~when you boys came back from the Caribbean...
+
+0x9CB7426C = ~z~Arthur.
+
+0x9CEA5BFF = ~z~it pains me to say it, Arthur...
+
+0x9D9EA0B9 = ~z~It is over now...
+
+0x9D84DAB6 = ~z~I always was a good thief.
+
+0x9E1FF7AE = ~z~Still joking...
+
+0x9E5015C3 = ~z~think of the future.
+
+0x9E61837B = ~z~You'll damn us all.
+
+0x9E416582 = ~z~I can still fight!
+
+0x9E843258 = ~z~He's turned, Dutch.
+
+0x9ED8AFE6 = ~z~It's all I ever believed in.
+
+0x9EEB2F24 = ~z~Why, you're a good man.
+
+0x9EEF6E8A = ~z~
+
+0x9F7A7704 = ~z~Come on, Arthur!
+
+0x9FCB60F4 = ~z~Look, just follow me, okay? We're gonna get this done, Arthur.
+
+0x9FF4C971 = ~z~All them years.
+
+0x11B04FB7 = ~z~You left me...
+
+0x11B9203E = ~z~Pinkertons coming through the trees, watch out.
+
+0x11EBCCD5 = ~z~But, just...
+
+0x12EF3F27 = ~z~Robbing Dutch after all he's done for you...
+
+0x14A2BDAF = ~z~Die, you fool!
+
+0x15C07B2D = ~z~It would mean a lot to me...
+
+0x15C6A0E3 = ~z~I told you, he's turned...
+
+0x16CC3F6C = ~z~No...
+
+0x16D37431 = ~z~Dutch...
+
+0x16DED100 = ~z~before I get much sicker.
+
+0x19DBFC05 = ~z~but he is wrestling with a giant.
+
+0x20B542BB = ~z~Without John, she's just bait...
+
+0x22CE05B4 = ~z~Over here! I found them!
+
+0x23B4AC81 = ~z~You're going to die...
+
+0x23CC4901 = ~z~they won't do nothing to her.
+
+0x23F9D9C7 = ~z~Keep pushing, Arthur.
+
+0x27B40CCF = ~z~
+
+0x28F070DF = ~z~
+
+0x29CE8D6F = ~z~I never...
+
+0x30A6D60F = ~z~Let's go Arthur, push!
+
+0x30A884A1 = ~z~You and me is all we need.
+
+0x30B16999 = ~z~Let's go John, we need to get out of here!
+
+0x30BAD096 = ~z~They're all over us. Come on, let's move!
+
+0x30E839F7 = ~z~Die.
+
+0x30F8819F = ~z~Go on, get outta here.
+
+0x31C3F55B = ~z~You go...
+
+0x31D3D5A3 = ~z~not a world from which one can escape.
+
+0x31D35568 = ~z~Come on.
+
+0x32FC1951 = ~z~
+
+0x33B85CB2 = ~z~
+
+0x33C0C446 = ~z~We just got plenty of time, Micah.
+
+0x36E86F21 = ~z~well... sorry, son.
+
+0x37A0F62C = ~z~I'm really sorry for you, son, it's a hell of a thing.
+
+0x37B654E2 = ~z~He's sick...
+
+0x38CE956A = ~z~I'm dying, Micah... but you're already dead.
+
+0x39B23E40 = ~z~You speak as if killing were something I cared about.
+
+0x40A8BCC1 = ~z~
+
+0x40EE73D8 = ~z~I see clearly that your world is not...
+
+0x41CD760F = ~z~
+
+0x41F4793E = ~z~I didn't turn, Micah.
+
+0x42A7DF1C = ~z~Hooray.
+
+0x42E53384 = ~z~Oh, be quiet, cowpoke.
+
+0x42F9B87B = ~z~You're a goddamn liar.
+
+0x43C4DFB0 = ~z~Oh, I got you, you sad bastard.
+
+0x43D2CABE = ~z~Dutch!
+
+0x43F1C353 = ~z~
+
+0x44E0FEE1 = ~z~Spineless bastard.
+
+0x44FB4FA0 = ~z~That's winning enough for me.
+
+0x45C4A059 = ~z~Like I said, Arthur, ~rp~we don't need them.
+
+0x48E9071B = ~z~Not much... but then... I ain't fighting much...
+
+0x48F4F1E4 = ~z~We made it.
+
+0x48F53AE7 = ~z~'Cause you're the better shot, I mean.
+
+0x51A0282C = ~z~Thank you, feller.
+
+0x51B78CC7 = ~z~I think so.
+
+0x51F16149 = ~z~
+
+0x52AFFD9A = ~z~Oh, you got me pretty good, Black Lung.
+
+0x54CFA66A = ~z~You saved my life...
+
+0x55E2CDDB = ~z~You both know.
+
+0x56E321C1 = ~z~You ain't no man.
+
+0x57A47F67 = ~z~Damn you.
+
+0x57BD94F0 = ~z~Arthur.
+
+0x58A95262 = ~z~Jack, come here...
+
+0x59A5F363 = ~z~There's one of them right there!
+
+0x59BB3E7A = ~z~
+
+0x60BA7C1B = ~z~Molly O'Shea?
+
+0x60CC69CE = ~z~I've been waiting to kill you, Micah.
+
+0x61A6F3FA = ~z~
+
+0x61E9E715 = ~z~Now...
+
+0x65A0F8FB = ~z~All them years, Dutch...
+
+0x66D7AD71 = ~z~That's it, keep moving.
+
+0x66EC4D31 = ~z~You head down.
+
+0x67AD291E = ~z~not that you care too much about that.
+
+0x67F03348 = ~z~Okay, here we are. Let's ditch the horses and come up with a plan.
+
+0x68CACE60 = ~z~You're a good man.
+
+0x69AFDADD = ~z~Up the ladder Arthur, go on.
+
+0x69C6A3A7 = ~z~Damn us both!
+
+0x69CB685E = ~z~~sl:0.0:7.9~John, Hosea, ~rp~Mac, Davey, Jenny, Sean, ~rp~Lenny...~lr:0.2:2.0:1~we have to put an end to this.
+
+0x69F2C530 = ~z~I just wish you'd done it before he worked hisself into the grave.
+
+0x70AFEBBC = ~z~Thought we was above the law, above morality...
+
+0x70B9813A = ~z~for Abigail and Mrs. Adler.
+
+0x70FB6DF4 = ~z~There you are, you bastard.
+
+0x71FD6CF5 = ~z~push, Arthur.
+
+0x72EECB52 = ~z~It's over.
+
+0x73DE8B0C = ~z~Well I guess that's that then...
+
+0x74D6EC1B = ~z~~sl:0.0:2.8~All his goddamn talk all them years.~lr:0.8~Seems like it was always a lie.
+
+0x75CC4CF8 = ~z~Shit, more on the right!
+
+0x75F3B19C = ~z~I came to take what's mine.
+
+0x77A7F7D2 = ~z~Come on, brother...
+
+0x77C58518 = ~z~I've been a terrible fool not killing you...
+
+0x78F263A5 = ~z~You're pathetic.
+
+0x79F21391 = ~z~I know John told you I knew where it was.
+
+0x81C60D5E = ~z~~sl:0.0:2.2~And all you can do now is decide the man you wanna be,~sl:~for the time you have left.
+
+0x81ECBD6A = ~z~I am sorry to hear that.
+
+0x82B104BA = ~z~Arthur, just make the call.
+
+0x82BBC857 = ~z~
+
+0x82E9083F = ~z~~sl:0.0:4.8~I don't know. ~rp~I'm sorry you got dragged into this...~lr:0.4~into... us.
+
+0x82EF25A5 = ~z~Thank you, Arthur.
+
+0x82EFC085 = ~z~You mean Molly?
+
+0x83B6A7FE = ~z~Take this...
+
+0x84C09484 = ~z~You're still a yapping dog, Mr. Milton...
+
+0x85CCAEDA = ~z~Go on, get outta here.
+
+0x85FD2187 = ~z~
+
+0x87AD4B8F = ~z~think, think for yourselves.
+
+0x87CB3386 = ~z~
+
+0x87D5CCC8 = ~z~You ready, John?
+
+0x90A0DF08 = ~z~You're my brother...
+
+0x90C3017F = ~z~I...
+
+0x92D8F5DB = ~z~We can make it.
+
+0x92FA2621 = ~z~we got Jack, he's safe.
+
+0x93E778D8 = ~z~Come on.
+
+0x93EDCF3B = ~z~It's been quite a ride.
+
+0x94C4254C = ~z~Micah...
+
+0x94EC6CB8 = ~z~Oh, you got me pretty good, black lung... come on now... let's end this.
+
+0x96ABF05F = ~z~You turned weak, Dutch.
+
+0x97B3EA0D = ~z~Not all you boys have quite so many scruples.
+
+0x97B23E39 = ~z~Get.
+
+0x97DC9E0D = ~z~~sl:4.8~Oh I know, you goddamn snake.
+
+0x99BC28F8 = ~z~Die!
+
+0x99D4C27E = ~z~Okay.
+
+0x99F8D740 = ~z~all them goddamn years...
+
+0x117A080C = ~z~No doubt...
+
+0x118F0301 = ~z~Come on, Arthur! Into the caves. Quick!
+
+0x143CEBF0 = ~z~Him!
+
+0x209A86DF = ~z~Oh, Arthur...
+
+0x211BF777 = ~z~okay...
+
+0x213B1F3B = ~z~Black Lung, you're back.
+
+0x219E5514 = ~z~Alright, Arthur, come on, let's go.
+
+0x223C4F3B = ~z~but I'm gonna be just fine.
+
+0x226DF5AC = ~z~And Eagle Flies. ~rp~Another angry young fool he used, just like he did with the rest of us.
+
+0x256B96DC = ~z~We need to get outta here!
+
+0x259ECCFD = ~z~Okay, Mr. Milton...
+
+0x280ABEA0 = ~z~You son of a bitch.
+
+0x312A1717 = ~z~Micah Bell...
+
+0x333E5B9C = ~z~Milton told me.
+
+0x341FF4DD = ~z~I see one of them in the trees!
+
+0x347C1981 = ~z~Thank you, feller.
+
+0x352DA502 = ~z~Micah?
+
+0x376CED53 = ~z~Arthur.
+
+0x376CFC5F = ~z~Come on, it's over.
+
+0x383C4028 = ~z~There ain't no more time for talk.
+
+0x385F1E78 = ~z~for this snake?
+
+0x387A6836 = ~z~~sl:2.1:5.6:1~I'm a survivor. That's all there is. Living and dying.
+
+0x396E3652 = ~z~Him.
+
+0x412F00D7 = ~z~Thank you.
+
+0x424BE45A = ~z~Go on, Sadie, keep moving.
+
+0x429F7700 = ~z~Hope you're ready for hell.
+
+0x456B4F4F = ~z~Keep riding, Arthur!
+
+0x466BCCEF = ~z~It's one of them!
+
+0x496FD626 = ~z~All there is... winning... and losing...
+
+0x506A7AA1 = ~z~I just saw Agent Milton, Dutch.
+
+0x530D721F = ~z~Keep moving Arthur, we need to go!
+
+0x551A1CED = ~z~
+
+0x554F0251 = ~z~There's time.
+
+0x568DA264 = ~z~
+
+0x572EEDC2 = ~z~I got ya now, Black Lung.
+
+0x588E5505 = ~z~
+
+0x605F99FB = ~z~Milton told me.
+
+0x623B9EBB = ~z~What the hell are you talking about, cowpoke?
+
+0x643A6D8B = ~z~They're in the woods over here!
+
+0x655E72CA = ~z~Stop hiding, Micah.
+
+0x665D322F = ~z~he's a rat.
+
+0x677C099E = ~z~Old Micah Bell...
+
+0x714E032D = ~z~If you're headed back there, Arthur.
+
+0x718E0C1C = ~z~How you feeling?
+
+0x750A0D55 = ~z~Arthur, what are you doing?
+
+0x755AADBD = ~z~Micah's the rat, Dutch.
+
+0x755B447A = ~z~You rats...
+
+0x757E6F75 = ~z~
+
+0x768DF0FD = ~z~
+
+0x769AABBC = ~z~I'm good, I'm good.
+
+0x785B7A3B = ~z~I remember one time, years ago, he let fly at me for robbing this house.
+
+0x811C8794 = ~z~
+
+0x813F82AC = ~z~Listen...
+
+0x821B97FB = ~z~
+
+0x875DE7F7 = ~z~it damn well doesn't.
+
+0x886B4794 = ~z~Goddamn it! They're everywhere, get down.
+
+0x891B6306 = ~z~Go, go. After them.
+
+0x900F491E = ~z~I know, Arthur.
+
+0x913ABBC0 = ~z~Snake? Okay... And you're a vulture.
+
+0x918EE9AA = ~z~That winning?
+
+0x928D9D34 = ~z~Fellers! We got one of them over here.
+
+0x938E549F = ~z~Like I said, Arthur, we don't need them.
+
+0x942D4821 = ~z~You're a good girl...
+
+0x964D6BD9 = ~z~I'm gonna enjoy watching you die...
+
+0x964DF6E4 = ~z~H'ya!
+
+0x971FDD84 = ~z~In a way, you are lucky.
+
+0x993B1B46 = ~z~
+
+0x1181ABFF = ~z~Whoa...
+
+0x1196A47E = ~z~got a bunch of money, Dutch.
+
+0x1262FC82 = ~z~I think...
+
+0x1366E9A8 = ~z~
+
+0x1389DA63 = ~z~~sl:0.0:2.2~And all you can do now is decide the man you wanna be,~sl:~for the time you have left.
+
+0x1391F346 = ~z~Hurry, Arthur, let's go.
+
+0x1415E462 = ~z~No. You be quiet, Mr. Bell...
+
+0x1417C938 = ~z~be brave, son...
+
+0x1458AA1A = ~z~But, me and the boys know...
+
+0x1588F0BC = ~z~and I told everyone you were a rat.
+
+0x2029C8D7 = ~z~Gimme a second.
+
+0x2059ED0A = ~z~you left me to die!
+
+0x2295E4DA = ~z~That you was.
+
+0x2352FFF6 = ~z~
+
+0x2453F666 = ~z~I didn't have a choice.
+
+0x2678A73E = ~z~all of you.
+
+0x3531F45D = ~z~~sl:0.0:1.7:1~Goddamn you.
+
+0x3872A4B2 = ~z~We should've killed him months ago.
+
+0x4075C461 = ~z~Come on, Dutch.
+
+0x4100A46B = ~z~No one else.
+
+0x4173F829 = ~z~Still got a little fight in you, have you, boy?
+
+0x4539BDCC = ~z~Oh, I got you, you sad bastard... die.
+
+0x4704F37F = ~z~You know it and I know it.
+
+0x4800D68F = ~z~Looks like you lost, Black Lung.
+
+0x5004DD27 = ~z~he's lying.
+
+0x5055C3FB = ~z~Come on, Arthur...
+
+0x5370F63D = ~z~There's a good man within you...
+
+0x5372E0BB = ~z~let's go.
+
+0x5510A5EA = ~z~take this...
+
+0x6219FDD1 = ~z~They came and took Abigail.
+
+0x6250D90A = ~z~
+
+0x7199CF6C = ~z~not a world from which one can escape.
+
+0x7666A83C = ~z~
+
+0x8160FE8A = ~z~I'll see you around, John Marston.
+
+0x8773CE26 = ~z~
+
+0x8812C2C0 = ~z~I'm gonna slice you up.
+
+0x9081D41F = ~z~More on the left! Let's leave them for Dutch.
+
+0x9748B952 = ~z~Sure.
+
+0x9842ECBA = ~z~and put down your gun.
+
+0x9853C29B = ~z~But know this... I'm twice the man you are
+
+0x18430E69 = ~z~More of them, go left Abigail!
+
+0x19640BED = ~z~No...
+
+0x21524C55 = ~z~~sl:0.0:6.6~I thought ~rp~I could find a way to get John, Abigail and Jack out of this mess.~lr:0.8~To give them... a life.
+
+0x22828B93 = ~z~Look what I gone and done.
+
+0x30349B10 = ~z~We sweated her a couple of times...
+
+0x31479A90 = ~z~There's army of these sons of bitches.
+
+0x35982B36 = ~z~Not Molly...
+
+0x36610DD2 = ~z~no don't start with all that.
+
+0x43153E2B = ~z~Ride, Arthur, ride!
+
+0x44309FB0 = ~z~both of you.
+
+0x46154B8F = ~z~You rat.
+
+0x61940E86 = ~z~We are outlaws.
+
+0x64186A46 = ~z~neither of you two, not now.
+
+0x71693D16 = ~z~You talked.
+
+0x83444D15 = ~z~I didn't lose.
+
+0x95558EA2 = ~z~~sl:0.9:0.0~You go...
+
+0x97767E26 = ~z~
+
+0x129652EB = ~z~You...
+
+0x235306AC = ~z~not Miss Grimshaw...
+
+0x238538CC = ~z~After we're done, I'm gonna kill Marston too.
+
+0x248295B6 = ~z~You know, there ain't enough kindness in this world, that's for sure.
+
+0x261622E9 = ~z~it happened so fast, I couldn't do anything.
+
+0x291071E1 = ~z~take this.
+
+0x326506E0 = ~z~Don't you 'oh, Arthur' me...
+
+0x362404EB = ~z~This way is blocked, come on!
+
+0x420360CB = ~z~We all need to have a little chat.
+
+0x499301AC = ~z~I should've killed you long ago.
+
+0x551509EC = ~z~Move, Sadie, move.
+
+0x596497E0 = ~z~I got you.
+
+0x702219D5 = ~z~We gotta let her go.
+
+0x786592CE = ~z~You're not kind, mister.
+
+0x821634DC = ~z~Easy there.
+
+0x827055EA = ~z~We won.
+
+0x859095E2 = ~z~and you with me, Mr. Milton.
+
+0x902522B7 = ~z~Seems I left it too late.
+
+0x979161BD = ~z~You betrayed us.
+
+0x999222B1 = ~z~Goddamn snake.
+
+0x1257933A = ~z~Dirty rat.
+
+0x2940733B = ~z~Where are they?
+
+0x3263055C = ~z~Dutch's chest.
+
+0x4584301F = ~z~Over here, we got one!
+
+0x6416325D = ~z~Oh, thank God.
+
+0x6576536F = ~z~let's go.
+
+0x6736524E = ~z~I heard about enough of your yapping!
+
+0x7191627B = ~z~You want the money?
+
+0x8267281D = ~z~let's go get her.
+
+0x9082431F = ~z~I still got the choice.
+
+0x29007543 = ~z~I got to go have a little chat...
+
+0x43471342 = ~z~
+
+0x48331448 = ~z~
+
+0x50521265 = ~z~~sl:0.0:2.4:1~This is where it ends for you.
+
+0x50613965 = ~z~Shit! They're on the road. Follow me.
+
+0x53863248 = ~z~~sl:5.0:1.9:1~Here we go...
+
+0x54063107 = ~z~Yeah...
+
+0x73011253 = ~z~I didn't have a choice.
+
+0x73389721 = ~z~
+
+0x79811235 = ~z~There ain't nothing left, mister!
+
+0x83701068 = ~z~~sl:0.0:4.1~'Course we are. Because we don't leave our own behind.~sl:0.4~That's what Dutch taught us.
+
+0x87277365 = ~z~You're pathetic.
+
+0x96725031 = ~z~He loved you and Jack, he did.
+
+0x99698281 = ~z~We ain't both gonna make it.
+
+0xA067A0B4 = ~z~I gave you all I had...
+
+0xA0A49907 = ~z~I-I don't...
+
+0xA1C5612C = ~z~~sl:0.5:2.1:1~That's all you got, Black Lung?
+
+0xA1DA0855 = ~z~You'll be okay.
+
+0xA1DB67A6 = ~z~
+
+0xA1FB6505 = ~z~me too...
+
+0xA2D5B3FF = ~z~I've waited a long time to kill you.
+
+0xA2D9373D = ~z~Call yourself men? You pathetic sons of bitches.
+
+0xA2E96924 = ~z~What about the money? It's in here.
+
+0xA2F4A5E2 = ~z~I...
+
+0xA3CC91F3 = ~z~More coming in ahead on the left!
+
+0xA4BEF700 = ~z~Let's just get her out first.
+
+0xA4D05469 = ~z~Calm down, Mr. Morgan.
+
+0xA5A21C4D = ~z~John made it.
+
+0xA5C737F5 = ~z~Everyone get down!
+
+0xA5CD1AD3 = ~z~~sl:0.0:3.3:1~You lost, my sick friend.
+
+0xA6AE362C = ~z~
+
+0xA7D6A63C = ~z~Ah shit, let's go. We need to find higher ground.
+
+0xA7EBB3CE = ~z~~sl:0.0:1.2~Shit...~sl:2.1~let's get up this cliff.
+
+0xA8AFF4AC = ~z~he loved you.
+
+0xA9F3F1B6 = ~z~Mrs. Adler...
+
+0xA9FBC6AF = ~z~And you're still a rat...
+
+0xA14AAB82 = ~z~Come on, Arthur, we gotta move!
+
+0xA46C8279 = ~z~Who did?
+
+0xA75F2BA5 = ~z~Get them bags packed up quick, Miss Grimshaw.
+
+0xA87E5BFF = ~z~
+
+0xA167C7BA = ~z~You know, there ain't enough kindness in this world, that's for sure.
+
+0xA469E89A = ~z~you live a good life now, you hear?
+
+0xA502C87D = ~z~I head down there, I'm dead in five minutes.
+
+0xA559BC77 = ~z~You goddamn traitor.
+
+0xA569C94F = ~z~Ah, maybe you're right but...
+
+0xA2589B40 = ~z~Don't worry about them, they'll just be going back for the money.
+
+0xA7199F32 = ~z~They're running into the caves. Chase them down.
+
+0xA26294EE = ~z~Come on, Dutch...
+
+0xA35802E4 = ~z~and who, is betraying me?
+
+0xA67348AE = ~z~and this...
+
+0xA85298F0 = ~z~There's a good man within you...
+
+0xA417876D = ~z~
+
+0xA4238563 = ~z~Put your guns down.
+
+0xAA3A94DA = ~z~Be grateful that for the first time... you see your life clearly.
+
+0xAB16620C = ~z~Goddamn you bastards.
+
+0xAC05E193 = ~z~~sl:0.0:2.9~Saying, "that man was too poor."~sl:0.8~How taking from him was no different from the system we was fighting against.
+
+0xAC0766E3 = ~z~Please.
+
+0xAC3E8DBA = ~z~and he's been a good boy ever since.
+
+0xAC5D794B = ~z~there'll be time for sorrow later.
+
+0xACB89349 = ~z~You let him damn us all, Dutch.
+
+0xACF2C839 = ~z~~sl:1.4:1.7:1~You weak fool.
+
+0xAD75770C = ~z~But... John said Abigail knows where the money's hidden... if we can get to her in time, we might be able to get to it before they do.
+
+0xADA06252 = ~z~You're a good man.
+
+0xAE3CEE4B = ~z~We ain't got time for this, not now.
+
+0xAE53DBFF = ~z~I'm coming with you.
+
+0xAEFA1A62 = ~z~This is Agent Ross with the Pinkerton Detective Agency. Put your guns down.
+
+0xAFAD387D = ~z~Dutch...
+
+0xAFC4734C = ~z~Oh Black Lung, you don't know how much I've longed to do this.
+
+0xAFCFAF4D = ~z~Go...
+
+0xB019ECEA = ~z~
+
+0xB0CDF39A = ~z~You've lost terribly.
+
+0xB0D67E1D = ~z~
+
+0xB2B06605 = ~z~I want you to know this...
+
+0xB2C47049 = ~z~I'll be dead soon...
+
+0xB2CD87B5 = ~z~What is it like?
+
+0xB3BB443D = ~z~hurry.
+
+0xB3EAA409 = ~z~Bill, Javier...
+
+0xB3F83729 = ~z~~sl:0.0:0.8:1~You lost.
+
+0xB4A85EA8 = ~z~Tell Dutch what you said to agent Milton.
+
+0xB4F4D2B9 = ~z~
+
+0xB5BDAB83 = ~z~You're the rat.
+
+0xB5D39E45 = ~z~I never trusted you.
+
+0xB5E7EB2B = ~z~if it's the last goddamn thing I do.
+
+0xB6A13E0C = ~z~~sl:0.9~Please. I have a family sir, please.
+
+0xB6D36C22 = ~z~I got a family, that's more important.
+
+0xB7A041EF = ~z~Come on, you traitor!
+
+0xB7D42353 = ~z~
+
+0xB9B3132C = ~z~Alright, Arthur.
+
+0xB12CD9A9 = ~z~
+
+0xB24FEFDA = ~z~
+
+0xB46DEB48 = ~z~~sl:0.0:4.8~Listen, ~rp~if you hadn't shown up at my house that night, ~rp~I'd be dead.~lr:0.7~And even this bullshit beats dead.
+
+0xB62AEC82 = ~z~What?
+
+0xB67D18F4 = ~z~~sl:5.1~It's easy when I'm fighting a coward.
+
+0xB69D7803 = ~z~That's quite a cough.
+
+0xB72C6CD0 = ~z~Abigail gave me the key.
+
+0xB403C800 = ~z~I did.
+
+0xB473B910 = ~z~come on!
+
+0xB584BC12 = ~z~He's the only one.
+
+0xB754C667 = ~z~Where's John?
+
+0xB908AF2D = ~z~Yeah.
+
+0xB5168C99 = ~z~good people.
+
+0xB6508DFE = ~z~~sl:0.3:0.0~Those goddamn bastards...
+
+0xB7439ADF = ~z~Dutch!
+
+0xB438897F = ~z~Just get out of here and go live your life...
+
+0xB545589C = ~z~You see those on our right?
+
+0xB1062210 = ~z~I ain't no rat, Black Lung.
+
+0xB2174413 = ~z~Up there on the ridge!
+
+0xB3567789 = ~z~~sl:0.0:2.1~I figured that you and I...~sl:1.0~had some unfinished business.
+
+0xB4482230 = ~z~to be put on a boat and tried for murder.
+
+0xB6377771 = ~z~You're losing your strength, Mr. Morgan.
+
+0xB9346520 = ~z~Still making jokes.
+
+0xBA6E79B4 = ~z~I made a mistake, I'm sorry!
+
+0xBACC1CF3 = ~z~
+
+0xBAE3EE12 = ~z~Shit.
+
+0xBAEEAFB5 = ~z~and you've gone crazy.
+
+0xBB45C794 = ~z~Rest of us...
+
+0xBB6642CF = ~z~Let's go, Arthur, come on!
+
+0xBBAA1462 = ~z~
+
+0xBBCE3C45 = ~z~Get on, Arthur, get on.
+
+0xBBE1943B = ~z~
+
+0xBBF46F34 = ~z~
+
+0xBC066163 = ~z~You alright, Abigail?
+
+0xBCDA1976 = ~z~I see Arthur Morgan and John Marston.
+
+0xBCDFDF3B = ~z~Oh, Dutch...
+
+0xBCECD314 = ~z~You believe him?
+
+0xBD3C9DC7 = ~z~Come on boys.
+
+0xBDB68D3E = ~z~You go.
+
+0xBDD8296C = ~z~Be quiet. You live in the clouds.
+
+0xBDF84B9E = ~z~now.
+
+0xBE1A2F4C = ~z~
+
+0xBE1AE514 = ~z~~sl:1.2:1.7~Go on...~sl:0.0:1.0:1~you go first.
+
+0xBE2E8B35 = ~z~and cover me.
+
+0xBE5EE6F1 = ~z~What happened to Jack? Where is he?
+
+0xBE77AAAF = ~z~John I didn't...
+
+0xBE551D42 = ~z~There's a chest in them caves.
+
+0xBEDBBCF5 = ~z~No doubt...
+
+0xBEE0A1B0 = ~z~Maybe, but I'll be the last one you'll kill.
+
+0xBF4BBC5D = ~z~I know...
+
+0xBFEA7F2C = ~z~Come on, we gotta move.
+
+0xC0171DFC = ~z~I'm gonna go get your momma.
+
+0xC0990D2E = ~z~Okay, Mr. Milton.
+
+0xC0E13882 = ~z~Dutch!
+
+0xC1DADCD8 = ~z~Dutch...
+
+0xC2A2F8A0 = ~z~You know, all that ever mattered to me was loyalty.
+
+0xC2C827AA = ~z~I wanna live, cowpoke...
+
+0xC2DA7D04 = ~z~
+
+0xC4CB2A52 = ~z~at Copperhead Landing.
+
+0xC4D5698F = ~z~There!
+
+0xC5B35E55 = ~z~Save your breath, Morgan.
+
+0xC5FE4C04 = ~z~You lie, Micah.
+
+0xC6A1C6E3 = ~z~took her to Van Horn...
+
+0xC6AB4416 = ~z~Well...
+
+0xC6EDCBA1 = ~z~Get the hell out of here and be a goddamn man.
+
+0xC7C65FB5 = ~z~You're not better than me, Morgan.
+
+0xC7CAD549 = ~z~Like I said he would.
+
+0xC7D604FB = ~z~Stop this...
+
+0xC7DEE985 = ~z~I have a plan. You just have to trust me.
+
+0xC8A355E7 = ~z~
+
+0xC8A831E8 = ~z~In the back to the left.
+
+0xC9F870D7 = ~z~Come on...
+
+0xC11FDB8F = ~z~You have turned into my son.
+
+0xC19E30CA = ~z~And Eagle Flies. Another angry young fool he used, just like he did with the rest of us.
+
+0xC28C1B28 = ~z~~sl:0.0:4.7:1~Oh, boy. You can't exactly beat it out of him now, can ya?
+
+0xC29FF3C4 = ~z~~sl:0.7~That money's mine.
+
+0xC40C8E5C = ~z~You've got sad eyes, mister. Like you've seen... sad things.
+
+0xC49B1EC6 = ~z~Now, I'm gonna watch you die.
+
+0xC50E3467 = ~z~I just wish you'd done it before he worked hisself into the grave.
+
+0xC53BE106 = ~z~We need to get the hell out of here.
+
+0xC55D3E2A = ~z~
+
+0xC58E62DA = ~z~What happened to John?
+
+0xC63CEBB1 = ~z~Save who you can and let the rest rot.
+
+0xC72F375D = ~z~I think you should cover me and I'll go in there and get her.
+
+0xC75AE7D8 = ~z~That's a goddamn lie.
+
+0xC77DB249 = ~z~Dutch!
+
+0xC81AB386 = ~z~~sl:0.0:2.4~There's no time, we'll have to come back.~sl:0.3~They're right on us, Arthur. Come on!
+
+0xC93C4C50 = ~z~You're dying, Black Lung...
+
+0xC169F900 = ~z~I'm really sorry for you, son, it's a hell of a thing.
+
+0xC223BEEC = ~z~We offered you a deal, Mr. Morgan...
+
+0xC249D3CC = ~z~~sl:1.9:6.7~In the end, Micah... despite my best efforts to the contrary...~sl:1.4:1.9:1~it turns out I've won.
+
+0xC347C693 = ~z~You rat.
+
+0xC753BB07 = ~z~Dutch...
+
+0xC807BC09 = ~z~~sl:3.1:2.2:1~Still got some fight in you, huh?
+
+0xC4153AC8 = ~z~I'm gonna take every cent of that money.
+
+0xC7328E91 = ~z~He got killed, or he got captured.~n~~m~No.
+
+0xC8188F8C = ~z~I'm gonna get you out of this bullshit...
+
+0xC77561D9 = ~z~You should've run when you had the chance.
+
+0xC94172D1 = ~z~~sl:0.5:0.0~Ladies... la... ladies... I-I'm fine...
+
+0xC479304D = ~z~Bye bye, Arthur...
+
+0xC986850C = ~z~You've lost.
+
+0xC3466616 = ~z~But he is wrestling with a giant.
+
+0xC4777700 = ~z~On the railroad to the right!
+
+0xC7020605 = ~z~~sl:0.0:4.2:1~I'm sorry, feller, but you're too late. Arthur's dead.
+
+0xC9755765 = ~z~There're too many, Arthur. Let's go!
+
+0xCA512865 = ~z~
+
+0xCAB9A744 = ~z~Come on.
+
+0xCBD90F31 = ~z~~sl:0.0:0.9:1~You rat!
+
+0xCBE71391 = ~z~Dutch...
+
+0xCBF6B7B3 = ~z~I'll... I'll miss...
+
+0xCC31D308 = ~z~you should have taken it.
+
+0xCC709985 = ~z~John...
+
+0xCD1CAC33 = ~z~You've lost, Black Lung!
+
+0xCD9E9DA9 = ~z~If we can still get Abigail... ~rp~maybe her and Jack will be okay.
+
+0xCD9F7479 = ~z~And you believe him, Black Lung?
+
+0xCD32EB6E = ~z~no.
+
+0xCD466A67 = ~z~Lay down your weapons now. We have you surrounded.
+
+0xCD909B70 = ~z~Get behind a rock.
+
+0xCDDB6E65 = ~z~We're coming for you, Morgan.
+
+0xCDE1BECB = ~z~~sl:0.0:1.8:1~We already owe more than it's worth.
+
+0xCE00390E = ~z~Are you alright, Arthur?
+
+0xCE01BF47 = ~z~He wasn't perfect, but he did.
+
+0xCE3A7637 = ~z~Abigail shot him.
+
+0xCE5D324A = ~z~
+
+0xCE9F6941 = ~z~Come on! We gotta move!
+
+0xCE77120B = ~z~I got what I wanted.
+
+0xCE456401 = ~z~I dunno, the whole world seems different somehow.
+
+0xCEB78142 = ~z~Die!
+
+0xCEBCD091 = ~z~~sl:0.0:4.0:1~All there is... winning... and losing...
+
+0xD04F161D = ~z~
+
+0xD0582F88 = ~z~the lighthouse or something...
+
+0xD068441E = ~z~but he is right.
+
+0xD06C2B9C = ~z~You'll be dead, sure...
+
+0xD0F9712B = ~z~
+
+0xD0FA5E28 = ~z~is with me...
+
+0xD2C31397 = ~z~We got more on the right, Arthur!
+
+0xD2E05218 = ~z~Dutch...
+
+0xD5FDCD09 = ~z~Me too, sweetheart...
+
+0xD7D14532 = ~z~
+
+0xD7DD1E42 = ~z~I'm half dead and you still can't kill me.
+
+0xD12CC483 = ~z~Micah...
+
+0xD25D61D6 = ~z~Goddamn it! Move!
+
+0xD28DE274 = ~z~
+
+0xD48BCB83 = ~z~You go get that boy...
+
+0xD57CD3F8 = ~z~I'm okay.
+
+0xD57DE1BB = ~z~I must say, Arthur...
+
+0xD67F9DBF = ~z~
+
+0xD72F4C59 = ~z~Seems that's what they do now.
+
+0xD80F7026 = ~z~It's him.
+
+0xD85C90EC = ~z~
+
+0xD174A244 = ~z~Here...
+
+0xD423E60D = ~z~Arthur!
+
+0xD779E8CB = ~z~It's him.
+
+0xD785CFC7 = ~z~Thank you...
+
+0xD981B32F = ~z~I'm really sorry, Abigail, I'm...~n~~m~No.
+
+0xD6584ECA = ~z~So we just gonna let the boy be made an orphan?
+
+0xD100549E = ~z~That all you got?
+
+0xD2517450 = ~z~I'll hold them off.
+
+0xD4157284 = ~z~Ahead of us on the left!
+
+0xD5850332 = ~z~Come on now... let's end this.
+
+0xD8128051 = ~z~Whatever you say, you fool.
+
+0xD8284221 = ~z~I think I've pushed all I can.
+
+0xDABAF4A6 = ~z~The others have run for it.
+
+0xDB5E48B6 = ~z~
+
+0xDB10D6B9 = ~z~I don't need it anymore.
+
+0xDBFE8254 = ~z~to not look back...
+
+0xDCDA524A = ~z~Mr Morgan, Mr Marston. You're trapped. Surrender and we will take you alive.
+
+0xDCFA4BFD = ~z~Arthur, we gotta go.
+
+0xDCFF0089 = ~z~It's nonsense.
+
+0xDDC1339A = ~z~I can see one in the trees!
+
+0xDDE7AA5B = ~z~Spineless bastard.
+
+0xDE91B2A2 = ~z~
+
+0xDE323D08 = ~z~Mrs. Adler will take you to him, but...
+
+0xDEE78EDB = ~z~But...
+
+0xDF3A7FB0 = ~z~Our time has pretty much passed.
+
+0xDF7A611E = ~z~Dutch...
+
+0xDFB1B023 = ~z~
+
+0xDFE372DE = ~z~
+
+0xE0032F30 = ~z~Shit, they're everywhere. This way.
+
+0xE03AF313 = ~z~You weak fool.
+
+0xE0A510F7 = ~z~Here...
+
+0xE0E4B6E6 = ~z~I should've killed you long ago.
+
+0xE2B23716 = ~z~God damn you all!
+
+0xE2D8681C = ~z~The best.
+
+0xE3EC1A82 = ~z~I'm right here. Come and get me.
+
+0xE6AF1309 = ~z~I stopped you...
+
+0xE7E0DA85 = ~z~Tuberculosis.
+
+0xE8C890D1 = ~z~It's just us anyway, John.
+
+0xE8D55003 = ~z~They're all yours, Morgan.
+
+0xE9CE7FF4 = ~z~be practical now.
+
+0xE38F5911 = ~z~That so... Black Lung, that so?
+
+0xE39E4697 = ~z~Thank you.
+
+0xE40BEA31 = ~z~It-it ain't like that!
+
+0xE44B6796 = ~z~You keep spoutin that mumbo jumbo...
+
+0xE54F16C1 = ~z~Come on, we need to leave right now.
+
+0xE55CD740 = ~z~Hey, we got one of them over here!
+
+0xE62D1CC6 = ~z~I want them out of there now, dead or alive. Do you understand me?
+
+0xE63A271A = ~z~Maybe it's a sign, Arthur... try... try to do the good thing.
+
+0xE134E1E8 = ~z~
+
+0xE228FEF6 = ~z~I'm a fool, Mr. Milton.
+
+0xE248E54D = ~z~brother.
+
+0xE661A989 = ~z~Hurry, we ain't got long...
+
+0xE682C8C8 = ~z~come and get me you bastards.
+
+0xE796E0FE = ~z~no...
+
+0xE1267C20 = ~z~not even Colm.
+
+0xE595341A = ~z~We've gotta go, come on!
+
+0xE3100997 = ~z~You're the rat, Micah.
+
+0xE6472509 = ~z~Yeah, I got you.
+
+0xEA7392AC = ~z~Go to your family.
+
+0xEA93152D = ~z~Not Molly, Dutch.
+
+0xEAB388EB = ~z~
+
+0xEB5F9A32 = ~z~You shut your mouth.
+
+0xEBA0400F = ~z~
+
+0xEBA73781 = ~z~
+
+0xEBD0AF5E = ~z~He...
+
+0xEC5F4A70 = ~z~Bastards, all of you!
+
+0xEC21FC32 = ~z~
+
+0xEC781856 = ~z~That's all there is...
+
+0xED32DBCF = ~z~every man here knows it.
+
+0xED523162 = ~z~The bastards grabbed me outside camp... I was with Tilly and Jack...
+
+0xEE05A085 = ~z~They're everywhere, we gotta move!
+
+0xEE540FC6 = ~z~On the left Arthur. They'll keep Dutch busy.
+
+0xEE4908E9 = ~z~My boy...
+
+0xEE4926E9 = ~z~like I said.
+
+0xEF08F6A7 = ~z~They have no way out of there. Find them and kill them.
+
+0xEF578C6E = ~z~Left me!
+
+0xEFA6AE89 = ~z~~sl:0.0:1.8:1~you ain't gonna reach that gun.
+
+0xEFB6DC3A = ~z~Pinkertons in the trees ahead, look out.
+
+0xEFBA22EB = ~z~Not Molly, Dutch.
+
+0xF0A51EB2 = ~z~
+
+0xF0BF0989 = ~z~Micah, you dirty rat.
+
+0xF1E3E531 = ~z~you know it...
+
+0xF1F254A4 = ~z~Cannot stay away, huh, Black Lung?
+
+0xF2AA742C = ~z~Get up some place high, like...
+
+0xF2AD2B05 = ~z~Micah!
+
+0xF2F0077C = ~z~so I reckon we should go in the other way.
+
+0xF2F686A8 = ~z~I want you...
+
+0xF3FFD0EF = ~z~Now, Arthur, let's go!
+
+0xF9DE8DF3 = ~z~There's a big picture here, Arthur. Trust me.
+
+0xF9F74BAB = ~z~Arthur...
+
+0xF17D55B1 = ~z~
+
+0xF20D7F55 = ~z~And Eagle Flies. ~rp~Another angry fool he used, just like he did with the rest of us.
+
+0xF52FDFAE = ~z~both of you fools.
+
+0xF79EAD02 = ~z~Arthur...
+
+0xF95B2E17 = ~z~
+
+0xF186B2BA = ~z~just take it, ain't no use to me now.
+
+0xF440E7B8 = ~z~You lived your way. You'll die your way.
+
+0xF5390B09 = ~z~What's that?
+
+0xF5818A02 = ~z~I been dead a long time... now I'm alive.
+
+0xF8526C67 = ~z~Be safe.
+
+0xF19329B1 = ~z~Let's get the money and get outta here.
+
+0xF83350E7 = ~z~After all I done for you boys!
+
+0xF852130F = ~z~Now I gotta go settle some things.
+
+0xF3514486 = ~z~They're still coming! Go left here!
+
+0xFA09A1D2 = ~z~All of you...
+
+0xFA3093A1 = ~z~Where's Van der Linde? Get after them and find him!
+
+0xFA128020 = ~z~Where's Sadie?
+
+0xFA315128 = ~z~all of you.
+
+0xFAC2FF0C = ~z~It's gonna be alright. We're going to get Abigail out.
+
+0xFB8AF56E = ~z~Dutch, we gotta go. Come on!
+
+0xFB33B006 = ~z~we hid, but they took Abigail.
+
+0xFCA3394D = ~z~Kill him!
+
+0xFCFC5A2B = ~z~
+
+0xFD478F5A = ~z~
+
+0xFDA63EBF = ~z~You're talking nonsense.
+
+0xFDDB4AF2 = ~z~
+
+0xFE3FF19C = ~z~Can't you see I've won?
+
+0xFE6ABA3D = ~z~Get greedy did you, Black Lung?
+
+0xFE48EE43 = ~z~You can all go to hell!
+
+0xFE94258D = ~z~Come on, Arthur!
+
+0xFEB3C1BA = ~z~Abigail, you ride mine.
+
+0xFF40C8DA = ~z~Look out ahead on the left!
+
+0xFF47BDF5 = ~z~a survivor.
+
+0xFF72898E = ~z~My Pa used to say you stare into the fire long enough, you can see the whole world pass by.
+
+0xFFAE80C6 = ~z~we need to keep riding on this one, Dutch...
+
+0xFFB30862 = ~z~Well...
+
+0xFFBB1E6D = ~z~
+

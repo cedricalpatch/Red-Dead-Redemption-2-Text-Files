@@ -1,0 +1,518 @@
+0x00504D96 = ~z~Alright, all done.
+
+0x00838120 = ~z~reckon they might be relatives of yours...
+
+0x0088E813 = ~z~but our families bully them and drove most of them off...
+
+0x00CBEC39 = ~z~My family have turned quite mad and are threatening to send me away, to stop my work, which they say is disgracing them.
+
+0x016310FF = ~z~I'm in your hands... just get me to Rhodes Railway Station.
+
+0x016A482B = ~z~Oh... Arthur, come on!
+
+0x030E4674 = ~z~Hey!
+
+0x0618F893 = ~z~Beau?
+
+0x06742277 = ~z~Alright, all done.
+
+0x06CD3523 = ~z~No, perhaps I don't. He's a good man and he's lucky... you're both lucky to have each other.
+
+0x070BB46A = ~z~Hold tight, alright. I'll take a look up front.
+
+0x08EED159 = ~z~I couldn't take it.
+
+0x098588FF = ~z~Will you ride on the train with us a little... just to the first stop?
+
+0x09EAC393 = ~z~Okay, let's try and get you a train.
+
+0x0A01BB90 = ~z~To be different from folk. You don't know how hard that can be...
+
+0x0A8D0033 = ~z~Excuse me, Alden.~n~~m~Hey, you leave him alone!
+
+0x0BC87EBE = ~z~I think it's my second cousin.
+
+0x0C05571A = ~z~Hey, you there.
+
+0x0C9067DD = ~z~You okay?
+
+0x0CBE3675 = ~z~They killed her...
+
+0x0E56051E = ~z~~sl:0.0:4.1~Come on, Arthur... if that is his real name, I...~sl:0.4~It doesn't matter, he can fight.
+
+0x1E7FDB35 = ~z~I knew how you Braithwaites treated enemies... now I know how you treat kin, too.
+
+0x1EC8A892 = ~z~Come here, Yankee.
+
+0x1ED48C69 = ~z~~sl:1.3:0.0~W-we're fine.
+
+0x2B54F4DF = ~z~It's a great shame on a family that's shamed already.
+
+0x2BFC04C4 = ~z~You must have all the jewels in the state, the amount of your cousins is here.
+
+0x2C2D8103 = ~z~There are worse.
+
+0x2C7D463E = ~z~You got lucky last time!
+
+0x2D317D9B = ~z~they would've killed all of us.
+
+0x2E5A47CD = ~z~Get on the train and get your bags, miss...
+
+0x3ADFA28B = ~z~They're coming from over the hill.
+
+0x3C13E340 = ~z~you leave him alone you philistine beast!
+
+0x3F300E4A = ~z~We must go.
+
+0x4B0A3EA9 = ~z~Mr. Morgan.
+
+0x4E4DA70F = ~z~~sl:0.8:0.0~Sir... how can we ever repay your kindness?
+
+0x5A050069 = ~z~We should'a done this last time!
+
+0x5A8CD855 = ~z~Mr. Arthur, I didn't know you could drive a train.
+
+0x5A11B6EF = ~z~Oh, oh, you came...
+
+0x5B74B701 = ~z~Of course.
+
+0x5BABA3BB = ~z~They do so love hanging folk.
+
+0x5D02A585 = ~z~monsters, if God had lost all his powers of imagination.
+
+0x5E6B0C1F = ~z~Beau, Arthur's going to join us, I think we need the support.
+
+0x5E2394BE = ~z~well wherever it stops first please.
+
+0x5E97245E = ~z~how delightful.
+
+0x5F4DD5AD = ~z~Four fists and maybe one brain between ya.
+
+0x6B675363 = ~z~You got 'em! Quick, come up on the train.
+
+0x6BDE3033 = ~z~Two for Boston and one err...
+
+0x6C2DFEAD = ~z~I'll figure it out.
+
+0x6E114726 = ~z~I got this.
+
+0x6E647790 = ~z~Look! Behind us!
+
+0x6EC6DDA5 = ~z~Follow me, miss.
+
+0x6F6C078B = ~z~Maybe anger's a complicated thing to let go of...
+
+0x7AE612C7 = ~z~Oh, you came.
+
+0x7E20A4F4 = ~z~Something good has to come out of this awful, awful feud.
+
+0x7FED1563 = ~z~I know, charming to the last.
+
+0x8B0931A0 = ~z~Such violence.
+
+0x8CDC045F = ~z~You were once very kind to Beau and myself and it pains me to ask you to show us further kindness,
+
+0x8DCA0F97 = ~z~I've hardly seen him since the rally, they watch me so carefully... and he's waited, or...
+
+0x8E63CEC8 = ~z~They're up the hill of us!
+
+0x8F0B0519 = ~z~there's good people in this county...
+
+0x8FB2C80C = ~z~But yeah... far as it goes, get out, don't look back, and make something decent of your lives.
+
+0x9A91ADBF = ~z~Driver.
+
+0x9B25A0F2 = ~z~but I have nowhere else to turn and nobody else upon whom I can impose.
+
+0x9CC1567D = ~z~I came.
+
+0x9E1B3039 = ~z~Well, well. If he's there, that's true love alright.
+
+0x9EC06A5A = ~z~I'm hardly a man at all... but I love you, Penelope Braithwaite.
+
+0x9EF67E42 = ~z~That work for you?
+
+0x9FEA1F03 = ~z~I'll deal with this.
+
+0x12BB258F = ~z~I... I saw a few fellers...
+
+0x12D0E5F9 = ~z~Miss Braithwaite is gonna hold onto this until arrival...
+
+0x14AE3C71 = ~z~Now there's only one of you.
+
+0x14FED186 = ~z~This could be the best day of my life, or the worst... I can't bear not knowing which.
+
+0x16A6A341 = ~z~Fine.
+
+0x18B25E2D = ~z~Jewels? I knew you had some damn jewels.
+
+0x18B458F5 = ~z~to say something is wrong, when everyone around you thinks it's right.
+
+0x26E78CDE = ~z~That might be wise.
+
+0x27B60FC3 = ~z~on account of the treasure on your person.
+
+0x29E5B2F4 = ~z~I think they found out about the jewels.
+
+0x30A4FE42 = ~z~All she wanted was a better lot for women...
+
+0x30D74E0F = ~z~I ain't quite sure.
+
+0x34B22873 = ~z~before any more of your relatives show up.
+
+0x38CF9A34 = ~z~Mr. Morgan.
+
+0x39E0BA8C = ~z~You are...
+
+0x43B0F2DE = ~z~and they killed her, those pigs.
+
+0x43D01EB2 = ~z~Get him, Scott.
+
+0x46AB360A = ~z~Plenty before you have. Plenty will again.
+
+0x47E0ADF6 = ~z~I'll do what I can from Boston for her.
+
+0x50FF482A = ~z~Let's see now.
+
+0x51E4B953 = ~z~My uncle used to say things were better the way they were...
+
+0x55C21F88 = ~z~and then Leigh Gray and those boys killed... so much bloodshed...
+
+0x58E79010 = ~z~Thank you. We'll meet you on the platform.
+
+0x59EDDDD9 = ~z~Fine.
+
+0x61D28A6F = ~z~Here.
+
+0x65D54B36 = ~z~Arthur! Please, get on!
+
+0x67A0F7D6 = ~z~Where are you going? Aren't you gonna take me there?
+
+0x67E05730 = ~z~~sl:0.3:0.0~Can I have... three tickets to Saint Denis please, sir?
+
+0x73B5AE35 = ~z~a gentleman, sir.
+
+0x73C43FA1 = ~z~Get me away from all this.
+
+0x80E101D9 = ~z~I'm guessing it's best if we just stay low.
+
+0x88AAEF96 = ~z~Sure...
+
+0x90EFCEB9 = ~z~Beau... my sweet... my best of men...
+
+0x91C3D7DB = ~z~It's alright, it's over.
+
+0x92CD911A = ~z~Can you...
+
+0x92E8490B = ~z~Well, I...
+
+0x99C31AB5 = ~z~What is with it with all these goddamn cousins?
+
+0x330C5195 = ~z~Who killed her?
+
+0x354BD538 = ~z~Oh, I must escape, yet I am kept prisoner here. Can you help?
+
+0x379BEF50 = ~z~Of course.
+
+0x401E1B04 = ~z~They're coming from behind the train.
+
+0x435B45C5 = ~z~let's get you off to Boston...
+
+0x633F6E0E = ~z~Hold on. It'll be clear soon enough.
+
+0x694EF5D9 = ~z~It's best you go on alone from here.
+
+0x705DC7EB = ~z~Oh, my Lord.
+
+0x766A4B15 = ~z~Please could you buy the tickets, dear Mr. Morgan? We can't chance being seen.
+
+0x936A9338 = ~z~Well, if they saw me and him together they'd...
+
+0x955EF187 = ~z~Oh, no I ain't.
+
+0x992FDB12 = ~z~That's what I been hoping.
+
+0x1849B175 = ~z~Remind me to rob your trains, mister.
+
+0x3682EDE7 = ~z~Dammit, you did run...
+
+0x4534F50E = ~z~Yours faithfully,
+
+0x5366C502 = ~z~Sure you will... goddamn.
+
+0x8643F8EB = ~z~Where you heading?
+
+0x8824D265 = ~z~Sure.
+
+0x9058F928 = ~z~Of course.
+
+0x9426E0F1 = ~z~Have you got a horse? We should ride there.
+
+0x10900C21 = ~z~With pleasure, you goddamn fool.
+
+0x26100B9B = ~z~Now...
+
+0x29523DBD = ~z~No, we don't wanna go.
+
+0x51309AFE = ~z~Driver, we're in the clear.
+
+0x53089C04 = ~z~There he is... it's him.
+
+0x78015C66 = ~z~Up to Boston.
+
+0x82975DA5 = ~z~Oh, hello, sir.
+
+0x96221C42 = ~z~More men.
+
+0x103578DF = ~z~Not terribly, but good to see you.
+
+0x247148FB = ~z~Good, they'll like you up there.
+
+0x347891A5 = ~z~sometimes I feel like we can't just leave death and pain and ruination behind us.
+
+0x1866571F = ~z~Look. Is that the driver? He's abandoning us!
+
+0x3912905A = ~z~I told myself she was better off here, with family, than in a sanatorium, but maybe she isn't.
+
+0x7230879C = ~z~Why have we stopped?
+
+0x51020934 = ~z~Yeah, well...
+
+0xA0DDCF6C = ~z~What the hell's going on? Is this a train robbery?
+
+0xA0E20C2D = ~z~You're a fine man, sir.
+
+0xA5B008D4 = ~z~Get on the train, Beau. Go to your woman.
+
+0xA9F90D8C = ~z~You better catch that train.
+
+0xA13E65B7 = ~z~and I didn't kill any of us.
+
+0xA34DDC24 = ~z~so, what do you expect? Good manners?
+
+0xA583A37D = ~z~Hello, Alden, I hope all is well.
+
+0xA628E362 = ~z~You're gonna get hurt, cowboy.
+
+0xA712C228 = ~z~and then all that business with Aunt Catherine and my cousins... you saw the house...
+
+0xA2028AD2 = ~z~Old family heirloom.
+
+0xA2206CE7 = ~z~He's a good man isn't he? Beau?
+
+0xA22130A5 = ~z~Why couldn't he come and rescue you?
+
+0xA43633EB = ~z~my cousins, probably, or...
+
+0xAAE3F2C2 = ~z~You came... you finally came.
+
+0xAB277F01 = ~z~Beau and I have to be better. Our families were here for years and years...
+
+0xABFC2261 = ~z~I don't know how to thank you.
+
+0xAC53A761 = ~z~Thank you, Mr. Arthur.
+
+0xACBD8DBE = ~z~~sl:0.0:1.6:1~There, there... it's all gonna be alright.
+
+0xACF21A39 = ~z~Yeah, sounds fine.
+
+0xADCD8329 = ~z~~sl:1.0~I'm sorry, I, I didn't mean to laugh. He's a lot of things, but...
+
+0xAE46BBBC = ~z~Alright, keep your heads down...
+
+0xAEEF4A41 = ~z~or maybe they'd lynch us both...
+
+0xAFFF18D1 = ~z~If you have a horse, I can jump on the back of it.
+
+0xB077F678 = ~z~Then again, my uncle used to keep his own half-brother as a slave...
+
+0xB1CB8091 = ~z~Alright, calm down, miss.
+
+0xB3AC1B7C = ~z~
+
+0xB5C22BED = ~z~Hey, uh...
+
+0xB63B8CBB = ~z~Check the ridge!
+
+0xB93D7CED = ~z~~sl:0.3:0.0~Some of them jewels would do just fine...
+
+0xB4492F5F = ~z~That Braithwaite treasure.
+
+0xB6715861 = ~z~Not even animals, monsters...
+
+0xB7366708 = ~z~Time to start this train again.
+
+0xBA6D291D = ~z~~sl:0.9:0.0~Damn those brutes, damn those brutes!
+
+0xBA60E8C4 = ~z~so his letters say... our families won't let us out...
+
+0xBA9543E4 = ~z~Thank you, sir.
+
+0xBAC0E57F = ~z~Penelope Braithwaite this ain't about no star crossed lovers.
+
+0xBAD2CE1B = ~z~No, hey no, you leave us alone.
+
+0xBB844F28 = ~z~Okay, you still got a train to catch...
+
+0xBC2CBF22 = ~z~I ain't got much money but...
+
+0xBCAFB9B4 = ~z~Get on in.
+
+0xBE6DC3A4 = ~z~these sapphires are worth a lot of money.
+
+0xC4C7251B = ~z~Oh my. Oh my.
+
+0xC5AE77BF = ~z~lynch him and send me off to a nunnery...
+
+0xC5C12EBC = ~z~Neither did I...
+
+0xC7A4468D = ~z~You don't want to mess around over there.
+
+0xC9E07E67 = ~z~Dear sir,
+
+0xC18A98A1 = ~z~and he didn't have to work a day in his life.
+
+0xC413AFB5 = ~z~Not strong like you... but strong enough to stand up to his family.
+
+0xC575D554 = ~z~All of ya.
+
+0xC784FA88 = ~z~can you please take me to the train station?
+
+0xC3416DB1 = ~z~All over this silly feud.
+
+0xC4601C39 = ~z~Almost...
+
+0xC9086A86 = ~z~Hey, cousin.
+
+0xC39694E1 = ~z~If you're going to shoot those folks, do it from the flat car.
+
+0xC4002844 = ~z~The ridgeline!
+
+0xCA01546B = ~z~you carry protection on a journey like this?
+
+0xCC6708CB = ~z~More men? More men?
+
+0xCD2DA80F = ~z~Please... draw them away from the passengers. I-I couldn't bear it.
+
+0xCE4C0812 = ~z~Well, you met them, they're animals.
+
+0xCEE73147 = ~z~Almost.
+
+0xCF67BBC9 = ~z~Oh thank you, thank you, you lovely, lovely man.
+
+0xCF9965FB = ~z~Yes you are.
+
+0xCFB26E1E = ~z~~sl:0.3:1.5:1~Yeah fine, I think.
+
+0xCFD40A4A = ~z~As if their history of absolute moral depravity, utter debauchery and perpetual drunkenness did not disgrace them enough.
+
+0xD098EB9A = ~z~Just get out of here.
+
+0xD1BA65CD = ~z~~sl:0.0:2.0:1~Will you buy the train tickets for us?
+
+0xD2A99959 = ~z~In the hope you'll show up? Or I'll show up to help you show up?
+
+0xD5A064DA = ~z~Your train. It's leaving.
+
+0xD8F3C773 = ~z~Both our families...
+
+0xD9D63635 = ~z~This is painful for me. Can we go?
+
+0xD9E08791 = ~z~Penelope Braithwaite.
+
+0xD14B6197 = ~z~they got money, they'll pay you on arrival.
+
+0xD33F3C0A = ~z~when he can rape and kill with impunity...
+
+0xD76FEC53 = ~z~
+
+0xD98ADFF2 = ~z~
+
+0xD913F290 = ~z~Wouldn't be much of a stage driver if I didn't.
+
+0xD949C60C = ~z~Goodbye Rhodes...
+
+0xDACC5292 = ~z~Oh, come on, let's go, we ain't got a minute to lose.
+
+0xDB3E3692 = ~z~Come on, let's go.
+
+0xDBDFA421 = ~z~Beau will be waiting.
+
+0xDDE90A8B = ~z~Alright, I'm gonna go... try and start this train, see if we can get out of here.
+
+0xDFDF9D3E = ~z~Keep your heads down. Let me deal with these fellers.
+
+0xE00B2ABC = ~z~Most days I am to be found at the cabins on the plantation. The main house and all it stood for are thankfully no more.
+
+0xE073AC61 = ~z~or Beau's.
+
+0xE38F3B24 = ~z~And Beau's just waiting at the station?
+
+0xE77A722E = ~z~but if I'm honest, it was kind of fun...
+
+0xE79F76CC = ~z~He's kind, and he's caring, and he's strong...
+
+0xE97CF33D = ~z~There, on the ridge!
+
+0xE230ED1F = ~z~you'd think this could be a new beginning... but everyone left alive... they're even more angry...
+
+0xE561CD4C = ~z~Leave her.
+
+0xEA7C8708 = ~z~Up there. Look.
+
+0xEB59C155 = ~z~I will, of course, pay you handsomely for your troubles.
+
+0xEBCA012B = ~z~Will you ride on the train with us a little... just to the first stop?
+
+0xEBCD300B = ~z~Penelope get back.
+
+0xED2F5A74 = ~z~Good, they'll like you up there.
+
+0xEDF94320 = ~z~What?
+
+0xEE461CE4 = ~z~Goes everywhere I do...
+
+0xEF789E01 = ~z~This couple is heading up north, to the Boston line...
+
+0xF01C543E = ~z~I said he would see me there one day soon, and today he will. God willing.
+
+0xF06A3E53 = ~z~He stopped the train. We're trapped here. What are we going to do?
+
+0xF0F0D1DE = ~z~She's robbed her own family blind. Good for her, I guess...
+
+0xF2F64CEE = ~z~whites as well as blacks.
+
+0xF5D1571C = ~z~I don't know...
+
+0xF6E23433 = ~z~Didn't want to come back here without giving you a whipping.
+
+0xF9C32066 = ~z~You came, you came, at last you came.
+
+0xF37F6987 = ~z~That's my poor cousin... there's no helping her. Believe me, I've tried.
+
+0xF381FA7C = ~z~Hello, future...
+
+0xF7988A76 = ~z~Two through to Boston, and one to... wherever it stops first please.
+
+0xF6631319 = ~z~What will you do?
+
+0xF8422293 = ~z~Oh dear, they're above us. On the hill.
+
+0xFA6A980E = ~z~killed some of your relatives, but...
+
+0xFC9D0EC9 = ~z~That is quite a family you've got there, son.
+
+0xFDB73A7E = ~z~Yeah?
+
+0xFDF8A588 = ~z~We're here... he'll be out at the front.
+
+0xFE96C3F9 = ~z~Thank you.
+
+0xFEDBBD33 = ~z~Now...
+
+0xFF06F213 = ~z~He goes to there every day he can... makes up some excuse or other...
+
+0xFF801BF9 = ~z~they killed Ms. Calhoon.
+
+0xFFAC8226 = ~z~
+

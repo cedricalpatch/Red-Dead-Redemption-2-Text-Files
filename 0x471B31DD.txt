@@ -1,0 +1,448 @@
+0x02893C2A = ~z~
+
+0x036CDE2B = ~z~So much for loot, what damn loot?
+
+0x0468241B = ~z~You see Bill anywhere?
+
+0x047C8455 = ~z~Micah...
+
+0x053D8937 = ~z~but you're no better than the rest of us.
+
+0x0579C624 = ~z~After we're done with you,
+
+0x0675A6AE = ~z~You're a goddamn bunch of cowards!
+
+0x06B9BA9B = ~z~For hell's sake... check the back, come on!
+
+0x0842968F = ~z~Been waiting for you, Arthur.
+
+0x097F32EE = ~z~
+
+0x09F892A9 = ~z~when things don't work out.
+
+0x0A1CE2C3 = ~z~What the... ahh, goddammit!
+
+0x0A422193 = ~z~
+
+0x0B7199FE = ~z~Looks like you're the only one left around here...
+
+0x0BDE5023 = ~z~You Grays must be even dumber than I thought.
+
+0x0D3C0B04 = ~z~Can we trust them?
+
+0x0D7F520A = ~z~Better in here than out there.
+
+0x0DBBF2C9 = ~z~~sl:0.0:1.9~We ain't getting out of this with nothing,~sl:~and that's assuming we even get out of it.
+
+0x1AACA609 = ~z~You're getting sloppy, Morgan.
+
+0x1B0DD60B = ~z~Shut up.
+
+0x1BEBF03E = ~z~I'll kill this whole town if I have to.
+
+0x1BFB3B11 = ~z~~sl:0.0:1.2~Sheriff?~sl:~Sheriff.
+
+0x1E03B88B = ~z~Get outta my sight...
+
+0x1E6D6156 = ~z~Well, I'm sorry to have kept you.
+
+0x2BC4D645 = ~z~Oh, you act so high and mighty...
+
+0x2DEDAA64 = ~z~I can't believe you shot me, you bastards!
+
+0x2F743A74 = ~z~Go easy on him, Morgan.
+
+0x3A1772EA = ~z~You don't give a damn about nobody but yourself.
+
+0x3C2DBCD4 = ~z~So yeah, I'm thinking the Grays might be onto us after all.
+
+0x3DCA9E35 = ~z~'Cause we need to stay in with them... and they're paying.
+
+0x3F1AFD46 = ~z~So yeah, I'm thinking the Grays might be onto us after all.
+
+0x3F21EB7B = ~z~Shit!
+
+0x4A0B8964 = ~z~You wanna join your little friend there, do ya?
+
+0x4BA7447D = ~z~Goddammit, Morgan... I'm getting hammered here!
+
+0x4F3C6EF7 = ~z~Looks like you're the only one left around here...
+
+0x4F9EFBB4 = ~z~Not right now, they got us penned in good.
+
+0x5BE1083C = ~z~We'll find him later.
+
+0x5BF6190D = ~z~Oh... Bill...
+
+0x5CE45CB1 = ~z~He was like an annoying little brother to me. What fun we had riding together...
+
+0x5DB28D66 = ~z~I'm gonna hit'em from the other side!
+
+0x5E92D6E7 = ~z~You inbred sons of bitches!
+
+0x5EB2073F = ~z~~sl:0.0:1.1~Come out, Sheriff.~sl:~It's over.
+
+0x6C55D333 = ~z~
+
+0x6C24720A = ~z~You Grays are finished! Dead!
+
+0x6CEBA3B2 = ~z~~sl:0.0:1.2~You're so dumb to think~sl:~we don't know what you been doing.
+
+0x6D4D3A8D = ~z~~sl:0.0:1.4~Always has been,~sl:~always will be!
+
+0x6E58BDD2 = ~z~Don't do it!
+
+0x7C233DFB = ~z~Come on, let's end this!
+
+0x7CEA5A7D = ~z~That's how you go through the front door.
+
+0x7E7EF860 = ~z~And you can fight...
+
+0x7F35DE5E = ~z~Only Grays I see left around here...
+
+0x7FF9FC7A = ~z~pair of fools.
+
+0x8A2BB747 = ~z~What a goddamn mess we are making of things.
+
+0x8B547F27 = ~z~How could you not think this was a trap?
+
+0x8C1708BC = ~z~They don't know we had anything to do with that.
+
+0x8E056DA3 = ~z~The cowards are in the gunstore!
+
+0x8E827CF7 = ~z~~sl:0.0:2.4~We put down far worse than you.~sl:0.3~A hundred times over.
+
+0x8F56F0AE = ~z~I'm gonna flank these bastards!
+
+0x9E1AACC3 = ~z~Oh, that so?
+
+0x9E423B3E = ~z~same as Hosea.
+
+0x13B5629B = ~z~~sl:0.0:1.4~we'll go after the others.~sl:0.5~Your women, your children,
+
+0x16E99B07 = ~z~Now it don't feel right?
+
+0x18F21A64 = ~z~You sure you wanna talk about this now, Morgan?
+
+0x19A881DA = ~z~You okay?
+
+0x21B8B893 = ~z~No.
+
+0x23FCD503 = ~z~Get back here, Morgan.
+
+0x28E04C49 = ~z~~sl:0.6:1.8:1~Didn't leave nothing for me?
+
+0x29F94F4E = ~z~I'm just so frightened by you...
+
+0x41ECBF2D = ~z~~sl:0.0:1.2~Or come out,~sl:~and face it like a man!
+
+0x42FBC14B = ~z~Die in there, cowering like a dog.
+
+0x43A18633 = ~z~Now it's sinking in?
+
+0x49BBF499 = ~z~Guns on the ground now.
+
+0x49E773C2 = ~z~is you!
+
+0x50B7BB31 = ~z~Shoot a man in the back of the head?
+
+0x54D50535 = ~z~we destroyed their farm...
+
+0x56EBA068 = ~z~Or just ignore me and go in the front.
+
+0x63B71F71 = ~z~Is he dead?
+
+0x65B52C13 = ~z~Is that right?
+
+0x65DB4103 = ~z~Morgan?
+
+0x67A6BFD8 = ~z~Yeah.
+
+0x69A0124E = ~z~Sean has been killed...
+
+0x70B27CAE = ~z~Shit.
+
+0x82C9A832 = ~z~We're about to find out.
+
+0x83F0763F = ~z~Sons of bitches.
+
+0x85ACE6E4 = ~z~He was out trying to find a lead, same as you....
+
+0x86B07474 = ~z~Well, I bathed just for you.
+
+0x87FA4F02 = ~z~his head shot half off in an ambush.
+
+0x92E548BA = ~z~Goddamn mess we're making of things.
+
+0x93CF9CEF = ~z~I'll blow his brains out!
+
+0x93DFF839 = ~z~~sl:0.0:1.0~And what about Bill?~sl:~Where the hell's he?
+
+0x98E3FBA2 = ~z~A bunch of two-bit thugs from God knows where?
+
+0x153F0BA0 = ~z~Shit...
+
+0x252D1436 = ~z~Who do you think you are?
+
+0x293B3FAA = ~z~I could'a told you that-
+
+0x336CB0B5 = ~z~~sl:0.0:1.9~You need to get a hold on this town,~sl:~it's going to hell!
+
+0x337FED09 = ~z~Well, I'm sorry to have kept you.
+
+0x343A63D0 = ~z~best you and I don't speak for a moment.
+
+0x387E417B = ~z~~sl:0.0:1.2~Sheriff?~sl:~Sheriff.
+
+0x510C1BDF = ~z~Shit.
+
+0x661DC79E = ~z~but you can't think.
+
+0x709C57CC = ~z~Come on.
+
+0x713AD0D0 = ~z~What the hell...
+
+0x728AC581 = ~z~Where is that son of a bitch?
+
+0x833B6797 = ~z~You put the gun down, Sheriff!
+
+0x876C0A3A = ~z~Bill, take the boy's body.
+
+0x940E9EB0 = ~z~Sheriff Gray...
+
+0x1271C77C = ~z~~sl:0.0:2.9:1~They spoke to Bill about a job... needing security.
+
+0x2514ECBE = ~z~~sl:0.0:4.5:1~Dutch said we was to keep on dealing with them until we find this gold.
+
+0x2523D051 = ~z~Come on, let's get going.
+
+0x3642F98F = ~z~Hey, where are you going?
+
+0x4193CD03 = ~z~Sheriff Gray!
+
+0x5227B158 = ~z~Don't you run off on me, Morgan!
+
+0x6319A1BE = ~z~should I go on?
+
+0x6542B8E4 = ~z~~sl:2.2~Dammit!
+
+0x6594AB95 = ~z~~sl:0.8:0.0~Be late to his own funeral, that one.
+
+0x6633BC6D = ~z~This is some damn posse the Grays rounded up.
+
+0x6878F391 = ~z~~sl:0.0:2.1~After the farce of stealing the horses for them,~sl:0.0:1.1:1~why we doing this?
+
+0x7099C254 = ~z~Both of you!
+
+0x7797EDEA = ~z~six months now?
+
+0x8016ED68 = ~z~They think it was the Braithwaites.
+
+0x9710ED2F = ~z~Still no confederate gold...
+
+0x9793E198 = ~z~Just turned out to be sooner.
+
+0x14020EF1 = ~z~No, real good, like better than usual.
+
+0x51921E87 = ~z~And all you ever done was complain.
+
+0x57790F5E = ~z~
+
+0x73018A09 = ~z~What's the plan?
+
+0x75080CAF = ~z~So what kinda security they want?
+
+0x77025C63 = ~z~Get down!
+
+0x85572EB4 = ~z~~sl:0.0:0.7~Come on.~sl:0.2~Let's get going.
+
+0x86155CA4 = ~z~Sheriff Gray...
+
+0x95158B53 = ~z~You know we can't do that.
+
+0x700026E0 = ~z~I'm running low on bullets here!
+
+0x934993C5 = ~z~We're stuck in the middle of some ancient feud,
+
+0x1005952D = ~z~You see Bill anywhere?
+
+0x36543379 = ~z~
+
+0x37805022 = ~z~We'll come out!
+
+0x54706434 = ~z~~sl:0.0:0.9~Last.~sl:~Chance.
+
+0x72643542 = ~z~Come on.
+
+0x74974131 = ~z~Oh, Sean... you idiots!
+
+0x92992094 = ~z~Okay, cowpoke.
+
+0xA0E2A1B7 = ~z~This is the Grays' town.
+
+0xA1D53A3D = ~z~Not all of them.
+
+0xA3F826FF = ~z~Morgan, get the hell over here.
+
+0xA4ECECC9 = ~z~what fun we had riding together.
+
+0xA5A89BCA = ~z~Looks like most of 'em.
+
+0xA27E5C7D = ~z~There's plenty more where that came from.
+
+0xA51D8948 = ~z~but a shit load of trouble.
+
+0xA85AC143 = ~z~big misunderstanding about them horses.
+
+0xA843C111 = ~z~Let's just see what they say.
+
+0xA5462FDA = ~z~We ain't getting out of this with nothing, and that's assuming we even get out of it.
+
+0xA79145B5 = ~z~We'll find him later.
+
+0xAC578FB8 = ~z~They're in the gunsmith's!
+
+0xACC40BFC = ~z~We'd have had to deal with these sons of bitches sooner or later.
+
+0xAFD7029D = ~z~He was like an annoying little brother to me...
+
+0xB04455D8 = ~z~~sl:0.0:0.9~Either way,~sl:0.3~you're a dead man.
+
+0xB0C2CEB7 = ~z~Listen, I know these Gray boys a bit now. This is on the level.
+
+0xB2EBA4E4 = ~z~~sl:0.0:1.4~Sean has been killed...~sl:1.0~his head shot half off in an ambush.
+
+0xB7CEA6A6 = ~z~~sl:0.0:1.1~You see that window~sl:~in Sean's skull?
+
+0xB9EF2F10 = ~z~~sl:0.0:1.2~Come out, Sheriff,~sl:~or we're coming in!
+
+0xB51AE0C8 = ~z~~sl:0.0:1.0~And what about Bill?~sl:~Where the hell's he?
+
+0xB87A4C7E = ~z~they set us up once before...
+
+0xB716E98F = ~z~Bury him proper someplace quiet.
+
+0xB2901D88 = ~z~Is this the best you fools got?
+
+0xB86213BF = ~z~See that? Those cowards are running away.
+
+0xBA9265AE = ~z~They said there was some...
+
+0xBAA565D8 = ~z~And... what about burning their fields?
+
+0xBB7FC778 = ~z~Not all of them.
+
+0xBE21AEB7 = ~z~This is some damn posse the Grays rounded up.
+
+0xBE282975 = ~z~Hurry, Arthur, you need to get in there!
+
+0xC0465C22 = ~z~Well, how the hell was I to know?
+
+0xC6B3E8F1 = ~z~they didn't like us...
+
+0xC58D4223 = ~z~Don't talk to me about sloppy.
+
+0xC146BAF5 = ~z~Now you're gonna pay.
+
+0xC7950DE3 = ~z~Except when it's your goddamn fault.
+
+0xC15541B7 = ~z~~sl:0.0:2.7~Still no confederate gold...~sl:0.8~but a shit-load of trouble.
+
+0xCA264171 = ~z~Come on, Arthur, find a way in there!
+
+0xCCAF8690 = ~z~~sl:0.0:1.5~but instead of playing both sides,~sl:~we're being used by both of them.
+
+0xCF947B9D = ~z~You see a way outta here?
+
+0xCFAA063E = ~z~~sl:0.6:0.0~I'm being genuine, Bill.
+
+0xCFE5FB61 = ~z~Let me see...
+
+0xD01290AE = ~z~Can we trust anyone?
+
+0xD1C3723D = ~z~I'm fine!
+
+0xD64B11E3 = ~z~You call this getting the job done?
+
+0xD547A948 = ~z~You don't know what you're talking about.
+
+0xD1697AD4 = ~z~Look at him, of course he's dead!
+
+0xD6987ECC = ~z~~sl:0.0:0.6:1~Shit!
+
+0xDAA4D7DF = ~z~This seem legit to you, Bill?
+
+0xDB17FBE3 = ~z~Morgan, what are you doing?
+
+0xDC46E5B2 = ~z~Come on, Morgan, get in there, now!
+
+0xDE01135C = ~z~~sl:0.0:1.7~'Course we're getting out of it.~sl:~This is you and me, Morgan. We always get the job done.
+
+0xDE25A97C = ~z~They were saying that Catherine Braithwaite...
+
+0xDF84B3E8 = ~z~Shit.
+
+0xDF80037A = ~z~Now it's sinking in?
+
+0xE0E69368 = ~z~~sl:0.0:2.1:1~Real heavy over here, fellers.
+
+0xE2CCE582 = ~z~You-you're looking real nice today, Bill.
+
+0xE4D84511 = ~z~You can't do either.
+
+0xE8C67591 = ~z~We're meeting a couple of the Grays over at the saloon.
+
+0xE70F3EA7 = ~z~Yeah.
+
+0xE54601A4 = ~z~You sure about that?
+
+0xE8467322 = ~z~Now come on.
+
+0xEB993C7F = ~z~'Course we're getting out of it. This is you and me, Morgan. We always get the job done.
+
+0xECCCB0F3 = ~z~You call this getting the job done?
+
+0xEEF414F4 = ~z~All of you,
+
+0xF02FD07F = ~z~We'd have had to deal with these sons of bitches sooner or later. Just turned out to be sooner.
+
+0xF094424B = ~z~You want us to come out?
+
+0xF0A2D7DB = ~z~Looks like most of 'em.
+
+0xF2CB082B = ~z~~sl:0.0:0.6:1~Sure.
+
+0xF9C78D52 = ~z~You wanna cross me, do you?
+
+0xF85C5DE9 = ~z~Hey, hold up.
+
+0xF98B6047 = ~z~This don't feel right.
+
+0xF431C3F8 = ~z~He was a good kid.
+
+0xF1061D3D = ~z~we'll bleed 'em all out one by one!
+
+0xF3014B4F = ~z~So much for loot, what damn loot?
+
+0xF4230CC2 = ~z~We been waiting for you, Arthur.
+
+0xF20635A7 = ~z~I'll get the front, you take the back!
+
+0xF4068358 = ~z~~sl:0.7:0.0~No.
+
+0xF4769615 = ~z~We need to get into this store, Morgan!
+
+0xF5336923 = ~z~I ridden with you boys close on what...
+
+0xFC02F6BE = ~z~All you do is complain...
+
+0xFC4B4A31 = ~z~~sl:1.4~None of these bastards gonna walk out of here.
+
+0xFC3346F0 = ~z~
+
+0xFCB6B079 = ~z~~sl:0.0:2.5~pour a broadside into those sons of bitches!~sl:~I want them dead!
+
+0xFE48B4F8 = ~z~We played you boys like a fiddle.
+
+0xFF5AB9E6 = ~z~Are you out of your goddamn mind?
+

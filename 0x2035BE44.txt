@@ -1,0 +1,78 @@
+0x0A6B00CD = The wagon became inoperable.
+
+0x0EA05512 = Talk to the ~o~Rancher~s~
+
+0x0EA3DEAA = Strawberry
+
+0x2A38343D = Lose the outlaws
+
+0x3C277DA6 = Retrieve the stolen ~o~wagon~s~.
+
+0x4BF97EC8 = Wait for ~o~Abigail~s~
+
+0x4CFBCB40 = Angus Geddes has died.
+
+0x4E82FB61 = You threatened Mr. Dickens.
+
+0x5B6209FA = Return the wagon to ~o~Pronghorn Ranch~s~
+
+0x5CBB1620 = You failed to bring your family to Strawberry.
+
+0x5CD7D6AA = You lost the wagon.
+
+0x5E518026 = Catch up to the stolen ~o~wagon~s~
+
+0x6ADD2BF7 = Threaten
+
+0x7B83E400 = Go to ~o~Strawberry~s~
+
+0x7DBAC39D = Check out the ~o~homestead.~s~
+
+0x9A038B3C = Return to your ~o~wagon~s~
+
+0x9A285BFB = Deliver the goods to ~o~Pronghorn Ranch~s~
+
+0x9C1744CF = The wagon became stuck.
+
+0x32A133E1 = You attacked a store worker.
+
+0x54CB3560 = You attacked Angus Geddes.
+
+0x55C2E8B6 = You broke the law.
+
+0x87A7F52B = You killed a store worker.
+
+0x231EDD68 = Outlaw
+
+0x92880D72 = You threatened a rancher.
+
+0xA4528B5D = Speak with the ~o~Shopkeeper~s~
+
+0xA96689DD = You lost too many of the goods.
+
+0xAF217A4A = Mount a ~o~horse.~s~
+
+0xB418A742 = Pronghorn Ranch
+
+0xB853E145 = Go to the ~o~Doctor's Office~s~ to meet with Abigail
+
+0xBBF3C693 = Return to ~o~Mr. Dickens~s~
+
+0xC2BCC66A = Wait for ~o~Jack~s~
+
+0xC60AC46F = Mr. Dickens
+
+0xC84F4E2F = Return to ~o~Strawberry.~s~
+
+0xC91C1CFC = You killed the store owner.
+
+0xD715AF47 = To stop the wagon you can block its path or jump aboard from your horse.
+
+0xDB203DE0 = Call Out
+
+0xE91D9C46 = Your family were abandoned in Strawberry.
+
+0xF6A190D9 = You attacked the store owner.
+
+0xFADC9A03 = Some years later
+

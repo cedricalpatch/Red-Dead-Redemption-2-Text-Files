@@ -1,0 +1,46 @@
+0x085040B1 = ~z~if we can get everyone to start shooting... maybe we can sneak...
+
+0x2CC5099E = ~z~New York, maybe... I don't know... but... but...
+
+0x4BC4AC2E = ~z~~sl:0.0:0.8:1~I know.
+
+0x94C83E38 = ~z~~sl:0.0:2.7~The port in Saint Denis is being watched,~sl:~major rail junctions are being watched...
+
+0x95F1408A = ~z~~sl:3.3~There's patrols out looking for us.
+
+0x196DE2EC = ~z~out the side, while everyone else is just sniffing gun smoke.
+
+0x85759F93 = ~z~~sl:0.7:1.0:1~Can I sit?
+
+0xA7A5B965 = ~z~Excuse me.
+
+0xACF189F9 = ~z~~sl:0.0:1.1:1~I know...
+
+0xB35F7B66 = ~z~Of course.
+
+0xBA2F6EC5 = ~z~Excuse me.
+
+0xBD062A22 = ~z~~sl:0.0:4.1~Maybe... if you and I can slip out to Blackwater...~sl:0.7~then send word once we get the money you stashed there.
+
+0xCA7D29A1 = ~z~there's Pinkertons out patrolling the roads.
+
+0xCB3C2BB1 = ~z~that is our way... out of this trap, gentlemen.
+
+0xCF38CE87 = ~z~~sl:1.4~I don't know... I think...
+
+0xD3C25796 = ~z~We were just discussing that...
+
+0xD51DBEF2 = ~z~
+
+0xDF0AD2BC = ~z~Well... as far as I can tell, we're penned in.
+
+0xE1B2F37B = ~z~~sl:0.0:1.7:1~What we gonna do Dutch?
+
+0xE5E17BD4 = ~z~~sl:1.2:5.5~What we need, is a distraction. Now we have got...~sl:1.9~Pinkertons... an army...
+
+0xF0367513 = ~z~If we go all together... we're doomed.
+
+0xF56D54F3 = ~z~Hey, Arthur.
+
+0xF6901D31 = ~z~~sl:0.0:5.1:1~and everyone... they're just jumpy as all hell, if we can somehow...
+

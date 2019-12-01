@@ -1,0 +1,254 @@
+0x01677F45 = ~z~I'm going to die here, please!
+
+0x046E72C6 = ~z~Oh, Lord, get away from me!
+
+0x0838D989 = ~z~You... you scared 'em off!
+
+0x0ACFDC5B = ~t~In Spanish: God, save me!
+
+0x0BBDE8B6 = ~z~Yes! Good shot!
+
+0x0BE7C3F6 = ~z~Please, please help me!
+
+0x1B30322C = ~z~One of you, please! Please, help!
+
+0x1D4B66BD = ~z~My friend, please, please help!
+
+0x1DB34E1E = ~z~Dios!
+
+0x2BE5EA83 = ~z~No! Not empty... no...
+
+0x2DBF6B1F = ~z~Oh, no more!
+
+0x2F561DEF = ~z~Oh God, no! You stay back!
+
+0x3B303FD8 = ~z~They're running...
+
+0x3D6CF352 = ~z~Run! Find your dinner elsewhere!
+
+0x4C4B1461 = ~z~Won't you help me? Oh, God...
+
+0x4E939901 = ~z~You saved my life! You did... I cannot thank you enough.
+
+0x5AE6BA91 = ~t~In Spanish: God, why?
+
+0x5CA9547A = ~t~In Spanish: Hell yes!
+
+0x5F85F371 = ~z~Ay, yes!
+
+0x6ABD7E4C = ~z~Yes, yes! Goddamn, yes!
+
+0x6ADE2E95 = ~z~Surely one of you ain't a coward?
+
+0x6E69E462 = ~z~Why do you all stand there?
+
+0x6EC60EB4 = ~z~Shoot them! Do something!
+
+0x7A8DF0E6 = ~z~Help me, please, any of you!
+
+0x8AB48208 = ~z~Yes!
+
+0x8C9B61DD = ~z~Oh, oh please, please help me!
+
+0x8E4F0321 = ~z~Goddamn you to hell!
+
+0x9A70059D = ~z~~sl:0.0:2.6~I'll be seeing those teeth for some time, I reckon...~sl:0.8:1.1~thank you.~sl:0.7~Thank you.
+
+0x9D2326E5 = ~z~That's it!
+
+0x9E8FA70E = ~z~Get away!
+
+0x9E28830E = ~z~I... I don't want to hurt you!
+
+0x9EBFFC97 = ~z~Get! Go away... go away!
+
+0x9FBA355F = ~t~In Spanish: Goddammit!
+
+0x14FCCC8E = ~z~Those teeth...
+
+0x19A719EB = ~z~You little shits!
+
+0x22E3AAE3 = ~z~One of you's gonna help me, right?
+
+0x32E077A6 = ~z~Not those teeth...
+
+0x38A97D01 = ~z~Do something, please!
+
+0x41A50AD9 = ~z~Quick! One of you, all of you, quick!
+
+0x46C0428D = ~z~Hope to see you again. In town, maybe?
+
+0x54ED6E9A = ~t~In Spanish: Don't you dare...
+
+0x56E43557 = ~z~Help, please... any of you...
+
+0x65A106CC = ~z~Oh, thank God... they're dead...
+
+0x71A28F66 = ~z~You must save me!
+
+0x77F4C8C2 = ~z~One of you must have a gun?
+
+0x82CC2708 = ~z~No way, you ain't ganging up on me!
+
+0x89BA4FD7 = ~z~Oh, thank you, thank you!
+
+0x95BD7DFE = ~z~What I would've done if you fine folk hadn't showed up.
+
+0x95D64E57 = ~z~I ain't ready for this...
+
+0x99ABE7B8 = ~z~It's dead!
+
+0x228B6399 = ~z~~sl:0.0:2.9~You people saved my life, you did!~sl:0.3~I cannot thank you enough.
+
+0x409F1323 = ~z~No, no, no...
+
+0x669AF957 = ~z~I will be eaten!
+
+0x677E035D = ~t~In Spanish: God, yes!
+
+0x863AE54E = ~z~Mierda! Will one of you do something!
+
+0x863B7191 = ~z~All of you, any of you! I'm gonna die!
+
+0x916C18C3 = ~z~I'll kill you, I'll burn you alive!
+
+0x3634D650 = ~z~What'd I do to you people?
+
+0x7660D961 = ~z~Yes, kill the damn things!
+
+0x8639FC2C = ~z~~sl:0.0:3.8~You are good people. Okay, okay...~sl:2.0~This happened fast. They... they surrounded me.
+
+0x9660ABDD = ~z~No, no... Oh, God...
+
+0x21474B40 = ~z~From the bottom... I thank y'all for saving me.
+
+0x23088EFE = ~z~What the hell are you doing?
+
+0x69513C92 = ~z~Shoo, damn it!
+
+0x88967DCC = ~z~Serves you right!
+
+0x190578C6 = ~z~Back! Get back, damn it!
+
+0x322798B1 = ~z~That's what you get!
+
+0x398245F7 = ~z~Oh, that's all of them?
+
+0x402822FC = ~z~No...
+
+0x416678B9 = ~t~In Spanish: Goddamn beasts!
+
+0x2267507D = ~z~Oh God, please! Shoot them!
+
+0x9349096D = ~z~I would be dead if not for you, I'm sure of it...
+
+0x9529933F = ~t~In Spanish: God, save me...
+
+0x23886231 = ~t~In Spanish: Good shot!
+
+0x79826070 = ~z~Hey! I could really use some help here!
+
+0xA1BC3796 = ~z~Oh! You! Over here, please! You have to help me!
+
+0xA32E2CDF = ~z~
+
+0xA110A5E0 = ~z~Y'all deserve more'n I could give you...
+
+0xA350F7C9 = ~z~Please! They'll kill me!
+
+0xA696361C = ~z~Por favor, no!
+
+0xAB93163D = ~z~Leave me alone! Leave me be!
+
+0xAD0643FB = ~z~Come on... I'm skin'n bones!
+
+0xAE2D1C84 = ~z~~sl:0.0:3.1~Well. I'm alive due to your bravery.~sl:~I won't forget it. Thank you.
+
+0xAFF8C8DD = ~z~This cannot be how I die...
+
+0xB0D05D6A = ~z~Can any of you help me? Please!
+
+0xB1A3946E = ~z~You just gonna let me die? Huh?
+
+0xB298F950 = ~z~Oh, oh... you did it... thank God.
+
+0xB858C064 = ~z~Run, you shits! Run!
+
+0xB15347BC = ~z~They're gonna kill me!
+
+0xB39020EF = ~z~God, save me, save me!
+
+0xB7179868 = ~z~Look at them! Good going.
+
+0xBA428FA7 = ~z~That's it!
+
+0xBF0209B4 = ~z~You have to help me!
+
+0xBFCE9188 = ~z~
+
+0xC04055B5 = ~z~All of you saved my life. Thank you. Really. Thank you.
+
+0xC6BE4C93 = ~z~Away from me!
+
+0xC6DC28DA = ~z~Yeah, go on!
+
+0xC19F6619 = ~z~~sl:0.0:2.2~I do not have any valuables, any money...~sl:~You deserve more, but I thank you from my heart.
+
+0xC27D6A10 = ~z~None of you's gonna do nothing?
+
+0xCCC3F267 = ~z~You have to help me!
+
+0xCF1222B3 = ~z~Mierda! You are evil people!
+
+0xCFAC9BD0 = ~z~Do something, please, for the love of God!
+
+0xD1D39F42 = ~z~~sl:0.0:2.3~Thank God... okay.~sl:0.5:1.5~Okay...~sl:1.2:1.4~Good for me you were here.~sl:0.1~Normally... I am better prepared.
+
+0xD47F9C95 = ~z~Don't chase me! Don't chase me!
+
+0xD53D362A = ~z~I'm about to be eaten!
+
+0xD572E9FC = ~z~Get back, damn it!
+
+0xD6375D95 = ~z~Come on, you have to help me!
+
+0xDBA3A992 = ~z~Well. I am alive. Thank you. Adios.
+
+0xE1FA94FC = ~z~That's right!
+
+0xE2BF7F4D = ~z~No bullets... I'm empty...
+
+0xE3CC59E1 = ~z~God knows where I'd be without you...
+
+0xE4D2B1B9 = ~z~You saved my life, all of you. Thank you for that.
+
+0xE48C1A53 = ~z~Oh, just in time!
+
+0xE84921CD = ~z~Yes, kill it!
+
+0xE992644E = ~z~~sl:0.0:3.3~Oh, thank you, thank you.~sl:0.4:2.5~Very fortunate you showed up.~sl:0.0:2.1:1~I might have ended up in ribbons...
+
+0xE7468858 = ~z~Y'all are evil!
+
+0xEB1A52AB = ~z~Oh God, shoot them!
+
+0xEBAE74B3 = ~t~In Spanish: Go to hell!
+
+0xEC55E76C = ~z~No! No!
+
+0xF04D56AC = ~t~In Spanish: Furry shits!
+
+0xF5A0B1FD = ~z~Leave me be!
+
+0xF96368A7 = ~z~You are kind people. Thank you.
+
+0xF5736489 = ~z~I hope you are rewarded for your help, somehow.
+
+0xFB246C36 = ~t~In Spanish: Disgusting shits!
+
+0xFCB380F7 = ~z~Will none of you help?
+
+0xFD93F79A = ~z~Please, please, you have to help me!
+
+0xFF58CC43 = ~z~Oh! Gracias a Dios! You are here to help me?
+

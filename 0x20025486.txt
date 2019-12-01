@@ -1,0 +1,530 @@
+0x01D10C59 = ~z~to liven it up by letting me help you shoot up half a town.
+
+0x02363AD3 = ~z~Check their pockets upstairs. Come on, hurry.
+
+0x03BD5350 = ~z~It ain't Skinny, Micah...
+
+0x04BCE6CD = ~z~Why?
+
+0x04F1D6C0 = ~z~Where we going?
+
+0x0518C3FE = ~z~Come on now.
+
+0x05FDBFF0 = ~z~He was gonna let me hang.
+
+0x07DDBC67 = ~z~Arthur? Arthur?
+
+0x07E077B8 = ~z~~sl:0.7:0.0~Thank you, friend.
+
+0x0983C740 = ~z~Oh, I ain't joking, cowpoke.
+
+0x0D9723E5 = ~z~there I was having a dull day only for you...
+
+0x0DB6EB4E = ~z~Hurry, Arthur, get me outta here.
+
+0x0E422FFE = ~z~I'm on the trail of a dangerous gang...
+
+0x0F8672D8 = ~z~did you miss me?
+
+0x0F918225 = ~z~I'll tell you later.
+
+0x1A6AE90E = ~z~I heard so much bluster out of your mouth these last six months...
+
+0x1CE35FFE = ~z~You think these bars can hold me?
+
+0x1E340B5F = ~z~did you miss me?
+
+0x1FDB8F9B = ~z~C'mon, get this door open.
+
+0x2AC36296 = ~z~~sl:1.2:1.0:1~Thank you, friend...
+
+0x2B24B94B = ~z~~sl:0.0:0.8~Come on!~sl:1.0~What the hell is wrong with you?
+
+0x2BF627DF = ~z~Even last night...
+
+0x2DABAA57 = ~z~There ain't much I care about more than those guns.
+
+0x2E75A0A6 = ~z~Arthur? Arthur?
+
+0x2E176AD9 = ~z~You got any dynamite?
+
+0x2FD1D0DE = ~z~Here we are.
+
+0x3BD4E8B0 = ~z~Let me outta here, you maggots!
+
+0x3C5AA0A6 = ~z~Bye now.
+
+0x3DAC4B4B = ~z~You got what's mine, Skinny?
+
+0x3E2FD7CF = ~z~I showed him... and I'll show the rest of this town!
+
+0x4B4C9AD6 = ~z~Look out, we got more coming in!
+
+0x4D23864D = ~z~I'm moving!
+
+0x4EA9096E = ~z~That was some good shooting, Morgan. I gotta hand it to you.
+
+0x4F0F9EBB = ~z~Ya!
+
+0x4F2FB1D8 = ~z~Yep?
+
+0x4F7AEEE8 = ~z~You ain't welcome here...
+
+0x4F59EEB2 = ~z~Hello, Maddy...
+
+0x5A95B5C7 = ~z~Ya!~n~~m~Ya!
+
+0x5AC9AF06 = ~z~What the hell are you waiting for?
+
+0x5F1AA627 = ~z~~sl:0.0:0.9:1~Bye now!
+
+0x6A2CFF9E = ~z~Yeah, well, you ain't funny at all...
+
+0x6B7F5F6C = ~z~~sl:0.0:3.3~Okay... you white trash!~sl:0.6~Shit...
+
+0x6B8257A0 = ~z~Reckon it's time we got out of here, Morgan.
+
+0x6C52E821 = ~z~Trust you? You have finally lost your damn mind.
+
+0x6C206A95 = ~z~God damn it! Take that son of a bitch down!
+
+0x6D2331B5 = ~z~
+
+0x7A4C9A1E = ~z~Get this O'Driscoll outta here, or there's gonna be another murder!
+
+0x7D4B20C8 = ~z~You hear me?
+
+0x7DB026A8 = ~z~sons of Dutch. Makes us brothers...
+
+0x7DFC533E = ~z~Stop sulking back there, Morgan!
+
+0x7E97016A = ~z~Shit, more of the bastards!
+
+0x7F236A4C = ~z~Moving up!
+
+0x7FE0C4C6 = ~z~I don't have much choice!
+
+0x8A95E421 = ~z~So you shot them?
+
+0x8A1439AD = ~z~It was just a fight that got outta hand!
+
+0x8A2542E7 = ~z~No, no, we're done here. Just get the hell out.
+
+0x8BD8AB31 = ~z~We don't deal with bounty hunters round here, son.
+
+0x8FFB4B3E = ~z~and sometimes brothers make mistakes.
+
+0x9A3BDC6F = ~z~No, I've been a bad boy, Arthur.
+
+0x9A6B0DB9 = ~z~I'm coming, genius...
+
+0x9D6F09D3 = ~z~They had something of mine.
+
+0x9E5A43BD = ~z~And thank you...
+
+0x9F230A19 = ~z~Skinny, get out here!
+
+0x12B8724D = ~z~Let's go.
+
+0x14B0DFC8 = ~z~No.
+
+0x17BB7B4C = ~z~it's Norman.
+
+0x20C75636 = ~z~Where are you going now?
+
+0x24A6286F = ~z~Shooter up left, you see him?
+
+0x24A56565 = ~z~Don't leave me in here, Morgan.
+
+0x27A6FF76 = ~z~My boys are coming for me!
+
+0x29B13F7B = ~z~That much is clear. Who was that feller?
+
+0x29EEAB4D = ~z~~sl:0.0:1.1:1~Come on, Arthur!
+
+0x33B9538B = ~z~Got a bit wild alright.
+
+0x35E84B9B = ~z~We got more of them over by the bridge!
+
+0x40EB826F = ~z~I reckon it's time we got out of here, Morgan.
+
+0x41A86652 = ~z~Why the hell did you do that for?
+
+0x41F8B815 = ~z~Arthur, Arthur.
+
+0x42CA0E4F = ~z~Outta my way.
+
+0x44F5F604 = ~z~Wild? Making a house call in the middle of all that?
+
+0x45A85903 = ~z~Oh spare me...
+
+0x45BD57EC = ~z~We could've been long gone but, no, you have to shoot the entire town!
+
+0x49E31AD0 = ~z~I'm giving you a holster...
+
+0x50AD5596 = ~z~Had a good time did you?
+
+0x50C76C4F = ~z~Hello, old friend. Had a good time, did you?
+
+0x52A097A2 = ~z~~sl:0.3~I'll tell you later...
+
+0x56A33600 = ~z~Why you act all sour all the time?
+
+0x56FE5941 = ~z~I'm sorry, but we're family now, Arthur.
+
+0x59DF7B8C = ~z~~sl:0.5:2.7:1~Let's get out of here! Keep moving, Arthur!
+
+0x60E8ADED = ~z~What the hell was that you pulled back there?
+
+0x60F111D4 = ~z~Excuse me a minute, Arthur...
+
+0x61BC894D = ~z~Finish these bastards!
+
+0x66A5191E = ~z~Calm yourself, woman...
+
+0x67B49DF3 = ~z~no...
+
+0x69C68111 = ~z~Okay... let's get outta here, before we get any more on our tail.
+
+0x70E62E3D = ~z~I work clean, I don't leave loose ends.
+
+0x72A6B53F = ~z~You always was a let-down, you fat sack of crap.
+
+0x72B0AE78 = ~z~~sl:0.0:2.6:1~It ain't 'Skinny', Micah, it's Norman...
+
+0x72C30867 = ~z~You goddamn maniac, I should've left you to hang.
+
+0x78B3C5A6 = ~z~Skinny, get out here!
+
+0x78D3409C = ~z~My guns...
+
+0x84C38A22 = ~z~Now you want get out of here?
+
+0x84C65667 = ~z~Making a house call.
+
+0x84DA583E = ~z~No!
+
+0x84DFFC20 = ~z~~sl:0.0:0.7~Come on!~sl:0.6~The hell is wrong with you?
+
+0x85EE51B0 = ~z~Keep shooting! Don't give up on me now!
+
+0x87A5652B = ~z~They got something of mine I ain't leaving without.
+
+0x88CA398C = ~z~I ain't seeing Dutch till I can bring him a peace offering.
+
+0x90A3AAFD = ~z~Oh shit!
+
+0x96D33FF5 = ~z~~sl:0.0:4.2~I'm starting to wish I had... and you owe Lenny, too.~sl:0.5~If he hadn't found us in time...
+
+0x97B3693B = ~z~Dammit. How many of these sons of bitches are there?
+
+0x99D05B7F = ~z~Skinny!
+
+0x163DFC6F = ~z~no you won't never change.
+
+0x195BE713 = ~z~I'll kill this whole town if I have to!
+
+0x214B768B = ~z~Yes, you will all be thanked profusely, I promise.
+
+0x289CF6D8 = ~z~~sl:1.0:2.8:1~Hundred dollars for the man who gets me out of here!
+
+0x327A903A = ~z~so why you gotta act like the court jester?
+
+0x385F3693 = ~z~Come on, let's clear them out!
+
+0x394D22C6 = ~z~And when they do, we'll burn this hick town to the ground!
+
+0x428D8980 = ~z~Move up, damn it.
+
+0x523C7D00 = ~z~~sl:0.0:4.6~I'm starting to wish I had... and you owe Lenny, too.~sl:0.3~If he hadn't found us in time...
+
+0x531BB5B3 = ~z~I got some unfinished business. Trust me, Morgan!
+
+0x556B80B8 = ~z~We should be long gone by now.
+
+0x617F9A45 = ~z~Come on, Morgan!
+
+0x618F357F = ~z~Why the hell you do that?
+
+0x658E7F58 = ~z~You going to get me out of here?
+
+0x713E0DC4 = ~z~You and me...
+
+0x746F6D43 = ~z~Just keep moving, Micah.
+
+0x799A4469 = ~z~Who do you sons of bitches think you are?
+
+0x908A9AC3 = ~z~Let's go!
+
+0x929DA780 = ~z~when we hang 'em.
+
+0x935F1452 = ~z~I'm gonna give you one more chance to get smart and walk on out of here.
+
+0x1972C190 = ~z~Maybe that steam donkey over there still works?
+
+0x2595CBC4 = ~z~Ya!
+
+0x3198E7D8 = ~z~I knew you was scum, moment I laid eyes on you!
+
+0x4038DDD0 = ~z~You gotta do something, Arthur...
+
+0x4794EEF4 = ~z~More lawmen up ahead!
+
+0x5869D3B5 = ~z~We're in it now, Morgan. What do you wanna do?
+
+0x6854A1DE = ~z~Think you're above the law, do you?
+
+0x7223A8DC = ~z~~sl:0.0:2.3~They had something of mine...~sl:~my guns.
+
+0x7886BCE1 = ~z~like I said, I need to see someone.
+
+0x7973D045 = ~z~Well that's your first mistake.
+
+0x9035FDC9 = ~z~Listen, there's one little problem...
+
+0x9103C78C = ~z~Lemme out!
+
+0x9526F364 = ~z~Skinny!
+
+0x9684FB93 = ~z~No...
+
+0x9702C054 = ~z~You're lucky Dutch has got your back, for some unknown reason.
+
+0x9813FBFB = ~z~We really should get out of here.
+
+0x11057D73 = ~z~You have really lost it this time.
+
+0x16273B8B = ~z~More riders!
+
+0x34489CCD = ~z~I ain't decided yet.
+
+0x37586F49 = ~z~Ya!
+
+0x47109D9D = ~z~Don't go that way, let's get the hell out of here!
+
+0x68798AC2 = ~z~What the hell are you doing?
+
+0x69984CA3 = ~z~Come on!
+
+0x71746BA2 = ~z~You're a funny feller, Arthur. Real funny.
+
+0x73616DCC = ~z~I think we finally lost 'em.
+
+0x76023A8E = ~z~Come on.
+
+0x532526E2 = ~z~Now you want get out of here?
+
+0x577084CE = ~z~Who?
+
+0x610532A0 = ~z~~sl:0.3:1.9:1~There's more of these morons.
+
+0x2371561F = ~z~Look, they're sending the whole brigade!
+
+0x2543845D = ~z~More of them. Shoot the devil outta those bastards.
+
+0x5811372C = ~z~Well, I hope so.
+
+0x8095036F = ~z~Thank you, Sheriff.
+
+0x32814425 = ~z~Got a gun up on your left, look out!
+
+0x45044082 = ~z~Arthur, you got the keys?
+
+0xA09ED078 = ~z~~sl:0.0:1.2~Another lot of'em.~sl:0.7~We are thinning the herd today!
+
+0xA3E7CA14 = ~z~You can look right enough...
+
+0xA37CC942 = ~z~the other's some kind of dumb mick...
+
+0xA55D689B = ~z~Just pull that lever, come on.
+
+0xA225EF93 = ~z~Now, I'm heading back to my little camp round back of Strawberry...
+
+0xA2624E7A = ~z~
+
+0xA12655CC = ~z~Well they weren't friends.
+
+0xA8913913 = ~z~~sl:0.8:0.0~Hey, you.
+
+0xAA6AAC1A = ~z~Get up here!
+
+0xAACAA9CD = ~z~I can see that.
+
+0xABB2B4C2 = ~z~wanting to see you swing.
+
+0xAC01FFE2 = ~z~
+
+0xAC7C0EDB = ~z~Calm yourself, woman. Like I said, I need to see someone.
+
+0xACDC0196 = ~z~Skinny!
+
+0xAF2CAD4E = ~z~What?
+
+0xAF4F186C = ~z~I ain't sure about this.
+
+0xB1DE46C0 = ~z~~sl:0.0:1.1:1~Hey, you.
+
+0xB7D5A3E5 = ~z~Real funny.
+
+0xB8FECE33 = ~z~See the horses? Come on, follow me.
+
+0xB45A13FB = ~z~come see me, maybe I can make things up to you?
+
+0xB65D6EFF = ~z~so maybe them's your boys.
+
+0xB72B4BB3 = ~z~Well you gotta do something.
+
+0xB168AEA4 = ~z~Skinny!
+
+0xB191F6A3 = ~z~Heard you had some sort of incident.
+
+0xB521C188 = ~z~Stay with me!
+
+0xB3953B26 = ~z~Hey, what the hell you doing in here with that gun drawn?
+
+0xB5526CED = ~z~Now one of 'em's an idiot...
+
+0xBA8D7C23 = ~z~my way of saying thank you.
+
+0xBAC9AB76 = ~z~We really should get outta here.
+
+0xBACADD86 = ~z~Now, give me a gun.
+
+0xBDC8355E = ~z~Let's get outta here, come on.
+
+0xBECA1B7C = ~z~What a modern disaster this is going to be.
+
+0xBF1B1A56 = ~z~Come on, you gotta try something.
+
+0xBF8BE21B = ~z~~sl:0.0:0.8:1~Bye now.
+
+0xBF260D8A = ~z~More of the bastards! Join the party, boys!
+
+0xC0EBD79C = ~z~Follow me, Arthur.
+
+0xC2E21943 = ~z~I've come from Blackwater...
+
+0xC3B25F95 = ~z~You might want to step back a bit.
+
+0xC3D9965F = ~z~This wall just needs some good forcing.
+
+0xC5A4DF12 = ~z~Hello, Maddy...
+
+0xC6F1EB40 = ~z~there's only one of me and there's a whole town full of people...
+
+0xC7CE66E1 = ~z~Arthur, get up here, dammit!
+
+0xC8EBD6DB = ~z~Keep riding, Morgan!
+
+0xC31D3A93 = ~z~Send 'em all out, come on! Everything you got!
+
+0xC35A0B5C = ~z~I should've known you were up to no good!
+
+0xC48FB466 = ~z~So you ain't heading back to Dutch?
+
+0xC4731D48 = ~z~
+
+0xC79692E2 = ~z~He was an O'Driscoll.
+
+0xC721908B = ~z~two men got killed.
+
+0xCBFED1CB = ~z~Now pull that lever.
+
+0xCCE06593 = ~z~This ain't the time for house calls.
+
+0xCE1D98B7 = ~z~Come on, this way. Yeah, who wants to see me hang now?
+
+0xCED289BF = ~z~Did a bank job down south, didn't end well.
+
+0xCEF86DE1 = ~z~Get the hell off my porch.
+
+0xCEF53169 = ~z~I-I was just wondering if I could get a description.
+
+0xD00BAF55 = ~z~~sl:0.5~They just ain't giving up, are they?
+
+0xD0649797 = ~z~Who else wants to step up? Come on!
+
+0xD06F3583 = ~z~You wanna get out of here, don't ya?
+
+0xD23A511D = ~z~Arthur, is that you?
+
+0xD65CC116 = ~z~Ain't much I care about more than those guns.
+
+0xD67DC07A = ~z~Colm O'Driscoll.
+
+0xD901B621 = ~z~Alright, take this son of a bitch down.
+
+0xD2820258 = ~z~I always looked up to you, Arthur.
+
+0xDA3CEE47 = ~z~He was an O'Driscoll.
+
+0xDA4C0D0D = ~z~You're lucky Dutch has got your back, for some unknown reason.
+
+0xDA703728 = ~z~They got in a fight...
+
+0xDB3D8524 = ~z~What the hell's going on here?
+
+0xDB9C81FB = ~z~~sl:0.5:1.4:1~You gonna get me outta here?
+
+0xDB9E5CD8 = ~z~I'm innocent... you sons of bitches!
+
+0xDCACBD0E = ~z~What the hell are you doing?
+
+0xDE0D052F = ~z~Excuse me a minute, Arthur...
+
+0xDF5F3B3A = ~z~Up here, come on. The law in this town's a damn joke.
+
+0xDFD5188C = ~z~Open the door.
+
+0xE0D891A5 = ~z~I weren't the traitor.
+
+0xE0F42E02 = ~z~I saw how it goddamn ended.
+
+0xE1FDBAC9 = ~z~Hell's coming for ya, right now!
+
+0xE4A3F5F0 = ~z~Arthur, over here.
+
+0xE8AB64D5 = ~z~Hello sir, I've er...
+
+0xE9FC9FCF = ~z~Well did you miss me?
+
+0xE10EE384 = ~z~Reckon it's time we got out of here, Morgan.
+
+0xE85F643A = ~z~Yes, hook that over the bars, see if you can pull them off.
+
+0xE438AB74 = ~z~
+
+0xE745AAC0 = ~z~Let's get to those horses, Morgan.
+
+0xED310E9B = ~z~and now I got an opportunity to watch you be silenced.
+
+0xEDE177E2 = ~z~You hurry, there'll be more law here any minute.
+
+0xEEC5A6A0 = ~z~You always was a letdown, you fat sack of crap.
+
+0xEFEFAAA1 = ~z~~sl:0.9:0.0~I ain't decided yet.
+
+0xF5CFC9C3 = ~z~Somebody send a wire to the state marshals!
+
+0xF6D50F10 = ~z~Now you want get out of here?
+
+0xF20A3408 = ~z~I was hoping you was dead.
+
+0xF844BF81 = ~z~It's a long story.
+
+0xF910FF8E = ~z~~sl:0.2~Give me a gun.
+
+0xF3078BAE = ~z~You inbred bastards ain't got a brain between you!
+
+0xFBACD03B = ~z~Get me outta here, come on.
+
+0xFC8FE539 = ~z~Skinny? Yeah, we ran together for a while.
+
+0xFC85D073 = ~z~Where are you, Morgan?
+
+0xFC98CD68 = ~z~Yeah, I see 'em.
+
+0xFCB8A4B7 = ~z~Alright, listen...
+
+0xFE0D3053 = ~z~Hello old friend...
+

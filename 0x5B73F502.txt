@@ -1,0 +1,38 @@
+0x01745831 = ~z~Your da?
+
+0x3AA1CA8F = ~z~~sl:0.0:0.9~My father,~sl:0.5~he alway say to me,
+
+0x5B1B8B86 = ~z~So is judging others, my little friend.
+
+0x7BD4CCF8 = ~z~If you know what I mean?
+
+0x9BF7AB83 = ~z~~sl:0.0:1.5~"If someone disrespects you...~sl:0.5~fillet them with a knife."
+
+0x9CC0E27D = ~z~~sl:0.0:1.9~We know you ain't a wise one,~sl:~now get out of here!
+
+0x9E261196 = ~z~~sl:0.0:1.4~From the sound of things,~sl:0.5~he was quite something.
+
+0x54F39D78 = ~z~I wasn't disrespecting. I was just looking after your mortal soul, honest.
+
+0x81CEF72E = ~z~If you know what I mean.
+
+0x898B6865 = ~z~Me da used to say, "The bigger the box, the smaller the gift."
+
+0x9062C9C1 = ~z~Well. We know you ain't a vain man.
+
+0x73218F3F = ~z~Get out of here.
+
+0x78499C09 = ~z~Get out of here.
+
+0x81532BA2 = ~z~Hey, Arthur.
+
+0x70795483 = ~z~
+
+0xB3A53C94 = ~z~Yeah, me da.
+
+0xC0DD5704 = ~z~You know, vanity is a sin, Mr. Escuella.
+
+0xCFF4F533 = ~z~Yeah, quite something.
+
+0xFFDEA87F = ~z~Do something useful.
+

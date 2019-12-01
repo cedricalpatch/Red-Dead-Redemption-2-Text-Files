@@ -1,0 +1,66 @@
+0x04B9AAA1 = ~z~Oh... thank you.
+
+0x060F01B1 = ~z~No, they're back!
+
+0x1EE5E44F = ~z~No! They got one of you!
+
+0x2C2661F6 = ~z~~sl:1.6:2.0:1~I can't believe I'm not dead...
+
+0x2C9689C3 = ~z~~sl:0.0:4.5~Mountain folk took me and my sister. I got away but... my sister... she's still...~sl:0.5~oh God, you gotta help me.
+
+0x3D216FD5 = ~z~~sl:0.0:1.2~Oh God, more of them!~sl:0.1~What do they want with us?
+
+0x6E76AEE2 = ~z~~sl:0.0:1.6~They have her in one of the houses...~sl:~well armed, so be careful... go on, go.
+
+0x7CD3E47B = ~z~I don't know what I'm going to do...
+
+0x8AA39BA0 = ~z~~sl:0.6~I don't believe it...
+
+0x67FBC515 = ~z~~sl:0.6~I want to go home...
+
+0x91E02A17 = ~z~Here. It's not much, but... please take this.
+
+0x163BA192 = ~z~Please... please just let my sister go...
+
+0x631F3909 = ~z~What are you waiting for, dammit?
+
+0x681D89E4 = ~z~Oh, come on... this is desperate...
+
+0x976E4B17 = ~z~~sl:0.0:1.2~You ain't another one of those~sl:~mountain folk, are you?
+
+0x12133F13 = ~z~Go! She don't got much time...
+
+0x35605D8C = ~z~Go, go!
+
+0x63901CA9 = ~z~~sl:1.2~We're not far now.
+
+0x78730D21 = ~z~Will you help me? I just want to get out of here.
+
+0x836890E9 = ~z~Oh, God... I can't believe you got me here...
+
+0x4826169E = ~z~I just want this to be over...
+
+0xA4D522F0 = ~z~Please... they got her in that old mining camp.
+
+0xA80C40DA = ~z~~sl:0.0:3.5~Oh, God, my sister... she okay?~sl:0.6:1.4~We were headed to a ranch house~sl:~northeast of here. The Adlers.
+
+0xACD6803A = ~z~This is too much. They're gonna kill us all!
+
+0xB7854844 = ~z~They find I'm gone, I don't know what they'll do to her...
+
+0xC23CA0B3 = ~z~Help me, please?
+
+0xC7717C9D = ~z~~sl:0.0:2.1~Hey! Oh, Jesus, I...~sl:~Please, come quick! Help me!
+
+0xCE38918D = ~z~~sl:0.6~Lord... why are you doing this to us?
+
+0xCEAA901E = ~z~Go, please, or they'll kill her I know it!
+
+0xDC93533E = ~z~Hello? You... come for me?
+
+0xE0157982 = ~z~Hey, hey... I'm begging you here...
+
+0xE5CC04EF = ~z~My sister's gonna die if you don't help me...
+
+0xE525BB0C = ~z~Maybe she made it there already?
+

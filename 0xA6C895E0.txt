@@ -1,0 +1,28 @@
+0x1B1E8E2E = ~z~You ain't been nothing but a bad apple from the start.
+
+0x1EBF1547 = ~z~We can't kill everyone.
+
+0x2DBAB366 = ~z~And him...
+
+0x2EE2358D = ~z~So... now what are the pair of you scheming about now, huh? You goddamn traitors.
+
+0x7B2FCE2B = ~z~You... you were nothing but a street rat when he found you.
+
+0x8D6DF2A7 = ~z~He believed in you, when no other son of a bitch would.
+
+0x613D7E57 = ~z~~sl:0.0:1.7~I'll listen to your words of wisdom...~sl:0.5~soon as I'm shown some evidence there's a brain inside your head.
+
+0x695FAA8B = ~z~Just seems like we're making a whole lot of trouble for... for no real reason.
+
+0x1684D741 = ~z~~sl:0.9:1.7~Ungrateful sons of bitches.~sl:1.0:1.0~All of ya.~sl:1.5~You'll get what's coming to ya!
+
+0x12885D4F = ~z~You ain't even been with us a full year and you think you know better!
+
+0x338422E5 = ~z~~sl:0.0:0.8~Okay...~sl:4.5:0.6~you know...~sl:1.9~you'll get what's coming to you.
+
+0xB322BE10 = ~z~Making trouble for those who deserve it always seemed reason enough for Dutch.
+
+0xC2CE5D67 = ~z~Problem is, I ain't sure he cares who he's fighting no more.
+
+0xC81B3A6B = ~z~~sl:0.0:0.7~And you...~sl:2.3~well, you're the lowest of the lot.
+

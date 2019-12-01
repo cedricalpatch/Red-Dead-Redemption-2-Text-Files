@@ -1,0 +1,18 @@
+0x0498CBE5 = ~z~Okay.
+
+0x4C59AA41 = ~z~Then we'll see the brilliance of Dutch's plan.
+
+0x7AEB0763 = ~z~
+
+0x8B9A479A = ~z~Not as far as I can tell,
+
+0x73D11808 = ~z~but I guess that's just a matter of time.
+
+0x673C6006 = ~z~~sl:0.0:0.7:1~Excuse me.
+
+0x50605123 = ~z~And anybody figured out who we are?
+
+0xC6AD500F = ~z~~sl:0.0:1.3~I don't know, I mean,~sl:0.3:1.3~seems kinda the same.~sl:0.2:2.0~Trees, animals, morons...~sl:0.3~same as any place I guess.
+
+0xF8F23498 = ~z~~sl:0.5:2.0:1~So what's going on out there, Arthur?
+

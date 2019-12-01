@@ -1,0 +1,166 @@
+0x00DE7A5F = ~z~Don't you take that tone with me. ~rp~I thought you said you love me.
+
+0x09D6CB33 = ~z~Cooper! No! What have you done?
+
+0x0CA9E8B3 = ~z~I...
+
+0x1BA19419 = ~z~Lilly Millet, she's a ranch maid here, you know where she is?
+
+0x1BE95C42 = ~z~She's with Cooper, over by the store.
+
+0x1D601B17 = ~z~Leave me alone, won't you? You've got the debt.
+
+0x1E07B4B1 = ~z~~sl:0.0:1.0~Oh, come on!~lr:0.1~Why's it always gotta be such a ~rp~goddamn performance with you?
+
+0x1F9BF6BD = ~z~Every dollar I had, I gave to him, so you can take it off of his dead body, you son of a bitch.
+
+0x2B090A8D = ~z~Nuh-uh.
+
+0x2C1AA548 = ~z~Just give him the money... Cooper!
+
+0x4DE4F89F = ~z~You know where Lilly Millet is?
+
+0x5D77EF6A = ~z~No
+
+0x5EC46BAB = ~z~I ain't giving him nothing.
+
+0x6B7E2426 = ~z~You don't have to do this.
+
+0x6B5884DF = ~z~Except a lesson in...
+
+0x6E671E69 = ~z~What do you want? I've got nothing to say to you.
+
+0x7A092240 = ~z~Cooper...
+
+0x8C34EBD3 = ~z~I... I'm sorry, I just don't know who that is! Why are you still asking me?
+
+0x9B1012EC = ~z~Lilly Millet... you know where she is?
+
+0x9C88B6EE = ~z~I didn't steal that... it's a debt... oh, dammit.
+
+0x9C583154 = ~z~~sl:0.0:3.5~The only problem I got is this bleating going on in my ear.~lr:0.2~Now lay off it, Lilly. Goddammit!
+
+0x9F38D4E2 = ~z~Alright, it's time for you to go now.
+
+0x9F21498D = ~z~You want any more than that, ask somebody else.
+
+0x13B02333 = ~z~You've already knocked him out!
+
+0x25BCF99D = ~z~Well then...
+
+0x27C02A5C = ~z~Son of a bitch.
+
+0x31F31209 = ~z~I guess we got a big problem, don't we?
+
+0x55FF3ADC = ~z~I don't know where she is, alright? I got other concerns as you well know.
+
+0x60C02CA1 = ~z~You got your money, I don't have to listen to your wisdom, alright?
+
+0x136A01B0 = ~z~damn manners!
+
+0x367B0464 = ~z~Now, stay the hell away from me!
+
+0x727D9FA0 = ~z~Nah.
+
+0x804C3B3D = ~z~I don't know.
+
+0x899E23D8 = ~z~Sir, I don't know you from Adam. And I got other things to worry about.
+
+0x3847E931 = ~z~You have ~rp~any idea ~rp~of the hole I'm in?
+
+0x6250A176 = ~z~The ranch maid, Miss Millet, you know where I can find her?
+
+0x6402D351 = ~z~All I know is that she's with Cooper.
+
+0x41085EE6 = ~z~I need to find a ranch maid here called Lilly Millet... you know where she is?
+
+0x89693B85 = ~z~Lilly Millet? I ain't going to get into it on that mister.
+
+0x5405638E = ~z~Please. Just see. He can't have spent all that money yet.
+
+0x33204697 = ~z~You got your money, leave me alone!
+
+0x83007121 = ~z~So long.
+
+0xA2E6951A = ~z~That loan you took...
+
+0xA8CA7FC2 = ~z~give him what you've got.
+
+0xA94B8E1D = ~z~You'll find something on him, I swear.
+
+0xAA51B16F = ~z~Lilly Millet, where can I find her?
+
+0xAB868EED = ~z~I want to leave this place and never come back.
+
+0xAF157CA1 = ~z~What?
+
+0xB7B62AF2 = ~z~Check his pockets.
+
+0xB8C79005 = ~z~That loan you took, it's payday.
+
+0xB81D2816 = ~z~I knew it would come to something like this.
+
+0xB877BADE = ~z~Who? I don't think I know who that is. I'm sorry.
+
+0xB4282F62 = ~z~Lilly? Just over there by the store, with Cooper.
+
+0xBD88CA5E = ~z~Uh...
+
+0xC0B8002F = ~z~Not sure, but I think I saw her with Cooper earlier.
+
+0xC2EB557A = ~z~You deaf or just stupid? Get the hell outta here.
+
+0xC98A8BB8 = ~z~If you didn't make it this week, ~rp~who's to say you'll make it next?
+
+0xC3961E9C = ~z~I wouldn't have had to borrow it if he wasn't.
+
+0xCBEA364A = ~z~Lilly!
+
+0xCDD03310 = ~z~You're lucky he was here to pay for you, miss.
+
+0xCF6D6E27 = ~z~I'm sorry.
+
+0xD3CBA03A = ~z~Now I told you I'd get you the money next week. ~rp~And I'll get it.
+
+0xD4F686C4 = ~z~Miss Millet, the ranch maid. You know where I can find her?
+
+0xD5C349FC = ~z~Where's our money?
+
+0xD9A08291 = ~z~it's payday.
+
+0xD66BFC34 = ~z~Lilly.
+
+0xD87A2FB3 = ~z~Dunno where she is now, but she's probably with Cooper.
+
+0xD89B390A = ~z~He has all my money, I gave it all to him. Just take everything you find on him and let's be done with this.
+
+0xD94BFFA8 = ~z~No... please.
+
+0xD401E389 = ~z~He's got money on him. He has to.
+
+0xDFA8AA78 = ~z~Maybe you should think about the kinds of men you're friendly with, miss.
+
+0xE29C124C = ~z~Stop it, both of you.
+
+0xE73E4A50 = ~z~Don't kill him. Please!
+
+0xE13711CE = ~z~Where's our money?
+
+0xE7404723 = ~z~~sl:0.0:6.2~I do. ~rp~I do! But, ~rp~what I get paid ain't enough for one person, let alone two.~lr:0.1~Your money's got to be your problem now.
+
+0xEB15DDFF = ~z~Alright! Alright.
+
+0xF07BAAE5 = ~z~Sorry, who? I don't think I ever heard that name.
+
+0xF3E9B733 = ~z~What?
+
+0xF4E7B6E3 = ~z~Don't hurt him!
+
+0xF380F541 = ~z~Lilly Millet? We aren't going to get into it on Lilly Millet, okay?
+
+0xFB0571DE = ~z~Leave him! Ain't you done enough?
+
+0xFC3DC7CB = ~z~I don't have it right now...
+
+0xFE6749E2 = ~z~Come on, that's enough.
+

@@ -1,0 +1,8 @@
+0x65AE3A36 = ~z~Got us something to eat, Mr. Pearson.
+
+0x448F77FD = ~z~The rest of you follow this man's example, you hear?
+
+0x3218D310 = ~z~Thank you, Mr. Smith... thank you very much.
+
+0xFC98E811 = ~z~
+

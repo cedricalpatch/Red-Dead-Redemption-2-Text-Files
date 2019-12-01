@@ -1,0 +1,42 @@
+0x1C6755A8 = Get the supplies
+
+0x1F68392D = You delivered supplies
+
+0x3AE6734B = Some supplies were delivered
+
+0x5CF3F8CA = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~chemical wagon~s~
+
+0x5D22C777 = Get the supplies
+
+0x7B7E825D = Driving recklessly or colliding with obstacles will cause the chemical wagon to take damage.
+
+0x7D22E62F = Supplies delivered
+
+0x8FA94532 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~chemical wagons~s~ on the way ~1~
+
+0x59F94431 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~chemical wagons~s~
+
+0x84BDADDE = ~1~ delivered supplies
+
+0x312D871A = Go ~1~
+
+0x382EDDF9 = Steal the wagon and deliver it to Camp ~BLIP_CAMP~ to resume operations. Returning with less damage will add more materials to Cripps Trading Co.
+
+0x54822075 = The supplies were destroyed
+
+0xA2B3BCCB = The supplies were delivered
+
+0xA31915DB = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~chemical wagon~s~ on the way ~1~
+
+0xAA7C0BC0 = Supplies delivered
+
+0xAEF68BFF = Exit the chemical wagon
+
+0xB3F49FD3 = Avoid damaging the chemical wagon or risk the volatile chemicals exploding.
+
+0xB92B5038 = The supplies were delivered
+
+0xBD61FD37 = Deliver the chemical wagon ~1~
+
+0xCDD0A649 = The supplies were destroyed
+

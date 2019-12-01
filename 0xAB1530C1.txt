@@ -1,0 +1,22 @@
+0x073D0C71 = ~z~Hey, Marston.
+
+0x3CF877E7 = ~z~
+
+0x3F8CFD94 = ~z~Why so?
+
+0x7E609B44 = ~z~and if you ain't biting, I thought maybe I'd have a nibble.
+
+0x48C31000 = ~z~You getting clever, Micah?
+
+0x70AFFFE3 = ~z~Anyway, Jack needs a daddy.
+
+0x93B8A566 = ~z~No.
+
+0x507F1EF4 = ~z~Yeah... course I mind.
+
+0x567F2B78 = ~z~Not really... I'm just saying, feller likes a lady like that,
+
+0x857288DA = ~z~That, uh... that Abigail. She your wife?
+
+0x62904316 = ~z~Then, uh, you mind if I ask her out? Maybe take her for a ride or something.
+

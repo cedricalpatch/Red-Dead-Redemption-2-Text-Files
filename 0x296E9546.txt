@@ -1,0 +1,16 @@
+0x0667A4B8 = ~z~Hey, get us a bottle of whiskey, I'll make you a few.
+
+0x4FDDB7A7 = ~z~Shut up.
+
+0x18A9C93C = ~z~Sure, if you get the rag in right... get it all properly soaked...
+
+0x62D4DD95 = ~z~And those blow up okay?
+
+0x981C4823 = ~z~Compared to you drinking, a little explosion is nothing.
+
+0x73167E18 = ~z~See, I don't just drink the stuff... I also use it.
+
+0xAA61ECAE = ~z~Maybe, yes...
+
+0xCD6AB2BF = ~z~What are you doing?
+

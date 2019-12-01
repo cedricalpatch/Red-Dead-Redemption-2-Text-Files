@@ -1,0 +1,8 @@
+0x04DF8362 = ~z~This ain't your gang, Arthur, them ain't the rules!
+
+0x3F407823 = ~z~I heard you'd gone behind Dutch's back, to help some folk.
+
+0x5F16B7CF = ~z~Well, I'll keep that in mind.
+
+0x798A6CB6 = ~z~I did what I thought best.
+

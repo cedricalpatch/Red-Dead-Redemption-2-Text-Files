@@ -1,0 +1,24 @@
+0x7D46F775 = Follow ~o~Dutch~s~ and ~o~Micah~s~
+
+0x43A6BE6A = The gang was abandoned.
+
+0x50DCD075 = Escape the ~e~pursuers~s~ with Dutch and Micah
+
+0x143A0DE1 = An escape horse has died.
+
+0x431B34F2 = Free the ~o~horses~s~ to escape
+
+0x36779B6F = Clear the way of ~e~enemies~s~
+
+0xC250809F = Follow ~o~Dutch~s~ to make your escape
+
+0xD4112420 = Take out Cornwall's remaining ~e~guards~s~
+
+0xE32483BA = Return to ~o~Dutch~s~
+
+0xFAD8A42E = Follow ~o~Dutch~s~
+
+0xFB2C757A = Hide behind the ~o~crate~s~
+
+0xFF306B80 = The guards were alerted.
+

@@ -1,0 +1,66 @@
+0x06AF995B = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+0x085D4BDE = ~COLOR_ENEMY~Rival players~s~ can steal the wagon
+
+0x2E1E1415 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x3CA99883 = You have destroyed the wagon
+
+0x4D7073EA = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Painted Sky
+
+0x6D002C25 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Rhodes
+
+0x7B1F0EC1 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x8C4BD58F = Wagon reached its destination
+
+0x8CB6AD48 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Ridgewood Farm
+
+0x8E7DD980 = Wagon destroyed
+
+0x9F2BEEA1 = Wagon stolen by rival Posse
+
+0x65A76DB5 = Intercept & deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x426ED0FA = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Lagras
+
+0x922D506E = Wagon stolen
+
+0x82420D18 = Get on the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x61208302 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Emerald Ranch
+
+0xA5A8F054 = Wagon delivered by enemy
+
+0xB4C0F44F = ~1~ triggered a rival mission against ~2~. Steal the wagon ~3b~ to gain the full reward.
+
+0xB8F424A1 = The wagon was destroyed
+
+0xB755575D = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Saint Denis
+
+0xBC83548A = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0xBEAA758B = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches MacFarlane's Ranch
+
+0xC7AE7AE1 = You triggered a rival mission against ~1~. Steal the wagon ~2b~ to gain the full reward.
+
+0xC9BC7CED = Steal the wagon ~1b~ and deliver it to the drop off for the full reward.
+
+0xCACE2F9D = Driving recklessly or colliding with obstacles will cause the wagon to take damage.
+
+0xD008717B = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Tumbleweed
+
+0xD7ED8478 = ~COLOR_ENEMY~~1~~s~ is intercepting the wagon
+
+0xDB504EE1 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xE2B3A05C = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xE4FD12C8 = Wagon delivered
+
+0xEC0B6284 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ ~1~
+
+0xF16AE029 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ before it reaches Manzanita Post
+
+0xF33AB4FC = Wagon delivered
+

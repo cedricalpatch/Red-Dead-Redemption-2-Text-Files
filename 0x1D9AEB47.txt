@@ -1,0 +1,20 @@
+0x3DB9944A = ~z~If I had some burdock root, just a couple, I-I could knock up a poultice, could keep them well and cure some ailments.
+
+0x4C1030F7 = ~z~I'm worried... they-they-they've been through a lot...
+
+0x7DC4145E = ~z~I'm not an O'Driscoll, sir...
+
+0x8BE6B0A3 = ~z~You behaving there, O'Driscoll?
+
+0x22FF5ED6 = ~z~Okay, if I see some, I'll bring it you.
+
+0x36F30213 = ~z~Thank you... sir.
+
+0xA0D5DA81 = ~z~Yes, yes, th-th-that works best.
+
+0xB023791C = ~z~Burdock root?
+
+0xE2505D75 = ~z~Okay... I mean... well... but they could be better...
+
+0xF089F9E8 = ~z~Sure. How are the horses?
+

@@ -1,0 +1,14 @@
+0x09AD5F33 = ~z~It's good to see you again, Mr. Morgan.
+
+0x5D6786B6 = ~z~
+
+0x6F20AA28 = ~z~You're my family, Miss. Grimshaw.
+
+0xA51F1618 = ~z~Of course! But we've been very busy.
+
+0xB7EE3BB6 = ~z~Did you miss me?
+
+0xC342525E = ~z~Sure, always. But this is home.
+
+0xD369F2AD = ~z~Did you have fun on your adventures?
+

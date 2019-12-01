@@ -1,0 +1,54 @@
+0x002D6044 = ~z~Yeah, th-that's the one!
+
+0x03122082 = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0x0367249C = ~z~I put my hand upon her thigh,~n~~m~I put my hand upon her thigh,
+
+0x0F993D0C = ~z~For a diddle-diddle-diddle all day!~n~~m~For a diddle-diddle-diddle all day!
+
+0x1DE4D627 = ~z~I put my hand upon her ass,~n~~m~I put my hand upon her ass,
+
+0x4C4632E9 = ~z~She says 'you're getting pretty nice,'~n~~m~She says 'you're getting pretty nice,'
+
+0x5B399663 = ~z~Listen, my friend, do you know the Louisville Maid?
+
+0x5E61DA98 = ~z~For the diddle-diddle-diddle all day!~n~~m~For the diddle-diddle-diddle all day!
+
+0x6B9FF514 = ~z~She says 'young man you're in great haste,'~n~~m~She says 'young man you're in great haste,'
+
+0x11D2038D = ~z~And she was mistress of her trade,~n~~m~And she was mistress of her trade,
+
+0x23C2A76E = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0x27BFE9DD = ~z~And diddle-diddle-diddle all day!~n~~m~And diddle-diddle-diddle all day!
+
+0x90F3BFC3 = ~z~I put my arm around her waist,~n~~m~I put my arm around her waist,
+
+0x42851F67 = ~z~And a diddle-diddle-diddle all day!~n~~m~And a diddle-diddle-diddle all day!
+
+0x917140BE = ~z~She says 'young man you're rather free,'~n~~m~She says 'young man you're rather free,'
+
+0xA2BAE351 = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0xA9E733B9 = ~z~I put my hand upon her toe,~n~~m~I put my hand upon her toe,
+
+0xB5EB09B1 = ~z~I put my finger on her knee,~n~~m~I put my finger on her knee,
+
+0xBB99D71E = ~z~It was diddle-diddle-diddle all day!~n~~m~It was diddle-diddle-diddle all day!
+
+0xC340245B = ~z~For it's diddle-diddle-diddle all day!~n~~m~For it's diddle-diddle-diddle all day!
+
+0xCC3AB2D4 = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0xCD2DFA46 = ~z~She says 'young man you're rather low,'~n~~m~She says 'young man you're rather low,'
+
+0xDEF59DD5 = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0xE2A9DFB2 = ~z~And we diddle-diddle did, too!
+
+0xE7A4ED24 = ~z~Mark well what I do say,~n~~m~Mark well what I do say,
+
+0xEEA53D34 = ~z~In Louisville I met a maid,
+
+0xF97E0D5A = ~z~She says 'let's lat down on the grass,'~n~~m~She says 'let's lat down on the grass,'
+

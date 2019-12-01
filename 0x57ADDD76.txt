@@ -1,0 +1,378 @@
+0x01D3722D = ~z~Bet she's a lot of fun in the hay!
+
+0x02CFBA15 = ~z~She's terrible!
+
+0x0404D373 = ~z~You got any dancing little fellas back there?
+
+0x0573A3F3 = ~z~You ain't American!
+
+0x0837DC05 = ~z~This is something else! Alright!
+
+0x08AE5649 = ~z~
+
+0x0E348144 = ~z~Give us a refund!
+
+0x0F040C8E = ~z~Look at that lady!
+
+0x1A5E9AF8 = ~z~Get out of here!
+
+0x1C32AFA4 = ~z~You ought to pay us to watch this!
+
+0x1CC6A813 = ~z~I'm in love!
+
+0x1D89D493 = ~z~No wonder you can't get a husband!
+
+0x1F266AB5 = ~z~How 'bout that?
+
+0x1FADAF9B = ~z~You stink!
+
+0x1FDBB6F2 = ~z~This is a terrible show!
+
+0x2C23BE12 = ~z~Boo!
+
+0x2C56B398 = ~z~We need another act!
+
+0x2E940270 = ~z~Damn! This is something.
+
+0x3B46E6C9 = ~z~Phony!
+
+0x3BB923DE = ~z~
+
+0x3E91D615 = ~z~Ain't she great?
+
+0x3F0B62F1 = ~z~You got no talent!
+
+0x4ACE0CDA = ~z~I can't believe you charge for this!
+
+0x4CF40A23 = ~z~This is awful.
+
+0x4F660506 = ~z~Go away!
+
+0x5A00D949 = ~z~This is worth twice the price!
+
+0x5A22FE92 = ~z~What're you doing after the show?
+
+0x5DBFA1B9 = ~z~Go home!
+
+0x5F41AEBE = ~z~Come on!
+
+0x6B23456D = ~z~Awful.
+
+0x7ADAE00D = ~z~What in blazes is this? Terrible!
+
+0x7AEBD0C1 = ~z~This is awful.
+
+0x7DF094E7 = ~z~Off the stage, woman!
+
+0x8B623C0B = ~z~Show us how it's done.
+
+0x8BF0FE1B = ~z~Get off!
+
+0x8BF3CC5F = ~z~Go cook someone some supper!
+
+0x8C947412 = ~z~Phony!
+
+0x8DF14F62 = ~z~This lady is crazy!
+
+0x8EB0BF58 = ~z~Best show in Saint Denis!
+
+0x9A107664 = ~z~
+
+0x9B8B9BEC = ~z~Worst show ever.
+
+0x9EF4E934 = ~z~We want more!
+
+0x10E8990C = ~z~Bring somebody out better.
+
+0x13CA40A0 = ~z~What is the deal with her?
+
+0x15C976FC = ~z~This is how you put on a show!
+
+0x28F06AEC = ~z~Bring out another lady!
+
+0x35DE03D3 = ~z~This lady got no talent!
+
+0x36C058FD = ~z~Get that cane and yank em off stage.
+
+0x38AFE89E = ~z~Time for a different act!
+
+0x38FA6852 = ~z~Ain't she pretty?
+
+0x41FCCF8E = ~z~I could watch this all night!
+
+0x43FACCE1 = ~z~
+
+0x45DDF1F6 = ~z~Trash!
+
+0x48A6EC38 = ~z~Get off the stage!
+
+0x56AC082E = ~z~Do more!
+
+0x57F06455 = ~z~I'm tired of this lady!
+
+0x57FD5B46 = ~z~On with the show!
+
+0x57FDDC67 = ~z~Alright!
+
+0x60CF8093 = ~z~Well, alright!
+
+0x60CFE6E7 = ~z~Bring out a sword swallower!
+
+0x61A81E3A = ~z~Seriously?
+
+0x62A4B358 = ~z~Boo!
+
+0x64DC0BFC = ~z~Go on!
+
+0x74A095AC = ~z~Alright!
+
+0x75CD448B = ~z~Alright, girl!
+
+0x78D4E0D0 = ~z~Yuck!
+
+0x82B675A7 = ~z~Nobody cares!
+
+0x83F3E0D8 = ~z~Alright, darling!
+
+0x87AA5D04 = ~z~How 'bout that?
+
+0x88E2BE30 = ~z~Amazing!
+
+0x93FB9835 = ~z~Do more!
+
+0x169C78CE = ~z~This sure beats the magic lantern show!
+
+0x171BF324 = ~z~Go on!
+
+0x232E1F4E = ~z~Yeah, baby!
+
+0x275D8330 = ~z~What is she going on about?
+
+0x315ED2FD = ~z~We need another act!
+
+0x320C48F3 = ~z~
+
+0x368B218B = ~z~Get her off the stage!
+
+0x418D50C3 = ~z~
+
+0x448A3460 = ~z~Bring it!
+
+0x452A2F9C = ~z~Bring out some more acts!
+
+0x690FACF5 = ~z~Nobody cares!
+
+0x706FD11A = ~z~Seriously?
+
+0x712DBD45 = ~z~Come on!
+
+0x771FDC52 = ~z~Get off!
+
+0x835FFDFD = ~z~This what they call entertainment in this town?
+
+0x969B1C58 = ~z~Phonies!
+
+0x1008CC7A = ~z~Yeah! Do it!
+
+0x2561B9E3 = ~z~Do something better!
+
+0x2750CD80 = ~z~This is worse than watching paint dry!
+
+0x4861FC40 = ~z~This supposed to be entertainin?
+
+0x6493C065 = ~z~I paid money for this?
+
+0x7764BC75 = ~z~Yeah! Do it!
+
+0x8742D0C9 = ~z~
+
+0x8922F71F = ~z~
+
+0x9029B959 = ~z~We ain't fooled, lady!
+
+0x9196A20A = ~z~Give up!
+
+0x9632D1BC = ~z~This is a hell of a show.
+
+0x16871C2E = ~z~It's all nonsense.
+
+0x21188FDA = ~z~That's it!
+
+0x21206D89 = ~z~I love it!
+
+0x29784A2F = ~z~Do something we care about!
+
+0x60387F65 = ~z~This is something.
+
+0x69172B1F = ~z~What a gal!
+
+0x86504B94 = ~z~On with the show!
+
+0x131491A6 = ~z~Ain't nobody care what you're goin on about.
+
+0x294938CD = ~z~Awful.
+
+0x856678DF = ~z~Get out of here!
+
+0x935594B9 = ~z~Go away!
+
+0x3678532B = ~z~
+
+0x5760139A = ~z~Yuck.
+
+0x6429739E = ~z~This is the best!
+
+0x6657791A = ~z~Let's see it.
+
+0x29944364 = ~z~Get off the stage!
+
+0x32669019 = ~z~Give us more!
+
+0x73962620 = ~z~Ya'll see this?
+
+0xA00A990D = ~z~You're beautiful!
+
+0xA5B9BA95 = ~z~
+
+0xA7F4F530 = ~z~Hell this is entertaining!
+
+0xA92BC0DF = ~z~She ain't messing around.
+
+0xA94DB770 = ~z~Huckster!
+
+0xA105F683 = ~z~You belong in the kitchen!
+
+0xA525B5CA = ~z~Ya'll ought to give up and try working for a living!
+
+0xA459478F = ~z~You need to get another job.
+
+0xA1133034 = ~z~Go home!
+
+0xA5009598 = ~z~Sure beats sitting around a campfire!
+
+0xA9189124 = ~z~I love it!
+
+0xAA60812B = ~z~That's it!
+
+0xABBCFCD0 = ~z~This is the best show I've seen!
+
+0xB0BB4F84 = ~z~Trash!
+
+0xB0CC3A90 = ~z~I'm in love!
+
+0xB9E332B9 = ~z~This is great!
+
+0xB9EFC18E = ~z~Amazing!
+
+0xB31A31CB = ~z~They ought to serve whiskey in here.
+
+0xB74C6D75 = ~z~Shit!
+
+0xB420D763 = ~z~You got no talent!
+
+0xB5743897 = ~z~Ya'll see this?
+
+0xBD1CE8C1 = ~z~Check her out!
+
+0xBD363CAF = ~z~
+
+0xBE7DEB09 = ~z~Garbage!
+
+0xBF6D57D2 = ~z~Look at her!
+
+0xC5E40308 = ~z~You think we're a bunch of idiots?
+
+0xC7D20E80 = ~z~Go home!
+
+0xC16B4E6D = ~z~You put on a great show!
+
+0xCA3CAD7E = ~z~Where did they find her? New York City?
+
+0xCB22CAE4 = ~z~Women shouldn't be doing this!
+
+0xCC0496E9 = ~z~Absolute garbage!
+
+0xCC0D0398 = ~z~You ain't got no talent!
+
+0xCC296601 = ~z~Alright!
+
+0xCCC95889 = ~z~This is the best!
+
+0xCCF458DB = ~z~Bring it!
+
+0xCD3BF36F = ~z~I'll marry ya!
+
+0xD2E90C0E = ~z~Garbage!
+
+0xD9B458AE = ~z~Ain't no show better!
+
+0xD9FAA202 = ~z~
+
+0xD54A8F71 = ~z~Do something better!
+
+0xD694D873 = ~z~This is something!
+
+0xDD4BA615 = ~z~When is this going to be over?
+
+0xDD5D6F59 = ~z~This ain't ladylike!
+
+0xDE2C2B75 = ~z~Give us a refund!
+
+0xDE8EFC14 = ~z~Give us more!
+
+0xDF4ABD75 = ~z~Garbage.
+
+0xDF59FDA6 = ~z~We want more!
+
+0xE0318E05 = ~z~Let's see it.
+
+0xE3C52C66 = ~z~Phoneys.
+
+0xE5B0A0B0 = ~z~She's something else.
+
+0xE421F38D = ~z~Well, alright!
+
+0xE603A6F3 = ~z~You stink!
+
+0xE3663553 = ~z~She ain't playing!
+
+0xE7231333 = ~z~
+
+0xEAF2A387 = ~z~Alright!
+
+0xEB63020F = ~z~This is great!
+
+0xEBC12318 = ~z~They put on a hell of a show here!
+
+0xEBE546E7 = ~z~Worst show ever.
+
+0xEC96F232 = ~z~What the hell is this lady?
+
+0xEFA2CAC3 = ~z~Bring out a better act!
+
+0xF063DFA7 = ~z~This is total trash!
+
+0xF5A11FB8 = ~z~She ain't real!
+
+0xF7C98913 = ~z~What's your deal, lady?
+
+0xF8C6E0AA = ~z~Huckster!
+
+0xF18CD1A0 = ~z~Damn! Don't mess with her.
+
+0xF54D1703 = ~z~Ya'll see this?
+
+0xF224E329 = ~z~Trash!
+
+0xF593D003 = ~z~It's all nonsense!
+
+0xF6345AF3 = ~z~Ain't she something.
+
+0xFAE8E14F = ~z~Where did they find you?
+
+0xFBF9667D = ~z~She's incredible!
+
+0xFDFAA73E = ~z~Ya'll see this?
+
+0xFE5F6838 = ~z~Land sakes! This sure is bad!
+

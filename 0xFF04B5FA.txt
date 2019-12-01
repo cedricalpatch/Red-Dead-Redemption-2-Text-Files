@@ -1,0 +1,14 @@
+0x0E62DA81 = Investigate the ~o~camp
+
+0x1D1111DF = Camille de Millemont's corpse was left behind.
+
+0x6B3AAE35 = Camille de Millemont was left behind.
+
+0x6B9F0F0E = Camille de Millemont escaped.
+
+0x8ED47568 = The camp was left behind.
+
+0x22ED8396 = Return to the ~o~camp
+
+0xDEE954D5 = Camille de Millemont's corpse could not be retrieved.
+

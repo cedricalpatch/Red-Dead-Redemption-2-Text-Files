@@ -1,0 +1,36 @@
+0x0444A534 = ~z~
+
+0x95F04885 = ~z~What... what are you trying to say?
+
+0x725F8168 = ~z~Dutch is a great man, far better than any of us, but...
+
+0x727A819A = ~z~Me and Dutch go back a long way.
+
+0x854DBCF4 = ~z~How you boys doing?
+
+0xA82CECFE = ~z~And he feels bad for you... that's why you're still here.
+
+0xA811ECCC = ~z~he wastes too much time and energy on weaklings, like you.
+
+0xAB89096E = ~z~You know...
+
+0xBB359317 = ~z~I'm trying to say... that things ain't got no use, should be put out of their misery.
+
+0xBDCBADF3 = ~z~Suit yourself.
+
+0xC4A8BB95 = ~z~You know, I love it when you enlighten us with these philosophy lessons.
+
+0xC83242A8 = ~z~there are winners and losers in this world, and that's a fact.
+
+0xCFEDD237 = ~z~I said boys... I wasn't talking to you, old man.
+
+0xD9E1E607 = ~z~I don't know how we managed before you joined us.
+
+0xDEC05A2C = ~z~I was only joking, old man... don't go and wet your bed again.
+
+0xE217768A = ~z~Fine.
+
+0xF0EAFE81 = ~z~You just try it!
+
+0xF7C521CD = ~z~And what confuses me about you, old man, is-is you're a loser who somehow ain't got lost yet.
+

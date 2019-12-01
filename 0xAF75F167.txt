@@ -1,0 +1,42 @@
+0x03C0F0CA = ~z~New people arriving, new buildings going up.
+
+0x2CEF260A = ~z~Anyway, I'm sorry, I'll let you get back to your drink. Been a bad couple of days.
+
+0x3CFAE341 = ~z~Wouldn't be surprised if we're giving Chicago a run for its money in the next ten years.
+
+0x4B4177FC = ~z~Say, you that feller who bought the land at Beecher's Hope?
+
+0x8D2029F7 = ~z~Anyways, didn't mean to interrupt you... best of luck with it all.
+
+0x9DEDBE36 = ~z~Hey, this your first time in Blackwater?
+
+0x46A5D977 = ~z~I'd have shot myself in the head right there and then.
+
+0x74D435D3 = ~z~They can't turn us into men we ain't.
+
+0x90C196C1 = ~z~It's amazing how Blackwater's come on the past few years... like a different town, and in a good way.
+
+0x9181EF2E = ~z~If I had my time again... speak now and forever hold your peace...
+
+0x56023BBC = ~z~Just glad someone's doing something with it, not easy land I'm sure.
+
+0x624690B8 = ~z~Well, heed my advice, don't never do it.
+
+0x68306018 = ~z~Don't mean to pry... rode out that way a day or two back.
+
+0xA33FBBBD = ~z~You should have seen it back in '99... it was scary back then.
+
+0xC3F1B517 = ~z~You married, mister?
+
+0xD2910E6B = ~z~Some folk here don't like the change, but it makes me proud.
+
+0xE7F0450D = ~z~Now, well some folk say it's too quiet... too calm. But calm is fine by me.
+
+0xEED546EB = ~z~Anyway, don't you mind me. You enjoy your stay here.
+
+0xF57E5445 = ~z~Some town, ain't it? Got that feel about it, that energy, a place on the up.
+
+0xF6630AE1 = ~z~Don't know if I've seen you in here before. You new to town?
+
+0xFA326991 = ~z~Anyway, mister, didn't mean to disturb you...
+

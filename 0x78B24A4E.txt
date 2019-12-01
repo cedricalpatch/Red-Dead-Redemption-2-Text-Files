@@ -1,0 +1,220 @@
+0x00C9DD4E = ~z~We got company... keep the idiot secure!
+
+0x02AAA3EF = ~z~He can't get his claws on this idiot.
+
+0x0497DF30 = ~z~They got me tied up here!
+
+0x06581005 = ~z~~sl:0.0:2.0~Leave him alone... for now.~sl:1.1~He's worth more when he's breathing.
+
+0x08EA5FCC = ~z~Please.
+
+0x092922FF = ~z~And I just walk out of there, as calm as the night.
+
+0x0D1EFAC6 = ~z~I'm an officer of the law, and I've been detained.
+
+0x1AC557F6 = ~z~~sl:0.6:1.9~If you wasn't political,~sl:0.0:3.1~you wouldn't be no federal tax collector.
+
+0x1B76C79A = ~z~Something's only lost if you let it be.
+
+0x2AE4D91E = ~z~~sl:1.2:1.7~I don't care what he's worth.~sl:0.5~You don't disrespect the cause like that.
+
+0x2B45EC34 = ~z~Someone's coming to free him, that will not happen!
+
+0x2C1F05BC = ~z~They got me tied up!
+
+0x3DA5499B = ~z~The boom of a cannon.
+
+0x3F177E70 = ~z~Just feels like we ain't getting nowhere.
+
+0x4B03E3FE = ~z~This is all just a big misunderstanding.
+
+0x4C72B1C8 = ~z~Okay. There might be some things here if you want them.
+
+0x4CE5851D = ~z~But we knew... that sooner or later, the enemy...
+
+0x4F39037E = ~z~Please... come help me!
+
+0x5F86E184 = ~z~
+
+0x6E8CCFE3 = ~z~~sl:0.0:1.8~Now, you all know that most of us old-timers,~sl:0.0:1.9~we fought alongside each other?~sl:1.1~3rd Lemoyne Regiment.
+
+0x6F6E61D3 = ~z~You hear me?
+
+0x6FB6A56C = ~z~~sl:0.1~I just want to go home, okay?
+
+0x7AA597C1 = ~z~Damn collaborator.
+
+0x7AAB60A8 = ~z~~sl:0.0:1.7~would be coming down the Lannahechee~sl:~if they wanted to take Saint Denis.
+
+0x7C76EB9C = ~z~You have no idea how thankful I am.
+
+0x8C7E7E08 = ~z~Would you kindly just untie me?
+
+0x9A57BC30 = ~z~Off he goes. Stand down, men.
+
+0x9C4EAB66 = ~z~~sl:0.0:4.0~It was the summer of '62... we was hunkered down~sl:~by Copperhead Landing for weeks.
+
+0x9D525D1A = ~z~~sl:0.0:2.1:1~I ain't goin' listen to your lies.
+
+0x9FAB1B97 = ~z~Aw, hell fire.
+
+0x9FFA327E = ~z~Oh dear Lord. Thank God for this.
+
+0x12C77B8F = ~z~They got me captive!
+
+0x18D4B4FA = ~z~You young'uns sure get fired up and stupid, don't you?
+
+0x30D00417 = ~z~
+
+0x32F40FDC = ~z~At last. Thank you.
+
+0x37D87305 = ~z~~sl:0.0:1.1~Maybe more.~sl:2.8:1.4:1~What are we gonna do with him?
+
+0x40BE04D0 = ~z~~sl:1.8:2.8~You made a mistake taking me, but it ain't too late.~sl:0.4:2.3~Lemme go and there's no bad blood.
+
+0x40DBC9A6 = ~z~Thanks again, citizen.
+
+0x43B359CE = ~z~Come on. Let me outta this.
+
+0x50C324DA = ~z~~sl:3.2:3.0:1~You're a disgrace to Lemoyne... the lot of ya.
+
+0x52C5A5CC = ~z~~sl:0.0:1.5~We can still live free.~sl:1.3:2.3~We can still say we don't recognize you~sl:~or answer to your laws.
+
+0x59FCFCE3 = ~z~Stranger, you are obliged to liberate me.
+
+0x66FDB94D = ~z~~sl:0.0:1.4~Food was rotten...~sl:0.9:2.0~humidity was unbearable...~sl:0.9~nothing we had ever got dry.
+
+0x82CB3313 = ~z~Officer in need of help!
+
+0x87DAB580 = ~z~Not you too?
+
+0x99E93452 = ~z~~sl:0.0:2.1~What the hell's wrong with you all?~sl:1.0~You've hardly said a word.
+
+0x158ECBF6 = ~z~What's going on?
+
+0x316BF09C = ~z~Good luck to you.
+
+0x359CFBE6 = ~z~~sl:0.0:3.4~And as far as I can tell, you're all still breathing.~sl:0.4~Even though you're a bunch of lifeless saps.
+
+0x412EAC51 = ~z~~sl:0.6~Thank you. Goddamn these bastards.
+
+0x426A7DFC = ~z~Okay. You are welcome to those things you took.
+
+0x503BEEC8 = ~z~~sl:0.0:1.3~And, sure enough...~sl:1.3:1.0~one morning...~sl:0.6~we woke to the distant sound.
+
+0x506B434D = ~z~~sl:0.6:2.1~I ain't federal!~sl:0.9~It's a state poll tax.
+
+0x656F785C = ~z~I'm a policeman!
+
+0x664BCFEB = ~z~
+
+0x692C1F62 = ~z~Please. Cut me free.
+
+0x719A69CB = ~z~It is your duty to free me.
+
+0x832AA8CB = ~z~~sl:0.6~But y'all won't take the time to learn the difference.
+
+0x895C64DA = ~z~~sl:0.0:2.9:1~He's gone. Leave it for later.
+
+0x927A7348 = ~z~~sl:0.0:1.1~Then I come to...~sl:1.2~in a cloud of smoke...
+
+0x6164A7D5 = ~z~Free me. Please.
+
+0x6218C670 = ~z~Someone's here for the officer! Don't let 'em have him.
+
+0x7158D62A = ~z~
+
+0x7657B898 = ~z~Guess that was paid though, wasn't it? Now, come on.
+
+0x9294A87C = ~z~~sl:1.6:1.9~No bad blood?~sl:3.0~There's more than forty years of bad blood between you and us.
+
+0x9776FBF7 = ~z~~sl:0.0:1.8~They came out of nowhere, okay?~sl:~Next thing I was regaining my facilities, tied up here.
+
+0x16657B20 = ~z~I think I must be at the gates of hell.
+
+0x24056A76 = ~z~~sl:0.4:2.4~You got the wrong feller.~sl:1.2~I ain't political.
+
+0x37413C79 = ~z~I haven't done anything to anybody.
+
+0x295552EC = ~z~~sl:0.0:2.2~It's the end of the century and it seems like~sl:~we ain't much further on than we was in '65.
+
+0x921357DF = ~z~If you do that, you're no better than them lot.
+
+0x9887526D = ~z~We got company... keep the lawman secure!
+
+0x49086814 = ~z~I'm a prisoner of these men!
+
+0x63044649 = ~z~~sl:0.0:1.0~Yeah, maybe...~sl:1.2~maybe not.
+
+0xA49C178B = ~z~~sl:0.0:2.5~And then I get blown up into the air,~sl:0.0:2.2~and I'm as high as a house...~sl:~and then everything goes black.
+
+0xA79BDFCA = ~z~And then it clears...
+
+0xA409B525 = ~z~~sl:0.0:0.9~Please...~sl:2.3~you're no better than them lot.
+
+0xA754F877 = ~z~All right. Fire on 'em, boys.
+
+0xAE413284 = ~z~Help me!
+
+0xB2D9B406 = ~z~~sl:0.0:1.6~leave a man with the most horrific wounds.~sl:~Just like nothing you ever seen.
+
+0xB25BA757 = ~z~The official's our leverage. We can't lose him!
+
+0xB773DA38 = ~z~It was a terrible time, it was terrible.
+
+0xB5427B17 = ~z~~sl:0.0:2.6~and I see a swarm of them damn blue-bellies,~sl:~they'te not twenty feet from me.
+
+0xBA57222E = ~z~Over here!
+
+0xBB5EAA79 = ~z~Don't.
+
+0xBB889C6A = ~z~~sl:0.0:1.8~You stick around much longer,~sl:~you're gonna be buried here. Go on!
+
+0xBD2FC8B2 = ~z~~sl:0.0:1.1~And next thing you know,~sl:0.0:2.6~there's grenades raining down on us,~sl:~modified artillery shells...
+
+0xC0FCABC6 = ~z~You know what, boys? Shoot 'em!
+
+0xC1EE9D67 = ~z~What are you waiting for? Cut me free.
+
+0xC5EB1C84 = ~z~~sl:0.0:1.5~And I ain't got no rifle,~sl:~I ain't got no gun, ain't got no nothing.
+
+0xC412D599 = ~z~~sl:0.0:0.9~Someone's coming...~sl:1.8~Hey, I see you there. Turn on your heels.
+
+0xC879DCDF = ~z~~sl:0.0:2.9~Look. Them Raiders blindsided me.~sl:~Tied me up for some kind of ransom, I suppose.
+
+0xC808299E = ~z~Untie me. And be quick.
+
+0xCBA0B0CB = ~z~Stop with that and help me.
+
+0xCC043A7D = ~z~
+
+0xD2C53638 = ~z~~sl:0.0:1.9~So I just turn and I run at 'em.~sl:1.1:2.5~And they raise their rifles and they fire,~sl:~but it don't make no sound.
+
+0xD3DCE4E2 = ~z~I ain't in no kind of mood.
+
+0xD7D4A279 = ~z~Let me tell you something.
+
+0xDEF56CC6 = ~z~~sl:0.2:2.2~I don't want to die like this.~sl:0.8~Why won't anyone help me?
+
+0xDF148005 = ~z~Good work. Stay vigilant.
+
+0xE3C7CFDB = ~z~~sl:0.1~Not you too.
+
+0xE278D59F = ~z~Their powder was too damp!
+
+0xEA54FAA8 = ~z~The agitator's back, give 'em what for!
+
+0xF03DE1E0 = ~z~Look who came back. Take 'em, men!
+
+0xF2E668C5 = ~z~So buck the hell up!
+
+0xF3AF239B = ~z~~sl:0.0:2.5~I'm going to get out of this, and when I do~sl:~you'll have something to answer for.
+
+0xF316697E = ~z~~sl:0.1~He disrespected the cause...
+
+0xFA3D74BD = ~z~~sl:0.0:2.1~It's better to be one man living the truth~sl:~than a million living a lie.
+
+0xFDC5624C = ~z~
+
+0xFF580F5D = ~z~~sl:0.0:1.1~So I get in there,~sl:0.0:2.8~and I take 'em with my fists one by one,~sl:~until I know they're dead.
+

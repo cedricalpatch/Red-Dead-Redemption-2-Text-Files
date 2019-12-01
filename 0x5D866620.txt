@@ -1,0 +1,76 @@
+0x03C4FC57 = ~z~You forgot your damn bounty.
+
+0x0C42FC89 = ~z~That will help with my conscience.
+
+0x1D582382 = ~z~We need good folks like you down here... should be another wretch upon the wall any day now.
+
+0x2CBF7DD5 = ~z~Put them in the cage and forget all about them.
+
+0x4A40D6C0 = ~z~I'll need them out, if you want that money.
+
+0x4E98E99B = ~z~I wouldn't come here looking for bounties for a while...
+
+0x8F0B2F1D = ~z~Hey, your bounty money's still there. Make no mistake.
+
+0x9C343A3D = ~z~I got to lock you up too? In the cell already.
+
+0x38F973CD = ~z~My orders, partner, shall be obeyed. Put them in the cell. Now.
+
+0x40C798AF = ~z~Body. Out. Now. You get me, partner?
+
+0x41CFA0B1 = ~z~You can count it, or you can trust me. It's all there.
+
+0x60A7E5A1 = ~z~They've been out their cage for long enough... put them into it.
+
+0x104B016A = ~z~If the law's happy, I'm happy.
+
+0x463F8E59 = ~z~What you think that cell is for? Lock them up in it.
+
+0x516D4730 = ~z~There's your cell.
+
+0x975BFB20 = ~z~a sheriff can only delegate responsibility so long. I want authority, I got to earn it.
+
+0x2663E9DA = ~z~That's the bounty, as agreed.
+
+0x9643C3A6 = ~z~Take the body outside and come back for your money. That is an order now.
+
+0x92171DEB = ~z~There a problem with this cash? Pick it up and we are done here.
+
+0x95506CDE = ~z~Don't play dumb with me. Get the body out of there, and I'll pay you.
+
+0x100308D8 = ~z~I shouldn't think it will be long before another poster goes up there. Come back and check.
+
+0x5817726D = ~z~What I say goes around here, and I say get that body out of here.
+
+0x16795149 = ~z~That's the cell... there's nothing wrong with it.
+
+0x87712601 = ~z~Are you becoming obstinate? Take the corpse outside already.
+
+0xAB233A63 = ~z~Justice is the real reward.
+
+0xB1FC74FF = ~z~You back to claim your bounty pay? I hope so.
+
+0xC47199E5 = ~z~I hope you're back to take your bounty money. I don't like minding it for you.
+
+0xCD389415 = ~z~I don't like leaving money out... take it off the desk already.
+
+0xD30F1AEC = ~z~The pay, you idiot.
+
+0xD803A9AB = ~z~This is Tumbleweed, pard'. If you don't take this money, someone else will.
+
+0xD4298950 = ~z~That will help with my conscience.
+
+0xDEFAA1F9 = ~z~Someone's got to do it.
+
+0xE1E7A4CC = ~z~Someone's got to do it.
+
+0xE785C3D9 = ~z~The money. Hey!
+
+0xEF97402B = ~z~Justice is the real reward.
+
+0xF80E0D2F = ~z~I'll believe you'll find that figure to your liking.
+
+0xFA745DAB = ~z~Knowing the situation down here, we'll have more posters up... matter of time is all.
+
+0xFDEA5FD8 = ~z~If the law's happy, I'm happy.
+

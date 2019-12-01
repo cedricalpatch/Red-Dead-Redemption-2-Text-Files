@@ -1,0 +1,82 @@
+0x04B77E34 = ~z~
+
+0x2B71C968 = ~z~There you go. Oh...
+
+0x3CEDED88 = ~z~
+
+0x3DB8684C = ~z~Sure, but I ain't much of a dancer.
+
+0x4A51A06D = ~z~Sad in a good way, like a romantic poet.
+
+0x4F7993B7 = ~z~
+
+0x7B5C2134 = ~z~Will you dance with me, Arthur?
+
+0x8AFF0AC1 = ~z~
+
+0x9C87C4D8 = ~z~That what you think of me?
+
+0x15B63807 = ~z~Alright.
+
+0x25F7BE74 = ~z~
+
+0x32F0F1A8 = ~z~Well... that's about all I can muster.
+
+0x83BBFB27 = ~z~I mean it.
+
+0x99C8A734 = ~z~
+
+0x272AC202 = ~z~
+
+0x597BA6A7 = ~z~Beautiful.
+
+0x885B0459 = ~z~
+
+0x967D21BD = ~z~
+
+0x1119CA17 = ~z~
+
+0x6763C38B = ~z~
+
+0x67635A90 = ~z~See, Arthur, it's okay to dance... doesn't mean we won't stop thinking you're angry and sad.
+
+0x73183CD8 = ~z~Okay. Well, thank you, Mr. Morgan.
+
+0x76155FDA = ~z~
+
+0x103192E8 = ~z~My dear.
+
+0x206068A4 = ~z~
+
+0x81377732 = ~z~
+
+0xABBA4C37 = ~z~
+
+0xB9FBE8BA = ~z~
+
+0xB26A0CC1 = ~z~Of course, Dutch.
+
+0xB31159C5 = ~z~Oh, look at you.
+
+0xBAD09E9E = ~z~Well... well, well...
+
+0xC5B0334D = ~z~Miss O'Shea... dance with me
+
+0xC88B3A13 = ~z~
+
+0xCF8412AE = ~z~
+
+0xCF681396 = ~z~
+
+0xD3B25061 = ~z~
+
+0xE4BD3D20 = ~z~
+
+0xE577F3EC = ~z~Well...
+
+0xE77243AA = ~z~
+
+0xFCAF05F9 = ~z~Another time...
+
+0xFCD7A193 = ~z~
+

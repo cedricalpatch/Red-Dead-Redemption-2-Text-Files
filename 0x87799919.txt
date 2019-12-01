@@ -1,0 +1,582 @@
+0x001349BE = ~z~Miss Jones, meet Macguire Junior.
+
+0x02DFF2D9 = ~z~~sl:0.0:3.2~You know, they say if you stare at a fire long enough,~sl:0.2~you can see who you were in a previous life.
+
+0x037ABAB4 = ~z~No! Don't stop!
+
+0x044C4CAD = ~z~Yeah, one of your boots probably would.
+
+0x0549D0E4 = ~z~I was just thinking how Jenny would have liked it here.
+
+0x0666A85F = ~z~You know who!
+
+0x067970DC = ~z~Well, don't. Find somewhere else, for chrissakes.
+
+0x06998E44 = ~z~I'd lay you flat with one punch.
+
+0x07AE9738 = ~z~So you're speaking to me at least.
+
+0x07B9651E = ~z~I know... Pearson has an unusual talent for removing all flavor.
+
+0x081937F6 = ~z~Try not to think about it.
+
+0x09870725 = ~z~I'm just worried about you.
+
+0x09D076C4 = ~z~Good to have you back, Jackie.
+
+0x0ADB5D08 = ~z~I know, but...
+
+0x0B29A62F = ~z~You're not old.
+
+0x0C06DF81 = ~z~Will you shut up?
+
+0x0C883876 = ~z~She's nice, she's just tough.
+
+0x0D2CDB39 = ~z~Cornwall's sure to be lining the Pinkertons pockets, along with everyone else's.
+
+0x0DE606B6 = ~z~At the campfire?
+
+0x0E17BAD8 = ~z~What?
+
+0x0EABD116 = ~z~
+
+0x1A465C50 = ~z~You know, I find it hard to care about too much. You ever wonder when you're gonna die?
+
+0x1A8980D9 = ~z~This sulking, it's becoming very tiresome.
+
+0x1A26465F = ~z~I'm looking out for him, same as we all are.
+
+0x1B92ECC4 = ~z~I've seen the way you look at Mary-Beth... you used to look at me like that.
+
+0x1D19ED01 = ~z~I feel like I can breathe again.
+
+0x1E6D8672 = ~z~An old trick my Da taught me.
+
+0x1E37DBD5 = ~z~Grimshaw's been needling me again. Damn witch. Was she ever nice?
+
+0x2B2ADF34 = ~z~Yep, that's the way it goes.
+
+0x2C472454 = ~z~Everything's tiresome to you these days.
+
+0x2D1BF321 = ~z~Pig.
+
+0x2E343F8B = ~z~Alright, let's give this boy a bit of space.
+
+0x2EE6F552 = ~z~Running with the big boys now.
+
+0x2FAB0719 = ~z~Could be tomorrow, could be ten years from now.
+
+0x3AC1019E = ~z~~sl:0.0:1.3~You know, Pearson...~sl:1.0~I swear, sometimes you must literally piss in that slop you serve.
+
+0x3B3E0242 = ~z~
+
+0x3B9DE225 = ~z~No here, with us, this mess.
+
+0x3B487E63 = ~z~If you'd only talk to me, I could help.
+
+0x3C5187DE = ~z~Of course you can.
+
+0x4B97EF20 = ~z~You ever wonder if one day there won't be any trees left to burn?
+
+0x4B53496F = ~z~Sorry it ain't spaghetti.
+
+0x4C695F39 = ~z~Okay... no, that's not... there... no...
+
+0x4CF91721 = ~z~Good luck getting Sean to lift a finger.
+
+0x4D8C9325 = ~z~Hey, who robbed the people to put the food on the table? Us!
+
+0x4D506213 = ~z~Oh!
+
+0x4DDEAE2B = ~z~So are you doing the right thing by that boy now?
+
+0x4F6C3A69 = ~z~It doesn't matter what I say, you'll believe whatever fantasy you're currently living in.
+
+0x5B2EFDFF = ~z~Oh, you actually... well, thank you. This'll make a good batch alright.
+
+0x5C1B0EFD = ~z~Living free out here, like this... I wouldn't have it any other way.
+
+0x5CBBD911 = ~z~It was fine. I put your share in your wallet.
+
+0x5D31ED2C = ~z~Okay, Momma.
+
+0x5E1E3448 = ~z~All you do is complain about Pearson's cooking. Just be glad there's food on the table.
+
+0x6A2CC4DF = ~z~Thanks, Hosea.
+
+0x6AEEC050 = ~z~Yes, of course.
+
+0x6AF09CBC = ~z~I miss the old days.
+
+0x6B838D9E = ~z~Good cup of coffee always gets the guts moving.
+
+0x6BDFA28A = ~z~So I got hold of some ginseng.
+
+0x6C041F7A = ~z~Phew... it's like all me worries have floated away...
+
+0x6CA9BE10 = ~z~
+
+0x7AD99A15 = ~z~I would rather gut myself with a rusty spoon.
+
+0x7B52F3D4 = ~z~We should be getting the young'uns to do this.
+
+0x7B68E13C = ~z~How is it even Pearson's sauce gets stuck in your teeth?
+
+0x7D25460F = ~z~You think this is the way to a man's affection? Moping and pestering all the damn day?
+
+0x7D106493 = ~z~Just thinking... so please allow me that.
+
+0x8AB3C833 = ~z~Thank you John. I'm sorry if I was... well... I was just worried sick.
+
+0x8AC796B2 = ~z~You're lazy.
+
+0x8B0CC9D6 = ~z~I see you, Karen!
+
+0x8D0F8226 = ~z~~sl:0.9~Me neither.
+
+0x8FC965F8 = ~z~Jesus.
+
+0x9B3A0009 = ~z~Ugh, no! Don't ever do that again.
+
+0x9BD5B8CE = ~z~And I told you you don't tell me a damn thing.
+
+0x9D566D78 = ~z~I know.
+
+0x9D841D06 = ~z~Ah, thanks Arthur. I have something you might like... I'll leave it by your tent later.
+
+0x19A2CACA = ~z~I did not. I got shot in the leg
+
+0x22D76140 = ~z~You're delusional... again.
+
+0x23D69383 = ~z~Is that a threat? Another great way to a man's affection.
+
+0x24CB3C1C = ~z~Do you ever worry that one of those alligators is going to walk into your tent at night?
+
+0x25D5FF6A = ~z~I always liked you, Karen.
+
+0x26EE14B5 = ~z~Even north, anywhere but down here.
+
+0x27B19183 = ~z~So much for heading west, huh?
+
+0x28D1F109 = ~z~What's wrong with you?
+
+0x29CE869E = ~z~Yup, the best things aren't done in a hurry.
+
+0x30FAA968 = ~z~Are you close?
+
+0x33A5DB62 = ~z~Nothing's wrong. Leave me in peace, I beg of you.
+
+0x40D49D3A = ~z~Fantasy? You think this is a fantasy for me?
+
+0x41B2B29E = ~z~I knew you boys'd come for me. I knew it. I love you, Arthur Morgan!
+
+0x44E0D163 = ~z~Okay.
+
+0x47DC1384 = ~z~For the ugly life we lead, we reside in some pretty spots.
+
+0x48ACDAF0 = ~z~What are you doing?
+
+0x49A1DF09 = ~z~What do you want from me?
+
+0x52C7EBF2 = ~z~Yes!
+
+0x57FA798B = ~z~Come here, you.
+
+0x58C4AEB7 = ~z~You know what that is in the distance? Blackwater.
+
+0x58CEC0D8 = ~z~You must be starving, son, let me get you something to eat.
+
+0x59D7B77B = ~z~I guess we do.
+
+0x61D78F74 = ~z~To be treated with some respect and affection...
+
+0x64FD13A4 = ~z~Like the peaks of the Derryveagh.
+
+0x66C73801 = ~z~You're quiet.
+
+0x67F85C0C = ~z~Only in yours, Bill. Only in yours.
+
+0x68CACEAC = ~z~
+
+0x73A506E3 = ~z~Okay, thanks.
+
+0x75C4F363 = ~z~For the love of god, stop giving me that lost puppy look.
+
+0x76BFB729 = ~z~Oh there they are, look at them. Magnificent.
+
+0x76E6FD08 = ~z~Thanks, Momma. Can I play a little?
+
+0x77F4993F = ~z~Arthur breaks them, we fix them.
+
+0x81EA0BA9 = ~z~I've never known a woman with so many needs.
+
+0x83DDF841 = ~z~Don't know if you saw, but I left that medicine for you by your tent.
+
+0x83E3A760 = ~z~So I managed to get back into Valentine and collect on those sheep.
+
+0x83F284FB = ~z~Hasn't seen any action like this since nine months before young Jackie popped out!
+
+0x90CE198A = ~z~So, that night at the saloon in Valentine... were we really slapping each other in the face?
+
+0x90F76DB3 = ~z~I can do a lot worse than that.
+
+0x93A7AF24 = ~z~You don't know the first thing about a woman's needs.
+
+0x96C474FA = ~z~Nowhere near!
+
+0x97F9AD09 = ~z~It's alright John's tent, isn't it?
+
+0x103EBF2A = ~z~Christ...
+
+0x144EC42F = ~z~Won't even look me in the eye, but you'll look at her all day.
+
+0x150C716A = ~z~Not now, please.
+
+0x162C381B = ~z~Ah, I tell you... I am aching for a good poke right now.
+
+0x164B7685 = ~z~Appreciate it.
+
+0x232BAA40 = ~z~So, Macguire, what's this I hear about you and Karen in my tent?
+
+0x252C7D5A = ~z~Well, we ain't the quickest but we get it done right.
+
+0x339A166D = ~z~Right...
+
+0x375B2F95 = ~z~The Pinkertons... Cornwall...
+
+0x397D7BD9 = ~z~Just as soon as we get everything set up right, we have to move again.
+
+0x399AB99C = ~z~Guide me in here a bit, will you?
+
+0x551B6023 = ~z~Seems so peaceful.
+
+0x668B323F = ~z~Guess we did.
+
+0x682D5C20 = ~z~I hope that wasn't directed at me.
+
+0x694D9D66 = ~z~Ah perfect. I'll make some of that tonic for you.
+
+0x763F856B = ~z~It's written all over you. I'm not stupid, I've been watching.
+
+0x825B8807 = ~z~Good to know.
+
+0x922E43F5 = ~z~What? That wasn't too smart.
+
+0x1312EFBD = ~z~Okay, okay, here we go.
+
+0x1579D2EA = ~z~You're a barrel of laughs, aren't you?
+
+0x1604F37D = ~z~Miss Jones!
+
+0x1898F211 = ~z~You know, I ain't even sure who we're running from no more.
+
+0x2756E0C0 = ~z~He even looks like you, John.
+
+0x2984DADC = ~z~Are you even aware of the price on my head, the pressures I'm under?
+
+0x4022FF4C = ~z~Oh shut up.
+
+0x4837D6D2 = ~z~Ooh yes, that's it.
+
+0x5556FE00 = ~z~You ever read?
+
+0x7392B2EA = ~z~All them out there, they're laughing at me.
+
+0x7880F225 = ~z~Me? What about you, you fat shit?
+
+0x7909A803 = ~z~Enjoy it now while you can.
+
+0x8467D041 = ~z~We're done ain't we?
+
+0x8695D3F3 = ~z~So when are we heading west again?
+
+0x8992C8B6 = ~z~You can't fool me, Dutch.
+
+0x9112FD69 = ~z~Come on, let's leave him to play a minute.
+
+0x9834F298 = ~z~Yup.
+
+0x43464DFF = ~z~There she blows!
+
+0x48560DDA = ~z~Maybe we should just swim over and get our money back?
+
+0x96442B8D = ~z~Gladly.
+
+0x99598FA8 = ~z~You think you could ever do it? Go straight, honest work?
+
+0x763933E4 = ~z~We certainly are, darling.
+
+0x847421D4 = ~z~I don't have the energy for this right now.
+
+0x924433A6 = ~z~Goodnight!
+
+0x957371AE = ~z~I don't know, probably no time soon.
+
+0x978479D3 = ~z~Thanks.
+
+0x1348717F = ~z~You know the problem with folk round here? No discipline.
+
+0x17147479 = ~z~She loved to swim.
+
+0x20109374 = ~z~Sometimes, Dutch taught me a long time ago. Why?
+
+0x55107087 = ~z~You wait, he's a fighter...
+
+0x79362903 = ~z~The perfect image to start my day.
+
+0x96261602 = ~z~Shut it, Morgan!
+
+0xA056F46A = ~z~
+
+0xA0610BB2 = ~z~But I'm disciplined about it.
+
+0xA2AB8BA9 = ~z~I know, you two were close.
+
+0xA2EE8CB7 = ~z~Thank you.
+
+0xA8E88591 = ~z~I just want someone to see me!
+
+0xA21F8B56 = ~z~Shopping or shooting?
+
+0xA56FD2B4 = ~z~How selfish are you?
+
+0xA57CAF7D = ~z~Thank you.
+
+0xA69FFF0F = ~z~~sl:1.0:0.0~I'll tough it out.
+
+0xA912D575 = ~z~Mess with me before my morning coffee and I will scratch your eyes out.
+
+0xA4201230 = ~z~Oh hey, Arthur, I left some of that horse medicine I made for you by your tent. Thanks again.
+
+0xA6581403 = ~z~You've barely said a word to me.
+
+0xA8268318 = ~z~Eat that all up now, Jack.
+
+0xAA245024 = ~z~Kieran, I don't know, that's Dutch's call. He's alright for now.
+
+0xABD5B9A9 = ~z~Here, you go. A new mirror. And hopefully some better luck.
+
+0xAC5A9DA1 = ~z~So, Dutch seems to have taken a shine to Mary-Beth.
+
+0xAC914639 = ~z~~sl:1.8:0.0~Yes, you've got it in one. Jesus...
+
+0xAE7C6C16 = ~z~Say good night to everyone.
+
+0xAF155F4D = ~z~I told you not to do it like that.
+
+0xB0058803 = ~z~So I've got a story for you, Hosea, you'll like this one.
+
+0xB00EA734 = ~z~Either. You just say the word.
+
+0xB1A4605E = ~z~Sean!
+
+0xB4E59B9A = ~z~~sl:0.3:0.0~You have all the charm of a dead slug, Bill Williamson.
+
+0xB5E05044 = ~z~I don't think so.
+
+0xB5E95FEB = ~z~What's wrong, Dutch? Just tell me.
+
+0xB8E62497 = ~z~I know, it's okay.
+
+0xB9C39D95 = ~z~Here you are, eat up.
+
+0xB61E3285 = ~z~You're a bastard, Dutch van der Linde.
+
+0xB1365F82 = ~z~Move over will you?
+
+0xB71121E2 = ~z~
+
+0xB7404677 = ~z~I guess so.
+
+0xBA83D8F2 = ~z~Alright, alright. Don't begrudge a feller some slap and tickle...
+
+0xBAB43BCD = ~z~Yes!
+
+0xBB12D31A = ~z~~sl:1.1:0.0~We wouldn't even know where to start.
+
+0xBB67A87B = ~z~So you think they'll find us here?
+
+0xBBD7F38B = ~z~So when are we getting rid of the O'Driscoll? He's served his purpose now.
+
+0xBD930A43 = ~z~Come on along now, Jack, time for bed.
+
+0xBE4769A5 = ~z~A burning stick.
+
+0xBFE0877C = ~z~Oh I know, Mrs. Adler.
+
+0xC0B8465C = ~z~We know how that goes.
+
+0xC9CD3DA8 = ~z~Thanks.
+
+0xC9D36A68 = ~z~Got a good head on you, kid.
+
+0xC19CEE2D = ~z~I don't have many other options.
+
+0xC24A2C8C = ~z~Can we just enjoy some peace and quiet?
+
+0xC53ED157 = ~z~You know, you boys used to be a lot more fun.
+
+0xC80DF49F = ~z~So, w-we could take a little walk in the woods?
+
+0xC730D550 = ~z~Okay...
+
+0xC4484FE3 = ~z~I have more on my mind than just you, Miss O'Shea.
+
+0xC8587B16 = ~z~You've got food, health, warmth. Be grateful for that.
+
+0xCABB2E61 = ~z~Will you be quiet? I'm trying to read here.
+
+0xCACA6D8B = ~z~They'll just grow more.
+
+0xCC82DF6A = ~z~Stop pulling that face!
+
+0xCD0EA1F1 = ~z~I want to help you, Dutch, but there's this wall...
+
+0xCD914CCE = ~z~I don't know... we ain't an easy bunch to hide, and we sure ain't proven good at lying low.
+
+0xCD9204D9 = ~z~Will you two keep it down in there?
+
+0xCE1B23F1 = ~z~Hey, whatever you boys got cooking, you need an extra gun, you know I'm good for it.
+
+0xCE1B6726 = ~z~You spend most of the time sat on your fat ass.
+
+0xCECA41F5 = ~z~Hey, when you're done with that, can you rub my feet?
+
+0xCF7AE3E1 = ~z~He does.
+
+0xCF49BA26 = ~z~What's wrong now?
+
+0xCF832018 = ~z~Oh shut up.
+
+0xD05B9DCC = ~z~Trying to get these off!
+
+0xD0630A3E = ~z~Will you shut up?
+
+0xD0FB0F81 = ~z~It's taken Pearson this long to learn one recipe, don't fluster him any more.
+
+0xD2EF5D6C = ~z~So when are we heading out again, me and you? That was fun.
+
+0xD4EB7087 = ~z~You can help by leaving me alone so I can actually think for once.
+
+0xD8AE9481 = ~z~We missed you.
+
+0xD15EB296 = ~z~~sl:0.6:0.0~I'll never understand you, Arthur Morgan.
+
+0xD25BBC3D = ~z~Hey, that business with Cornwall in Valentine... I hear you near shit you pants, Strauss.
+
+0xD67F4891 = ~z~I've seen you looking at her, Dutch.
+
+0xD78E8E7B = ~z~Maybe after lunch, hey?
+
+0xD94F7A0F = ~z~Hey, where are you going?
+
+0xD99CCC24 = ~z~You're playing a dangerous game.
+
+0xD9252A37 = ~z~I have a vague memory of that, yes.
+
+0xD8379459 = ~z~We... er... might have popped in there for a bit, but we didn't touch anything... nothing of yours anyway!
+
+0xD9326624 = ~z~
+
+0xDA927CD4 = ~z~Here's some of that burdock root, you wanted.
+
+0xDA5193E1 = ~z~Could use a slug of whiskey in this.
+
+0xDAB222EF = ~z~What I would give for a good pozole.
+
+0xDB46C886 = ~z~I'm telling you... worst thing about being down here, and there are many, the damn insects.
+
+0xDB357D81 = ~z~So when we heading out again, Arthur? That was fun.
+
+0xDB89525F = ~z~How did we end up down here, Arthur?
+
+0xDF313B77 = ~z~What are you doing?
+
+0xE7EA68BF = ~z~Oh that much is painfully clear.
+
+0xE7F5304D = ~z~You're going? Guess I'll see you in the morning then?
+
+0xE32EC76F = ~z~No, you shut up.
+
+0xE73C0605 = ~z~Well, just say the word.
+
+0xE75CB9A8 = ~z~I don't know why you're still here, Reverend.
+
+0xE908E40A = ~z~Yup...
+
+0xE4042F33 = ~z~Go to bed!
+
+0xE443921F = ~z~Shut up, you idiot.
+
+0xE1518907 = ~z~Oh you're a lovely woman.
+
+0xE3155603 = ~z~~sl:0.0:1.5~One minute you're as sweet as pie~sl:~and the next you're as sour as vinegar.
+
+0xE5588050 = ~z~Oh, be quiet.
+
+0xEA2AFDAA = ~z~That seems to be the way.
+
+0xEB4ACE82 = ~z~Make me wonder about the bits we don't remember.
+
+0xEBB027C9 = ~z~You know, all this... it used to feel like one big party. How wrong I was.
+
+0xEBD5733D = ~z~Who?
+
+0xEBF154F7 = ~z~Sorry!
+
+0xEDCC401B = ~z~I have to say... you look lovely in firelight, Miss Jones.
+
+0xEE4AA2F9 = ~z~Oh yes.
+
+0xEE9C2149 = ~z~Ugh, one of my boots would be more tender than this.
+
+0xEE29F7A0 = ~z~Beats me...
+
+0xEF24C378 = ~z~Well, we survived another day. Just about.
+
+0xF06D68AE = ~z~It's always about your needs, isn't it?
+
+0xF4E6EADF = ~z~I should clip you one, lady.
+
+0xF5B83508 = ~z~Is that it?
+
+0xF7D10B34 = ~z~Getting too old for you, am I? That's how it usually works with you, isn't it?
+
+0xF9BB0352 = ~z~I'm feeling old today.
+
+0xF9F49296 = ~z~Pearson tried to tell me it was a chicken bone, but I know chicken when I taste it.
+
+0xF30F7537 = ~z~Good night everyone, don't stay up too late.
+
+0xF81CBBFC = ~z~You've barely touched me in weeks.
+
+0xF97A24B6 = ~z~~sl:1.2:0.0~You know when you need to piss, but you can't face moving?
+
+0xF377EEAA = ~z~
+
+0xF554C055 = ~z~All starts to taste the same, doesn't it?
+
+0xF596A2BA = ~z~All in good time.
+
+0xF982C36E = ~z~It's not all so bad.
+
+0xF29518E9 = ~z~You want me to stop?
+
+0xF32358C9 = ~z~No, but I will now.
+
+0xF3910688 = ~z~
+
+0xF8915924 = ~z~You know... I can't even remember the last time I slept in a real bed.
+
+0xFAD84904 = ~z~No reason, just wondered.
+
+0xFB0A1A7C = ~z~Can't blame a feller for asking.
+
+0xFCC9F6A8 = ~z~Ow!
+
+0xFD1D5D5E = ~z~See you later.
+
+0xFF573F8E = ~z~All the same thing in my mind.
+
+0xFFCE1E45 = ~z~You know, I found a finger in my stew once. A lady's finger.
+

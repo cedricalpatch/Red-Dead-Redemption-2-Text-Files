@@ -1,0 +1,84 @@
+0x0B63C0A5 = Fussar
+
+0x1B977FB1 = Eliminate the ~e~guards~s~
+
+0x2CF9001D = Dutch
+
+0x6D12A2BA = Get on the ~o~ship~s~
+
+0x6FB7B6A2 = Follow ~o~Dutch~s~
+
+0x7A304B9F = Rescue the ~o~Captain~s~
+
+0x7D4351B9 = Eliminate the ~e~guards~s~
+
+0x7F2246D9 = Wait for ~o~Micah~s~ to finish planting the explosives
+
+0x9E8A755E = Before the gang reaches the ship, the rest of Fussar's men pour out of the compound. They assemble outside the ruins in a last ditch effort to stop the gang.
+
+0x9E49052A = Kill ~e~Fussar~s~
+
+0x10FFDC38 = Captain
+
+0x22A99C93 = Eliminate the ~e~guards~s~ and fight your way back to the ship
+
+0x60A79882 = Plant the ~o~explosive~s~
+
+0x62C88E26 = Get to the ~o~look out platform~s~
+
+0x97ADE50D = Plant explosives
+
+0x475B26E7 = The shoot continues to the boat. Once all the guards are dead the gang boards the ship with the captain and quickly cast off. They look back to see the island one last time.
+
+0x892B4AA0 = The gang plans to leave the island. First, they must destroy Fussar's artillery overlooking the bay. Then rescue the captain.
+
+0x912E10D6 = Dutch died.
+
+0x3903B311 = Use ~INPUT_MOVE_DOWN_ONLY~ to look at the captain.
+
+0x8751FD22 = The Captain died.
+
+0x47560B3F = Kick the gun
+
+0x51696B68 = Get on the ~o~cannon~s~
+
+0x94558C58 = Fire Cannon
+
+0x988979A7 = Stand back from the explosives
+
+0x30643808 = Follow the gang back to the ~o~ship~s~
+
+0x88116761 = Follow the ~o~gang~s~
+
+0xA297B3A9 = Bill died.
+
+0xA827278C = Eliminate the ~e~guards~s~ without raising an alarm
+
+0xAE9ACBAF = Micah died.
+
+0xB85AB3D9 = Regroup with the ~o~gang~s~ at the look out platform~s~
+
+0xBC051D5F = Use ~INPUT_MELEE_ATTACK~ to kick the gun to the captain.
+
+0xC021444A = Hold off the ~e~guards~s~
+
+0xC0216EBC = Hercule died.
+
+0xC0BF26D3 = Use ~INPUT_LOOK_DOWN_ONLY~ to look at the captain.
+
+0xC9DF8238 = Dutch was abandoned.
+
+0xCB1684AA = Hercule was abandoned.
+
+0xD2CBFCD5 = Get to a safe distance
+
+0xDB8F2597 = Micah was abandoned.
+
+0xDB75AB30 = Use ~INPUTGROUP_MOVE~ to look at everyone in the stand off.
+
+0xDDCB390E = Levi
+
+0xE23C09B4 = Plant the explosive
+
+0xE771F440 = Use ~INPUT_LOOK_LR~ to look at everyone in the stand off.
+

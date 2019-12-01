@@ -1,0 +1,26 @@
+0x3D40427E = ~z~So... what's your story, boy?
+
+0x6DD73908 = ~z~They gave me a choice: ride with 'em or die. So... wasn't much of a choice.
+
+0x7B3ABE72 = ~z~My pa came over from Ireland. He got sick... and died.
+
+0x8AED5DD7 = ~z~Well, I... I-I used to work with horses... when I was a little boy.
+
+0x28F019DE = ~z~Um... horses.
+
+0x328AC270 = ~z~They got killed and I fell in with the O'Driscolls.
+
+0x965EF4BA = ~z~Horses? How do you mean horses?
+
+0x8972F03F = ~z~I joined the army, but uh... that didn't work out well. Then I fell in with some outlaws.
+
+0x69481A8D = ~z~My ma got sick and died... it was cholera.
+
+0xAB331E62 = ~z~well, we never made it to California.
+
+0xBD7A583D = ~z~Now... I'm in with you... and all I know is folks all seem to die... and... I still love horses.
+
+0xC5C35382 = ~z~I was living in the West. We'd travelled out there 'cause pa thought he could become a farmer... in California,
+
+0xD7AEF759 = ~z~After that I was all alone, and... the stables, where I worked, threw me out.
+

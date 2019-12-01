@@ -1,0 +1,632 @@
+0x002C5A2C = ~z~It don't matter what you thought...
+
+0x00D5C48D = ~z~and cooked your momma for breakfast...
+
+0x0106B4B0 = ~z~~sl:0.0:4.1:1~Oh now, you keep saying that, but you don't mean nothing by it.
+
+0x0181829D = ~z~~sl:0.0:3.5:1~Get these ropes off of me right now.
+
+0x01858184 = ~z~Bring him here.
+
+0x0203C9FB = ~z~And?
+
+0x023C455A = ~z~What the hell?
+
+0x03CE87FF = ~z~we can't take no chances with the likes of you.
+
+0x03E93846 = ~z~Son of a bitch.
+
+0x03F9888D = ~z~I agree with you.
+
+0x0517C2C5 = ~z~You know an old friend of mine...
+
+0x0705F4C0 = ~z~~sl:0.0:1.6~Come to think of it, no.~sl:0.9~That could be another problem.
+
+0x0743A3E2 = ~z~Well, I'm well I think.
+
+0x08A3053B = ~z~Watch your mouth.
+
+0x08B5598E = ~z~by them Foreman brothers she used to run with.
+
+0x093049CA = ~z~History...
+
+0x09B392AD = ~z~let's get you home.
+
+0x0AA976D7 = ~z~Tilly, we're coming for you!
+
+0x0B765FAC = ~z~We'll get'em both back.
+
+0x0B34023B = ~z~Well, what are you waiting for? Get in there and find our girl.
+
+0x0BE54A6D = ~z~You've said your last words.
+
+0x0C137356 = ~z~Oh, don't worry, I'll be just fine.
+
+0x0D50BC25 = ~z~Now catch that bastard!
+
+0x0E66424F = ~z~Stay right on their tail, Arthur.
+
+0x1A4164F6 = ~z~You just shut your mouth now, Anthony. I've heard enough.
+
+0x1AEDED45 = ~z~is done.
+
+0x1B4CDBDF = ~z~What the...
+
+0x1B9A7285 = ~z~How do you know?
+
+0x1C4637D2 = ~z~Now get out of here.
+
+0x1D8E5077 = ~z~So, no regrets?
+
+0x1D65AE55 = ~z~Go on, rope that bastard.
+
+0x1FC196FA = ~z~Can't this horse go any faster?
+
+0x2A0FBFA1 = ~z~What the hell's going on?
+
+0x2A4FD439 = ~z~~sl:0.0:2.2:1~That bitch owes me.
+
+0x2AE92C54 = ~z~Go to hell.
+
+0x2B933DE2 = ~z~~sl:0.0:2.8~Anyway, talking of folks disappearing...~sl:~have you seen that boy, Kieran, since the party for Jack?
+
+0x2BC19A64 = ~z~Your goddamn cousin had it coming, Anthony Foreman!
+
+0x2C5C1D53 = ~z~Before, no one cared for me.
+
+0x2CD12065 = ~z~Well, she put a lot of good years in on an outlaw...
+
+0x2E438818 = ~z~It's not too far.
+
+0x2EA3A028 = ~z~I don't care if she shot your daddy...
+
+0x2F08A640 = ~z~You and I can handle this, Arthur.
+
+0x3A8E0A72 = ~z~Fine...
+
+0x3BE662CB = ~z~Hyah!
+
+0x3D6E4408 = ~z~She killed my goddamn cousin.
+
+0x3EEB4B55 = ~z~Rope that son of a bitch.
+
+0x4BBEDD70 = ~z~Got me thinking how that all ended.
+
+0x4C6F446F = ~z~See... you do care, Miss. Grimshaw.
+
+0x4CD2F4E8 = ~z~Where we heading?
+
+0x4F322A84 = ~z~
+
+0x5A5D6F0E = ~z~
+
+0x5A45E01C = ~z~~sl:0.0:3.0~If they've touched a single hair on that girl's head,~sl:~I will eviscerate the sons of bitches.
+
+0x5A87F7F0 = ~z~She killed my cousin!
+
+0x5A7378FE = ~z~Where the hell did he come from?
+
+0x5B4CFB34 = ~z~If you're a girl without means in this world...
+
+0x5B63AA4C = ~z~Come on. Get him, Arthur.
+
+0x5CEB7FC9 = ~z~She didn't love me enough, I guess.
+
+0x5D6DE398 = ~z~Don't kill him yet. I want Tilly to have the last word on this bastard.
+
+0x5D7A1622 = ~z~He went out hunting or something.
+
+0x5E59DD0B = ~z~Alright, that's him dealt with.
+
+0x5E55829D = ~z~Well, she was a fool then, Arthur.
+
+0x5F994478 = ~z~Gonna make these nice and tight.
+
+0x6A081AEA = ~z~What?
+
+0x6B4F0236 = ~z~~sl:0.0:3.1~Yes, they probably followed us down here.~sl:0.3~You don't know what happened?
+
+0x6B319F19 = ~z~Well, I don't know... first Jack, now Tilly. This isn't good, Arthur.
+
+0x6BE694DF = ~z~I'll kill you.
+
+0x6C6108E5 = ~z~let's get you out of here.
+
+0x6CCFEEF5 = ~z~how are you?
+
+0x6D7996D1 = ~z~Go on, drop him in the dirt where he belongs.
+
+0x6D582822 = ~z~Catch him, Arthur.
+
+0x6DCD1312 = ~z~and the clowns he rides with...
+
+0x6F332300 = ~z~Sure.
+
+0x7A8068F4 = ~z~Shut the hell up.
+
+0x7BC3BE61 = ~z~Mr. Morgan, we have a problem...
+
+0x7C7AB448 = ~z~Oh yes.
+
+0x7CD4D062 = ~z~~sl:0.7~Get off me.
+
+0x7D8B5130 = ~z~Well, that was a beauty, Arthur.
+
+0x7D44E2F1 = ~z~They're heading down the hill to the water.
+
+0x7E8EC3F7 = ~z~a real problem.
+
+0x7E25AC6E = ~z~Now...
+
+0x7E88B489 = ~z~to leave me alone!
+
+0x8AF9D305 = ~z~Get this off of me.
+
+0x8B6A1A76 = ~z~Are you going in there or not?
+
+0x8B98A649 = ~z~
+
+0x8BA73CDB = ~z~Come on, we've got them now.
+
+0x8C4240D8 = ~z~There, straight ahead, I saw them go through those bushes.
+
+0x8CE598F6 = ~z~You've got a couple more seconds to regret what you did!
+
+0x8D1599CB = ~z~Untie me, you bastard.
+
+0x8DCDF30D = ~z~Oh, hurry, we're going to lose them.
+
+0x8E5ADFA1 = ~z~she's mine, she ain't yours.
+
+0x8FC47AB6 = ~z~Where is he?
+
+0x8FE6A177 = ~z~Kill that son of a bitch!
+
+0x9A607CE2 = ~z~do we need more guns?
+
+0x9B1FB56A = ~z~We're coming for you, you bastards!
+
+0x9B9BEEAF = ~z~I want him to go away...
+
+0x9BD6A01E = ~z~
+
+0x9C3FC556 = ~z~Okay, I think that's the place up ahead.
+
+0x9C43EFA8 = ~z~Go on, truss him up. What are you waiting for?
+
+0x9D06655B = ~z~Alright, get after them!
+
+0x9D74E681 = ~z~~sl:0.0:2.5~She killed one of them, for good reason, but...~sl:~clearly they don't see it that way.
+
+0x9DBD839C = ~z~Come along.
+
+0x9E366CDE = ~z~I should have shot the bitch yesterday like I said I would.
+
+0x9FDDD510 = ~z~How are you, Arthur?
+
+0x12CEFF71 = ~z~it's okay.
+
+0x14BE84AC = ~z~There they are.
+
+0x15CB2C30 = ~z~Sadly...
+
+0x15E2645A = ~z~Now...
+
+0x16B403EA = ~z~Bastard.
+
+0x16DF3C67 = ~z~I think there's a guard...
+
+0x17BD781F = ~z~Is that Foreman with an “e”? I want the undertaker to spell it right.
+
+0x21EF8C92 = ~z~No doubt.
+
+0x32D22C7F = ~z~she definitely was a fool.
+
+0x33D07CFB = ~z~but we're still alive.
+
+0x35CA302F = ~z~You boys cared for me.
+
+0x36D402F2 = ~z~Regrets for what?
+
+0x37F71570 = ~z~Let's finish these scum.
+
+0x44DF489F = ~z~What the hell?
+
+0x46FCE928 = ~z~we killed those fellers there.
+
+0x56B5E8CB = ~z~Alright, head for Rhodes. And quick.
+
+0x56CADE14 = ~z~Oh, don't worry, you'll be seeing him soon enough.
+
+0x57C18747 = ~z~Arthur!
+
+0x60F8980B = ~z~Whoa, nice shot.
+
+0x64B81192 = ~z~but I can tell you what they're going to be doing here...
+
+0x65CBF7D7 = ~z~With pleasure.
+
+0x72B92B43 = ~z~~sl:0.0:2.7~Alright, I think that last one's the boss.~sl:~Lasso him and we'll take him back to Tilly.
+
+0x73BA40D5 = ~z~~sl:0.0:4.0~if you would do me the privilege of helping me,~sl:0.2~I'd do you the honor of pretty much anything you desired.
+
+0x79A32BDE = ~z~We was family, Tilly Jackson.
+
+0x80CC45B3 = ~z~Go on, what are you doing?
+
+0x84BE4214 = ~z~You want that?
+
+0x86B9D365 = ~z~Or...
+
+0x89A3DB69 = ~z~Sure...
+
+0x89F66D4D = ~z~~sl:0.1~a gentlemen such as yourself could be mighty kind.
+
+0x90BCC706 = ~z~We can't let these animals get away.
+
+0x91BAD398 = ~z~It's okay, miss Tilly.
+
+0x91E5DAF8 = ~z~Are you going to tie him up then?
+
+0x92D0EA3B = ~z~not after momma got typhoid and...
+
+0x92DED151 = ~z~Yes, young Tilly Jackson isn't as sweet and innocent as you might think...
+
+0x94DF9075 = ~z~~sl:0.0:3.1~Well, he'd be a real fool to turn on us now...~sl:0.3~but I can't imagine he'd last too long on his own.
+
+0x95F3AC83 = ~z~It's your call, Arthur...
+
+0x98C7E1BA = ~z~It's okay, miss Tilly.
+
+0x103AE669 = ~z~Yep.
+
+0x127C907B = ~z~Goddamn it!
+
+0x156C2E10 = ~z~You got him.
+
+0x183C09DA = ~z~Excuse me?
+
+0x255A0229 = ~z~and tell the remaining of his cousins...
+
+0x272C144B = ~z~What happened?
+
+0x295E189F = ~z~I heard you ran into that Mary girl.
+
+0x298C8A3B = ~z~Quick, before he gives you the slip.
+
+0x386FB6D2 = ~z~I wouldn't change.
+
+0x444E5053 = ~z~I knew you was up to no good!
+
+0x618FC6C2 = ~z~Go find her before they put a bullet in her head.
+
+0x650A0EAE = ~z~Well, life weren't very nice, Arthur...
+
+0x711A3B95 = ~z~~sl:0.0:3.9~I suppose sir, what I'm trying to say...~sl:~in my clumsy and inelegant manner... is that
+
+0x739CC117 = ~z~I remember.
+
+0x750FB34A = ~z~~sl:0.0:1.4:1~She didn't tell me nothing.
+
+0x759EB3F3 = ~z~~sl:0.0:3.0~Listen, kidnappings ain't nothing new.~sl:0.5:2.1~These things happen sometimes...~sl:0.4~hell, they've happened to you.
+
+0x767DB51D = ~z~dying.
+
+0x886F675F = ~z~
+
+0x896E4307 = ~z~Now...
+
+0x904F6778 = ~z~in reality I... I can't make head nor tail of it.
+
+0x949FFFF8 = ~z~Ah, shit.
+
+0x1031F130 = ~z~Come here.
+
+0x1822AFDF = ~z~You're gonna pay for this.
+
+0x3176BE1C = ~z~There were five of them, I think.
+
+0x3687B4C6 = ~z~Kill that son of a bitch!
+
+0x4007C4AA = ~z~life is very scary.
+
+0x4529B5E4 = ~z~~sl:0.0:2.5~but, like I say, she was defending herself.~sl:0.4:3.0~She fled and fell in with us right after that.~sl:0.4~I just hope we can get to her in time.
+
+0x5709C369 = ~z~I'm...
+
+0x5977F772 = ~z~Well, for joining this band of maniacs?
+
+0x6661A435 = ~z~Oh, come on! I thought you were meant to be good at this!
+
+0x6963AA8B = ~z~No, he's making a run for it!
+
+0x7605B026 = ~z~Well, what are you waiting for? Go!
+
+0x8155DDD9 = ~z~Well...
+
+0x9039DAC6 = ~z~
+
+0x9708E6A9 = ~z~Kill him, Arthur.
+
+0x11645E19 = ~z~~sl:0.0:3.0~When we first got here, she told me she was worried that our camp...~sl:~was near a safe house that gang she ran with used from time to time.
+
+0x22299B0D = ~z~~sl:0.7~What the hell?
+
+0x35325E59 = ~z~Damn coward.
+
+0x38276F94 = ~z~Alright you...
+
+0x61419BE4 = ~z~Kind sir, we're lost and in need of some help.
+
+0x71749D3C = ~z~
+
+0x77301E8B = ~z~let's get you out of here.
+
+0x78865D43 = ~z~What the hell you think you're doing?
+
+0x82112FBA = ~z~I think I saw one of the Foremans hassling her in Valentine.
+
+0x85798C9D = ~z~This better not have nothing to do with you, Tilly Jackson!
+
+0x117665CE = ~z~So he's still alive then?
+
+0x211088FC = ~z~Mr. Morgan!
+
+0x252417C7 = ~z~Rope and hogtie him.
+
+0x392780FB = ~z~I'll deal with him.
+
+0x559171FD = ~z~In these books, life seems so simple but...
+
+0x578708EC = ~z~It was Anthony Foreman.
+
+0x646122A0 = ~z~He thinks he owns me.
+
+0x875257CF = ~z~She didn't tell you?
+
+0x934446DF = ~z~Got him. Now keep on the others.
+
+0x1361253B = ~z~Alright, here's your man.
+
+0x5386534C = ~z~I'm going to head over there now to check she's okay.
+
+0x9292693F = ~z~Why are we stopped?
+
+0x26810756 = ~z~If I had it my way, you'd be dead already.
+
+0x36844837 = ~z~Tilly, grab that gun.
+
+0x40888056 = ~z~Come on...
+
+0x44152157 = ~z~Oh, there they are, by the shoreline.
+
+0x79749876 = ~z~They think they're getting away, they got another thing coming.
+
+0x95915755 = ~z~~sl:0.0:2.9~Alright, you bring that bastard back to Tilly,~sl:~so we can all have a nice little chat.
+
+0xA035C107 = ~z~History is never done.
+
+0xA05E9A9A = ~z~Alright, let's go.
+
+0xA4CC83EB = ~z~That's enough, you bitch.
+
+0xA6F68564 = ~z~and just save us all the bother?
+
+0xA7C30C97 = ~z~Roping me like a damn steer.
+
+0xA8BF8CD1 = ~z~~sl:0.0:2.8~No. She spoke to me in confidence.~sl:0.1~I suppose I didn't think it would be a problem.
+
+0xA9F21C8A = ~z~Funny bastard. Who are you running with?
+
+0xA15D0993 = ~z~She's been taken...
+
+0xA20A7E67 = ~z~
+
+0xA20C45C2 = ~z~Will one of you deal with this?
+
+0xA40AE9DD = ~z~What's going on out there?
+
+0xA99BFECB = ~z~Tilly?
+
+0xA364C669 = ~z~~sl:0.0:2.3:1~You're a dead man.
+
+0xA967AA40 = ~z~Come on, they're getting away!
+
+0xA9035131 = ~z~Oh, you're gonna pay, all of you!
+
+0xAA442FD5 = ~z~just get going.
+
+0xAB6205BB = ~z~~sl:0.0:2.8~I swear half of you would just rot in your own filth,~sl:~if nobody kept you in check.
+
+0xABE20835 = ~z~~sl:0.0:2.5~You're wasting your time with that girl.~sl:0.3~She's a liar, she'll screw you over like she did me.
+
+0xAD0F0A4C = ~z~Hold up.
+
+0xAD711F7B = ~z~What about you?
+
+0xAE3835D8 = ~z~No, get outta here.
+
+0xAEBCB756 = ~z~Oh, come along, miss...
+
+0xAFE127E3 = ~z~The Foreman brothers?
+
+0xB0AA99EC = ~z~revenge is a fool's game.
+
+0xB2B065FC = ~z~Go on.
+
+0xB52DA5AD = ~z~And you told Dutch?
+
+0xB71BA5AE = ~z~I'll leave you alone.
+
+0xB244CCFA = ~z~~sl:0.0:1.6~It's okay, Miss Tilly.~sl:0.0:2.8~Now, let's get you outta here.~sl:0.3~Hold on.
+
+0xBA84368B = ~z~Hello, Mary-Beth.
+
+0xBB294DC3 = ~z~Let's go, catch up with them.
+
+0xBC8DD283 = ~z~~sl:0.0:2.4~Oh I see that kindly face of yours...~sl:0.0:3.1:1~and I know that for the right inducements,
+
+0xBC30FC03 = ~z~Quick, Arthur, they probably heard us.
+
+0xBC982827 = ~z~Well, thank you.
+
+0xBCE253A1 = ~z~Thank you, both of you.
+
+0xBCFBAA68 = ~z~I ain't sure yet. Reckon I'll let Tilly decide what you deserve.
+
+0xBEFBBB10 = ~z~Alright, alright. Damn it.
+
+0xBF7CC827 = ~z~Don't feel so good when you're the one tied up, does it?
+
+0xC3E635FA = ~z~Whoa...
+
+0xC5EEE3A0 = ~z~Oh shit. Quick, get after him!
+
+0xC6AC8C83 = ~z~Oh, look at these cowards!
+
+0xC54FC7B0 = ~z~You son of a bitch.
+
+0xC84BF927 = ~z~What you want?
+
+0xC2934D47 = ~z~Well what are they doing here?
+
+0xC3603F57 = ~z~She had her reasons.
+
+0xC9496C6F = ~z~What happened?
+
+0xC18647A5 = ~z~that was a long time ago.
+
+0xC88851F3 = ~z~Shit!
+
+0xCB3BFD2D = ~z~Ok. Good, let me know.
+
+0xCB9278AA = ~z~Where's my girl, Arthur?
+
+0xCCE79A6A = ~z~but I'd slit his throat.
+
+0xCE1E54D3 = ~z~you want all your boys dead?
+
+0xCE8A6770 = ~z~I said I'd deal with it. Anyway, just get in there and find Tilly.
+
+0xCE9583E0 = ~z~Still...
+
+0xCEC4CC80 = ~z~Some just require a firmer hand than others, you especially.
+
+0xCFDA8059 = ~z~Tilly can't speak to him if he's dead, Arthur.
+
+0xD053581D = ~z~Now, you think you can do that, Anthony?
+
+0xD08D4CB1 = ~z~What do they want with her anyway?
+
+0xD1BE6CAA = ~z~This rope is cutting into me.
+
+0xD6D468FA = ~z~And now it is.
+
+0xD7E272A7 = ~z~you leave her alone.
+
+0xD8EBEC29 = ~z~
+
+0xD34DD70C = ~z~What are you gonna do with me?
+
+0xD36AFCEE = ~z~Good shot.
+
+0xD61ED1C1 = ~z~That's it, stay on them.
+
+0xD68DEA2C = ~z~~sl:1.0~My arm.
+
+0xD95B798F = ~z~It's Tilly.
+
+0xD359EED4 = ~z~Well, I don't know what they've been doing here...
+
+0xD630C644 = ~z~~sl:0.0:1.3~The one in front's the boss.~sl:~Bring him back alive, I ain't done with him yet.
+
+0xDCDE1B41 = ~z~Finish those bastards off!
+
+0xDD7600E0 = ~z~Long time ago now.
+
+0xDEDAF64C = ~z~You Foreman boys ain't no kind of family I want.
+
+0xDF0D3EB5 = ~z~You know my choice.
+
+0xE2B4084A = ~z~I guess...
+
+0xE2F5FD62 = ~z~Or should I... slit your throat...
+
+0xE3BB77A4 = ~z~I thought they was...
+
+0xE3D3AE5C = ~z~Well, I'll get some eyes out, see if we can track him down.
+
+0xE8B92CA2 = ~z~Come on.
+
+0xE80B66C2 = ~z~Dump him on the ground here. I want to get a good look at this monster.
+
+0xE94B5331 = ~z~Finish the bastard off.
+
+0xE657CBD9 = ~z~You picked the wrong girl!
+
+0xE5930F2F = ~z~You back the hell off right now!
+
+0xE6649D96 = ~z~That's it, now make sure you tie him up real good.
+
+0xE29825D4 = ~z~Use the lasso. Don't kill him yet.
+
+0xEB65CA52 = ~z~Don't let him get away.
+
+0xEB719138 = ~z~
+
+0xED30A306 = ~z~~sl:0.0:3.6~Do you have the first idea of what you're getting into?~sl:0.4~I'm Anthony Foreman.
+
+0xED117BAF = ~z~Yah!
+
+0xEDFD5C5D = ~z~Sorry, partner...
+
+0xEE4A97E6 = ~z~No, she's at a place called Radley's House, just west of there.
+
+0xEE319354 = ~z~~sl:0.0:2.9~You think I'm taking more shit from you, Tilly Jackson?~sl:~Ideas above your goddamn station.
+
+0xEF23BFCC = ~z~Oh, if they've laid a finger on her!
+
+0xF4B6C4B1 = ~z~I'll tell you on the way...
+
+0xF7D433B1 = ~z~Goddamn bastard, you're a dead man!
+
+0xF8A5BA0B = ~z~I know. Never gets any easier, though.
+
+0xF8EEBE6A = ~z~Are you getting him off the horse then?
+
+0xF25BBE8B = ~z~I...
+
+0xF29D17DD = ~z~~sl:0.0:1.7:1~I said, get-
+
+0xF34EE638 = ~z~Let me go or we'll hunt you down.
+
+0xF56A9B02 = ~z~Hold up.
+
+0xF86AD25A = ~z~Hey! You okay in there?
+
+0xF90A076F = ~z~It's been quite a run we've had but...
+
+0xF599AE15 = ~z~You see this girl...
+
+0xF2081302 = ~z~Of course I care. About all of you fools.
+
+0xFA55AD41 = ~z~he always says...
+
+0xFA3154E2 = ~z~I'll take his horse. He won't be needing it no more.
+
+0xFAF9F3FC = ~z~No, get outta here.
+
+0xFB821888 = ~z~
+
+0xFC27A564 = ~z~I'll take that...
+
+0xFCF93447 = ~z~Keep still.
+
+0xFD6E5B80 = ~z~Make sure we take him alive.
+
+0xFE55D7DB = ~z~Anyone approaches, shoot 'em!
+
+0xFE4537DB = ~z~She's in Rhodes?
+
+0xFF6F4783 = ~z~Oh, thanks for the introduction, Anthony.
+

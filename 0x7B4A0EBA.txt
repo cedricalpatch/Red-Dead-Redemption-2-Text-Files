@@ -1,0 +1,282 @@
+0x0156F7FA = ~z~I lost my leg for this country!
+
+0x0419C357 = ~z~~sl:0.0:0.8~I...~sl:0.2:1.0~I need a little food.~sl:~I mean, j-just a little food.
+
+0x07B90A3F = ~z~Well... only got the one leg.
+
+0x0978C237 = ~z~~sl:0.0:1.3~man, you oughta get out of here~sl:0.1~and you oughta stop coming back.
+
+0x0A03CC4E = ~z~~sl:0.0:1.8~I saw men get sliced in two...~sl:0.9~I watched my five brothers fall.
+
+0x0C6BCCDF = ~z~~sl:0.0:1.3~Yeah, ever since them...~sl:0.3:1.3~them Grays moved here.~sl:0.4~They bunch of no-good white trash.
+
+0x0DCBFE1B = ~z~'Cause of the leg?
+
+0x1A6E6D23 = ~z~~sl:0.0:2.5~But I tell you, I fought bravely for a cause that I believed in.~sl:0.1~A cause we all believed in!
+
+0x1BB366AC = ~z~Yeah, but you...
+
+0x2A321A0A = ~z~No... no he didn't.
+
+0x2DFBFFE6 = ~z~~sl:0.0:0.7~Come on now,~sl:~I need-I need a buck here you bastard.
+
+0x2EC7A303 = ~z~That so?
+
+0x3BCD8429 = ~z~~sl:0.0:1.4~I... I love my country.~sl:0.1~I love my state!
+
+0x3DE2CE2A = ~z~Help me please!
+
+0x4B2B9123 = ~z~Okay. And you?
+
+0x4C0D8868 = ~z~Well, it seems to me ever since them Grays turned up...
+
+0x5A4BB4D4 = ~z~Y'all just sat on your fat behinds and did nothing.
+
+0x5A637A3A = ~z~~sl:0.0:0.9~There's a...~sl:0.1~there's a bunch of government agents I met.
+
+0x5ED6952E = ~z~~sl:0.0:2.0~Sad old man without a leg~sl:0.1~begging off mean folks too yellow to fight when it mattered.
+
+0x6A00608E = ~z~~sl:0.0:1.4~I fought for something.~sl:0.1~It turned out it weren't the right thing, but that ain't no nevermind.
+
+0x6CA0D97E = ~z~~sl:0.0:2.0~And you're still sitting on your fat behinds doing nothing.~sl:~Well...
+
+0x6D1131A3 = ~z~Well, this is what war looks like.
+
+0x6DAF0081 = ~z~~sl:0.7:1.0~Well...~sl:1.0:2.0~you better get outta here.
+
+0x7B7FDD05 = ~z~~sl:0.0:0.7~You're just...~sl:~you're just hollow folk made out of wood.
+
+0x7DBEC0F0 = ~z~~sl:0.0:1.1~Yeah...~sl:0.9:1.1~yeah, I mean...~sl:0.5~you don't seem too scared.
+
+0x7ECEF86D = ~z~I'm not sure...
+
+0x7EDB7DF3 = ~z~~sl:0.0:1.5~Well, I ain't got a behind.~sl:1.2~And I ain't got nothing neither!
+
+0x7F6D4200 = ~z~It coulda happened to you!
+
+0x7FC9237F = ~z~~sl:0.0:1.4~Hey, what did y'all do?~sl:0.3~Aside from sit around here and whine?
+
+0x8BC14BFC = ~z~Sure.
+
+0x8EAC29E5 = ~z~I mean, just give a feller a chance.
+
+0x8F09A508 = ~z~Ain't none of you neighborly in the least.
+
+0x9AB82ABE = ~z~~sl:0.0:1.0~Well...~sl:0.5~for the other country.
+
+0x9E347F8E = ~z~You coulda been called on to fight to save our way of life!
+
+0x9F9549BF = ~z~no one wants a hopper.
+
+0x14BC0BFB = ~z~How you keeping?
+
+0x19EAAEA2 = ~z~~sl:0.8:3.8~Been standing here since about 1870 and uh,~sl:0.4~I'm slowly starving to death.
+
+0x33CCEE8B = ~z~~sl:0.0:1.7~I never gave a damn about slavery.~sl:0.1~I was a mailman!
+
+0x51BA4331 = ~z~That so?
+
+0x51F547D8 = ~z~~sl:0.0:1.4~Come on, I'm hungry...~sl:0.5~I got my leg blown off!
+
+0x56BE8868 = ~z~I mean, just enough to eat.
+
+0x61A388BA = ~z~~sl:1.3:1.0~Hey!~sl:0.2:2.5~Hey, it's good to see you again, friend.~sl:0.5:1.2~But, uh...~sl:1.0~whatchu doing here?
+
+0x62E169B0 = ~z~~sl:0.0:1.2~I wish I had fought on the other side~sl:0.1:2.5:1~just so I could have shot some of you fools.
+
+0x68E2CC91 = ~z~And how you doing buddy?
+
+0x68FD2CE5 = ~z~~sl:0.0:1.0~Come on now.~sl:0.1~Now, I-I ain't asking for much...
+
+0x80FCA71C = ~z~Nothing good...
+
+0x89C97998 = ~z~Most of you bitter fools ain't got nothing inside.
+
+0x99F8B435 = ~z~We lost the goddamn war.
+
+0x104F2790 = ~z~I fought to save our way of life!
+
+0x295ADF40 = ~z~Mean I...
+
+0x323E59CC = ~z~I mean, give a feller some money.
+
+0x357A8EE3 = ~z~~sl:0.0:1.2~Nothing!~sl:0.2:1.5:1~That's why y'all still alive.
+
+0x376E642C = ~z~~sl:0.0:1.6~Well, but that ain't exactly the point.~sl:0.1:3.0~I mean, the point is, I want your property!~sl:0.4~Just a little bit...
+
+0x511C1D08 = ~z~There was a feller I used to see with you, few years back. He was... tall... and a moody face?
+
+0x614B883C = ~z~Oh I'm sorry to hear it.
+
+0x628B3563 = ~z~this town ain't got no soul no more.
+
+0x675F6E7B = ~z~Yeah, sure.
+
+0x737E2CA1 = ~z~He... he saved my life.
+
+0x746F1D58 = ~z~Around.
+
+0x842B889B = ~z~~sl:0.0:1.5~I walk into battle...~sl:0.2:1.4~achieve glory.~sl:~Well, this is my glory.
+
+0x906B1407 = ~z~~sl:0.0:1.3~Have a heart.~sl:0.1~Have a soul.
+
+0x2144CD20 = ~z~~sl:0.0:1.8~And if I can't work I can't afford a leg.~sl:0.1~So I'm stuck here with only one, and...
+
+0x2168A919 = ~z~~sl:0.0:1.4~Hey mister.~sl:0.1~Will you give me some money?
+
+0x4890E386 = ~z~~sl:0.0:1.4~I can't work.~sl:0.2:1.6~Now, I proved it, I can't work.~sl:0.1~I ain't worked in thirty-three years.
+
+0x6294EDD9 = ~z~~sl:0.0:1.8~Oh, give a feller something to eat.~sl:0.1~One of ya!
+
+0x8298B9AB = ~z~~sl:0.0:1.8~Well thank you. Say...~sl:0.4~Say, where you from?
+
+0x21924A16 = ~z~And how many one legged mailmen you ever seen?
+
+0x74694B70 = ~z~~sl:0.0:3.4~And I've been hating on 'em for so long if I forgot to hate 'em,~sl:0.2~I wouldn't know what day it was.
+
+0x75121E2A = ~z~This town lost its goddamn soul long time ago.
+
+0x86597CFF = ~z~Hey, I thought we was all about hospitality in the South?
+
+0x86879A48 = ~z~Hey, where's your pride, you fools?
+
+0x2115079E = ~z~~sl:0.0:1.9~Asking about you all across town~sl:0.1~yeah, them and a bunch'a bounty hunters too, I think.
+
+0x9001029F = ~z~Why don't you leave?
+
+0x54342338 = ~z~~sl:0.8~Sorry I asked.
+
+0x82894038 = ~z~~sl:0.0:1.5~Come on now, I'm hungry.~sl:0.1:1.4~Now, I need food!~sl:0.0~Now, I fought when I was asked...
+
+0x89793276 = ~z~~sl:0.0:1.5~Yeah, reckon they was,~sl:0.2~reckon they was Yankee spies during the war and everything.
+
+0xA0449B7F = ~z~Yeah, w-what, what did y'all pay?
+
+0xA2FEA0F3 = ~z~~sl:0.0:2.4~Now I-I paid for my sins.~sl:0.5~Paid with my body and my mind!
+
+0xA3F90B17 = ~z~~sl:0.0:2.9~Now, I lost my goddamn leg.~sl:0.1~What'd you lose?
+
+0xA4A4004C = ~z~~sl:0.0:1.3~But ain't none of you fought,~sl:0.1~you pathetic bastards!
+
+0xA7BF5F42 = ~z~Come on, I-I need some money here.
+
+0xA8BE09C4 = ~z~The cause of protecting what was ours.
+
+0xA95B8DDC = ~z~~sl:0.0:0.9~Well...~sl:0.3~some of you, I guess.
+
+0xA154C99E = ~z~~sl:0.0:1.7~Oh come on...~sl:0.7~Come on!
+
+0xA2407FA6 = ~z~but now I'm asking you!
+
+0xA68747DD = ~z~Ah, don't worry about it. Hey, say, you a Yankee?
+
+0xA76311FF = ~z~Now I need money!
+
+0xA9815346 = ~z~~sl:0.0:2.7~Thirty-three years ago I lost my leg~sl:~and I've been hopping ever since.
+
+0xAAD609B1 = ~z~Nothing but nasty, miserable people.
+
+0xAD4BDAE3 = ~z~~sl:0.0:2.0~I lost my sweetheart to cholera~sl:~and my leg to a goddamn canonball.
+
+0xAED44045 = ~z~~sl:0.0:2.8~Ah, no, I'm used to the leg. I mean,~sl:0.2:3.0:1~I've been without it a whole lot longer than I was with it!
+
+0xB0C324AB = ~z~~sl:0.0:0.9~Your ears?~sl:0.1~You can hear me.
+
+0xB636A792 = ~z~~sl:0.0:2.5~So help me get something to eat!~sl:0.7~Please, now.
+
+0xBA09A818 = ~z~~sl:0.0:3.2~Yeah, they... they somehow got rich about fifty years ago,~sl:0.1~they moved here caused a whole heap of trouble.
+
+0xBBB95268 = ~z~~sl:0.0:1.5~I saw my brother die.~sl:0.7:1.3~And I saw my friends die.~sl:0.1~I... I saw my leg
+
+0xBCD9844B = ~z~Nickle for the cripple!
+
+0xBCF830FC = ~z~~sl:0.0:1.1~Yeah, 'cause y'all...~sl:0.1~y'all boys proved yourselves to be yellow!
+
+0xBCF1322A = ~z~~sl:0.0:1.0~And this is the result.~sl:~Here I am begging.
+
+0xBD87C0B3 = ~z~Is that so?
+
+0xBF37E10C = ~z~~sl:0.0:1.1~Leave?~sl:0.4:1.2~Well, I live here.~sl:0.1~They're my nasty miserable people.
+
+0xBF537EEA = ~z~~sl:0.0:1.3~It ain't no fun.~sl:0.4~It ain't my fault!
+
+0xC0630111 = ~z~Ain't no fun.
+
+0xC3CCBFDD = ~z~~sl:0.0:1.4:1~It just ain't fair.
+
+0xC6CB5308 = ~z~Just visiting old friends, I guess.
+
+0xC7C6B580 = ~z~~sl:0.0:2.8~Come on, one of you bastards buy me a bite to eat.~sl:0.1~Come on!
+
+0xC27C6AFD = ~z~~sl:0.0:0.7~Come on, now.~sl:0.1~Look, I only got one leg but at least I got a heart.
+
+0xC218F762 = ~z~~sl:0.0:1.2~I can't work no more.~sl:0.0:1.8~I ain't worked in thirty-three years,~sl:0.1~I'm too old to start now.
+
+0xC742C28A = ~z~~sl:0.4:1.4~Ain't from round here.~sl:0.5~If I was you I'd leave.
+
+0xC3103D24 = ~z~~sl:0.0:1.0~Well....~sl:0.5:3.2~well, I ain't afraid of you, old Mr. Gray!~sl:0.2~You or your damn pathetic bastard sons!
+
+0xC885688E = ~z~The whole damn bunch of you can go to hell.
+
+0xCB1E20D4 = ~z~~sl:0.0:1.0~Come on, sir.~sl:0.2:1.0~Please!~sl:0.5~I can't work.
+
+0xCC5DF3A5 = ~z~~sl:0.0:2.5~get eaten by a dog after it got blown off,~sl:0.1~so don't you blame me nothing 'bout your goddamn war.
+
+0xCE7AF7EB = ~z~~sl:0.0:2.4~I... I seen things. ~sl:0.8~I seen bad things.
+
+0xCE3711BB = ~z~And my property is my business!
+
+0xD01565CE = ~z~~sl:1.0:0.0~He didn't always seem the type.
+
+0xD6B872E2 = ~z~Well, you better get outta here.
+
+0xD86F64E3 = ~z~Yeah?
+
+0xD128D955 = ~z~Yeah, you ain't none of you got no soul.
+
+0xD918F56A = ~z~~sl:0.0:3.8~Man, they sawn off my leg when it got gangrene...~sl:0.3~and now I can't work.
+
+0xD3385EB8 = ~z~~sl:0.0:1.0~Tell ya, if we'd have won,~sl:0.0:1.7~I'd have folks I could whip right now.~sl:0.4~Take care of my every need.
+
+0xD9926E49 = ~z~Listen, I fought for you people.
+
+0xDA29348D = ~z~~sl:0.0:2.3~You all blame me for losing the war.~sl:0.5~Well, least I fought!
+
+0xDB286D5C = ~z~~sl:0.0:1.5~Yeah, you bullies.~sl:0.2:1.4~But not fighters.~sl:1.1~And that's the truth.
+
+0xDB461910 = ~z~Oh, I'm miserable.
+
+0xDE3801E1 = ~z~Guess not.
+
+0xE3DC3D05 = ~z~~sl:0.0:1.2~The one we wanted to make.~sl:0.1~The one in which folk minded their own goddamn business!
+
+0xE5AD2F1A = ~z~Can I get some money, please?
+
+0xE6B105A9 = ~z~~sl:0.0:0.9~C'mon now!~sl:0.1~Take some pity on a man with one leg with a huge heart.
+
+0xE15F2542 = ~z~~sl:0.0:1.8~Nah, it's the people.~sl:0.3:1.2~Yeah, bunch of...~sl:0.1~nasty miserable peasants I gotta share this place with.
+
+0xE19B7A3A = ~z~You deserved to lose the war! But...
+
+0xE59ABE69 = ~z~C'mon now, I only got one leg!
+
+0xEADB48EA = ~z~
+
+0xEB7651BA = ~z~Yeah, Arthur. He died, I'm afraid.
+
+0xEBF9009F = ~z~~sl:0.3:1.5~You mean bastards.~sl:0.2~The whole bunch of you.
+
+0xEC2F2AC4 = ~z~~sl:0.2:2.2~You folks is heartless...~sl:0.6~I ain't got a leg!
+
+0xF2F0C0D6 = ~z~~sl:0.0:2.6~Hey, you know, it ain't my fault we lost the goddamn war.~sl:0.1~Don't blame me.
+
+0xF9F3D66B = ~z~~sl:0.0:1.2~Hey!~sl:0.5~Hey, it's good to see you again, friend.
+
+0xF48F2E8F = ~z~~sl:0.0:1.8~Well they seem pretty mad.~sl:0.9~What'd you do?
+
+0xF596A374 = ~z~~sl:0.0:0.6~Now I tell ya,~sl:~I seen some things...
+
+0xFB1482E7 = ~z~I need some help!
+
+0xFCFD80ED = ~z~~sl:0.2:1.0~Well...~sl:0.7~not my way of life...
+

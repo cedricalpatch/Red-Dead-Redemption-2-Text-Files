@@ -1,0 +1,10 @@
+0x1E3A5A20 = ~z~They said they had a new friend in for a meal... sounded an awful lot like you.
+
+0x4D5D3865 = ~z~Okay?
+
+0x29DF716A = ~z~Really?
+
+0x641D65E5 = ~z~So, I met this strange couple... pig farmers they was.
+
+0x3257024D = ~z~Sounds like you had yourself a fun old time...
+

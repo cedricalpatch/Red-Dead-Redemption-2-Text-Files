@@ -1,0 +1,168 @@
+0x016F11A0 = ~z~I'm supposed to go help your mother...
+
+0x06AD4E91 = ~z~He will insist on riding Jeremiah...
+
+0x087B78D0 = ~z~Duncan, what have I told you about distracting the hands?
+
+0x0A3977E4 = ~z~Okay, yes...
+
+0x0ECE2FEA = ~z~Just give me a quick lesson, sir.
+
+0x1B0DF39E = ~z~Good man.
+
+0x2D7FE997 = ~z~Well, what good is that to me? We got three horses lost,
+
+0x3AAA8416 = ~z~Then you'll regret it.
+
+0x3E852BCF = ~z~Yes, sir?
+
+0x3EA93AD4 = ~z~Hey, Pa!
+
+0x4A0CD54F = ~z~You and Dickens better not make any more mistakes...
+
+0x5ABFC440 = ~z~You really should find a different horse to ride.
+
+0x5C46F9C3 = ~z~Sir?
+
+0x6FA5EE0C = ~z~Come on, here boy...
+
+0x7B6BA5D3 = ~z~Well, what good is that to me?
+
+0x7D25DDBF = ~z~You Duncan?
+
+0x8BF9A7D7 = ~z~You sure about that?
+
+0x8C84C805 = ~z~Sir.
+
+0x8FB182D6 = ~z~Jim Milton.
+
+0x9A8343A0 = ~z~Where are the other hands?
+
+0x9EC66C88 = ~z~a mare about to foal...
+
+0x9F4ECE81 = ~z~Jeremiah and I have a bond.
+
+0x23C8D773 = ~z~He likes you!
+
+0x26B48E9F = ~z~like you did today, you hear?
+
+0x28EFE0A1 = ~z~Why's he like you so much?
+
+0x42C5C30D = ~z~Pa!
+
+0x48F520AB = ~z~I'm afraid that I will not.
+
+0x54FF6780 = ~z~Can I get some help?
+
+0x57C9C707 = ~z~~sl:0.5~Hey.
+
+0x71D67243 = ~z~possibly more, a mare about to foal...
+
+0x79CB037A = ~z~Come on...
+
+0x82EFB4A7 = ~z~where are the other hands?
+
+0x86CEF111 = ~z~I'm Jim...
+
+0x89DD513B = ~z~I'm supposed to be heading into town...
+
+0x164D3B5C = ~z~same way as he does for you?
+
+0x267CB06A = ~z~It's a pretty big one...
+
+0x281EDEFF = ~z~Can't you teach me how to make him behave,
+
+0x350BF9F9 = ~z~Calm down...
+
+0x475D9E9C = ~z~didn't they, boy?
+
+0x721AFBA9 = ~z~I'm Jim... Jim Milton.
+
+0x1056DE30 = ~z~Can you help my boy, my youngest, Duncan?
+
+0x1479EA2A = ~z~No, sir.
+
+0x3009C7EC = ~z~I am. I... was.
+
+0x3252F6F3 = ~z~Okay.
+
+0x4146EA66 = ~z~I thought you were gonna help me?
+
+0x5042CF4A = ~z~I said, Abe...
+
+0x6413D6BE = ~z~Sir.
+
+0x56393C53 = ~z~Someone put some onions on their oats,
+
+0x77952CAB = ~z~Milton, Milton, you good with horses?
+
+0x86219ADD = ~z~I said, Abe...
+
+0x95646BFD = ~z~Thank you.
+
+0x118232E6 = ~z~I ain't sure he likes any of us but...
+
+0x289038F5 = ~z~You Mr. Milton?
+
+0x687060C1 = ~z~easy boy...
+
+0x6931015E = ~z~We got three horses lost, possibly more...
+
+0x7131112A = ~z~I-I thought I said I don't rightly know, Mr. Geddes, sir.
+
+0x53373505 = ~z~I-I thought I said I don't rightly know, Mr. Geddes, sir...
+
+0x82964661 = ~z~Both of you.
+
+0xA19926A5 = ~z~Hey.
+
+0xAEC96C2C = ~z~Yes sir?
+
+0xAFE747A9 = ~z~Well, I hope you'll listen to me better than my husband.
+
+0xB5974EA1 = ~z~Need a hand with that horse?
+
+0xBA0A8668 = ~z~Well, training a horse can take hours.
+
+0xBA56323C = ~z~this place is chaos.
+
+0xBFF6635F = ~z~No!
+
+0xC479A065 = ~z~
+
+0xCE332B65 = ~z~That'll take hours.
+
+0xCFD3E0DF = ~z~Abe.
+
+0xD0BB5071 = ~z~and no hands to help with any of it.
+
+0xD63F43F0 = ~z~You Duncan?
+
+0xD89DC38E = ~z~Please.
+
+0xD3568E87 = ~z~Come on. I need a man's help.
+
+0xD8783F81 = ~z~I'm supposed to be heading into town, this place is chaos.
+
+0xE27F2870 = ~z~yes, I do.
+
+0xE498B10B = ~z~I'm sorry.
+
+0xE641DB14 = ~z~And no hands to help with any of it.
+
+0xE309874A = ~z~and my wife will need help with this mare.
+
+0xECF4176B = ~z~I'll do whatever needs doing, sir.
+
+0xEEA5054D = ~z~Hey Pa!
+
+0xF15C71B7 = ~z~she's got a horse in foal.
+
+0xF46EAA14 = ~z~a horse that is far too strong for him...
+
+0xF63C5452 = ~z~I'm sorry, Ma.
+
+0xFB7F3481 = ~z~I'm okay.
+
+0xFE240C2A = ~z~I'll make him respect me, and behave.
+

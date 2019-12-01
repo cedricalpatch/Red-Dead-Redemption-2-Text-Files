@@ -1,0 +1,10 @@
+0x7E088DFE = Give ~a~
+
+0x245D4F91 = Give Cooked Meat
+
+0x76127587 = Stranger
+
+0xD2BAABEA = Cook the required provision and give it to the Stranger ~BLIP_AMBIENT_PED_MEDIUM~ if you want to help.
+
+0xDA4CBAD9 = Decline
+

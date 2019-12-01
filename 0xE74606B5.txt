@@ -1,0 +1,10 @@
+0x8A51F7B9 = Return the cart to its owner ~BLIP_AMBIENT_PED_MEDIUM~ for the chance of a reward.
+
+0x40D1E59D = Passenger
+
+0x997DCEA5 = Wagon
+
+0x407940A5 = Driver
+
+0xDA3BAA6C = Return the coach to its owner ~BLIP_AMBIENT_PED_MEDIUM~ for the chance of a reward.
+

@@ -1,0 +1,178 @@
+0x02275FF6 = ~z~Disobedience will be fatal.
+
+0x07FB1320 = ~z~We can bring civilization to this land of dark savagery.
+
+0x097B1B6B = ~z~Do as I say, and you shall all live as in heaven.
+
+0x0AB94A5B = ~z~People... please obey the rules. From law and order good things follow.
+
+0x0CF6F239 = ~z~Any form of misbehavior will be punished extremely harshly.
+
+0x0D01C5D0 = ~z~Obey the law, or suffer the consequences. Them's the rules here. Don't forget it.
+
+0x0FE9FB7B = ~z~None of you... none of you forget that.
+
+0x1D289D9A = ~z~In disobeying it, we challenge its very future.
+
+0x1E5A4529 = ~z~Not to me as a man, but to me as a servant of the law that protects and ennobles us all.
+
+0x2CF0E256 = ~z~In order to get there, I shall insist upon obedience.
+
+0x2D5D9013 = ~z~Therefore my authority is infinite.
+
+0x3A3CF7A3 = ~z~We, the obedient ones, are the civilized ones. Remember that, all of you!
+
+0x3BFBDB40 = ~z~Let me tell you, your only consideration should be... "am I obeying the law?".
+
+0x3ED37F64 = ~z~No.
+
+0x4AEA791D = ~z~In obeying the law, we venerate America.
+
+0x4B8DB900 = ~z~Enjoy your day, people, and enjoy it safely.
+
+0x5C742DAC = ~z~You, you're back. I remember you. Do not give me cause to put another bullet in your head.
+
+0x5DF1E153 = ~z~This is a law-abiding town, all of you, remember that, and give thanks to the Lord your God for that fact.
+
+0x5F977486 = ~z~My authority is God-given and God is infinite.
+
+0x6FD930FB = ~z~We live the rules. The rules make us happy.
+
+0x7ABC7DF0 = ~z~Disobey me, and you alone shall quickly alight in hell.
+
+0x7DB90600 = ~z~Welcome to Tumbleweed, son.
+
+0x8A575B30 = ~z~I hope you're all having a wonderful day today. A wonderful, law abiding day.
+
+0x8BFFA28D = ~z~Treat us with respect and we'll love you like family. Misbehave and we'll slaughter you like a hog.
+
+0x8CFF6080 = ~z~We are building a great civilization out here in the desert.
+
+0x9B94362F = ~z~His punishments shall be distributed for all eternity. Mine shall be instant, brief and extremely unfortunate.
+
+0x9C06569B = ~z~I have no patience with miscreants or criminals! Get the hell out of my town!
+
+0x9CCC124D = ~z~all are welcome.
+
+0x9E25B9BA = ~z~You, tough guy... welcome to Tumbleweed.
+
+0x16F9312C = ~z~Remember, people, the law is king. King!
+
+0x27AAE712 = ~z~Yes.
+
+0x46C4456B = ~z~Do not push me, or you will find out precisely what I mean by harshly.
+
+0x51A04C5C = ~z~I am watching you, tough guy. I am watching you.
+
+0x62E2DD63 = ~z~Enjoy your time here, people. Enjoy it safely. Enjoy it respectfully and we shall respect you.
+
+0x85DCC7AC = ~z~You are Americans and as such you shall follow the law, or suffer under its immense power.
+
+0x86A63BA0 = ~z~Get the hell out of here... now!
+
+0x95DF8760 = ~z~All of you, this is Tumbleweed. We are the end of the civilized world.
+
+0x98E2FE98 = ~z~Hey you... I got my eye on you...
+
+0x138C6DA8 = ~z~And what is the hallmark of civilization, my friends? Let me tell you...
+
+0x286CF883 = ~z~You're starting to annoy me, boy.
+
+0x324BC03E = ~z~And life is good because we follow the rules.
+
+0x504A5C88 = ~z~America is a nation of laws and Tumbleweed is an American city.
+
+0x803A6B8D = ~z~Get the hell outta here!
+
+0x887C5DCB = ~z~Make sure you don't give me a reason to put a bullet in your head. Act respectfully here.
+
+0x923DACF6 = ~z~This shall be a land of kindness, gentleness and intelligence.
+
+0x7774AB70 = ~z~Do I seem like a joke to you? Is that it? Is it?
+
+0x39649E99 = ~z~I am not a violent man. This land awoke in me a thirst for law and order.
+
+0x79427DB5 = ~z~I will give you five seconds, to get your sorry ass the hell out of my town, boy!
+
+0x85935C6F = ~z~This is a law abiding town, my friends. We follow the rules.
+
+0x490293C2 = ~z~No, sir, it is not, correct. No. Behave.
+
+0x851313BA = ~z~No lingering there, partner. This town is a place of business.
+
+0x2243007A = ~z~For I am the law and the law is relentless and remorseless in the execution of justice.
+
+0x6477465E = ~z~Make yourself at home. Treat this place with respect and we will respect you.
+
+0xA4BE7849 = ~z~Whatever the hell you boys are thinking of doing here, don't.
+
+0xA7D5AA4B = ~z~I never sleep. Do not think just because it's the middle of the night, you can challenge my authority.
+
+0xA9D1D2AA = ~z~That, my friends is the difference.
+
+0xA29CCFBF = ~z~That clear, boy?
+
+0xA66D64CB = ~z~As far as you're concerned, I am the angel of vengeance. Do not challenge my authority again.
+
+0xA19709AF = ~z~The hallmark is obedience to the law. The law is king. The law is emperor.
+
+0xA140019C = ~z~I'm watching you.
+
+0xAC2092C5 = ~z~Challenge me and you will discover a new definition of justice. My definition.
+
+0xADA8B34E = ~z~Hey, you! Don't think I've forgotten about you.
+
+0xB0566B32 = ~z~I said, is that clear boy?
+
+0xB0ED1C6A = ~z~Here in Tumbleweed, there is one law... my law. The law.
+
+0xB8E98E23 = ~z~We are a law-abiding people here... remember that.
+
+0xB798A487 = ~z~If you challenge that assumption, your time here will be brief. As you were.
+
+0xB2119979 = ~z~If you make that assumption. Your time here shall be enjoyable.
+
+0xB9257151 = ~z~God expects obedience. I demand obedience.
+
+0xBA82F1E9 = ~z~If you've come for trouble again, I recommend leaving. Now.
+
+0xBACCA167 = ~z~I am a servant of the law and I shall make every one of you in my image.
+
+0xBC6C5C4B = ~z~Only the fools amongst you shall be dumb enough to challenge America to a fight.
+
+0xBCF12ECC = ~z~From disobedience, only death shall be your reward.
+
+0xC7F6566D = ~z~The law is a bastard who will strike you down, and a tender mother who'll nurse you if you let her.
+
+0xC71F2A8E = ~z~All of you, remember that the law and only the law, is king.
+
+0xCA6DED90 = ~z~Do not push me, or you will find out precisely what I mean by harshly.
+
+0xCC7BC7C7 = ~z~I'll kill the lot of you and feed you to the dogs. Do not push me!
+
+0xCC4369D2 = ~z~And in this town, the rule of law shall be absolute. I hope that is clear.
+
+0xCE81BB91 = ~z~My reputation for patience is well earned.
+
+0xD61AF2B6 = ~z~So it's up to you... what you want from this life, and from your interactions with the law.
+
+0xDB45710E = ~z~My law is the law, and my law is just and fair, and extremely unforgiving.
+
+0xDBC915FF = ~z~I don't take kindly to your nonsense.
+
+0xE2DBC8E2 = ~z~Together, we can make Tumbleweed a shining light of American obedience.
+
+0xE481A4AB = ~z~Anarchy exists just outside this town... but here... here, life is good.
+
+0xE860290C = ~z~Anyone... and I mean anyone, who wants to disrupt the good conduct of civilized life in this town, will have me to answer to...
+
+0xEEB5BEE0 = ~z~You walk away from me at your peril, my friend.
+
+0xF1F2B530 = ~z~The rules are America. America is a land of laws. I am the arbiter of the law. I am the rules.
+
+0xF2AA2125 = ~z~I am watching you. Every one of you, all of the time.
+
+0xF278B441 = ~z~What are you, boy, dumb or deranged? Either way, get out of here! Get out of my town, now!
+
+0xFA7F567F = ~z~You. Get! Now!
+

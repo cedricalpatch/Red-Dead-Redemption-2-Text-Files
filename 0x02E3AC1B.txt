@@ -1,0 +1,8 @@
+0x870F6FEA = Yes
+
+0xAA81B7CC = Defuse
+
+0xC4CEF1B2 = Antagonize
+
+0xD9BBF9CF = No
+

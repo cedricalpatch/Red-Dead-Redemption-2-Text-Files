@@ -1,0 +1,32 @@
+0x2ECFECC4 = ~z~We're running for our lives because of a bad call you made.
+
+0x4B51A5CB = ~z~You said it was going to be easy.
+
+0x5B1947E0 = ~z~Jenny... Mac... Davey... there were...
+
+0x8F9544B3 = ~z~Watch your mouth, Micah.
+
+0x784E9652 = ~z~Old bastard has lost his nerve!
+
+0x845F2208 = ~z~We're bank robbers... way I see it, it's an occupational hazard.
+
+0x855A9C62 = ~z~they mattered to me!
+
+0x946EB804 = ~z~Just what... exactly went on in Blackwater?
+
+0x6974E211 = ~z~Just... what went on in Blackwater?
+
+0x88301F87 = ~z~We got jumped, what do you think happened?
+
+0x5913414E = ~z~I did the best I could, old man. I don't answer to you.
+
+0xA424D770 = ~z~Nice to see you, old feller. Why you ask?
+
+0xB10C713F = ~z~
+
+0xC8D32302 = ~z~This is unnecessary. Excuse me.
+
+0xCF19AD5D = ~z~Let me ask you a question.
+
+0xD7ADC0B7 = ~z~Well, I'm real sorry... but dying... that's part of the game. You know that!
+

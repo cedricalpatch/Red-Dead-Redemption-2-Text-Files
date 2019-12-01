@@ -1,0 +1,78 @@
+0x01FE7DC9 = Shoot the gun out of Jamie's hand
+
+0x02922711 = Jamie escaped.
+
+0x06AB47BE = Disarm ~o~Jamie
+
+0x0A2594D9 = Impatient
+
+0x2A629CF4 = Get back to ~o~Jamie
+
+0x3C5DB831 = The Chelonian camp was abandoned.
+
+0x3C9FB0B0 = Purpose
+
+0x3FD40B6E = Your honor increased as you returned Jamie to Mary.
+
+0x4F6E0585 = You attacked the Chelonians.
+
+0x4FD54944 = Press ~INPUT_INTERACT_OPTION1~ or ~INPUT_INTERACT_OPTION2~ to choose your reply.
+
+0x5BCB84D3 = Chelonian Leader
+
+0x5CA12788 = Press ~INPUT_MELEE_GRAPPLE~ to throttle when near a target.
+
+0x28B03DAC = Jamie died.
+
+0x34E6A333 = Subdue the ~o~Chelonian leader~s~
+
+0x44DEA65E = Antagonize
+
+0x55ADD982 = Chase after ~o~Jamie
+
+0x94BD1533 = Approach ~o~Jamie
+
+0x99F551B2 = Fools
+
+0x996E83A3 = Return to the ~o~Chelonian leader.
+
+0x7128F8F9 = Choke
+
+0x76472D18 = Meet ~o~Mary~s~ in the station
+
+0x792035D7 = Convince the ~o~Chelonian leader~s~ to let Jamie leave
+
+0x4120398C = Return to ~o~Jamie~s~
+
+0x54036041 = Ride back to ~o~Mary~s~ with Jamie
+
+0x93571869 = Hold ~INPUT_INTERACT_LOCKON~ to interact and reply to the Chelonian leader.
+
+0xA515A8DA = Mary died.
+
+0xAA5CF281 = Turtles
+
+0xACEDCDC8 = You caused a commotion at the station.
+
+0xAEAD0C59 = Mary Linton
+
+0xB2DE808C = Chelonian Leader
+
+0xBB978C91 = Throttle
+
+0xC4C82637 = Apologize
+
+0xCBEB06B0 = Jamie
+
+0xD18BA3A6 = Undecided
+
+0xE5E5B297 = Press ~INPUT_MELEE_GRAPPLE_CHOKE~ to choke.
+
+0xE7EA5B01 = Approach the ~o~Chelonians
+
+0xEC26F337 = Jamie got away.
+
+0xFBE32F38 = Stupidity
+
+0xFFCF2E35 = Chelonian Camp
+

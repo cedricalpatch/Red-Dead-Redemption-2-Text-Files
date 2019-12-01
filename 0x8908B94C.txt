@@ -1,0 +1,862 @@
+0x002FF5A2 = ~z~D-don't let me fall. Please.
+
+0x01FE242C = ~z~We're good, I'm moving!
+
+0x02AEA7C4 = ~z~Where are they?
+
+0x034874D6 = ~z~As loud as halloo...
+
+0x039F0EDC = ~z~Alright...
+
+0x03B2FD97 = ~z~We just got to keep our wits about us...
+
+0x043DA128 = ~z~
+
+0x05960357 = ~z~Head deeper.
+
+0x05C76C13 = ~z~What's got at sea we spend on shore...
+
+0x05D0EB27 = ~z~Hold. Patrol to our left.
+
+0x08E8724D = ~z~Come, bustle, bustle, drink about...~n~~m~Come, bustle, bustle, drink about...
+
+0x09B0F450 = ~z~Help me with him.
+
+0x09E83C81 = ~z~~sl:0.0:1.8:1~Move it, move it.
+
+0x0A0BB382 = ~z~Sorta like we used to be?
+
+0x0A8376AB = ~z~John!
+
+0x0ABE3F55 = ~z~Oh...
+
+0x0B7CDDEF = ~z~
+
+0x0BD9E853 = ~z~He's stopping.
+
+0x0CCA761D = ~z~The hell, John?
+
+0x0DE5E8E5 = ~z~Come on...
+
+0x0E6C8B1E = ~z~and let us merry be.~n~~m~and let us merry be.
+
+0x0F834CE5 = ~z~Don't get all sentimental now, old man...
+
+0x1B7FE887 = ~z~
+
+0x1B85B3DE = ~z~Here we go...
+
+0x1BE55735 = ~z~Yeah, exactly like we used to be.
+
+0x1C19F62D = ~z~
+
+0x1C629701 = ~z~You think?
+
+0x1CC56769 = ~z~I thought I was dead.
+
+0x1DF08C80 = ~z~What do you see?
+
+0x1EEBB26E = ~z~You think they'll be back?
+
+0x1F303B5A = ~z~
+
+0x1F372CB3 = ~z~Our can is full, we'll pump it out...~n~~m~Our can is full, we'll pump it out...
+
+0x1F800C6A = ~z~What do we do?
+
+0x2A5042E5 = ~z~and then all hands to sea.~n~~m~and then all hands to sea.
+
+0x2AB0339C = ~z~Skinners.
+
+0x2ADA4B82 = ~z~~sl:0.4~Does it look okay?
+
+0x2B08F57C = ~z~They're just angry men on a rampage...
+
+0x2B2E86F9 = ~z~~m~Our can is full, we'll pump it out, and then all hands to sea.
+
+0x2BB435AC = ~z~And my guess is they went that way...
+
+0x2CD9F249 = ~z~If he's walking with a body, we must be close.
+
+0x2E93AA91 = ~z~Yeah, that must be their camp.
+
+0x2F45521F = ~z~Yeah.
+
+0x3C442D52 = ~z~Shit. ~rp~It's like we forgot about them. ~rp~We should have been ready.
+
+0x3C2947E4 = ~z~Just that feller!
+
+0x3CA1E788 = ~z~When horn and hounds the forest rends...
+
+0x3EAE0947 = ~z~Old man, how's the back?
+
+0x3F555090 = ~z~To the right!
+
+0x3FE4BE78 = ~z~Quick, John. Get down here!
+
+0x4A4261EE = ~z~Let's get up on that boulder, take a look.
+
+0x4AC1091A = ~z~
+
+0x4AD4A5A7 = ~z~We get him, and we see, okay?
+
+0x4AE1E75D = ~z~Now, the right.
+
+0x4D4630F6 = ~z~And to think...
+
+0x4DCB5E91 = ~z~
+
+0x4DFFFE4D = ~z~Dear Lord.
+
+0x4E7B6C88 = ~z~One left!
+
+0x5B6F1777 = ~z~Down that gully!
+
+0x5C0DE92A = ~z~
+
+0x5C2AE231 = ~z~That fat man will be fine.
+
+0x5CA57AA5 = ~z~Collect yourself, let's go.
+
+0x5CC34FF0 = ~z~look at this place.
+
+0x5D2F5FDA = ~z~
+
+0x5EAE2BB5 = ~z~They're coming from the woods!
+
+0x5ED5CC0D = ~z~He was talking about Uncle. He's alive.
+
+0x5EFDD465 = ~z~I was making money.
+
+0x5FBCCBA2 = ~z~We did it gentlemen...
+
+0x6A0606DE = ~z~Oh, don't let me fall. Please.
+
+0x6AD2EC0F = ~z~the barn...
+
+0x6B7F3853 = ~z~John, look, ~rp~we should agree on something.
+
+0x6F5EE11E = ~z~Behind you.
+
+0x7A152F6D = ~z~They're up on the edges!
+
+0x7AA5CCC3 = ~z~Yeah, I bet. ~rp~Stay with us, you old bastard...
+
+0x7BA43A42 = ~z~
+
+0x7C83EC9F = ~z~Hold up. You hear that?
+
+0x7CEB3427 = ~z~They're in the way!
+
+0x7D2F2D30 = ~z~I don't feel good.
+
+0x7D69835A = ~z~Hold it.
+
+0x7DC61AF5 = ~z~Maybe we should take up torture?
+
+0x7E9F8783 = ~z~~sl:0.0:3.4:1~That's it... get them Skinner bastards, you!
+
+0x7ED2961B = ~z~Break through!
+
+0x8A0A1C0D = ~z~Where are you going?
+
+0x8A8F49E7 = ~z~I tracked them to the road. ~rp~We'll pick up the trail there.
+
+0x8AAF44D9 = ~z~Uncle's gone...
+
+0x8AE72AF1 = ~z~Look after Uncle!
+
+0x8B212C53 = ~z~How was your holiday?
+
+0x8CBD4A15 = ~z~As loud as halloo when we send a broadside to mount seas.
+
+0x8DA52776 = ~z~that's quite an accomplishment.
+
+0x8E207072 = ~z~Now, come on. Let's go.
+
+0x8ED760A9 = ~z~~sl:0.3:0.0~You think they saw us coming?
+
+0x8F4D8496 = ~z~Hang in there, old timer.
+
+0x8FA027C7 = ~z~Let them go.
+
+0x9AABAD80 = ~z~Through here.
+
+0x9AE3AD46 = ~z~Young miss at dancing school is taught...~n~~m~Young miss at dancing school is taught...
+
+0x9BC1238D = ~z~Us, most likely. Come on, let's find where they're holding him.
+
+0x9C2FD496 = ~z~~sl:0.0:3.1:1~Oh John... I knew you'd come...
+
+0x9DBA16F7 = ~z~Hold on.
+
+0x9ED98852 = ~z~Uncle!
+
+0x9EFD710F = ~z~Get down off the rock!
+
+0x9F4DACE2 = ~z~when we send a broadside to mounseers.
+
+0x9F12FC65 = ~z~I look okay?
+
+0x9F950202 = ~z~
+
+0x9FADEFF6 = ~z~~m~When horn and hounds the forest rends is packed the huntsman cheers.
+
+0x9FE6CBD1 = ~z~But we go better when we've brought our foretack to cathead.
+
+0x10DB7246 = ~z~~sl:0.0:0.7~He's picking up...~sl:1.1~the poor bastard's dead.
+
+0x11C1D50B = ~z~~sl:2.8~Uncle? Uncle, hey.
+
+0x12CDC5F6 = ~z~We're gonna be safe here, John.
+
+0x16A75F47 = ~z~Take him, John.
+
+0x16CC761E = ~z~Uncle! We'll get you out of this!
+
+0x17E7A7FA = ~z~Stay with me.
+
+0x18BE93CB = ~z~Up here. You see that? Blood.
+
+0x18F2E27E = ~z~When horn and hounds the forest rends is packed the huntsman cheers.
+
+0x27CB79E7 = ~z~Stay.
+
+0x31E14E08 = ~z~Uh huh.
+
+0x31ED98D9 = ~z~Hush.
+
+0x33AB1530 = ~z~I got you, I got you.
+
+0x34FE4838 = ~z~No, he won't...
+
+0x35EB4A1A = ~z~Of course.
+
+0x38B35898 = ~z~Lookouts?
+
+0x38C5DFE5 = ~z~Between the trees! More of them!
+
+0x39CA4C5E = ~z~I... I don't feel right.
+
+0x40C93CD6 = ~z~Check the sides!
+
+0x40C50984 = ~z~John, stay with me.
+
+0x42AF6F47 = ~z~None.
+
+0x43F7C56B = ~z~On top of us!
+
+0x44A6BE8E = ~z~Protect the old man!
+
+0x44B728D8 = ~z~and we got in their way.
+
+0x47CD6DF5 = ~z~Let's get out of these woods.
+
+0x47E75129 = ~z~John, come on.
+
+0x48A6A689 = ~z~When I clear, you move.
+
+0x50BEA977 = ~z~We can't get split up.
+
+0x52AF3149 = ~z~I think it looks worse than it is.
+
+0x54A1914E = ~z~Okay. Leave the horses in the trees there.
+
+0x58CEDF6F = ~z~Let's get you down.
+
+0x58F8DFCB = ~z~Let's get him comfortable.
+
+0x58FA6A56 = ~z~We're out!
+
+0x60C40036 = ~z~John! Get down here! Come on!
+
+0x62E44DC2 = ~z~Don't leave me, John.
+
+0x63A3A8A0 = ~z~What they've done to him, might have killed him already.
+
+0x66BE7B56 = ~z~Come on.
+
+0x66E84266 = ~z~It's going to be okay...
+
+0x68FF5DFF = ~z~Come, bustle, bustle, drink about, and let us merry be.
+
+0x70E95EB5 = ~z~Now let's go.
+
+0x71CF44F3 = ~z~If it's really bad... ~rp~this might not be about saving him.
+
+0x71D61447 = ~z~~m~As loud as halloo when we send a broadside to mount seas.
+
+0x72C97037 = ~z~I'm getting!
+
+0x74F4B0E9 = ~z~
+
+0x77DF1F88 = ~z~Quick. There's more of them.
+
+0x78D806D3 = ~z~I'll deal with this!
+
+0x79D84528 = ~z~We've gotta move.
+
+0x80ACE2AE = ~z~What the hell are you talking about?
+
+0x82A4311D = ~z~Clear the path!
+
+0x82E89E78 = ~z~John.
+
+0x84F215CE = ~z~He's pretty weak.
+
+0x85CA6B1C = ~z~
+
+0x86A1EDCA = ~z~on sweethearts and our wives.
+
+0x86AB3731 = ~z~And my guess is...
+
+0x88A6F5D2 = ~z~Hya, hya, hya!
+
+0x89CCF540 = ~z~Get out here.
+
+0x93D89DC0 = ~z~we know this is a trap.
+
+0x94FDD3D6 = ~z~my guess is they went that way...
+
+0x95A1B747 = ~z~~m~Young miss at dancing school is taught the minuet to tread.
+
+0x98ACE42B = ~z~I-I can't... my back...
+
+0x99EE2920 = ~z~I-I don't feel good.
+
+0x99FA492F = ~z~Stay behind me!
+
+0x117E7047 = ~z~~sl:0.4~Hang in there, old man.
+
+0x128C1634 = ~z~Come over here... get a better angle.
+
+0x178A9003 = ~z~We got to cut him down.
+
+0x197F9143 = ~z~but my other guess is they know we're coming after him.
+
+0x200A4FB6 = ~z~That's it. Patrol's taken care of.
+
+0x256A6D3B = ~z~come on.
+
+0x375A26B1 = ~z~
+
+0x410F437E = ~z~Here we go, ready?
+
+0x430FF479 = ~z~Behind the tree! There, John!
+
+0x434F7B35 = ~z~Okay.
+
+0x464E65CA = ~z~Oh damn.
+
+0x465DBD57 = ~z~~m~Come, bustle, bustle, drink about, and let us merry be.
+
+0x478F869F = ~z~Thank you...
+
+0x483E9932 = ~z~We ain't out 'til we're home. Ride hard.
+
+0x491C4A35 = ~z~No...
+
+0x522D61D6 = ~z~Up on the log!
+
+0x549CA3EF = ~z~Okay. We've got some time. Let's get Uncle.
+
+0x601C11B0 = ~z~John!
+
+0x602A387E = ~z~Keep quiet, let's go.
+
+0x614A7330 = ~z~~m~Come, bustle, bustle, drink about, and let us merry be.
+
+0x627F42B8 = ~z~Ride!
+
+0x628A2098 = ~z~I can't see much through this mist. Can you look too?
+
+0x639E057C = ~z~Oh, John...
+
+0x717DD795 = ~z~Maybe, but I doubt it...
+
+0x735BA9B2 = ~z~~sl:0.1:0.0~D'you hear something?
+
+0x736B071B = ~z~If she ever comes back.
+
+0x760BDA0C = ~z~~sl:0.4~We gotta get you down.
+
+0x778F1F78 = ~z~They were waiting for us. Uncle should be close.
+
+0x791FFE40 = ~z~Our can is full, we'll pump it out, and then all hands to sea.
+
+0x824DD96A = ~z~We can't wait, John!
+
+0x836DC9DA = ~z~~sl:1.3:0.0~Guess we'll soon find out.
+
+0x900B009C = ~z~What's got at sea we spend on shore...~n~~m~What's got at sea we spend on shore...
+
+0x910DFFB8 = ~z~Don't go until we're sure.
+
+0x964E0DF8 = ~z~If it's really bad... ~rp~it might be better... to stop the pain.
+
+0x2398DFC7 = ~z~Let's take him down, before he gets to the rest.
+
+0x2568F4AA = ~z~we have a real problem.
+
+0x2673ED17 = ~z~Okay, I'm taking him up a way!
+
+0x3308D40B = ~z~Uncle. Uncle.
+
+0x3409C141 = ~z~Oh, man.
+
+0x3661E440 = ~z~the minuet to tread.~n~~m~the minuet to tread.
+
+0x4239B24D = ~z~Easy...
+
+0x4373B663 = ~z~Get out here, now...
+
+0x4514CD25 = ~z~Yeah...
+
+0x4883E9D1 = ~z~Hold onto me.
+
+0x5340E7DD = ~z~Come on, Uncle... Come on.
+
+0x5387C022 = ~z~Get him on your horse.
+
+0x5924EA46 = ~z~
+
+0x6051F10A = ~z~He better be.
+
+0x6148BA11 = ~z~thank you both.
+
+0x6868AD60 = ~z~John!
+
+0x6992FBD9 = ~z~~sl:0.7:1.3~Come on, old man.~sl:0.8:0.8:1~Move.
+
+0x7250DCCB = ~z~Keep pushing.
+
+0x7818C65A = ~z~Hold on, let me check the trail.
+
+0x7921E6D9 = ~z~few days, you're gonna be just fine.
+
+0x9006BF76 = ~z~We got Uncle's singing instead of torture.
+
+0x9831CAEF = ~z~
+
+0x9928A694 = ~z~No. Some other poor bastard.
+
+0x13145E8B = ~z~We ain't out 'til we're home. Ride hard!
+
+0x15954B5A = ~z~~sl:0.4~I think I can move him up!
+
+0x15959FC2 = ~z~He'll be fine.
+
+0x29436DCB = ~z~~sl:0.0:2.0~We'll make it his call, if we can...~sl:1.0~but it maybe we have to decide... okay?
+
+0x43581D1A = ~z~you call me lazy.
+
+0x56430DDF = ~z~A gut wound, you can live a month, but it's horrible.
+
+0x56516E02 = ~z~
+
+0x70371F7D = ~z~Seems like it's just these two here. You get one, I'll get the other.
+
+0x88719CD1 = ~z~It's much better than I feared.
+
+0x94694A5D = ~z~~sl:0.0:2.2~I mean you can live a week without a scalp.~sl:0.2~But it ain't a good week.
+
+0x94788A87 = ~z~thus passes sailors' lives.
+
+0x95864CB1 = ~z~I'm getting.
+
+0x182246B3 = ~z~Well, that crew did help.
+
+0x269431B0 = ~z~~sl:0.5~John!
+
+0x296962CD = ~z~Okay.
+
+0x332242D4 = ~z~Dammit.
+
+0x332415C4 = ~z~And then my boys hoist sail for more, thus passes sailors lives.
+
+0x434464C4 = ~z~That fat man will be fine.
+
+0x481304BC = ~z~You're a survivor.
+
+0x607783EA = ~z~~sl:1.2:0.0~I don't know...
+
+0x697332C9 = ~z~~sl:0.0:2.1~I mean you can live a week without a scalp.~sl:0.6~But it ain't a good week.
+
+0x742339BE = ~z~John, come on.
+
+0x836812D4 = ~z~Young miss at dancing school is taught the minuet to tread.
+
+0x941009C6 = ~z~Uncle's gone.
+
+0x2598832E = ~z~
+
+0x3228164C = ~z~Take him out.
+
+0x3830108F = ~z~Moving!
+
+0x3858667E = ~z~~sl:1.2~I-I can't... my back...
+
+0x4814775A = ~z~Probably. Take one, I'll take the other.
+
+0x8894056B = ~z~Let's follow. It might lead us to the camp.
+
+0x9471549A = ~z~~sl:1.9~My God.
+
+0x29295304 = ~z~What do you see?
+
+0x31874468 = ~z~Jesus, you mean to...
+
+0x49852169 = ~z~They're coming in! From everywhere!
+
+0x50585117 = ~z~Keep your head. We'll find him. Come on.
+
+0x50607235 = ~z~What are you waiting for?
+
+0x62473924 = ~z~Easy, easy.
+
+0x87234118 = ~z~Does it look okay?
+
+0x90673975 = ~z~Over here.
+
+0xA0C4B798 = ~z~What choice do we have?
+
+0xA4FE55EA = ~z~Burns don't always heal easy.
+
+0xA5B0B959 = ~z~What they done to you?
+
+0xA5B60D9D = ~z~~sl:0.0:1.7~He was gonna take us to them.~sl:1.4~Dammit, we have to find them ourselves.
+
+0xA6F9558E = ~z~We're here.
+
+0xA7B698B4 = ~z~The burning's better if they're awake for it.
+
+0xA8AADFB6 = ~z~~sl:0.7~Come on. They've passed. Let's go.
+
+0xA31DA6C1 = ~z~on sweethearts and our wives.~n~~m~on sweethearts and our wives.
+
+0xA39B24CA = ~z~Don't get too close.
+
+0xA46D8A34 = ~z~We can't leave this waiting.
+
+0xA54C6ADD = ~z~you'll all be safe.
+
+0xA64A2E2A = ~z~And then, my boys, hoist sail for more...~n~~m~And then, my boys, hoist sail for more...
+
+0xA633FCEE = ~z~~m~What's got at sea we spend on shore on sweethearts and our wives.
+
+0xA6557CBD = ~z~To the trees. Come on.
+
+0xA3209576 = ~z~John!
+
+0xA4667847 = ~z~get out here.
+
+0xA9807561 = ~z~Charles.
+
+0xAA97C376 = ~z~As loud as halloo...~n~~m~As loud as halloo...
+
+0xAAB89B08 = ~z~We let our guards down for one moment.
+
+0xAB5E4EE5 = ~z~Come on. Come on.
+
+0xACA5CE32 = ~z~Leave one for me, John, I'll rip his head off.
+
+0xACD60975 = ~z~Got him? 'Cause here come the rest of them.
+
+0xAD4999D1 = ~z~Almost back.
+
+0xAE3C25BF = ~z~He's old and sick, he won't last long.
+
+0xAE7B9B36 = ~z~You're okay, old man.
+
+0xAE8BE510 = ~z~Stay together.
+
+0xAE7652FB = ~z~None.
+
+0xAFB30325 = ~z~They're down. Move.
+
+0xB01810CA = ~z~What's got at sea we spend on shore on sweethearts and our wives.
+
+0xB02D6C5E = ~z~~m~But we go better when we've brought our foretack to cathead.
+
+0xB0A57A5C = ~z~I think we're clear, come on.
+
+0xB1A4ABCC = ~z~We're here old man! Hold on!
+
+0xB1AA79BD = ~z~You've done a great job.
+
+0xB4DA9CCD = ~z~You're out in the open up there!
+
+0xB6CCE518 = ~z~I can't believe it.
+
+0xB9C5CF0E = ~z~Okay, okay...
+
+0xB9D8161C = ~z~Oh...
+
+0xB44AAAC6 = ~z~On me.
+
+0xB63C7866 = ~z~Sure, but I think this will be fine,~rp~ long as it don't get infected.
+
+0xB85B7CE2 = ~z~This calls for a drink.
+
+0xB98FFBD7 = ~z~We're out.
+
+0xB268AE20 = ~z~If they come from the ranch, they'll come this way.
+
+0xB555F695 = ~z~Hear that, old man? ~rp~This could have been worse.
+
+0xB4500AB7 = ~z~Keep on him.
+
+0xB5671A34 = ~z~He's fine...
+
+0xB8669CA5 = ~z~They're all over you!
+
+0xB12143D8 = ~z~thus passes sailors' lives.~n~~m~thus passes sailors' lives.
+
+0xB41091FB = ~z~You think?
+
+0xB109383E = ~z~Wait, wait. Checking the trail.
+
+0xB4150886 = ~z~You, your family...
+
+0xBBF1C12A = ~z~Then when they come, they'll come for a corpse.
+
+0xBCEDDA61 = ~z~And then, my boys, hoist sail for more...
+
+0xBD7F2A78 = ~z~~m~And then my boys hoist sail for more, thus passes sailors lives.
+
+0xBE683B0F = ~z~
+
+0xBEAA39C7 = ~z~Hang in there, old timer!
+
+0xC0DC1CCD = ~z~They came this way. So...
+
+0xC1E3B461 = ~z~~m~Our can is full, we'll pump it out, and then all hands to sea.
+
+0xC2EFE775 = ~z~Come, bustle, bustle, drink about...~n~~m~Come, bustle, bustle, drink about...
+
+0xC3F8A066 = ~z~Get through them!
+
+0xC7B1BEC9 = ~z~let me sleep.
+
+0xC8FC3254 = ~z~I really do.
+
+0xC11AC7CC = ~z~~sl:0.0:2.8~It happened. ~rp~There's nothing we can do...~lr:0.1~except try and get him back.
+
+0xC35C1F66 = ~z~
+
+0xC37F892F = ~z~Let's go.
+
+0xC120AC1B = ~z~Of course.
+
+0xC185D356 = ~z~Come. Leave your horse.
+
+0xC422E68B = ~z~Get out here, now!
+
+0xC764AE35 = ~z~I don't think so.
+
+0xC938CCD1 = ~z~John, look out!
+
+0xC8727CEF = ~z~They were looking for something.
+
+0xC27083ED = ~z~~sl:2.0~Alright, gents, the surprise is over...
+
+0xC67976BD = ~z~What choice do we have?
+
+0xCAD0F76D = ~z~Quick come on.
+
+0xCC8F9827 = ~z~~sl:0.0:1.2~We're here for ya.~sl:1.2~All of ya!
+
+0xCC91A780 = ~z~Skinners! Coming in!
+
+0xCC255689 = ~z~No... you look awful, you'll be okay, those bastards... we got 'em...
+
+0xCCFDF76E = ~z~Whoa.
+
+0xCDE28CDE = ~z~We need to be sure, get over here.
+
+0xCDE49929 = ~z~~sl:0.5~Okay, we're getting out of here.
+
+0xCF877F94 = ~z~and let us merry be.~n~~m~and let us merry be.
+
+0xCFC1CEFD = ~z~~m~Come, bustle, bustle, drink about, and let us merry be.
+
+0xD0A418C6 = ~z~But we go better when we've brought our foretack to cathead.~n~~m~But we go better when we've brought our foretack to cathead.
+
+0xD0F30BD0 = ~z~We just gotta keep our wits about us...
+
+0xD1EBE72B = ~z~There are the horses!
+
+0xD4F355BE = ~z~Watch yourself!
+
+0xD7A66D8B = ~z~Goddamnit.
+
+0xD8D2E11F = ~z~~m~Our can is full, we'll pump it out, and then all hands to sea.
+
+0xD8FE93C8 = ~z~What are you doing?
+
+0xD9CDB3CF = ~z~I see something... might be him.
+
+0xD12BC1C3 = ~z~Met a feller said the Skinners rode down about two years ago.
+
+0xD42B29B0 = ~z~~sl:0.8~Get up there! We're taking you home.
+
+0xD620F590 = ~z~We should have burned it while they slept...
+
+0xD737FEBA = ~z~Quick, John. Leave your horse and let's go.
+
+0xD1146CC7 = ~z~Uncle, hold on!
+
+0xD2644EA2 = ~z~No, he won't...
+
+0xD5461291 = ~z~We'll be better off going on foot.
+
+0xD5951970 = ~z~his pack the huntsman cheers.
+
+0xDA3694F2 = ~z~Our can is full, we'll pump it out...~n~~m~Our can is full, we'll pump it out...
+
+0xDABECDF2 = ~z~They're trying to stop us!
+
+0xDD261BF1 = ~z~and let us merry be.~n~~m~and let us merry be.
+
+0xDD797DCA = ~z~
+
+0xDDE125AC = ~z~we know this is a trap.
+
+0xDE5DDF27 = ~z~We gotta go get him.
+
+0xDEB60A86 = ~z~Damn it, old man...
+
+0xDF20288B = ~z~I think I see something.
+
+0xDFAB5FB2 = ~z~I hope so...
+
+0xE01B3DEE = ~z~Go, go, go!
+
+0xE021EA1D = ~z~Skinners.
+
+0xE2B0D704 = ~z~I'm feeling real weird.
+
+0xE5D109E0 = ~z~Looks like we got here just in time.
+
+0xE5FDF7D3 = ~z~John! You okay?
+
+0xE6B52ADC = ~z~Stop here.
+
+0xE7BF8EBC = ~z~Over here.
+
+0xE7D3BDED = ~z~When horns and hounds the forest rend...~n~~m~When horns and hounds the forest rend...
+
+0xE9AB2C85 = ~z~
+
+0xE9F85424 = ~z~That could be Uncle.
+
+0xE35F47EB = ~z~We let our guards down for one moment!
+
+0xE38EBE7F = ~z~This calls for a drink.
+
+0xE42D0BAD = ~z~The horses, up ahead!
+
+0xE60CEE30 = ~z~Stay with him.
+
+0xE81FF2AB = ~z~my God.
+
+0xE415BFA9 = ~z~Come, bustle, bustle, drink about...~n~~m~Come, bustle, bustle, drink about...
+
+0xE563FB59 = ~z~We're pushing them back!
+
+0xE44367F2 = ~z~Now, this is your land...
+
+0xE95704A7 = ~z~He goes into camp, they'll all be looking this way.
+
+0xE4226359 = ~z~We're good. Okay...
+
+0xE7025847 = ~z~John? Hey, John over here!
+
+0xEAC82606 = ~z~Come. Leave your horse.
+
+0xEAEA7F9A = ~z~but my other guess is they know we're coming after him.
+
+0xEB1D36BF = ~z~and then all hands to sea.~n~~m~and then all hands to sea.
+
+0xEB4B4B2E = ~z~and I'll really think you're dying.
+
+0xEB728EE3 = ~z~
+
+0xEBA086BA = ~z~John, we've got...
+
+0xEBAF853E = ~z~Don't mention it.
+
+0xEBED4C20 = ~z~Is it Uncle?
+
+0xEBF015DA = ~z~I'll carry him.
+
+0xEC092CDF = ~z~We have to get him back!
+
+0xEC867B74 = ~z~where are they?
+
+0xEDE23A09 = ~z~let me sleep.
+
+0xEE7BBE9C = ~z~Our can is full, we'll pump it out...~n~~m~Our can is full, we'll pump it out...
+
+0xEE44D3EB = ~z~Young miss at dancing school is taught...
+
+0xEFF90259 = ~z~I don't care...
+
+0xF010D13A = ~z~We don't move until we know it's him.
+
+0xF0F27A8A = ~z~Next to me.
+
+0xF1E130B7 = ~z~~sl:0.0:2.2~We'll make it his call, if we can...~sl:0.6~but it maybe we have to decide... okay?
+
+0xF2DF6E48 = ~z~Easy. Easy.
+
+0xF2EC16DC = ~z~
+
+0xF3A04E73 = ~z~Up there. To the right. Two Skinners.
+
+0xF4DE6AE9 = ~z~~sl:0.0:2.8~It happened. ~rp~There's nothing we can do...~lr:0.5~except... try and get him back.
+
+0xF9C9A8D5 = ~z~I got this!
+
+0xF9DEE803 = ~z~Wagon. There. It's dragging someone.
+
+0xF9EA21B3 = ~z~Thank you, boys.
+
+0xF29B4C79 = ~z~I'll cover you. Come on.
+
+0xF60EADB9 = ~z~Okay. Let's go.
+
+0xF112D06B = ~z~his pack the huntsman cheers.~n~~m~his pack the huntsman cheers.
+
+0xF439CAC2 = ~z~They've gone up toward Tall Trees. Come on.
+
+0xF848D236 = ~z~and then all hands to sea.~n~~m~and then all hands to sea.
+
+0xF3073ED9 = ~z~Get me out of here.
+
+0xF7969FBE = ~z~Almost got them!
+
+0xF13384D2 = ~z~Careful...
+
+0xF28965C5 = ~z~Nothing yet.
+
+0xF53600DB = ~z~The house...
+
+0xFA79E98B = ~z~we must have killed most of them.
+
+0xFAB5D6C6 = ~z~With only hurt to come.
+
+0xFB2CD6D6 = ~z~when we send a broadside to mounseers.~n~~m~when we send a broadside to mounseers.
+
+0xFB2FC379 = ~z~Come on, Uncle...
+
+0xFD8F9A8A = ~z~Was it theirs once?
+
+0xFEA8B54F = ~z~
+
+0xFF94DD6E = ~z~He's fine...
+
+0xFF202A17 = ~z~We have to move!
+
+0xFFF17744 = ~z~the minuet to tread.
+

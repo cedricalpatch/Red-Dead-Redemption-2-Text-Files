@@ -1,0 +1,340 @@
+0x006D34CD = ~z~Got the better of you, didn't it?
+
+0x011C4F48 = ~z~It's no use... give up.
+
+0x0180F185 = ~z~Sleep no more!
+
+0x056E8753 = ~z~You can't even stand straight.
+
+0x06836A0C = ~z~Philip Carlier, the Castille Cotton Company chief clerk.
+
+0x08C279BC = ~z~Goodbye again.
+
+0x08FF1734 = ~z~
+
+0x095F5C29 = ~z~Don't tie me up.
+
+0x09762F5A = ~z~Look out.
+
+0x0A853134 = ~z~This way.
+
+0x0BD34B99 = ~z~I didn't have the constitution.
+
+0x0BE77800 = ~z~I was so hoping for someone to share this with.
+
+0x0FC9ECA3 = ~z~It's a fools errand... I promise you.
+
+0x1C2D2091 = ~z~You missed me.
+
+0x1D90EF14 = ~z~A brave attempt.
+
+0x1E7C0D35 = ~z~Caught...
+
+0x1F9C17C1 = ~z~And now I'm over here...
+
+0x2DCE1028 = ~z~I'm being called away.
+
+0x2DE88924 = ~z~Where's the rest of your party, you think?
+
+0x2E77C526 = ~z~Here I go again.
+
+0x2F0FD400 = ~z~Quick, aren't they? You have to watch them.
+
+0x2F5F2BCD = ~z~It will take more than that to kill me.
+
+0x2FA5DBC1 = ~z~Strong vapors aren't they...
+
+0x3A25B2B5 = ~z~Never!
+
+0x3CE7EFB0 = ~z~They've been trying this for years.
+
+0x3FAA678B = ~z~Until next time.
+
+0x3FE5B457 = ~z~You hear that? Someone's calling.
+
+0x4A5EDAEE = ~z~Help me. Someone. Any kind soul in hearing of this?
+
+0x4AD8CCEF = ~z~Good gator!
+
+0x4C645732 = ~z~Never!
+
+0x4DD05206 = ~z~Why, really!
+
+0x5A7FA9F5 = ~z~I... he's dead, you must believe me.
+
+0x5C57112E = ~z~How you feeling, huh?
+
+0x5CBE0A88 = ~z~My friends... protect me.
+
+0x5D51B52D = ~z~I'm glad I caught you alone.
+
+0x6C855E3F = ~z~
+
+0x6D855662 = ~z~I'd have to be real for you to rope me.
+
+0x7BA0249E = ~z~Call out, see if anyone can hear you.
+
+0x7BA59635 = ~z~I might have even looked for him too...
+
+0x7FE15CE2 = ~z~Ain't much in the way of company out there.
+
+0x8C2370D6 = ~z~I hope I wasn't missed.
+
+0x8D1DEA7B = ~z~Saved...
+
+0x8E67BBB9 = ~z~but none of us could find him.
+
+0x8E126AAC = ~z~Ugh, no.
+
+0x8F97A0F1 = ~z~Now you see me...
+
+0x9B811F37 = ~z~Until we meet again.
+
+0x9BF11501 = ~z~Trapped.
+
+0x9F5F8EFE = ~z~Ruined...
+
+0x18E327A7 = ~z~It looks like they don't want me to leave.
+
+0x24E9E641 = ~z~Watch yourself.
+
+0x30A7318B = ~z~Captured...
+
+0x42FB7261 = ~z~Sounded like night terrors over here.
+
+0x47C26C9D = ~z~then God help him.
+
+0x49C440DB = ~z~Where do you think they are, huh?
+
+0x54C7F9CC = ~z~Found...
+
+0x58A3AC9F = ~z~Put that rope away, you won't get me with that.
+
+0x64DFBE49 = ~z~~sl:0.0:3.0~I promise you, ~rp~I saw him dead.~sl:~His body committed to the swamp, I...
+
+0x69D3F292 = ~z~If that's where he's been, on the run all this time...
+
+0x81FC05BA = ~z~Time to slip away...
+
+0x90FC6061 = ~z~He's dead!
+
+0x92B4B9D8 = ~z~~sl:0.0:1.6~Oh, take me back to the bayou?~sl:~I won't hurt anyone, hey, that's a promise...
+
+0x130A3659 = ~z~I wasn't hurting anyone out there.
+
+0x144C7F5E = ~z~~sl:0.2:5.0~You must understand, ~rp~Philip Carlier's dead!~sl:0.2~~rp~Why won't you understand that?
+
+0x180E1E9F = ~z~Let me put you out your misery.
+
+0x521B18C0 = ~z~~sl:0.0:2.9~Now, you may not believe me, but you made a mistake.~sl:0.7~You've got the wrong man, you see, it's
+
+0x530B8337 = ~z~Got to ask what years of that might have done to his mind.
+
+0x604AF6FB = ~z~Don't!
+
+0x730E67DF = ~z~Try and catch me.
+
+0x742C355A = ~z~You're only fighting the vapors.
+
+0x826D5D6A = ~z~I came back as soon as I could.
+
+0x905FE260 = ~z~There you are.
+
+0x1794F894 = ~z~I am quite well behaved... ask anyone I know.
+
+0x1811B559 = ~z~
+
+0x4512A910 = ~z~It sounds like they spotted him in the swamps.
+
+0x4617D93E = ~z~Continue to try, and you'll continue to fail...
+
+0x6090BD96 = ~z~Just the tonic, ain't it now?
+
+0x7598A99A = ~z~Carlier's dead!
+
+0x9149FFB3 = ~z~You're here.
+
+0x9244F595 = ~z~The bayou protects its own!
+
+0x39654B53 = ~z~I couldn't leave you all alone.
+
+0x66819B8B = ~z~Okay fine. You got me. Again.
+
+0x67078B98 = ~z~You again...
+
+0x87424CED = ~z~I'm not him anymore!
+
+0x93012C2E = ~z~
+
+0x94151E42 = ~z~I don't want to go in there.
+
+0x94429D7A = ~z~~sl:0.2:3.2~How do you think anyone could survive out here?~sl:0.0:1.6~For all this time?~sl:0.0:1.0~I mean, really.~sl:0.0:2.7~~rp~It's a ridiculous proposition if you think of it...~sl:0.6~For a man as...
+
+0x474409E0 = ~z~Try and rope the vapors.
+
+0x807051EC = ~z~The Night Folk'll get you before you can get me.
+
+0x834402FC = ~z~You look like you're struggling there.
+
+0x67297721 = ~z~If there's one thing I know it's running.
+
+0x69922364 = ~z~Never...
+
+0x78636550 = ~z~~sl:0.0:3.5~Mr. Philip ~rp~Carlier? Of the Castille Cotton Company?~sl:~Yeah, he, he gone. ~rp~He died a long time ago, I'm afraid.
+
+0x95268128 = ~z~
+
+0xA0105F0A = ~z~Mild mannered they said.
+
+0xA0CD6084 = ~z~Well, they all are, until they ain't.
+
+0xA3EC18E3 = ~z~They don't talk much, but they're loyal.
+
+0xA8C5467F = ~z~~sl:0.0:2.1~I saw the skin rotting off his bones and~sl:0.0:2.3~creatures feeding upon his flesh.~sl:~~rp~The man is as dead as you and me is breathing now, I...
+
+0xA76E25B7 = ~z~~sl:0.0:3.2~Yeah, one night with the gators, and the snakes, and the...~sl:0.0:3.2:1~and the Night Folk? That was more than enough.
+
+0xA289032A = ~z~I won't go!
+
+0xA868855F = ~z~I'm afraid I must leave you...
+
+0xABA445E5 = ~z~Feels real, doesn't it?
+
+0xAC8B4797 = ~z~Wake up!
+
+0xAC16F934 = ~z~I killed him and I'll kill you, too!
+
+0xAC9710F0 = ~z~I'm a gentleman!
+
+0xAD403AB7 = ~z~But... I'm sure you already know that given why you're here.
+
+0xADCD38B9 = ~z~Or much that won't try and eat you or put you on a pike.
+
+0xAE9351AF = ~z~~sl:0.6~I know it's very disappointing for a bounty hunter, but... there it is.
+
+0xAEB0D7EA = ~z~It's nice to have you all to myself.
+
+0xB0585B3D = ~z~It looks like it's just you and I here...
+
+0xB8AC4833 = ~z~~sl:0.0:3.7:1~It was a mercy. ~rp~A mercy, I promise.
+
+0xB8E6E06A = ~z~Are you dreaming?
+
+0xB28D0403 = ~z~I don't know where to start with this one.
+
+0xB50B262F = ~z~Stay away!
+
+0xB54C4ACB = ~z~No, no time for any of that. Now...
+
+0xB92B491D = ~z~~sl:0.0:4.0~as polite and unsuited to the environment as...~sl:0.0:2.8~as poor Mr. Carlier.~sl:0.7~~rp~He perished very quickly, I assure you.
+
+0xBA4DE31C = ~z~It's a nightmare.
+
+0xBC20FA03 = ~z~See if you can follow.
+
+0xBF920EA4 = ~z~Don't you...
+
+0xC0B79D9A = ~z~Behind you.
+
+0xC0DEFC46 = ~z~I was hoping to catch you like this...
+
+0xC9EA1595 = ~z~Come on, chase me!
+
+0xC238F0DA = ~z~Having a bad dream?
+
+0xC711EE56 = ~z~My, my, I... I can't imagine how I must look.
+
+0xC7185B31 = ~z~If only it was as simple as killing me.
+
+0xC553298F = ~z~I remember when his poster first went up.
+
+0xCA33F186 = ~z~You see, I-I thought no one would ever come.
+
+0xCE9E75BB = ~z~You don't look so good.
+
+0xD03A0EF8 = ~z~Snap out of it.
+
+0xD0A6D90F = ~z~Don't do this!
+
+0xD3D2DE09 = ~z~That's uncalled for.
+
+0xD5E36054 = ~z~If you'd excuse me a moment...
+
+0xD6C68AAB = ~z~See, I've been here for... must be years.
+
+0xD6D98DE5 = ~z~Oh.
+
+0xD7C04BEF = ~z~Excuse me.
+
+0xD8C3B348 = ~z~I'm late for a very important date...
+
+0xD55D6C5E = ~z~You're having a time of it alright...
+
+0xD945FF8C = ~z~You can't kill a dream.
+
+0xD2088C49 = ~z~Au revoir.
+
+0xDABCB500 = ~z~~sl:0.2~What a waste of a good alligator.
+
+0xDC0FC79F = ~z~Don't!
+
+0xDC49C8ED = ~z~Let me go back to the bayou.
+
+0xDD2B5681 = ~z~Pardon.
+
+0xDDF9AA77 = ~z~Let me help you wake up.
+
+0xDF89A63E = ~z~I am being abducted!
+
+0xDFFB819A = ~z~I told you it came on strong...
+
+0xE6B396D2 = ~z~This is really quite unnecessary.
+
+0xE8A12E60 = ~z~You're here. Oh, thank heavens you're here.
+
+0xE65FCE80 = ~z~Down the rabbit hole...
+
+0xE69BC34E = ~z~I'm not ready to go to jail, please.
+
+0xE537B2A7 = ~z~Look what's happening.
+
+0xE874B11B = ~z~if you'd just let me...
+
+0xE3687E92 = ~z~You don't need the rope!
+
+0xE58869F9 = ~z~Mr. Philip Carlier.
+
+0xE956090F = ~z~Please!
+
+0xEBDBCC43 = ~z~~sl:0.0:2.0~Yeah, those vapors, they are quite strong.~sl:~Yes, yes... yes, quite strong indeed.
+
+0xEDFA781F = ~z~Over here.
+
+0xEEA69140 = ~z~Not sound enough of mind...
+
+0xEEE35F8B = ~z~Come deeper with me...
+
+0xEFFE88C1 = ~z~If it's something else, it's hiding.
+
+0xF1A0B051 = ~z~You're wasting your efforts.
+
+0xF1C72531 = ~z~We thought we'd lost you...
+
+0xF5BB98CB = ~z~Getting awfully lonely out here, I bet.
+
+0xF5C9FB13 = ~z~No!
+
+0xF5F214B4 = ~z~Slipped out. Didn't think I'd be so thin!
+
+0xF7CC57D0 = ~z~I can do this all day.
+
+0xF7FD27BB = ~z~Get that rope off of me.
+
+0xF9B8E7FD = ~z~~sl:1.2~How you feeling? ~rp~Clear-eyed again, I hope, yes?
+
+0xF32B02C4 = ~z~Watch your back!
+
+0xF82E2E73 = ~z~Carlier's dead!
+
+0xFA35549C = ~z~It comes on rather strong the first time, does it not?
+

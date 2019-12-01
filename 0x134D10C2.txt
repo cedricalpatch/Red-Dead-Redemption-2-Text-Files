@@ -1,0 +1,338 @@
+0x01796609 = ~z~~sl:0.0:2.8~Who? The Lemoyne Raiders?~sl:0.0:2.7~They're a damn joke, what's left of them.~sl:~Never met an easier bunch of fools to kill.
+
+0x017D37DE = ~z~~sl:0.0:1.4~Worst mistake you can make~sl:~is thinking you're better than the next man.
+
+0x04B942C4 = ~z~I guess that's what I'll have to accept, then.
+
+0x054E2506 = ~z~~sl:0.0:2.7~Oh, look who it is. How does it feel knowing~sl:0.0:2.4~you've put one of your own behind bars?~sl:~For a few dirty government dollars...
+
+0x05C1C067 = ~z~~sl:0.0:2.3~Turning on each other, this is what they want.~sl:0.0:0.8~Don't you see that? Come on.~sl:~Don't be an errand boy for the gutless state.
+
+0x06C9F32B = ~z~Surround him, boys.
+
+0x077B9DD2 = ~z~This hunk of dead meat used to be called De Millemont.
+
+0x0814E4C0 = ~z~~sl:0.0:2.4~Without hierarchy, there is anarchy.~sl:0.0:1.9~And if it's anarchy they want,~sl:~we will surely oblige them.
+
+0x0F10B8FE = ~z~Shut it. Remember, I get paid dead or alive.
+
+0x1A3535BB = ~z~I've found the bastard! Over here!
+
+0x1D717012 = ~z~I see you.
+
+0x1F3C8FB4 = ~z~~sl:0.0:3.4~I worked long and hard to make this town on its path,~sl:~and you weren't going to pull us off of it.
+
+0x1F3D19BD = ~z~You will pay for killing my men.
+
+0x2A8489AF = ~z~~sl:0.0:1.8~I wish you was worth a hundred.~sl:0.4~~rp~You're a cheap son of a bitch, I almost didn't bother.
+
+0x2DF0BAAB = ~z~This is a mistake you won't live to regret.
+
+0x2E40E710 = ~z~~sl:0.0:2.9~Know that when we act for the good of us,~sl:~we also act for the good of him.
+
+0x2E48C4D2 = ~z~~sl:0.0:1.7~Please, take my advice...~sl:0.0:3.4~better to face the truth now, uncomfortable as it is,~sl:~than when it's already too late.
+
+0x3A7A63CC = ~z~~sl:0.0:3.6~Who, exactly? There's precious few of your boys left~sl:~in these parts now, far as I can tell.
+
+0x3C672D74 = ~z~~sl:0.0:1.1~What are they offering?~sl:~A hundred dollars? Two-hundred?
+
+0x3DB663AD = ~z~~sl:0.0:3.9~And here's some advice for you... skip the last meal.~sl:~Cowards like you always spoil their britches when the noose drops.
+
+0x3F22F9E0 = ~z~~sl:0.0:1.5~Here's where we wipe that smile~sl:~off your face, bounty hunter.
+
+0x3F32E8AF = ~z~I guess that's what I'll have to accept, then.
+
+0x4A4A342F = ~z~~sl:0.0:2.1~Come on, gather 'round the fire.~sl:~I have something to say.
+
+0x4A675734 = ~z~~sl:0.0:4.2~And here's some advice for you... skip the last meal.~sl:~Cowards like you always spoil their britches when the noose drops.
+
+0x4CD6A43B = ~z~~sl:0.0:1.9~George, Alvin...~sl:~you proved yourself our brothers today.
+
+0x4F67B787 = ~z~You're a disgrace to your country.
+
+0x5BAB19E1 = ~z~The captain's dead! Take him down, goddamn it!
+
+0x5C76BD7D = ~z~~sl:0.0:3.8~Who, exactly? There's precious few of your boys left~sl:~in these parts now, as far as I can tell.
+
+0x5D10A224 = ~z~~sl:0.0:2.6~That's when you get sloppy and end up on~sl:~the back of a horse heading straight for the gallows.
+
+0x5E3574C4 = ~z~This hunk of dead meat used to be called De Millemont.
+
+0x5EA11753 = ~z~Tell me if this ain't tight enough.
+
+0x6F4D469D = ~z~~sl:0.0:4.5~You don't fight for me... and the future? Well...~sl:~that won't be a concern of yours for much longer.
+
+0x6F8D22F2 = ~z~~sl:0.0:2.8~You have any idea how pathetic you really are?~sl:0.6~A grown man, still playing soldiers.
+
+0x7A1D8F51 = ~z~I have committed no crime! I fight for your country!
+
+0x7A784616 = ~z~~sl:0.0:1.8~There's more ways to get things done~sl:~than starting fires and killing folks, boy.
+
+0x7AA31009 = ~z~Save your damn breath.
+
+0x7B9E27AC = ~z~Do you even know who you're dealing with?
+
+0x7C934DB7 = ~z~~sl:0.0:4.0~You are all patriots. Now ,let's take a moment~sl:~of silence for those who fell.
+
+0x8AC9FDD7 = ~z~You can go to hell!
+
+0x8CD3FC32 = ~z~Shit, no! He killed De Millemont!
+
+0x8CE48745 = ~z~~sl:0.0:3.1~Who? The Lemoyne Raiders?~sl:0.0:2.5~They're a damn joke, what's left of them.~sl:0.6~Never met an easier bunch of fools to kill.
+
+0x8D3A6B9A = ~z~~sl:0.0:3.4~I had a fondness for you before we were acquainted...~sl:~now, not so much.
+
+0x8EF05D36 = ~z~Put him in the cell, then.
+
+0x8F9EA294 = ~z~Let me go. I'm fighting for you out there.
+
+0x9A64F3A1 = ~z~~sl:0.0:3.7~You think you're winning? You'll never destroy us.~sl:~We are the beating heart of this country.
+
+0x9AD6D0C3 = ~z~You're making a big mistake!
+
+0x9DF10998 = ~z~There he is!
+
+0x9E0C5500 = ~z~~sl:0.0:2.2~You're making a big mistake.~sl:~We're on the same side.
+
+0x9E37F1A6 = ~z~~sl:0.0:2.5~I didn't put one of my own behind bars...~sl:~I put you behind bars. And it feels good, thanks.
+
+0x9FB2FEBB = ~z~Sheriff.
+
+0x23D2AFA9 = ~z~~sl:0.0:2.3~I am no criminal. I fight for you,~sl:~for all of us, for our future.
+
+0x24BDEFDE = ~z~~sl:0.0:2.8~Show yourself. Come out with your hands up,~sl:~before I lose my patience.
+
+0x25C79A6C = ~z~No, we ain't.
+
+0x30F6BD30 = ~z~Goddamn you! Those men were heroes!
+
+0x35AD2DC0 = ~z~~sl:0.0:1.9~I am a realist, that's all.~sl:0.0:2.6~People need hierarchy, they crave it.~sl:~It is the foundation of civilization.
+
+0x41CF6D4A = ~z~Well, I was about to say the same to you.
+
+0x43CA6CE9 = ~z~Look out! Bounty hunter!
+
+0x48EBC93A = ~z~You bastard, you'll pay for this.
+
+0x54E56383 = ~z~I seek to get paid, that's all.
+
+0x54F3CE5C = ~z~~sl:0.3~I see you.
+
+0x59D7DA11 = ~z~~sl:0.0:1.4~The longer you hide,~sl:~the worse it's going to be for you.
+
+0x61D3DE6B = ~z~Will you shut up?
+
+0x67DBBD4C = ~z~I got De Millemont. And he ain't happy about it.
+
+0x73D802C2 = ~z~Release me right now!
+
+0x78C933F7 = ~z~You can go to hell!
+
+0x80A1B625 = ~z~Clearly you never met my pa.
+
+0x82E21954 = ~z~Finish that coward!
+
+0x85DFC652 = ~z~~sl:0.0:2.6~Must be cobwebs on your asshole,~sl:~the amount of shit that comes out of that mouth.
+
+0x87C688CD = ~z~Save your damn breath.
+
+0x88CCC209 = ~z~You're dead.
+
+0x97BB641B = ~z~~sl:0.0:2.2~What? ~rp~There must be some mistake,~sl:~my name is Camille de Millemont.
+
+0x98E94C95 = ~z~Quiet down back there.
+
+0x185D98FC = ~z~~sl:0.0:4.1~Oh, I intend to... not before you, my friend.~sl:0.9~Now... shut your goddamn mouth.
+
+0x253CCF55 = ~z~That's what we'll pay for him.
+
+0x258AFFF9 = ~z~~sl:0.0:3.7~You don't fight for me... and the future, well...~sl:~that won't be a concern of yours for much longer.
+
+0x391A4111 = ~z~There we are.
+
+0x411BD6C9 = ~z~That's right!
+
+0x507BFAD4 = ~z~Let's recover the body, boys! He deserves a funeral.
+
+0x607C7DF9 = ~z~~sl:0.0:2.5~Who the hell is he? Intruder in camp...~sl:~kill that bastard!
+
+0x660B2C08 = ~z~~sl:0.0:1.8~We gonna save you, De Millemont!~sl:~They ain't taking you to statehouse!
+
+0x861FC0E4 = ~z~Yeah. Blame your parents for that, not me.
+
+0x957FB58C = ~z~~sl:0.0:2.5~A vote is an honor, not a right,~sl:0.0:3.8~and in the hands of the inferior and the illiterate,~sl:~a very dangerous weapon.
+
+0x996F2C1E = ~z~Quiet down back there.
+
+0x3121C10D = ~z~Believe me. You'll not leave this place alive.
+
+0x4757C868 = ~z~~sl:0.0:1.1~What are they offering?~sl:~A hundred dollars? Two-hundred?
+
+0x5212B119 = ~z~There'll be more where they came from, believe me!
+
+0x5571E246 = ~z~Goddamn son of a bitch! Come on then, me and you!
+
+0x5849C420 = ~z~Kill that son of a bitch!
+
+0x7286E0F0 = ~z~You picked the wrong camp, mon vieux.
+
+0x10051BA5 = ~z~Here they are!
+
+0x14348DBE = ~z~We got an intruder!
+
+0x55618FDE = ~z~~sl:0.0:2.3~I didn't put one of my own behind bars,~sl:~I put you behind bars. And it feels good, thanks.
+
+0x56188C23 = ~z~~sl:0.0:1.3~We got you, captain!~sl:~Ain't no Lemoyne Raider going to federal jail!
+
+0x67069F33 = ~z~You are surely starting to grate on me.
+
+0x81906B23 = ~z~~sl:0.0:2.3~Turning on each other, this is what they want.~sl:0.0:0.8~Don't you see that? Come on.~sl:~Don't be an errand boy for the gutless state.
+
+0x85588E08 = ~z~Collaborator. Traitor to the South.
+
+0x148077DE = ~z~~sl:0.0:2.2~You're making a big mistake.~sl:~We're on the same side.
+
+0x302786B1 = ~z~We'll find you.
+
+0x437465B2 = ~z~You want me? Come and get me!
+
+0x900638F4 = ~z~No, we ain't.
+
+0x1252670B = ~z~~sl:0.0:1.7~Please, take my advice...~sl:0.0:3.4~better to face the truth now, uncomfortable as it is,~sl:~than when it's already too late.
+
+0x23018869 = ~z~~sl:0.0:3.7~Oh, I intend to... but not before you, my friend.~sl:0.4~Now shut your goddamn mouth.
+
+0x95585060 = ~z~~sl:0.0:1.3~You know they'll come for me?~sl:~They'll get me out of here. And then, you'll see...
+
+0xA073F8F8 = ~z~You have not seen the last of us.
+
+0xA3C52FE9 = ~z~~sl:0.0:1.9~I am a realist, that's all.~sl:0.0:2.6~People need hierarchy, they crave it.~sl:~It is the foundation of civilization.
+
+0xA23B3F7A = ~z~Tell me if this ain't tight enough.
+
+0xA23E517F = ~z~Goddamn it, there's only one of him!
+
+0xA43AA207 = ~z~Let's hitch the horses and relax a little.
+
+0xA58D5EAA = ~z~Don't let him take me, boys!
+
+0xA918D588 = ~z~Damn all you scalawags.
+
+0xAA65D5B0 = ~z~~sl:0.0:1.2~I speak the truth,~sl:~you just haven't got the spine to accept it.
+
+0xAA4213D9 = ~z~~sl:0.0:3.8~Quiet down. That's always been all you's problem,~sl:~too damn noisy for folk's good.
+
+0xACA69308 = ~z~Yeah... well, blame your parents for that, not me.
+
+0xACB5F253 = ~z~~sl:0.0:1.0:1~Here we are.
+
+0xAD63C6BB = ~z~Oh, here he is. The coward and the traitor.
+
+0xADAF8BCE = ~z~You should've stayed on the farm, damn yokel!
+
+0xAE4268AB = ~z~I was about to say the same to you.
+
+0xAF27AC05 = ~z~I see him! Over here!
+
+0xB18DCB7A = ~z~Well I guess I just ain't that civilized, then.
+
+0xB26B02DB = ~z~~sl:0.0:2.7~Must be cobwebs on your asshole,~sl:~the amount of shit that comes out of that mouth.
+
+0xB69046B2 = ~z~~sl:0.0:3.6~Good work, my friends. I am proud of you all.~sl:~That will send a clear message.
+
+0xBBFFB754 = ~z~~sl:0.0:2.5~You are a traitor, Sheriff Thomas!~sl:~Sending this Yankee against your own.
+
+0xBE3F1E68 = ~z~Go on, boys!
+
+0xBEED3795 = ~z~~sl:0.0:2.2~What? ~rp~There must be some mistake,~sl:~my name is Camille de Millemont.
+
+0xC75B4871 = ~z~~sl:1.0:2.4~I wish you was worth a hundred.~sl:~~rp~You're a cheap son of a bitch, I almost didn't bother.
+
+0xC366047A = ~z~What the hell is this? Somebody's been in the camp!
+
+0xC5166444 = ~z~Get your filthy rope off me, you peasant.
+
+0xC7411912 = ~z~And make no mistake. These are not heinous acts.
+
+0xCA328226 = ~z~~sl:0.0:4.1~You have any idea how pathetic you really are?~sl:~A grown man, still playing soldiers.
+
+0xCD3D8278 = ~z~~sl:0.0:1.8~Worst mistake you can make~sl:~is thinking you're better than the next man.
+
+0xCD64E2EB = ~z~~sl:0.0:1.8~Wait, whose horse is that?~sl:0.0:1.6~I think we must have a visitor.~sl:~Spread out and find them!
+
+0xCDF4BDD3 = ~z~Kill this son of a bitch!
+
+0xCEE7D2B0 = ~z~~sl:0.0:1.7~How do you live with yourself?~sl:~You are a traitor to your heritage.
+
+0xCF0552B2 = ~z~I seek to get paid, that's all.
+
+0xD2FD615D = ~z~~sl:0.0:2.4~At least I'm fighting for something.~sl:~I am more of an American than you will ever be.
+
+0xD6DBB10D = ~z~You're a puppet, Sheriff. A little marionette.
+
+0xD6FB96DC = ~z~~sl:0.0:2.3~Like you would know the first thing about loyalty.~sl:~A yokel and a bounty hunter.
+
+0xD113F6BF = ~z~~sl:0.0:3.4~They seek to divide us, but together we are strong.~sl:0.0:2.0~We are bound by our lineage,~sl:~regardless of language or nationality.
+
+0xD45221E3 = ~z~Will you shut up?
+
+0xDB095014 = ~z~Someone's coming! Might be about that warrant!
+
+0xDCCD3B3D = ~z~Ugh, merde...
+
+0xDD362269 = ~z~Well, clearly you never met my pa.
+
+0xDEDA1792 = ~z~He's got De Millemont's bloody corpse, get him!
+
+0xE0B2F60D = ~z~~sl:0.0:1.6~You seek to deny my freedom~sl:~when I fight for yours?
+
+0xE5CCD629 = ~z~~sl:0.0:1.5~How is a man of the field~sl:0.0:1.5~supposed to make a decision~sl:~on something of which he understands nothing?
+
+0xE6AE0716 = ~z~~sl:0.0:1.6~You seek to deny my freedom~sl:~when I fight for yours?
+
+0xE77D2592 = ~z~~sl:0.0:2.8~Probably best it ended this way, you know?~sl:~This town don't need any more of its dirty laundry aired.
+
+0xE613C566 = ~z~Shut it. Remember, I get paid dead or alive.
+
+0xE5579F46 = ~z~While we breathe, we fight.
+
+0xE9456C8C = ~z~Look here! The statehouse might have sent him!
+
+0xE3788908 = ~z~Hey! Somebody's messing with the horses!
+
+0xEED2B23C = ~z~I fight for you, with you, because I am you.
+
+0xEF0BDFBA = ~z~Get this filthy rope off me, you peasant!
+
+0xEF88C70E = ~z~~sl:0.0:1.7~How do you live with yourself?~sl:~You are a traitor to your heritage.
+
+0xF00F1C87 = ~z~There's more than you think. You'll see.
+
+0xF07E5BFF = ~z~Get your filthy rope off me, you peasant.
+
+0xF7CCE8D8 = ~z~Don't want to hear it.
+
+0xF7E7C667 = ~z~Okay. Put him out the back there.
+
+0xF8EBFC67 = ~z~They sure did.
+
+0xF17E49D6 = ~z~~sl:0.0:2.6~You came here to rob me or capture me?~sl:~Either way, you're a dead man.
+
+0xF25BA40B = ~z~Strike me down...
+
+0xF55B911A = ~z~We know you're here.
+
+0xF198E0DF = ~z~Spread out and find them!
+
+0xF3371B52 = ~z~~sl:0.0:2.3~That's when you get sloppy and end up on~sl:~the back of a horse heading straight for the gallows.
+
+0xF8874A20 = ~z~I got De Millemont. And he ain't happy about it.
+
+0xFC0A3A7B = ~z~I guess I just ain't that civilized, then.
+
+0xFC8B03A5 = ~z~Yeah. We are the true heroes.
+
+0xFC262D38 = ~z~~sl:0.0:2.3~I am no criminal. I fight for you,~sl:~for all of us, for our future.
+
+0xFCD19480 = ~z~Don't want to hear it.
+

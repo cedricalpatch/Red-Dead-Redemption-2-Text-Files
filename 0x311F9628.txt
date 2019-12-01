@@ -1,0 +1,516 @@
+0x02E8AFB5 = ~z~You with me or what?
+
+0x033684B7 = ~z~You too, Mr. Pearson.
+
+0x037D8E39 = ~z~How are you?
+
+0x040B94D8 = ~z~Jack!
+
+0x046037C7 = ~z~~sl:0.5~Come on, Arthur.
+
+0x06E0B91E = ~z~Well that's easy...
+
+0x073B1314 = ~z~Hold here! Hold here!
+
+0x076B3DF5 = ~z~Mr. Swanson...
+
+0x087F3C54 = ~z~Thank you, son.
+
+0x0A0B5D33 = ~z~They're right in front of us!
+
+0x0B04C166 = ~z~Everybody take cover!
+
+0x0BE760EB = ~z~They're coming from the front!
+
+0x0CB99BDB = ~z~How's that side?
+
+0x0CC0EFC0 = ~z~Dig in, I've seen more out past the tree line.
+
+0x0CFF7C6E = ~z~I'm covering! Go on now.
+
+0x0D554600 = ~z~Hold them back!
+
+0x0DF5484F = ~z~Well that depends if you want a massacre or a pay day.
+
+0x0E4FBAEE = ~z~Charles, you take the side door there.
+
+0x1ACF72C8 = ~z~Bastards!
+
+0x1B369E66 = ~z~Come on now, work!
+
+0x1D3765CB = ~z~Look, there in the tree line.
+
+0x1D27812B = ~z~
+
+0x1FE55E19 = ~z~John, you take the windows over there.
+
+0x2AC373D5 = ~z~~sl:0.0:1.9~Good. Now everyone, I got this.~sl:~Get these windows covered quickly...
+
+0x2BED2BE1 = ~z~Shoot!
+
+0x2C15C024 = ~z~Already taking care of it.
+
+0x2CA805B8 = ~z~You'll ride with me?
+
+0x2D4A4B4E = ~z~Sadie...
+
+0x2D588827 = ~z~Hold in here. And stay away from the windows.
+
+0x2F7B9671 = ~z~Just keep shooting!
+
+0x3C90176E = ~z~
+
+0x3D886741 = ~z~Mrs. Adler!
+
+0x3E59342C = ~z~What in God's name is going on? We're overrun.
+
+0x3EB07A1E = ~z~Whole place gives me the creeps.
+
+0x3F66EA2A = ~z~You ain't thinking big enough, Arthur.
+
+0x3F385106 = ~z~Everyone stay calm. We need something in front of that door.
+
+0x3FB1675B = ~z~Miss Grimshaw!
+
+0x4A2F7FCE = ~z~Cowards! The all of ya!
+
+0x4A4DA18E = ~z~Fine.
+
+0x4B051726 = ~z~You okay?
+
+0x4B19D165 = ~z~Arthur! Get down there and help them.
+
+0x4DED4DF2 = ~z~I'll cover this side, okay?
+
+0x4E4F85D7 = ~z~~sl:0.0:0.9~That's Sadie...~sl:~I gotta go help her. Cover me!
+
+0x4E7714D1 = ~z~I can cover this, Dutch. Look after everyone.
+
+0x5D6C6053 = ~z~Horsemen!
+
+0x5E19460E = ~z~Come on!
+
+0x5FC1A8BB = ~z~
+
+0x6B2E088F = ~z~I took a look at it...
+
+0x6BC38ABE = ~z~Saint Denis' mayor's house.
+
+0x6DBC3AD0 = ~z~Horse, on the left!
+
+0x6DDC4718 = ~z~So we should start looking for another camp?
+
+0x6E4B8FF6 = ~z~My Lord, few more like her...
+
+0x6E78E64B = ~z~Pig fuckers!
+
+0x6EBC6A3C = ~z~Jack, no!
+
+0x6FAFF558 = ~z~Falling back!
+
+0x7A9FA458 = ~z~Cowards!
+
+0x7AABBC1B = ~z~Just get down and try and hold them off.
+
+0x7D2BE5B7 = ~z~so can I.
+
+0x7E302E77 = ~z~I got this, John. Move on.
+
+0x7F7FDE57 = ~z~Look out, left! They're on horseback.
+
+0x7F9335D0 = ~z~Rest of you, hold your ground!
+
+0x8ACBDC5B = ~z~Everyone but Kieran...
+
+0x8D2D4C58 = ~z~~sl:0.0:0.7~Sadie!~sl:2.7~Sadie?
+
+0x8D8ACE4C = ~z~Mrs. Adler will you excuse us?
+
+0x8D54D153 = ~z~Women and children, inside.
+
+0x8D155CAA = ~z~I got a whole bunch of them in front of me.
+
+0x8E93EDAB = ~z~Mrs. Adler fought braver than any of us.
+
+0x8F01C64A = ~z~We got'em running!
+
+0x8F171345 = ~z~Charles, I got this now. Okay?
+
+0x8FB3DDC7 = ~z~I don't know! I think!
+
+0x9A916881 = ~z~When you gonna let me come robbing with you, Dutch?
+
+0x9AF27CBF = ~z~
+
+0x9BAC6A8F = ~z~come on, we need to talk.
+
+0x9D1BEC6A = ~z~I went down there...
+
+0x9DBF63C5 = ~z~Mr. Smith!
+
+0x9F02F2A4 = ~z~Hey, more boats!
+
+0x9F9F2373 = ~z~Goddamn this!
+
+0x10A64B30 = ~z~What you doing, Mr. Morgan?
+
+0x10FAAB4C = ~z~Die, why don't you?
+
+0x11B90ECF = ~z~You ain't seeing the vastness of our problems...
+
+0x14F1D902 = ~z~would you take this boy and bury him...
+
+0x15A7958C = ~z~We got work.
+
+0x19B3076D = ~z~There!
+
+0x20AFACBC = ~z~Away from here.
+
+0x24ABABB9 = ~z~
+
+0x24E2BBBA = ~z~Get those doors barricaded, quick.
+
+0x25B477CD = ~z~No, we'll need one more, I reckon.
+
+0x26A13F3F = ~z~John, you take the windows over there...
+
+0x26F08BEA = ~z~Is everyone accounted for?
+
+0x30A79069 = ~z~Poor kid.
+
+0x33AE0CD7 = ~z~
+
+0x36EEB7E1 = ~z~What in hell?
+
+0x40EF8039 = ~z~Now he's in there. He's safe.
+
+0x42B2436D = ~z~Hey! I said, "Is everyone accounted for?"
+
+0x45D9F422 = ~z~Arthur, move that bookcase. Come on.
+
+0x45E2B5B4 = ~z~Hey, I thought we were in this together!
+
+0x47CCF9D6 = ~z~Meet me near the trolley station.
+
+0x47D241D8 = ~z~the trolley bus station...
+
+0x49BB888F = ~z~Look out. I'm covering this now.
+
+0x49BC9AB6 = ~z~Yes...
+
+0x50DE2B98 = ~z~Keep pushing!
+
+0x51A5B948 = ~z~We're getting overwhelmed! Fall back to the house!
+
+0x56BA59DC = ~z~Yeah, well you leave the planning to me.
+
+0x57D1E1D7 = ~z~there wouldn't be much of a world left.
+
+0x57DA1BE8 = ~z~Hold on, girl!
+
+0x57EFB71C = ~z~well, since I joined you fellers.
+
+0x62A0F879 = ~z~If he can do it, anyone can.
+
+0x64A139FB = ~z~Over there, they're in a skiff!
+
+0x70C19960 = ~z~Fall back! Fall back!
+
+0x70CC1637 = ~z~More of them there, in the water!
+
+0x71D815C7 = ~z~Move, John. I'll take here.
+
+0x74AB4BB7 = ~z~
+
+0x79EEC8A4 = ~z~Arthur!
+
+0x79FCA730 = ~z~I just saw Bill Williamson at a party at the...
+
+0x81C14BA5 = ~z~Now, we go back...
+
+0x85A3777A = ~z~Hold on!
+
+0x86FB3A5D = ~z~Is it just you and me?
+
+0x87B8940D = ~z~Any more casualties?
+
+0x89A2FB45 = ~z~Colm O'Driscoll...
+
+0x97DE003F = ~z~She is driven by powerful forces I scarcely understand.
+
+0x139D12AA = ~z~Cowards!
+
+0x155A3775 = ~z~Stay there.
+
+0x187C6542 = ~z~Arthur!
+
+0x226CF70A = ~z~Few more like her...
+
+0x228FC787 = ~z~Busy! How's yours?
+
+0x279CFE58 = ~z~except for Kieran here.
+
+0x280C7B6E = ~z~We fight to the end.
+
+0x303D2756 = ~z~
+
+0x342BD054 = ~z~Mr. Pearson!
+
+0x404D05D2 = ~z~Follow me.
+
+0x429C8F15 = ~z~We'll break them!
+
+0x439D0A2F = ~z~Arthur... go on.
+
+0x440CB733 = ~z~We okay?
+
+0x447B5CFD = ~z~Get them!
+
+0x463D7477 = ~z~We need to get this place cleaned up.
+
+0x483CC3B1 = ~z~You get any leads?
+
+0x493ACA53 = ~z~Back to the house, come on!
+
+0x524D53B4 = ~z~I think so...
+
+0x565F7E8F = ~z~Sounds good.
+
+0x642C1A2C = ~z~Okay.
+
+0x655AF615 = ~z~Very funny.
+
+0x655F32BE = ~z~So can I, Arthur...
+
+0x666E690E = ~z~You failed here! Run!
+
+0x704C9EB1 = ~z~I think...
+
+0x788A7BF9 = ~z~We need you in the house, Mrs. Adler.
+
+0x794A9ADC = ~z~Charles!
+
+0x848E160E = ~z~Whatever you say.
+
+0x863CDF0E = ~z~Get them doors barricaded!
+
+0x866CEF3A = ~z~
+
+0x896F451D = ~z~I think we can hit it.
+
+0x932DD2DA = ~z~to make the two of you get along better.
+
+0x984A7314 = ~z~They're over here. On this side.
+
+0x1442DAB6 = ~z~we could take over the whole world.
+
+0x2422FED6 = ~z~Colm O'Damn Driscoll!
+
+0x3061E7C5 = ~z~I think my days in polite society are over.
+
+0x3247FD63 = ~z~That's Mrs. Adler.
+
+0x4423F4B9 = ~z~This ain't good, Arthur.
+
+0x4608BE45 = ~z~Yes, perhaps.
+
+0x6146CF51 = ~z~~sl:0.0:0.7~Pa!~sl:2.0:0.7:1~Pa!
+
+0x6825D9A5 = ~z~You'll die in this bayou!
+
+0x7043D86A = ~z~You're good, Dutch. I'll cover this.
+
+0x7308ED4E = ~z~Been quite a journey since I...
+
+0x9838E2B0 = ~z~I ain't never robbed in a city before.
+
+0x40302CC8 = ~z~Not Micah?
+
+0x47092A16 = ~z~Arthur... we need your gun down there.
+
+0x61030C09 = ~z~Damn, damn.
+
+0x82797CD5 = ~z~I'm gonna take this. They need you back there.
+
+0x87157F08 = ~z~Wagon! Wagon!
+
+0x90051E63 = ~z~Jack was out here.
+
+0x395073BD = ~z~Charles, come on!
+
+0x405272A1 = ~z~Now everyone, I got this...
+
+0x544453E8 = ~z~What is that?
+
+0x613912F6 = ~z~That's what love has done to her I guess.
+
+0x794524BD = ~z~Now...
+
+0x946819AD = ~z~Look! Wagon!
+
+0x3207667A = ~z~About the same!
+
+0x3398592D = ~z~Good...
+
+0x45712930 = ~z~Get those doors barricaded, quick.
+
+0x53162486 = ~z~S-Shit.
+
+0x56509801 = ~z~We need to get moving.
+
+0x72661133 = ~z~Always.
+
+0x78845908 = ~z~That man can really hate.
+
+0xA0222C77 = ~z~Sadie! Sadie, I'm coming!
+
+0xA33AA1E6 = ~z~How you doing, Mrs. Adler?
+
+0xAC6B5D72 = ~z~Let's try and keep it there.
+
+0xAD554FC1 = ~z~Charles, I'll take this side. Yeah.
+
+0xAE77884D = ~z~What the hell have they done to him?
+
+0xAFC4668C = ~z~Well...
+
+0xB1AC16A2 = ~z~Yeah, I think so.
+
+0xB2F0B71E = ~z~Get inside, fast. Come on, quick!
+
+0xB2509B33 = ~z~Goddamn crap...
+
+0xB7557B9C = ~z~Yes, sir.
+
+0xB62970EE = ~z~Just Kieran... at the moment.
+
+0xB6239489 = ~z~We do.
+
+0xBE0D831E = ~z~Yeah, it seems so...
+
+0xBE36EE68 = ~z~go.
+
+0xBF221711 = ~z~
+
+0xC0A12CA0 = ~z~It's Kieran!
+
+0xC4FFB679 = ~z~Now I wish that there was something I could do...
+
+0xC8AC4060 = ~z~~sl:4.0:1.4:1~And miss all this?
+
+0xC55FDB42 = ~z~He saved my life and I could not save his.
+
+0xC1580C8A = ~z~Look out!
+
+0xCABC3DB7 = ~z~Sadie?
+
+0xCADC8113 = ~z~You will, son.
+
+0xCB0EEA36 = ~z~Bastards!
+
+0xCBA931FC = ~z~They're all over us!
+
+0xCC911F71 = ~z~Back toward the house, alright? They need us!
+
+0xCDD67FE1 = ~z~There's so many of them!
+
+0xCE5C86F7 = ~z~Shall we?
+
+0xCE5DB588 = ~z~Cover me!
+
+0xCE424661 = ~z~Shut up, Marston. You see what happened to him?
+
+0xD0974C88 = ~z~O'Driscoll boys are coming!
+
+0xD2F49147 = ~z~and our opportunities.
+
+0xD58A71D7 = ~z~What's happening out here? Everyone okay?
+
+0xD76A16D2 = ~z~Charles, help me with the body.
+
+0xD55730FD = ~z~They need us at the house, Morgan!
+
+0xD581294D = ~z~
+
+0xD5149299 = ~z~The bookcase, son. Get the door blocked!
+
+0xDA84A707 = ~z~Charles, you take the side door there...
+
+0xDADEBCC0 = ~z~My Lord above.
+
+0xDBA1500F = ~z~She's still out there!
+
+0xDC252288 = ~z~Yep.
+
+0xDD17E40C = ~z~Damn Kieran. Should never have taken that O'Driscoll in.
+
+0xDD3225BE = ~z~You will.
+
+0xDE45DEC3 = ~z~Arthur, you take the windows in the back... go.
+
+0xDF6EEDFD = ~z~someplace near, but...
+
+0xDF391044 = ~z~Fine by me.
+
+0xDFEDF325 = ~z~You know so, Arthur Morgan...
+
+0xE6C681D7 = ~z~Don't be a hero! Come back.
+
+0xE7D6CDF8 = ~z~What's happening?
+
+0xE8B25867 = ~z~And now you and Dutch have joined high society?
+
+0xE8FA43F2 = ~z~Arthur, you take the windows in the back...
+
+0xE777CB9A = ~z~Kieran, that poor kid we spared from O'Driscoll's gang up in the mountains is dead.
+
+0xE972B555 = ~z~I got you, go find her!
+
+0xE8107F28 = ~z~Why didn't you get inside?
+
+0xE54635EA = ~z~I'm not sure I get you.
+
+0xE2716116 = ~z~Run! Run!
+
+0xEABF3D7C = ~z~Of course.
+
+0xEAD6FDEF = ~z~Arthur. Mrs. Adler?
+
+0xECB49693 = ~z~
+
+0xEDCF8ABE = ~z~not too near.
+
+0xF0E3E012 = ~z~O'Driscolls. Get upstairs, it'll be safer up there.
+
+0xF0F02C27 = ~z~Arthur, they need help, get down there.
+
+0xF3D4F290 = ~z~Oh no they don't!
+
+0xF12B76D1 = ~z~Arthur now... go on.
+
+0xF75FE0BD = ~z~get these windows covered quickly...
+
+0xF95D6F65 = ~z~They chopped his head off, and tried to kill the lot of us.
+
+0xF654CF0C = ~z~
+
+0xF7931A83 = ~z~make him change.
+
+0xF3989396 = ~z~I say Lenny.
+
+0xF3998007 = ~z~Okay.
+
+0xF6570753 = ~z~We weren't ready!
+
+0xFB29D8C3 = ~z~Get out there, she's in trouble!
+
+0xFC07AC59 = ~z~Arthur! Come on, we're covering!
+
+0xFC5AE52C = ~z~Don't think, just fight. It's all we can do.
+
+0xFC8C8270 = ~z~This what you came for?
+
+0xFC41F0D1 = ~z~Don't let anyone back through that door!
+
+0xFE87D34E = ~z~There's more of them out there. I keep seeing movement!
+

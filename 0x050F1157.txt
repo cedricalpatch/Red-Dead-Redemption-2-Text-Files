@@ -1,0 +1,1104 @@
+0x008A65FB = ~z~You got anything else?
+
+0x01AA2877 = ~z~I cannot believe the pressure this woman puts me under.
+
+0x01F3865A = ~z~wonderful.
+
+0x02099727 = ~z~I suppose I'm kind of an adventurer.
+
+0x02A448C7 = ~z~Here...
+
+0x030441AB = ~z~Take your time and bring me nothing...
+
+0x0428B2EF = ~z~Wise words.
+
+0x0453F888 = ~z~Oh my God, what are you doing?
+
+0x051EBFBD = ~z~Quite a particular list...
+
+0x054FEBBE = ~z~Oh yes.
+
+0x058FA5EF = ~z~Also need...
+
+0x05AD8E59 = ~z~Okay.
+
+0x06644912 = ~z~Hello, Algernon.
+
+0x06791CCA = ~z~Tacitus Kilgore.
+
+0x06FC0AA3 = ~z~Hello, Algernon.
+
+0x06FD3AD8 = ~z~I think it best for both of us if I keep the gun.
+
+0x0703BF41 = ~z~Think it's best for both of us if I hold onto the gun.
+
+0x07A9EBD7 = ~z~Oh, there you are.
+
+0x084610A7 = ~z~I nearly ate the cat.
+
+0x08BEC2B7 = ~z~I'm so ashamed, James.
+
+0x08F05864 = ~z~at least a hundred dollars.
+
+0x0C2EFACC = ~z~I do... I'm just so dreadfully weak willed.
+
+0x0C6EDD1D = ~z~Tacitus...
+
+0x0C299776 = ~z~Yes, can I help you?
+
+0x0CCF467C = ~z~Calm down
+
+0x0D116358 = ~z~I guess we never made it.
+
+0x0D214049 = ~z~and after that...
+
+0x0E984F86 = ~z~Think of me fondly.
+
+0x0F3B64FA = ~z~Well, ah, I don't, well...
+
+0x0F8D9683 = ~z~you owe me for these.
+
+0x0F9849CE = ~z~surely it shall.
+
+0x0FF7825D = ~z~Oh, and James...
+
+0x1A11E101 = ~z~No!
+
+0x1AB671EF = ~z~What is it that you need?
+
+0x1B459B71 = ~z~it's not exactly me.
+
+0x1CB1EA9D = ~z~I'm not sure what to say.
+
+0x1D70F00A = ~z~Yes, can I help you?
+
+0x1D353A85 = ~z~You should've seen me yesterday...
+
+0x1D436091 = ~z~I don't like to impose.
+
+0x1DF37166 = ~z~Okay.
+
+0x1E6CBF08 = ~z~It's the Contessa, James.
+
+0x1E8F6D30 = ~z~too old to live without it.
+
+0x2A08344E = ~z~No.
+
+0x2A1C1ABD = ~z~she's...
+
+0x2B1BEA8F = ~z~Oh, no, no, no, no, no...
+
+0x2C5B8B0C = ~z~Think of me fondly.
+
+0x2C7E8E7C = ~z~Me, no, I'm fine.
+
+0x2CC35631 = ~z~Oh hello, stranger.
+
+0x2CD8100B = ~z~Dreadfully so...
+
+0x2CE13645 = ~z~I got you those orchids.
+
+0x2CFD1059 = ~z~I got you the plumes and the orchids that you asked for.
+
+0x2D60C287 = ~z~she'll be...
+
+0x2D247F6B = ~z~The Baroness, of course.
+
+0x2DB70A67 = ~z~That's quite a weapon.
+
+0x2E6F8E18 = ~z~Here's your payment for the orchids.
+
+0x2E402219 = ~z~She married a postman.
+
+0x2E514188 = ~z~here we go.
+
+0x2EFADE10 = ~z~This is calm.
+
+0x2F8CE148 = ~z~I love her.
+
+0x2F802585 = ~z~I'm so sad.
+
+0x3A422A03 = ~z~Anything else you need?
+
+0x3C7C2B4D = ~z~Goodbye, James.
+
+0x3D3DC100 = ~z~I'm...
+
+0x3DB65BAA = ~z~Okay.
+
+0x3E1F2D77 = ~z~Now, I'll have to go to Baltimore to see my awful sister...
+
+0x3F3AB4D4 = ~z~How much do I get?
+
+0x3F15B486 = ~z~the best ones, they always are.
+
+0x3F216608 = ~z~The Contessa, well, she's a terrible hag, but...
+
+0x3FFE1453 = ~z~an artist?
+
+0x4A8C91C3 = ~z~Tacitus...
+
+0x4AAD5AFD = ~z~I said this man has the eye of an artist.
+
+0x4ABF9493 = ~z~Good day, sir... oh, Mr. Milton...
+
+0x4B3DB14A = ~z~fifteen assorted orchids.
+
+0x4B1653EB = ~z~Thank God you're here...
+
+0x4C0DD3BD = ~z~If you keep paying...
+
+0x4CFF7EE4 = ~z~No, you're right...
+
+0x4E4BB0EE = ~z~Are you a gentleman of leisure, an aesthete...
+
+0x4E9BFD75 = ~z~It's too fine for a...
+
+0x4E796283 = ~z~I'm sorry.
+
+0x4FD80B7F = ~z~It's wonderful.
+
+0x5A3D2BDD = ~z~Well...
+
+0x5A4C15B5 = ~z~I never can.
+
+0x5A65B951 = ~z~Spend it on love...
+
+0x5AD2324E = ~z~how can I forget?
+
+0x5AF16C41 = ~z~Anything else you need?
+
+0x5B7EFCA0 = ~z~No... he's better than an artist...
+
+0x5C0BC5BE = ~z~Yeah, as I always say.
+
+0x5C6AF694 = ~z~insatiable!
+
+0x5DD13C9C = ~z~it's the old families...
+
+0x5E59A882 = ~z~You take care, Algernon.
+
+0x5EA0017E = ~z~She's an old friend, the Duchess.
+
+0x5EA1B392 = ~z~All my life...
+
+0x5F29F0A8 = ~z~Goodbye, Tacitus.
+
+0x5FC670C5 = ~z~not to Lake Garda, to smell the gardenias.
+
+0x6A93BC7E = ~z~Don't hurt me!
+
+0x6A783A75 = ~z~exotic.
+
+0x6AAA68CB = ~z~I'm afraid the whale bone might stick in.
+
+0x6B719A60 = ~z~alligator eggs and orchids.
+
+0x6B871D90 = ~z~a connoisseur, like you.
+
+0x6C0BCF7A = ~z~I got you the things for the girl in New York.
+
+0x6C0DDB18 = ~z~You got anything else?
+
+0x6C5E1AD9 = ~z~Italy is just so over run with Americans just now...
+
+0x6CA93A6F = ~z~Oh, and Tacitus...
+
+0x6D78DBEB = ~z~it's the last of the old guard.
+
+0x6D85DE15 = ~z~Here, here's the list.
+
+0x6D3151C9 = ~z~It's quite a bit...
+
+0x6D5450F7 = ~z~in flowers, in beauty.
+
+0x6DC9583C = ~z~you used to pay him to go find some items for you.
+
+0x6E331A24 = ~z~I've been eating for days.
+
+0x6FAC5E7E = ~z~Charmed.
+
+0x7A2F1EF2 = ~z~Take care of yourself, Algernon.
+
+0x7A6124D6 = ~z~too old to live without it.
+
+0x7BB07A6A = ~z~orchids.
+
+0x7BB179A6 = ~z~how can I forget?
+
+0x7CAC942F = ~z~Thank God you came, James. I was panicking.
+
+0x7D01CBDC = ~z~Oh, hello stranger...
+
+0x7D5FF226 = ~z~This?
+
+0x7D883E8D = ~z~focused on...
+
+0x7E7CAE4C = ~z~Well...
+
+0x7E447F85 = ~z~it's not exactly me.
+
+0x7E872EE9 = ~z~Not Belgian?
+
+0x7E2661D1 = ~z~Very...
+
+0x7EC80005 = ~z~May I help you?
+
+0x7ED30B50 = ~z~Oh, of course, too ephemeral...
+
+0x7F2EFD83 = ~z~Well...
+
+0x8A08A1BB = ~z~But you know, I'm not really a nymph kind of man.
+
+0x8A3EE656 = ~z~Hello, Algernon.
+
+0x8A3146BA = ~z~Oh, I'm sorry.
+
+0x8AD3CAD2 = ~z~Good day, sir.
+
+0x8B9682E5 = ~z~Good day, sir... oh, Mr. Kilgore...
+
+0x8CB94986 = ~z~Wise words.
+
+0x8CC34AD9 = ~z~You do?
+
+0x8D199958 = ~z~I got the things for the girl in New York.
+
+0x8DB97DDF = ~z~it's the chance to make these things.
+
+0x8EED2A2C = ~z~but the Italians make the coarsest of marble.
+
+0x8F031454 = ~z~It sounds...
+
+0x8F2BE1D4 = ~z~It's about duality.
+
+0x8F5B85AB = ~z~happy.
+
+0x8F86548A = ~z~such is life.
+
+0x8FA6660C = ~z~haven't seen him in years.
+
+0x9A2FA815 = ~z~Sure.
+
+0x9B37E7AB = ~z~I'm too old for love, James...
+
+0x9B2712DB = ~z~He's moved on now, I'm afraid.
+
+0x9BE41F94 = ~z~Charmed.
+
+0x9BE666C8 = ~z~What?
+
+0x9C0DB9EC = ~z~That strumpet, I don't care about her...
+
+0x9C8BD3E5 = ~z~Let's see...
+
+0x9C9DB0A1 = ~z~It sounds...
+
+0x9CCBBCA0 = ~z~These are very rare.
+
+0x9CF449BE = ~z~But you know, I'm not really a nymph kind of man.
+
+0x9D4946E4 = ~z~How can I help you?
+
+0x9DA9C799 = ~z~Algernon Wasp, purveyor of the exotic and the exquisite.
+
+0x9E8CED2D = ~z~Here's your payment for the orchids.
+
+0x9E9FFF5C = ~z~don't you find?
+
+0x9F2C078B = ~z~It's not for people like us, James.
+
+0x9F99BBC4 = ~z~Well, better seven years late than never I suppose.
+
+0x9F38808D = ~z~It's a displayer cabinet of curios...
+
+0x10F1C7EE = ~z~I can keep looking.
+
+0x11B10ABA = ~z~Get away from me, you lunatic!
+
+0x12AD88A1 = ~z~But I've imposed too much already...
+
+0x12EC2A5F = ~z~is beneath me.
+
+0x15C82C8B = ~z~Well...
+
+0x19C04358 = ~z~At that party.
+
+0x19E932F5 = ~z~I'm an old friend of Tacitus Kilgore.
+
+0x21DC5160 = ~z~I also make corsets. Would you like a corset?
+
+0x21E345F5 = ~z~It's the aristocracy...
+
+0x22DB5FAE = ~z~I fear china will always elude them.
+
+0x23B8C86C = ~z~love or not...
+
+0x23E04A05 = ~z~Yes, can I help you?
+
+0x24F42D2E = ~z~and I'm ashamed of the millinery.
+
+0x25CB2CB4 = ~z~I'll make you something.
+
+0x28A68679 = ~z~Mr. Kilgore.
+
+0x29A3F86E = ~z~Thank God you came, James...
+
+0x29D4C38D = ~z~What do you want, you lunatic?
+
+0x30A01CE2 = ~z~I'll try.
+
+0x33A2F4ED = ~z~more gothic.
+
+0x42C2088A = ~z~the times we shall spend...
+
+0x46DAB2D7 = ~z~Oh, my Lord...
+
+0x46E59C82 = ~z~I don't know.
+
+0x47ACD2D7 = ~z~So, I'm making her a series of centerpieces...
+
+0x48BA5392 = ~z~but, well...
+
+0x50AC232A = ~z~it's the old families...
+
+0x51DC889E = ~z~Okay...
+
+0x51E826D6 = ~z~All my life...
+
+0x51EA22FA = ~z~Jim Milton.
+
+0x53F09E30 = ~z~the times we shall spend...
+
+0x55CDDDF0 = ~z~Why, what happened?
+
+0x55F751F8 = ~z~here's the money for the orchids...
+
+0x56C6485B = ~z~good ones, obviously.
+
+0x56D96B09 = ~z~so much weight.
+
+0x56FF106B = ~z~Oh, I wanted to say no James, I really did...
+
+0x57ADBD02 = ~z~I always wear one.
+
+0x57FA8C83 = ~z~Tacitus, I...
+
+0x59D4425F = ~z~Hey.
+
+0x61EAFF77 = ~z~Which woman?
+
+0x62FCADBE = ~z~A man of a rare distinction.
+
+0x63B88316 = ~z~Ah, well.
+
+0x63FD9107 = ~z~Then give me the gun!
+
+0x64A3869D = ~z~It's the worry, James, it's...
+
+0x65B24FEA = ~z~Money...
+
+0x67A7CF6D = ~z~Calm down, Algernon.
+
+0x70D2A5E3 = ~z~Gone to seed a little now, but in her youth...
+
+0x70D21E5D = ~z~I'll keep looking.
+
+0x70E85583 = ~z~Well...
+
+0x71CB736D = ~z~Sure.
+
+0x72A2D528 = ~z~Stop that immediately.
+
+0x74BAD13A = ~z~You're a wonderful fellow, James.
+
+0x74FB18F2 = ~z~These are Tahitian pearls.
+
+0x76F53007 = ~z~I find the whole thing a little gaudy.
+
+0x79B0634F = ~z~I don't know what you're trying to do, but I'm not coming out.
+
+0x81D4F75C = ~z~it sounds...
+
+0x82BA07B7 = ~z~He's moved on now I'm afraid.
+
+0x86B974C1 = ~z~Oh my Lord!
+
+0x88C542C6 = ~z~Thank you.
+
+0x88D3C0A3 = ~z~James...
+
+0x90AF03D2 = ~z~I do... I'm just so dreadfully weak willed.
+
+0x90E0A404 = ~z~Tacitus...
+
+0x98ADD67C = ~z~Still, now I will finish her creation.
+
+0x98BC117C = ~z~For me?
+
+0x99BBFC83 = ~z~kill me.
+
+0x99D6C153 = ~z~I mean, quite frankly, the baroque is an abomination.
+
+0x99D629FA = ~z~Divine.
+
+0x99E936CE = ~z~You pay well...
+
+0x102C65FC = ~z~You're good... oh, you're very good.
+
+0x148C8E9F = ~z~it'd be wasted on me, Algernon.
+
+0x148EEC9C = ~z~I'm all about duality.
+
+0x163E22CC = ~z~Divine.
+
+0x194F7838 = ~z~but a... a postman?
+
+0x196CA411 = ~z~I'm, uh... not seeing customers right now.
+
+0x203D4381 = ~z~in flowers, in beauty.
+
+0x215C283E = ~z~I made it for you.
+
+0x236B8D88 = ~z~My name's Jim Milton...
+
+0x286B9455 = ~z~and remember, James.
+
+0x348B2FC7 = ~z~I've got those orchids for you, if you still want 'em.
+
+0x368C4F86 = ~z~I never can.
+
+0x376F08D5 = ~z~for certain objects needed for my art.
+
+0x389F2D87 = ~z~Oh, hello stranger....
+
+0x414F6824 = ~z~I'm just... it's...
+
+0x419CA0A3 = ~z~Honestly, I'm fine.
+
+0x452E4FED = ~z~She left me for a postman.
+
+0x469DEFA9 = ~z~I'll see what I can do.
+
+0x486CD672 = ~z~and a postman...
+
+0x491E47BB = ~z~more orchids.
+
+0x492EC8BC = ~z~I'm fine with cash.
+
+0x492FCFB6 = ~z~I've gained...
+
+0x521C5964 = ~z~Well, I trust.
+
+0x523AEA0E = ~z~she's a countess...
+
+0x564DE955 = ~z~Yeah, it's a real problem.
+
+0x572CE3D8 = ~z~There is one thing...
+
+0x600EA502 = ~z~Okay...
+
+0x644B2B03 = ~z~but somehow...
+
+0x661EF247 = ~z~for that ghastly Baroness...
+
+0x667F3CED = ~z~I warn you I am very good friends with the chief of police.
+
+0x679AFF46 = ~z~I'm too old for love, Tacitus...
+
+0x704E1277 = ~z~kind of an adventurer.
+
+0x725B7105 = ~z~I import them from Brussels.
+
+0x727B209B = ~z~nothing but the best.
+
+0x739C75EB = ~z~Thank you, Tacitus...
+
+0x769C4D75 = ~z~it's...
+
+0x815B116C = ~z~it'll be very worth your while.
+
+0x821A17A6 = ~z~No, I don't think so.
+
+0x828F14F8 = ~z~the whale bone might stick in.
+
+0x856F72A3 = ~z~in the pursuit of art.
+
+0x869CBC35 = ~z~Tacitus...
+
+0x872A5788 = ~z~Please just...
+
+0x882F14E3 = ~z~Thi...
+
+0x884F70DB = ~z~it would be wasted on me, Algernon.
+
+0x895B95B3 = ~z~and it's easy enough work.
+
+0x901A3A2A = ~z~You do?
+
+0x972C3158 = ~z~I...
+
+0x977B3DAC = ~z~Thanks for the tea.
+
+0x998FB7A4 = ~z~Now...
+
+0x1026D5CD = ~z~It's a little something I'm making for the Baroness Von Buchwald.
+
+0x1112D885 = ~z~Oh, very demanding.
+
+0x1655C103 = ~z~they are philistines in that area...
+
+0x1778B695 = ~z~Hey.
+
+0x1972AF90 = ~z~Yes, can I help you?
+
+0x2674CEBC = ~z~her father lends money, it's so vulgar.
+
+0x2794C579 = ~z~Oh, Tacitus.
+
+0x3012FA1D = ~z~Now, why are you here exactly?
+
+0x3229A671 = ~z~And it's the worst kind of Americans...
+
+0x3621EE88 = ~z~I'm an old friend of Tacitus Kilgore...
+
+0x4000AEFA = ~z~I-I have a gun.
+
+0x4250CB52 = ~z~I don't need them anymore.
+
+0x4862A3D8 = ~z~an artist?
+
+0x5861F179 = Greet
+
+0x6265E6E3 = Find all the items Algernon requested and bring them to him
+
+0x6356F5A6 = ~z~Tahiti?
+
+0x6439FD9F = ~z~Oh... Mr. Milton.
+
+0x6495D57A = ~z~The idiots in this town all want Italian nymphs...
+
+0x7541D1DA = ~z~Help me!
+
+0x7591E286 = ~z~Well...
+
+0x7611EF29 = ~z~by the lake in Lombardy.
+
+0x7887B793 = ~z~It's the Contessa...
+
+0x8000BDBF = ~z~thank you, God.
+
+0x8003FCB1 = ~z~He's moved on now I'm afraid.
+
+0x8385B963 = ~z~I got you those orchids.
+
+0x8797A381 = ~z~Not Belgian?
+
+0x8884BB9D = ~z~Pretend to like it, I couldn't have another...
+
+0x9134B5DB = ~z~I ride a lot of horses.
+
+0x9264BF97 = ~z~right now I have a couple of commissions.
+
+0x9562F149 = ~z~she's married another.
+
+0x16259C2F = ~z~No! Stop, please! The detailing is very fragile.
+
+0x17438FA5 = ~z~I hope so.
+
+0x19236DE9 = ~z~and remember, Tacitus.
+
+0x24090DAB = ~z~She's...
+
+0x26265F60 = ~z~Are you a gentleman of leisure, an aesthete...
+
+0x27060AC6 = ~z~Keep paying me and it's not an imposition.
+
+0x34206B3E = ~z~Here you go.
+
+0x34276A21 = ~z~Oh, damn her.
+
+0x37992CF1 = ~z~It's the Contessa.
+
+0x52050BCF = ~z~Well then... did you get those eggs?
+
+0x54004D22 = ~z~I was panicking...
+
+0x70276F05 = ~z~Well, I...
+
+0x73374A21 = ~z~One moment please... this is extremely delicate.
+
+0x73824C89 = ~z~For me?
+
+0x76396C90 = ~z~killing me.
+
+0x80069A03 = ~z~You're an adventurer...
+
+0x81161CFA = ~z~I need at least fifteen egret plumes...
+
+0x93349DCF = ~z~divine.
+
+0x271193C6 = ~z~he's a man of taste...
+
+0x315992C4 = ~z~But art will see me through, James...
+
+0x430287D7 = ~z~It's the aristocracy...
+
+0x604520C7 = ~z~man of my coarsness.
+
+0x744231B8 = ~z~It's not for people like us, Tacitus.
+
+0x766835DC = ~z~Calm down!
+
+0x2198259E = ~z~I'll make you something.
+
+0x2308882F = ~z~financiers, New Yorkers...
+
+0x2979886E = ~z~I'm fine with cash.
+
+0x7381195A = ~z~Life is extremely challenging at times.
+
+0x8798583C = ~z~Please just...
+
+0x17351630 = ~z~Herculean labors performed almost effortlessly...
+
+0x22424782 = ~z~Yeah...
+
+0x25598872 = ~z~She's insatiable...
+
+0x37605446 = ~z~At least try it on.
+
+0x48137144 = ~z~Honestly, I'm fine.
+
+0x58149716 = ~z~I hope so.
+
+0x58671825 = ~z~No, please!
+
+0x74670398 = ~z~I do...
+
+0x81838610 = ~z~I plan to declare my love like a god...
+
+0x86495316 = ~z~Why, what happened?
+
+0x91535904 = ~z~You know how she is?
+
+0x97797826 = ~z~kill me.
+
+0xA044070D = ~z~How much do I get?
+
+0xA0A1A837 = ~z~she'll be...
+
+0xA3A42C30 = ~z~I went forte and I should've gone molto adagio.
+
+0xA4AC0FD9 = ~z~No, sir, I was quite right.
+
+0xA4B0D817 = ~z~Thank you, Mr. Milton...
+
+0xA5C70FCB = ~z~Charmed.
+
+0xA6F4DDC3 = ~z~I suppose I'm...
+
+0xA9D088CB = ~z~You used to pay him to go find some items for you.
+
+0xA26DA74F = ~z~It's not the money...
+
+0xA68F4C43 = ~z~You used to pay him to go find some items for ya.
+
+0xA95BCA15 = Find all the items Algernon requested and bring them to him
+
+0xA292C825 = ~z~I'll see what I can do.
+
+0xA353DA19 = ~z~Now what is it you do, Mr. Milton?
+
+0xA354C91E = ~z~You saved my life.
+
+0xA395FD89 = ~z~Very demanding.
+
+0xA3435AD8 = ~z~And what is it you do, Mr. Kilgore?
+
+0xA4090B8E = ~z~And, what do you need?
+
+0xA99198C4 = ~z~oh, she was the most beautiful woman in all of Italy.
+
+0xA904963A = ~z~Well, better seven years late than never I suppose.
+
+0xA1778894 = ~z~Oh...
+
+0xA3597146 = ~z~It's wonderful.
+
+0xAA4BD668 = ~z~she's trade, she's common...
+
+0xAAB90005 = ~z~I have your hat.
+
+0xAAFCE24B = ~z~Jim Milton.
+
+0xAB5DCD09 = ~z~It sounds...
+
+0xAB5F6304 = ~z~Enchante.
+
+0xAB57FBD0 = ~z~She writes the most dreadful missives from Baden Baden.
+
+0xACA7DDD4 = ~z~Enjoy it.
+
+0xACADF351 = ~z~Well, I do pay exceptionally well...
+
+0xACECB666 = ~z~You used to pay him to go find some items for you.
+
+0xAD063A10 = ~z~I'm just a...
+
+0xAD2C4224 = ~z~Jim Milton.
+
+0xAD5F5ADB = ~z~killing me.
+
+0xADD400D0 = ~z~Thank God you came, Tacitus...
+
+0xADDD7688 = ~z~what do you need?
+
+0xAE9D0F91 = ~z~Huh?
+
+0xAE9EED13 = ~z~Oh, yes, yeah... as I always say.
+
+0xAE388B6C = ~z~I want you to kill me.
+
+0xAEB5A3F0 = ~z~Marvelous...
+
+0xAED4C48D = ~z~You're a wonderful fellow, Tacitus.
+
+0xAF8EA4B8 = ~z~Life is extremely challenging at times.
+
+0xAFB990C9 = ~z~Sure.
+
+0xB077E332 = ~z~you used to pay him to go find some items for ya.
+
+0xB3A92CF7 = ~z~bellissima.
+
+0xB4E56CCA = ~z~thought you hated New Yorkers?
+
+0xB4EBAD53 = ~z~they're just such vulgarians.
+
+0xB4F1F86F = Find all the items Algernon requested and bring them to him
+
+0xB5B39144 = ~z~Thank God you came, Tacitus. I was panicking.
+
+0xB6CF8110 = ~z~a cup of tea?
+
+0xB7FA533C = ~z~It's for a cabinet I'm making for a...
+
+0xB8C623E3 = ~z~Quite a gun.
+
+0xB23BE774 = ~z~Algernon Wasp, purveyor of the exotic and the exquisite.
+
+0xB35F47C6 = ~z~but somehow...
+
+0xB62BE2A5 = ~z~Oh, James.
+
+0xB69B99C2 = ~z~Tahiti?
+
+0xB70C3255 = ~z~I got the plumes and the orchids that you asked for.
+
+0xB83EBD52 = ~z~There... wonderful.
+
+0xB279AB74 = ~z~and I wasn't wrong.
+
+0xB553E9CC = ~z~He's moved on now I'm afraid.
+
+0xB770F366 = ~z~This is quite a lot...
+
+0xB6866F81 = ~z~Oh, yes.
+
+0xB39674D6 = ~z~you want something more tangible...
+
+0xB49524CE = ~z~nothing but the best.
+
+0xB51078D6 = ~z~Okay...
+
+0xB1821317 = ~z~Ah, here...
+
+0xB5320459 = ~z~a wanderer, a lost soul cast out from heaven.
+
+0xBA468342 = ~z~see what I can do.
+
+0xBACAB9C6 = ~z~Jim Milton.
+
+0xBB4D3C3B = ~z~A Neapolitan pearl, and even I would have...
+
+0xBB619CCB = ~z~it's never ending.
+
+0xBB862C36 = ~z~He's moved on now I'm afraid.
+
+0xBC83D90B = ~z~Well...
+
+0xBE0E96E6 = ~z~exceptionally well.
+
+0xBE6CF43F = ~z~love or not...
+
+0xBE34E435 = ~z~Oh yes.
+
+0xBEFB8B9C = ~z~now that is a land for the connoisseur.
+
+0xBF5F8E94 = ~z~I ride a lot of horses...
+
+0xBF24FE66 = ~z~It's the worry, Tacitus, it's...
+
+0xBFAAA47D = ~z~I was panicking...
+
+0xC1EC4815 = ~z~You did?
+
+0xC3B86878 = ~z~Oh, I wanted to say no Tacitus, I really did...
+
+0xC3CAB7A8 = ~z~I promised you I'd make something.
+
+0xC3ED49F6 = ~z~She's asked me to summer with her there next year...
+
+0xC3F20708 = ~z~Tacitus, how can I forget?
+
+0xC5AFF253 = ~z~What do you think of this hat?
+
+0xC7A7A3A4 = ~z~not to be trusted.
+
+0xC7F23C6F = ~z~Nearly, but...
+
+0xC8FACD99 = ~z~Take your time and bring me nothing...
+
+0xC11EE921 = ~z~Well then... did you get those eggs?
+
+0xC17FDF8C = ~z~ I'm an old friend of Tacitus Kilgore.
+
+0xC18C2DAB = ~z~But art will see me through, James...
+
+0xC45A89AD = ~z~you owe me for these.
+
+0xC62FBDB5 = ~z~I don't know.
+
+0xC81B9279 = ~z~Jim Milton.
+
+0xC88A9D66 = ~z~May I interest you in a hat, perhaps?
+
+0xC201FA55 = ~z~by the lake in Lombardy.
+
+0xC386A102 = ~z~Sure.
+
+0xC5208EC5 = ~z~on amore.
+
+0xC8141C6D = ~z~Enchante.
+
+0xC9234ECA = ~z~I'll try.
+
+0xC175973C = ~z~Yes, of course you are.
+
+0xC849540E = ~z~The silly old thing has a penchant for lizards.
+
+0xC8777436 = ~z~wonderfully spoilt little girl on Fifth Avenue.
+
+0xCA1E27AD = ~z~Sure.
+
+0xCA3840FB = ~z~I guess we never made it.
+
+0xCAB83B78 = ~z~If you keep paying...
+
+0xCC5BBEC3 = ~z~Oh, keep paying me and it's not an imposition.
+
+0xCCBCB36A = ~z~Youth, eternally preserved in marble is more their specialty.
+
+0xCDAF1DD2 = ~z~One moment, please...
+
+0xCE4B817E = ~z~Here's your money for the eggs and the flowers.
+
+0xCE397C76 = ~z~very exotic.
+
+0xCE44471B = ~z~rejection, not... now.
+
+0xCF2E2C01 = ~z~Belgium...
+
+0xCFBA7C01 = ~z~I'm not a customer...
+
+0xCFEF8BB0 = ~z~Wise words.
+
+0xD02B2072 = ~z~so much weight.
+
+0xD0845769 = Find all the items Algernon requested and bring them to him
+
+0xD08FA043 = ~z~Well, better seven years late than never I suppose.
+
+0xD1EBD0AA = ~z~sure what to tell ya.
+
+0xD4F08665 = ~z~not seeing customers right now.
+
+0xD5EEDBF0 = ~z~But art will see me through, Tacitus...
+
+0xD9A118C9 = ~z~Please?
+
+0xD9AD64B0 = ~z~I'll see what I can do.
+
+0xD9E83612 = ~z~Charmed.
+
+0xD20D6D4D = ~z~No.
+
+0xD49A2DB8 = ~z~on beauty...
+
+0xD93A34E8 = ~z~I am eternally yours.
+
+0xD152B27A = ~z~Uhh, no... I don't think so.
+
+0xD435ECA8 = ~z~The Duchess of Sorrento will be most happy with you.
+
+0xD531F0E4 = ~z~That's what I murmured to myself...
+
+0xD4288BA0 = ~z~I...
+
+0xD4872A06 = ~z~Oh, money, dear boy...
+
+0xD5445BDE = ~z~Thanks for the tea.
+
+0xD5972E36 = ~z~James, I need more...
+
+0xD6930E2D = ~z~it's the chance to make these things.
+
+0xD227666A = ~z~for the Contessa Di Bellagio's new palazzo on Lake Garda.
+
+0xD8391765 = ~z~Herculean labors performed almost effortlessly...
+
+0xDAC25B90 = ~z~Well...
+
+0xDB781A37 = ~z~I do need some more orchids...
+
+0xDBDBE6B6 = ~z~Nearly, but...
+
+0xDC6EE370 = ~z~Ah, here...
+
+0xDD0A4E65 = ~z~it is French.
+
+0xDD85E796 = ~z~What?
+
+0xDDB24A19 = ~z~Here's a list.
+
+0xDF3F82BF = ~z~how can I forget?
+
+0xE013250D = ~z~As you see...
+
+0xE0528649 = ~z~Algernon, I whispered to myself...
+
+0xE1AC4004 = ~z~I'm an old friend of Tacitus Kilgore...
+
+0xE2E5C5E7 = ~z~This is calm.
+
+0xE2F655C1 = ~z~I met you, remember?
+
+0xE5C8BC3C = ~z~Hey.
+
+0xE6A07D53 = ~z~surely it shall.
+
+0xE6E4896C = ~z~Here...
+
+0xE8D102F7 = ~z~Okay...
+
+0xE33D4772 = ~z~I don't give a fig for money.
+
+0xE56B915B = ~z~I'm sorry, it's cash, I prefer something less vulgar, but...
+
+0xE59D30C1 = ~z~It's too fine, for a man of my... coarseness.
+
+0xE61F66E1 = ~z~Oh... there you are...
+
+0xE75B8517 = ~z~Okay.
+
+0xE98B3A09 = ~z~A man of a rare distinction.
+
+0xE341F78A = ~z~Don't worry about it.
+
+0xE5682E1F = ~z~thought you hated New Yorkers?
+
+0xE3227317 = ~z~I'm not sure...
+
+0xEA2CE8AA = ~z~Here, be careful with the china, sir...
+
+0xEB219BDD = ~z~I mean if it was a prince, I could have coped with it...
+
+0xEBBD7243 = ~z~Well...
+
+0xEC2A5AC8 = ~z~There...
+
+0xEC2EDA8D = ~z~it's the last of the old guard.
+
+0xEC6A9558 = ~z~I'm all about duality.
+
+0xED635BC2 = ~z~It's the Contessa, Tacitus.
+
+0xEDB8BEB8 = ~z~fairly rare ones, quite a few.
+
+0xEDB40A62 = ~z~Have you been?
+
+0xEDC0EEF2 = ~z~Hm, well...
+
+0xEF21C18A = ~z~You pay well...
+
+0xEF75040D = ~z~Which woman?
+
+0xEFB3BBEB = ~z~I'm...
+
+0xEFC314AF = ~z~I'm an old friend of Tacitus Kilgore.
+
+0xEFCB451D = ~z~No...
+
+0xF1B7FD64 = ~z~I don't know.
+
+0xF2BDF1CC = ~z~How about a nymph?
+
+0xF2C1D564 = ~z~Are you out of your mind?
+
+0xF2E16A46 = ~z~Sure.
+
+0xF5E21662 = ~z~too old to live without it.
+
+0xF6BA64E0 = ~z~Oh, it's the Contessa... she's insatiable, insatiable.
+
+0xF55A1BEE = ~z~I'm so ashamed, Tacitus.
+
+0xF55F4FA5 = ~z~it's all wrong.
+
+0xF84D73A2 = ~z~Tacitus, I need more...
+
+0xF96D53E1 = ~z~It's not the money...
+
+0xF98B7332 = ~z~She says such cruel things.
+
+0xF172E3DD = ~z~Here, here, take this money.
+
+0xF916F329 = ~z~I love her.
+
+0xF3491C12 = ~z~but once again I will make it worth your troubles.
+
+0xF9339F45 = ~z~Don't worry about it, jeez...
+
+0xF15308B1 = ~z~and next I think we'll work on this.
+
+0xF7726649 = ~z~Calm down, Algernon.
+
+0xFA4516FF = Stranger
+
+0xFAD7DCA2 = ~z~The Contessa, well, she's a terrible hag, but...
+
+0xFB71F957 = ~z~this is extremely delicate.
+
+0xFBB1BDE7 = ~z~This should set you right.
+
+0xFBFB0285 = Find all the items Algernon requested and bring them to him
+
+0xFCD63F46 = ~z~the shame of it.
+
+0xFDA9E724 = ~z~Thank you.
+
+0xFDD7C153 = ~z~Quite astonishing.
+
+0xFE34E35C = ~z~in the pursuit of art.
+
+0xFE55FEED = ~z~Well, better seven years late than never I suppose.
+
+0xFF032F5B = ~z~what do you need?
+
+0xFF5D6201 = ~z~it's easy enough work.
+
+0xFFC3B4B0 = ~z~How are you?
+
+0xFFD2C1C4 = ~z~Yeah, it's a real problem.
+

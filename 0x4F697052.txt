@@ -1,0 +1,18 @@
+0x05FD49F8 = Black Belle was killed.
+
+0x0DCA4190 = Change Pose
+
+0x2D6C6AF6 = Deal with the ~e~Bounty Hunters~s~
+
+0x82E8F7D4 = Detonate
+
+0x94E706B5 = Black Belle
+
+0x217D8EC7 = Take a closeup photo of ~o~Black Belle~s~
+
+0x5451BFB2 = Return to ~o~Black Belle~s~
+
+0xA3E9144F = Black Belle was abandoned.
+
+0xA2676949 = Plunger
+

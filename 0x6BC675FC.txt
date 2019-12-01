@@ -1,0 +1,1038 @@
+0x001EAE7D = ~z~Hey!
+
+0x0028561E = ~z~It's an odd thing, isn't it? ~rp~We'll take two hundred dollars from a sheriff, ~rp~who might be crooked himself, to go get a bounty...
+
+0x0132EA88 = ~z~Sure did...
+
+0x01841C03 = ~z~I think so...
+
+0x02399B6A = ~z~This is a good town now!
+
+0x023A69BC = ~z~Ramon Cortez, you better be here.
+
+0x029186F9 = ~z~The Del Lobos will not forgive this!
+
+0x031A32B4 = ~z~Good for you.~rp~ Did you make it out of straw bales?
+
+0x03A8093F = ~z~This is my show, John Marston.
+
+0x03EA1070 = ~z~Damn you, woman! Damn you.
+
+0x04139160 = ~z~~sl:0.0:2.5~doesn't know a precut home from an outhouse,~sl:0.1:2.0:1~and I'm gonna rob him blind.”
+
+0x04A4D557 = ~z~coming in here buying pre-cut homes?
+
+0x0537D8B6 = ~z~~sl:0.9~Thinking about it... ~rp~I might actually do this on my own.
+
+0x0595DCC7 = ~z~You like it too much. You're far too comfortable.
+
+0x0673FD34 = ~z~But, this man is very annoying.
+
+0x06A8DC68 = ~z~Up on the bridge!
+
+0x06FEE3BF = ~z~I never said I was tempted by it... ~rp~I just said it was an odd thing... ~rp~how we'd take money from one but not the other.
+
+0x07350576 = ~z~Lead the way.
+
+0x077077D6 = ~z~A bunch of money.
+
+0x0783A6DA = ~z~~sl:0.2~Crap.
+
+0x0787138D = ~z~It's different there now.
+
+0x07A6F973 = ~z~Is it legal?
+
+0x07AC4F72 = ~z~Hitch your horse up here.
+
+0x08E6B93A = ~z~Looks like.
+
+0x08F316F3 = ~z~Make him turn around.
+
+0x0AA18035 = ~z~You got them?
+
+0x0B82E307 = ~z~I'm sorry, I've... I'm... how are you?
+
+0x0BAACD68 = ~z~and besides...
+
+0x0C63CACB = ~z~Real big mistake.
+
+0x0C3738E4 = ~z~Up here.
+
+0x0CB30BE8 = ~z~Bring Cortez round the front for me, will you?
+
+0x0D60FA0F = ~z~Sure did.
+
+0x0D8003D4 = ~z~~sl:0.0:3.0~Now,~rp~ Ramon Cortez is round those parts,~sl:~split up from his gang, and stuck in West Elizabeth.
+
+0x0DD57A60 = ~z~They keep on coming alright.
+
+0x0DDD49FA = ~t~In Spanish: I'm here!
+
+0x0DEB04C7 = ~z~Oh, shut up, you old creep.
+
+0x0E9E9E32 = ~z~Let's go!
+
+0x0EA58CC6 = ~z~Be quiet.
+
+0x0EB63E4D = ~z~The sheriff's done a lot to bring Rhodes into line since the time of the Grays and Braithwaites, but...
+
+0x0F921C5B = ~z~so maybe that's delayed them?
+
+0x1A4F7DF3 = ~z~He's gonna hang!
+
+0x1A582500 = ~z~Same way we pay for everything.
+
+0x1AA22BF6 = ~z~Are you threatening me?
+
+0x1B313B6F = ~z~Put your gun on the boat.
+
+0x1C04A6A2 = ~z~We have a couple already cut and in stock.
+
+0x1CFBDAD8 = ~z~I don't like it.
+
+0x1D2D3B4F = ~z~Push up!
+
+0x1D3699BA = ~z~Cortez?
+
+0x1DA1B671 = ~z~This?
+
+0x1DE21185 = ~z~So everyone with a price on their head deserves it, you think?
+
+0x1EB6E9ED = ~z~It's solid though.~rp~ Real good and sturdy.
+
+0x1F6C5338 = ~z~I shoot okay?
+
+0x1F388A7E = ~z~What's wrong with you?
+
+0x2AC0E478 = ~z~Too tough for you, John Marston. I'd stay well clear.
+
+0x2B6A57C9 = ~z~Stay with me!
+
+0x2BBC2D39 = ~z~Sure... no... I don't know... usually.
+
+0x2BE47443 = ~z~I'm coming.
+
+0x2C21EFEF = ~z~Let's get out of here.
+
+0x2CF29438 = ~z~Cortez, you son of a bitch.
+
+0x2CFC0677 = ~z~John Marston's got his own house.
+
+0x2D84888C = ~z~That gang you was talking about...~rp~ was they the Skinner Brothers?
+
+0x2F25486F = ~z~Alright then, come on.
+
+0x3AA3F1CF = ~z~What the hell are you talking about? I got gold, woman, mister. Gold. Five thousand dollars!
+
+0x3AB5A1EA = ~z~You should come see it.~rp~ It's good country, Sadie. Despite all that.
+
+0x3AB7CC48 = ~z~Where we gonna find him?
+
+0x3AF8FF2A = ~z~~sl:0.4:3.9~I got to respect him for it, 'cause if I saw you walk into my lumber yard,~lr:~I'd think exactly the same thing.
+
+0x3B0437B6 = ~z~Stay on the road, let's find a good vantage point.
+
+0x3BB056AD = ~z~Mister Sheriff?
+
+0x3C36C5D3 = ~z~Dammit he's dead!
+
+0x3D5064C5 = ~z~I ain't got much choice.
+
+0x3D369126 = ~z~Some. And some Californios. ~rp~And some regular Americans too. ~rp~They're a misfit bunch.
+
+0x3DF5EC3B = ~z~You've been a good customer, and I like you...
+
+0x3E25AE4E = ~z~Big mistake.
+
+0x3E618E5C = ~z~I need your help. Get over here!
+
+0x3E680BCA = ~z~Lot of crazy bastards... seems Mexico's a tough place.
+
+0x3EE677BA = ~z~Now, goodbye. Let's go, boys.
+
+0x3EF06C79 = ~z~That one.
+
+0x3F6833BB = ~z~Aim at him!
+
+0x3FEA7686 = ~z~Why would we bother threatening you?
+
+0x4A73624C = ~z~You killed him, you idiot!
+
+0x4AA17FD3 = ~z~Emily?
+
+0x4B501D38 = ~z~I can't get them from here!
+
+0x4C3788BE = ~z~I just wish I could help you, sir.
+
+0x4C673198 = ~z~Oh, I know so, Ramon.
+
+0x4DC44BC8 = ~z~Look at them go.
+
+0x4DC724CA = ~z~~sl:0.0:4.7~No, no. You need someone with some sense to negotiate,~sl:~and some charm wouldn't hurt neither.
+
+0x4E67CEA5 = ~z~Might just be.
+
+0x4E165B49 = ~z~Dammit. Sadie!
+
+0x4E81140D = ~z~If we're going to go, we should go.
+
+0x4F03E75B = ~z~Who told you he was here?
+
+0x4F504244 = ~z~Come on. Let's run these corwards out of town.
+
+0x5A3EAFAA = ~z~See you around, partner.
+
+0x5A8B91B6 = ~z~You know, I been doing some bounty hunting of my own since I last saw you.
+
+0x5A9CB166 = ~z~That hurt.
+
+0x5B0BAF55 = ~z~Go in there and I'll cover the exits.
+
+0x5B2E70AF = ~z~Your folks picked the wrong town.
+
+0x5B26B0B0 = ~z~Some of them. ~rp~But some is Californios. And some are regular Americans too. ~rp~They're a misfit bunch.
+
+0x5C9BC7A4 = ~z~We got him, Sheriff.
+
+0x5C316A38 = ~z~Any more? Are we done?
+
+0x5D8CAE65 = ~z~You search that barn, I'll take the main house.
+
+0x5D73B1F2 = ~z~Come on, John.
+
+0x5DB2A461 = ~z~You got any work?
+
+0x5F1A7A47 = ~z~~sl:0.0:3.2~Alright. This Painted Sky tip is pretty fresh...~sl:~but I don't know how long it'll stay that way.
+
+0x5F9BEF77 = ~z~I guess we're keeping him!
+
+0x5F17A73D = ~z~Okay!
+
+0x5F472EDD = ~z~Yeah it's, it's been a pleasure as always...~n~~m~and you, sir.
+
+0x6A5A10C6 = ~z~~sl:0.0:3.0~Now,~rp~ Ramon Cortez is around those parts,~sl:~split up from his gang, and stuck in West Elizabeth.
+
+0x6BCBD2C4 = ~z~I'm supposed to be retired from this.
+
+0x6BFAEFDF = ~z~thinking they can take us back to the... bad old days.
+
+0x6DCD830C = ~z~~sl:0.0:2.8~You've got an appointment with the Del Lobos,~sl:~and I've got an appointment with the lumber yard and the undertaker.
+
+0x6FE576BC = ~z~Three!
+
+0x7A6ADC30 = ~z~Get in there, Marston.
+
+0x7A82DE01 = ~z~How desperate?
+
+0x7A82FDA0 = ~z~You made a big mistake, the both of you. You shoulda took the money.
+
+0x7C03E6A3 = ~z~I'll have it sent to you in Blackwater...
+
+0x7C2CB46B = ~z~~sl:0.0:1.6~couldn't find the rancher, but...~sl:~saw a Mexican looking feller hanging around.
+
+0x7C824EC8 = ~z~if a bounty hunter wants to last, ~rp~that loyalty's got to be to the one that's issuing the bounties. ~rp~Plain and simple.
+
+0x7C549092 = ~z~Oh, Sheriff Thomas, Sheriff Thomas...
+
+0x7CF75C97 = ~z~now pay us what's owed.
+
+0x7E8195C4 = ~z~How much any of you want?
+
+0x7EA0C33F = ~z~
+
+0x7EBCE456 = ~z~Get your horse.
+
+0x7F276721 = ~z~~sl:0.0:1.2~couldn't find the rancher...~sl:~but saw a Mexican looking feller hanging around.
+
+0x8A47EA53 = ~z~I got a reputation for honest work.
+
+0x8B9FB1B4 = ~z~Okay, I'll follow you.
+
+0x8B27068B = ~z~Hey!
+
+0x8C03AEC3 = ~z~You head back down to where we was. New Austin, ~rp~you're bound to run into them.
+
+0x8C0A154D = ~z~There's supposed to be a storm coming through...
+
+0x8CA347E3 = ~z~Then I never was that fast.
+
+0x8CD04FB5 = ~z~I ain't getting you killed out there.
+
+0x8CD22F4F = ~z~clearly he ain't done enough.
+
+0x8E64AB35 = ~z~Put him in the wagon for me, would you?
+
+0x8EA43531 = ~z~we want our friend back!
+
+0x8EB2B55E = ~z~Take a seat...
+
+0x8F24DBBC = ~z~Come on.
+
+0x8FA1B810 = ~z~Come on, Ramon.
+
+0x8FB684AE = ~z~Looks quiet.
+
+0x9A2EAEBF = ~z~Ramon Cortez. He's with the Del Lobo gang.
+
+0x9A6DFCBC = ~z~~sl:0.3:2.7:1~I guess someone wants that gold.
+
+0x9AD2CE66 = ~z~Hey, how much you want?
+
+0x9AE4EBDE = ~z~But it's okay for you?
+
+0x9B2C25D1 = ~z~Two hundred!
+
+0x9B9464B6 = ~z~Got hold of this feller I'd hired.~rp~ He didn't die well.
+
+0x9BD3AE57 = ~z~Done.
+
+0x9C1DA266 = ~z~Oh, it's very legal, but it's...
+
+0x9D0BD2E4 = ~z~Let's go for a ride.
+
+0x9D8D51E7 = ~z~before we kill all of you fools.
+
+0x9DB278D7 = ~z~Mount up.
+
+0x9E7FC17C = ~z~Rhodes?
+
+0x9F6D4D46 = ~z~How's the jail?
+
+0x10D2237A = ~z~And you're a dead man!
+
+0x15CA9A2E = ~z~An excellent choice.
+
+0x16B949ED = ~z~Try anything clever and you're gonna get shot.
+
+0x17ED1427 = ~z~Ain't you got important work to do?
+
+0x18F740E5 = ~z~Oh I mean to, Mrs. Adler.
+
+0x19D5CB7E = ~z~
+
+0x19F073FA = ~z~This place still gives me the creeps.
+
+0x20BB5310 = ~z~I need you with me, John.
+
+0x25C24232 = ~z~You wanna get shot today as well as robbed, mister?
+
+0x27BF1DF8 = ~z~~sl:0.0:3.9~No, no. You need someone with some sense to negotiate,~sl:~and some charm wouldn't hurt neither.
+
+0x28B2C1B5 = ~z~How we gonna pay for this?
+
+0x28FA28CD = ~z~He said there was men meeting him at Dewberry Creek. Let's start by looking there.
+
+0x29AB6B29 = ~z~~sl:0.9~You sure he ain't in here?
+
+0x29E5B318 = ~z~Mister Sheriff, we got Ramon Cortez.
+
+0x29EAF4B6 = ~z~Yeah. Yes we were.
+
+0x30C5A78A = ~z~
+
+0x30F63066 = ~z~~sl:0.2~And that's you is it? ~rp~With your famous way with people.
+
+0x32E71CB9 = ~z~A barn...
+
+0x33A4EFE5 = ~z~I like the fighting, Ramon. ~rp~The fighting and the killing.
+
+0x34A2CD92 = ~z~Go with the woman, you boob. Ain't kind to keep her waiting.
+
+0x34CDCB10 = ~z~Come on.
+
+0x34ED20C5 = ~z~~sl:0.1~We need a barn...
+
+0x36FAD4C4 = ~z~~sl:0.6~It'll all be over soon.
+
+0x37FC5311 = ~z~You ain't taking my prisoner.
+
+0x39AFF454 = ~z~Come on!
+
+0x39ED5ECC = ~z~There!
+
+0x42FADBB6 = ~z~but we won't take two thousand from an outlaw to just let them go.
+
+0x45B187EA = ~z~Of course. ~rp~'Cause all you can do is swear. But you're just saying anything you think might get you out of this.
+
+0x49C08CBF = ~z~Rancher's in there. Cortez had him tied up. He's in the barn.
+
+0x50A713FF = ~z~~sl:5.0:1.0:1~Dangit.
+
+0x50B48412 = ~z~I don't get paid unless he makes it to Saint Denis.
+
+0x50E49C2C = ~z~I run into them. ~rp~Mostly Mexicans.
+
+0x51CE1238 = ~z~It's my wife, Jerry. You see she's, uh...
+
+0x52B85FC3 = ~z~Hold the jail house... my boys are coming.
+
+0x52EDBC94 = ~z~Not much law except the Sheriff of Tumbleweed.
+
+0x53EA98FE = ~z~Let's get down and take a look.
+
+0x55B2ED13 = ~z~Hold up.
+
+0x56A8A73E = ~z~Thanks for this, John.
+
+0x58BBFD33 = ~z~They're up on the slope!
+
+0x60AC5811 = ~z~Charming to a fault... ~rp~it's a bad situation out there. ~rp~Burnings, killings, you name it.
+
+0x60BE4AB8 = ~z~~sl:0.4~And that's you is it? ~rp~With your famous way with people.
+
+0x60D34A39 = ~z~I hope you left it to someone in your will.
+
+0x61B8F987 = ~z~those bastards don't look that tough.
+
+0x63DDE0B5 = ~z~You got him?
+
+0x65AC3C83 = ~z~John! Get down here!
+
+0x65E480BF = ~z~Get your gun on him before he rows out of range.
+
+0x65E20616 = ~z~Damn Del Lobos!
+
+0x66BD14D9 = ~z~On the ridge!
+
+0x68D54E31 = ~z~Hell, ~rp~I couldn't even trust you to kill me, if that's what we agreed.
+
+0x70CDCAA9 = ~z~Cortez ran toward the mouth of the creek. We got to push through these fellers.
+
+0x70F25E19 = ~z~Take me there, I'll pay you good. Better than any bounty.
+
+0x71FCED35 = ~z~~sl:0.7:3.7:1~You're in enough debt as it is. ~rp~I got to help you all I can.
+
+0x72BCA0A2 = ~z~If the price is high enough, you got to trust there's a reason they set it.
+
+0x73BBDC23 = ~z~~sl:0.0:1.6~You might get lucky in court...~sl:0.8~get over here!
+
+0x73F96479 = ~z~I swear.
+
+0x75A3D9E3 = ~z~I'm down at Beecher's Hope.
+
+0x75BE0445 = ~z~Me and my boys are gonna...
+
+0x75DFA92D = ~z~~sl:0.4~You ain't even got furniture.
+
+0x76D79BE9 = ~z~Shut your goddamn mouth!
+
+0x77BC57A3 = ~z~Stow him and we can go.
+
+0x79DD0A87 = ~z~One!
+
+0x79F2BBC6 = ~z~~sl:0.0:2.7:1~Your lady friend might be having trouble...
+
+0x80C348E5 = ~z~The side there!
+
+0x82CAF5E4 = ~z~Of course.
+
+0x83CE58F7 = ~z~We'll cross up here. Come on.
+
+0x83F7965B = ~z~you just can't get enough of me.
+
+0x87E80A32 = ~z~Sadie? ~rp~Hey, so who is the bounty?
+
+0x88D07A9C = ~z~Work? Hmm...
+
+0x91B460D6 = ~z~~sl:0.0:4.4~Oh, but if they foreclose on the debt, I'll lose my home.~sl:~And I do so like it there.
+
+0x91DF4033 = ~z~Oh, you gave up easy a long time ago.
+
+0x92EC8DFD = ~z~Cortez?
+
+0x95ADCD51 = ~z~If that kind of offer is tempting to you,~rp~ then go right ahead. But not when you're on one of my jobs.
+
+0x95C5F88E = ~z~That ain't much of an advertisement for the place.
+
+0x99D44A64 = ~z~Just like we were... ~rp~and they're friendly, I bet.
+
+0x99E7E26C = ~z~I can't move like I used to.
+
+0x102E9B8B = ~z~Weren't nothing...
+
+0x107EBD78 = ~z~Oh, hold your horses, chica.
+
+0x114A2483 = ~z~It just don't seem right.
+
+0x173AE079 = ~z~I'll see you again.
+
+0x206BD67C = ~z~We're coming back with him. Don't you worry about that.
+
+0x220A8A14 = ~z~
+
+0x225DB964 = ~z~So you really want me to shoot ya?
+
+0x226BBEC5 = ~z~Plus seventy five dollars.
+
+0x248A769C = ~z~You know I had some trouble of my own.
+
+0x257F2C73 = ~z~Let's just finish this.
+
+0x271AB709 = ~z~~sl:0.0:3.0~Alright. The Painted Sky tip is pretty fresh...~sl:~but I don't know how long it'll stay that way.
+
+0x294D4133 = ~z~Maybe that one?
+
+0x313A2E81 = ~z~How many scar faced loons you got...
+
+0x368DA331 = ~z~You just cover me...
+
+0x370F74B7 = ~z~You got them, John.
+
+0x375CD94E = ~z~I'm sorry, I've, uh-um, how are you?
+
+0x386D09BD = ~z~Check the boulders!
+
+0x405D4D68 = ~z~Hey, you let me go, I'll forget about all of this.
+
+0x423C8652 = ~z~You want money? Hey, take my money. I got gold, lady.
+
+0x471B2620 = ~z~I spent years cleaning up this town.
+
+0x481A795F = ~z~Let's go up.
+
+0x497EB6A1 = ~z~They're turning tail.
+
+0x515FEA0F = ~z~Ridgeline! Look out!
+
+0x563CC463 = ~z~Last thing I need is fools like this...
+
+0x634BF41A = ~z~That's them.
+
+0x647B041F = ~z~If I got into who deserved what, second-guessed every poster, ~rp~I'd tear out all my hair before I put a rope on anyone.
+
+0x697AC392 = ~z~Ramon Cortez... we've come for you... come calmly and nobody'll get hurt...
+
+0x789F2313 = ~z~Son of a bitch.
+
+0x797E5D24 = ~z~Look after him, Sadie, he's a delicate flower underneath.
+
+0x854A8145 = ~z~I can't go higher.
+
+0x867C1B68 = ~z~We got him.
+
+0x869C89BF = ~z~You see, Ramon, what we got here is a trust issue.
+
+0x874EF6CC = ~z~It's my show remember? You do the heavy lifting.
+
+0x888CDD29 = ~z~Emily?
+
+0x902F90B1 = ~z~a great pleasure. Love your work.
+
+0x912A30C4 = ~z~I knew you'd be back, Ramon...
+
+0x920BA5A8 = ~z~and shoot well.
+
+0x954C1393 = ~z~I need money.
+
+0x985B1D09 = ~z~John, how are you?
+
+0x986D92A7 = ~z~We got them on the back foot, come on.
+
+0x1060B9BC = ~z~he just tried to kill me.
+
+0x1473C093 = ~z~Okay, let's go.
+
+0x1627B4EB = ~z~Oh, I've been damned a long time, my friend.
+
+0x1642A6E9 = ~z~Del Lobos?
+
+0x1876A5AE = ~z~~sl:1.4:1.8:1~I'm going to die anyway!
+
+0x2147BFC6 = ~z~Perhaps.
+
+0x3309F7AD = ~z~Where the hell are you?
+
+0x4334D4E3 = ~z~You're in enough debt as it is. ~rp~I gotta help you all I can.
+
+0x4928FD43 = ~z~They're yours!
+
+0x5986B9A5 = ~z~John!
+
+0x5999A5B4 = ~z~I'll get them ready for you.
+
+0x6624C10D = ~z~You wanna die right now, Cortez?
+
+0x7359EF46 = ~z~'Cause you ain't going to find much use for it in the short time you got left.
+
+0x8037E963 = ~z~Listen, Sadie I...
+
+0x8407D512 = ~z~It isn't somewhere I'd vacation. ~rp~But it's something to behold. ~rp~If you're inclined you should take a look.
+
+0x8532A32E = ~z~You been a real bad boy.
+
+0x8790F67C = ~z~This what I'm paying you for? Go into the barn.
+
+0x8966C05B = ~z~I'm sorry, John.
+
+0x9031D417 = ~z~Me too. But if not,~rp~ I mean to be ready.
+
+0x9580DA95 = ~z~We got to clear that beach.
+
+0x10704D60 = ~z~No.~rp~ It's one of them precut ones...~rp~ me and Charles put it up,~rp~ and Uncle... watched and barked the odd order at us.
+
+0x14803FF7 = ~z~Two!
+
+0x16450FA3 = ~z~You want him, you're gonna have to come over here and get him!
+
+0x29375BA7 = ~z~~sl:1.0~Thinking about it... ~rp~I might actually do this on my own.
+
+0x30145A16 = ~z~Exactly.
+
+0x38565A51 = ~z~Much as you want to, don't kill him.
+
+0x42007F2E = ~z~just a simple arrest.
+
+0x44914AD0 = ~z~Down there. A fire. I'd wager that's them.
+
+0x49368E9A = ~z~You want money, gold? My men are meeting me at Dewberry Creek.
+
+0x52397DF9 = ~z~We need a barn.
+
+0x55009B2C = ~z~I'm coming!
+
+0x66613F73 = ~z~~sl:0.0:4.2:1~If he was in here, you'd know. Take a look.
+
+0x68753F86 = ~z~Oh, I'm sorry. Of course.
+
+0x69306B2A = ~z~Okay... okay, if you think so, mister.
+
+0x80747B4B = ~z~Yeah. ~rp~You head back down to where he was - New Austin - ~rp~you're bound to run into them.
+
+0x83591F7F = ~z~Come on, let's get him to the sheriff.
+
+0x92819EF3 = ~z~Sheriff, before you go...
+
+0x93861C2B = ~z~Del Lobos.
+
+0x97182AB6 = ~z~Ramon, ~rp~I couldn't trust you to pay me, ~rp~I couldn't trust you not to kill me.
+
+0x175195FF = ~z~If he's in there he'll run, and I'll be out here waiting.
+
+0x301475CD = ~z~So you think we can trust him?
+
+0x351654BD = ~z~And how are we? How's little Emily?
+
+0x356982BD = ~z~Sure.
+
+0x374966F3 = ~z~Maybe drop in on him some time.
+
+0x396593B3 = ~z~We were sitting ducks, waiting all that time in that gimcrack jail house.
+
+0x476508B7 = ~z~Shut up.
+
+0x832133D0 = ~z~Nice weren't what I heard about them.
+
+0x875326D7 = ~z~~sl:0.0:3.1:1~Ramon Cortez, we've come for ya.
+
+0x971245DF = ~z~An encyclopedia salesman was up there... on the property...
+
+0x989613DC = ~z~He's gone, he's gone...
+
+0x1672361D = ~z~~sl:0.0:2.6~Now, this feller probably saw you,~sl:~thought “here's some corn husk idiot, some country rube,
+
+0x2824065E = ~z~Me.
+
+0x5010891D = ~z~I'm kinda desperate.
+
+0x6842591F = ~z~Relax, mister. We ain't got far to go.
+
+0x7651835F = ~z~Are they Mexicans?
+
+0x11962421 = ~z~Into Blackwater. Let's go.
+
+0x13502324 = ~z~But you was just saying you was going to kill me?
+
+0x14904017 = ~z~Don't be a dumb bastard!
+
+0x55095795 = ~z~They ain't nice.
+
+0x55271342 = ~z~nice to see you. Oh, and you too.
+
+0x58041932 = ~z~Cortez!
+
+0x64129528 = ~z~He's making a hell of a go of it, but there ain't much there to hold back the chaos. ~rp~It's real wild that country.
+
+0x75115251 = ~z~~sl:0.0:1.1~Get him on a horse.~sl:~We can get out of here before the buzzards show up.
+
+0x77162322 = ~z~He's getting away.
+
+0x80102791 = ~z~Go already... they might be half way to Mexico by now.
+
+0x85232273 = ~z~~sl:0.0:1.2:1~He's in the barn.
+
+0x88915903 = ~z~Ain't you gonna see what's happening out there?
+
+0x92628640 = ~z~Get him down. The sheriff better move him quick this time.
+
+0xA045DB00 = ~z~I know the place.
+
+0xA04DD894 = ~z~help me guard him, until my boys arrive...
+
+0xA04E3A8C = ~z~I'll pay you when I deliver him.
+
+0xA0833D3A = ~z~Oh, shut up.
+
+0xA09CB7ED = ~z~Let's go... Jim Milton.
+
+0xA1FD41D1 = ~z~And not much law except the Sheriff of Tumbleweed.
+
+0xA2D4AED2 = ~z~You ain't getting away from here!
+
+0xA4C1BCCE = ~z~Holler if you get him.
+
+0xA4E8AF12 = ~z~This is Painted Sky up here.
+
+0xA6A7B9A2 = ~z~Hey.
+
+0xA9CB3F7F = ~z~We got him, Sheriff... we got him...
+
+0xA9DF622A = ~z~Needs to get fixed up...
+
+0xA47A4231 = ~z~Alright.
+
+0xA62E6D5B = ~z~One of his 'boys' maybe.
+
+0xA70EB0CD = ~z~He ain't here now, madam.
+
+0xA247DD58 = ~z~I'm afraid it's a bit late for that, Ramon.
+
+0xA59977EC = ~z~That's what the bank says.
+
+0xA74749BA = ~z~If you say so.
+
+0xA705835C = ~z~Don't you get around.
+
+0xA7781846 = ~z~You ain't getting him, you bastards!
+
+0xAABF0511 = ~z~He's rowing out of here.
+
+0xAB41FDF4 = ~z~We agreed terms, now get after them.
+
+0xAB96AA5F = ~z~This is him.
+
+0xAC98B7B2 = ~z~~sl:0.4:3.6~But if they foreclose on the debt, I'll lose my home.~sl:0.2~And I do so like it there.
+
+0xADB73D55 = ~z~Oh, you let me go, I'll forget about all this.
+
+0xADDA5D8C = ~z~You're a dead woman.
+
+0xADF18970 = ~z~I'm sure you did the best you could.~rp~ I've heard... well, the kinds of things they do to men.
+
+0xAECF7DF2 = ~z~There it is.
+
+0xAF56F57A = ~z~You have about ten seconds, Sheriff Thomas...
+
+0xAFB77837 = ~z~to whichever one of you sets me free.
+
+0xAFD14BF5 = ~z~Is that Sadie Adler?
+
+0xB4A9EDD0 = ~z~We're going to Rhodes.
+
+0xB4D564D6 = ~z~Money for old rope.
+
+0xB6B29A1E = ~z~Oh that's what I am now, an employee?
+
+0xB6BF2392 = ~z~I'm gonna go.
+
+0xB6C314F4 = ~z~Here we are. Back again.
+
+0xB7B18844 = ~z~Behind the rock!
+
+0xB27B7F6B = ~z~I have it on good authority we can find this bounty at Painted Sky.
+
+0xB2387C69 = ~z~and we can get him out of here.
+
+0xB9678A78 = ~z~Come on.
+
+0xB47809EE = ~z~Someone must have talked.
+
+0xB627889B = ~z~Alright, alright, amigo...
+
+0xB4675847 = ~z~Three hundred dollars for her head.
+
+0xB5323673 = ~z~And how are we? How's little Emily?
+
+0xB6040059 = ~z~They're still alive, ain't they?
+
+0xBA37F1A8 = ~z~Probably waiting for a boat.
+
+0xBAB6291F = ~z~That's wise.
+
+0xBB15F803 = ~z~What you think, Cortez? ~rp~You got any more surprises up your sleeve?
+
+0xBBDCF512 = ~z~You?
+
+0xBBEC0FAC = ~z~~sl:0.0:1.6:1~Do your worst to him.
+
+0xBC54FA3A = ~z~Do as you're goddamn told...
+
+0xBD221A97 = ~z~Come on, I think there's an old water mill by the creek bed.
+
+0xBE28C314 = ~z~Oh, I can't let you do that, John. ~rp~Let you get robbed again.
+
+0xBEFBCC3F = ~z~~sl:0.0:2.3~Now, this feller probably saw you,~sl:~thought “here's some corn husk idiot, some country rube,
+
+0xBFAEE988 = ~z~You up for a fight?
+
+0xBFCBE892 = ~z~My debts climbing and I...
+
+0xBFED8ED3 = ~z~Well, that's that then... help me load this fool on the horse.
+
+0xC0282DDD = ~z~We fought back.~rp~ We was too slow was all.~rp~ I wish we'd done better for him.
+
+0xC1B92470 = ~z~He got stole off both of us.
+
+0xC1C4F8A8 = ~z~Shit.
+
+0xC3F52466 = ~z~Hey, look out, there's more of 'em coming.
+
+0xC4A56899 = ~z~How you doing, Ramon?
+
+0xC4DC1052 = ~z~Make sure you got me covered.
+
+0xC5C3F4B0 = ~z~Cortez!
+
+0xC50A0276 = ~z~Sounds like he needs all the help he can get.
+
+0xC360F32C = ~z~Can you just gimme a few days?
+
+0xC765B68E = ~z~Get them!
+
+0xC951F3A8 = ~z~You was taking the barn.
+
+0xC1484E9F = ~z~We're gonna farm livestock.
+
+0xC6417BFB = ~z~Come on.
+
+0xC6768A25 = ~z~They must be camping down there.
+
+0xC9153EE3 = ~z~I try not to fraternize too much with employees. You know, it sends the wrong message.
+
+0xC2237099 = ~z~Hey.
+
+0xCA05F6BB = ~z~Well, we brought him in...
+
+0xCA6816A7 = ~z~Second time lucky.
+
+0xCAB5E3B3 = ~z~~sl:0.0:2.7~doesn't know a precut home from an outhouse,~sl:0.4:2.3:1~and I'm gonna rob him blind.”
+
+0xCC2C92C2 = ~z~Oh yeah... ~rp~it's a bad situation down there. ~rp~Burnings, killings, you name it.
+
+0xCCA7133D = ~z~I'll see you soon, amigos.
+
+0xCD027885 = ~z~~sl:0.5~You ain't even got furniture.
+
+0xCD1C88D3 = ~z~H-H-Here, what you think? Have a look.
+
+0xCD472BC0 = ~z~Tell the bank there's money coming in, and get a crew to help with that barn.
+
+0xCD820B51 = ~z~Now I-I...
+
+0xCE4C346C = ~z~The bastard's been here for days.
+
+0xCE9DCCCE = ~z~There he is! In the boat!
+
+0xCE30B207 = ~z~If we come back with Cortez.
+
+0xCEC486B9 = ~z~Come on.
+
+0xCF24A6E2 = ~z~You shoulda taken it... now we're gonna come for you. I promise you that. We're gonna come for you.
+
+0xCF2214F3 = ~z~Get him back and I'll get your money...
+
+0xCFFBC0F5 = ~z~And you're about to have some back luck with getting punched in the face.
+
+0xD03F9D04 = ~z~I'm good for it.
+
+0xD04A0CFA = ~z~Of course.
+
+0xD0A1DB94 = ~z~Shoot those bastards!
+
+0xD3CF2574 = ~z~He's making a hell of a go of it, but ~rp~there ain't much there to hold back the chaos. ~rp~It's real wild country.
+
+0xD5BFB9EA = ~z~since this nice man blew a hole in it.
+
+0xD5F5A5DA = ~z~right away this time.
+
+0xD7F91F6E = ~z~I'll give you a hundred dollars to kill that bitch.
+
+0xD8A82E88 = ~z~Why they hanging around?
+
+0xD8CE9BC3 = ~z~With you it'll be fine, but I wouldn't do it on my own.
+
+0xD28D93B1 = ~z~it's great seeing you again, I'll...
+
+0xD66AE088 = ~z~Unspeakable things.~rp~ I hope that's the last you see of them.
+
+0xD67F0C4C = ~z~That's about right.
+
+0xD68ED9C4 = ~z~Yes, ma'am.
+
+0xD71B472A = ~z~That's about right.
+
+0xD80AB1EC = ~z~It's about time we collected this bounty.
+
+0xD923DA0A = ~z~Clear the beach!
+
+0xD5838DB6 = ~z~They blew my jail apart.
+
+0xD85565FB = ~z~Yeah, I met him.
+
+0xDA3AB0FA = ~z~You're tied up on a horse, ~rp~about to be taken to Saint Denis to hang. ~rp~You ain't good for anything.
+
+0xDB1D0551 = ~z~Above us!
+
+0xDB6097CD = ~z~I got this, John. Take the barn.
+
+0xDB768534 = ~z~~sl:0.0:3.5~Well, I gotta respect him for it, 'cause if I saw you walk...~sl:~into my lumber yard, ~rp~I'd think exactly the same thing.
+
+0xDC5704B0 = ~z~We need a barn.
+
+0xDCA95108 = ~z~~sl:0.0:3.4~It's gotta be him, holed up waiting on some out...~sl:0.2~and we're gonna get to him first.
+
+0xDCDCB068 = ~z~and another fifty dollars besides.
+
+0xDD8B9DC2 = ~z~The jail!
+
+0xDD7151A1 = ~z~Sadie? ~rp~Hey, so who is this bounty?
+
+0xDD96234F = ~z~Mr. Sheriff, we got Ramon Cortez.
+
+0xDDE1A293 = ~z~Don't fight it. Just drift away.
+
+0xDE02366D = ~z~I know something of that.
+
+0xDE0FA885 = ~z~I really enjoy begging and watching you make a fool of yourself.
+
+0xDE2D20A8 = ~z~We'll handle the barn... you handle whatever else this is.
+
+0xDFC19C1C = ~z~Ain't gonna make a habit of it.
+
+0xDFE860CE = ~z~You've had some bad luck with bounties being stole off you.
+
+0xE09A5908 = ~z~~sl:0.0:2.6:1~Didn't I tell you? It's the barn.
+
+0xE0ABD812 = ~z~Yeah?
+
+0xE1ABE3AA = ~z~~sl:0.0:1.3~Keep some distance.~sl:~We need to take a good look at them before we do anything.
+
+0xE1DD8F74 = ~z~The side of the creek bed!
+
+0xE2F1362F = ~z~and David Geddes likes you.
+
+0xE3C94181 = ~z~Come along, Cortez.
+
+0xE3FD4532 = ~z~So what do we do now?
+
+0xE4A77F62 = ~z~You sure about this?
+
+0xE4F2E2D9 = ~z~Yeah, that's him.
+
+0xE16FDF5B = ~z~Easy, easy, girl.
+
+0xE70C412D = ~z~If that kind of offer is tempting to you, ~rp~then go right ahead. But not when you're on one of my jobs.
+
+0xE70DCFF2 = ~z~I preferred it when you was offering money.
+
+0xE98D3426 = ~z~We need to split up and cover this place. Now get on.
+
+0xE244C57F = ~z~Move!
+
+0xE603B62D = ~z~also pretty dangerous.
+
+0xE710B7C7 = ~z~Don't kill him... just scare him.
+
+0xE878E7AC = ~z~Ramon Cortez. He's with the Del Lobo gang.
+
+0xE958DB4A = ~z~Well, I hope they know just where to find me, because I'll enjoy the fight.
+
+0xE963A1DE = ~z~The bridge!
+
+0xE975E73C = ~z~Let's see what we can do about that.
+
+0xE4172ADD = ~z~The jail!
+
+0xE7725D4F = ~z~Me and the boys will ride him to Saint Denis...
+
+0xE7993A29 = ~z~Shoot that bastard!
+
+0xE13421B6 = ~z~Found him hiding in a pile of shit.
+
+0xEAA46D34 = ~z~Well, you did a good job.
+
+0xEB61396D = ~z~What was that? Come on...
+
+0xEB65836D = ~z~Then I guess our fraternizing days are done.
+
+0xEC5DC521 = ~z~Well, I...
+
+0xEDA8567F = ~z~Of course.
+
+0xEF7D2AFC = ~z~Course you do. All them potatoes...
+
+0xEF9D7BB6 = ~z~I said get outta there!
+
+0xEF96F625 = ~z~Let 'em have it, boys!
+
+0xEFDBC7DA = ~z~Mr. Sheriff?
+
+0xF01D164D = ~z~They look asleep as far as I can tell.
+
+0xF01DCE06 = ~z~Yeah, I met him. ~rp~He sent me after a bounty might be related to this one. ~rp~Esteban Cortez.
+
+0xF02B791E = ~z~I'll give two thousand dollars in gold...
+
+0xF0694BC9 = ~z~Get them!
+
+0xF0DED86C = ~z~A hundred dollars.
+
+0xF4DC9639 = ~z~You want to hear something?~rp~ I built my ranch house.
+
+0xF5CB68CE = ~z~I'm gonna go get him.
+
+0xF6F886BC = ~z~ride you into Saint Denis and watch 'em hang you.
+
+0xF8A25036 = ~z~Oh, just fine, mister.
+
+0xF15AE48C = ~z~Where ever you hide, we will find you. And we will kill you. You, and anyone who's close to you.
+
+0xF24F3B78 = ~z~Sure.
+
+0xF96A0879 = ~z~Yeah. He'll pay up when we come back with Cortez. He's a decent feller.
+
+0xF302C553 = ~z~Well done... how?
+
+0xF385ADCD = ~z~It's my debt, I'll handle it.
+
+0xF506BFCF = ~z~Everyone's got to choose what they're loyal to... themselves, God, the State...
+
+0xF790E5D0 = ~z~Seventy five...
+
+0xF254036A = ~z~Keep going, they're running scared.
+
+0xF5270221 = ~z~Cortez? Have you seen him?
+
+0xFA166092 = ~z~John!
+
+0xFAF1F112 = ~z~Will you send my money to the bank for me?
+
+0xFB677137 = ~z~Just like we were... ~rp~and they're friendly... ~rp~real friendly.
+
+0xFC90E54F = ~z~Well, hello Uncle...
+
+0xFC472530 = ~z~Now be a good boy and get this bounty for me.
+
+0xFCCC9614 = ~z~Get outta there.
+
+0xFD5CB0CC = ~z~Look I, I wanna die...
+
+0xFD9ED4C5 = ~z~A barn...
+
+0xFDA3D9FD = ~z~These fellers...
+
+0xFE904320 = ~z~
+
+0xFFD86D7B = ~z~That's his brother. ~rp~You get around alright, John Marston.
+
+0xFFFFBB2A = ~z~I hope that rationale works out... for all of us.
+

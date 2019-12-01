@@ -1,0 +1,132 @@
+0x06662EB4 = ~z~Well, I guess we all gotta pay for something.
+
+0x0915F352 = ~z~What do you want?
+
+0x0F55408E = ~z~we'll be long gone.
+
+0x0F404484 = ~z~Moonshiners...
+
+0x1A779615 = ~z~So what do you think?
+
+0x1DB9E177 = ~z~hypocritical...
+
+0x3C75151D = ~z~that we're on their side...
+
+0x3DDFA1CE = ~z~the local law.
+
+0x3E059DEE = ~z~Think of it as payback for my daddy.
+
+0x3F5C9994 = ~z~ain't nobody gonna know we was here.
+
+0x3FCF60C4 = ~z~Oh, real nice.
+
+0x4F5E3AEF = ~z~We gotta convince each family...
+
+0x5AC45063 = ~z~I sent Sean over to Braithwaite manor too.
+
+0x6AC2F1B8 = ~z~and then we rob 'em both.
+
+0x6C4FFEAE = ~z~You couldn't make this stuff up.
+
+0x6D0EF4F8 = ~z~Now you can meet up with them...
+
+0x8B240176 = ~z~Hey Arthur, come over here.
+
+0x8E8EC4CB = ~z~We try to rob 'em both.
+
+0x20AB5D8A = ~z~It ain't that complicated.
+
+0x26AEE999 = ~z~and not the other lot...
+
+0x27D56A86 = ~z~Hosea's gone back to see that Braithwaite woman.
+
+0x62B015AE = ~z~The fine folks around these parts.
+
+0x76A93E10 = ~z~drunkards...
+
+0x78CB97A5 = ~z~And on the other...
+
+0x79BD9B29 = ~z~You sure?
+
+0x86A53358 = ~z~their mortal enemies...
+
+0x90B6C34F = ~z~I got to write a letter.
+
+0x432AAE04 = ~z~but we need money.
+
+0x707AB143 = ~z~Oh, real nice.
+
+0x5984CF3C = ~z~or join John and Javier at the Gray's place...
+
+0x7609CD38 = ~z~The fine folks around these parts?
+
+0x8643DCD5 = ~z~So what do you think?
+
+0x8843ACB9 = ~z~something to do with the Braithwaites' prize horses.
+
+0x51303D3B = ~z~Because even without us...
+
+0x51794AA1 = ~z~Last thing I want is to get us into trouble...
+
+0x644329AB = ~z~About what?
+
+0x830527EC = ~z~Now if you will you excuse me, Arthur...
+
+0x917748FC = ~z~the Braithwaites.
+
+0x75208673 = ~z~Well how the hell did we get an in at the Gray's place?
+
+0x94157878 = ~z~About what?
+
+0xA2E6B0FF = ~z~Come over here.
+
+0xA3DA63E6 = ~z~Sheriff Gray kindly put in a word with his father.
+
+0xA3EA62AE = ~z~Okay, well...
+
+0xA9C7A3DC = ~z~Scots...
+
+0xA2425F5E = ~z~these fools are gonna kill each other anyway.
+
+0xAC41802C = ~z~So what you boys thinking?
+
+0xB4159E29 = ~z~Get out of here!
+
+0xBAD9908C = ~z~to put ourselves in the middle of something...
+
+0xBF95CF78 = ~z~degenerates...
+
+0xC2CBAD40 = ~z~Exactly.
+
+0xCC1C3E45 = ~z~both rolling, we believe...
+
+0xCD4D6AE7 = ~z~Exactly.
+
+0xD9F6D5CE = ~z~Payback?
+
+0xD52AD202 = ~z~Because we got lawmen in three different states after us.
+
+0xD795D6D4 = ~z~inbred retelling of Romeo and Juliet.
+
+0xD927CD28 = ~z~Now we have the opportunity here...
+
+0xDA52DAB2 = ~z~In gold.
+
+0xE2B095B1 = ~z~On the one side we have got the Gray family.
+
+0xE7AE713D = ~z~I ain't in the revenge business, Dutch.
+
+0xE15D0860 = ~z~You're beginning to creep me out, Arthur.
+
+0xE5687279 = ~z~And in the middle of it all you've got some...
+
+0xEA057A17 = ~z~Rich as Croesus.
+
+0xEC00FFAE = ~z~Why not?
+
+0xF9600EFC = ~z~Before they figure out it was us that done it...
+
+0xF8981318 = ~z~Least of all for something that happened a long time ago.
+
+0xFA8A8FF1 = ~z~Good. Hosea should definitely take the lead on this.
+

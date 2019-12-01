@@ -1,0 +1,62 @@
+0x03B682D9 = ~o~Hide~s~ your horse~s~
+
+0x8E040566 = Charles
+
+0x9F5937E3 = Save ~o~Uncle
+
+0x18C9C92E = Take out the the ~e~Skinners~s~
+
+0x39D9323F = Beecher's Hope
+
+0x42AB4AF5 = Escort ~o~Uncle~s~ and ~o~Charles~s~
+
+0x73E0CA1E = Escort ~o~Uncle~s~ and ~o~Charles~s~ back to Beecher's Hope
+
+0x77F23A05 = Uncle Died
+
+0x88D713DD = Use the binoculars to survey the camp~s~
+
+0x277F1480 = A dead skinner was spotted.
+
+0x304D5B20 = Follow the wagon ~e~driver~s~
+
+0x427D1099 = Follow ~o~Charles~s~
+
+0x764CA066 = The Skinners were alerted.~s~
+
+0x3450A19A = Tap ~INPUT_CONTEXT_A~ to hammer in a nail.
+
+0x6839BF33 = Return to ~o~Charles~s~
+
+0x842482C6 = Follow the blood trail~s~
+
+0xA7B566EF = Hold ~INPUT_FOCUS_CAM~ to follow trail.
+
+0xA7E629CC = Escort ~o~Uncle~s~ and ~o~Charles~s~ away from the camp
+
+0xA17D7CFB = Get on your ~o~horse~s~
+
+0xB371B756 = Eliminate the ~e~skinner~s~
+
+0xC543290D = Save ~o~Charles~s~ from the Skinner~s~
+
+0xCB511D4C = Go back to ~o~Beecher's Hope~s~
+
+0xD6E39D39 = You failed to follow the wagon.
+
+0xD6606164 = Uncle
+
+0xE54D3313 = Kill the ~e~patrol~s~ or let them pass~s~
+
+0xE663A3A4 = Take out the pair of ~e~Skinners~s~
+
+0xE8891E10 = Eliminate the ~e~skinner~s~ without being detected~s~
+
+0xEE2F4FD7 = Charles was abandoned.~s~
+
+0xF3F995EB = Get on the ~o~cliff~s~
+
+0xF71D8448 = Charles Died
+
+0xFAF92E0E = Avoid alerting enemies by taking targets down quietly.~s~
+

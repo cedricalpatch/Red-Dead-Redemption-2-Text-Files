@@ -1,0 +1,12 @@
+0x1CC3A601 = ~z~Never happened before... you saved my life.
+
+0x959B177A = ~z~I'm trying...
+
+0xB01FCC83 = ~z~Don't mention it.
+
+0xBF446ACC = ~z~I know, my friend, I know.
+
+0xD9E22007 = ~z~There's trouble brewing, Arthur... make Dutch see sense.
+
+0xF0834D85 = ~z~I thought I was a dead man, Arthur...
+

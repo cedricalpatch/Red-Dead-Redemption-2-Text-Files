@@ -1,0 +1,42 @@
+0x063B2B0B = ~z~Mark my words, all of you mark my words.
+
+0x3F12809D = ~z~~sl:0.0:1.8~Join the goddamn army again!~sl:0.2~Jesus Christ!
+
+0x6AA6D7C5 = ~z~Oh. Well, no offence.
+
+0x8FFC3D9F = ~z~Stupid army...
+
+0x23DAE65A = ~z~~sl:0.0:1.9~And... and then they left.~sl:0.1~And then they jump back in again!
+
+0x35B50912 = ~z~Sheep.
+
+0x74D8EC29 = ~z~But you know what every one of them did the second they left the army?
+
+0x321A82E1 = ~z~~sl:0.0:1.1~Stupid.~sl:0.4~You know what? That taught me something...
+
+0x887A136B = ~z~~sl:0.0:1.5~Hell, someone's like,~sl:0.7~"I'm gonna go and dance with the finest whore in San Francisco."
+
+0x9864B340 = ~z~You know some shit like that, you know how fellers is.
+
+0x138145A7 = ~z~~sl:0.0:2.0~I mean, here is a group of fellers that spent~sl:~every waking minute just dreaming of leaving.
+
+0xAB9CD9B0 = ~z~~sl:0.0:1.7~All kinds of things like,~sl:~"Oh I'm going to go and I'm going to be a cook" or,
+
+0xB0007E97 = ~z~and-and-and it taught me something that I will never forget.
+
+0xBDD47E1F = ~z~"I'm going to go out and I'm going to find me a wife."
+
+0xBDDD1A50 = ~z~~sl:0.0:2.1~And that's that most fellers are sheep.~sl:1.5~That's right.
+
+0xC14E0512 = ~z~~sl:0.0:2.2~Fellers would spend all night talking about~sl:~what they were going to do the second they left the army.
+
+0xCDB3B9FD = ~z~And... and if you can tell the difference between a...
+
+0xD34BC52D = ~z~~sl:0.0:2.9~the difference between a sheep and...~sl:~a sheep and a man.
+
+0xE11560C0 = ~z~~sl:0.0:2.6~Then you... well you...~sl:~that makes you a better man than me, sir.
+
+0xF6E88C66 = ~z~And that's all I'm saying.
+
+0xF5416CF8 = ~z~You know, when I was in the army.
+

@@ -1,0 +1,336 @@
+0x00F19623 = ~z~Get us the money!
+
+0x0494946E = ~z~Mr. Thomas Downes... you owe me money.
+
+0x049A2861 = ~z~Didnt even speak English.
+
+0x04DF892E = ~z~I don't care about your family.
+
+0x04E4D943 = ~z~If you want the money, you'll have to wait.
+
+0x05AEA947 = ~z~~sl:0.5~Please... I have a family, sir... please.
+
+0x07312D73 = ~z~made some bad decisions in her life.
+
+0x089CBC78 = ~z~Please, I have a family sir, please.
+
+0x08A02309 = ~z~If you'd been good, this wouldn't be happening.
+
+0x0AF893B9 = ~z~Well, if it's pleasure you're after...
+
+0x0F484767 = ~z~Put the debts in the deed box and try not to kill them... it's very bad for business.
+
+0x1B0033C8 = ~z~Mr. Downes.
+
+0x1B02749C = ~z~I certainly know the type.
+
+0x1E47795F = ~z~You know how it is...
+
+0x1EA005CC = ~z~Listen to me, sir. What are you here for?
+
+0x1F1DE59B = ~z~Downes!
+
+0x2E6F5AA6 = ~z~Good, very good.
+
+0x2F39850F = ~z~We already owe more than it's worth.
+
+0x3CBB773E = ~z~there is one other...
+
+0x3D8421A4 = ~z~Sell your place.
+
+0x3E8E915C = ~z~My husband isn't well.
+
+0x4BA21B59 = ~z~Why?
+
+0x4C82DE67 = ~z~I don't care about your family... you owe me money.
+
+0x4D75B9FF = ~z~How did you get on, Herr Morgan?
+
+0x4F643CB1 = ~z~~sl:0.4~Come here, you maggot.
+
+0x5DEE4DA8 = ~z~Now wouldn't paying up have been a little easier.
+
+0x5ECA48DC = ~z~Oh, no-no, I'm... I'm...
+
+0x6BA49428 = ~z~Mr. Strauss.
+
+0x6CB9D6F3 = ~z~Why'd it have to come to this, huh?
+
+0x6CB21263 = ~z~Strauss told me you needed a beating. You saying he was right?
+
+0x7A5BF8CC = ~z~I'll cut you in.
+
+0x7A7F727E = ~z~Believe me, sir. I didn't want this either.
+
+0x7D65019B = ~z~Yep, that's me. Oh, no-no, I'm... I'm...
+
+0x8BF86456 = ~z~Herr Morgan, Herr Morgan.
+
+0x8C6F6169 = ~z~What do you want, sir?
+
+0x8F1AA506 = ~z~Mr. Thomas Downes... you owe me money.
+
+0x9AA3DBE2 = ~z~I don't have it.
+
+0x9B80CFB9 = ~z~Let me see...
+
+0x9BF2F0D8 = ~z~Now, now, now, now... sir. You have no quarrel with me that I know of.
+
+0x9CAEF7F3 = ~z~don't take any nonsense.
+
+0x9E77AA5F = ~z~Herr Strauss, Mr. Morgan will help you.
+
+0x9FF9E68E = ~z~Where's our money?
+
+0x21BD4790 = ~z~Loaning? Already?
+
+0x21CE5B90 = ~z~I said I would get the money, and I will. Just... I can't for a while.
+
+0x25A063F6 = ~z~Miss Lilly Millet is a ranch maid up at Emerald Ranch.
+
+0x28C11019 = ~z~Thank you, Herr Morgan.
+
+0x33C1794B = ~z~We took your word, now we'll take your hide.
+
+0x37B38432 = ~z~Please. Please, no.
+
+0x40FA9FDE = ~z~Please, sir... I'm... I'll...
+
+0x50CA35D3 = ~z~I said what you looking at, woman?
+
+0x53E0258B = ~z~I made a start on things...
+
+0x54D5F237 = ~z~What's the meaning of your coming here?
+
+0x56BA4567 = ~z~We've got nothing, sir. But when we have something, it will be yours.
+
+0x60E4B2DB = ~z~I need you to help Herr Strauss.
+
+0x75D5AA41 = ~z~I've tried being polite...
+
+0x79E330A5 = ~z~Herr Morgan, Herr Morgan.
+
+0x87BFB61A = ~z~You took the money.
+
+0x87C42720 = ~z~You know how it is...
+
+0x93E7BD0B = ~z~Aye, and I'll make sure they see it in them terms.
+
+0x95C7444A = ~z~Of course.
+
+0x121FB87F = ~z~Like I said, we ain't nobody's idea of charity.
+
+0x149A40CA = ~z~more enthusiastic paying back to someone like you.
+
+0x396B8A6C = ~z~people is happy to borrow off someone like me, but...
+
+0x451D0805 = ~z~haven't recovered all of it yet.
+
+0x460B20E1 = ~z~Be reasonable!
+
+0x503A3240 = ~z~How's that debt looking now?
+
+0x568EE611 = ~z~Now, I don't know what the meaning of you barging in here is... but...
+
+0x610FE8BB = ~z~Then sell your wife, or your family, or something.
+
+0x614BE912 = ~z~Not so good.
+
+0x653DAF31 = ~z~You ain't such a do-gooder, are you? If you're running out on debts.
+
+0x696B6AC9 = ~z~I'm afraid your trip here... h-has been in vain.
+
+0x729E564E = ~z~I need you to do me a favor, nothing too... serious.
+
+0x930BA629 = ~z~Well, I usually do...
+
+0x971A1F45 = ~z~Arthur.
+
+0x1325D17E = ~z~Threaten me, would you?
+
+0x2114E156 = ~z~Sad sacks the lot of em.
+
+0x3085F8FF = ~z~That debt weighs on me heavily, it's going to be paid.
+
+0x4884C9FD = ~z~Now is not really a good time for me, sir. If you'd let me do this...
+
+0x6476DD2C = ~z~If we could just have more...
+
+0x6541DC53 = ~z~Your debt's caught you, mister. And it ain't letting go.
+
+0x9675C483 = ~z~Mr. Wrobel...
+
+0x9968DD34 = ~z~We ain't a charity, Mr. Downes.
+
+0x46304B13 = ~z~You have to be more reasonable.
+
+0x60573E75 = ~z~My pleasure.
+
+0x71329B58 = ~z~As, as you can see, I... I was just attending to this.
+
+0x77167FFC = ~z~Pay. The. Money.
+
+0x77636F96 = ~z~You busy, my friend?
+
+0x82384CFB = ~z~If this is about the other day?
+
+0x85139E61 = ~z~Thomas.
+
+0x85677BE0 = ~z~Dutch?
+
+0x89152AE2 = ~z~Mr. Wrobel...
+
+0x104775DD = ~z~You. Uh. Whatever do you want?
+
+0x136645F9 = ~z~Fine, our accounts are up to date.
+
+0x422650AF = ~z~Mr. Strauss.
+
+0x815802C2 = ~z~I know. I know...
+
+0x4120940D = ~z~Pay the money, you'll make this stop.
+
+0x7402346A = ~z~Busy, my friend?
+
+0x67671759 = ~z~Sir, I don't know why you're here.
+
+0xA21ED877 = ~z~Thomas.
+
+0xA50EE2D5 = ~z~a Chick Matthews, works at Guthrie Farm.
+
+0xA51006FE = ~z~Loaning?
+
+0xAA699368 = ~z~Nonsense, me?
+
+0xABB1EEFB = ~z~more enthusiastic paying back to someone like you.
+
+0xADB519F3 = ~z~There's no need to thank me...
+
+0xAE7B41AB = ~z~I'm not running anywhere. I... I... I'm doing my best for you.
+
+0xAF79864C = ~z~Oh, Mr. Downes!
+
+0xAFBE85F2 = ~z~don't seem so interested in my propositions.
+
+0xB1A4D3FD = ~z~You are a slippery little bastard. But I got you now.
+
+0xB8B30901 = ~z~Who are they?
+
+0xB8DD0951 = ~z~Let me see...
+
+0xB74E0753 = ~z~And here was me believing Dutch's bluster about us helping folk.
+
+0xB1947BE4 = ~z~Who are they?
+
+0xB4857D44 = ~z~What you looking at?
+
+0xB302248D = ~z~like you said...
+
+0xB9899918 = ~z~Well, people who aren't desperate...
+
+0xBB528BE0 = ~z~It's legal work, Mr. Morgan.
+
+0xBCE3A061 = ~z~You owe him.
+
+0xBF27BCE4 = ~z~If he doesn't have the money, beat him.
+
+0xC0493D70 = ~z~I'll cut you in.
+
+0xC0C972A7 = ~z~~sl:0.5~Okay.
+
+0xC9E60D3E = ~z~This is not forgiveness of my debt, this is just a stay.
+
+0xC90CB972 = ~z~Downes, where are you?
+
+0xC442C70E = ~z~it's pleasure I'm after.
+
+0xC563B5FB = ~z~Really?
+
+0xC750B4A6 = ~z~You were a fool for lending them the money.
+
+0xC923CF25 = ~z~Why?
+
+0xC2369C5E = ~z~You won't find anything on this property.
+
+0xC3497FDF = ~z~What did you want? You loaning already?
+
+0xC20701D7 = ~z~The opinionated little do-gooder...
+
+0xC3567760 = ~z~Please. Please. Show some compassion. Please.
+
+0xCBDBB6C9 = ~z~Collected on that ranch hand...
+
+0xCE82349F = ~z~Of course.
+
+0xCED2ED0C = ~z~Mr. Strauss seemed so understanding.
+
+0xCFC2383B = ~z~the small holder at Painted Sky...
+
+0xD6C441C1 = ~z~Is that clear?
+
+0xD6E242FF = ~z~we are doing them a favor.
+
+0xD9B4D9DE = ~z~Of course.
+
+0xD31ECCD7 = ~z~You borrowed money from my business partner Herr Strauss.
+
+0xD35C44A3 = ~z~Threaten me, would you?
+
+0xD61F5243 = ~z~and they seem more or less destitute.
+
+0xD79FA8B1 = ~z~A little patience is all I require.
+
+0xD91A6F06 = ~z~people is happy to borrow off someone like me, but...
+
+0xD504C1FA = ~z~The debt will be paid when I can pay it, sir... there's, there's nothing more I can say.
+
+0xD7656BA8 = ~z~You busy, my friend?
+
+0xD984521A = ~z~slippery feller, lucky I got him.
+
+0xD2751602 = ~z~Please, son, for me.
+
+0xD2856393 = ~z~He's more slippery than he seems.
+
+0xDB3C5DD1 = ~z~Thomas Downes?
+
+0xDC38D008 = ~z~He's a hand, I believe.
+
+0xE3AA386C = ~z~I know... and I know Strauss's business is not too... glamorous, but it pays.
+
+0xE3EB6DDB = ~z~He's almost dead...
+
+0xE10EE008 = ~z~Really?
+
+0xE26BDD8E = ~z~runs the operations there... badly.
+
+0xE593C8F0 = ~z~this farmer, preacher, feller who I met in Valentine...
+
+0xE623E182 = ~z~Debtors belong in prison...
+
+0xE940F193 = ~z~Got Lilly Millet's debt...
+
+0xE999E76C = ~z~We ain't your idea of charity.
+
+0xE2966BC6 = ~z~He wants it back. What's not to understand?
+
+0xEBB21608 = ~z~I'm working... I'm working as hard as I can.
+
+0xEC0D14EB = ~z~Already?
+
+0xEC54F160 = ~z~He's a hand, I believe.
+
+0xEE94961A = ~z~What will that solve?
+
+0xF6CA8CC2 = ~z~Called in on the small holder... Wrobel.
+
+0xF34BE460 = ~z~yeah, I know the one...
+
+0xF37C8D75 = ~z~Ah, how did you get on?
+
+0xF327FDE6 = ~z~a Chick Matthews, works at Guthrie Farm.
+
+0xF700DF19 = ~z~I been working hard, Dutch.
+
+0xFAE48792 = ~z~If I'm here, there's a reason I'm here.
+

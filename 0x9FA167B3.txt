@@ -1,0 +1,188 @@
+0x05597AB5 = ~z~Here's some cash to keep you going.
+
+0x081FF835 = ~z~Which leaves us to do it when I can figure a way.
+
+0x083C6D62 = ~z~in the bank they were planning on robbing.
+
+0x091DD4D9 = ~z~The other regiment's arrived! These bastards are done for.
+
+0x0B3FA680 = ~z~and what you are is a pathetic old man.
+
+0x0D2EF5F2 = ~z~Hold. Hold!
+
+0x0E9A3939 = ~z~It would take something real special to get through the gates.
+
+0x0E7884E6 = ~z~I'll watch how you get on.
+
+0x1B0F461F = ~z~A knife in the back for...
+
+0x1BF51FDF = ~z~I don't want them to know I'm behind this...
+
+0x1CE116AB = ~z~If we take out the ammunition dump in the place...
+
+0x2AA6B236 = ~z~then there ain't no way they can blow a hole...
+
+0x2DC96B93 = ~z~An eye for an eye, a tooth for a tooth.
+
+0x3D9297BB = ~z~~sl:0.0:1.9~Don't let them overrun the fort!~sl:~The rest of the men will be here soon.
+
+0x3EF9597E = ~z~In positions.
+
+0x3FA60F50 = ~z~Go away, old man.
+
+0x4BB83406 = ~z~The other men will be here. Hold them until they are.
+
+0x4C0A5AB1 = ~z~Second company's here, we're saved!
+
+0x4D440A89 = ~z~Thank you.
+
+0x4F227B2D = ~z~Only thing about this is we can kill two birds with one stone.
+
+0x4F23063E = ~z~well, that'll be fine too.
+
+0x5A294336 = ~z~His mistress really wants to call in a favor.
+
+0x5EEC1AEC = ~z~Revenge aint my primary motive.
+
+0x6B50E585 = ~z~He was quite insistent.
+
+0x7A71D1F7 = ~z~My old company, holed up like the rats they are.
+
+0x7A9750BD = ~z~Get in position. Be ready for them coming through.
+
+0x7AAD676F = ~z~I'm watching. Go on.
+
+0x7CAD083D = ~z~Oh, and I saw your friend Horley.
+
+0x7CDAE1B1 = ~z~So, good luck.
+
+0x7DD96E16 = ~z~Oh, you'll hear me in your sleep, Finch.
+
+0x8D097726 = ~z~My primary motive is profit.
+
+0x8D818D1B = ~z~Go on, now. Get this done.
+
+0x8F2FAD42 = ~z~He said to remind you to come see him just South of Armadillo.
+
+0x9A5D9CB2 = ~z~Here's some dynamite to do the job.
+
+0x9ABB4475 = ~z~Like I said, good luck.
+
+0x9B182848 = ~z~I hope the old man hasn't spooked you. Get to work down there.
+
+0x28F9EE8A = ~z~Just need to hold them until relief arrives.
+
+0x29FEF002 = ~z~These walls will hold them. We sit tight in here and wait them out.
+
+0x32E44DBD = ~z~much as I'd like to shoot every last one of 'em.
+
+0x43A5E468 = ~z~They're in there, the men who betrayed me.
+
+0x44A17BA3 = ~z~I said away with you, old bastard.
+
+0x51D3FB39 = ~z~Just in time, we're almost beat.
+
+0x61A42B40 = ~z~I best stay here.
+
+0x73AE7C76 = ~z~Come on!
+
+0x74E3F93C = ~z~I bet you're no good like him.
+
+0x74E551C2 = ~z~And if one of you gets the opportunity...
+
+0x81D8BD02 = ~z~Fire away!
+
+0x86D0F599 = ~z~to kill my so called lifelong best friend and business partner...
+
+0x95D1C7AA = ~z~Stay behind the walls. We'll make them put us to siege.
+
+0x171D1E40 = ~z~Thank you very much.
+
+0x231FD520 = ~z~But remember, it don't have to be like this.
+
+0x269ABD3B = ~z~Now we won't have the army going after the same banks as we are...
+
+0x340D76FB = ~z~There's more than one way to earn a buck.
+
+0x526D34DE = ~z~a knife in the back.
+
+0x669B5D3E = ~z~Get on.
+
+0x732F1FAF = ~z~Dig in, gentlemen.
+
+0x904FB017 = ~z~Tell him folk like you had no place in the service to begin with.
+
+0x981B3F35 = ~z~not sure I do.
+
+0x3859E0B9 = ~z~That bastard's death makes my life much easier.
+
+0x85999AAB = ~z~I'm a soldier, who robbed. Finch is a thief, who soldiered.
+
+0x98420D97 = ~z~But it ain't just that.
+
+0x408958A4 = ~z~We held the fort as best we could.
+
+0x795282AC = ~z~Get on.
+
+0x2609902C = ~z~Here they come, fire at will!
+
+0x5021764D = ~z~They got dynamite, get away from the doors!
+
+0x90005951 = ~z~Men, come on.
+
+0xA2FE8A04 = ~z~They're in! Fire! Fire!
+
+0xA25E49C6 = ~z~If those doors come down, we'll lose the fort.
+
+0xA70FEA26 = ~z~ We just have to wait for the other regiment to relieve us.
+
+0xA32255BC = ~z~Tell Finch you came here and failed.
+
+0xAC87680D = ~z~He said to say thank you for attending to his business.
+
+0xB37CF671 = ~z~And in lieu of glory, we took cash.
+
+0xB437ED79 = ~z~Barricade the doors.
+
+0xB203561E = ~z~I'm sitting up here waiting on a show. You gonna put it on or what?
+
+0xBA1F6442 = ~z~I'll be in touch if I can.
+
+0xBECC0C7A = ~z~Said you'd understand...
+
+0xC9AAAD74 = ~z~Hear that?
+
+0xCA3E26CE = ~z~I'll watch how you get on.
+
+0xCDAD2AD1 = ~z~~sl:0.0:1.8~Don't judge us for what we've done.~sl:~We didn't have a real war to fight, just Indian killing.
+
+0xCDE98BD6 = ~z~if we can ever get the planning of it.
+
+0xD4113824 = ~z~We are what we are...
+
+0xDACA1129 = ~z~Get ready...
+
+0xDDC4F4E9 = ~z~We hold the fort.
+
+0xDE8ECC94 = ~z~Sent by Finch, I bet.
+
+0xDE7712FA = ~z~Clear away from the doors, they're going to blow!
+
+0xDFA92F55 = ~z~and your bounty will be in any sheriff's office.
+
+0xE6CFDDA1 = ~z~Nice world, Mr. Finch.
+
+0xE9CBE30E = ~z~~sl:0.0:1.6~You don't look like an army unit,~sl:~so I'm guessing you're here about our other pursuits.
+
+0xE949D79C = ~z~Hold them fast!
+
+0xF1BA3F09 = ~z~They're coming in here. Be ready when the doors blow!
+
+0xF91E023D = ~z~So it goes.
+
+0xF17052E3 = ~z~And I'll be in Blackwater...
+
+0xFBB91377 = ~z~~sl:0.0:1.7~Let's not fall into a trap.~sl:~Let them do what they want outside the wall.
+
+0xFC2807BA = ~z~You're going to pay for making a mess of this fort.
+

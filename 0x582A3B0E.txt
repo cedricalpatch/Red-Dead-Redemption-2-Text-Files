@@ -1,0 +1,66 @@
+0x0DDEACB0 = Lneny?
+
+0x4A945746 = Beat
+
+0x5C30C8BC = Slap
+
+0x13F4DD19 = Tommy
+
+0x22A6F3BA = Drink
+
+0x29EEC833 = You rode away from Valentine.
+
+0x148FF4C0 = Stranger
+
+0x260D49E0 = Dunk
+
+0x596B3AD8 = You ran away from Valentine.
+
+0x864DF274 = You ran away from the saloon.
+
+0x1970D083 = Return to the ~o~Saloon~s~
+
+0x3147F3B6 = Lemmy?
+
+0x4695AE96 = Bartedner
+
+0x6027EDEF = Lean On Bar
+
+0x6258E5DB = Go to ~o~Lenny~s~
+
+0x9871A2BF = You rode away from the saloon.
+
+0x46205CC6 = Mount your ~o~horse~s~
+
+0x333574A4 = Find Lenny in the ~o~saloon~s~
+
+0x3084270A = Great
+
+0x15927127 = Gret
+
+0xA3F7C6CC = Threaten
+
+0xA6A71352 = teerG
+
+0xB0873AC3 = Jump
+
+0xB4872F12 = Grate
+
+0xC19D2416 = Ride to the Valentine ~o~saloon~s~
+
+0xCB1CB336 = Bartender
+
+0xD72C3F4C = Lennie?
+
+0xDE899529 = Find Lenny in the ~o~saloon~s~
+
+0xEA579982 = Go to the ~o~bar~s~
+
+0xF02F7152 = ynneL?
+
+0xF25B7758 = Charm
+
+0xFC7847C8 = Lenny!
+
+0xFDD4C548 = Drown
+

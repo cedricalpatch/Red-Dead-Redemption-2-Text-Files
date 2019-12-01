@@ -1,0 +1,24 @@
+0x3D4DACBA = Track down and collect the Condor Egg. Only one player can find the Condor Egg and keep it.
+
+0x4E16A974 = Condor Egg
+
+0x14C609F4 = Use Eagle Eye ~INPUT_SPECIAL_ABILITY~ to help spot the Condor Egg. You can also look out for a Californian Condor circling nearby.
+
+0x66A6B6B7 = Find the Condor Egg worth ~1$~
+
+0x767EEB2E = The Condor Egg was not found
+
+0x7073E8A1 = You only have 1 life and will not respawn if you are killed.
+
+0x67539233 = The Condor Egg was found
+
+0x74580739 = Use Eagle Eye ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to help spot the Condor Egg. You can also look out for a Californian Condor circling nearby.
+
+0xB0CC7BBF = You found the Condor Egg worth ~1$~
+
+0xBEBFB1E5 = Found the Condor Egg
+
+0xC08FC40F = ~1p~ found the Condor Egg
+
+0xCCA5E167 = Find the Condor Egg
+

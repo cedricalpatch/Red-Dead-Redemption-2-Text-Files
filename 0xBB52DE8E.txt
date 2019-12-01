@@ -1,0 +1,562 @@
+0x0115D506 = ~z~Well, they mighta.
+
+0x02E42C49 = ~z~Gave him something to remember us by, at least.
+
+0x04F10F0F = ~z~Say your goodbyes, John. We're off.
+
+0x05AD9872 = ~z~Come on.
+
+0x072F6587 = ~z~Is it gone?
+
+0x0862CA63 = ~z~You got a nice ranch. ~rp~What you farming there?
+
+0x0992BDC3 = ~z~Oh my. ~rp~I never took you for a romantic.
+
+0x0AEDBE26 = ~z~I think he's gone.
+
+0x0AF951ED = ~z~And I did good?
+
+0x0B6E4FFA = ~z~This ain't somewhere we want to hang around.
+
+0x0B46F180 = ~z~~sl:0.0:1.1:1~I think so.
+
+0x0BAD9C9B = ~z~there's something else.
+
+0x0D788AE3 = ~z~~sl:0.0:2.1~Them bastards was green.~lr:~If we didn't get them, someone else woulda.
+
+0x0D659019 = ~z~Yeah. Just...
+
+0x0EEDBDDA = ~z~Come on, let's go.
+
+0x1A806E9E = ~z~Sheep, I think.
+
+0x1AA35D91 = ~z~Fucking monster.
+
+0x1C63BE9F = ~z~I took on a lot of debt when we bought this place.
+
+0x1CB3F562 = ~z~I think so.
+
+0x1E98B562 = ~z~My God...
+
+0x1EB005D0 = ~z~Okay, I think I got him. ~rp~Follow me.
+
+0x1FFD6968 = ~z~There's a cabin up here.
+
+0x2C82980A = ~z~Well, ~rp~I'm real happy for you, John. ~rp~Being married, it made me real happy...
+
+0x2CCA0431 = ~z~I think I'm going to ask her to, uh, to marry me. ~rp~I got a ring.
+
+0x2D2502C0 = ~z~Waiting to see if that animal ate us?
+
+0x2E2CD1AF = ~z~You are your own man, sure. But ~rp~I'm my own woman.
+
+0x2EEA5FC2 = ~z~Something's been here.
+
+0x3AF7A08C = ~z~And the ranch. ~rp~You were right. ~rp~It's really something.
+
+0x3D70475F = ~z~Here, put him down.
+
+0x3F15C935 = ~z~Here we are.
+
+0x4C3D16A7 = ~z~I think I got the trail. ~rp~Follow me.
+
+0x4CA20FC8 = ~z~I know. ~rp~Well, I'm hearing things.
+
+0x4F5C5855 = ~z~Well, ~rp~the wool trade and the meat trade, they're competitive too.
+
+0x4FC8C807 = ~z~I-I-I'm coming.
+
+0x5A78AB75 = ~z~A lot of things, still mostly just whispers, but ~rp~I think he might be pretty close.
+
+0x5A81B562 = ~z~Sadie, you're alive. John, it's...
+
+0x5AC8E53E = ~z~I understand all of that, of course I do.
+
+0x5B339C85 = ~z~~sl:2.8~Fair enough. ~rp~Those are fine new clothes by the way.
+
+0x5CCBC1B6 = ~z~He's gonna do something better than this.
+
+0x5D77BC96 = ~z~Damn fools. Ride.
+
+0x5E9AE7D2 = ~z~Hey, ~rp~it's nice of you to stop by and see the place, finally.
+
+0x5EF7C32E = ~z~It's legal work that I can handle.
+
+0x6A753B08 = ~z~~sl:0.3:4.1~Yeah, ~rp~I spend my cash on fancy clothes...~sl:~and horses and shiny new guns.
+
+0x6ABDD832 = ~z~No, you said that.
+
+0x6CD43253 = ~z~Don't get yourselves hurt now, son.
+
+0x6E1BA0D2 = ~z~Shoot!
+
+0x6E75C22C = ~z~~sl:0.0:2.3~And I get to say who I ride with...~sl:0.2~and ~rp~I don't know if your ranch and your kid and your wife...
+
+0x6EDBDE16 = ~z~Ma! Pa! Come out here!
+
+0x7A379F62 = ~z~Yeah. That's kind of the problem.
+
+0x7C833D5C = ~z~You ever think if it's right?
+
+0x7D2EA550 = ~z~~sl:0.0:1.7~I'm my own man, ain't I?~lr:0.8~I get to make those calls. ~rp~I needed the money.
+
+0x7EE26305 = ~z~~sl:0.0:3.7~A family man and all. ~rp~Seeing all this...~lr:1.6~I don't know if I can do it again.
+
+0x7F86872B = ~z~I just...
+
+0x8CCE1117 = ~z~Aint... all that back there on your ranch enough?
+
+0x8DCDB4BD = ~z~Alright.
+
+0x9A65FFD4 = ~z~Let's get him to the jail house.
+
+0x9B403C5A = ~z~I'm a bounty hunter, bodyguard...
+
+0x9D0CD437 = ~z~Listen, I'm sorry, Abigail.
+
+0x9D8E8796 = ~z~Yeah, I'll send your share to the bank when I get paid.
+
+0x9D87B28A = ~z~Are you sure you want to hear about him?
+
+0x9DF4C1C3 = ~z~and all armed to the teeth like that.
+
+0x9EF1C60C = ~z~are things I wanna be worrying about when I hear a gunshot.
+
+0x9EF3665B = ~z~Pathetic!
+
+0x9F24029D = ~z~And if there's other bastards after the same orders as I am, I get competitive.
+
+0x12A02AE6 = ~z~Who's this up here?
+
+0x14A875CC = ~z~You need a hand taking him in?
+
+0x17EC3CEF = ~z~Come out.
+
+0x18DAE173 = ~z~When you hear something real? You bring it to me.
+
+0x21C3C95F = ~z~I was thinking, maybe if John wanted to earn some money?
+
+0x22BEC876 = ~z~~sl:0.0:2.2~Dammit, I lost the trail.~lr:0.6~Can you see which way he might have gone?
+
+0x25A375E4 = ~z~It was... ~rp~it was Arthur's. ~rp~I found it in a bundle of his things that I have kept.
+
+0x27BBA823 = ~z~We was thinking you might need protection.
+
+0x34F3E821 = ~z~I'm tracking something. ~rp~Come over here, John.
+
+0x38C479A8 = ~z~Like what?
+
+0x39FE4CA8 = ~z~I look like I need protection?
+
+0x44D2D3F8 = ~z~Must be it. ~rp~Get down, let's take a look around.
+
+0x46BB12C3 = ~z~It's a good thing I hunt people, not deer.
+
+0x50CA3BB3 = ~z~I came by 'cause I was riding by chasing a feller, and I thought...
+
+0x50EA91CD = ~z~What's your wife gonna think about this? Goddamn you.
+
+0x51B5CE5F = ~z~~sl:0.0:2.2~And I get to say who I ride with...~sl:0.2~and ~rp~I don't know if your ranch and your kid and your wife...
+
+0x52D032BA = ~z~Come on.
+
+0x53A3AC86 = ~z~Micah?
+
+0x54AB0E97 = ~z~~sl:0.0:1.7~I'm my own man, ain't I?~lr:0.4~I get to make those calls. ~rp~I needed the money.
+
+0x54B52382 = ~z~~sl:1.7~Fair enough. ~rp~Those are fine new clothes by the way.
+
+0x58C54AAD = ~z~The soft ones usually do.
+
+0x60CB18C5 = ~z~What monster did this?
+
+0x61A5FCE8 = ~z~In a couple of years, ~rp~we can sit down, and you can tell me how right you feel about all that you've done to survive.
+
+0x61CC26BF = ~z~It keeps going through here.
+
+0x65C8796B = ~z~call yourself a man?
+
+0x67E68ED1 = ~z~No, not really... not officially.
+
+0x69E5825E = ~z~That our feller?
+
+0x70CBBC90 = ~z~So you happy?
+
+0x76B0E2AE = ~z~You alright, John?
+
+0x82B874A5 = ~z~Well, he definitely didn't go that way.
+
+0x83A2CB9B = ~z~Yep. ~rp~It does require a certain level of detachment.
+
+0x83C255FC = ~z~Up here.
+
+0x87C214C2 = ~z~Leave Micah alone.
+
+0x90BEA1DB = ~z~Sadie Adler.
+
+0x90E90898 = ~z~Then shoot the three bears!
+
+0x94F40112 = ~z~Or what's left of one.
+
+0x96E13078 = ~z~It's legal work, Abigail...
+
+0x123F607D = ~z~So...
+
+0x124DE934 = ~z~Drop 'em!
+
+0x139D2F47 = ~z~~sl:0.3~Both of 'em.
+
+0x158C8245 = ~z~That I am, ma'am.
+
+0x164F3493 = ~z~This... this looks...
+
+0x198F6BCA = ~z~Hold up. I think I see something.
+
+0x242CBDA7 = ~z~We always find a way to almost get killed, don't we?
+
+0x252E03F9 = ~z~I look forward to it.
+
+0x260C5438 = ~z~Really, I am.
+
+0x268B5523 = ~z~Him or the bear?
+
+0x300BE5EF = ~z~And you're working for her to pay it off?
+
+0x323ED811 = ~z~Yeah, this way.
+
+0x338C14F3 = ~z~Come here!
+
+0x355A5CE6 = ~z~Ain't gonna make a habit of it.
+
+0x389BF92C = ~z~~sl:1.9~And feller left in quite a hurry...
+
+0x401FA599 = ~z~~sl:0.0:1.7~Dammit, I lost the trail.~lr:0.4~Can you see which way he might have gone?
+
+0x412AB030 = ~z~Come here.
+
+0x432DF88D = ~z~You know, I been doing some bounty hunting of my own since I last saw you.
+
+0x437D2F70 = ~z~Before I come in there and kill you myself!
+
+0x468A872D = ~z~~sl:0.6:3.9~Yeah, ~rp~I spend my cash on fancy clothes...~sl:~and horses and shiny new guns.
+
+0x511B88FA = ~z~
+
+0x613C3270 = ~z~Gone straight, have you now, you idiot? Shit.
+
+0x619EA87E = ~z~Uh huh. That's kind of the problem.
+
+0x658BD043 = ~z~You want to work, let's do it.
+
+0x661BF4AD = ~z~Thurwell!
+
+0x680C1B21 = ~z~Okay. Hitch up.
+
+0x681DD1E2 = ~z~Idiots. Let's go.
+
+0x705D65F9 = ~z~but goddamn Micah?
+
+0x721E1C97 = ~z~uh, me and my partner would like to split the reward.
+
+0x788E9BB5 = ~z~Okay... ~rp~I guess I thought you were married already, long ago.
+
+0x858F253C = ~z~Some feller robbed his business...
+
+0x922E5242 = ~z~Yes it were.
+
+0x939D9DBE = ~z~If I find him, I will handle it.
+
+0x981EA6C0 = ~z~Your bounties, or transport work, that's your decision. ~rp~If you want to bring me along or not.
+
+0x1100A4B5 = ~z~Don't you put those stupid ideas in the boy's head.
+
+0x1439B093 = ~z~I'm sorry, Abigail.
+
+0x1725F1F7 = ~z~Get your horse and let's go.
+
+0x3323EC27 = ~z~Yes, sometimes I was.
+
+0x3457BFDB = ~z~You Marshall Thurwell?
+
+0x3517EA8F = ~z~You are a hard woman.
+
+0x4879CCF1 = ~z~am I forgiven?
+
+0x5804DDE4 = ~z~Thurwell...
+
+0x5857DB4C = ~z~Abigail's back... with the boy...~rp~ you must be so pleased, John.
+
+0x6759E29E = ~z~~sl:0.4~You don't mess around, do ya? Let's go.
+
+0x7192E5DC = ~z~What else am I gonna do?
+
+0x7884F656 = ~z~I'm better in town than in the back country, I guess.
+
+0x8373CA0C = ~z~I told you she wouldn't listen!
+
+0x8402CA53 = ~z~Oh boy.
+
+0x9113AA45 = ~z~thought if you wanted to earn some money.
+
+0x9808F467 = ~z~This is a cold business, ain't it?
+
+0x10603D36 = ~z~We're cutting off the main track up here, by Manzanita Post.
+
+0x31032E81 = ~z~No, I'm fine.
+
+0x42970A6D = ~z~I heard he was up country...
+
+0x56182EE7 = ~z~But I thought we said no more of that.
+
+0x63971FD9 = ~z~~sl:2.0~You and your partner are just children.
+
+0x70076D28 = ~z~I'm coming.
+
+0x79820D22 = ~z~John wanted to earn some extra money.
+
+0x95786D3E = ~z~Ain't pretty.
+
+0x356983F6 = ~z~I guess.
+
+0x472466F4 = ~z~~sl:0.0:3.7~Uh, me and my partner, we're dead set on splitting that reward,~sl:~and if not...
+
+0x663810C6 = ~z~No. ~rp~I just see orders on the wall, and I try and fill them.
+
+0x690581BB = ~z~Okay then.
+
+0x891794E5 = ~z~I'm a goddamn man.
+
+0x964278F6 = ~z~Let you know if I hear anything about Micah.
+
+0x3829785F = ~z~Yeah, looks like they went this way.
+
+0x3967780E = ~z~There's...
+
+0x4684262B = ~z~Okay then...
+
+0x4691153D = ~z~You ain't never burying me.
+
+0x8394539A = ~z~Go on, get home to your wife.
+
+0x8727085F = ~z~Let's go before he comes back. He's wanted in Blackwater.
+
+0x9368606C = ~z~That's a date.
+
+0x15885363 = ~z~No, ma'am. That weren't it.
+
+0x28915917 = ~z~Looks like a bear or something came through here.
+
+0x31278439 = ~z~~sl:0.0:2.0~Them bastards was green.~lr:~If we didn't get them, someone else would've.
+
+0x48367738 = ~z~~sl:0.4:2.1:1~Wha-What the hell...
+
+0x67765439 = ~z~You can track, can't you?
+
+0x76723248 = ~z~Yeah, well, you needed saving.
+
+0x82740546 = ~z~Well how'd you know she was...
+
+0xA00CD93B = ~z~n-n-no.
+
+0xA0A90BFB = ~z~Is that? Are you Sadie Adler, ma'am? The bounty hunter?
+
+0xA1E2882E = ~z~I guess they are.
+
+0xA2B1FDC2 = ~z~For doing what? Get off the road.
+
+0xA7F25CFD = ~z~Is the monster still out there?
+
+0xA7FC9256 = ~z~Crap.
+
+0xA77FA629 = ~z~My God.
+
+0xA609CC71 = ~z~saw her, I thought I...~n~~m~You look well.
+
+0xA8797BE5 = ~z~~sl:0.0:3.3~Maybe it wasn't right of me to bring you along on all the...~sl:~really heavy stuff.
+
+0xA9440E84 = ~z~So, you happy?
+
+0xA61042A3 = ~z~But... but Micah, ~rp~that's something we, well I... I gotta do, ~rp~with or without you , Sadie.
+
+0xAB337084 = ~z~What is it?
+
+0xAD5E555F = ~z~~sl:1.3:2.3:1~It's that way, I'd say.
+
+0xAD8F943E = ~z~Get it together. Come on.
+
+0xB0264F84 = ~z~Hey, my feeling is it's back over this way.
+
+0xB040ACFA = ~z~Thank you.
+
+0xB3E0F3EA = ~z~Look out!
+
+0xB4D302C7 = ~z~Of course.
+
+0xB5CF6BFC = ~z~We've... I've...
+
+0xB5E37104 = ~z~Bounty hunting is one thing...
+
+0xB9CA6B0F = ~z~You said earlier, ~rp~you knew something about Micah. ~rp~You gonna tell me what you know?
+
+0xB3127F46 = ~z~But Micah...
+
+0xBA267702 = ~z~It's hunting down fools for the government.
+
+0xBABFF022 = ~z~~sl:0.0:0.8:1~Great.
+
+0xBB09AEC0 = ~z~See if it's him.
+
+0xBB5C32B4 = ~z~I think so.
+
+0xBBDE6E3F = ~z~You know what I mean.
+
+0xBE18EB69 = ~z~What you looking over there for, John?
+
+0xBE8179F1 = ~z~It's coming back around!
+
+0xBF79A986 = ~z~You're marrying Abigail... or, asking her at least?
+
+0xC3EB0A8B = ~z~Even Jack could do it.
+
+0xC5ABDE33 = ~z~So, ~rp~we're coming up on where he's been seen.
+
+0xC45D15D6 = ~z~I'm here to arrest you on behalf of the State of Lemoyne.
+
+0xC47BC4F3 = ~z~So, you happy?
+
+0xC68E92F6 = ~z~I protect the gold prospectors up in the hills.
+
+0xC74BA7B8 = ~z~You hear?
+
+0xC76FE1BB = ~z~This moron accountant, Marshall Thurwell, been trying to live like an outdoorsman.
+
+0xC95B77FE = ~z~~sl:0.0:3.1~Maybe it wasn't right of me to bring you along on those...~sl:~really heavy things.
+
+0xC583C3B4 = ~z~Is that a body?
+
+0xCA891D2F = ~z~Writing silly stories?
+
+0xCAE19DB9 = ~z~Here.
+
+0xCB8D9778 = ~z~Well, come on.
+
+0xCC183EB2 = ~z~I can't believe we didn't kill that bastard.
+
+0xCCB4DECC = ~z~You really saved me there.
+
+0xCED648AA = ~z~~sl:0.0:4.1~A family man and all. ~rp~Seeing all this...~lr:0.7~I don't know if I can do it again.
+
+0xCFD157FC = ~z~Look, I got great respect for you professionally.
+
+0xD0EAE62A = ~z~It's called industry... and if you ain't noticed, everyone is out there doing it.
+
+0xD0F9EC9C = ~z~Get off the road.
+
+0xD3D641C9 = ~z~Abigail, we need the money.
+
+0xD5E70483 = ~z~well, we said we was gonna have to take the all of it.
+
+0xD8D8B9CE = ~z~How many times do I gotta bury you, John Marston?
+
+0xD94C32F5 = ~z~I am so happy, I am so happy.
+
+0xD259BED0 = ~z~you know, an accountant or something.
+
+0xD325AC24 = ~z~My husband, he ain't looking for that kinda work.
+
+0xD475ABA0 = ~z~and I never got killed.
+
+0xD4037F30 = ~z~That our feller?
+
+0xD5963848 = ~z~No, I think he's gone.
+
+0xDA6DCDFC = ~z~Just, you bring him back to me.
+
+0xDCC1C69B = ~z~Keeping walking.
+
+0xDD19C229 = ~z~Well he was from the South, whoever he is...
+
+0xDD73F341 = ~z~But if that's Marshall Thurwell there...
+
+0xDE18D646 = ~z~It pays good.
+
+0xE5A11E1D = ~z~Camping out here.
+
+0xE6ACEAEF = ~z~Come on. They ain't here.
+
+0xE7AE7F0F = ~z~Okay. I'll bring it to you. But ~rp~you think about if this is what you really want.
+
+0xE39E937A = ~z~You ready? Follow me. We're going up into Tall Trees.
+
+0xE40AE232 = ~z~Came down from Rhodes I believe.
+
+0xE49F853E = ~z~You did good.
+
+0xE75B2191 = ~z~He's lucky the Skinner Brothers ain't found him.
+
+0xE82BD883 = ~z~That's 'cause I ain't got anything else that matters to me anymore.
+
+0xE4940DC1 = ~z~Get her!
+
+0xE2769169 = ~z~Him?
+
+0xEA76F4ED = ~z~Get on your horse, John.
+
+0xEA87DA4C = ~z~or some feller who sounded just like him.
+
+0xEA985B09 = ~z~I'm a working woman, Abigail.
+
+0xEAAF6E7F = ~z~John Marston, let's go.
+
+0xEAB9AC9C = ~z~but, looks more like a local farmer to me.
+
+0xEAC85DAD = ~z~Never.
+
+0xEBC0111E = ~z~For meat or for wool?
+
+0xEC093ED7 = ~z~~sl:0.0:3.4:1~Shit. I'm seeing... I'm seeing triple!
+
+0xEC58868D = ~z~Well, it's like Abigail says...
+
+0xECEB73EB = ~z~How much does it pay?
+
+0xEDD94277 = ~z~~sl:0.0:2.6:1~John, John, hold on... hold on!
+
+0xEF67EBE7 = ~z~Don't shoot.
+
+0xEF5766A4 = ~z~Then maybe he's our man. If he ain't become some bear's lunch.
+
+0xF3D8924F = ~z~No, ~rp~me neither, but... ~rp~it's something I've thought about ... and I, ~rp~I think... ~rp~I know... I want it.
+
+0xF4B1E7A4 = ~z~~sl:0.8~You don't mess around, do ya? Let's go.
+
+0xF7A3AB46 = ~z~Never.
+
+0xF8CC7771 = ~z~I'm thinking of starting my own transportation business.
+
+0xF21BF153 = ~z~You're wanted for theft, fraud and avoiding arrest.
+
+0xF534ED1E = ~z~Easy.
+
+0xF54192CE = ~z~Get out here!
+
+0xF456186A = ~z~Everything you can get... and everything you can lose.
+
+0xF8784819 = ~z~Maybe...
+
+0xFBF525C6 = ~z~that's one word for ya.
+
+0xFC2815E9 = ~z~Mount up. Let's find them.
+
+0xFCA41947 = ~z~Come on, mount up.
+
+0xFCFA7F31 = ~z~Killed a family, bar a little girl who escaped.
+
+0xFDF2B583 = ~z~I ain't really thought. Both?
+
+0xFE96FD8A = ~z~But tell me about you, darling...
+
+0xFEDC4A34 = ~z~You sure?
+
+0xFF94E5EE = ~z~
+

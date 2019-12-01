@@ -1,0 +1,222 @@
+0x0343A0F2 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~alligator skin~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x075719EF = Drop off the bison pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x07DEE019 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~iguana~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x080EFEC2 = Deliver the supplies ~1~
+
+0x08F13CE9 = Drop off the deer near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x09ACADBE = You have a pronghorn stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the pronghorn for supplies.
+
+0x0A8D9AAC = Collect an elk pelt
+
+0x0A97CA19 = Drop off the condor near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x0AEF89A4 = The turtle can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x0D1FFFA0 = The items were lost
+
+0x2A06D878 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~pronghorn~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x2AAFA0A5 = Collect an alligator skin
+
+0x2FFE0A2A = Hunt an Eastern Wild Turkey
+
+0x5B700CFA = Turtles can be found near water, like Stillwater Creek.
+
+0x5BA35172 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~bison pelt~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x5C6B48A0 = Pronghorns can be found grazing throughout the desert.
+
+0x6A397668 = The bison pelt can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x6B73D479 = The pronghorn can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x6CA1AAA3 = The wagon was destroyed
+
+0x7A318F7E = Eastern Wild Turkey can be found feeding near the wooded areas of Scarlett Meadows.
+
+0x7BBB8DD7 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+0x7E4A2342 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~duck~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x7F0D2AEC = You have a coyote stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the coyote for supplies.
+
+0x8A76501A = Drop off the buck near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x8B2D2257 = Eastern Wild Turkey can be found feeding in grassy areas of the Heartlands.
+
+0x8E9EFB06 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x8E82A77A = You have a badger stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the badger for supplies.
+
+0x8E958091 = Bison can be found grazing in the Great Plains.
+
+0x9EA1D1F8 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~raccoon~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x10B78805 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~fox~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x12A84355 = Drop off the fox near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x14A06832 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~condor~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x19DC987B = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~turtle~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x22F80BE4 = Hunt a buck
+
+0x24E07317 = Drop off the moose pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x25FA7B5F = Drop off the turtle near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x33F22E7E = Drop off the duck near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x45EB21DC = The Eastern Wild Turkey can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x83CD304C = Get in the Hunting Wagon
+
+0x86DA2573 = Fulfill the request and deliver the supplies to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0x90C0A48D = Elk can be found by the Aurora Basin.
+
+0x90DA0ED0 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~elk pelt~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x91C0BA66 = Hunt a Whitetail Deer
+
+0x202A5DF2 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~moose skin~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x239A15A2 = You have a bison pelt stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the bison pelt for supplies.
+
+0x477D5FEA = Desert Iguanas can be found in Cholla Springs.
+
+0x514BE643 = The badger can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x525E9AC9 = Drop off the coyote near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x539DA43F = The elk pelt can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x850A21A0 = You have a fox stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the fox for supplies.
+
+0x871FBB64 = The alligator skin can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x900ECD7B = The supplies were destroyed
+
+0x947E7025 = The fox can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x962A613C = Hunt a turtle
+
+0x1970E076 = Eastern Wild Turkey can be found feeding in grassy areas throughout Cumberland Forest.
+
+0x3427A5EF = Whitetail Deer can be found grazing in Hennigan's Stead.
+
+0x5065F685 = The coyote can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x6118EF61 = The iguana can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0x9231CD54 = Hunt a condor
+
+0x9711F3F6 = You have an Eastern Wild Turkey stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the Eastern Wild Turkey for supplies.
+
+0x30297C7F = Eastern Wild Turkey can be found feeding near the wooded areas of Roanoke Ridge.
+
+0x50786BDC = Eastern Wild Turkey can be found feeding near the wooded areas of West Elizabeth.
+
+0x82960AB7 = You have a condor stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the condor for supplies.
+
+0x141067AA = Badgers can be found near water, like Mattock Pond.
+
+0x594054AF = Drop off the elk pelt near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0x11545269 = You have an elk pelt stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the elk pelt for supplies.
+
+0x76171013 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~buck~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xA1BB8DD2 = Coyotes can be found stalking around the woods near Roanoke Ridge.
+
+0xA21F02DE = Drop off the iguana near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xA54CED60 = Coyotes can be found stalking around Ringneck Creek.
+
+0xA533B6FF = Whitetail Deer can be found grazing near the hills in the Cumberland Forest.
+
+0xAA1A2625 = Hunt a duck
+
+0xAAE1051E = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xAB9E69CD = Foxes can be found throughout the wilderness, including Ringneck Creek.
+
+0xB1C74A67 = Drop off the pronghorn near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xB5B5F7AD = You have a duck stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the duck for supplies.
+
+0xB6A60E07 = Ducks can be found near bodies of water, such as Owanjila.
+
+0xB24AFBB7 = Drop off the turkey near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xB208DA91 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~coyote~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xB85427FF = Hunt a raccoon
+
+0xBEFBADD5 = Hunt a badger
+
+0xC20C854C = The duck can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0xC37F67A1 = You have a turtle stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the turtle for supplies.
+
+0xC44B4EB4 = Items can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0xCBB81490 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~deer~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xCCE3DFDE = Hunt a Desert Iguana
+
+0xCE5EE8B8 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xCF1FA8A0 = Hunt a pronghorn
+
+0xD2DCF62D = The Trader will not accept skinned animals.
+
+0xD4ED32AB = The supplies were delivered
+
+0xD8A8255D = Pronghorns can be found grazing in Cholla Springs.
+
+0xD8AD031E = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~badger~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xD8DE4664 = Earn the supplies
+
+0xD8E1C705 = The condor can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0xD163BAB4 = Hunt a fox
+
+0xD30754BC = You have an iguana stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the iguana for supplies.
+
+0xE5A792E5 = You have an alligator skin stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the alligator skin for supplies.
+
+0xE7AE9265 = You have a Whitetail Deer stowed in your Hunting Wagon ~BLIP_MP_PLAYER_WAGON~. Take the wagon to the Trader to exchange the Whitetail Deer for supplies.
+
+0xE21D3104 = Alligators can be found in the Bluewater Marsh.
+
+0xE54B5D48 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~turkey~s~ to the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xE9427868 = Hunt a coyote
+
+0xEAC72F01 = Drop off the alligator skin near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xEB2D8195 = The Whitetail Deer can be stored on your horse or in your Hunting Wagon for easy transport if there is space.
+
+0xF21BC8AE = Whitetail Deer can be found throughout forest areas, including the hills north of Elysian Pool.
+
+0xF63EA06C = Collect a moose pelt
+
+0xFAD81A33 = Collect a bison pelt
+
+0xFB758CF6 = Drop off the badger near the ~COLOR_MP_OBJECTIVE~Trader~s~
+
+0xFC3A957D = Pronghorns can be found grazing in Cumberland Forest.
+
+0xFC4FD976 = Whitetail Deer can be found grazing the grassy areas of New Hanover.
+
+0xFC560202 = You destroyed the wagon
+
+0xFE7A75BF = Condors can be found throughout the desert, including the top of Rio Del Lobo Rock.
+

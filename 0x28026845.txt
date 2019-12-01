@@ -1,0 +1,24 @@
+0x0D7AE2F9 = ~z~I-I-I'm too old to be alone... and too scared to remain here!
+
+0x4E5AE4C4 = ~z~Miss Grimshaw.
+
+0x5D01D484 = ~z~Are you thinking about leaving?
+
+0x9F3E867E = ~z~It's very worrying... very worrying indeed.
+
+0x9FA95A12 = ~z~I have no money! I am old! I am frightened, I am so frightened!
+
+0x51E73E87 = ~z~Excuse me, but everyone has gone crazy.
+
+0x54F8F1F4 = ~z~I'm... I'm... I'm very nervous... very worried... Fraulein... very, very worried...
+
+0x4202CC08 = ~z~Herr Strauss.
+
+0xB1F8ABF2 = ~z~I'm so afraid... I'm so very afraid.
+
+0xC3BC4F79 = ~z~I-I-I'm not sleeping, I'm not sleeping at all.
+
+0xE6AE9561 = ~z~Well me too, but... as long as my girls are okay... I think, well...
+
+0xF97BBAFB = ~z~What are we going to do? It's... it's a nasty world out there, and it's catching up with us...
+

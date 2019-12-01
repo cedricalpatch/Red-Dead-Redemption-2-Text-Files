@@ -1,0 +1,52 @@
+0x012E9782 = Fix
+
+0x2C61AFF7 = You attacked Abe.
+
+0x7C9C011A = Follow ~o~Abe~s~
+
+0x7D979B30 = Milk cow
+
+0x8E4FA481 = Take the ~o~telegram~s~
+
+0x37B2C4C2 = You didn't help Mr. Dickens.
+
+0x389DA8A9 = Mr. Dickens has died.
+
+0x446B4E42 = Fence
+
+0x851F9F6A = Fix fence
+
+0x5772F1C2 = Greet
+
+0x8254A5DF = The messenger has died.
+
+0x34647CA8 = You attacked Mr. Dickens.
+
+0x4591607F = You lost your opportunity with Mr. Geddes.
+
+0xA9F1122B = Speak to Abigail at the ~o~house~s~
+
+0xAE9B55D2 = You attacked the messenger.
+
+0xB528B221 = Pick up the ~o~post~s~ to build the fence
+
+0xB649C3F9 = Telegram
+
+0xC7FA57C4 = Build the fence
+
+0xC3712041 = Return to ~o~work~s~
+
+0xC6523732 = Abe
+
+0xCB0E78EF = Messenger
+
+0xE40A3F7A = Clean stalls
+
+0xE5149F87 = You left your belongings in the ranch.
+
+0xF7CDE3B3 = Go to ~o~Geddes' house~s~
+
+0xF2563A0A = The messenger left the place.
+
+0xFF161604 = Abe has died.
+

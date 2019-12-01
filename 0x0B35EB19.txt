@@ -1,0 +1,14 @@
+0x6EB2A3D7 = ~z~You seem in a good mood.
+
+0x7FBD45EC = ~z~Arthur! Oh, Arthur!
+
+0x70F72864 = ~z~Let's have some fun... tonight. Let's enjoy ourselves.
+
+0x646C8F4B = ~z~I am, son, I am...
+
+0x62918B99 = ~z~We having a party?
+
+0xCB405CF5 = ~z~Great.
+
+0xD57A7169 = ~z~Maybe, just a little one.
+

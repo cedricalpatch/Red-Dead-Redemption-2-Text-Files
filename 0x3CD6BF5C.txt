@@ -1,0 +1,50 @@
+0x041BA657 = Locate the shooter on the ~o~rooftop~s~ toward the gallows
+
+0x04D00011 = Pick up the ~o~rifle~s~ and observe the hanging
+
+0x0C1DEE08 = O'Driscolls may notice you while inside the park.
+
+0x4DC936A0 = Question
+
+0x4F16F717 = Follow the ~e~O'Driscoll~s~ with Dutch
+
+0x5CE2E59C = The police were alerted.
+
+0x8FAD6532 = Return to the shooter's ~o~location~s~
+
+0x15C6D778 = Many interiors have staircases to upper levels.
+
+0x36B6E8E4 = You prevented Dutch and Sadie from escaping on the wagon.
+
+0x51EE464C = Return to ~o~Dutch~s~
+
+0x53ABC2A1 = Approach the shooter's ~o~location~s~
+
+0x439F5836 = Take out the ~e~shooter~s~
+
+0x544B8134 = Follow ~o~Dutch~s~
+
+0x35958925 = You have been detected.
+
+0x61284340 = Find a way onto the ~o~rooftop~s~
+
+0xA90D0AE4 = Dutch
+
+0xA6521584 = You failed to stop the shooter.
+
+0xB83C7647 = Gunfight
+
+0xBB254DB7 = You injured a civilian.
+
+0xC0182C1C = The roof can be accessed by staircases leading outside.
+
+0xD2E7077E = Sadie and Dutch's cover was blown.
+
+0xDC8DE507 = Look for ladders or staircases to access the roof.
+
+0xE435C25F = O'Driscoll
+
+0xF37C1CEF = The sniper's location was abandoned.
+
+0xF83CFB0A = Take out the ~e~O'Driscolls~s~ to clear a path for ~o~Sadie~s~ and ~o~Dutch~s~
+

@@ -1,0 +1,316 @@
+0x0041DB8B = Stop the stagecoach ~1b~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ within the time limit to earn the full reward.
+
+0x00D3732B = ~1~ is trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x065BCB9B = Deliver the ~COLOR_POSSE_ALLY~target~s~ to ~1~
+
+0x06B4A629 = Timer expired
+
+0x075F5C4D = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x07D51AE0 = the ~COLOR_MP_OBJECTIVE~homestead~s~
+
+0x08578618 = ~COLOR_MP_OBJECTIVE~Macomb's End~s~
+
+0x08707BEB = Steal the ~COLOR_ENEMY~loot bags~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x0C3A084C = Loot bag delivered
+
+0x0C56DCAF = ~1~ is trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x0D52FC05 = Help deliver the ~COLOR_POSSE_ALLY~loot bag~s~ to ~1~
+
+0x0E4F4071 = Target delivered
+
+0x0E8C0FEC = Attack the stagecoaches ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+0x0F32C846 = Take the ~COLOR_POSSE_ALLY~target~s~ off the back of the horse and place them in the drop off to deliver.
+
+0x1B0E6023 = Take Loot Bag
+
+0x1B2EF037 = Ally
+
+0x1BB19FB1 = ~1~ are trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x1C32DB3F = ~COLOR_MP_OBJECTIVE~Annesburg~s~
+
+0x1EAE98E0 = ~COLOR_MP_OBJECTIVE~Blackwater~s~
+
+0x2BAAEA51 = ~1~ stole the loot bags
+
+0x2E3B7040 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ escaped
+
+0x2E6AF848 = ~COLOR_MP_OBJECTIVE~Aberdeen Pig Farm~s~
+
+0x3F129AE2 = ~COLOR_MP_OBJECTIVE~Manzanita Post~s~
+
+0x3F456F77 = Drop off
+
+0x4A5A644C = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ was knocked out
+
+0x4CFEEBEB = Steal the ~COLOR_ENEMY~targets~s~ from the ~COLOR_ENEMY~rival Posses~s~
+
+0x4E52862D = ~1~ are trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x4F4AAAA2 = Take out the driver and armed guards to stop the stagecoach ~1b~ and force the passengers to exit.
+
+0x5BF4791A = ~COLOR_MP_OBJECTIVE~Willard's Rest~s~
+
+0x5C1E99D0 = ~1~ are trying to kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x5C6316D6 = Steal the ~COLOR_ENEMY~target~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x5DA1BD87 = Take the ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger's~s~ money
+
+0x6EF74002 = the ~COLOR_MP_OBJECTIVE~homestead~s~
+
+0x7A72BE45 = Loot bag
+
+0x8B0BB1E0 = Ambush the ~COLOR_MP_OBJECTIVE~stagecoach~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x8C8D5A22 = ~COLOR_MP_OBJECTIVE~Radley's House~s~
+
+0x8DCD0482 = ~1~ triggered a rival mission against ~2~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ ~3b~ to gain the full reward.
+
+0x8E04DB6B = ~COLOR_POSSE_ALLY~~1p~~s~ delivered a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x9A72C956 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x9AE3AB3F = ~COLOR_MP_OBJECTIVE~Siltwater Strand~s~
+
+0x9AF0C0D3 = ~1~ is trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+0x9CFFAFDD = Loot bags destroyed
+
+0x9D7A69BA = ~1~ kidnapped the targets
+
+0x9E918DC3 = ~COLOR_MP_OBJECTIVE~Silent Stead~s~
+
+0x16AF0B89 = Target killed
+
+0x17C5253F = Attack the stagecoaches ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+0x20B468D1 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x20E6923D = Help deliver the ~COLOR_POSSE_ALLY~targets~s~ to ~1~
+
+0x36BED2F7 = ~COLOR_MP_OBJECTIVE~Fort Riggs~s~
+
+0x37AC3640 = Ambush the ~COLOR_MP_OBJECTIVE~stagecoaches~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x42B9E6C3 = ~COLOR_ENEMY~Rival players~s~ can steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+0x42D93C2E = Take out the drivers and armed guards to stop the stagecoach ~1b~ and force the passengers to exit.
+
+0x43CB6EA6 = ~COLOR_MP_OBJECTIVE~Greenbank Mill~s~
+
+0x43D10421 = Stop the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+0x45F8C5DB = ~1p~ has started Coach Holdup, steal the loot bags ~2b~ and bring them to the destination to earn cash and XP.
+
+0x46FD30E6 = ~COLOR_MP_OBJECTIVE~Old Trail Road~s~
+
+0x47AA6AA5 = You triggered a rival mission against ~1~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~2b~ to gain the full reward.
+
+0x48C6800A = Stop the stagecoaches ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+0x53F5B0E4 = ~COLOR_MP_OBJECTIVE~Copperhead Landing~s~
+
+0x58EA2E61 = ~COLOR_MP_OBJECTIVE~Lake Don Julio~s~
+
+0x62A7EC12 = the ~COLOR_MP_OBJECTIVE~shack~s~
+
+0x73A7E3F0 = Help deliver the ~COLOR_POSSE_ALLY~target~s~ to ~1~
+
+0x79D3B95C = ~1~/~2~ loot bags delivered
+
+0x88B25606 = Loot bag destroyed
+
+0x91A2A08D = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ escaped with a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x198C7C70 = ~COLOR_ENEMY~~1p~~s~ has kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x274DEC55 = Passenger
+
+0x379D676E = ~COLOR_MP_OBJECTIVE~Wallace Station~s~
+
+0x419AF883 = You triggered a rival mission against ~1~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ ~2b~ to gain the full reward.
+
+0x492AFF6D = ~COLOR_MP_OBJECTIVE~Micah's Hideout~s~
+
+0x493CF933 = Your Posse abandoned the mission
+
+0x622C1E83 = Loot bags stolen by rival Posse
+
+0x794E5ED9 = Ambush and rob the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+0x811D80DF = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~
+
+0x831E3C1A = Targets kidnapped by rival Posse
+
+0x963D166D = Take out the remaining ~COLOR_RED~coach guards~s~
+
+0x1595D2F9 = You triggered a rival mission against ~1~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ ~2b~ to gain the full reward.
+
+0x1649F61E = ~COLOR_ENEMY~Rival players~s~ can kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x1943F1C3 = Attack the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+0x2581D972 = You kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x3560C2B4 = Attack the stagecoach ~1b~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ within the time limit to earn the full reward.
+
+0x4485B5F4 = Target kidnapped by rival Posse
+
+0x6161A108 = ~COLOR_ENEMY~~1p~~s~ has stolen a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x6779CE06 = ~COLOR_MP_OBJECTIVE~Radley's Pasture~s~
+
+0x7068D810 = Drop the loot bag at ~1~
+
+0x7199A6C4 = Ambush and rob the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+0x9547D8C2 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~passenger~s~ was killed
+
+0x31937ED0 = Stagecoach
+
+0x37154FCE = the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0x42393A06 = ~COLOR_MP_OBJECTIVE~Scratching Post~s~
+
+0x66677D38 = the ~COLOR_MP_OBJECTIVE~location~s~
+
+0x99784FA3 = Lasso and hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x165960A7 = ~COLOR_ENEMY~Rival players~s~ can steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x597099FB = Lasso and hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0x916417E7 = Target
+
+0x917342FD = ~COLOR_POSSE_ALLY~~1p~~s~ kidnapped a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x2991367B = Steal the ~COLOR_ENEMY~loot bags~s~ from the ~COLOR_ENEMY~rival Posses~s~
+
+0x3911971C = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+0x5824547A = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~ within the time limit to earn the full reward.
+
+0x9731379F = Attack the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ within the time limit to earn the full reward.
+
+0x13158523 = Drop the target at ~1~
+
+0x61152947 = You delivered a ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0x67743667 = Stop the stagecoach ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+0x70911510 = Targets kidnapped
+
+0xA5A36581 = You triggered a rival mission against ~1~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ ~2b~ to gain the full reward.
+
+0xA7BED8A0 = Your Posse was disbanded
+
+0xA8D85600 = Drop the loot bags at ~1~
+
+0xA30CBD0E = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~passengers~s~
+
+0xA55D8B37 = Use ~INPUT_INTERACT_LOCKON~ to target the passengers and take the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~. However, passengers may attempt to flee with their ~COLOR_MP_OBJECTIVE_NEUTRAL~loot~s~ and must be stopped instead.
+
+0xA80A222D = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was killed
+
+0xA596BF73 = Targets killed
+
+0xA709DE03 = Stop the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+0xA798AA7D = ~COLOR_MP_OBJECTIVE~Cranebreak Manor~s~
+
+0xA1983FE8 = ~COLOR_MP_OBJECTIVE~Maclean's House~s~
+
+0xA1990B1E = Loot bags delivered
+
+0xAAF846F4 = ~1~ kidnapped the target
+
+0xAD57D133 = ~COLOR_MP_OBJECTIVE~Clingman~s~
+
+0xAFC07C74 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0xB4002D3C = ~1~/~2~ targets delivered
+
+0xB5015B08 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+0xBABA6E01 = Take out the ~COLOR_ENEMY~coach guards~s~ to force the passengers to exit the stagecoach.
+
+0xBF717E92 = ~1~ triggered a rival mission against ~2~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ ~3b~ to gain the full reward.
+
+0xC8A79171 = ~1~ are trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+0xC8FA2B67 = Steal the ~COLOR_ENEMY~targets~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xC34E2BD5 = ~1~ is trying to steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0xC39BAD06 = Take out the ~COLOR_ENEMY~coach guards~s~ to force the passenger to exit the stagecoach.
+
+0xC9715265 = Attack the stagecoach ~1b~ and kidnap all the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ within the time limit to earn the full reward.
+
+0xCC68B58E = ~COLOR_MP_OBJECTIVE~Ridgewood Farm~s~
+
+0xCCE1C926 = Get the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0xCD4851D4 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xCD609792 = Go to the ~COLOR_MP_OBJECTIVE~stagecoach~s~
+
+0xD94FEF75 = ~COLOR_MP_OBJECTIVE~Clawson's Rest~s~
+
+0xD245F483 = ~COLOR_MP_OBJECTIVE~Hill Haven Ranch~s~
+
+0xD9207DAE = You left the Posse
+
+0xD9190528 = Go to the ~COLOR_MP_OBJECTIVE~stagecoaches~s~
+
+0xDF0AF1BA = Help deliver the ~COLOR_POSSE_ALLY~loot bags~s~ to ~1~
+
+0xE0776B66 = You abandoned the mission
+
+0xE3D6EF9A = ~COLOR_MP_OBJECTIVE~Stillwater House~s~
+
+0xE52AA911 = ~1~ (~2p~)
+
+0xE70DED19 = Stop the stagecoach ~1b~ and steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ within the time limit to earn the full reward.
+
+0xEBE9D51B = ~COLOR_ENEMY~Rival players~s~ can kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xEE1B6CC5 = Take out the ~COLOR_RED~coach guards~s~
+
+0xF07D0EF7 = Use your lasso to hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ and kidnap them.
+
+0xF0B1B755 = ~1~ triggered a rival mission against ~2~, steal and turn in the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~ ~3b~ to gain the full reward.
+
+0xF2A964F0 = Loot bag stolen by rival Posse
+
+0xF7D0468D = Deliver the loot bags to ~1~
+
+0xF7D1DE99 = ~1~ triggered a rival mission against ~2~, kidnap and deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~3b~ to gain the full reward.
+
+0xF73C42B3 = ~1~ stole the loot bag
+
+0xF81FC0B4 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bag~s~
+
+0xF83BC125 = ~1p~ has started Coach Holdup, kidnap the targets ~2b~ and bring them to the destination to earn cash and XP.
+
+0xF572A75B = Get the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+
+0xF819C29B = Use your lasso to hogtie the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ and kidnap them.
+
+0xF4067ECD = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ was knocked out
+
+0xFC3A0FA6 = Coach Holdup
+
+0xFD7B4764 = Steal the ~COLOR_ENEMY~loot bag~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xFD891E87 = Deliver the loot bag to ~1~
+
+0xFEC60663 = Ambush the ~COLOR_MP_OBJECTIVE~stagecoach~s~ and kidnap the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0xFF4224CC = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~loot bags~s~
+

@@ -1,0 +1,14 @@
+0x0A9031B6 = ~z~Come on, all of you... we're free...
+
+0x75A307DE = ~z~We made it!
+
+0x98F6CE85 = ~z~Life is very good, sir... very good indeed.
+
+0xB72E0AF3 = ~z~So enjoy yourselves... life is good.
+
+0xC6BCAA10 = ~z~So all of you, keep busy and stay out of the worst of trouble out there.
+
+0xDC655561 = ~z~Life is good... you hear that, Mr. Pearson?
+
+0xFFBA1C0A = ~z~We are alive and we are free.
+

@@ -1,0 +1,10 @@
+0x008D9762 = ~z~I just came to pay my respects to the fallen hero.
+
+0x6E9FF381 = ~z~What do you want now?
+
+0x7B3B0CB7 = ~z~Oh god no!
+
+0x63E3DE09 = ~z~Go on, get outta here.
+
+0x525E3AFE = ~z~Well consider them paid.
+

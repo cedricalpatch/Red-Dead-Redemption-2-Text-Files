@@ -1,0 +1,258 @@
+0x00E65894 = ~z~Goddamn, who's this?
+
+0x01CF8840 = ~z~Sheriff.
+
+0x06C5A8F6 = ~z~
+
+0x07FB0183 = ~z~Oh, shut up.
+
+0x0EFB5B4B = ~z~Release me, you son of a bitch!
+
+0x1B9B8C34 = ~z~Shoot him, goddamn it!
+
+0x1ECF8327 = ~z~Get your damn hands off me.
+
+0x1F4914DE = ~z~Yeah... I can only imagine you at your sharpest.
+
+0x2C6C2F24 = ~z~~sl:0.6:3.2~God, no. This boot's wet.~sl:0.3:2.0~It's coming back to me now.~sl:~A sockful of piss. Worse day of my life.
+
+0x2D35D60B = ~z~Let's finish this son of a bitch!
+
+0x2E4FE148 = ~z~~sl:0.0:2.6~Alright. Put him down around the side of the building,~sl:~I'll get your pay.
+
+0x2ED2CE42 = ~z~Huh... who's there?
+
+0x3A5C4B7F = ~z~Hey, what's that?
+
+0x3A6DE02E = ~z~~sl:0.0:0.7~Boys?~sl:1.3:1.9~Jesus Christ...~sl:0.5~What the hell is going on here?
+
+0x3B7B7296 = ~z~You picked the wrong bounty, my friend!
+
+0x3BE4AD94 = ~z~Okay, now it's your turn!
+
+0x4B548749 = ~z~Hey, h-hold on...
+
+0x4BB01B39 = ~z~I really don't feel good.
+
+0x5A241F76 = ~z~Which one of you drunks is Cavanaugh?
+
+0x5D75BEC4 = ~z~Nope.
+
+0x5DF6CF3F = ~z~Bart, what you doing?
+
+0x6A1E4CCD = ~z~He got Bart! He got Cavanaugh!
+
+0x6CE687D7 = ~z~What, who's that? The hell's going on?
+
+0x6E9FA718 = ~z~You killed them all, you bastard!
+
+0x6F906415 = ~z~I think I'm gonna be sick!
+
+0x6FCBC382 = ~z~Money's there.
+
+0x7BB8629E = ~z~Hey, you Cavanaugh?
+
+0x8B3EAC1D = ~z~Hey... hey, what's this?
+
+0x8B24E022 = ~z~You're gonna get a bullet for every one of these boys!
+
+0x8B84AA5A = ~z~Someone needs shooting?
+
+0x8C997697 = ~z~Yeah, well, your days are numbered too.
+
+0x8CD5F9BE = ~z~It's all there for ya.
+
+0x8CEF7029 = ~z~You're real lucky I was indisposed.
+
+0x8F365A2C = ~z~This is the worst mistake you ever made.
+
+0x9AB04FD3 = ~z~~sl:0.0:1.4~Real charmer, ain't ya?~sl:0.7~What were you fellers drinking anyway?
+
+0x9C0F44AD = ~z~~sl:0.7~What in the hell is that?
+
+0x9E44FE55 = ~z~~sl:0.0:2.5~You'd be worm feed right now if I'd been sober...~sl:~you yellow bastard.
+
+0x9E119C35 = ~z~He cause you trouble?
+
+0x9EA847EE = ~z~That bounty caught up with him alright! Get him!
+
+0x9F6C42B0 = ~z~~sl:1.1:2.6~My stomach's churning something rotten.~sl:~Can you take it easy?
+
+0x11C81F30 = ~z~Pour a broadside into him, boys!
+
+0x13D92C53 = ~z~Is that Cavanaugh?
+
+0x19D8A53E = ~z~Keep it shut.
+
+0x34ACC96D = ~z~Don't I know it. I wish I could do more.
+
+0x36BD43C6 = ~z~And you saved the worst for last.
+
+0x39A8E3EE = ~z~You can't be here...
+
+0x41D6BC92 = ~z~Hey fellers... come on, stop fooling around.
+
+0x45CE6BB0 = ~z~I wish you would too.
+
+0x48A4AF10 = ~z~Come back to gloat, have you?
+
+0x50C238CD = ~z~~sl:0.0:1.1~You'll be the one hanging~sl:~when the Laramies catch up with you.
+
+0x50D08A5D = ~z~I'm a dead eye, goddamn. I won't hit 'em.
+
+0x50F04A92 = ~z~~sl:0.0:2.0~Thanks for making it so easy for me.~sl:0.3~Wish they was all as dumb as you.
+
+0x51D5153A = ~z~That's enough outta you.
+
+0x72E1BF2B = ~z~~sl:0.0:1.6:1~I don't feel so good...
+
+0x75AEC6E3 = ~z~Bart Cavanaugh, is that your sorry face?
+
+0x76A3CEB3 = ~z~~sl:0.0:0.6~What?~sl:1.4:0.6~Shit!~sl:0.5~Bounty hunter! Fellers, wake the hell up!
+
+0x76BFF158 = ~z~And I really couldn't care less.
+
+0x79BA1C25 = ~z~~sl:0.0:2.2~They'll get me out, and when they do...~sl:~we're real good at finding people.
+
+0x88BE2C0B = ~z~~sl:0.0:2.7~Well... at least you can go to the gallows~sl:~knowing you've led a full life, Bart.
+
+0x89D4C977 = ~z~You goddamn bastard!
+
+0x95E90111 = ~z~Think you're real funny, don't you?
+
+0x216BA2EB = ~z~They're a troublesome bunch, these boys from Laramie.
+
+0x247ECDA6 = ~z~It is. He ain't waking up, neither.
+
+0x286BB30A = ~z~Damn bounty hunter, I don't got no bounty!
+
+0x303B69E4 = ~z~Hey! Wake up!
+
+0x372F1710 = ~z~What kind of coward ambushes a feller in his sleep?
+
+0x396C3CB2 = ~z~You're gonna pay for this!
+
+0x412A3FA8 = ~z~You're making a big mistake!
+
+0x496B55F7 = ~z~The hell? Don't shoot me.
+
+0x519E7E27 = ~z~Wake up, Cavanaugh! You can sleep it off in jail.
+
+0x616DF134 = ~z~They killed Cavanaugh!
+
+0x642E11CB = ~z~~sl:0.0:1.7~You know who I am, Sheriff?~sl:0.0:1.9~You know who's protecting me?~sl:~I hope you're sweating, 'cause you're gonna feel it for this.
+
+0x650CAE04 = ~z~~sl:0.0:1.7~I'm gonna take some comfort in seeing~sl:~at least one of them Laramie boys meet justice.
+
+0x651D0008 = ~z~You're mine now!
+
+0x735F21D0 = ~z~Bart's bought it!
+
+0x857C33A9 = ~z~I really couldn't feel less intimidated by you, Bart.
+
+0x898A589B = ~z~This should sober you up.
+
+0x931CC3FF = ~z~~sl:0.4~Hey... hey! Who's there?
+
+0x969C86A0 = ~z~
+
+0x2205CD79 = ~z~Time to wake up!
+
+0x3785F698 = ~z~It's a bounty hunter!
+
+0x6603BCA7 = ~z~Some kinda gunman's here.
+
+0x9546FF8D = ~z~Kill that sneaky son of a bitch!
+
+0x9711AEB8 = ~z~Cavanaugh's dead!
+
+0x9798E4FF = ~z~You're a dead man!
+
+0x23328F71 = ~z~Look at these sleeping beauties...
+
+0x31811E69 = ~z~What? What the hell's happening?
+
+0x48602B34 = ~z~~sl:0.0:4.5~Some hillbilly rotgut. It was real fun...~sl:0.4~'til it wasn't. These ain't even my clothes.
+
+0x53570A99 = ~z~~sl:0.0:2.2~Take it if it helps you sleep at night, Sheriff.~sl:0.4~'Cause the rest of 'em? Got free reign out there.
+
+0x81285BB8 = ~z~~sl:0.0:3.3:1~Okay, I found 'er. There she is...
+
+0x99602EF4 = ~z~You know, you're a lot less charming sober.
+
+0x131826B1 = ~z~Mr. Cavanaugh. I trust you're keeping well?
+
+0x421203F1 = ~z~Watch your aim.
+
+0x553465CF = ~z~Don't worry, you didn't miss much.
+
+0x6596365A = ~z~Where's Cavanaugh?
+
+0x66607904 = ~z~No, just seeing if you're still alive.
+
+0xA3D35BA6 = ~z~~sl:0.0:3.5:1~I'm fine, I'm fine. I can handle this.
+
+0xA3D6621F = ~z~That's better.
+
+0xA4AE22C3 = ~z~~sl:0.0:1.5:1~Damn gut rot.
+
+0xA13D55CB = ~z~What the hell?
+
+0xA426D6AC = ~z~What's the commotion?
+
+0xAF15D559 = ~z~Bart? Goddamn, they killed him!
+
+0xB4B753F9 = ~z~Stinks of bounty hunter to me! Get him, fellers!
+
+0xB9916872 = ~z~Whoa, shit! What the hell is going on here?
+
+0xBAD04F07 = ~z~~sl:0.7:2.0~It ain't the drink, I tell you.~sl:0.6~It's the dysentery... or some such.
+
+0xBDF6455A = ~z~Bart Cavanaugh. Put him down in one of the cells.
+
+0xBEB5D3D5 = ~z~For rounding up a drunk? No, I'm just passing through.
+
+0xC13F5D51 = ~z~Was hoping to see you hang.
+
+0xC948EBF8 = ~z~~sl:0.9:2.1:1~Oh, I don't feel so good.
+
+0xCAB52E69 = ~z~No, thanks to you.
+
+0xCC3CE1E7 = ~z~Someone's here to see you, Sheriff.
+
+0xCF2C470C = ~z~~sl:0.0:2.4~Anything happens to me, you're a dead man.~sl:~Ain't you heard of the Laramies?
+
+0xD397AFEE = ~z~There you are.
+
+0xD674B654 = ~z~Sleep time's over, boys!
+
+0xD62675AE = ~z~~sl:0.0:1.5~It's your boss who got you brought in,~sl:~you dumb bullock. Now, shut up.
+
+0xD7414910 = ~z~~sl:0.0:3.2~Last thing I remember, we caught a rat in a boot~sl:0.0:1.4:1~and we're all pissing in it.
+
+0xDCE728E1 = ~z~How's the hangover?
+
+0xE0377BAE = ~z~~sl:0.0:2.5~Spill any of your guts on my horse...~sl:0.0:2.3~I'll spill yours on the ground.~sl:~I'm just as fine taking you in dead.
+
+0xE0F816EE = ~z~What are you doing, fellers? Sober the hell up!
+
+0xE1B080B6 = ~z~~sl:0.0:1.3~Don't know who you think I am,~sl:~but I ain't... done nothing!
+
+0xE4BB52E1 = ~z~Rise and shine, fellers!
+
+0xE8E77A82 = ~z~Oh yeah, we've met.
+
+0xE9D49372 = ~z~Come on. Don't do this. Let's work something out.
+
+0xE60B6404 = ~z~He's after the bounty!
+
+0xE14596C0 = ~z~What are you doing here?
+
+0xEDFC5685 = ~z~Oh, I can't wait to kill you.
+
+0xEE8FB21D = ~z~Will one of you blow his goddamn brains out already?
+
+0xF790C7D4 = ~z~You! What the hell do you want?
+
+0xFC1DDC9C = ~z~Why don't you just keep passing then?
+

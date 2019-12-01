@@ -1,0 +1,116 @@
+0x003F5D05 = Arthur failed to leave the mansion in a timely manner.
+
+0x09529F1D = Return to the ~o~Escort~s~
+
+0x1B7CE121 = Eavesdrop
+
+0x2C38F5E3 = Retrieve the ledger from the ~o~desk~s~
+
+0x5AD22B7D = Follow the ~o~Escort~s~
+
+0x6CD26022 = You failed to enter the coach.
+
+0x6FBC2E68 = Ladies
+
+0x9D9E6587 = Follow the ~o~servant~s~ and remain undetected
+
+0x9F534A59 = Escort
+
+0x21FABD05 = You were spotted inside the mansion.
+
+0x43B0950C = The drunk was taken into the gala.
+
+0x54E5CE9B = Greet
+
+0x66CDA9F2 = Servant
+
+0x73D11E86 = Return to the ~o~Mayor~s~
+
+0x84D12255 = Return to ~o~Dutch~s~
+
+0x85E0CF10 = Return to the ~o~coach~s~
+
+0x91C531A6 = You attacked a guard at the gala.
+
+0x93C55F6A = Return to ~o~Dutch~s~ at the gala
+
+0x97D51B0D = Stay back from the servant to make sure you are not spotted.
+
+0x247E488E = Compliment Headpiece
+
+0x532EE564 = Mingle with the guests in the ~o~courtyard~s~
+
+0x571A202E = You injured a guest at the gala.
+
+0x728BFEDA = Remain in the ~o~Coach~s~
+
+0x888C1CF1 = Coach
+
+0x2481A022 = Follow ~o~Dutch~s~
+
+0x3531A26A = You attacked the servant.
+
+0x5637D2B6 = You were caught by the servant.
+
+0x7623D510 = Help
+
+0x30029C0A = The law were alerted.
+
+0x41820EBB = You lost the servant.
+
+0x60794EE6 = Enter the coach
+
+0x5650925B = Enter the ~o~Coach~s~
+
+0x33038222 = Theater Goers
+
+0xA428155C = Offer champagne
+
+0xA6336407 = Mayor
+
+0xAC3E6157 = Decline
+
+0xB8C00E41 = Drag the drunk ~o~away~s~ from the Mayor
+
+0xB8C55B65 = The escort was abandoned.
+
+0xB57CA336 = The servant will notice you if you get too close.
+
+0xBB781684 = Hosea
+
+0xBE062E2D = The coach was abandoned.
+
+0xBFF7DC25 = Approach the ~o~Coach~s~
+
+0xC586A573 = Return to the ~o~Mayor's Gala~s~
+
+0xC7781E17 = Speak to the ~o~Mayor~s~
+
+0xC202344D = Greet
+
+0xD8C67809 = Get out of sight of the servant so that he continues with his duties.
+
+0xD13D04E1 = Compliment
+
+0xD43CB171 = Band
+
+0xD112A4E8 = Desk
+
+0xD2311424 = You injured a guest at the gala.
+
+0xDAD23333 = Accept
+
+0xDFFE37CA = The coach has been damaged.
+
+0xE0F26555 = The gala security has been alerted.
+
+0xE37C4FCA = The Mayor's Gala was abandoned.
+
+0xE4253C75 = Inspect
+
+0xED26F97A = Ledger
+
+0xEF7D77E0 = Take champagne
+
+0xF9D70AA2 = Dutch was abandoned.
+

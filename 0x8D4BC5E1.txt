@@ -1,0 +1,138 @@
+0x0AA5E3DA = ~z~Shit... Melvin, Eric, go take a look. We'll hold tight here.
+
+0x0B671363 = ~z~Everything is fine. They are still looking.
+
+0x0BE7A300 = ~z~You lost or something? Back off!
+
+0x0CABE6A1 = ~z~What's that doing there?
+
+0x0DDE7465 = ~z~Oh shit! You bastard!
+
+0x1A91CE22 = ~z~Here...
+
+0x1D7CB78E = ~z~Well? What happened?
+
+0x2DFDAA7D = ~z~I ain't taking no chances. Now go on.
+
+0x3B5D7F6E = ~z~We went all the way to the station and back... nothing.
+
+0x3D55AF17 = ~z~Well, thanks for that. Why don't you head on now.
+
+0x4C472DBE = ~z~You better not be fooling with us now.
+
+0x6D2C1051 = ~z~Everything is fine. They are still looking.
+
+0x7B832CFF = ~z~Well? What happened?
+
+0x7D4F1E92 = ~z~There's a stage heading up from Blackwater.
+
+0x7E1D1533 = ~z~Alright, suit yourself.
+
+0x8B9182B7 = ~z~Someone's after the cargo!
+
+0x8DA3748F = ~z~You sure you saw someone?
+
+0x8E75259C = ~z~Well, he was lying or they moved on. Anyway. Keep an eye out. Let's move out.
+
+0x8EDC8857 = ~z~Reckon they might be fixing to rob you.
+
+0x15C7CF8D = ~z~I don't know, you're the expert.
+
+0x27AD6859 = ~z~There's a stage heading up from Blackwater.
+
+0x30B28562 = ~z~Alright, suit yourself.
+
+0x32AFED99 = ~z~Hey.
+
+0x32D9B3B8 = ~z~What's the matter? You better have a damn good reason!
+
+0x50F9C5F0 = ~z~Here...
+
+0x51A7F1D1 = ~z~You sure you trust this feller?
+
+0x64DAEB79 = ~z~You better stay right there 'til I'm gone and keep your mouth shut.
+
+0x74D2B826 = ~z~Alright...
+
+0x96EC721F = ~z~Step down from the coach and drop your weapons! Nobody has to get hurt here.
+
+0x227BD14C = ~z~Hey! We gotta get through!
+
+0x361FB988 = ~z~Out of the way! Come on!
+
+0x420DA818 = ~z~Alright, Hector. Appreciate it. You enjoy the rest of your day.
+
+0x463CF08E = ~z~Hey there.
+
+0x590BA286 = ~z~Now I'm getting suspicious. Move it!
+
+0x3531D0F7 = ~z~Make a move and you're dead, you hear me?
+
+0x8702E404 = ~z~I got you now!
+
+0x9920D635 = ~z~or lay down some explosives...
+
+0x14825F61 = ~z~Hey, back off a bit.
+
+0x176558E7 = ~z~Hey, you! Stop the coach!
+
+0x22769236 = ~z~This is all I need...
+
+0x34972477 = ~z~You can go to Hell! Take him there, boys!
+
+0x98605159 = ~z~Hey! You back the hell off.
+
+0xA6D126F2 = ~z~Didn't see no ambush.
+
+0xAAB71142 = ~z~I saw some outlaws up ahead, look like Skinners.
+
+0xAB62FAB9 = ~z~Now, I hear it'll be heavily guarded so you might wanna try a more covert approach...
+
+0xAE18DB40 = ~z~Out of the way, you dumb animal!
+
+0xAE45BD3C = ~z~You better stay right there 'til I'm gone and keep your mouth shut.
+
+0xAE59C5B2 = ~z~Make a move and you're dead, you hear me?
+
+0xB0A5F67A = ~z~Not here, they were further down the road.
+
+0xB5E684CD = ~z~Now, I hear it'll be heavily guarded so you might wanna try a more covert approach...
+
+0xB194C01B = ~z~Oh, hell, that dynamite? We're in trouble here!
+
+0xBA1EF34C = ~z~Yah! Out of the way!
+
+0xC1DF6E5C = ~z~I saw some outlaws up ahead, they look like O'Driscolls.
+
+0xC75BC0EA = ~z~Step down from the coach and drop your weapons! Nobody has to get hurt here.
+
+0xC4292152 = ~z~or lay down some explosives...
+
+0xCF531B05 = ~z~Ain't gonna tell you again, back off!
+
+0xD0CC9039 = ~z~Don't think I won't shoot you!
+
+0xD2CA9FD6 = ~z~Go on. Ain't giving you no reward, if that's what you're after.
+
+0xD33D525D = ~z~This a joke? Someone deal with this idiot!
+
+0xD102F7FF = ~z~Coach is in trouble!
+
+0xD9616E96 = ~z~Reckon... they might be fixing to rob you.
+
+0xE26A5DD4 = ~z~I don't know, you're the expert.
+
+0xE8843B37 = ~z~Oh, we got a problem here!
+
+0xEAE50F7F = ~z~Shit! We're being robbed!
+
+0xEF9BF837 = ~z~Alright, Hector. Appreciate it. You enjoy the rest of your day.
+
+0xF22B9D85 = ~z~You better not be fooling with us now.
+
+0xF386A03B = ~z~Not here, they were further down the road.
+
+0xF962A244 = ~z~Hey, you! Stop the coach!
+
+0xFFC14606 = ~z~Hey there.
+

@@ -1,0 +1,78 @@
+0x03E210B1 = ~z~Pretty young things say come with me;
+
+0x0B62B7A9 = ~z~Singing a song and drinkin' wine;
+
+0x0EAD3E42 = ~z~We're heading to that Saint Denis town.
+
+0x8C63BD09 = ~z~I'll go anywhere with you!
+
+0x8F7728ED = ~z~France didn't really give us much;
+
+0x9CC8438F = ~z~They's all headin' down to Saint Denis.
+
+0x39E87DB1 = ~z~The rich and poor and the bourgeoisie;
+
+0x59C53D8A = ~z~So draw your money, come see your honey, in old Saint Denis!
+
+0x76EB76C6 = ~z~In the parlors and brothels of Saint Denis;
+
+0x187B51DA = ~z~If your wagon is broke get to the blacksmith shop;
+
+0x219B4C23 = ~z~Loosen them stirrups and left off that yolk;
+
+0x711D831D = ~z~Thank you for joining us. Now let's talk a little bit about this place we all love called Saint Denis!
+
+0x759EF53D = ~z~I'd rather live in Saint Denis.
+
+0x786D89BB = ~z~I love them parlors of Saint Denis!
+
+0x3259EDA0 = ~z~There's dancing and singin' and howlin' at the moon;
+
+0x6362E7A8 = ~z~They come from Rhodes, Strawberry and Valentine;
+
+0x6787D90F = ~z~Yes, I'd rather live in Saint Denis.
+
+0x36328D48 = ~z~We heading down to Saint Denis.
+
+0x69455B7A = ~z~The porter is drinkin' and the whistle just blew;
+
+0x80488A90 = ~z~'Cept wine and crepes and fancy such and such;
+
+0x8026028F = ~z~Strawberry is better than this town
+
+0x67176707 = ~z~This song sure is catchy!
+
+0xA06EC9CC = ~z~Carpetbaggers, coal miners, and mountain folk;
+
+0xA506D2F8 = ~z~In the streets and alleys of each saloon;
+
+0xB5896D55 = ~z~Sing a song about Blackwater
+
+0xBE930614 = ~z~Let's go drinkin' down in Saint Denis.
+
+0xBEB121A3 = ~z~She's meltin my heart!
+
+0xC25B541D = ~z~Stop singing about geography!
+
+0xCDAEA44B = ~z~You won't sleep a wink I can guarantee;
+
+0xD4CD4A7B = ~z~The girls are wearin' a brand new gown;
+
+0xDA98D972 = ~z~Saint Denis!
+
+0xDC20412E = ~z~The train's a headin' to the land of hoodoo;
+
+0xDCE9894D = ~z~Ain't nobody want to go to Valentine!
+
+0xE08B61F7 = ~z~Don't worry about yourself with plantin' a crop;
+
+0xE577E3CE = ~z~Yeah Saint Denis! Sing it!
+
+0xECB45BAA = ~z~This song is as worse as the damn town!
+
+0xED9B2AB0 = ~z~Saint Denis stinks!
+
+0xF212EE07 = ~z~We pretend to be French, but can't you see?
+
+0xFBA09825 = ~z~Across Bayou Swamp and over the sea;
+

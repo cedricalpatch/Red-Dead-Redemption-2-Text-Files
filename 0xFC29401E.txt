@@ -1,0 +1,32 @@
+0x09AF4544 = ~z~Last time I hop on a coach drunk, let me tell you.
+
+0x1D2F8B30 = ~z~Okay then, I ain't expecting the warmest of welcomes here.
+
+0x45CAB98B = ~z~No, you git! Go! Get the hell away from me!
+
+0x174E6E06 = ~z~Oh, come on! This is all I goddamn need.
+
+0x220B8380 = ~z~~sl:0.0:1.0~Who's this?~sl:0.5~What're they after, huh?
+
+0x3520A882 = ~z~~sl:0.0:0.8~Shit...~sl:2.2~I did not want to die in the mouth of one of them monsters.
+
+0x5252863C = ~z~~sl:0.9~Get back, damn it!
+
+0xAB92E7B1 = ~z~Won't stay in this shithole longer than I have to.
+
+0xAC8DCE01 = ~z~~sl:0.0:1.8~So, listen...~sl:0.0:3.7~there's a fishing village not far from here. A place called Lagras.~sl:0.3~Reckon you can take me there?
+
+0xBC836DEC = ~z~Gonna see if they can sell me some supplies before I head back west.
+
+0xD76BD0F9 = ~z~Maybe I-I should switch sides here.
+
+0xE553ECC9 = ~z~Ooh! Guess they're dead!
+
+0xEC08B9A2 = ~z~Crawl back to the hell you came from, goddamn you!
+
+0xEC9B8EA8 = ~z~~sl:0.0:2.7~This is for you. Good of you to help me out.~sl:0.3~Watch yourself out there.
+
+0xFB8428EE = ~z~This whole swamp can burn all I care.
+
+0xFC9A5AC5 = ~z~No you don't! Back! Get back!
+

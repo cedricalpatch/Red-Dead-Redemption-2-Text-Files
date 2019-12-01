@@ -1,0 +1,124 @@
+0x01A32E0A = ~z~they'll never know who wins, because...
+
+0x01B7B5F7 = ~z~Obviously there isn't any prize...
+
+0x086C8E92 = ~z~Clothes?
+
+0x1B5EE945 = ~z~oh they're prize fighters.
+
+0x1CE4E48D = ~z~in a way.
+
+0x3BB6F526 = ~z~Oh no, I don't make clothes, dearie.
+
+0x4AEA419B = ~z~I make art, dearie.
+
+0x4CA24AE3 = ~z~their fur is so nice and...
+
+0x4E8F9AD7 = ~z~You said to come call on you.
+
+0x5CAFE526 = ~z~What do you make?
+
+0x6B8D02E0 = ~z~Come, come...
+
+0x7A1BA5C9 = ~z~Oh, here...
+
+0x7A155DBF = ~z~Wha-What is that?
+
+0x7BDDF53F = ~z~Come, come.
+
+0x7CFF3374 = ~z~Thanks... I should get going.
+
+0x7D5CA67F = ~z~This is...
+
+0x7FC3B921 = ~z~Be well.
+
+0x9A16E72B = ~z~Sometimes I... I make up little funny voices...
+
+0x9D046C8E = ~z~And these two over here...
+
+0x15EA579C = ~z~life as art.
+
+0x33FA12B7 = ~z~an almighty struggle.
+
+0x42D43747 = ~z~Yeah... I think...
+
+0x45DCB67C = ~z~I love this little feller...
+
+0x64CFC757 = ~z~My name's John Marston...
+
+0x67E2B95A = ~z~It's art.
+
+0x67E90164 = ~z~please take this as a gift.
+
+0x70B21AFE = ~z~Bye.
+
+0x86C64012 = ~z~I don't know why.
+
+0x99DE5F82 = ~z~it's downstairs.
+
+0x310D93BA = ~z~I don't quite know what to say.
+
+0x885C43B6 = ~z~Only it doesn't look like it.
+
+0x954B640C = ~z~and maybe heaven is just like this.
+
+0x1242A23E = ~z~I guess you make clothes or something?
+
+0x6373F1AA = ~z~they're all dead.
+
+0x25687C70 = ~z~Oh, I often get that reaction.
+
+0x30105DD9 = ~z~Hello, Mrs. Hobbs?
+
+0x58716A59 = ~z~You and I are both like God now...
+
+0x60593E6A = ~z~Hello, dearie, hello.
+
+0x92055DA4 = ~z~No, I never did.
+
+0x93255FC0 = ~z~Yeah well maybe when you die somebody will stuff you...
+
+0x98355B38 = ~z~he makes me so happy.
+
+0x239900A9 = ~z~Did you ever think of that, dearie?
+
+0x58546247 = ~z~Because after all, we did this together.
+
+0xA353F839 = ~z~I'm sure.
+
+0xAA74FFB7 = ~z~There's so much life in him...
+
+0xB64D1F1F = ~z~and I make believe that they're all talking to one another.
+
+0xB28890D6 = ~z~Art?
+
+0xBA611F8F = ~z~It's my life work, dearie...
+
+0xC4AEBBE2 = ~z~I... I call this guy Percival...
+
+0xC4423449 = ~z~Come... come meet my friends.
+
+0xCE5ECE5A = ~z~No, animals are better...
+
+0xCF0349CB = ~z~Come meet the world you helped build.
+
+0xD033D2EC = ~z~because they're both dead.
+
+0xD80A99B0 = ~z~that's what they call it...
+
+0xDE2A6DF1 = ~z~during a cholera outbreak.
+
+0xE0D5ED70 = ~z~Not art, but life...
+
+0xE2BA432E = ~z~I've been sending you the animals for your art.
+
+0xE9D93D4D = ~z~Oh...
+
+0xE65DFF40 = ~z~I tried this with humans once...
+
+0xE81DFB08 = ~z~this is quite something.
+
+0xEF0188C7 = ~z~Look at these three playing poker...
+
+0xFEB1B6DB = ~z~in a way.
+

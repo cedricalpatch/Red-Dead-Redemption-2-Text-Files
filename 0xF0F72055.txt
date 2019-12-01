@@ -1,0 +1,14 @@
+0x0E57640D = ~z~Oh Arthur, it is good to see you.
+
+0x47A0D69F = ~z~You weren't followed here?
+
+0xB9E23B24 = ~z~Just great but I nearly got killed back in town...
+
+0xCC21DFA3 = ~z~You okay, Mary-Beth?
+
+0xE1E60B2B = ~z~they caught me robbing from a store and I ran for my life.
+
+0xF339ADD2 = ~z~Good girl.
+
+0xFD7AC254 = ~z~Arthur Morgan! Of course not. Who do you think you're speaking to?
+

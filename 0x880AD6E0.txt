@@ -1,0 +1,34 @@
+0x3CFF5C9A = ~z~~sl:0.0:1.4~Go rob a house, or...~sl:0.5:2.0~ask some sheriff about a bounty,~sl:0.0:1.5~shoot a godforsaken animal.~sl:~I don't care.
+
+0x4ACCF835 = ~z~Are you an imbecile or you just pretending?
+
+0x8EF78C41 = ~z~Tell him, Arthur.
+
+0x25DB3A0E = ~z~Do what Hosea says!
+
+0x51E54C12 = ~z~~sl:0.0:1.2~Yeah.~sl:1.2~Sorry.
+
+0x76CA502F = ~z~
+
+0x3576D945 = ~z~Well, screw you, Morgan!
+
+0x4270F339 = ~z~God...
+
+0x6741B11E = ~z~Do something!
+
+0x122875E1 = ~z~Tell him, Arthur.
+
+0x9824588F = ~z~~sl:0.0:1.2~I'll go.~sl:0.9~Soon.
+
+0xA8F8348A = ~z~~sl:0.0:1.2~Bill...~sl:0.0:1.7~get up and find us some money~sl:~or find us some goddamn food.
+
+0xA995FB72 = ~z~Thank you.
+
+0xC36A696E = ~z~~sl:0.0:1.0~Hosea... ~sl:0.6~Dutch and you says we're supposed to keep a low profile.
+
+0xE3E9196B = ~z~Do what Hosea says!
+
+0xF62EBDF6 = ~z~Screw you, Morgan!
+
+0xFF3BD010 = ~z~God...
+

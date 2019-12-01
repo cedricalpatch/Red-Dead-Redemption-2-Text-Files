@@ -1,0 +1,50 @@
+0x0C7B492E = ~z~I sure hope so.
+
+0x0F85BCA5 = ~z~Don't even bother. They're all long spoiled.
+
+0x3D3F4B51 = ~z~You hear about Skinny and Maddy? Both got killed over in Big Valley.
+
+0x4B0D66ED = ~z~I did. Real shame, I always liked those two.
+
+0x7C698F17 = ~z~You boys alright?
+
+0x8F7B517C = ~z~You sure we need all these folks for this?
+
+0x20FE653A = ~z~Miserable bunch, ain't they?
+
+0x90E8FA39 = ~z~Sure sounds like you got a rat round here.
+
+0x96E24408 = ~z~Reckon so.
+
+0x828E5D84 = ~z~Me and Dutch reckon we know who it is... I'll tell you later. Too many flapping ears.
+
+0x869DA37F = ~z~You need anything, you let me know.
+
+0x4531F8DC = ~z~Yes, that will all be getting burned very soon.
+
+0x473731AB = ~z~They sure are... they've all had a free ride for far too long.
+
+0x30181067 = ~z~So this train...army payroll, you say?
+
+0xC1BD35FF = ~z~Not at all...like I said, we'll be cleaning house soon enough.
+
+0xC36F1D21 = ~z~Appreciate it
+
+0xD0E90122 = ~z~Should be around twenty thousand, I reckon. It'll be a real good cut.
+
+0xDC017511 = ~z~Soon, Joe, very soon. It'll be worth it, I promise you.
+
+0xE305A54F = ~z~I like the sound of that.
+
+0xE326A59D = ~z~So this train job, how much you thinking we'll clear?
+
+0xEA08EA54 = ~z~Yep.
+
+0xF8BAAE83 = ~z~This place is miserable. When's this job happening, Micah?
+
+0xF8DE6036 = ~z~Looks like you got a lot of dead wood round here.
+
+0xFB3926AA = ~z~That's right, and lots of it. This'll be worth it.
+
+0xFDCE1936 = ~z~So what's the story with these girls? They in service?
+

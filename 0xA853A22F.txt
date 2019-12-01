@@ -1,0 +1,148 @@
+0x04DF078C = ~z~from Blackwater to Valentine to Saint Denis,
+
+0x05BA078B = ~z~This morning, through the phone, they'd said he'd been with Bess,
+
+0x070B879E = ~z~This gal just can't leave a man alone!
+
+0x087C948D = ~z~To hell with the telephone!
+
+0x0B5A0F5F = ~z~And this is what I say to Baby Mine:
+
+0x0E28973C = ~z~That man better hold onto his hat.
+
+0x3AE170AD = ~z~And it will separate me from ma baby mine,
+
+0x3FA278CB = ~z~Hello!
+
+0x4BF695BA = ~z~in a heaven of everlasting rest and peace and bliss,
+
+0x4C075B84 = ~z~Ya'll play it!
+
+0x4C1590D5 = ~z~And I ring that bell.
+
+0x5B24AD32 = ~z~Modern music is awful!
+
+0x5CB0FCD7 = ~z~Baby, my heart's on fire!
+
+0x5DD8345A = ~z~They connect me with ma honey,
+
+0x7CE5725C = ~z~Send me a kiss by wire,
+
+0x7CEF132F = ~z~Then you'll be left alone,
+
+0x9CF25335 = ~z~If you refuse me,
+
+0x12CBA365 = ~z~A wise man prayed that one day we may all eventually be gathered together,
+
+0x30B2DAEC = ~z~I can't see my honey, but he's mine, all right;
+
+0x31FBE00E = ~z~Hello!
+
+0x33C2EB19 = ~z~They can play!
+
+0x45F92544 = ~z~Baby, my heart's on fire!
+
+0x53B8C0C3 = ~z~Hello, ma honey.
+
+0x69E5CD51 = ~z~I talk to him across the telephone;
+
+0x92B13EB3 = ~z~Oh baby, telephone, and tell me I'm your own.
+
+0x93C2A39E = ~z~Honey you'll lose me,
+
+0x93FDA2E8 = ~z~And told me exactly where he's at.
+
+0x167F2915 = ~z~Your wife from Blackwater calling.
+
+0x394D3610 = ~z~You can call me anytime, darling!
+
+0x496B09BF = ~z~This ragtime is a fad!
+
+0x557FA5E9 = ~z~And my game is lost,
+
+0x731A5EC6 = ~z~Baby, my heart's on fire!
+
+0x799D6BE4 = ~z~Hello, ma baby.
+
+0x2065BBB6 = ~z~I sure do worry,
+
+0x4087F9BA = ~z~"Hey Central, fix me up along the line."
+
+0x6370BDC6 = ~z~This band is terrible!
+
+0x6996EC7F = ~z~Hello, ma ragtime gal.
+
+0x7232DF4F = ~z~And so each day I shout along the line:
+
+0x7404E2F3 = ~z~Hello, ma baby.
+
+0x7423E1CD = ~z~I've got a little baby, but he's out of sight,
+
+0x9514A3B2 = ~z~Because someone is always calling, saying...
+
+0x26304FF4 = ~z~Hello!
+
+0x36486A5E = ~z~and they propose to distribute them to all manner of places
+
+0x404419DA = ~z~Send me a kiss by wire,
+
+0x449481BB = ~z~Hello, ma ragtime gal.
+
+0x4340016A = ~z~Then some other gal will win him,
+
+0x5133194B = ~z~Sing Otis Miller!
+
+0x16463020 = ~z~Sing it,girl!
+
+0x56392504 = ~z~Hello, ma honey.
+
+0xA6D74737 = ~z~except for the inventor of the telephone.
+
+0xB0175C47 = ~z~Oh baby, telephone, and tell me I'm your own.
+
+0xB27C7E49 = ~z~Honey you'll lose me,
+
+0xBF0A90BF = ~z~Bring somebody out that can sing!
+
+0xC0F9FE0C = ~z~If you refuse me,
+
+0xC8AF2AB6 = ~z~Hello! Hello!
+
+0xCBB61537 = ~z~This new machine will carry a facsimile of your voice,
+
+0xCCBA158C = ~z~Hello?
+
+0xCCEB935F = ~z~Hello!
+
+0xD8A8AC3D = ~z~that them wires might get crossed,
+
+0xD23E9D29 = ~z~Every single morning, you will hear me yell,
+
+0xD51DBCE5 = ~z~Pick another song.
+
+0xD8602E8B = ~z~you may have become aware of, called the telephone.
+
+0xD1723592 = ~z~The telephone aint gonna last!
+
+0xDC3231EC = ~z~Hello!
+
+0xDE153842 = ~z~Then you'll be left alone,
+
+0xE619C71F = ~z~Now I'm heading out of town to his address,
+
+0xE8344C80 = ~z~Hello!
+
+0xED68D459 = ~z~Hello!
+
+0xEDBA6E22 = ~z~Sing Ring Dang Do!
+
+0xEF80DCCC = ~z~This here is a new song about a so called "modern improvement"
+
+0xF13725E5 = ~z~Alright, darling!
+
+0xFA80F119 = ~z~Hello?
+
+0xFDD2796F = ~z~Hello! Thanks for joining us today.
+
+0xFF6B7CA5 = ~z~so that no matter where you are, somebody is looking for you.
+

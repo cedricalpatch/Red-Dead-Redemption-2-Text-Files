@@ -1,0 +1,6 @@
+0x9C50E388 = Ask
+
+0x62C80B06 = Inquire about Bronte
+
+0x566545DC = Stranger
+

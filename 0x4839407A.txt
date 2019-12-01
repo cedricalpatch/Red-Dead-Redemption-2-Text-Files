@@ -1,0 +1,24 @@
+0x0BE03C9B = ~z~And I don't care enough and Ms. Adler...
+
+0x1F63E3A2 = ~z~~sl:0.0:1.4~We all hate her.~sl:0.4~but Mary-Beth is sort of peaceful and Abigail,
+
+0x2F30838B = ~z~~sl:0.0:1.2~How you boys doing?~sl:0.2~Mind if I stand a while?
+
+0x5B0A5AEE = ~z~Well, she may slit any one of our throats come to think of it.
+
+0x45BAC10F = ~z~She'll cut her throat clean out and drink her blood.
+
+0x94C04E59 = ~z~~sl:0.0:1.5~If Grimshaw goes missing,~sl:0.7~I'll give you twenty to one Karen did it.
+
+0x120EC8F8 = ~z~~sl:0.0:1.2~My Lord...~sl:0.1:1.0~but mark my words,~sl:0.2~one of these days Karen will slit old Grimshaw's throat.
+
+0x377793C9 = ~z~~sl:0.0:2.1~And Karen ain't one to hate unwisely,~sl:0.2:1.7~I've seen her cut men up.~sl:0.6~More than once.
+
+0x687175BC = ~z~~sl:0.0:1.4~But-but Karen,~sl:0.3:2.5~Karen hates her more than anyone,~sl:0.2~and she hates Karen.
+
+0x5849662C = ~z~Mark my words, boys.
+
+0xEE8601E7 = ~z~she doesn't have time for that kind of nonsense.
+
+0xF3811CFD = ~z~Only she won't slit her throat.
+

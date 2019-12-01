@@ -1,0 +1,446 @@
+0x000CE0ED = ~z~My... my sweet love.
+
+0x01761EB6 = ~z~~sl:0.0:3.8~First chance I get, I will kill Terrence O'Dowd in his sleep.~sl:0.8~Then, I'm coming after you.
+
+0x025F5935 = ~z~They're coming from the left!
+
+0x0378F6AE = ~z~I think... I think they're beginning to fall off.
+
+0x03B587A9 = ~z~Very amusing.
+
+0x04BE0F40 = ~z~~sl:0.9~Cliff, they might...
+
+0x057AF3E9 = ~z~grasping...
+
+0x058184F2 = ~z~Shoot them! Or shoot me.
+
+0x06DD9FA8 = ~z~Oh, thank you.
+
+0x07D93AEE = ~z~Or me, or... or both of us.
+
+0x0B31583A = ~z~They killed Cliff! I'm one of you now. Help!
+
+0x0CF7452A = ~z~He'll never leave us alone.
+
+0x0E546BA8 = ~z~are found by bounty hunters and such like.
+
+0x0FACB1B3 = ~z~He sent you.
+
+0x0FE213F3 = ~z~~sl:0.0:2.6~Stop. I wouldn't change a thing.~sl:0.6:2.5~Saving you from that huffing hog was the best thing I did.~sl:~Best thing any of us did.
+
+0x1B4DE1D7 = ~z~He'll keep saying you kidnapped me until...
+
+0x1C2EC13C = ~z~We got men to the right of us!
+
+0x1D94A10D = ~z~He knew where we'd go. They've been waiting for us.
+
+0x1F0F0D1D = ~z~Will you help?
+
+0x2A98FFF5 = ~z~No.
+
+0x2B2159EF = ~z~He's paid even more of them, look out.
+
+0x2C4B9C80 = ~z~~sl:0.2:1.4:1~Oh, Cliff.
+
+0x2D24DCD8 = ~z~Where you going?
+
+0x2F29CADC = ~z~~sl:0.2:2.1~He will have sent men to watch you people.~sl:~They'll know you're trying to help us.
+
+0x3B5B7945 = ~z~Hey! Over here.
+
+0x3B6385AA = ~z~Please.
+
+0x3CD5A34F = ~z~~sl:0.0:1.8:1~Oh, yes. Yes.
+
+0x3D260129 = ~z~I hate... I hate that bastard. Just make it stop.
+
+0x4A69F5BE = ~z~Here, here's your money. Thank you so much.
+
+0x4B19EA57 = ~z~Off me.
+
+0x4F54A586 = ~z~It will stop, alright? He can't have many men left.
+
+0x4FF3A950 = ~z~~sl:0.0:3.9~And the Turnout Twins. And that new feller who joined.~sl:0.4~And that old feller was just about to quit.
+
+0x5A0D7803 = ~z~~sl:0.4~Cliff...
+
+0x5A16C0AA = ~z~You taking me back to him?
+
+0x5AA0962B = ~z~Well, she's been through a lot.
+
+0x5CDE3D68 = ~z~There, there! They have to work for Terrence.
+
+0x5DECDFAF = ~z~~sl:0.3~No...
+
+0x5F6E4B7F = ~z~Ain't that fine.
+
+0x6B97AF4F = ~z~Look out, here comes another bunch of them.
+
+0x6F2FEB02 = ~z~You still gotta pay 'em.
+
+0x6F7EE2AC = ~z~I can't help you, mister.
+
+0x6FC8E348 = ~z~She's my wife.
+
+0x7A843472 = ~z~~sl:0.0:3.8~If we die, these folk won't get nothing from your husband... or us...~sl:~they'll try their damnedest to get us out.
+
+0x7AB78C16 = ~z~Yes we will. Hold on.
+
+0x7BDA2577 = ~z~~sl:0.0:1.4~There's more of them, you know.~sl:0.6:3.2~They'll find that massacre, and they'll come after you.~sl:0.5~God, I hope they do.
+
+0x7E0DD43B = ~z~More of the bastards.
+
+0x7E514BFE = ~z~Please. Come on.
+
+0x8A05A43E = ~z~I'd rather it was this way.
+
+0x8B248E2B = ~z~Tell him to go hang himself.
+
+0x8B839CDE = ~z~~sl:0.0:3.1~His men will be close and they won't wait long after seeing us.~sl:0.7~We aren't safe until we're out of this valley.
+
+0x8BEB7DB9 = ~z~You're right. Ain't nothing to do but push through.
+
+0x8D87FBFD = ~z~but so very beautiful.
+
+0x8DAF037F = ~z~Let's head for home.
+
+0x8E7C910A = ~z~~sl:0.0:1.8~I wish you'd never met me, Cliff.~sl:0.3~And I hadn't dragged none of you into this.
+
+0x8EF9F175 = ~z~Protect us, alright?
+
+0x8F8AEE71 = ~z~No.
+
+0x8F9ADD2C = ~z~They're in the road. They'll get you now.
+
+0x9C835C8C = ~z~That might be it. Might be the last of them.
+
+0x9EC8B573 = ~z~or got hit by a train.
+
+0x9ED3C37E = ~z~~sl:0.0:1.5~Hey, all of you.~sl:0.6~Fill your chambers and watch the roads.
+
+0x9FD0A7C2 = ~z~Well, that's quite something.
+
+0x9FD0CFD4 = ~z~I ain't going to let it come to that. Neither will these folk.
+
+0x10B7BD39 = ~z~I can't cope.
+
+0x13F0314A = ~z~~sl:0.0:3.4~Yeah, all of 'em. Left for the buzzards.~sl:0.3~I said let's not talk about it. Not now, at least.
+
+0x14B53B57 = ~z~Thank you.
+
+0x22C1947A = ~z~Them?
+
+0x26B15FC0 = ~z~Come on, please.
+
+0x34F4B8E0 = ~z~Sure, why not?
+
+0x36D3C1CB = ~z~No.
+
+0x38F28442 = ~z~I'm not going back.
+
+0x40F10E85 = ~z~Oh, of course, of course.
+
+0x42E07FAF = ~z~They're monsters. Help!
+
+0x45EE3E1B = ~z~~sl:0.0:0.9~Here's our wagon.~sl:0.7~You're getting us out of here.
+
+0x47FB32B9 = ~z~~sl:0.0:1.9~Terrence O'Dowd is not a good man.~sl:~And you're not the first folks he's sent.
+
+0x50AEF05C = ~z~Wonderful.
+
+0x53F42B97 = ~z~Please, you've...
+
+0x56EB824C = ~z~They're flanking us from the left!
+
+0x59EE366A = ~z~You want to get paid, you'll protect us.
+
+0x60AAC832 = ~z~I wish they'd all go to hell.
+
+0x61F747A5 = ~z~You know that.
+
+0x62AC944B = ~z~Wonderful. Yeah, Allison is the sweetest girl.
+
+0x68AAB5E7 = ~z~Are we going to Tumbleweed?
+
+0x68B390D1 = ~z~~sl:0.2~I hope that's enough.
+
+0x68E03B60 = ~z~Thank you.
+
+0x72BE6C59 = ~z~Oh, they are. That's exactly where they're going.
+
+0x75B02F90 = ~z~Hey. Over here.
+
+0x82F709A4 = ~z~they'll do terrible things to her, you've got to help me.
+
+0x83B7D50D = ~z~But they took her.
+
+0x83D2944B = ~z~Oh, this is the happiest moment of my whole life.
+
+0x91E932B8 = ~z~Cliff, you swore.
+
+0x97F741F1 = ~z~~sl:0.3~You people...
+
+0x99CE1489 = ~z~She's deranged...
+
+0x118BF20F = ~z~Maybe these people can help you?
+
+0x270A4E52 = ~z~That's my husband... sending killers after killers.
+
+0x301DF228 = ~z~Wagon's outside, money there too.
+
+0x330F8FC3 = ~z~Oh, Allison....
+
+0x365A2E8B = ~z~Here they are. Help! Help!
+
+0x365A7593 = ~z~Our right side, they're coming.
+
+0x469C10E4 = ~z~Over there, those are Terrence's men!
+
+0x533E2A33 = ~z~My job is stopping folks from getting shot on these streets.
+
+0x589D6379 = ~z~~sl:0.0:1.3~There's room for two more in the back...~sl:0.2~or, just stay close on your horses.
+
+0x637E8B2D = ~z~Come up here. Hey.
+
+0x764DF604 = ~z~All of them. Your whole gang. Biff. And Hank. And Aces High.
+
+0x964F5764 = ~z~How many more of them we gotta kill?
+
+0x1304ABCD = ~z~I know. I know.
+
+0x2014B458 = ~z~It weren't worth dying for. All of you... dying for.
+
+0x2266AE4A = ~z~Yes.
+
+0x4938E5F8 = ~z~Here they are. Up ahead.
+
+0x5101A7DB = ~z~None of us ever thought we was going to live very long.
+
+0x5706EC05 = ~z~I'm here! On the back of this horse. Help!
+
+0x7552B997 = ~z~She's quite a bit younger than me, you'll see.
+
+0x8448F51D = ~z~Thank you, thank you.
+
+0x8530FE73 = ~z~~sl:0.0:2.0~You and me.... when we get out of here?~sl:0.2:1.4~We got to make it worth it.~sl:0.7~Live good enough to make it all worthwhile.
+
+0x9099EED1 = ~z~But, better that way for wives, I-I've found.
+
+0x9563BBC9 = ~z~~sl:0.0:1.2~Why... why?
+
+0x32198F6E = ~z~Whoa.
+
+0x40632C01 = ~z~Why won't he leave us alone?
+
+0x45738E9E = ~z~That's way out of my jurisdiction.
+
+0x59830B26 = ~z~More men!
+
+0x66516F65 = ~z~I can't do it. Don't make me go back to him.
+
+0x73855B1C = ~z~It ain't your place to say what our lives is worth, okay?
+
+0x86121E84 = ~z~We're in love.
+
+0x91948BB2 = ~z~Come on, then.
+
+0x226356B3 = ~z~Come on.
+
+0x425153A1 = ~z~I'll pay... handsomely.
+
+0x499640F0 = ~z~~sl:0.0:2.4~I ain't under some malign influence.~sl:0.0:2.8~He didn't do some crazy witchcraft on my head.~sl:0.5~I really loved Cliff. Oh, Lord, I hope they kill you.
+
+0x590012A6 = ~z~~sl:0.9~Monsters.
+
+0x784000B3 = ~z~Well, I wouldn't.
+
+0x1348207F = ~z~Get me off this horse!
+
+0x5571176E = ~z~The wagons are outside. The money there, too.
+
+0x6747607E = ~z~I think they're gonna help us.
+
+0x49849597 = ~z~Keep with us.
+
+0x61294601 = ~z~you've got to help me.
+
+0x72825190 = ~z~I think they're gonna help.
+
+0x90543308 = ~z~Leave us be.
+
+0x99144488 = ~z~Just help us escape from here.
+
+0xA3F4D6CF = ~z~You swore I wouldn't have to go back.
+
+0xA82EB14A = ~z~I hate you and I'll go on hating you till I die.
+
+0xA4265A6B = ~z~~sl:0.2~Why? Why would you?
+
+0xA7355F6C = ~z~~sl:0.8:2.4:1~My husband's a monster...
+
+0xA8555D50 = ~z~You're... I hope you're okay.
+
+0xA16400BE = ~z~Up ahead, help me! Help me!
+
+0xA20311A3 = ~z~Up, up... up to Twin Rocks.
+
+0xAD6DDE86 = ~z~God help us, there's more.
+
+0xAD639756 = ~z~~sl:0.0:1.6:1~Cliff, they're...
+
+0xAE1B6C69 = ~z~If we die, we'll die together.
+
+0xAFEE4C67 = ~z~Then we best be quick.
+
+0xB098D913 = ~z~Cliff, isn't it all so romantic?
+
+0xB0F4D9DB = ~z~Mexico... Australia...
+
+0xB1FDB198 = ~z~Outlaws, I believe.
+
+0xB4BDED31 = ~z~She's my goddamn wife, they'll...
+
+0xB4BEF863 = ~z~They'll have to kill me to get to you.
+
+0xB7D000A1 = ~z~~sl:0.2~Cliff...
+
+0xB21C70DE = ~z~I have been so worried, my angel.
+
+0xB49C3DB0 = ~z~Watch our left side.
+
+0xB60AFD17 = ~z~~sl:0.0:2.4~No! No...~sl:0.9~Cliff.
+
+0xB111CA44 = ~z~Go on with you now.
+
+0xB853142B = ~z~Come on. We'll stop up here.
+
+0xBAE60164 = ~z~Come on.
+
+0xBC197BDD = ~z~Oh Lord, more of them!
+
+0xBDAE0DBB = ~z~He sent you, didn't he?
+
+0xBDD7BB18 = ~z~~sl:0.0:1.4~I don't like this.~sl:0.3~Maybe I should have just gone back to him.
+
+0xC5E5ECB8 = ~z~I hate you, Terrence O'Dowd.
+
+0xC6BA934B = ~z~It's my fault... I'm sorry.
+
+0xC6E7202D = ~z~Look, I'll give you all we have. It aint much but it's something.
+
+0xC6EDDB78 = ~z~Thank you!
+
+0xC8AA8585 = ~z~We'll try.
+
+0xC42A1134 = ~z~Look out, on the right!
+
+0xC81D9F20 = ~z~Come on, folks... have a heart.
+
+0xC690B0A6 = ~z~I think it is.
+
+0xC722E664 = ~z~He's sent some more!
+
+0xC2457C6C = ~z~Tell him whatever you want, just... let us go.
+
+0xC536825E = ~z~Thank you, for...
+
+0xC6489936 = ~z~Oh, you brought her back. Oh, Allison.
+
+0xCA78A6DB = ~z~He will have sent men to watch you people.
+
+0xCCC38944 = ~z~Hold on.
+
+0xCED27E49 = ~z~You killed him.
+
+0xD058C37E = ~z~~sl:0.2~I'm not kidnapped. Can't you see?
+
+0xD0A51B3A = ~z~They killed everyone!
+
+0xD9EDADCB = ~z~Save me from these people!
+
+0xD47FAED5 = ~z~~sl:0.0:1.5~We can't think about that right now.~sl:0.8~They knew what they was getting into, taking on O'Dowd.
+
+0xD66D8DAF = ~z~it was just a big misunderstanding between us, you see.
+
+0xD89F99CB = ~z~I hope you all choke on that money.
+
+0xD90D5646 = ~z~Have a heart.
+
+0xD96D7243 = ~z~Will we?
+
+0xD7457C27 = ~z~Thank you, thank you.
+
+0xD8683D75 = ~z~Allison...
+
+0xD726263D = ~z~Here, take this.
+
+0xD841426C = ~z~They'll know you're trying to help us.
+
+0xD938931D = ~z~~sl:0.5~You killed the gang.
+
+0xDA9D9E2F = ~z~money-hungry...
+
+0xDADBA9E7 = ~z~Yup. We will.
+
+0xDEFD2DB7 = ~z~Not quite. There's a group of them. Up by the train tracks.
+
+0xE1F3D646 = ~z~Well, I'm not coming. I can't go back to him.
+
+0xE2AFA633 = ~z~Oh, it was...
+
+0xE5A761F0 = ~z~~sl:0.0:3.1~Oh, Lord. You see all those men in town?~sl:~We'll never make it through.
+
+0xE7A7493E = ~z~Hey! Rescue me and we'll kill my husband. He's got money!
+
+0xE7EBE1C1 = ~z~Then we best be quick.
+
+0xE8EF3AD2 = ~z~You no-good...
+
+0xE21A6701 = ~z~Help us.
+
+0xE99A4B25 = ~z~Tell him we drowned...
+
+0xEA3D5A50 = ~z~~sl:0.0:1.2~It's a massacre...~sl:1.2~they killed them all, Cliff.
+
+0xEA753D76 = ~z~You going to do it or what?
+
+0xEB3B54FB = ~z~You're good people.
+
+0xEB55E350 = ~z~Well, would you look at that.
+
+0xEBE61744 = ~z~Don't say that. We'll get out of this.
+
+0xECA2C902 = ~z~Are we... are we out of it yet?
+
+0xECBF8443 = ~z~We'll run... somewhere hot.
+
+0xED14E5C1 = ~z~Let's go.
+
+0xED66594D = ~z~
+
+0xF1BE4450 = ~z~My... my sweet, sweet love.
+
+0xF4BD69E0 = ~z~Let's get around this train.
+
+0xF5AB712C = ~z~Close your eyes.
+
+0xF99B9E73 = ~z~some other fool comes and kills you.
+
+0xF156E2EC = ~z~I don't know what you saw in the man.
+
+0xF431EAF3 = ~z~Hey! Stay with us.
+
+0xF5506490 = ~z~Help me! Help!
+
+0xF7405774 = ~z~cowards.
+
+0xFA33DC8B = ~z~Come, my sweet.
+
+0xFBAB4656 = ~z~Most lost and kidnapped folks...
+
+0xFC547099 = ~z~being a decent human being.
+
+0xFD499D57 = ~z~Please, help us run away.
+
+0xFF233AD4 = ~z~I know.
+

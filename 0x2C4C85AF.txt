@@ -1,0 +1,308 @@
+0x006FB737 = ~z~with a bunch of horses they stole off of me.
+
+0x01C8A18A = ~z~and ready to move out as soon as we can.
+
+0x036E3E36 = ~z~Maybe you two would get along better?
+
+0x07DAB2DA = ~z~I call him boy because I'm older.
+
+0x07F33C5F = ~z~Come on, Clive.
+
+0x0914C881 = ~z~They're out in Rhodes...
+
+0x09933373 = ~z~Any other decent horses you find...
+
+0x0C7D5054 = ~z~He don't talk.
+
+0x0CAF50B0 = ~z~So, there's a gang of ne'er-do-wells.
+
+0x0CEA3BD9 = ~z~Get that horse hidden away, Clive...
+
+0x1A34FA95 = ~z~Meet me at the stable in Blackwater...
+
+0x1BF96E4A = ~z~They are a bunch of degenerates, not good people.
+
+0x1E5DDFE0 = ~z~Nice meeting ya.
+
+0x1E7DF44D = ~z~Listen, I heard you wanted to earn some money.
+
+0x1EC7F4E9 = ~z~This is my brother Clive.
+
+0x1FCC5FE5 = ~z~we'll buy 'em.
+
+0x2A420BDD = ~z~I'm Clay Davies.
+
+0x2A6582A7 = ~z~Nice meeting ya.
+
+0x2C1C7B5D = ~z~You know what...
+
+0x2D34762D = ~z~Alright...
+
+0x3F4C21D4 = ~z~Just as soon as we're set up, okay?
+
+0x3FE4200C = ~z~Nice meeting ya.
+
+0x4CB95F99 = ~z~You think you could do that for me, pop?
+
+0x4D4F5F65 = ~z~with a bunch of horses they stole off of me.
+
+0x5A76FB14 = ~z~Looks like you're doing this on your own.
+
+0x5AD957CE = ~z~If you wanna buy any extras or sundries for the animal...
+
+0x5B6DF0EA = ~z~But just try to stay outta trouble.
+
+0x5BEAD4A9 = ~z~It's yours. A sign of faith and future business.
+
+0x5C09FCDA = ~z~They're out near Cumberland Falls...
+
+0x5C3A6650 = ~z~You know what...
+
+0x5F5384D5 = ~z~here are your friends.
+
+0x6D42F999 = ~z~Come on, Clive.
+
+0x6E9F8B1A = ~z~Thirty minutes.
+
+0x6EBD23A8 = ~z~Oh, look...
+
+0x6F2D2320 = ~z~Well, that's a lie, but they stole 'em off...
+
+0x7AE414DB = ~z~See ya soon.
+
+0x7CE2B773 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+0x7F5E3506 = ~z~the feller I was gonna steal 'em off of.
+
+0x8A89C2F2 = ~z~He said to go see your friend Cripps, up at your camp.
+
+0x8A164A76 = ~z~Well, that's a lie, but they stole 'em off...
+
+0x8BD8A6A2 = ~z~I was expecting some horseflesh... where is it now? Go on, get it.
+
+0x8C40898D = ~z~Now listen, Horley came by and gave me a message.
+
+0x8D9E380F = ~z~Let's give our friend here back the horse.
+
+0x8F9F4BBD = ~z~It's yours. A sign of faith and future business.
+
+0x9BFFD3CA = ~z~See ya soon.
+
+0x9CC8EFDB = ~z~with a bunch of horses they stole from me.
+
+0x9E29CB44 = ~z~Come back with that horse, pop. That simple enough for you?
+
+0x9FFD7DA8 = ~z~Meet me at the stable at Tumbleweed...
+
+0x23F975CB = ~z~hold on, boy.
+
+0x24B1E75C = ~z~Dead right. Ain't that dandy?
+
+0x29B98D82 = ~z~Oh, and once you get me those horses...
+
+0x30C1528C = ~z~Well, well, well, Horley was right about you.
+
+0x37EB8CAB = ~z~If you wanna buy any extras or sundries for the animal...
+
+0x38B02B6F = ~z~well after that we'll talk again.
+
+0x52B8413C = ~z~Get that horse hidden away, Clive...
+
+0x56B24DA8 = ~z~You know what...
+
+0x60EC5FD4 = ~z~we'll buy 'em.
+
+0x62C7E8CB = ~z~Any other decent horses you find...
+
+0x63D2FDFC = ~z~the feller I was gonna steal 'em off of.
+
+0x64F2E5B1 = ~z~and ready to move out as soon as we can.
+
+0x67D8C0BA = ~z~Alright...
+
+0x68A4F365 = ~z~head inside. They've got a lot available.
+
+0x69BF112C = ~z~Well, good.
+
+0x82E13FD0 = ~z~Let's go, Clive.
+
+0x84CC4E5E = ~z~Well, that's a lie, but they stole 'em off...
+
+0x91DCE87F = ~z~They're out at Rathskeller Fork...
+
+0x97C34E99 = ~z~head inside. They've got a lot available.
+
+0x98C44F83 = ~z~He said to go see your friend Cripps, up at your camp.
+
+0x355B8CD3 = ~z~See ya soon.
+
+0x364D8867 = ~z~Well, well, well, Horley was right about you.
+
+0x458B48C5 = ~z~Meet me at the stable at Valentine...
+
+0x488F2CEA = ~z~Dead right. Ain't that dandy?
+
+0x553D1B83 = ~z~Get that horse hidden away, Clive...
+
+0x582BEE06 = ~z~Well, good.
+
+0x671ABF3E = ~z~and ready to move out as soon as we can.
+
+0x729E8338 = ~z~Any other decent horses you find...
+
+0x798F6427 = ~z~here's the money you earned.
+
+0x830DC029 = ~z~Oh, I do so enjoy these conversations.
+
+0x941B6244 = ~z~I'm used to 'em on account of my brother.
+
+0x1129C458 = ~z~Well, well, well, Horley was right about you.
+
+0x2427F4C8 = ~z~head inside. They've got a lot available.
+
+0x3873A840 = ~z~Did Horley send ya, pop?
+
+0x4283F611 = ~z~Dead right. Ain't that dandy?
+
+0x4590C27A = ~z~I win again.
+
+0x6479E937 = ~z~hold on, boy.
+
+0x9168BE9C = ~z~head inside. They've got a lot available.
+
+0x9705CADE = ~z~I call him boy because I'm older.
+
+0x60605FD4 = ~z~Well, well, well, Horley was right about you.
+
+0x81579F82 = ~z~He went black.
+
+0x230183B2 = ~z~once you have the horseflesh, and I'll pay ya good.
+
+0x263302BD = ~z~They're out at Manzanita Post...
+
+0x323984B7 = ~z~Just as soon as we're set up, okay?
+
+0x4310283C = ~z~Come on, Clive.
+
+0x5184595F = ~z~They are a bunch of degenerates, not good people.
+
+0x15285829 = ~z~I call him boy because I'm older.
+
+0x26359132 = ~z~the feller I was gonna steal 'em off of.
+
+0x31068549 = ~z~we'll buy 'em.
+
+0x60698599 = ~z~They are a bunch of degenerates, not good people.
+
+0xA2FFE2D2 = ~z~Thirty minutes.
+
+0xA26A0281 = ~z~Oh... and, pop.
+
+0xA55A7733 = ~z~Let's give our friend here back the horse.
+
+0xA81B1663 = ~z~Well, good.
+
+0xA570E8DC = ~z~Now listen to me for a second.
+
+0xA769EDE6 = ~z~If you wanna buy any extras or sundries for the animal...
+
+0xA97517AF = ~z~the feller I was gonna steal 'em off of.
+
+0xAA3E7047 = ~z~Come on, Clive.
+
+0xAA5C0132 = ~z~He went black.
+
+0xAA7171C5 = ~z~Just as soon as we're set up, okay?
+
+0xB07C041E = ~z~He went black.
+
+0xB0846FF9 = ~z~Ain't you bringing me a horse, pop? Why you're duller than my brother.
+
+0xB7D8B5DE = ~z~once you have the horseflesh, and I'll pay ya good.
+
+0xB42FA60C = ~z~once you have the horseflesh, and I'll pay ya good.
+
+0xB98CE429 = ~z~He said to go see your friend Cripps, up at your camp.
+
+0xB8610D94 = ~z~You know what...
+
+0xB4400792 = ~z~It's yours. A sign of faith and future business.
+
+0xBBBA156E = ~z~here's the money you earned.
+
+0xBDC74053 = ~z~with a bunch of horses they stole from me.
+
+0xC01FA08D = ~z~here's the money you earned.
+
+0xC01FA365 = ~z~Let's give our friend here back the horse.
+
+0xC1D7A2C1 = ~z~Let's give our friend here back the horse.
+
+0xC3D8CDDE = ~z~Meet me at the stable at Saint Denis...
+
+0xC8A3AE19 = ~z~hold on, boy.
+
+0xC89F2D04 = ~z~Now listen, Horley came by and gave me a message.
+
+0xC716CBDA = ~z~take it.
+
+0xCA8DB315 = ~z~Now listen, Horley came by and gave me a message.
+
+0xCC6009CF = ~z~Now listen to me for a second.
+
+0xCEE6CBA7 = ~z~Just as soon as we're set up, okay?
+
+0xD6CECDEB = ~z~Now listen, Horley came by and gave me a message.
+
+0xD8D56F57 = ~z~Horley wanted me to remind you any decent work you can find...
+
+0xD9FB50C8 = ~z~Nice meeting ya.
+
+0xD18B6943 = ~z~Well, good.
+
+0xDA3CD67F = ~z~and ready to move out as soon as we can.
+
+0xDC31E63D = ~z~we'll buy 'em.
+
+0xDD61E73D = ~z~See ya soon.
+
+0xDED2DCB7 = ~z~He went black.
+
+0xE1C2884D = ~z~They are a bunch of degenerates, not good people.
+
+0xE2BA689A = ~z~Thirty minutes.
+
+0xE927F3B5 = ~z~It's yours. A sign of faith and future business.
+
+0xE5146A76 = ~z~He said to go see your friend Cripps, up at your camp.
+
+0xE7867112 = ~z~Alright...
+
+0xEC937838 = ~z~Thirty minutes.
+
+0xED901178 = ~z~Well, that's a lie, but they stole 'em off...
+
+0xEE687ACA = ~z~Alright...
+
+0xF1EA104D = ~z~If you wanna buy any extras or sundries for the animal...
+
+0xF3B70567 = ~z~Get that horse hidden away, Clive...
+
+0xF5FBB21F = ~z~Maybe you could get 'em for me?
+
+0xF12899AB = ~z~Maybe not.
+
+0xF47687FE = ~z~I call him boy because I'm older.
+
+0xF138904A = ~z~Any other decent horses you find...
+
+0xF7191157 = ~z~hold on, boy.
+
+0xFAE8961E = ~z~Now listen to me for a second.
+
+0xFE979F34 = ~z~Dead right. Ain't that dandy?
+
+0xFF6A1A99 = ~z~here's the money you earned.
+
+0xFF8EACF6 = ~z~Now listen to me for a second.
+

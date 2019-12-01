@@ -1,0 +1,202 @@
+0x000DF3E2 = ~z~Has anyone seen an Englishman called Gavin?
+
+0x0192F24C = ~z~Has anyone seen Gavin?
+
+0x02D93C29 = ~z~Gavin? Gavin!
+
+0x031EF965 = ~z~English bloke. Lovely feller. He went missing and, uh... now I'm all alone.
+
+0x0425A59E = ~z~Gavin!
+
+0x06735E9D = ~z~I'm looking for Gavin... he's my best friend.
+
+0x0B18636F = ~z~I looked but I never saw. I saw nothing. Gavin...
+
+0x0C10CC14 = ~z~This is really worrying me... Gavin!
+
+0x1D53C512 = ~z~Uh... excuse me, um, have you seen an Englishman?
+
+0x1FC4344A = ~z~Gav... Gav?
+
+0x2B66FF53 = ~z~Oh, I remember you. Listen, have you seen, uhm...
+
+0x3D1AF183 = ~z~Come on... Gav? Come on...
+
+0x4A4C8FED = ~z~I need... Gavin!
+
+0x5A793DA2 = ~z~Oh, I am so worried... Gav?
+
+0x5C4FE124 = ~z~I'd have stopped after seven or eight days.
+
+0x6FE163CC = ~z~I've lost my friend... a funny fellow, Englishman. You know, Cockney. Londoner.
+
+0x7C894643 = ~z~I'm... I'm looking for my friend... Gavin. For Gavin.
+
+0x7DC9F8C3 = ~z~He's my best mate, and he's gone.
+
+0x7EDAF0DF = ~z~Good luck.
+
+0x8BDE0F08 = ~z~Please... Gav?
+
+0x8F5F6BEF = ~z~Has he been gone long?
+
+0x20D738FC = ~z~~sl:1.0~Come back to me! I can't believe this...
+
+0x25F08222 = ~z~Gavin... oh, Gavin.
+
+0x27A7DAD1 = ~z~Where the hell are you?
+
+0x33A7D05D = ~z~Nope, but I won't give up. He's lost...
+
+0x40D507E4 = ~z~I've looked all over for him, for bloody miles! Have you seen him?
+
+0x45F174F0 = ~z~You still haven't found him?
+
+0x50E50AD3 = ~z~Gavin?
+
+0x59D78560 = ~z~Someone must have seen an Englishman... really funny he is.
+
+0x65E5D2C2 = ~z~I don't even know what he looks like.
+
+0x72C5778A = ~z~Gavin... please, come on! Where in the blazes are you?
+
+0x77B17659 = ~z~Please tell me you've seen Gavin?
+
+0x86EE94D3 = ~z~Big bloke, cockney. Londoner.
+
+0x95F9CAE8 = ~z~You're telling me. Might be time to call it quits?
+
+0x127F8E0D = ~z~One morning, I just woke up and he just wasn't there... someone must have taken him.
+
+0x173CA1A0 = ~z~Listen, have you seen... I'm looking for my friend Gavin.
+
+0x193F5B04 = ~z~I'll box his ears when I find him. No, I won't. I love that boy.
+
+0x221E418D = ~z~Seriously, Gavin? He...
+
+0x325EDC0B = ~z~I thought we were friends, I thought we were going to conquer America together.
+
+0x501A1D64 = ~z~My best mate gone. We... he's left me. Gavin!
+
+0x540BCE42 = ~z~Gavin.
+
+0x668FE02C = ~z~Gavin!
+
+0x905BA962 = ~z~Where are you?
+
+0x994EB993 = ~z~He's the best... Gavin!
+
+0x8135EB78 = ~z~Maybe he just left.
+
+0x8950DFDE = ~z~Ah... yeah, few years. Few bloody years.
+
+0x8981E040 = ~z~I can't, um, I can't remember what he looks like.
+
+0x45569DBA = ~z~Has anyone seen Gavin?
+
+0x45827F18 = ~z~I... I'm looking for my mate Gavin. Somebody help me!
+
+0x58762C40 = ~z~I come to America, and I've lost my friend. I'm a fool, a fool!
+
+0x296564C7 = ~z~Gavin? Gavin! Where are you?
+
+0x355720EF = ~z~Good luck.
+
+0x45511623 = ~z~Gav? Gav!
+
+0x97783529 = ~z~Has anyone seen him? Where is he?
+
+0xA2B9C0C6 = ~z~I've lost him.
+
+0xA3CA94D5 = ~z~I'm looking for him, but I don't know who he is.
+
+0xA7BF6E73 = ~z~You what? Have you gone mad?
+
+0xA44B4ECF = ~z~~sl:0.3~Gavin!
+
+0xA161ACCE = ~z~Gavin! Gavin! Gavin... Gavin, where are you?
+
+0xA195E224 = ~z~This is ridiculous, mate.
+
+0xAAFDD152 = ~z~Has anyone seen Gavin?
+
+0xAB095D08 = ~z~Nope, sorry, I've yet to meet any hilarious Londoners.
+
+0xB5F4B929 = ~z~I'm sorry to hear that.
+
+0xB10AA82C = ~z~Have you seen, um, I'm looking for my friend. Gavin. His-his name is... his name is Gavin.
+
+0xB42D4D57 = ~z~Has anyone seen Gavin?
+
+0xB52C65AB = ~z~English fellow... he's about, he's about... so big? He's a charming sort of chap.
+
+0xB53A16BE = ~z~That's uh... that's too bad.
+
+0xB7050D06 = ~z~I love that boy. Big bloody dope that he is. No, no, I'll find him.
+
+0xBA77DDFB = ~z~I mean, really best mates. He'd never leave me. Never. Gavin!
+
+0xBC9A03DA = ~z~I mean, nobody's seen hide nor hair of him...
+
+0xBF45E797 = ~z~No... no. We were best mates.
+
+0xC068CE11 = ~z~I've wasted my life... I wasted my life looking.
+
+0xC0F88C5D = ~z~Gone.
+
+0xC760B77C = ~z~Yeah... yeah, it's turning a right bloody rigmarole.
+
+0xCB698AE4 = ~z~Somebody help me please!
+
+0xCF0A9560 = ~z~I miss you... look, it's not funny!
+
+0xD8BD5076 = ~z~He's probably just off on a spree if I know Gav.
+
+0xD5901433 = ~z~Have you seen Gavin?
+
+0xDEA66996 = ~z~Gavin!
+
+0xE1C12115 = ~z~Oh that's really... Gavin! Gav... in!
+
+0xE3D03A1B = ~z~I'm looking for my friend... Gavin... Gavin...
+
+0xE119EAEE = ~z~Gavin? You're still on this?
+
+0xE817443F = ~z~Gav... Gav?
+
+0xEA363BC0 = ~z~Gav? Gavin!
+
+0xECBF787A = ~z~Well, good luck.
+
+0xEE9D85C1 = ~z~I told the trouble and strife I'd be six months, it's been seven or eight years now.
+
+0xEE54E74F = ~z~Gavin!
+
+0xEF11688E = ~z~I've, uh, gone lost him... lost him. It's the funniest thing, he's gone.
+
+0xF02AAD94 = ~z~Yeah... me too... me too.
+
+0xF08CE525 = ~z~Yeah, we came to America together, and now he's gone. Gavin!
+
+0xF4DFF0B4 = ~z~Hilarious. Oh, we've had such times, me and Gav.
+
+0xF7B861EB = ~z~Ugh, where the hell are you?
+
+0xF11E98B4 = ~z~Gavin...
+
+0xF440BA38 = ~z~He left me... I lost him, I mean. I lost him.
+
+0xF5505DC8 = ~z~I don't know any Gavins, I'm afraid.
+
+0xF6097CF4 = ~z~Gavin! I'm sorry!
+
+0xF6727592 = ~z~Gav? Ugh... Gav? Where are you?
+
+0xFAB96983 = ~z~I've lost my friend...
+
+0xFC2BDFAB = ~z~This is just... This is just too bad.
+
+0xFCA4D6DC = ~z~Where the hell are you?
+
+0xFEEE2662 = ~z~Gavin! Where you hiding?
+

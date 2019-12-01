@@ -1,0 +1,26 @@
+0x3AEC8F81 = ~z~I tell you what, little miss romance... I was right.
+
+0x8BF53191 = ~z~Evil can be very romantic.
+
+0x34E15181 = ~z~Very funny.
+
+0x55A944FA = ~z~Saint Denis.
+
+0x81EC1D7F = ~z~It ain't romantic... it's evil.
+
+0x444BA23F = ~z~About what?
+
+0x64476FEF = ~z~She's frightened of romance, Arthur, so she makes up nonsense.
+
+0x98504A47 = ~z~Shut up... I talked to this couple in town, they told me that there's an old rumor about people drinking blood... human blood... in town.
+
+0x879776EC = ~z~It depends on whose blood.
+
+0xA706F575 = ~z~Don't we all.
+
+0xAAA2EEEC = ~z~Oh that's just a silly old wives' tale.
+
+0xC845AA2D = ~z~What, blood drinking ain't romantic enough for you?
+
+0xFFA298E6 = ~z~How so?
+

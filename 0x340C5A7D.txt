@@ -1,0 +1,122 @@
+0x003542D5 = Cart
+
+0x062C01E0 = Enter the ~o~Gun store~s~
+
+0x1D6AAFBD = Ride to the ~o~herd~s~
+
+0x2A883D7F = Replace with Strauss
+
+0x2DB6C6DF = You killed a rancher.
+
+0x3FEFA212 = Herd the sheep to the ~o~Auction Yard.~s~
+
+0x4A2B6239 = Lead your ~o~horse~s~
+
+0x5AE2A9BC = Move near the stragglers to return them to the herd.
+
+0x5E6C70E6 = Lead your horse and walk with ~o~John~s~
+
+0x6A9CC2BE = Weapons can be purchased from Gunsmiths ~BLIP_SHOP_GUNSMITH~ located around the world.
+
+0x6F0C47C1 = Meet Dutch in the ~o~saloon~s~
+
+0x6FD7CD80 = Get to the ~o~horses~s~
+
+0x7C2DD05C = Wait for ranchers
+
+0x7C6FE1E1 = John and Strauss were killed.
+
+0x7D004E58 = Rancher
+
+0x8F7CAD76 = Shoot near the ~e~ranchers~s~ to scare them off
+
+0x9BD2EA77 = Strauss was killed.
+
+0x9CE15421 = Return to your ~o~gang~s~
+
+0x9D528FCA = Strauss was abandoned.
+
+0x9E72A24C = Speak to the ~o~gunsmith~s~
+
+0x10FF0175 = Return to ~o~vantage point~s~
+
+0x11EB3FEF = The herd got away.
+
+0x14F0C1DA = Pick up Strauss
+
+0x17D69516 = Press ~INPUT_GAME_MENU_CANCEL~ to return to the catalogue
+
+0x18E6976F = The herd was abandoned.
+
+0x22C05EC2 = Move with the ~o~cart~s~
+
+0x31D390CB = Shoot the ~e~Henchman~s~ holding John
+
+0x32A5CAB4 = Select the Rolling Block Rifle and press ~INPUT_GAME_MENU_ACCEPT~ to purchase
+
+0x57C55F8A = You left the vantage point.
+
+0x64A50F53 = Eliminate the ~e~Henchmen~s~
+
+0x81AAB18A = Follow ~o~John~s~
+
+0x90BB3C5E = Too many sheep have died.
+
+0x99AFC48E = Speak with the ~o~Auctioneer~s~
+
+0x631E7E73 = Buy a Rolling Block Rifle from the ~o~Gunsmith~s~
+
+0x707D91E3 = You attacked the Auctioneer.
+
+0x728B2E54 = Escape from Valentine
+
+0x987FCCFE = Meet up with ~o~John~s~
+
+0x1601BFE8 = The gunsmith has died.
+
+0x3135FBAD = Get to the ~o~cart~s~ and cover gang
+
+0x24817A00 = Mount your ~o~horse~s~
+
+0x80634CD4 = Herd the sheep into the ~o~holding pens~s~
+
+0x262031A9 = Hold ~INPUT_GAME_MENU_CANCEL|PromptId=CATALOG_CLOSE_PROMPT_TAG,Gutter~ to close the catalogue
+
+0xA1AE3130 = Pick up ~o~Strauss~s~
+
+0xA1F1E986 = Talk to the gunsmith and browse the catalogue to purchase weapons. Gunsmiths also sell a variety of special ammo types and weapon mods.
+
+0xA5AD71EE = You attacked the sheep.
+
+0xA9C7A4EA = Auction Yard
+
+0xB00A0635 = Put Strauss on ~o~John's horse~s~
+
+0xB27FA41A = You attacked the farmers.
+
+0xBA6308AC = The gunsmith has been scared off.
+
+0xBD0C0C3E = The gang was abandoned.
+
+0xC23DCC3E = Gunsmith
+
+0xC2575D18 = Saloon
+
+0xD8D417D7 = Return to ~o~herd~s~
+
+0xD891AD19 = The law were alerted.
+
+0xD4177448 = Hitch your horse at the ~o~hitching post~s~
+
+0xE8EF5C63 = Meet up with ~o~John~s~ at the Gun store
+
+0xE9A16728 = The gunsmith has been attacked.
+
+0xE452AE0F = View the Rifles section of the catalogue
+
+0xF0723447 = Return the separated ~o~sheep~s~ to the herd
+
+0xF4DA4F1A = Hold ~INPUT_SHOP_BUY|PromptId=SHOP_BUY_PROMPT_TAG,Gutter~ to open the catalogue
+
+0xFD4E0303 = Auctioneer
+

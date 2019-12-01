@@ -1,0 +1,26 @@
+0x0E86BC53 = ~z~You know something? I was married once.
+
+0x2AE17508 = ~z~Yeah... only it turns out that she was already married... so I was party to bigamy... yet another sin to add to my list.
+
+0x2B3A75B6 = ~z~I've made rather a fool of myself again.
+
+0x5AB93478 = ~z~I suppose I still am married in a way but... it hasn't been terribly fulfilling.
+
+0x18EDD11D = ~z~Reverend.
+
+0x30B460DB = ~z~The law caught up with us in San Francisco, she jumped aboard a ship and sailed to Shanghai, I believe.
+
+0x42FF0570 = ~z~What happened?
+
+0x51D8C2F2 = ~z~It's just... it's so embarrassing.
+
+0x697CD1FF = ~z~No, I suppose not.
+
+0x990E5164 = ~z~Mr. Matthews.
+
+0x1938D1B7 = ~z~You were?
+
+0x4769AE14 = ~z~Me too... me too.
+
+0xFE351BB0 = ~z~It happens... after Bessie passed away, I was drunk for a year... I wouldn't worry too much about it.
+

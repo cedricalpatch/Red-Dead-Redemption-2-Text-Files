@@ -1,0 +1,26 @@
+0x00A6F9D4 = Your Camp ~1b~ is about to be raided by bandits. Return and defend your goods.
+
+0x083EF52E = Defend your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+0x4A743275 = The goods were stolen
+
+0x7A580EDB = Defend your ~COLOR_MP_OBJECTIVE_FRIENDLY~Camp~s~ from being raided
+
+0x64E2C44D = Reclaim the ~COLOR_ENEMY~goods~s~
+
+0x72FE7416 = Pick up the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+0x972D43B3 = Watch out for ~COLOR_ENEMY~bandits~s~ trying to steal your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~.
+
+0x6959362E = Eliminate the ~COLOR_ENEMY~bandits~s~ and protect your ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ before they are stolen.
+
+0x79843983 = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~
+
+0xE99518C9 = Fast travel to quickly join your Posse Members defending the Camp.
+
+0xF5ABABEF = The Camp was defended
+
+0xFAAEBB92 = Return the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ to ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0xFEFCDDD6 = Return to Camp
+

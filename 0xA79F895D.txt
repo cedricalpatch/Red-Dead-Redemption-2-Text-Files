@@ -1,0 +1,16 @@
+0x7FDAC3CE = Fully press ~INPUT_ATTACK~ to draw
+
+0x16DB1883 = Continue holding ~INPUT_ATTACK~ to completely fill the meter and draw
+
+0x29BAC84B = Shoot your ~e~Opponent~s~
+
+0x37C52E6F = SLOWLY press ~INPUT_ATTACK~ to fill the meter. The more full the meter, the longer you get to aim.
+
+0x69F8A2B6 = Hold ~INPUT_ATTACK~ to begin to fill the meter before drawing
+
+0x833F7013 = LIGHTLY hold ~INPUT_ATTACK~ to begin to fill the meter before drawing
+
+0x866FA4BD = Hold ~INPUT_ATTACK~ to fill the meter. When the meter is full you will draw.
+
+0xCA5A2A8F = Move the reticle with ~INPUTGROUP_LOOK~.~n~Press ~INPUT_ATTACK~ to fire.
+

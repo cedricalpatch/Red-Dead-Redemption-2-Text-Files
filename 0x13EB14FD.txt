@@ -1,0 +1,12 @@
+0x6E913357 = ~z~How was your day?
+
+0x7B364CA1 = ~z~Fine...
+
+0x17AC058E = ~z~Always.
+
+0x60E197F8 = ~z~Yeah...
+
+0x88EAE80A = ~z~And you kept out of trouble?
+
+0xD2127A5C = ~z~You coming to bed?
+

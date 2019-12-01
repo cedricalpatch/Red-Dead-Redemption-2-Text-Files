@@ -1,0 +1,484 @@
+0x0204F712 = ~z~Come on! We gotta move.
+
+0x02348EBF = ~z~We barely escaped with our lives in Saint Denis...
+
+0x02BADC96 = ~z~Follow me, and stay close.
+
+0x03040CCA = ~z~Otherwise, Cornwall, them Pinkertons...
+
+0x04DCF265 = ~z~Figure out what?
+
+0x068D8581 = ~z~~sl:0.0:1.5~and we all know his money~sl:0.1~is what's keeping the Pinkertons on our tail.
+
+0x06B45BEC = ~z~You sure?
+
+0x09F4E275 = ~z~~sl:0.6:0.0~So why did you go for John against my wishes?
+
+0x0A257592 = ~z~It looks like Mr. Cornwall's company...
+
+0x0B6EA133 = ~z~now we got a rat?
+
+0x0BBE0E44 = ~z~He has been hunting us since Valentine.
+
+0x0BC492F5 = ~z~It will, son...
+
+0x0C6F755A = ~z~and get that army man to pay his portage charge.
+
+0x0CD153F8 = ~z~Let me see them papers.
+
+0x0D440BD4 = ~z~And he... he won't let us go.
+
+0x0E6E7940 = ~z~Yes, sir.
+
+0x0EEDEF9F = ~z~It's the wages. Folk feel...
+
+0x0F0AD660 = ~z~Let's get down here behind these crates.
+
+0x0F217991 = ~z~Nothing wrong with me.
+
+0x1A5C1575 = ~z~~sl:0.0:2.7~It wasn't! We got what we came for.~sl:0.2~Those papers.
+
+0x1DF7F645 = ~z~We all knew sooner or later Cornwall had to go.
+
+0x1F4BB669 = ~z~Come on, this way! Up the stairs!
+
+0x1FBDB1A5 = ~z~You boys have lost your minds.
+
+0x2B692895 = ~z~I bought into this mine because of mismanagement...
+
+0x2C3CDF77 = ~z~and what we're doing.
+
+0x2D96378F = ~z~The law?
+
+0x2DF73D35 = ~z~We just need a distraction.
+
+0x2E66E3CB = ~z~Way I see it, best thing we can do is let the weak go...
+
+0x2E69AB5E = ~z~Neither did I.
+
+0x2F4968E8 = ~z~We been on the run since you two fools went crazy in Blackwater.
+
+0x3BD46053 = ~z~We are gonna need a lot of it.
+
+0x3DE2D90C = ~z~whom I kill and rob...
+
+0x3F163065 = ~z~More up top here!
+
+0x4A39EB97 = ~z~Cornwall's men are all over the place.
+
+0x4BF65235 = ~z~Dutch...
+
+0x4D3CA13A = ~z~move on, get our money and start over.
+
+0x4DE29426 = ~z~We're gonna cut a deal, Arthur.
+
+0x4EE8469E = ~z~I have spent a considerable fortune with your agency...
+
+0x4F3CC16F = ~z~Look out, fellers, they're still coming!
+
+0x4F561573 = ~z~He bought it just to destroy these folks.
+
+0x5A8C1C62 = ~z~This is crazy.
+
+0x5A743CB5 = ~z~Ah, leave Cornwall alone.
+
+0x5ADB940D = ~z~Your impudence will be your undoing, sir.
+
+0x5D255F2A = ~z~I said...
+
+0x5D942208 = ~z~Come on. We don't have all day, cowpoke.
+
+0x5E6FE5AD = ~z~We are not friends.
+
+0x5E21CCD6 = ~z~Shut the hell up.
+
+0x5EA8F79A = ~z~Feels like the whole world's closing in on us.
+
+0x6AA3BC91 = ~z~We'll meet up back at camp.
+
+0x6C3D33C3 = ~z~I'm just a realist, friend.
+
+0x6C85D5C6 = ~z~Get up here, Morgan!
+
+0x6CFD61C7 = ~z~Let's head to the river.
+
+0x6E39BD6D = ~z~especially as we ain't exactly hiding out.
+
+0x7A094294 = ~z~I'll do no such thing.
+
+0x7A34CFB6 = ~z~On what evidence?
+
+0x7CE960B2 = ~z~Let's move this along, Morgan. They're gonna be here soon.
+
+0x7D3DB259 = ~z~Get down behind these crates so no one sees us.
+
+0x8B0A4932 = ~z~
+
+0x8C81A0E7 = ~z~It ain't worth it.
+
+0x8D0D7760 = ~z~and you destroy everything in your path.
+
+0x8DE8FA3F = ~z~Not two figs.
+
+0x8FDB6E38 = ~z~safe passage out of here. I'll let you live.
+
+0x9C2F0A2B = ~z~Good day, sir!
+
+0x9CED085B = ~z~You give me this ship, ten thousand dollars and...
+
+0x9D090707 = ~z~Where you are going?
+
+0x9FA7C3B3 = ~z~Don't be ridiculous.
+
+0x11DF8188 = ~z~~sl:1.5~I found something interesting.
+
+0x11EA15FE = ~z~Well, at least we tried talking it out.
+
+0x14EC223E = ~z~We want out, and Cornwall wants us to stop robbing him...
+
+0x18A11289 = ~z~Buy us some time.
+
+0x18EA38D2 = ~z~and where we are...
+
+0x20F5BC48 = ~z~Here come more, take'em down!
+
+0x22F12E8D = ~z~Micah, you look into this dynamite. Take Bill, I guess.
+
+0x23FD9DC0 = ~z~Will you get out of sight?
+
+0x26DD2B01 = ~z~And you robbed him. Funny world.
+
+0x26FFB67D = ~z~Let's go, let's go!
+
+0x26FFD859 = ~z~Maybe we pushed things too hard?
+
+0x27D6A644 = ~z~Alright, let's head for the hills, boys!
+
+0x27F9AB41 = ~z~Oh, does he?
+
+0x31E6FE11 = ~z~Oh, shit, Pinkertons!
+
+0x32F6CE98 = ~z~Arthur, you go too.
+
+0x34EBDC01 = ~z~Oh... I felt a lot of guilt in this life, Arthur.
+
+0x35BEC142 = ~z~Arthur, I said get yourself hidden.
+
+0x36A14977 = ~z~Follow me, this way!
+
+0x38B04323 = ~z~and I intend to make it a success, no matter what the cost.
+
+0x42AAF77F = ~z~I've killed too often and poorly...
+
+0x46A1E978 = ~z~This way, come on!
+
+0x46D48A64 = ~z~You're slowing us down, Morgan, come on!
+
+0x46DA5C43 = ~z~I've heard just about enough.
+
+0x46DA3290 = ~z~What is your problem?
+
+0x47F3E1AA = ~z~Now, listen up, Didsbury.
+
+0x50FC82F3 = ~z~it won't be long before they find where we're hiding out now...
+
+0x61B7A1DD = ~z~Business doesn't give two figs about feelings, sir.
+
+0x61B31EAF = ~z~Not inside you ain't.
+
+0x66CE4907 = ~z~~sl:0.0:3.6~It will... a deal... some noise...~sl:0.3~and then we're gone.
+
+0x69EAF8B5 = ~z~Was you followed?
+
+0x70AA3533 = ~z~They're trying to block us off, go right!
+
+0x70C8BED7 = ~z~only difference I can see is I choose...
+
+0x70CE685D = ~z~Well, something's gotta happen, and fast.
+
+0x74E5D115 = ~z~Let's split up.
+
+0x75DB0943 = ~z~We had enough heat on us before, now we're going to be torched, Dutch!
+
+0x78CDE3C4 = ~z~but not this time, son.
+
+0x79CF9C6C = ~z~and still, nothing.
+
+0x79EE6AA3 = ~z~He is the reason that Hosea got killed. His sugar business,
+
+0x80FF4F5C = ~z~Go left! Lose them through the river!
+
+0x84EC8E3D = ~z~it's just a simple social call.
+
+0x89DA2F82 = ~z~Arthur, come on!
+
+0x90E7FD18 = ~z~I'm fit as a fiddle.
+
+0x91F1F5B1 = ~z~Mr. Cornwall.
+
+0x94EA30D4 = ~z~they've got us pinned in here, and ain't none of them stopping.
+
+0x112B8B02 = ~z~and get the money that we need.
+
+0x203F1EED = ~z~Folk feel?
+
+0x248B71E5 = ~z~I know you've heard this before...
+
+0x341F3E03 = ~z~Arthur, get behind something before you're spotted.
+
+0x379A4FF1 = ~z~You said this wasn't a revenge mission!
+
+0x439DEE86 = ~z~Nothing's changed.
+
+0x445BE5FE = ~z~I did no such thing.
+
+0x514D4028 = ~z~Trust you?
+
+0x576A8D43 = ~z~Perhaps there is a plague on your house already, Mr. Cornwall.
+
+0x611C38FF = ~z~This town, Arthur, is his town.
+
+0x619FCA00 = ~z~That ain't happening.
+
+0x666FBF08 = ~z~Come on!
+
+0x711B118F = ~z~Did you put Dutch up to this?
+
+0x721E1A1C = ~z~On the left! More of the bastards!
+
+0x745AC3CF = ~z~Look out! We got more ahead.
+
+0x784F4EF4 = ~z~What do you want, sir?
+
+0x836EE22A = ~z~We's only back a minute, Pinkertons show up.
+
+0x880C38E5 = ~z~We are very close, Mr. Cornwall.
+
+0x903DAAD3 = ~z~and they know who we are...
+
+0x2176AA38 = ~z~There's an old house west of Van Horn.
+
+0x2360CE8F = ~z~Of course it's for money.
+
+0x3182D510 = ~z~~sl:2.1:1.9:1~I found something interesting.
+
+0x3531F231 = ~z~Now?
+
+0x4381E9E5 = ~z~Cornwall's boat is due in soon.
+
+0x4533E8D6 = ~z~It's a nonsense that will bring a plague on both our houses...
+
+0x4829ECB6 = ~z~Find me Dutch van der Linde!
+
+0x6583A713 = ~z~Come on, through here!
+
+0x6659FC0D = ~z~Me? I just follow orders, Morgan!
+
+0x6686AB63 = ~z~I'm undone already.
+
+0x7006C6ED = ~z~Let's go. Stop sulking like a spoiled little girl.
+
+0x7991AD7B = ~z~We all okay?
+
+0x8440DA4F = ~z~Mr. Didsbury...
+
+0x9564BB57 = ~z~You sure you got the lungs for this, Morgan?
+
+0x12468B66 = ~z~Let's keep things moving, we look suspicious enough as it is.
+
+0x19497F86 = ~z~Arthur! You're going to blow our cover!
+
+0x31604A0B = ~z~It hasn't, huh?
+
+0x33958FF9 = ~z~This was a business meeting, Mr. Milton.
+
+0x39357CC4 = ~z~Maybe time for folks like us is passed.
+
+0x41542B76 = ~z~I wanna thank you for your hospitality, Mr. Cornwall.
+
+0x75803CCE = ~z~What's all this about strikes?
+
+0x165388E7 = ~z~Shoot that oil wagon!
+
+0x316094FA = ~z~Gun them down and let's get the hell out of this place!
+
+0x616981E5 = ~z~They're shooting from that building!
+
+0x667443AF = ~z~is destroying the people of Guarma.
+
+0x686775AA = ~z~You don't, uh...
+
+0x971396D0 = ~z~The plan.
+
+0x3621911F = ~z~What is your problem, partner?
+
+0x8573953F = ~z~We got sloppier than the town drunk...
+
+0x8720758A = ~z~Meet me there when you can, Black Lung.
+
+0x12010149 = ~z~You kill, I kill. You rob, I rob...
+
+0x13721916 = ~z~Let's go.
+
+0x30434672 = ~z~Look out up there, on the left!
+
+0x32955676 = ~z~~sl:0.0:2.5~He's America, Arthur.~sl:0.3~And I want out.
+
+0x37989411 = ~z~No.
+
+0x42568018 = ~z~This ain't making a lot of sense, Dutch.
+
+0x67600918 = ~z~Interesting social call.
+
+0x82016258 = ~z~I'm not quite sure, just yet.
+
+0x92598118 = ~z~Janson.~n~~m~Sir.
+
+0x93340433 = ~z~Come on! We gotta move.
+
+0x96555577 = ~z~I asked for the best. I paid for the best.
+
+0xA0463AE7 = ~z~Up ahead, there's more of'em!
+
+0xA2B226A5 = ~z~Maybe there's a way to get them off our back...
+
+0xA2D620FC = ~z~you don't look so good.
+
+0xA3A5E319 = ~z~Stay with me, Arthur!
+
+0xA9F625B9 = ~z~Come along, Mr. Ross. We have work to do.
+
+0xA49BEE12 = ~z~Okay.
+
+0xA68BD417 = ~z~Well, Cornwall's why we're here.
+
+0xA85F99F1 = ~z~Cornwall's boat is arriving at dawn.
+
+0xAA60DBA8 = ~z~Come on, Micah's gone after those papers!
+
+0xAB867A01 = ~z~Shoot the bastards!
+
+0xAB9474B5 = ~z~This is the only way. You'll see. Trust me.
+
+0xACC4822B = ~z~~sl:1.2:0.0~Was you followed?
+
+0xAF999250 = ~z~
+
+0xB07BA019 = ~z~Looks like we've lost them!
+
+0xB13FC3C0 = ~z~And there's bonds at his oil factory.
+
+0xB15BCB60 = ~z~Getting outta here.
+
+0xB55D6515 = ~z~We got more up ahead. Clear us some space!
+
+0xB56DEF3F = ~z~Oh, Arthur...
+
+0xB67A11CE = ~z~Was you followed?
+
+0xB84F68BE = ~z~What are you talking about?
+
+0xB965F9CB = ~z~Shall we, Dutch?
+
+0xB399718A = ~z~We don't need a rat.
+
+0xBC387F57 = ~z~Let's find him and get out of here!
+
+0xBD357134 = ~z~His sugar. His oil. His law.
+
+0xC1D3E41C = ~z~So, what are we going to say to him, that needs to be said?
+
+0xC1D76673 = ~z~These are wrongs that you can't right, Dutch. We're wanted men.
+
+0xC3BC55F9 = ~z~I'll tell you what.
+
+0xC5C0E6D1 = ~z~Micah reckons there's a rat.
+
+0xC65C470F = ~z~Whoa.
+
+0xC73CEFBA = ~z~ the Annesburg mines to Saint Denis to resell.
+
+0xC289BF6A = ~z~It's more attention we don't need.
+
+0xC828ED92 = ~z~and like this poor fellow you are talking to...
+
+0xC50991E2 = ~z~look, we need money, but revenge?
+
+0xC915707F = ~z~Even my best friend here, he thinks I'm crazy...
+
+0xCE0D04C6 = ~z~And Micah, we need to talk.
+
+0xCEC76A83 = ~z~What are you doing? Get back.
+
+0xCFAE1265 = ~z~~sl:2.8:1.8:1~I found something interesting.
+
+0xD3FEF67E = ~z~Noise, Arthur! Noise!
+
+0xD5B38CAF = ~z~and they're also moving dynamite down from, well...
+
+0xD6D8357F = ~z~He ain't...
+
+0xD85BBB0E = ~z~But, who else?
+
+0xD8662D85 = ~z~You getting tired back there, Morgan?
+
+0xD63479C5 = ~z~They're trying to cut us off again!
+
+0xDB2BD224 = ~z~Get a move on, Arthur!
+
+0xDB729361 = ~z~Send a telegram to Goldberg in New York...
+
+0xDD2C6328 = ~z~This Van der Linde robs me, and laughs at me.
+
+0xDDDE9905 = ~z~my feelings are hurt.
+
+0xDF409AE5 = ~z~We are doing all we can within the confines of the law.
+
+0xE4D8A6F9 = ~z~You robbed me, sir.
+
+0xE7BA5757 = ~z~Come on, Arthur.
+
+0xE23B92FB = ~z~You've lost your mind.
+
+0xE6581E80 = ~z~Bring him here, and leave the laws to them as need them!
+
+0xE847393A = ~z~Figure out some things.
+
+0xE3742830 = ~z~has signed a railroad contract with the army...
+
+0xE7658921 = ~z~Don't play dumb and superior at the same time, Morgan.
+
+0xE9029126 = ~z~For now, maybe!
+
+0xEA6C3771 = ~z~Come on, we can take the horses from that coach.
+
+0xEE12E67C = ~z~Well, Molly clearly talked.
+
+0xF1C0BFFD = ~z~tell him I won't borrow at more than three point two percent.
+
+0xF2F39546 = ~z~Finally putting that bastard Cornwall out of business for good!
+
+0xF7C2BE09 = ~z~Good, I prefer it this way.
+
+0xF47D4449 = ~z~What is wrong with you?
+
+0xF57D4842 = ~z~You show a criminals' grasp of sophistry, sir.
+
+0xF71C4AB4 = ~z~Sorry, no. I have heard it before...
+
+0xF9747ACB = ~z~This better not be no stupid revenge mission, Dutch.
+
+0xF449513E = ~z~Course, boss.
+
+0xFB6B533A = ~z~I think we both know what you can do with your laws.
+
+0xFC3192A7 = ~z~What the hell have you done, Dutch?
+
+0xFC3746FA = ~z~I didn't want him hanged.
+
+0xFCEB31B2 = ~z~We'll wait it out here.
+
+0xFE8F04EC = ~z~Yeah, it's time to go.
+
+0xFEB1A23C = ~z~no!
+

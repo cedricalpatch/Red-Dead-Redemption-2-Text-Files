@@ -1,0 +1,576 @@
+0x01048317 = ~z~What are... what are you doing?
+
+0x013A57A7 = ~z~Desperate men, you expect desperate deeds.
+
+0x02609A43 = ~z~We'll all come running.
+
+0x03035A5F = ~z~~sl:0.0:2.2~Now, nobody's gotta get hurt.~sl:0.5~But we'll be more than happy to hurt any of you that wants it!
+
+0x046B1F94 = ~z~You saved my...
+
+0x05ECFE23 = ~z~Now, get outta here, hayseed. Before you get a hole in your head.
+
+0x05F273BA = ~z~They ain't got no shooters. I seen the guy, he's just another milk maid.
+
+0x07DA1432 = ~z~Better?
+
+0x0BA25386 = ~z~Damn this all!
+
+0x0BE0CEE8 = ~z~Let's get a closer look...
+
+0x0C676D2B = ~z~So, Tom Dickens... my boss gave me a message for your boss...
+
+0x0CA31CA4 = ~z~I understand.
+
+0x0CCB65FD = ~z~~sl:0.5~I-I lost my wind.
+
+0x0DE17424 = ~z~Oh, you're that tough guy they just took on? I heard about you.
+
+0x0E2EB1DF = ~z~Three times.
+
+0x0E9538F6 = ~z~Look at it go!
+
+0x0FC034D3 = ~z~This man can really fight... saved the whole place.
+
+0x1B127559 = ~z~We best get to Hanging Dog that a way.
+
+0x1C54C333 = ~z~Thank you, Mr. Geddes.
+
+0x1D9F9687 = ~z~my goddamn job.
+
+0x1D42D528 = ~z~Guess we're shooting then.
+
+0x1DD283FD = ~z~Oh, I think so.
+
+0x1E107A05 = ~z~I don't care what you used to do...
+
+0x2B2D2814 = ~z~Whose going to get them cows back?
+
+0x2C005B5E = ~z~It's, uh...
+
+0x2C2016BF = ~z~Do not embarrass me...
+
+0x2D3335AE = ~z~I...
+
+0x2EF2C2AC = ~z~We gotta sell this cattle?
+
+0x2F4A968B = ~z~Mr. Milton.
+
+0x2F9D1678 = ~z~There's our cows.
+
+0x2FA7B761 = ~z~Get the hell out of here.
+
+0x3A45BEF0 = ~z~Long as she bathes first... in sheep dip. Get the stink of you offa her. Farmhand!
+
+0x3BDD7A1B = ~z~Oh, you're that tough guy they just took on? I heard about you.
+
+0x3C7E0FB9 = ~z~Now, I don't think they'll be back tonight, but...
+
+0x3D63CC81 = ~z~Sure, I can fight...
+
+0x3D76EE93 = ~z~I've got a lot invested in this place...
+
+0x3E3AFFD3 = ~z~It's hard to explain.
+
+0x3F7B0253 = ~z~Just fine.
+
+0x4A051E93 = ~z~Just glad to be of service, sir.
+
+0x4A2BAB14 = ~z~Just doing my job.
+
+0x4B747230 = ~z~My job, Abigail...
+
+0x4C85FDD2 = ~z~Let's see what happens. See if they sign the ranch over.
+
+0x4CB4014C = ~z~You ought to turn around and go.
+
+0x4E346E22 = ~z~You sure can fight, mister.
+
+0x4EE1A240 = ~z~No, I'm good.~n~~m~No, thank you.
+
+0x5A97C62A = ~z~That's a bad business, Jim.
+
+0x5C5B1047 = ~z~If we're gonna ride, we should ride.
+
+0x5C8F785E = ~z~Where are you off to?
+
+0x5E564AA2 = ~z~You're acting funny, Milton.
+
+0x5E5488C2 = ~z~
+
+0x5F03D388 = ~z~you fire that rifle three times.
+
+0x5F79F62D = ~z~A couple guards out front...
+
+0x5FB1F204 = ~z~Good shot.
+
+0x5FCB5B61 = ~z~Dumb bastards!
+
+0x6A542661 = ~z~It's what you pay me for.
+
+0x6AB4BF3A = ~z~How much it worth now, Geddes?
+
+0x6BC513D2 = ~z~Bad, bad business.
+
+0x6BE47071 = ~z~Abe, you're gonna try and flank the place...
+
+0x6C14661E = ~z~What's all this about? Come on.
+
+0x6CB1F020 = ~z~No need to say nothing, sir.
+
+0x6DB9CF6B = ~z~Hey, you're back.
+
+0x6E99FD9F = ~z~You ain't so talky now, are you?
+
+0x6E1771DC = ~z~Hey, you're back.
+
+0x6F19D1D8 = ~z~Yeah, there was an incident.
+
+0x6F136A11 = ~z~
+
+0x7AA2F9C2 = ~z~I miss Mr. Pearson.
+
+0x7B0069F4 = ~z~You did real well, Mr. Milton.
+
+0x7D7CFC06 = ~z~Lock this door behind me...
+
+0x8B948AD1 = ~z~Hey, I heard we had another incident...
+
+0x8F0A0282 = ~z~Mr. Geddes?
+
+0x8F80E758 = ~z~I gotta hope we were right about him.
+
+0x9A3270AA = ~z~What are you doing, Jim?
+
+0x9C781CAD = ~z~If you say so.
+
+0x9CF47630 = ~z~May God forgive us for this.
+
+0x9D30A4EC = ~z~You men okay?
+
+0x9E27FA3A = ~z~Guns?
+
+0x9F1A9369 = ~z~It'd be messy, but it'd be the end of it.
+
+0x9F9B1390 = ~z~S-sure... I got it...
+
+0x12CB26A4 = ~z~My job, Abigail.
+
+0x19D7722E = ~z~Now, dear I won't hear any more of it...
+
+0x19D71875 = ~z~You mean we might give 'em back to 'em?
+
+0x23C4056C = ~z~Oh, don't play coy with me, son...
+
+0x27C4C32F = ~z~and-and not just the land, but...
+
+0x28DB10EA = ~z~This is a funny way to Hanging Dog?
+
+0x28F40E2B = ~z~Hey, what you seen?
+
+0x31E9A1B7 = ~z~we need your help.
+
+0x35EAA39F = ~z~Milton!
+
+0x35F69E8E = ~z~I think you got him.
+
+0x36F2EEF3 = ~z~The hell was that?
+
+0x38A9BD6D = ~z~Crap.
+
+0x39E921C9 = ~z~Take 'em back to Hanging Dog!
+
+0x40DE7566 = ~z~but my family.
+
+0x42E13863 = ~z~You don't miss much, do you?
+
+0x43B6C439 = ~z~God, I'm sorry to hear that.
+
+0x44BE67B0 = ~z~They're down by the fence there.
+
+0x44E1C842 = ~z~You toad...
+
+0x46D8E612 = ~z~Who's this?
+
+0x50EC62B6 = ~z~Alright, just shoot him!
+
+0x51E46094 = ~z~What're you doing in that thing?
+
+0x56CD6C19 = ~z~Alright, smile... smile.
+
+0x57BEF990 = ~z~I ain't got time to look after you, kid.
+
+0x58C8BC1A = ~z~Will do.
+
+0x59CE8556 = ~z~I think that's it.
+
+0x62F72135 = ~z~We...
+
+0x67EAC307 = ~z~You're gonna pay alright.
+
+0x70DA7735 = ~z~See anything or hear anything...
+
+0x73B884A2 = ~z~More of them.
+
+0x77E546D4 = ~z~The look of a woman that ain't had a real ride in her life. She's gotta make do with some piss-poor stinking farmhand.
+
+0x78E75B9F = ~z~
+
+0x82BFDD10 = ~z~We better go while the going's good.
+
+0x82E2262F = ~z~You're the feller that said something about my wife.
+
+0x86CF90FF = ~z~How'd you get on?
+
+0x88B814CC = ~z~I'll do my best to keep you safe, sir.
+
+0x91EAE0A0 = ~z~Let me in, it's me.
+
+0x92D07CAA = ~z~Hey, hey, tell her I'll let her in my sheets...
+
+0x97A4171F = ~z~You think they'll come? I heard they got a gunslinger.
+
+0x97B899FC = ~z~and they've stolen my goddamn cattle!
+
+0x97F946B2 = ~z~Yep.
+
+0x118CED28 = ~z~~sl:0.0:2.2~Hey! Hey!~sl:0.9~You boys been coming up to Pronghorn, I thought I'd come down here.
+
+0x127C7A2B = ~z~These guys just ain't breaking.
+
+0x130A271E = ~z~Goodnight, Jack.
+
+0x185AA39C = ~z~Jim Milton!
+
+0x196A69FB = ~z~let's go.
+
+0x249F4A4C = ~z~Goodnight, Pa.
+
+0x313A1F40 = ~z~Mr. Geddes' been real good to us...
+
+0x339B6BB4 = ~z~Sure, I'm just tired.
+
+0x449FFB9F = ~z~Goddamn, they're in the barn.
+
+0x497D5D0D = ~z~I'm okay.
+
+0x518C55B9 = ~z~You're a great shot, Milton.
+
+0x525D185F = ~z~And are you scared?
+
+0x527A0327 = ~z~Out by the perimeter, more of them.
+
+0x553E7696 = ~z~Jim...
+
+0x589F239D = ~z~Hey, look, they're in the barn.
+
+0x611FB168 = ~z~~sl:0.0:2.2~Your tough guy lines might frighten school children,~sl:~but they don't work on me.
+
+0x667FD788 = ~z~You get some rest.
+
+0x677CDFCF = ~z~There's more coming!
+
+0x707BCB83 = ~z~Jim Milton saved my life...
+
+0x712A1046 = ~z~Get the cattle outta here!
+
+0x753C7501 = ~z~Truly.
+
+0x818BE6BC = ~z~If we take that barn, this might be over.
+
+0x850BA748 = ~z~More men on the way.
+
+0x852EFD8F = ~z~Jim Milton, you son of a bitch!
+
+0x880D9BC7 = ~z~What was I supposed to do?
+
+0x902FFD33 = ~z~Let's both pretend I didn't do that...
+
+0x904D5E85 = ~z~Go get your guns and head out.
+
+0x949D7AF3 = ~z~That sure was something.
+
+0x1637B0ED = ~z~Okay, I guess.
+
+0x2025E448 = ~z~I got this. You boys take the cattle.
+
+0x2110B891 = ~z~~sl:2.0~Shit...
+
+0x2125ACD4 = ~z~I think so.
+
+0x3133FF9A = ~z~Here they come.
+
+0x3243EF11 = ~z~What?
+
+0x3345D114 = ~z~Then I guess we're getting the cattle back, sir.
+
+0x3659C457 = ~z~Hey, check the gate. They're coming.
+
+0x4110BA17 = ~z~I should like to have a word with you.
+
+0x4348A25C = ~z~Heya! Heya!
+
+0x6305C968 = ~z~I know you will.
+
+0x7202FFD0 = ~z~Working here's a dangerous business!
+
+0x7204C0DD = ~z~for all our sakes.
+
+0x7840B8D8 = ~z~Look at him go.
+
+0x8492FCCA = ~z~A little...
+
+0x8543AE7A = ~z~See you back there, son.
+
+0x8771EA2A = ~z~What are you doing?
+
+0x8780CBCC = ~z~Okay.
+
+0x9137C2DA = ~z~Hey! Hey! I know you're in here.
+
+0x9998A662 = ~z~You're gonna be sorry for what you done.
+
+0x10954F15 = ~z~Do yourself a favour. Find another job.
+
+0x21737F28 = ~z~We didn't have a choice boys.
+
+0x27491AAC = ~z~I'll be up in a moment.
+
+0x53741A1A = ~z~I see you, Milton!
+
+0x64745E96 = ~z~You did real well, Mr. Milton.
+
+0x68558D76 = ~z~What was it?
+
+0x70741D2E = ~z~Is something up?
+
+0x75446DE5 = ~z~So how's your family?
+
+0x92613C2A = ~z~Sack of...
+
+0x281134E9 = ~z~Yeah, you're right. We'll be driving 'em to market whatever the turnout.
+
+0x449860D4 = ~z~Look out, over by the gate.
+
+0x768829DB = ~z~Mr. Geddes' cattle was taken.
+
+0x782507B2 = ~z~No good...
+
+0x806301D2 = ~z~don't open it unless you know it's me.
+
+0x966420BB = ~z~Saved the whole place.
+
+0x967189B6 = ~z~If we'd've known that we'd have paid you double.
+
+0x2594591B = ~z~Milton, what are you doing?
+
+0x6407329A = ~z~Of course it's Mr. Abel...
+
+0x9143335B = ~z~Look out, more of them!
+
+0x9606308C = ~z~John Marston, you are such a pig.
+
+0x56529731 = ~z~It's Mr. Abel...
+
+0x67324258 = ~z~This man can really fight.
+
+0x88489511 = ~z~Alright, it's getting late...
+
+0xA072B48D = ~z~Well, they mean to scare me.
+
+0xA1D6FAEA = ~z~That's the place up ahead.
+
+0xA6E8D85D = ~z~Well said, and thank you, Mr. Milton.
+
+0xA6E21F80 = ~z~Good, get on with it, quickly.
+
+0xA9B93AED = ~z~I dunno, he looks kinda tough.
+
+0xA9B73853 = ~z~Mr. Dickens? You okay?
+
+0xA5754F66 = ~z~Anybody want some more?
+
+0xA8800DCA = ~z~this is the land of second chances.
+
+0xA38684F7 = ~z~A little...
+
+0xA96309EE = ~z~Yeah, there's plenty of guards...
+
+0xA1814565 = ~z~
+
+0xAB8F6DDE = ~z~how about, Abe, just in case, you stay up.
+
+0xAB80DA61 = ~z~I should probably head back.
+
+0xAB627717 = ~z~Where are you, big feller?
+
+0xABF63B98 = ~z~They're holed up in the barn. We gotta move on them in there.
+
+0xAC89C092 = ~z~Jim Milton.
+
+0xADC1B1BB = ~z~~sl:0.5~Really, that man...
+
+0xAF36F5D5 = ~z~Trash...
+
+0xAF40303C = ~z~I will.
+
+0xAF183364 = ~z~~sl:0.0:1.5~I wish they'd come at us.~sl:0.2~Take care of all of them at once, legal killings!
+
+0xAFFF49D2 = ~z~
+
+0xB0B6F263 = ~z~Where the hell did you learn that?
+
+0xB1B9E18A = ~z~We can deal with the hands later. Get after that cattle.
+
+0xB1EA57C7 = ~z~that weren't nothing.
+
+0xB2C839EA = ~z~~sl:0.0:5.9~it's over, this rich man's folly, you boys are over, the cattle are ours...~sl:~and soon enough the ranch'll be ours.
+
+0xB3B7EBEB = ~z~I know.
+
+0xB6B42490 = ~z~I'm gonna head straight in.
+
+0xB36AEB55 = ~z~let's get some rest.
+
+0xB67B78A2 = ~z~Just answer me that.
+
+0xB81CEDC7 = ~z~Jim, you got to do something. Two of them. By the stalls. They got Tom.
+
+0xB646A957 = ~z~Understood.
+
+0xB2663D2F = ~z~
+
+0xB8120AC8 = ~z~I tried being reasonable.
+
+0xB9500A07 = ~z~Piss stinking...
+
+0xB8549082 = ~z~Heya! Heya! Ride!
+
+0xBA604AF8 = ~z~If we didn't need men like that.
+
+0xBBE8D4B0 = ~z~I understand.
+
+0xBC0EDF98 = ~z~You read too many dime novels. These cowboys is soft as kid leather.
+
+0xBD15FD8B = ~z~Yeah, I know how it is.
+
+0xBD666E74 = ~z~with the Laramie boys?
+
+0xBD55647E = ~z~Burn what you can!
+
+0xBE446FB9 = ~z~You and your wife.
+
+0xBEF9526A = ~z~Get on and let's go. They're at Hanging Dog, down the bottom of the valley.
+
+0xC093D98A = ~z~
+
+0xC3F5442D = ~z~We're really doing this.
+
+0xC4F60C4E = ~z~New hand...
+
+0xC6E9C7E4 = ~z~Guess he wants to get shot.
+
+0xC7F77A79 = ~z~They've killed Mr. Tolbert...
+
+0xC8BB4F60 = ~z~Of course, sir.
+
+0xC81DC07D = ~z~Wanna hurt me, mister?
+
+0xC4937D19 = ~z~Ah...
+
+0xC9589D1C = ~z~What choice did I have?
+
+0xCA4D1227 = ~z~Jim, they got Dickens! Over by the stables.
+
+0xCC8055CA = ~z~or what you... your name is...
+
+0xCDB83071 = ~z~I'll lead the way. This is gonna be the last we hear outta them.
+
+0xCDBE0F72 = ~z~You...
+
+0xCE9F74D2 = ~z~Before it's light. Come on.
+
+0xCF6D0246 = ~z~Okay.
+
+0xD2E26435 = ~z~You won't hear any of it...
+
+0xD3F75F16 = ~z~Tom, you head up there and try and give us some cover.
+
+0xD5D31DF0 = ~z~~sl:1.4~You seen how many men we got? As many as money can buy.
+
+0xD5DAC31C = ~z~Backwoods...
+
+0xD16DF735 = ~z~~sl:0.0:1.0:1~You got that, boy?
+
+0xD443B2F2 = ~z~What?
+
+0xD628AEB3 = ~z~
+
+0xD52282A7 = ~z~New hand...
+
+0xD439665C = ~z~Alright, Jim, I know you can handle yourself...
+
+0xDAF0EB55 = ~z~~sl:0.0:1.3~Well come on then, mister...~sl:0.2~I'll soon wipe that tough guy smirk off your ugly face.
+
+0xDE060620 = ~z~Hell, Jim. You can shoot.
+
+0xDE6E30D2 = ~z~Well...
+
+0xDF913D38 = ~z~Heifers gone? Alright, let's go!
+
+0xDFBF098D = ~z~You're all so tough, come have a word with me.
+
+0xE1D935FC = ~z~I'm here for our cattle. And to teach some manners to all of you.
+
+0xE19CA6A5 = ~z~Off your horses here. We'll be better on foot.
+
+0xE29DDDE6 = ~z~I'll give you a minute or two, then I'm heading in.
+
+0xE58CB5A3 = ~z~I can't believe he thinks he can scare me out of here.
+
+0xE81E67A3 = ~z~Shit shoveling...
+
+0xE380A9F3 = ~z~You here to cut a deal? You're too late partner.
+
+0xE5318450 = ~z~
+
+0xEB501489 = ~z~I guess we are...
+
+0xEBCFF04A = ~z~Yes, sir.~n~~m~Okay.
+
+0xEC3ED988 = ~z~Goodnight, Momma.
+
+0xED99925A = ~z~a couple more round the side, I imagine.
+
+0xEE9B9979 = ~z~Come on, let's go.
+
+0xF2F789EC = ~z~That's the feller who shot my feet up.
+
+0xF5CDD2F9 = ~z~Look out, Tom. Let me deal with this.
+
+0xF381E965 = ~z~Who's this?
+
+0xF1833FE4 = ~z~Let's get back to Mr. Geddes.
+
+0xF4325AAE = ~z~Just shoot him!
+
+0xF185803E = ~z~They just don't quit.
+
+0xF526878D = ~z~You know that woman of yours got...
+
+0xFA75B2D4 = ~z~Can you go too, Tom?
+
+0xFAD32391 = ~z~~sl:0.0:1.8~This place is shutting down.~sl:0.2~Mr. Abel's gonna run things 'round here now.
+
+0xFB74C8A4 = ~z~I think we're good boys...
+
+0xFBC8EB87 = ~z~You...
+
+0xFD5AB935 = ~z~Not in front of the men...
+
+0xFDE47CD3 = ~z~Goodnight, Jack.
+
+0xFDED1484 = ~z~and come in from the back.
+
+0xFFCF0A28 = ~z~I understand.
+

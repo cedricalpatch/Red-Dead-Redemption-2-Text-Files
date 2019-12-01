@@ -1,0 +1,28 @@
+0x0536F1C6 = ~z~The moons of Jupiter, dear boy, the moons of Jupiter...
+
+0x3AACCF0E = ~z~I have no idea, I've never been, but it sounds wonderful!
+
+0x8C4A7220 = ~z~What's it like?
+
+0x44E0E376 = ~z~So I've heard, so... I've heard.
+
+0x90F28943 = ~z~Cornwall, dear boy, where the real, original Celts are from.
+
+0x285C2A6D = ~z~Well, I'm from Ohio and I have been there.
+
+0x112909B2 = ~z~Well, how 'bout you, Mr. Trelawny, where are you from?
+
+0xA42D2FB8 = ~z~Scotts?
+
+0xAC7F405C = ~z~No.
+
+0xD5258401 = ~z~And it could use with trolls.
+
+0xDA019B5C = ~z~I'm saying Irish.
+
+0xEC4C3FF1 = ~z~That kind of nonsense might amuse folk at a children's birthday party, but really...
+
+0xF6AA54B1 = ~z~Where they still have real trolls, just like you, that live under the bridges, where fire spews out of the marshes.
+
+0xF581525B = ~z~Oh shut up, shut up!
+

@@ -1,0 +1,38 @@
+0x04EC6FEC = ~z~he who finds things is wise, but he who continues to seek is evermore free.”
+
+0x082E5B63 = ~z~I don't think too much Dutch... not about that kind of crap anyway.
+
+0x091E9747 = ~z~Well, I guess it is quite... pretty.
+
+0x1B68BBDB = ~z~Evermore free! Isn't that the most wonderful idea of all?
+
+0x6F9FC551 = ~z~You two, come over here. Come over here.
+
+0x7DE561DC = ~z~Listen to this passage, it is beautiful...
+
+0x9F6724FB = ~z~is it in the seeking that we find, or in the finding that we seek?
+
+0x38E376C8 = ~z~Go on!
+
+0x2691D225 = ~z~
+
+0x54522DAD = ~z~If we keep on seeking... we will find freedom.
+
+0x42138930 = ~z~Now, you two better get back to work.
+
+0x48787703 = ~z~“So, the question the seeker of allegorical potency should ask himself, or indeed herself, if potency is not itself
+
+0x86901228 = ~z~Pretty? It's magnificent, my dear. Magnificent!
+
+0xA4C94E9A = ~z~Evermore free... that's... that's us.
+
+0xAD28C07E = ~z~While this might seem a pathway towards insanity, it's an important distinction, and also a clear one,
+
+0xB9CC3EA0 = ~z~What do you think, Arthur?
+
+0xD6C11396 = ~z~too masculine a concern for our sisters to be concerned with, is this...
+
+0xE32D2C6E = ~z~Who is it, Dutch?
+
+0xF16BC8EB = ~z~It's Mr. Miller of course. An essay on the allegory of impotence.
+

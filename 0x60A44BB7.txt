@@ -1,0 +1,372 @@
+0x03302FE4 = ~z~You ready to do this? Yeah? Okay.
+
+0x035EC8E6 = ~z~You're lucky we didn't run right over you.
+
+0x04277803 = ~z~Horley, I'll see you around, friend.
+
+0x0435F700 = ~z~If I had a group I can trust, we could all do well.
+
+0x04BAA3BA = ~z~~sl:0.0:3.5~I have no reason to believe they won't pull the brakes for you,~sl:~if you just stand in that train's way.
+
+0x058F47AF = ~z~That I do.
+
+0x0638A1C1 = ~z~I'm going to need some agents to step in!
+
+0x074B4055 = ~z~
+
+0x09A6F08F = ~z~are at that Kerosene and Tar plant, up the way.
+
+0x0C864290 = ~z~I hope I got your attention now. Come on.
+
+0x0D138014 = ~z~~sl:0.0:3.9~But now I got to go and make a nuisance of myself in Valentine...~sl:0.4~~rp~so's they don't round me up and fit me with a rope necktie for this.
+
+0x0E2E7CC6 = ~z~Get off the tracks!
+
+0x1BA3034E = ~z~Here they are.
+
+0x1C02186D = ~z~Get off the damn line.
+
+0x1C19F28A = ~z~Don't let them get on board!
+
+0x1DC17813 = ~z~as did him a wrong.
+
+0x2AAF10DE = ~z~Mr. Finch has a little predicament.
+
+0x2AF4A1ED = ~z~So, you've made it clear what kinda lady you are.
+
+0x2BB74726 = ~z~How about you ride with me and I explain more about it?
+
+0x2D65A6D3 = ~z~So, you've made it clear what kind of a feller you are.
+
+0x2F2CBEAC = ~z~Rest of you, take a look around, see if you can find who left it.
+
+0x2F2DC1F7 = ~z~You need this off of here.
+
+0x3AD516CC = ~z~You keep off the tracks and don't come near us.
+
+0x3B3F6516 = ~z~Not outlaws, the real robbers.
+
+0x3C4C79CC = ~z~Stay with me and listen, okay?
+
+0x3C69B453 = ~z~I was planning a job...
+
+0x3E9D1108 = ~z~Come on... we are decent people.
+
+0x3F726E9C = ~z~and try a different path...
+
+0x4BE9B8F5 = ~z~There you go.
+
+0x4CAFF9B2 = ~z~Looks abandoned.
+
+0x4CD15642 = ~z~This is Samson Finch.
+
+0x4D290A09 = ~z~And if you should choose to amend you ways...
+
+0x4D1441D4 = ~z~They got a weapon out! Help!
+
+0x4DDBE4AE = ~z~~sl:0.0:2.1~Hold on, there's someone on the tracks.~sl:~I think they're tied up, I'm going to take a look.
+
+0x4F2293AC = ~z~well, I'm sure Mr. Jones could help guide you.
+
+0x5C3E4DCB = ~z~We got trouble over here!
+
+0x5D071A34 = ~z~~sl:0.0:2.8~Once you're there, ~rp~the guards are going to know~sl:0.0:3.0~you're not detectives here to beat up strikers,~sl:~~rp~so get ready for a fight.
+
+0x5EB5B9E0 = ~z~Get away from the train.
+
+0x5EC32C1D = ~z~Now I ain't gonna pretend it's not a nasty business.
+
+0x5F0ADF37 = ~z~Who put you here? They still around?
+
+0x5F3E27E0 = ~z~Pull the brakes!
+
+0x5F2079C0 = ~z~robbery and get back at him, well like I said...
+
+0x6A6F7B87 = ~z~We're under attack!
+
+0x6CFBC88E = ~z~So, you in?
+
+0x6D08C375 = ~z~Stop the train!
+
+0x7B0332A5 = ~z~Yup.
+
+0x7F377FAC = ~z~I am sure you are more than capable of getting it done.
+
+0x7F3339D9 = ~z~but I stuck to my word and did what I said I would.
+
+0x8E18D7B0 = ~z~a good job.
+
+0x8FAC5DF0 = ~z~Everyone, hush now. The wall might hold.
+
+0x9BF9396A = ~z~~sl:0.0:3.7~Now. ~rp~Your train will be coming from the east.~sl:~~rp~You need to make it stop, or find a way on board.
+
+0x9CA9B5C3 = ~z~You'll get shot, you get any closer.
+
+0x9DA42D24 = ~z~Look good to you?
+
+0x9EBAFC0D = ~z~I know, that's a wooden wall. Hush, now.
+
+0x9F9DFBDA = ~z~He has a bone to pick with some fellers...
+
+0x9F9368B4 = ~z~Good, you're back.
+
+0x15F61BA4 = ~z~It's a nasty plan, but a good one.
+
+0x18F08F22 = ~z~Come on. Ride with me.
+
+0x23F1A91C = ~z~Can't you see there's a train stopped? Move.
+
+0x24CD2524 = ~z~Look sharp, boys. We might have some trouble over here.
+
+0x27C9BE2B = ~z~Plus, well...
+
+0x27DC0C58 = ~z~I ain't gonna lie to you.
+
+0x29B654A0 = ~z~Where you going? You're with me.
+
+0x32AD21FA = ~z~Tell 'em about it.
+
+0x33F66462 = ~z~Don't come near the train.
+
+0x41A33B60 = ~z~~sl:0.0:4.1~But now I got to go and make a nuisance of myself in Valentine...~sl:0.4~~rp~so's they don't round me up and fit me with a rope necktie for this.
+
+0x48AAF28E = ~z~I need you off of this.
+
+0x49AD01F1 = ~z~We're robbing robbers that know they're gonna get robbed.
+
+0x55CCA452 = ~z~~sl:0.0:2.3~and stand back under the bridge.~sl:0.9~~rp~But that part of the plan is up to you.
+
+0x56B088EA = ~z~Who put you here? They still around?
+
+0x62EF3595 = ~z~I'll see you soon, I'm sure.
+
+0x63E0617C = ~z~They can kill any working man they want, but we will survive.
+
+0x67D98B32 = ~z~Thing took a god damn year.
+
+0x69E1D53C = ~z~~sl:0.0:2.8~These are detectives,~rp~ thugs, trained bullies,~sl:~they aren't scared of anything.
+
+0x70ACD110 = ~z~Just try to stay outta too much trouble.
+
+0x74B0B564 = ~z~I don't judge you for it.
+
+0x76A1331C = ~z~Come on, we got security clearance, let's go.
+
+0x77A470C1 = ~z~~sl:0.0:2.9~I have no reason to believe they won't pull the brakes for you,~sl:~if you just stand in that train's way.
+
+0x89D9D7A4 = ~z~We're riding out. Saddle up.
+
+0x93D2DCB2 = ~z~~sl:0.0:4.2~If I hadn't been betrayed by my partners, ~rp~my brothers in arms,~sl:~~rp~I'd be with you myself.
+
+0x94CA09B9 = ~z~~sl:0.0:3.9~Here's the plan. ~rp~These industrialists you're robbing...~sl:0.3~~rp~they're some of the worst folk I know...
+
+0x134C8FFA = ~z~Stop! Stop!
+
+0x183B9413 = ~z~Can't you see there's a train stopped? Come on, move it.
+
+0x213CEBFD = ~z~You done with whatever that was? Okay.
+
+0x228CEBC7 = ~z~It's an ambush!
+
+0x268E33DC = ~z~There's something wrong about this, help!
+
+0x378ADF56 = ~z~Clean this fool up.
+
+0x445F443E = ~z~If you and your bunch would help me do this...
+
+0x549E1B15 = ~z~Getting it done is all I really care about. Okay?
+
+0x626A2526 = ~z~I need some help moving this thing.
+
+0x634DBC02 = ~z~A little.
+
+0x642E145F = ~z~But, good, bad or indifferent...
+
+0x679D0447 = ~z~It's enough for me to know that it's done, is all.
+
+0x702AD22E = ~z~You got high ground up there or that gully for cover. Plenty of options.
+
+0x796F3176 = ~z~Lord have mercy.
+
+0x827A76CD = ~z~I need to ride for Valentine.
+
+0x899DC4F8 = ~z~Getting it done is all I really care about. Okay?
+
+0x926BF0DA = ~z~elsewhere don't bother me or my mistress one jot.
+
+0x1238E69A = ~z~Let me cut that rope off.
+
+0x1268DF28 = ~z~More coal. Speed us up!
+
+0x2030B0A2 = ~z~Take care of them.
+
+0x2746C067 = ~z~Now figure out a way to stop it. And how you're going to win this fight when it comes to it.
+
+0x2973DC1C = ~z~Hey, they got a gun! Help!
+
+0x3535FE5E = ~z~We aren't the problem here.
+
+0x3789DDAB = ~z~I ain't never betrayed no one, and I ain't about to start.
+
+0x4883FE37 = ~z~~sl:0.0:1.5~The overseers are upstairs,~sl:~they aren't going to come down here and help us.
+
+0x5053B475 = ~z~You'd be fools to kill gentlemen like us! Use your brain.
+
+0x5935FE6F = ~z~I don't judge you for it.
+
+0x6130A5FC = ~z~Get this thing off the tracks.
+
+0x6352D650 = ~z~This is your final warning.
+
+0x28306AA5 = ~z~~sl:0.0:4.0~Now. ~rp~Your train will be coming from the east.~sl:~~rp~You need to make it stop, or find a way on board.
+
+0x71551F49 = ~z~Mr. Finch is like you, or like me.
+
+0x88436C0F = ~z~There you go.
+
+0x440300BF = ~z~~sl:0.0:3.9~Me... ~rp~I've never been very good at playing with others,~sl:0.1~~rp~so I might hogtie an associate, ~rp~leave 'em on the tracks,
+
+0x467658F0 = ~z~As long as you do all I ask of you, what you do...
+
+0x719972DD = ~z~This is the last warning you gonna get.
+
+0x797224A1 = ~z~This is the spot... where I would take the train.
+
+0x814383C4 = ~z~~sl:0.0:3.2~But, ~rp~if you give them a reason to be suspicious,~sl:~~rp~the violence will be quick and absolute.
+
+0x1316166D = ~z~Get 'em!
+
+0x2934738B = ~z~Well, I'm going to get back on the train.
+
+0x6259368B = ~z~This is the spot... where I would take the train.
+
+0x6728800E = ~z~You got high ground up there or that gully for cover. Plenty of options.
+
+0x8038305C = ~z~Fire on that train!
+
+0x12779387 = ~z~this is a fine job.
+
+0x73044191 = ~z~Stay right here, I'm looking around.
+
+0x90361248 = ~z~I'll be near Old Fort Wallace if you want more work.
+
+0xA2F889F1 = ~z~Saddle up. Let's go.
+
+0xA3D44E41 = ~z~If needs be, we can find more workers... we are less expendable.
+
+0xA8A99BD7 = ~z~~sl:0.0:1.9~You're going to jump this train,~sl:~~rp~deal with the black-hearted bastards on board...
+
+0xAB04F6DA = ~z~Okay. We are good to go.
+
+0xAB6AC8B1 = ~z~~sl:0.0:3.1~Good. The train should be here soon.~sl:0.2~Take it, then get to the refinery and clear them out there.
+
+0xACBA13C6 = ~z~Damn you! You'll pay for this.
+
+0xAD5D4A70 = ~z~at the gallows, should things go wrong.
+
+0xAD2398DE = ~z~Oh no, they've come around the side.
+
+0xADD627B2 = ~z~you gotta make yourself a living.
+
+0xB2CFCE95 = ~z~Stop them getting inside.
+
+0xB26EDA47 = ~z~Come with me, friends.
+
+0xB27C2F7C = ~z~~sl:0.0:3.8~Here's the plan. ~rp~These industrialists you're robbing...~sl:0.3~~rp~they're some of the worst folk I know...
+
+0xB33E550E = ~z~Then good luck everyone.
+
+0xB82DD080 = ~z~~sl:0.0:2.9~They got a train of strike-breakers and killers~sl:0.0:2.5~from some detective agency coming in by train,~sl:~~rp~fresh off of some other recent incident.
+
+0xB337D3D8 = ~z~~sl:0.0:0.7~Me?~sl:0.9:2.6~~rp~I've never been very good at playing with others,~sl:0.2~~rp~so I might hogtie an associate, ~rp~leave 'em on the tracks,
+
+0xB4812D02 = ~z~On your horses. Come on
+
+0xB5121BE4 = ~z~Now figure out a way to stop it. And how you're going to win this fight when it comes to it.
+
+0xBE94B77B = ~z~You'll answer for this, I promise you.
+
+0xC0A46A3E = ~z~They're running for the building.
+
+0xC3D4522C = ~z~~sl:0.0:2.6~Once you're there, ~rp~the guards are going to know~sl:0.0:2.7~you're not detectives here to beat up strikers,~sl:~~rp~so get ready for a fight.
+
+0xC4D1CF7C = ~z~You better listen to me. These are detectives on board.
+
+0xC7CC3647 = ~z~Train robbers!
+
+0xC8F57F53 = ~z~~sl:0.0:2.0~and stand back under the bridge.~sl:1.1~~rp~But that part of the plan is up to you.
+
+0xC38E9418 = ~z~What you following me for?
+
+0xC39C76EE = ~z~But I've heard quite enough for me to join you...
+
+0xC70ABFD5 = ~z~~sl:0.0:2.2~Good. The train is coming.~sl:0.4~Take it, then get to the refinery and clear them out there.
+
+0xC185F19D = ~z~Industrialists, with deep pockets.
+
+0xC705CAA9 = ~z~Truth is I'm a bad bastard.
+
+0xCBDB77DB = ~z~~sl:0.0:2.1~You're going to jump this train,~sl:~~rp~deal with the black-hearted bastards on board...
+
+0xCDE69D02 = ~z~You need to follow me.
+
+0xCE2477D8 = ~z~Whatever you do, don't go near that train.
+
+0xCF47CE8A = ~z~Those aren't Pinkertons, this train's been taken over!
+
+0xCFF3DA39 = ~z~Curse you, you oik.
+
+0xD031D223 = ~z~Look good to you?
+
+0xD17D5E6C = ~z~Especially to them as stuck by me.
+
+0xDA607F44 = ~z~~sl:0.0:2.4~They got a train of strike-breakers and killers~sl:0.0:2.8~from some detective agency coming in by train,~sl:~~rp~fresh off some other recent incident.
+
+0xDAB212A6 = ~z~and ride it all the way into the refinery, okay?
+
+0xDF79461A = ~z~Trust in our security, salvation will come. I promise you.
+
+0xE09572EA = ~z~I'll be near Old Fort Wallace if you want more work.
+
+0xE77F68B4 = ~z~~sl:0.0:4.1~This door was built to withstand any uprising or riot.~sl:~I promise you, it will hold.
+
+0xE90C0D89 = ~z~It was gonna make me pretty rich.
+
+0xEA890C41 = ~z~Stop them!
+
+0xECC413DF = ~z~Speed up the train!
+
+0xED91387C = ~z~their cash is yours to divide amongst yourselves, after.
+
+0xF085CE38 = ~z~Don't expect help. The overseers are up there, hiding.
+
+0xF4C1DB5E = ~z~
+
+0xF5B5051F = ~z~Keep the door held shut. It's a massacre down there.
+
+0xF6A0A9DE = ~z~I lived my way...
+
+0xF7ED2600 = ~z~Hold on, there's something on the tracks. I'm going to take a look.
+
+0xF8D5A8DA = ~z~We're being attacked!
+
+0xF9FD8E40 = ~z~~sl:0.0:3.5~These are detectives,~rp~ thugs, trained bullies,~sl:~they aren't scared of anything.
+
+0xF34A2205 = ~z~Then my partner went yellow and betrayed me.
+
+0xF66CDC8E = ~z~Sure.
+
+0xF780FBFC = ~z~Get back to that train.
+
+0xF5466BC1 = ~z~What the hell is this?
+
+0xF27516A9 = ~z~I need to ride for Valentine.
+
+0xFC4F55F8 = ~z~~sl:0.0:1.7~The men with the money'll probably be~sl:~in the upstairs office of the refinery...
+
+0xFE6CB730 = ~z~Train robbers!
+
+0xFE644829 = ~z~Hold on, there's someone on the tracks. I'm going to take a look.
+
+0xFF7CE033 = ~z~You need to move off of here.
+

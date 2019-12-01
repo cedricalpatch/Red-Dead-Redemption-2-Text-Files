@@ -1,0 +1,604 @@
+0x00E98193 = ~z~you're a good friend to me, Arthur.
+
+0x020F2B7A = ~z~You know which way my friend went?
+
+0x02B88FB3 = ~z~People been leaving me alone for the last ten years.
+
+0x02F872DF = ~z~That's great, partner.
+
+0x037A2EAD = ~z~No, you leave it to me. For now, let's drink something, forget about Micah.
+
+0x03D2576B = ~z~
+
+0x047A45F8 = ~z~Lenny!
+
+0x0761FD9F = ~z~Dutch...
+
+0x077DEBCD = ~z~Well, why ain't you never married?
+
+0x0894FEB5 = ~z~Yeah, course I'm okay.
+
+0x09CE0123 = ~z~You don't seem okay.
+
+0x0BE6A20F = ~z~"Leave the fool alone".
+
+0x0D69868A = ~z~The whole world has changed.
+
+0x0DC142E2 = ~z~Hey, you seen my friend anywhere?
+
+0x0E1D64F2 = ~z~Soon...
+
+0x0F61B142 = ~z~You... stop right now, you drunken fool.
+
+0x1B602277 = ~z~things have changed.
+
+0x1C672481 = ~z~That they don't want folk like us no more.
+
+0x1D82E261 = ~z~You seen that feller I was with?
+
+0x1E12CF1F = ~z~I'm an American!
+
+0x1EE52385 = ~z~
+
+0x1F1466A1 = ~z~It was drink that started all this.
+
+0x2A14B9DF = ~z~Where are we?
+
+0x2AA18D99 = ~z~~sl:1.0:1.2:1~I'm sorry!
+
+0x2B0AAC60 = ~z~No offense intended.
+
+0x2B4A8114 = ~z~Arthur.
+
+0x2BA01FF7 = ~z~Dutch.
+
+0x2C3D3AC4 = ~z~~sl:2.1:0.0~How you mean?
+
+0x3B897725 = ~z~Leave this fool alone.
+
+0x3D9525A9 = ~z~What?
+
+0x3E8D5F74 = ~z~"Will you shut up?"
+
+0x3EE552A7 = ~z~Yes you did.
+
+0x3EF0639B = ~z~~sl:0.0:1.3~This way... this way...~sl:1.5~Th-there they are, there they are! Those are the men!
+
+0x3EF825B0 = ~z~The law was on us fast too...
+
+0x3F3C804A = ~z~
+
+0x4A777748 = ~z~Be quiet, buddy.
+
+0x4B41BEC2 = ~z~and Arthur...
+
+0x4B98BF6C = ~z~Valentine, not Strawberry...
+
+0x4BF297A4 = ~z~Not you again.
+
+0x4CB2C125 = ~z~They was ready to string me up there and then but I got away, just about.
+
+0x4DFF34F8 = ~z~Can we get a couple of beers, please?
+
+0x4F983812 = ~z~And you'll get none from me...
+
+0x5B749942 = ~z~"I seen a lot of crazy, crazy stuff."
+
+0x5D17ADBA = ~z~You mean Jenny? She left with a john an hour ago.
+
+0x5D39D36D = ~z~You...
+
+0x5E7B55D8 = ~z~I was defending myself.
+
+0x5E68E50C = ~z~You take that kid into town.
+
+0x6AF12A8A = ~z~I don't remember.
+
+0x6AFC8100 = ~z~Now... I should warn you, me and a couple of the other boys got in a bit of a fight last time we was here.
+
+0x6B9F276E = ~z~You alright there, slugger?
+
+0x6B892178 = ~z~
+
+0x6C6B3B2F = ~z~Will you shut up?
+
+0x6F433462 = ~z~First one was pretty quiet.
+
+0x6FBF07B8 = ~z~I'll get to it, Dutch.
+
+0x7BD3DD5C = ~z~I wanna die.
+
+0x7C9E9968 = ~z~
+
+0x7CFD79C5 = ~z~You... you're a...
+
+0x7DAE05D8 = ~z~I'm getting bored with not being paid attention to.
+
+0x7DE8059B = ~z~
+
+0x7F6B4D56 = ~z~Come here, boy... come here.
+
+0x8A653F44 = ~z~You think I can't see past his bluster to the heart inside?
+
+0x8A18830A = ~z~It's okay, son. Breathe...
+
+0x8B1FC0B9 = ~z~That fool brought this on himself.
+
+0x8F8A4A1B = ~z~We'll just have a couple, settle you down, then head back, okay?
+
+0x9A0CDBC0 = ~z~He was half-soaked before we even got there.
+
+0x9BC1B8CA = ~z~Okay, kid, let's go.
+
+0x9BD2EFFA = ~z~
+
+0x9C2C0603 = ~z~~sl:1.2:1.8:1~I didn't mean nothing by it.
+
+0x9C43D930 = ~z~Lenny!
+
+0x9C6727A7 = ~z~He was in Strawberry and...
+
+0x9CC047A1 = ~z~Leave the kid alone, you goddamn animals...
+
+0x9E5767B5 = ~z~Okay.
+
+0x9EADADD4 = ~z~We finally got off that mountain, then this... Micah's got a crazy side, Arthur.
+
+0x10C1873E = ~z~
+
+0x13C8CEED = ~z~Can't find my friend, you know where he went?
+
+0x16F735A5 = ~z~~sl:2.5:2.9:1~You ever wonder if life is a brutal waste of time?
+
+0x17F52FAA = ~z~Cheers.
+
+0x17F882E9 = ~z~Tommy, he's...
+
+0x20C097CC = ~z~~sl:0.0:2.8~Ain't no pleasing some folk.~sl:1.9~was, just... trying to be friendly.
+
+0x22C0C622 = ~z~What's happening? I thought we were leaving?
+
+0x29A9D366 = ~z~
+
+0x29B62664 = ~z~He'll be fine.
+
+0x30AB6B98 = ~z~~sl:0.0:2.0:1~I'm bored with being left alone.
+
+0x30F46C2F = ~z~Yeah... shut your mouth, mister.
+
+0x31B9C5BD = ~z~~sl:0.0:1.0:1~Thank you.
+
+0x35E93489 = ~z~Arthur.
+
+0x37D4DB5C = ~z~We are smarter than them.
+
+0x38B819AF = ~z~no crazy business.
+
+0x38D5FFEA = ~z~I said, what did you say?
+
+0x39DB1BF1 = ~z~get him drunk...
+
+0x39F949EB = ~z~Now...
+
+0x41E36610 = ~z~~sl:0.9:0.0~Micah seemed to know a lot of people... that was the problem.
+
+0x45AF35D9 = ~z~Here's hoping.
+
+0x46B07913 = ~z~We're being hunted.
+
+0x47CDAFC7 = ~z~~sl:0.0:3.2:1~Oh, you moron, Morgan...
+
+0x60DE0C22 = ~z~Arthur, Arthur, what are you doing?
+
+0x61E331EB = ~z~
+
+0x62B25386 = ~z~What?
+
+0x66B7926F = ~z~Hey... one last drink.
+
+0x69ED0BCB = ~z~Lenny!
+
+0x70ECC432 = ~z~I mean, I done seen a lot of crazy, crazy stuff, but Micah...
+
+0x72D3C295 = ~z~
+
+0x72E26978 = ~z~
+
+0x76D1DB29 = ~z~I can't go.
+
+0x78B09BDB = ~z~You know my feelings about him, Dutch.
+
+0x79CCE413 = ~z~You look like you've been through it.
+
+0x81D591CC = ~z~Nobody... I'm talking to nobody...
+
+0x81ED2C14 = ~z~Come on, son.
+
+0x81FBA4A0 = ~z~Lenny, where you at?
+
+0x83AD668C = ~z~
+
+0x83D968DB = ~z~I'm Clyde. You got the wrong feller.
+
+0x86CAA68E = ~z~Just one or two...
+
+0x86EA7CAE = ~z~They nearly lynched me.
+
+0x87F0379F = ~z~and this is supposed to be a dry town we're in too.
+
+0x88DDFBC3 = ~z~Couldn't even tell ya quite how. It happened like the strike of a match.
+
+0x88F57F74 = ~z~My face will be all over West Elizabeth.
+
+0x89F0BEE8 = ~z~What kind of fight?
+
+0x93CEFD79 = ~z~So...
+
+0x94AED11C = ~z~And then he shoots one of them... I know how that goes.
+
+0x98F476E8 = ~z~Yeah, just one more.
+
+0x133E5455 = ~z~"y-you worry too much, kid", "just some business to attend to, kid"... you know how he is.
+
+0x153FFF5D = ~z~Hey we didn't start a thing.
+
+0x157B80F0 = ~z~and I don't want to see either of you around here no more.
+
+0x170A7176 = ~z~What are you doing, kid?
+
+0x217F3C1E = ~z~Lenny?
+
+0x239AB6FC = ~z~They...
+
+0x251BD1EE = ~z~
+
+0x258A5556 = ~z~
+
+0x265CD0CE = ~z~Lenny... you... bastard!
+
+0x276BD2F0 = ~z~Lenny, where you hiding now?
+
+0x296BB63F = ~z~
+
+0x329F65DF = ~z~Are we going, Arthur?
+
+0x405C19B2 = ~z~no big drama.
+
+0x459CCDCD = ~z~Get down from there.
+
+0x463EE96C = ~z~Oh shi-
+
+0x470D6413 = ~z~Oh Jesus.
+
+0x555F38E0 = ~z~What did you say?
+
+0x580BD043 = ~z~You moron... not again.
+
+0x625A2A69 = ~z~you alive?
+
+0x695C3DAC = ~z~Life, liberty and the pursuit of happiness!
+
+0x728E733E = ~z~Who do you think you're talking to?
+
+0x759FBC13 = ~z~Just go home, will you?
+
+0x857FF0B4 = ~z~I don't know.
+
+0x866CD73F = ~z~
+
+0x880E8096 = ~z~I rode as fast as I could. Didn't stop for nothing.
+
+0x902C8615 = ~z~Arthur...
+
+0x916D020B = ~z~~sl:3.0:0.0~I got a big mouth! I got...
+
+0x969DFFD3 = ~z~Well, that's certainly true.
+
+0x1055F6A5 = ~z~Sure.
+
+0x1123FF1D = ~z~That's the thing you see, 'cause it...
+
+0x1616AC40 = ~z~My Lord... you men is dull...
+
+0x2823C0C6 = ~z~Yes I do.
+
+0x4708D6C8 = ~z~Well, it feels like we are finally getting back on our feet.
+
+0x5630FC8E = ~z~Think your friend went upstairs.
+
+0x6273ECA7 = ~z~You're alright now. We'll take care of it.
+
+0x6780D94B = ~z~Get lost, buddy.
+
+0x6925FCC6 = ~z~they got Micah in the sheriff's in Strawberry...
+
+0x7129A0EF = ~z~Lenny? Go away, you're drunk.
+
+0x7207CFC1 = ~z~Feels like...
+
+0x7338B323 = ~z~Lenny? What are you talking about?
+
+0x7738DBFB = ~z~I am asking.
+
+0x13540C62 = ~z~Me neither.
+
+0x14390ACC = ~z~~sl:1.7:0.0~They're dullards.
+
+0x16816A06 = ~z~There you are, Lenny!
+
+0x17007DC7 = ~z~~sl:1.1~Hey... no hard feelings, huh?
+
+0x34254E05 = ~z~~sl:3.7:2.5:1~I got him... I got the bastard.
+
+0x42069CEF = ~z~I don't want no trouble.
+
+0x62811ADE = ~z~that was a quiet drink?
+
+0x63615BEB = ~z~Arthur.
+
+0x71210A01 = ~z~Then we ran into some fellers, one of them Micah knew, drank some more...
+
+0x111222C5 = ~z~Can we... just get outta here?
+
+0x203698DC = ~z~~sl:0.0:2.6~Hey, buddy. If you don't shut up,~sl:0.9~I'm gonna rip your head clean off your shoulders... is that clear?
+
+0x946905BF = ~z~
+
+0x24544868 = ~z~cheers!
+
+0x25344388 = ~z~Lenny!
+
+0x33649144 = ~z~and there's talk of hanging him.
+
+0x38977543 = ~z~Oh Lenny!
+
+0x53309486 = ~z~~sl:0.0:2.3:1~You know what, I don't know.
+
+0x57471443 = ~z~What did we do?
+
+0x89480019 = ~z~He would do it for you.
+
+0x95755324 = ~z~And you get Micah out of that jail.
+
+0xA0988624 = ~z~Now get outta here, don't come back.
+
+0xA7A0A414 = ~z~there's a fine for drunken violence in this town.
+
+0xA7A7F789 = ~z~I've given that up.
+
+0xA20FDD18 = ~z~right, Arthur?
+
+0xA50AA702 = ~z~What are you doin- where you go-
+
+0xA58E297B = ~z~~sl:0.5:0.0~What are you doing, Arthur?
+
+0xA999AB88 = ~z~~sl:0.0:2.6~Clear? Clear...~sl:0.8~very clear. I'm on my way...
+
+0xA81298DA = ~z~When we heading west?
+
+0xA7725206 = ~z~Yeah, I think you're right, partner.
+
+0xAB881415 = ~z~Damn it, Lenny, stop sloping off on me!
+
+0xABDC4831 = ~z~I'm beat...
+
+0xAC31AF18 = ~z~~sl:0.0:3.7~But me and the kid here, we're trying to talk business, so, could you...~sl:0.6~possibly leave us alone?
+
+0xACE3942B = ~z~Do I look like a Lenny to you?
+
+0xACFD5B41 = ~z~Alright, follow me.
+
+0xAD5A7B5D = ~z~Are you in here, Lenny?
+
+0xAE5A4B8D = ~z~He, he's been arrested for murder.
+
+0xAE72CA6E = ~z~fine, alright.
+
+0xAF0222F7 = ~z~Get the hell off me!
+
+0xAF554B9A = ~z~Lenny, where are you?
+
+0xB0B01954 = ~z~Lenny, where are you?
+
+0xB7E4C260 = ~z~feel sorry for myself.
+
+0xB20F7D17 = ~z~Course, just a drink...
+
+0xB220B6D8 = ~z~I'm just gonna...
+
+0xB4734EA2 = ~z~Arthur...
+
+0xBA034ABB = ~z~~sl:0.6:0.0~Listen, buddy... you're a charming fellow... one of the best.
+
+0xBA952471 = ~z~Sorry...
+
+0xBC344D0F = ~z~Either of you fools got any money?
+
+0xBDFF51D9 = ~z~Yeah, the first one was pretty quiet.
+
+0xBF4D6C23 = ~z~I don't think he would, but...
+
+0xBF54D6FE = ~z~Now get outta here!
+
+0xBF751F9A = ~z~Lenny!
+
+0xBFF365A2 = ~z~you alive, Arthur?~n~~m~Shut up.
+
+0xC05D046C = ~z~~sl:0.0:1.0~I've seen enough.~sl:2.9~Okay. Come here, you...
+
+0xC07B8D25 = ~z~I lost my friend? You seen where he went?
+
+0xC3E4507D = ~z~I don't know.
+
+0xC6F3628D = ~z~It's ten dollars and you're free to walk.
+
+0xC8AC6E45 = ~z~
+
+0xC9D2E150 = ~z~
+
+0xC13EE0DC = ~z~So... we going in?
+
+0xC33A76ED = ~z~You're supposed to be scouting ahead for us.
+
+0xC35ABE19 = ~z~What? I ain't Lenny.
+
+0xC38E919C = ~z~"Don't pay attention to that fool..."
+
+0xC78E41E7 = ~z~
+
+0xC3323D59 = ~z~
+
+0xC5104F13 = ~z~Hey!
+
+0xC5874DA4 = ~z~
+
+0xC5164220 = ~z~Lenny?
+
+0xCA868D54 = ~z~Here we are.
+
+0xCAE552CF = ~z~~sl:1.0:1.8:1~Found you, Lenny!
+
+0xCB628B13 = ~z~How many have you had, pal?
+
+0xCC1E6E17 = ~z~At least it took your mind off goddamn Micah...
+
+0xCC59EB4A = ~z~I gotta get out of here.
+
+0xCC186D03 = ~z~Shit.
+
+0xD07E1178 = ~z~What were you boys doing?
+
+0xD2CD9327 = ~z~You okay, Lenny?
+
+0xD4DCE1AD = ~z~Hey Lenny!
+
+0xD5BA2F8A = ~z~Lenny!
+
+0xD6E5D8CD = ~z~Nothing big, we kept it clean. We're all good.
+
+0xD32C84B7 = ~z~This is the place, right?
+
+0xD37CEBEC = ~z~Will you shut the hell up?
+
+0xD43BD2F0 = ~z~He is a fine man.
+
+0xD75A1470 = ~z~Never!
+
+0xD85C30A7 = ~z~Huh?
+
+0xD263B0F5 = ~z~Hey, you seen my friend?
+
+0xD421ED42 = ~z~Exactly.
+
+0xD6205B87 = ~z~Get out!~n~~m~What the hell?
+
+0xD18991EF = ~z~They got Micah.
+
+0xD533961B = ~z~I hope so.
+
+0xD4693351 = ~z~Don't... don't...  don't pay attention to that fool.
+
+0xDACA41C2 = ~z~You know where my friend is?
+
+0xDAE9E442 = ~z~
+
+0xDC2B4AD6 = ~z~I said stop!
+
+0xDD56F7B2 = ~z~Lenny, my boy!
+
+0xDE66D15D = ~z~You'll never take me alive!
+
+0xDE7019B6 = ~z~Lenny?
+
+0xDEA3657F = ~z~Just... can't drop everything.
+
+0xE0372D5D = ~z~Lenny?
+
+0xE0DAA8E0 = ~z~Lenny? Maybe you should switch to water, my friend.
+
+0xE0FD048F = ~z~Get away from me!
+
+0xE1D23280 = ~z~What's going on?
+
+0xE1DA2970 = ~z~Come here, you drunk fool.
+
+0xE5C9760B = ~z~No, I ain't saving that fool.
+
+0xE6A227DB = ~z~
+
+0xE7F2FF2C = ~z~Lenny?
+
+0xE8B27C5D = ~z~
+
+0xE8CF8EA3 = ~z~I've been looking all over for you, Lenny!
+
+0xE14A0B4C = ~z~Miss O'Shea.
+
+0xE42F35EA = ~z~Arthur...
+
+0xE550F5A3 = ~z~If you say so, Arthur.
+
+0xE3751BC8 = ~z~You're just lucky no one was killed.
+
+0xE93895D3 = ~z~Hello, Arthur.
+
+0xEA09A6A5 = ~z~have a little sit down and...
+
+0xEA5A8E0D = ~z~~sl:0.0:3.2:1~Hey... hey buddy...
+
+0xEA22BFF9 = ~z~Only the feeblest of men take jobs in the government.
+
+0xEB912D1C = ~z~get out of here...
+
+0xEC9FE56D = ~z~Hey, you know where Lenny is?
+
+0xECC2365A = ~z~Lenny!
+
+0xEEB6A002 = ~z~Slippery little shit, ain't he?
+
+0xF05C8872 = ~z~So you're gonna go get him? I'll come with you.
+
+0xF0B23642 = ~z~Well...
+
+0xF1A9E314 = ~z~Shut up...
+
+0xF1A74F02 = ~z~You have to.
+
+0xF4D15882 = ~z~They got Micah.
+
+0xF7E7FA4E = ~z~~sl:0.0:2.0~People been not been paying attention to this fool~sl:~for the last ten years.
+
+0xF8C4F66A = ~z~"you worry too much, kid", "just some business to attend to, kid"... you know how he is.
+
+0xF50C58F4 = ~z~Arthur...
+
+0xF63CDC86 = ~z~Dutch... Miss O'Shea.
+
+0xF266AD85 = ~z~Not yet, but Hosea's working on it.
+
+0xF356C383 = ~z~No one would have me.
+
+0xF595DBA7 = ~z~I kept asking him what we was doing, but he was
+
+0xF939C751 = ~z~You pair of degenerates...
+
+0xF9042B60 = ~z~
+
+0xF536038E = ~z~Couldn't even tell ya quite how. Happened like the strike of a match.
+
+0xFAF1A06F = ~z~
+
+0xFC56CBA2 = ~z~Here, have one for yourself.
+
+0xFCBDC233 = ~z~You find a buyer for them bonds we stole?
+
+0xFD3BC329 = ~z~You'll never take me alive!
+
+0xFD810549 = ~z~Shut up, mister!
+
+0xFDE5D8AF = ~z~
+
+0xFEC90852 = ~z~
+
+0xFEF4E99D = ~z~Trust Dutch, Mr. Morgan.
+

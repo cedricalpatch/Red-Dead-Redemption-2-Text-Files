@@ -1,0 +1,18 @@
+0x0915CDE4 = ~z~You need anything?
+
+0x2DE09769 = ~z~You'll be okay.
+
+0x3C1733D6 = ~z~but trust me, it ain't all it's cracked up to be.
+
+0x731A21DB = ~z~Just take it easy for a few more days...
+
+0x16476847 = ~z~Unfortunately...
+
+0xA48484C3 = ~z~You still alive?
+
+0xADCF1744 = ~z~I intend to my friend, I... I intend to.
+
+0xC83BCC1D = ~z~A new skin...
+
+0xD6776894 = ~z~You know, boys, I ain't never been smoked before...
+

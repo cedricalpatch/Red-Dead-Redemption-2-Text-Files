@@ -1,0 +1,66 @@
+0x004FAE17 = ~z~"You'll have to walk only half the way";
+
+0x01A8AFA9 = ~z~Root hog or die!
+
+0x092BEBEC = ~z~As bed bugs do about the sheets.
+
+0x1BFA656C = ~z~"You'll have to push the other half".
+
+0x2D75092D = ~z~Is musty plug and tobacco smoke.
+
+0x3FAFADA2 = ~z~And what will more a man provoke;
+
+0x3FE2D951 = ~z~And all opposition they defy;
+
+0x5B3B64B9 = ~z~The ladies are compelled to sit;
+
+0x9D3CE6CF = ~z~In eighteen hundred and forty-nine
+
+0x11E05204 = ~z~As fattening hogs are in a pen;
+
+0x51F37D72 = ~z~So the people must root hog or die.
+
+0x169B86C3 = ~z~In eighteen hundred and forty-nine
+
+0x320B118D = ~z~They started as a thieving line;
+
+0x4917C072 = ~z~With dresses in tobacco spit;
+
+0x8454E234 = ~z~They started as a thieving line;
+
+0x8898BF7F = ~z~But talk on politics and swear.
+
+0x9355D4F9 = ~z~The gentlemen don't seem to care;
+
+0x16855A82 = ~z~Then add aside with, with cunning laugh;
+
+0x7602997B = ~z~So the people must root hog or die.
+
+0x91875084 = ~z~Will have you walking on behind;
+
+0xA4B577B8 = ~z~In eighteen hundred and forty-nine
+
+0xAED18BF0 = ~z~They started as a thieving line;
+
+0xB2B911C7 = ~z~So the people must root hog or die.
+
+0xB18C908E = ~z~To help them out some muddy hole.
+
+0xC9DD4207 = ~z~All opposition they defy;
+
+0xC43635E1 = ~z~But the drivers when they feel inclined;
+
+0xD118FBBB = ~z~You're crowded in with smelly men;
+
+0xDC1491BE = ~z~There's no respect for youth or age;
+
+0xE407F464 = ~z~All opposition they defy;
+
+0xE353741B = ~z~And on your shoulders lug a pole;
+
+0xEB2183BB = ~z~They promise when your fare you pay;
+
+0xEDBE3511 = ~z~On board the Heartland stage;
+
+0xFE77D684 = ~z~But pull and haul about the seats;
+

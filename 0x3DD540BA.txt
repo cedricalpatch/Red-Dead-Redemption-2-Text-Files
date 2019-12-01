@@ -1,0 +1,232 @@
+0x0044B661 = ~z~I'll behave as expected.
+
+0x0250EEC3 = ~z~Oh thank you...
+
+0x02A0BC79 = ~z~Feller been...
+
+0x0A424C9C = ~z~Head over to the cellar...
+
+0x0AEB061F = ~z~
+
+0x0EE33207 = ~z~Which feller?
+
+0x0F47874F = ~z~
+
+0x1D967344 = ~z~well, he ain't right in the head.
+
+0x1DC6244C = ~z~
+
+0x1EF57522 = ~z~Well, it ain't nothing nice.
+
+0x2EF719F5 = ~z~Have you come for me?
+
+0x2F89ACDE = ~z~Lot of folk gone missing over the past few years and...
+
+0x3DDBB2D0 = ~z~Here... here... here's some money for your trouble.
+
+0x4AA12B36 = ~z~Get clear out of here before I arrest you for his crimes!
+
+0x4CE15D51 = ~z~
+
+0x5AAE8670 = ~z~Do you like pain?
+
+0x5B27F9DE = ~z~
+
+0x5C59EFCC = ~z~Thank you sheriff.
+
+0x6ADF47FA = ~z~~sl:1.6~You lunatic... what the hell is wrong with you?
+
+0x6CECAAEC = ~z~At least, no one's found it nice so far... maybe you'll be the first.
+
+0x6E039D82 = ~z~~sl:1.6~You lunatic... what the hell is wrong with you?
+
+0x6F64D341 = ~z~
+
+0x7B395F39 = ~z~
+
+0x7CF83B6B = ~z~~sl:0.7:1.2:1~Your “reward”?
+
+0x7D9F01DE = ~z~
+
+0x7E97C19F = ~z~
+
+0x8C2D1193 = ~z~~sl:1.6~Get him off me!
+
+0x8D5D0CF5 = ~z~My reward?
+
+0x8D6A51FE = ~z~Well, you better...
+
+0x8FA4ED73 = ~z~he ain't right in the head.
+
+0x9A7106EF = ~z~Found that feller you been looking for.
+
+0x9D52B3DE = ~z~
+
+0x11C35ABE = ~z~been...
+
+0x12A2DB25 = ~z~Oh, I'll behave, sir...
+
+0x16B71636 = ~z~
+
+0x21B6B7E2 = ~z~
+
+0x29C18ABA = ~z~and I'll get you a lawyer, don't you worry about that.
+
+0x33C41E6D = ~z~My Lord, what a monster!
+
+0x40A1BD4A = ~z~Or was this all... nasty surprise... or maybe it's both?
+
+0x44B9D73E = ~z~Ain't nothing nice.
+
+0x45C4DC9D = ~z~Very close. But when it's over... release. Glorious release.
+
+0x52EC73A3 = ~z~been...
+
+0x57E165A1 = ~z~Okay. Now, come on you.
+
+0x65A6DF91 = ~z~Found that feller you been looking for.
+
+0x69ABBD7F = ~z~Thank you sheriff.
+
+0x208FF6FF = ~z~My you are a frightening feller.
+
+0x214A9060 = ~z~this sick son of a bitch...
+
+0x307BE78A = ~z~Son, you better get out of here.
+
+0x370FA556 = ~z~You get in that cell, calm as you be.
+
+0x441A3E13 = ~z~See for yourself.
+
+0x499A4913 = ~z~My name is Edmund, Edmund Lowry Jr.
+
+0x637C7E2F = ~z~Get him off me!
+
+0x686E4A16 = ~z~Get him off me!
+
+0x902CF16C = ~z~I mean, it will be fun for me, but it won't be nice for you.
+
+0x973A6FEF = ~z~~sl:0.9~Go on, out...
+
+0x2419B0FB = ~z~
+
+0x4221ED0B = ~z~
+
+0x4725C530 = ~z~Oh thank you...
+
+0x4967E3E3 = ~z~Is it your friend? It's about to become your very close friend...
+
+0x5565C101 = ~z~
+
+0x8161D0ED = ~z~That so?
+
+0x8896F9F4 = ~z~
+
+0x87844C81 = ~z~
+
+0x92495A64 = ~z~on the road to the falls.
+
+0x210679E5 = ~z~
+
+0x3680673E = ~z~Now we got to get this body out of here.
+
+0x8292469F = ~z~~sl:2.3~My reward?
+
+0x13886318 = ~z~Maybe it is a nasty surprise, even though you knew I was going to be here. Which is it?
+
+0x35512187 = ~z~
+
+0x46254381 = ~z~Get him off me!
+
+0x58427200 = ~z~Get outta here.
+
+0x93301087 = ~z~Like I said, have someone head up to his cabin, think he's killed quite a few.
+
+0xA1F37ACE = ~z~thank you.
+
+0xA4ED0B54 = ~z~Get the hell outta here, that's your goddamn reward.
+
+0xA6B1B78A = ~z~My Lord, what a monster!
+
+0xA493FEF9 = ~z~Head on over to the cellar of that broke down shack...
+
+0xA917CC10 = ~z~
+
+0xA2059529 = ~z~Now, I'm not going to lie... it's not going to be nice... and fun.
+
+0xAE341471 = ~z~This sick son of a bitch...
+
+0xAF91B041 = ~z~save yourself thinking about what's about to happen...
+
+0xB1C8D5CC = ~z~Get the hell outta here, that's your goddamn reward.
+
+0xB7B8D998 = ~z~Here... here... here's some money for your trouble.
+
+0xB5030F9D = ~z~I'm not giving you a cell until you introduce this boy... now put him down there.
+
+0xBC50AFD6 = ~z~A lot of folk disappeared over the past few years.
+
+0xBD91CD30 = ~z~
+
+0xC08D7355 = ~z~Get outta here.
+
+0xC1C354A4 = ~z~You should think about that...
+
+0xC4F6F414 = ~z~Oh there's a lot of sick bastards out there...
+
+0xC8A5DF14 = ~z~Which feller?
+
+0xC78DE039 = ~z~
+
+0xCA028E44 = ~z~Where's a deputy when you need one?
+
+0xCBFC0804 = ~z~You didn't hear me? Go!
+
+0xCDCF05C0 = ~z~
+
+0xD8552AE9 = ~z~What a mess.
+
+0xD1784887 = ~z~Put 'em down... put 'em down.
+
+0xDA806BE7 = ~z~
+
+0xDA450256 = ~z~Feller been...
+
+0xDDDDA5DD = ~z~
+
+0xDF4FF1C6 = ~z~You know where to put it. When you're done, come back with a mop.
+
+0xE0FA0578 = ~z~Now, there's no point fighting. You might as well try and relax a little bit.
+
+0xE2C0EB18 = ~z~Put him on the floor, and let's take a look at him.
+
+0xE2EE381A = ~z~~sl:0.7:1.2:1~Your “reward”?
+
+0xE7C787A7 = ~z~See for yourself.
+
+0xE9BBCCAF = ~z~
+
+0xE54781C7 = ~z~I found that feller you were looking for.
+
+0xEA6D8BF5 = ~z~Like I said, have someone head up to his cabin, think he's killed quite a few.
+
+0xEA44C6C7 = ~z~~sl:0.9~Go on, out...
+
+0xED2D103A = ~z~I'm sure I shall.
+
+0xEFD331B6 = ~z~Which feller?
+
+0xF8B8288A = ~z~Oh there's a lot of sick bastards out there...
+
+0xF415D24D = ~z~thank you.
+
+0xF920AA59 = ~z~of that broke down shack on the road to the falls.
+
+0xFCF32FC6 = ~z~And you'll remember that, my friend.
+
+0xFE7A7895 = ~z~
+
+0xFE22CA11 = ~z~Found that feller you've been looking for.
+
+0xFFEB515F = ~z~Well, who's this now?
+

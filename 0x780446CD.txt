@@ -1,0 +1,10 @@
+0x6E792EB4 = ~z~Nothing is right! That's the point! That's the point.
+
+0x7C2FCA21 = ~z~Work, Mr. Morgan. Folk need feeding. I never took you for the lazy type...
+
+0x40D7D376 = ~z~Mr. Morgan!
+
+0x600D11DC = ~z~Nothing, Miss Grimshaw...
+
+0x51297419 = ~z~Mr. Morgan, folks is wondering what's happened to you.
+

@@ -1,0 +1,48 @@
+0x011B68AA = ~z~Me robas el reposo...
+
+0x0AE77BDE = ~z~Y luego la calandria, le dijo y le juro
+
+0x0FBE06C7 = ~z~Ay Dios, no hay piedad.
+
+0x3A285B9B = ~z~"me sacas de prision, me voy contigo yo".
+
+0x7D7C6242 = ~z~Ay Dios, no hay remedio.
+
+0x57DA16FE = ~z~Me robas el reposo...
+
+0x85D1EED9 = ~z~?Y adios tranquilidad!
+
+0x91D109AF = ~z~Ay Dios, no hay piedad.
+
+0x538B0A4C = ~z~Me robas el reposo...
+
+0x739B4A68 = ~z~En una jaula de oro pendiente de un balcon,
+
+0x72114B6C = ~z~?Y adios tranquilidad!
+
+0x675334B4 = ~z~y dijo "mi bonita, te quiero mucho yo."
+
+0x826267F6 = ~z~Ay Dios, no hay piedad.
+
+0x30184367 = ~z~Hasta un gorrioncito amoroso la oyo,
+
+0x50208373 = ~z~Ay Dios, no hay remedio.
+
+0x59951938 = ~z~Hasta un gorrioncito amoroso la oyo,
+
+0xA01A2641 = ~z~Ay Dios, no hay remedio.
+
+0xA5E62EFD = ~z~una triste calandria lloraba su prision.
+
+0xBB4A59C5 = ~z~una triste calandria lloraba su prision.
+
+0xC90C7549 = ~z~En una jaula de oro pendiente de un balcon,
+
+0xCB837D13 = ~z~y dijo "mi bonita, te quiero mucho yo."
+
+0xEB5A3CC4 = ~z~Y luego la calandria, le dijo y le juro
+
+0xF7675542 = ~z~?Y adios tranquilidad!
+
+0xFCB0DF71 = ~z~"me sacas de prision, me voy contigo yo."
+

@@ -1,0 +1,18 @@
+0x42D3B59F = ~z~Yeah... it's okay isn't it?
+
+0x308C1110 = ~z~For this... this place.
+
+0x562B5C4E = ~z~You know, John, maybe I don't say it enough, but thank you.
+
+0x66467C84 = ~z~Thank you?
+
+0xA0BAF168 = ~z~I know.
+
+0xC3A43746 = ~z~It's better than okay... it's bliss... having you and Jack and... a home... you have no idea.
+
+0xD6035C04 = ~z~That's where you're wrong. I understand... really I do.
+
+0xE8890107 = ~z~How you been?
+
+0xFA41A478 = ~z~Fine.
+

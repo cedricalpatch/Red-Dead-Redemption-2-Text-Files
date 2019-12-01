@@ -1,0 +1,970 @@
+0x0004AD38 = ~z~I was meant to get you all to go.
+
+0x0008303A = ~z~and he would lie.
+
+0x005CEA58 = ~z~
+
+0x00FF3534 = ~z~and it weren't no curse, just sick dogs.
+
+0x015BBA44 = ~z~Dark spirits!
+
+0x01E637DB = ~z~Yeah, looks cursed alright.
+
+0x0217323D = ~z~It's a mining company.
+
+0x0233121B = ~z~They's got Kain... they's got brother Kain...
+
+0x037CC9FC = ~z~he's not the same.
+
+0x043DB8B1 = ~z~I-I can see that it's impossible.
+
+0x043F002E = ~z~Oh yeah, of course, sir...
+
+0x04A0B7EB = ~z~get yourselves home.
+
+0x04CCBB96 = ~z~
+
+0x05571D98 = ~z~
+
+0x05B386F4 = ~z~No. Shit.
+
+0x05B866AD = ~z~Come on, friend...
+
+0x06A62036 = ~z~
+
+0x07A44135 = ~z~I helped with those dogs.
+
+0x091FD022 = ~z~Cursed?
+
+0x09B8CD57 = ~z~Life'll be just fine.
+
+0x09F9B14B = ~z~Welcome, brother.
+
+0x0A246143 = ~z~Be gone, sir.
+
+0x0AC4596A = ~z~
+
+0x0CBF0A06 = ~z~Lord deliver us!
+
+0x0CCBDD96 = ~z~It's in me.
+
+0x0D7648FB = ~z~Spirits?
+
+0x0E555557 = ~z~this feller don't want you to know.
+
+0x0F1D4967 = ~z~See if I can see something.
+
+0x1A97D2B5 = ~z~Hey, shoo! Shoo! Get outta here, it ain't safe.
+
+0x1ACC2D48 = ~z~friendship and love.
+
+0x1AE409D7 = ~z~What are you talking about?
+
+0x1B6A6403 = ~z~They dug down into the cave system...
+
+0x1B7B6505 = ~z~Powerful forces have taken on this town.
+
+0x1C7FFCE1 = ~z~Shit.
+
+0x1C6666B6 = ~z~That?
+
+0x1DEB0E86 = ~z~Yes!
+
+0x1EB571C8 = ~z~Who was right?
+
+0x1F00AE89 = ~z~You shall not drag us down to hell!
+
+0x2A212826 = ~z~I'm coming!
+
+0x2BA8BA60 = ~z~Stay inside. Keep your door shut.
+
+0x2BB5AA1B = ~z~Yes!
+
+0x2BDC0AED = ~z~The curse has changed.
+
+0x2CD331F7 = ~z~There's poison in this mine!
+
+0x2D9E17D6 = ~z~you'll die, or worse.
+
+0x2D78E4BF = ~z~Alright, I'll handle this... come on!
+
+0x2D952828 = ~z~N-not, not because we cares not...
+
+0x2DB5AF7A = ~z~What are you talking about?
+
+0x2DD15D38 = ~z~Pray, brother Kain.
+
+0x2EF0D75A = ~z~You two. Back to the village. I'll keep these dogs at bay.
+
+0x2F3DC33D = ~z~There. On the bridge.
+
+0x2FE4DB56 = ~z~Shit.
+
+0x3A006C02 = ~z~
+
+0x3A5CC761 = ~z~Yes!
+
+0x3A600192 = ~z~We're not a rich village, sir...
+
+0x3C0591D4 = ~z~Get away, demons.
+
+0x3D23A6C9 = ~z~we're cursed.~n~~m~It's the curse.
+
+0x3DCD90CD = ~z~He was in some distress...
+
+0x4A0B2D87 = ~z~he said it's...
+
+0x4A7DB48C = ~z~It ain't nice...
+
+0x4A570ACD = ~z~Butcher's... Creek...
+
+0x4B094382 = ~z~The darkness lifted.
+
+0x4B791458 = ~z~Yes!
+
+0x4BFF831B = ~z~Come on.
+
+0x4C4143B2 = ~z~he didn't have some clue of it.
+
+0x4CFEF282 = ~z~
+
+0x4DCB5326 = ~z~there was a dig anyway, it's closed now.
+
+0x4ED8408D = ~z~I'm coming!
+
+0x4F0337CB = ~z~They're hounding the hogs!
+
+0x5A4B5E0B = ~z~So, you're saying if someone destroys those charms...
+
+0x5A5D6363 = ~z~You, you told us.
+
+0x5A6F72D8 = ~z~Well, let him tell you then.
+
+0x5A8C4EE1 = ~z~Not my hogs, you devils.
+
+0x5A95B3CF = ~z~Brother, over here!
+
+0x5B12BFF2 = ~z~Where?
+
+0x5C1CE86E = ~z~and the demons protect the charms...
+
+0x5C5DB621 = ~z~Yes!
+
+0x5CC2D2FA = ~z~No, he-he's not well, it's...
+
+0x5D19E79B = ~z~All of them?
+
+0x5DD36C76 = ~z~Hold on...
+
+0x5DDBC889 = ~z~rich.
+
+0x5F676C3E = ~z~Not saved...
+
+0x5F689A10 = ~z~You're not well, friend.
+
+0x6A6688CE = ~z~Who's there?
+
+0x6B77E3C9 = ~z~Die, you devils!
+
+0x6BF308B5 = ~z~So, I guess that's it for your suffering.
+
+0x6C0D1277 = ~z~You'll die... or worse.
+
+0x6CA70746 = ~z~So...
+
+0x6D2EB59C = ~z~Where?
+
+0x6D95877A = ~z~and the spirits are set loose.
+
+0x6E810EF1 = ~z~out in the woods.
+
+0x6EAD013A = ~z~No.~n~~m~No, that's right.
+
+0x6ED68DE5 = ~z~and the charms protect the demons.
+
+0x6ED9979B = ~z~shoot any sick animals you see.
+
+0x6F017D93 = ~z~No, no, no, he said...
+
+0x6FD4DE4D = ~z~Thank the Lord.
+
+0x7AF52239 = ~z~W-w-we're doomed then?
+
+0x7B15DA04 = ~z~Quiet... voices.
+
+0x7BE52539 = ~z~He... broke the charms...
+
+0x7C5A922D = ~z~Well the village is...
+
+0x7C6C1870 = ~z~get yourselves home.
+
+0x7CB3C38C = ~z~Thank you, brother.
+
+0x7D85185C = ~z~Helped you with some dogs.
+
+0x7D173416 = ~z~Then get yourself a gun...
+
+0x7DCDAD8A = ~z~Those charms...
+
+0x7E4EB6FA = ~z~Don't pray... do something!
+
+0x7F4C52A2 = ~z~Oh, somebody help!
+
+0x8A484E74 = ~z~He said, we were not to doubt him.
+
+0x8B15C64C = ~z~It's nothing.
+
+0x8B90490F = ~z~I been seeing about this curse of yours.
+
+0x8C7BC9CA = ~z~and this one wouldn't be so quick with ideas...
+
+0x8D19C8F4 = ~z~Don't you go nowhere.
+
+0x8D587E89 = ~z~You.
+
+0x8DC2D96A = ~z~Now you heard it.
+
+0x8ED4AA82 = ~z~Damn them! Oh Lord...
+
+0x8ED9A44D = ~z~Show us the light.
+
+0x8F8DABEC = ~z~but with love...
+
+0x8F375759 = ~z~and it ain't a curse...
+
+0x9A9D8944 = ~z~They come...
+
+0x9AB6641C = ~z~Hydrophobia or some other poison.
+
+0x9AEC4699 = ~z~This is the dig.
+
+0x9BEFD773 = ~z~What are you talking about?
+
+0x9C455068 = ~z~He came and with him came, the blight!
+
+0x9CFD55B1 = ~z~More! They've found us!
+
+0x9D507D07 = ~z~Pray for me!
+
+0x9DCD5F7A = ~z~Come, Obediah...
+
+0x9DE7EBF0 = ~z~What's this?
+
+0x9E9843CA = ~z~said I would lead you out of the darkness.
+
+0x9EDB6C77 = ~z~Found this, down the old dig...
+
+0x9EED6BD2 = ~z~He found it.
+
+0x9FAFC0EE = ~z~It's in me!
+
+0x9FC4F3E5 = ~z~Please protect us from evil.~n~~m~Protect us from evil.
+
+0x11C820F7 = ~z~I said I would lead you out of the darkness...~n~~m~Yes!
+
+0x11E93E60 = ~z~Why's he looking at me funny?
+
+0x13A06A43 = ~z~Since the troubles began, he's just...
+
+0x14DBDDBA = ~z~Who's there?
+
+0x15B9ABE5 = ~z~It ain't demons, just dogs gone crazy...
+
+0x16E75E04 = ~z~There aint no demons.
+
+0x16FAEBD3 = ~z~Remember me?
+
+0x17EBEDBA = ~z~What are you talking about?
+
+0x18B95DBF = ~z~Hold on...
+
+0x20F6C133 = ~z~Damnit, no.
+
+0x21FCD6E3 = ~z~
+
+0x26CCCAF0 = ~z~Show us the light!
+
+0x27E013A1 = ~z~Come on, come on.
+
+0x29DD83F0 = ~z~Don't disturb the woods.
+
+0x31FD941D = ~z~n-now w-we-we were warned not to heed what you say.
+
+0x35B368BD = ~z~Yes!
+
+0x37AEF0F3 = ~z~Sent by the devil.
+
+0x37E993AC = ~z~someone destroys all the charms...
+
+0x37FA7DC7 = ~z~Light? Light.
+
+0x38F369BE = ~z~It's in me!
+
+0x41FFB04F = ~z~it was a dark omen.
+
+0x42D85E01 = ~z~The game's up!
+
+0x43E14460 = ~z~just take it if you want it.
+
+0x49A5D145 = ~z~You've been poisoned.
+
+0x52C87823 = ~z~
+
+0x52E057B0 = ~z~See if I can see anything.
+
+0x54AD8C69 = ~z~They're killing my pigs! Help!
+
+0x54F782D0 = ~z~Butcher's Creek...
+
+0x58B2AEBB = ~z~Yes!
+
+0x60BBF367 = ~z~They all been broken.
+
+0x61C03B2F = ~z~What else are there?
+
+0x61D8E104 = ~z~Been seeing about this curse of yours.
+
+0x62C7E968 = ~z~the curse is lifted?
+
+0x62DCBCCC = ~z~Shoo! Shoo! Get outta here, it ain't safe.
+
+0x64B9F69D = ~z~It's taken me!
+
+0x66DB980D = ~z~Help...help...help!
+
+0x66EE7493 = ~z~I'm getting out here!
+
+0x66FD9EA6 = ~z~Shit. There's more alright.
+
+0x68CD5B67 = ~z~They's got Kain... they's got brother Kain...
+
+0x69A4BE65 = ~z~Shit.
+
+0x70BD924E = ~z~Something's up...
+
+0x70C5011E = ~z~and he, and he said his protection would come in...
+
+0x70D21A53 = ~z~Something's up...
+
+0x71DB9813 = ~z~Protect us from evil.~n~~m~Protect us.
+
+0x72D1930A = ~z~So, I guess that's it for your suffering.
+
+0x76BE9B86 = ~z~spirits talking through a mining company.
+
+0x79EFA2A0 = ~z~Nope, but he nearly did.
+
+0x79F2F156 = ~z~Oh no, a demon. Help us!
+
+0x80F13ACD = ~z~I'd think there's something going on in this holler...
+
+0x83A33BA2 = ~z~Protect us from the evil.
+
+0x84B0F9E0 = ~z~Help!
+
+0x91DED5D0 = ~z~Praise be, brother. I didn't think I would make it.
+
+0x91E9570A = ~z~I told you.
+
+0x93FA7BFE = ~z~My pigs!
+
+0x95EB7A9A = ~z~Ah, Lemuel!
+
+0x97C7936F = ~z~Devil.
+
+0x99DCD10B = ~z~Who's that?
+
+0x99DFE492 = ~z~and whatever else it ain't...
+
+0x101AD493 = ~z~I was.
+
+0x116F5188 = ~z~W-what are you talking about?
+
+0x169FAC85 = ~z~No. No.
+
+0x195F5FED = ~z~all they found was arsenic and lead.
+
+0x326F93A1 = ~z~leaking all the way to the lake.
+
+0x354B9C87 = ~z~Remember me?
+
+0x395F6A6E = ~z~Obediah Hinton, that's me.
+
+0x396CA0E3 = ~z~Pray? Do something...
+
+0x430A3804 = ~z~Alright, alright.
+
+0x442E371E = ~z~You've been poisoned.
+
+0x461C3011 = ~z~So you're saying...
+
+0x473CB6F0 = ~z~Thank you, brother.
+
+0x495E3FE6 = ~z~there's no arguing, it's clear as day...
+
+0x508DC4F4 = ~z~The woods are full of demons...
+
+0x527B5220 = ~z~Now you heard it.
+
+0x551B6E17 = ~z~
+
+0x567EDA65 = ~z~they're all broken.
+
+0x577AA929 = ~z~Evil! Evil!
+
+0x636C8376 = ~z~It's our curse, it's ours to deal with.
+
+0x638F7EAE = ~z~He, he all-he always spoke truthful to us.
+
+0x648AF7C2 = ~z~Who was right?
+
+0x651D7E3C = ~z~Game's up!
+
+0x664B49FC = ~z~Yes!
+
+0x722C20F5 = ~z~Now the medicine man left some money there...
+
+0x729E1994 = ~z~And who are you?
+
+0x746D3CE4 = ~z~Somebody please help!
+
+0x749DC46E = ~z~Come on, let me get you home.
+
+0x778B0882 = ~z~Seems calmer now.
+
+0x794E3CF2 = ~z~You sick, partner?
+
+0x808EB9CC = ~z~I have the gift...
+
+0x809B0E0F = ~z~Kill the pig killers...
+
+0x837E6A95 = ~z~
+
+0x846E262E = ~z~Remember me?
+
+0x871C4AD5 = ~z~I was down that old dig and I found this...
+
+0x891C98D3 = ~z~I shall. But first...
+
+0x924D5D49 = ~z~he didn't have some clue of it.
+
+0x930CBF91 = ~z~Thank you, sir...
+
+0x967C9D01 = ~z~Damned beasts.
+
+0x988AEAF9 = ~z~some other poison.
+
+0x999BE738 = ~z~Yeah.
+
+0x1223CDBD = ~z~and it weren't no curse.
+
+0x1468B686 = ~z~Where?
+
+0x1733E5F4 = ~z~What's he hiding?
+
+0x2024F078 = ~z~Then listen to him say it.
+
+0x2659F900 = ~z~but you said the charms was protecting the curse.
+
+0x3906B5EE = ~z~Got to go somewhere.
+
+0x4020B7D1 = ~z~o-on the other side of the hill there...
+
+0x4505DC9E = ~z~
+
+0x4948AC5A = ~z~Look at their eyes. They're devils.
+
+0x5348DA93 = ~z~I see you over there!
+
+0x6685FD2D = ~z~Then you won't mind drinking it.
+
+0x6686D0ED = ~z~
+
+0x6883FF11 = ~z~Brothers and sisters, we got some praying to do.
+
+0x7083A5DB = ~z~Need help!
+
+0x7278A8E1 = ~z~Goddamn.
+
+0x7313BF08 = ~z~You're not well, friend. ~n~~m~Butcher's Creek...
+
+0x7537CE08 = ~z~
+
+0x7618F703 = ~z~Who's that?
+
+0x7978A0E9 = ~z~The woods are full of these.
+
+0x8133A647 = ~z~He never lied to me.
+
+0x8797BC96 = ~z~It's a miracle, we're saved.
+
+0x9034CE61 = ~z~He found the curse!
+
+0x9622E8E2 = ~z~Just go.
+
+0x21448F87 = ~z~Be gone.
+
+0x27357D14 = ~z~It's just sick dogs.
+
+0x28310E5C = ~z~What's this?
+
+0x30085D77 = ~z~Yes!
+
+0x34299C55 = ~z~I see you over there!
+
+0x34675C04 = ~z~I'm getting out of here!
+
+0x36978A82 = ~z~Helped you with some dogs.
+
+0x37289B7B = ~z~Oh dear, dear God...
+
+0x51907C0A = ~z~Butcher's Creek...
+
+0x54099FC2 = ~z~love and friendship in the darkness.
+
+0x57577F2A = ~z~It's not demons, it's dogs, gone crazy...
+
+0x62911A27 = ~z~Shh... shh...
+
+0x65879F19 = ~z~They're coming.
+
+0x81170EFF = ~z~You got anything for me?
+
+0x87062DA0 = ~z~he said they would come in many forms...
+
+0x138691F4 = ~z~It's in me! It's in me!
+
+0x178968F8 = ~z~He was right.
+
+0x451633A1 = ~z~the curse is lifted?
+
+0x489263CC = ~z~I shall.
+
+0x632741DA = ~z~Please, come on.
+
+0x721235BF = ~z~Remember me?
+
+0x769664DB = ~z~You got anything for me?
+
+0x794722AF = ~z~Nothing?
+
+0x1341220F = ~z~No.
+
+0x2546815A = ~z~Where's this runoff heading huh?
+
+0x3385007B = ~z~it's-it's the darkness...
+
+0x4542769E = ~z~The darkness has a hold...
+
+0x5305435D = ~z~Who's that?
+
+0x6937012F = ~z~we thought the curse had got you.
+
+0x9029980F = ~z~
+
+0x34221494 = ~z~I said...
+
+0x39662601 = ~z~What curse?
+
+0x48586360 = ~z~Yes!
+
+0x54705157 = ~z~Ma'am, you're safe now. I'll see if there's any more of them.
+
+0x62398947 = ~z~Help! Me!
+
+0x75941897 = ~z~cursed.
+
+0xA0FF5B76 = ~z~the darkness.
+
+0xA4B7C11D = ~z~Please sit, please, sir.
+
+0xA4F7817D = ~z~I'm... going... to commune... with the spirits!
+
+0xA5B864E8 = ~z~Who said it's the darkness?
+
+0xA7A71252 = ~z~Yeah, he seems calmer now.
+
+0xA7C78065 = ~z~this feller don't want you to know.
+
+0xA9A501F9 = ~z~Get your people home, mister.
+
+0xA24F2FB9 = ~z~Come on, come on.
+
+0xA34D3EBE = ~z~This is the dig.
+
+0xA36C73AF = ~z~Shit. Hold on.
+
+0xA53A845C = ~z~The darkness.~n~~m~The darkness.
+
+0xA72CFF28 = ~z~and it ain't a curse...
+
+0xA80B88C5 = ~z~and whatever else it ain't...
+
+0xA404EE15 = ~z~
+
+0xA23411FD = ~z~They're killing my pigs! Help!
+
+0xA50618CF = ~z~You found Lemuel! Well, come, come, come here!
+
+0xA366539D = ~z~We thank you.
+
+0xA773833E = ~z~There'll be no more four legged demons...
+
+0xAA0137E2 = ~z~Demons...
+
+0xAB82F699 = ~z~many forms.~n~~m~Many forms.
+
+0xABB5C773 = ~z~Oh, Lord above.
+
+0xAC712CEB = ~z~What are you talking about?
+
+0xAC459527 = ~z~Don't you go nowhere.
+
+0xADBD8B9F = ~z~Poison now is it?
+
+0xAE118F56 = ~z~I will save you.
+
+0xAE152B08 = ~z~He was in some distress...
+
+0xAE702A75 = ~z~Stay inside. Keep your door shut.
+
+0xB05B0F7A = ~z~Stop reading...
+
+0xB082543C = ~z~Goddamn you!
+
+0xB0910E84 = ~z~Those charms out in the woods...
+
+0xB0ECFF2B = ~z~I've been seeing about this curse of yours.
+
+0xB1F9C7D3 = ~z~Who're you?
+
+0xB3BC9570 = ~z~Oh, the curse.~n~~m~The curse.
+
+0xB3FA698C = ~z~Oh lord.
+
+0xB4B152A2 = ~z~Evil! Evil...
+
+0xB4D09A63 = ~z~I think something's going on in this holler...
+
+0xB6D558C5 = ~z~
+
+0xB6EF1B0A = ~z~The dig...
+
+0xB7F5447B = ~z~Shit. There's more alright.
+
+0xB9D62C5A = ~z~I told you he would lie and dissemble.
+
+0xB15CBB40 = ~z~
+
+0xB46E6F76 = ~z~I told you I would save you...
+
+0xB72B17CD = ~z~And who are you?
+
+0xB989CBFB = ~z~Where?
+
+0xB5971E65 = ~z~I found one.
+
+0xB8009CA6 = ~z~You okay?
+
+0xB58162B0 = ~z~Lemuel he not well, sir.
+
+0xB73817DB = ~z~So...
+
+0xB2016591 = ~z~
+
+0xB2159079 = ~z~Now, I-I need, I need some light here now...
+
+0xB6454192 = ~z~
+
+0xB9531239 = ~z~hydrophobia, or...
+
+0xBA55A35A = ~z~Then get yourself a gun and kill any sick animals you see.
+
+0xBA58AC3F = ~z~Dark, dark omens!
+
+0xBAC42394 = ~z~Powerful forces have taken on this town.
+
+0xBB30F3DC = ~z~Get it out! Now! Get it out...
+
+0xBB159894 = ~z~~sl:0.0:1.0:1~Light?
+
+0xBBD36DC8 = ~z~Uhhh... Butcher's Creek...
+
+0xBBF781BA = ~z~Over there!
+
+0xBC404578 = ~z~The darkness, it's, it's, it's everywhere.
+
+0xBD0AEA1D = ~z~Help me!
+
+0xBDF8572E = ~z~That where you're from?
+
+0xBEBCC24C = ~z~You! Please!
+
+0xBFA72F72 = ~z~You've killed me, I'm poisoned.
+
+0xBFE4BDAD = ~z~Poison now is it?
+
+0xC052AE9C = ~z~Yet, the woods are also full of demons.
+
+0xC2ABB88E = ~z~Dark charms possess the woods...
+
+0xC4A77469 = ~z~Got to go somewhere.
+
+0xC4D1569E = ~z~no, b-but because we cares.
+
+0xC4D4478C = ~z~Nothing?
+
+0xC4E4B334 = ~z~That?
+
+0xC5C20D1B = ~z~Brother I am.
+
+0xC6C11A56 = ~z~Okay.
+
+0xC7E6C424 = ~z~I shall save them.
+
+0xC38EE005 = ~z~Butcher's Creek...
+
+0xC43FEC5F = ~z~The darkness...
+
+0xC71CC5C7 = ~z~my ancestors...
+
+0xC94E2D2B = ~z~I found him out in the woods.
+
+0xC202B809 = ~z~Cursed alright.
+
+0xC396B7EF = ~z~Hey, look at me.
+
+0xC603E010 = ~z~in darkness.~n~~m~Help!
+
+0xC59843DE = ~z~Liar!
+
+0xC7245870 = ~z~Ma'am, you're safe now. I'll see if there's any more of them.
+
+0xCA06AD84 = ~z~th-thank you for Lem...
+
+0xCA31E15B = ~z~He was right.
+
+0xCA846A10 = ~z~
+
+0xCA654501 = ~z~I told you...
+
+0xCADF999D = ~z~
+
+0xCB903AFF = ~z~feed me.
+
+0xCBCE82B3 = ~z~Goddamn.
+
+0xCC3AF3B3 = ~z~You want me to take you back, or?
+
+0xCC32DB69 = ~z~Lemuel, sweet Lemuel...
+
+0xCC37B5C0 = ~z~A friend of mine was here...
+
+0xCCC7C83E = ~z~Life will be just fine.
+
+0xCD4F4743 = ~z~You sick, partner?
+
+0xCD499268 = ~z~
+
+0xCDF41B2F = ~z~Shit.
+
+0xCDF480AC = ~z~Brother Kain!
+
+0xCE7D00D9 = ~z~Obediah...
+
+0xCE288C58 = ~z~Back I say.
+
+0xCED54F98 = ~z~Well, maybe I'll go check it out for myself.
+
+0xD0023F97 = ~z~Just sick dogs...
+
+0xD02597F8 = ~z~Love and friendship...
+
+0xD060D3F4 = ~z~These poor people...
+
+0xD1B74FBC = ~z~Hey, look at me.
+
+0xD4DD6148 = ~z~I got a gift myself.
+
+0xD5C275D9 = ~z~You okay?
+
+0xD6E5AF62 = ~z~He sent us salvation.
+
+0xD7C05AAE = ~z~Well, maybe I'll take a look at that dig.
+
+0xD7C54901 = ~z~It's in me! In me!
+
+0xD8EBEC4F = ~z~it's a mining company.
+
+0xD9BFDCF6 = ~z~I just saved 'em...
+
+0xD9F1F6E7 = ~z~I found him out in the woods.
+
+0xD11B50FA = ~z~you didn't tell me you could read.
+
+0xD19E5FD8 = ~z~What kind of trick you pulling now?
+
+0xD25B54DA = ~z~Don't! No!
+
+0xD33CF375 = ~z~What are you talking about?
+
+0xD70C5C0F = ~z~While they remain...
+
+0xD71BE6E5 = ~z~and this one wouldn't be so quick with ideas...
+
+0xD84E63D3 = ~z~H-he did, he told me, he did, he told me.
+
+0xD215E20F = ~z~Oh, then you won't mind taking a drink.
+
+0xD254DE90 = ~z~Get your people home, mister.
+
+0xD961E71E = ~z~Save us.~n~~m~Protect us from the evil.
+
+0xD64360DD = ~z~the curse shall change.
+
+0xD3758228 = ~z~They're in me.
+
+0xD7753583 = ~z~that will protect you on your journey.
+
+0xDA1F1DDD = ~z~
+
+0xDACA596F = ~z~Have I lied to you thus?
+
+0xDB5C7354 = ~z~Nope, but he nearly did.
+
+0xDBD76510 = ~z~It's a dark omen.
+
+0xDC8BEB05 = ~z~He always said something about not going over there.
+
+0xDD0FFEF2 = ~z~Please! Help!
+
+0xDDBD6A29 = ~z~It ain't nice...
+
+0xDDDE4972 = ~z~Over there!
+
+0xDDEEEC9F = ~z~you said the charms was protecting the curse.
+
+0xDF1C6E6F = ~z~he would come...
+
+0xDF8FF8E8 = ~z~Shit. Hold on.
+
+0xDFE218AF = ~z~That where you're from?
+
+0xE02CBFA0 = ~z~No. Shit.
+
+0xE09B7B1D = ~z~Not to doubt him.
+
+0xE1A4C4E0 = ~z~Lord.
+
+0xE1D4B3B0 = ~z~Away from me, devils.
+
+0xE1F206E7 = ~z~Come here, come on let me help you up.
+
+0xE3B1F627 = ~z~Kind of trick you pulling now?
+
+0xE3E0740E = ~z~I said he had the demon's tongue.
+
+0xE3E13161 = ~z~
+
+0xE4C179A6 = ~z~No! No! Please!
+
+0xE5ADD1F4 = ~z~it's a powerful magic...
+
+0xE5AF7803 = ~z~Help... help!
+
+0xE5F6F9E4 = ~z~the curse will remain.
+
+0xE6FA7C00 = ~z~What are you talking about?
+
+0xE7B24767 = ~z~
+
+0xE7C38C26 = ~z~leaking all the way into the lake.
+
+0xE8C94D20 = ~z~No. No.
+
+0xE8ECCF41 = ~z~I told you I would save you...~n~~m~Yes!
+
+0xE8F17B59 = ~z~What curse?
+
+0xE8FE0FDF = ~z~It ain't spirits...
+
+0xE58A7642 = ~z~What is he hiding?
+
+0xE64B1991 = ~z~The demons have us by the throat, sir.
+
+0xE369D48F = ~z~You two. Back to the village. I'll keep these dogs at bay.
+
+0xE996D274 = ~z~No.
+
+0xE1018602 = ~z~Why's he looking at me funny?
+
+0xEA8BDBB8 = ~z~in-indemnify the aforementioned Roanoke Fuel Company.
+
+0xEAEB83C1 = ~z~Don't touch it!
+
+0xEC73FCC2 = ~z~I will find a way.
+
+0xEDB30895 = ~z~it spread...
+
+0xEE8CB600 = ~z~they're in me.
+
+0xEE62BA9C = ~z~Where's this runoff heading huh?
+
+0xEED8A193 = ~z~Come on.
+
+0xEEDFE460 = ~z~I-I-I hereby r-release, absolve, a-and...
+
+0xEEE00DEA = ~z~and he would help...
+
+0xEEE4073E = ~z~There ain't no demons.
+
+0xEF949338 = ~z~This is poison in this mine!
+
+0xEFECED8F = ~z~Alright, I'll handle this... come on!
+
+0xF04B4BAC = ~z~
+
+0xF0C9B874 = ~z~Help! Help!
+
+0xF1D791BE = ~z~No, it is spirits...
+
+0xF6C1BA7E = ~z~It's the darkness.
+
+0xF65FE84D = ~z~Damnit, no.
+
+0xF84D4BD7 = ~z~You want me to take you there, or? ~n~~m~They're in me.
+
+0xF110BB0C = ~z~Butcher's Creek.
+
+0xF1601A4D = ~z~There, there is a dig...
+
+0xF5891E48 = ~z~I just saved 'em...
+
+0xF6251A55 = ~z~Cursed?
+
+0xF6791BB5 = ~z~Oh, you're back...
+
+0xF374971F = ~z~It's impossible.
+
+0xFAFFFC98 = ~z~you have to mark your signs on this paper...
+
+0xFB5CA306 = ~z~I don't know what to think.
+
+0xFBD69E65 = ~z~Goddamn you.
+
+0xFBD876F7 = ~z~Please, come on.
+
+0xFBF4A15F = ~z~It was just sick dogs.
+
+0xFC1DB221 = ~z~The darkness has come for us.
+
+0xFCA013CE = ~z~Who said it's the darkness?
+
+0xFCDD24E7 = ~z~Well I gotta gift right here.
+
+0xFCE53F37 = ~z~Dark spirits... evil omens. It's a curse, set loose!
+
+0xFCE852B7 = ~z~It's in me...
+
+0xFE74BFEC = ~z~such a nice man, such a good man.
+

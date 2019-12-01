@@ -1,0 +1,36 @@
+0x037BCCE0 = ~z~~sl:0.4~Maybe one day.
+
+0x3B17DCA7 = ~z~~sl:0.3~'Course.
+
+0x7E4BE30E = ~z~~sl:0.0:5.8~About the same... some good, some bad.~sl:0.6~Some you think are good, turn out to be bad.
+
+0x12CA6B7D = ~z~~sl:1.3:1.9~I'd love to go to Mexico...~sl:1.6:1.0:1~one day.
+
+0x83ABCD4E = ~z~~sl:0.0:3.3~Guy in the army, 'til he lost his position.~sl:0.9:1.1:1~I can't go back.
+
+0x423B6AF2 = ~z~Words fail all of us when it comes to women.
+
+0x749CCFB0 = ~z~~sl:1.2:1.9~What're the women like in Mexico?
+
+0x2547B10B = ~z~~sl:3.0:1.3~My God...~sl:3.5:3.5:1~that woman... that...
+
+0x367032D8 = ~z~~sl:2.6:1.7~I killed a man there.~sl:1.3:1.2~A powerful man.~sl:1.7:1.4:1~Over a woman.
+
+0x2912389C = ~z~~sl:4.8~You miss Mexico?
+
+0x3800567C = ~z~~sl:1.1~Words fail me.
+
+0xA7E195AD = ~z~~sl:0.8:2.6~I met a Brazilian in a bar once.~sl:2.3:2.3:1~I didn't understand a word he said.
+
+0xBBB45DDE = ~z~~sl:1.8:1.4:1~Think you'll ever go back?
+
+0xCA565A96 = ~z~
+
+0xD48E0F91 = ~z~~sl:1.2:1.1~I know...~sl:1.0:1.2:1~man...
+
+0xD990F90B = ~z~Bolivia, Peru, Brazil.
+
+0xE019061B = ~z~Maybe you will.
+
+0xEE5EA2A6 = ~z~I'd love to travel, see the world. Head South...
+

@@ -1,0 +1,42 @@
+0x08D14903 = ~z~Step down from there and drop your weapons. I'm taking this shipment.
+
+0x2D527F6F = ~z~Hyah! Hyah! Oh, come on...
+
+0x4FA5A1D3 = ~z~I think we'll take our chances.
+
+0x7B41DF5B = ~z~Come on! Move it!
+
+0x35C7B1FE = ~z~Oh this here feller's looking to get shot.
+
+0x55EF7DCA = ~z~Hey.
+
+0x76F7382F = ~z~You! Stop that wagon!
+
+0x110C1CA4 = ~z~Oh no you ain't!
+
+0x845E1F7E = ~z~Hey, outta the road.
+
+0x2733BF59 = ~z~Word of warning... I seen a big ol' gator just sitting in the road up ahead.
+
+0x2942C794 = ~z~That's close enough. Back off.
+
+0x70862362 = ~z~You listening to me? Back the hell away.
+
+0xA4C18C64 = ~z~Oh. Stop a moment.
+
+0xB4C912E5 = ~z~You ain't getting nothing!
+
+0xB307A8C0 = ~z~What is it?
+
+0xBB4EB014 = ~z~Put him down!
+
+0xD18A0BEA = ~z~What's it doing there?
+
+0xD7527F7B = ~z~Oh, shit!
+
+0xDBB82046 = ~z~Huh, what's this?
+
+0xEBA23109 = ~z~You there! Hold it.
+
+0xF9B0982C = ~z~Outta the way! Damn horse...
+

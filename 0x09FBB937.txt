@@ -1,0 +1,18 @@
+0x3AFF9944 = ~z~You know what I mean.
+
+0x4CC23CC9 = ~z~Not sure I do.
+
+0x4E6C401D = ~z~So what you gonna do?
+
+0x531F5C24 = ~z~
+
+0x6170F8C7 = ~z~
+
+0x6225E790 = ~z~What do you mean?
+
+0x8511AD9F = ~z~
+
+0xE23BC667 = ~z~We both know it's coming.
+
+0xF0946318 = ~z~
+

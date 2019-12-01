@@ -1,0 +1,1070 @@
+0x002ECE4E = ~z~Robert Crawford the Third, sir.
+
+0x018D539A = ~z~What the hell? I'm gonna kill you! You murdered my son!
+
+0x01D7535A = ~z~That must be the place up ahead. We should go on foot from here.
+
+0x02533388 = ~z~I ain't made of money, mister...
+
+0x028A2F6F = ~z~
+
+0x0293A2C6 = ~z~You bastards, you bastards! Junior, get the gun!
+
+0x02F30D11 = ~z~Didn't see anything worth taking.
+
+0x03802591 = ~z~Yeah... just one thing. I had to kill them both, unfortunately.
+
+0x03E1B341 = ~z~Nice work, Hosea.
+
+0x04177D1F = ~z~Just don't get caught...
+
+0x045BAF24 = ~z~Goddamn son of a bitch!
+
+0x063154EA = ~z~But... I know how to get things done efficiently.
+
+0x064FB91E = ~z~You heard me, didn't you? We should go on foot.
+
+0x067429C2 = ~z~~sl:0.0:2.6~Mr. Matthews gave me a message for you,~sl:0.1~he said when it was convenient to head into Emerald Ranch.
+
+0x07BE8162 = ~z~Whiskey suits me fine sir.
+
+0x07C1E2EC = ~z~~sl:0.0:5.5:1~Whereas your whiskey, made with grain as it is, leaves the spine brittle.
+
+0x0A899229 = ~z~A safe spot to fence wagons and coaches, that's easy money for us.
+
+0x0AB54C1D = ~z~To this clown?
+
+0x0ACF00DA = ~z~Where's the money hidden?
+
+0x0BABF5AE = ~z~Here.
+
+0x0C868A8D = ~z~Let's go.
+
+0x0C2509B1 = ~z~I'm old enough...
+
+0x0D36D1F7 = ~z~Goodbye, gentlemen.
+
+0x0D1645AA = ~z~Fine, nice people.
+
+0x0D471413 = ~z~I'm not a religious man.
+
+0x0DCF33F9 = ~z~Now, you survive that...
+
+0x0DF583EE = ~z~Damn it, Arthur, warn me before you open fire!
+
+0x0E606AB1 = ~z~I was just telling, uh... uh, y-your, junior, what's your name, son?
+
+0x0E781A7A = ~z~~sl:1.3~You don't know who you're messing with.
+
+0x0FA0C5AE = ~z~I'd start running if I was you!
+
+0x0FAD0E72 = ~z~You know what? Oh, here he is, are you the father of the house?
+
+0x1A5731C4 = ~z~I guess you're right.
+
+0x1AC1AB33 = ~z~Used to be a saloon there, general store. Now it's all closed up, but they seem to have money.
+
+0x1AC833E9 = ~z~What the hell are you doing in here? You bastard!
+
+0x1ADD0926 = ~z~And what does the juniper do? Creates movement in the spine...
+
+0x1B468E03 = ~z~Ah, my goddamn back.
+
+0x1BD63057 = ~z~I'm looking forward to your retelling of that one around the campfire.
+
+0x1BEEBA74 = ~z~Shit, there's a man coming.
+
+0x1C4DAA02 = ~z~and you know why I ain't dead?
+
+0x1C18E713 = ~z~How much'll it cost me?
+
+0x1D0ECFD8 = ~z~Good work. Let's grab this stagecoach and get out of here.
+
+0x1E64EA4A = ~z~Wake up, boy, we got an intruder!
+
+0x1E72ABFD = ~z~Sure.
+
+0x1E7133D1 = ~z~You can try the house.
+
+0x1E73542D = ~z~as you're heading up towards Fort Wallace.
+
+0x1EC50B6D = ~z~Me?
+
+0x1F0AE01D = ~z~Yeah, sorry, I must have left a drawer open.
+
+0x1F24FF1E = ~z~Junior, shoot them! Please, come on.
+
+0x1FBF69D9 = ~z~Ain't got no money, mister.
+
+0x1FCB6603 = ~z~You're going in the ground!
+
+0x1FE1F5E8 = ~z~Really.
+
+0x2B5EAE80 = ~z~You again? You're done this time!
+
+0x2B7E7E73 = ~z~In my son's chest.
+
+0x2BB99EFF = ~z~Who are you?
+
+0x2CDD335F = ~z~Did someone put you up to this?
+
+0x2D2FADCB = ~z~And what is gin made with? Junipers...
+
+0x2D6C9BAD = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. My cabinet was robbed!
+
+0x2DDB0A97 = ~z~I'm offering you virility and you're asking me about money, sir?
+
+0x2E6DF422 = ~z~There's also some money in that house...
+
+0x2E8F1FBD = ~z~You're that bastard that was here before! I'll kill you!
+
+0x2E12D4D0 = ~z~Not sure. Until we can't, I suppose.
+
+0x2ED217CC = ~z~I don't want my boss hearing.
+
+0x2F24C985 = ~z~Shh, shh, shh, shh, shh, shh...
+
+0x2F90C665 = ~z~Just get on the horse.
+
+0x3AAEB631 = ~z~You bastards, you bastards! Junior, get the gun!
+
+0x3C057ECA = ~z~In my son's dresser.
+
+0x3C7CB321 = ~z~Keep your voices down...
+
+0x3CA1E47F = ~z~I don't-I don't know, it's my Pa's.
+
+0x3D6DA9B1 = ~z~I've never been a dancing man, no.
+
+0x3DE8A0D3 = ~z~Arthur, did you not hear me?
+
+0x3E3D722A = ~z~For sure...
+
+0x3E29EDB6 = ~z~but I swear, you can trust him, and trust me.
+
+0x3E830710 = ~z~Yes, and I only had to put one of them down.
+
+0x3F7CF060 = ~z~You don't trust idiots.
+
+0x4A1011FA = ~z~If I had a dollar for every time I've been asked that.
+
+0x4AE4585A = ~z~What is it?
+
+0x4BFF8965 = ~z~Listen, he's rough and ready and quick with his tongue...
+
+0x4C4AB72D = ~z~Nicely done, we got everything we needed.
+
+0x4C5BE5B6 = ~z~What the hell you doing on our property?
+
+0x4EA1E25D = ~z~I hope so, but, I ain't so sure about that...
+
+0x4F6C9EB3 = ~z~Pa, wake up! We're being robbed!
+
+0x4F4681DD = ~z~Yep.
+
+0x5A33A5EA = ~z~With pleasure.
+
+0x5A794D1D = ~z~Alright, can't be too careful with strangers.
+
+0x5AB716C5 = ~z~I can handle this, Arthur. Go on.
+
+0x5B88CEC2 = ~z~I suppose, but, he was claiming they really do work.
+
+0x5C6B2A3C = ~z~You're not old, Seamus.
+
+0x5F34DF71 = ~z~We just want the coach, back the hell off or we'll kill you both!
+
+0x6A666F2B = ~z~We need to get out of here.
+
+0x6B9A4E22 = ~z~Alright then...
+
+0x6DBE4D8B = ~z~
+
+0x6E344F07 = ~z~Let's wait.
+
+0x6ED199BC = ~z~
+
+0x6EFA539B = ~z~So what's the story with that Emerald Ranch? You find out anything else?
+
+0x6F40CFC6 = ~z~You're going to pay, you bastard!
+
+0x6FA1DB23 = ~z~Arthur, get over here.
+
+0x7A8F8CE7 = ~z~Seamus was telling me how he also makes these little trinkets for people from animal claws, teeth and the suchlike.
+
+0x7B1BB256 = ~z~Watch him in front of the house!
+
+0x7B9B687B = ~z~Not my boy!
+
+0x7B120E4A = ~z~And my damn son's disappearing off gallivanting again...
+
+0x7BAF9163 = ~z~See what you can find in the house and I'll deal with the stage coach.
+
+0x7BB9F54D = ~z~Was that really necessary, Arthur?
+
+0x7C0494E5 = ~z~~sl:0.0:3.8:1~Oh, he'll find something, too, he always does.
+
+0x7C7DEB9A = ~z~Okay, let's go.
+
+0x7C68EFA3 = ~z~Sneak in, then I'll get the coach.
+
+0x7C9484F0 = ~z~You bastards, you bastards! Junior, get the gun!
+
+0x7CE49126 = ~z~You heard the man...
+
+0x7D5F19D7 = ~z~That what you call finding out a little?
+
+0x7DF58418 = ~z~That's the spot.
+
+0x7ECB6DA4 = ~z~Okay...
+
+0x7F7C6248 = ~z~You done, Arthur?
+
+0x7F83DB92 = ~z~Wait until I have them distracted outside, then sneak into the house.
+
+0x8A8D12A2 = ~z~~sl:0.7~Let me go, you bastard.
+
+0x8AB1347B = ~z~Once he opens up, seems Seamus does like to talk.
+
+0x8B236F3E = ~z~And I wanted this done quiet and simple, but there we go.
+
+0x8BB382A1 = ~z~Don't you lie to me... now, where is it?
+
+0x8BDD5761 = ~z~You bastards, you bastards! Junior, get the gun!
+
+0x8C13C53C = ~z~The living room chest.
+
+0x8CA8B119 = ~z~So, here's something strange.
+
+0x8FC01061 = ~z~That's not the point. It might not have...
+
+0x9B6D30D3 = ~z~One of them spotted me, but he ain't going nowhere for a while.
+
+0x9BB3D680 = ~z~Hopefully not too much.
+
+0x9C50B629 = ~z~~sl:1.5~You picked the wrong house to rob, mark my words.
+
+0x9D9093B7 = ~z~Whatchu want?
+
+0x9DB80CAA = ~z~~sl:1.5:0.0~That's an interesting way of putting it, Seamus.
+
+0x9ED7B04D = ~z~Or...
+
+0x9FF2F2A0 = ~z~See anyone?
+
+0x10FF2DC3 = ~z~Junior, shoot them! Please, come on.
+
+0x12B8AE0A = ~z~What, are you playing? Just get on the damn coach.
+
+0x12D2BD57 = ~z~What? Like a rabbit's foot?
+
+0x14A5582C = ~z~My rates are reasonable... have a think about it.
+
+0x14F51CC9 = ~z~What things?
+
+0x14F10838 = ~z~Thank you.
+
+0x15ECAF7E = ~z~Get lost, mister.
+
+0x16B32045 = ~z~How you feeling about things now?
+
+0x16DDE314 = ~z~Hey, come on. Let's take a look first.
+
+0x17C08290 = ~z~
+
+0x17C24E15 = ~z~Arthur, for Christ's sake!
+
+0x18F6E8A0 = ~z~Prove ourselves?
+
+0x20D706C8 = ~z~No, I think we've learned our lesson there. And a few other lessons, besides.
+
+0x22C1B58A = ~z~It's in their barn.
+
+0x22F95E4D = ~z~Where is he?
+
+0x23D9BA53 = ~z~wait until morning, when I'll head over...
+
+0x24AB7849 = ~z~There's the house.
+
+0x24AE4498 = ~z~Christ, Arthur. Well too late now, let's just grab the stagecoach and go then.
+
+0x26AABFF4 = ~z~Right of the house! Look out!
+
+0x27F47B66 = ~z~Park that thing in here...
+
+0x28A894F9 = ~z~Okay. Let's grab this stagecoach and get out of here.
+
+0x29AF8CC5 = ~z~Now, you don't know me, mister, let's keep it that way.
+
+0x29F2CD6A = ~z~And twice as useful.
+
+0x34FA5FA4 = ~z~Sounds worth a look around.
+
+0x35AD145A = ~z~Okay, here we are. Just pull the coach into the barn there.
+
+0x35B83117 = ~z~Come on, let's get out of here before the law shows up!
+
+0x36B344DC = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. My dresser was robbed!
+
+0x37D55CAB = ~z~
+
+0x37DBE0B6 = ~z~It worked out, we got everything we needed.
+
+0x39A1CCE8 = ~z~You think we won't find you? I know everyone in this county!
+
+0x40D1461C = ~z~
+
+0x42F1588C = ~z~There's a couple of folks, I wish, had cut and run.
+
+0x43C287AC = ~z~Maybe they'd say the same about you.
+
+0x44CAA1EF = ~z~Well, he-he's not just an acquaintance...
+
+0x46E7E774 = ~z~You untie me right now!
+
+0x47B8824F = ~z~He does like to trot that one out.
+
+0x49D203AE = ~z~and then we can work together.
+
+0x49F666FB = ~z~
+
+0x50CC0689 = ~z~~sl:0.6~You bastard.
+
+0x50FB50D7 = ~z~Yeah... yeah, it's a... it's a little bit better!
+
+0x50FBEFDA = ~z~Lead the way. He said the place is just northwest of here.
+
+0x51CADA4B = ~z~Exactly.
+
+0x54FF506E = ~z~Think you can rob us?
+
+0x55DE1D26 = ~z~Exactly.
+
+0x56F324B8 = ~z~Or...
+
+0x57A2F3DA = ~z~~sl:0.0:2.6~I'll be around this way next week.~sl:1.4~Goodbye, gentlemen!
+
+0x59E0CC1B = ~z~but a cousin...
+
+0x59F226C2 = ~z~Like Dutch always says, a lone wolf don't last long out on the plains.
+
+0x60F2F557 = ~z~What's that noise?
+
+0x61CDFA59 = ~z~Good day, Hosea...
+
+0x61FCE313 = ~z~Probably just sweet on her.
+
+0x64BCD0A3 = ~z~Nothing? We need whatever we can get right now. Oh well.
+
+0x65A3BD2E = ~z~In the dresser.
+
+0x65A9857A = ~z~if he likes us.
+
+0x67E4DA0C = ~z~Damn it, they must had spotted us riding out.
+
+0x67E7AE37 = ~z~Get on, dear boy.
+
+0x67FBC1DB = ~z~~sl:0.0:0.8~Free!~sl:1.0:1.0~Spinal...~sl:0.5:~... alignment.
+
+0x68EB8DDA = ~z~Arthur.
+
+0x70D2BD73 = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. My chest was robbed!
+
+0x72A5BE43 = ~z~Let's just get back to Emerald Ranch and finish things up.
+
+0x76AF603C = ~z~People see that, especially when they get a few years on them.
+
+0x78A24F1B = ~z~Keep going Arthur, let's get out of here!
+
+0x81C599F0 = ~z~By marriage.
+
+0x81F6B9AF = ~z~What the hell's the matter with you? I said I'd take care of the coach.
+
+0x83A1F0A6 = ~z~The old Arthur Morgan charm, I think that should keep him quiet...
+
+0x84BBB84C = ~z~
+
+0x84C012D8 = ~z~Damn it, Arthur, you should have been more careful.
+
+0x86CBB298 = ~z~Sneak around the back and see what you can find in the house while I distract them.
+
+0x86D0BC85 = ~z~Is that better? Just a bit?
+
+0x87D826F5 = ~z~But, you're fine with us robbing your cousin?
+
+0x89A0EAB6 = ~z~Junior, shoot them! Please, come on.
+
+0x90E6A9FA = ~z~~sl:0.0:3.6:1~Women adore me. I got the magic.
+
+0x90FA9202 = ~z~I tell you what...
+
+0x91C1563D = ~z~Nope. Okay... I reckon we could do it now.
+
+0x94E0714B = ~z~Junior! We're being tricked... shoot this bastard!
+
+0x96A9C9D2 = ~z~
+
+0x96EE6741 = ~z~Shh, shh, shh..
+
+0x96F0E808 = ~z~Liking ain't the problem...
+
+0x97CF9497 = ~z~~sl:1.0~You made a big mistake.
+
+0x97E77DB4 = ~z~Clearly you've recovered from your bear encounter.
+
+0x98DA9D30 = ~z~I'll head over, distract 'em by putting on a little show while you sneak into the house, find what you can...
+
+0x129DBCA8 = ~z~Huh? Who the hell is that?
+
+0x132D4F46 = ~z~Look at me, why would I lie about this?
+
+0x133F7F13 = ~z~
+
+0x141D0F7E = ~z~Arthur? Let's go.
+
+0x142CC46D = ~z~We got shots coming from inside!
+
+0x165B4218 = ~z~Come here, what is with you today?
+
+0x183CF885 = ~z~Behind the house! You see him?
+
+0x183D29FF = ~z~Respects them as has it, but I got something better. Way better than church.
+
+0x279C44E0 = ~z~A little. Owner's a nasty type, by all accounts. Seamus is sure scared of him.
+
+0x298F441D = ~z~We could have done this without killing anyone.
+
+0x346AD8DC = ~z~Now you go get that...
+
+0x364D84C6 = ~z~Who are you? What you want?
+
+0x413AD058 = ~z~That's what you call it.
+
+0x417F0EF7 = ~z~Maybe take a peek through the windows before you go in, make sure it's all quiet.
+
+0x443EFB5C = ~z~This place, the gang... been here a few weeks now.
+
+0x444D7A7F = ~z~Sure.
+
+0x447C860E = ~z~Yes, but... you know how this works.
+
+0x448A1357 = ~z~Too late now.
+
+0x452A044E = ~z~Nicely done, we got everything we needed.
+
+0x471C1666 = ~z~Look at me now... I dance every night.
+
+0x481EA868 = ~z~Just passing through, that's it.
+
+0x503FF80A = ~z~There's one coming out the front door!
+
+0x533BE291 = ~z~Shh, shh, shh, shh, shh, shh...
+
+0x541E1540 = ~z~How was it?
+
+0x562BD7D4 = ~z~It was mostly Arthur.
+
+0x568BA5C1 = ~z~Feels like we're starting to get back on our feet, slowly but surely. Just need to keep at it.
+
+0x583FE735 = ~z~Look at us, honest as the day is long.
+
+0x606CB39B = ~z~I figured more folks would have cut and run on us, given everything that happened.
+
+0x682B68B0 = ~z~by marriage.
+
+0x704D6AA4 = ~z~Arthur... I wanted this clean and simple.
+
+0x722B39D9 = ~z~Oh shit!
+
+0x729A18A5 = ~z~Junior we're being robbed, shoot this bastard!
+
+0x730D94F0 = ~z~~sl:0.0:1.6:1~Don't let those troubles kill ya!
+
+0x741A8DF0 = ~z~If you come after us, you're dead!
+
+0x751A1918 = ~z~
+
+0x752D2A01 = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. Your dresser was robbed!
+
+0x755B5419 = ~z~Come on, let's get going.
+
+0x756A5DB2 = ~z~Even someone like Micah.
+
+0x766DD41E = ~z~It'll be fun, I promise.
+
+0x807C3D11 = ~z~
+
+0x827AB3F4 = ~z~That was really strange, Pa.
+
+0x828F6A0F = ~z~~sl:0.5~Come here.
+
+0x831B779C = ~z~I'm an old man.
+
+0x893F4CA5 = ~z~trusting is, as I said.
+
+0x943FFC15 = ~z~No, not the front, go around the back.
+
+0x955FEF1A = ~z~Hey, wait for me to get on!
+
+0x1043C7B7 = ~z~Hey! What are you doing? Keep it down.
+
+0x2601A379 = ~z~You bastards, you bastards! Junior, get the gun!
+
+0x2645E246 = ~z~Yep. Covered my tracks so well they won't ever know I was in there.
+
+0x2807CD25 = ~z~And that's why he's perfect. He won't cause us any problems.
+
+0x2851A994 = ~z~Damn it, Arthur, why did you start that?
+
+0x3207D6EE = ~z~Good, I think. Better.
+
+0x3686DEF2 = ~z~I can fix that for you. Just ten or, fifteen sessions.
+
+0x3893C436 = ~z~Shh, shh, shh, shh, shh, shh...
+
+0x5735AB80 = ~z~C'mon, Hosea. That feller's a joke.
+
+0x5760D6B2 = ~z~And I'm pretty sure they never even knew I was there.
+
+0x6166F1A3 = ~z~Well, that explains everything... that explains it! Uh, give me a minute, sir!
+
+0x6222C41F = ~z~What the hell is going on out here!
+
+0x6264F3AA = ~z~~sl:1.8:0.0~This session has been free but perhaps, I might call again?
+
+0x6709F483 = ~z~You're dead!
+
+0x7366B4B3 = ~z~You're the one who's been out gallivanting around here.
+
+0x7550CF92 = ~z~~sl:0.5~ I'll crack your head open.
+
+0x7883CC8F = ~z~Where are you going? I need to get on!
+
+0x8207F113 = ~z~Hello, Seamus... we met your cousins.
+
+0x8459FA36 = ~z~Let me head up there and make a fool of myself.
+
+0x8974ACED = ~z~I guess we're just going straight at it then!
+
+0x9262DF85 = ~z~Arthur, what are you doing over there?
+
+0x9320C31D = ~z~I'm always well, Miss Grimshaw.
+
+0x9352F476 = ~z~No, I'll catch up with you later.
+
+0x9801C96F = ~z~~sl:0.0:3.4~My good man... my good young man.~sl:0.8~Fair thee well! Fair thee well.
+
+0x13401F2B = ~z~~sl:1.1~“It wasn't the first time Mr. Matthews had stared death in the eye, and as usual he did not flinch”.
+
+0x19750BDB = ~z~Just wanted to get this done with.
+
+0x23271FF3 = ~z~You're making a big mistake!
+
+0x31267AA7 = ~z~He's in a farmhouse just northwest of here, called Carmody Dell.
+
+0x44921D4A = ~z~It's just up the train tracks...
+
+0x49311E2A = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. Our chest was robbed!
+
+0x53277B20 = ~z~I think we should be okay now, we're far enough away.
+
+0x54835FC4 = ~z~What you talking about?
+
+0x64231BB1 = ~z~lay down here a little. It won't take long.
+
+0x69676A7F = ~z~Don't they all...
+
+0x75545B8A = ~z~We'd have dealt with them too.
+
+0x81177AD8 = ~z~I hope it's not stashed in town like we did in Blackwater...
+
+0x88414AC1 = ~z~I ain't no such thing.
+
+0x93142DC8 = ~z~Hey, get off of there and go see what you can find in the house.
+
+0x253847FA = ~z~~sl:0.6~You won't get away with this.
+
+0x261017C7 = ~z~Let's scope it out. What are you doing?
+
+0x270884A1 = ~z~Left side of the house!
+
+0x538366AE = ~z~Ah, my goddamn back.
+
+0x576425B6 = ~z~Sure.
+
+0x667439EC = ~z~Fine... nice people.
+
+0x698309B5 = ~z~It's in my chest.
+
+0x702534FC = ~z~What's the problem here? Just leave me to it and get inside that house.
+
+0x765826D7 = ~z~Prospective new partner...
+
+0x820374E8 = ~z~Alright, fine, it's done now. Let's just get back to Emerald Ranch and turn this in.
+
+0x846144C5 = ~z~
+
+0x871106CF = ~z~This was easier than hunting a thousand-pound grizzly anyway.
+
+0x911114C0 = ~z~I'll go find this wagon.
+
+0x940683DA = ~z~Ah, my goddamn back.
+
+0x2225314F = ~z~Park that thing in here... quickly.
+
+0x2520933A = ~z~You're a goddamn dead man!
+
+0x4469017C = ~z~Dutch has a new money chest stashed in a safe spot away from camp, but it's a long way from being full.
+
+0x6487034D = ~z~This is Seamus...
+
+0x6487748B = ~z~Like I said, coarse, but competent.
+
+0x6649264E = ~z~In my son's cabinet.
+
+0x6935493C = ~z~wait until nightfall.
+
+0x9577652D = ~z~he's our new partner.
+
+0x10801107 = ~z~just bought a beautiful stolen stage coach from upstate.
+
+0x11741890 = ~z~That's not saying much.
+
+0x15065467 = ~z~Now where's the money?
+
+0x23899507 = ~z~~sl:0.0:3.1:1~I'm not selling, sir, I'm giving it away!
+
+0x33460454 = ~z~You got the goddamn audacity to come back here after what you did?
+
+0x36730540 = ~z~So you want us to take out your competition?
+
+0x45233237 = ~z~Best way, less problems the better right now.
+
+0x45843174 = ~z~Fine, forget the house then. Let's just take the coach and get out of here.
+
+0x48458779 = ~z~Let's do it now.
+
+0x61390219 = ~z~Junior, shoot them! Please, come on.
+
+0x68947919 = ~z~Will you get your binoculars out so we can scan this place together? We don't want any surprises.
+
+0x75918268 = ~z~and they'll know it was me.
+
+0x83835471 = ~z~Nicely done, we got everything we needed.
+
+0x86035524 = ~z~Hey, let's keep it down now. We must be close.
+
+0x90279528 = ~z~You have to stop him! Use your talents, Arthur!
+
+0x91475948 = ~z~Let's get the stagecoach, we need to leave now.
+
+0x94315761 = ~z~Yeah, I don't know who's more of a fool... me or him.
+
+0x98580526 = ~z~Damn it, Arthur, you should have been more careful.
+
+0x98692205 = ~z~Well, I guess he can't tell the law now.
+
+0xA044DD86 = ~z~This is your last warning!
+
+0xA0766094 = ~z~So what were you able to lift from the house?
+
+0xA1DD6975 = ~z~You hear me?
+
+0xA2A14D6F = ~z~~sl:0.0:7.0:1~Seriously, it's all about the spine. We think our brains is in our heads, but they are in our backs too. Ooh...
+
+0xA2CD747E = ~z~
+
+0xA2F4DE42 = ~z~An acquaintance of mine.
+
+0xA3BA3AC3 = ~z~Pa where the hell are you? They're getting away!
+
+0xA3C11578 = ~z~Do you think I'm a nut, Bob Crawford the Third?
+
+0xA3FC082F = ~z~Goddamn it, Arthur. Stop making such a racket.
+
+0xA5D42775 = ~z~Junior, shoot them! Please, come on.
+
+0xA9A13EBD = ~z~then get the stage coach.
+
+0xA10D4FF2 = ~z~They both spotted me, but I made sure they ain't going nowhere for a while.
+
+0xA10D5B76 = ~z~Well, they all say that...
+
+0xA28C5C5D = ~z~By marriage...
+
+0xA43B8D56 = ~z~Something strange about the place.
+
+0xA44D6637 = ~z~Pa, pa... pa, there's a problem. Pa, there's a problem. Your chest was robbed!
+
+0xA54C988B = ~z~~sl:0.0:5.0~I once performed on Broadway... now that's not important or relevant,~sl:~I have been saved! I've been found!
+
+0xA115F4D2 = ~z~Sneak in, I'll get the coach, you can try the house.
+
+0xA222B5C3 = ~z~I reckon we're ready.
+
+0xA412F01D = ~z~Nicely done, we got everything we needed.
+
+0xA836C1A0 = ~z~Okay, let's get going.
+
+0xA3323D75 = ~z~Just get on the coach and let's go.
+
+0xA7602D41 = ~z~You've got binoculars, don't you?
+
+0xA7887E0F = ~z~How's your back feel?
+
+0xA7898F39 = ~z~Okay, let's take a quick look at the place...
+
+0xA74667E8 = ~z~I know how to work with good people, Seamus, and I work in the right way.
+
+0xA220344D = ~z~Arthur!
+
+0xA591301A = ~z~~sl:0.5~You wanna come at me, on my land?
+
+0xA9904485 = ~z~good luck with your business dealings.
+
+0xAA4ABFCF = ~z~No...
+
+0xAA478389 = ~z~Worse, I think.
+
+0xAB3ED3ED = ~z~Thought you wanted me here to show some strong arm? That's usually how it goes.
+
+0xAB6BA23C = ~z~Pa! There's someone in the house!
+
+0xAB1741A9 = ~z~Anyone around?
+
+0xAC594B50 = ~z~You go into the house...
+
+0xACA6D346 = ~z~Dammit, Arthur. Okay, well, let's just get back to Emerald Ranch and finish things up.
+
+0xAD5671F1 = ~z~and yes, I'd love it.
+
+0xAD74910F = ~z~Really?
+
+0xADAE6723 = ~z~Ah, my goddamn back.
+
+0xAE32F941 = ~z~Okay.
+
+0xAE704DC1 = ~z~what if there were more people around we didn't know about?
+
+0xAEF02F43 = ~z~Faster, Arthur! Come on!
+
+0xB01B51B4 = ~z~Alright.
+
+0xB0590C25 = ~z~We met your cousins.
+
+0xB0B56B60 = ~z~See what you can find in the house while I distract them out front.
+
+0xB2B643C4 = ~z~But discreet, you know?
+
+0xB4B8A565 = ~z~Arthur, what are you waiting for? It's now or never. Get after him!
+
+0xB5D7E29C = ~z~What do you think?
+
+0xB18F9F21 = ~z~Hello.
+
+0xB54B72C3 = ~z~~sl:4.9:0.0~I was worse than you, sir. I was broken...
+
+0xB66F14D5 = ~z~Just waiting on you Arthur.
+
+0xB46658D9 = ~z~Old Bob Crawford and his boys...
+
+0xB818098B = ~z~I never met an idiot that called himself one.
+
+0xB1868459 = ~z~
+
+0xBA1A7E3D = ~z~Okay, probably best we don't relay that news to Seamus.
+
+0xBA95FF1D = ~z~I guess we're just going straight at it then!
+
+0xBAC3877F = ~z~Sure.
+
+0xBB5D9026 = ~z~Sure is.
+
+0xBCD4E524 = ~z~Yes. Okay... I reckon we can do it now...
+
+0xBE1799CF = ~z~Junior, shoot them! Please, come on.
+
+0xBEEE1B41 = ~z~~sl:0.0:1.8~Let me take care of getting this coach ready.~sl:0.2~You go see what you can find inside and get back here.
+
+0xBFD6C05B = ~z~What can I say? You ain't lost it yet.
+
+0xC01F7221 = ~z~You sir, y-your back looks kind of tricky and complicated.
+
+0xC04A1D6F = ~z~Yes, Miss Grimshaw?
+
+0xC0503754 = ~z~let us prove ourselves.
+
+0xC0B5CED9 = ~z~And I'm pretty sure they never even knew I was there.
+
+0xC0FBFF67 = ~z~Could have played that better, couldn't you?
+
+0xC1BDAEEE = ~z~How was it?
+
+0xC1C6A068 = ~z~Well, you be well now, Mr. Morgan.
+
+0xC3F20E0D = ~z~A few bits and pieces, nothing too fancy.
+
+0xC4ABD461 = ~z~Damn it, he's going for the law. Do something!
+
+0xC5AD7CD8 = ~z~Let's do it now.
+
+0xC7FA85A2 = ~z~how he used to see her around all the time but now she never leaves the house.
+
+0xC8AC28A0 = ~z~but that's your business, not mine...
+
+0xC9B48371 = ~z~Who's old Bob Crawford?
+
+0xC9D4F1EF = ~z~Crack that whip, come on. We need to get moving!
+
+0xC67DFB78 = ~z~Come on, get on and let's head back.
+
+0xC82AD0F7 = ~z~Er, I didn't actually make it inside, I was too busy watching your show.
+
+0xC430E6B9 = ~z~Of course.
+
+0xC828D16A = ~z~Help me out here, Arthur!
+
+0xC831DE55 = ~z~~sl:0.0:1.1~The... oh?~sl:0.5~Pleasure to meet you. Both of yous, uh...
+
+0xC3175AA4 = ~z~Yeah, sorry, I must have left a dresser open.
+
+0xC4085D9E = ~z~Goddamn it!
+
+0xC6218EDB = ~z~Just play it cool, he might not know the situation here.
+
+0xC9424A0F = ~z~I'm heading back to camp, I think. You coming?
+
+0xC74096B1 = ~z~Oh, I... I know it is...
+
+0xC241604F = ~z~You bastards, you bastards! Junior, get the gun!
+
+0xC7552661 = ~z~Oh ye of little faith.
+
+0xC8530952 = ~z~Exactly. So how long you think we're gonna stick around here for?
+
+0xCA1CE20D = ~z~Okay, stay out of trouble.
+
+0xCAC2CC29 = ~z~You get the hell off my property, you thieving son of a bitch!
+
+0xCD427012 = ~z~Jesus!
+
+0xCE33DBDF = ~z~There's a couple folks, I wish, had cut and run.
+
+0xCE86D3C1 = ~z~I tell you what...
+
+0xCE308EFE = ~z~then get the stagecoach.
+
+0xCEF88FD7 = ~z~The Lord God Almighty, or who, whomever built us, put our brains in here but our souls is in our backs.
+
+0xCF913DD0 = ~z~I wanted this clean and simple. Okay, probably best we don't relay that news to Seamus.
+
+0xCF861089 = ~z~What do you think?
+
+0xCFF36D54 = ~z~Best way, less problems the better right now.
+
+0xD0037E7E = ~z~You bastards are dead men!
+
+0xD1F56498 = ~z~What? I was supposed to be distracting them, not you!
+
+0xD2BC9A6A = ~z~because it's me they'll shoot first.
+
+0xD3EE7916 = ~z~Please...
+
+0xD4BDC656 = ~z~He's looking at a few business things there.
+
+0xD5A39CAF = ~z~We're not idiots...
+
+0xD6E2BFB4 = ~z~Keep driving, I'll hold them off!
+
+0xD6F52C02 = ~z~There's something strange about the place.
+
+0xD8ECE961 = ~z~You trying to get us caught?
+
+0xD9C798A7 = ~z~Get on, Arthur. We don't have time to mess around here.
+
+0xD9EF6D48 = ~z~Damn it, they're onto us!
+
+0xD15B8DF0 = ~z~Tell me or I'll kill you.
+
+0xD19EBCA8 = ~z~Is your father home, son?
+
+0xD23EB254 = ~z~Nicely done, we got everything we needed.
+
+0xD34C541A = ~z~What are you doing?
+
+0xD58E7912 = ~z~I ain't interested in no religious talk.
+
+0xD69FA87C = ~z~Er, I didn't actually make it inside in the end, was too busy watching your show.
+
+0xD436C60D = ~z~Ah, my goddamn back.
+
+0xD929B880 = ~z~Well we need anything we can get right now.
+
+0xD986BB3D = ~z~Gimme a minute, sir... you'll have women again.
+
+0xD7257C3C = ~z~Oh,no I-I-I saw it in your eyes. You think I'm a nut!
+
+0xD837872A = ~z~One of them's coming out the back!
+
+0xD1020552 = ~z~Okay. Let's grab this stagecoach and get out of here.
+
+0xD9852244 = ~z~Don't follow me, go around to the side of the house so no one sees you.
+
+0xDA900311 = ~z~~sl:0.0:2.8~My name... my name is...~sl:0.5~now don't... tell no one because in New York, I'm kind of famous.
+
+0xDBEDCF23 = ~z~but don't kill nobody.
+
+0xDC1964B2 = ~z~What are you doing? Get off, come on.
+
+0xDCB12B48 = ~z~Spinal... alignment!
+
+0xDD4887FE = ~z~Just need to get this back to Seamus in one piece and it's a good day's work.
+
+0xDDFFD01F = ~z~Let's see what we're dealing with, come on.
+
+0xDE016984 = ~z~What the hell?
+
+0xDE3BB22F = ~z~Well, I ain't doing this until you get away from me.
+
+0xDE32E6AD = ~z~~sl:0.0:1.8~Now somehow I don't believe you.~sl:1.3~Where is it?
+
+0xDE942FC5 = ~z~Sure.
+
+0xDE52859F = ~z~Pa! No!
+
+0xDEE7DD40 = ~z~I told you to stay hidden, Arthur.
+
+0xDEF06CD4 = ~z~I see the barn in the back, stagecoach has to be in there.
+
+0xDF1EE9B0 = ~z~Hello, Seamus.
+
+0xDF482958 = ~z~~sl:1.4~W-what the hell is going on?
+
+0xE0744705 = ~z~Get your damn hands off my boy!
+
+0xE0EBAD10 = ~z~Now, just stay quiet and you'll get to see morning, okay?
+
+0xE1B0B413 = ~z~Found some money stashed away. Must be a few hundred. Not too bad.
+
+0xE2C2C92B = ~z~Get him down here, please, get him down here.
+
+0xE3F8646E = ~z~In the chimney.
+
+0xE5FF7A22 = ~z~You ain't leaving alive this time!
+
+0xE6F3D60F = ~z~Women and song and dancing... and dancing, do you like dancing?
+
+0xE7E1BF9C = ~z~Get over here before someone spots you.
+
+0xE37CB876 = ~z~Yes.
+
+0xE58BE25F = ~z~Folks know we ain't intimate no more...
+
+0xE62D1D93 = ~z~Oh no doubt, I do interesting very well. It's trusting I don't do so well.
+
+0xE79D85EE = ~z~Course.
+
+0xE922C3C2 = ~z~let's get on with this, Mr. Morgan.
+
+0xE2954F36 = ~z~Nicely done, we got everything we needed.
+
+0xE3789A66 = ~z~Gin! They drink gin.
+
+0xE1976009 = ~z~Mr. Morgan.
+
+0xE4313777 = ~z~Pleasure to meet you, I was just chatting with junior here a bit.
+
+0xEB3A76D8 = ~z~What took you so long? I've been waiting here for ages.
+
+0xEB73C8CD = ~z~What?
+
+0xEBBD5FAA = ~z~I can tell you're a very wise man, but the troubles, they're killing you...
+
+0xEC3DB28D = ~z~Hey! Don't you touch my Pa!
+
+0xEC165543 = ~z~Come on, it's not like he's asking us to rob a bank.
+
+0xED66ED70 = ~z~Stop, damn it! This isn't funny now!
+
+0xEDCFF904 = ~z~Sure.
+
+0xEFFF3E55 = ~z~If you find any other coaches that need selling...
+
+0xF06858F8 = ~z~Under my bed.
+
+0xF0D103AA = ~z~Damn it, Arthur, you should have been more careful.
+
+0xF0F3D0FC = ~z~You selling something, partner?
+
+0xF1E6FA35 = ~z~let's go rob his cousin.
+
+0xF3A4D9E6 = ~z~distract them by putting on a little show...
+
+0xF3E3B04F = ~z~Very true... in that case, I'm an idiot...
+
+0xF7FA1D75 = ~z~Hey!
+
+0xF9BA9EF3 = ~z~quickly.
+
+0xF9FCB914 = ~z~Even if we had to dump the money from the ferry, we could've at least got the rest out if it was hidden someplace else.
+
+0xF35BF48E = ~z~Dammit, Arthur. Okay, well, let's just get back to Emerald Ranch and finish things up.
+
+0xF36CD212 = ~z~Only my Pa knows, I swear.
+
+0xF62B3FCB = ~z~But the English stand tall, sir...
+
+0xF81D0895 = ~z~I also want to see if you boys got what it takes.
+
+0xF86EE37A = ~z~while you sneak into the house, find what you can, and...
+
+0xF89A66E1 = ~z~Seamus also mentioned the rancher's daughter a couple of times,
+
+0xF96D5131 = ~z~I'll see what I can offer you for them.
+
+0xF1438CE2 = ~z~
+
+0xF72341BB = ~z~You ever meet a Scot who didn't hobble in old age?
+
+0xF88406C3 = ~z~You done, Arthur?
+
+0xF547633A = ~z~~sl:0.6~No doubt. I won't forget that in a hurry.
+
+0xF722779B = ~z~Yeah, sorry, I must have left a chest open.
+
+0xF5966204 = ~z~What are you making a noise for?
+
+0xF6249894 = ~z~Leave your horse near these trees over here.
+
+0xF7044171 = ~z~Hence your hobbling Jock. Please...
+
+0xFA08E5F7 = ~z~Whiskey? It's whiskey is, is causing the problems!
+
+0xFABBFA55 = ~z~
+
+0xFBA7AE02 = ~z~This is a side line.
+
+0xFBF7E8A1 = ~z~Not bad at all.
+
+0xFC4DF3D8 = ~z~You done? Anything good in there?
+
+0xFC6CA0CB = ~z~Just need to get this back to Seamus in one piece and it's a good night's work.
+
+0xFD0C91CB = ~z~Good luck charms.
+
+0xFD0D710A = ~z~don't follow me.
+
+0xFDA63505 = ~z~Go on, damn it. Before you get spotted.
+
+0xFDCC78AF = ~z~If the two of us can't steal a stagecoach from Seamus' old crooked cousin by marriage, we should hang up our hats now.
+
+0xFDD405EC = ~z~Guess I should've tried leaving the back way.
+
+0xFEF8EF6E = ~z~Okay...
+
+0xFF3DEE8B = ~z~let us prove it to you.
+
+0xFF5B825C = ~z~I was lost! For many years, I was lost. Many years. Now I'm not.
+
+0xFFE5C0A0 = ~z~Ah, my goddamn back.
+

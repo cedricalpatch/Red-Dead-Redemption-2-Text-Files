@@ -1,0 +1,16 @@
+0x7F6418BF = ~z~I kept waiting for... for them to jump us, and then they left and we assumed we'd meet you on the trail back.
+
+0x8D063403 = ~z~You never showed up...
+
+0x9AD64FA3 = ~z~No... I was getting special guest treatment from Colm O'Driscoll.
+
+0x34080208 = ~z~One time I-I try to... be wise and careful and make a damn fool of myself. That'll teach me...
+
+0xA66466BF = ~z~So I heard... I'm sorry.
+
+0xB47982E9 = ~z~Listen, Morgan... I'm sorry... I'm sorry. I-I thought they would shoot me, not you.
+
+0xE1FFDDF5 = ~z~What happened?
+
+0xF1F97DE8 = ~z~The whole thing was odd...
+

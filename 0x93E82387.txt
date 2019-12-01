@@ -1,0 +1,22 @@
+0x03F37D29 = ~z~Folk near Saint Denis tell stories of a panther, that roams the swamps out there.
+
+0x3E1480EA = ~z~Been doing some hunting, I see? Rare game's more my thing these days.
+
+0x5C61BD84 = ~z~Any fool can take down a deer or a rabbit. Even a bear.
+
+0x75B8D500 = ~z~Fine, I won't tell you then. Mistook you for a hunter for a second.
+
+0x76EC3787 = ~z~Never been caught and I figure, if anyone's gonna do it, it's gonna be me.
+
+0xAC71DDE3 = ~z~I once killed thirty bears in one year... and buffalo? I can't even count that high.
+
+0xC830DA03 = ~z~And a pelt like that... could keep a feller warm in whiskey for months.
+
+0xCDB6C279 = ~z~Yep, God's honest truth.
+
+0xE337E8E9 = ~z~But, that's a story for another day...
+
+0xEDAA5097 = ~z~Fast, ferocious, real elusive... bit of a legend in those parts.
+
+0xF74C610F = ~z~I'm just telling it how it is, partner.
+

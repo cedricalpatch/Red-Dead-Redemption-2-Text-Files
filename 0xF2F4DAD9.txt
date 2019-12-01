@@ -1,0 +1,18 @@
+0x0051A6B8 = ~z~~sl:0.0:1.8~They ain't here.~sl:5.2:2.4:1~Sing us a song. Somebody...
+
+0x0D2C406D = ~z~~sl:0.0:2.7~We're alive... for now.~sl:0.6:~Yeah, I know, death, despair, disaster, they're all around us, but...~sl:4.6~you know... who cares?
+
+0x63F5EE17 = ~z~~sl:0.0:2.3~I can't take much more of this misery.~sl:2.3:1.6:1~Somebody sing!
+
+0x75749100 = ~z~~sl:0.0:3.0~Come on you misery guts... all of you...~sl:0.3~what's wrong with you? Cheer up...
+
+0xBCE39FDD = ~z~~sl:1.3:0.0~Then cheer up. It's a beautiful night. We're sat by a fire.
+
+0xCB653CE0 = ~z~~sl:0.0:1.8~Nothing, I'm...~sl:0.9:0.9~Well I mean...~sl:0.8:0.6~well, uh...~sl:1.8~nothing.
+
+0xD81A564A = ~z~~sl:0.0:2.2:1~Bill "Rotten" Williamson... what is wrong with you?
+
+0xE738F487 = ~z~We ain't dead... yet. Cheer up.
+
+0xF27E8B12 = ~z~~sl:0.0:2.6~Somebody sing us a song.~sl:1.4:1.3:1~Please...
+

@@ -1,0 +1,48 @@
+0x1A3F5E63 = ~z~Depends.
+
+0x5F10CC1D = ~z~The outlaws trinity.
+
+0x6E4F869A = ~z~Do you?
+
+0x7F880D1F = ~z~And in this game...
+
+0x8E97AB3E = ~z~west of the Lannahechee river.
+
+0x9C2EC66C = ~z~I've been running from every lawman and bounty hunter...
+
+0x29B5FD50 = ~z~Lenny.
+
+0x54B0B771 = ~z~But I'm also skilled.
+
+0x75A11505 = ~z~and for the last three years...
+
+0x239B540B = ~z~Come on...
+
+0x712DF06B = ~z~you got to have luck and skill.
+
+0x5783BBDF = ~z~Luck, skill and just a dose of stupidity.
+
+0x917930ED = ~z~And stupidity.
+
+0x6325545A = ~z~That is one way of seeing things.
+
+0xA9FB6205 = ~z~I'm the living embodiment of luck.
+
+0xB7EF99C5 = ~z~Hey, Arthur.
+
+0xBA498285 = ~z~So yeah, I feel lucky.
+
+0xC3CEB183 = ~z~Oh, before me...
+
+0xD117CC15 = ~z~at least six generations were born in chains...
+
+0xDCC64666 = ~z~you ain't too old and too slow just yet.
+
+0xDF7C68DE = ~z~Why, you feel lucky?
+
+0xEB18E30B = ~z~After you.
+
+0xED0603F1 = ~z~That knife's sharp enough, ain't it?
+
+0xFE3A094D = ~z~As you wish.
+

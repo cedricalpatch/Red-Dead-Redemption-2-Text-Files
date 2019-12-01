@@ -1,0 +1,670 @@
+0x00AC195C = ~z~Nobody takes a boy to harm him.
+
+0x00F8B237 = ~z~The mess with those two families... losing Sean... I see things differently now.
+
+0x01671467 = ~z~~sl:0.0:3.7~It's Dutch playing his games. Hosea too.~sl:0.8:2.4~Getting involved with those two families.~sl:0.8~The master con men, working their magic...
+
+0x01F4B901 = ~z~I still hear voices in there, Arthur.
+
+0x031D8FB1 = ~z~I think we're clear.
+
+0x03A11AF8 = ~z~I know a big old house...
+
+0x03DE5D22 = ~z~No point dragging this out.
+
+0x0401215E = ~z~And to what do we owe the pleasure...
+
+0x0419C6D0 = ~z~all of you.
+
+0x04AB9B75 = ~z~You and Arthur ride out...
+
+0x0701AFE9 = ~z~You fools should have left when you had the chance.
+
+0x071C4381 = ~z~Of course. ~rp~And what about the Pinkertons?
+
+0x073A2FA1 = ~z~~sl:0.0:2.8~Here, give me a hand moving these bodies.~sl:0.3~Don't want the others walking into this.
+
+0x074297D5 = ~z~we stirred up all that trouble...
+
+0x077F9A04 = ~z~If I don't get the boy back safe...
+
+0x07E8CAD6 = ~z~to act like human dignity...
+
+0x081FBBB1 = ~z~~sl:0.0:5.9~Come on,~rp~ it ain't all bad.~rp~ We've had a rocky run, but we'll be okay.~sl:~~rp~We'll get through it.
+
+0x08F436E1 = ~z~I'm afraid I can't...
+
+0x090CEC46 = ~z~But one day we need to start learning from our mistakes.
+
+0x0A0486A8 = ~z~Four walls and a roof,~rp~ we're moving up in the world.
+
+0x0A078335 = ~z~~sl:0.0:3.4~I got far more important things to worry about right now~sl:~than Molly O'Shea.
+
+0x0B71BC8E = ~z~What are you doing, Arthur? You and John need to get going. We have to move.
+
+0x0B115123 = ~z~It's man so in love with greed...
+
+0x0BCB292F = ~z~They thought there was a lot of gold in...
+
+0x0C5F4CCB = ~z~In any case, ~rp~we have more pressing matters to attend to first.
+
+0x0DDF06F1 = ~z~Finally some confederate gold.
+
+0x0F2DD373 = ~z~What's going on? You sure you checked all the rooms?
+
+0x1BC1E649 = ~z~That poor kid. We chose this life, he didn't.
+
+0x1BC874F5 = ~z~In that case...
+
+0x1C456FAB = ~z~Arthur...
+
+0x1CDEF5FE = ~z~You come with me...
+
+0x1CEB6548 = ~z~We can't change what's done, we can only move on.
+
+0x1CF59711 = ~z~I can see that!
+
+0x1D37AD99 = ~z~You having trouble saying goodbye to your friend there?
+
+0x1E80C21C = ~z~Everything alright up there?
+
+0x1FBB4DC2 = ~z~Probably moved on to one of their other hideouts, what's left of them. ~rp~It's where we got that dynamite for the bank job.
+
+0x2C2DCC27 = ~z~I'll find you in there...
+
+0x2CA9D919 = ~z~Lady get in here and fight...
+
+0x2DE32A4E = ~z~would you two kindly...
+
+0x2E9C0BFD = ~z~I don't know,~rp~ I think this life chose us.
+
+0x2EFB02F2 = ~z~Run!
+
+0x3AABC3E7 = ~z~Ignore the corpses and the alligators
+
+0x3AD49DB2 = ~z~Just~rp~ don't get too far into your head with all this, or you'll never get out.
+
+0x3B23A68C = ~z~~sl:0.0:2.7:~I think we need to move a little further.~sl:0.2~~rp~Put some ocean between us and all this.
+
+0x3BAF8F62 = ~z~She'll kill us all.
+
+0x3BFA0DB7 = ~z~good day, sir.
+
+0x3C090342 = ~z~it's gonna work out, listen to Dutch.
+
+0x3E3663C2 = ~z~~sl:0.0:2.9~For a long time, ~rp~I truly believed~sl:0.0:3.3~a paradise lay somewhere in the west for us...~sl:0.6~~rp~but I just... don't know any more.
+
+0x4AF3D487 = ~z~I have an appointment to keep with...
+
+0x4C13C030 = ~z~Now you can't put all this on Dutch.~rp~ You're worked up and rightly so.
+
+0x4C483D8C = ~z~Run away from this place, you fools.
+
+0x4D74B2EC = ~z~I know, but...
+
+0x4D775570 = ~z~I think I hear something, you should get in there.
+
+0x4E09EA68 = ~z~Alright, should be just down this path.
+
+0x4ED14C67 = ~z~Sure has,~rp~ a lot's changed.
+
+0x4FEEEE6D = ~z~it's paradise...
+
+0x5B699048 = ~z~I thought we was in a hurry?
+
+0x5C72116D = ~z~This is crazy.
+
+0x5D1A7538 = ~z~only to allow the likes of you...
+
+0x5D69AD2E = ~z~I got far more important things to worry about right now than Molly O'Shea.
+
+0x5DBBAF42 = ~z~Exactly.
+
+0x5E2BABC3 = ~z~I mean,~rp~ how many people we killed the past few weeks?
+
+0x5F82E64C = ~z~Jesus.
+
+0x5F94CA59 = ~z~but I have never been more proud of you...
+
+0x5FA34F76 = ~z~Come on now, girly. Fight me like a goddamn man.
+
+0x5FDE8E4C = ~z~to my humble abode.
+
+0x6A4D4314 = ~z~Come and fight me then.
+
+0x6B506840 = ~z~Oh, Dutch'll fix it. Dutch will come up with a plan.
+
+0x6D4AE1B8 = ~z~I got one who was trying to escape.
+
+0x6E1A2AC3 = ~z~We got fine living.
+
+0x6E3F7241 = ~z~Huh...
+
+0x6E48E7C1 = ~z~It's gonna work out, John...
+
+0x6E8329F8 = ~z~Alright, see you soon... I hope.
+
+0x6E9040B5 = ~z~~sl:0.0:3.4~I need you to start asking around in the city for Bronte,~sl:0.1~~rp~subtly of course... public places, ~rp~maybe start with the saloon.
+
+0x6EABB5E0 = ~z~Come on, John.
+
+0x6F769D8C = ~z~to join you.
+
+0x6FA578A1 = ~z~Detective Agency.
+
+0x6FE59D2E = ~z~You came for me?
+
+0x7DF20D83 = ~z~~sl:0.0:4.6~Right now,~rp~ every plan gets us into worse trouble...~sl:0.2~and further from where we're meant to be going.
+
+0x7E95B45A = ~z~Could I have a word with ya?
+
+0x7F4BE20E = ~z~It's gonna be alright, John.
+
+0x7FAB930B = ~z~I'm sure they'll find us eventually...
+
+0x8A3F1CBF = ~z~Another gang was holed up there for a while but we sent them on their way.
+
+0x8B7F3C92 = ~z~What are you doing on that wagon? I want you on horseback.
+
+0x8B3973EC = ~z~I thought you and John were going to find us a new spot?
+
+0x8C0A077F = ~z~~sl:0.0:2.4~Smart?~rp~ Are you joking?~sl:0.5~~rp~We made too much noise once again.~rp~ We drew'em right to us.
+
+0x8CD050CF = ~z~Not now.
+
+0x8D083DF4 = ~z~~sl:0.0:6.6~For a long time, ~rp~I truly believed a paradise lay somewhere in the west for us...~sl:0.3~~rp~but... I just don't know any more.
+
+0x8D6A4DE7 = ~z~Where are you running off to?
+
+0x9B28E964 = ~z~Get back here, Morgan.
+
+0x9F92579E = ~z~The boy'll be fine, but...
+
+0x9F377088 = ~z~Gators'll be eating well today.
+
+0x11C62D02 = ~z~How's it looking up there?
+
+0x11E0AEEE = ~z~I don't expect you to understand this...
+
+0x14C44B6E = ~z~Sorry, boys, this is ours now.
+
+0x14DF330E = ~z~for nothing.
+
+0x17A94170 = ~z~and make sure no one else has moved in.
+
+0x17B42207 = ~z~That's it up ahead.
+
+0x18CB795A = ~z~~sl:0.0:4.2~I sometimes wonder if... things was ever the way we remembered 'em.~sl:0.4~If we were ever who we thought we was.
+
+0x19B14CBE = ~z~Agent Ross.
+
+0x21B7AAC5 = ~z~~sl:0.0:3.2~Maybe. ~rp~I'm still thinking about it.~sl:1.2~~rp~Whatever we do, we'll need more money.
+
+0x26AA8BF5 = ~z~Excuse me, friends...
+
+0x26D51C3A = ~z~I love it!
+
+0x26E4BCEF = ~z~Not quite... ~rp~good work back there, Arthur. ~rp~Everything went okay?
+
+0x31D2B5EA = ~z~I think that's the lot. I didn't even have to shoot the last one.
+
+0x32CB58C0 = ~z~Just dump it in the water.
+
+0x35CD2A36 = ~z~You're making a big mistake...
+
+0x36CFAB03 = ~z~Ain't that fine.
+
+0x36F6C940 = ~z~That's it... how about we fight?
+
+0x38E2E421 = ~z~Can you believe that girl? ~rp~All I've got going on and she wants to talk.
+
+0x39D77EB3 = ~z~I'm...
+
+0x42D38CCA = ~z~I was letting him go.
+
+0x45A1475A = ~z~But I came to make a deal.
+
+0x47BC6ACB = ~z~With one of these...
+
+0x49AAA918 = ~z~who are you?
+
+0x51D1B758 = ~z~We get outta here...
+
+0x54B7F2F1 = ~z~Come on...
+
+0x59E1DF34 = ~z~~sl:0.9~Dutch'll fix it. Dutch'll come up with a big plan.
+
+0x60AFD722 = ~z~Mr. Van der Linde.
+
+0x60BAE671 = ~z~Come on.
+
+0x62B15702 = ~z~~sl:0.0:4.1~Look, Marston,~rp~ I don't know what to tell you.~sl:~~rp~Things don't always work out, that ain't nothing new.
+
+0x64CDD4A3 = ~z~than I am right now, brother.
+
+0x67F98AF6 = ~z~And as a consequence that lets you take what you please...
+
+0x72CEBF12 = ~z~Can we get this over with, Morgan?
+
+0x73DC23CF = ~z~You ain't much of anything more than a killer, Mr. Van der Linde.
+
+0x74EE41B5 = ~z~John's waiting for you, Arthur, we need to clear out of here as fast as we can.
+
+0x81FE7657 = ~z~~sl:0.0:4.1~To take a look at ~rp~this 'Eighth Wonder of the Civilized World'~sl:~Saint Denis, I keep hearing about.
+
+0x83F69A81 = ~z~make sure that they leave.
+
+0x84E26D59 = ~z~We're going to get that boy back, ~rp~whatever it takes.
+
+0x88A54310 = ~z~I'll check the house, you keep watch out here.
+
+0x89D24AC7 = ~z~Come on, Arthur.
+
+0x91A857F2 = ~z~~sl:0.0:3.8~But some wolves thought otherwise. Look...~rp~~sl:0.8~you're here now and this spot we're going to, it's close to Saint Denis.
+
+0x92C308FC = ~z~Just gotta keep our cool,~rp~ be smart about this.
+
+0x93E29A1F = ~z~Not quite! ~rp~Good work back there, Arthur. ~rp~Everything went okay?
+
+0x93FC9A7F = ~z~You sure this place is empty?
+
+0x94D6DCC6 = ~z~I mean,~rp~ how many people we kill in the past few weeks?
+
+0x95E6CFB1 = ~z~So we're leaving the country now?
+
+0x95E23516 = ~z~Not a problem...
+
+0x98AEC2FC = ~z~~sl:0.0:6.4~Come on,~rp~ it ain't all bad.~rp~ We've had a rocky run, but we'll be okay.~sl:0.8~~rp~We'll get through it.
+
+0x125EBCC1 = ~z~He's right, John.
+
+0x150D5598 = ~z~~sl:0.0:2.4~Look, Marston,~rp~ I don't know what to tell you.~sl:0.5~~rp~Things don't always work out, that ain't nothing new.
+
+0x180B0601 = ~z~Everything okay with you two?
+
+0x200CD3CF = ~z~and quick.
+
+0x216E73E7 = ~z~Alright, this way. We'll dump the bodies in the swamp over there.
+
+0x288F8FBB = ~z~I think your new friend should leave now, Dutch.
+
+0x291A0F98 = ~z~I don't wanna kill all these folk, Dutch...
+
+0x303E0261 = ~z~Come out with your hands up, you can still walk out of here.
+
+0x306ED86A = ~z~I'm gonna stay here, and clean up this mess.
+
+0x353EFE33 = ~z~Any ideas?
+
+0x403EAF42 = ~z~You, me, Dutch, Hosea... it's been a long time now.
+
+0x413FF64B = ~z~they're...
+
+0x452F2FFB = ~z~You need your horse, Arthur, get off there.
+
+0x464A9E35 = ~z~We can't change what's done. We can only move on.
+
+0x526E8872 = ~z~About what you'd expect. ~rp~He's taken it hard.
+
+0x531FEFA9 = ~z~Get out of here. Now! Go!
+
+0x568A5214 = ~z~we'll be gone soon.
+
+0x579DC1CC = ~z~we'll get Jack back and we'll get gone.
+
+0x591AEF99 = ~z~Risked life and limb in this den of lowlifes and murderers...
+
+0x594C673B = ~z~~sl:0.0:3.3~Probably moved on to one of their other hideouts, what's left of them.~sl:0.5~~rp~It's where we got that dynamite for the bank job.
+
+0x650E2DB5 = ~z~~sl:0.0:4.2~I'm fairly sure nobody followed us. ~rp~We moved out fast.~sl:~~rp~We should be safe for a few days here.
+
+0x698D1081 = ~z~disappear and go and live like human beings...
+
+0x711C9968 = ~z~Yes?
+
+0x745DA61E = ~z~someplace else.
+
+0x767F0654 = ~z~I don't know if you're aware but this...
+
+0x808AE4AE = ~z~~sl:0.0:2.5~I think we need to move a little further.~sl:0.4~~rp~Put some ocean between us and all of this.
+
+0x829BF301 = ~z~Any more of you upstairs, I'm coming for you! You hear me?
+
+0x900BAA0B = ~z~Yes.
+
+0x954BDFCE = ~z~And John?
+
+0x991ABA76 = ~z~Now where have I heard that before?
+
+0x1195F891 = ~z~Hurry up, Arthur, we gotta get this place cleaned up.
+
+0x1265B6E9 = ~z~Place is well hidden.
+
+0x1482E388 = ~z~You going in then?
+
+0x1614E72E = ~z~it's done.
+
+0x1641B788 = ~z~You're doing the right thing.
+
+0x1793C4EB = ~z~Mr. Mathews, I presume.
+
+0x2574E2ED = ~z~looking at this logically, that boy is fine.
+
+0x2784E865 = ~z~Ah, Mr. Morgan...
+
+0x3353EEEA = ~z~Soon as we get the others safe,~rp~ we'll find this Bronte and get Jack back.
+
+0x3512B8B5 = ~z~Miss Grimshaw, Mr. Pearson...
+
+0x3810FE0C = ~z~Aw, shit! It's them again! Boys, get ready!
+
+0x4261C227 = ~z~so that they might live and love?
+
+0x4650FF25 = ~z~Alright, let's leave the horses here and take a look.
+
+0x6163DC1E = ~z~Agent Milton, Pinkerton...
+
+0x6349DA44 = ~z~A few days is all we need.
+
+0x6768C2A0 = ~z~a real city...
+
+0x6985FE7C = ~z~~sl:0.0:3.8~Right now,~rp~ every plan gets us into worse trouble.~sl:0.4~We're getting further from where we're meant to be going.
+
+0x7047D2EA = ~z~So... where are we going?
+
+0x7710AD96 = ~z~We'll get packed up, but we need a new spot, Arthur.
+
+0x8206F68F = ~z~You ain't seen inside it yet.
+
+0x8717E3AB = ~z~Come on, let's just get this over with.
+
+0x8972A579 = ~z~And, John...
+
+0x9579BEA7 = ~z~but it should buy us a few days.
+
+0x13093BD6 = ~z~Good day fine people.
+
+0x14099BDF = ~z~Always repellent?
+
+0x19958E7E = ~z~I'm going to skin you, you white trash maggot. Come on now.
+
+0x23623E51 = ~z~Sure.
+
+0x29068E25 = ~z~I'm nothing but a seeker, Mr. Milton.
+
+0x33754E40 = ~z~So, we're leaving the country now?
+
+0x35720FE4 = ~z~Stop following us...
+
+0x49455BFB = ~z~Alright, should be just down this path to the left here.
+
+0x57446AA0 = ~z~to these lost souls you've led so horribly astray?
+
+0x89772B68 = ~z~What do you think, Arthur?
+
+0x94781CC2 = ~z~Okay, there she is...
+
+0x228666F2 = ~z~Dead or alive, you're leaving this place today.
+
+0x361865F3 = ~z~Where you creeps hiding? Come out where I can shoot you.
+
+0x496424E5 = ~z~Lenny...
+
+0x519906A9 = ~z~We should be going for Jack.
+
+0x837335AE = ~z~Like I told you...~rp~ don't go down a rabbit hole with this, Marston. That won't help nothing.
+
+0x892109CD = ~z~For now.
+
+0x926136E2 = ~z~Lenny and I got into that dispute with the previous occupiers.
+
+0x950858D8 = ~z~I treated Jack bad, Abigail too. I didn't want to believe he was mine.
+
+0x1360655D = ~z~Yeah...
+
+0x5634098D = ~z~Damn it, still some here.
+
+0x7955983F = ~z~Will you get off of that and mount up?
+
+0x8695967D = ~z~We got a problem.
+
+0x9407769D = ~z~Welcome home...
+
+0x9990581B = ~z~All of you will die.
+
+0x22011647 = ~z~How's it looking up there?
+
+0x25416046 = ~z~And...
+
+0x50922847 = ~z~Too late now.
+
+0x58668550 = ~z~Follow me.
+
+0x62208058 = ~z~kill whom you...
+
+0x77182143 = ~z~Hey, where are you going?
+
+0x78048883 = ~z~We killed all those people...
+
+0x94855952 = ~z~About what you'd expect. ~rp~He's taking it hard.
+
+0xA0A3BCB2 = ~z~Come on! Come on, boy!
+
+0xA2A1785B = ~z~~sl:0.0:2.7~Smart?~rp~ Are you joking?~sl:0.5~~rp~We made too much noise once again.~rp~ We drew'em right to us.
+
+0xA6CEBC12 = ~z~Oh I'm gonna be real happy to shut you up.
+
+0xA24AB3C1 = ~z~~sl:0.0:1.4~Can you believe that girl?~sl:0.2~~rp~All I've got going on and she wants to talk.
+
+0xA45B3644 = ~z~Follow me, I know the way.
+
+0xA98E0A3E = ~z~take a ride with me.
+
+0xA402BF90 = ~z~You alive?
+
+0xA825F42F = ~z~Maybe. ~rp~I'm still thinking about it. ~rp~Whatever we do, we'll need more money.
+
+0xA1721166 = ~z~all of ya...
+
+0xAA4B84DE = ~z~We are going to get that boy back, ~rp~whatever it takes.
+
+0xAA5CBB34 = ~z~You can't put all this on Dutch.~rp~ You're worked up and rightly so.
+
+0xAAFA5F46 = ~z~Trust me.
+
+0xACA3955D = ~z~please and hang the rest of us?
+
+0xADC96699 = ~z~She...
+
+0xAEF318E8 = ~z~This place...
+
+0xAFC2E7C6 = ~z~Shouldn't be any trouble,~rp~ just need to check it's all clear.
+
+0xB2E44983 = ~z~Can you grab that one there?
+
+0xB5B87E04 = ~z~you go follow those fools outta here...
+
+0xB7D126C4 = ~z~Sure.
+
+0xB9ADAE61 = ~z~and basic decency was outmoded or not yet invented.
+
+0xB9D04989 = ~z~Few loose ends, nothing major.
+
+0xB17FD174 = ~z~Tough guy, are you?
+
+0xB29F7B7C = ~z~Rip Van Winkle.
+
+0xB48D8198 = ~z~They took him to scare us.
+
+0xB94BFBE9 = ~z~Hey, Dutch.
+
+0xB203D7D9 = ~z~the future.
+
+0xB357F027 = ~z~Good. Come help me with this, will you?
+
+0xB388A3F3 = ~z~Die! Oh shit...
+
+0xB7439D4E = ~z~“I could just leave again and no one would ever know”.
+
+0xB8701C53 = ~z~They thought there was a lot of gold...
+
+0xB20477BC = ~z~hidden in the swamps outside Saint Denis.
+
+0xB149078C = ~z~How awful for us, Mr. Milton.
+
+0xB913559C = ~z~I don't even know what to think no more.
+
+0xBB135CA1 = ~z~Just~rp~ don't get too far into your head with all this or you'll never get out.
+
+0xBD133528 = ~z~He has forgotten himself and found only appetites.
+
+0xBE3B05C3 = ~z~Now we get that boy back...
+
+0xBE4AEB0A = ~z~You're the one hiding, not me.
+
+0xBE5DB8D1 = ~z~Who made you the messiah...
+
+0xC02F169B = ~z~a solution.
+
+0xC349FA65 = ~z~Big cities...
+
+0xC6027E8A = ~z~I ain't sure of nothing.
+
+0xC8050798 = ~z~You gonna ride back, tell Dutch we're ready?
+
+0xCAE45466 = ~z~something to live and die for.
+
+0xCBD50B73 = ~z~go see what you can figure out.
+
+0xCBD330FB = ~z~this is a civilized land now.
+
+0xCC49A1E0 = ~z~and we go.
+
+0xCD4734B8 = ~z~Come on... sooner we get this done, the better.
+
+0xCDDCB1F6 = ~z~visitors...
+
+0xCE0C3DFF = ~z~Didn't you get the message last time?
+
+0xCE4D58DC = ~z~and I give the rest of ya three days to run off...
+
+0xCE7700A8 = ~z~Hurry up, this feller's getting heavy.
+
+0xCFD84FF3 = ~z~~sl:0.0:4.4~I'm fairly sure nobody followed us. ~rp~We moved out fast.~sl:0.3~~rp~We should be safe for a few days here.
+
+0xCFEE2820 = ~z~Lenny found it.~rp~ Big old rundown plantation house.
+
+0xD1F337A1 = ~z~What now?
+
+0xD7B241F7 = ~z~Rest of you get packing!
+
+0xD69CA4C7 = ~z~I know...
+
+0xD2457EB8 = ~z~Yeah, they thought there was money.~rp~ Ain't there always?
+
+0xD3105D42 = ~z~Come on...
+
+0xD7543CF1 = ~z~But some wolves thought otherwise. Look,~rp~ you're here now and this spot we're going to, it's close to Saint Denis.
+
+0xD30457C9 = ~z~You think there's more of'em?
+
+0xDAAE7C8F = ~z~You know,~rp~ when I was lost on that mountain after Blackwater, part of me thought
+
+0xDB77FBB5 = ~z~You think you're tough, Yankee? Come in here and fight me like a man.
+
+0xDB78EA0D = ~z~~sl:0.0:3.6~We will,~rp~ but we have to move everyone first...~sl:~before that bastard Milton comes back with an army.
+
+0xDC9BE97A = ~z~~sl:0.0:4.0~I need you to start asking around in the city for Bronte, ~sl:~~rp~subtly of course... public places, ~rp~maybe start with the saloon.
+
+0xDD6E3FF8 = ~z~You coming?
+
+0xDEE42D2E = ~z~~sl:0.0:3.3~We will,~rp~ but we have to move everyone first...~sl:~before that bastard Milton comes back with an army.
+
+0xDF1E0600 = ~z~You know,~rp~ when I was lost on that mountain after Blackwater, part of me thought...
+
+0xDF2A739E = ~z~Anyone who can put us in contact with him.
+
+0xDF872E39 = ~z~So, where are we going?
+
+0xDF259437 = ~z~According to the map, ~rp~the road up this way should lead us right in there.
+
+0xE0A76648 = ~z~Get your damn hands off of me, boy.
+
+0xE0F5CB38 = ~z~No, no, not for nothing.
+
+0xE2FDFD1D = ~z~Dutch?
+
+0xE5E225F1 = ~z~Jack's gone,~rp~ we lost Sean, Mac, Davey, Jenny... and for what?
+
+0xE6D23119 = ~z~We ain't no use to Jack in jail, or at the end of a rope.
+
+0xE7CC06BD = ~z~work your magic?
+
+0xE7F2FB58 = ~z~~sl:0.0:3.5~It's Dutch playing his games. Hosea too.~sl:0.7:2.2~Getting involved with those two families.~sl:1.5~The master con men working their magic...
+
+0xE8EBE58A = ~z~It's a spot out by Shady Belle.
+
+0xE9C6EC06 = ~z~of course Marston's scared rotten.
+
+0xE9D48E2C = ~z~I thought you said you were checking the house?
+
+0xE12A8BCC = ~z~Okay, okay, I'm going.
+
+0xE43D2C34 = ~z~Are you going to help me carry these, then?
+
+0xE46A4062 = ~z~freezing to death on a mountain.
+
+0xE94E9002 = ~z~just you.
+
+0xE146FD8F = ~z~ain't no such thing as civilized.
+
+0xE3045F5D = ~z~We didn't kill all them savages...
+
+0xE444038D = ~z~This thing...
+
+0xE6885554 = ~z~So what is this place?
+
+0xEA1D107B = ~z~It's time.
+
+0xEA988A7A = ~z~And then?
+
+0xEB7E3001 = ~z~It's a goddamn mess.
+
+0xECC24CAB = ~z~Throw it in the swamp, gators'll make quick work of it.
+
+0xED5E30A8 = ~z~Alright, ~rp~I guess this day ain't over yet.
+
+0xEDC7CABA = ~z~~sl:0.0:3.8~To take a look at ~rp~this 'Eighth Wonder of the Civilized World'~sl:~Saint Denis, I keep hearing about.
+
+0xEDE0A8C1 = ~z~~sl:0.0:3.3~Okay, I can deal with the rest of the bodies.~sl:0.3~You go meet up with the caravan and guide them in.
+
+0xEF7D6847 = ~z~For living.
+
+0xEF681D6D = ~z~dreadful.
+
+0xF0381DD1 = ~z~it'd be my honor...
+
+0xF08BFA6C = ~z~Agent Moron?
+
+0xF2AA1A6C = ~z~We good? You searched the whole place?
+
+0xF8C3F6A3 = ~z~What are you doing, Arthur?
+
+0xF85BB7E9 = ~z~I sometimes wonder if things was ever the way we remembered 'em... if we were really ever who we thought we was.
+
+0xF9456A18 = ~z~Think I preferred...
+
+0xF42041AB = ~z~Are we going, then?
+
+0xF62285A1 = ~z~nice to see you again.
+
+0xF82253B9 = ~z~Far too many.
+
+0xF998982A = ~z~and when I return I'll be with fifty men.
+
+0xFB164872 = ~z~Good. Come help me with this, will you?
+
+0xFC02DBA0 = ~z~~sl:0.0:3.8~The mess with those two families... losing Sean...~sl:1.0~I see things differently now.
+
+0xFDA1B9E0 = ~z~We have got something...
+

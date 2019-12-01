@@ -1,0 +1,138 @@
+0x0028212E = The supplies were lost
+
+0x0724DA3C = Some supplies have been delivered
+
+0x08F51D4E = ~1~ delivered supplies
+
+0x0ADAB8C9 = Some supplies have been delivered
+
+0x0F8C0283 = ~1~ delivered supplies
+
+0x1DE22032 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x1F15FB76 = The supplies were not delivered
+
+0x2D6FED97 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x3C067305 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x3CFE53C2 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0x4D8F1D8F = Your Posse delivered some supplies
+
+0x5C83B51D = The supplies were delivered
+
+0x6B06F7C9 = Pick up one of the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x6C3E1155 = You stole some supplies
+
+0x6E40FF20 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x6EB03F48 = The supplies were lost
+
+0x7B4C059D = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Lockbox~s~
+
+0x7E7E1DCB = Some supplies have been stolen
+
+0x8B7F61FE = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x8EBA918F = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x9E05B4C3 = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x9EE644C4 = Drop the supplies
+
+0x14D66955 = ~COLOR_ENEMY~Rival players~s~ can steal the supplies
+
+0x34BB16D1 = ~COLOR_ENEMY~~1~~s~ is trying to steal the supplies
+
+0x64CB2A43 = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Lockbox~s~
+
+0x69D3AB78 = The supplies were delivered
+
+0x71FC0F45 = The supplies were lost
+
+0x73FF6F24 = Some supplies were delivered
+
+0x78EF95B6 = Find the supplies and deliver them to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0x87A7A210 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the supplies
+
+0x93F63ADD = Your Posse delivered some supplies
+
+0x94D89797 = You can only carry one supply bag at a time.
+
+0x177B37A6 = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x300FAEFE = ~COLOR_ENEMY~Rival players~s~ can steal the supplies
+
+0x773BECAA = ~1~/~2~ supply deliveries stolen
+
+0x926C0BAF = Deliver the supplies to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x984DC3D5 = Some supplies were delivered
+
+0x1608D135 = ~1~ stole some supplies
+
+0x3067FF70 = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x7250B870 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0x8552C6CF = Go to the ~COLOR_MP_OBJECTIVE~search area~s~
+
+0x312816D2 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0x414181CB = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0x755868C2 = Find the supplies
+
+0x966427CC = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x21948317 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0x22318754 = You delivered some supplies
+
+0xB4139888 = The supplies were destroyed
+
+0xBBC77DE7 = The supplies were destroyed
+
+0xBF29AC54 = Find the supplies
+
+0xC9BE7B36 = You delivered some supplies
+
+0xCACAC982 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xCB6B3A25 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xCE8D46F3 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xCF12DF37 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0xD8B4EBB3 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xDAF5A92C = The supplies were not delivered
+
+0xDEC067EF = You stole some supplies
+
+0xDF0722E1 = Holster weapons and equipment before speaking with Cripps.
+
+0xE08363FC = Some supplies have been stolen
+
+0xE2359EA9 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xE27159BA = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xEB8AD37E = Find the supplies and deliver them to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xF323F1B1 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xF6944A20 = Your Posse stole some supplies
+
+0xF80592EB = ~1~ stole some supplies
+
+0xFA12F7D0 = Your Posse stole some supplies
+
+0xFC3FDB16 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~
+
+0xFD2A8973 = The supplies were delivered
+

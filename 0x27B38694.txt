@@ -1,0 +1,4 @@
+0x0CA910EF = You Don't Have Enough Money
+
+0x181F572B = Give ~1$~
+

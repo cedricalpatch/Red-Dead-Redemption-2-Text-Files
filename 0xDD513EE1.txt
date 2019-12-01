@@ -1,0 +1,246 @@
+0x001D922F = ~z~I was just trying to make some extra money with that poker room.
+
+0x03052062 = ~z~Appreciate it.
+
+0x033A2252 = ~z~Oh I remember you...
+
+0x0465ACA6 = ~z~I really can't afford to get sick again this month.
+
+0x0683FDE4 = ~z~So you don't know nothing about those fellers he had chained up in the basement?
+
+0x09A8C32C = ~z~So was I.
+
+0x0C0B34DD = ~z~Well, you just let me know.
+
+0x0DBA8C46 = ~z~Well, I'm sure he'll get you fixed up. So what can I get for you?
+
+0x0FE3BA0F = ~z~Not in here, that's for sure. If he was to drink anywhere, it would be the Bastille Saloon.
+
+0x1BE467A3 = ~z~Well, they closed it down, so I'd appreciate it if you either buy something, or you leave me alone.
+
+0x1CDF0301 = ~z~Of course not. Now, is there something I can help you with?
+
+0x2B4752B5 = ~z~Oh, it's you again.
+
+0x2C36B5AF = ~z~Yes, I already saw him.
+
+0x2E008BC7 = ~z~All in the past now.
+
+0x2E883011 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+0x4A0F876F = ~z~Oh my, you look like you've lost some weight there?
+
+0x4ACBDAC7 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0x4B45D6DE = ~z~You alright there, sir?
+
+0x4B576AB4 = ~z~Well, what can I get for you? Another shot maybe?
+
+0x4F9B2024 = ~z~How are you, sir? You don't look so good.
+
+0x5AF73559 = ~z~You don't look so good.
+
+0x5F83C244 = ~z~How are you, sir?
+
+0x6A5C46D4 = ~z~Wise move, you don't want to get tangled up with that feller.
+
+0x6BB8D6DC = ~z~Hey there, mister. You okay?
+
+0x6C3A5BAD = ~z~Hello there?
+
+0x6D824E54 = ~z~Well, stock up then. Need to get you fed.
+
+0x6FA170D7 = ~z~Yep, that's for sure.
+
+0x7A46BDD3 = ~z~Last time I let him watch the shop... and I mean that literally, may he rest in peace.
+
+0x8D9F787F = ~z~Oh it's you. Are you alright, mon ami? You know we have a good doctor in town?
+
+0x8F3AA1B1 = ~z~Everything alright, sir?
+
+0x9C51CA3B = ~z~Won't be many tears shed over that bastard.
+
+0x10C5E1DF = ~z~you know what, never mind. What can I do for you?
+
+0x16B19E43 = ~z~Of course not! I was out of town.
+
+0x22EE7203 = ~z~I'm fine, don't you worry about me.
+
+0x25D2E5ED = ~z~Any idea where I might find him?
+
+0x29BD2F43 = ~z~Well, hello again. You don't look so good. Are you getting enough rest?
+
+0x43E35AC7 = ~z~Flu? No, what are you talking about?
+
+0x44CF4EE2 = ~z~You, er, come down with something there, partner?
+
+0x46FE8549 = ~z~You're always here alone... do you have anyone to look after you?
+
+0x65ACBD75 = ~z~So did you find Mr. Bronte?
+
+0x66DC6995 = ~z~For sure. I know when to leave something well alone.
+
+0x75F4E80F = ~z~Well, I suppose that's up to you. You can not blame me for being a little wary.
+
+0x78BB0893 = ~z~Okay, well, don't leave it too long... please. So what can I get for you?
+
+0x78D774E7 = ~z~You need something, friend?
+
+0x85DFE668 = ~z~Well, I suppose that's up to you.
+
+0x88F3892E = ~z~Ah, hello again. How are you holding up?
+
+0x90D52114 = ~z~You worry about your horses, not me.
+
+0x93CDA3C0 = ~z~Are you here to buy something or just to cause me trouble?
+
+0x97AFF8A5 = ~z~You're saying you knew nothing about it?
+
+0x279C0F8B = ~z~Been some grippe going around here... and I just thought...
+
+0x301DFD02 = ~z~Just passing through.
+
+0x345AA908 = ~z~Yes, why?
+
+0x470C9152 = ~z~Okay there, sir?
+
+0x486C96E0 = ~z~Pay no attention to the lady over there. She'll run out of steam eventually.
+
+0x551F4495 = ~z~Just watch yourself. He's got quite the reputation.
+
+0x623EDEC4 = ~z~Opposite the park with the Quincy Harris statue.
+
+0x815B05F2 = ~z~Something you need, sir?
+
+0x822F9AB6 = ~z~Well, the air's a little drier up there at least.
+
+0x954BC1B4 = ~z~Oh hello, I was hoping you'd be in a sanatorium somewhere out west by now.
+
+0x1190FDD0 = ~z~I thought we'd moved on from that?
+
+0x1263C18E = ~z~No, no, I mean in Saint Denis.
+
+0x5104BECF = ~z~Oh hello, you're still here.
+
+0x5334F96A = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+0x6449BBE3 = ~z~A little maybe.
+
+0x7855E2C7 = ~z~No, I thought better of it.
+
+0x8387E387 = ~z~You really must... so how can I help you? A shot perhaps?
+
+0x9312B7BD = ~z~Yeah, I read something about that.
+
+0x25073AEE = ~z~Now, is there something I can help with you? I really don't want to talk about that sordid business.
+
+0x25444DC2 = ~z~How are you doing there?
+
+0x45101C13 = ~z~All in the past now.
+
+0x49810D61 = ~z~Oh hello, I was hoping you'd be in a sanatorium somewhere out west by now.
+
+0x52170C68 = ~z~Well, that's good news. Let me know what I can get you.
+
+0x63894D19 = ~z~Sorry about the obnoxious drunk over there. I'm hoping she'll leave soon.
+
+0x87170D98 = ~z~Alright, none of my business.
+
+0x89715C28 = ~z~Sullying my good name.
+
+0x94713F39 = ~z~No, just passing through, I'm staying up in Roanoke Ridge.
+
+0x338483CF = ~z~Still alive, you mean?
+
+0x555330AD = ~z~Sorry about the racket, she's overdone it on the champagne again.
+
+0x1639883C = ~z~Rest? Not much chance of that.
+
+0x6384904F = ~z~Ugh, is there anyone who doesn't know about this? That was my brother's business, not mine.
+
+0x8681241F = ~z~I need money for that.
+
+0x13854152 = ~z~Hey, friend, I'm new in town, supposed to be meeting a man called Angelo Bronte.
+
+0x39094618 = ~z~Worse, like you said I would.
+
+0x53622123 = ~z~I got people who need me here.
+
+0x54554487 = ~z~~sl:0.0:3.3~I hope you took my advice and forgot all about that matter~sl:~that you were enquiring on when you were last in here?
+
+0xA39ADD8C = ~z~Hey there friend, how are you? Are you staying here in the city?
+
+0xA51C4496 = ~z~Okay, well, don't leave it too long... please. So what can I get for you?
+
+0xA55C4203 = ~z~Oh dear, well, what can I get for you?
+
+0xAD17B4DF = ~z~Oh, it's you again.
+
+0xAD686C68 = ~z~You were in here with that other feller and the blonde lady, weren't you?
+
+0xB4D1E0EE = ~z~Some, I guess. Mostly people coming after me.
+
+0xB82A81EC = ~z~Talking about Colm O'Driscoll? I hear that hanging turned into a real mess.
+
+0xB98A791A = ~z~I apologize for the noise, sir. She's had one too many.
+
+0xC4E6A01F = ~z~So, what can I do for you today?
+
+0xC11EFE62 = ~z~I thought we'd moved on from that?
+
+0xCC9F0B54 = ~z~So I've heard.
+
+0xD6A9F698 = ~z~So is there anything extra to look at in the basement?
+
+0xD6FA3FE5 = ~z~So was I.
+
+0xD7A65320 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+0xD9EE24B9 = ~z~Where's the feller who was here last time I came in?
+
+0xD7214494 = ~z~Oh yes it's idyllic...
+
+0xDD600005 = ~z~It's just a cough.
+
+0xE02E4397 = ~z~You alright there?
+
+0xE4B7DB60 = ~z~Well, they closed it down, so I'd appreciate it if you'd either buy something or leave me alone.
+
+0xE50E9E58 = ~z~Ah, hello again. How are you feeling?
+
+0xE618FC0D = ~z~Oh no, what do you want now?
+
+0xE809F3EF = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+0xE816C10A = ~z~Oh you probably mean my brother. Far away from here, I hope, not sullying my good name any further.
+
+0xE5283B22 = ~z~Hellfire, mister, you look like you've been through the wringer. You should pay Dr. Barnes a visit.
+
+0xEA103C5C = ~z~Oh hello again, sir. How are things? You look a little... unwell.
+
+0xEBF873CF = ~z~Good, well, let me know if you need anything.
+
+0xEC24D939 = ~z~Sorry, no, how can I help you?
+
+0xEEA0548A = ~z~So, so.
+
+0xEEE8A316 = ~z~Some bad flu going around.
+
+0xF1B68748 = ~z~Why don't you just do your job?
+
+0xF9D2F495 = ~z~Is that how you greet all your customers?
+
+0xF9E4D10C = ~z~Ah, okay. Tres bien. In that case, how may I help you?
+
+0xF85F2099 = ~z~I was just trying to make some extra money with that poker room.
+
+0xF254F69A = ~z~Oh no, what do you want now?
+
+0xF37257B6 = ~z~I already did. I didn't come in here to talk about my health.
+
+0xFC06D2BC = ~z~Are you here to buy something or just to cause me trouble?
+
+0xFCD061DC = ~z~Just a cough, nothing too serious.
+
+0xFF481B57 = ~z~Are you here for another shot or something else?
+

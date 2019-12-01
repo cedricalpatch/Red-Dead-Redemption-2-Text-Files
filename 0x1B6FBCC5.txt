@@ -1,0 +1,100 @@
+0x0178BD6F = ~z~~sl:0.0:4.1~Is it he that sitteth upon the circle of the earth,~sl:~and the inhabitants thereof are as grasshoppers...
+
+0x03E30C6C = ~z~~sl:0.0:3.7~yea, their stock shall not take root in the earth~sl:~and he shall also blow upon them,
+
+0x0424E146 = ~z~~sl:0.0:2.3~Lift up your eyes on high,~sl:~and behold who hath created these things,
+
+0x042842CE = ~z~~sl:0.0:3.3~Have ye not known? Have ye not heard?~sl:~Hath it not been told to you from the beginning?
+
+0x08E9DF5A = ~z~That's... real pretty, Reverend, but...
+
+0x08F81692 = ~z~Have ye not understood from the foundations of the earth?
+
+0x1BFFFDEE = ~z~~sl:0.0:3.4~that bringeth out their host by number and calleth them all~sl:~by names, by the greatness of His might,
+
+0x2D73DF89 = ~z~~sl:0.0:4.1~that stretcheth out the heavens as a curtain,~sl:~and spreadeth them out as a tent to dwell in.
+
+0x3A722F61 = ~z~~sl:0.0:4.7~"He that is so impoverished that he hath no oblation...~sl:0.5~chooseth a tree that will not rot.
+
+0x3BFE45B6 = ~z~~sl:0.0:2.2~I realize now that I truly don't...~sl:0.8~but it brings me comfort.
+
+0x3D7053D4 = ~z~~sl:0.0:2.5~My way is hid from the Lord,~sl:~and my judgment is passed over from God?
+
+0x4B3F50FB = ~z~~sl:0.0:4.1~that stretcheth out the heavens as a curtain,~sl:~and spreadeth them out as a tent to dwell in.
+
+0x4CE0E77B = ~z~I don't know, Miss Karen...
+
+0x6B5DDB60 = ~z~~sl:0.0:2.9~That bringeth the princes to nothing;~sl:0.6~He maketh the judges of the earth as vanity.
+
+0x7DA37FEB = ~z~Yea, they shall not be planted; yea, they shall not be sown;
+
+0x9B859129 = ~z~But they that wait upon the Lord shall renew their strength;
+
+0x9F7B84E7 = ~z~Why sayest thou, O Jacob, and speaketh oh Israel.
+
+0x15EAE653 = ~z~Have ye not understood from the foundations of the earth?
+
+0x94C3AE2B = ~z~~sl:0.0:4.7~"He that is so impoverished that he hath no oblation...~sl:0.5~chooseth a tree that will not rot.
+
+0x132EF3E4 = ~z~~sl:0.0:3.9~they shall mount up with wings as eagles; they shall run,~sl:~and not be weary; and they shall walk, and not faint."
+
+0x302F395E = ~z~There is no searching of His understanding.
+
+0x369ABAEF = ~z~what on Earth does it mean?
+
+0x411BDC4B = ~z~~sl:0.0:3.9~they shall mount up with wings as eagles; they shall run,~sl:~and not be weary; and they shall walk, and not faint."
+
+0x658C10F9 = ~z~There is no searching of His understanding.
+
+0x8414C2A5 = ~z~~sl:0.0:2.7~He seeketh unto him a cunning workman~sl:~to prepare a graven image, that shall not be moved.
+
+0x73142C09 = ~z~fainteth not, neither is weary?
+
+0x4558509E = ~z~~sl:0.0:2.7~and they shall wither, and the whirlwind shall~sl:~take them away as stubble.
+
+0x38387512 = ~z~~sl:0.0:3.3~Have ye not known? Have ye not heard?~sl:~Hath it not been told to you from the beginning?
+
+0xA1EA1CD2 = ~z~~sl:0.0:4.4~To whom then will ye liken me, or shall I be equal?~sl:~Saith the Holy One.
+
+0xA85F0B3D = ~z~~sl:0.0:3.7~yea, their stock shall not take root in the earth~sl:~and he shall also blow upon them,
+
+0xAE56229C = ~z~for that He is strong in power; not one faileth.
+
+0xB096BA2B = ~z~for that He is strong in power; not one faileth.
+
+0xBE064994 = ~z~~sl:0.0:4.3~He giveth power to the faint; and to them that have no might,~sl:~He increaseth their strength.
+
+0xBE55D5A9 = ~z~~sl:0.0:3.4~that bringeth out their host by number and calleth them all~sl:~by names, by the greatness of His might,
+
+0xC4B64F5C = ~z~~sl:0.0:3.6~Hast thou not known? Hast thou not heard,~sl:0.0:2.3~that the everlasting God, the Lord,~sl:~the Creator of the ends of the Earth,
+
+0xCB20D0C0 = ~z~~sl:0.0:2.9~That bringeth the princes to nothing;~sl:0.6~He maketh the judges of the earth as vanity.
+
+0xCC4A7186 = ~z~~sl:0.0:2.7~and they shall wither, and the whirlwind shall~sl:~take them away as stubble.
+
+0xCDCF75BC = ~z~~sl:0.0:3.5~Even the youths shall faint and be weary,~sl:~and the young men shall utterly fail.
+
+0xD1C9E983 = ~z~~sl:0.0:2.5~My way is hid from the Lord,~sl:~and my judgment is passed over from God?
+
+0xDAD38EA4 = ~z~Why sayest thou, O Jacob, and speaketh oh Israel.
+
+0xDB4DBB3E = ~z~~sl:0.0:4.1~Is it he that sitteth upon the circle of the earth,~sl:~and the inhabitants thereof are as grasshoppers...
+
+0xDCE7744D = ~z~Yea, they shall not be planted; yea, they shall not be sown;
+
+0xDE75418D = ~z~~sl:0.0:2.7~He seeketh unto him a cunning workman~sl:~to prepare a graven image, that shall not be moved.
+
+0xE44D1621 = ~z~But they that wait upon the Lord shall renew their strength;
+
+0xE9942C25 = ~z~fainteth not, neither is weary?
+
+0xEC251E39 = ~z~~sl:0.0:2.3~Lift up your eyes on high,~sl:~and behold who hath created these things,
+
+0xEED52B31 = ~z~~sl:0.0:3.5~Even the youths shall faint and be weary,~sl:~and the young men shall utterly fail.
+
+0xF66446E5 = ~z~~sl:0.0:4.3~He giveth power to the faint; and to them that have no might,~sl:~He increaseth their strength.
+
+0xF751479F = ~z~~sl:0.0:3.6~Hast thou not known? Hast thou not heard,~sl:0.0:2.3~that the everlasting God, the Lord,~sl:~the Creator of the ends of the Earth,
+
+0xFA52BA94 = ~z~~sl:0.0:4.4~To whom then will ye liken me, or shall I be equal?~sl:~Saith the Holy One.
+

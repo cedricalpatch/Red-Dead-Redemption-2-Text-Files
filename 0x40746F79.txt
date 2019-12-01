@@ -1,0 +1,50 @@
+0x012D70A0 = ~z~Shit, we got a problem!
+
+0x2AE9D461 = ~z~Hey! Stop that coach!
+
+0x4FD67CAD = ~z~Hey there.
+
+0x5BDECF84 = ~z~Step down from the coach. Play nice and nobody needs to die here.
+
+0x5E7EAB0A = ~z~Goddamn horse.
+
+0x6BB0C56E = ~z~What d'you want, a carrot? Move!
+
+0x6C886290 = ~z~Why the hell's that on the road? Look alive.
+
+0x8AFB5CB3 = ~z~Well, you got guts. Kill this idiot.
+
+0x8FDC0450 = ~z~You dense? What'd I tell you?
+
+0x42B82A68 = ~z~Hey. You see all the guns we carrying? Well, you're about to hear 'em.
+
+0x49DB1D36 = ~z~Ain't no good reason to leave a vehicle here...
+
+0x79D415AA = ~z~Hey! That's dynamite! Ready up everyone!
+
+0x80E81FB4 = ~z~You stay right there until I'm out of sight, understand me?
+
+0x487FF6FF = ~z~Back off.
+
+0x5804B989 = ~z~Move it out of the way.
+
+0x490579E9 = ~z~Back off if you're smart.
+
+0xA9567788 = ~z~Try anything funny and you're dead, you hear me?
+
+0xB00DC98F = ~z~You stay right there until I'm out of sight, understand me?
+
+0xB4B243C9 = ~z~Try anything funny and you're dead, you hear me?
+
+0xB6E98F96 = ~z~Ain't interested.
+
+0xB56AB4CC = ~z~Hey there.
+
+0xC423660D = ~z~Who do you think you are, huh?
+
+0xE0E6350A = ~z~Move it. We need to get through.
+
+0xEDAFE5A6 = ~z~Step down from the coach. Play nice and nobody needs to die here.
+
+0xF896047A = ~z~Hey! Stop that coach!
+

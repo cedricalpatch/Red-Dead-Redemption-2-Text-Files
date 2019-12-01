@@ -1,0 +1,202 @@
+0x07139A9D = George
+
+0x07E46D1A = Blackjack
+
+0x0A016DB8 = Bet ~1$~
+
+0x0B56CC31 = Lost ~1$~, and won ~2$~ from insurance
+
+0x0E04B5B8 = Bob
+
+0x1A0CCE6A = Place your insurance bet
+
+0x1A2CA8DB = Aces can be worth 1 or 11.~n~You don't have enough chips to double down or split.
+
+0x1B62A849 = The dealer is showing an ace.~n~Players can protect themselves by placing an insurance bet, which will payout 2:1 if he has blackjack.
+
+0x1C8DEF42 = Choose to "stand" if you are happy with your score, "hit" to be dealt another card, or "double down" to double your bet and be dealt only one more card.
+
+0x2AEA73ED = Decline
+
+0x2E63A56D = Your cards
+
+0x3EFD9CFF = won ~1$~
+
+0x4B143C35 = doubled down ~1~
+
+0x4C918932 = The dealer has blackjack.
+
+0x4EDAAA2A = Clyde
+
+0x4F8D7F48 = You
+
+0x5B6A22CB = Double Down
+
+0x5F8258AE = Everett
+
+0x6B6B59EF = Players must place a bet to play.
+
+0x6D0B871E = lost ~1$~
+
+0x7B8090AA = Stanley
+
+0x7BD13D45 = ~1p~ has left the table.
+
+0x8A671FBD = Dealer has ~1~.
+
+0x8E9736D7 = Willis
+
+0x9A8ACD86 = Perry
+
+0x14B3B6D2 = Pushed, and won ~1$~ from insurance
+
+0x18ABAA56 = ~1$~
+
+0x32E7EE54 = ~1~. ~2p~'s turn...
+
+0x34B9031C = Emil
+
+0x40D8B55D = You cannot afford the minimum buy-in of ~1$~.
+
+0x41E50C57 = In blackjack everyone, including the dealer, is dealt two cards.
+
+0x48F686D4 = The dealer is checking if he has blackjack. This happens when he is showing an ace, ten, or picture card.
+
+0x63DC8B17 = Doubled down ~1~
+
+0x65D5F4B7 = Opponent
+
+0x68EA2580 = Select how much you would like to buy-in for.
+
+0x75BABDD0 = You don't have enough chips to double down or split.
+
+0x79C7E6BD = Dealer's cards
+
+0x81F28DFC = ~1~. Your turn, second hand...
+
+0x84B514F5 = Arthur
+
+0x95C7B807 = Ernest
+
+0x257D869E = Aces can be worth 1 or 11.
+
+0x296EEB54 = Jake
+
+0x580A553A = ~1~. Your turn...
+
+0x680A1B9B = Aces can be worth 1 or 11.~n~You don't have enough chips to double down.
+
+0x715DFC65 = Ira
+
+0x883D4D6B = Bet ~1$~ and ~2$~ insurance
+
+0x2448BB7B = Dealer busts with ~1~.
+
+0x3760F4C2 = Stood on ~1~
+
+0x3963FA87 = The dealer has blackjack, and so do you. Your bet is 'pushed' which returns your chips.
+
+0x6436E9A2 = Place Insurance Bet (~1$~)
+
+0x7148FC3F = Curtis
+
+0x7239D37E = Camera
+
+0x8124BAC0 = 7-Card charlie
+
+0x8673A10B = Sitting out
+
+0x27191CAA = The goal is for your cards to total as close as possible to 21 without going over.
+
+0x88201CB8 = Fred
+
+0x3825829A = Take your turn
+
+0x23463057 = Bust with ~1~
+
+0xA5ABBC79 = The dealer has blackjack, and so do you.~n~Your insurance bet pays out, and your main bet is 'pushed' which returns your chips.
+
+0xA54CD70D = Walter
+
+0xA495D5A3 = Albert
+
+0xA855691B = Marvin
+
+0xAAF0EF8A = Virgil
+
+0xAC044C2F = Pushed
+
+0xAF0612D2 = Split
+
+0xAF70D868 = The dealer has blackjack.~n~Your insurance bet pays out, but you lose your main bet.
+
+0xB0B75239 = You have bought in for ~1$~. Players must place a bet to play. After betting you will receive two cards.
+
+0xB3B773E2 = Herman
+
+0xB424FDE5 = stood on ~1~
+
+0xB508BB04 = bust with ~1~
+
+0xB65319F5 = Lost ~1$~
+
+0xB534747F = ~1~. Your turn, first hand...
+
+0xB815093C = Place Bet (~1$~)
+
+0xB2807178 = Clarence
+
+0xBBBCBE92 = ~1~. ~2p~'s turn, first hand...
+
+0xBD06F76D = pushed
+
+0xBE01A5FF = Waiting for insurance...
+
+0xBE05233D = John
+
+0xBEFE1627 = Other players have blackjack, which pays 3:2.
+
+0xBFD88C24 = Jacob
+
+0xC2D2BFD5 = ~1~. Waiting for turn...
+
+0xC8F84A62 = You have blackjack, which pays 3:2.~n~You won ~1$~.
+
+0xC26DCBF4 = ~1~. ~2p~'s turn, second hand...
+
+0xC64A42E1 = Stand
+
+0xC379352A = Amount
+
+0xCBBAA02D = The dealer doesn't have blackjack.~n~All insurance bets lose.
+
+0xCDEA2847 = Harry
+
+0xD2B82923 = Waiting for bet...
+
+0xD8D04032 = 7-card charlie
+
+0xD83A2D66 = Hit
+
+0xDB84962F = Dealer stands on ~1~.
+
+0xDC90F330 = Aces can be worth 1 or 11.~n~If you split aces, your hand will end with no opportunity to hit.
+
+0xDC65468D = Place your bet
+
+0xDC248813 = Buy-in (~1$~)
+
+0xDDF4934F = Dealer stands on ~1~, which is the same as your score so your bet is 'pushed' which returns your chips.
+
+0xF1D67D5C = Dewey
+
+0xF6D0A4E7 = ~1p~ and ~2p~
+
+0xF99BB2A3 = Won ~1$~
+
+0xF65294B7 = You don't have enough chips to double down.
+
+0xFBBF2582 = The dealer doesn't have blackjack.
+
+0xFC1E11EB = Sylvester
+

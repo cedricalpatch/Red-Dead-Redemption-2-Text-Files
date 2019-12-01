@@ -1,0 +1,28 @@
+0x081AEBC3 = ~z~Anyway, sorry to be a misery, friend.
+
+0x6D8EEBA6 = ~z~And the thing is, as we've all been taken down one by one...
+
+0x7F1C8EC5 = ~z~that shopkeeper, Herbert Moon, ain't had so much as a cough.
+
+0x9BB947FE = ~z~And the way he looks at us... all superior... something ain't right about all this...
+
+0x76D47E2D = ~z~I can't but think there must be more to it.
+
+0x87FEA089 = ~z~Now how does that happen?
+
+0x6506DA92 = ~z~I don't know... for the sickness to have spread as fast as it did here, and with such mortality,
+
+0x76215B51 = ~z~Beer and whiskey's about the only thing left that's safe to drink in this town.
+
+0xA34CA228 = ~z~Cholera's a horrible business, mister.
+
+0xCF0CF9A8 = ~z~~sl:0.0:3.6~I wouldn't stay round here any longer than you need to,~sl:0.6~especially if you've got loved ones expecting you home.
+
+0xDC6E9467 = ~z~~sl:0.0:4.0~Apart from that son of a bitch who runs the general store...~sl:0.6~and that might be the cruelest irony of them all.
+
+0xDFE721E7 = ~z~Surprised you ain't blown on through, ain't much reason to stay.
+
+0xEA653054 = ~z~~sl:0.0:2.1~I should warn you, I'm sick,~sl:~but so is pretty much everyone else round here.
+
+0xF97D4E88 = ~z~A few more drinks and I'll have a smile on my face again...
+

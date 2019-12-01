@@ -1,0 +1,64 @@
+0x093EE8F9 = ~z~Yeah, I remember.
+
+0x1B88DABA = ~z~Thank you.
+
+0x3BDD9A4B = ~z~maybe this is something that means more to me than to you.
+
+0x6F1C01E7 = ~z~There's a grove to the west of the river...
+
+0x7F9821A7 = ~z~And it means something to you...
+
+0x9A7DD772 = ~z~to help him?
+
+0x9B2C5A07 = ~z~I said I'd meet him and go investigate.
+
+0x51DE7A37 = ~z~Listen, I'm...
+
+0x71DEBA37 = ~z~Probably, but...
+
+0x75CA0E0B = ~z~I said I'd see if there's some way I can help free them.
+
+0x84B82D1F = ~z~I don't know yet...
+
+0x529E48EC = ~z~maybe it is impossible.
+
+0x969ECFCC = ~z~they're being sent to reform school...
+
+0x381093D1 = ~z~Where do you wanna meet up?
+
+0x9683037F = ~z~He came by...
+
+0x59425514 = ~z~Some boys he knows have been taken...
+
+0x68637476 = ~z~So what's the plan?
+
+0x73038896 = ~z~Well you've saved my hide often enough, brother.
+
+0xA4F16C71 = ~z~or someplace a long way away.
+
+0xA58CA192 = ~z~he needs my help.
+
+0xA412EA9C = ~z~Yes.
+
+0xB6C44401 = ~z~Well hang on, is there anything I can help with?
+
+0xBB2F9A0D = ~z~by Emerald Ranch, near the bridge.
+
+0xBCD39C1D = ~z~Well then it means something to me to help you.
+
+0xD7B6531A = ~z~Sure...
+
+0xD71C8501 = ~z~How you doing?
+
+0xE3F448DE = ~z~and good luck.
+
+0xE902A8CD = ~z~Fine. Just about finished packing.
+
+0xE4121EA0 = ~z~I'll be taking off for a few days.
+
+0xEB1479D6 = ~z~Meet me there in a couple of days.
+
+0xEE50331C = ~z~Sure.
+
+0xFFCDD617 = ~z~Eagle Flies, the Chief's son...
+

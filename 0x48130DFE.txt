@@ -1,0 +1,38 @@
+0x02AEDE39 = Pronghorn
+
+0x0C77AA6F = Abe was abandoned.
+
+0x3FF2D9F2 = Ranch Hand
+
+0x27BEE768 = Mr. Dickens
+
+0x78D8284E = Follow ~o~Abe~s~
+
+0x179B14E8 = The stalls were abandoned.
+
+0x519D1FE8 = Milk the cow
+
+0x2013C442 = Jack
+
+0x8672BB00 = House
+
+0x79588D81 = Abe was killed.
+
+0xAAD3CE64 = Family
+
+0xB7F0D782 = You left Pronghorn.
+
+0xB85EB970 = Return to ~o~Abe~s~
+
+0xC6EF653D = Go to the ~o~house~s~ to speak with Abigail
+
+0xC90D5436 = Abigail
+
+0xD36DFBDC = Welcome ~o~Abigail~s~ and ~o~Jack~s~
+
+0xD8942BDF = Abe
+
+0xE1E8ECE4 = Return to the ~f~stalls~s~
+
+0xE3CA19F4 = Driver
+

@@ -1,0 +1,86 @@
+0x00729260 = Caravan destroyed
+
+0x3A947F5F = A wagon has been destroyed
+
+0x3FDA3897 = Return to the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~
+
+0x5C630C6F = Caravan destroyed by rival Posse
+
+0x5F7AB2B4 = ~1~/~2~ wagons destroyed
+
+0x6C589C84 = A wagon driver has been killed. Take control of the wagon ~1b~ and continue the caravan.
+
+0x6ED02730 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~ to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x7DB432A2 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~caravan~s~
+
+0x7EEF9272 = Destroy the caravan wagons
+
+0x8B260577 = Caravan wagon destroyed by rival Posse
+
+0x8F62B1F5 = Holding ~INPUT_CONTEXT_B~ while unarmed and near the lead wagon will allow you to stop the caravan.
+
+0x35D9D74A = Get in a ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan wagon
+
+0x63FFD938 = You delivered a wagon
+
+0x68F01733 = Caravan destroyed
+
+0x71B177A0 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~caravan wagons~s~ from ~COLOR_ENEMY~~1~
+
+0x98A0FA3B = Stop Caravan Wagon
+
+0x189E1F29 = Your Posse delivered a wagon
+
+0x417F434D = A wagon has been delivered
+
+0x423FED27 = You have destroyed a wagon
+
+0x437FA619 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan~s~
+
+0x472FC047 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~caravan~s~ ~1~
+
+0x491D00C5 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~caravan wagon~s~ from ~COLOR_ENEMY~~1~
+
+0x705D52F9 = ~1~ has destroyed a wagon
+
+0x760E61DA = Caravan destroyed
+
+0x4750BB7C = ~1~/~2~ wagons reached destination
+
+0x6881DC89 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~caravan wagon
+
+0x85673FFA = Caravan wagon destroyed
+
+0x3581600A = Caravan wagon reached destination
+
+0x26255563 = Start Caravan Wagon
+
+0x46677558 = Caravan reached destination
+
+0x66225983 = You triggered a rival mission against ~1~. Destroy the caravan wagons ~2b~ to gain the full reward.
+
+0xA39CAEF0 = Deliver the caravan wagon ~1~
+
+0xAD06C03B = You have destroyed a wagon
+
+0xB1F468DC = ~COLOR_ENEMY~Rival players~s~ can attack the caravan
+
+0xB45E5ED2 = Caravan wagon destroyed
+
+0xB368EB0A = Your Posse has destroyed a wagon
+
+0xC2C449A9 = ~1~ triggered a rival mission against ~2~. Destroy the caravan wagons ~3b~ to gain the full reward.
+
+0xC4045311 = A wagon has been destroyed
+
+0xCCF04739 = Caravan reached destination
+
+0xE57C61C0 = Get all the caravan wagons ~1b~ to the drop off within the time limit to earn the full reward.
+
+0xE21484AA = ~1~ delivered a wagon
+
+0xEFD30A31 = ~COLOR_ENEMY~~1~~s~ is intercepting the caravan
+
+0xFA2D599F = Caravan wagon reached destination
+

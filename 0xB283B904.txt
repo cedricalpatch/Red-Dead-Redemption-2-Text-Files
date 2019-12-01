@@ -1,0 +1,24 @@
+0x4CE22579 = ~z~Oh, you're impossible!
+
+0x7E708899 = ~z~Impossible?
+
+0x9AE54182 = ~z~Impossible? Really? I've wasted years on you and I'm impossible!
+
+0x51E09D01 = ~z~Go to hell.
+
+0x469C0674 = ~z~You're a sad little small town, self-important, rat of a man, you know that?
+
+0x569FA67F = ~z~
+
+0x59562BE8 = ~z~A rat... a rat who thinks he's a cat, that's your problem.
+
+0x79937EDB = ~z~You don't love anyone, not me, not your wife, no one!
+
+0xB0C36D3E = ~z~You're married too... you can be impossible.
+
+0xBF1FDEB8 = ~z~How do you want me to be?
+
+0xCCDE7A35 = ~z~But I love you...
+
+0xF0884190 = ~z~Oh, Moira, don't be like that, please!
+

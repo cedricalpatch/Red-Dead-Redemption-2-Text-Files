@@ -1,0 +1,76 @@
+0x0717F397 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ from ~COLOR_ENEMY~~1~
+
+0x4B097B40 = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+0x6AAE52E6 = Alerting the enemies may cause the target to flee. Stay undetected and on the lookout for the target arriving.
+
+0x6FA605E5 = Drop off the target
+
+0x7A11F723 = Target has arrived
+
+0x9C66B708 = Go ~1~
+
+0x15CA1E40 = Bounty Hunter
+
+0x30AC1C72 = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0x44B60C05 = Find a scouting spot before the targets arrive
+
+0x64D81F52 = The target escaped
+
+0x99E29B46 = Stakeout the area ~o~~BLIP_OBJECTIVE~~s~ undetected and wait for the targets to arrive. Deliver the targets ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead targets are worth less.
+
+0x283FC5DF = Find the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x296ADF64 = ~1~/~2~ targets were delivered
+
+0x346C6C39 = Wait for the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x399E0CC7 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0x617EEA9C = Find the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0x4682F82F = Pick up the target
+
+0x5504B336 = Alerting the enemies may cause the targets to flee. Stay undetected and on the lookout for the targets arriving.
+
+0x9023D973 = Pick up the targets
+
+0x85853AD4 = Get on the horse
+
+0x179533FB = ~1~ alerted the target
+
+0x252687B2 = Stakeout the area ~o~~BLIP_OBJECTIVE~~s~ undetected and wait for the target to arrive. Deliver the target ~e~~BLIP_AMBIENT_BOUNTY_TARGET~~s~ alive for the full reward. Dead target is worth less.
+
+0x401052AD = Capture ~COLOR_ENEMY~~1~~s~ dead or alive
+
+0x683520D2 = You lost a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0xA8D2A794 = The target was lost
+
+0xAFB82AA2 = ~1~ has joined in the bounty hunt
+
+0xB721B665 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0xB1047A09 = The targets escaped
+
+0xC2059ACB = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ is getting away. Targets that get too far from you will escape and their bounty may no longer be collected.
+
+0xCD9DE138 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0xE060A57A = Find a scouting spot before the target arrives
+
+0xE5F6E318 = The targets were lost
+
+0xE64A92AD = Wait for the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0xE3144E71 = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ was lost
+
+0xED2638BF = The target was delivered
+
+0xF94B76F7 = Help deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~ ~1~
+
+0xF77061B2 = The targets were delivered
+
+0xFC8EC99C = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+

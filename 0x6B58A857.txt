@@ -1,0 +1,124 @@
+0x0B370CCD = ~z~~sl:0.0:1.6~Play your damn hand.~sl:1.4~Play it!
+
+0x0DAF7C7F = ~z~~sl:0.0:1.5~Mr. Morgan.~sl:0.3:1.8~I took your advice, sir,~sl:~I took your advice.
+
+0x2AF5ADB3 = ~z~You wanna step outside, or deal with business here?
+
+0x2B5B5BBB = ~z~I am free, I am free!
+
+0x3AB9C223 = ~z~Gentlemen...
+
+0x3C6DCF83 = ~z~You wanna game?
+
+0x3D31D22B = ~z~I just want him to finish the game.
+
+0x4BC76432 = ~z~Well, sit yourself down then.
+
+0x4CFC66A8 = ~z~I was talking to you.
+
+0x5F4C8B48 = ~z~Reverend Swanson!
+
+0x6E9633C7 = ~z~I can't partners.
+
+0x6FF15624 = ~z~Come on...
+
+0x7DAA0057 = ~z~I took your advice, sir.
+
+0x8EA22098 = ~z~Come on, you.
+
+0x8F13A32A = ~z~I have removed myself from Morpheus' embrace.
+
+0x10CCA4EB = ~z~You're one lucky son of a bitch...
+
+0x16F0243F = ~z~Alright... wait...
+
+0x19D30B6E = ~z~but seeing I do just fine.
+
+0x22F615A8 = ~z~Now firstly, we ain't friends.
+
+0x24AFA007 = ~z~Sure.
+
+0x30B4B125 = ~z~I-I just want him to play.
+
+0x33F137DA = ~z~Now secondly, he can't hardly see, let alone reason.
+
+0x46AE9261 = ~z~I took your advice, sir.
+
+0x58EC36DC = ~z~I took your advice.
+
+0x59C88B54 = ~z~they're children of God.
+
+0x79C369C8 = ~z~What's the holdup?
+
+0x82D45C43 = ~z~I don't mean to spoil your fun.
+
+0x97D78655 = ~z~Quite sure.
+
+0x212F9257 = ~z~Don't make no mistake on that subject.
+
+0x458A5B0C = ~z~Now reasoning ain't never been one of my strong points neither...
+
+0x465BDC73 = ~z~None of us forced liquor down his throat, friend.
+
+0x718C2FC7 = ~z~Reverend!
+
+0x920EFAB8 = ~z~I got things to do.
+
+0x3931BF07 = ~z~Where'd you go?
+
+0x27781B94 = ~z~Sure, I'll play a few hands.
+
+0x58217FFE = ~z~Look at him, he's finished.
+
+0x84700C34 = ~z~Let's get out of here.
+
+0x180606B4 = ~z~Fair?
+
+0x1849072E = ~z~You sure?
+
+0xA3CE9F6B = ~z~Why can't we all just get along?
+
+0xA6599955 = ~z~Where'd he go?
+
+0xAB99ADD9 = ~z~I gotta get him outta here.
+
+0xB2E5E91F = ~z~but lucky...
+
+0xB2833CD4 = ~z~These are good men, Arthur.
+
+0xB8233CE8 = ~z~home.
+
+0xBC5E4F62 = ~z~C'mon, Reverend. Let's get you...
+
+0xBD4A7F97 = ~z~Mr. Morgan.
+
+0xC97F9652 = ~z~you know that?
+
+0xC7346636 = ~z~They're children of God...
+
+0xCC97E5D1 = ~z~I don't know.
+
+0xD9B536BD = ~z~I ain't so sure.
+
+0xD894B62F = ~z~No more shall I sink, sir.
+
+0xD9680A9D = ~z~Oh... well.
+
+0xDBFE87B6 = ~z~You ain't finished?
+
+0xE9A9230B = ~z~Sit down, Reverend. We ain't finished.
+
+0xE22D495C = ~z~Then your God has finally deserted you.
+
+0xEB8AAEE2 = ~z~How's about you play in his place, huh?
+
+0xEE2D5FAD = ~z~Aw hell.
+
+0xF45FEDC1 = ~z~What you talking about?
+
+0xF83A73C7 = ~z~I'm surely a son of a bitch...
+
+0xFC3BD044 = ~z~That seems fair.
+
+0xFF5A4E6D = ~z~You don't seem free, friend. You seem drunk.
+

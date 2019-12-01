@@ -1,0 +1,8 @@
+0x5A85AD84 = ~z~But if you set me out to sea, I'll catch you a feast!
+
+0x6BAD4FD3 = ~z~I have bad luck with deer, sir.
+
+0x9BDB3032 = ~z~We'll need more food soon, Mr. Morgan.
+
+0x7982EB7E = ~z~I hear you, Mr. Pearson. Feel free to go and catch it yourself.
+

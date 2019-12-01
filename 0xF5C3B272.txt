@@ -1,0 +1,200 @@
+0x0190F379 = ~z~Least it's got a roof.
+
+0x01A84E08 = ~z~You and who?
+
+0x08760C13 = ~z~It's a sound lead, I told you.
+
+0x0BEEB55B = ~z~Last chance. Come out or we're coming in!
+
+0x0C54F550 = ~z~That was not the way I was expecting things to go.
+
+0x0CACD238 = ~z~Mount up, Arthur, we need to go.
+
+0x1BEF23D0 = ~z~to catch fools...~n~~m~Aww shit.
+
+0x1CAB7235 = ~z~Come on. We're gonna miss it if we don't leave now.
+
+0x1DB1B8E1 = ~z~There it is...
+
+0x1F60B8AB = ~z~What you doing?
+
+0x2D3A4516 = ~z~Well, that's good, 'cause you are a fool...
+
+0x2DBED6A4 = ~z~You're just gonna have to trust me on this one, Arthur.
+
+0x2FE8BC77 = ~z~are you?
+
+0x3B7BE199 = ~z~I feel like a fool.
+
+0x3B98662A = ~z~A stage.
+
+0x3FF6C704 = ~z~Now?
+
+0x4DDA8AAE = ~z~what you robbing?
+
+0x5A3C9F1A = ~z~Go on, get out of here before any more turn up.
+
+0x5B18FD48 = ~z~Now...
+
+0x5D47879C = ~z~Okay, here we are.
+
+0x6ADB962E = ~z~Hey, Arthur.
+
+0x6B161D42 = ~z~But if we decide to do it, once we've had a look...
+
+0x9D370523 = ~z~I thought I'd do it on my own.
+
+0x9DC2B235 = ~z~Yep, and I'd do it again right now.
+
+0x15AA87FB = ~z~Yeah...
+
+0x16DB1E0D = ~z~You've got a roof. 'Course, I'm outside with the juniors.
+
+0x30CDD091 = ~z~Nothing.
+
+0x30E5CDB9 = ~z~Yeah, it ain't much...
+
+0x31BCAA90 = ~z~I guess you.
+
+0x47EE868A = ~z~Those fellers who killed your pa?
+
+0x67FA4B1A = ~z~Don't forget I was on the run for murder before falling in with you boys.
+
+0x74E864F6 = ~z~For three years. ~rp~It ain't like I'm new to any of this.
+
+0x80AF7057 = ~z~Just a little robbery, alright, nothing serious.
+
+0x94E770E4 = ~z~Aw, come on, kid.
+
+0x96EC0588 = ~z~You boys thought you could just keep robbing every coach that came through?
+
+0x97B3CCE7 = ~z~This is a robbery! Drop your weapon and put your hands in the air!
+
+0x240FB876 = ~z~~sl:0.2~You ain't even twenty years old... your time'll come.
+
+0x431BF225 = ~z~They set up traps...
+
+0x436F8205 = ~z~Okay, okay, I do.
+
+0x661B96ED = ~z~There ain't no such thing as unprotected.
+
+0x750B34CC = ~z~It'll be unprotected.
+
+0x837FFC21 = ~z~Yep, seems good.
+
+0x1823AB6E = ~z~And what did he have to gain by giving you this information?
+
+0x6262BFEB = ~z~You've more than proved yourself the past six months.
+
+0x7964B9DF = ~z~I'm taking half the money.
+
+0x8053CB5D = ~z~I should make out okay.
+
+0x8425F2EC = ~z~Alright, see you back at camp.
+
+0x8681D419 = ~z~I don't need no hand holding, Arthur.
+
+0x10068F03 = ~z~I don't believe you.
+
+0x27556EF9 = ~z~Alright, let's get going then. It should be on its way right now.
+
+0x42116A2F = ~z~Quick, it'll be here any minute.
+
+0x49307E52 = ~z~like you and me.
+
+0x60162F25 = ~z~Good...
+
+0x155916A0 = ~z~Stage companies do this all the time.
+
+0x459467CE = ~z~You alive?
+
+0x769341F5 = ~z~The stage should be coming up the river from Catfish Jacksons any time now.
+
+0x94999527 = ~z~Look.
+
+0xA2C4B485 = ~z~and no security whatsoever as it comes up the...
+
+0xA7C143D0 = ~z~Follow me. I saw a good spot for an ambush.
+
+0xA963BEBB = ~z~Wait.
+
+0xAC02A2BA = ~z~sounds worth investigating.
+
+0xB2D3D5F8 = ~z~~sl:0.3~Seems like only yesterday, you and me was shooting our way in here to rob those fools.
+
+0xB469DF83 = ~z~Of course.
+
+0xB521D93F = ~z~According to the feller I met, it'll have a bunch of money aboard...
+
+0xB8434CE2 = ~z~it was good information.
+
+0xB5048788 = ~z~Okay, okay, just take it easy, alright boy?
+
+0xBCD2F725 = ~z~I said wait for my lead!
+
+0xC1FB2175 = ~z~I said drop the weapon!
+
+0xC794FF7A = ~z~~sl:0.3~Yeah, I know.
+
+0xC7437D82 = ~z~There's a stage coming through.
+
+0xC63489E8 = ~z~You see any? Soon as they're close enough, we'll jump out... hit 'em fast.
+
+0xCA88DFC6 = ~z~Won't be a huge take but...
+
+0xCAE581BE = ~z~Well, there's some money here.
+
+0xD1C6099A = ~z~What are you doing? They'll spot you.
+
+0xD4C905ED = ~z~Look...
+
+0xD9D61E53 = ~z~don't worry too much about it.
+
+0xD54D9AEF = ~z~I'll be glad to leave this place behind, if I'm honest. Got a bad feel to it.
+
+0xD69C2AB7 = ~z~Just wait for my lead, okay?
+
+0xD77979A7 = ~z~I don't know...
+
+0xDE6CA8CC = ~z~'cause it was a trap.
+
+0xDF8FB447 = ~z~I figured we'd take up position behind these rocks.
+
+0xDF892520 = ~z~Come on, Arthur, get behind these rocks.
+
+0xE0695E51 = ~z~Answer me!
+
+0xE0F43D10 = ~z~You mean did I give him money or a gun?
+
+0xE3EC4557 = ~z~And I don't see no escorts, neither. This should be a cakewalk.
+
+0xE6AC4880 = ~z~So who's the feller who told you about this?
+
+0xE7F4BA90 = ~z~but you're still alive, so...
+
+0xE96A99ED = ~z~who you want to go with?
+
+0xE282A160 = ~z~I'm telling you...
+
+0xE643173E = ~z~river trail between here and Catfish Jacksons.
+
+0xED46F80C = ~z~Anyone else? Anyone inside there?
+
+0xF3FCB2B1 = ~z~Okay...
+
+0xF7F76D6D = ~z~You sure about that?
+
+0xF82CDC4C = ~z~Not much...
+
+0xFA1650D3 = ~z~Evidently.
+
+0xFB6D4981 = ~z~Shit!
+
+0xFCBC16F6 = ~z~U.S. Marshals! You're under arrest!
+
+0xFEA2E501 = ~z~Let's leave the horses off the road to the right here.
+
+0xFF215A9D = ~z~You took us into a trap.
+
+0xFF6637AB = ~z~Are you coming then?
+

@@ -1,0 +1,70 @@
+0x0039CF8C = Use binoculars
+
+0x05BC67F6 = Ascend
+
+0x0E480C59 = The Ascend prompt will flash when you are too low. Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to ascend to the desired altitude.
+
+0x2B7814C8 = Go to ~o~Sadie~s~
+
+0x2C5576BF = Help ~o~Sadie~s~ into the Hot Air Balloon
+
+0x3F43234E = The balloon crashed.
+
+0x6FF89688 = Use the binoculars to identify the ~o~prisoner~s~
+
+0x8D47CCD2 = Mount your ~o~horse~s~
+
+0x9EDDB07E = Follow ~o~Sadie~s~
+
+0x56ED4D16 = Sadie's horse died.
+
+0x70A694B0 = Use the binoculars to search the ~o~fields~s~ for John
+
+0x78A91A00 = Grab
+
+0x78CF57A9 = Failed to maintain altitude.
+
+0x94C0B55F = Use the rope to pick up ~o~Sadie~s~
+
+0x436F57C3 = Rope
+
+0x518DA301 = The balloon crashed into the water.
+
+0x4410AD30 = Take out the pursuing ~e~O'Driscolls~s~
+
+0x783507C3 = Fly to ~o~Sisika Penitentiary~s~
+
+0x13279628 = The Ascend prompt ~INPUT_VEH_FLY_THROTTLE_UP~ shows your current altitude as it fills. The yellow marker shows the desired altitude.
+
+0xAE67CD64 = Use ~INPUT_VEH_FLY_THROTTLE_UP~ to ascend to the desired altitude
+
+0xB4E63857 = The pilot was killed.
+
+0xB933C0F6 = You scared the pilot.
+
+0xBD2CA90B = Take out the ~e~O'Driscolls~s~
+
+0xC86D5CB4 = Zoom in on the ~o~prisoner~s~
+
+0xC2375ECE = Equip binoculars
+
+0xCB800BFC = The guards were alerted.
+
+0xD2C655B2 = Descend to ~o~Sisika Penitentiary~s~
+
+0xD9F8A3BB = You are at the altitude with best wind flow. Remain at this altitude to keep your speed up.
+
+0xDA8EB0B9 = Sadie was abandoned.
+
+0xDF273F6E = You failed to pick up Sadie in time.
+
+0xE5C6FC7F = Return to ~o~Sadie~s~
+
+0xEA8244CE = The hot air balloon will descend while you are not holding ~INPUT_VEH_FLY_THROTTLE_UP~.
+
+0xED660F28 = Lift
+
+0xF1688017 = Escape the ~e~law~s~
+
+0xFC9168EC = The Ascend prompt will turn red if you are too high. Release ~INPUT_VEH_FLY_THROTTLE_UP~ to descend to the desired altitude.
+

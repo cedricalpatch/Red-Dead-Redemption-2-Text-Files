@@ -1,0 +1,16 @@
+0x1B0F0956 = ~z~~sl:0.0:2.9:1~Okay. Go have a rest now.
+
+0x3EB24896 = ~z~
+
+0x15C67EC1 = ~z~~sl:0.0:1.1:1~Later.
+
+0x22C4F350 = ~z~~sl:2.1:0.0~We gotta get something to eat, Arthur.
+
+0xCBEAC59D = ~z~Sure.
+
+0xE3819A38 = ~z~Come on Jack, read for me a little.
+
+0xF7A4427D = ~z~~sl:0.7:0.0~We're all hungry, son. Just try reading.
+
+0xF252B7DA = ~z~I'm hungry, momma.
+

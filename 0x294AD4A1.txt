@@ -1,0 +1,308 @@
+0x012A8751 = ~z~Always... I'm a regular charmer... now come on.
+
+0x012F8650 = ~z~There's only one of you! Give him up.
+
+0x02BA33B0 = ~z~You're gonna have to draw on me to get me out.
+
+0x052FA058 = ~z~Ah, Mr. Brown.
+
+0x0837E5AF = ~z~You ain't nothing special...
+
+0x09C6ADD3 = ~z~For a man with a bullet in him, you talk a lot.
+
+0x0A54AB59 = ~z~A real man wouldn't take me in!
+
+0x0B190252 = ~z~You take a bounty, you kill him. That's what I done.
+
+0x0BA0B483 = ~z~It ain't often you can come jaw with a feller you duelled.
+
+0x0F5C16BB = ~z~Looks a mite more comfortable than your mine, at least.
+
+0x1D3F7242 = ~z~Dead end.
+
+0x1D86A72D = ~z~Oh, hell.
+
+0x1ED724BA = ~z~They're too close to town, pull up.
+
+0x1F36ECA9 = ~z~but you won't beat me, bounty hunter.
+
+0x2A0A249A = ~z~Find your own damn bounties!
+
+0x2BBF5447 = ~z~You duel a man and oughta put him down...
+
+0x2E0B8A52 = ~z~I'll say something to the law.
+
+0x3A3CAD9E = ~z~I prefer to let our noble legal system deal with you...
+
+0x3A4DF164 = ~z~Not knock him out, and tie him up.
+
+0x3BC9A5CE = ~z~Come easy.
+
+0x3C06D33A = ~z~I hope he strangles you!
+
+0x3C1F0EC5 = ~z~Give him up!
+
+0x3D12228B = ~z~Shit.
+
+0x3D99841C = ~z~You hear? I want peace.
+
+0x3E66520B = ~z~None of us do.
+
+0x4B1498BA = ~z~We're going back to Strawberry.
+
+0x4C05A4A6 = ~z~Let's tie up that shooting arm.
+
+0x4C82F22D = ~z~Well, this was fun.
+
+0x4E5F65D2 = ~z~Got Brown here.
+
+0x4FBD9BB1 = ~z~I can manage him fine.
+
+0x5DFA2F85 = ~z~That's Big Josh, alright.
+
+0x5FEF20A2 = ~z~Joshua Brown, I don't like you.
+
+0x7F295F16 = ~z~Yeah, it's funny that. Because you keep coming down to see me.
+
+0x7FAC17D7 = ~z~Try and get a glance out the window there. You'll see me living high.
+
+0x8A05C322 = ~z~He dueled me, so I'd say that's a yes.
+
+0x8C9D5502 = ~z~They're almost at Strawberry. Let them go.
+
+0x8E485EAD = ~z~All you other bounty men, you make me sick.
+
+0x9B8F5C01 = ~z~Damn you.
+
+0x9B646F02 = ~z~There's only one way outta here...
+
+0x9CCAD2C3 = ~z~Looks a mite more comfortable than your mine, at least.
+
+0x10F5D027 = ~z~I ain't here to kill ya.
+
+0x12F5A9DC = ~z~He's ours now!
+
+0x18F12E15 = ~z~That's Big Josh, alright.
+
+0x27FF0923 = ~z~I woulda been gone, you'd done your job and killed me when we fought.
+
+0x29CFC64D = ~z~I deserve to go out with some damn honor!
+
+0x31ACDB5C = ~z~There's always a positive and negative way of looking at things, I guess.
+
+0x32F5EAE7 = ~z~You trying to be winsome, bounty hunter?
+
+0x33C2E142 = ~z~Take a nap, old man.
+
+0x42CA9B7C = ~z~I kinda regret not killing you.
+
+0x43C3580C = ~z~He's staying with me.
+
+0x45B06B4F = ~z~You're lucky this time!
+
+0x65A50384 = ~z~You got nowhere to go, bounty hunter.
+
+0x77FF2838 = ~z~I ain't here to kill ya.
+
+0x79A0E6D2 = ~z~I can manage him fine.
+
+0x79A728D2 = ~z~I kinda regret not killing you.
+
+0x82A48E14 = ~z~It ain't often you can come jaw with a feller you duelled.
+
+0x83AA8141 = ~z~You ever wake up down here, think you've died and gone to hell?
+
+0x83EF68BE = ~z~Yeah? Well... to hell with you.
+
+0x113BF1DE = ~z~I don't need to hear it, sir.
+
+0x191EAF06 = ~z~You got no decency, bounty hunter.
+
+0x193E4FBE = ~z~That's the kind of silly thinking that got me after you to begin with.
+
+0x209E75F6 = ~z~You killed all those men. You're not better than me.
+
+0x378C61C6 = ~z~I don't deserve this!
+
+0x410B315D = ~z~What I seen of you, you won't keep your money long.
+
+0x415E9BEC = ~z~There's always a positive and negative way of looking at things, I guess.
+
+0x473C0209 = ~z~Hey! He looks heavy. Can we take that bounty off of you?
+
+0x481C8D25 = ~z~You shot me. And you didn't even have the decency to do it right.
+
+0x565B9F64 = ~z~That's what I deserve you damn sneak! You damn gut shooter!
+
+0x633F392B = ~z~I lived by the gun, let me die by it, dammit.
+
+0x635D975D = ~z~Lock me up. Forget about me.
+
+0x643ADE75 = ~z~Make him comfortable downstairs.
+
+0x650B8B5B = ~z~We duelling again, bounty hunter?
+
+0x698ED818 = ~z~Here we are... Strawberry. I hear the cells here are really comfortable.
+
+0x730E7C18 = ~z~Come on now.
+
+0x939C2712 = ~z~Lucky? That ain't what I call it.
+
+0x3095F7DB = ~z~A real man wouldn't tie me like this!
+
+0x3797A76B = ~z~Yeah, it's funny that. Because you keep coming down to see me.
+
+0x4173A028 = ~z~I was out of this cell, I would shoot you for gloating.
+
+0x4998A9B8 = ~z~We're taking that bounty!
+
+0x5123FEB8 = ~z~They're turning back.... I guess I'm all yours.
+
+0x5378D638 = ~z~You try and get a glance out the window there. You'll see me living high.
+
+0x6480D60B = ~z~He dueled me, so I'd say that's a yes.
+
+0x8932CA9F = ~z~Wouldn't matter if you were.
+
+0x9588E435 = ~z~You ever wake up down here, think you've died and gone to hell?
+
+0x29438A4E = ~z~and that's through me.
+
+0x29734B51 = ~z~For a man with a bullet in him, you talk a lot.
+
+0x36669C14 = ~z~How you like making me rich, Mr. Brown?
+
+0x44911FD1 = ~z~I wish you'd killed me back there!
+
+0x51708BB7 = ~z~We're going back to Strawberry.
+
+0x318207E8 = ~z~I shoulda dropped you twice.
+
+0x407778F1 = ~z~Only my mine didn't have bars on the entrance.
+
+0x419797C6 = ~z~Got Brown here.
+
+0x463644A8 = ~z~Joshua Brown, I don't like you.
+
+0x1393283C = ~z~Take a nap, old man.
+
+0x60411107 = ~z~Believe me, you don't want this one.
+
+0x65668723 = ~z~Look at you, down here. You've really settled in.
+
+0x66967593 = ~z~What the hell?
+
+0x69493372 = ~z~If you was down here... I'd stay the hell away.
+
+0xA0828321 = ~z~Got no pride. Just coyotes... fighting over something else's kill.
+
+0xA3C0147D = ~z~He's staying with me.
+
+0xA141CB4E = ~z~That's the kind of silly thinking that got me after you to begin with.
+
+0xA86729F0 = ~z~Call again.
+
+0xAB4DFB7E = ~z~If I'd been quicker on the draw...
+
+0xAD92AD75 = ~z~Pay's right here. He make you work for it?
+
+0xADC5F235 = ~z~A real man woulda killed me!
+
+0xAE98765E = ~z~Only my mine didn't have bars on the entrance.
+
+0xAEF5DDE4 = ~z~I don't need to hear it, sir.
+
+0xAF83E7D2 = ~z~I was out of this cell, I would shoot you for gloating.
+
+0xB1CAB092 = ~z~You're popular, ain't you?
+
+0xB3DEBCFA = ~z~You wouldn't have got me in my younger days...
+
+0xB1089A4A = ~z~Come easy.
+
+0xBBE73911 = ~z~Oh, I ain't gone anywhere.
+
+0xC0FFC41B = ~z~No one shoots like you do, hasn't had some practice.
+
+0xC5D4588D = ~z~Find your own damn bounties!
+
+0xC7FD4834 = ~z~Yeah? Well... to hell with you.
+
+0xC9F6EF7D = ~z~Lucky? That ain't what I call it.
+
+0xC10B0781 = ~z~You trying to be winsome, bounty hunter?
+
+0xC2363CA5 = ~z~I'll say something to the law.
+
+0xC412494D = ~z~Look at you down here. You've really settled in.
+
+0xC674493D = ~z~You checked me in here. You could check me out.
+
+0xCCA87272 = ~z~Visit anytime.
+
+0xCCD0DAE4 = ~z~You come to finish the job?
+
+0xCD47B8DA = ~z~Let's tie up that shooting arm.
+
+0xCECFA30A = ~z~Always... I'm a regular charmer... now come on.
+
+0xCF72E028 = ~z~Only a matter of time before you're in one of these cells too.
+
+0xCF6460E4 = ~z~I bet you got a price on you too... somewhere.
+
+0xD9CD88DB = ~z~And you ain't going stay sharp for very long.
+
+0xD47F6137 = ~z~It ain't gonna be easy.
+
+0xD653EDD0 = ~z~You checked me in here. You could check me out.
+
+0xDA27BF29 = ~z~Now, leave me to my peace.
+
+0xDA604D3E = ~z~How you like making me rich, Mr. Brown?
+
+0xDAC0EDBB = ~z~If you was down here... I'd stay the hell away.
+
+0xDE8E8D70 = ~z~You're popular, ain't you?
+
+0xDEDB96D8 = ~z~So long, then.
+
+0xDF9B650B = ~z~Lucky you're still here.
+
+0xE5F245CF = ~z~I prefer to let our noble legal system deal with you...
+
+0xE881E981 = ~z~What I seen of you, you won't keep your money long.
+
+0xE6250D8C = ~z~Look who's come to see me.
+
+0xE6378D87 = ~z~I could, yeah... but that don't mean I want to.
+
+0xE517980F = ~z~And I don't deserve to have to listen to this.
+
+0xEADED1F1 = ~z~Hey! He looks heavy. Can we take that bounty off of you?
+
+0xED3070E1 = ~z~Stubborn fool.
+
+0xF5ECE5C4 = ~z~I woulda been gone, you'd done your job and killed me when we fought.
+
+0xF7FA14E1 = ~z~Bounty hunter.
+
+0xF8BA2DC8 = ~z~I could, yeah... but that don't mean I want to.
+
+0xF91B3F1E = ~z~Believe me, you don't want this one.
+
+0xF91C3FB3 = ~z~And I don't deserve to have to listen to this.
+
+0xF3465A56 = ~z~~sl:0.0:1.2~Goddamn...~sl:0.3~bounty-hunting son of a bitch... damn you.
+
+0xF480973D = ~z~You mighta found me...
+
+0xF586404C = ~z~~sl:0.0:2.3~I woulda put one in the middle of ya eyes~sl:~before you even blinked.
+
+0xF4671136 = ~z~More damn bounty hunters?
+
+0xF4731025 = ~z~Back up those stairs with you.
+
+0xFAF179D4 = ~z~Get that sack of dirt!
+
+0xFB867C77 = ~z~Here we are... Strawberry. I hear the cells here are really comfortable.
+

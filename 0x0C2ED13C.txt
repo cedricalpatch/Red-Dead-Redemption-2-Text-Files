@@ -1,0 +1,34 @@
+0x0C68B2B3 = ~z~We're all doomed,  just a question of when.
+
+0x1AA1F7D9 = ~z~Don't quite feel so big no more.
+
+0x1F500135 = ~z~It ain't good, but if we keep hidden, it'll pass.
+
+0x8C1E3224 = ~z~You think we're doomed?
+
+0x34DA2C49 = ~z~Still a big country.
+
+0x93DAA616 = ~z~Like this?
+
+0x681B92CB = ~z~Me too...
+
+0x774DECFD = ~z~Been a tough few weeks.
+
+0x843D86DC = ~z~No, not quite like this...
+
+0x4043FEEA = ~z~Government agents, bounty hunters, traps, massive prices on our heads...
+
+0x66904B82 = ~z~Awful... but we've been through this before.
+
+0xBA2872B1 = ~z~Better... nearly fine, but...
+
+0xCCBB17F6 = ~z~How you feeling?
+
+0xDACFB41F = ~z~Course I know... just give it a few more days... I know it's boring.
+
+0xE85B134C = ~z~That's the modern world... I think I liked the old ways better.
+
+0xE527C8CF = ~z~not quite, you know?
+
+0xFE26162E = ~z~Thanks for your words of encouragment.
+

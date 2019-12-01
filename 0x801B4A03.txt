@@ -1,0 +1,42 @@
+0x0AA9E6CA = ~z~Hey, hey... how about a song, huh?
+
+0x1C096566 = ~z~porque cantando se alegran, cielito lindo, los corazones.
+
+0x1DC50CFC = ~z~Hey, make some room for John there.
+
+0x2B77A861 = ~z~Come on! Are we celebrating here, or what?
+
+0x2E5A985A = ~z~un par de ojitos negros, cielito lindo, de contrabando.
+
+0x3F9E3AE1 = ~z~Ese lunar que tienes, cielito lindo, junto a la boca,
+
+0x4AFE51A1 = ~z~un par de ojos negros, cielito lindo, de contrabando.
+
+0x5C2CF3FE = ~z~Ay, ay, ay, ay, canta y no llores...~n~~m~Ay, ay, ay, ay!
+
+0x95C7E733 = ~z~porque cantando se alegran, cielito lindo, los corazones.
+
+0x190DEDC1 = ~z~De la Sierra Morena, cielito lindo, vienen bajando,
+
+0x5070F257 = ~z~Javier... play us away.
+
+0x47703C33 = ~z~porque cantando se alegran, cielito lindo, los corazones.
+
+0x79322E08 = ~z~no se lo des a nadie, cielito lindo, que a mi me toca.
+
+0x324611DF = ~z~Ay, ay, ay, ay, canta y no llores...~n~~m~Ay, ay, ay, ay!
+
+0x632001E4 = ~z~Ese lunar que tienes, cielito lindo, junto a la boca,
+
+0xC2E8D749 = ~z~That's it, come on, come on in here.
+
+0xCFB670E4 = ~z~He's back alright.
+
+0xD547D7EC = ~z~no se lo des a nadie, cielito lindo, que a mi me toca.
+
+0xED8F087E = ~z~Ay, ay, ay, ay, canta y no llores...~n~~m~Ay, ay, ay, ay!
+
+0xFA2045B7 = ~z~Good to have you back here, we've missed you.
+
+0xFC9734D4 = ~z~De la Sierra Morena, cielito lindo, vienen bajando,
+

@@ -1,0 +1,46 @@
+0x0A5E2DF5 = ~z~~sl:0.0:1.6~Ran in a gang for years,~sl:0.4~never earned a legal dollar.
+
+0x4FA5B88B = ~z~~sl:0.0:2.2~False, true, bad...~sl:1.2~a little good.
+
+0x7EF3A678 = ~z~
+
+0x8A1B1EE9 = ~z~
+
+0x9C90525F = ~z~Tough!
+
+0x33C99025 = ~z~~sl:0.0:2.0~Listen, I know I ain't well but,~sl:1.0~ don't pity me.
+
+0x45DE344E = ~z~~sl:0.0:1.0~My grandfather,~sl:0.3~farmed turnips in some bog in Lincolnshire.
+
+0x65CD64DA = ~z~~sl:0.0:1.1~Raised and...~sl:0.4~lost a family.
+
+0x411A1B74 = ~z~I'm a product of this country.
+
+0x989ED9CE = ~z~Mind if I sit?
+
+0x5398C071 = ~z~~sl:0.0:1.9~Saw unspeakable evil and~sl:0.3:1.3~remarkable kindness,~sl:~usually from the same folks.
+
+0x63556F3C = ~z~I've done all a man could want.
+
+0x81349B9C = ~z~~sl:0.0:1.6~Saw pretty much the whole country,~sl:0.0:1.5~from Madison Avenue to...~sl:0.4~San Francisco.
+
+0xA2BFD032 = ~z~~sl:0.0:1.4~Guess I ain't unlucky at all.~sl:~Guess I'm real lucky!
+
+0xAA087CA1 = ~z~Envy me!
+
+0xAEB6F6AC = ~z~~sl:0.0:1.2:1~Old...
+
+0xB44E734F = ~z~~sl:0.0:1.0~This...~sl:0.5~this is what you're offered.
+
+0xCED62862 = ~z~Did bad, did good.
+
+0xD42C4196 = ~z~~sl:0.0:0.8:1~I'm...
+
+0xE3B5EFFF = ~z~
+
+0xED2982EA = ~z~I've never had to eat a turnip in my life!
+
+0xF810895A = ~z~~sl:0.0:1.5~Don't you worry about me.~sl:1.3~I'm okay.
+
+0xFEF02677 = ~z~~sl:0.0:3.0~In Lincolnshire which, I'm told, is in England.~sl:~Famous for turnips.
+

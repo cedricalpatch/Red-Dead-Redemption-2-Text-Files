@@ -1,0 +1,48 @@
+0x0342079E = ~z~So you keep telling me.
+
+0x06EC9059 = ~z~Is it? I don't know what it means.
+
+0x2E435F06 = ~z~hiding how dumb you are by not saying much.
+
+0x3E884252 = ~z~In that case, you'll say something.
+
+0x4A0B9530 = ~z~Silence... silence, I've got enough time for silence. It's called eternity.
+
+0x4F54E3EB = ~z~Maybe it just don't need to be said, ever think of that?
+
+0x5C1B3AB5 = ~z~Well... kinda means big and tough, and...
+
+0x5F66C14C = ~z~That's me.
+
+0x24A38E89 = ~z~I don't know... if I knew, I'd say it.
+
+0x65D7CDBE = ~z~How you keeping?
+
+0x71B265E3 = ~z~Oh, it doesn't have to be.
+
+0x165D71FD = ~z~I see what you did there, mighty clever. You know, maybe you ain't so dumb.
+
+0x389F73BE = ~z~Yes, that's the word, taciturn.
+
+0x978FF460 = ~z~Maybe... maybe silence is okay.
+
+0x19443508 = ~z~I'm keeping.
+
+0xA4F40F2C = ~z~
+
+0xB327AB93 = ~z~and folks knowing I'm dumb because I sound like you,
+
+0xC099C677 = ~z~If the choice is folks thinking I'm dumb but not knowing for sure,
+
+0xDC4639A7 = ~z~You are a very boring man, Charles Smith. You know that?
+
+0xE647CE90 = ~z~I like that... big, tough, taciturn.
+
+0xEC4A1DD7 = ~z~I think I'd rather keep them wondering.
+
+0xEE0BDD32 = ~z~I'm starting to understand eternity a little better, it's going to be a lot like this conversation.
+
+0xF0A12685 = ~z~Say what?
+
+0xF108632B = ~z~
+

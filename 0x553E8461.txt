@@ -1,0 +1,656 @@
+0x017DDD4F = ~z~How can I help you, miss?
+
+0x01CA7A82 = ~z~I won't be giving you no mail to post any time soon, that's for sure.
+
+0x025D337F = ~z~No place for wildlife in camp...
+
+0x036739F6 = ~z~Not a chance...
+
+0x039497B8 = ~z~Come near me, sailor... and I will slice you up!
+
+0x03CE5204 = ~z~There'll be time for killing soon enough.
+
+0x0686F770 = ~z~Alright.
+
+0x06F162A6 = ~z~Remind me not to get on your bad side.
+
+0x06F600A4 = ~z~~sl:0.4~I didn't ask for his goddamn help.
+
+0x07B7FF8C = ~z~Careful now!
+
+0x07F573DE = ~z~
+
+0x0930570E = ~z~Here...
+
+0x09850820 = ~z~
+
+0x0A916AF3 = ~z~Maybe...
+
+0x0AE6C8C8 = ~z~Won't be long before you're smoking cigars and playing the harmonica.
+
+0x0B4CF0ED = ~z~~sl:0.0:8.4~It's Mrs. So I need potatoes, carrots, onions, flour, oats, salt, eggs...~sl:0.3~apples if you got 'em.
+
+0x0B5C57B0 = ~z~~sl:0.4~I could train my goat to do this faster.
+
+0x0B238C9A = ~z~~sl:0.7:0.0~And what's this? "Return to Tacitus Kilgore."
+
+0x0B2314CE = ~z~Might as well see what they got on them.
+
+0x0BF7361C = ~z~Well, I'd like to say I missed your refined conversations, but...
+
+0x0C8A3C20 = ~z~Well you wanted to see some action, lady, now you got your wish!
+
+0x0C8BFB01 = ~z~~sl:0.1:0.0~Yeah, ~rp~they left the ladies in port.
+
+0x0E5626E5 = ~z~Well, ~rp~I guess we all gotta do our share, Princess.
+
+0x0EC11009 = ~z~Got another one behind me, in the rocks!
+
+0x0F41EF82 = ~z~Why don't you drive?
+
+0x0FCE9059 = ~z~Get behind something and stay down!
+
+0x1A5D635F = ~z~Look, I ain't lazy, Mr. Morgan.
+
+0x1BD3ACBD = ~z~
+
+0x1D64FE63 = ~z~~sl:0.0:2.8~and the first part of useful is not driving me insane...~sl:~with your constant complaining.
+
+0x1E2B5AAC = ~z~Yes, we err...
+
+0x1F3101FB = ~z~You know, I think I've heard enough of your opinions, miss.
+
+0x2A8C7346 = ~z~You didn't get yourself killed then Mrs. Adler?
+
+0x2AA283ED = ~z~was there insufficient feathers in your pillow?
+
+0x2AB8B265 = ~z~I don't remember asking you to prove it.
+
+0x2AC7A689 = ~z~Come on, lady, get a move on.
+
+0x2B35B0CA = ~z~Kilgore.
+
+0x2B279AFC = ~z~go buy yourself a backbone.
+
+0x2C29AAD5 = ~z~Something about a job with the Grays.
+
+0x2C724B6B = ~z~Behind me, near those rocks!
+
+0x2F5A4187 = ~z~Because you've caused enough trouble already.
+
+0x2FB2521C = ~z~Thanks...
+
+0x2FD339F9 = ~z~That's alright, I'll look at everything you got.
+
+0x2FDF70D7 = ~z~Who gave you that gun?
+
+0x3A274EA1 = ~z~~sl:0.0:1.2~Something like that.~sl:0.8~And you sell clothes?
+
+0x3A7027DE = ~z~I'll have you know I used to love playing the harmonica before,
+
+0x3C08EEFE = ~z~I just want a peek in that journal of yours. The mind boggles.
+
+0x3CDA3E61 = ~z~Thanks...
+
+0x3EB6DA61 = ~z~Told you I could shoot a gun, didn't I?
+
+0x3ED64259 = ~z~Hey, I was just kidding...
+
+0x3F9D2961 = ~z~Well, I thought we was outlaws...
+
+0x3FE4AE71 = ~z~Oh, I'm sorry, madam...
+
+0x3FF68E88 = ~z~Are you gonna do something?
+
+0x3FFA54B7 = ~z~We showed those bastards, huh?
+
+0x4A936C15 = ~z~Say whatever you damn well please, but I tell you...
+
+0x4AB3452E = ~z~I was out in the fields...
+
+0x4BF1C1FD = ~z~What are you doing? We should get outta here.
+
+0x4D449179 = ~z~Yeah, I've run into them before.
+
+0x4DE42A63 = ~z~Shoot them for chrissakes!
+
+0x4E274AF6 = ~z~I ain't chopping vegetables for a living.
+
+0x4F140889 = ~z~Can I help you mister?
+
+0x5BA90461 = ~z~So I've graduated from chopping vegetables to shopping?
+
+0x5CB343A2 = ~z~and~rp~ I sure as hell ain't taking orders from that sweating halfwit.
+
+0x5CBB29FB = ~z~
+
+0x5D456A52 = ~z~all of it.
+
+0x5EC5B3E1 = ~z~Tacitus Kilgore, ~rp~or whatever they changed it to...
+
+0x5EEDF102 = ~z~How dare you? I wouldn't dream of it.
+
+0x5F7940B4 = ~z~No, I don't think so.
+
+0x6AA3AEFC = ~z~I can do this, Arthur, you get on.
+
+0x6B7E2010 = ~z~Yeah, you run, you goddamn coward!
+
+0x6B9FBA11 = ~z~Why?
+
+0x6C8AF774 = ~z~Why don't you drive?
+
+0x6CFC30E6 = ~z~What is wrong with you two?
+
+0x6DF88819 = ~z~Look... it's some ointment, alright... for a private matter.
+
+0x6F4526D0 = ~z~
+
+0x6FFB0FBD = ~z~Enough!
+
+0x7B69DAC9 = ~z~That's what I said.
+
+0x7B376925 = ~z~I think this is everything.
+
+0x7BD3EDFD = ~z~Whenever we set up somewhere new, ~rp~Strauss, he heads into town,
+
+0x7CC25DD6 = ~z~I just want a peek in that journal of yours. The mind boggles.
+
+0x7D08C257 = ~z~making no small name for myself."
+
+0x7D1D0522 = ~z~Okay, no trouble.
+
+0x8A0BA4A4 = ~z~Say whatever you damn well please...
+
+0x8A9D4162 = ~z~Nothing.
+
+0x8A66F91F = ~z~Anyway, don't you go ribbing Pearson about that letter.
+
+0x8B85E41A = ~z~Are you coming with me then, woman?
+
+0x8D6AC4F7 = ~z~Outlaws... not idiots.
+
+0x8D407E76 = ~z~Hey, how's about this?
+
+0x8EBA9F36 = ~z~You don't think so? How about you pull over right now?
+
+0x9B24606A = ~z~~sl:0.0:1.8~We rob fools that rob other people.~sl:~These people, they're just trying to get by.
+
+0x9BFE39BD = ~z~You're in Lemoyne Raider country. You need to pay a toll to pass through here.
+
+0x9C128513 = ~z~Yeah, sure.
+
+0x9CFCE621 = ~z~What did you get there, Harold?
+
+0x9D5A8F76 = ~z~Maybe, if he asks. But maybe not.
+
+0x9E4E8038 = ~z~~sl:0.2:0.0~You're not saying, miss. You're shouting!
+
+0x9EA04E5B = ~z~What does it matter now?
+
+0x17E406BC = ~z~Okay, Miss High and Mighty...
+
+0x21A39DA6 = ~z~Of course, Mrs...?
+
+0x21AB4D8F = ~z~~sl:0.0:2.6~Oh, ~rp~robbing and killing's okay, ~sl:~~rp~but letter-reading's where we draw the line?
+
+0x22BAD32E = ~z~You didn't get yourself killed then, Miss Adler?
+
+0x22CC346C = ~z~Don't worry about me, "Mr. Kilgore", you go get your mail.
+
+0x26F97DB7 = ~z~carry a knife or use a gun.
+
+0x29D60542 = ~z~I'm trying.
+
+0x31DA8DDC = ~z~No. You insane?
+
+0x32DCEFF2 = ~z~Oh, you reading his mail now?
+
+0x32E7C813 = ~z~What is wrong with you two?
+
+0x34F477A1 = ~z~Not quite.
+
+0x37EA5EA8 = ~z~What, you don't even trust me to handle the shopping by myself?
+
+0x38A2423E = ~z~Okay.
+
+0x38C4E441 = ~z~Well, give it back then. Jesus...
+
+0x46BD8F59 = ~z~What are you folks up to?
+
+0x49D21DE0 = ~z~~sl:0.4:0.0~I guess. And~rp~ I ain't no scullion,
+
+0x53D5F377 = ~z~Good.
+
+0x54B55B00 = ~z~~sl:0.0:2.4~Hell, my sister's newborn had more strength than you~sl:~and he came out bright blue.
+
+0x59DE968F = ~z~No, pass those reins here.
+
+0x60A0A593 = ~z~Some local gang who don't seem to have grown out of playing soldiers.
+
+0x63A2130F = ~z~we're hunted.
+
+0x67A82AF5 = ~z~Oh, shut up.
+
+0x68CAD373 = ~z~Hey there.
+
+0x68F5426F = ~z~
+
+0x75E01EDA = ~z~So who did they say they were? Lemoyne Raiders?
+
+0x75EF1F04 = ~z~I won't be giving you no mail to post any time soon, that's for sure.
+
+0x76FFEFDD = ~z~Hey.
+
+0x79C44097 = ~z~Come on, princess.
+
+0x80D0588E = ~z~And if you don't stop hissing at me...
+
+0x81D3B24E = ~z~My husband and I...
+
+0x82F1B778 = ~z~You do this for a living?
+
+0x86C7DA7A = ~z~can you post this letter for me...
+
+0x86F884E0 = ~z~Some local gang who don't seem to have grown out of playing soldiers.
+
+0x88ABC47D = ~z~Right you wouldn't.
+
+0x88C1AFE1 = ~z~get a move on.
+
+0x89D803DA = ~z~Hey, you want me to drive?
+
+0x89DC5754 = ~z~You are! Complain, complain, complain.
+
+0x91D6820B = ~z~
+
+0x91EF5E51 = ~z~Not a chance...
+
+0x91FA986B = ~z~Just treat me equal and know... nobody's taking nothing from me ever again.
+
+0x92A1FC31 = ~z~I'm gonna kill somebody.
+
+0x94A18387 = ~z~Of course. You think I can't handle these fools?
+
+0x96CE60C2 = ~z~“I have traveled widely making no small name for myself”.
+
+0x98B6A85C = ~z~Anyway, don't you go ribbing Pearson about that letter.
+
+0x98E7963C = ~z~Yeah, I've run into them a few times now.
+
+0x111BD0FC = ~z~there's enough of it out there.
+
+0x142C3D36 = ~z~Alright, I'll drive us back.
+
+0x167C03DB = ~z~You come near me, sailor, and I'll slice you up.
+
+0x184BF545 = ~z~Fine.
+
+0x195DB143 = ~z~It ain't pretty, but it's what we do.
+
+0x219C8B7C = ~z~~sl:1.3:0.0~~rp~"Before you ask, ~rp~I am still yet to take a wife,
+
+0x286AA7B8 = ~z~I'm gonna kill you.
+
+0x375E3A88 = ~z~well they got guns of their own.
+
+0x384EA065 = ~z~I can hunt...
+
+0x392FC94E = ~z~if I don't get out of here soon...
+
+0x404A2AB7 = ~z~So? What's the plan? I shoot the shopkeeper while you...
+
+0x499BF78A = ~z~I won't be giving you no mail to post any time soon, that's for sure.
+
+0x553D9048 = ~z~And... nice pants, by the way.
+
+0x583FBABB = ~z~You cooled down then yet?
+
+0x698D4970 = ~z~All mail to be sent to the same alias.
+
+0x719B71D1 = ~z~You could try shooting at 'em!
+
+0x756A9C6A = ~z~~sl:0.5:0.0~I'm doing my best, ma'am.
+
+0x763A0AD2 = ~z~Well luckily, you told him...
+
+0x838DBA35 = ~z~Yeah, something like that. Who knows...
+
+0x843CBB9F = ~z~I just want a peek in that journal of yours. The mind boggles.
+
+0x855C7519 = ~z~Yes, I'd like to post a letter.
+
+0x904CD060 = ~z~I'll skin this fat old coot and serve him for dinner!
+
+0x934FB873 = ~z~I'm going as fast as I can here.
+
+0x949E0C29 = ~z~I'm fine.
+
+0x1561A116 = ~z~Oh, that? Now~rp~ that's Dutch's idea.
+
+0x1620F6A9 = ~z~This time.
+
+0x1907A683 = ~z~Just don't kill the camp cook... please.
+
+0x2331F082 = ~z~Are you coming then?
+
+0x4328DC29 = ~z~We got this, Arthur...
+
+0x4682EA8F = ~z~Well, luckily you told him.
+
+0x4741FD57 = ~z~I thought you were going to the post office?
+
+0x5043E534 = ~z~What a soft sack of shit he was.
+
+0x6694FEBF = ~z~~sl:0.9:0.0~I've birthed foals with more strength than you.
+
+0x7612B7F0 = ~z~And them things hunting us...
+
+0x7617EAB6 = ~z~Arthur!
+
+0x7937E7D5 = ~z~~sl:1.1:0.0~Here, gimme that back. ~rp~We got work to do.
+
+0x8906BC2F = ~z~So you head on in there, and you buy us some food to eat.
+
+0x9283C365 = ~z~Come on, lady...
+
+0x9388EF57 = ~z~but~rp~ I can assure you it's not for a lack of suitors...'
+
+0x9505F6F6 = ~z~Here's my list and...
+
+0x9881F49F = ~z~~sl:0.0:2.9:1~I ain't complaining, I'm just saying...
+
+0x9891DFCA = ~z~Well ain't cooking work?
+
+0x16842AE8 = ~z~Lady, you are enjoying this far too much.
+
+0x22458D9C = ~z~I think we're good here, Arthur. Guess you were fine leaving the shooting to me after all.
+
+0x32838F2A = ~z~Okay, here we are.
+
+0x38859FD3 = ~z~What you fools bring this creature back here for?
+
+0x53139C7D = ~z~tells 'em to start expecting mail from a
+
+0x55732CC4 = ~z~Just heading home.
+
+0x59598E58 = ~z~A new pair of pants and you think you're Landon Ricketts.
+
+0x80372C96 = ~z~What you mean nothing? What's in the parcel?
+
+0x89805ECB = ~z~I ain't afraid of dying.
+
+0x180761A1 = ~z~~sl:0.1:0.0~Try harder.
+
+0x220534C6 = ~z~I'll be fine!
+
+0x246746AE = ~z~Only ones paying a goddamn toll is you sons of bitches!
+
+0x604134F5 = ~z~well, my house and everything I owned got burned to the ground.
+
+0x627937A9 = ~z~Thanks... here, take that for yourself, okay?
+
+0x1816204C = ~z~Hey, watch it!
+
+0x4404625B = ~z~We do. Not the widest range of ladies' fashion, I'm afraid.
+
+0x8017284B = ~z~
+
+0x9650238B = ~z~Right you wouldn't.
+
+0x12477715 = ~z~Yeah... Okay, thanks. I'll go see what they're up to.
+
+0x17631319 = ~z~“I have traveled widely making no small name for myself”.
+
+0x28894765 = ~z~He ever actually even talked to a woman he ain't paid for?
+
+0x50755411 = ~z~Anyway, don't you go ribbing Pearson about that letter.
+
+0x72061709 = ~z~I think so.
+
+0x81263213 = ~z~Watch your damn mouth you crazy, goddamn fishwife!
+
+0x84958016 = ~z~How dare you? I wouldn't dream of it.
+
+0xA02E08A1 = ~z~~sl:0.0:3.5~that your health has not deteriorated further"...~sl:0.6~~rp~blah blah blah,~rp~ it's boring...
+
+0xA04EF39A = ~z~And some... new clothes, I see?
+
+0xA0A4D0E5 = ~z~Take it easy, we're in no rush.
+
+0xA7E70313 = ~z~They was gonna rob us.
+
+0xA8FE200A = ~z~Shut your goddamn mouth...
+
+0xA53E977F = ~z~while you're there?
+
+0xA99FAA2C = ~z~or you're gonna be missing a hand, lady!
+
+0xA116D401 = ~z~~sl:0.0:2.5:1~Hoowee, boy, we ain't got all day.
+
+0xA461D950 = ~z~~sl:0.0:2.6~but I tell you, if I don't get out of here soon,~sl:0.1~I'm going to kill somebody.
+
+0xA2891AE4 = ~z~if you will ride with me.
+
+0xA6677B75 = ~z~I'll work, but not this.
+
+0xA8521C72 = ~z~You wanna head out there?
+
+0xA28374CD = ~z~But I tell you, you keep me here...
+
+0xA9445449 = ~z~Keep it cool, Sadie.
+
+0xAA58219E = ~z~Maybe me and Mrs. Adler are gonna take a little ride.
+
+0xAAD988B3 = ~z~So, you get everything?
+
+0xAB4FE187 = ~z~Thank you.
+
+0xAB862BCD = ~z~You did good, but that's a lot of mess to make near camp.
+
+0xAB864DFB = ~z~So who did they say they were? Lemoyne Raiders?
+
+0xACA2BDB2 = ~z~So who did they say they were? Lemoyne Raiders?
+
+0xADA4311A = ~z~I would ride with you again, Mrs. Adler...
+
+0xADE4C01A = ~z~Right you wouldn't.
+
+0xAFA39A6D = ~z~Yeah, you run, you goddamn coward!
+
+0xB2E798CB = ~z~I don't doubt that. You sure look the part now.
+
+0xB5F4342D = ~z~~sl:0.1:0.0~"I haven't heard from you in some time,~rp~ so I prayed to the Lord above
+
+0xB8E64454 = ~z~Yeah, I've run into them a few times now.
+
+0xB50DADB6 = ~z~~sl:0.0:5.3:1~Oh, ~rp~I'm sorry, "Captain". ~rp~Did they do things differently in the navy?
+
+0xB54DDF11 = ~z~I know... I'm real sorry. About what you... you know. Maybe I'll keep my eye out for another one.
+
+0xB61DFBD7 = ~z~You're gonna tell me how to drive a wagon now?
+
+0xB76E338B = ~z~I think this is everything.
+
+0xB96F49CB = ~z~You put that knife down...
+
+0xB778BBF3 = ~z~Sure.
+
+0xBA41A7C8 = ~z~What the hell was that?
+
+0xBA243C95 = ~z~~sl:0.4:1.4~You are something else...
+
+0xBD5BAA91 = ~z~we shared the work...
+
+0xBD2418A5 = ~z~not lady.
+
+0xBDBB4864 = ~z~You need anything, Mr. Pearson?
+
+0xBDC73080 = ~z~
+
+0xBE94C1D8 = ~z~How you getting on?
+
+0xC019D4F4 = ~z~Are you going to tell Dutch?
+
+0xC0BFC51A = ~z~Is that so?
+
+0xC0EEC266 = ~z~~sl:0.0:1.6:1~Could you hurry up already?
+
+0xC1B921A1 = ~z~I'd be lying.
+
+0xC3B1E94E = ~z~~sl:0.0:1.6:1~Or should I say, the women...
+
+0xC3E65D9E = ~z~Don't mention it.
+
+0xC4B47DDE = ~z~I don't want no pity.
+
+0xC4BBD1BC = ~z~"Since we last corresponded, ~rp~I have traveled widely,
+
+0xC5A9EFA4 = ~z~How dare you? I wouldn't dream of it.
+
+0xC7AD5B28 = ~z~So be it...
+
+0xC8FCEC3D = ~z~You okay there, Sadie?
+
+0xC56E3DD8 = ~z~I wasn't some little wife with a flower in her hair baking cherry pies all day.
+
+0xC60BFA5A = ~z~
+
+0xC759E13B = ~z~Some local gang who don't seem to have grown out of playing soldiers.
+
+0xC830D8AE = ~z~"Dear Aunt Cathy,"
+
+0xC47859F0 = ~z~I know.
+
+0xC64616C6 = ~z~
+
+0xCB013E22 = ~z~
+
+0xCBDFF9FE = ~z~Not a chance...
+
+0xCEC76129 = ~z~Yeah, now make yourself useful...
+
+0xCEE5BC28 = ~z~I like Sadie...
+
+0xCF0C4DDE = ~z~Both of ya.
+
+0xCF30515C = ~z~Like I told you, my husband and I shared all the work.
+
+0xD038CC98 = ~z~Now I really must be going. Don't mention this to Vera.
+
+0xD1D574AA = ~z~I like Sadie, not lady.
+
+0xD2B065E9 = ~z~I'm working...
+
+0xD2D19BF7 = ~z~~sl:0.8:0.0~Look, ~rp~we're all hiding behind something...
+
+0xD2F0B01B = ~z~~sl:2.5:0.0~Here.
+
+0xD5F401BD = ~z~you've already done me a big favor today.
+
+0xD6D01373 = ~z~Oh, shut up.
+
+0xD7E94E29 = ~z~Yes, at shopping...
+
+0xD8BD074B = ~z~I ain't afraid of gun smoke.
+
+0xD9A9CF6E = ~z~Okay, get on, I'm about done here.
+
+0xD9F897E5 = ~z~Go, go, go!
+
+0xD72B880E = ~z~Hop on, I'll be right with you.
+
+0xD74CD8BA = ~z~And no guns...
+
+0xD119F805 = ~z~Thank you, Mr. Morgan.
+
+0xD425AA2B = ~z~Pull over?
+
+0xD966FE9B = ~z~but we do more than just hunting...
+
+0xD5223AD4 = ~z~You put that knife down or you're going to be missing a hand, lady.
+
+0xD17704D8 = ~z~Sometimes... ~rp~depending on the ladies.
+
+0xDB58FEF6 = ~z~Oh! ~rp~ Wait a sec.~rp~ Listen to this...
+
+0xDE9A1788 = ~z~Sure, not a problem.
+
+0xDF860AD9 = ~z~Well come with me then.
+
+0xE1C1EC4A = ~z~I'm gonna run this son of a bitch down!
+
+0xE3F37AE2 = ~z~Don't start. I can wear what I damn well want.
+
+0xE15A5422 = ~z~Goddamn it! Get moving, now! Go on!
+
+0xE19D574B = ~z~
+
+0xE24A3AE8 = ~z~
+
+0xE26D34F7 = ~z~Careful!
+
+0xE42E1D20 = ~z~And they was clearly planning to bushwhack us.
+
+0xE66B1F5D = ~z~Oh I almost forgot... Bill, Micah and Sean said to give you a message to meet them in Rhodes.
+
+0xE96F2C95 = ~z~You don't need to check I'm doing it right.
+
+0xE581F524 = ~z~Are you sure?
+
+0xE709A3E4 = ~z~Well, they say I lack finesse, but...
+
+0xE8602B14 = ~z~Big family, have you?
+
+0xE75889D6 = ~z~I think we're good here, Arthur. Nice shooting.
+
+0xE2976385 = ~z~At shopping?
+
+0xEB7D7557 = ~z~I know.
+
+0xEC251BE4 = ~z~I ain't complaining.
+
+0xEEDB9EAF = ~z~~sl:0.0:2.0:1~What is taking you so long?
+
+0xEFB0F0CF = ~z~Shit, let's get the hell outta here, go!
+
+0xEFD19E4D = ~z~What are you doing?
+
+0xF048577E = ~z~“I have traveled widely making no small name for myself”.
+
+0xF0527ED3 = ~z~I... I enjoyed myself out there.
+
+0xF2F3F0CE = ~z~Bye now.
+
+0xF8DAC679 = ~z~Hope it don't bring anyone sniffing around.
+
+0xF48B1335 = ~z~Probably shouldn't linger here too long.
+
+0xF48CDF6D = ~z~
+
+0xF214A8D7 = ~z~Ok.
+
+0xF441BB12 = ~z~So who did they say they were? Lemoyne Raiders?
+
+0xF483BB8E = ~z~Now you tell me, we was just there.
+
+0xF5639C06 = ~z~There, see? Not many still standing now.
+
+0xF374053E = ~z~Mrs. Adler did okay.
+
+0xFB0AC1E2 = ~z~Run with the men?
+
+0xFC1FCE10 = ~z~if you prove you can handle yourself.
+
+0xFD163B24 = ~z~Listen, lady, I got it all in the... wagon there.
+
+0xFD3784A8 = ~z~~sl:0.6:0.0~Where's that letter?
+
+0xFE291A80 = ~z~Not quite.
+
+0xFE963BD6 = ~z~I'm gonna go check the mail, nothing exciting...
+
+0xFEA20DD3 = ~z~~sl:0.2:0.0~And if you don't stop hissing at me, I'm gonna kill you.
+
+0xFEE05FAA = ~z~~sl:0.6:0.0~And you prefered that, ~rp~did you?
+

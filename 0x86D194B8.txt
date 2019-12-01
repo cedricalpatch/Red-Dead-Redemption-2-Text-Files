@@ -1,0 +1,310 @@
+0x013DD729 = ~z~Won't help? Fine. Move along.
+
+0x02E13163 = ~z~Come on, yes or no?
+
+0x03B14E75 = ~z~~sl:0.0:2.0~Listen. You, uh...~sl:0.8~you want to make some money?
+
+0x076A0C78 = ~z~Keep looking. Could be in a number of spots.
+
+0x07F5214B = ~z~Nothing. I'm a fool for believing...
+
+0x091417A8 = ~z~Okay, good to hear. Hurry up now.
+
+0x0A54F01D = ~z~
+
+0x0D92D91A = ~z~Leave me alone!
+
+0x0EEA36D1 = ~z~You're attracting attention. Help or move it.
+
+0x0F09D8C9 = ~z~~sl:0.0:2.7~But, um... you seem alright.~sl:~Got a few minutes? Want to make some money?
+
+0x1AB10E53 = ~z~~sl:0.0:3.4~I got a tip about this spot, but... it's a lot to dig, eh?~sl:0.6~You help, we split what we find?
+
+0x1B60F4B6 = ~z~You again? Dios, no!
+
+0x1C049719 = ~z~Ground won't dig itself...
+
+0x1CA3D244 = ~z~The soil just gets colder...
+
+0x1F126F16 = ~z~
+
+0x2A5233B4 = ~z~You praying? Get to digging.
+
+0x2AEA9A6F = ~z~~sl:0.0:1.6~Alright. Move on, then.~sl:~You'll get me seen, standing there.
+
+0x2BD5E77B = ~z~~sl:0.0:3.8~You joking? That's the law coming, shit...~sl:~you keep it! You, uh, you don't know me!
+
+0x2C8209F5 = ~z~
+
+0x2D42175D = ~z~Damn. Law's onto us. Uh... you never saw me.
+
+0x2D759942 = ~z~Law's out for my blood, I know it!
+
+0x2DA40C7C = ~z~Maybe you, eh? You want to help?
+
+0x2FB6BBB1 = ~z~You're just in my way. Get out of it.
+
+0x3A447B67 = ~z~Oh, you find something? Alright!
+
+0x3A23999D = ~z~Oh, eh... dios... uh... you aren't here to hurt me, right?
+
+0x3B7AE45D = ~t~In Spanish: Goddamn pigs!
+
+0x3C1ABF76 = ~t~In Spanish: Come on already...
+
+0x3E581367 = ~z~What I do to you? Leave me alone!
+
+0x3EB6044A = ~z~Well, shit! Good work.
+
+0x4B3D2E7C = ~z~~sl:0.0:2.1~Listen. I'm digging for valuables.~sl:~Don't judge me, they dead, they don't need jewels.
+
+0x4CF09F96 = ~z~I get it, not everyone's thing. How about you?
+
+0x5ABDF3D2 = ~z~Shit, the law's here.
+
+0x5DCA18B4 = ~z~Can always use more hands at a dig. Okay then.
+
+0x5F46440D = ~z~~sl:0.0:3.0~Heard the undertaker's boy jawing about the recent burials.~sl:0.0:1.3~Some rich folk.~sl:~Sounds like good money. You in?
+
+0x6BC97CE8 = ~z~Oh, you! Uhm... listen, I can't do this myself... let's just forget about last time, okay?
+
+0x6C609717 = ~z~Dammit, it's the law!
+
+0x7ACC105B = ~z~You gonna help or you gonna walk?
+
+0x7B40BEF2 = ~z~~sl:0.0:1.6~Wait... forget it.~sl:0.4~I don't have any extra shovels for you.
+
+0x7D89C732 = ~z~Oh, something! Really?
+
+0x7E2DD553 = ~z~~sl:0.0:2.4~There was another burial, should be something good,~sl:~but I need your help. Too much to dig alone.
+
+0x7EDB0B61 = ~z~~sl:0.0:5.4~You? Alright... I don't want no trouble, I just want a payday.~sl:~Split what we find, no hard feelings?
+
+0x8D09B4D6 = ~z~Well? I need to get back to it.
+
+0x8E7FE570 = ~z~~sl:1.0:2.2~Without your own shovel, you're no use.~sl:1.0~Some other time, eh?
+
+0x8E120986 = ~t~This is unfair. Pinche pais de mierda.
+
+0x8FD55DA1 = ~t~In Spanish: Mother of God...
+
+0x9AA18E3A = ~z~~sl:0.0:2.4~I know there's something good here, but I'm tired.~sl:~Come on, give me a hand and we'll split it.
+
+0x9CE86B14 = ~z~Alright then. Ain't nothing to it. Just dig.
+
+0x9EBCB302 = ~z~You there, I remember you. You have a few minutes?
+
+0x22CD4B1A = ~z~Ah, bueno. Get to it.
+
+0x23F37717 = ~z~More hands, eh? Glad to hear it. Get digging, amigos.
+
+0x29C63FD9 = ~z~Okay, try the next spot. There's money somewhere.
+
+0x31A89492 = ~z~My back thanks you. Okay, get digging.
+
+0x35B4D8D1 = ~z~Goddamn law... shit!
+
+0x39B42459 = ~z~
+
+0x39E2CF38 = ~z~
+
+0x43B0E2D4 = ~z~
+
+0x43FF3C64 = ~z~~sl:0.0:2.4~Son of a bitch... law's here!~sl:~Forget the dig, just move! And don't follow me!
+
+0x50C2E61F = ~z~You're just looking? Leave me alone then.
+
+0x52BA288B = ~z~Oh, come on! That's some lousy luck.
+
+0x55C25CC5 = ~z~That's a relief. Well, no time like now.
+
+0x56D25C71 = ~z~
+
+0x57B0DB09 = ~z~~sl:0.0:2.7~Come on. Easy money here,~sl:~but not much time to do it.
+
+0x70AFBE7F = ~z~Good. Y'all choose your own spots, let's get moving.
+
+0x77BD39A3 = ~z~I did nothing, nothing!
+
+0x79E24E81 = ~z~Maybe another time, eh?
+
+0x86F85575 = ~z~~sl:0.0:3.4~You help me find something, we split the...~sl:~the profit. Yeah?
+
+0x87F18D85 = ~z~Nothing? Keep looking, then.
+
+0x91A4A0EB = ~z~Don't give up yet.
+
+0x92D200DF = ~z~~sl:0.0:3.6~Hey! We met before.~sl:~Similar... circumstances.
+
+0x94F8856E = ~z~
+
+0x95B8DAA4 = ~z~~sl:0.0:3.3~Okay, very good. More hands the better.~sl:0.5~Spread out a bit, we'll make quicker work.
+
+0x95C4C38A = ~z~I'm alive, and I'm hungry. You help, we both eat.
+
+0x99EBC1D0 = ~z~Will you help me, eh?
+
+0x113ABB6E = ~z~Why are you just standing there?
+
+0x356C4EC8 = ~z~Why? I did nothing to you!
+
+0x359BE8DB = ~z~~sl:0.3~No luck yet? Uh... keep looking.
+
+0x571FB3F4 = ~z~~sl:0.0:3.5~Ah, well. I offered. You, then...~sl:~want to help out and make some money?
+
+0x681EF0D2 = ~z~Forget about me, c'mon!
+
+0x707F2883 = ~z~~sl:0.0:3.7~Listen, I hear one of the recent burials here was rich...~sl:~but I don't know which one.
+
+0x753DFBDF = ~z~Damn. What a waste. Thanks anyway...
+
+0x889FEBFC = ~z~~sl:0.9:2.8~Well... I thought you might be able to help me~sl:~with this job, but... you don't have no shovel.
+
+0x1678E7A7 = ~z~Whoa, hey... I'm not lookin' for trouble... okay?
+
+0x2374B8B0 = ~z~You just here to stare? Go away then.
+
+0x4650D3E2 = ~z~Yes or no?
+
+0x5901DDA7 = ~z~It's easy money... but we gotta be fast. You in?
+
+0x6896BE94 = ~z~Oh, not again...
+
+0x9128AFFC = ~z~~sl:0.0:4.8~Oh... oh, shit. Okay, listen.~sl:0.0:2.2~I got more work than I can do alone...~sl:~Forget last time. Make some money?
+
+0x21851F4E = ~z~You won't help, you won't help. So get.
+
+0x25526B46 = ~z~Leave me alone!
+
+0x50359E0E = ~z~~sl:0.0:2.5~Okay, well... find another spot.~sl:~It's somewhere, eh?
+
+0x61270E6D = ~z~Oh! Muy bien! What we get, anyways?
+
+0x63382A5F = ~z~Get away from me, animal!
+
+0x288657EB = ~z~Serious? I don't believe it!
+
+0x608953EF = ~z~Why do you watch me? Go away.
+
+0x860449D2 = ~z~~sl:0.0:1.3~It's a regular thing for me,~sl:~maybe I'll catch you another time.
+
+0x5796766D = ~z~So? All this waiting around is making me nervous...
+
+0x32271382 = ~z~Alright! Everyone take a spot, it'll go fast.
+
+0x33404399 = ~z~Oh, alright! Bunch of us'll make fast work.
+
+0x42703621 = ~z~Good. Well? Get digging then.
+
+0x66607864 = ~z~I don't got much time here. You gonna help?
+
+0x97524184 = ~z~~sl:0.0:1.9~You're a strange sort, watching me.~sl:1.1~It's a free country, but...
+
+0xA613DA08 = ~z~This job is too much for one person. You going to help?
+
+0xA915E50B = ~z~What you watching, anyway? Leave me alone...
+
+0xAB97A341 = ~z~Yes! Finally!
+
+0xB0707792 = ~z~Hey! I'm just trying to make a living!
+
+0xB938F5EB = ~z~Shit. Bullshit! Well... tried.
+
+0xB2033F41 = ~z~Hey, hey. You again. It's me again. Remember?
+
+0xB6194B3C = ~z~What you need, a formal invitation?
+
+0xB39753A1 = ~z~Alright, alright, keep looking.
+
+0xBBFF80E7 = ~t~In Spanish: Son of a bitch...
+
+0xBE51EA05 = ~z~Law... always the law, dammit!
+
+0xC4CBE8A1 = ~z~Why you just standing there? Dig!
+
+0xC7DD7C2D = ~z~Can't be money everywhere...
+
+0xC51DD467 = ~z~No, stop! Stop!
+
+0xC825A949 = ~z~~sl:0.0:1.4~Well? Get digging then,~sl:~I won't split anything with you if you just stand there.
+
+0xC3578BB0 = ~z~Okay. Get to it then. There's not much time.
+
+0xC4071AED = ~z~I'm busy... no time to deal with you.
+
+0xC48448DF = ~z~~sl:0.0:2.4~No! No, you leave me alone.~sl:~I don't want nothing doing with you!
+
+0xC262254F = ~z~Just leave me the hell alone!
+
+0xC347620B = ~z~
+
+0xCAF1F231 = ~z~I'm going back to my work. Leave me to it.
+
+0xCBA4A545 = ~z~I'm not dangerous. Promise. Just hungry.
+
+0xCBB90CFE = ~z~Hey, you? You remember me, eh?
+
+0xCBD29D28 = ~z~~sl:0.0:1.9~Heard someone fancy went under recently.~sl:~Wanna help me dig?
+
+0xCD49237A = ~z~Law's coming! Keep it you want it, you never saw me.
+
+0xCE11CA76 = ~z~This a show to you? Get outta here.
+
+0xD8BCBF5D = ~z~Plan to keep on standing there, or what? I'm getting nervous...
+
+0xD21C35BC = ~z~Please, I don't want to hurt no one!
+
+0xD79ED2A4 = ~z~You don't got no shovels? Next time, maybe.
+
+0xD625EC22 = ~z~Oh, shit! I remember you, you stay away from me!
+
+0xD5162F2D = ~z~Good, good. You got a shovel. Get digging.
+
+0xD478153E = ~z~Okay, find another spot. Don't quit on me.
+
+0xDC40F64A = ~z~~sl:0.0:1.8~I got some good work going here,~sl:~but I don't got a shovel for you.
+
+0xDCAF59E9 = ~z~Let me on my way!
+
+0xDF3A4FF8 = ~z~Come on! I don't deserve this!
+
+0xE0446EDB = ~z~I'm making my money, you go on'n make yours.
+
+0xE2BAB1C3 = ~z~Don't give up yet. Keep looking.
+
+0xE9BA76DB = ~z~~sl:0.0:2.8~You can't help if you don't got tools to dig with.~sl:~Some other time.
+
+0xE825ABBF = ~z~
+
+0xE3669B7B = ~z~You keep standing there I will get seen. Go away.
+
+0xE7518CFB = ~z~Law? What the hell...
+
+0xEEB47E0B = ~z~I don't know you! I am no one!
+
+0xEED90C10 = ~z~This fun to watch, or what? Go on.
+
+0xEFD326C1 = ~z~~sl:0.0:3.2~Hello? What are you doing here?~sl:0.7~This is, uh... not what you think.
+
+0xF0BC926B = ~z~
+
+0xF1C6AACF = ~z~Well? I can't keep waiting...
+
+0xF88E91BF = ~z~Go away from me! Go away!
+
+0xF96D785D = ~z~~sl:0.0:1.9~I got a good feeling about this spot.~sl:~Money in it for sure... what do you say?
+
+0xF107A067 = ~z~The law, all I need.
+
+0xF2937FE8 = ~z~I don't want to be standing around graves all night...
+
+0xF5243EF6 = ~z~You won't help? Okay, fine. Then go.
+
+0xF89562F2 = ~z~You will get me seen standing there. Go away.
+
+0xFC072967 = ~z~Their loss, okay. How about you?
+
+0xFCA727AC = ~z~Real strange, you just standing here like that...
+
+0xFFE130B4 = ~z~
+

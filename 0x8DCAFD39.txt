@@ -1,0 +1,20 @@
+0x2AD8B930 = ~z~Come on!
+
+0x5D3E1DF6 = ~z~It's by staying together... that we live.
+
+0x8A75F865 = ~z~I got a son, Mr. Escuella! I want him to live!
+
+0x38AF54D9 = ~z~Where-wh-where's your faith?
+
+0x69D2371E = ~z~Where's your trust? Huh?
+
+0x95C38F00 = ~z~What do you mean, what's wrong?
+
+0x719EC6B7 = ~z~What's wrong with all of you? Huh?
+
+0x1106858C = ~z~
+
+0xBE41E1C6 = ~z~God damn the lot of you!
+
+0xC4016B7B = ~z~Come on! Come on, what's wrong?
+

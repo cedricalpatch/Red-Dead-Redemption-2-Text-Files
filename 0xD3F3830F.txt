@@ -1,0 +1,126 @@
+0x03D06632 = ~z~Give 'em hell.
+
+0x0EA7E4BA = ~z~What did he do?
+
+0x4B298876 = ~z~You know the man?
+
+0x5AFDC3D0 = ~z~How you do. I hope you're looking for another bounty, 'cause we're after that outlaw on the wall there.
+
+0x5B0839F2 = ~z~We don't got that poster on the wall because it's nice to look at. Take a gander.
+
+0x5B228D3B = ~z~You got to bring that one in stiff, then so be it, just bring 'em in is all.
+
+0x5BCDC2F8 = ~z~Blackwater after any bounties?
+
+0x5DDAEC02 = ~z~I'm sorry to be gruesome, 'cept if you count the ones they cut off.
+
+0x6F4CEBE3 = ~z~Reason this one's got his picture up is the mayor signed off on it... that's that.
+
+0x7A33B6A9 = ~z~Zizendorf, is it?
+
+0x7C3278F9 = ~z~Don't get carried away now, we're hoping to see that one with some colour in their cheeks.
+
+0x7CD1D099 = ~z~The ink's dry on that one... kill 'em if you got to.
+
+0x8A6770C7 = ~z~I just know he's made a fair old mess out of everyone's gone after him, and it don't look like he's planning on stopping.
+
+0x8A52339B = ~z~Feller's been going into construction yards in the night, taking tools and the like.
+
+0x8DBC1C0C = ~z~I'd appreciate it if you curbed your rougher instincts... poster says 'alive'.
+
+0x9C3BD76E = ~z~All kinds of folks is angry about this one, right up to city hall.
+
+0x16A44F63 = ~z~Very droll. In all my years of policing, I haven't encountered men such as those.
+
+0x40D12914 = ~z~Oh, um, thanks for the information.
+
+0x45CA6A31 = ~z~Give 'em my best regards, will you.
+
+0x48BDC1C8 = ~z~~sl:0.0:4.4~They're the Skinner Brothers... the clue's in the name, son.~sl:0.3~The gang doesn't have a head 'cept, and...
+
+0x48D4B3C3 = ~z~Makes me wish I'd retired sometime heretofore, if I'm frank.
+
+0x48E39F9C = ~z~If it isn't our bounty hunter, back for more work, I hope. Poster's on your wall there.
+
+0x56CF4C96 = ~z~Standing in the way of progress, they say.
+
+0x58EFBD3C = ~z~There any outlaws round here need catching?
+
+0x78A84D49 = ~z~That might not be his plan to make.
+
+0x448BAD65 = ~z~You look like an honest enough feller.
+
+0x522CB1A3 = ~z~I'd send you after every last one of them jackals, if I could.
+
+0x968DCF38 = ~z~Otis Skinner of the Skinner Brothers... well, well, well...
+
+0x2389E92E = ~z~Well.. I shall try and hold onto mine.
+
+0x5320CDB3 = ~z~I'll see what I can do then.
+
+0x7141A9E4 = ~z~I do. I'll see about him, sir.
+
+0x9823D494 = ~z~If I could interest you in bounty work, the poster's on the wall.
+
+0x28405DC7 = ~z~That mountain country is full of Skinner Brothers... you tell me why this one, Elias Green's, got a warrant on him?
+
+0x12020295 = ~z~Say hello to that no good from me.
+
+0x47121981 = ~z~If you're paying bounties round here, I'd be willing to collect 'em.
+
+0xA1BEC766 = ~z~Take a look at that ugly mug hanging up there.
+
+0xA8B701B9 = ~z~Otis Skinner... I'm assuming he's the head of this gang?
+
+0xA16C319E = ~z~I been at this long enough to know a bounty hunter when I see one.
+
+0xA89E4362 = ~z~Okay, I'm glad... 'cause I ain't never sure of anything.
+
+0xA423E44F = ~z~Poster's up there on the wall.
+
+0xA605A2AF = ~z~I don't think you'll be bringing him in alive, but sure as hell I'd love to spit in his eye before he hung.
+
+0xA773AAE7 = ~z~I don't know if he's a savage, a mountain man, or something else.
+
+0xA93019CC = ~z~He perpetrated, or was one of the perpetrators, of a massacre. Party of six. Killed and then some.
+
+0xAA41D517 = ~z~I should like that one to be sensible when they're returned... don't snuff 'em.
+
+0xB3F8EBDA = ~z~Poster's on the wall.
+
+0xB4B24008 = ~z~You hear what they done up near Tall Trees? Might be where to look for them, if you can stomach it.
+
+0xB116C46F = ~z~Not sure I got the time, Chief.
+
+0xB29831E8 = ~z~Might take a look.
+
+0xBABBC22F = ~z~Thanks, Chief.
+
+0xC9B3858C = ~z~I do... I caught him selling stolen tools... and I was persuaded he'd been had.
+
+0xC707302A = ~z~Well. Good luck and godspeed.
+
+0xCA886BB4 = ~z~Just when you thought this country had been civilized.
+
+0xCC43EF7C = ~z~We'll take 'em however you find 'em... alive or dead.
+
+0xD3B03537 = ~z~Look who it is. May I direct you to that bounty poster hanging on yonder wall there.
+
+0xD6C59C50 = ~z~Keep my instincts sharp, I do. Poster's on the wall anyway.
+
+0xD70B7586 = ~z~We have his name, we have his likeness. You have his warrant.
+
+0xD76E2101 = ~z~We're sure we've got our man now, though. And we're sure he'll strike again.
+
+0xDEDC945C = ~z~It's a sorry situation with them mongrel dogs, the Skinner Brothers.
+
+0xDEF9A034 = ~z~Ya might be wrong about me.
+
+0xEFF27BEB = ~z~Mister, might I interest you in a bounty?
+
+0xF9B635B0 = ~z~That's how he says it... I thought he was a nice feller. Respectable. The Germans usually are. But not this one.
+
+0xF23E8698 = ~z~It's said they took the pelt off a pelt hunter south-west of Manzanita Post.
+
+0xF939CE72 = ~z~Well, tell me about him then.
+

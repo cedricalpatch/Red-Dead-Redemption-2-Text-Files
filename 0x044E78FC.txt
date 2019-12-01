@@ -1,0 +1,184 @@
+0x00E7177E = ~z~You had your chance!
+
+0x02A2564E = ~z~Are you with the Union?
+
+0x0A4B5DA1 = ~z~Talk, boy, Union or Confederate?
+
+0x0BE8C550 = ~z~Rebel scum!
+
+0x0D53FA0D = ~z~Now move along, civilian, and watch yourself. Johnny Rebs in the area.
+
+0x2BF8B0CE = ~z~I don't have a side.
+
+0x4CCF1840 = ~z~Nobody's with the Union no more, you're the only one.
+
+0x5B4437AF = ~z~You think you can trick me?
+
+0x5CE3AEF3 = ~z~Damn snake!
+
+0x6F19077B = ~z~Is that right?
+
+0x7A3F0D3E = ~z~Last warning.
+
+0x7A9DC5A0 = ~z~Of sorts. You don't remember me at all do you?
+
+0x7D45A3D4 = ~z~I ain't a soldier.
+
+0x9BA196AA = ~z~Lucky for you.
+
+0x9CEF92B2 = ~z~Having to leave my sweet Muriel behind... a farm boy, without a lick of training... straight into battle.
+
+0x9E118C8B = ~z~But I must say, an able-bodied man not signing up, that's a damn shame.
+
+0x9E394E77 = ~z~Just go. She may still be out there.
+
+0x9F5F4297 = ~z~Then answer to this!
+
+0x24AA786E = ~z~You there! State your side. Gray or blue?
+
+0x40D4B027 = ~z~I'll shoot you if I have to.
+
+0x41A6ED0D = ~z~Crazy old man...
+
+0x50E0094F = ~z~And until then?
+
+0x60BC26E8 = ~z~I know one when I see one.
+
+0x66C22658 = ~z~Captain Hayden Russell, 29th Ambarino Volunteer Infantry.
+
+0x66DE6273 = ~z~I will shoot, don't think I won't.
+
+0x67B236F3 = ~z~I keep my uniform washed, my boots polished, my rifle clean.
+
+0x73CBF99D = ~z~Okay.
+
+0x75BC3BD9 = ~z~There's been some activity on the telegraph, so I'm sure it's any day now.
+
+0x85B36B16 = ~z~Communication's been slow and difficult, but like General Scollick says, a good soldier knows how to wait.
+
+0x88EAF13D = ~z~Well, I sure ain't from the south.
+
+0x90CBCAE0 = ~z~You suppose so? Why aren't you in uniform?
+
+0x98B11B20 = ~z~Awaiting orders. We will muster soon and move on Lemoyne, to take Saint Denis from the rebels!
+
+0x209A9A12 = ~z~Oh god, don't tell me you're a Delaware boy.
+
+0x265A3674 = ~z~I will ask you to move along.
+
+0x292C52C3 = ~z~Sneaking up on me.
+
+0x491AB907 = ~z~A soldier never leaves his post. Not that I can expect you to understand that.
+
+0x535F0666 = ~z~I am worried, very worried indeed.
+
+0x781ACFE5 = ~z~You've certainly done that.
+
+0x887D615F = ~z~I've never met you.
+
+0x1146D17F = ~z~Nice try!
+
+0x3340AA2C = ~z~My betrothed.
+
+0x5638FCD3 = ~z~Very long, in your case.
+
+0x6190A2C9 = ~z~I ain't no southerner, if that's what you're worried about.
+
+0x7493C1FB = ~z~No, you must have me mistaken with someone else.
+
+0x9338FF45 = ~z~No. Look, we've met before.
+
+0x9958D8AD = ~z~Is this a joke? Put that gun down, old man.
+
+0x65685CD6 = ~z~In the meantime, I have weapons to clean and boots to polish. So I will bid you farewell.
+
+0x301049E0 = ~z~You should have a little more respect for the men in service.
+
+0x306411BB = ~z~I won't ask again.
+
+0x525036A6 = ~z~But a soldier doesn't desert his post. I'm expecting a missive from General Scollick any day now.
+
+0x26734802 = ~z~Are you with the Union army?
+
+0x37051754 = ~z~Uh... I suppose so.
+
+0x41919529 = ~z~We're gonna move on Lemoyne and take Saint Denis from the rebels.
+
+0x57980804 = ~z~You must have been out here... fourty odd years.
+
+0x64099874 = ~z~Now, we're moving on Lemoyne soon, I'm just waiting for word from General Scollick.
+
+0xABD42810 = ~z~It's been a hard war, a long war.
+
+0xAE7F426D = ~z~What the hell you talking about, old man?
+
+0xAE411F48 = ~z~Ain't we been through this before?
+
+0xAEC1BD32 = ~z~Well, I... can't be caught nattering to civilians, I have a post to guard.
+
+0xB79DC80E = ~z~It has been a long and bloody war, and communication has been slow, but nobody said it was gonna be easy.
+
+0xB110E5FA = ~z~I don't have to answer to you, you crazy old bastard.
+
+0xB458C818 = ~z~Captain Hayden Russell, 29th Ambarino Volunteer Infantry. Do you bring news from General Scollick?
+
+0xBD52A17D = ~z~Now, if you'll excuse me, I have to get back to the inspection of arms.
+
+0xBF0E5DCB = ~z~We've met before, you know.
+
+0xC53CD719 = ~z~Alright then!
+
+0xC71A6D9B = ~z~Who's General Scollick?
+
+0xCA506D73 = ~z~Well, don't exaggerate my boy.
+
+0xCCD8F960 = ~z~Captain Hayden Russell, 29th Ambarino Volunteer Infantry.
+
+0xCDD39792 = ~z~Are you a Northerner?
+
+0xD00BB21F = ~z~I damn well hope she is. She said she'd wait and I saved up for a year to buy that ring.
+
+0xD074804F = ~z~I'm awaiting orders. We will move on Lemoyne soon and take Saint Denis from the rebels.
+
+0xD1DE0D79 = ~z~I must say, a young man like you, neither volunteered nor drafted? You must be a coward, or rich, or both.
+
+0xD7A1AFE7 = ~z~State your side, sir. North or South?
+
+0xD9D15CEE = ~z~What are you doing out here?
+
+0xDB6CF99F = ~z~Don't play games with me.
+
+0xDC1421E5 = ~z~Oh, my boy, I haven't been out here that long, 1862, April 14th.
+
+0xDF2E5D43 = ~z~State your side!
+
+0xDFC35D07 = ~z~North or South? State your side, sir.
+
+0xE2C524F0 = ~z~You do know what year it is, right?
+
+0xE5B2904A = ~z~Are you a Northerner?
+
+0xE7E8F91D = ~z~Captain Hayden Russell, 29th Ambarino Volunteer Infantry.
+
+0xE37C26A6 = ~z~Been stationed here a while, we should be pushing down into Lemoyne soon.
+
+0xE77F1F65 = ~z~I guess so.
+
+0xE736B5FA = ~z~You don't need to be stuck out here no more.
+
+0xE760857F = ~z~I'm giving you two more seconds.
+
+0xEBC39B33 = ~z~She your wife?
+
+0xEE62C682 = ~z~What year do you think it is?
+
+0xEE8594BE = ~z~State your side, or I'll shoot!
+
+0xF4EE5169 = ~z~Do you want me to take you to the nearest town?
+
+0xF4FFBA66 = ~z~You guess so? You're a civilian?
+
+0xF149C241 = ~z~I never laid eyes on you in my life.
+
+0xF417C795 = ~z~What kind of question's that? 1862... April 14th.
+

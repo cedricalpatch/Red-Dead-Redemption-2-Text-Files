@@ -1,0 +1,28 @@
+0x5E257D8B = ~z~Who's that?
+
+0x7C78BA41 = ~z~No reason, just seemed familiar for some reason. Anyway...
+
+0x8C3A81C1 = ~z~Guess so.
+
+0x52E60F87 = ~z~Oh dear, I see the plague has claimed its latest victim.
+
+0x53C8B4D2 = ~z~Oh, I don't know. It's just a little portrait someone gave me once. I've always quite liked it. Why?
+
+0x82BAC6C5 = ~z~Oh, I don't know. It's just a little portrait someone gave me once. I've always quite liked it. Why?
+
+0x2172D027 = ~z~Who's that?
+
+0x6197ACEA = ~z~What?
+
+0x54969276 = ~z~Sorry, mister, you got the fever too.
+
+0xA1F3AD33 = ~z~Well, you're in good company.
+
+0xB64C564E = ~z~Well, I will still serve you. No judgment here.
+
+0xC6AAF6A1 = ~z~Not from here.
+
+0xC1156BE0 = ~z~Well, ain't I honored.
+
+0xF9788033 = ~z~No reason, just seemed familiar for some reason. Anyway...
+

@@ -1,0 +1,18 @@
+0x3D7A838D = ~z~Poisoned arrows?
+
+0x4EA425E0 = ~z~A little different... poisoned arrows. My uncle showed me how to make these when I was very young.
+
+0x67E05858 = ~z~Good, thank you! What are these?
+
+0x70F86A8C = ~z~Charles.
+
+0x857D9392 = ~z~Thank you.
+
+0x6043C923 = ~z~How were those fire arrows?
+
+0x97593749 = ~z~You get me some oleander and I'll make you some.
+
+0xB1CA6C2B = ~z~Not very nice, but... very effective...
+
+0xFB167EC6 = ~z~
+

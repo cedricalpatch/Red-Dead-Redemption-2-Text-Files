@@ -1,0 +1,16 @@
+0x03A7E63C = ~z~Quit fussing, I'm fine.
+
+0x5CAA1837 = ~z~Only... talking, aint so good for me...
+
+0x6EDABC98 = ~z~Just let me rest in the sun, it's good for me.
+
+0x49B9F257 = ~z~You almost got yourself eaten, you silly man!
+
+0x398C51FC = ~z~You're a long ways from fine.
+
+0x16230B2A = ~z~Will you go rest, please?
+
+0xDB6395CC = ~z~You silly little man...
+
+0xE95D31BF = ~z~Whatever you say!
+

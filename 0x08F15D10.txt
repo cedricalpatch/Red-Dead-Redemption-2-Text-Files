@@ -1,0 +1,30 @@
+0x0AEC65A0 = ~z~Dutch's fun.
+
+0x1C2F8826 = ~z~~sl:0.0:1.3~Shoot innocent people,~sl:0.4:2.1~rob, kill, run,~sl:~all in the name of fun.
+
+0x1DF68BB0 = ~z~Just now he had saved me from wolves.
+
+0x2E822CCB = ~z~Always good times with old Dutch.
+
+0x2F8D2EDD = ~z~Stopped the farmers from lynching me up in Illinois.
+
+0x9C8908D7 = ~z~~sl:0.0:2.0~Hell, he saved us all from the Pinkertons or~sl:0.1:1.6~whoever it is on our tail,~sl:0.1~and still I doubt him.
+
+0x40C35149 = ~z~I mean, he saved me twice or more already.
+
+0x5310F5E4 = ~z~Dutch is gonna save us.
+
+0xD02C91F6 = ~z~What do I know?
+
+0xD0C4132D = ~z~Doubts and scars.
+
+0xDA79A690 = ~z~I don't know a thing.
+
+0xEBA7C8F4 = ~z~~sl:0.0:1.0~I mean,~sl:0.2:1.2~that man I killed for,~sl:0.6:2.4~the man I ran for, the man I believed in,~sl:~is that still the same man I see now?
+
+0xF8A2C10D = ~z~Dutch is gonna save us all.
+
+0xFC59EA50 = ~z~~sl:0.0:4.0~"Blessed are they who... have faith, yet have still not seen."~sl:~Whatever that line he spouts is.
+
+0xFD536C4B = ~z~Guess about all I got left now is doubts.
+

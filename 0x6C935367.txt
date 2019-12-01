@@ -1,0 +1,1270 @@
+0x000F0D51 = ~z~Sally Nash.
+
+0x0041C5F7 = ~z~A goose will hardly get them to their feet for the curtain call.
+
+0x00DD58BD = ~z~A dog.
+
+0x01008DB2 = ~z~How am I supposed to know?
+
+0x012DA5C2 = ~z~I'm going to put him in your wagon. You, find somewhere to hide.
+
+0x0158FCBF = ~z~Our zebra!
+
+0x018B2CDD = ~z~Listen, friend...
+
+0x0265CBDF = ~z~Thank you.
+
+0x02969CFD = ~z~before we can think about that.
+
+0x029EFF63 = ~z~Oh dear, you are missing the point, aren't you?
+
+0x02BCFAA1 = ~z~Now, if you'll excuse me.
+
+0x02E00F5E = ~z~Okay.
+
+0x03484814 = ~z~Steady on.
+
+0x03D8CC2A = ~z~you got any more word on that runaway lion...
+
+0x03F9B2AE = ~z~Stay down. She won't be too far away.
+
+0x042735AB = ~z~He's as big as a mule and as mean as a hellcat.
+
+0x0522AF9E = ~z~I imagine you're right about that.
+
+0x055DF4CB = ~z~whoa there...
+
+0x061488A2 = ~z~Oh... well... behind that log then...
+
+0x063319DC = ~z~Margaret said that you might need a hand.
+
+0x068A0EE3 = ~z~Don't bring old tom into it. Let a man have some pleasure. It's been a jolly hard day.
+
+0x07A9DC14 = ~z~Looks like... like blood to me...
+
+0x083FCBDB = ~z~Step aside.
+
+0x08863809 = ~z~Bloody hell.
+
+0x092868F4 = ~z~What the devil are you looking at?
+
+0x09735029 = ~z~Tell me, Miss Nash. ~rp~How you end up in this racket?
+
+0x0979BA8B = ~z~Step aside.
+
+0x098A5AC8 = ~z~From the mines of El Dorado.
+
+0x0B7E2472 = ~z~Your lion from Timbuktu, weren't he?
+
+0x0B87C02F = ~z~Alright... see what I can do.
+
+0x0C1A53F3 = ~z~the old git will have a field day.
+
+0x0D5F57DD = ~z~Good grief, you've found him.
+
+0x0D9F7347 = ~z~Someone saw him near Emerald Ranch.
+
+0x0DDDDFB2 = ~z~Get back, we got a cursed creature in here.
+
+0x0E1E0EC9 = ~z~Come quick.
+
+0x0EC42939 = ~z~How'd we get stuck with this?
+
+0x0F05637E = ~z~look about as surprised as you do.
+
+0x0F077511 = ~z~And I end up losing a lion...
+
+0x0F9ECC9A = ~z~Get back, we got a cursed creature in here.
+
+0x0F16923F = ~z~That ain't helpful.
+
+0x0FD2DD7D = ~z~That's a dog in there.
+
+0x0FF3BD54 = ~z~Stripey...
+
+0x1B6DC40E = ~z~No, not really.
+
+0x1BD20C21 = ~z~Darn it. Get away!
+
+0x1C964F4D = ~z~What's this?
+
+0x1D1D0EB3 = ~z~What the hell you doing?
+
+0x1D7F685B = ~z~It looked like a lion to me.
+
+0x1E2FE626 = ~z~I'm beyond desperate...
+
+0x1E817A21 = ~z~Our zebra.
+
+0x1E93990A = ~z~Howdy, mister.
+
+0x1F38E609 = ~z~What?
+
+0x1FAD6D37 = ~z~Hey, Mr. Margaret.
+
+0x2A812C10 = ~z~Well, that's very wise of you... especially when you are lacking zebras and tigers.
+
+0x2ABA0259 = ~z~He's a card alright.
+
+0x2B981D93 = ~z~Your daddy ain't here...
+
+0x2C62AD3E = ~z~What's wrong with you?
+
+0x2C251DBD = ~z~I killed him.
+
+0x2D34272C = ~z~Shit...
+
+0x2E1AE7E6 = ~z~What we gonna do now?
+
+0x2F5A056A = ~z~What they done to you?
+
+0x2F30EB94 = ~z~Hey, uh, ~rp~I realize I ain't properly introduced myself.
+
+0x2F38FEC1 = ~z~Ex dog. Ex...
+
+0x3A2F86AA = ~z~and shipping it here, so it can dance the polka...
+
+0x3A2681C2 = ~z~Why don't you hop on that wagon and...
+
+0x3AE82330 = ~z~Oh, yeah?
+
+0x3B9FBB35 = ~z~What's the ruckus, boys?
+
+0x3BA21077 = ~z~Well, as long...
+
+0x3C1CFC9F = ~z~Miss...
+
+0x3C9A0E02 = ~z~I found your dog!
+
+0x3C110B23 = ~z~Grub's up.
+
+0x3CA6A44F = ~z~You paint this dog? There's some pigment here...
+
+0x3D7B6438 = ~z~You didn't think...
+
+0x3D133004 = ~z~I want to shoot myself.
+
+0x3DB303E7 = ~z~He ain't over there. You wanna get back to the tracks.
+
+0x3DC9781D = ~z~Son of a bitch.
+
+0x3DF9CDBC = ~z~Oh, God help us.
+
+0x3E6790D1 = ~z~Margaret, Mistress of fucking Danger.
+
+0x3F1C37DD = ~z~Here, doggy.
+
+0x4A0CBBE3 = ~z~Alright... madam.
+
+0x4A82A23B = ~z~Is that right?
+
+0x4AB2A7B8 = ~z~something mundane into something extraordinary?
+
+0x4CFCB32C = ~z~long as you don't pay me with tickets to your show.
+
+0x4D5056AA = ~z~Grub's up.
+
+0x4E03A488 = ~z~I'd have guessed the other way, if I was you. Just saying.
+
+0x4F1FB85E = ~z~on the plains of Mumbo Jumbo land...
+
+0x4F2ECB42 = ~z~I met Mr. Margaret, we got to talking, and...
+
+0x4F73AC5C = ~z~I'll see if I can find his track.
+
+0x5AE04952 = ~z~Now, if you'll excuse me.
+
+0x5AE756D2 = ~z~Stripey ate King, Mr. Margaret...
+
+0x5B6A0273 = ~z~I know it's a trouble, mister. But keep looking in that undergrowth.
+
+0x5C2B5646 = ~z~Oh, this is a pretty pickle.
+
+0x5C7C23B0 = ~z~Ah... I'll take care of this.
+
+0x5C47CAE2 = ~z~as long as you don't pay me with tickets to your show.
+
+0x5CFCE6DE = ~z~I guess it's always been my inclination, you know. ~rp~Wild beasts and the like.
+
+0x5D33D236 = ~z~Tiger?
+
+0x5DD6E66C = ~z~I think a cougar took him.
+
+0x5DEE251D = ~z~A man-eating lion.
+
+0x5E51FE26 = ~z~That could've been a goose for all I knew.
+
+0x5E646372 = ~z~You see, I'm buggered.
+
+0x5F8BC8B4 = ~z~Miss...
+
+0x5F80C366 = ~z~Did erm...
+
+0x6A121BD7 = ~z~cougars and dogs...
+
+0x6A9962A7 = ~z~Okay.
+
+0x6ABEA11C = ~z~He didn't just disappear... keep looking in the undergrowth.
+
+0x6B83F80B = ~z~It's grease paint, make up.
+
+0x6B157DC1 = ~z~I said, step aside.
+
+0x6BA3C088 = ~z~You didn't think...
+
+0x6C078CC8 = ~z~I don't know whether to run toward it or away.
+
+0x6C6F3209 = ~z~you got word on the other runaway lion, or...
+
+0x6CB02F47 = ~z~Darn, darn, hellfire!
+
+0x6D186C83 = ~z~it's alchemy.
+
+0x6DED1FF4 = ~z~I have just the thing...
+
+0x6DFB8CF2 = ~z~I imagine you're right about that.
+
+0x6E0AB62E = ~z~They got it in the barn. Boy, boy.
+
+0x6F7676BB = ~z~My assistant's gone for the tiger.
+
+0x6FFE004A = ~z~she's our star attraction.
+
+0x7A23CC52 = ~z~so... I'd be very grateful.
+
+0x7A654069 = ~z~You'll find a trail somewhere in those shrubs there.
+
+0x7A768025 = ~z~Of course.
+
+0x7AC3B709 = ~z~You haven't clearly stated anything...
+
+0x7ACD4C48 = ~z~who doesn't have any bloody wild animals?
+
+0x7AD65401 = ~z~~sl:0.0:1.7:1~Hold your side!
+
+0x7B39A76E = ~z~We was tearing round here, looking for any kind of landmark, ~rp~when over we go. Whole caravan toppled.
+
+0x7B360D69 = ~z~This funny to you?
+
+0x7D50D5C7 = ~z~So long.
+
+0x7D843596 = ~z~Larned Sod. Stripey bugger. Be a dear...
+
+0x7DEA22C7 = ~z~Speak, man.
+
+0x7E4C9D9C = ~z~but playing dolls dress up with a wild animal...
+
+0x7EC2F470 = ~z~That first set of shrubs... that's where I lost sight of him.
+
+0x7EC8D6BC = ~z~Speaking of which...
+
+0x7F494645 = ~z~If that's what you're dealing with, you didn't have any luck to begin with...
+
+0x7FE0920F = ~z~And speaking of my payment...
+
+0x8A5745A9 = ~z~Found each other and some shelter, but... ~rp~when the wind died down the animals was gone.
+
+0x8ABC06B5 = ~z~And the sooner the better, please.
+
+0x8B017128 = ~z~Yeah, I won't keep ya.
+
+0x8B13A875 = ~z~Well, as long...
+
+0x8B612DD1 = ~z~So long, Mr. Morgan.
+
+0x8C02CDE2 = ~z~Can I borrow your gun?
+
+0x8C4ED5E2 = ~z~I guess it's always been my inclination, you know. ~rp~Wild beasts and the like.
+
+0x8CC9DDDA = ~z~Okay.
+
+0x8CD24199 = ~z~I see your problem...
+
+0x8DB967F9 = ~z~~sl:1.0~Here boy.
+
+0x8DC16294 = ~z~What's all this commotion? There an animal on the loose?
+
+0x8DDD867A = ~z~Look what you done... look what you done.
+
+0x8E3B3A84 = ~z~Sure is. They got it trapped in the barn there.
+
+0x8E5B38DA = ~z~Hold it tight, we got him trapped in here.
+
+0x8F2EAEA2 = ~z~Well, you can call him that...
+
+0x8F67E682 = ~z~I went out to find a tiger...
+
+0x8F539F4B = ~z~You really have been quite helpful enough. So long, good sir. Fare thee well.
+
+0x8FB0C654 = ~z~What are you looking at?
+
+0x8FCA89C2 = ~z~Sweet mother of...
+
+0x8FF88825 = ~z~What the devil are you looking at?
+
+0x9A1DD485 = ~z~Uh-huh.
+
+0x9A877955 = ~z~A dog? I don't know what I seen. But they got it trapped in the barn there.
+
+0x9AF26A9D = ~z~My beating heart.
+
+0x9B23FA61 = ~z~and what a treasure it is.
+
+0x9B586763 = ~z~Thanks to you.
+
+0x9B825752 = ~z~You still need it back?
+
+0x9BDF7F74 = ~z~What would Daddy say?
+
+0x9C015610 = ~z~What's all this commotion? There an animal on the loose?
+
+0x9CB1B417 = ~z~Yes sir, Mr. Margaret, right away.
+
+0x9D025757 = ~z~Stripey, where are ya?
+
+0x9D9052EA = ~z~Please...
+
+0x9D9551B8 = ~z~Arthur Morgan.
+
+0x9DDB55D4 = ~z~dreams and reality.
+
+0x9E7C1502 = ~z~shit is the word.
+
+0x9E52EA0E = ~z~It's bloody Margaret, not madam.
+
+0x9F18BABE = ~z~Look what you done... look what you done.
+
+0x9F307776 = ~z~Oh...
+
+0x9FA98708 = ~z~As green as the rainforest...
+
+0x9FEDE53A = ~z~And now they're back... some of them at least.
+
+0x10B767DA = ~z~is a promise.
+
+0x10C0CB48 = ~z~they're pretty hard to come by round here.
+
+0x11BEA7E3 = ~z~did you lose a tiger?
+
+0x11CED07F = ~z~Tell me, Miss Nash. ~rp~How you end up in this racket?
+
+0x12D0ED52 = ~z~It ain't what you got in this life, it's what you make of it...
+
+0x13D03F70 = ~z~first we shall need the whole menagerie back...
+
+0x13FC122D = ~z~I-I-I saw it run for the stables!
+
+0x14F4ABB8 = ~z~Dust and gin are a bad combination.
+
+0x16BA58B2 = ~z~Amen to that.
+
+0x16D809F0 = ~z~If you're going in, go...
+
+0x17D1C496 = ~z~Hey boy!~n~~m~dog, ex lion...
+
+0x18BD3CB0 = ~z~he might be more of a kind of dog than a lion...
+
+0x20B466C1 = ~z~Found each other and some shelter, but... ~rp~when the wind died down the animals was gone.
+
+0x20EB9D12 = ~z~Good day, sir...
+
+0x20F0A3BA = ~z~You ever want to get in the side show business... I'm sure there'd be a place for a fellow like you.
+
+0x22A041B9 = ~z~The other half? Really?
+
+0x22A1029C = ~z~It's my modest hope... one day... to be the world's second bravest woman... animal wrangler.
+
+0x23C88F44 = ~z~Wait...
+
+0x23FC4483 = ~z~Ah, I'll... I'll take care of this.
+
+0x24D6C099 = ~z~I got it...
+
+0x26F25ABE = ~z~Maybe one of these days the best female for the job will actually be a female.
+
+0x26FA65C4 = ~z~but... um...
+
+0x28C40CAB = ~z~Please, chum. You'll know a zebra when you see one.
+
+0x31AD1851 = ~z~How so?
+
+0x31C5A50E = ~z~was actually real you moron?
+
+0x31CD60D5 = ~z~Lost it... give me a moment...
+
+0x32B3DEBC = ~z~Oh darn...
+
+0x36E277DA = ~z~Into them shrubs over there.
+
+0x37A30199 = ~z~We're selling dreams, dear boy!
+
+0x37B258A6 = ~z~A man-eating lion.
+
+0x37DF6C37 = ~z~Okay.
+
+0x39B01150 = ~z~Bother.
+
+0x39B2CA73 = ~z~It ain't what you got in this life, it's what you make of it...
+
+0x39DFB932 = ~z~He's dead.
+
+0x39F4B960 = ~z~He's dead.
+
+0x41B91B41 = ~z~in case it could lend a paw.
+
+0x42FC0A5D = ~z~Yeah, you found one?
+
+0x44E26604 = ~z~By all means, go in there.
+
+0x44FF3E99 = ~z~Next time you see me, I'll be topping the bill, I promise. Or at least I'll be on the bill.
+
+0x45CE475A = ~z~I didn't really understand any of that.
+
+0x46E15E55 = ~z~Hey, keep your head down... it's coming.
+
+0x46FABB5F = ~z~distinctive creature that he is.
+
+0x47BD7E74 = ~z~~sl:1.5:1~I'll leave the professional theatrics to better women than me...
+
+0x47DC47B0 = ~z~There's only one kind of grateful I care about.
+
+0x51CE946D = ~z~Oh... I guess she's real hungry.
+
+0x52BAC5C4 = ~z~let's hope it wants the other half of its dinner.
+
+0x52C1FB37 = ~z~Looks like... like blood to me...
+
+0x52F5CB4B = ~z~Mr. Margaret's a lot of things, but best female navigator ain't one of them.
+
+0x52F96FFC = ~z~Come back.
+
+0x53D7E509 = ~z~I'd say you got that sown up and then some.
+
+0x54A225BC = ~z~I'm going to put him in your wagon. You find somewhere to hide.
+
+0x54DD1328 = ~z~Did you see his eyes?
+
+0x55B3C265 = ~z~That ain't helpful.
+
+0x55C3B524 = ~z~Did erm...
+
+0x56E797FD = ~z~Sweet mother of...
+
+0x57B78B5D = ~z~Hey, mister...
+
+0x57CE595E = ~z~if you see any of them...
+
+0x57D68B8F = ~z~Miss.
+
+0x57F9BBA7 = ~z~Your fault.
+
+0x59AB08AB = ~z~What they done to you?
+
+0x59C42E3D = ~z~Sally, get the cages ready.
+
+0x63E18167 = ~z~Come on, you dumb dog...
+
+0x64C7DFAD = ~z~Come here, boy. Let's go home.
+
+0x64D05717 = ~z~Let's get her back to Mr. Margaret.
+
+0x64EDF9BF = ~z~Mr. Margaret!
+
+0x65A5D6FF = ~z~It's your fault.
+
+0x65B111D0 = ~z~Your daddy ain't here...
+
+0x67CA2ABA = ~z~but we really must be getting along.
+
+0x67CF5AD3 = ~z~From Valentine, I think...
+
+0x67F466E6 = ~z~Keep that up, I'll get this donkey to kick you.
+
+0x67F81172 = ~z~You haven't clearly stated anything...
+
+0x77E67D02 = ~z~seemingly friend one minute, dinner the next... ~rp~viciousness come easy.
+
+0x81DBBF74 = ~z~Come to America, they said...
+
+0x81F3A02D = ~z~Let me bring the wagon along.
+
+0x83AACAF7 = ~z~I'm ruined...
+
+0x83FF820E = ~z~although he's as much a zebra as you are a...
+
+0x85F2CA94 = ~z~I never seen one of those before, and I hope I don't again.
+
+0x86B54927 = ~z~I'm going to America to make it on the stage.
+
+0x86BC2DC6 = ~z~Well...
+
+0x87AAB5FE = ~z~from the slopes of the Hindu heights...
+
+0x89B73E28 = ~z~You still need it back?
+
+0x90B2B7D8 = ~z~I got the trail. These're paw prints.
+
+0x90B8B7FF = ~z~No, not really.
+
+0x90D23BC2 = ~z~The allure of the stage...
+
+0x93E0EC3C = ~z~Look, I'm well aware that we're not...
+
+0x93F0C8E4 = ~z~I beg your pardon?
+
+0x95F2D8CD = ~z~It's my modest hope... one day... to be the world's second bravest woman... animal wrangler.
+
+0x96AFCD9E = ~z~There it is. The caravan.
+
+0x99B26941 = ~z~and no one wants to see a woman wrangling nothing!
+
+0x121F68B7 = ~z~Hey, speaking of which...
+
+0x159AECB9 = ~z~I clearly stated that we were looking for a...
+
+0x176A730D = ~z~You seen a dog? A big dog around here.
+
+0x199C806C = ~z~Your stripes better not rub off on my pants.
+
+0x218F18D2 = ~z~Shit...
+
+0x281F5A54 = ~z~Okay.
+
+0x299DAF7B = ~z~You ought to go if you're going.
+
+0x304A6263 = ~z~Yeah, it's sorry, alright.
+
+0x313A1852 = ~z~And you were the woman?
+
+0x316DAA1E = ~z~very lucky man.
+
+0x325CAC6D = ~z~And I end up losing a lion...
+
+0x327C4F07 = ~z~whoa... easy, boy.
+
+0x406B35CD = ~z~ruined!
+
+0x409A48E8 = ~z~Cougar, you mean.
+
+0x435ACAD0 = ~z~This is rum, old boy.
+
+0x445EE1E9 = ~z~You know, tarring and feathering a donkey is one thing...
+
+0x477F2CEE = ~z~Drat and bother.
+
+0x522AFC61 = ~z~You got any word on the lion?
+
+0x523A688F = ~z~It was him or me.
+
+0x529FD523 = ~z~Mr. Margaret.
+
+0x533F18AC = ~z~I'd sure like to see that other lion, Mr. Morgan.
+
+0x544DE459 = ~z~sod you, Daddy, I said...
+
+0x548F6CCD = ~z~How so?
+
+0x552BB765 = ~z~She's still eating... I woulda thought... since they was close and all...
+
+0x565FAD64 = ~z~Look, we really aren't looking for a travelling companion.
+
+0x601AD968 = ~z~And speaking of my payment...
+
+0x607D6149 = ~z~I found your dog!
+
+0x638CFCF7 = ~z~Of course I was the bloody woman, look at me.
+
+0x661DD971 = ~z~Wild creatures turn on each other...
+
+0x683B5EF8 = ~z~I'm sorry.
+
+0x685ED93E = ~z~You lost the tracks down there?
+
+0x688DFE85 = ~z~Alright... madam.
+
+0x705B1ADF = ~z~Oh, ~rp~I don't know if that'll ever happen.
+
+0x714E6C39 = ~z~Hey, mister!
+
+0x735E7270 = ~z~My fault?
+
+0x749E13F6 = ~z~Let's hope it wants the other half of its dinner.
+
+0x822E91D1 = ~z~No, I found your caravan, down the way.
+
+0x843B05AF = ~z~Here, doggy.
+
+0x852CE63B = ~z~
+
+0x885AD4CF = ~z~Now, pay me.
+
+0x892E1429 = ~z~Ain't it just.
+
+0x921D3907 = ~z~Where's the rest of him?
+
+0x939CAA5F = ~z~Look here.
+
+0x956C2811 = ~z~I can tell you, the tracks aren't this way.
+
+0x957F2C76 = ~z~Couldn't miss him if you wanted to.
+
+0x978CE014 = ~z~And now they're back... some of them at least.
+
+0x997AD854 = ~z~Thanks to you.
+
+0x1426BEDD = ~z~She's still eating... I woulda thought... since they was close and all...
+
+0x2226C61C = ~z~That bloody dust devil.
+
+0x2298A827 = ~z~We're waiting for her, ain't we?
+
+0x2440D3B7 = ~z~That tiger's missing...
+
+0x2468B7CB = ~z~Oh, ~rp~you would have managed it yourself... I just helped you along.
+
+0x2656D113 = ~z~Howdy, mister.
+
+0x2930EEAD = ~z~I'm going to move this wagon up.
+
+0x3582DF1F = ~z~Keep that up, I'll get this donkey to kick you.
+
+0x3686A830 = ~z~I'd come with you, you know. Only... I need to put these wagons right.
+
+0x3797B34A = ~z~Yes, of course, of course.
+
+0x4065C87E = ~z~One man's labor is but a trifle...
+
+0x4665CE92 = ~z~in all the time I've known you.
+
+0x4789D486 = ~z~I killed him.
+
+0x4800E70F = ~z~cougars and dogs...
+
+0x4884BACB = ~z~will you bring them back here?
+
+0x5175EBFB = ~z~Hey, mister...
+
+0x5300D36B = ~z~I'll make it worth your while.
+
+0x5336BE3C = ~z~Yes, yes, and taken our remaining lion...
+
+0x5667F482 = ~z~compared to this jewel's true value.
+
+0x5781D9C2 = ~z~Your tiger is a wild cat?
+
+0x5828F4D9 = ~z~I saw her do it.
+
+0x6987B164 = ~z~~sl:0.0:2.5:1~I am holding it, hold yours.
+
+0x7541EEE8 = ~z~No, I found your caravan, down the way.
+
+0x7873AE40 = ~z~You think? I hope so. Top five, at least.
+
+0x8092EA66 = ~z~that it might be useful for me to know that...
+
+0x8111A326 = ~z~You know, tarring and feathering a donkey is one thing...
+
+0x8184AFF1 = ~z~You think? I hope so. Top five, at least.
+
+0x8440B5EA = ~z~I'm sorry.
+
+0x8476CA6F = ~z~in all the time I've known you.
+
+0x8524FC77 = ~z~I'd offer you a drink, but I guess you got work to do.
+
+0x8740A7B3 = ~z~lady animal wrangler.
+
+0x9380CECA = ~z~If I see a tiger or a lion or a zebra just... roaming around?
+
+0x9444E6E1 = ~z~You seen a dog? A big dog around here.
+
+0x9580DC81 = ~z~Hey, hey, hey...
+
+0x9676BD0E = ~z~She's feral. I'm locking her in.
+
+0x9869CA05 = ~z~Hoodwink your audiences?
+
+0x10837A2F = ~z~She liked him fine...
+
+0x21097F55 = ~z~Nice to meet you, sir.
+
+0x21297B78 = ~z~Sure thing.
+
+0x21507E5F = ~z~now look at me...
+
+0x24078C2A = ~z~Now, pay me.
+
+0x32522C57 = ~z~I shouldn't.
+
+0x34338F5B = ~z~Well?
+
+0x34627B18 = ~z~It's the difference between prose and poetry...
+
+0x37622A82 = ~z~I don't want to be in the army...
+
+0x39491FFC = ~z~well, I believe the zebra's up near Larned Sod...
+
+0x41821D23 = ~z~Lassoing some poor beast...
+
+0x43514FA6 = ~z~
+
+0x48613DA7 = ~z~you can probably tell, in this field, he's the ace of spades.
+
+0x49089F47 = ~z~I mean, I should know... ~rp~I've run with a few of them myself...
+
+0x54975F0C = ~z~It's the stage...
+
+0x56142A8B = ~z~What's this?
+
+0x66768B45 = ~z~A dog? I don't know what I seen. But they got it trapped in the barn there.
+
+0x71727C17 = ~z~Tiger?
+
+0x74980C91 = ~z~Okay.
+
+0x75232E64 = ~z~You're a lucky man, sir...
+
+0x75427ACA = ~z~Good grief, you've found him.
+
+0x80680C83 = ~z~No it's yours.
+
+0x81189C4F = ~z~they only pay for deception.
+
+0x83371C28 = ~z~Good Lord!
+
+0x127706C7 = ~z~I'll leave the professional theatrics to better women than me...
+
+0x166620E6 = ~z~This funny to you?
+
+0x201801B3 = ~z~that that escaped animal...
+
+0x228700CC = ~z~come to the land of opportunity, they said...
+
+0x279865C0 = ~z~seeming friendly one minute, dinner the next... ~rp~viciousness comes easy.
+
+0x289505C5 = ~z~All in good time, my dear.
+
+0x358977EC = ~z~Oh, ~rp~I don't know if that will ever happen.
+
+0x447746C5 = ~z~A dog?
+
+0x661775F0 = ~z~Exactly... if...
+
+0x669838DD = ~z~Why does this keep happening to me?
+
+0x686328D1 = ~z~All kinds of grateful.
+
+0x753728C6 = ~z~Okay.
+
+0x764577BF = ~z~Your lion from Timbuktu, weren't he?
+
+0x773332E1 = ~z~Daddy you were right goddamn you...
+
+0x801616A7 = ~z~Look... I really don't think she'll eat the dog... like I said, they was friends.
+
+0x843328A5 = ~z~Couldn't miss him if you wanted to.
+
+0x2371592E = ~z~or turning, there in the glare of those arc lamps...
+
+0x2589843C = ~z~We got her! Okay. Drive, will ya? And I'll keep an eye on her.
+
+0x2594601B = ~z~Oh...
+
+0x3352559E = ~z~You ever want to get in the side show business... I'm sure there'd be a place for a fellow like you.
+
+0x5681050D = ~z~There's only one kind of grateful I care about.
+
+0x5760856F = ~z~It's a disaster.
+
+0x6430328E = ~z~E-e-e-easy boy...
+
+0x7426017E = ~z~although he's as much a zebra as you are a...
+
+0x8301802A = ~z~a trick of the eye to bamboozle the senses...
+
+0x8948290B = ~z~Hey, keep your head down... it's coming.
+
+0x9244682A = ~z~No, I'm sorry...
+
+0x9380210F = ~z~Good grief, you've found him!
+
+0x9621158A = ~z~Odysseus returns!
+
+0x10208983 = ~z~this time the animal was actually real, you moron?
+
+0x40225528 = ~z~
+
+0x46381824 = ~z~Yeah, it's your fault.
+
+0x46765174 = ~z~And I always thought they got along.
+
+0x48063110 = ~z~you're gonna wanna be a lot more careful.
+
+0x50367516 = ~z~What was I saying? Oh...
+
+0x56936750 = ~z~Didn't look like no dog.
+
+0x58272142 = ~z~She's feral. I'm locking her in.
+
+0x59097785 = ~z~What have you done with him if you don't mind me asking?
+
+0x60705126 = ~z~Our zebra.
+
+0x62070889 = ~z~or you gonna pay me for these misfits?
+
+0x68240625 = ~z~no one wants to see a man wrangling wild animals...
+
+0x83914244 = ~z~~sl:0.0:3.8:1~Cheery oh. Ta-ta. Larned Sod, if you can manage it.
+
+0x91394061 = ~z~Bother.
+
+0x95565155 = ~z~a fantastic, elusive zebra...
+
+0xA01616D9 = ~z~No, I'm sorry...
+
+0xA079856D = ~z~She licked her chops and asked for seconds.
+
+0xA0A807BD = ~z~and we had a deal.
+
+0xA2E7CA33 = ~z~Margaret said that you might need a hand.
+
+0xA3ADF443 = ~z~Depends how many more fellers throw their hat in the ring.
+
+0xA4FE2326 = ~z~but you go playing dress up dolls with a wild animal...
+
+0xA5DE0900 = ~z~I met Mr. Margaret, we got to talking, and...
+
+0xA7F14A96 = ~z~Odysseus returns!
+
+0xA10B2D6B = ~z~Am I losing something else today? Where you off to, mister?
+
+0xA43DC9F3 = ~z~There it is. The caravan.
+
+0xA49D6A3D = ~z~Sure did, Mr. Margaret.
+
+0xA53DF244 = ~z~they're pretty hard to come by round here.
+
+0xA55E6C21 = ~z~Alright, let's go.
+
+0xA94DE2BC = ~z~Oh... I guess she's real hungry.
+
+0xA295FF54 = ~z~Maybe one of these days the best female for the job will actually be a female.
+
+0xA370F481 = ~z~Where was I now? Oh, that's it.
+
+0xA1106A15 = ~z~Ah, and you were the woman?
+
+0xA1971C58 = ~z~you better be a whole lot more careful.
+
+0xA9881825 = ~z~That could've been a goose for all I knew.
+
+0xAA48F4DF = ~z~Oh, yes sir...
+
+0xAAE8F324 = ~z~Oh dear...
+
+0xAAE16175 = ~z~Dammit...
+
+0xAB6BC571 = ~z~Get out of these woods, and you'll find the road. It should lead you right to them.
+
+0xAB9DF159 = ~z~What is the greater conjuring trick?
+
+0xAB42664A = ~z~Sure thing.
+
+0xABD12F04 = ~z~So long, Mr. Marston.
+
+0xAC5D8283 = ~z~help a fellow out would you...
+
+0xAD225781 = ~z~Come on, you dumb dog...
+
+0xAEB3B88C = ~z~So long.
+
+0xAEC32200 = ~z~Oh, she liked him just fine.
+
+0xAED6F577 = ~z~They're down there on Caliga Way.
+
+0xAF49B540 = ~z~How so?
+
+0xAF67FF19 = ~z~What else?
+
+0xAF2621ED = ~z~ruined!
+
+0xAF8588F9 = ~z~Hey, where ya going?
+
+0xAFABA2AE = ~z~I'm sorry.
+
+0xAFE615A8 = ~z~watch her tame wild beasts.
+
+0xB0A3EC7B = ~z~Oh he weren't wrong.
+
+0xB0A63F29 = ~z~Hey!
+
+0xB1D8A7C2 = ~z~Bloody hell!
+
+0xB3BAD2CA = ~z~Hey... hey, where are you going?
+
+0xB5E98925 = ~z~Don't do this to us.
+
+0xB5EDC505 = ~z~You got word on the lion?
+
+0xB6AFFFAD = ~z~Ah yes, well it's not everyone's cup of tea.
+
+0xB6F31EE4 = ~z~We lost the main road around here... when the dust was up...
+
+0xB9BC98D3 = ~z~Be careful or you might get wrecked too.
+
+0xB13B3A80 = ~z~Yes, yes, I've got word on the lion...
+
+0xB34B7D24 = ~z~Sally Nash.
+
+0xB35FEF43 = ~z~If he'd gone that way, I'd have seen him. Go back to the tracks.
+
+0xB66CB525 = ~z~A dog?
+
+0xB269CF8A = ~z~Son of a bitch.
+
+0xB275CF18 = ~z~easy...
+
+0xB665C7F0 = ~z~and thank you...
+
+0xB667F6E3 = ~z~Which way did he go?
+
+0xB793E94E = ~z~confound comprehension.
+
+0xB4189D1A = ~z~No, I'm sorry...
+
+0xB7440F8A = ~z~Jolly good. Jolly good.
+
+0xB61299D5 = ~z~Why?
+
+0xB78615B8 = ~z~What escaped?
+
+0xB83740FF = ~z~Shut it.
+
+0xB979618C = ~z~Now that you've started helping, it would be a terrible shame not to continue.
+
+0xB5640155 = ~z~Well, wild creatures turn on each other...
+
+0xB6236655 = ~z~Well, you can call him that...
+
+0xB8518870 = ~z~Of course, of course, I shall make it worth your while...
+
+0xB8632245 = ~z~Whatcha doing?
+
+0xBA0E0E39 = ~z~Hoodwink your audience?
+
+0xBA513A17 = ~z~Bring on the King of the Beasts, on the other hand...
+
+0xBA98933E = ~z~Thank you.
+
+0xBB8DD13B = ~z~I should go and get my repeater.
+
+0xBB218056 = ~z~Why don't you hop up on the wagon and...
+
+0xBC748DDD = ~z~Ex dog, ex lion...
+
+0xBCC98E63 = ~z~That'd be Stripey...
+
+0xBD7D51A7 = ~z~ruined!
+
+0xBE2BB5FA = ~z~I can tell you, the tracks aren't this way.
+
+0xBE74B2C5 = ~z~the animal wrangler...
+
+0xBEA17A7F = ~z~Where the hell...
+
+0xBF5CA413 = ~z~We lost the main road around here... when the dust was up...
+
+0xC2E98A3A = ~z~Oh!
+
+0xC4D861BA = ~z~So long, mister.
+
+0xC4DF5986 = ~z~Here boy.
+
+0xC5CC25B5 = ~z~Hoodwink our audiences?
+
+0xC18D6D47 = ~z~Shit!
+
+0xC43DB979 = ~z~Be careful or you might get wrecked too.
+
+0xC49A5180 = ~z~That's a dog in there.
+
+0xC52DB107 = ~z~A priceless Ranjaniki Tiger...
+
+0xC61EE133 = ~z~Bottoms up.
+
+0xC63EA30A = ~z~Is that right?
+
+0xC88D4E5E = ~z~He's a card alright.
+
+0xC830BD48 = ~z~I'd say you got that sown up and then some.
+
+0xC837E999 = ~z~you gonna pay me for these misfits?
+
+0xC864CA6C = ~z~Well, they didn't go in this direction.
+
+0xC2002A1A = ~z~I saw its claws, that's enough for me.
+
+0xC8369BA0 = ~z~now he's missing too.
+
+0xC72877BD = ~z~I saw its claws, that's enough for me.
+
+0xC93958DF = ~z~Yes, of course.
+
+0xC5917677 = ~z~Hey! I thought you was helping.
+
+0xCA2E2950 = ~z~Hey boy!
+
+0xCA4FDC51 = ~z~Ain't having any luck...
+
+0xCA65B898 = ~z~He got it! He shot the thing.
+
+0xCA68E562 = ~z~Look... I really don't think she'll eat the dog... like I said, they was friends.
+
+0xCB172AFE = ~z~and I always thought they got along.
+
+0xCBA2DB3D = ~z~It looked like a lion to me.
+
+0xCBE4C579 = ~z~What escaped?
+
+0xCBF53833 = ~z~Your tiger is a wild cat?
+
+0xCC2B4CFF = ~z~Sorry girl.
+
+0xCC5401EF = ~z~Sally, get the cages ready.
+
+0xCCF83AFE = ~z~Aha, I see you've found each other.
+
+0xCD65DF45 = ~z~Royal Command Performance material.
+
+0xCD16335D = ~z~I hate to ask...
+
+0xCD379495 = ~z~lady animal wrangler.
+
+0xCF5E8D56 = ~z~Just down on Caliga Way, old boy. Won't be able to miss them.
+
+0xD0C947AC = ~z~Did you see its teeth?
+
+0xD3AC511C = ~z~I see your problem...
+
+0xD6CFEAE3 = ~z~you can probably tell, in this field, he's the ace of spades.
+
+0xD7F25A9D = ~z~What else?
+
+0xD8A6B5B4 = ~z~Hey, mister!
+
+0xD8C1E66C = ~z~I'm ruined...
+
+0xD8F0C86E = ~z~I mean, I should know... ~rp~I've run with a few of them myself...
+
+0xD8F4EDA9 = ~z~the bravest woman in the world...
+
+0xD9D8BD4C = ~z~did you lose a tiger?
+
+0xD9FC3134 = ~z~Hold steady... if they're down here, I'll find 'em.
+
+0xD31F104E = ~z~Whoa...
+
+0xD60FB752 = ~z~I sent our best lion out to find him, and err...
+
+0xD78A8618 = ~z~If that's what you're dealing with, you didn't have any luck to begin with...
+
+0xD320D73F = ~z~Okay. ~rp~You know the only thing to do in a dust storm is wait it out?
+
+0xD457CF5F = ~z~from the plains of Ongo Bongo by the shores of the Limpopo...
+
+0xD9906CC3 = ~z~Hold steady... if they're down here, I'll find 'em.
+
+0xD11578D7 = ~z~Who wants to see a woman wrangle wild animals...
+
+0xD89578DC = ~z~A dog.
+
+0xD623857C = ~z~Be a dear and fix me a gin.
+
+0xD1232412 = ~z~Sorry old business, dear...
+
+0xD9914095 = ~z~Of course.
+
+0xDADDDC67 = ~z~My animals... they escaped.
+
+0xDB1BFCA4 = ~z~and we had a deal.
+
+0xDB4E5A04 = ~z~The other half? Really?
+
+0xDCD1283B = ~z~You won't find those animals here... though I bloody well wish you would.
+
+0xDCE83BBA = ~z~I'd offer you a drink, but I guess you got work to do.
+
+0xDD0AC9E7 = ~z~Your stripes better not rub off on my pants.
+
+0xDD58F50D = ~z~I got the trail. These're paw prints.
+
+0xDDC1D5A0 = ~z~Dear boy, don't be so dreadfully literal.
+
+0xDE0C8010 = ~z~Oh, yeah?
+
+0xDE3AD9E3 = ~z~Where is she?
+
+0xDEDD94C6 = ~z~Cougar, you mean.
+
+0xDF94804D = ~z~Whoever owned that beast's got some answering to do.
+
+0xDFE558FB = ~z~Alright, I'll see what I can do.
+
+0xE0295017 = ~z~We got her! Okay. Drive, will ya? And I'll keep an eye on her.
+
+0xE059D583 = ~z~I think a cougar took him.
+
+0xE0A9E7FF = ~z~And now I'm... I'm buggered.
+
+0xE0A27242 = ~z~Mr. Margaret's a lot of things, but best female navigator ain't one of them.
+
+0xE1C06A30 = ~z~and a magnificent lion...
+
+0xE1CF76BD = ~z~Stay down. She won't be too far away.
+
+0xE1DED0F1 = ~z~John Marston.
+
+0xE3B2BB7C = ~z~It's just a donkey, you idiot.
+
+0xE3C31C67 = ~z~Yeah.
+
+0xE3C202E0 = ~z~I said, step aside.
+
+0xE4BF9133 = ~z~as clear as the Amazon...
+
+0xE4C0B391 = ~z~Shit!
+
+0xE5C12285 = ~z~Ain't having any luck...
+
+0xE5FA94F6 = ~z~Miss.
+
+0xE6CA079A = ~z~I got it...
+
+0xE7BB95E3 = ~z~Sally, get the wagons moving.
+
+0xE8F01850 = ~z~He's in the great hunting ground in the sky.
+
+0xE9C280CA = ~z~What's the ruckus, boys?
+
+0xE14F1C46 = ~z~Sorry girl.
+
+0xE25D31E3 = ~z~Alright, let's go.
+
+0xE48A0E88 = ~z~and they feel the roar and they... well...
+
+0xE91F5428 = ~z~I'd sure like to see that other lion, Mr. Marston.
+
+0xE1576C72 = ~z~from the grasslands of Tanganiki.
+
+0xE2062D53 = ~z~Yes, sir, Mr. Margaret. Right away.
+
+0xE70183DE = ~z~grease paint, tears...
+
+0xE3630068 = ~z~Where the hell...
+
+0xE4062021 = ~z~but a cow barn in Rhodes is hardly Drury bloody Lane!
+
+0xE5740194 = ~z~It's over in the other barn.
+
+0xEA086A9D = ~z~Hey, uh, ~rp~I realize I ain't properly introduced myself.
+
+0xEB88712D = ~z~No one will pay for the truth...
+
+0xEC90302B = ~z~I went out to find a tiger...
+
+0xECC67002 = ~z~Shut it.
+
+0xED2E7FB6 = ~z~Okay. ~rp~You know the only thing to do in a dust storm is wait it out?
+
+0xED4D64AD = ~z~I'll see if I can find his track.
+
+0xEE249808 = ~z~I had an act...
+
+0xEE858264 = ~z~We was tearing round here, looking for any kind of landmark,~rp~ when over we go. Whole caravan toppled.
+
+0xEEC421A4 = ~z~Well, it was him or me.
+
+0xEED10109 = ~z~Oh... well... behind that log then...
+
+0xEF7D8BDD = ~z~Nice to meet you, sir.
+
+0xEF56CDF0 = ~z~Emerald Ranch, good sir. And then your work is done.
+
+0xF02A244B = ~z~He's as big as a mule and as mean as a hellcat.
+
+0xF0578E5E = ~z~I didn't really understand any of that.
+
+0xF07A3D2D = ~z~You going in there?
+
+0xF0C19EA2 = ~z~Well, you can call him that...
+
+0xF1D45DCE = ~z~It's an illusion...
+
+0xF1DCB89A = ~z~Thank you, my dear.
+
+0xF3F8AE5D = ~z~Ain't we waiting for the lion?
+
+0xF5A9A4F5 = ~z~Lost it... give me a moment...
+
+0xF6D80493 = ~z~It's just a donkey, you idiot.
+
+0xF8D26EE0 = ~z~Well, they didn't go in this direction.
+
+0xF9AECA0D = ~z~I'm ruined...
+
+0xF31EA398 = ~z~Depends how many more fellers throw their hat in the ring.
+
+0xF34AFFC6 = ~z~Well, you can call him that...
+
+0xF35A23DB = ~z~Look here.
+
+0xF71C62F3 = ~z~Is it dead? I pray that thing's a goner.
+
+0xF75D15B7 = ~z~I'm not a ruddy side show attraction. Not at the moment... at least.
+
+0xF498A337 = ~z~That first set of shrubs... that's where I lost sight of him.
+
+0xF590A67D = ~z~What?
+
+0xF824B94A = ~z~Howdy, mister.
+
+0xF1036F79 = ~z~Which way did he go?
+
+0xF4048EB4 = ~z~Why?
+
+0xF4582FC4 = ~z~Sure is. They got it trapped in the barn there.
+
+0xF6994F0C = ~z~Oh, ~rp~you would have managed it yourself... I just helped you along.
+
+0xF9697E05 = ~z~It is a right old predicament.
+
+0xF3571075 = ~z~If I see a tiger or a lion or a zebra just... roaming around?
+
+0xFA1F35CE = ~z~it might be useful for me to know...
+
+0xFAA0A2F0 = ~z~How so?
+
+0xFAA670C2 = ~z~Come on, boy. Let's go home.
+
+0xFAFABDA9 = ~z~and as dear as all the gold in the Andes.
+
+0xFB32529D = ~z~I'd sooner you went in and found that thing.
+
+0xFBE14FCB = ~z~As you know, we're lately very short on lions...
+
+0xFC5BCF5B = ~z~I'm sorry.
+
+0xFC97CF5A = ~z~You paint this dog? There's some pigment here...
+
+0xFC5403DE = ~z~but in a certain light a feller could never tell.
+
+0xFC71541E = ~z~I won't keep ya.
+
+0xFD9EC2EE = ~z~Well, that's very wise of you... especially when you are lacking zebras and tigers.
+
+0xFE85C377 = ~z~A promise...
+
+0xFF606E03 = ~z~I believe you were going to Emerald Ranch, and I was getting a glass of mother's ruin. Isn't that right?
+
+0xFF4557B3 = ~z~licked her chops and asked for seconds.
+

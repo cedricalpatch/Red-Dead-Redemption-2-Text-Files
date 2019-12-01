@@ -1,0 +1,192 @@
+0x02700C0A = Hold ~INPUT_OPEN_WHEEL_MENU~ and tap ~INPUT_SELECT_NEXT_WHEEL~ to use the Item Wheel
+
+0x06EBF942 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the cricket
+
+0x098B075B = Press ~INPUT_AIM~ and slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to attract fish.
+
+0x0BC1DD09 = Hold ~INPUT_ATTACK~ to pull the rod back.
+
+0x0C6F3578 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the cricket
+
+0x0D386568 = Use ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ to control the fish while it is struggling.
+
+0x1B298DBF = The line snapped and the fish got away with your lure. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+0x1CD6BBC8 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the cheese
+
+0x1F34FF7D = Release ~INPUT_ATTACK~ to cast out
+
+0x2E709419 = Quickly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to reel in the fish while it is tired.
+
+0x3E621181 = Push up ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~ to drag the fish towards you then quickly reel in line to make faster progress.
+
+0x4A2DABFC = Rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ clockwise to reel in.
+
+0x4A8DAE00 = Tap ~INPUT_ATTACK~ to attract fish by flicking the line. Flicking too often will spook the fish.
+
+0x4C081CF0 = Large fish can be stowed on your horse.
+
+0x5BC1732A = Release ~INPUT_ATTACK~ to cast out.
+
+0x5D84075D = ~1w~ poisoned ~2~
+
+0x5E581478 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to prevent the fish pulling out line. Overuse risks snapping the line.
+
+0x6D87B27A = The fish has died.
+
+0x7D539559 = Hold ~INPUT_AIM~ and slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptStyle=3~ to attract fish.
+
+0x7F63C3E5 = Cheese Bait is best for catching Bluegill and Rock Bass. These fish can be found almost everywhere.
+
+0x8A89F5D3 = River Lures are excellent for catching river dwelling large fish, especially Northern Pike and Sockeye Salmon.
+
+0x8A7203C6 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the special lake lure
+
+0x8C133E43 = You currently have no space in your Satchel to carry any more ~1~. Sell, cook or discard ~1~ to make more space.
+
+0x9C54A3AF = Grip Reel
+
+0x9DE0AA4A = Use ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~ to select a bait then release ~INPUT_OPEN_WHEEL_MENU~ to equip
+
+0x15B11009 = Keep
+
+0x19E31F7B = Use ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ to control the fish while it is struggling
+
+0x26B5F3AB = Keep and Return to Shore
+
+0x35F84170 = Hold ~INPUT_ATTACK~ to pull the rod back
+
+0x51D23B6E = Crayfish are great for catching larger fish, especially Largemouth Bass that can be found in deeper parts of both rivers and lakes.
+
+0x57D594A1 = Press ~INPUT_AIM~ to grip the rod
+
+0x67C340F6 = Push and hold ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL~ in any direction to prevent the fish pulling out line. Overuse risks snapping the line.
+
+0x68AF2BB0 = Reset Cast
+
+0x72FFF24D = Reel Lure
+
+0x74E55DEE = You are in water too deep to cast here.
+
+0x76EAC4B6 = You are too high above the water to cast here.
+
+0x77CFD9E7 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish when reeling slowly then press ~INPUT_ATTACK|PromptId=CTX_HOOK~ when you feel a bite
+
+0x88D7E91A = The fish got away with your bait. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+0x91D0B36F = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the special lake lure
+
+0x96AA3DBD = Pull down ~INPUTGROUP_MINIGAME_FISHING_LSTICK_ALL~ to drag the fish towards you then quickly reel in line to make faster progress.
+
+0x109F8ED1 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in the fish while it is tired and press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed
+
+0x397B3646 = Hamish
+
+0x434BFCDD = Hold ~INPUT_AIM~ and ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish when reeling slowly. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed or ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease.
+
+0x636F69F8 = Crickets are great for catching larger fish, especially Smallmouth Bass that live mostly in rivers, but can also be found in some larger bodies of water.
+
+0x643D9FE6 = The fish got away. When the fish is struggling control it with ~INPUT_MINIGAME_FISHING_LEFT_AXIS_X~ instead of reeling it in.
+
+0x694F2BD2 = Fish attracted to the bait will often nibble before taking a bite.
+
+0x757B5B58 = Fish Released
+
+0x874DB0F8 = Your spool is out of line. Quickly reel in some line to prevent it snapping.
+
+0x1037D687 = A fish got away with your bait.
+
+0x2471B3E7 = Worms are great for catching larger fish, especially Steelhead Trout that can be found in wide rivers.
+
+0x4733D548 = Slowly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~ to attract fish then press ~INPUT_ATTACK|PromptId=CTX_HOOK~ when you feel a bite
+
+0x5659C0F6 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_OUT_MODIFER~ to reel out. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease reeling speed.
+
+0x6547D1B8 = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the fishing rod
+
+0x97839AAB = Hold ~INPUT_AIM~ to grip the rod.
+
+0x504931A1 = Cut Line
+
+0x1798051D = The Special Swamp Lure is used for catching legendary fish that live in swamps.
+
+0x5703352F = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the fishing rod
+
+0x8934039D = Bait
+
+0x65727743 = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the lake lure
+
+0xA23C9AAA = Release ~INPUT_OPEN_WHEEL_MENU~ to equip the cheese
+
+0xA78B7613 = Throw Back
+
+0xA94B0D91 = Hook Fish
+
+0xA391CB30 = The Special Spinner is excellent for catching all larger fish and legendary fish.
+
+0xB3563F83 = Hold ~INPUT_OPEN_WHEEL_MENU~ to use the bait wheel
+
+0xB16382D2 = Hold ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~ to grip the reel
+
+0xBC16B042 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed.
+
+0xBD9A795A = Equip ~a~
+
+0xBF46C9B8 = Press ~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ to quick-equip ~1~ or hold ~INPUT_OPEN_WHEEL_MENU~ to use the bait wheel
+
+0xC049FBFE = Press ~INPUT_ATTACK|PromptId=CTX_HOOK,Gutter~ to hook the fish when you feel a bite
+
+0xC1DC7940 = You are too close to another person to cast here.
+
+0xC4E8F663 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to reel in the fish while it is tired. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed.
+
+0xC4EE78FE = Lake Lures are excellent for catching lake dwelling large fish, especially Lake Sturgeon and Muskie.
+
+0xC5D468A3 = Press ~INPUT_ATTACK~ to hook the fish when you feel a bite. The rod will be pulled strongly downwards.
+
+0xCF839F5A = Something in the way is preventing you casting here.
+
+0xD3F398B4 = You cannot cast without a bait equipped. You can access the bait wheel by holding ~INPUT_OPEN_WHEEL_MENU~.
+
+0xD4BB7D03 = Press ~INPUT_MINIGAME_FISHING_RESET_CAST~ to reset cast
+
+0xD45BE13E = Press ~INPUT_AIM|PromptId=CTX_GRIP,Gutter~ to grip the reel
+
+0xD68E85B3 = Hold ~INPUT_MINIGAME_FISHING_MANUAL_REEL_IN~ to attract fish when reeling slowly. Press ~INPUT_MINIGAME_FISHING_REEL_SPEED_UP~ to increase reeling speed or ~INPUT_MINIGAME_FISHING_REEL_SPEED_DOWN~ to decrease.
+
+0xD620BD92 = Swamp Lures are excellent for catching swamp dwelling large fish, especially Channel Catfish and Longnose Gar.
+
+0xDA28F733 = Stop reeling when the fish is struggling. Continuing can cause the line to break.
+
+0xDC04F7E8 = Pulling the rod back further before releasing will cast out further.
+
+0xDC09812B = Quickly rotate ~INPUTGROUP_MINIGAME_FISHING_RSTICK_ALL|PromptId=CTX_REEL,Gutter,PromptStyle=3~ to reel in the fish while it is tired
+
+0xDC3C5614 = You are too far from the water's edge to cast here.
+
+0xDDECF975 = You cannot cast out here.
+
+0xE4F8AF8F = ~INPUTGROUP_RADIAL_MENU_NAV~ Select the lake lure
+
+0xE10157EB = The Special Lake Lure is used for catching legendary fish that live in lakes.
+
+0xEB619EB8 = You were too slow trying to hook the fish.
+
+0xF710CCAB = Press ~INPUT_AIM~ to grip the rod.
+
+0xF4944B51 = Reel In
+
+0xF7561E30 = Hold ~INPUT_AIM~ to grip the rod
+
+0xFA5EA8BB = Control
+
+0xFD7FA58A = Corn Bait is best for catching Bullhead Catfish and Chain Pickerel. Bullhead Catfish only live in the swamps, but Chain Pickerel can be found almost everywhere.
+
+0xFDA459FB = The Special River Lure is used for catching legendary fish that live in rivers.
+
+0xFDEAC3CA = Wait until you feel the fish take a stronger bite.
+
+0xFEC8CFB8 = The Special Spinner is excellent for catching all larger fish.
+
+0xFFF73C30 = Bread Bait is best for catching Perch and Redfin Pickerel. Perch are found in the north, while Redfin Pickerel live in the south.
+

@@ -1,0 +1,244 @@
+0x0089A24D = ~z~So...
+
+0x017BF35D = ~z~Same as I've been...
+
+0x0437C446 = ~z~I ain't really done much of it...
+
+0x0666E9E3 = ~z~Me too...
+
+0x06932D44 = ~z~Do a little better than survive, for once.
+
+0x095DD943 = ~z~The place was getting robbed.
+
+0x0BE7A7EE = ~z~Sure...
+
+0x1DACCB78 = ~z~and it's Jim.
+
+0x1DEC025F = ~z~Jack, when you're done in here,
+
+0x2C3B6895 = ~z~Jim Milton.
+
+0x2E1FD2B3 = ~z~Okay...
+
+0x3A3F149B = ~z~Same as I've been...
+
+0x3A35995C = ~z~Hey.
+
+0x3BB615EF = ~z~Abe...
+
+0x3CB992D1 = ~z~I got imaginative parents, sir.
+
+0x3E1A0C4E = ~z~Abe.
+
+0x3E9E6D9D = ~z~Hey.
+
+0x4CDA39D1 = ~z~Won't do him no harm.
+
+0x4D000A64 = ~z~Shoveling shit,
+
+0x4FCE907B = ~z~Pleased to meet you.
+
+0x5F13DE44 = ~z~I know...
+
+0x6AEC7AC9 = ~z~Hey, Lancelot.
+
+0x6BB0D65A = ~z~This kind man just collected us.
+
+0x6E8E7B9F = ~z~Go find ole Jim Milton here something to do...
+
+0x6F7DCFD9 = ~z~I'm David Geddes.
+
+0x6F7603E0 = ~z~Is that your boy?
+
+0x7A447B13 = ~z~Yes Mr. Dickens.
+
+0x7BFE68DA = ~z~Ah it was nothing, sir.
+
+0x7D261A82 = ~z~Lucky man.
+
+0x7DE6FAC6 = ~z~how fine you seem.
+
+0x7EA01BC2 = ~z~Good day, gentlemen.
+
+0x8A3EB49D = ~z~Shoveling shit,
+
+0x8CB53E5E = ~z~Sure. Abe, Lancelot.
+
+0x9F911C39 = ~z~Do a little better than survive, for once.
+
+0x9FC9E487 = ~z~Hey Pa.
+
+0x11D01A14 = ~z~I reckon even your mother would say we were almost done here.
+
+0x12C846CA = ~z~well you know...
+
+0x22FBA30C = ~z~So...
+
+0x26A8BDB6 = ~z~I know...
+
+0x32D75689 = ~z~Mr. Geddes,
+
+0x49EEB260 = ~z~Abe, get over here.
+
+0x52DFBF1D = ~z~I... like it. I got...
+
+0x54A2B963 = ~z~She don't take too kindly to surprises.
+
+0x55BB4BAD = ~z~I promise you that.
+
+0x65CFEBB8 = ~z~Hey.
+
+0x72ED04A8 = ~z~Then you better work extra hard.
+
+0x77F01000 = ~z~Where's Jack.
+
+0x80FE207E = ~z~Sir.
+
+0x92E7C601 = ~z~You work hard,
+
+0x93C21859 = ~z~get over here.
+
+0x103C90DE = ~z~in pursuit of the better life you want.
+
+0x145B6F3A = ~z~by shooting holes in folks.
+
+0x147EF0E9 = ~z~come on out and lend a hand.
+
+0x177D9FD6 = ~z~I heard you found some trouble with your welcome,
+
+0x250E6B56 = ~z~Me too...
+
+0x344E5901 = ~z~Won't do him no harm.
+
+0x423ECB04 = ~z~We didn't have much of a choice...
+
+0x505B30D0 = ~z~Sit down, I'll show you how...
+
+0x639A3798 = ~z~Where's Jack?
+
+0x684E70D3 = ~z~Boy has a family.
+
+0x844E44C5 = ~z~but most of them drifted off.
+
+0x905C9FB1 = ~z~Jim Milton,
+
+0x922BA34F = ~z~Mrs. Milton!
+
+0x968B693F = ~z~Yup. We used to have a bunch of women here did most of the milking...
+
+0x972C4CDA = ~z~You hear that John Jim...
+
+0x1012E6AD = ~z~What was I supposed to do?
+
+0x1691E8FA = ~z~could never...
+
+0x2361BD37 = ~z~Lancelot.
+
+0x6048DF14 = ~z~Mr. Dickens?
+
+0x6213E52C = ~z~I'm tired of fleeing John.
+
+0x6891C796 = ~z~You finish things up, I'll go check on her.
+
+0x7453F9B0 = ~z~Won't do him no harm.
+
+0x21479FA4 = ~z~well you know...
+
+0x26183D0B = ~z~this is the new ranch hand I told you about.
+
+0x34952FB1 = ~z~I gotta go.
+
+0x47728DDE = ~z~Thank you sir.
+
+0x61265BAA = ~z~Ain't that grand. And such a fine name.
+
+0x86149D35 = ~z~Same as I've been...
+
+0x96853E16 = ~z~in pursuit of the better life you want.
+
+0x436096DF = ~z~Approach her calm now.
+
+0x814122B4 = ~z~You and Mr. Dickens.
+
+0x995243B0 = ~z~Shoveling shit,
+
+0x2810703E = ~z~in pursuit of the better life you want.
+
+0x2887416F = ~z~Hey.
+
+0xA5CCEBCB = ~z~you be honest,
+
+0xA563E949 = ~z~extra hard.
+
+0xA20134D7 = ~z~Milton,
+
+0xAB11E72F = ~z~Where's Jack.
+
+0xAE7AF652 = ~z~~sl:0.8~I can tell.
+
+0xB4F098E0 = ~z~~sl:0.6~Sure... Come on, son.
+
+0xB72AB4DA = ~z~but I hear you began your career as a rancher,
+
+0xB78E8F4E = ~z~you'll get your keep.
+
+0xB2091FEA = ~z~You know...
+
+0xBBE808DB = ~z~Hey.
+
+0xC6C23C83 = ~z~How about you and the boy, uh, help me clean out stables?
+
+0xC242020B = ~z~it's ranching work.
+
+0xC9010268 = ~z~Hey.
+
+0xCA2B4355 = ~z~That's enough, Jim. Now, come on.
+
+0xCD8AAC20 = ~z~Hey.
+
+0xCDC3F89E = ~z~I'm tired of fleeing John.
+
+0xD1FC5FD0 = ~z~Okay.
+
+0xD1FEA184 = ~z~I think we can be okay here...
+
+0xD3DE4100 = ~z~Twelve, sir.
+
+0xDA6754FF = ~z~John...
+
+0xDFBBFB4F = ~z~You fine with milking?
+
+0xE4F81078 = ~z~Real fine.
+
+0xE6C2CB0C = ~z~It's fine...
+
+0xE8D30D7D = ~z~never really get the hang of it.
+
+0xE9A36461 = ~z~Guess maybe we can last here.
+
+0xE164E2E8 = ~z~Guess maybe we can last here.
+
+0xEA3F6DC2 = ~z~How old are you now, Lancelot?
+
+0xEA5FB1D5 = ~z~Survive...
+
+0xECC679BD = ~z~Jim Milton.
+
+0xECF4F8E6 = ~z~make sure he works extra hard.
+
+0xF8B36242 = ~z~but you kept your nerve and protected my property.
+
+0xF88C6E9F = ~z~This place is kinda...
+
+0xF387872D = ~z~Survive...
+
+0xFAF70704 = ~z~I know...
+
+0xFB0631E3 = ~z~Are you serious, mister?
+
+0xFBA63DD4 = ~z~So you show everyone who was boss?
+
+0xFDE94256 = ~z~Real wise, “Jim”
+
+0xFE901D58 = ~z~Thank you for the opportunity Sir.
+

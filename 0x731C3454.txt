@@ -1,0 +1,48 @@
+0x04DFBD68 = ~z~Hey, you ain't come from Armadillo, have you?
+
+0x05EE89B6 = ~z~Well, there ain't been much work around of late, what with all that sickness in Armadillo.
+
+0x8AA40514 = ~z~Well, anyway, you enjoy your drink, mister.
+
+0x98AEA12D = ~z~Used to be a fine little town, but this cholera breakout has all but destroyed it.
+
+0x140DA5F4 = ~z~I'm thinking of heading east to MacFarlane's Ranch myself.
+
+0x7776DEB6 = ~z~I don't believe in such things myself.
+
+0x82251AD3 = ~z~Will happily hang a feller for stealing a glance.
+
+0xAAF445B8 = ~z~Won't be nobody left there soon, apart from probably that bastard at the general store, Herbert Moon.
+
+0xAF125BFF = ~z~Anyway, I can see you ain't much in the mood for conversating.
+
+0xB97D434F = ~z~Good to see there's still some new faces passing through.
+
+0xBC516872 = ~z~We'll never get rid of him.
+
+0xC46F4956 = ~z~Well, you enjoy your drink, mister...
+
+0xCE840CD7 = ~z~Well, anyway, now folk are saying that it must be some curse, that this is beyond the natural course of things.
+
+0xD01B9E11 = ~z~So a tenant farmer's on the land for now and is struggling, by all accounts.
+
+0xD079B77F = ~z~I moved here thinking there might be more freedom for a man like me... sharing the same skin as the sheriff and all... but was I wrong. The man's a tyrant.
+
+0xD4A3E9C7 = ~z~Used to be teeming with people here... merchants, traders...
+
+0xD7146E0B = ~z~You new to these parts, mister?
+
+0xDEB853FC = ~z~Anyway, just thought you should know... I've seen too many folks learn it the hard way.
+
+0xE0193E0C = ~z~Figure he might need an extra hand.
+
+0xE4EAC702 = ~z~Word of advice, friend.
+
+0xE25BC291 = ~z~The rancher there has up and left for a while... had a bad run the past few years, poor feller, lost some sons.
+
+0xEA60153F = ~z~then the railroad came and passed us by and most folk passed by with it.
+
+0xF3EC7E64 = ~z~Don't make an enemy of the sheriff here... he's a damn lunatic.
+
+0xF881B182 = ~z~But we're doing alright... gotta move with the times, don't you?
+

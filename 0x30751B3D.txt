@@ -1,0 +1,40 @@
+0x0BA1A7A8 = ~z~Nevermore shall my eyes, by your beauties be blest;
+
+0x0ECF2E07 = ~z~Fare you well, dear Sean, fare you well, adieu!
+
+0x4ED0848D = ~z~To roam at my ease, and breathe the fresh air;
+
+0x5E5B23A2 = ~z~I would roam through the cities; through village and dell;
+
+0x9D444AF3 = ~z~Fare you well, little fishes, that glides through the sea;
+
+0x13D98E98 = ~z~Such a wild outcast, never had known.
+
+0x49C7F2AC = ~z~God pity and pardon, I'm a poor prisoner for life.
+
+0x81F8EADD = ~z~Fare you well, kind friends, I am willing to own;
+
+0x95CC1283 = ~z~Your life's all sunshine, all light, and all glee;
+
+0x3749D578 = ~z~I'm the downfall of my family, my children, my wife;
+
+0x7025C737 = ~z~But I'll never return, to my cold prison cell.
+
+0xA9F93ADD = ~z~Nevermore shall I watch; your skill in the wave;
+
+0xAC20E8AC = ~z~My heart sinks within me, in anguish I die.
+
+0xBBB6DE58 = ~z~I'll depart from all friends; this side of the grave.
+
+0xBD7EE1E8 = ~z~What would I give; such freedom to share;
+
+0xC2BA15DA = ~z~I am doomed to this cell, I heave a deep sigh;
+
+0xD17DB361 = ~z~You fly all day long, and sing your troubles by;
+
+0xE63FDCE5 = ~z~Fare ye well, little birdies, that fly in the sky.
+
+0xF4EA7A3A = ~z~Nevermore shall you soothe; my sad bosom to rest.
+
+0xFA99059B = ~z~Rocks and mountains, I depart from you;
+

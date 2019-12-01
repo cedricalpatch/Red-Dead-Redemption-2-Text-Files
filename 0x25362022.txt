@@ -1,0 +1,228 @@
+0x036F3481 = ~z~Well,~rp~ my father did that too.
+
+0x04387ACA = ~z~This way. We should have a good view from up here.
+
+0x05D7A502 = ~z~Then run away.
+
+0x08702EA5 = ~z~Yeah, we did. We shot them bison and we will shoot you too, if you don't get.
+
+0x0880BBEC = ~z~I need to clear my mind.
+
+0x0CDDA148 = ~z~Look, another dead bison. On that hill to the right. Come on.
+
+0x0E5ED57B = ~z~The greatest of gifts.
+
+0x1A9BC965 = ~z~Why did you do that?
+
+0x1BECF067 = ~z~There's some over on the plains, I believe.
+
+0x1D28D816 = ~z~Did you fools shoot those bison?
+
+0x1FA9AF4B = ~z~They could still be in the area. Let's get up higher, see if we spot anything.
+
+0x2A6CA376 = ~z~Arthur. Look. Smoke to the north. Could be another camp.
+
+0x2D2F5E9E = ~z~Look, another dead bison to our left there. Come on.
+
+0x2DC06FAE = ~z~Okay, I'm going to see if there's anything worth taking from their camp.
+
+0x3B4B770F = ~z~Look, over here.
+
+0x3DEEA97F = ~z~They were the center of all life...we couldn't survive without them.
+
+0x3E5890DA = ~z~I'll catch up with you later.
+
+0x4ACB7874 = ~z~Okay, let's go.
+
+0x4BAA75E3 = ~z~I don't know but I see tracks heading in this direction. I say we follow them.
+
+0x4CA46AB8 = ~z~Good luck.
+
+0x4F53BC73 = ~z~What's your problem?
+
+0x4FC179EF = ~z~It can all be used.
+
+0x5B1465A7 = ~z~Not far now, let's cut up this way.
+
+0x5CEBC7DA = ~z~Stand back, Charles. I'll get you some answers.
+
+0x5FFE6BBE = ~z~There's a camp here, I'm going to take a look.
+
+0x6CBFBF9A = ~z~Wait up!
+
+0x6CE3B8B6 = ~z~No, they'd been shot. I just don't know why anybody would just leave them there to rot like that.
+
+0x6E604DF2 = ~z~What you preparing for?
+
+0x7B11D512 = ~z~Could it have been an animal?
+
+0x7BA3E567 = ~z~Why'd you do it?
+
+0x8B1CE79C = ~z~Sure, why not?
+
+0x8DADA974 = ~z~Good job. Stow that on your horse and mount up. I want to go check something out.
+
+0x9AB9FA1F = ~z~I'll catch up with you later.
+
+0x9B1A7C7D = ~z~Okay.
+
+0x9D862B02 = ~z~So what do you want to do?
+
+0x9EBA5CF2 = ~z~Already starting to rot.
+
+0x16D843B5 = ~z~I've heard enough.
+
+0x18D1607E = ~z~Okay... you see anything?
+
+0x25E4E51C = ~z~Alright, get out of here!
+
+0x25EA2A63 = ~z~Why would someone do that?
+
+0x27D9EA75 = ~z~Where are we going?
+
+0x29B30C23 = ~z~from which you can get anything.
+
+0x30A28425 = ~z~Alright, let's go.
+
+0x36CE2659 = ~z~Bison.
+
+0x40A2CFE2 = ~z~Let's go check it out.
+
+0x60E1FA80 = ~z~An unguarded stagecoach?
+
+0x71B8FF01 = ~z~Mount up then, let's go.
+
+0x72CD24C9 = ~z~I don't kill for fun. I kill when I need to.
+
+0x92B2432F = ~z~~sl:0.0:2.0:1~What business is it of yours what we...
+
+0x97CE810B = ~z~I'll show you how we hunt one.
+
+0x134CC0F3 = ~z~No, one is enough!
+
+0x236E61A2 = ~z~just wanted to see what attracted them.
+
+0x318D8EDD = ~z~Shot and left for dead again. But this one looks fresher.
+
+0x346E967F = ~z~They lived almost as one.~rp~ Where the bison went, my people went.
+
+0x435CA999 = ~z~I see some smoke to the east. Maybe another camp? It's worth a look.
+
+0x437E4D46 = ~z~We should only kill one of them.
+
+0x468FC5DC = ~z~Bison?
+
+0x570AD8AB = ~z~Sure, fine by me.
+
+0x700D3EA8 = ~z~No, look. Bison. Shot and left for dead, it looks like.
+
+0x897DE9E8 = ~z~What the hell are you doing?
+
+0x917D3EB1 = ~z~I don't know what you're talking about.
+
+0x980D68D6 = ~z~Bison...
+
+0x1021CDEA = ~z~They provided us with everything...food, clothing, shelter, tools.
+
+0x1603C6C9 = ~z~I thought I saw some scavenger birds over here...
+
+0x1966E074 = ~z~There was a lot of respect...
+
+0x4350A7EB = ~z~Over there, you see them all? Incredible, aren't they?
+
+0x9599F007 = ~z~Okay, I'm going to see if there's anything worth taking from their camp.
+
+0x22669F3A = ~z~Alright, skin and butcher it. Take the horns too.
+
+0x48555AFD = ~z~Stow that hide on your horse first.
+
+0x57496DC2 = ~z~Bastards. Just killing for fun.
+
+0x80737CA0 = ~z~What a damn waste.
+
+0x240072EB = ~z~Feels like there's been so much noise and chaos recently...
+
+0x449217AD = ~z~Just kill him, Arthur!
+
+0x632473EA = ~z~It was before my time, of course, but~rp~ my mother used to tell me stories of how her tribe moved with the bison.
+
+0x5504252D = ~z~No, please! Don't kill me! I'm begging you!
+
+0x9215391A = ~z~Yeah, it's been shot, alright.
+
+0x12510613 = ~z~
+
+0x65240977 = ~z~You think we can talk?
+
+0x67561380 = ~z~That's what he deserved. I've seen enough of this. I'm heading back.
+
+0xAD84AC77 = ~z~You wanna come with me?
+
+0xADAD8647 = ~z~Back up to the Heartlands.
+
+0xAEA195D2 = ~z~I saw a couple a long way off earlier.
+
+0xAFBFCF75 = ~z~Bison's been dead about the same amount of time.
+
+0xB2CA835B = ~z~I said, did you fools shoot those bison?
+
+0xB41D818F = ~z~Just don't shoot me, mister... I got a family!
+
+0xB64D0A64 = ~z~~sl:0.0:1.7~Good god, you're crazy!~sl:0.6~Look, I got a family... a family. Don't shoot me.
+
+0xB227781D = ~z~You find anything, Arthur?
+
+0xBAE6706E = ~z~Well done.
+
+0xBEDE63D6 = ~z~Look, more dead bison. It has to be them. Come on!
+
+0xBF5EA9A9 = ~z~Okay.
+
+0xC4F827BA = ~z~~sl:1.3~It's that business of mine!
+
+0xC81A1EBB = ~z~To make it look like it was Indians.
+
+0xC212F41B = ~z~Logs haven't gone cold yet. Maybe half a day since they left.
+
+0xC9832D61 = ~z~Stop, Arthur! We've got what we need!
+
+0xC9772721 = ~z~He didn't need to die. Maybe he'll go tell his friends now what happens to poachers.
+
+0xD5D7BA36 = ~z~Okay! We were paid to kill as many as we could.
+
+0xD37B757D = ~z~Alright, let's go.
+
+0xD62D4A20 = ~z~Did you shoot them?
+
+0xD6448B25 = ~z~Alright, lead the way.
+
+0xDAE360B2 = ~z~So where we headed?
+
+0xDC8EED9A = ~z~Let's try over here to the left.
+
+0xDD93A097 = ~z~Kill him!
+
+0xDDDF0209 = ~z~Okay? Clean as you can.
+
+0xDF275A04 = ~z~Why are you killing those bison and leaving them to rot?
+
+0xE4F467AE = ~z~Calm down, you black or red bastard, whatever the fuck you are.
+
+0xE5AD59E1 = ~z~Goddamn it, tell us or you're dead.
+
+0xE70A51C6 = ~z~Been dead a couple days at least.
+
+0xE21712C8 = ~z~I see some smoke to the north. Maybe another camp? It's worth a look.
+
+0xEB9504D1 = ~z~I don't remember much of my childhood,~rp~ but I think my people,
+
+0xF09CA784 = ~z~I'll keep them ringed in and you see if you can bring one down.
+
+0xF2AB9E15 = ~z~No, you simple minded fool.
+
+0xF5AA9640 = ~z~would you mind if we just rode and enjoyed the silence for once?
+
+0xF144902C = ~z~we pretty much moved with the whisky.
+
+0xFF051238 = ~z~I've seen enough of this. I'm heading back.
+

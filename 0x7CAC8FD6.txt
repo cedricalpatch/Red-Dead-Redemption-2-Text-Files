@@ -1,0 +1,12 @@
+0x428C69BF = Pick Up
+
+0x8437B881 = Heft
+
+0xA8EA6047 = Position
+
+0xC338D8BE = Place
+
+0xD10D2902 = Post
+
+0xFEFFC409 = Swing
+

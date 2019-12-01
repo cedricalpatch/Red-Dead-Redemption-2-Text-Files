@@ -1,0 +1,20 @@
+0x0E54052A = ~z~What was I supposed to do?
+
+0x1B3361D8 = ~z~You heard.
+
+0x3D86329A = ~z~Let me drink in peace!
+
+0x444FB410 = ~z~
+
+0x5807DB80 = ~z~Excuse me?
+
+0xC4E53541 = ~z~
+
+0xD68A588B = ~z~What's your problem?
+
+0xE84FFC16 = ~z~We can't support a drunk, Miss.
+
+0xECED854D = ~z~Drunk or sober, you watch your mouth.
+
+0xFD5A2626 = ~z~Oh, go scratch your sores, you old bag.
+

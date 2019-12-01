@@ -1,0 +1,10 @@
+0x0312DDE5 = ~z~Come along, you guys... you're getting lazy.
+
+0x10247808 = ~z~~sl:0.0:3.2~I can cook any of these things, the one thing I cannot cook...~sl:0.5~is air. So, please, somebody, go hunting...
+
+0xA583A2C4 = ~z~I'm talking meat, fish, vegetables,
+
+0xBAC9CD50 = ~z~I need more food if you people don't want to starve.
+
+0xCA216BFF = ~z~~sl:0.6~Excuse me, ladies and gentlemen, please, can I have a second?
+

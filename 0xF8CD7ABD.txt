@@ -1,0 +1,8 @@
+0x7C604846 = ~z~Hey, heard a rumour. The nastiest killer in the whole country has gone soft.
+
+0x20C99116 = ~z~Get out of here.
+
+0x1437F7F3 = ~z~~sl:0.0:2.4:1~That heart will be the death of you.
+
+0xFD7DCA7F = ~z~What you talking about?
+

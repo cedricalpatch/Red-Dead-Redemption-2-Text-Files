@@ -1,0 +1,112 @@
+0x021FBE49 = Boo
+
+0x02534C3A = You harmed the Buyer.
+
+0x087C6ECA = Mary
+
+0x0C233284 = Cheer
+
+0x2B58B6AD = Chase after the ~o~wagon~s~
+
+0x3B3EB113 = Exit Theater
+
+0x4E9374C5 = Get Mary's brooch from the ~o~Buyer~s~
+
+0x7A6FFBDE = Stop the ~o~wagon~s~
+
+0x7C25B5DA = Accept
+
+0x8FC3A73E = Mary has died.
+
+0x9DF2439B = Mary was abandoned.
+
+0x10C3CE88 = You were spotted.
+
+0x22A7AD2F = You killed a driver.
+
+0x23FF48FF = You lost sight of Mr. Gillis.
+
+0x42CBE183 = You harmed a driver.
+
+0x50C087F9 = Help Mary
+
+0x67F2AA92 = Mr. Gillis
+
+0x72DF1238 = Murder
+
+0x87E6565E = Keep your distance or you'll be spotted.
+
+0x91DB58E6 = You destroyed the brooch.
+
+0x94EC98A4 = Jump onto the ~o~wagon~s~
+
+0x282DFCB3 = You can jump onto wagons by getting close to the side and pressing ~INPUT_JUMP~.
+
+0x595D8D0A = You killed the Buyer.
+
+0x794A8465 = Catch up with the ~o~Buyer~s~
+
+0x2043B49A = Wait for Mary
+
+0x7419B75F = You lost Mr. Gillis.
+
+0x37352B84 = Wagon destroyed.
+
+0x76436D08 = Buyer
+
+0x3839303C = Decline
+
+0x9668495E = Beat
+
+0x78583045 = The Buyer was abandoned.
+
+0xA00B0601 = Don't help Mary
+
+0xA3301225 = Assault
+
+0xACDD1FF1 = Pull Out
+
+0xAFEB77F2 = You drew attention to the camp.
+
+0xB9A5CD17 = Follow ~o~Mary~s~
+
+0xB77B5B9C = Make a move
+
+0xBF8F11ED = The Buyer got away.
+
+0xC3C86F59 = You attacked Mary.
+
+0xC11D23C5 = Follow ~o~Mr. Gillis~s~
+
+0xC3152C52 = You harmed Mr. Gillis.
+
+0xD4BA15BB = Return the brooch to ~o~Mary~s~
+
+0xD6E34B41 = You didn't get to Mr. Gillis in time.
+
+0xDB91E758 = Return to the ~o~Buyer~s~
+
+0xDCDBAECB = Move towards the Driver using ~INPUTGROUP_MOVE~ to jack the wagon.
+
+0xE43DD7FC = You killed Mr. Gillis.
+
+0xE1070411 = Get on the ~o~wagon~s~
+
+0xEDBD7317 = Meet ~o~Mary~s~ at the stables
+
+0xF5C377D8 = Wagon
+
+0xF6EC6825 = Return to ~o~Mary~s~
+
+0xF442C35B = The law were alerted.
+
+0xF632774D = You lost the Buyer.
+
+0xFB8C6463 = Head to the ~o~stables~s~
+
+0xFDE998EA = Buy Brooch
+
+0xFE6DCF14 = Drive to a ~o~secluded spot~s~
+
+0xFFC605B6 = Get into the drivers seat
+

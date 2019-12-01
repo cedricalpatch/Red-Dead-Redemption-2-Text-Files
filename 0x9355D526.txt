@@ -1,0 +1,56 @@
+0x056EB45A = ~z~You're a bounty hunter, not an undertaker. Take 'em outside.
+
+0x3F625AA7 = ~z~Just stick 'em in a cell there and I'll organize your payment.
+
+0x4E8A06D3 = ~z~I was wondering if you were gonna come back for this. It's all there.
+
+0x6DF2461F = ~z~Please... the bodies go outside.
+
+0x7C9BE372 = ~z~You're testing an old man's patience, take it out.
+
+0x9D87DC63 = ~z~I ain't going to live forever. Could you put them in cell please.
+
+0x13A150BF = ~z~I'm too old to drag that body out. Dump it for me, I'll get your pay.
+
+0x25F34D58 = ~z~~sl:0.0:3.8~You should know, there has been a cessation in the issuance of bounties~sl:0.0:3.8~in Blackwater... apparently, we have the budget to build a city,~sl:0.3~but not to protect one.
+
+0x26E00604 = ~z~Hey, you forgot your reward, friend!
+
+0x34A1A0FE = ~z~Honest work for honest pay.
+
+0x55FAAC76 = ~z~You come back soon, you'll find another poster on that wall. This fledgling community needs your kind.
+
+0x72A865D1 = ~z~You're making an old chief's life a little easier, you know. How bout coming back in while, picking up another poster?
+
+0x87C9B0E7 = ~z~What're you waiting for? Get 'em in a cell and then I can pay you.
+
+0x262C0413 = ~z~It's only fair.
+
+0x597D6B3E = ~z~Your money's right here, don't go forgetting it!
+
+0x605DC13C = ~z~You don't go after these bounties, I'm gonna have to. There's another poster going to be up right quick. Come back for it.
+
+0x740A4E4D = ~z~Bounty here for you.
+
+0x2785B93F = ~z~Stop fooling and get 'em out.
+
+0x4837C8B3 = ~z~Hey, but what about your payment?
+
+0x8243EAC0 = ~z~Good work. Put him in a cell if you don't mind. I'll see to your payment.
+
+0x8337DA03 = ~z~This one was a handful, I imagine? Drop him in a cell and I'll get your reward together.
+
+0x283279E1 = ~z~You want to be paid, you'll have to take 'em outside.
+
+0x591369E1 = ~z~I'll take it.
+
+0x930681FA = ~z~Put 'em in a cell and we'll talk about compensation.
+
+0xA4C22571 = ~z~Alright, march them into a cell there and we'll settle up.
+
+0xB579BE86 = ~z~Got someone you want here.
+
+0xBBEF6198 = ~z~The money's right there where you left it. Every cent.
+
+0xD7024F63 = ~z~We got no business unless they're in a cell, friend.
+

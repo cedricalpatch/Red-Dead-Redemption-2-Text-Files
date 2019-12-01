@@ -1,0 +1,94 @@
+0x07523CF1 = ~z~You're in no place to bargain, boy!
+
+0x1AD3C3DB = ~z~You'll find it there. Everything. I promise.
+
+0x3CD696CA = ~z~You got the map, do the decent thing!
+
+0x3FAF2C01 = ~z~What do you want?
+
+0x6CE2B93B = ~z~Leave it alright!
+
+0x6E0FAFDD = ~z~To what do we owe the pleasure?
+
+0x6E93017B = ~z~No, no, not me, sir. That's the greenhorn over there.
+
+0x7F455E00 = ~z~How're you still there?
+
+0x43B2130C = ~z~You Chick? I was told I could find a Chick Matthews up here?
+
+0x52CEFF52 = ~z~Come back here!
+
+0x53A786C5 = ~z~Don't you give up?
+
+0x57D18361 = ~z~Why, I haven't seen you around here before.
+
+0x94DB4C00 = ~z~This map better take me somewhere good, or...
+
+0x316F7FFC = ~z~Aren't you gonna untie me?
+
+0x343ECBE9 = ~z~Just take the map okay? It's right there in my pocket.
+
+0x344BE52A = ~z~Dammit. I shouldn'ta done that.
+
+0x411C5BED = ~z~I didn't mention the debt! Chick Matthews.
+
+0x587D3CA2 = ~z~Chick Matthews? Might wanna talk to that feller over there. I'm just here to work the season...
+
+0x2110F06E = ~z~Okay! Okay! There's a map... in my pocket.
+
+0x5751BCD6 = ~z~I'm honest... really... for the most part.
+
+0x8283D8C5 = ~z~Can I do something for you?
+
+0x9997CC28 = ~z~God dang it. This map will take you to the money.
+
+0x48931F59 = ~z~This is real uncharacteristic, I promise.
+
+0x84512CF7 = ~z~And there he goes.
+
+0x335594FB = ~z~A map? Why can't none of you fools just pay?
+
+0x642498BA = ~z~Hey! Get back here, you owe us money!
+
+0x968487A7 = ~z~So long, loanshark! Hee-ya!
+
+0x11845155 = ~z~Just untie me, I'll tell you!
+
+0x64295695 = ~z~You're lucky I ain't taking your teeth, as well.
+
+0x65185863 = ~z~I knew I shouldn't have borrowed.
+
+0xA0EBE62C = ~z~You Chick Matthews?
+
+0xA3C60EF5 = ~z~The more I chase, the more you owe!
+
+0xA3F3228C = ~z~It's not me you want. He the one who spends more than he got!
+
+0xAD64BB22 = ~z~You're too slow, old man.
+
+0xAE082379 = ~z~You don't want to get me angry, boy!
+
+0xC024C7B2 = ~z~Last chance to save your hide, stop!
+
+0xC3AE29A5 = ~z~I suppose there ain't much I can do.
+
+0xC4DA1796 = ~z~A goddamn treasure hunt?
+
+0xC8E4BE7A = ~z~Guessing you ain't here to work.
+
+0xD080FB9F = ~z~Dammit!
+
+0xD294B30B = ~z~You're lucky I ain't taking your teeth, as well.
+
+0xD871F84C = ~z~You make me go much further, I'll get more than a debt off you!
+
+0xD2138487 = ~z~The money's mine and I'm keeping it.
+
+0xE00C2078 = ~z~German shouldn't a lent to me then.
+
+0xE9D8D045 = ~z~Well, let's hope you got something on you.
+
+0xEE41B639 = ~z~I don't know anything about a debt!
+
+0xF5F09A2E = ~z~Look, look, I got the money... but it's hidden. Untie me I'll tell you where it is.
+

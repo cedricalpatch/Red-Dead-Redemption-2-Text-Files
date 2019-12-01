@@ -1,0 +1,26 @@
+0x0AFD830C = Money
+
+0x0B27DD64 = Buy Supplies (~1$~)
+
+0x24E73741 = Sell Goods
+
+0x595B0721 = ~s~Press ~INPUT_CONTEXT_ACTION~ repeatedly to lift the trunk.~s~
+
+0x77775B26 = ~s~Kill the ~e~wolves~s~
+
+0x92251081 = ~s~Talk to the ~f~Foreman~s~
+
+0xA5BDB7B2 = ~s~Return to the ~o~Foreman~s~
+
+0xC0706D17 = ~s~Investigate the ~o~site~s~ of the animal attacks~s~
+
+0xC0CCC210 = Help
+
+0xCF2CC732 = ~s~Follow the trail~s~
+
+0xD7459BFF = Take Money
+
+0xF70ADCC7 = Lift Trunk
+
+0xFE745AD1 = Give Money (~1$~)
+

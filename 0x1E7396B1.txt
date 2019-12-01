@@ -1,0 +1,100 @@
+0x077BFED0 = The guards were attacked.
+
+0x0D50A43A = Follow ~o~Trelawny~s~ to the barbers
+
+0x0E5F75DD = You attacked the barber.
+
+0x0FBD3D30 = The Pit boss was abandoned.
+
+0x1CD482D7 = Win the Reutlinger pocket watch in poker
+
+0x2C42D72C = You injured the coach's horse.
+
+0x3DFF7AF9 = Play poker
+
+0x5BC2BF91 = Return to the ~o~Pit boss~s~
+
+0x5DAA801D = Buy the Fine Three-Piece Town Suit from the ~o~tailor~s~
+
+0x5F9D720F = The pit boss alerted the guards.
+
+0x7A921570 = Follow the ~o~Pit boss~s~ to the safe room
+
+0x7F15304F = You attacked the tailor.
+
+0x8F831C2B = Go to ~o~Trelawny~s~
+
+0x9A1A7D61 = Cause Desmond to go bust in poker
+
+0x9A3BDBC4 = You let Desmond win.
+
+0x9A6193AE = Follow ~o~Trelawny~s~ to the docks
+
+0x9CE77287 = Strauss is signalling to keep betting.
+
+0x9D4CFF17 = You jumped overboard.
+
+0x18FA2B61 = Strauss is signalling to fold.
+
+0x21F2FDD3 = Strauss knows the hands that will be dealt. Follow his instructions while playing poker.
+
+0x37A4F260 = Pit Boss
+
+0x62D0EE61 = Ride in the coach~s~
+
+0x65FCC543 = You attacked the coach driver.
+
+0x68D6A0C2 = Get in the ~o~coach~s~
+
+0x78D2E8D2 = Sit at the ~o~poker table~s~
+
+0x79CBABA6 = Disarm the ~e~Pit boss~s~
+
+0x554CD451 = Escape the ~o~riverboat~s~
+
+0x665C0932 = Safe
+
+0x811AA837 = Take out the ~e~guards~s~
+
+0x954C643B = Swim back to ~o~land~s~
+
+0x5403AAA8 = Strauss is signalling to go all in.
+
+0x5580BD00 = Arthur's suit was ruined.
+
+0x8868D9FE = Follow Strauss' instructions while playing poker
+
+0x48232E3C = Loot
+
+0x55794A24 = Catch up with the ~o~Pit boss~s~
+
+0x78039A75 = Disarm
+
+0xAE2A26FB = You don't currently have your gunbelt or Satchel.
+
+0xB6BB99B7 = You robbed the tailors.
+
+0xC5AB42EA = The guards caught you.
+
+0xC1615484 = Loot the ~o~safe~s~
+
+0xC4041754 = You spooked the tailor.
+
+0xD32D6105 = You spooked the barber.
+
+0xD42D9A35 = Enter
+
+0xDF0D34B5 = You were spotted pushing someone off the boat.
+
+0xE4993106 = Follow ~o~Javier~s~
+
+0xEAE9A2CF = You spooked the coach driver.
+
+0xEF2B1C3B = Coach
+
+0xF4F3E9A9 = Board the ~o~riverboat~s~
+
+0xF50F3CE8 = Follow ~o~Trelawny~s~ into the tailors
+
+0xFA397566 = Style your hair or beard at the ~o~barbers~s~
+

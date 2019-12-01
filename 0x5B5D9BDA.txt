@@ -1,0 +1,60 @@
+0x0AA66918 = ~z~He used to be a cowboy;
+
+0x1D03F3B1 = ~z~And tend to baby Ben;
+
+0x2D659598 = ~z~Tend to baby Ben.~n~~m~Tend to baby Ben.
+
+0x3A93C8C2 = ~z~Dan Taylor is rollicking cuss;
+
+0x3C95B2D8 = ~z~Which he's got his fill.~n~~m~Which he's got his fill.
+
+0x3F01BB0C = ~z~Of which he got his fill;
+
+0x6D2FADE5 = ~z~A frisky son of a gun;
+
+0x7CD34DDC = ~z~And swing the long lasso.
+
+0x8F167262 = ~z~Could ride a bucking bronco;
+
+0x80B0BB0D = ~z~Who will be his little wife;
+
+0x96DAEAC1 = ~z~and swing the long lasso.~n~~m~and swing the long lasso.
+
+0x117BE001 = ~z~And now he soldom will.
+
+0x324B9E44 = ~z~He's done and quit the business;
+
+0x850FC72B = ~z~He'd catch a maverick by the head;
+
+0x1032DD6F = ~z~He says they cut some caper;
+
+0x26149FF4 = ~z~And savies how it's done;
+
+0x93115FCE = ~z~Hunting for some maiden;
+
+0x56718069 = ~z~He loves to court the maidens;
+
+0xA103FBB3 = ~z~Settled down to quiet life;
+
+0xADCC9544 = ~z~Milk old Blue and Brindy;
+
+0xAF8B9C22 = ~z~He could pick up his front ones;
+
+0xB341A38E = ~z~And beat him on the fly;
+
+0xB804A9B4 = ~z~And feed the setting hen;
+
+0xC92B4C01 = ~z~One to wash and patch his britches;
+
+0xCB9D5445 = ~z~Whenever he chose to try.~n~~m~Whenever he chose to try.
+
+0xD372608F = ~z~Be his little wife,~n~~m~Be his little wife,
+
+0xDCE08D8D = ~z~And they say he wasn't slow;
+
+0xDDD678B7 = ~z~Whenever he chose to try;
+
+0xF8654496 = ~z~He savies how it's done.~n~~m~He savies how it's done.
+
+0xFA6331D0 = ~z~He used to ride most anything;
+

@@ -1,0 +1,60 @@
+0x1D98E6BF = Disturbance
+
+0x2EA0068F = You attacked an innocent.
+
+0x3E7A1AA3 = Ride back to ~o~Pronghorn Ranch~s~
+
+0x4E868125 = Confront the ~o~Ranchers~s~
+
+0x7F1C5628 = Tom died.
+
+0x7F96A5D4 = Confront
+
+0x9A50B27B = Follow ~f~Abe and Tom~s~
+
+0x9A759D79 = Mr. Geddes
+
+0x27E85D4F = Abe's horse died.
+
+0x37DB01D6 = Take out the ~e~Ranchers~s~
+
+0x42D17C70 = Return to Hanging Dog Ranch
+
+0x56FB752D = Find ~o~Tom Dickens~s~
+
+0x64F0EFCB = Herd the cows with ~o~Abe~s~ and ~o~Tom~s~
+
+0x65BCE79F = Ride out to ~o~Hanging Dog Ranch~s~
+
+0x71E6247F = Protect ~o~Tom~s~
+
+0x82B26859 = Take out the ~e~last rancher~s~
+
+0x85DB8A5C = Hanging Dog Ranch was abandoned.
+
+0x298D3CBD = Abe died.
+
+0x4239BA11 = Tom Dickens
+
+0x4626AF48 = You killed your horse.
+
+0x7235D439 = You attacked the herd.
+
+0x9889B9CB = Return to Hanging Dog
+
+0x50810B51 = Find the rancher in the ~o~Barn~s~
+
+0x54546EB9 = Tom and Abe were abandoned.
+
+0xB1DB2339 = Tom's horse died.
+
+0xB119FCB4 = You let the Laramies escape.
+
+0xBA7AC1DF = Pull Trigger
+
+0xBC0327E9 = Abe
+
+0xC8C9D529 = Mount your ~o~horse~s~
+
+0xD8D23CAC = Greet
+

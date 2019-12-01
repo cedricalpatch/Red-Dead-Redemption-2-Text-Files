@@ -1,0 +1,34 @@
+0x02F62BCD = ~z~Now you hear me, John.
+
+0x1E72EF1F = ~z~~sl:0.0:0.9~No...~sl:0.7~No buts.
+
+0x6BDF0A56 = ~z~
+
+0x9E15EEC3 = ~z~Listen, John.
+
+0x18BC5759 = ~z~~sl:0.0:1.5~What do you say, Arthur?~sl:~This a place to raise a boy?
+
+0x32FA8215 = ~z~
+
+0x45C427A8 = ~z~I hear you, but I ain't doing what you say.
+
+0x2529F034 = ~z~Better than how I grew up.
+
+0x8838C309 = ~z~~sl:1.9:3.1~Far be it from me for interfering in your business,~sl:0.3~but the boy is your business.
+
+0x31456944 = ~z~~sl:0.0:0.9~Okay.~sl:0.6:1.1~Well,~sl:0.4~you know best.
+
+0xBA8AA7AC = ~z~I know, but...
+
+0xC71B403D = ~z~We both know that ain't happening.
+
+0xD835B726 = ~z~
+
+0xE4D9506D = ~z~
+
+0xEC280A8A = ~z~Dutch's bluster aside, he's right on this.
+
+0xF43F8E60 = ~z~Unfortunately, that ain't saying a whole heap.
+
+0xFA772728 = ~z~~sl:0.0:1.2~But I would...~sl:0.5:1.4~go a step further.~sl:1.7~I would say you should get the hell away from here.
+

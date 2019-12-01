@@ -1,0 +1,216 @@
+0x0265AAC3 = ~z~I'm really sorry for you, son, it's a hell of a thing.
+
+0x084BB2EF = ~z~Well...
+
+0x09195082 = ~z~Okay now, here...
+
+0x0C7ABEE5 = ~z~You'll be...
+
+0x0CF10BB9 = ~z~
+
+0x0E0241F4 = ~z~getting somewhere warm and dry, and taking it easy.
+
+0x0E917391 = ~z~Come on, it's not far. Just down the street here.
+
+0x0F38904C = ~z~
+
+0x1A3572BA = ~z~Let me see your tongue.
+
+0x1AF8D849 = ~z~it's not possible.
+
+0x1DABAD32 = ~z~
+
+0x1E3AE265 = ~z~It's a progressive disease.
+
+0x2B67151D = ~z~Again.
+
+0x2DBE7DD4 = ~z~No...
+
+0x2E84FE85 = ~z~I understand if you don't wanna help me, but... but... I think of you often.
+
+0x3BD81DA7 = ~z~Well I guessed that.
+
+0x4D1A402B = ~z~It's not good news.
+
+0x4E7B289D = ~z~I sometimes wonder if things was ever the way we remembered them, if we were ever who we thought we was.
+
+0x4E95575C = ~z~Turned into a bunch of killers, I mean it.
+
+0x5DD176E5 = ~z~Thank you.
+
+0x5FEB84D4 = ~z~I'll be alright.
+
+0x6A48EFBD = ~z~He didn't have a choice. He was good and he did good.
+
+0x6E36D1AD = ~z~Now, what's wrong?
+
+0x7F2892F9 = ~z~It's alright, take your time.
+
+0x7F887450 = ~z~Sure, thank you.
+
+0x9B5C873B = ~z~Give me a minute... give me a minute.
+
+0x9D0D2F59 = ~z~Yeah, I understand.
+
+0x9E2ECF0E = ~z~Don't make me beg you, Arthur.
+
+0x9EE1F909 = ~z~Here we are, friend.
+
+0x14B85C9D = ~z~So it seems... and that's Dr. Mister to you.
+
+0x15D2A2E1 = ~z~The money's safe, you'll just have to trust me.
+
+0x20F8E047 = ~z~Mister, are you okay?
+
+0x24CB1077 = ~z~Just keep following me.
+
+0x26F373DE = ~z~You're real sick, you...
+
+0x35B3A9B6 = ~z~I'm, I'm coughing.
+
+0x36F3B4C8 = ~z~Let's go, you're doing fine.
+
+0x39E21CF8 = ~z~We can't change what's done, we can only move on.
+
+0x41E92619 = ~z~Now w-wait, wait...
+
+0x50D88249 = ~z~I'll be fine in a minute.
+
+0x54B91EB2 = ~z~Well, I think you've heard them...
+
+0x54DC4BFF = ~z~Yeah, well...
+
+0x62F6043A = ~z~Is there any blood?
+
+0x63F7BD2F = ~z~I mean, what appear to be the symptoms?
+
+0x65D56E01 = ~z~Sure, I can just take my winters in my country club in California.
+
+0x70CCFB67 = ~z~~sl:0.0:2.9:1~Doc... I need a doctor...
+
+0x80D744B8 = ~z~energy today.
+
+0x81DCCAA9 = ~z~Come on, let's get you to that doctor.
+
+0x89C8E418 = ~z~
+
+0x89C288C4 = ~z~Here, will that do you?
+
+0x182ED655 = ~z~Well what you mean?
+
+0x304E82E4 = ~z~let me get you a little bit more...
+
+0x511F608D = ~z~Sometimes.
+
+0x668DEF62 = ~z~I'm real sorry.
+
+0x687AE6FB = ~z~Jesus, you're in a bad way, mister.
+
+0x693EF329 = ~z~
+
+0x874F717B = ~z~If we don't stop soon we'll all be dying.
+
+0x894F4DE0 = ~z~Will I need money?
+
+0x939D627C = ~z~Here, take this.
+
+0x4923B9CC = ~z~Kill him, Arthur.
+
+0x7061A7B3 = ~z~Keep going, friend.
+
+0x84208E77 = ~z~
+
+0x19272425 = ~z~
+
+0x30170285 = ~z~Now, is that possible?
+
+0xA08B474C = ~z~
+
+0xA8C90FD3 = ~z~Ahh...
+
+0xA8CA5729 = ~z~Nearly there, just around this corner.
+
+0xA8E938C0 = ~z~I'm sorry.
+
+0xA68A4253 = ~z~I mean before I start treating you 'cause I got a family.
+
+0xA604EA65 = ~z~Let's get you to a doctor.
+
+0xB01C9C4A = ~z~It feels like... like our luck has turned... you know... and it ain't turning back.
+
+0xB2BC3A06 = ~z~Mister! Are you alright there?
+
+0xB8DFE6FE = ~z~you got money?
+
+0xB70B3505 = ~z~Try to keep moving.
+
+0xB34704E5 = ~z~Are you okay, mister?
+
+0xB2842349 = ~z~Now say ahh.
+
+0xBA136A83 = ~z~We can't change what's done, we can only move on.
+
+0xBBA3D12E = ~z~There... I'm fine...
+
+0xBC7071D7 = ~z~Not too much futher.
+
+0xBEA3D2D2 = ~z~I don't believe you're quite that cold, Mr. Morgan.
+
+0xBF93250F = ~z~Well the best thing is rest and...
+
+0xC0C76773 = ~z~It means you've got a heart.
+
+0xC8D45897 = ~z~Come on, not much further.
+
+0xC705B3A0 = ~z~Who made you the messiah to these lost souls?
+
+0xC37920C2 = ~z~
+
+0xCCBB4CA4 = ~z~Mister, I need some help.
+
+0xD73DA39D = ~z~Now look, friend, I don't mean nothing, but...
+
+0xD192C6C1 = ~z~And you've as good as killed him yourself...
+
+0xDA012C98 = ~z~Come in, pal. Come in.
+
+0xDD5A0A33 = ~z~Now you head in there friend, go on.
+
+0xDFF704ED = ~z~Do you want to lean on my shoulder?
+
+0xE0605F17 = ~z~Mister, are you okay?
+
+0xE53DEAFD = ~z~
+
+0xE71C3379 = ~z~Keep going, you're doing fine.
+
+0xE2872BFB = ~z~I was joking.
+
+0xEAA17399 = ~z~You don't look so good.
+
+0xEF2C1CA8 = ~z~What is it?
+
+0xF1B87D40 = ~z~Oh, uh, just one second, sir.
+
+0xF3AA0D4C = ~z~You got tuberculosis.
+
+0xF5BC71A1 = ~z~
+
+0xF6CF73D3 = ~z~
+
+0xF8CC522A = ~z~
+
+0xF8DD96A9 = ~z~You have it in you, I can tell.
+
+0xF52A0FC8 = ~z~Well, she was a fool then, Arthur.
+
+0xF77D1152 = ~z~like I said, I...
+
+0xF3377EA6 = ~z~You will die... savagely... all of you.
+
+0xFBF3163C = ~z~Mister...
+
+0xFD98B981 = ~z~breathe.
+
+0xFE7A16C3 = ~z~Can I help you?
+

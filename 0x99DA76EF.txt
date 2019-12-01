@@ -1,0 +1,70 @@
+0x0188DE71 = ~z~I'd really appreciate it.
+
+0x054ACB87 = ~z~~sl:0.0:1.1~I went and pushed her too far.~sl:0.8~~rp~Should've stopped riding her couple of weeks back.
+
+0x0FA47DDF = ~z~Down from there.
+
+0x1E530BA7 = ~z~~sl:0.0:2.4~Er, I figured you had a horse yourself?~sl:0.5~See feet I already got.
+
+0x3D6D06C5 = ~z~Can I talk to you a minute?
+
+0x3F20BF32 = ~z~~sl:0.0:1.3~We was together for years.~sl:0.5~~rp~She was old... but I didn't want it to end like that.
+
+0x7AE99653 = ~z~We got a fish on the line!
+
+0x7DE8DD82 = ~z~My brother always said I should've been on the stage.
+
+0x8ACF7CB6 = ~z~~sl:0.0:0.7~You will?~sl:0.5~See? I knew you had a kind face.
+
+0x20ED82CC = ~z~~sl:0.0:1.2~That poor horse...~sl:0.4~~rp~you never think it's gonna cut you up so bad, but... but it does.
+
+0x27F32E7C = ~z~On your feet.
+
+0x35F54745 = ~z~You'd be doing me a great favor.
+
+0x37D14D71 = ~z~~sl:0.0:0.7~Thank you.~sl:~Sometimes feels like folks don't help each other out no more these days.
+
+0x42F424CF = ~z~Nearly there... I hate this place...
+
+0x58E5B711 = ~z~Oh? Uh, h-hey there!
+
+0x62D449AD = ~z~~sl:0.0:0.9~Okay, I think...~sl:0.8~I'm just gonna walk from here out...
+
+0x68B65D57 = ~z~Please... can you help me?
+
+0x71A7E895 = ~z~Over here.
+
+0x97E97AE6 = ~z~~sl:0.0:0.9~Right. Well...~sl:0.8~I ain't gonna beg.
+
+0x926A8C18 = ~z~You poor thing...
+
+0x1194E41B = ~z~~sl:0.0:2.2~She was walking funny from the get this morning, but...~sl:0.4~~rp~w-well, I guess it's done now.
+
+0x52066D5E = ~z~Damn Braithwaites, all I need right now...
+
+0x71392BCF = ~z~I appreciate it.
+
+0x64867781 = ~z~~sl:0.0:4.3~Hey there, uh... my horse, well, you can see, uh...~sl:~do you have time to give me a ride?
+
+0x98522293 = ~z~
+
+0xB07E4A34 = ~z~~sl:0.0:2.7~I'm supposed to be delivering a message to that Braithwaite family.~sl:0.5~You know that big fancy house they got?
+
+0xC92D6F79 = ~z~Okay, so... I killed that horse myself.
+
+0xC6997F21 = ~z~I'm so sorry...
+
+0xCADC87CB = ~z~All these years...
+
+0xCC0DCD20 = ~z~Have this, please. Least I can do.
+
+0xD95A73A7 = ~z~~sl:0.0:1.2~Sure do feel bad about it, though.~sl:0.7~~rp~I'm sorry, you don't know me from Adam, I... ~rp~Just a hell of a thing, that's all...
+
+0xDB8D6AA8 = ~z~Don't reckon there's enough space for me on there.
+
+0xDBC643BC = ~z~This is real nice of you...
+
+0xF6466E85 = ~z~~sl:0.0:1.8~Please, I'm stuck out here and, uh...~sl:0.5~I'm real... real tore up about losing her.
+
+0xFCF3BCA1 = ~z~I was pretty convincing, though, right?
+

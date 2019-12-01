@@ -1,0 +1,12 @@
+0x0B46D3E7 = ~z~Hey. All good out here?
+
+0x3CFCB752 = ~z~I think so, but... well, I don't know, I thought I heard something.
+
+0x2061FE1D = ~z~Hey Arthur.
+
+0xCE735A0D = ~z~Okay. Stay alert. Any sign of trouble, you shoot first.
+
+0xE01CFD60 = ~z~Ah, it's probably nothing.
+
+0xFB70B407 = ~z~Of course.
+

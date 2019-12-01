@@ -1,0 +1,520 @@
+0x00449A5C = ~z~Sure, go on. I can handle the rest.
+
+0x00A88C94 = ~z~No problem.
+
+0x0220A238 = ~z~he seems to enjoy it now.
+
+0x022A0ADB = ~z~help me with the rest of this.
+
+0x03110E05 = ~z~And now?
+
+0x048E7D10 = ~z~Alright, let me know when you're ready.
+
+0x0550112B = ~z~You need cash...
+
+0x05F20EF7 = ~z~and for what exactly?
+
+0x06B356DE = ~z~but it weren't us who changed.
+
+0x071F1625 = ~z~Sure, I know, but...
+
+0x0AAB2666 = ~z~Come left.
+
+0x0B9F8446 = ~z~We don't have much time here.
+
+0x0B22C0BB = ~z~~sl:0.0:1.2~What are you waiting for?~sl:0.3~You need to get up here right now, Arthur!
+
+0x0C1AA378 = ~z~That just ain't how I wanna die.
+
+0x0D6A75F5 = ~z~Well, I guess old Dutch got all the smoke he wants.
+
+0x0D38EADF = ~z~What are you waiting for?
+
+0x0ED52351 = ~z~I-I'll be okay... but do it, for me.
+
+0x0F7B0BD6 = ~z~Got it.
+
+0x0F8481C8 = ~z~we're about to blow up a bridge, for Christ's sake.
+
+0x1A0B3DC8 = ~z~Get the hell up here, now!
+
+0x1B5C1E3E = ~z~~sl:0.0:3.1~These are mining charges... ain't easy to come by.~sl:~If they don't do the job, nothing will.
+
+0x1CCA43A3 = ~z~you gotta go.
+
+0x1D684BE0 = ~z~Left a bit, Arthur.
+
+0x1D933E40 = ~z~~sl:0.0:3.1~And we found out Cornwall's company's got a contract~sl:~with the army, so I think Dutch figures, after this,
+
+0x1FDD3D5E = ~z~Are you coming?
+
+0x2A635911 = ~z~What about loyalty?
+
+0x2B6A5E15 = ~z~Come on.
+
+0x2DC97929 = ~z~Nice and easy.
+
+0x2F806A43 = ~z~Thank you.
+
+0x3B2F7CE9 = ~z~has all the money.
+
+0x3B4080B7 = ~z~It was all I knew.
+
+0x3C10B02D = ~z~Keep it coming...
+
+0x3E6A7A78 = ~z~What are you doing up there?
+
+0x3E6D0364 = ~z~Well, I need a vacation...
+
+0x3EB64D6F = ~z~Get on the goddamn cart!
+
+0x3F64E188 = ~z~~sl:0.0:2.8~Yeah, this is what I'm talking about.~sl:0.3~More enemies, more chaos... I mean,
+
+0x4A20EF69 = ~z~I guess we'll see.
+
+0x4B9CE0AC = ~z~Come on!
+
+0x4B351C10 = ~z~Be loyal to what matters.
+
+0x4B629C53 = ~z~Abigail...
+
+0x4BFCDDFA = ~z~Come on, Arthur, we don't have much time here.
+
+0x4C4ED762 = ~z~Okay, let's go.
+
+0x4E3F3065 = ~z~I don't know... this all sounds pretty crazy to me.
+
+0x4F0A75DA = ~z~Alright, stop. Here's good.
+
+0x5AD510D1 = ~z~But what about loyalty to...
+
+0x5BB18CAA = ~z~Come on!
+
+0x5CE5F7B1 = ~z~Okay, start lowering it down.
+
+0x5E1BC66D = ~z~Look what that caused.
+
+0x5F0DE793 = ~z~but...
+
+0x5F2D0A39 = ~z~~sl:0.0:2.2~There's a spot about a third of the way across~sl:~where we can get down underneath to plant the charges.
+
+0x5FE378AA = ~z~There's good. Lower it down.
+
+0x5FF85DE6 = ~z~I feel like you should take your woman and child...
+
+0x6AA2B14C = ~z~Faster!
+
+0x6B0DD935 = ~z~How you mean?
+
+0x6CFE6432 = ~z~You know, all that ever mattered to me was loyalty.
+
+0x6D3F5D90 = ~z~I've done a lot of thinking.
+
+0x6D655F44 = ~z~Go...
+
+0x6DC85E0C = ~z~Okay, good. Grab the other one.
+
+0x6E78E137 = ~z~What reason you got to stick around at this point?
+
+0x6F6C5261 = ~z~Quick as you can, Arthur.
+
+0x7A4D8904 = ~z~Yeah, I'm on my way.
+
+0x7A9E45AC = ~z~Alright then.
+
+0x7A98094E = ~z~I've been nervous for a while.
+
+0x7AEDF8ED = ~z~I'll think about it.
+
+0x7B52FB1F = ~z~don't look back.
+
+0x7D2D7B47 = ~z~It's right on us, come on!
+
+0x8A9008AC = ~z~Hurry, Arthur, before someone sees us.
+
+0x8CC0BCF5 = ~z~Okay.
+
+0x8CC9ADB1 = ~z~I had a lot of time to think in that jail and...
+
+0x8D6766AD = ~z~Let's ride this thing out onto the bridge.
+
+0x8E4BA23C = ~z~You can... you could give something to Jack.
+
+0x8ED078C7 = ~z~when the time comes, you go.
+
+0x8F8FFF0A = ~z~Quick as you can, Arthur.
+
+0x9ABBBC00 = ~z~You know just what I mean.
+
+0x9B5ABAFA = ~z~good, if that makes any sense.
+
+0x9D7E3DA4 = ~z~Come closer to the edge.
+
+0x9D43BD9F = ~z~~sl:0.0:3.7~they'll need to send up a train with cash and supplies.~sl:0.4~And then we'll rob that train.
+
+0x9DC3BEA0 = ~z~You know just what I mean.
+
+0x9DD0C01A = ~z~Now I've done a lot of thinking.
+
+0x11B32D99 = ~z~I been loyal.
+
+0x14BA3157 = ~z~when the time comes...
+
+0x16A9F6C7 = ~z~Get out of here.
+
+0x19AFBAA0 = ~z~Help me out here.
+
+0x23BBE56E = ~z~Like he's stringing us along, I know...
+
+0x24C7CF1E = ~z~You know something...
+
+0x27DD82EA = ~z~Just get to the end of the bridge and jump!
+
+0x30D34465 = ~z~You hear about Dutch and Cornwall?
+
+0x32AD7942 = ~z~I guess Cornwall's legacy lives on.
+
+0x44B107FD = ~z~Are you getting the crate?
+
+0x45BA3EA3 = ~z~Let's go, let's go.
+
+0x48CA94A7 = ~z~You got a family.
+
+0x50A1A5BD = ~z~I'll think about it.
+
+0x50E771D1 = ~z~Come on!
+
+0x50EAA9BB = ~z~There was a code we had, gotta still mean something.
+
+0x51C4293A = ~z~but I am starting to see things clearly now.
+
+0x60F84796 = ~z~And it would make me...
+
+0x61F8CA7B = ~z~you need to start building a life for yourself.
+
+0x62FAD2D1 = ~z~~sl:0.0:3.8~These are mining charges... ain't easy to come by.~sl:~If they don't do the job, nothing will.
+
+0x63E0D8E0 = ~z~That's too far right.
+
+0x63E1EAD5 = ~z~Alright, come down here and help me plant this stuff.
+
+0x65C30977 = ~z~I'm ready, come on.
+
+0x69DFDF39 = ~z~let's go blow this thing up.
+
+0x71C1D0F5 = ~z~What's wrong? Let's get this done.
+
+0x71F46B48 = ~z~Push, Arthur.
+
+0x72A5F0C5 = ~z~Come on...
+
+0x73F46E6E = ~z~Well, it looks like we finally found our calling in life.
+
+0x79A378D4 = ~z~and then come talk to me...
+
+0x80C724DE = ~z~Sure.
+
+0x82E54F7B = ~z~Down here!
+
+0x82F03A2B = ~z~
+
+0x85B27EED = ~z~Are you getting another crate?
+
+0x90D248DC = ~z~Not yet.
+
+0x95B54EBA = ~z~~sl:0.0:2.9~Um... I think the line held.~sl:0.6~You want the honors?
+
+0x95C74983 = ~z~maybe he could have done something.
+
+0x96AD41C3 = ~z~Train!
+
+0x98E5B720 = ~z~ feel...
+
+0x124FDD8C = ~z~That's the spot, lower it from there.
+
+0x127C4E6D = ~z~~sl:0.0:0.6:1~Arthur.
+
+0x158DAF72 = ~z~For a silly idea?
+
+0x261ED420 = ~z~you gotta run, and don't look back.
+
+0x283F389D = ~z~~sl:0.0:0.5:1~Got it!
+
+0x392FBE3F = ~z~I've already set up the detonator.
+
+0x458D8F61 = ~z~I feel like you should take your woman and child...
+
+0x471B4EF0 = ~z~Come on... down here!
+
+0x526F63A3 = ~z~Start lowering it, Arthur.
+
+0x568C302A = ~z~You need cash.
+
+0x600A445A = ~z~Do you?
+
+0x623A1482 = ~z~Get on here quick!
+
+0x693F1DDC = ~z~Go on.
+
+0x714E6A7E = ~z~This is over.
+
+0x716F5719 = ~z~Alright, take it slow... that's not something we wanna drop.
+
+0x726AF9D5 = ~z~That's it... nearly there.
+
+0x735A24A5 = ~z~Let's get moving here, Arthur.
+
+0x783DF394 = ~z~~sl:0.0:2.4~It would have sounded crazy six months ago.~sl:0.5~Now? It sounds pretty normal.
+
+0x851C8FDE = ~z~Do you?
+
+0x908A0F02 = ~z~
+
+0x983BC495 = ~z~I feel like I just don't know Dutch no more.
+
+0x1003A596 = ~z~Well you tell her she better make sure...
+
+0x1394AA3C = ~z~out here risking our necks...
+
+0x2856DDBB = ~z~To the right a bit.
+
+0x4355D28B = ~z~Sure, let's get this over with.
+
+0x4600A024 = ~z~I don't know...
+
+0x5045A711 = ~z~Yeah, come on...
+
+0x5219A2CE = ~z~Grab the first one, come on.
+
+0x5493A6CA = ~z~I need some help down here.
+
+0x5558D1D6 = ~z~Well get back down there. What are you doing?
+
+0x5720B3CF = ~z~thinks she might know where some of that money is.
+
+0x5842F686 = ~z~We need to get all this planted fast.
+
+0x6366C299 = ~z~I sure hope this is enough to blow it.
+
+0x7264FE9B = ~z~~sl:0.0:2.9~Okay, I should go get the handcar ready.~sl:~You okay to finish off down here?
+
+0x7438FC94 = ~z~And this plan to get us out, it just feels...
+
+0x7561DA15 = ~z~Jump, now!
+
+0x8091DC4A = ~z~Like I said, John...
+
+0x8413AF5F = ~z~Are you done?
+
+0x9070B2F8 = ~z~I'm at the bottom of the ladder here to your left.
+
+0x9288AF46 = ~z~You been loyal.
+
+0x24446C06 = ~z~There's one on each of the main support beams.
+
+0x54222ECE = ~z~Me?
+
+0x62934D0C = ~z~I gotta see this through, try and make some of it right.
+
+0x94892D6B = ~z~For a...
+
+0x192637DF = ~z~
+
+0x245523D2 = ~z~I ain't even sure I fully understand Dutch's plan with all this.
+
+0x524328CC = ~z~and get lost.
+
+0x559230CA = ~z~What are you gonna do?
+
+0x559984A6 = ~z~Shit... I think I hear something coming, Arthur.
+
+0x599598B5 = ~z~
+
+0x757072C6 = ~z~Listen to me...
+
+0x844992C8 = ~z~to everything?
+
+0x1623876F = ~z~Tell the truth...
+
+0x2371174F = ~z~Do it, Arthur.
+
+0x2373046E = ~z~I'll see you up there. This better work.
+
+0x28195345 = ~z~For a...
+
+0x38332387 = ~z~Get ready to jump!
+
+0x47691484 = ~z~Nor do I...
+
+0x64410746 = ~z~Just like last time, come on.
+
+0x85449112 = ~z~You got a family.
+
+0x87481138 = ~z~Closer to the railing, Arthur.
+
+0xA05006A3 = ~z~Let's get it all set up, come on.
+
+0xA1D0238A = ~z~Need to get this finished soon, Arthur.
+
+0xA3F127D8 = ~z~How are you doing down there?
+
+0xA3FE4DAD = ~z~and we'll find out just who and what we should be loyal to.
+
+0xA7DB555B = ~z~It's that or... well, I don't see no way outta this.
+
+0xA8A2FAA2 = ~z~Ready when you are.
+
+0xA67CEAEE = ~z~I feel like in Saint Denis, when I got arrested...
+
+0xA350B412 = ~z~Grab some dynamite, Arthur, come on.
+
+0xA792E38E = ~z~Arthur, get up here, quick!
+
+0xA913D66C = ~z~A little, but...
+
+0xAA7E5B85 = ~z~How you mean?
+
+0xAA78E90F = ~z~You ain't the only one.
+
+0xAA295C37 = ~z~Well, what are you gonna do?
+
+0xAB0E1F91 = ~z~but I'm seeing things a lot more clearly now.
+
+0xAD722459 = ~z~I wish things were different...
+
+0xAE1DA23E = ~z~We gotta hurry, Arthur.
+
+0xAE94710A = ~z~In a way, I guess so.
+
+0xB0586739 = ~z~An idea that don't work no more.
+
+0xB7BE73C1 = ~z~Listen to me...
+
+0xB7EBB7D3 = ~z~We still need the other box, Arthur. Get back up there.
+
+0xB9AB8778 = ~z~Arthur.
+
+0xB43FEE30 = ~z~I-I don't know, Arthur.
+
+0xB342B033 = ~z~~sl:0.0:2.5:1~Pump this stupid thing... hard as you can!
+
+0xB22169E7 = ~z~Well, what about loyalty?
+
+0xBBE715CA = ~z~He saved me a long time ago.
+
+0xBC027D9F = ~z~~sl:0.0:1.5~Go get some more dynamite.~sl:0.2~We need to plant it on all the main struts.
+
+0xBCC9781C = ~z~Hurry, Arthur.
+
+0xBD62BC89 = ~z~~sl:0.0:1.8~Dutch wants a distraction...~sl:0.5~something to buy us some time... pull some attention off of us.
+
+0xBF11BDA2 = ~z~What are you doing? Go grab another one.
+
+0xC02C0A68 = ~z~but not anymore, John.
+
+0xC5F53560 = ~z~Nervous...
+
+0xC6B891C9 = ~z~Look at us...
+
+0xC7E01702 = ~z~Push.
+
+0xC8E9185E = ~z~and Dutch...
+
+0xC9B5B167 = ~z~I mean... I love Dutch.
+
+0xC28D5077 = ~z~We don't have time for you to mess around.
+
+0xC60355B4 = ~z~
+
+0xCB5C587C = ~z~~sl:0.0:4.1~And we found out Cornwall's company's got a contract~sl:~with the army, so I think Dutch figures, after this,
+
+0xCD0B2426 = ~z~Soon...
+
+0xD01FEEA3 = ~z~Get over here, Arthur.
+
+0xD0CAC036 = ~z~Faster buddy, come on!
+
+0xD1DEB0C8 = ~z~No, more to your right.
+
+0xD2B8B787 = ~z~~sl:0.0:0.8~What are you doing?~sl:0.6~You're supposed to be lowering the dynamite down to me.
+
+0xD3A8D0C7 = ~z~How you doing?
+
+0xD4C6F4EA = ~z~Get back down there and finish the job.
+
+0xD9F775B2 = ~z~~sl:0.0:4.0~they'll need to send up a train with cash and supplies.~sl:0.6~And then we'll rob that train.
+
+0xD30DABAB = ~z~For safekeeping.
+
+0xD42D2B01 = ~z~You're too far back.
+
+0xD98546EF = ~z~So why exactly are we doing this?
+
+0xD7261454 = ~z~Come on then, let's get this moving.
+
+0xDAB203C7 = ~z~What are you doing? Let's finish this.
+
+0xDCA43D94 = ~z~It's done, I don't see no way outta any of this.
+
+0xDD6F9600 = ~z~Well let's hope so.
+
+0xDF4CDC95 = ~z~Yeah, I know.
+
+0xDF20C625 = ~z~Now, we gotta help Dutch give the army one final tweak on its nose.
+
+0xE044DDC2 = ~z~Shit... Arthur, a train! Come on, quick!
+
+0xE1E30D3A = ~z~Nor do I...
+
+0xE1F71D8D = ~z~~sl:0.0:1.5~Go get some more dynamite.~sl:0.6~We need to plant it on all the main struts.
+
+0xE7D595AD = ~z~Quick as you can, Arthur.
+
+0xE36BA021 = ~z~We'll need it.
+
+0xE3524AFC = ~z~and for what exactly?
+
+0xE15245B8 = ~z~Look at us...
+
+0xE127566B = ~z~How you doing?
+
+0xEAEADB7D = ~z~and get lost.
+
+0xEBB5328B = ~z~You really think that that'll draw attention away from us?
+
+0xEC98A794 = ~z~Can we just blow this and get out of here?
+
+0xED1E7838 = ~z~It's like he just wants to create more enemies. More chaos.
+
+0xEDCB947C = ~z~Okay, you should be good there.
+
+0xF0010380 = ~z~~sl:0.0:1.8~The bridge is wired to the detonator.~sl:0.3~We need to attach each of those bundles to the fuses.
+
+0xF013A99B = ~z~I ain't being taken for a fool no more.
+
+0xF057EDBA = ~z~You're too far left.
+
+0xF0A97F4A = ~z~Killing in cold blood, revenge, we all do bad things, but...
+
+0xF7D6AF1F = ~z~Get another bundle from the boxes, come on.
+
+0xF27DD8EF = ~z~I'll climb down there, you lower the crates.
+
+0xF36E7AF9 = ~z~Nervous, but...
+
+0xF65A2E77 = ~z~~sl:0.0:2.6~It would have sounded crazy six months ago.~sl:0.4~Now, it sounds pretty normal.
+
+0xF286EF1D = ~z~It was all I ever believed in...
+
+0xF851F4EF = ~z~That's long been broken.
+
+0xF82574A2 = ~z~out here risking our necks...
+
+0xFB48CFDB = ~z~~sl:0.7~We sure got a lot of this stuff.
+
+0xFF6A01EE = ~z~~sl:0.0:1.7~Dutch wants a distraction...~sl:0.4~something to buy us some time... pull some attention off of us.
+
+0xFF57AFAA = ~z~Okay, grab yourself a bundle from the box.
+
+0xFF4082D8 = ~z~It don't even exist.
+

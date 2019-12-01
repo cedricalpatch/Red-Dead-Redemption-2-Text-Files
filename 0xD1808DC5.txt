@@ -1,0 +1,372 @@
+0x02D40180 = ~z~~sl:0.0:2.0~Micah says we should jump it~sl:~as soon as it comes through Van Horn.
+
+0x055644D2 = ~z~Move, you idiot, move!
+
+0x055C73B9 = ~z~and I'll take care of 'em.
+
+0x07B23FE8 = ~z~We need to deal with this, we're leading them right back to camp!
+
+0x09334A9D = ~z~Not me...
+
+0x0AE67D79 = ~z~Are you going to sulk or mount up?
+
+0x0EF4EC8A = ~z~Come on! We need to go now!
+
+0x0FD4CA5B = ~z~I know we ain't always seen eye to eye, and...
+
+0x1AF71EF2 = ~z~I got that.
+
+0x1CC28829 = ~z~Get down here!
+
+0x1CD671E3 = ~z~you two.
+
+0x1D25234E = ~z~I got that...
+
+0x2C3CA5D8 = ~z~Come on, let's get...
+
+0x2D0434B7 = ~z~Nice shooting back there.
+
+0x2FFAC606 = ~z~~sl:0.9~Guess it's catching.
+
+0x3C1EC7F2 = ~z~Great.
+
+0x3E7CE2C7 = ~z~~sl:0.0:2.4~Killing a bunch of folks so we can rob~sl:~some dynamite to blow up a bridge.
+
+0x3E7562FB = ~z~And you're calling Dutch and Micah unhinged.
+
+0x3E26351D = ~z~You're supposed to be covering me, Morgan.
+
+0x3EA92DE1 = ~z~What do you think I'm doing?
+
+0x3F8971AF = ~z~Come on, Arthur! Quick, let's get the explosives!
+
+0x3FFFFFF9 = ~z~I'm fine!
+
+0x4A5D3C75 = ~z~~sl:0.0:2.3~Alright, let's see if we can get this back to camp~sl:~without blowing ourselves up.
+
+0x4E5285AC = ~z~you, you're the better actor.
+
+0x5A33D984 = ~z~Shoot them, Arthur, before they blow us to high hell!
+
+0x5DC42A51 = ~z~Ah, there he is... old black lung Morgan.
+
+0x5F3EA446 = ~z~~sl:1.0~This make any sense to you?
+
+0x5F7CA800 = ~z~I'm the better shot, and...
+
+0x6B0E8E52 = ~z~Then you'll do Dutch's bidding.
+
+0x6C767E09 = ~z~Damn it! You need to take them out, Arthur!
+
+0x7A6FF4A0 = ~z~collect the money and help everyone leave.
+
+0x7AB1731F = ~z~there ain't been nothing but trouble.
+
+0x7DCEFA86 = ~z~We gotta get some explosives to blow up the bridge.
+
+0x7ECBB4DF = ~z~Here, let me take the reins now.
+
+0x8AB3E4EF = ~z~Look, there's Micah up ahead.
+
+0x8B0BAAC7 = ~z~
+
+0x8D341A68 = ~z~even a greedy moron like you.
+
+0x8DA2EA44 = ~z~Okay, let's hold up here.
+
+0x8F0D9D03 = ~z~Dutch says we is to go on with plans to create a diversion.
+
+0x9CE3B9C7 = ~z~Blackwater's a fool's errand, everyone knows it...
+
+0x9CE178F5 = ~z~So ~rp~you're taking orders from him now?
+
+0x17AFF744 = ~z~Nothing at all, boss.
+
+0x26E779A0 = ~z~you should probably go help Marston.
+
+0x27BD51E4 = ~z~~sl:0.0:2.5~Well, quick... they get off one good shot~sl:~and they'll blow us both to kingdom come!
+
+0x31D5E169 = ~z~All I know is there's law whenever you're around.
+
+0x36CFA4E4 = ~z~Why?
+
+0x36EE5D0B = ~z~I ain't sure...
+
+0x41BC567B = ~z~So... the wagon'll be coming from that way... down from Annesburg.
+
+0x45E0097D = ~z~Oh, is that so?
+
+0x50E3E9AB = ~z~So, you got it?
+
+0x51AF8928 = ~z~It's a distraction, so it ain't meant to make sense.
+
+0x63D4B8D4 = ~z~On our right, Arthur!
+
+0x64D5472B = ~z~Seems wherever you is, there's Pinkertons, and vice versa.
+
+0x68BFD068 = ~z~Micah, shut it.
+
+0x71F84CF7 = ~z~No...
+
+0x73BFAF62 = ~z~get it hidden near there.
+
+0x76EEDD07 = ~z~Was you followed?
+
+0x81E8AC90 = ~z~Well that needed to be done.
+
+0x84CA6F5D = ~z~It should to us. It's our plan.
+
+0x84FAF8C2 = ~z~Shut up.
+
+0x86A53926 = ~z~Okay, Micah...
+
+0x87DE0D7C = ~z~or...
+
+0x87EDC8AF = ~z~I thought I was playing dead and you were shooting?
+
+0x89C27C87 = ~z~Oh, that's them coming now, I think...
+
+0x92A1946C = ~z~ole Black Lung Morgan.
+
+0x97B09863 = ~z~So I was thinking, you go play dead...
+
+0x114F5B5D = ~z~You could do with a vacation.
+
+0x199F226D = ~z~I ain't sure about much no more.
+
+0x237FFFBE = ~z~take it easy.
+
+0x394DF509 = ~z~Oh shit! Deal with them, Arthur!
+
+0x457B35A7 = ~z~you go on ahead...
+
+0x518F944A = ~z~Goddamn it. Still more behind us!
+
+0x529B1460 = ~z~Was... you followed?
+
+0x616B0AB9 = ~z~go drive this over to Bacchus Bridge...
+
+0x642E7FA1 = ~z~~sl:0.7~Okay, fine.
+
+0x710D52B7 = ~z~Okay, I think we're clear. Let's head on.
+
+0x715F4A6D = ~z~Don't worry about him, just get on the horse.
+
+0x803F3AA6 = ~z~This place... these people.
+
+0x852C4338 = ~z~What the hell are you doing?
+
+0x853F79A8 = ~z~Shut up.
+
+0x3908B151 = ~z~See, I'm starting to think that you've gone soft, Morgan.
+
+0x4208BC47 = ~z~Shit.
+
+0x4562F9F4 = ~z~Do you know who you're talking to?
+
+0x5802ADC2 = ~z~Because it seems to me...
+
+0x6084B033 = ~z~Excuse me?
+
+0x7449D760 = ~z~Was you followed?
+
+0x9241A36B = ~z~I think it's a real bad idea.
+
+0x9993A1F7 = ~z~Excuse me?
+
+0x26314B4C = ~z~you're gonna do yourself a mischief way you're heading.
+
+0x41035CB1 = ~z~Nice drunk playing.
+
+0x47888DFA = ~z~He started it!
+
+0x70445E45 = ~z~that since you been riding with us...
+
+0x72019E2B = ~z~Eric, go move him. Go on.
+
+0x77235F71 = ~z~Here come more of them!
+
+0x78431C5E = ~z~Stick with me and you'll live.
+
+0x89503D58 = ~z~Good work, son.
+
+0x98162F18 = ~z~That's clear.
+
+0x99776BC2 = ~z~What are you doing? Find a spot to shoot from.
+
+0x613629C4 = ~z~Get on here, quick!
+
+0x931750E2 = ~z~he's in charge.~n~~m~Bill...
+
+0x1454547A = ~z~Why don't you?
+
+0x6019402F = ~z~then he and I will head to Blackwater...
+
+0x7562508D = ~z~You know, I've had it with the moaning.
+
+0x9136202C = ~z~Stirring things up all the time, getting in Dutch's ear.
+
+0x24790037 = ~z~I thought you weren't cut out to be a dynamite wagon driver.
+
+0x68615083 = ~z~He's got a boat lined up.
+
+0x74271306 = ~z~What's going on?
+
+0x74561488 = ~z~whatever you say.
+
+0xA0B5561A = ~z~
+
+0xA0CF30C7 = ~z~Ah, there he is...
+
+0xA2A0C113 = ~z~~sl:0.0:3.6~The pair of them are becoming unhinged.~lr:0.4~You hear about Dutch killing Cornwall?
+
+0xA2FB7ED6 = ~z~Arthur, you better not screw this up.
+
+0xA4E5F483 = ~z~Listen...
+
+0xA5CE6BCE = ~z~Come on, Arthur! Quick, let's get the explosives!
+
+0xA9A8FF29 = ~z~Oh, the bridge is probably a two man job...
+
+0xA40B46FE = ~z~Keep the army out of here a few days.
+
+0xA81E1822 = ~z~John...
+
+0xA746E2EC = ~z~Okay, I'm trying!
+
+0xA3135A4E = ~z~Come on! Shoot them!
+
+0xA9116D61 = ~z~Have fun, boys.
+
+0xACAD121A = ~z~And, cowpoke...
+
+0xAD75498F = ~z~~sl:0.0:1.1~Hurry up, Arthur.~sl:0.1~Every minute counts for a man in your condition.
+
+0xADDC80D8 = ~z~Ah shit! They're aiming for the dynamite!
+
+0xAE7A3B56 = ~z~Alright, let's go.
+
+0xAE8E1554 = ~z~Rob a stage...
+
+0xAEAB5D56 = ~z~You're just a senior gun...
+
+0xB04BF547 = ~z~
+
+0xB09E0D13 = ~z~Dutch and I got planning to do...
+
+0xB5CBE957 = ~z~So you better watch your goddamn mouth, boy...
+
+0xB6DA01E7 = ~z~Help me out here, Morgan!
+
+0xB8FFD12F = ~z~One of them's making a run for it.
+
+0xB15D0D71 = ~z~and I like to annoy you...
+
+0xB19F4148 = ~z~it'll be quite the show.
+
+0xB59E2BE9 = ~z~~sl:0.0:0.9~Alright.~sl:2.0:1.9~Oh, that was close...~sl:1.0:3.6:1~Don't reckon I'm cut out to be a dynamite wagon driver.
+
+0xB79FA94A = ~z~Trust me.
+
+0xB565FEF3 = ~z~Will you shoot them, for chrissakes?
+
+0xB71369F8 = ~z~That needed to be done.
+
+0xB424207C = ~z~Which is robbing a stage that's coming from Annesburg...
+
+0xB8004376 = ~z~Hey, hold up a second. Pinkerton patrol over there.
+
+0xBA5F73AA = ~z~I don't think Dutch cares too much what you think.
+
+0xBA22C4B7 = ~z~Does that really matter right now, Bill?
+
+0xBAC6BD73 = ~z~Yes, we got it.
+
+0xBC06E10F = ~z~No, you play dead and I'll cover you.
+
+0xBF0A45F6 = ~z~He really does think...
+
+0xBF68ED72 = ~z~~sl:4.1~You almost make me miss Hosea.
+
+0xC04838C8 = ~z~All we seem to ever do is rob a stage, you and me.
+
+0xC05180A2 = ~z~It's Dutch's choice, Arthur.
+
+0xC7D2C7D9 = ~z~full of explosives.
+
+0xC27BAFAE = ~z~you find me irritating, and a threat...
+
+0xC36C32AF = ~z~Like I said...
+
+0xC85D497A = ~z~Come on, Arthur.
+
+0xC757CF5C = ~z~Okay, I don't see any more of them.
+
+0xC823A47A = ~z~Why aren't you shooting?
+
+0xCCACE13F = ~z~What's wrong, Arthur?
+
+0xCD2AC62C = ~z~but, I am a survivor.
+
+0xCFB2596F = ~z~There's a big picture here, Arthur.
+
+0xD2DD9463 = ~z~If you fellers don't get moving, that wagon will be long gone.
+
+0xD4E6D28B = ~z~~sl:0.0:2.1~Micah says we should jump it~sl:~as soon as it comes through Van Horn.
+
+0xD13B89D9 = ~z~Come on! We need to get out of here!
+
+0xD22E245B = ~z~Only you ain't well.
+
+0xD78B59CD = ~z~I need to speak with Arthur.
+
+0xDA93EDE7 = ~z~Guess we have.
+
+0xDBE9B592 = ~z~Take it easy, cowboy...
+
+0xDC447293 = ~z~for the train.
+
+0xDCAD7381 = ~z~Come on. Move you drunken bastard, move!
+
+0xDD7CB9E4 = ~z~We gotta confuse them one last time...
+
+0xDE1F66F5 = ~z~but right now I need better from you, Arthur.
+
+0xDE8917BE = ~z~Yeah, I know. Just never goes easy no more, does it?
+
+0xDF9BEB0E = ~z~I ain't the bad guy you think I am, Arthur...
+
+0xE0543DFC = ~z~Whoa...
+
+0xE0F3308E = ~z~When I said you could do with a vacation, I didn't mean start now.
+
+0xE2BB8D5C = ~z~We got it.
+
+0xE5DF4BBD = ~z~same as the rest of us.
+
+0xE30A2D76 = ~z~What are you doing? Get on.
+
+0xE71A76F2 = ~z~~sl:1.0:2.7~The pair of them are becoming unhinged.~lr:0.4~You hear about Dutch killing Cornwall?
+
+0xE46687FE = ~z~Right now? ~rp~With the Pinkertons breathing down our necks.
+
+0xE7758722 = ~z~I got my own planning to do.
+
+0xEB44B135 = ~z~~sl:0.0:1.4~Comes naturally.~sl:2.4~I could use a drink after that.
+
+0xEC512913 = ~z~I thought there was no law in Van Horn!
+
+0xECACBF6B = ~z~There was a lot of movement.
+
+0xF9A2C1E6 = ~z~Get out here and let's go!
+
+0xF22B2387 = ~z~I'm taking orders from Dutch, same as always.
+
+0xF676D2FF = ~z~Nice shooting... well, uh... apart from the townfolk.
+
+0xF943AABE = ~z~You boys got this.
+
+0xF52551F7 = ~z~Hurry up or we'll miss it.
+
+0xFB5EC9C1 = ~z~And it'll take the two of us to stop it completely, or it'll never get done.
+

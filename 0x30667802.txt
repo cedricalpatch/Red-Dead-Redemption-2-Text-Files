@@ -1,0 +1,14 @@
+0x0C546D49 = ~z~Oh, it's all a long time ago.
+
+0x243F1D22 = ~z~Hey, how have you been, Arthur?
+
+0x5271F987 = ~z~Fine, Mary-Beth.
+
+0x7520BEE8 = ~z~Oh... I hope so.
+
+0xA03B1518 = ~z~Sure, I saw her.
+
+0xD6AE01FD = ~z~Get over her, Arthur.
+
+0xFA24C8EA = ~z~You see that Mary Gillis?
+

@@ -1,0 +1,218 @@
+0x08ED0470 = ~z~It's alright, my darling...
+
+0x0A36A683 = ~z~Whatever they call you...
+
+0x0AC96F54 = ~z~Not now. Not now.
+
+0x0E57F7E4 = ~z~You know there ain't enough kindness in this world...
+
+0x2ABB0252 = ~z~Thank you, feller.
+
+0x2C534844 = ~z~We're dead men.
+
+0x3AC2CC14 = ~z~I'm here to collect.
+
+0x4AAC5FF9 = ~z~you borrowed money off of Leopold Strauss.
+
+0x4CF26485 = ~z~Whatever they call you...
+
+0x4D3C1CEB = ~z~Ah, shit.
+
+0x4DDCF818 = ~z~there's men after me...
+
+0x4F06E8BA = ~z~J. John Weathers.
+
+0x4F5CCB95 = ~z~Get her somewhere safe.
+
+0x5B3D12D8 = ~z~just an objector.
+
+0x5CF5E6C7 = ~z~I don't know where we can go...
+
+0x5F779579 = ~z~there won't be anyone to pay you.
+
+0x6E6F3368 = ~z~You can take 'em, just...
+
+0x7BACD3B3 = ~z~Shut up.
+
+0x7E54FF1C = ~z~I may as well protect the payment.
+
+0x8ABDEF43 = ~z~Ach!
+
+0x8CC2465F = ~z~Go.
+
+0x8CF7F64D = ~z~It ain't right.
+
+0x8E1436D6 = ~z~They're the enemy!
+
+0x9B0BE2F2 = ~z~Now...
+
+0x16FCA08F = ~z~you can come out.
+
+0x17A58A7F = ~z~Damn the debt.
+
+0x34E06C40 = ~z~Shit.
+
+0x38DACCE1 = ~z~Go on.
+
+0x45B4F398 = ~z~Don't leave me!
+
+0x46AE7FF2 = ~z~I probably shoulda...
+
+0x49BC6EAC = ~z~Just get her somewhere safe.
+
+0x51DCFD7A = ~z~Ow...
+
+0x56CA3007 = ~z~Well, seeing as I'm here...
+
+0x77DC7237 = ~z~Up here, it's him.
+
+0x81FB993C = ~z~Is it, are they...
+
+0x83DC5E42 = ~z~is there any way you can help me?
+
+0x92BBA4D6 = ~z~You're killers!
+
+0x94B8FFFB = ~z~We're all...
+
+0x226E9B6C = ~z~all of us, up against it.
+
+0x260ECE9D = ~z~I'd clear off, sir.
+
+0x414E4D49 = ~z~They call me Snow Goose now.
+
+0x498A9594 = ~z~It's too late.
+
+0x758DF296 = ~z~The supplies!
+
+0x771EED9D = ~z~Leave us alone!
+
+0x921D397F = ~z~Are we in the clear?
+
+0x972F84EC = ~z~Okay.
+
+0x1628F6F3 = ~z~This ain't the best time for anyone.
+
+0x2415A48A = ~z~Look...
+
+0x2533A0F6 = ~z~I ain't here to help.
+
+0x2693A6E8 = ~z~Ah...
+
+0x5455AB2A = ~z~Form up, we shoot on sight.
+
+0x6202B3A2 = ~z~More of them!
+
+0x7891CD81 = ~z~they're killers.
+
+0x8002ACE0 = ~z~Go on.
+
+0x8265DE73 = ~z~Gah.
+
+0x8938AD1B = ~z~Show mercy!
+
+0x18428A46 = ~z~What is wrong with this...
+
+0x19115EFB = ~z~but...
+
+0x48513D7E = ~z~I'll try.
+
+0x206072E5 = ~z~No, no, no!
+
+0x4699685E = ~z~Thank you, feller.
+
+0x9600885A = ~z~If there was another way than running...
+
+0x29885584 = ~z~I'll do what I can for you.
+
+0x30495328 = ~z~Aww, crap...
+
+0x64614822 = ~z~Why?
+
+0xA4E432D9 = ~z~Where are you going?
+
+0xA325B8DF = ~z~you can take this silver locket.
+
+0xA1478D3E = ~z~The debt is due.
+
+0xA2642125 = ~z~I ain't a deserter...
+
+0xA8832793 = ~z~I got supplies, meant to last through the winter.
+
+0xACD6B606 = ~z~Please... I...
+
+0xAE96B863 = ~z~But you...
+
+0xAF8229B3 = ~z~Mr. Strauss knew it was a long term proposition.
+
+0xB2BF6432 = ~z~Curse this.
+
+0xB9A049C9 = ~z~I stay out here...
+
+0xB42A7D99 = ~z~Can you see any more?
+
+0xB218D6C5 = ~z~We could probably still save something.
+
+0xB1150EF0 = ~z~Fine.
+
+0xBECBAA5D = ~z~For the debt.
+
+0xBED68FC0 = ~z~J. John Weathers.
+
+0xC0D10055 = ~z~Damn these men.
+
+0xC2F4CA42 = ~z~The lantern! My wagon!
+
+0xC9BE92DB = ~z~God help us!
+
+0xC5459CA6 = ~z~The bill's come due.
+
+0xC9736F3F = ~z~I need your help.
+
+0xCBE90A65 = ~z~helped you fix the damn wagon.
+
+0xCC9D2B4D = ~z~They call me Snow Goose now.
+
+0xD6C8C2D9 = ~z~Is it safe, sir?
+
+0xD77AC99E = ~z~But I thought...
+
+0xD86DC2F6 = ~z~you borrowed money off of Leopold Strauss...
+
+0xD6232AF9 = ~z~Can't they leave us alone?
+
+0xD786973D = ~z~Sir, I thought...
+
+0xDB0D114F = ~z~that's for sure.
+
+0xDB913680 = ~z~We need a miracle.
+
+0xDBBB5223 = ~z~But, you were helping me?
+
+0xDD041545 = ~z~We're past praying, boy.
+
+0xDF9F9901 = ~z~Come on.
+
+0xE57BC9AA = ~z~There's so many of them.
+
+0xE62A16F6 = ~z~This ain't the best time, sir.
+
+0xE795C1BE = ~z~Really now?
+
+0xE941BAB3 = ~z~Sir, please!
+
+0xEB3EB1BA = ~z~Pray for us.
+
+0xECAAD6ED = ~z~Oh no! The horses!
+
+0xEDE5B58D = ~z~Please.
+
+0xF3E5B26D = ~z~The bill's come due.
+
+0xFCE4EC5C = ~z~Look...
+
+0xFD5055D5 = ~z~I don't know nothing about kindness.
+
+0xFED5002A = ~z~Well seeing as I'm here...
+
+0xFEF15CE8 = ~z~They're burning!
+

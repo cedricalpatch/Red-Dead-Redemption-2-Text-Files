@@ -1,0 +1,90 @@
+0x02BE8CA4 = The Danger Seeker will offer a reward based on the quality of the photograph. Hold ~INPUT_AIM~ to offer instructions to her.
+
+0x046579CB = Stand close to the Fame Seeker facing the camera.
+
+0x0849B25F = Wait for the Thrill Seeker to approach you and take the film.
+
+0x0A4EE287 = Dismount your horse next to the Danger Seeker.
+
+0x0FD3FBDB = Aim a weapon at the Fame Seeker.
+
+0x2B07E536 = Equip your Camera from the Item Wheel and take a photo of the Danger Seeker close to the animal.
+
+0x3F51C361 = Wait for players to stand close to the Fame Seeker.
+
+0x4E4322A5 = Aim a weapon towards the sky.
+
+0x6A595D4E = Frame the Danger Seeker and horse using the camera.
+
+0x6B0E7EBF = Wait for the Fame Seeker to approach you and take the film.
+
+0x7C03CE14 = Enemy
+
+0x7D8E08DF = Equip your Camera from the Item Wheel and take a photo of the Danger Seeker while she's on your horse.
+
+0x9DE5348D = Frame the Fame Seeker and horse using the camera.
+
+0x10E0DE77 = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while other players pose with her hogtied.
+
+0x15A1A32B = Objective
+
+0x55AB7713 = Return with more players to help out the Fame Seeker.
+
+0x58ED26AD = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker holding her fish.
+
+0x83D9FA26 = Thrill Seeker
+
+0x91A2B83D = The Fame Seeker will offer a reward based on the quality of the photograph.
+
+0x278DA42C = Frame the Danger Seeker and wild animal using the camera.
+
+0x383B6815 = Frame the Fame Seeker and nearby players using the camera.
+
+0x593CD4AE = Dismount your horse next to the Fame Seeker.
+
+0x675B29B6 = Bring your horse to the Fame Seeker.
+
+0x768CF448 = Fame Seeker
+
+0x968AE3DC = Equip your Camera from the Item Wheel and take a photo of the Thrill Seeker at the edge of the cliff.
+
+0x2929FCBC = Equip your camera.
+
+0x13794DD4 = Get further away before taking the photograph.
+
+0x65733DE5 = More players are needed to help out the Fame Seeker.
+
+0x72156CE4 = Pose
+
+0x163353E6 = The Danger Seeker will offer a reward based on the quality of the photograph.
+
+0xA48F5769 = Frame the Fame Seeker and fish using the camera.
+
+0xA3369F1E = Wait for the Danger Seeker to approach you and take the film.
+
+0xA4005BA2 = Step Back
+
+0xA535139E = The Thrill Seeker will offer a reward based on the quality of the photograph. Hold ~INPUT_AIM~ to offer instructions to him.
+
+0xAC7F22FF = Hogtie the Fame Seeker.
+
+0xB8E97C4D = Frame the Thrill Seeker and wild animal using the camera.
+
+0xC2869631 = Take a picture using the camera.
+
+0xD0D526E7 = Danger Seeker
+
+0xD7C074FF = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while she's on your horse.
+
+0xD84F0BC6 = Equip your Camera from the Item Wheel and take a photo of the Thrill Seeker close to the animal.
+
+0xDFCD437F = Get closer before taking the photograph.
+
+0xEA81322C = Bring your horse to the Danger Seeker.
+
+0xF4D5D185 = Equip your Camera from the Item Wheel and take a photo of the Fame Seeker while other players pose with her.
+
+0xF52FB409 = Wait for players to aim their weapons.
+
+0xF600DAFA = Frame the Thrill Seeker using the camera.
+

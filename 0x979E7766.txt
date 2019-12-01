@@ -1,0 +1,92 @@
+0x0789C65A = Chase the remaining ~e~Anderson Boys~s~
+
+0x1B2CCB8A = Sheriff Gray's wagon became stuck.~s~
+
+0x1BED180F = Return to the ~o~camp~s~
+
+0x1ED156DD = Row to the ~o~fishing spot~s~
+
+0x1FA441E2 = Return to the ~o~fishing spot~s~
+
+0x4C250447 = Knock out the ~e~Anderson Boy~s~
+
+0x4F0778BE = When grappling an enemy push ~INPUTGROUP_MOVE~ and press ~INPUT_MELEE_BLOCK~ to perform a throw.
+
+0x5A1D3833 = Return to the ~o~Sheriff's Office~s~
+
+0x5F11530A = The Anderson boys are wanted alive. Do not shoot them.
+
+0x7B5BBBF3 = Ride alongside the ~o~train~s~
+
+0x7D313AB4 = Talk to ~o~Dutch~s~
+
+0x7D919A1C = Row back to ~o~camp~s~
+
+0x8D40B4E1 = Bounty hunters?
+
+0x8E62EC4B = Chase the ~o~train~s~
+
+0x12B89A0C = Unequip Fishing Rod
+
+0x41A0A8B3 = Anders Anderson was abandoned.~s~
+
+0x78BBB3E7 = Anders Anderson
+
+0x90F8FEE4 = The Anderson Boys escaped the Grays' jurisdiction.
+
+0x468CFAA7 = The Sheriff's Office was abandoned.
+
+0x529C45C8 = Jump to the ~o~train~s~
+
+0x870B1561 = Equip the fishing rod
+
+0x4737BDA4 = Put Anders Anderson on your ~o~horse~s~
+
+0x7543BB8A = Trelawny?
+
+0x8031FE3A = Decline fishing
+
+0x9422B967 = Return Anders Anderson to the ~o~Sheriff's Office~s~
+
+0x30002E5C = The boat became stuck.~s~
+
+0x35616EC0 = Return to ~e~Anders Anderson~s~
+
+0x245581F5 = Accept fishing
+
+0x8089417D = Funny.
+
+0xA240D906 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly unequip a required item.
+
+0xAB6ED816 = Pick up ~e~Anders Anderson~s~
+
+0xABBEFCF6 = One of the Anderson Boys has died.~s~
+
+0xAF03F28C = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip a required item.
+
+0xB042B7EA = The fishing spot was abandoned.
+
+0xB39FEB01 = Use ~INPUTGROUP_VEH_MOVE_ALL~ to control the boat. Tap ~INPUT_VEH_BOAT_ACCELERATE~ to row faster.~s~
+
+0xB78CCBEE = Get in the ~o~boat~s~
+
+0xBF994CD5 = Anders Anderson has died.~s~
+
+0xC4BD3C25 = Sheriff Gray?
+
+0xC7A67239 = Catch some fish with Dutch and Hosea
+
+0xC57ABF9C = Where is this spot?
+
+0xC422C896 = Talk to ~o~Hosea~s~
+
+0xD1D38082 = The camp was abandoned.
+
+0xD7914460 = Sheriff Gray's wagon has been destroyed.~s~
+
+0xF094E5D2 = Quick Equip Fishing Rod
+
+0xF74D3CF7 = The boat has been destroyed.~s~
+
+0xF86D90D1 = Pick up the ~e~Anderson Boy~s~
+

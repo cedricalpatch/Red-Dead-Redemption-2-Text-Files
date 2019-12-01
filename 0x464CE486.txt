@@ -1,0 +1,72 @@
+0x02FBB9B9 = ~z~So, I assumed you were in possession of some transport yourself?
+
+0x0A8C765D = ~z~Alright, that's it. I'll take my chances on foot...
+
+0x1A93EF47 = ~z~Oh? Hey! I could use a hand...
+
+0x1D50F7F8 = ~z~~sl:0.0:1.7~Couldn't wait to leave me...
+
+0x2DE740F4 = ~z~~sl:0.0:5.3~Thanks, thank you. Horse bucked me and took off, no idea what got into it.~sl:0.6~Think you could give me a ride to town?
+
+0x3A5BF7FD = ~z~Really appreciate you doing this. Good luck to ya.
+
+0x3EF464AF = ~z~~sl:0.0:2.8~Yeah I know what you're thinking. I know it.~sl:0.4~But they're smart animals. Real smart.
+
+0x5EC4BB53 = ~z~Guess this is your unlucky day!
+
+0x6AD89306 = ~z~You're riding free now, at least...
+
+0x6CB3B8DC = ~z~I don't mean to be rude, but... where am I supposed to sit?
+
+0x9B76D554 = ~z~I know it's a lot to ask... but could you do me the favor?
+
+0x9D177783 = ~z~What a horse...
+
+0x9D588064 = ~z~Oof. Threw me right on my ass.
+
+0x64A22308 = ~z~Going to hell, I know... but I won't be the only one.
+
+0x202FA140 = ~z~Down off there.
+
+0x78930B5D = ~z~You sure you don't got a minute?
+
+0x9746154D = ~z~~sl:0.5~My back sure is sore, though...
+
+0xA7B280D9 = ~z~~sl:0.0:2.7~You got anything for me? Huh?~sl:0.9~No...
+
+0xAA083AD1 = ~z~Good on her. ~rp~A lesson to us all.
+
+0xAF98CAF0 = ~z~Oh, you will? Finally, some kindness... thank you.
+
+0xAF241734 = ~z~Not interested? Well... fine then.
+
+0xBB9CDDFA = ~z~~sl:0.0:3.8~Lady was well-behaved, ~rp~took to her saddle, liked me good.~sl:0.5~Until today... ~rp~Off she went. And you know what?
+
+0xBCC9E054 = ~z~They know what you tell 'em. ~rp~They know what they like, what they don't.
+
+0xBE38A2DC = ~z~I sure would appreciate it...
+
+0xBF4818C6 = ~z~Sorry to trouble you, but... I could really use a hand.
+
+0xD08907DA = ~z~~sl:0.0:3.4~Truth to tell,~rp~ it's not much becoming of me as a rider.~sl:0.3~But... ~rp~well, I guess a horse got freedoms much as the rest of us, right?
+
+0xD0C647F7 = ~z~Come on now, please, I wouldn't normally ask a stranger like this...
+
+0xD9EC3C7D = ~z~~sl:0.0:1.7~Reckon you can get me to Valentine?~sl:0.4~I'm assuming you know the place...
+
+0xD537E9F1 = ~z~~sl:0.0:1.9~Oh, Lady, Lady...~sl:0.6~Just had enough, huh?
+
+0xDA9D4DBA = ~z~Here. One kindness deserves another.
+
+0xE26C2BA0 = ~z~Suppose I should be sore with Lady for bucking me and all.
+
+0xEA528EC5 = ~z~Hello? Hey, you got a minute?
+
+0xED2F2439 = ~z~Didn't expect no help, tell the truth...
+
+0xF0CC1DE1 = ~z~Thing is... I ain't so kind.
+
+0xF6CC6BDD = ~z~I can already smell that sheep dung.
+
+0xF5294B34 = ~z~To your feet. Now.
+

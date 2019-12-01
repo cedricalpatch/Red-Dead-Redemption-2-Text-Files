@@ -1,0 +1,22 @@
+0x5DEE2184 = ~z~So, you're back.
+
+0x6AF23B88 = ~z~I bumped into Bill in Annesburg. You okay?
+
+0x9B84B04F = ~z~Hm... I'm sorry to hear that... I'll see what I can do.
+
+0x53380C18 = ~z~Hello, Arthur.
+
+0x98499636 = ~z~We got half drowned, arrested, shot at, arrested again, rescued, tortured... and half-eaten by bugs.
+
+0xA1D1A946 = ~z~That good, eh?
+
+0xACF15328 = ~z~Well... we got the law hot on our tail, things... things ain't great.
+
+0xB9A558ED = ~z~Sure.
+
+0xC68072A3 = ~z~How were the tropics?
+
+0xF4A8CEF3 = ~z~Exactly.
+
+0xFD85E0AD = ~z~Listen... things here... is everything okay? People seem... odd.
+

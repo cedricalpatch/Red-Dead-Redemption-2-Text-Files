@@ -1,0 +1,28 @@
+0x03F26779 = ~z~~sl:1.3~Are, are you crazy?
+
+0x043FF453 = ~z~Just... leave... leave me be!
+
+0x0F3CFE16 = ~z~~sl:0.9~Stop that!
+
+0x4C8724A8 = ~z~
+
+0x58CD1D6C = ~z~Just... get away from me!
+
+0x73B45352 = ~z~~sl:0.5~Go away!
+
+0x87A86EE7 = ~z~Stop shooting!
+
+0xA1EAAFA6 = ~z~~sl:0.8~Leave me alone!
+
+0xAA96C0FE = ~z~Go the hell away!
+
+0xC8AD70F0 = ~z~~sl:0.3~What are you doing?
+
+0xD8019BD7 = ~z~~sl:0.4~What do you want?
+
+0xDE579C44 = ~z~~sl:1.2~Stop it, you bastard!
+
+0xED433A1B = ~z~I'll kill you!
+
+0xF38652E0 = ~z~~sl:0.8~Get out of here!
+

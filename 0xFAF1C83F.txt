@@ -1,0 +1,8 @@
+0x2AC5F25E = Treasure
+
+0x91B368A5 = Stray Dog
+
+0x2308471F = Enemy
+
+0xE104264F = Dead Owner
+

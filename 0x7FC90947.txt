@@ -1,0 +1,18 @@
+0x09000FD0 = ~z~It's very sad, he's... it's very sad.
+
+0x1D228F69 = ~z~Get yourself cleaned up, come on... it's pathetic... you, a man of the cloth.
+
+0x4B536BCA = ~z~Away with you.
+
+0x5F6E940C = ~z~
+
+0x8E5E71EB = ~z~
+
+0x67E638CA = ~z~Get up, Reverend... get up!
+
+0x123DF99C = ~z~
+
+0x364741B2 = ~z~You're a disgrace, a disgrace. What is wrong with you?
+
+0xE6822225 = ~z~I'm sorry... I'm sorry...
+

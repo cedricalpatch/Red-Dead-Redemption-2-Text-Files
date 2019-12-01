@@ -1,0 +1,56 @@
+0x09BE900D = ~z~Anyway, things to do. Just watch yourself if you're around those parts.
+
+0x5E49C104 = ~z~gang of hillbilly half-breeds... Now, if they was...
+
+0x8B9C7309 = ~z~Just keep moving, will you? Ain't nothing for you here.
+
+0x9D2D1A0A = ~z~Lots of folks been going missing round there, women and children mostly,
+
+0x9DE397EC = ~z~Sorry to be so jumpy but you can't be too careful.
+
+0x26FE33B2 = ~z~Free country, ain't it?
+
+0x86A7863D = ~z~Hey, I'm telling you straight here.
+
+0x730EEA8E = ~z~Feller over in Van Horn told me they was most likely from the Murfree Brood,
+
+0x745BC4F1 = ~z~One had an eye pretty much where his mouth should be,
+
+0x861AE86F = ~z~other had teeth so crooked, I swear he could eat corn through a picket fence.
+
+0x17693D3A = ~z~Hell, fine, I'll shut up then. I know what I saw.
+
+0x74749DF8 = ~z~Had to pinch myself just to check it weren't a nightmare. Robbed everything I had on me. I mean,
+
+0x56513113 = ~z~I had a real lucky escape. They live like animals, maybe even worse.
+
+0x82190311 = ~z~~sl:0.7:0.0~I know, almost soiled my britches, lemme tell you.
+
+0xA610ABC9 = ~z~Still see that face looking down at me...
+
+0xA1851F43 = ~z~Two real crazy looking fellers, talked real crazy too.
+
+0xAF25BA70 = ~z~Couple weeks back, I was over in Roanoke Ridge and woke up with a knife to my throat.
+
+0xAF53C262 = ~z~C'mon, mister, this shook me up something bad.
+
+0xB9B6DEC7 = ~z~Who are you? What are you doing here?
+
+0xC0B5E11B = ~z~The locals won't go near there, and the law sure don't.
+
+0xC149A5B0 = ~z~Free country, ain't it?
+
+0xD7A00EEF = ~z~and the rumor is they'd take a bite out of you or me ahead of a plate of anything else.
+
+0xDA7EC3A2 = ~z~Hey, easy friend. I mean you no harm.
+
+0xE8194973 = ~z~Uh, okay, well, uh... guess you can rest here a while if you need.
+
+0xF6B0226D = ~z~They was laughing about cutting me up, and I reckon they would've.
+
+0xF38AC31D = ~z~Hey... easy friend. I don't mean you no harm.
+
+0xF81D6621 = ~z~Yep, God's honest truth.
+
+0xF4621DD1 = ~z~they was rifling through my saddlebags and I just decided to cut and run.
+

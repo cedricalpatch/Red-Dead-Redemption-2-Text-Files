@@ -1,0 +1,18 @@
+0x04A47B3F = ~z~You always worry, momma and I'm always fine.
+
+0x9B282848 = ~z~Come here...
+
+0x17D12198 = ~z~Jack... Jack!
+
+0x901C1230 = ~z~Sorry, momma...
+
+0x82487685 = ~z~Don't take that tone with me.
+
+0xA9EA45CC = ~z~Alright, now go get some rest.
+
+0xBB01E7FB = ~z~I'm getting worried... where are ya? Jack!
+
+0xC833825E = ~z~I'm here, momma.
+
+0xF6DDDFB2 = ~z~Where have you been? I've been real worried.
+

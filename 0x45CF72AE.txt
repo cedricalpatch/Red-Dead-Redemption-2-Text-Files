@@ -1,0 +1,76 @@
+0x01C2428A = The loot was destroyed.
+
+0x3C8F2FC7 = Trelawny was abandoned.
+
+0x5AACB345 = Go to ~o~Trelawny~s~
+
+0x6CCE92E7 = Your horse was injured.
+
+0x7CBE59E6 = Bring an eagle talon to Trelawny at camp.
+
+0x7F46B16D = Greet
+
+0x9BD2884C = Hitch your horse at the ~o~hitching post~s~
+
+0x9D5A5D4C = Trelawny's horse has died.
+
+0x13B7255B = Wait for the coach
+
+0x22F35197 = Wait for the stagecoach to leave
+
+0x28AA4F41 = Tail the ~o~stagecoach~s~
+
+0x36B96430 = Return to ~o~Trelawny~s~
+
+0x36EDEBC8 = Force the ~o~stagecoach~s~ to stop
+
+0x37F84365 = The stagecoach was abandoned.
+
+0x81C2542C = Leave undetected
+
+0x87EE06EF = Wait for the stagecoach to arrive
+
+0x88FC95CA = Trelawny
+
+0x641DE8D2 = You attacked Trelawny.
+
+0x690A6948 = Wait for Mrs. Damsen to exit the ~o~stagecoach~s~
+
+0x72454FF3 = The stagecoach escaped.
+
+0x1977260F = Pay Alden
+
+0x28392117 = Mount your ~o~Horse~s~
+
+0xAAAF14B6 = Stay back from the coach to avoid being spotted.
+
+0xACDD2A61 = Go to ~o~Rhodes station~s~
+
+0xB019B208 = Pay ~o~Alden~s~
+
+0xC436DABE = The law were alerted.
+
+0xCBA0153E = Follow ~o~Trelawny~s~ to Siltwater Strand
+
+0xCE6E05FF = Trelawny's horse was injured.
+
+0xD0421E72 = Take out the ~e~guards~s~
+
+0xDD83D9FA = Loot the ~o~strongbox~s~ without being detected
+
+0xDDF1B9D1 = Meet Trelawny at the ~o~crossroads~s~
+
+0xE1F2F75D = The clerk has died.
+
+0xE51A7A1E = The clerk was spooked.
+
+0xEEE7A311 = You didn't go to Rhodes.
+
+0xEF1BE190 = Trelawny
+
+0xF0F233E0 = Loot the ~o~strongbox~s~
+
+0xFC45F689 = Follow ~o~Trelawny~s~
+
+0xFF2597B6 = Trelawny has died.
+

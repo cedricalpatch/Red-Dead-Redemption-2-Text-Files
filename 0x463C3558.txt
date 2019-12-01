@@ -1,0 +1,90 @@
+0x01ED5921 = ~z~Mine too...
+
+0x082C659F = ~z~My life, it's different now.
+
+0x0BBA670B = ~z~She's well, Jack's well...
+
+0x0BCD954F = ~z~Thank you, I'm well.
+
+0x1A2B03E0 = ~z~all is well I think.
+
+0x3AF5739E = ~z~How are you?
+
+0x4F896EB0 = ~z~That's Mrs. Tilly to you.
+
+0x5D450A27 = ~z~How are you?
+
+0x7B6580F0 = ~z~How are you?
+
+0x7F784C4D = ~z~I'll try.
+
+0x8BB66CB1 = ~z~She's well, Jack's well...
+
+0x8DCAE8F2 = ~z~over in Great Plains, West Elizabeth.
+
+0x9BE30526 = ~z~Yeah, we're up at Beecher's Hope...
+
+0x16AEFAD8 = ~z~but I still see a bunch of Charles and Uncle and Sadie...
+
+0x39D94350 = ~z~Congratulations.
+
+0x59EF8924 = ~z~I miss you and Abigail.
+
+0x74C16735 = ~z~That's Mrs. Tilly to you.
+
+0x80C0D11E = ~z~Miss Tilly.
+
+0x84AE179E = ~z~John!
+
+0x434F8452 = ~z~Miss Tilly.
+
+0x881ADDAE = ~z~I married a lawyer, he's a fine man.
+
+0x1697AAE3 = ~z~Congratulations.
+
+0x2866A06B = ~z~I'm okay, how are you?
+
+0x7414BAF6 = ~z~Be well, John Marston.
+
+0x9694FCC6 = ~z~I... I never thanked you for what you did.
+
+0x30605E74 = ~z~I'm okay, how are you?
+
+0x122021F0 = ~z~Well, and happy, and...
+
+0x765741F3 = ~z~Thank you, I'm well.
+
+0x962279BD = ~z~We live in a house.
+
+0x962629FE = ~z~John Marston.
+
+0x7300359D = ~z~John Marston.
+
+0x28002546 = ~z~Well, and happy, and...
+
+0xA3D69529 = ~z~Us too.
+
+0xA4919E6B = ~z~I still think about all of you all the time.
+
+0xA4689871 = ~z~Oh, there's the trolley.
+
+0xAA2EA1BD = ~z~but can I write to you and Abigail some place?
+
+0xB2D73AF6 = ~z~Oh, there's the trolley.
+
+0xB16D3056 = ~z~I'm sorry, I've got to go, I'm late...
+
+0xC37F9127 = ~z~John Marston.
+
+0xC1065754 = ~z~I... I never thanked you for what you did.
+
+0xCD70F029 = ~z~all is well I think.
+
+0xDC80867C = ~z~so not quite so different as Abigail would like.
+
+0xE88C5B40 = ~z~That's Mrs. Tilly to you.
+
+0xF2D3E358 = ~z~I miss you and Abigail.
+
+0xF6DA77DC = ~z~Miss Tilly.
+

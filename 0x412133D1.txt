@@ -1,0 +1,10 @@
+0x003D6182 = ~z~You really are a very charming man, aren't you?
+
+0x5B411788 = ~z~Oh, hey Arthur.
+
+0x6D6D3BE0 = ~z~Well, hello then.
+
+0x7BD6D8B3 = ~z~Nothing. I'm just being civil, my brother.
+
+0x48E472CF = ~z~What you want, Micah?
+

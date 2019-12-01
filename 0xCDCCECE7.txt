@@ -1,0 +1,26 @@
+0x5C9124FA = ~z~Okay, never mind.
+
+0x9BC690C6 = ~z~~sl:0.0:1.1~the Bastille Saloon.~sl:~Opposite the park with the Quincy Harris statue.
+
+0x78A4CA83 = ~z~Just watch yourself. He's got quite the reputation.
+
+0x96BD3B04 = ~z~Appreciate your help.
+
+0x65755871 = ~z~Thanks again.
+
+0xAA056194 = ~z~Thanks for the help, friend.
+
+0xAD91345B = ~z~Appreciate it.
+
+0xAE9AC90C = ~z~Don't know who you're talking about.
+
+0xC05259DD = ~z~~sl:0.0:2.9~Supposed to be meeting a man called Angelo Bronte.~sl:~Any idea where I might find him?
+
+0xC0DD6D91 = ~z~I'm looking for a man called Bronte, have you heard of him?
+
+0xC309964F = ~z~Like I said, I can't help you.
+
+0xD4A48289 = ~z~Hey, friend, I'm new in town.
+
+0xD213FD60 = ~z~~sl:0.0:1.3~Not in here, that's for sure.~sl:0.4~If he was to drink anywhere, it would be the...
+

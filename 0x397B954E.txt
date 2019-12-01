@@ -1,0 +1,14 @@
+0x0C0F8C8B = ~z~~sl:0.0:2.6~down to speak to people you wanted to avoid so much~sl:~you moved to a different town to escape them.
+
+0x7F4F7309 = ~z~~sl:0.0:1.6~have the hounds of hell after ya,~sl:0.0:2.6~and all the angels of vengeance alongside them,~sl:~but a warm fire and you feel all is okay.
+
+0x19CC2804 = ~z~~sl:0.0:1.4~In our time...~sl:0.2~they've discovered a wire you can talk
+
+0x62E3BA32 = ~z~~sl:0.0:1.8~Still one of life's great pleasures,~sl:~sitting by the fire with friends.
+
+0x70EBD642 = ~z~~sl:0.0:1.5~Them that discovered the stuff~sl:0.0:2.5~must have thought they was gods among monkeys.~sl:0.2~They discovered fire!
+
+0x3689E17F = ~z~
+
+0x55291EBD = ~z~~sl:0.0:1.1~No matter what else happens,~sl:~nothing quite beats sitting by the fire. You can
+

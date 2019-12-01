@@ -1,0 +1,76 @@
+0x09B5B903 = ~z~
+
+0x0A3F4B5A = ~z~~sl:0.7~Here. For you.
+
+0x1B53E0DD = ~z~~sl:1.6:3.3:1~I understand... I'll just have to tough it out.
+
+0x2CBB02D4 = ~z~~sl:0.0:2.3:1~I wouldn't ask if I didn't need to...
+
+0x4CDCAA8D = ~z~I'll fire if you don't move it.
+
+0x4E2FAD35 = ~z~~sl:2.5~Best I don't talk.
+
+0x5AE39260 = ~z~~sl:0.0:1.0:1~Should've never...
+
+0x6F48AD71 = ~z~~sl:0.0:1.5~Can you take me to Lagras?~sl:0.2~Down in the swamps.
+
+0x7E43591F = ~z~It was that fish...
+
+0x9DF36543 = ~z~~sl:0.0:3.0:1~Please... it's getting worse.
+
+0x14A73151 = ~z~~sl:0.7:2.8:1~You will? Oh, thank you.
+
+0x21DED498 = ~z~Shouldn't'a eaten that fish...
+
+0x31FBDDD4 = ~z~Come say hello to our new friend!
+
+0x46BD2859 = ~z~I... I'll just go alone from here.
+
+0x56AD52F1 = ~z~
+
+0x73EAC26C = ~z~Y-you got a wagon? Horse?
+
+0x348D4255 = ~z~So? You... can you... you gonna help me?
+
+0x575A02B3 = ~z~Hey, hey... I don't feel so good...
+
+0x699EA73C = ~z~I really need some help here...
+
+0x848E99F0 = ~z~Off there.
+
+0x982B983D = ~z~~sl:0.8~You really thought I was sick?
+
+0x3004EBC1 = ~z~~sl:0.0:5.0~Home. Think I'm gonna go... go lie down now.~sl:0.4~Thank you...
+
+0x5412B7C0 = ~z~~sl:0.0:1.4:1~Let's see, let's see...
+
+0x7243D185 = ~z~Where do I sit?
+
+0x8536C7BF = ~z~Nah... but me'n mine are hungry.
+
+0x9676C6B3 = ~z~Uh, hey? I need some help here...
+
+0x1071467A = ~z~
+
+0x1321371D = ~z~Said it smelled funny, but the wife wouldn't listen.
+
+0xA41CA4D9 = ~z~~sl:1.1:1.1:1~Oh God...
+
+0xAE62C7CC = ~z~~sl:1.5:3.2:1~I don't feel right... not at all.
+
+0xC394ACBA = ~z~
+
+0xCB03400C = ~z~~sl:1.0~You're good for doing this.
+
+0xCEEB4C6F = ~z~~sl:0.0:0.6~Hey...~sl:1.1:2.6~I'm in a bad way. My stomach...~sl:1.4:1.6~Think you can give me a ride home?~sl:0.2~Ain't too far from here.
+
+0xCF26A042 = ~z~Oh, we're close now.
+
+0xD54DD02C = ~z~
+
+0xE7F97583 = ~z~
+
+0xF8D08B65 = ~z~Oh? Oh, hey... hey! You there! Hello?
+
+0xFEA8EFE8 = ~z~Oh... this don't feel good.
+

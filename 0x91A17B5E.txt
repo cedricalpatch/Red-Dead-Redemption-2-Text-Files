@@ -1,0 +1,92 @@
+0x000B9E69 = ~z~Well I'll learn.
+
+0x0643430D = ~z~Well I'll keep my eye out for another one.
+
+0x0818DEC4 = ~z~I wasn't raised by outlaws but life wasn't easy for me growing up.
+
+0x0A51B2F5 = ~z~I'd like to see that...
+
+0x0FCC25F7 = ~z~Remember the old days, Arthur? Me, you, Hosea, Dutch playing poker 'til all hours...
+
+0x1B8B85AD = ~z~You know, Strauss, I think you're tougher than you look.
+
+0x1C766F73 = ~z~Thank you, Mr. Morgan. The amount we move around, it's a useful thing to have.
+
+0x2A7FEE9F = ~z~We'll see about that.
+
+0x6B580C0B = ~z~Who said that?
+
+0x6D630FD9 = ~z~Well, we can't speak ill of the dead.
+
+0x8A171F42 = ~z~Well, of course, you have to pay some attention...
+
+0x8E11B5BD = ~z~I'm fine, Mr. Morgan. Though I could beat you with my eyes closed.
+
+0x9A97CEC9 = ~z~Let's see if you can stay awake for this, Reverend.
+
+0x43C3E4AC = ~z~Never seen you so mad. I doubt he fathered any children again.
+
+0x60B81EAC = ~z~I was doing the world a favor.
+
+0x79CDA8F6 = ~z~I think Davey Callander did.
+
+0x95EB6131 = ~z~Poker builds character, as the saying goes.
+
+0x317E4021 = ~z~Why do you always bring this up?
+
+0x466D1338 = ~z~You on Dutch's knee most of the time, from what I remember.
+
+0x967CCED3 = ~z~Why don't we up the ante here? Loser has to strip and jump in the water?
+
+0x987EBC11 = ~z~I also feel like the odds are especially stacked against me when I play with you, Strauss.
+
+0x6257CB0D = ~z~Long time ago now.
+
+0x8830C5BC = ~z~Nobody can say I've had a misspent youth.
+
+0x15637959 = ~z~I'll try to take that as a compliment.
+
+0xA96CB014 = ~z~Remember that feller you caught cheating in that bar in Fort Collins, Miss Grimshaw?
+
+0xAA15F283 = ~z~That's Abigail's dream, not mine. But maybe. We're supposed to be retiring, ain't we?
+
+0xAB886224 = ~z~Yeah, I bet you can name the last twenty cards.
+
+0xAC55A73F = ~z~I've no doubt.
+
+0xAF36FFD2 = ~z~By the way, has anybody seen my compass?
+
+0xB007CFB4 = ~z~Sure he'd say the same about you... well, maybe not the good company part.
+
+0xB012CFC6 = ~z~Let's hope Luck hasn't done the same.
+
+0xB51B7093 = ~z~Probably. Though mostly just so he could see my cards, I'm sure.
+
+0xBA8B43AA = ~z~I was pretty good at it.
+
+0xBBDF9616 = ~z~But you can't herd cattle for love, nor money.
+
+0xBDCD6B3F = ~z~An incorrigible reprobate, but always good company.
+
+0xBDD46B49 = ~z~Humor has unfortunately forsaken you, my child.
+
+0xD75C4D0F = ~z~So Marston, what's this I hear about you wanting to be a rancher one day?
+
+0xD2789499 = ~z~I wish Davey was still here... nobody loved a game of cards more than him.
+
+0xDE54DE8E = ~z~Nobody can say you suffer a crisis of confidence, John.
+
+0xE6F0D8F4 = ~z~It is a game of pure chance, Mr Morgan.
+
+0xE454173B = ~z~The young Austrian hustler.
+
+0xEB277833 = ~z~I have no intention of losing anyway.
+
+0xF1D9B246 = ~z~Robbing, robbing and selling, robbing and selling back to where it came from.
+
+0xF810A6A8 = ~z~Yes, I had that since my first day in the navy. Can't believe I've gone and lost it.
+
+0xF2909BA8 = ~z~I ain't. I didn't know you had one.
+
+0xF9229421 = ~z~Oh wait, Marston can't swim.
+

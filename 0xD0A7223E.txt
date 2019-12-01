@@ -1,0 +1,70 @@
+0x06CB3F0D = ~z~~sl:0.4~Okay, not far now...
+
+0x07205F17 = ~t~In Spanish: What the hell is wrong with you, anyway?
+
+0x1F0B82DD = ~z~That's real good of you...
+
+0x3BDFCD49 = ~t~In Spanish: We'll bury you with the horse!
+
+0x5EB05251 = ~z~Fine then...
+
+0x6F491C02 = ~t~In Spanish: Yes or no?
+
+0x7A5C241F = ~z~Come on, please.
+
+0x7FA4CB5D = ~z~Can you help me out here?
+
+0x8BCBB53D = ~t~~sl:1.3~In Spanish: If it's not one thing it's another...
+
+0x8C7B48B5 = ~t~In Spanish: Finally. Thanks.
+
+0x9D81D8A9 = ~z~Um, I don't much feel like talking, if that's alright...
+
+0x52A7459F = ~z~You there!
+
+0x68E03AD0 = ~t~In Spanish: I got lucky.
+
+0x91EE6FF0 = ~z~Please! My horse is dead.
+
+0x2998EABE = ~t~In Spanish: Barely five. Up and dead out of the blue.
+
+0x6067E120 = ~z~Hey? Hey!
+
+0x29845CD5 = ~z~~sl:0.0:3.9~Hey there... my horse... well, you can see.~sl:~Is there any way you could give me a ride?
+
+0x53073AF7 = ~t~In Spanish: Leave me alone if you won't help...
+
+0xA11E71A3 = ~z~Can you please help me? Or should I just start walking?
+
+0xAF507C46 = ~z~
+
+0xB2EF1540 = ~t~In Spanish: This day's bad enough...
+
+0xBFCEA0D6 = ~z~I appreciate it...
+
+0xBFDD1748 = ~t~In Spanish: Goddamn horse. Can't believe I spent money on you.
+
+0xC4671AFB = ~z~Not good enough though.
+
+0xC3801028 = ~z~Get down.
+
+0xCB291336 = ~z~Nice of you to offer...
+
+0xD547B3B7 = ~z~Off there, now.
+
+0xDDB7E44F = ~z~Could you make some room for me?
+
+0xE7B7802D = ~z~~sl:0.0:1.3~Where's uh...?~sl:0.5~Your horse?
+
+0xEA1424FF = ~z~Okay, I shall walk from here.
+
+0xF2CB155B = ~z~~sl:0.0:4.2~There's an old lookout tower on the mountain northeast of Emerald Ranch...~sl:~that's where I was headed.
+
+0xF5B239C8 = ~t~In Spanish: Couldn't die of old age? All the days...
+
+0xF7EF8768 = ~z~What a waste.
+
+0xF514CF1D = ~z~Don't make this harder than it needs to be...
+
+0xFBE931BD = ~z~Take this. Okay?
+

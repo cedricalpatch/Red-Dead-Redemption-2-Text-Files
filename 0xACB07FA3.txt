@@ -1,0 +1,210 @@
+0x00E2C583 = ~COLOR_ENEMY~Failed to launch ~1~ - ~2~
+
+0x031CA069 = Hold ~INPUT_REVEAL_HUD~ to view the scores
+
+0x03EA32F1 = Winner
+
+0x05746DA5 = Wait for ~COLOR_MP_OBJECTIVE~~1~~s~ to start
+
+0x064B2184 = 26th
+
+0x06AEB5E2 = Return to the ~COLOR_MP_OBJECTIVE~lobby area
+
+0x06E46267 = The Posse has been disbanded
+
+0x08ACC689 = an animal
+
+0x0A16A7F7 = 32nd
+
+0x0B499A0D = Wait for ~COLOR_FREEMODE_EVENT~~1~~s~ to start
+
+0x1AA2A6F2 = ~1~%
+
+0x1AFA559A = Caught
+
+0x1D7BD0A9 = Wait for ~COLOR_FREEMODE_EVENT~~1~~s~ to start
+
+0x2A7CB266 = You killed ~1~ for ~2~ points
+
+0x2A9FEA29 = 22nd
+
+0x2AFAEAE3 = 28th
+
+0x2F4DE3F9 = ~COLOR_FREEMODE_EVENT~~1~
+
+0x3FBB8C7C = 18th
+
+0x4BE4955E = The timer expired
+
+0x4C7B499C = ~1p~~s~ took the lead
+
+0x4E4ADCAC = Alive
+
+0x4F9C0E26 = There are not enough players
+
+0x4F79CBA9 = Score
+
+0x5E0AC91A = 12th
+
+0x6BB9B5C9 = Continue
+
+0x6BF5D45C = ~1~
+
+0x6D6DB716 = ~1~/~2~
+
+0x6DC3688B = 17th
+
+0x7E7DA152 = 2nd
+
+0x8B4DA3EF = ~1p~ has joined ~COLOR_FREEMODE_EVENT~~2~.~s~ You will also join as a member of their Posse.
+
+0x8BF024E8 = 11th
+
+0x8F4FA453 = ~1p~ has joined ~COLOR_FREEMODE_EVENT~~2~.~s~ You will also join as a member of their Posse.
+
+0x9C0AFB05 = a medium animal
+
+0x9C464F15 = Posse Versus Over
+
+0x9D83C296 = Compete with other players in ~COLOR_FREEMODE_EVENT~Free Roam Events~s~ to earn cash, Gold, and XP.
+
+0x9D4225C8 = Get to the ~COLOR_MP_OBJECTIVE~play area
+
+0x11E343DB = a small animal
+
+0x12ED38F6 = ~COLOR_FREEMODE_EVENT~~1~ ~s~will begin shortly.
+
+0x22CE52A2 = 15th
+
+0x28EF84D4 = Deaths
+
+0x29E382E1 = ~COLOR_FREEMODE_EVENT~~1~ ~s~will begin shortly.
+
+0x43A6F1B8 = Lobby Area
+
+0x64FADEE2 = 25th
+
+0x70BCAF86 = ~INPUT_GAME_MENU_RIGHT~ Fast Travel to ~COLOR_MP_OBJECTIVE~~1~
+
+0x70C405DF = 3rd
+
+0x87A333A5 = 7th
+
+0x94F9B713 = 10th
+
+0x98DE36BD = ~1p~ killed ~2~ for ~3~ point
+
+0x623F22D0 = There are not enough Posses
+
+0x681E2F2C = a rare animal
+
+0x796C9738 = 6th
+
+0x807D491F = You took the lead
+
+0x836A3BFB = ~1~ Request
+
+0x883CB5A8 = Hooked
+
+0x960E67BF = ~1W~
+
+0x3525F751 = 16th
+
+0x4399F588 = Scroll
+
+0x4761B31B = 1st
+
+0x9226F0CE = ~1~ Place
+
+0x9262DD62 = ~1~ Over
+
+0x16343DC6 = Results
+
+0x32306D85 = ~1p~
+
+0x88951E32 = 14th
+
+0x811375DA = a large animal
+
+0x3853872E = Weight
+
+0x9189421D = Fast Travel
+
+0x57557576 = You score individually during ~COLOR_FREEMODE_EVENT~~1~~s~ and receive your own rewards. ~COLOR_POSSE_ALLY~Posse Member~s~ scores are separate.
+
+0x78230536 = 20th
+
+0x80661262 = ~1p~ killed ~2~ for ~3~ points
+
+0xA5AC4220 = Join Free Roam Event
+
+0xA61A9480 = Compete with other players in ~COLOR_MP_OBJECTIVE~Posse Versus~s~ to earn cash and XP.
+
+0xA77F8332 = Return to the ~COLOR_MP_OBJECTIVE~play area
+
+0xA9235CBC = Goods
+
+0xABB46C58 = 29th
+
+0xB0738545 = 9th
+
+0xB2E20B18 = You killed ~1~ for ~2~ point
+
+0xB45F7C8E = 30th
+
+0xB169D547 = Your score must surpass higher-scoring players to take their place on the scoreboard.
+
+0xB856FDB5 = 13th
+
+0xBB56EC5C = ~1p~ killed a ~COLOR_MP_OBJECTIVE~~2~~s~
+
+0xBCD740AC = Wait on the ~COLOR_FREEMODE_EVENT~train
+
+0xBDD576B9 = Tap ~INPUT_REVEAL_HUD~ to show the mini scoreboard or hold ~INPUT_SELECT_RADAR_MODE~ to show the full scoreboard.
+
+0xBF089300 = 24th
+
+0xC8C5EFEE = DNF
+
+0xC49C2940 = Total
+
+0xC84B816A = Kills
+
+0xC1327FB9 = ~1m~
+
+0xCDD7309D = 23rd
+
+0xCE817332 = Name
+
+0xD3E94C28 = 5th
+
+0xD7F9EC7A = Animal Kills
+
+0xD250FAA9 = Increase your score to take ~1p~'s~s~ position on the scoreboard.
+
+0xDD4CDEF7 = 8th
+
+0xDF42F47B = Get to the ~COLOR_FREEMODE_EVENT~play area
+
+0xE8A0B248 = Play Area
+
+0xE9CAFD6D = Dead
+
+0xE23FE8D5 = 4th
+
+0xE1618BC8 = ~COLOR_ENEMY~Posse~s~ temporarily disbanded
+
+0xE50844A7 = Found
+
+0xF83C8567 = 27th
+
+0xF90AED23 = Your score is displayed to the left of the timer. To the right of the timer is the top player, or second-place player if you have the top score.
+
+0xF959879D = 21st
+
+0xF7270218 = 31st
+
+0xFDAD8865 = 19th
+
+0xFE26237F = Continue (~1~/~2~)
+

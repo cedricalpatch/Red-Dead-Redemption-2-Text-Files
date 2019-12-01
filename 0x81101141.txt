@@ -1,0 +1,26 @@
+0x08E885F7 = ~z~Don't seem quite right.
+
+0x4FEA51ED = ~z~Guess we robbed too many powerful folk.
+
+0x6C5BCCDC = ~z~~sl:0.0:2.0~What happened to the notion of states' rights?~sl:0.6~Of boundaries?
+
+0x7F77F314 = ~z~I mean, I thought this place was a republic.
+
+0x19C927B8 = ~z~Transcontinental mercenaries pursuing us?
+
+0x51AE1781 = ~z~So it seems.
+
+0x821E3658 = ~z~Well, they all seemed to deserve it at the time.
+
+0x63153A4F = ~z~Pinkertons, eh, John?
+
+0x74851B26 = ~z~Can't argue with that.
+
+0xC8C244B0 = ~z~What do you think, Arthur?
+
+0xEB0A093F = ~z~~sl:0.0:1.4~Well, I guess we did.~sl:0.4~But they all seemed to deserve it at the time.
+
+0xF47A9B0F = ~z~No, I know it.
+
+0xFB03A932 = ~z~Seems like we robbed too many powerful folk.
+

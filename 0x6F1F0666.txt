@@ -1,0 +1,162 @@
+0x0140C3E4 = ~z~Life is heat sir... life is heat... never forget that! Life is heat...
+
+0x03D0C5C9 = ~z~Bunch of land of people who didn't like Europe too much... quick, write a story!
+
+0x0C71B120 = ~z~Me neither, me neither... so I gave up looking.
+
+0x0D00D826 = ~z~
+
+0x1BC9F5B8 = ~z~Be well now sir... be well.
+
+0x1CA75F89 = ~z~Life is warmth sir, life is warmth! I've told you that, you know.
+
+0x2A25EA82 = ~z~Go, my friend. Find your own path to light and peace.
+
+0x2B84FD44 = ~z~How do you even survive out here? What do you eat? Drink?
+
+0x2B96D3AE = ~z~This... she... she is our light. Live by her!
+
+0x2C4496AD = ~z~Okay. Good for you.
+
+0x3A2FDF41 = ~z~Fantastic, isn't it? Be well, sir!
+
+0x3B296B33 = ~z~If this isn't paradise, then truly, I don't know what is... really I don't.
+
+0x3BE19F95 = ~z~Oh, no... you're too tough to leave people like me alone.
+
+0x4BA94E38 = ~z~Seems kind of an angry god to me.
+
+0x4C0DD642 = ~z~You know, America has always needed myths. America needs stories.
+
+0x4F1A9319 = ~z~Be well, friend.
+
+0x4F20AA0E = ~z~I'm not causing you any trouble.
+
+0x4F749B89 = ~z~Err... greed? Stupidity?
+
+0x5DD73092 = ~z~
+
+0x5F463FBA = ~z~Brutal? This is perfect. Hot sun and smiles...
+
+0x6F261531 = ~z~Relax my friend. This is healthy, nutritious, life giving.
+
+0x12FDD97C = ~z~Me too... me too!
+
+0x39B4AA4F = ~z~That... that orb... that glowing orb, that orb is our real god, and we should worship it as such.
+
+0x44D5BD2F = ~z~Wandering.
+
+0x57A8C775 = ~z~That is all we need. The rest is man turned insane!
+
+0x63E84470 = ~z~No idea...
+
+0x68F2EA09 = ~z~I have all I need here. Up there!
+
+0x74C7E62F = ~z~Artificial light. It's a curse!
+
+0x80E638B1 = ~z~Don't be fractious.
+
+0x90C9B9B6 = ~z~Not really.
+
+0x92A8DC36 = ~z~Let the sun warm your bones and warm your soul. Be happy.
+
+0x93BB5AF9 = ~z~Helios... nothing else matters, all else is lies!
+
+0x95BF207D = ~z~That's what we got last year. That was hot!
+
+0x118D6142 = ~z~I don't need myths. I don't need a story. I have the sun... the sun is my story.
+
+0x414D34BA = ~z~
+
+0x468F4F0A = ~z~You enjoying the weather?
+
+0x524F2BC8 = ~z~Now, please... if you could leave Helios and I to our wonderful symbiosis...
+
+0x962FE344 = ~z~You're fighting a war you cannot win. Embrace the sun.
+
+0x996E82A4 = ~z~My god is shining in the heavens... life is heat and my god bestows heat and goodness.
+
+0x1204CAB3 = ~z~Now, I must be alone to appreciate this in all its glory...
+
+0x5505EBF7 = ~z~Oh, hello... It's you again.
+
+0x9932AF04 = ~z~Have a guess.
+
+0x61253EEA = ~z~The fake stuff, well... well, every stupid thing we have done has been done under artificial light.
+
+0x72520AC9 = ~z~Yeah.
+
+0x830911E2 = ~z~I mean, isn't this desert big enough for both of us to enjoy it in peace?
+
+0x88908620 = ~z~Hot? Why this isn't hot. This is warm. Hot is a hundred thirty in the shade.
+
+0xA8B92139 = ~z~Thank you, thank you, thank you!
+
+0xA9CFFB70 = ~z~Well, I've had enough. I'm not talking to you anymore!
+
+0xA185CEDB = ~z~Listen, my friend... please don't try to kill me again... it's a little annoying.
+
+0xA2885D33 = ~z~Hey, you found what you're looking for yet?
+
+0xAA1F50DD = ~z~For mankind's folly, of course.
+
+0xAA5E883F = ~z~What you wandering for?
+
+0xB10798F3 = ~z~Now, I hope this time, you're gonna keep your temper, sir.
+
+0xB984347C = ~z~Oh... how you doing? Isn't it marvelous... isn't it amazing, simply wonderful, no god awful clouds!
+
+0xB8251686 = ~z~Eat? Drink?
+
+0xBB5DEBBA = ~z~It's a little hot for me.
+
+0xBBC8F430 = ~z~Blame for what?
+
+0xBDC64B53 = ~z~This is a beautiful universe we have been given.
+
+0xC2CA3C78 = ~z~The beautiful weather can do strange things to a man.
+
+0xC128B5D3 = ~z~No idea...
+
+0xC707B44B = ~z~I've got the sun, the sun is my nourishment, it's everything... at least for those of us who see properly.
+
+0xC842D1F9 = ~z~Uh... it's a bit hot for me.
+
+0xCA0C523A = ~z~I blame Prometheus, I really do!
+
+0xCDD1CF25 = ~z~Me too... me too!
+
+0xCE7C1996 = ~z~You know what I blame, sir?
+
+0xD00BEFDE = ~z~Thank you... thank you, thank you!
+
+0xD5C051BC = ~z~Well, I must be blind then.
+
+0xDC426C06 = ~z~I'll... yeah I'll see you around, enjoy the sun! It's the one true God, you know.
+
+0xDD59719A = ~z~What are you, a goddamn lizard?
+
+0xDE33FDDB = ~z~Nonsense! We were made for this heat, made for it. Beautiful...
+
+0xE5DBC2C0 = ~z~Well, if you wouldn't mind leaving me to enjoy this in peace.
+
+0xE49B6F72 = ~z~Very sorry to hear that.
+
+0xE787B9F6 = ~z~Helios is bestowing his munificence upon us once again!
+
+0xE7470CB6 = ~z~I live for it. I'm more like a plant than a man!
+
+0xEBF5995E = ~z~
+
+0xEC6B8FFB = ~z~Yoo hoo! Be well there down there... enjoy the weather!
+
+0xF413DD09 = ~z~This is... mild. Temperate. Delightful.
+
+0xF508A839 = ~z~Be well now, friend... stay warm.
+
+0xF695EE5B = ~z~It's pretty brutal.
+
+0xF81223A5 = ~z~Hey, what you doing friend?
+
+0xFAC08DBE = ~z~But, then I realized... it doesn't matter so very much!
+

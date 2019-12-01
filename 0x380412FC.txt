@@ -1,0 +1,38 @@
+0x0116010F = ~z~She's what I think about when I wake up.
+
+0x07DE6FA5 = ~z~~sl:0.0:0.7~I know we all of us~sl:0.1~seen more death than life these past few months but...
+
+0x1B6896C9 = ~z~~sl:0.0:1.6~for once in my wretched life,~sl:0.1~do my best.
+
+0x2AD03590 = ~z~She's been gone many years.
+
+0x3CC35976 = ~z~~sl:0.0:0.8~A foolish one,~sl:0.1~I can't respect any more than I can respect myself.
+
+0x3E0D5C12 = ~z~Well, at least for now.
+
+0x4D7DFAEB = ~z~~sl:0.0:1.5~What kind of a judge would...~sl:0.3~save me and take her?
+
+0x24C6C870 = ~z~~sl:0.0:1.0~Confuses me...~sl:1.4~confuses me no end.
+
+0x134EA580 = ~z~~sl:0.0:1.1~Since she was...~sl:0.4~taken from me, I miss her every day.
+
+0x181E902D = ~z~~sl:0.0:3.6~All them years I was given and she was not,~sl:0.1~and we're expected to believe in judgement?
+
+0x202A1F08 = ~z~~sl:0.0:1.0~well...~sl:1.5~sometimes the unfairness of it all confuses me.
+
+0x370C6CFB = ~z~And what I'm still thinking about when I go to sleep.
+
+0x504C8090 = ~z~~sl:0.0:1.3~And then she dies...~sl:1.4~and I live on.
+
+0x8477E7AE = ~z~
+
+0x80807FE2 = ~z~~sl:0.0:2.0:1~You know, I miss my wife.
+
+0xCA6A93B9 = ~z~~sl:0.0:2.0~could be given someone so perfect,~sl:0.1~so beautiful to take care of...
+
+0xD1450273 = ~z~~sl:0.0:2.9~Forgive me for being so maudlin but...~sl:0.7~it's a fact.
+
+0xDBA93636 = ~z~How a wretched sinner like me...
+
+0xE38AA6FE = ~z~I miss her so!
+

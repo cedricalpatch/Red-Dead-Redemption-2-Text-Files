@@ -1,0 +1,36 @@
+0x0E4247F9 = ~z~Hey, O'Driscoll! Won't you come here and sit down.
+
+0x2AF28171 = ~z~Okay...
+
+0x4D2FC5EB = ~z~No thank you, sir.
+
+0x5D3565F6 = ~z~Have a goddamn drink!
+
+0x6C200F1E = ~z~What do you want, Morgan?
+
+0x6D499179 = ~z~Oh... shit.
+
+0x13F1D36C = ~z~Alright, will you take it easy?
+
+0x27A97C89 = ~z~With the horses? Wait a minute, come on back here! Come on back here, you hear?
+
+0x81A6BA33 = ~z~Hey no, no, no where-where are you going? Oh no, no don't take off!
+
+0x157FD836 = ~z~Shit!
+
+0x440E354E = ~z~Well, have another drink.
+
+0x2984FE92 = ~z~I'm just messing... so, uh, what are you... I mean, where...
+
+0x28967CA1 = ~z~I ain't no O'Driscoll... I swear, I proved myself.
+
+0x3225917D = ~z~I can't right now... sir, I... I gotta go help with the horses. Sorry, excuse me.
+
+0xC7CC4675 = ~z~Well, then let fellers have a drink in peace.
+
+0xCE704A18 = ~z~
+
+0xDB8F6DFB = ~z~Nothing.
+
+0xF7471A17 = ~z~You wanna have a drink?
+

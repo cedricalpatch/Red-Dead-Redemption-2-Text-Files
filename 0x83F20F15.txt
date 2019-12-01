@@ -1,0 +1,36 @@
+0x04EDA9CA = ~z~Alright, I'll gather your bounty. Toss 'em in a cell if you don't mind.
+
+0x8DB5E9D0 = ~z~~sl:0.4:2.2~Looks like I owe you some money.~sl:0.0:1.7~Get the body out of here...~sl:~and I'll arrange you some cash.
+
+0x16C84D7F = ~z~Put 'em in an open cell and we'll get you paid up.
+
+0x27D77701 = ~z~~sl:0.1~That's fine work. I can take it from here.
+
+0x66FE25B6 = ~z~~sl:1.1:2.1~Well, that's simple enough.~sl:0.0~Here's your due and nothing less.
+
+0x99FADB52 = ~z~~sl:0.0:4.9~That's our bounty... and all is right in the world...~sl:~put them in a cell for me.
+
+0x7584C2C3 = ~z~~sl:0.8:3.1~They lived violently and they died violently...~sl:~Here's what we promised you.
+
+0x152975A6 = ~z~I'll believe you'll find that figure to your liking.
+
+0x971985F0 = ~z~~sl:0.6:2.9~Well, I guess that draws a line under that one.~sl:~Here's what we're paying for corpses.
+
+0xAC29A6BB = ~z~~sl:0.5:2.7~From the looks of it, they've learned their lesson.~sl:0.0~Leave them outside, I'll get you your payment.
+
+0xAC417FDF = ~z~~sl:0.0:3.5~Put them in a cell. The time for running is over.~sl:0.2~The time for punishment has begun.
+
+0xBCA44499 = ~z~~sl:0.0:2.6~You can count it, or you can trust me.~sl:~It's all there.
+
+0xC19FAA93 = ~z~~sl:0.1~You did good with this. Tumbleweed thanks you.
+
+0xD651FB0B = ~z~~sl:0.3:2.5~Justice can be terrifying, can't it?~sl:0.6:2.2~Put the body out for the coyotes...~sl:~and I'll get your money together.
+
+0xD3784E44 = ~z~People'll be real excited to see 'em go. Thanks.
+
+0xDD3A61C8 = ~z~~sl:0.0:2.2~Always better when they're alive.~sl:~Makes it look more... ethical, you see.
+
+0xDEBB5D66 = ~z~Throw 'em in a cell, I'll get your money.
+
+0xE5709635 = ~z~That's the bounty, as agreed.
+

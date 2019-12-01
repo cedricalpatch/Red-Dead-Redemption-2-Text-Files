@@ -1,0 +1,320 @@
+0x01FCF9FC = ~z~What are you doing?
+
+0x023CF13B = ~z~Oh, shit!
+
+0x02CA0333 = ~z~I'll meet you at the bridge outside Saint Denis.
+
+0x02ED4A89 = ~z~you're...
+
+0x035BFE26 = ~z~let me go place a bet.
+
+0x0479068D = ~z~Just have a few errands to run...
+
+0x0516829F = ~z~Abigail's still alive too, only...
+
+0x05FB66BD = ~z~but you also made some fellers mighty unhappy.
+
+0x08F51A0D = ~z~a-am a deep thinker.
+
+0x098B069A = ~z~on three.
+
+0x09DE807E = ~z~Oh, I got... I got a little drunk...
+
+0x0A29336B = ~z~Okay.
+
+0x0C35F587 = ~z~I'm leaving now...
+
+0x0E650993 = ~z~Get up.
+
+0x0F46DB05 = ~z~if I overdo it, I get a relapse.
+
+0x1B3DBE9E = ~z~I...
+
+0x1EA2AA0E = ~z~It's like rooming with the King James Bible.
+
+0x1EA71810 = ~z~Lone wolf, whoa.
+
+0x1EF6BAEC = ~z~So it goes.
+
+0x2ADB922E = ~z~Working hard?
+
+0x2D8A48FD = ~z~Charles Smith is alive, I reckon.
+
+0x2F56E6D0 = ~z~Come on.
+
+0x2F744BA9 = ~z~Oh, no wait, what did I have to tell you...
+
+0x3B3E6465 = ~z~I-I reckon.
+
+0x3B56D16F = ~z~better get you the hell outta here.
+
+0x3B77D1B5 = ~z~Here's your share, partner.
+
+0x3C0A64D5 = ~z~I'm getting up.
+
+0x3D3A71E2 = ~z~Sure.
+
+0x4BA87216 = ~z~So it goes.
+
+0x4D5F7580 = ~z~Come on, lone wolf...
+
+0x4FE31D64 = ~z~Okay. I gotta grab my baggage.
+
+0x4FE21835 = ~z~she left me.
+
+0x5A5461F0 = ~z~Folks they love a surprise, but they hate a massacre, and you are a killer.
+
+0x5B60345E = ~z~Okay boys...
+
+0x5C137CD4 = ~z~He don't know the half of it.
+
+0x5D1976A9 = ~z~I-it's the lumbago...
+
+0x5F9F2D2A = ~z~Charles Smith alive...
+
+0x5F37B1F2 = ~z~I've only been here an hour.
+
+0x6C00D4FF = ~z~But, John, I haven't seen you two in years.
+
+0x6E505A3E = ~z~We got a little place up past Blackwater...
+
+0x6F0F0611 = ~z~I just got some stuff delivered.
+
+0x7A9468AB = ~z~Come over here.
+
+0x7E21F9E1 = ~z~I booked a steamer heading up river.
+
+0x8A4C8D0D = ~z~All of this.
+
+0x8E1813A0 = ~z~Come on.
+
+0x8F8A1518 = ~z~I don't know...
+
+0x8F615B38 = ~z~Oh, you can be so testy.
+
+0x8F391822 = ~z~A little wager on the wolf here?
+
+0x8F521850 = ~z~but the odds just got real good.
+
+0x8FE43EE3 = ~z~Uhh...
+
+0x9B3F2EF2 = ~z~Okay. Funny thing...
+
+0x9C298ABB = ~z~Yeah, I'll ride on my own.
+
+0x9D27B053 = ~z~I'm alive.
+
+0x9E3CDB94 = ~z~What?
+
+0x9EF698B5 = ~z~Made my month...
+
+0x9FCEB70D = ~z~Man, I thought you were dead...
+
+0x15EA83C6 = ~z~Wait, you know the way?
+
+0x17F8A375 = ~z~you go left, I go right...
+
+0x28EC3FC1 = ~z~really?
+
+0x41AFBFD6 = ~z~It's very serious.
+
+0x44AE6E7D = ~z~Okay.
+
+0x50CE151F = ~z~Hey.
+
+0x53B71FE3 = ~z~On who?
+
+0x54ABC50A = ~z~You could eat this guy for dinner. Just don't eat him for breakfast... don't eat him at all.
+
+0x57A61D48 = ~z~and by the sound of it not doing too good, neither.
+
+0x77C92C08 = ~z~Guess you're my proof I'll never quite outrun my sins.
+
+0x77F21192 = ~z~Oh goddamn, Uncle.
+
+0x79B37064 = ~z~I know, but right now...
+
+0x81C88112 = ~z~Where?
+
+0x97C6077F = ~z~You coming with us, JM?
+
+0x100B780C = ~z~Kind of...
+
+0x156DEF8A = ~z~I'm alive...
+
+0x196FEF18 = ~z~Kind of... been getting shot at.
+
+0x266B1184 = ~z~and you are a killer...
+
+0x311CBCFB = ~z~Hey!
+
+0x327D5C68 = ~z~Throwing fights?
+
+0x382EB50B = ~z~we both know what you gotta do.
+
+0x390C6FB7 = ~z~What are you doing?
+
+0x467CAC15 = ~z~Those are Guido Martelli's men.
+
+0x467E4973 = ~z~What is it, constipation?
+
+0x480D8620 = ~z~I'm throwing fights for a few dollars.
+
+0x617BBB6C = ~z~On myself, to win.
+
+0x664A54BA = ~z~You're useless.
+
+0x989DEDA9 = ~z~You got so sanctimonious in your old age...
+
+0x2624C9E8 = ~z~That's why I was pretending to throw the fight.
+
+0x2867BD90 = ~z~I went into town...
+
+0x3367CBF0 = ~z~~sl:1.0~Hold on.
+
+0x4877EE0A = ~z~I'm alive... so are you.
+
+0x7057B8A3 = ~z~it's innate...
+
+0x8423F633 = ~z~Charles...
+
+0x8879FEEF = ~z~Unless I dreamed it all...
+
+0x15461B0F = ~z~
+
+0x35765E70 = ~z~he used to work for Angelo Bronte.
+
+0x82315C56 = ~z~Of course...
+
+0x90799DF0 = ~z~my sense is you just need to lie low.
+
+0x554349A2 = ~z~Who?
+
+0x621330F2 = ~z~no wonder she left you.
+
+0x622100B8 = ~z~Get up, or get out.
+
+0x630161B5 = ~z~Listen, pal. This time, this time is not your time, but take your time.
+
+0x848786AC = ~z~in the high country.
+
+0x4157475C = ~z~I'm leaving now.
+
+0x66804571 = ~z~Excuse me, I'd like to place a bet.
+
+0xA3D21F6F = ~z~You boys been off getting up to no good?
+
+0xA4AA4651 = ~z~Sure.
+
+0xA19BD3B6 = ~z~Oh, fuck!
+
+0xA34A82BB = ~z~
+
+0xA94D2A8D = ~z~Come on, let's head for home.
+
+0xA187BCBF = ~z~What about you, sir?
+
+0xA810B544 = ~z~What?
+
+0xAC0EF738 = ~z~Careful.
+
+0xACD7CFB7 = ~z~K-kind of... just...
+
+0xACE0CFC5 = ~z~Uncle thought maybe...
+
+0xAE7C50A6 = ~z~~sl:0.0:2.1:1~This better not be no game, old man.
+
+0xAEA754BE = ~z~Sure...
+
+0xAF3A56E8 = ~z~Lone Wolf.
+
+0xB1F2C0EA = ~z~He don't know the half of it.
+
+0xB8CC998B = ~z~Over on the pier.
+
+0xB36AE3D2 = ~z~If we'd just made the bet I said...
+
+0xB44D26B6 = ~z~If I overdo it, I'll get a relapse. It's...
+
+0xB169CF9A = ~z~We gotta go to Saint Denis.
+
+0xB399DAB9 = ~z~He, err...
+
+0xBA20935B = ~z~Why?
+
+0xBAA36B4A = ~z~you was in some sort of trouble.
+
+0xBAB66B74 = ~z~I don't know... I...
+
+0xBCAC514B = ~z~Well, they weren't very good shots.
+
+0xBCDBF22B = ~z~How much?
+
+0xBF9FF2ED = ~z~~sl:0.0:3.3~You know, unlike you, I know the value of brotherhood,~sl:0.1~and it ain't something I joke about.
+
+0xC0A90976 = ~z~Be quick.
+
+0xC86F06E1 = ~z~So is he.
+
+0xC3557A2C = ~z~Three!
+
+0xC9150F26 = ~z~So you keen on staying round here?~n~~m~ we should've made, we'd have...
+
+0xCECE1507 = ~z~And you like that?
+
+0xCEE0F5B4 = ~z~been getting shot at.
+
+0xD1B8DF97 = ~z~You boys been off getting up to no good?
+
+0xD3CE2498 = ~z~Or heading off with me and Uncle?~n~~m~money in our pocket.
+
+0xD63CA27C = ~z~That's Uncle?
+
+0xD68AE65C = ~z~Jesus...
+
+0xD82A0B1B = ~z~Wow, made my month...
+
+0xD253F70F = ~z~Innate sense of direction.
+
+0xD843AD87 = ~z~but you also made some fellers mighty unhappy.
+
+0xDB50FB51 = ~z~so are you.
+
+0xDD839823 = ~z~We both know what you gotta do.
+
+0xDF9183D2 = ~z~John?
+
+0xE2B1A27F = ~z~John... you're... you're...
+
+0xE5E9C446 = ~z~I pegged you for the favorite...
+
+0xE98E4A87 = ~z~Of course not.
+
+0xE437C21E = ~z~Real redskin brave...
+
+0xEC4D94C0 = ~z~There's Uncle...
+
+0xECBD567A = ~z~Next time, bet on your friend, mister.
+
+0xEDD97ACC = ~z~Over on the pier.
+
+0xEE384FF1 = ~z~Well...
+
+0xEFCC1DB3 = ~z~Working hard?
+
+0xF1AE5ACB = ~z~So...
+
+0xF5DEBE24 = ~z~my sense of direction.
+
+0xF46A5596 = ~z~Well, we gotta go.
+
+0xF157275D = ~z~You're...
+
+0xFB87EE7A = ~z~So?
+
+0xFB979648 = ~z~I just got some stuff delivered.
+
+0xFC30EBE2 = ~z~What now?
+
+0xFD78B90C = ~z~~sl:1.2~I-it's the lumbago...
+

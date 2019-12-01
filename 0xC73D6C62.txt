@@ -1,0 +1,194 @@
+0x01446121 = ~t~In Polish: My horse, my horse!
+
+0x062EC287 = ~t~In Polish: You have taken enough, you savage. Go. Go.
+
+0x0B74D734 = ~z~Money.
+
+0x0DE90032 = ~t~In Polish: Excuse me. What? I don't understand.
+
+0x1C576281 = ~t~In Polish: Stop. I'm spent.
+
+0x2CBD0B98 = ~z~It's good... it's good... valuable. It's... it's Warszawa, yes.
+
+0x2D06B763 = ~t~In Polish: Give me time, I will get the money
+
+0x2EDC9E03 = ~z~Nah. I don't speak German neither.
+
+0x2FC81F7E = ~t~In Polish: My ring, no, no!
+
+0x3A16264A = ~z~I have your things? Okay? I have... anything in here, or out there?
+
+0x3C56D498 = ~z~No. No. Nie!
+
+0x3D3A3ABE = ~z~I'm here for money.
+
+0x3F38FE0F = ~t~In Polish: Stop! Stop!
+
+0x4D7CD094 = ~z~Goddamn it. You don't speak English, do you?
+
+0x4D769A8A = ~t~In Polish: Stop! Stop! Who's there?
+
+0x4E14F814 = ~z~
+
+0x5F6E7477 = ~z~Ah... Leopold Strauss. Nie mam pieniedzy.
+
+0x6FC02F2F = ~t~In Polish: Don't do this. Have nothing.
+
+0x7D68EF95 = ~t~In Polish: You have taken enough, you savage. Go. Go.
+
+0x7DEDCB8A = ~z~Where is the money? Gold? Dollars?
+
+0x8ABF55C7 = ~z~that you borrowed from a German man.
+
+0x9A96F6E2 = ~z~Where is it?
+
+0x9ACF5072 = ~t~In Polish: Please. Don't shoot, take.
+
+0x9B05CF47 = ~z~No, still don't understand you.
+
+0x19B773B9 = ~z~That you borrowed from Leopold Strauss.
+
+0x21BE1F67 = ~z~
+
+0x43A1FB9A = ~z~You speak English?
+
+0x49E69B30 = ~t~In Polish: Please. Don't shoot, take.
+
+0x51E4E57F = ~z~No, no...
+
+0x54E685B7 = ~t~In Polish: No! No!
+
+0x56FAEE3F = ~z~Aha, a German.
+
+0x66A5A935 = ~t~In Polish: Stop!
+
+0x68DA17EC = ~z~I need. Must eat. Prosze.
+
+0x70FD6197 = ~t~In Polish: Who's there?
+
+0x75ACB191 = ~t~In Polish: Don't do this...
+
+0x85AF40F8 = ~z~I am here on behalf of Leopold Strauss. Where's our money?
+
+0x89E3557B = ~z~We've all had a bad winter, pal.
+
+0x123EB961 = ~z~Goddamn it...
+
+0x251EFC58 = ~z~Yes...
+
+0x355F5F15 = ~z~
+
+0x400D41D0 = ~z~Now, where is it?
+
+0x416CDF6E = ~t~In Polish:  Curse you, Leopold Strauss, you bastard!
+
+0x434F1B10 = ~z~Don't even speak English...
+
+0x532C480A = ~z~Yes, yes, yes, yes.
+
+0x589A70CA = ~z~Just keep quiet.
+
+0x748B1740 = ~z~Silesia.
+
+0x760E8559 = ~z~Now, you remember where you're keeping that silver?
+
+0x850C6602 = ~z~
+
+0x975EE457 = ~t~In Polish: Who are you?
+
+0x989EDF5F = ~z~Knock, knock, Mr. Wrobel.
+
+0x4818BF48 = ~t~In Polish: Excuse me. Whatever are you doing in my house?
+
+0x6582ECB7 = ~z~No, no, no, no.
+
+0x7375C2D5 = ~z~
+
+0x7590FF93 = ~z~Longer I look, the madder I get.
+
+0x7811B1D8 = ~z~It's very bad winter.
+
+0x8844A9C5 = ~t~In Polish: Give me time, I will get the money.
+
+0x9812C496 = ~z~Better be something somewhere.
+
+0x25845E62 = ~z~Knock knock, Mr. Wrobel.
+
+0x60668A89 = ~z~Move aside.
+
+0x65388ABA = ~t~In German: Good sir, we will converse in the language of the Empire.
+
+0x420843FE = ~z~What do we have here...
+
+0x6956462B = ~t~In Polish: Should never trust Prussians, or Americans for that matter.
+
+0x74742931 = ~z~I'm here for money...
+
+0xA5D46019 = ~z~You must'a come here with something?
+
+0xA5FF7A20 = ~t~In Polish: Excuse me. Whatever are you doing in my house?
+
+0xA4610A76 = ~z~Well no, have nothing.
+
+0xAB828921 = ~z~No have money... but... but I have this...
+
+0xAE6A1D2C = ~z~Upper Silesia.~n~~m~Yeah, good for you.
+
+0xAE354AB5 = ~z~Well, I think we're about done in here. Anything outside that might go towards debt?
+
+0xB024003F = ~t~In Polish: Excuse me. Whatever are you doing in my house?
+
+0xB4E397E8 = ~t~In Polish: Fifteen plus, give or take.
+
+0xB85BCCA0 = ~t~In Polish: I'm spent.
+
+0xB611ADD7 = ~z~Aha... yeah.
+
+0xB755B866 = ~t~In Polish: Excuse me. What? I don't understand.
+
+0xC0DCC36D = ~z~So it's time to pay.
+
+0xC2D533CB = ~t~In Polish: Oh no, no, no.
+
+0xC9E55D85 = ~z~What you got behind there?
+
+0xC59B6A99 = ~z~Not good yet.
+
+0xCA8C035E = ~z~Let's just have a look, shall we?
+
+0xCFA44D69 = ~z~You speak English?
+
+0xCFFBD62E = ~t~In Polish: I'm ruined, ruined.
+
+0xD74C0DFA = ~z~Very valuable. Good?
+
+0xD74C5AFA = ~t~In Polish: You leave me with nothing!
+
+0xD337E5F7 = ~t~In Polish: Animal.
+
+0xDCC5A7D1 = ~z~No. Fair and square. Fair and square.
+
+0xDD5AE8D6 = ~z~Me...
+
+0xDE456EA6 = ~z~Ah, no, no, no, no... please no...
+
+0xDF2CB2B1 = ~z~English?
+
+0xDF6D9E64 = ~z~Okay. That should about cover things.
+
+0xE5F10C2D = ~z~Aha... aha... err...
+
+0xE9F10206 = ~z~Goddammit.
+
+0xE76CF8AD = ~z~God damn it, you have a debt to Herr Strauss. Pay up!
+
+0xE52431C1 = ~t~In Polish:  Curse you, Leopold Strauss, you bastard!
+
+0xEDB249AE = ~t~In Polish: Animal.
+
+0xF9DCA1DD = ~z~English?
+
+0xF38AC5AE = ~t~In Polish: You leave me with nothing.
+
+0xFCDCBB6C = ~z~Leopold Strauss.
+

@@ -1,0 +1,148 @@
+0x0A09A41B = ~z~Well, you're not here to turn yourself in... So I conclude you're a bounty hunter. May I direct you to the poster on the wall there?
+
+0x0A1A55AE = ~z~Don't make assumptions about me, friend.
+
+0x0C894D51 = ~z~You want someone to clean up these streets for you? Point me to the bounties you got outstanding.
+
+0x1C600A77 = ~z~There's bounty poster up on the wall there,
+
+0x1CA8C959 = ~z~If you're a bounty chaser, take a poster. If you're anything else, take a seat.
+
+0x1D3DEEBA = ~z~You got any bounties need hunting?
+
+0x2A643814 = ~z~One of these days the government going to get sick of private militias, you know.
+
+0x2B30A42B = ~z~We'd like to have some few words with that one, so bring him in alive.
+
+0x2E98AEE8 = ~z~but not one you can demonstrate your machine on.
+
+0x4B8E6DDF = ~z~Carries on about his business in the less salubrious parts of town, knowing the law won't dare to come looking.
+
+0x5C6393B4 = ~z~Simply put, the man is bad for society.
+
+0x6A2C98B1 = ~z~One of these days the government going to get sick of private militias, you know.
+
+0x6E263739 = ~z~Society... well, it's what you make it.
+
+0x7AE03A18 = ~z~You going after Lindsey Wofford?
+
+0x7CA1BBD8 = ~z~You ain't no executioner, that's for sure.
+
+0x7D7692CF = ~z~May the virtuous prosper!
+
+0x7FA9C738 = ~z~Don't tell 'em I said that!
+
+0x9A38952B = ~z~This feller in particular... Wofford, ain't it... why him?
+
+0x9C4C79FC = ~z~Sure, I'll take a look.
+
+0x9C777D46 = ~z~They're a bad lot, the Lemoyne Raiders. Stupid fellers won't leave good enough alone.
+
+0x9CF7868D = ~z~You cut off the head, the body dies... that's the hypothesis, at least.
+
+0x9DF434E7 = ~z~If that's all, I'll get after 'em.
+
+0x9F36083D = ~z~The portrait on the wall might interest you.
+
+0x11E4F581 = ~z~Look here, I hope you're going to use that permit I gave you soon.
+
+0x25DF8E55 = ~z~If you think you're a bounty hunter though, there's a poster on the wall there.
+
+0x26C18246 = ~z~Ah, an art lover, I see. Take a portrait off the wall if you want one.
+
+0x27A1C2E3 = ~z~my men simply are not suited for this kind of work.
+
+0x37D233CD = ~z~One of these days the government's going to get sick of all of us.
+
+0x41E0E70D = ~z~Might be. Or might just want to hang his poster on my wall.
+
+0x56FD1E3D = ~z~The bounty... why you making this feller someone else's problem?
+
+0x79DC4181 = ~z~Don't be too rough with them, I'd like to be able to feel a pulse.
+
+0x82E7FA5D = ~z~You got any bounties need hunting?
+
+0x425C474E = ~z~Look who we have here... that was some mess with McDaniels and Professor Bell.
+
+0x595BA656 = ~z~We, sir, are an urban police force, and the Raiders are, well, mostly a rural nuisance...
+
+0x3578C324 = ~z~As a matter of fact, I heard about this feller years ago... what more can you tell me of him then?
+
+0x3829AA39 = ~z~The bounty... why you making this feller someone else's problem?
+
+0x7999CE20 = ~z~He's a panderer, a thief, a cheat, a braggart, and somewhat of a hero to a few mistaken fools.
+
+0x53970A79 = ~z~You going after Lindsey Wofford?
+
+0x55561F3A = ~z~A city like St Denis's got to have some wanted men. Where are the posters?
+
+0x590866D3 = ~z~Bounty posters are stuck where they always are, sir.
+
+0x1120058C = ~z~One of these days the government is going to get sick of all of us.
+
+0x2916557B = ~z~Is it that you can't go in the slums to get Foreman, or you won't?
+
+0x30134372 = ~z~They're a bad lot, the Lemoyne Raiders. Stupid fellers won't leave good enough alone.
+
+0xA183846A = ~z~Okay, Chief.
+
+0xABAC2524 = ~z~Not to put too fine a point on it, but don't kill'em.
+
+0xAEE827A1 = ~z~May I direct you to the wall just there.
+
+0xB6EABA73 = ~z~We shall see if it can be demonstrated with the Lemoyne Raiders.
+
+0xB7DC8B01 = ~z~Guess all that remains is to bring 'em in.
+
+0xC0CEE257 = ~z~We shall see if it can be demonstrated with the Lemoyne Raiders.
+
+0xC4A73E0F = ~z~I believe you know where we hang the wanted posters.
+
+0xC7DFA7A0 = ~z~Bonne chance!
+
+0xC881DAD8 = ~z~Avail yourself of a poster, my friend.
+
+0xC7275AB4 = ~z~If your hand is forced, then so be it.
+
+0xCA2A2F9C = ~z~If that's all, I'll get after 'em.
+
+0xCC68656E = ~z~This feller in particular... Wofford, ain't it... why him?
+
+0xCD262EC0 = ~z~Don't get ahead of yourself.
+
+0xD082E55C = ~z~Might be. Or might just wanna hang his poster on my wall.
+
+0xD4B653D1 = ~z~Okay, Chief.
+
+0xD23B8530 = ~z~You cut off the head, the body dies... that's the hypothesis, at least.
+
+0xD869D3F4 = ~z~Is it that you can't go in the slums to get Foreman, or you won't?
+
+0xDB82AFD3 = ~z~Guess all that remains is to bring 'em in.
+
+0xDBCD2C8E = ~z~You want someone to clean up these streets for you? Point me to the bounties you got outstanding.
+
+0xE3AD13BF = ~z~Remember, they've forfeited their right to life as well as liberty.
+
+0xE3E1093C = ~z~Don't get ahead of yourself.
+
+0xE4F3F44C = ~z~Sure, I'll take a look.
+
+0xEB4F6E7F = ~z~May justice be done.
+
+0xED55B16F = ~z~He might have a bounty on his head, but you'd hardly know it.
+
+0xEFE6940C = ~z~A city like St Denis's got to have some wanted men. Where are the posters?
+
+0xF1F23089 = ~z~If this bounty's for the whole outfit, you should've made it more.
+
+0xF7CE3C01 = ~z~What state they come in in, we'll leave to your discretion.
+
+0xF1467F7E = ~z~That's a mighty forward line of inquiry. The slum dwellers can't be helped, sir. So we're not going to try.
+
+0xFE0D908E = ~z~Don't make assumptions about me, friend.
+
+0xFF085EC9 = ~z~If the bounty's for this whole outfit, you should have made it more.
+
+0xFFAB561A = ~z~Anthony Foreman, check that saloon in the slum for him.
+

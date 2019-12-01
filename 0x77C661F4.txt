@@ -1,0 +1,28 @@
+0x0AD94DFA = Save ~o~Javier~s~
+
+0x3C8FE7B5 = Low level crimes will be investigated by lawmen. Leave the area to avoid becoming wanted.
+
+0x5ACFD717 = While being grappled, tap ~INPUT_MELEE_ATTACK~ to escape.
+
+0x9D1E026B = Defeat the ~e~Brawler~s~
+
+0x67CF3543 = While grappling, use ~INPUT_MOVE_LR~ or ~INPUT_MOVE_UD~ and press ~INPUT_MELEE_GRAPPLE_BREAKOUT~ to throw in that direction.
+
+0x251E8A33 = Help the Gang defeat the ~e~Brawlers~s~
+
+0x1126F8C3 = Brawler
+
+0x4415F15E = Escape the struggle
+
+0xA837402B = Fight ~e~Tommy~s~
+
+0xB24BCA43 = While grappling, press ~INPUT_MELEE_GRAPPLE_ATTACK~ to punch, or hold down ~INPUT_MELEE_GRAPPLE_CHOKE~ to choke them out.
+
+0xBD059D21 = Press ~INPUT_MELEE_ATTACK~ to punch.
+
+0xC04A01C9 = Hold ~INPUT_MELEE_BLOCK~ to block.
+
+0xC4816EAE = Press ~INPUT_MELEE_GRAPPLE~ to grapple.
+
+0xDE93E91A = Tommy
+

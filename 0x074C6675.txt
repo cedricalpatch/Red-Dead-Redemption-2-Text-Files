@@ -1,0 +1,18 @@
+0x03DDB11C = ~z~You know how to make money.
+
+0x1F67683B = ~z~What?
+
+0x8E14C58C = ~z~How you getting on, John?
+
+0x19ABDCB8 = ~z~Not legally... maybe I should go see Sadie again.
+
+0x1193CC94 = ~z~Okay... I... you think this is too much?
+
+0x27817863 = ~z~Exactly... I mean, she'll put peace and joy back in your troubled heart.
+
+0xC725B7B9 = ~z~The ranch... this whole thing, it's... it feels beyond me.
+
+0xD4D25312 = ~z~Nonsense! It's easy... even morons are farmers.
+
+0xF64115E3 = ~z~Most farmers 'round here go broke... and I know nothing about farming.
+

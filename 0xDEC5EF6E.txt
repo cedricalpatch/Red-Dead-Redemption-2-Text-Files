@@ -1,0 +1,266 @@
+0x00BEFFD1 = ~z~I'll kill you! I'll kill all of you...
+
+0x0126BAE3 = ~z~~sl:0.0:4.1~Instead? We've got men who can complain and...~sl:~men who like politics and... farmers!
+
+0x0174E3D4 = ~z~More goddamn prissy women, in men's clothing...
+
+0x02E482AD = ~z~held onto each other for warmth.
+
+0x05B3DBDB = ~z~They weren't Christians... so I sent 'em to hell!
+
+0x075A3028 = ~z~~sl:0.0:5.3:1~Grilled the old bastard right where the stockyards are now!
+
+0x08FA1047 = ~z~I-I ain't afraid of none of you... not one!
+
+0x0E2BECCF = ~z~~sl:0.0:2.8~I shot nineteen of them, once.~sl:0.9~Buffalo, not redskins.
+
+0x1ACF09A3 = ~z~Well, look at you all... look at you!
+
+0x1AFD8A10 = ~z~I wouldn't do you the dignity of pissing on ya.... none of ya!
+
+0x1C39A2A1 = ~z~Too many goddamn women around here.
+
+0x1CEE8A54 = ~z~
+
+0x1CF130C7 = ~z~Wouldn't merely piss indoors... we'd shit and everything...
+
+0x1E235DBA = ~z~said I was heathen so I showed him how much heathen I was.
+
+0x1E941E12 = ~z~Nothing nice. Just more goddamn America... more goddamn shops.
+
+0x1E1774C4 = ~z~Farmers ain't men... they're just gardeners with too many potatoes!
+
+0x1F91F21F = ~z~Goddamn whiny women, all of ya! The whole damn lot.
+
+0x2BE1F937 = ~z~I ate an injun once... once I ate a priest as well...
+
+0x2C2BAC5C = ~z~What's wrong with you fools?
+
+0x2C629965 = ~z~Now? It's all about churches and shops and all this other bullshit.
+
+0x2CE3BAB1 = ~z~Ain't no 'wild west' no more around here... ain't nothing!
+
+0x2EAED442 = ~z~And we didn't care... you know why?
+
+0x3C3B9A27 = ~z~What's your problem, partner?
+
+0x3E0F3CBE = ~z~America... you're toast.
+
+0x4E3D96C3 = ~z~but old Jon... he ain't crazy.
+
+0x4E862647 = ~z~Go fuck yourselves! All of you...
+
+0x4ECFDE3F = ~z~~sl:0.0:3.1~I mean, I remember when this place was so wild,~sl:0.3~even the wolves was scared...
+
+0x5A90F5C1 = ~z~and the only thing to drink... was fresh blood.
+
+0x5D7A353C = ~z~Ooh, you're the goddamn crazy ones...
+
+0x6DC8C40F = ~z~With all your rules... and your bullshit and your boring stories.
+
+0x6F022887 = ~z~This ain't the America you promised me!
+
+0x7A9A9AAD = ~z~Prefer it, I do... it's better than this.
+
+0x7CDBF09B = ~z~The other side of it is... if you do care, you ain't no man at all!
+
+0x7F869700 = ~z~Oh I get it, I get it so... come on, partner!
+
+0x7F955332 = ~z~I'm tempted to gouge my eyes out, just for the fact that they saw you.
+
+0x7FA17D94 = ~z~It's like being in Paris or New York! All this bullshit...
+
+0x8D45CD85 = ~z~We was being chased by injuns for twenty days...
+
+0x9A891E86 = ~z~I'll tell you, place ain't what it used to be.
+
+0x9A9792FE = ~z~~sl:0.0:2.8:1~What kind of men are you? Hmm?
+
+0x9CA0B1E9 = ~z~Goddamn joke if you ask me!
+
+0x9DCA2508 = ~z~~sl:0.0:1.3:1~The place ain't.
+
+0x12BF5E14 = ~z~~sl:0.0:5.4~This place was for real men... men who could drink...~sl:0.1~men who could fight!
+
+0x21B72BD1 = ~z~Friend of mine shot a hundred and fifty-seven bears, first winter...
+
+0x23A09ABC = ~z~Less than the turds in the goddamn street... all of ya!
+
+0x24AEA72A = ~z~I had a complainer once...
+
+0x25B5C9BE = ~z~Yeah? Look away... look away you great big bloody girl...
+
+0x31B0359D = ~z~That was good... and that was proper... and that was right.
+
+0x32B006D3 = ~z~Hell, bear comes in my yard... I eat 'em!
+
+0x32C1B5FA = ~z~You ain't worth two shits, the whole damn lot of ya!
+
+0x33CA6478 = ~z~See that's when you know what a man is...
+
+0x36F75651 = ~z~and just as many coyotes and beavers and,
+
+0x43EE3796 = ~z~~sl:0.0:3.8~Yeah, you! With the squinty eyes... and the big old head...~sl:~and the women's britches... you!
+
+0x57DDF3A4 = ~z~~sl:2.2:4.7:1~I am... bored... of you fools.
+
+0x63C15B5E = ~z~Valentine... should have called this place Lady Town!
+
+0x63D45FB8 = ~z~Will you get out of my face before I break your scrawny neck?
+
+0x64DC8A4C = ~z~Valentine? No, they should have called this dump, Turd Town!
+
+0x69EB2616 = ~z~And that's the way I liked it.
+
+0x71ECC4C2 = ~z~My old Bessy, she could skin a bear with her teeth, so help me God!
+
+0x75A51E48 = ~z~That was... that was real hunger.
+
+0x79B6704F = ~z~~sl:0.0:6.9:1~And you trust me, we ever get stuck... I will eat you before I'll hold ya.
+
+0x80EFFC27 = ~z~No siree... no siree.
+
+0x89C73906 = ~z~As a matter of fact, I prefer shit.
+
+0x91D4F7B1 = ~z~~sl:0.0:1.0~You're revolting!~sl:2.5~I'm revolted.
+
+0x97D7F633 = ~z~You back again, tough guy? I thought I told you to get lost?
+
+0x210EBF01 = ~z~They had to eat each other. Well, they eaten the rest and then...
+
+0x274F9524 = ~z~Well, you must be as dumb as you look... so come on!
+
+0x385E6F0F = ~z~This is wilderness... Valentine... that name about sums it up!
+
+0x417DF9E0 = ~z~Quick! Before I shit right here in the bar...
+
+0x421B8289 = ~z~~sl:0.0:1.6~They shoulda called it...~sl:2.0~...something else.
+
+0x542B26A8 = ~z~Afraid of your... linens... and your perfume and... your manners.
+
+0x582E2D3F = ~z~None of you ever been through that.
+
+0x645BA9A0 = ~z~Look at you... you all make a feller sick!
+
+0x665F0556 = ~z~You lot should've stayed in Europe... we don't want you here.
+
+0x707CBEBD = ~z~~sl:0.0:4.9~Which was only about right because he was a turd of a man.~sl:0.5~A goddamn turd.
+
+0x771B2134 = ~z~Not like you experience. City boys.
+
+0x803B390E = ~z~Place is a dump!
+
+0x833B675F = ~z~and women in women's clothing, thinking they must be men!
+
+0x922AD753 = ~z~What good are ya?
+
+0x983D55F2 = ~z~Now, civilization ain't worth shit... ain't worth a whole pile of shit!
+
+0x2179B9D4 = ~z~Because real men don't care where other men turd!
+
+0x4424F0AC = ~z~~sl:0.0:4.1~so many goddamn wolves, I'm surprised there's any left.~sl:~And that was God's work,
+
+0x4723A223 = ~z~What's wrong with y'all...
+
+0x9086B4E8 = ~z~~sl:1.3:0.0~What is wrong with the men in this country?
+
+0x9144BA7C = ~z~What are you deaf as well as dumb?
+
+0x27434B6A = ~z~~sl:0.0:2.2~when you're clinging to him for warmth...~sl:0.2~while eating his brother's kidneys.
+
+0x33385D51 = ~z~And that's just a fact.
+
+0x63169A35 = ~z~You're... you're something else.
+
+0x75413E8A = ~z~You ain't even men... you ain't even women!
+
+0x92630D27 = ~z~~sl:0.0:4.7~When I first came here, there weren't nothing but bears,~sl:~and natives and... bare natives!
+
+0x361479A7 = ~z~Bloody women.
+
+0x833700B5 = ~z~You know sometimes I feel like I'm repeating myself like a crazy person!
+
+0x38224281 = ~z~My wife was more of a man than most of you. Far more.
+
+0x48916527 = ~z~In my time... men was goddamn men.
+
+0x58029883 = ~z~what's replaced it is worse... you lot!
+
+0xA0A3A9A8 = ~z~Well... they weren't really bare, but... well, whatever. Anyway...
+
+0xA8FC84F2 = ~z~In the end all we had left was poop... didn't taste too bad.
+
+0xA801CA4A = ~z~Not a crazy bone in my body... but you lot!
+
+0xA899AF02 = ~z~~sl:0.0:4.8:1~Momma's boys! Whiners! Complainers!
+
+0xACD392D9 = ~z~What is wrong with this dump? What is wrong with this dump!
+
+0xAE2B45CA = ~z~~sl:0.3:0.0~Wouldn't have killed all them redskins for this... I tell ya.
+
+0xAF54173F = ~z~World don't need no more farmers!
+
+0xB4F298BA = ~z~Ain't none of you is men... not one!
+
+0xB9E56E11 = ~z~But I ain't crazy... no siree...
+
+0xB25E863A = ~z~You lot whine if a bear comes in your yard.
+
+0xB78AC28E = ~z~None of ya is... nothing.
+
+0xBB0CA912 = ~z~And I've done it! I've eaten turd... had to out on the trail.
+
+0xC029A1D0 = ~z~You ain't men.. Now, I fought fifty injuns...
+
+0xC7A4E0A1 = ~z~~sl:1.0:0.0~I gotta get me some goddamn air!
+
+0xCA2667C5 = ~z~You ain't men! None of ya!
+
+0xD5A2F5CB = ~z~This... this.... this is bullshit!
+
+0xD5F3CD64 = ~z~Goddamn annoying ladies... all of ya!
+
+0xD33F9D65 = ~z~'Cause that's how it was back in the day, you know?
+
+0xD6640FD1 = ~z~I give up, I really do.
+
+0xD3487701 = ~z~~sl:0.0:1.1~They shoulda thanked me...~sl:2.2~all you fools should thank me.
+
+0xDA8F7A79 = ~z~~sl:0.0:6.0:1~Ahh, get the hell out of here... city boys... all of you.
+
+0xDA6867C9 = ~z~and well, we ate each other.
+
+0xDB6B1F3A = ~z~killing all of them creatures like that, but I'll tell ya,
+
+0xDBDB8B07 = ~z~~sl:0.0:3.0~I wouldn't have watched my family freeze to death~sl:~in the winter of '72, if I'd known.
+
+0xDD2C3D4A = ~z~Oh, God... I can't believe what this dump is coming to.
+
+0xDF8E9CEB = ~z~We sold his liver to the injuns.
+
+0xE86B47BC = ~z~Give me another drink...
+
+0xEDC33954 = ~z~~sl:0.0:2.8~And then, we ate him when it got cold~sl:~and I'll tell you what, he tasted like shit.
+
+0xEE4E2FEC = ~z~Known about it... you wretches.
+
+0xF06FDDC4 = ~z~Twelve men got stuck... two walked out.
+
+0xF1D0169C = ~z~You know, I'd rather eat turd than talk to any one of you.
+
+0xF3DD382E = ~z~~sl:0.0:3.8~Dunno how many redskins I killed... but...~sl:0.8~they deserved it.
+
+0xF14DC069 = ~z~heading out west, on the trail to Lanahasse in '68...
+
+0xF54EBEA3 = ~z~You ain't men, the whole lot of you, look at you...
+
+0xF86DC153 = ~z~~sl:0.0:2.7~Ain't worth one tree...~sl:0.7:2.1:~not one buffalo...~sl:0.5~one redskin.
+
+0xF829ED34 = ~z~Sometimes I wish I'd been killed in that avalanche back in '78.
+
+0xFB640447 = ~z~This town used to be full of men! Now look at it. All of you!
+
+0xFC1FE0A3 = ~z~Let me tell you something... let me tell all of you fools something.
+
+0xFE6579AF = ~z~You know the one? Got them boys stuck up on the pass.
+

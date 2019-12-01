@@ -1,0 +1,36 @@
+0x017E031F = ~z~Sure.
+
+0x1AE279E3 = ~z~I was just there, hate the place. All those people, all that noise.
+
+0x2E06209C = ~z~Sure.
+
+0x7C714B2C = ~z~The things city folk'll pay for...
+
+0x68BDAA20 = ~z~Not really.
+
+0x75D97A98 = ~z~Alright, if you're still holding a grudge about it, I won't say any more.
+
+0x596B5372 = ~z~but of course none of this will ever be in the history books.
+
+0x615A2D07 = ~z~On my way through the main square, I see this big statue of General Quincy Harris, war hero.
+
+0x779DBE43 = ~z~Well, no point in dwelling on it any more...
+
+0x962ECCF8 = ~z~He even said there was rumors old Quincy was working for the other side...
+
+0x1072A5A4 = ~z~Are you familiar with Saint Denis?
+
+0x75250AE5 = ~z~I spat on that statue and I left town. And won't be going back neither.
+
+0x7285291B = ~z~Only went there because there's a feller who pays good money for stuff. Well, he calls it "exotic"...
+
+0xAB93C175 = ~z~War hero? My pa fought under him, said he was a coward who sold out his men.
+
+0xB534D37E = ~z~Hold on, will you? I'm getting there.
+
+0xBE64A1E1 = ~z~Not really.
+
+0xC5984F50 = ~z~egret feathers and the such like. Don't seem that exotic to me.
+
+0xEC329C84 = ~z~Makes me feel like I'm choking.
+

@@ -1,0 +1,24 @@
+0x3B57D522 = ~z~~sl:0.0:1.2~We walk...~sl:0.5~together.
+
+0x6E03DF5D = ~z~But we are going to overcome these challenges.
+
+0x9BB8BAC6 = ~z~~sl:0.0:1.2~Now Blackwater...~sl:1.7~it weren't nothing nice.
+
+0x784BF3ED = ~z~~sl:0.0:1.2~But we...~sl:1.1:3.4~we have to push on.~sl:1.8~Even though we walk through hell.
+
+0x811F8594 = ~z~But we have had it tough before.
+
+0x4534E8DC = ~z~Well, we walk together.
+
+0x5263A81D = ~z~I know that.
+
+0xA4CB4CEB = ~z~~sl:0.0:1.0~Listen...~sl:0.6~I know...
+
+0xA98C5671 = ~z~How you boys keeping?
+
+0xAEDF6113 = ~z~We're being tested.
+
+0xBCAE57CD = ~z~~sl:0.0:1.2~Remember that.~sl:1.4:1.0~All of you...~sl:1.3~remember that.
+
+0xD2622818 = ~z~Well, things is kinda tough.
+

@@ -1,0 +1,1144 @@
+0x00C19A44 = ~z~What else does he have to gain from it?
+
+0x0235F795 = ~z~~sl:0.0:3.7~I'm sure Charles will find a way to help him, but...~lr:1.5~I wanted you to know the situation.
+
+0x023A45DB = ~z~Maybe he's right...
+
+0x028BC9AA = ~z~I'm very sorry about all of this.
+
+0x02B96734 = ~z~I'm not sure I get you.
+
+0x0442452D = ~z~I'm very sorry about this.
+
+0x04799FAC = ~z~~sl:0.0:4.5~Oh... there they are... these... brave men...~sl:1.1:2.0~some of Colonel Favours' men~sl:0.8~They must have been the ones who did this.
+
+0x04A9C7F3 = ~z~It's a bad business.
+
+0x04F1E77C = ~z~~sl:0.0:4.9~I don't know why Dutch is getting involved in your situation and...~lr:1.3~this ain't easy to say, but...
+
+0x05E491FD = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.4~Let me give this some thought.
+
+0x060C4508 = ~z~Take those herbs I gave you...
+
+0x067CF79D = ~z~~sl:0.0:3.4~See... what's left of that bridge over there?~sl:1.2~I heard about it being destroyed.
+
+0x07BD5DBB = ~z~I ain't quite sure. ~rp~I just wanted you to know the situation.
+
+0x07E9F644 = ~z~is near France. Well, it's in France. Indians is from here.
+
+0x083E9C90 = ~z~Are you not going down there?
+
+0x0848F6AA = ~z~An Indian?
+
+0x091CFBC7 = ~z~I'm glad I caught you, sir...
+
+0x093EDD43 = ~z~Mr. Morgan, please! Leave them!
+
+0x097CFE43 = ~z~I have some other business to attend to, Mr. Morgan.
+
+0x09EFA50F = ~z~Well, I wish you all the best.
+
+0x0B10D239 = ~z~sacred.
+
+0x0BA8F4C2 = ~z~See the wolves over there feasting on that horse?
+
+0x0BD9C4CE = ~z~~sl:0.0:0.6~But...~lr:2.4:3.9~he's been unraveling for some time now and...~lr:0.5~I ain't sure there's any going back at this point.
+
+0x0C890260 = ~z~So, should I take this as a “yes”?
+
+0x0DBFC666 = ~z~~sl:0.0:3.4~Dutch's got this crazy plan that...~sl:0.2~if we create enough noise and chaos,
+
+0x0DBFFD59 = ~z~maybe not, I don't know.
+
+0x0E1A02AC = ~z~~sl:0.0:1.7~Me? I'm Polish.~sl:0.5~From Milwaukee.
+
+0x0E6A12B2 = ~z~Now I see as wise and thoughtful and sensible.
+
+0x0ED9A876 = ~z~~sl:0.0:2.4~Sorry, this ain't a good time for me.~lr:0.2~I already got more problems than I can handle.
+
+0x0F7800B1 = ~z~I don't know him, but my son is easily led.
+
+0x0FB724A0 = ~z~with drilling on the reservation's land.
+
+0x0FBC0292 = ~z~Dutch used to tell me that revenge was a fool's game.
+
+0x0FE7E136 = ~z~but for me...
+
+0x1A2C3F7D = ~z~~sl:0.0:0.7~You know...~sl:1.8:2.0~I had a son once.~sl:0.4:1.3~Years ago.~lr:1.2~I don't talk about him much.
+
+0x1AE3EEB7 = ~z~was anyone hurt?
+
+0x1B58F2E5 = ~z~Dutch seems hell bent on making your son's fight his own...
+
+0x1C0B2A9C = ~z~~sl:0.0:2.4~We only become more who we really are.~lr:1.1~Perhaps you see that with him... just as I see it with my son.
+
+0x1C799ACC = ~z~maybe...
+
+0x1CA02F1E = ~z~I would love to help him...
+
+0x1CD16489 = ~z~~sl:0.0:2.6~We only become more who we really are.~lr:0.9~Perhaps you see that with him... just as I see it with my son.
+
+0x1D06A38F = ~z~A little. Mostly what Charles told me.
+
+0x1D5F76D6 = ~z~Take those herbs I gave you...
+
+0x1D9153E3 = ~z~~sl:0.0:4.1~Dutch seems hell bent on making your son's fight his own and...~lr:1.7~this ain't easy to say, but...
+
+0x1DF24D84 = ~z~Do you have any binoculars?
+
+0x1DF36820 = ~z~Sadly, Eagle Flies was ready to fight.
+
+0x1E6FFD09 = ~z~~sl:0.0:0.7~Isaac.~lr:1.2~His mother, Eliza, was a waitress I met.
+
+0x1E7FA75E = ~z~You got no reason to thank me.
+
+0x1EEFC1D8 = ~z~Sadly, Eagle Flies was ready to fight.
+
+0x1EF1C908 = ~z~~sl:0.0:1.6~When she got pregnant...~sl:0.9~she knew who I was, what my life was.
+
+0x1F4C330E = ~z~Wait, stop here... ~rp~I want to pick some ginseng.
+
+0x1FA4B733 = ~z~What's happened?
+
+0x1FD5A623 = ~z~
+
+0x2A9B9F36 = ~z~~sl:0.0:3.3~Well, ~rp~I appreciate you coming to me, Mr. Morgan.~lr:1.7~Let me give this some more thought.
+
+0x2ADCB792 = ~z~for a whole lot of dumb reasons...
+
+0x2BBF97A8 = ~z~Sure looks like they was doing some drinking.
+
+0x2C58E034 = ~z~~sl:0.0:4.2~I worry a lot of folks are gonna get caught in the crossfire,~sl:0.4~including Eagle Flies.
+
+0x2C601CEF = ~z~Must be imagining things.
+
+0x2D3FE5A4 = ~z~~sl:0.0:0.9~Isaac.~lr:1.1~His mother, Eliza, was a waitress I met.
+
+0x2D193D4C = ~z~It is hard to tell someone who is being treated unfairly not to fight back.
+
+0x2E7B54E0 = ~z~No, it can't be.
+
+0x2E3084F9 = ~z~~sl:0.0:4.8~So... ~rp~I ain't exactly sure why I'm here.~lr:0.9~I guess our situations have become tangled.
+
+0x2ECD9C3A = ~z~Was anyone hurt?
+
+0x2EED475C = ~z~How much do you know about Dutch?
+
+0x2F48B293 = ~z~I just thought you should be aware.
+
+0x3A6B5287 = ~z~Monroe went to West Point, Favours never made it.
+
+0x3A965EDD = ~z~my whole life I have tried to bring peace.
+
+0x3B808DBD = ~z~~sl:0.0:1.7~Now they've taken the last hope...~sl:4.7:2.3~Now my people are gonna want a war.~sl:2.3~A war they can't win.
+
+0x3C1AE05C = ~z~Sorry, ~rp~hold up a moment... ~rp~that will have to wait.
+
+0x3C43FDB9 = ~z~I'm not sure just yet. I didn't get the impression anything would be happening for a few months.
+
+0x3CF43887 = ~z~Yes.
+
+0x3D6DBB04 = ~z~There's some whiskey here.
+
+0x3D7AE670 = ~z~~sl:0.0:6.0~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.3~continues to worsen.
+
+0x3D806D86 = ~z~~sl:0.0:1.7~we'll be able to escape and...~lr:0.7~go somewhere far away where no one will find us.
+
+0x3DF5D12C = ~z~~sl:0.0:1.2~When she got pregnant...~sl:1.0~she knew who I was, what my life was.
+
+0x3E0B17CA = ~z~Good. There was no need to harm them.
+
+0x3E78148F = ~z~I don't think so.
+
+0x3E868501 = ~z~Apparently not.
+
+0x3FDEE5DD = ~z~Tons of 'em. And French folk too.
+
+0x3FF4F5C7 = ~z~He's a man who, not so long ago, I would have found weak and pathetic.
+
+0x4A987331 = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:0.7~I guess our situations have become tangled.
+
+0x4AAA736D = ~z~Yes... I know enough.
+
+0x4B2B5AF1 = ~z~Enjoy the ride.
+
+0x4B49F444 = ~z~Yeah... I'm sure.
+
+0x4BC5752A = ~z~~sl:0.0:3.0~Maybe there's a way to stop things~sl:~from getting any more out of control.
+
+0x4CC4E0CE = ~z~~sl:0.0:3.7~But~rp~ this Colonel Favours, he walks an old line,~lr:~he's obstinate and he hates Monroe.
+
+0x4D57C80D = ~z~~sl:0.0:3.4~I'd have been dead by sixteen if it wasn't for him.~lr:1.3~He never gave up on me.
+
+0x4D3202F8 = ~z~Of course.
+
+0x4D967159 = ~z~Even just a couple of hours of your time.
+
+0x4EE256B3 = ~z~Thank you.
+
+0x4F7BA6EB = ~z~Thanks to that raid you carried out with my angry son...
+
+0x5AC11362 = ~z~~sl:0.0:2.6~We only become more who we really are.~lr:1.4~Perhaps you see that with him... just as I see it with my son.
+
+0x5ACE8288 = ~z~I think I see an army camp.
+
+0x5B8D24A4 = ~z~Something over here.
+
+0x5BB5FB9A = ~z~Guess it was nothing.
+
+0x5C2E4598 = ~z~~sl:0.0:1.8~I felt like that once too.~lr:0.6~I was there twenty years ago for all the fighting and... I saw where it led.
+
+0x5CB5231E = ~z~and maybe I can help you with that cough.
+
+0x5CF0FE7C = ~z~Thank you, Captain.
+
+0x5D0CD21A = ~z~~sl:0.0:0.8~Okay.~lr:1.9~Let me give this some more thought. Thank you, Mr. Morgan.
+
+0x5D1B1F7A = ~z~I don't think you need your face covered out here, Mr Morgan.
+
+0x5D3298B6 = ~z~Who... who would do this?
+
+0x5D25043C = ~z~~sl:0.0:3.9~I'm sure Charles will find a way to help him, but...~lr:0.8~I just wanted you to know the situation.
+
+0x5DAD7CC0 = ~z~Glory has come in service...
+
+0x5E4C812E = ~z~I suppose I lack the grandeur of a conventional king?
+
+0x5E44F670 = ~z~How much do you know about Dutch?
+
+0x5ED8A645 = ~z~May I ride with you for a little?
+
+0x5EE0CEB7 = ~z~I just don't trust that he's got your son's best interests at heart.
+
+0x5F11AD3D = ~z~What was his name?
+
+0x5F119C5F = ~z~I saw a doctor... and he says I'm in a pretty bad way.
+
+0x6AD4DF11 = ~z~They had men, women and children penned in like livestock.
+
+0x6CEE3810 = ~z~~sl:0.0:4.4~If I get enough money together, ~rp~I can always head out west...~sl:~to one of those sanatoriums in California.
+
+0x6D7C6834 = ~z~~sl:0.0:3.7~But ~rp~my people came to me for answers, and I have none.~lr:0.6~I can't even guide my own son.
+
+0x6D47B00C = ~z~So what can we do?
+
+0x6D228F60 = ~z~~sl:0.0:3.9~It ain't something that's easy to walk away from.~lr:1.4:0.9~And...~sl:1.8~he's got all my money.
+
+0x6DC237D6 = ~z~For years, he was the best man I knew.
+
+0x6F7BFE04 = ~z~Over here!
+
+0x6F223C95 = ~z~They destroyed everything.
+
+0x6F313C01 = ~z~Well, so what can we do?
+
+0x6FB64E86 = ~z~~sl:0.0:0.9~Isaac.~lr:1.1~His mother, Eliza, was a waitress I met.
+
+0x6FD0055F = ~z~Might have been here for a while.
+
+0x6FF79C05 = ~z~and I'm giving you very little.
+
+0x7AC84B0D = ~z~~sl:0.0:3.2~Maybe there's a way to stop things~sl:~from getting any more out of control.
+
+0x7C7021A4 = ~z~~sl:0.9~They destroyed everything.
+
+0x7D6B0F9C = ~z~More over here!
+
+0x7DB79A83 = ~z~Have a look at this.
+
+0x7E1CDA19 = ~z~~sl:0.0:6.4~But... ~rp~he's been unraveling for some time now and...~lr:1.5~I ain't sure there's any going back at this point.
+
+0x7EE8ECEB = ~z~~sl:0.0:1.6~When she got pregnant...~sl:0.9~she knew who I was, what my life was.
+
+0x7F98AC8E = ~z~~sl:0.0:2.8~It ain't something that's easy to walk away from.~lr:1.1:1.0~And...~sl:1.2~he's got all my money.
+
+0x7FA2C373 = ~z~False alarm. Nothing here.
+
+0x8A22217F = ~z~Yeah... ~rp~compromise ain't an easy thing to learn.
+
+0x8B3CE487 = ~z~This is a place of peace.
+
+0x8B89F497 = ~z~So... what happened to Captain Monroe?
+
+0x8B99298B = ~z~~sl:0.0:2.9~I appreciate you coming to me, Mr. Morgan.~sl:1.3~Let me give this some more thought.
+
+0x8BD5D08D = ~z~My people owe you a great debt...
+
+0x8C6EF72E = ~z~No!
+
+0x8CA58CA7 = ~z~So what are you suggesting we do?
+
+0x8DB3F5BC = ~z~Yeah, I know the place.
+
+0x8E49E97E = ~z~Rains Fall, over here!
+
+0x8E198B4C = ~z~~sl:0.0:3.0~I didn't wanna promise nothing I couldn't keep, but...~lr:0.3~I said I'd do right by them.
+
+0x8FB51C1F = ~z~What's wrong with this horse?
+
+0x8FE86CA2 = ~z~Sorry, that was unfair of me. Please forget I asked.
+
+0x9A585D74 = ~z~No!
+
+0x9A6282D2 = ~z~Okay, let's continue on.
+
+0x9A325378 = ~z~Mr. Morgan!
+
+0x9A346983 = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:2.0~I ain't sure there's any going back at this point.
+
+0x9B449E58 = ~z~~sl:0.0:4.8~Well, ~rp~I appreciate you coming to me, Mr. Morgan.~lr:2.0~Let me give this some more thought.
+
+0x9B2619AD = ~z~Yeah, ~rp~compromise ain't an easy thing to learn.
+
+0x9BB06394 = ~z~You got no reason to thank me.
+
+0x9BB40513 = ~z~~sl:0.8~Looks empty too.
+
+0x9BC54949 = ~z~Do you smell that?
+
+0x9C51FC59 = ~z~~sl:0.0:3.3~But ~rp~when the intent becomes violence,~sl:0.4~that's when the cycle begins again.
+
+0x9CC4BE81 = ~z~~sl:0.0:1.0~I had to.~sl:3.3:1.4~I don't know...~sl:1.9~I ain't been a good man.
+
+0x9D72FCD2 = ~z~You'd be surprised. Got a lot of folks looking for me right now.
+
+0x9E656312 = ~z~~sl:0.0:2.8~I don't know how long I got, but...~lr:0.7~some of them... they still got a chance to have a life.
+
+0x9F569793 = ~z~I think there is much you can still do, Mr. Morgan.
+
+0x9F766428 = ~z~~sl:0.0:3.2~Charles will find a way to help Eagle Flies, but...~lr:0.8~I worry that won't be the end of it.
+
+0x9FB46C45 = ~z~And that feller, Monroe, how you know him?
+
+0x9FCDFBCD = ~z~and ~rp~it just feels to me like he ain't doing it all out of solidarity.
+
+0x10E7606E = ~z~I should not have let you do this for me.
+
+0x12D25966 = ~z~~sl:0.4~You'd be surprised. Got a lot of folks looking for me right now.
+
+0x13C6161E = ~z~You don't sound very well.
+
+0x13E2EB52 = ~z~Mr. Morgan, would you have time to help me at all?
+
+0x16B88B22 = ~z~Injuns... just seems so silly though.
+
+0x16E98B4B = ~z~This is what I try to teach my son.
+
+0x17A704C8 = ~z~~sl:0.0:4.9~I don't know why Dutch is getting involved in your situation ~rp~and...~sl:1.6~this ain't easy to say, but...
+
+0x21DACB7A = ~z~Every few months I'd stop by there for a few days.
+
+0x24BD85AE = ~z~I'm sure Charles will find a way to help Eagle Flies, but...
+
+0x26A1CE3E = ~z~~sl:0.0:3.1~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+
+0x27F19479 = ~z~Did you have fun with my son, the impetuous Prince?
+
+0x28D171EF = ~z~~sl:0.6~There's some logs here they must have used as kindling.
+
+0x28FCBBAA = ~z~But, I ain't doing so good.
+
+0x29B85E33 = ~z~~sl:0.0:3.4~Of course, err... ~rp~not to worry.~lr:0.9~I shouldn't have put you on the spot like that.
+
+0x30A20785 = ~z~~sl:0.0:3.1~I just think... ~rp~if I could give them that, then...~sl:0.9~maybe this ain't all for nothing.
+
+0x32C143D4 = ~z~No, I need to find the Chanupa.
+
+0x32D02238 = ~z~thank you.
+
+0x33C40DFD = ~z~This is a place of peace.
+
+0x33D31088 = ~z~~sl:0.0:0.7~well...~lr:1.7~you know something of Dutch, I think?
+
+0x33F56CE0 = ~z~~sl:0.0:2.5~Turned out some bastards had come through...~lr:0.4:0.9~robbed them...~sl:0.6~and shot them dead.
+
+0x34E93211 = ~z~I don't need your money.
+
+0x34FACD5C = ~z~~sl:0.0:2.0~I felt like that once too.~lr:0.8~I was there twenty years ago for all the fighting and I saw where it led.
+
+0x36ACA98C = ~z~I think you know something of Dutch by now?
+
+0x36D0D616 = ~z~How can I help you, Captain?
+
+0x37FF16B9 = ~z~~sl:0.0:4.2~But ~rp~I know now that you don't get to live a bad life...~sl:~and have good things happen to you
+
+0x39B83E6B = ~z~Alright, let's go. It's not much further now.
+
+0x39D42FBF = ~z~Thank you.
+
+0x40F5C4E7 = ~z~We'll continue on this way. ~rp~I'm going to look for some herbs to give you.
+
+0x41ADE675 = ~z~But ~rp~now... it feels like he's developed a compulsion for it.
+
+0x43AEA14D = ~z~For years, he was the best man I knew.
+
+0x43F90613 = ~z~I ain't quite sure yet. He's kind of unwound right now.
+
+0x43FA2920 = ~z~~sl:0.0:0.8~Nothing?~sl:0.7~No, please look again, Mr. Morgan. I beg of you.
+
+0x43FCC42C = ~z~I ain't quite sure yet. He's kind of unwound right now.
+
+0x45A6A7CA = ~z~Why is your first instinct to fire a gun?
+
+0x46D65BB7 = ~z~I see no end to any of this.
+
+0x49F0E225 = ~z~So what can we do?
+
+0x51F1E282 = ~z~matter more.
+
+0x53C483E7 = ~z~A little. Mostly what Charles told me.
+
+0x53CC1AF1 = ~z~Yes. ~rp~I was there on the raid to steal back those horses and...
+
+0x54EFE419 = ~z~~sl:0.0:1.3~Mix these together.~sl:2.6~They taste awful... but it'll help to keep your strength up.
+
+0x54F9EA1C = ~z~~sl:0.2~What was his name?
+
+0x58EC2CDA = ~z~~sl:0.0:5.9~But... ~rp~he's been unraveling for some time now and...~lr:1.9~I ain't sure there's any going back at this point.
+
+0x60B2EA26 = ~z~Someone who wanted to enrage you.
+
+0x60DD3417 = ~z~Be careful. ~rp~There are some steep turns up ahead.
+
+0x61FAD44F = ~z~All for ten dollars.
+
+0x62D48601 = ~z~Whiskey... bastards were having a party up here.
+
+0x65E9A149 = ~z~I did.
+
+0x66BA264F = ~z~I appreciate the herbs, but...~rp~ I think it's gonna take more than that.
+
+0x70D5BF63 = ~z~Exactly. That's the problem.
+
+0x70F5401E = ~z~Well I wish you all the best.
+
+0x73C394EA = ~z~Huh?
+
+0x79D9CD2C = ~z~Follow me.
+
+0x79D39A13 = ~z~What reason would they have?
+
+0x81C04815 = ~z~I believe you went on a raid with him.
+
+0x84B3DEDD = ~z~What is this you're bringing me? Did you find anything down there?
+
+0x84C62FD1 = ~z~Yes, I know enough.
+
+0x84CDAED7 = ~z~~sl:0.0:1.6~In part, yes.~lr:1.7~I think you know something of Dutch by now?
+
+0x85F0B24D = ~z~It's ruined.
+
+0x87B08EBF = ~z~~sl:0.0:1.6~I understand that...~sl:0.8~you can't be a bad man ~rp~and expect good things to happen to you.
+
+0x88CB1ED1 = ~z~~sl:0.0:4.5~Many of the elders are sick and the young feel that any compromise...~sl:~is an admittance of defeat.
+
+0x89DB4D90 = ~z~~sl:0.0:1.6~Thank you, Mr. Morgan.~lr:2.0~Let me give this some thought.
+
+0x90ABC697 = ~z~What else does he have to gain from this?
+
+0x91C5E21D = ~z~I hope so.
+
+0x91CE2A24 = ~z~That's good news. Thank you.
+
+0x91DD12D6 = ~z~Okay, let's continue on.
+
+0x92CA18D8 = ~z~You mean with my son?
+
+0x94E1EE58 = ~z~I'm... I'm sorry.
+
+0x95A14A4D = ~z~Thank you, Captain.
+
+0x95F00A38 = ~z~No...
+
+0x96CBF92D = ~z~I can't allow something like that to happen to my people,
+
+0x97C2478C = ~z~~sl:0.0:1.2~we'll be able to escape...~sl:0.2~and go somewhere far away where no one will find us.
+
+0x98DF1B42 = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+0x98E8B9C4 = ~z~Then I hope you find peace.
+
+0x99EF3093 = ~z~What's got this horse spooked, huh?
+
+0x164E8AEF = ~z~Someone who wanted to enrage you.
+
+0x181B1DC5 = ~z~Who's there?
+
+0x202D0EA6 = ~z~Wait, stop here... ~rp~I want to pick some ginseng.
+
+0x204ACCA8 = ~z~If you could do this for me, I would very much appreciate it.
+
+0x254B26E9 = ~z~It sounds like you have a lot to work out in your own mind.
+
+0x264A88AC = ~z~But please, take this.
+
+0x286BAE77 = ~z~~sl:0.0:0.6~well...~lr:1.6~you know something of Dutch, I think?
+
+0x313E4126 = ~z~~sl:0.0:3.0~I'm sorry to cut you off, ~rp~but it's just up ahead.~lr:0.3~Let's continue our talk later.
+
+0x333BF772 = ~z~Yes, a little. ~rp~Mostly from your friend Charles.
+
+0x336BA83D = ~z~I never could equate it with victory.
+
+0x377BDD89 = ~z~Come in.
+
+0x377F158A = ~z~There's something here.
+
+0x389F5317 = ~z~I've killed a lot of people...
+
+0x422EAAD2 = ~z~Who would do such a thing?
+
+0x471D07C9 = ~z~~sl:0.0:4.6~Many of the elders are sick and the young feel that any compromise...~sl:0.8~is an admittance of defeat.
+
+0x472DD69A = ~z~~sl:0.0:0.9~I, uh...~sl:2.3~don't have any money...
+
+0x474B93C8 = ~z~As I mentioned, I did speak again with the mayor and the Bureau of Indian affairs in Saint Denis at length,
+
+0x526E0E90 = ~z~Sir!
+
+0x539FB0A7 = ~z~~sl:0.0:1.6~Sickness started spreading...~lr:~but the government insisted on keeping them contained.
+
+0x539FD021 = ~z~~sl:0.0:4.3~I don't know why he's getting involved with Eagle Flies,~lr:0.5~but the two of them together... ~rp~it's gonna be a problem.
+
+0x569A0278 = ~z~~sl:0.2~What was his name?
+
+0x580FF2CD = ~z~~sl:0.0:2.7~I'd have been dead by eighteen if it wasn't for him.~lr:1.0~He never gave up on me.
+
+0x583B422C = ~z~~sl:0.0:2.2~Turned out some bastards had come through...~lr:0.7:1.0~robbed them...~sl:0.5~and shot them dead.
+
+0x607D9A74 = ~z~~sl:0.0:2.2~I want to show you ~rp~a site up in the mountains...~sl:~that's long been sacred to me.
+
+0x642D9DE0 = ~z~~sl:0.0:4.2~But~rp~ this Colonel Favours, he walks an old line,~lr:~he's obstinate and he hates Monroe.
+
+0x676C508E = ~z~Ya! Go on! Get outta here!
+
+0x689EC71A = ~z~or at least stop Dutch pushing his son to do something real stupid.
+
+0x690EAE7B = ~z~How much do you know about Dutch?
+
+0x705E5A4B = ~z~~sl:0.0:6.4~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.4~continues to worsen.
+
+0x789ED681 = ~z~As you wish.
+
+0x806FDF30 = ~z~Come on.
+
+0x818A3077 = ~z~Hey, I heard something.
+
+0x854E27E5 = ~z~~sl:0.0:2.6~Brutality and beauty are both all around us,~lr:0.6~yet so often we're unable to see past our own grievances.
+
+0x868FD0D5 = ~z~~sl:1.9~I been in that cycle my whole life.
+
+0x872A9648 = ~z~I think I'm dying.
+
+0x947C4F3E = ~z~~sl:0.0:2.5~Turned out some bastards had come through...~lr:0.4:0.9~robbed them...~sl:0.6~and shot them dead.
+
+0x958EA665 = ~z~Please tell me you found it.
+
+0x976F4E8B = ~z~Yeah, well... still no sign of the Chanupa.
+
+0x978D85DC = ~z~~sl:0.0:4.7~Okay. ~rp~Let me give this some more thought.~lr:0.8~Thank you, Mr. Morgan.
+
+0x982E56C8 = ~z~I cannot believe this.
+
+0x993D23D0 = ~z~What is this? Did you find anything down there?
+
+0x1365A31E = ~z~I think you're being hard on yourself.
+
+0x2200B293 = ~z~
+
+0x2828D583 = ~z~I'm very sorry, sir. I did everything I could.
+
+0x2851F476 = ~z~We can talk if you want, Mr. Morgan, ~rp~but don't feel like you have to.
+
+0x3250C22E = ~z~I heard old Favours was trying to get him transferred. Don't like him much.
+
+0x4210BE5B = ~z~Thank you.
+
+0x4232CFA8 = ~z~Wait there, I'll put these in your saddle bag.
+
+0x4343C6B0 = ~z~~sl:0.0:0.7~You know...~sl:1.5:1.8~I had a son once.~sl:0.6:1.1~Years ago.~lr:1.3~I don't talk about him much.
+
+0x4690FAB0 = ~z~I think I saw someone.
+
+0x5195DBE9 = ~z~What is this you're bringing me? Did you find anything down there?
+
+0x5398FC72 = ~z~~sl:0.0:2.6~I didn't wanna promise nothing I couldn't keep, but...~lr:0.2~I said I'd do right by them.
+
+0x5577CC1B = ~z~~sl:0.0:2.2~I feared you'd come back empty-handed.~sl:0.8~Would you check again, please?
+
+0x5598E748 = ~z~We believe it to be...
+
+0x5983FB46 = ~z~Well you can't go, they'd know why you'd come.
+
+0x6301CB34 = ~z~but regrettably it appears the oil company has already received approval to move forward
+
+0x6341A9E9 = ~z~~sl:0.0:4.2~But ~rp~my people come to me for answers... and I have none.~lr:1.0~I cannot even guide my own son.
+
+0x6440A1FA = ~z~~sl:0.0:1.5~A place for reflection...~sl:0.9~and healing.
+
+0x6837C3C8 = ~z~A little. ~rp~Mostly from your friend Charles.
+
+0x7022F846 = ~z~~sl:0.0:3.4~I'm sure Charles will find a way to help him, but...~lr:1.0~I wanted you to know the situation.
+
+0x7209A7C9 = ~z~~sl:0.0:2.8~Any action without violence is difficult,~sl:0.5~especially when my son is involved.
+
+0x7233A099 = ~z~What else does he have to gain from it?
+
+0x7326D1C3 = ~z~~sl:0.0:1.8~But I have to continue to seek...~sl:~to resolve matters through peaceable negotiation.
+
+0x7614D5AA = ~z~It took a long time for me to learn that you can never change a person.
+
+0x7656C226 = ~z~~sl:0.0:0.6~well...~lr:2.1~you know something of Dutch, I think?
+
+0x8050FEC2 = ~z~I just don't trust he's doing all this entirely out of solidarity.
+
+0x8954E7ED = ~z~~sl:0.0:0.7~You know...~sl:1.5:1.8~I had a son once.~sl:0.6:1.1~Years ago.~lr:1.3~I don't talk about him much.
+
+0x9033E6DE = ~z~~sl:0.0:3.2~I appreciate you coming to me, Mr. Morgan.~sl:1.4~Let me give this some more thought.
+
+0x9119C50B = ~z~What is this? I said no bloodshed. Did you find anything down there?
+
+0x9471BF9E = ~z~Not at all... but... I hoped we were past this.
+
+0x12373B27 = ~z~Are you surprised this happened?
+
+0x21167ED5 = ~z~I got your things, I think.
+
+0x22100C5F = ~z~Please see if they have our sacred items, but try not to hurt anyone.
+
+0x22505E8D = ~z~It sounds like you have a lot to work out in your own mind.
+
+0x25950C90 = ~z~I saw death being handed out so freely by the most foolish of men...
+
+0x39405D23 = ~z~Do you know... if that was also my son's doing?
+
+0x40525E44 = ~z~~sl:0.0:1.5~I don't rightly know.~lr:0.7~Charles and I just thought you should be aware.
+
+0x48748EC6 = ~z~And the reason for his arrest?
+
+0x50457CDD = ~z~So why do you stay?
+
+0x56581F35 = ~z~Well... for years, he was the best man I knew.
+
+0x63437F44 = ~z~Er, not yet.
+
+0x67594FDA = ~z~~sl:0.0:1.5~Sickness started spreading...~lr:~but the government insisted on keeping them contained.
+
+0x68732E6A = ~z~He always seemed like a decent enough feller to me.
+
+0x68918AF9 = ~z~For years, he was the best man I knew.
+
+0x71581B92 = ~z~well done.
+
+0x88535CE1 = ~z~I saw a doctor... and he says I'm in a pretty bad way.
+
+0x92910B94 = ~z~Where you from?
+
+0x93616B5F = ~z~he's now in jail, apparently awaiting death.
+
+0x95646D75 = ~z~~sl:0.0:3.2~It ain't something that's easy to walk away from.~lr:1.5:1.0~And...~sl:1.0~he's got all my money.
+
+0x95932D74 = ~z~It already is. So ~rp~what are you suggesting we do?
+
+0x99999CE6 = ~z~No, sir, I don't have the pleasure.
+
+0x317374A1 = ~z~~sl:0.0:3.4~But ~rp~I know now that you don't get to live a bad life...~sl:~and have good things happen to you
+
+0x447077FF = ~z~~sl:0.0:0.7~You know...~sl:1.8:2.0~I had a son once.~sl:0.4:1.3~Years ago.~lr:1.2~I don't talk about him much.
+
+0x461048B8 = ~z~Here, I, uh...
+
+0x461732A7 = ~z~I saw a doctor and... he says I'm in a pretty bad way.
+
+0x582705C4 = ~z~Well, please, put that poor animal down and show me.
+
+0x609916AF = ~z~~sl:0.0:1.2~I don't rightly know.~lr:0.9~Charles and I just thought you should be aware.
+
+0x809673B1 = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:1.7~I ain't sure there's any going back at this point.
+
+0x812921FF = ~z~Well, if they drank all that, they couldn't have gotten too far.
+
+0x844746FB = ~z~Quick Mr. Morgan, there's someone down there.
+
+0x879468A1 = ~z~So where we going?
+
+0x1399382D = ~z~I was there on the raid to steal back those horses and...
+
+0x2977213A = ~z~We can talk more about this later.
+
+0x3031208B = ~z~~sl:0.0:1.2~When she got pregnant...~sl:1.0~she knew who I was, what my life was.
+
+0x3286926B = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+0x4561142A = ~z~~sl:0.0:2.2~Some tried to revolt and were killed.~lr:0.5~The others... eventually all died of disease.
+
+0x4693759B = ~z~I was just in Saint Denis...
+
+0x5506155C = ~z~I think the Chief went the other way, sir?
+
+0x7226098C = ~z~~sl:0.0:5.5~Dutch seems hell bent on making your son's fight his own and...~lr:1.7~this ain't easy to say, but...
+
+0x7694508A = ~z~~sl:0.0:6.4~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.4~continues to worsen.
+
+0x9136629C = ~z~~sl:0.0:2.0~I got there one day and...~lr:1.9~saw two crosses outside and I knew right away...
+
+0x9256683B = ~z~I would rather certain actions were taken by friends outside the tribe.
+
+0x16469808 = ~z~~sl:0.0:4.5~Many of the elders are sick and the young feel that any compromise...~sl:~is an admittance of defeat.
+
+0x20916237 = ~z~~sl:0.0:3.3~I can't go back to my people without the Chanupa.~sl:0.8~It must be down there. Please, Mr. Morgan.
+
+0x25154808 = ~z~Yes, I know enough.
+
+0x34180220 = ~z~A little. Mostly what Charles told me.
+
+0x50013131 = ~z~I saw a doctor and... he says I'm in a pretty bad way.
+
+0x56559825 = ~z~I am not... so sure about that.
+
+0x59023735 = ~z~Yes, sir...
+
+0x71672763 = ~z~I don't know too many kings.
+
+0x82830468 = ~z~~sl:0.0:1.0~I had to.~sl:2.3:1.8~I don't know...~sl:1.7~I ain't been a good man.
+
+0x89109348 = ~z~They had men, women and children penned in there like livestock.
+
+0x90736918 = ~z~~sl:0.0:2.8~I'll try to ensure that they never even know I'm there, but...~sl:0.8~actions don't always go the way you plan.
+
+0x95710899 = ~z~~sl:0.0:2.2~I know. Who wants to fight them?~sl:1.5~Who cares?
+
+0xA1B098A8 = ~z~~sl:0.0:1.5~He was such a good kid...~sl:0.9:1.8~she was too, I guess.~sl:0.1~Just a kid. Nineteen.
+
+0xA1C933F5 = ~z~Are things that bad on the reservation?
+
+0xA3AAC0E3 = ~z~~sl:0.0:2.0~But I have to continue to seek...~sl:~to resolve matters through peaceable negotiation.
+
+0xA3D6EA85 = ~z~I did.
+
+0xA3DAB168 = ~z~do you know my friend, Mr. Morgan?
+
+0xA3F694C8 = ~z~Do you see anything?
+
+0xA4F660A7 = ~z~~sl:1.3:4.4~They moved us here. They've taken everything we had.~sl:1.0~I signed three treaties myself, and they've broken each one.
+
+0xA5E6A5D6 = ~z~~sl:0.0:3.2~Of course, err, ~rp~not to worry.~lr:1.0~I shouldn't have put you on the spot like that.
+
+0xA5EAA79F = ~z~~sl:0.0:3.3~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+
+0xA8FEFADE = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:0.8~I guess our situations have become tangled.
+
+0xA9BAA88F = ~z~It's alright. I'll work something out.
+
+0xA21ED49A = ~z~At least you understand something of your anger.
+
+0xA21F4AC6 = ~z~Come meet me on the reservation whenever you can.
+
+0xA22F5B19 = ~z~You've got land they want... land with oil.
+
+0xA23F3E10 = ~z~I am not so sure about that.
+
+0xA35B65C1 = ~z~Enjoy the ride.
+
+0xA73EAC34 = ~z~~sl:0.0:1.7~My uncle married an Indian anyway.~sl:0.9~She seemed nice enough.
+
+0xA94D41B3 = ~z~~sl:0.0:2.4~He was such a good kid...~sl:1.1:3.0~she was too, I guess. Just a kid.~sl:0.4~Nineteen.
+
+0xA755E89A = ~z~How much do you know about Dutch?
+
+0xA9984F81 = ~z~It hardened me... feeling that kind of pain.
+
+0xA28201AE = ~z~Even sacred things...
+
+0xA84952E0 = ~z~The two of them were headed for Fort Wallace when I last saw them.
+
+0xA268458E = ~z~I'll head over there... see if I can keep things from boiling over.
+
+0xA505005D = ~z~Here, I...
+
+0xA1866978 = ~z~Animals.
+
+0xA4010437 = ~z~Yes, my son is in jail.
+
+0xA9724619 = ~z~You got no reason to thank me yet.
+
+0xAAF9DB23 = ~z~What is this news, Captain Monroe?
+
+0xABEBE674 = ~z~A ceremonial pipe... there must be some clue as to what happened here.
+
+0xABEF5F2D = ~z~Come in.
+
+0xAC329CF9 = ~z~two women were assaulted by his men.
+
+0xAC4859B7 = ~z~~sl:0.0:2.1~Some tried to revolt and were killed.~lr:0.6~The others... eventually all died from disease.
+
+0xACD0E194 = ~z~I don't know too much about peace.
+
+0xACDFBD20 = ~z~~sl:0.0:4.6~Many of the elders are sick and the young feel that any compromise...~sl:0.8~is an admittance of defeat.
+
+0xAD8AC2E4 = ~z~~sl:0.0:4.4~I'm sure Charles will find a way to help him, but...~lr:0.9~I just wanted you to know the situation.
+
+0xADB6A214 = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.5~Let me give this some thought.
+
+0xAE1DEDFA = ~z~~sl:1.0~Whiskey.
+
+0xAE4B3E59 = ~z~I'm an old man...
+
+0xAE450244 = ~z~~sl:0.4~Okay...
+
+0xAF6FD1EA = ~z~~sl:0.0:1.3~we'll be able to escape...~sl:0.5~and go somewhere far away where no one will find us.
+
+0xAF681247 = ~z~~sl:0.0:3.7~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.8~I'll see you both soon.
+
+0xAFDCC2D9 = ~z~So... ~rp~conditions are that bad on the reservation?
+
+0xB06EBEBC = ~z~For years, he was the best man I knew.
+
+0xB0F32492 = ~z~~sl:0.0:4.0~I don't know why he's getting involved with Eagle Flies, but...~lr:0.4~the two of them together... it's gonna be a problem.
+
+0xB1A01C21 = ~z~And most of all...
+
+0xB1DEC878 = ~z~This is what I was looking for. English Mace.
+
+0xB3D35159 = ~z~Please, it won't take long...
+
+0xB5A972A1 = ~z~Hello?
+
+0xB5B42B97 = ~z~~sl:0.0:1.5~He was such a good kid...~sl:0.9:1.8~she was too, I guess.~sl:0.1~Just a kid. Nineteen.
+
+0xB6C7FACA = ~z~~sl:0.0:6.0~Yes. ~rp~This conflict with Colonel Favours and his regiment at Fort Wallace~sl:0.3~continues to worsen.
+
+0xB7B78831 = ~z~~sl:0.0:3.2~Charles will find a way to help Eagle Flies, but...~lr:1.0~I worry that won't be the end of it.
+
+0xB9BAC050 = ~z~Please help me look, Mr. Morgan.
+
+0xB9C0F2E3 = ~z~~sl:0.0:2.2~Turned out some bastards had come through...~lr:0.7:1.0~robbed them...~sl:0.5~and shot them dead.
+
+0xB16E4B6F = ~z~It's not good news I'm afraid.
+
+0xB42CA503 = ~z~are only things.
+
+0xB45AD239 = ~z~Eagle Flies got caught up in that, and now he's in jail.
+
+0xB56A65D5 = ~z~~sl:0.0:3.3~I'd have been dead by sixteen if it wasn't for him.~lr:1.0~He never gave up on me.
+
+0xB64B91D2 = ~z~~sl:0.0:4.5~So... ~rp~we don't know each other too well, but...~lr:1.2~I wanted to speak to you about Eagle Flies.
+
+0xB71DA71C = ~z~Well done...
+
+0xB97F09B4 = ~z~~sl:2.0~Not if I get it back.
+
+0xB755EAFC = ~z~All for ten dollars.
+
+0xB894E450 = ~z~~sl:0.0:1.0~Okay.~lr:1.9~Let me give this some more thought. Thank you, Mr. Morgan.
+
+0xB7605F23 = ~z~Well, ~rp~we ain't done much to calm the situation.
+
+0xB9319D4B = ~z~~sl:0.0:4.0~I worry a lot of folks are gonna get caught in the crossfire,~sl:0.8~including Eagle Flies.
+
+0xB465159E = ~z~Well, guess that's something at least.
+
+0xB487598D = ~z~War would be futile.
+
+0xB732001E = ~z~~sl:1.5~They probably doused the wood to make it burn faster.
+
+0xB3141308 = ~z~~sl:0.0:2.3~Apparently the news of our conflict...~sl:~has spread all the way to Washington.
+
+0xB5342671 = ~z~I hope you can find peace within yourself.
+
+0xB8575105 = ~z~Come, take a look at this.
+
+0xBA1E9CEF = ~z~~sl:0.0:0.7~well...~lr:1.1~you know something of Dutch, I think?
+
+0xBA1082C1 = ~z~Of course... what is it?
+
+0xBAE26920 = ~z~~sl:0.0:2.0~The two of them were headed for Fort Wallace~sl:~when I last saw them.
+
+0xBC7DA3E3 = ~z~~sl:0.0:1.7~we'll be able to escape...~sl:0.4~and go somewhere far away where no one will find us.
+
+0xBCB59C42 = ~z~Well, please, put that poor person down and show me.
+
+0xBCF4DBAC = ~z~Well, perhaps we could go for a ride?
+
+0xBDF23D4C = ~z~Yes, sometimes the correct path, the bravest path...
+
+0xBE867222 = ~z~It's just up ahead.
+
+0xBF30ABCF = ~z~What's that?
+
+0xC05B6A69 = ~z~Then maybe you can take pity on my plight.
+
+0xC08FA6D9 = ~z~An army flask.
+
+0xC09CDED7 = ~z~~sl:0.0:4.6~So... ~rp~we don't know each other too well, but...~lr:1.0~I wanted to speak to you about your son.
+
+0xC2B0DA6B = ~z~~sl:1.2~I been in that cycle my whole life.
+
+0xC3A7EFE2 = ~z~I spoke with the mayor.
+
+0xC4ED42BB = ~z~No one was killed.
+
+0xC5AFC809 = ~z~People...
+
+0xC5D9923A = ~z~Sure, I can help.
+
+0xC6B96574 = ~z~This will combine well...
+
+0xC7C0DD8E = ~z~~sl:0.0:0.8~Okay.~sl:1.8~Let me give this some more thought. Thank you, Mr. Morgan.
+
+0xC9F5E196 = ~z~~sl:6.4~Well, let's keep looking.
+
+0xC21F6ED3 = ~z~Well... I fear they will find a way to blame it on us anyway.
+
+0xC27BB1D7 = ~z~Captain Monroe was reassigned here from a regiment in the north.
+
+0xC30E0DA0 = ~z~~sl:0.0:1.5~we'll be able to escape and...~sl:~go somewhere far away where no one will find us.
+
+0xC66D61F4 = ~z~I still got some options.
+
+0xC81A9B5F = ~z~~sl:0.0:2.4~He was such a good kid...~sl:1.1:3.0~she was too, I guess. Just a kid.~sl:0.4~Nineteen.
+
+0xC762D02D = ~z~is the least obvious, and also the gentlest.
+
+0xC6789D51 = ~z~It hardened me... feeling that kind of... pain, I guess.
+
+0xC47810B6 = ~z~What happened?
+
+0xCA1C3A94 = ~z~~sl:0.0:4.2~So... ~rp~I ain't exactly sure why I'm here.~lr:1.0~I guess our situations have become tangled.
+
+0xCB4A5525 = ~z~Maybe...
+
+0xCB9C05CB = ~z~H-hello?
+
+0xCB77DB83 = ~z~Colonel Favours...
+
+0xCDAD97AF = ~z~~sl:0.0:0.7~Maybe.~lr:1.3~All I can do now is try to make some things right.
+
+0xCDB25082 = ~z~~sl:0.0:3.5~I'd have been dead by eighteen if it wasn't for him.~lr:1.3~He never gave up on me.
+
+0xCDEE81F6 = ~z~~sl:0.6:0.0~Canada? They got Indians in Canada?
+
+0xCE217C99 = ~z~There's something over here...
+
+0xCE33848F = ~z~Some of ~rp~the plants I need will be growing down here.
+
+0xCFEF3EE8 = ~z~Sure.
+
+0xD04DAF3B = ~z~Help me look around, please. The Chanupa is gone.
+
+0xD0D1DDAC = ~z~please.
+
+0xD1EBAB5B = ~z~~sl:0.0:3.5~Dutch's got this crazy plan that...~sl:0.4~if we create enough noise and chaos,
+
+0xD2A65B9F = ~z~I got your things, I-I think.
+
+0xD4E57ED4 = ~z~~sl:0.0:2.4~But ~rp~when the intent becomes violence,~sl:0.5~that's when the cycle begins again.
+
+0xD5BECA90 = ~z~Please, come look at this.
+
+0xD8F3AD07 = ~z~Dutch's got this crazy plan that if we create enough noise and chaos,
+
+0xD8F51D34 = ~z~Aren't you riding on with Rains Fall?
+
+0xD9DD784E = ~z~he has already exacted some measure of revenge for the raid...
+
+0xD31F955B = ~z~~sl:0.0:2.0~I got there one day...~lr:1.5~I saw two crosses outside and I knew right away...
+
+0xD65C059D = ~z~I'm sorry to hear that.
+
+0xD66F5590 = ~z~~sl:0.0:4.2~I don't know why he's getting involved with Eagle Flies,~lr:0.4~but the two of them together... ~rp~it's gonna be a problem.
+
+0xD69D6D69 = ~z~~sl:0.0:2.6~I didn't wanna promise nothing I couldn't keep, but...~lr:0.2~I said I'd do right by them.
+
+0xD90C7380 = ~z~I'm... I'm a great disappointment to my son.
+
+0xD112AD4B = ~z~~sl:0.0:3.0~I didn't wanna promise nothing I couldn't keep, but...~lr:0.3~I said I'd do right by them.
+
+0xD601B136 = ~z~I know, Captain.
+
+0xD888FDEC = ~z~I could really use your help here.
+
+0xD8056CB4 = ~z~the heart...
+
+0xD50442CA = ~z~~sl:0.0:1.6~In part, yes.~lr:1.1~I think you know something of Dutch by now?
+
+0xD1699428 = ~z~Please, Mr. Morgan, I just want the Chanupa back, not vengeance.
+
+0xD5888022 = ~z~~sl:0.0:2.8~Any action without violence is difficult,~sl:0.2~especially when my son is involved.
+
+0xD7000619 = ~z~Every few months I'd stop by there for a few days.
+
+0xDA1AEE0A = ~z~A little. Mostly what Charles told me.
+
+0xDA190117 = ~z~~sl:0.0:3.8~I just think... ~rp~if I could give them that...~sl:1.3~then maybe this ain't all for nothing.
+
+0xDAA64160 = ~z~You said you were going to look for the Chanupa?
+
+0xDABE0ABE = ~z~~sl:0.0:0.7~Isaac.~lr:1.2~His mother, Eliza, was a waitress I met.
+
+0xDB0FF89B = ~z~~sl:0.0:5.5~But... ~rp~he's been unraveling for some time now and...~lr:1.6~I ain't sure there's any going back at this point.
+
+0xDB588CDF = ~z~Any assistance would be much appreciated, Mr. Morgan.
+
+0xDB3252E3 = ~z~Stop that, please! It isn't helping!
+
+0xDBC19FF9 = ~z~Arthur Morgan...
+
+0xDC7ABB42 = ~z~You got no reason to thank me yet.
+
+0xDC13F6B8 = ~z~I can calm my son.
+
+0xDC43ABBF = ~z~~sl:0.0:0.7~Okay.~sl:1.2~Thank you, Mr. Morgan.
+
+0xDCB8748C = ~z~Hellfire! We gotta track down this maniac.
+
+0xDCEA1A2A = ~z~Hey... I found something.
+
+0xDD5AA443 = ~z~Captain Monroe...
+
+0xDD55C5D5 = ~z~~sl:0.0:2.0~I got there one day...~lr:1.5~I saw two crosses outside and I knew right away...
+
+0xDE724484 = ~z~~sl:0.0:2.4~It took a long time for me...~sl:~to learn that you can never change a person.
+
+0xDEB1F26D = ~z~~sl:0.0:3.9~I don't know why he's getting involved with Eagle Flies,~sl:0.5~but ~rp~the two of them together... it's gonna be a problem.
+
+0xDED9005F = ~z~~sl:0.0:4.2~Okay. ~rp~Let me give this some more thought.~lr:0.6~Thank you, Mr. Morgan.
+
+0xDF73303B = ~z~Er, not yet.
+
+0xDFC75644 = ~z~Get it back?
+
+0xE08B9E78 = ~z~~sl:0.0:2.9~Brutality and beauty are both all around us,~lr:0.5~yet so often we're unable to see past our own grievances.
+
+0xE0AF96DE = ~z~~sl:0.0:5.0~So... ~rp~we don't know each other too well, but...~lr:1.3~I wanted to speak to you about your son.
+
+0xE1A07C21 = ~z~I wish my son knew such restraint.
+
+0xE1F46989 = ~z~~sl:0.0:1.9~Thank you, Mr. Morgan.~lr:1.5~Let me give this some thought.
+
+0xE3C9CF85 = ~z~You don't sound very well.
+
+0xE4A0A539 = ~z~I'll head over there and see if I can keep things from boiling over.
+
+0xE6ACD4DD = ~z~~sl:0.0:2.9~We only become more who we really are.~lr:1.0~Perhaps you see that with him... just as I see it with my son.
+
+0xE9F13E86 = ~z~No, I'm pretty sure he had nothing to do with that one.
+
+0xE17DE6D3 = ~z~It's a beautiful ride ahead ~rp~if you need some time to think.
+
+0xE18CDBDF = ~z~~sl:0.0:4.1~So... ~rp~we don't know each other too well, but...~lr:1.6~I wanted to speak to you about Eagle Flies.
+
+0xE24C0825 = ~z~I assure you I will continue to do as much as I can.
+
+0xE31BE54A = ~z~I've found something!
+
+0xE41EA122 = ~z~This situation we're in, me, Dutch and the others.
+
+0xE97F3B74 = ~z~It's an honor, sir.
+
+0xE173B642 = ~z~I'll head over there... ~rp~see if I can keep things from boiling over.
+
+0xE598F625 = ~z~~sl:0.0:5.8~But... ~rp~he's been unraveling for some time now and...~lr:1.4~I ain't sure there's any going back at this point.
+
+0xE606ADCF = ~z~Your friend, Mr. Van der Linde, he talks a lot...
+
+0xE751A4D1 = ~z~I'm sorry to be forward, but there's so much to be done.
+
+0xE963C522 = ~z~But the views are beautiful from up here.
+
+0xE7137AFA = ~z~The army aren't all bad men, just as my people aren't all good.
+
+0xE60678EC = ~z~He's a good man, he wants to help.
+
+0xEAC41231 = ~z~Yes...
+
+0xEBC89FD1 = ~z~Would you do that?
+
+0xEBC14323 = ~z~
+
+0xEC873F7F = ~z~~sl:0.0:0.8~No...~sl:2.7~is France near Canada, then?
+
+0xECA59563 = ~z~Thank you.
+
+0xECF192A2 = ~z~Please, Mr. Morgan, this is very important.
+
+0xED42B160 = ~z~~sl:0.0:1.0~Hold up a moment...~lr:0.5~Some of the plants I need will be growing down here.
+
+0xED47A83D = ~z~Whiskey...
+
+0xEDC80452 = ~z~Who... who would do this?
+
+0xEDF9F2A9 = ~z~~sl:0.0:2.0~Yeah, I'm gonna go in, get your Chanupa...~sl:~and no one will be any the wiser.
+
+0xEE3DBA59 = ~z~~sl:0.0:1.5~we'll be able to escape...~lr:0.6~go somewhere far away where no one will find us.
+
+0xEE65FC8F = ~z~An empty bottle of whiskey.
+
+0xEEA3CBDE = ~z~I'm not, I'm...
+
+0xEEB71C0E = ~z~But perhaps it will stop a bigger massacre.
+
+0xEECF9F06 = ~z~Your son seems to want a war.
+
+0xEF294EB4 = ~z~Your people are lucky to have you.
+
+0xEF383389 = ~z~I appreciate the herbs, but... ~rp~I think it's gonna take more than that.
+
+0xEFB4E709 = ~z~~sl:0.0:6.5~But... ~rp~he's been unraveling for some time now and...~lr:1.3~I ain't sure there's any going back at this point.
+
+0xF0137A14 = ~z~So why do you stay?
+
+0xF0358CA5 = ~z~Eagle Flies got caught up in that, and now he's in jail.
+
+0xF05DDBDB = ~z~~sl:0.0:2.8~It ain't something that's easy to walk away from.~lr:1.5:0.8~And...~sl:1.1~he's got all my money.
+
+0xF0C87E0F = ~z~Why are you shooting? Help me look, please.
+
+0xF2B9E7C0 = ~z~Okay. Thank you, Mr. Morgan.
+
+0xF2BC402B = ~z~~sl:0.0:3.4~I'm sorry to cut you off, ~rp~but it's just up ahead.~lr:0.2~Let's continue our talk later.
+
+0xF3DC497A = ~z~and I ain't never seen much glory in it.
+
+0xF6F33ACB = ~z~~sl:0.0:1.8~I don't know how long I got....~sl:1.2~but ~rp~some of them... they still got a chance to have a life.
+
+0xF7C7287E = ~z~please.
+
+0xF8BBF66E = ~z~~sl:0.0:3.0~I understand that you can't be a bad man...~lr:~and expect good things to happen to you.
+
+0xF8F4E533 = ~z~Look there... smoke...
+
+0xF9BDC894 = ~z~I'm sorry to hear that.
+
+0xF24B0F7D = ~z~~sl:0.0:2.5~It took a long time for me...~sl:~to learn that you can never change a person.
+
+0xF58CF30B = ~z~I'm not, I'm...
+
+0xF58CFC46 = ~z~~sl:0.0:3.4~If I get enough money together, ~rp~I can always head out west...~sl:~to one of those sanatoriums in California.
+
+0xF71FC381 = ~z~~sl:0.0:2.0~I got there one day and...~lr:1.9~saw two crosses outside and I knew right away...
+
+0xF411C233 = ~z~~sl:0.0:2.8~Sorry, this ain't a good time for me.~lr:~I already got more problems than I can handle.
+
+0xF74454F9 = ~z~No... France is near...
+
+0xFA7DDB14 = ~z~~sl:0.0:0.8~Sure looked like one.~sl:1.6~From up near the Canadian border some place.
+
+0xFA202113 = ~z~I just hope between us we can work this out.
+
+0xFAD700D3 = ~z~What was his name?
+
+0xFC823A6B = ~z~My son thinks there is glory in death.
+
+0xFD69B973 = ~z~With these, maybe I can calm my people.
+
+0xFD95A3ED = ~z~~sl:0.0:2.1:1~No, I need to find the Chanupa.
+
+0xFD86803F = ~z~I supposed as much. So what does that mean for us now?
+
+0xFD345281 = ~z~What happened?
+
+0xFED8B9C9 = ~z~And most of all...
+
+0xFEED8C33 = ~z~~sl:0.0:3.6~Anyway, gentlemen, ~rp~I won't take up any more of your time.~lr:0.9~I'll see you both soon.
+

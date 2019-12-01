@@ -1,0 +1,10 @@
+0x26A85C92 = ~z~Listen, uh, just between us...
+
+0x30FE713E = ~z~Hey! Hey, there, friend.
+
+0x1471B825 = ~z~you haven't been telling people about, uh, that little situation you helped me out with, have you?
+
+0xE8B4E0E8 = ~z~hard enough maintaining my reputation in this part of town without rumors of... uninvited guests...
+
+0xFC24878B = ~z~Just something I'd rather not people knowing about...
+

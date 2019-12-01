@@ -1,0 +1,28 @@
+0x0E2B04D8 = Remain with the gang
+
+0x0EF23C62 = Walk
+
+0x3AE0049A = The search area has been abandoned.
+
+0x8DB783F1 = Get up
+
+0x9DB4B5AA = ~INPUT_MOVE_UP_ONLY~ Walk with the chain gang
+
+0x9F12DEA8 = Look
+
+0x80318B55 = Search the ~o~coast~s~ for any survivors
+
+0x109683BB = Return to the ~o~gang~s~
+
+0xAAB480A0 = Take out the ~e~guards~s~
+
+0xDD0A5C3F = The gang was abandoned.
+
+0xE0972315 = Search for signs of a campfire to locate your companions.
+
+0xF2F528E5 = Take out the remaining ~e~guards~s~
+
+0xF31BEA29 = Return to the ~o~coast~s~
+
+0xFAAE8C83 = Smoke
+

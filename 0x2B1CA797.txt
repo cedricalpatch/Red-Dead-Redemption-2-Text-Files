@@ -1,0 +1,24 @@
+0x00B37AFE = ~z~~sl:0.0:1.2~It ain't like that.~sl:1.1:1.0~Life ain't that simple.~sl:0.5~Not this life.
+
+0x0F71052E = ~z~How we get here, John?
+
+0x1E3C8027 = ~z~Well, ain't that a charming welcome.
+
+0x4FCF634C = ~z~Ain't you ever heard 'three's a crowd'?
+
+0x6B601A6D = ~z~Not now, Arthur, please?
+
+0x7EC763D9 = ~z~~sl:0.0:1.4~Same way we end up anywhere,~sl:0.8~by annoying the wrong people.
+
+0x73ED4E25 = ~z~~sl:0.0:0.8~No, I mean us.~sl:0.4:0.9~This...~sl:0.4~situation.
+
+0x4217C7DD = ~z~~sl:0.0:1.5~Anyway. Uh...~sl:0.9:1.9~I'm going to get back to that...~sl:~thing I was doing.
+
+0x6481AF4E = ~z~~sl:0.0:1.0~Look...~sl:1.5~I know I ain't acted right to you and the boy.
+
+0x49878CA9 = ~z~Guess I can't make you want something you don't.
+
+0xA21DBDD4 = ~z~~sl:0.0:1.5~Anyway, I...~sl:1.1:2.4~best get back to, uh,~sl:.0.1~that thing I was doing.
+
+0xD6F3277E = ~z~I know.
+

@@ -1,0 +1,550 @@
+0x00EF34FB = ~z~Are you gonna help John?
+
+0x021D1A41 = ~z~Bring it up with Signor Bronte, I'm sure he'd love to hear it.
+
+0x02E1CCC1 = ~z~I don't know.
+
+0x04409237 = ~z~was too small to comprehend what you saw.
+
+0x0641FB12 = ~z~Are we taking him to Dutch then?
+
+0x0697C04C = ~z~We got things covered down here, Arthur.
+
+0x0790F858 = ~z~Let's get outta here.
+
+0x0927A1E5 = ~z~~sl:0.0:2.6~But in Tahiti, to my understanding,~sl:~folks feed 'em to sharks, rather than make them kings.
+
+0x0A1DF6CE = ~z~
+
+0x0A179E29 = ~t~In Italian: Kill those sons of bitches!
+
+0x0A399AE7 = ~z~Call yourself police? Bronte's goddamn puppets!
+
+0x0A9923EC = ~z~Where you hiding?
+
+0x0B4F0403 = ~z~Look out!
+
+0x0B52A6C9 = ~z~Damn it, locked.
+
+0x0BAAAD5C = ~z~Something creepy about these statues.
+
+0x0CCEF91F = ~z~~sl:2.2:0.0~That would be paradise.
+
+0x0DF8259E = ~z~Only type of savage in these parts...
+
+0x1AB62E22 = ~z~I'm sorry I wasted my life trying to teach you boys...
+
+0x1B3E1FAE = ~z~Go go!
+
+0x1BE43E3C = ~z~Sorry, boys, nobody's going to jail today!
+
+0x1CFE232E = ~z~Put him in the front.
+
+0x1E0A0881 = ~z~I am this country.
+
+0x1E8AF0BD = ~z~I said you're with John!
+
+0x1EE24C7E = ~z~No...
+
+0x2A4A5BDA = ~z~Good luck to you.
+
+0x2C8562C0 = ~z~What you saw, was people who lost everything to savagery.
+
+0x2CEEF571 = ~t~In Italian: You're dead men!
+
+0x2F2CC78B = ~z~Bill, you help.
+
+0x2FD92577 = ~z~You call them!
+
+0x3AA6C1BA = ~z~you are what people are running from.
+
+0x3B6D642E = ~z~
+
+0x3F2CB792 = ~z~You do nothing.
+
+0x3F48C456 = ~z~disposed of!
+
+0x4A25A872 = ~z~Stop hiding you bastard!
+
+0x4A293F84 = ~z~What?
+
+0x4D7060A5 = ~z~So filth has got to be...
+
+0x4D31100A = ~t~In Italian: We'll kill every last one of you!
+
+0x5BE72C56 = ~t~In Italian: Send a telegram to Chief Lambert.
+
+0x5CD20614 = ~z~You stand for nothing.
+
+0x5D79B0A3 = ~t~In Italian: I've had it with these rednecks!
+
+0x5EAA2724 = ~z~We're coming for you, Bronte! Send out every man you got!
+
+0x5F6FB487 = ~t~In Italian: Do not let them get to Mr. Bronte!
+
+0x5F294F9F = ~z~Who's got that bastard on the stairs?
+
+0x5F863F55 = ~z~Gun them down and let's get out of here. We got what we came for.
+
+0x5FBB0676 = ~z~feeding a feller to a goddamn alligator, Dutch?
+
+0x6B891CD6 = ~z~You repulsive little maggot!
+
+0x6C10A491 = ~z~I possess things that you will never understand.
+
+0x6CEB6BD3 = ~z~We got one on the stairs!
+
+0x6CF3C3B7 = ~z~Rain hell on these sons of bitches!
+
+0x6EB22448 = ~z~I figure it might as well be him.
+
+0x7B3E9E31 = ~z~I never said I was no sharpshooter.
+
+0x7E7AB5DB = ~z~This is not over yet! Head to the house!
+
+0x7EBF4342 = ~z~Call them, now!
+
+0x8B033198 = ~t~In Italian: I said we should never trust these sons of bitches!
+
+0x8B96DC2C = ~z~Bronte! You son of a bitch, come out!
+
+0x8C77D86E = ~z~Arthur, get back here and help us.
+
+0x8C87879F = ~z~Let's go, Arthur.
+
+0x8EC98027 = ~t~~sl:2.3:1.4:1~In Italian: Oh, fuck!
+
+0x9A2D024B = ~z~Let's get in there!
+
+0x9A402310 = ~z~Like I said, you carry him.
+
+0x9AC36E8E = ~z~you're the one deserving of pity my friend.
+
+0x9B385D21 = ~z~Stay with me, Arthur!
+
+0x9CBC612C = ~z~the nation's most loyal latrine digger...
+
+0x9FCF664F = ~z~We gotta get out of here!
+
+0x15A397B0 = ~z~You bastards are defending that snake?
+
+0x19F949F9 = ~z~~sl:0.5~You don't like naked women pouring wine on you?
+
+0x20C45A08 = ~z~Guess it's me then.
+
+0x26D3F24A = ~z~Bronte, where are you?
+
+0x26EE57D6 = ~t~In Italian: Hold them back, goddamn it!
+
+0x28A1303F = ~z~Good! Now kick that damn door in!
+
+0x36C64B0D = ~z~Get to the boat!
+
+0x37C41458 = ~z~~sl:0.0:3.0~It's men... like Mr. Bronte...~sl:0.2:1.9~like Mr. Cornwall...~sl:0.2~that ruined the West.
+
+0x39E387EE = ~z~Bronte! Get out here and fight like a man!
+
+0x40A028F1 = ~z~Taught me something you could do with learning.
+
+0x40A1EA75 = ~z~You got him?
+
+0x40B5A821 = ~z~Let's go, let's go!
+
+0x42BC8F6A = ~t~In Italian: This one's mine!
+
+0x53BF9D2F = ~t~In Italian: Paolo, Giovanni, get out here now!
+
+0x61AE02DB = ~z~Leave the damn door and shoot, Arthur.
+
+0x61B87CA9 = ~z~it weren't no match for a bunch of bumpkins.
+
+0x67A16369 = ~z~Don't you know when to quit?
+
+0x67CE5F21 = ~z~There's folks like that everywhere...
+
+0x68B4C9F0 = ~z~~sl:1.5:0.0~That's what they said about the West... and look how that turned out.
+
+0x68C3DB3C = ~z~I don't doubt you saw things, Bill...
+
+0x71EC3551 = ~z~Arthur, John, you take the left side. If you see a shot, you take it.
+
+0x72BCA4F8 = ~z~Arthur! Nobody goes in there 'til we've cleared these bastards.
+
+0x73A39278 = ~z~When we get there...
+
+0x74A97F54 = ~z~~sl:0.0:2.2~It's like someone's looking at you when they're not.~sl:~I'd get rid of them.
+
+0x76B6B26C = ~z~This ends tonight!
+
+0x76B4941A = ~z~Arthur! Get a move on!
+
+0x82C6CC8D = ~z~That part.
+
+0x83E47D78 = ~t~In Italian: Throw everything we got at them!
+
+0x86D40653 = ~z~Alright, let's spread out. He's hiding somewhere.
+
+0x87FBDDE9 = ~z~Get over here now, Arthur!
+
+0x92D736FE = ~z~We still got one upstairs!
+
+0x96A1FAE7 = ~z~Oh yeah.
+
+0x98F9F6F2 = ~z~Just give up, you bastard! It's over!
+
+0x99CEBBB3 = ~z~What are you waiting for, Arthur?
+
+0x99E4AC81 = ~z~it's all we got.
+
+0x99E39CFF = ~z~Hey, big man.
+
+0x184D3A94 = ~t~In Italian: How did they get in here?
+
+0x198ACEA9 = ~t~In Italian: You come after Angelo Bronte, how dumb are you?
+
+0x200E49D2 = ~z~The savagery of peasants...
+
+0x235A331D = ~z~You sons of bitches backed the wrong goddamn crook!
+
+0x252E2ADA = ~z~You coming?
+
+0x282EB993 = ~z~Keep going.
+
+0x325D8C6C = ~z~Them Indians were savages.
+
+0x463B79DB = ~z~We got more inside!
+
+0x580C57C9 = ~z~Watch it.
+
+0x672C1357 = ~z~Your time is up, Bronte!
+
+0x684F1E42 = ~z~Oh, you're right.
+
+0x708ED9A0 = ~z~~sl:0.0:1.2~So, Dutch...~sl:0.5~what's Tahiti like, anyhow?
+
+0x727C2BF8 = ~z~The part that covers weakness.
+
+0x825DD634 = ~z~Lenny, Bill, you're with me.
+
+0x845C33E9 = ~z~Thomas, let's get going.
+
+0x852C1E8A = ~z~We'll find you, you damn snake!
+
+0x869A59A4 = ~z~Me? I run a city...
+
+0x878C972F = ~z~Come on. Let's get out of here.
+
+0x887DCA03 = ~z~Cause from where I'm sitting...
+
+0x892A0B0C = ~z~Now you pick us up yonder.
+
+0x901BF531 = ~z~I think Dutch wants to have a little chat, Mr. Bronte.
+
+0x977F5A2F = ~z~you were a sharpshooter in the cavalry weren't you?
+
+0x1551BECB = ~z~Get out here, Bronte!
+
+0x2501FD20 = ~z~I thought you were checking upstairs?
+
+0x3328F04B = ~t~In Italian: You hillbilly scum!
+
+0x3507E2C5 = ~z~Well, leaving love aside...
+
+0x4915B6FB = ~z~That ruin everything.
+
+0x5004EC76 = ~z~You... you...
+
+0x6549F244 = ~z~Watch your mouth there boy.
+
+0x7222D9F5 = ~t~In Italian: We need more ammunition!
+
+0x7463F84C = ~z~So... there's no folk like that in Tahiti?
+
+0x7746A795 = ~z~all your money...
+
+0x8618FF1F = ~z~Quick, before we lose Bronte.
+
+0x9758C744 = ~t~In Italian: Drop the damn gun, cowboy.
+
+0x9931A3D5 = ~t~In Italian: You're making a big mistake!
+
+0x17128E67 = ~z~Someone help me up here!
+
+0x25012A44 = ~z~Arthur, come on!
+
+0x32708C9E = ~z~So you always tell us...
+
+0x74825BF2 = ~z~Arthur?
+
+0x79817CB7 = ~z~Dutch, I saw things out there.
+
+0x82557D2D = ~z~I have no idea... but I hear it's paradise.
+
+0x89853ABE = ~z~wasn't that it?
+
+0x170137B8 = ~z~but your tiny little mind...
+
+0x220209C9 = ~z~Jesus.
+
+0x258043B6 = ~z~Interesting way you boys got of preparing for a killing.
+
+0x493012A9 = ~z~Shoot and move, fellers, come on. Stay tight.
+
+0x850330B7 = ~z~Arthur, come on, let's go!
+
+0x922910B2 = ~z~You got a shot on 'em?
+
+0x978838D4 = ~z~How many guards does one man need?
+
+0x2375297C = ~z~~sl:0.0:2.7~Okay, okay, I'm sorry friend, I...~sl:1.0:3.1:1~no, name your price! Name your price, every man have a price...
+
+0x3725844D = ~z~
+
+0x8196947D = ~z~On the stairs, look out!
+
+0x10355412 = ~z~Arthur, go with John!
+
+0x11388548 = ~z~Bronte must be up there. Let's go.
+
+0x34943086 = ~z~John! In here!
+
+0x40332823 = ~z~Yeah, well I fought, and I fought well.
+
+0x64521696 = ~z~Arthur, come on!
+
+0x65080318 = ~z~All your men...
+
+0x99618066 = ~z~You are so right.
+
+0xA05CEEBE = ~z~~sl:0.0:1.0~Arthur, there you are.~sl:0.0:1.4~Come on.
+
+0xA093B414 = ~z~Come on, let's get in there.
+
+0xA0DFD5F1 = ~z~Give it up now, or everyone here dies tonight!
+
+0xA1D588A9 = ~z~I'm coming for you, Bronte!
+
+0xA3C198FF = ~z~Okay? Good luck, gentlemen.
+
+0xA5B55CBA = ~z~Up there, Arthur!
+
+0xA5C75552 = ~z~Shoot all these sons of bitches!
+
+0xA5CF76CF = ~z~maybe you could help with the suppression fire.
+
+0xA9E7C976 = ~t~In Italian: Shoot those bastards!
+
+0xA37E136B = ~z~you will die like nothing.
+
+0xA50FC2D7 = ~z~Thank you.
+
+0xA62A1353 = ~z~Well I do.
+
+0xA1718165 = ~z~Shoot that lock, Arthur!
+
+0xA6501263 = ~z~What part of your philosophy books cover...
+
+0xAA6E57B2 = ~z~Okay, let's check every room.
+
+0xAC13912E = ~z~You're pathetic.
+
+0xACB61F33 = ~z~They are good at smelling filth, huh?
+
+0xADBE8689 = ~z~Arthur, there you are...
+
+0xAEBC08AC = ~z~Hey, Bill...
+
+0xAEF22DC3 = ~z~Everyone okay? We nearly there, come on!
+
+0xAF48D440 = ~t~In Italian: Who the hell do you think you are?
+
+0xB2FCF194 = ~z~Lenny, keep that door covered!
+
+0xB6D1665A = ~z~I got you.
+
+0xB9C13FF1 = ~z~and when the law catch up to you...
+
+0xB9D8C388 = ~z~Let's go, come on!
+
+0xB11D86DF = ~z~Get out here, you son of a bitch!
+
+0xB56A8662 = ~t~In Italian: Kill every last one of those peasants!
+
+0xB215F85D = ~z~You crossed the wrong man, Bronte!
+
+0xB866B7CC = ~z~It ain't nice, I know it...
+
+0xBB51D5C5 = ~z~Shoot the lock, come on.
+
+0xBB730099 = ~z~awful vengeance on God's last creation.
+
+0xBBB37A3C = ~z~Right, he's gotta be in one of these rooms.
+
+0xBCE72502 = ~z~Right you are.
+
+0xBD0FEFCE = ~t~In Italian: Come on, I don't see that many of them!
+
+0xBDC0C910 = ~z~A thousand dollars to the man who kills him...
+
+0xBE4E35A3 = ~z~Oh, I am?
+
+0xC05796BE = ~t~In Italian: Do you know who you're messing with?
+
+0xC0D94F55 = ~z~They are even bigger fools than you.
+
+0xC6DC8670 = ~z~love you though I do.
+
+0xC60F27AF = ~t~In Italian: Somebody send word to the police!
+
+0xC994DA28 = ~z~but it is us, or him.
+
+0xC1240C3F = ~t~In Italian: Finish them, they're amateurs!
+
+0xC6960C8B = ~z~What the hell, Arthur?
+
+0xC42823DD = ~t~In Italian: Shoot them, damn it!
+
+0xC8186007 = ~z~Put your guns down!
+
+0xCA4EB941 = ~z~It's over, Bronte!
+
+0xCA6C8271 = ~z~Should we kill him?
+
+0xCBF167B5 = ~z~Shit!
+
+0xCC237768 = ~z~Shoot it, Arthur.
+
+0xCD39A426 = ~z~failures come from Europe to reap some...
+
+0xCDF39775 = ~z~Arthur?
+
+0xCF4AEC38 = ~z~No doubt.
+
+0xCFE5A9C2 = ~t~In Italian: Is someone protecting Mr. Bronte?
+
+0xD0EC2137 = ~z~Goddamn it, Arthur!
+
+0xD2B48EA0 = ~z~Come on, Lenny...
+
+0xD6A3C178 = ~z~I want his head on a plate!
+
+0xD6FC90D1 = ~z~Let's check upstairs, he's not down here!
+
+0xD7E31259 = ~z~
+
+0xD9B7128F = ~z~What are you waiting for? Shoot.
+
+0xD57E3B1D = ~z~Can't get in here.
+
+0xD5006EFE = ~z~Where's that coward hiding?
+
+0xDA8D949D = ~z~Exactly.
+
+0xDB344EE1 = ~z~Alright, fine.
+
+0xDC6C68A5 = ~z~Go on, take him downstairs.
+
+0xDC9D26D2 = ~z~Nah, let's take him to Dutch.
+
+0xDC50C298 = ~t~In Italian: Why are they still standing?
+
+0xDD844507 = ~z~Where's the rest then? Send 'em all out!
+
+0xDE3B4639 = ~z~Is that all you got, old man?
+
+0xE03EDC0E = ~t~In Italian: Come on, they're making fools of us!
+
+0xE0A4EC7D = ~z~come on.
+
+0xE1D8FCB8 = ~z~We gonna ransom you or what?
+
+0xE3DB8D7D = ~z~gonna come and rescue you?
+
+0xE4E6199E = ~z~Push up on them, boys!
+
+0xE7BBDF98 = ~z~This one's locked.
+
+0xE18FAF7E = ~z~Have you got a shot?
+
+0xE27ABDAC = ~z~Don't you never leave love aside, Arthur...
+
+0xE36A800F = ~z~You are nothing.
+
+0xE56E973F = ~z~You mean nothing.
+
+0xE328C5B0 = ~z~What are you doing?
+
+0xE592D75E = ~z~Arthur, let's go.
+
+0xE601B2C4 = ~z~You see those two? Stay out of sight.
+
+0xE8991EB4 = ~z~What are you gonna say now?
+
+0xE61173D5 = ~z~Oh, that's right, w-what was it...
+
+0xE4491638 = ~z~The law will find you...
+
+0xEA1465EB = ~z~Coming down the stairs!
+
+0xEABD21E8 = ~z~You don't even possess your own men.
+
+0xEAEC1964 = ~z~Oh for God's sake, let me.
+
+0xEAFC0E20 = ~z~You ain't police! You're a bunch of goddamn errand boys!
+
+0xEB78377D = ~z~Let's go.
+
+0xEBDCE1B8 = ~z~Bunch of goddamn jokers! I'll kill you all!
+
+0xEBFF61F5 = ~t~In Italian: Goddamn these fools!
+
+0xEC23E20A = ~z~You really wanna die for that slimy bastard?
+
+0xEC38D128 = ~z~you think we got this?
+
+0xEDEF0BAE = ~z~What are you waiting for? Take him to Dutch.
+
+0xEEA13FD5 = ~z~~sl:0.0:2.0:1~Okay, okay, no, I surrender, I surrender! I-
+
+0xEEB178F3 = ~t~In Italian: Take them down!
+
+0xEED74B46 = ~z~You can carry him. I ain't touching that piece of shit.
+
+0xEED82B56 = ~z~already the dogs are on the way.
+
+0xF1C5C2AC = ~z~Now, we need to get that door open.
+
+0xF2BCBF7D = ~z~Come on, Morgan... we're getting the hell outta here!
+
+0xF3CB3518 = ~z~and sets me free.
+
+0xF5FED534 = ~z~Alright, come on.
+
+0xF6B3E8F5 = ~z~You taking 'em or me?
+
+0xF7D15663 = ~z~Find some cover, two up ahead.
+
+0xF9C05BE0 = ~z~Quick, get our new friend on that boat before any more show up.
+
+0xF45E2E82 = ~z~Your friends the Pinkertons...
+
+0xF51B62E0 = ~z~Arthur, have a look upstairs!
+
+0xF453F0BC = ~z~On the boat now, Arthur.
+
+0xFAA5AA20 = ~z~Come on, quick. Stay quiet.
+
+0xFBB18111 = ~z~are moonshine swilling, pompous, inbred locals.
+
+0xFBE38681 = ~z~C'mon Bronte...
+
+0xFCF01574 = ~t~In Italian: Who was keeping watch?
+
+0xFD1FCA57 = ~z~Look out! More on the left!
+
+0xFE5B2165 = ~z~Goddamn it! He better be here!
+
+0xFEC335AE = ~z~We're taking the lot of you down!
+
+0xFF81AED3 = ~z~Get down there, Arthur, before he wakes up.
+

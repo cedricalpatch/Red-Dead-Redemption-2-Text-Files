@@ -1,0 +1,26 @@
+0x1C9AED28 = Take out the ~e~Pinkertons~s~
+
+0x6AC663ED = Get into cover by the ~o~door~s~
+
+0x22EE1725 = You were spotted by the Pinkertons.
+
+0x63E8A0A3 = Follow ~o~Sadie~s~ and ~o~Bill~s~
+
+0x209388EC = Kill the ~e~machine gunner~s~
+
+0xABFFA0B6 = Follow ~o~Sadie~s~
+
+0xCAE77F10 = Use ~INPUT_MOVE_UP_ONLY~ to crawl.
+
+0xD8CC83E3 = Defend Lakay from the ~e~Pinkertons~s~
+
+0xD91B3EF8 = You can use the Maxim Gun to repel the Pinkertons. Press ~INPUT_ENTER~ to mount it while standing on the cart.
+
+0xE27F2B83 = Return to ~o~Sadie~s~
+
+0xEC364E53 = Go to the ~o~Maxim Gun~s~
+
+0xEF4A7D48 = Return to your ~o~Companions~s~
+
+0xFC5F8658 = You left your companions to die.
+

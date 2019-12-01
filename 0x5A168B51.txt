@@ -1,0 +1,42 @@
+0x016D4967 = ~z~I'm in hell.
+
+0x6D44B8CD = ~z~Just let me go, damn it!
+
+0x6D85210B = ~z~Take it. It's the least I can do, please.
+
+0x6EE9BC1B = ~z~Please, I don't understand why you're doing this?
+
+0x7F0A5C58 = ~t~In Spanish: Bastards!
+
+0x8FCC41A5 = ~t~~sl:0.2~In Spanish: Godforsaken monsters.
+
+0x9FFEE20A = ~z~I think they were just going to kill me for fun.
+
+0x28BB2237 = ~z~Mierda! Who're these people now?
+
+0x43DB5877 = ~z~More of them? Oh, God no...
+
+0x79B3D1AF = ~z~Just take what you want a-and leave me be.
+
+0x529B9699 = ~z~Don't do this to me! J-just tell me what you want?
+
+0x981A76BF = ~z~Why all this? Why?
+
+0x34002467 = ~z~Oh God, they're going to kill us all!
+
+0xA041706C = ~z~~sl:0.0:3.1~Thank you. I-I know it's a lot to ask, but,~sl:0.0:2.3:1~well, now I'm stuck here...
+
+0xA789E7A2 = ~z~~sl:0.0:1.5~Nearly at civilization...~sl:1.5~things must be bad if I'm calling Valentine civilization.
+
+0xAC98E905 = ~z~Help me up here! Hello?
+
+0xB27014C9 = ~z~~sl:0.0:1.7~Could, could you take me to Valentine?~sl:~I-I've got some family there...
+
+0xBEF98DC6 = ~z~Over here, cut me free!
+
+0xC2020D65 = ~z~You saved my life. I know it. Thank you for this.
+
+0xE364569B = ~t~In Spanish: This hurts.
+
+0xE651890B = ~z~No, they got of one of you!
+

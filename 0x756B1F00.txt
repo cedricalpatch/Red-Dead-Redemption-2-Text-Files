@@ -1,0 +1,62 @@
+0x02F90510 = A bounty has been lost
+
+0x0A953503 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x2DAE25BA = The target was delivered
+
+0x2F68CA41 = Return the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ dead or alive
+
+0x12A8CB54 = The target has been killed. Collect and return the body for a reward.
+
+0x30E56E5C = The ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ is escaping. Catch up to them before they get away.
+
+0x31E683F7 = Deliver the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ ~1b~ alive for the full reward. Dead targets are worth less.
+
+0x34B8AC5A = Deliver the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ ~1b~ alive for the full reward. Dead targets are worth less.
+
+0x36DEFFCC = Deliver the targets ~1~
+
+0x41BF59D5 = Bodies can be stored on the back of your horse for easy transport.
+
+0x47A6FD50 = The targets were delivered
+
+0x57EBF50E = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x85AC36D4 = Deliver the target ~1~
+
+0x420D2C85 = Pick up the targets
+
+0x5367B274 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0x7360E5E8 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x8031AF37 = Return the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ dead or alive
+
+0x86886C10 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ from ~COLOR_ENEMY~~1~
+
+0x235772C0 = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xA0F30449 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0xA9E69D09 = Drop the target
+
+0xA7732B1C = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0xB531B7D6 = Pick up the target
+
+0xB9817F3E = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~targets~s~
+
+0xBCD6CC5D = You killed a ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0xC00C8AB3 = Get on the horse
+
+0xCFA21DAA = Go ~1~
+
+0xD78C5470 = ~1~/~2~ targets were delivered
+
+0xE5D5ED77 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ escaped
+
+0xE14E875D = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+0xFA67E4A8 = ~1~ has joined in the bounty hunt
+

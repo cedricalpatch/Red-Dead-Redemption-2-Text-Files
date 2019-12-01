@@ -1,0 +1,40 @@
+0x00D9273F = ~z~Hanging in there.
+
+0x06646DB8 = ~z~Ah, nothing. Just thought you looked a bit peakier than when I last saw you. Don't mind me.
+
+0x1C54C434 = ~z~You don't look so good.
+
+0x1DC3B9E1 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0x6A73FA6B = ~z~Well get yourself a drink.
+
+0x7BAC02E5 = ~z~Hey there, mister. You okay?
+
+0x10A8114E = ~z~You look like I feel.
+
+0x21C22473 = ~z~Ooh, look at you. Been on a bit of a spree have you?
+
+0x35A15B40 = ~z~Death... or in my case, like dying.
+
+0x3182C3F4 = ~z~What are you talking about?
+
+0x36285C12 = ~z~I'm sorry. How can I help you?
+
+0x46667CCA = ~z~And how's that?
+
+0x48608082 = ~z~Well how's that for a welcome?
+
+0xBC18F68D = ~z~You, er, come down with something there, partner?
+
+0xC8361BF8 = ~z~You worry about your horses, not me.
+
+0xD6AEB955 = ~z~I'm fine, don't you worry about me.
+
+0xD7C4ADE4 = ~z~It's just a cough.
+
+0xE1DAC210 = ~z~Some bad flu going around.
+
+0xEF0A83A2 = ~z~Hell, mister, you look like I feel. You alright?
+
+0xF8D8FD3D = ~z~Alright, none of my business.
+

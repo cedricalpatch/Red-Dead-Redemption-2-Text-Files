@@ -1,0 +1,44 @@
+0x5DD31D14 = ~z~I'm laughable.
+
+0x6B90B88F = ~z~Pitiable.
+
+0x8FCD1C64 = ~z~Vanity won't help you, young or old!
+
+0x9E1FB909 = ~z~Well get to work!
+
+0x59F31A89 = ~z~I know how you girls laugh at me.
+
+0x96D91454 = ~z~What fades?
+
+0x733DC7E9 = ~z~But it'll happen to you, too.
+
+0x2380DB51 = ~z~I don't know too much about time, Miss Grimshaw.
+
+0x4808F180 = ~z~You do, and you're right to.
+
+0x88278D11 = ~z~Well maybe I'll get lucky and die first!
+
+0x712748F1 = ~z~We don't laugh at you, miss.
+
+0x81146396 = ~z~They'll stop looking soon enough and that glass in your hand won't be so friendly neither!
+
+0xA9D0D063 = ~z~Yes...
+
+0xA800E44F = ~z~It's a bit beyond me.
+
+0xA849B735 = ~z~Don't be like that Miss Grimshaw.
+
+0xB6A653EE = ~z~It fades and it's a horror what's left.
+
+0xBFC493D6 = ~z~Tell her Mr. Morgan!
+
+0xC99679CE = ~z~I used to laugh at women just like me when I was young and pretty and sure of the world.
+
+0xCD4F013F = ~z~trust me, it fades.
+
+0xD586BF5A = ~z~Tell her about time.
+
+0xE37A2D95 = ~z~It fades...
+
+0xF2A1CBE4 = ~z~Your "youthful bloom".
+

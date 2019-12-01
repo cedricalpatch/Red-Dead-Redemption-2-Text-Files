@@ -1,0 +1,16 @@
+0x0B4273D2 = ~z~Reginald Lewis. That whiskey rag challenged you to a duel just there.
+
+0x2722B5CF = ~z~Who?
+
+0x4798BDE9 = ~z~Well, looks like Reginald didn't get you.
+
+0x96163A06 = ~z~She's been hollering for you.
+
+0x250757E2 = ~z~A word of note, though. His cousin is real tore up about what you did.
+
+0x31601170 = ~z~Who?
+
+0xEEBDBAC9 = ~z~Most people don't give him the satisfaction, but I guess you knew your odds. Serves him right.
+
+0xFD00D74F = ~z~That man's challenging every gunbelt so much as looks at him sideways.
+

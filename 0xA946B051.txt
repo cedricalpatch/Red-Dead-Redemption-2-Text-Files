@@ -1,0 +1,314 @@
+0x02492320 = Catch the biggest fish
+
+0x02E3B268 = Biggest Fish Contest
+
+0x045E4E76 = You have lost a point for killing another player with the incorrect weapon. Use a longarm to score points.
+
+0x04CB7619 = +7
+
+0x061D020C = A rare animal ~COLOR_ENEMY~~1b~~s~ has been spotted. Kill it to increase your score.
+
+0x06A2E881 = Rare Animal
+
+0x06A870F6 = Headshot Kills Challenge
+
+0x0754F2DD = Contest Over
+
+0x0CF98021 = Contest Over
+
+0x0E7C7C7E = Challenge Over
+
+0x0F2132A1 = Biggest Fish Contest
+
+0x1BE2F873 = Swamp Fishing
+
+0x1C9B69E2 = You picked an herb
+
+0x1D71ED47 = Locate a body of water
+
+0x2DDF09ED = ~1~ enemies taken out
+
+0x2DEC46C3 = Headshot Kills Challenge
+
+0x2E228B64 = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to activate Eagle Eye to help locate herbs.
+
+0x2EFD3D50 = While your fishing rod is equipped, press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to activate Eagle Eye to help locate fish.
+
+0x2F20745D = Kill the most wild animals
+
+0x3A50B582 = You killed the ~COLOR_MP_OBJECTIVE~~1~~s~
+
+0x3BDFCF18 = Shoot the most birds in flight
+
+0x3C013205 = ~1~ enemies taken out
+
+0x3C095ED8 = Use any type of weapon to gain headshots on players during the ~COLOR_FREEMODE_EVENT~Headshot Kills Challenge.~s~ The player with the most points will win.
+
+0x3EBB15AE = ~COLOR_MP_OBJECTIVE~~1~~s~ spotted
+
+0x4A8CFBC1 = ~1p~ caught a ~COLOR_WHITE~~2w~~s~ fish
+
+0x4D50BDBB = No herbs were picked
+
+0x4D502099 = Use your fishing rod during the ~COLOR_FREEMODE_EVENT~Lake Fishing Challenge.~s~ The player that catches the greatest combined weight of fish will win.
+
+0x4F7129B7 = You killed a bird
+
+0x5DA63278 = River Fishing Challenge
+
+0x6C02D82E = Wild Animal Kills Challenge
+
+0x6EFCB9B1 = rare animal
+
+0x7A4F0A77 = Take out ~COLOR_ENEMY~enemies ~s~with headshots
+
+0x7BE26E12 = ~COLOR_POSSE_ALLY~~1p~~s~ has killed the most birds
+
+0x7C2F51BA = +2
+
+0x7E060C01 = Rare Bear
+
+0x7FA6B44A = Players must own a fishing rod and bait to be able to score.
+
+0x8A69D24D = ~1~ enemies taken out
+
+0x8B52FA1B = While your fishing rod is equipped, press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to help locate fish.
+
+0x8C670596 = Longarm Kills
+
+0x8DC82922 = Scored ~1~
+
+0x8FCB48EB = +1
+
+0x9AC9D5CE = Bird Shooting Contest
+
+0x9B921F09 = Find and collect herbs during the Herb Picking Contest. The player that collects the most herbs will win.
+
+0x9FE3B619 = QUAD
+
+0x10E782B0 = Total Catch: ~1w~
+
+0x21FD3F95 = Scored ~1~
+
+0x24EE47F8 = No fish were caught
+
+0x29FB7E1C = Kill any wild animals during the ~COLOR_FREEMODE_EVENT~Wild Animal Kills Challenge~s~ to score points. The player with the most points will win.
+
+0x33B2D163 = Bow Kills Challenge
+
+0x33DCD454 = Lake Fishing
+
+0x38FC818D = Herb Picking
+
+0x41B7FF9D = Sidearm Kills
+
+0x46DBA286 = Take out ~COLOR_ENEMY~enemies ~s~with the Bow
+
+0x49A3163D = Herb Picking Contest
+
+0x51BBA43B = Swamp Fishing Challenge
+
+0x56AB5174 = Your Cores have been drained and will not recharge for 2 minutes due to killing players with an undesired method. Use an appropriate method to gain points and avoid these effects.
+
+0x56F6A74D = TRIPLE
+
+0x59C55335 = Larger animals are worth more points than small animals. A rare animal ~COLOR_MP_OBJECTIVE~~BLIP_ANIMAL~~s~ kill is worth more points.
+
+0x61E49C13 = ~1~ enemy taken out
+
+0x67DB03B9 = Use any longarm weapon to take out players during the ~COLOR_FREEMODE_EVENT~Longarm Kills Challenge~s~ to score points. The player with the most points will win.
+
+0x70D62300 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to help track flying birds.
+
+0x72B2A618 = +3
+
+0x75E23C98 = Shoot flying birds quickly to gain extra kill streak bonus points
+
+0x80A2DDE1 = You will lose points for kills that aren't made with a longarm.
+
+0x86BB50B5 = Contest Over
+
+0x86D01B29 = Rare Cougar
+
+0x88CE36D5 = You will lose points for kills that aren't made with a Bow.
+
+0x94D199F7 = Equip the Fishing Rod from the Item Wheel
+
+0x106D55F5 = You shot ~1~ flying bird
+
+0x155DF6FE = ~1~ enemy taken out
+
+0x179D159C = Use the Bow to take out players during the ~COLOR_FREEMODE_EVENT~Bow Kills Challenge~s~ to score points. The player with the most points will win.
+
+0x190B3999 = You scored ~1~ points
+
+0x207D47F2 = Horseback Kills Challenge
+
+0x239CDA78 = Use your fishing rod during the ~COLOR_FREEMODE_EVENT~Swamp Fishing Challenge.~s~ The player that catches the greatest combined weight of fish will win.
+
+0x391F02D2 = Catch the most overall weight in fish
+
+0x421C946B = You caught a fish weighing ~1w~
+
+0x473B58E6 = DOUBLE
+
+0x563C64E5 = Swamp Fishing Challenge
+
+0x576D0990 = ~1~x Streak
+
+0x616BBED8 = Wild Animal Kills Challenge
+
+0x816AAD67 = You have lost a point for killing another player with the incorrect weapon. Use a sidearm to score points.
+
+0x895B119B = No fish caught
+
+0x933B9D69 = ~1~ enemy taken out
+
+0x1077B9E2 = ~1~ enemy taken out
+
+0x2473A039 = ~1p~ picked an herb
+
+0x3759DD41 = Longarm Kills Challenge
+
+0x4665B987 = A fishing rod has been temporarily added to your inventory for the duration of the Challenge. Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Item Wheel and equip it.
+
+0x5614A9F9 = Combat Disabled
+
+0x6165ABDF = Longarm Kills Challenge
+
+0x6475E6D5 = You have killed the most birds
+
+0x6829D55E = Scored ~1~
+
+0x9314E002 = You will lose points for kills that aren't made while on horseback.
+
+0x9333F309 = No herbs were picked
+
+0x31007C73 = Use any sidearm weapon to take out players during the ~COLOR_FREEMODE_EVENT~Sidearm Kills Challenge~s~ to score points. The player with the most points will win.
+
+0x70036DCD = ~COLOR_POSSE_ALLY~~1p~~s~ has the most herbs
+
+0x79657DBE = Take out ~COLOR_ENEMY~enemies ~s~with longarm weapons
+
+0x358154D9 = Headshot Kills
+
+0x4354598F = Equip bait from the Bait Wheel
+
+0x8123565D = Scored ~1~
+
+0x17578166 = You have the most herbs
+
+0x28330687 = Bow Kills Challenge
+
+0x58653772 = A fishing rod has been temporarily added to your inventory for the duration of the Contest. Hold ~INPUT_OPEN_WHEEL_MENU~ then press ~INPUT_SELECT_NEXT_WHEEL~ to open the Item Wheel and equip it.
+
+0x64751043 = Biggest Fish Contest
+
+0xA1881502 = ~1~ enemies taken out
+
+0xA3823484 = Bow Kills
+
+0xAA3FBDF3 = You caught a fish weighing ~1w~
+
+0xABB88DE2 = ~COLOR_POSSE_ALLY~~1p~~s~ has challenged your Posse to Herb Picking Contest.
+
+0xAD82EFD5 = Take out ~COLOR_ENEMY~enemies ~s~with sidearm weapons
+
+0xADC28BE4 = Horseback Kills
+
+0xAE1D054D = You will lose points for kills that aren't made with a sidearm.
+
+0xB3A0EEBA = Bird Shooting Contest
+
+0xB7EF237D = Scored ~1~
+
+0xB324C02B = You have lost a point for not being on horseback while killing another player. Mount a horse and make kills to score points.
+
+0xB7629D98 = Shoot down birds in flight to score points. The player with the most points will win.
+
+0xBD7E7FC7 = ~1p~ shot the most birds
+
+0xBF99DC27 = ~COLOR_POSSE_ALLY~~1p~~s~ has challenged your Posse to Bird Shooting Contest.
+
+0xBFF6319F = Sidearm Kills Challenge
+
+0xC0F59A87 = You caught a ~1w~ fish
+
+0xC1CE8845 = ~1~ enemy taken out
+
+0xC7ED78B2 = Total Catch: ~1w~
+
+0xC26B8B63 = +5
+
+0xC36239E6 = Equip bait
+
+0xCB49C3B4 = Horseback Kills Challenge
+
+0xCD5B0E1F = Scored ~1~
+
+0xD0A5AA6A = ~1~ herb picked
+
+0xD0F55F11 = Rare Alligator
+
+0xD8E23E9E = Rare Wolf
+
+0xD78E35F0 = You have lost a point for killing another player with the incorrect weapon. Use a Bow to score points.
+
+0xD139E209 = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to activate Eagle Eye to help track flying birds.
+
+0xDBB379E6 = Use your fishing rod during the Biggest Fish Contest. The player that catches the biggest fish will win.
+
+0xDBE064CB = Use your fishing rod during the ~COLOR_FREEMODE_EVENT~River Fishing Challenge.~s~ The player that catches the greatest combined weight of fish will win.
+
+0xDE62B1DC = ~COLOR_POSSE_ALLY~~1p~~s~ has the biggest fish
+
+0xDEDF1890 = ~1~ enemies taken out
+
+0xE5B8506E = ~1p~ killed a bird
+
+0xE6C626CF = Use any type of weapon to gain horseback kills on players during the ~COLOR_FREEMODE_EVENT~Horseback Kills Challenge.~s~ The player with the most points will win.
+
+0xE6D61AAC = ~1p~ caught the biggest fish
+
+0xE6F6E61B = River Fishing
+
+0xE52FCB20 = Lake Fishing Challenge
+
+0xE334C4E3 = ~1~ herbs picked
+
+0xE3388E43 = ~1p~ picked the most herbs
+
+0xE9233A56 = Lake Fishing Challenge
+
+0xE3292668 = Biggest Fish Contest
+
+0xEA4F73D5 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to help locate herbs.
+
+0xEC0ECC08 = ~COLOR_POSSE_ALLY~~1p~~s~ has challenged your Posse to Biggest Fish Contest.
+
+0xEE373BF8 = No flying birds were shot
+
+0xEEA03B19 = You scored ~1~ point
+
+0xF095463E = You caught the biggest fish
+
+0xF3CA60B5 = Wild Animal Kills
+
+0xF3E56180 = You shot ~1~ flying birds
+
+0xF5F27A65 = Bird Shooting Contest
+
+0xF9E260F7 = You cannot carry any more of this herb. Picking this herb will count towards your score but will not be added to your Satchel.
+
+0xF9F74852 = Take out ~COLOR_ENEMY~enemies ~s~from horseback
+
+0xF920C5B8 = Pick the most herbs
+
+0xF88836C7 = A Bow has been temporarily added to your inventory for the duration of the Challenge.
+
+0xFF96621D = River Fishing Challenge
+
+0xFFBCF2BC = Sidearm Kills Challenge
+
+0xFFDB0078 = Herb Picking Contest
+

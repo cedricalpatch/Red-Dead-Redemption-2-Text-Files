@@ -1,0 +1,78 @@
+0x01DF0568 = ~z~Okay, let's just move fast here, okay?
+
+0x057E4410 = ~z~~sl:0.0:3.5~Still... I am thirsty.
+
+0x06383E0F = ~z~Now, I realize I probably owe you some explanation here...
+
+0x1A78B92B = ~z~Oh, damn right!
+
+0x1D259FC4 = ~z~~sl:0.0:1.5~Here. This is for you.~sl:0.5:3.5~Reckon we must've gotten those Braithwaites real prickly.
+
+0x1DC4E188 = ~z~Forget it, I done wasted enough time already.
+
+0x3A0FF11D = ~z~Fell for the show. You're soft as gravy...
+
+0x7BDA3893 = ~z~~sl:0.0:1.0~Smell that?~sl:0.4~Got a stink all of its own, Saint Denis.
+
+0x8F97AA93 = ~z~Jesus... where am I going?
+
+0x20BA4575 = ~z~~sl:0.0:3.2~Anyway, guess that about brings us up to right now...~sl:0.4~~rp~sure appreciate you helping me out.
+
+0x33A6427E = ~z~~sl:1.8~Oh, Christ, come on!
+
+0x90E7D36C = ~z~Only... one of her sons sees me pocketing some of it, and, well...
+
+0x528C3079 = ~z~
+
+0x700EABD4 = ~z~Damn embarrassment how trusting some fools is.
+
+0x716BF689 = ~z~Oh, hey, hey! Over here!
+
+0x743B1A13 = ~z~~sl:0.0:3.3~But don't even think for a second I'm the wrong'un in any of this.~sl:~~rp~That sister-marrying family deserves everything it gets.
+
+0x3391EFA2 = ~z~~sl:0.0:2.8~Listen, I don't got much time...~sl:1.7~You know the Braithwaites? Yeah... their dogs'll be on me soon you don't help...
+
+0x8675BE88 = ~z~~sl:0.0:2.8~thankfully he's as slow as he looks, and I got out the window~sl:0.0:2.3~before he could even get a hand to his gun.~sl:0.7~~rp~Then I'm running until, well... saw you...
+
+0x114741DD = ~z~I'll promise you this. I ain't with those damn Braithwaites.
+
+0x52493568 = ~z~Listen, please, just get me outta here...
+
+0xA2FB7793 = ~z~~sl:0.0:2.4~So, soon as they get used to me,~sl:~I decide it's time to take my retirement early.
+
+0xA10E8901 = ~z~Finally, made it.
+
+0xA1906606 = ~z~Jesus. I've had enough of this.
+
+0xAB9288C5 = ~z~~sl:0.0:5.6~Anyway. ~rp~I'm there maybe a month playing nice to that Mrs. Braithwaite,~sl:~nastiest most wrinkled piece of flesh I ever laid eyes on.
+
+0xB2FCBDA2 = ~z~You gonna help me or what?
+
+0xB60DF77F = ~z~Think they're something special...
+
+0xB548123B = ~z~~sl:0.0:1.5~Can you get me to Saint Denis?~sl:0.3~I should be able to lie low there for a while...
+
+0xBE2B2DF6 = ~z~"The Manor", 'scuse me... ~rp~maid-work and the like, and I think, why not?
+
+0xC73BE620 = ~z~Come on. You gonna side with them rich sow-lovers?
+
+0xCAC14722 = ~z~~sl:0.0:3.3~Annie Lou tells me a few weeks back they was looking for more girls~sl:~to come help out around the house... oh,
+
+0xCAD65DAE = ~z~Where's your horse then? We gotta get outta here.
+
+0xCF603278 = ~z~You there, quick! I need... you gotta help me.
+
+0xD986E4AD = ~z~~sl:0.0:4.4~See ~rp~I got a... a friend, Annie Lou,~sl:~been working for them Braithwaites a couple of years now.
+
+0xDB96B646 = ~z~~sl:1.5~Damn the lot of 'em.
+
+0xDE862014 = ~z~Ain't got all day. Off of there.
+
+0xE66427FB = ~z~Jesus, I'm done for.
+
+0xF1AAB3BD = ~z~Never would've made it on foot...
+
+0xF4CC4CA0 = ~z~Down off of there.
+
+0xFA27B54A = ~z~Come on. Make some room already.
+

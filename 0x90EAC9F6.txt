@@ -1,0 +1,248 @@
+0x019B088F = ~z~I'm here.
+
+0x06181690 = ~z~You give him back, he's ours!
+
+0x074E8C24 = ~z~~sl:0.0:3.7~No, I should have stayed in the law, or gone into cotton.~rp~~sl:~Yes, as a politician, I helped people... oh, did I help people.
+
+0x099B70A5 = ~z~Good, good.
+
+0x0AF9D6F5 = ~z~Come on, we have some distance to go yet.
+
+0x0BA04631 = ~z~~sl:0.0:2.1~There are more pressing matters at hand,~sl:~like those gentlemen with guns!
+
+0x0F9144D4 = ~z~They must have been waiting for us!
+
+0x1DCE04CD = ~z~he's more used to signing off on bounties...
+
+0x1EAC83E2 = ~z~That rich little piggy's ours!
+
+0x1F1293C9 = ~z~Well come on, keep up.
+
+0x2F0B249F = ~z~Hey, Tobin, I thought you was our new pet?
+
+0x3D5EB1C9 = ~z~From the looks of this poster...
+
+0x3F80DB99 = ~z~I knew he had more stashed away.
+
+0x4C6F1E36 = ~z~I'm here...
+
+0x4CDBADB4 = ~z~No time to lose. Shall we hurry on and get the deeds?
+
+0x5B2FED6B = ~z~you're to recover the deeds that he stole.
+
+0x5B3280F4 = ~z~~sl:0.0:1.7~We all make mistakes...~sl:~and mine was not thinking enough of myself.
+
+0x6AEE547B = ~z~Don't let them touch me!
+
+0x7A5CB6FF = ~z~~sl:0.0:3.4~I have breathed the filthy air of the criminal sphere,~sl:~and I don't wish to again. Please, I'll never survive!
+
+0x8AF85F24 = ~z~Now this gentleman...
+
+0x8C1A6168 = ~z~than being the subject of them.
+
+0x8D09823A = ~z~Well here we are.
+
+0x8F4A2011 = ~z~Really now.
+
+0x8F8B1DB4 = ~z~Don't touch me!
+
+0x9B7ABCE7 = ~z~~sl:0.0:1.6~This better not be them.~sl:1.1~It's not them... thank the Lord.
+
+0x9EBA10EF = ~z~~sl:0.0:2.0~Maybe the judge will be friendly.~sl:~I've dined with most of them.
+
+0x20B9E5FC = ~z~I'll take my chances on my own!
+
+0x23E04D19 = ~z~I come willingly, but...
+
+0x30BF3722 = ~z~Stay close to me. The cutthroats could be anywhere.
+
+0x43CE4E25 = ~z~You running out on us, Tobin?
+
+0x50BF7E16 = ~z~You holding out on us, Tobin?
+
+0x51F2807C = ~z~There they are, they're with Tobin!
+
+0x52FFEC88 = ~z~C'mon, get 'em boys!
+
+0x61AF4DBD = ~z~Hey, we saw him first!
+
+0x67A3987B = ~z~Yeah, the man's a thief...
+
+0x68DAD70D = ~z~You got me.
+
+0x75CA48FD = ~z~I promised them the deeds that I, uh...
+
+0x89A994CC = ~z~Steady on!
+
+0x90B6ED25 = ~z~~sl:0.0:3.5~Please, I don't deserve to be dragged around in the dirt!~sl:~It's unseemly.
+
+0x93A8E601 = ~z~There's no call for that at all!
+
+0x93CE263A = ~z~Oh no, not more of them!
+
+0x236A5AE9 = ~z~~sl:0.0:3.1~or at least I thought they were reliable lackeys...~rp~~sl:~but control them I could not.
+
+0x304F7E91 = ~z~I've been quite cooperative!
+
+0x331B8429 = ~z~Now, steady on.
+
+0x349DEE94 = ~z~please hear me out.
+
+0x391E863A = ~z~I'm afraid that was only a small contingent of them.
+
+0x415BA03C = ~z~They're coming for me!
+
+0x778EB851 = ~z~Mr. Tobin Winfield the third...
+
+0x792BF0F6 = ~z~Somebody please protect me!
+
+0x871F774D = ~z~My tormentors!
+
+0x882B2471 = ~z~~sl:0.0:4.5~They were the picture of concern and care until I was isolated,~sl:~and then...~rp~ I shudder to remember.
+
+0x1210A1A8 = ~z~~sl:0.0:3.2~A life of public service is not for everyone,~sl:~and indeed it should not have been for me.
+
+0x1806DCB1 = ~z~I was going for help!
+
+0x2427F4F3 = ~z~Please don't tie me up.
+
+0x3452F305 = ~z~The mayor belongs to us!
+
+0x5735AFE5 = ~z~There's no need for that.
+
+0x7970C884 = ~z~Stay with me, won't you? I'd rather not be left alone.
+
+0x8561DB57 = ~z~You lead the way. I will follow obediently.
+
+0x11173FB4 = ~z~Help!
+
+0x88790E7B = ~z~~sl:0.0:3.7~Things came so easily that I took it all for granted.~rp~~sl:~Can you understand?
+
+0x481460B9 = ~z~~sl:0.0:3.4~I can go in on my own terms, can I? Very good.~sl:0.0:2.0~I can't tell you what it means to be~sl:~treated with some decency... finally.
+
+0x924301F6 = ~z~If they would help me flee.
+
+0x6554273F = ~z~Take them out!
+
+0x7432341C = ~z~Tie me if you must, but really it is unnecessary.
+
+0x7678810C = ~z~~sl:0.0:3.5~They started spending my money, taking my things,~sl:0.0:1.9~abusing my person...~sl:~they took real pleasure in my distress.
+
+0x9604897D = ~z~Follow me.
+
+0x18049919 = ~z~They're out for blood.
+
+0x43994979 = ~z~~sl:0.0:2.2~They won't put me in jail, will they?~sl:~Not a man of my social standing... I won't last!
+
+0x97643041 = ~z~Most uncalled for!
+
+0xA1DF8CF2 = ~z~I believe he's hiding out in Thieves Landing.
+
+0xA1ED2B05 = ~z~It's an excellent bargain for all parties involved.
+
+0xA1FDFB06 = ~z~So make sure you find them.
+
+0xA3A7438D = ~z~~sl:0.0:1.7~Out of the hands of one brute,~sl:~and into the hands of another.
+
+0xA5A55620 = ~z~~sl:0.0:3.2~Let me keep the little dignity I have remaining.~sl:~I have been kind and honest to you all.
+
+0xA77C2C68 = ~z~misappropriated.
+
+0xA216CA1F = ~z~~sl:0.0:3.0~Why I thought I'd be cut out for the life of a vagabond,~sl:~I'll never know.
+
+0xA49693AF = ~z~~sl:0.0:2.7~That is why I purloined those funds...~rp~~sl:1.3~I'm sure a judge will understand.
+
+0xA1638176 = ~z~You don't need to use that!
+
+0xACECD762 = ~z~Such promise, gifted in so many ways.~rp~ And now a common thief.
+
+0xAFBB46A1 = ~z~~sl:0.0:2.4~There'll be no shenanigans on this trip,~sl:0.0:1.8~I can promise you that.~sl:~I give you the deeds, you save my life.
+
+0xB0B8E763 = ~z~Look at me, hiding like a school boy.
+
+0xB1F4B764 = ~z~Shall we see if they'll take mercy on this poor wretch?
+
+0xB63AE9FE = ~z~~sl:0.0:3.3~It's an insidious curse to be charming, intelligent~sl:~and born into money.
+
+0xB82DAF0A = ~z~You wouldn't hurt me, now would you?
+
+0xB86C7BAE = ~z~~sl:0.0:2.9~Very good. You can take me in now.~sl:0.0:1.8~Time to face the music.~sl:~But may I ask you, please, don't tie me up?
+
+0xB288E150 = ~z~Really, I can walk. Put me down!
+
+0xBE372221 = ~z~Protect me, if you want the deeds!
+
+0xBEBDDAEB = ~z~for those deeds.
+
+0xBF5C0412 = ~z~I'm in danger.
+
+0xBFD613C2 = ~z~~sl:0.0:4.4~It will take weeks in a sanitorium just to steady my hands.~rp~~sl:0.4~The slightest bang and I jump out of my britches.
+
+0xC3E15379 = ~z~~sl:0.0:2.2~I thought you would have treated me a little better,~sl:~considering the circumstances.
+
+0xC3F1E553 = ~z~Now, I have it on good authority that they mean to kill me...
+
+0xC9B986AE = ~z~Well? What are you waiting for?
+
+0xC41ED170 = ~z~But no one cries when a corrupt politicain gets their comeuppance.
+
+0xC83A6DE8 = ~z~They will be here very soon.
+
+0xC7881466 = ~z~Rather some cutthroats I was...
+
+0xCA56CD5F = ~z~Ah, they're sequestered just up ahead.
+
+0xCAD77CD9 = ~z~~sl:0.0:4.4~Very good, the deeds are a short ride away, sequestered.~sl:~Follow me and I will take you to them.
+
+0xCAEE93DD = ~z~~sl:0.0:3.3~To think I would fall so low.~rp~ Ask anyone.~sl:~Tobin Winfield: prep school hero, the talk of New Haven.
+
+0xCD9298AD = ~z~~sl:0.0:3.6~I was good for business and kind enough to the unfortunates...~rp~~sl:~but I was not kind enough to myself.
+
+0xCE22A19F = ~z~Not... from you fine people.
+
+0xD1ACB76F = ~z~~sl:0.0:4.0~The torment I've suffered you wouldn't believe.~rp~~sl:~My nerves are almost wrecked.
+
+0xD5CAB0EB = ~z~quite unwise to trust.
+
+0xD6C22A26 = ~z~Not too much further now.
+
+0xD55E1525 = ~z~~sl:0.0:2.4~I'm a man of my word, don't you see?~sl:0.0:1.5~A man of integrity.~sl:~I'm sure you won't be disappointed.
+
+0xD75E77EF = ~z~but not the same kind as the rest of 'em down there.
+
+0xDA08C827 = ~z~~sl:0.0:3.4~I'm so damned grateful you came along when you did.~rp~~sl:~A strange twist of fate indeed, but this bounty may have saved my life.
+
+0xDA47B217 = ~z~~sl:0.0:3.8~I could have done anything. That was my problem, you see.~sl:~Too many avenues were open to me.
+
+0xDB2893C0 = ~z~Yes?
+
+0xDFD12A0B = ~z~The deeds are just under that rock.
+
+0xE938D862 = ~z~~sl:0.0:1.8~Try and hold it together.~sl:~Fortitude, man. Show some mettle.
+
+0xEDD26FBA = ~z~~sl:0.0:3.0~It was only a matter of time before they got bored,~sl:~exhausted my funds, and decided to consign me to oblivion.
+
+0xEF3A27AA = ~z~I'd wager he won't survive the week.
+
+0xF077BE5E = ~z~Protect me, and they're yours. I'll give it all back.
+
+0xF1E8885A = ~z~I hope you'll all get along.
+
+0xF6BB018B = ~z~~sl:0.0:3.5~Really. The time I've had.~rp~ I thought these men...~sl:~these cutthroats... were my friends...
+
+0xF93B1828 = ~z~Oh dear! Here they are!
+
+0xF952A196 = ~z~Put me down, I'll be caught in the crossfire!
+
+0xFA914AAB = ~z~What are you doing? Don't you want the deeds?
+
+0xFBF7EB2A = ~z~Take them and let's go.
+
+0xFC347668 = ~z~~sl:0.0:3.5~This is most unbecoming.~rp~ I'm a man of stature,~sl:~a natural leader, always have been.
+
+0xFE4EA941 = ~z~Unhand me, you wretch!
+
+0xFE109A14 = ~z~I thought I'd earned your trust.
+
+0xFEE99B59 = ~z~They must have followed us!
+

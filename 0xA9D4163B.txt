@@ -1,0 +1,16 @@
+0x1AC7C363 = ~z~Don't give me that look. You want him alive don't you?
+
+0x1FF71629 = ~z~Alright, here. Make it quick.
+
+0x2E44B2C4 = ~z~Oh damn, that's good.
+
+0x8E43F249 = ~z~Listen, you couldn't get me a blanket o-or a dry pair of boots, could you?
+
+0x24C21F4B = ~z~Sure, you want a bottle of champagne with that too? Coming right up.
+
+0x91B77994 = ~z~Come on, please, just one sip!
+
+0x8269DAF9 = ~z~Miss! Can I get a sip of that?
+
+0x809156E4 = ~z~That's your lot.
+

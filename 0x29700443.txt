@@ -1,0 +1,650 @@
+0x004DC3CD = ~z~
+
+0x00D5827F = ~z~Okay, gentlemen...
+
+0x01773041 = ~z~Okay. Easy, there.
+
+0x01BF8C0D = ~z~
+
+0x056A36D8 = ~z~I did what I had to do... to protect you.
+
+0x05C8D96E = ~z~Shot at? What happened?
+
+0x05D3609E = ~z~~sl:0.0:2.2~Truth is, I killed John Marston...~sl:0.6~and I'm happy to kill you too!
+
+0x069AF22F = ~z~What...
+
+0x0748AC15 = ~z~Abigail Roberts...
+
+0x07D56698 = ~z~Okay.
+
+0x0883121E = ~z~You alright, son?
+
+0x08C209EF = ~z~~sl:0.5~No, it wouldn't.
+
+0x0926433E = ~z~But... I've been sitting in this wagon, I don't know how long.
+
+0x0983B783 = ~z~Is somebody back there?
+
+0x0A7B920B = ~z~~sl:1.7~Did you kill a feller out in Roanoke a few months back?
+
+0x0B4D97ED = ~z~bank could lend us the rest.
+
+0x0C81A191 = ~z~Oh, Pa.
+
+0x0CC7E4B0 = ~z~I think we're going too fast, Pa.
+
+0x0E6CFCD2 = ~z~tell'em to go faster, give'em a little switch.
+
+0x0EB5496E = ~z~~sl:0.0:1.1~What happened the other night...~sl:0.7~with those men? Did you kill them?
+
+0x0F548B9C = ~z~Yes, sir... you make that clear enough.
+
+0x0FB6A763 = ~z~Mr. Geddes needs you to head over to Strawberry in the wagon...
+
+0x1ABDB693 = ~z~Sure.
+
+0x1B0CE70B = ~z~We're going back to Pronghorn, okay?
+
+0x1B7DFE24 = ~z~Look, just do one thing or another...
+
+0x1BA88AB1 = ~z~
+
+0x1F5EBF91 = ~z~Head down.
+
+0x1FCD5C3E = ~z~I'll take these.
+
+0x2A6655E4 = ~z~Well cheer up a little.
+
+0x2B777392 = ~z~And I will help you out.
+
+0x2BC258D6 = ~z~Well, Jack read it to me but...
+
+0x2C4B596A = ~z~Yes, sir.
+
+0x2E3F2FDE = ~z~
+
+0x2F94441D = ~z~come on...
+
+0x3A052C39 = ~z~Ain't you going to see the clerk?
+
+0x3A5082F7 = ~z~Hey, uh, ~rp~you know, ~rp~your momma wants us to buy some old ranch.
+
+0x3A8175D6 = ~z~you hear?
+
+0x3A56902B = ~z~~sl:2.5~If you hadn't listened, ~rp~things could have gone real wrong for us.
+
+0x3B0440C5 = ~z~Okay.
+
+0x3CFCFB4B = ~z~I thought maybe we could raise some money...
+
+0x3E3DE170 = ~z~It's okay, it's okay...
+
+0x3E59F1E2 = ~z~~sl:0.0:2.4~One moment you're going and the next you're staying...~sl:0.1~what's it gonna be?
+
+0x4A7D9BC8 = ~z~My name?
+
+0x4C0A266A = ~z~You read to her about it, didn't you?
+
+0x4C428932 = ~z~Oh, I think I can be trusted of that.
+
+0x4E9E5A8B = ~z~Come on, get!
+
+0x4EA9F434 = ~z~I don't like driving across here.
+
+0x4EEB3A79 = ~z~Yes, uh-oh-uh... sign here.
+
+0x4F0BF9D2 = ~z~Oh, Pa.
+
+0x4FE4A57E = ~z~We'll save the real exciting realities of adulthood for another day.
+
+0x5A2CA96B = ~z~The boy's waiting.
+
+0x5BD4A71D = ~z~Back in Strawberry, eh kid?
+
+0x5C0F3FF9 = ~z~Nothing, just keep driving.
+
+0x5C443F55 = ~z~I think so.
+
+0x5D5B5F51 = ~z~Look, if I tell you to speed up, speed up.
+
+0x5D9841FD = ~z~One's in your name and the other one's in mine...
+
+0x5E340A47 = ~z~What happened?
+
+0x5EE65152 = ~z~Maybe try...
+
+0x5F512F4F = ~z~Very good.
+
+0x6A75417E = ~z~Now we're too fast.
+
+0x6C5E9BFD = ~z~
+
+0x6C8326E5 = ~z~Ah...
+
+0x6C50607B = ~z~What?
+
+0x6DE3D4E8 = ~z~I think the horse is getting skittish.
+
+0x6EC1E450 = ~z~only one shoulda come in by now.
+
+0x7A62F85E = ~z~Who's this?
+
+0x7A6554C9 = ~z~Well, uh, w-what do I do?
+
+0x7AC56DF4 = ~z~~sl:0.0:1.2~Wouldn't be such a chore~sl:~if the horses we were cleaning up after was ours, would it?
+
+0x7B26F0F7 = ~z~It's nice getting out of the house, huh?
+
+0x7BAF1318 = ~z~Take care now, give my regards to Geddes.
+
+0x7BC0F8FA = ~z~That was my brother...
+
+0x7CAEE5F1 = ~z~Slower, please.
+
+0x7D6D0E5F = ~z~Jim Milton...
+
+0x7FBA0390 = ~z~What's wrong, Pa?
+
+0x8A2815A4 = ~z~I was... I was reading the newspaper.
+
+0x8ABEDD49 = ~z~Sure... he had it coming to him.
+
+0x8B3B8727 = ~z~~sl:0.0:2.6~You know, I think this is the longest I've seen you~sl:~without a book in your hand.
+
+0x8B8EAAA2 = ~z~Nope, nothing here.
+
+0x8B980C77 = ~z~Just a bit faster now.
+
+0x8C898608 = ~z~~sl:0.0:3.5~Son, I'm happy... it's just...~sl:1.7~I-I find it hard, is all. You'll understand some day.
+
+0x8CE49232 = ~z~I wasn't so sure, but... yeah, ~rp~that kind of life might suit us.
+
+0x8DD10835 = ~z~Pull back on the reins.
+
+0x9A0FC0EB = ~z~You killed them, Pa.
+
+0x9A77E210 = ~z~Here. Now!
+
+0x9A6121B7 = ~z~Only that you aren't so happy here... with us.
+
+0x9CDF4813 = ~z~What was the name, boy?
+
+0x9D9C7E78 = ~z~~sl:0.7~Yup.
+
+0x9D48A7BA = ~z~What of it?
+
+0x9F594DDB = ~z~Here... let me help with this, Mr. Marston.
+
+0x9F604DF9 = ~z~Hi, I'm here to...
+
+0x10A744FB = ~z~I don't know what you're talking about... I'm just... here with my son.
+
+0x21F13386 = ~z~Things like this happen.
+
+0x28C289B4 = ~z~I thought you had something to collect in there?
+
+0x28ECE02C = ~z~We're okay.
+
+0x29E96F51 = ~z~You were real brave back there. ~rp~Real brave.
+
+0x30BAD233 = ~z~I got my reasons even if I don't care to explain them.
+
+0x30CD7F1E = ~z~Try Abigail Roberts.
+
+0x32FA56A2 = ~z~I leave you with the wagon, can I trust you not to drive off with it?
+
+0x33E5830E = ~z~I hope so, at least.
+
+0x37B43EBF = ~z~Look out, won't you?
+
+0x37B75F12 = ~z~Not to normal folk.
+
+0x37D6BD8D = ~z~We got shot at.
+
+0x37ECF6A7 = ~z~A dress I ordered.
+
+0x38B7960A = ~z~Uh... sure.
+
+0x39E67982 = ~z~Not too much of a man, mind, he's only a boy.
+
+0x40B95D2D = ~z~~sl:0.0:1.1~See that fallen tree?~sl:0.3~When we get there, stop the wagon, jump down, and hide.
+
+0x40CD086F = ~z~Oh yes, a real keen purchaser of goods me.
+
+0x42D57668 = ~z~Yes, sir.
+
+0x45E6BCBE = ~z~turn around and go back?
+
+0x49F70362 = ~z~Looks like.
+
+0x51DD2491 = ~z~Come on, quick, down.
+
+0x53AC5849 = ~z~That's what we're doing.
+
+0x54CFAAB2 = ~z~~sl:0.0:0.9~You wait here.~sl:~I won't be long.
+
+0x55D4C92C = ~z~Okay...
+
+0x57DBFD97 = ~z~it's...
+
+0x58B2CE08 = ~z~Pronghorn?
+
+0x59CA5F97 = ~z~Your ma was wrong about that.
+
+0x63A6D687 = ~z~Uh... Jim Milton.
+
+0x64E04A93 = ~z~Ok, Son, you wait here.
+
+0x65E7CD20 = ~z~Bank loans?
+
+0x66E34ED9 = ~z~Okay.
+
+0x67D82FAF = ~z~~sl:1.2:0.0~It's easy, boy, don't be scared.
+
+0x77A27825 = ~z~I know... I know all about that.
+
+0x81B00C80 = ~z~Just feels hopeless.
+
+0x81BC91CE = ~z~What was it called?
+
+0x84AA1694 = ~z~My son.
+
+0x86E09B2A = ~z~Uh, okay. Whoa.
+
+0x88E1155A = ~z~Sorry, sir. Was that a question for me?
+
+0x90D9EF92 = ~z~How was the...
+
+0x92CEE033 = ~z~Here... I'll get you some coffee.
+
+0x92DFAEDF = ~z~you act like the big man with the gun.
+
+0x95CBF657 = ~z~Just, just stay calm.
+
+0x96E9C98D = ~z~Okay, let's get outta here.
+
+0x96FC3B38 = ~z~We didn't get to them particulars, I'm sorry.
+
+0x98B53F28 = ~z~No... wasn't me.
+
+0x138D16A6 = ~z~~sl:0.4~Jesus.
+
+0x189F3290 = ~z~We could be happy, John, we could...
+
+0x276CBF97 = ~z~Thank you. Jesus. Mind your father, okay?
+
+0x291F8330 = ~z~So, wait, we've come all the way out here and we just gonna...
+
+0x332BC657 = ~z~Here, try it out.
+
+0x353A0717 = ~z~We have a bunch of stuff for you.
+
+0x491DADF6 = ~z~Thank you very much, mister.
+
+0x495F080A = ~z~Faster.
+
+0x545B6605 = ~z~You take care now.
+
+0x576FB76C = ~z~Pa!
+
+0x623D2976 = ~z~It's okay.
+
+0x638DC870 = ~z~Stole cattle, not birthed 'em.
+
+0x645B6471 = ~z~Everything okay, Pa?
+
+0x651CCE56 = ~z~~sl:0.3~Nothing.
+
+0x696BDBB8 = ~z~I got a goddamn price on my head, woman.
+
+0x717F7238 = ~z~M... my name?
+
+0x780A7E6A = ~z~
+
+0x809A106D = ~z~Name?
+
+0x896BC3D7 = ~z~But nothing. Keep on driving and watch the road.
+
+0x970EB1B5 = ~z~No, no. Keep driving.
+
+0x977F4A7B = ~z~~sl:0.2~Really?
+
+0x1372F4C2 = ~z~Well, we got followed, and then we...
+
+0x2098C927 = ~z~and collect some mail for him at the post office.
+
+0x2599AAA2 = ~z~Are you John Marston? You sure look like him.
+
+0x4053BB3E = ~z~How you getting on?
+
+0x4382A488 = ~z~ John Marston.
+
+0x4666D095 = ~z~What?
+
+0x5684A573 = ~z~
+
+0x5699AE06 = ~z~You don't move or say nothing until I speak to you...
+
+0x5884EFDA = ~z~Oh, we just wanna have a friendly chat...
+
+0x7008E89E = ~z~~sl:0.8~Oh no. Oh no.
+
+0x7058ED7A = ~z~Oh dear, those men.
+
+0x7120FDBF = ~z~
+
+0x7648EDA4 = ~z~~sl:0.0:0.9~And if you behave,~sl:0.2~I might let you drive us home.
+
+0x7850F776 = ~z~Okay, Lancelot, we'll make a man out of you yet.
+
+0x8032F986 = ~z~He'll be alright.
+
+0x9611A249 = ~z~Alright, speed up. Let's get away from there.
+
+0x15351B28 = ~z~Yes, sir.
+
+0x17683EC3 = ~z~I'm real sorry, friend, but... he was trying to rob me.
+
+0x19363F36 = ~z~
+
+0x25330AC1 = ~z~Fine. Pull your reins in.
+
+0x25659A22 = ~z~Sorry.
+
+0x32316C58 = ~z~Sure.
+
+0x38344FD7 = ~z~Oh, we just wanna have a friendly chat.
+
+0x41726FD7 = ~z~What's that supposed to mean?
+
+0x51766DA9 = ~z~What? What's wrong?
+
+0x55988B30 = ~z~~sl:0.4:0.0~I-I don't know, Pa.
+
+0x60533B50 = ~z~Life ain't just about doing the things you like, boy.
+
+0x67478D6F = ~z~What you boys want with us?
+
+0x69608D57 = ~z~Only thing I know how to do is...
+
+0x75247DCE = ~z~Marston. John Marston.
+
+0x217122E2 = ~z~And then... pull to one side if you wanna turn.
+
+0x260019E0 = ~z~I don't...
+
+0x328580C6 = ~z~Sure...
+
+0x671172BD = ~z~If I say slow down, you slow down. Okay?
+
+0x777482B2 = ~z~Hi, I'm here to...
+
+0x850944A8 = ~z~Surviving... I think.
+
+0x863927EB = ~z~There, there.
+
+0x942044DE = ~z~It's a long story.
+
+0x3034694A = ~z~Every place we been, it's been the same.
+
+0x5213156F = ~z~Come on... giddy up.
+
+0x6663539B = ~z~Look at me.
+
+0x12329409 = ~z~~sl:0.6~I-I knew you was soft. ~rp~This is the world, son.
+
+0x21938076 = ~z~Of course.
+
+0x31680053 = ~z~Marston...
+
+0x43426684 = ~z~Here, want to take the reins a little?
+
+0x58287418 = ~z~You gonna say something?
+
+0x77243908 = ~z~Don't look around. Hey.
+
+0x77492928 = ~z~well, you know...
+
+0x93183485 = ~z~
+
+0x97913034 = ~z~Can't wait...
+
+0xA5FFC6A8 = ~z~ I like being in the house, Pa.
+
+0xA6C4E906 = ~z~Did exactly like I said.
+
+0xA6F2150E = ~z~not be two people at once.
+
+0xA8E4601D = ~z~Beecher's Hope.
+
+0xA98EE39E = ~z~Go say hi to your mother.
+
+0xA330BECA = ~z~You like the idea of that, huh? ~rp~Us owning a ranch?
+
+0xA523DE10 = ~z~Name?
+
+0xA674BD99 = ~z~It was foolish to forget mine, sir.
+
+0xA401550A = ~z~Probably someone who knew me.
+
+0xA2845271 = ~z~Slow it down.
+
+0xAB22BB40 = ~z~what...
+
+0xAC1BF635 = ~z~David Geddes sent me.
+
+0xAD72F69F = ~z~It's not important.
+
+0xAF13E4FB = ~z~How much shopping you done?
+
+0xAFD5D05B = ~z~Look, I got some business to attend to with the clerk.
+
+0xB2AA1FE9 = ~z~I ain't no rancher.
+
+0xB2B25AAB = ~z~Let's speed this up.
+
+0xB52EF37D = ~z~I'm tired, John, and I guess I was dreaming a little.
+
+0xB56DDE11 = ~z~For now.
+
+0xB88A0DB1 = ~z~Ah, it's...
+
+0xB91CFF05 = ~z~~sl:0.0:2.5~I didn't have much of a choice. You saw that.~lr:0.6:1.7:1~Now, ~rp~compose yourself.
+
+0xB126D798 = ~z~Give 'em a switch.
+
+0xB261F203 = ~z~Our son.
+
+0xB824B773 = ~z~That's all I'm saying.
+
+0xB1605B29 = ~z~I don't know.
+
+0xB65661F3 = ~z~Pick up the pace a bit.
+
+0xB7271615 = ~z~I ain't sure...
+
+0xBAC003D8 = ~z~That's right. Beecher's Hope. ~rp~Over by Blackwater.
+
+0xBBE20503 = ~z~Was your dress that caused all the problem!
+
+0xBD477BE2 = ~z~Was you?
+
+0xBD148955 = ~z~It's a long story. The wife... we-we was robbed by her brother, it's -
+
+0xBE8C89E4 = ~z~Are they... dead?
+
+0xBEE32A6C = ~z~Actually, you know what, faster.
+
+0xBF0E7367 = ~z~Faster, please.
+
+0xC068BB66 = ~z~Rustled horses, not raised 'em.
+
+0xC4F511B1 = ~z~Lancelot.
+
+0xC6F8B5B8 = ~z~Here, you take the reins a little.
+
+0xC7FF5ABD = ~z~Oh, Pa, those men, are they following us?
+
+0xC15B11DA = ~z~All okay, Pa?
+
+0xC29D1906 = ~z~Uh... Jim Milton.
+
+0xC182F92B = ~z~Okay. Heya!
+
+0xC4337B9C = ~z~~sl:1.3:0.0~That's enough?
+
+0xC8879A2E = ~z~We start doing okay, and then boom...
+
+0xCA8A1BE3 = ~z~Think it's in your name.
+
+0xCAD1A4CF = ~z~Yeah, i-it's mostly 'Milton' these days.
+
+0xCB9EA408 = ~z~I told you not to look, boy.
+
+0xCB64D15E = ~z~Undertakers like me. Cattle? Not so much.
+
+0xCC61897E = ~z~Better.
+
+0xCE192971 = ~z~I...
+
+0xCFD02557 = ~z~Just gonna show him how to drive the wagon a little.
+
+0xCFEC212B = ~z~I was reading about a...
+
+0xD05151A1 = ~z~Turns out I... I miss the seclusion of the ranch more than I figured for.
+
+0xD0B0BF5E = ~z~Yes, here we are.
+
+0xD2A20A3A = ~z~let's go.
+
+0xD2FA755D = ~z~Out the way, huh?
+
+0xD4AC36C4 = ~z~Don't want to seem like we're running away from anything.
+
+0xD4E7BD9B = ~z~M-My name?
+
+0xD4E89170 = ~z~I thought you was taking the boy into Strawberry.
+
+0xD6B1B52A = ~z~I'll take the boy with me, he's getting soft.
+
+0xD7C1DCD7 = ~z~No, no. Too fast now.
+
+0xD7C24D81 = ~z~Abigail Roberts.
+
+0xD8A41038 = ~z~~sl:0.0:0.8~Jack!~sl:0.6:1.7~Jack, you okay?~sl:0.7~Jack!
+
+0xD8B3D92E = ~z~~sl:1.2:2.2:1~Okay... okay Pa.
+
+0xD47F156C = ~z~Little slower.
+
+0xD7274AEB = ~z~You get the rest of the stuff.
+
+0xD53009C4 = ~z~What you boys want with us?
+
+0xD949221B = ~z~
+
+0xD4507489 = ~z~You're talking bullshit, mister, kill him!
+
+0xDA313D81 = ~z~Every time we about to get somewhere, make something...
+
+0xDA982A60 = ~z~Go if you're going, John.
+
+0xDBE4725D = ~z~That ain't true.
+
+0xDBEC40F7 = ~z~you go and show the entire world that you ain't Jimmy Milton.
+
+0xDC451446 = ~z~You need to do exactly as I say, boy.
+
+0xDEFD419F = ~z~~sl:0.0:1.1~I hope not...~sl:1.6:2.1~I'm just a farmer, friend, and...~sl:0.8~I don't have no money on me.
+
+0xDF214D66 = ~z~Come on, let's get out of here.
+
+0xE03D5C33 = ~z~Whatever you say, Mr. Milton.
+
+0xE7EC0405 = ~z~~sl:1.1~I see the resemblance...~sl:1.8~pair of goddamn morons.
+
+0xE8D3EE44 = ~z~mostly Milton these days.
+
+0xE14C1075 = ~z~Followed by who?
+
+0xE59D77E0 = ~z~Yessir. Ya!
+
+0xE67D4E4D = ~z~old ranch, Beecher's Hope, down by Blackwater.
+
+0xE68AB16A = ~z~Worry about what's in front of us.
+
+0xE74E5B63 = ~z~Son, I need you to hold it together.
+
+0xE95DDFFA = ~z~it was a gift for you.
+
+0xE99BE076 = ~z~Weren't even a dress...
+
+0xE258A9A7 = ~z~keep them eyes closed...
+
+0xE260E2BE = ~z~And also, I'm here to pick up the deliveries for Pronghorn Ranch.
+
+0xE549AF8D = ~z~You're okay.
+
+0xE730CF7A = ~z~Alright, here we are.
+
+0xE830DF8D = ~z~Take care now. Give my regards to Geddes.
+
+0xE881D8CA = ~z~Jim, if you're heading that way, can you pick up a parcel for me?
+
+0xEA3E7C43 = ~z~Come on, son. You'll enjoy it if you try a little harder.
+
+0xEAB95D69 = ~z~You're... you're doing better.
+
+0xEC99A89F = ~z~Come on, hey.
+
+0xEC898A05 = ~z~Don't you wanna go to the store, or the saloon, or anywhere?
+
+0xEF6AE7F4 = ~z~At least give me that.
+
+0xEF5442FD = ~z~Have you seen something?
+
+0xF0334FEF = ~z~Well... you oughta... get used to what kind of folk yours is.
+
+0xF1AC6E0E = ~z~Okay. Here we are. That was an, uh, eventful trip.
+
+0xF5C22013 = ~z~Come here, partner. We don't mean no trouble.
+
+0xF7ED54D4 = ~z~why...
+
+0xF23EF805 = ~z~It's a long story.
+
+0xF58EC20B = ~z~~sl:0.0:1.7~It's the same as any other road.~sl:0.4~Look where you wanna go and the horse will follow.
+
+0xF201E4D8 = ~z~let's see what you come calling about.
+
+0xF3498B0F = ~z~Just keep driving.
+
+0xF6037B32 = ~z~Whatever you say, "Mr. Milton", it's not important.
+
+0xF3299257 = ~z~Ma said... it was pride or something...
+
+0xFA577C75 = ~z~Come on.
+
+0xFB07FE06 = ~z~Milton?
+
+0xFB4BA789 = ~z~We're going back, okay boy?
+
+0xFB1213A8 = ~z~Nope, nothing here for that name either.
+
+0xFBA70671 = ~z~Sure... I hope so...
+
+0xFBF29489 = ~z~Here, let me help you with this, Mr. Marston.
+
+0xFC5EF125 = ~z~I could see you as rancher's boy. ~rp~Like Duncan Geddes, eh?
+
+0xFCAB594F = ~z~~sl:0.0:1.9~Well... you just hold 'em and...~sl:0.8~pull 'em short to slow down,
+
+0xFCE501C0 = ~z~Milton, ma'am.
+
+0xFD5AC42E = ~z~~sl:1.6:0.0~It's okay. You're okay.
+
+0xFECA0570 = ~z~Huh...
+
+0xFEFB6A64 = ~z~Slow down a little.
+

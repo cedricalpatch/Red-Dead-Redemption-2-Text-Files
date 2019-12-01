@@ -1,0 +1,14 @@
+0x7F0A40C8 = ~z~I put you in one of the upstairs bedrooms, I thought that would be a little nicer for you...
+
+0x632D890F = ~z~Oh, Mr. Morgan... I had your stuff unloaded.
+
+0xAC371B21 = ~z~Yes... it's, uh... it's great if you love alligators and mosquitoes.
+
+0xB11824E3 = ~z~Thank you.
+
+0xC7E5D27E = ~z~Thank you.
+
+0xDDF1FE96 = ~z~I mean, the place is dump, but... we can survive here.
+
+0xF795B1DD = ~z~Exactly. Anyway, it's left at the top of the stairs and head on to the end of the landing.
+

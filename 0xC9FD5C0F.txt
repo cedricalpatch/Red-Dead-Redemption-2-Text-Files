@@ -1,0 +1,1888 @@
+0x007ABA46 = ~z~He reminded me of a hobgoblin... a spellcaster.
+
+0x00F3493F = ~z~A banker?
+
+0x0143B984 = ~z~it's more like torture.
+
+0x016287B4 = ~z~Make yourself comfortable, and we'll soon be on our way.
+
+0x016DA3F5 = ~z~That's the natural order of things, yes?
+
+0x0170BA5D = ~z~I'm intrigued, sir, to hear your arguments...
+
+0x01CD36E7 = ~z~All I know for sure is...
+
+0x01FD0C0B = ~z~What are you loitering around me for? Mingle, dear boy.
+
+0x02680E9E = ~z~Hello, Mr. Kilgore...
+
+0x0269D28B = ~z~Ma'am.
+
+0x03AF2E0E = ~z~I wasn't really listening.
+
+0x03B3ED9D = ~z~and you've washed.
+
+0x03E1BE2C = ~z~I don't know...
+
+0x03F2B27D = ~z~~sl:0.0:4.1:1~Perhaps you should have it whipped out of you like you advocate whipping the sin out of others?
+
+0x03F72699 = ~z~All I know for sure is we're going to a party at the mayor's house and the guest of honor is the worst crook in town.
+
+0x042AB33D = ~z~although I'm not quite sure what.
+
+0x0437C1C0 = ~z~~sl:0.0:1.9:1~You're very unkind, Marie.
+
+0x049D2C95 = ~z~A city bank?
+
+0x05733AFF = ~z~A man can appreciate fine ladies' millinery. There's no shame in it.
+
+0x0588AB85 = ~z~Maybe not...
+
+0x05BE3369 = ~z~Is everything taken care? The telephone, it keeps ringing.
+
+0x066F252B = ~z~And all these people...
+
+0x0700832E = ~z~Ah...
+
+0x071E2322 = ~z~Good evening.
+
+0x074CAD3C = ~z~
+
+0x075C2CFE = ~z~The fact is, since the war, the government has done an awful job of preserving law and order, Mr. Jameson.
+
+0x0811F62D = ~z~clearly not from this swampy hell hole.
+
+0x082F73EA = ~z~This town gets to a man, undermines even the best of us.
+
+0x085ED072 = ~z~You should freshen your glass, you deserve it!
+
+0x08829C83 = ~z~And you think my cousin would appreciate that demonstration?
+
+0x088837B4 = ~z~Lucky for you, and as for that other feller... Featherstone Chambers? What a windbag he is.
+
+0x08D63C86 = ~z~~sl:0.0:2.8~Gentlemen, I hope you are having a fine evening.
+
+0x0903596B = ~z~You're the fellows who never lend me money when I need it,
+
+0x09CDF594 = ~z~Good evening, Mr. Hawksbill. Please stop pestering me.
+
+0x0A69AD30 = ~z~See that wretch...
+
+0x0A72FD0F = ~z~~sl:0.6:0.8~Yes...~sl:0.5~very good.
+
+0x0A3737C8 = ~z~Well, we're not paid killers as such...
+
+0x0B4ADCF7 = ~z~Oh, don't be like that, Mannersby.
+
+0x0B800205 = ~z~Oh, no, no, no, no.
+
+0x0B864204 = ~z~Ah, the angry cowboys, you've arrived...
+
+0x0C5E2BD9 = ~z~Evening, gentlemen.
+
+0x0C8F3B44 = ~z~Oh, oh, and that...
+
+0x0CF3A929 = ~z~Nor have I, if I am being honest.
+
+0x0D24CD5B = ~z~What do you do now?
+
+0x0DB7F368 = ~z~Oh, just what I need, a sympathizer. Well, good evening to you.
+
+0x0DE08948 = ~z~If you say so.
+
+0x0E11D112 = ~z~Sure.
+
+0x0E627B1E = ~z~~sl:0.7~I won't argue with you there, Miss.
+
+0x0EAE4844 = ~z~this is Saint Denis high society?
+
+0x0EDEA937 = ~z~Always have been... a true romantic. A dreamer.
+
+0x0F5CA833 = ~z~Oh... I love that one.
+
+0x0F8FD588 = ~z~exactly.
+
+0x0F54B81A = ~z~Sir.
+
+0x0F78A8FA = ~z~It takes all my gumption to sleep with Frederic here and he's as capitalist as they come.
+
+0x0F1075BA = ~z~
+
+0x1A35EAD4 = ~z~But I can smell it.
+
+0x1B4F69B0 = ~z~Oh, uh... well I'm in between jobs at the moment.
+
+0x1B7EA1F6 = ~z~but you...
+
+0x1B30FDC6 = ~z~~sl:0.0:3.1:1~and when I've got too much, try to lend me more.
+
+0x1BAD4430 = ~z~A question for you, sir. Are you an appreciator of art, by any chance?
+
+0x1C4C04E9 = ~z~Women and men both deserve to decide the future.
+
+0x1C518394 = ~z~~sl:1.9~I am not the shallow cad I appear, sir. I love that woman.
+
+0x1CF31E2A = ~z~Uh... likewise.
+
+0x1D006A55 = ~z~I'm sorry, but you can't be serious. That war is preferable to peace?
+
+0x1D1F0213 = ~z~Can I help you with anything, sir?
+
+0x1D405DDA = ~z~you wouldn't help a friend.
+
+0x1D3582E7 = ~z~Here helping the Indian chief we saw.
+
+0x1E3773EA = ~z~You're different, but you're neither my better nor my inferior, sir.
+
+0x1E6596AF = ~z~Time... what a total bastard it is, huh?
+
+0x1F3A70D4 = ~z~~sl:0.4:0.0~Now, if you'll excuse me, I have to go find my fiancee.
+
+0x1F3D4DBC = ~z~I used to quite often... there can be fine pickings.
+
+0x1FA6D0AA = ~z~Hosea, you go find us some place to rob.
+
+0x1FD802A8 = ~z~How do you know the mayor?
+
+0x2A3F07CE = ~z~What kind of contacts?
+
+0x2A75550E = ~z~We want to end this century yet more besmirched,
+
+0x2AF5FC8F = ~z~~sl:0.9~Anyway...
+
+0x2B95FED4 = ~z~
+
+0x2BE8F8FB = ~z~Sure, why'd you give 'em to me?
+
+0x2C0B36C0 = ~z~Oh...
+
+0x2C8F3302 = ~z~Then again, I always loved bastards... the real ones, I mean.
+
+0x2C761B6F = ~z~Find that little reprobate jip and beat him.
+
+0x2CC29939 = ~z~Well done, sir, saving that man! I was about to step in, myself.
+
+0x2CE353EB = ~z~Wonderful!
+
+0x2D55A3CF = ~z~I might have an idea...
+
+0x2D99A784 = ~z~~sl:0.0:2.2~This is meant to be the land of liberty,~sl:~but, somehow, I am not free to vote.
+
+0x2DE88E28 = ~z~outside of Wall Street and San Francisco.
+
+0x2E5C7EDE = ~z~A Confederate...
+
+0x2E43F555 = ~z~But with too much law and order, won't we have dictatorship, or worse... monarchy?
+
+0x2F059463 = ~z~And Trelawny, he's investigating for us.
+
+0x2F727A05 = ~z~Oh my God, I should not have got up this morning.
+
+0x2F3720F1 = ~z~~sl:0.3~Marie! Marie!
+
+0x2F18768D = ~z~but they certainly are afraid of me.
+
+0x2F25042E = ~z~
+
+0x2FF412F9 = ~z~Well, uh, I-I'm not quite, uh... I'm an American.
+
+0x3A7FABFF = ~z~If you ask me...
+
+0x3A434062 = ~z~We'll meet you out back after we pay our respects to Signor Bronte.
+
+0x3AB4873F = ~z~
+
+0x3ABA41A7 = ~z~Oh! Oh...
+
+0x3AC40F00 = ~z~Hi there.
+
+0x3B0EB64E = ~z~Who do think you are, man?
+
+0x3B969A87 = ~z~Come on...
+
+0x3B4602D4 = ~z~~sl:0.8:2.1:1~Oh...
+
+0x3BA5DAED = ~z~
+
+0x3BF29858 = ~z~I think so.
+
+0x3C3E78A0 = ~z~~sl:0.0:1.5~As of course do I,~sl:0.0:3.3~but things are more complex in the matters of men~sl:~than in the heads of the intellectuals.
+
+0x3C7E91EF = ~z~How's your evening going?
+
+0x3C69A266 = ~z~Why he gets the pride of place is beyond me.
+
+0x3D13A1F0 = ~z~Nothing too much yet.
+
+0x3D56A091 = ~z~Good evening.
+
+0x3DBDE680 = ~z~No pickpocketing.
+
+0x3E0D453E = ~z~Here's them papers I took.
+
+0x3E26AAC9 = ~z~
+
+0x3E34E172 = ~z~We've not made any...
+
+0x3EF9B753 = ~z~Monsieur Chatenay... he is a two-bit charmer...
+
+0x3FA38155 = ~z~and a bad horse.
+
+0x4A00CA41 = ~z~Hey, Arthur.
+
+0x4A8D4742 = ~z~Luca here will take you to Mr. Bronte.
+
+0x4B02C0DE = ~z~Ah, Mr. Mayor, wonderful to see you again.
+
+0x4B2EF670 = ~z~Come on, sleep it off.
+
+0x4B12397D = ~z~Oh, I'm willing to help in any way I can...
+
+0x4BACD44E = ~z~Oh, me too...
+
+0x4C934F7E = ~z~Okay.
+
+0x4D3B53D6 = ~z~only the most foolish of women would fall for his nonsense.
+
+0x4D673E28 = ~z~~sl:0.0:3.8~There's also that trolley car station Signor Bronte told us about,~sl:~and I heard about a high stakes poker game...
+
+0x4D15331C = ~z~~sl:0.0:1.5~Met some interesting people.~sl:0.6~What about you? Did you speak to the mayor?
+
+0x4DE0BC34 = ~z~Find anything?
+
+0x4DF3896D = ~z~Well, well, well, well, well...
+
+0x4E011C25 = ~z~I'd hope the latter.
+
+0x4E1EA407 = ~z~~sl:0.5:0.0~Sure.
+
+0x4EAB1BF4 = ~z~It... really is a beautiful hat.
+
+0x4EC10AB6 = ~z~All these vulgar people...
+
+0x4EEA1270 = ~z~A-as long as the mayor behaves himself, you know?
+
+0x4F0F6F92 = ~z~Oh wow... oh!
+
+0x4F1DD254 = ~z~~sl:0.9:0.0~There's no need to be so facetious.
+
+0x4F2F47F1 = ~z~Oh, yes?
+
+0x4F9AFDDF = ~z~Yeah...
+
+0x4F927235 = ~z~We'll meet you out on the balcony when you're done.
+
+0x4FA90A4E = ~z~Well, there's, there's money at the trolley station.
+
+0x4FB86894 = ~z~Anybody see you take this?
+
+0x4FF0E2AB = ~z~I'm, uh... I'm an adventurer.
+
+0x5A7B560F = ~z~I have no sympathy for them because...
+
+0x5A14BE35 = ~z~If you heard what I said about Europeans, I hope it didn't offend you.
+
+0x5A30D8D2 = ~z~whoever is stupid enough...
+
+0x5A858CA7 = ~z~~sl:0.0:3.0:1~do use those tickets...
+
+0x5A21529B = ~z~That so?
+
+0x5BA94F07 = ~z~~sl:0.5~Very interesting.
+
+0x5BC7A9C0 = ~z~Oh stop pouting and mount up.
+
+0x5C37367C = ~z~I'll leave you to enjoy your evening.
+
+0x5CCF9848 = ~z~Whoa! Ah!
+
+0x5CD5F0AB = ~z~High society's pigeon shit.
+
+0x5D67BBFD = ~z~Do you know Evelyn Miller?
+
+0x5DAE4568 = ~z~Not at all. I worked with an Irishman... and he was a terrible person.
+
+0x5E2C9FDF = ~z~Well, I'm not quite sure yet... Albert Danielson.
+
+0x5E9D6C6D = ~z~Interesting... Well, thank you. Hope you enjoy the rest of your evening.
+
+0x5E9D67D1 = ~z~Oh, you play?
+
+0x5E94FFAC = ~z~~sl:0.0:2.6:1~I will not have standards slip in this house!
+
+0x5E784504 = ~z~Not yet. Give me a chance.
+
+0x5EA4A355 = ~z~Would you like some champagne?
+
+0x5EAD5FD3 = ~z~Gentlemen... let's go ingratiate ourselves.
+
+0x5F18DBA0 = ~z~Hello, Ruprecht O'Keith.
+
+0x5F86F21E = ~z~I was in the army once.
+
+0x5FD7E308 = ~z~I'm going to pretend to understand what that means.
+
+0x5FD12CDE = ~z~It'll make you long for the days...
+
+0x5FED8C43 = ~z~Sounds a little bawdy and lowbrow for my tastes.
+
+0x6A37909A = ~z~Glass of champagne, sir?
+
+0x6ABFD1E0 = ~z~Like a Jew?
+
+0x6ACE6E8E = ~z~I'm still looking for him.
+
+0x6AF1A59B = ~z~Didn't you hear me? This area is off limits. If I see you again, I will have to escort you out myself.
+
+0x6B03CAA7 = ~z~~sl:0.3:2.3:1~That's wonderful, wonderful. Come come, this way.
+
+0x6B3C7AE9 = ~z~to be tricked by the Americans...
+
+0x6B378DE9 = ~z~~sl:0.4:0.0~Women are inferior to men, madam. It's not my fault. It's a fact.
+
+0x6BA3DC35 = ~z~~sl:0.0:2.2~Hello, William... Leonard.~sl:0.7~Thank you for joining us.
+
+0x6BB6BB0D = ~z~No, that's it. Guards, guards, we have an intruder!
+
+0x6BC4E195 = ~z~It's mainly their politics I can't stand.
+
+0x6BD6F606 = ~z~I may be a knave, but I'm a sensible knave.
+
+0x6BE28EB8 = ~z~Alright, let's get in...
+
+0x6BE73B54 = ~z~Brynn Tildon, this is Mr. Hector Fellowes.
+
+0x6C9CEF40 = ~z~Sorry, I've managed to get myself turned around somehow. Don't mind me.
+
+0x6C167A4D = ~z~and I mean anything.
+
+0x6CB81C4D = ~z~W-what is it that, uh... that you do?
+
+0x6CC6C630 = ~z~I do believe, sir, you are a cynic.
+
+0x6CFA0D14 = ~z~Truth is an absolute, sir... don't you think?
+
+0x6D0638B5 = ~z~Oh my!
+
+0x6D2AC551 = ~z~Okay, good day, gentlemen.
+
+0x6D16C769 = ~z~and I won't waste anymore of your time.
+
+0x6D62C6CD = ~t~In Italian: Okay guys, now the good wine.
+
+0x6E430EAD = ~z~I'm afraid the mayor does not allow guns at official functions...
+
+0x6EB35652 = ~z~Self-righteous know it all...
+
+0x6EDBAB01 = ~z~Hello there.
+
+0x6EFCC19A = ~z~
+
+0x6F0E5F4A = ~z~but we can still put on a good show.
+
+0x6F669721 = ~z~
+
+0x6FAF03DE = ~z~Maybe, maybe you will kill him for me one day?
+
+0x7A6E8FF8 = ~z~Thank you, sir.
+
+0x7A6EE04E = ~z~~sl:2.2:0.0~Probably.
+
+0x7A432DE5 = ~z~I mean, modern art is all very well, but my daughter could do better.
+
+0x7A489A74 = ~z~I must go and purge... I intend to stay thin, until I pass away...
+
+0x7A658AF4 = ~z~but this man...
+
+0x7AA5B3A0 = ~z~The truth is, since the war, the country's doomed itself.
+
+0x7ACCA8B9 = ~z~I'm doing my best, sir.
+
+0x7B2B460E = ~z~Yes, sorry. I was just admiring the art.
+
+0x7BA88B09 = ~z~Dancing lessons?
+
+0x7BE9ADFB = ~z~~sl:0.0:3.2~Almost all the Caribbean trade banks with us.~sl:0.3~We work with all the remaining cotton growers in the U.S.,
+
+0x7BEE3407 = ~z~Can I interest you in a glass of champagne?
+
+0x7C8C9687 = ~z~Oh thank you, sir, yes, thank you...
+
+0x7C5903A6 = ~z~This cabaret show at the Theatre Raleur... it's jolly fun.
+
+0x7CC56E2A = ~z~What a beautiful evening it shall be...
+
+0x7CFC324C = ~z~
+
+0x7D8CBDE2 = ~z~An aesthete in this land of common place... heathens.
+
+0x7E0066FC = ~z~As my guest, do it.
+
+0x7EB061A3 = ~z~What an extraordinary name! I'd remember that.
+
+0x7F2B3B4A = ~z~How is your husband, Delores?
+
+0x7F5BCD42 = ~z~Oooh... That was nice!
+
+0x7F827198 = ~z~No problems?
+
+0x7FCB2322 = ~z~~sl:0.0:4.3:1~And congratulations... a wife is a wonderful thing.
+
+0x8A1FCD9E = ~z~~sl:0.0:4.5~Oh that's quite unfair... I found him delightful...~sl:0.4~in that French sort of way...
+
+0x8A7BBFD3 = ~z~I did no such thing...
+
+0x8A31BF37 = ~z~~sl:0.0:1.5~But, Mr. Miller,~sl:0.2:3.0~the Indian problem is not an urban problem~sl:~but a rural problem.
+
+0x8A234A6E = ~z~~sl:0.0:2.4~who still use a lot of cash, and...~sl:~we helped finance half the reconstruction projects after the war.
+
+0x8BF8A573 = ~z~~sl:0.0:2.3~Who's, eh... who's going to, eh...~sl:0.3~andiamo, who's going to go to the...
+
+0x8C2CC160 = ~z~Wow!
+
+0x8C7B9AF8 = ~z~It's not your fault...
+
+0x8C868DA8 = ~z~Signor Napoli.
+
+0x8D8BA60B = ~z~To what?
+
+0x8D8FBD47 = ~z~Yes. Oh, and that one too.
+
+0x8D2810A8 = ~z~~sl:0.0:3.4:1~The pesky nut... what a way to go, eh?
+
+0x8DB50189 = ~z~Very interesting...
+
+0x8DCC4661 = ~z~~sl:0.3~A-And what do you think, sir?
+
+0x8E4C8217 = ~z~But marriage is more... business, than romance.
+
+0x8E6FC024 = ~z~Gentlemen... I think we're done here.
+
+0x8EFA6A48 = ~z~You're preaching again, Mrs. Wicklow.
+
+0x8F4E4DAE = ~z~I think I saw you earlier.
+
+0x8FC3BCF5 = ~z~Algernon Wasp.
+
+0x9A2BB077 = ~z~A Russian... something like that.
+
+0x9AA72FD6 = ~z~What a beautiful evening.
+
+0x9AAAB756 = ~z~I'm a fool for trusting him.
+
+0x9B8A3D2A = ~z~Drive on.
+
+0x9B58A3EC = ~z~But I can tell that you are very busy...
+
+0x9B94DEF9 = ~z~Enjoying yourself?
+
+0x9C2F208D = ~z~~sl:0.5~Apologize to your wife, not me.
+
+0x9C23015C = ~z~Her husband... he's an even worse tomcat.
+
+0x9CA69CAF = ~z~~sl:0.0:0.9~It's disgusting.~sl:0.2~I never have.
+
+0x9CC14302 = ~z~~sl:0.0:1.6:1~Oh, will you look at that.
+
+0x9CD824B3 = ~z~I used to quite often...
+
+0x9DAC639F = ~z~Could be interesting, I'll keep investigating...
+
+0x9DC808F3 = ~z~That's quite a place you got here.
+
+0x9E14DD49 = ~z~Appreciate it.
+
+0x9E44E101 = ~z~Oh yeah...
+
+0x9E67B327 = ~z~~sl:0.0:4.9:1~Thank you, sir, oh... yes... thank you...
+
+0x9EC2A3A4 = ~z~~sl:0.0:4.3:1~Top secret... extremely confidential.
+
+0x9EC38D9A = ~z~My partners and I represent twenty, well more like twenty-three percent
+
+0x9F5DEF12 = ~z~That's not what I said.
+
+0x9F54F3F8 = ~z~Okay.
+
+0x9F75687C = ~z~Thank you for the champagne, I'm glad there's still some gentlemen left around here.
+
+0x9FA7EE61 = ~z~Yes, you were talking to that blowhard, Alfred Lafonde.
+
+0x9FC24C58 = ~z~Oh, my knight with the shining champagne bottle.
+
+0x9FE0E0E1 = ~z~Oh, I'm more of an opera man myself. Figured someone else should enjoy them.
+
+0x10BA4755 = ~z~~sl:0.6:0.0~Me too!
+
+0x11EFD92B = ~z~Especially in journalism!
+
+0x12A3576B = ~z~I believe he is expecting you.
+
+0x12F44702 = ~z~But a young wife...
+
+0x13C574D0 = ~z~Henri Lemieux...
+
+0x13D65F28 = ~z~Undeniable, demonstrable... I will not deny it simply because of fashion.
+
+0x14B7D013 = ~z~He did seem full of himself.
+
+0x14B48361 = ~z~~sl:0.0:2.7~Ah! Get me a bloody drink, will you?~sl:0.8:1.3~A small one...~sl:0.5~just big enough for me to swim lengths in, you know?
+
+0x14E5AF79 = ~z~Nah.
+
+0x15C6C4FE = ~z~Evening, sir.
+
+0x15C27972 = ~z~I apologize for that woman, sir. The last thing she needs is more champagne.
+
+0x15CB5EE3 = ~z~We'll find what we can.
+
+0x18A349A3 = ~z~Like that one.
+
+0x18ACE6A5 = ~z~Indeed, it is.
+
+0x18AF8873 = ~z~You know I swear half the men in here are dipping their quill in another ink well.
+
+0x18BE3E52 = ~z~Are you familiar with the work of Charles Chatenay?
+
+0x18E75C99 = ~z~I think war is a fine way of... thinning the herd.
+
+0x18EBB1FB = ~z~~sl:0.0:2.5~blood and guilt because of more sins?~sl:0.4~Do we wish to better ourselves?
+
+0x19F92CDF = ~z~Oh... not you, Hector Fellowes. I thought you overheard our conversation.
+
+0x20BC09F8 = ~z~Oh, and I spoke to Evelyn Miller.
+
+0x20C5F004 = ~z~
+
+0x20F0ECC9 = ~z~Yes, apparently so.
+
+0x21A02849 = ~z~But before you go...
+
+0x21A0D013 = ~z~Exactly! That is how I feel! Thank you, sir, debate closed.
+
+0x21AC1AF1 = ~z~~sl:1.3:1.5:1~Outrageous!
+
+0x21B1062C = ~z~Oh! Me too... pursuer of the exotic and the remarkable.
+
+0x21B2344D = ~z~This area is not meant for the likes of you, you know this.
+
+0x24BA6A8E = ~z~it's unseemly.
+
+0x24BE4E6B = ~z~~sl:0.0:1.1:1~I'm sorry, kid.
+
+0x25D9B8E4 = ~z~been wonderful conversing with you.
+
+0x29D67707 = ~z~Maybe... and a stuffed one.
+
+0x29DB7451 = ~z~Oh... yes, well!
+
+0x29EAE0AB = ~z~Uh... yeah, I guess you could say that?
+
+0x29EF03FA = ~z~~sl:0.5~Still admiring my hat, I see.
+
+0x30CF72FB = ~z~Gentlemen, be well.
+
+0x31ED0733 = ~z~within reason.
+
+0x31FE9330 = ~z~Are his... money interests as large as he made out?
+
+0x32AA4536 = ~z~Having fun?
+
+0x36FA3674 = ~z~Good.
+
+0x38BD42EE = ~z~Ooh...
+
+0x39ADFB6C = ~z~Mr. Chambers.
+
+0x40ED264B = ~z~they get what they deserve, huh?
+
+0x40F9AC8A = ~z~This is quite a town that you have here, Mr. Jameson.
+
+0x43BE39DB = ~z~I would at least like the opportunity to show you our business.
+
+0x43C0EC8E = ~z~Those sure were the days...
+
+0x43CCF520 = ~z~ever set foot in this sophisticated metropolis?
+
+0x43F0CE42 = ~z~Honor is a made up idea people use to get others to fight for them.
+
+0x44C8BD76 = ~z~Impudence... I see you've still got that.
+
+0x44C8D0F9 = ~z~You French, sir?
+
+0x45C8B688 = ~t~In Italian: For the first time this month no doubt.
+
+0x46BA71B8 = ~z~Fitzhubert Hardy-Burt, nice to meet ya.
+
+0x46CB43BB = ~z~Some nervous, small town bank could finish us in a bad year...
+
+0x46D58ED5 = ~z~the writer?
+
+0x47F942C5 = ~z~Thank you again for the champagne.
+
+0x49B25FB5 = ~z~~sl:0.0:3.8~Look me in the eye and tell me in all honesty,~sl:~that I am not the equal of any man you've ever met.
+
+0x50A14C39 = ~z~Yes, quite something...
+
+0x50C0BFDA = ~z~Well, sure, I'm not a wealthy man... I run a prison.
+
+0x51F589D7 = ~z~Are you familiar with the work of Charles Chatenay?
+
+0x53C66F69 = ~z~Yes, sir?
+
+0x53D9B484 = ~z~~sl:0.0:5.7~He's uh... I describe him as...~sl:0.7~complex and... passionate?
+
+0x56C563E2 = ~z~One big score down here, Arthur, and we disappear.
+
+0x57BC9AEA = ~z~That man may be stronger than me, but he's got all the insight of a bullfrog.
+
+0x57DEFCC5 = ~z~~sl:1.5~Typical pansy.
+
+0x57EB5A6D = ~z~Oh, I... I don't live here, I was here for the poker.
+
+0x57ED6239 = ~z~Thank you, thank you very much!
+
+0x58C7E7CF = ~z~Come on.
+
+0x58D3E3CF = ~z~after last year's incident.
+
+0x58E7FE34 = ~z~But not for mine?
+
+0x59C06761 = ~z~You shall be too sir, if you don't sharpen up your morality.
+
+0x60A80E9A = ~z~How do you do, ma'am?
+
+0x60B950B3 = ~z~We are ridiculous.
+
+0x60F5C089 = ~z~But don't tell anyone, sir... the women here are all desperate to know.
+
+0x62B40499 = ~z~Howdy do, miss?
+
+0x62C13086 = ~z~Nor have I, if I am being honest.
+
+0x62D5BE97 = ~z~~sl:1.4~I'm sorry... I'm... ranting...
+
+0x63F421CB = ~z~~sl:1.5~Wedlock... hugely overrated!
+
+0x65A9643F = ~z~Good evening, sir. Enjoy your stay in Saint Denis.
+
+0x65E8811B = ~z~So hard these days, to find men of true morals.
+
+0x66ABE59B = ~z~Henri Lemieux.
+
+0x68F8D3F3 = ~z~I'll come and sign it in a minute...
+
+0x68FAE9AA = ~z~~sl:1.4~Major Crawley, Mr. Chambers, I must go speak to someone for a second...
+
+0x70B05264 = ~z~This is a final warning to you miss. A final warning!
+
+0x70F6A148 = ~z~Ah! Oh my.
+
+0x71C916DD = ~z~Luca...
+
+0x71D0A99B = ~z~~sl:0.0:1.7:1~Well, look at that.
+
+0x71D66D79 = ~z~Hello... uh, Tacitus Kilgore.
+
+0x71E165D0 = ~z~Mr. Cornwall is a horse's ass...
+
+0x72B948F0 = ~z~A rather sad one...
+
+0x73C6C5E6 = ~z~Oh! Well...
+
+0x73C41B70 = ~z~Well, yes, thanks to me!
+
+0x73C74C9E = ~z~what exactly are your plans here?
+
+0x74ADB662 = ~z~~sl:0.0:2.1~It ain't complex, Lemieux...~sl:~and only an idiot like you, buddy, would try to make it so.
+
+0x75A2FA12 = ~z~Well, enjoy the rest of your evening. Stay away from the nuts would be my advice.
+
+0x75ADB7C3 = ~z~I hope you enjoy that show.
+
+0x75C909F2 = ~z~Yes, I know, but like I said, the next big tournament, which I will not be attending, is for a game too rich for my blood.
+
+0x76BB5362 = ~z~~sl:0.0:6.3:1~Oh well, not to worry. I do encourage you to view some of his pieces.
+
+0x77F74C9F = ~z~Excuse us, sir, we are having a private conversation.
+
+0x79A3BBC2 = ~z~He's lobbying officials in Saint Denis on their behalf.
+
+0x79B4C6A6 = ~z~Then you can rejoin the party.
+
+0x79D47896 = ~z~Sir.
+
+0x80A797F7 = ~z~What the hell are you doing?
+
+0x81B4B852 = ~z~Did he just say something about Cornwall?
+
+0x82E2F6C9 = ~z~~sl:0.0:1.5~Now get out of my sight.
+
+0x83C3602D = ~z~Have you lost your mind?
+
+0x84E8C826 = ~z~I disagree. The war? The war was thirty years ago.
+
+0x86DE002B = ~z~Thank you, Mr. Terapin.
+
+0x87B48BAE = ~z~Oh there you are. You were in there a while.
+
+0x87E069B7 = ~z~You know... I used to be a great beauty and... an even greater wit...
+
+0x90BA45EC = ~z~Yes, hand a letter to the mayor.
+
+0x90CAD46B = ~z~Ah, I see.
+
+0x90FDBC74 = ~z~You got two choices, Mister.
+
+0x92BB293B = ~z~Good evening, miss.
+
+0x92EC7D74 = ~z~How was the show? I heard you went.
+
+0x95E4997D = ~z~Merde, where'd I leave it... must've dropped it in the office.
+
+0x95F8E2F0 = ~z~all them folk, all so pleased with themselves.
+
+0x96C143AB = ~z~You're drunk, Ferdinand.
+
+0x97C7959A = ~z~Of course... thank you, sir, you are quite the gentleman...
+
+0x97E32C2A = ~z~~sl:0.0:1.5~But that's not the interesting part.~sl:0.0:2.2~What's interesting is that her lover...~sl:0.2~is a Pole.
+
+0x98B71BA5 = ~z~I-I must just go and purge... I intend to stay thin... until I pass away.
+
+0x98CBA49E = ~z~
+
+0x99AE55D0 = ~z~Gentlemen, enjoy your evening and welcome once again to Saint Denis.
+
+0x129CEC92 = ~z~An investment banker.
+
+0x132A744E = ~z~The curse of a slender windpipe... well, carpe diem and all that... or should I say carpe noctem?
+
+0x137B97E0 = ~z~The standards in this house are slipping.
+
+0x139C7EE3 = ~z~~sl:1.5:0.0~M-my card, sir...
+
+0x156C5D38 = ~z~Of course.
+
+0x160AEEFE = ~z~Are you enjoying the party?
+
+0x170FDC98 = ~z~
+
+0x188E77B6 = ~z~I'll show you to the party, gentlemen. If you'll kindly follow me.
+
+0x188F9C18 = ~z~as a guest, yes.
+
+0x196AFBEA = ~z~But let's just keep that between ourselves...
+
+0x224CDFBA = ~z~I-I need to go... and sit down... and have a little rest. I'm just gonna...
+
+0x232B7C93 = ~z~So we're doing this?
+
+0x241B6750 = ~z~
+
+0x265E7016 = ~z~I did not know you were so particular that uh...
+
+0x282EC94A = ~z~Excuse me?
+
+0x284B8797 = ~z~I ain't never felt so awkward in all my life...
+
+0x286E4E8D = ~z~Oh, oh! Oh...
+
+0x299F9C63 = ~z~I don't think so.
+
+0x302E3904 = ~z~Come here... look at me.
+
+0x318EA615 = ~z~I don't, uh, I'm actually hoping to meet him.
+
+0x329B8ECA = ~z~Well, I've heard he's a very generous benefactor to the city.
+
+0x336A4BE1 = ~z~and screw cows out on the open range.
+
+0x337D9577 = ~z~
+
+0x338F1215 = ~z~and you've washed.
+
+0x367A0E0D = ~z~Oh, oh, the redskins.
+
+0x367A0F4A = ~z~~sl:7.0:1.4:1~Oh my.
+
+0x389EA394 = ~z~~sl:0.0:4.5~Our branch alone, here in town, has more cash reserves on site~sl:~than any bank in the entire country...
+
+0x394CD143 = ~z~
+
+0x420BCBF4 = ~z~Are you looking for something, sir?
+
+0x435BB8DF = ~z~Follow me, gentlemen.
+
+0x440E997D = ~z~I'm gonna find out if old Cornwall and what's-his-name, Milton, knows we're here.
+
+0x442DF350 = ~z~Goodbye.
+
+0x448DA9B5 = ~z~Ooh!
+
+0x460B29B0 = ~z~Oh!
+
+0x461FC024 = ~z~Good Lord! Did you see that poor fellow?
+
+0x472CC23A = ~z~Oh, of course...of course.
+
+0x474FB515 = ~z~Hey, you shouldn't be here.
+
+0x478E03BC = ~z~This way please, gentlemen. Signor Bronte will be so pleased that you made it.
+
+0x483A1562 = ~z~~sl:0.5~Hello.
+
+0x496F9A1A = ~z~
+
+0x507DC8C4 = ~z~I'll be glad when this is over.
+
+0x509EB45D = ~z~Good evening.
+
+0x516B6EFF = ~z~You're walking away from history, you fool.
+
+0x532ABA0A = ~z~See how the law reacts.
+
+0x549C1289 = ~z~Have you ever married the wrong woman, sir?
+
+0x549F68B3 = ~z~
+
+0x564DCFF4 = ~z~I meant no offence, sir.
+
+0x570B3D57 = ~z~
+
+0x586A64B9 = ~z~Everyone just standing there while he choked to death!
+
+0x602D2DE0 = ~z~Thank you good sir.
+
+0x614F790A = ~z~We're almost heading home.
+
+0x618CFA20 = ~z~Okay, madam... I will not prove it by publically thrashing you.
+
+0x622AA898 = ~z~Do I know you?
+
+0x706CC51C = ~z~Uh, I don't think so. Tacitus Kilgore.
+
+0x726B0BEB = ~z~
+
+0x731D6973 = ~z~
+
+0x735EB311 = ~z~~sl:0.2~You are...
+
+0x749D9E8A = ~z~old Bronte was talking about.
+
+0x752CEC5B = ~z~let me enjoy the fireworks.
+
+0x761AD1B4 = ~z~Of course I'm married, Miss Tweedie.
+
+0x785A1B88 = ~z~and that extends to Saint Denis.
+
+0x789A7F33 = ~z~
+
+0x797D5680 = ~z~Well, it's uh... nice to meet the both of ya.
+
+0x810DFE7C = ~z~Not that bad, but nearly.
+
+0x814FD412 = ~z~Oh wow! Oh!
+
+0x843ABB89 = ~z~Well, I don't quite understand.
+
+0x846C550E = ~z~Oh!
+
+0x857D23CA = ~z~You know, my friend works in the Caribbean. He faces real rebellion.
+
+0x862EC951 = ~z~~sl:1.9:3.6:1~Tuberculosis is a strange disease.
+
+0x870DFABE = ~z~I hope so, Mannserby, I really do.
+
+0x881D58B5 = ~z~Yeah, I met him too, with the mayor.
+
+0x887CB6DC = ~z~~sl:0.0:0.8:1~Ah...
+
+0x889C2C53 = ~z~My pleasure.
+
+0x891BC28E = ~z~It is sad times we live in.
+
+0x900FF5F2 = ~z~Sir, please leave or I will have to call security.
+
+0x901E0B3F = ~z~there could be fine pickings.
+
+0x910AFA10 = ~z~Enjoy what's left of your manhood.
+
+0x912F4486 = ~z~Alberto Fussar.
+
+0x924FE193 = ~z~I am honest, where is that waiter? I need more champagne.
+
+0x926DD826 = ~z~Okay.
+
+0x934FD173 = ~z~And here in Saint Denis, we have problems of our own.
+
+0x939DD217 = ~z~
+
+0x949F9E77 = ~z~Hey Lenny.
+
+0x958C1853 = ~z~and mingle with these vulgar scum.
+
+0x961EE3B7 = ~z~~sl:0.0:3.5~I will go find some other people to threaten to hit me,~sl:0.4:1.8~if that's okay with you...~sl:1.0~sir.
+
+0x966C9F09 = ~z~Come on, Arthur, we need to get going.
+
+0x975A6813 = ~z~He reminds me of someone in a book by Balzac.
+
+0x978D42D2 = ~z~I guess.
+
+0x986C6700 = ~z~We love big clients... and we love cash.
+
+0x989AC756 = ~z~this man loves darkies.
+
+0x992DFFBF = ~z~and the city is horribly in debt...
+
+0x1257B02D = ~z~Why don't you let me show you someday?
+
+0x1569EC0D = ~z~Can I help you, sir?
+
+0x1730DE7A = ~z~No, uh... not really.
+
+0x1808D36C = ~z~If we're gonna leave, that could be the one thing we need.
+
+0x1830D0FC = ~z~
+
+0x1975D415 = ~z~Hot tickets, those. Don't lose 'em.
+
+0x2058A093 = ~z~I'm trying.
+
+0x2259C5DE = ~z~Shall we?
+
+0x2417F1C3 = ~z~
+
+0x2438F7A5 = ~z~Oh, very much so.
+
+0x2587F5A7 = ~z~
+
+0x3246F595 = ~z~~sl:0.9~Indeed! Well, enjoy the rest of your evening, sir.
+
+0x3308EB00 = ~z~Don't worry about it.
+
+0x3374AF65 = ~z~A fine man.
+
+0x3412E950 = ~z~Well, we seem to have another deranged drunkard on our hands.
+
+0x3413B692 = ~z~
+
+0x3723F7C1 = ~z~
+
+0x3884A72E = ~z~We borrow a lot of money, and generate a lot of cash.
+
+0x3962A91D = ~z~He says to meet him at the tailors.
+
+0x4241EEE3 = ~z~
+
+0x4372D34A = ~z~Oh I'm sure it's lots of fun. Who am I to judge?
+
+0x4901FC5F = ~z~Why, that would be telling.
+
+0x5013F747 = ~z~Well... gives us something to talk about...
+
+0x5589F4C6 = ~z~Oh...
+
+0x5660D7A8 = ~z~So...
+
+0x5674D2A1 = ~z~Sounding good, fellers.
+
+0x5948A731 = ~z~We are honored to be here.
+
+0x6128B6ED = ~z~Mr. Bronte he has, uh, that thing, you know? Respect.
+
+0x6245A2EB = ~z~~sl:0.0:1.6~I'm sorry you had to witnesss that...~sl:0.3:1.2~slimy pig.~sl:0.4~His own wife's cousin.
+
+0x6273AFE3 = ~z~yes, of course.
+
+0x6446E5FC = ~z~Well hello, Mr. Keith... and pray tell me, what do you do?
+
+0x6471D7B0 = ~z~I'll try to.
+
+0x6857D1D9 = ~z~My Lord...
+
+0x6862BE47 = ~z~Come on...
+
+0x7030F932 = ~z~I thought the American ideal was liberty?
+
+0x7140CDF2 = ~z~
+
+0x7240F90C = ~z~Come on now. That's it.
+
+0x7833EF05 = ~z~~sl:1.2:4.1~I got it from Mr. Wasp... he's the finest milliner in the state~sl:~and quite the most interesting purveyor of the exotic.
+
+0x7887A74A = ~z~Old friend Dutch van der Linde...
+
+0x7909CC0A = ~z~~sl:1.2:4.9:1~You know it... great fuck, I'm drunk!
+
+0x7930DBB2 = ~z~~sl:1.1~Well... I've made quite a habit of it...
+
+0x8067CD23 = ~z~What do you mean?
+
+0x8155D87E = ~z~Oh, you can't be in here, sir. Please return to the party.
+
+0x8428EBF2 = ~z~
+
+0x8449F619 = ~z~ain't we just the finest Yankee carpet baggers...
+
+0x8574B0E5 = ~z~Thank you, very much.
+
+0x8712D748 = ~z~let me think on it.
+
+0x8744B798 = ~z~Wow!
+
+0x8744F20F = ~z~New suit?
+
+0x8976B765 = ~z~And that...
+
+0x9191E178 = ~z~I was just a boy.
+
+0x9653CA15 = ~z~
+
+0x9897ED5A = ~z~Champagne, sir?
+
+0x10693B51 = ~z~
+
+0x16704BFA = ~z~Oh...
+
+0x28149DE0 = ~z~Hello, ma'am.
+
+0x33188E79 = ~z~What a loathsome selection of humanity.
+
+0x42846B11 = ~z~~sl:0.3:2.7:1~Ladies, I'll see you next week.
+
+0x47139AF8 = ~z~~sl:0.9:0.0~How do you like him?
+
+0x53535DAD = ~z~~sl:0.4:3.2~Well, I-you're stronger than me, sure...~sl:0.2~but as civilized beings, haven't we moved past that?
+
+0x56707A97 = ~z~Evening, ma'am.
+
+0x58248EA9 = ~z~Men, you have no shame.
+
+0x76108C93 = ~z~Nothing...
+
+0x76281F64 = ~z~You are not, it would seem, the only one.
+
+0x78197D03 = ~z~Oh yes... all too well.
+
+0x78281B2C = ~z~~sl:0.0:3.1~Lemieux, this intellectual here was just insulting me~sl:~regarding the red skins.
+
+0x79605DC8 = ~z~We are here to make real contacts.
+
+0x83906D0C = ~z~No, sorry, can't say I am.
+
+0x88748D09 = ~z~A Pole?
+
+0x90237A29 = ~z~I tried it enough. Well, I mean... I tried both, you know, bastards and marriage...
+
+0x92108D75 = ~z~~sl:0.0:1.7~I really do love Miss Tweedie,~sl:0.3~it isn't just the champagne talking.
+
+0x92602E38 = ~z~
+
+0x93435EDA = ~z~
+
+0x94720C69 = ~z~Yeah... uh-I mean no, uh-uh no, it-it's a new shirt.
+
+0x95672CDB = ~z~Mr. Cornwall was quite insistent, I'm afraid...
+
+0x106005C9 = ~z~well...
+
+0x124235E1 = ~z~Bill, go make us some new friends.
+
+0x238220FC = ~z~Yes, madam.
+
+0x253964F1 = ~z~You're gonna thank me tomorrow.
+
+0x348249F6 = ~z~
+
+0x372358A2 = ~z~~sl:1.9:4.4:1~Camilla McClair, where ever did you get that hat?
+
+0x436608CE = ~z~Of course.
+
+0x450421BD = ~z~~sl:0.8~Sure... liberty under the law.
+
+0x467759F6 = ~z~I will not deny idiocy, sir, but perhaps now is not the time.
+
+0x492463C2 = ~z~Oh, wonderful.
+
+0x510430D5 = ~z~Thank you again, my fellow adventurer. And do please pay me a visit at my atelier.
+
+0x525080B2 = ~z~I won't ask again... Security! Security!
+
+0x564973FA = ~z~~sl:0.0:3.9~Sort of, originally... I'm from Quebec,~sl:~but I left many moons ago, and you?
+
+0x615876C9 = ~z~Well maybe the mayor will give you a medal.
+
+0x655516FE = ~z~~sl:0.8~And you're burying your head in the sand again, sir.
+
+0x724188FB = ~z~that'll save you.
+
+0x800570CA = ~z~~sl:0.5:0.0~Oh...oh...
+
+0x836486EB = ~z~~sl:0.0:1.6~I beg to differ sir.~sl:0.5:2.1~It is not a rural problem,~sl:0.0:2.4~but a human problem.~sl:~An American problem.
+
+0x962855E2 = ~z~Well, I hate to see a lady with an empty glass.
+
+0x1170240B = ~z~My Lord, they're fantastic.
+
+0x1470254A = ~z~Oh superb!
+
+0x3237599B = ~z~
+
+0x3450811A = ~z~Don't leave young Leonard on ceremony at the door.
+
+0x6320484E = ~z~he shouted down the telephone for several minutes.
+
+0x6489918E = ~z~Maybe we could help?
+
+0x8471036A = ~z~Heston Jameson.
+
+0x9183893E = ~t~In Italian: For the first time this month no doubt.
+
+0x13203541 = ~z~
+
+0x14413093 = ~z~Have you tracked down the mayor yet?
+
+0x17496278 = ~z~I'm trying sir, I'm trying.
+
+0x17500748 = ~z~I said, have you lost your mind? Come here.
+
+0x20167379 = ~z~Well I don't know.
+
+0x22752852 = ~z~~sl:0.4:2.6~Will you please excuse me Emeline,~sl:~I must just go speak with my husband a moment.
+
+0x23607918 = ~z~~sl:0.0:4.0~When it comes to bankers, I drive a hard bargain...~sl:0.5~but I'm very fair in business.
+
+0x28203625 = ~z~Very provocative... I'll leave you to your evening.
+
+0x31396023 = ~z~Oh, oh! Oh!
+
+0x32981915 = ~z~W-what would you like me to do, hit the mayor myself?
+
+0x33055391 = ~z~let's go find out what Saint Denis thinks of itself.
+
+0x45268339 = ~z~I know.
+
+0x52395783 = ~z~Good for you.
+
+0x52520845 = ~z~Oh!
+
+0x56431929 = ~z~I think I have heard just about enough.
+
+0x57994776 = ~z~He'll do anything for a dollar...
+
+0x61842161 = ~z~Ooh...
+
+0x63496705 = ~z~this town is a waste of time.
+
+0x77438757 = ~z~~sl:0.0:4.2~If we don't act decisively, we will endure the same here and all of this...~sl:~all these garden parties and civility? They will be doomed.
+
+0x78521404 = ~z~None taken...
+
+0x85710746 = ~z~~sl:0.0:1.3~Of course she has,~sl:~that slippery fool has had that coming for years.
+
+0x93716583 = ~z~we go and get you a gown.
+
+0x94859406 = ~z~They keep a lot of cash there in the day.
+
+0x96084587 = ~z~Good evening.
+
+0x96267882 = ~z~
+
+0x98494012 = ~z~No, no, no, no, no pick pocketing. We're here to make real contacts.
+
+0xA006E235 = ~z~Politics is a foul business.
+
+0xA02E8347 = ~z~I'm sure.
+
+0xA088A4B9 = ~z~Oh, well!
+
+0xA091F977 = ~z~Ah!
+
+0xA4AA3B84 = ~z~Hurry up. I'm buying you a new suit, it could be worse.
+
+0xA4E83407 = ~z~Pay me a visit in my... atelier...
+
+0xA5EC31E3 = ~z~Thank you.
+
+0xA5F876CC = ~z~~sl:0.0:1.6~but Mr. Lemieux,~sl:0.2:2.9~I suggested that all of us, as Americans,~sl:~had a duty to take care of people living in this land...
+
+0xA8B50443 = ~z~
+
+0xA8FF0663 = ~z~~sl:2.4~Bravo, it's just marvellous.
+
+0xA16E8F94 = ~z~Evening folks.
+
+0xA16E76C4 = ~z~He's fine, isn't he?
+
+0xA19B01E6 = ~z~You son of a bitch.
+
+0xA19F5C0E = ~z~Well, at my prison, we are doing the best to remedy that failing.
+
+0xA26D2FF8 = ~z~Oh, I don't care... I've never voted anyway.
+
+0xA39C858D = ~z~And since then, we have fought more wars and we will fight more again.
+
+0xA40FAD9D = ~z~And you're a romantic, are you Mr. Hawksbill?
+
+0xA44D1000 = ~z~~sl:2.0:0.0~And what do you do, Mr. Lafonde?
+
+0xA48EE294 = ~z~How are you?
+
+0xA69E29F4 = ~z~Uhh, um... forgive me, ladies... I-I am new in town.
+
+0xA300F8D7 = ~z~Oh, I don't really. It's just another party and I get invited to parties.
+
+0xA325FC86 = ~z~has finally shown his true colors...
+
+0xA332A9EA = ~z~Are you new in town?
+
+0xA893CA12 = ~z~He thinks morality is unbiased, but it is quite the opposite!
+
+0xA2872F68 = ~z~
+
+0xA9640FBB = ~z~I hear he's much improved... he's in Tunis, I believe...
+
+0xA75564CB = ~z~You are pretty drunk.
+
+0xA305357A = ~z~Fact is, war is good for business. For most business.
+
+0xA751263D = ~z~~sl:0.0:4.1~These dancers... well, I mean, if that's French culture for you,~sl:~sign me up for French lessons!
+
+0xA914884C = ~z~Well, have you considered Lemoyne National Bank?
+
+0xA1802937 = ~z~
+
+0xA2199068 = ~z~Ah!
+
+0xA9343777 = ~z~when you could shoot each other...
+
+0xAA2A7C24 = ~z~You know, I think those fellers were making fun of me. Anyway, what you found out?
+
+0xAA2A20A7 = ~z~~sl:0.6:4.4:1~Don't blame me for God's mistakes... if they were mistakes.
+
+0xAA3AD0E1 = ~z~
+
+0xAAB0666A = ~z~I had to get away from that awful Major Crawley, pontificating on law and order.
+
+0xAAB7A226 = ~z~How are you all doing?
+
+0xAB187990 = ~z~none taken.
+
+0xABCFAF99 = ~z~Hello, sir. Enjoying the party?
+
+0xABDB8E21 = ~z~I'm gonna go investigate this trolley thing...
+
+0xABE92B12 = ~z~Sit down and calm down... count to a thousand.
+
+0xABF7E76F = ~z~What kind of contacts?
+
+0xAC6B6C8E = ~z~So, what's next?
+
+0xACB04397 = ~z~Good evening.
+
+0xAD027FE7 = ~z~~sl:0.7:0.0~My card, sir... pay me a visit at my shop.
+
+0xAD3A0DC2 = ~z~and the guest of honor is the worst crook in town.
+
+0xAD33C9DB = ~z~My family lost a generation of men.
+
+0xADE98AE4 = ~z~Ah, you know him...
+
+0xAE0CF6BC = ~z~~sl:3.3~Oh my! Oh... look at that.
+
+0xAF457DA6 = ~z~Oh... oh...
+
+0xAF3088F6 = ~z~~sl:0.0:3.2:1~Every gambler says that, Mr. Jameson.
+
+0xAF3193AC = ~z~And you certainly won't find many here... how do you think they got so rich?
+
+0xAF254481 = ~z~Ahh, the angry cowboys, you've arrived...
+
+0xAFF3175F = ~z~I am your clear superior.
+
+0xB00F1401 = ~z~Good evening.
+
+0xB011F8F3 = ~z~~sl:0.6~Yes, well, I agree, Major.
+
+0xB064C44E = ~z~~sl:0.3~Yes, I come from the west, I mean the north... the uh, the-the northwest.
+
+0xB0AE313F = ~z~Not one I particularly like.
+
+0xB0BF57D6 = ~z~You okay?
+
+0xB0C1877E = ~z~
+
+0xB0E31804 = ~z~Oh yeah.
+
+0xB2CB2E14 = ~z~A lot of money.
+
+0xB2F3080D = ~z~comes here to whore and despoil himself.
+
+0xB3F1B491 = ~z~Okay, gentlemen. Follow me.
+
+0xB5AF2254 = ~z~Here comes Lenny.
+
+0xB5B6E1C9 = ~z~
+
+0xB5C2E60D = ~z~Well, hello, gentlemen. Featherstone Chambers... pleased to meet you.
+
+0xB5E29556 = ~z~~sl:0.4~Dirty money. Anyway... don't get me started!
+
+0xB6C3B4ED = ~z~~sl:0.0:5.3~Originally furs... but, now all sorts.~sl:0.1~Lumber, leather, even maple syrup...
+
+0xB7D90D1F = ~z~Oh, my Lord...
+
+0xB8FD9316 = ~z~major in the war.
+
+0xB9E36A1E = ~z~~sl:0.0:1.5:1~Oh, my Lord...
+
+0xB9E58E4B = ~z~You sit down and calm down, or I can rip your arm right off your shoulder, which is it?
+
+0xB34C4CA3 = ~z~Thank you.
+
+0xB46E48C0 = ~z~When are the fireworks going to start?
+
+0xB67C2BA8 = ~z~has invited us to the ball, Cinderella.
+
+0xB92DD76A = ~z~we are going to need some money.
+
+0xB456E511 = ~z~~sl:0.0:3.3~So anyway, I heard that Judith Hawksbill~sl:~has taken a lover.
+
+0xB606C3A8 = ~z~Was it just dancing?
+
+0xB689E5FE = ~z~He pays me to be the editor of that newspaper, but he pokes his nose in at every turn.
+
+0xB978C054 = ~z~The mayor?
+
+0xB3200C22 = ~z~~sl:2.1:5.9:1~Oh, it's quite the pursuer of the exotic and the remarkable, quite an atelier...
+
+0xB46034F5 = ~z~
+
+0xB288577F = ~z~Good. Mr. Bronte has a habit of wandering about and reading whatever he likes.
+
+0xB332514B = ~z~Money...
+
+0xB5651596 = ~z~I cannot believe I am hearing this.
+
+0xBA308CE0 = ~z~Are you getting in then? We have drinks.
+
+0xBA41691D = ~z~Mr. Bronte is very good friends with the mayor. Good evening, Pierre.
+
+0xBACF2BC1 = ~z~Oh, I need a big bank, sir.
+
+0xBB1C59E0 = ~z~Oh...
+
+0xBB66ABE5 = ~z~Ease up on my arm, man.
+
+0xBBD1FEDD = ~z~
+
+0xBC6F5C5B = ~z~I am a drunken harlot.
+
+0xBC80C4DB = ~z~~sl:0.3~Come, come.
+
+0xBC162BD9 = ~z~
+
+0xBC832BDF = ~z~All very boring really. Hence the need for copious amounts of champagne.
+
+0xBD616D31 = ~z~~sl:1.6~We're watching him and his men like hawks.
+
+0xBD628BCE = ~z~Oh, the eavesdropper...
+
+0xBD4612EA = ~z~not quite...
+
+0xBD131941 = ~z~Oh, lovely. Oh, oh!
+
+0xBD330375 = ~z~
+
+0xBE081A57 = ~z~The old river boat tournaments are for card sharks and rich fools...
+
+0xBE0CCA00 = ~z~Sorry to hear that.
+
+0xBE6F319E = ~z~Oh! Oh...
+
+0xBE8A6C88 = ~z~And my family made a fortune.
+
+0xBE367E6D = ~z~I'm very sorry, sir.
+
+0xBE4119EB = ~z~
+
+0xBE9660B1 = ~z~Okay... I came down from Washington, myself, many years ago.
+
+0xBEB2D55F = ~z~So far so good.
+
+0xBEF1119D = ~z~Hosea's handling reconnaissance on the bank.
+
+0xBF0896E0 = ~z~Without law and order, we will have anarchy.
+
+0xBF569990 = ~z~
+
+0xBFA929E7 = ~z~
+
+0xBFAF359C = ~z~If we're gonna make it to this party...
+
+0xBFCDB270 = ~z~You're welcome.
+
+0xBFE2B4B5 = ~z~Find out what.
+
+0xC080EC04 = ~z~I ain't never been to a ball in my life.
+
+0xC0FB4FE1 = ~z~Hmm, well...
+
+0xC2EA49A9 = ~z~Good evening, sir... Alfred Lafonde.
+
+0xC2F8270F = ~z~I'd grab a drink if I was you, the fireworks should be starting soon.
+
+0xC3AA5767 = ~z~And... who do you bank with?
+
+0xC3D3D78A = ~z~Do you bank with anyone in the South?
+
+0xC3F1BB31 = ~z~Gentlemen.
+
+0xC4B6C81D = ~z~So my suggestion is...
+
+0xC4B95ABB = ~z~~sl:0.5~Forgive me, I was... unaware.
+
+0xC4DE193B = ~z~Well I don't know. We will find what we can.
+
+0xC5C6EB7B = ~z~Good evening, ladies.
+
+0xC7C7280D = ~z~What's taking so long, Arthur?
+
+0xC8A11068 = ~z~Will you get a move on, Arthur?
+
+0xC9BE64C5 = ~z~The residence is purely for family... I do hope you understand.
+
+0xC42D7378 = ~z~Well that's no better. Anyway, if you'll excuse me. I'm still furious with that oaf.
+
+0xC45E75F7 = ~z~Yes, yes, yes go enjoy yourselves...
+
+0xC48A2C70 = ~z~What did you find out?
+
+0xC60FA407 = ~z~Good evening.
+
+0xC61AA9A2 = ~z~The pesky nut... what a way to go, eh?
+
+0xC63CEC5D = ~z~I'm bored outta my mind.
+
+0xC65C760C = ~z~~sl:0.0:1.3~No, but~sl:0.2~I ain't married the right one either.
+
+0xC67C91E9 = ~z~Good evening, sir.
+
+0xC73A71F1 = ~z~I know I look like a drunken harlot... but let me be very clear, young man...
+
+0xC98E8F88 = ~z~
+
+0xC112CAA3 = ~z~Now, I think there's a lot of money on the riverboat.
+
+0xC150B865 = ~z~You cannot be in here, sir. Let me show you out.
+
+0xC170A8C3 = ~z~I'm... I'm a shop keeper.
+
+0xC375A912 = ~z~That is...
+
+0xC451D254 = ~z~
+
+0xC483BE50 = ~z~Well, anyway... enjoy your evening.
+
+0xC613D96A = ~z~My pleasure.
+
+0xC3173CE5 = ~z~Jump on in, Arthur.
+
+0xC8903BEC = ~z~~sl:1.5~Exactly. This man is a realist.
+
+0xC29290A9 = ~z~Good evening, Mr. Hawksbill. Please stop pestering me.
+
+0xC409918A = ~z~
+
+0xC3862475 = ~z~You okay?
+
+0xC4347363 = ~z~Now I could not involve myself in such matters...
+
+0xC7823177 = ~z~Ciao, ciao.
+
+0xC9452641 = ~z~Interesting times...
+
+0xCA39208D = ~z~Hosea.
+
+0xCA64782A = ~z~I know. Next thing she'll be discussing socialism.
+
+0xCAF352D9 = ~z~I do wish he'd hurry up and die.
+
+0xCB35E4FF = ~z~
+
+0xCBBE169E = ~z~Hurry up, Cinderella.
+
+0xCBD3EF42 = ~z~No... this was a cabaret! Uh, the rest of it was, uh.. nonsense, but...
+
+0xCC49F0C4 = ~z~~sl:0.2~Get your hands off me.
+
+0xCCB8323F = ~z~I agree.
+
+0xCCDAFFD4 = ~z~Mr. Leviticus Cornwall...
+
+0xCCE7BAEA = ~z~A big hero they say, but that is his...
+
+0xCD90D15F = ~z~we sure as shit better clean up a little.
+
+0xCD25077C = ~z~they hate me.
+
+0xCDA6D9A1 = ~z~The country tore itself apart.
+
+0xCDFE010A = ~z~Good day, gentlemen.
+
+0xCE5BF977 = ~z~Excuse me, both of you, but I must just go speak with my husband a moment.
+
+0xCE7C8752 = ~z~I try... mostly I fail, but I try.
+
+0xCE354C84 = ~z~
+
+0xCF2D6B11 = ~z~Evening all.
+
+0xCF42BDA0 = ~z~Oh, lovely!
+
+0xCF89EC76 = ~z~It's not mine...
+
+0xCF93B2E2 = ~z~He and Abigail are gonna run some distractions.
+
+0xCFF0BE28 = ~z~a really big stakes game attracts oilmen and such like, well, from all over.
+
+0xCFF177DC = ~z~I think I saw you before, when I was talking to that awful Dorothea Wicklow.
+
+0xD00254F0 = ~z~Yes.
+
+0xD2A95EB0 = ~z~~sl:0.3:0.0~You're not such a philistine as all that, Marie.
+
+0xD5ED7BED = ~z~of all the trade heading south from Quebec into the U.S.
+
+0xD6BE4896 = ~z~Henri Lemieux...
+
+0xD7D1079B = ~z~Men and woman... equals? Is she insane?
+
+0xD7FE08A6 = ~z~Is anybody listening to me?
+
+0xD7FF8FEC = ~z~How are you, ladies?
+
+0xD8D6C995 = ~z~Enjoy your evening, I must go see my wife.
+
+0xD8EB806A = ~z~What's say you and me cool off?
+
+0xD68DD192 = ~z~that is Hector Fellowes.
+
+0xD79CD51B = ~z~An aesthete in this land of common place heathens.
+
+0xD510FA04 = ~z~Oh... the usual bunch of clowns in New York.
+
+0xD677F56D = ~z~Maybe.
+
+0xD842D3E1 = ~z~~sl:0.0:3.5:1~A big bank... a real one, I mean, but not yet.
+
+0xD843A129 = ~z~Oh, oh, oh, oh! Oh yes!
+
+0xD947BC06 = ~z~Oh, my goodness.
+
+0xD965BC9A = ~z~Algernon Wasp.
+
+0xD3743F46 = ~z~No, no, no, not quite...
+
+0xD4254E45 = ~z~My pleasure. Good evening...
+
+0xD7562B17 = ~z~
+
+0xD8799C11 = ~z~Utterly.
+
+0xD18408EE = ~z~Good evening. A question for you, sir.
+
+0xD69776DF = ~z~Oh, this is my favorite.
+
+0xD83101AE = ~z~I'm sorry, sir, but the party is in the garden.
+
+0xD5460479 = ~z~I even married a bastard... that didn't work out so good...
+
+0xD7182390 = ~z~~sl:0.7:1.4:1~Beautiful.
+
+0xDA2A00C6 = ~z~Well, anyway, don't let me keep you.
+
+0xDA3EEB73 = ~z~and go home.
+
+0xDA64D6F0 = ~z~that is Hobart Crawley.
+
+0xDA82D34C = ~z~My pockets are not deep enough for that.
+
+0xDAF6C9A8 = ~z~Deportment?
+
+0xDAFF507E = ~z~Get off...
+
+0xDB0DE969 = ~z~I'm sure that we will find something.
+
+0xDBDAAEB5 = ~z~~sl:0.9:0.8~Wow.
+
+0xDBEFEE1D = ~z~social climbing.
+
+0xDC0317E9 = ~z~~sl:1.0:0.0~Alright, well... try to enjoy yourself.
+
+0xDCF3FCD1 = ~z~He's definitely around, I just saw him. A man in demand.
+
+0xDD94D9CD = ~z~
+
+0xDD30597B = ~z~Oh...
+
+0xDE016FE5 = ~z~But it takes more than a steady line in insults, to succeed in newspapers... at least in mine.
+
+0xDE5A93D2 = ~z~Uh, yeah... must be something in the champagne.
+
+0xDE8EEFF2 = ~z~So... how do you know the mayor?
+
+0xDE995E4D = ~z~his very young wife.
+
+0xDEF14F40 = ~z~Of course.
+
+0xDFCD4A8D = ~z~Oh, would you like tickets?
+
+0xDFCF0952 = ~z~Oh!
+
+0xDFD7230F = ~z~Oh how could she make love to a European?
+
+0xDFF47E3C = ~z~The country? Don't even exist.
+
+0xDFF77008 = ~z~Well, enjoy the rest of your evening.
+
+0xE029A561 = ~z~Good day to you.
+
+0xE057FA0D = ~z~No, I am quite that much of a philistine... besides which...
+
+0xE05C61D3 = ~z~I mean...
+
+0xE070B60F = ~z~
+
+0xE0718745 = ~z~You have no honor, sir.
+
+0xE094FFCD = ~z~Old Signor Bronte, that horrendous snake...
+
+0xE0F7DA4D = ~z~th-these are friends of yours, Signor Bronte?
+
+0xE2D7E453 = ~z~I am sure that we will find something.
+
+0xE2F313D4 = ~z~Hey, if she's having a good time...
+
+0xE2FC46D8 = ~z~Your cousin is a cold woman. I'm a very lonely man.
+
+0xE3D6EDA8 = ~z~
+
+0xE3D319B7 = ~z~Ah good. Look. Our chariot awaits.
+
+0xE4A2279E = ~z~I just wanna be left alone.
+
+0xE4B33BF8 = ~z~Everything's fine... we have the place well secured.
+
+0xE5AC713A = ~z~
+
+0xE6BA4C9A = ~z~Why are you shuffling around back there? Come on.
+
+0xE6C738AC = ~z~We are ridiculous.
+
+0xE6DB5F10 = ~z~Go find the mayor if you can, and stay outta trouble. And steal nothing...
+
+0xE8D2B192 = ~z~Evening, ladies.
+
+0xE18F9065 = ~z~I hope you're enjoying my party.
+
+0xE30FDFD3 = ~z~Hey...
+
+0xE45C11DD = ~z~let the people torture themselves.
+
+0xE48C2D55 = ~z~~sl:0.2:0.0~Enjoy your evening.
+
+0xE52F6578 = ~z~I hope you're enjoying my party.
+
+0xE80B176F = ~z~~sl:1.3:0.0~No, I came down from New York, for a job. I'm a banker.
+
+0xE312D5A4 = ~z~Utterly.
+
+0xE313F0F3 = ~z~Excuse me.
+
+0xE530EC88 = ~z~He owns a sugar plantation out on the island and he...
+
+0xE2946FBD = ~z~Not whipping, sir, working, and besides, my vice is between me and my maker. I keep winning.
+
+0xE8934BAD = ~z~Sure.
+
+0xE67822D5 = ~z~~sl:0.8:1.0:1~Look at that.
+
+0xE97486CF = ~z~Well, try harder. Much harder.
+
+0xE292643E = ~z~Good evening to you, sir. Stay well!
+
+0xE6153454 = ~z~~sl:0.0:0.8~Nice fellow,~sl:0.1:2.0~but his views are a little well, uh...~sl:1.3~feminine.
+
+0xE8890424 = ~z~Yes, but what do you do?
+
+0xEA00775C = ~z~~sl:0.0:2.4~There's plenty of money moves through here, of course, and I...~sl:~I think I found out how we can grab some of it.
+
+0xEA0E2C15 = ~z~Send an army of women into battle, see how far we get.
+
+0xEA95BB61 = ~z~This is quite a party you've invited us to.
+
+0xEAE074DB = ~z~Oh... Oh!
+
+0xEB5E57E8 = ~z~Messieurs, please...
+
+0xEB776FBD = ~z~I believe in civilizing the masses, sir... but the first order of civilization is order. Law and order.
+
+0xEBA6AED4 = ~z~~sl:1.0:1.7:1~Beautiful.
+
+0xEBFBFC6E = ~z~The self-righteous newspaperman.
+
+0xEC4F8718 = ~z~
+
+0xEC22EE71 = ~z~I'm not drunk, you fool...
+
+0xEC25A5B1 = ~z~Allegedly.
+
+0xEC946A2D = ~z~Hopefully as a visitor and not as an inmate.
+
+0xECC877D7 = ~z~~sl:0.6~You are a wise man.
+
+0xED5FF53F = ~z~Don't you...
+
+0xED38EBCF = ~z~unless it's information.
+
+0xED90F604 = ~z~Oh!
+
+0xED593A95 = ~z~I've no idea.
+
+0xEDBD4F22 = ~z~
+
+0xEE1A02E4 = ~z~Did you hear him back there, "the law should be a dictator"?
+
+0xEE9D1442 = ~z~~sl:0.0:1.2~Apparently not...~sl:1.7~good evening to you, sir.
+
+0xEE9E943A = ~z~Well, that's sort of the point of it isn't it...
+
+0xEEC0489D = ~z~Do you think women should have the vote?
+
+0xEF859258 = ~z~we are going to a party at the mayor's house...
+
+0xF03C1ECB = ~z~We exist.
+
+0xF043E167 = ~z~And I am more than someone's blanket against the night's chill.
+
+0xF05BA48B = ~z~~sl:0.0:1.0:1~Gilbert Knightly.
+
+0xF0752D5C = ~z~Exactly.
+
+0xF0ACAF53 = ~z~Evening sir. Sorry, I'm still a little shaken. I almost choked to death on a nut.
+
+0xF0ADAB0F = ~z~
+
+0xF0AEF518 = ~z~More along the lines of armed robbery.
+
+0xF0F2980B = ~z~~sl:0.0:1.4:1~Small town?
+
+0xF1EE8280 = ~z~Okay.
+
+0xF1EF04F8 = ~z~a young mistress.
+
+0xF2E0E22C = ~z~Oh!
+
+0xF4A34CA7 = ~z~~sl:1.1~I can only imagine...
+
+0xF4E999EC = ~z~Sure... I guess.
+
+0xF4FD8841 = ~z~~sl:0.6~I'm a conservative man, at least.
+
+0xF5B29DBD = ~z~Well, perhaps we could discuss it further one day, Mr. Knightly.
+
+0xF5D4772C = ~z~Madam...
+
+0xF6D1D121 = ~z~
+
+0xF6DD0E2E = ~z~Arthur.
+
+0xF7C30879 = ~z~Well, look a little harder.
+
+0xF7F0D617 = ~z~Yes, quite something...
+
+0xF8A89766 = ~z~Whoa!
+
+0xF13DB069 = ~z~I'm not sure she is, sir.
+
+0xF43F80DC = ~z~he's the Mayor.
+
+0xF91FDDB4 = ~z~Alright... okay... goddamn it.
+
+0xF480FA5B = ~z~Okay.
+
+0xF690DE0B = ~z~~sl:0.0:1.6~Look at me!~sl:0.8~Who do you think you are?
+
+0xF767DC01 = ~z~Well, uh, it has...
+
+0xF824BD8F = ~z~Thank you, sir.
+
+0xF2650CB7 = ~z~The mayor said he will sign later.
+
+0xF3131C8F = ~z~And where is home?
+
+0xF41965E5 = ~z~Good luck with that.
+
+0xF96426AE = ~z~~sl:1.3~Prig.
+
+0xF899104C = ~z~Oh...
+
+0xF3471126 = ~z~~sl:0.7~It's my weakness, my worst vice.
+
+0xF7779883 = ~z~Not like that horrible man on the balcony, Mr. Bronte.
+
+0xF8454824 = ~z~
+
+0xF8959485 = ~z~not in cold blood anyway.
+
+0xF9556748 = ~z~Hosea, Bill, you join the party.
+
+0xFA82CC22 = ~z~Which means half the women are too.
+
+0xFA668AD5 = ~z~Not a problem, sir, please enjoy the rest of the evening.
+
+0xFA9134D7 = ~z~Is that right?
+
+0xFA923377 = ~z~And my family? Well, they did well out of the war.
+
+0xFB2C032E = ~z~Maybe you can help resolve a debate my friends and I were having.
+
+0xFB5BE3E9 = ~t~In Italian: I look forward to watching you die.
+
+0xFB52AB64 = ~z~
+
+0xFB53CEA0 = ~z~Well, I know some pretty tough women.
+
+0xFBCB5FC0 = ~z~I... must apologize for Mannersby back there.
+
+0xFC17DA28 = ~z~Madam...
+
+0xFCB763C7 = ~z~~sl:0.0:5.0:1~Oh you... you're always so... stylish.
+
+0xFCC964AF = ~z~I mean, did you hear what that man said? Inferior.
+
+0xFCE3B0CF = ~z~
+
+0xFD1D7B66 = ~z~excuse me, pardon...
+
+0xFD8E1307 = ~z~Sometimes, sir, the innocent are the damned.
+
+0xFDD20AE6 = ~z~I have never been to a ball in my life.
+
+0xFE1B8F54 = ~z~Gentlemen.
+
+0xFE4C144E = ~z~~sl:0.0:2.2~What a vulgar toad of a man...~sl:0.2~but that riverboat sounds interesting...
+
+0xFE6A15A6 = ~z~The law should be a dictator. That is the American way.
+
+0xFEC00E88 = ~z~You should see my prison, that's what law and order looks like.
+
+0xFF5A29AC = ~z~This is quite a party you've invited us to.
+
+0xFF68B4F7 = ~z~~sl:0.0:2.4~We handle more cash and cash equivalents~sl:~than any bank south of Manhattan, including Saint Louis.
+
+0xFFAA8080 = ~z~Excuse me, pardon...
+

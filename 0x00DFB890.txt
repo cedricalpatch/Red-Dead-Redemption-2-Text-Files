@@ -1,0 +1,24 @@
+0x5F3A8AA0 = Examine Arroyo's map in your Satchel
+
+0x12FFD1D1 = Question the ~e~Del Lobos~s~
+
+0x96A7FE96 = Follow the trail
+
+0x707629A4 = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+0xBADA7C1D = Search ~o~near the railroad~s~
+
+0xCE6A2263 = Dismiss
+
+0xCFF1AE0A = Search for clues in the ~o~area~s~
+
+0xD2D02403 = Return to the ~o~search area~s~
+
+0xD50F5BF1 = Search area
+
+0xDA122468 = Interrogate the ~o~Del Lobo~s~
+
+0xE649DF0C = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+
+0xECC06498 = The search area was abandoned.
+

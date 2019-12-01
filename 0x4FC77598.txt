@@ -1,0 +1,40 @@
+0x0A657413 = Go to the convoy
+
+0x0F6C7BEE = Leave the ~COLOR_ENEMY~area~s~
+
+0x1B47EE8F = Help the prisoner escape assassination
+
+0x2D8B3421 = ~1~ alerted the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x7AEE3491 = Your Posse killed the prisoner
+
+0x9A881E3A = Take out the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x31B51054 = Take out the Bounty Hunters to get to the prisoner ~1b~ inside the wagon.
+
+0x65DE5F5F = Assassinate the ~COLOR_MP_OBJECTIVE_ENEMY~prisoner~s~
+
+0x612AD5A1 = The prisoner ~1b~ has escaped from the prison wagon. Take them out before they get away.
+
+0x694DE112 = Prisoner survived
+
+0x774E873E = Eliminate the ~COLOR_MP_OBJECTIVE_ENEMY~prisoner~s~
+
+0x795AFD85 = You killed the prisoner
+
+0x9973EA74 = Wait for your Posse to leave the ~COLOR_ENEMY~area~s~
+
+0x92642D6A = The prisoner has been assassinated. Take out the remaining ~COLOR_ENEMY~Bounty Hunters.~s~
+
+0x93983545 = Take out the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0xB532442D = The prisoner ~1b~ is getting too far away and will soon escape.
+
+0xD37985C3 = Intercept the convoy ~1b~ and assassinate the prisoner within the time limit to earn the full reward.
+
+0xED50EA83 = ~1~ killed the prisoner
+
+0xF2BB94E6 = The prisoner has been killed
+
+0xFCF3C9C4 = Prisoner assassinated
+

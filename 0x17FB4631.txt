@@ -1,0 +1,944 @@
+0x00134CA6 = ~z~Arthur, come on.
+
+0x0069B3F9 = ~z~I don't know anymore... ~rp~I just feel like a fool.
+
+0x00AA3E1E = ~z~Hello, son.
+
+0x0110A0CC = ~z~Well maybe I'm talking for my people as much as for yours...
+
+0x01AB68EC = ~z~we're nearly there.
+
+0x01EB6479 = ~z~stop.
+
+0x0291B1A8 = ~z~Let's go!
+
+0x02B8914A = ~z~Come on! Somebody take out that gun.
+
+0x02FDD904 = ~z~Watch out for that gatling gun.
+
+0x0329C535 = ~z~Look out, more of them coming out of the train!
+
+0x0336A028 = ~z~Watch out, we got more in that wagon!
+
+0x03A1038C = ~z~Push up.
+
+0x04274773 = ~z~This fight is unwinnable...
+
+0x049BBF82 = ~z~Who else?
+
+0x052074A1 = ~z~Get in there.
+
+0x067B7D0E = ~z~Come on, Arthur.
+
+0x06F49369 = ~z~Paytah, you're alive.
+
+0x07135F2E = ~z~Let's get over the bridge.
+
+0x0738966A = ~z~everything is coming together.
+
+0x075566A7 = ~z~~sl:0.0:2.4~You've seen the situation on the reservation.~lr:0.2~Better to die fighting than sick and weak.
+
+0x0771C68E = ~z~What else you been doing behind Dutch's back?
+
+0x0886077D = ~z~Look up ahead, it's one of them.
+
+0x08A84683 = ~z~As your chief, I implore you.
+
+0x0935755B = ~z~~sl:0.0:4.5~What plan?~rp~ What goddamn plan, Dutch?~sl:0.5:1.2~~rp~Tahiti?~sl:0.7~~rp~Timbuktu?
+
+0x095BB65C = ~z~~sl:0.0:3.9~I was trying to stop this mess from getting any worse.~sl:0.6:1.8:1~Clearly that didn't work.
+
+0x0A049999 = ~z~We need guns for what's coming.
+
+0x0B28D54F = ~z~Be safe, Arthur.
+
+0x0BF239DF = ~z~Let's go!
+
+0x0CA538ED = ~z~Ah, the doubting. The doubting.
+
+0x0D15D076 = ~z~Who knows what other secrets I'll learn about.
+
+0x0E4F9CFA = ~z~Let's ride!
+
+0x0F193256 = ~z~
+
+0x1AAC9153 = ~z~Just in time.
+
+0x1AB5C467 = ~z~I think it's time we got out of here, Arthur, don't you?
+
+0x1AFE6B2F = ~z~do not mistake my strength for weakness.
+
+0x1B8B55F1 = ~z~They're shooting from that tower!
+
+0x1BFE5BF1 = ~z~What are you doing, Arthur?
+
+0x1CCBCD0C = ~z~Let's go. Quick.
+
+0x1DBBC500 = ~z~You made it! Oh, we got this, son.
+
+0x1E3CBFCC = ~z~Bring him to me.
+
+0x1E90736F = ~z~And me...
+
+0x1F1F76FD = ~z~Ride with me, ride with us.
+
+0x1F4CC429 = ~z~Cleet and Joe know how to fight...
+
+0x2A05893D = ~z~We have suffered too much in this trick.
+
+0x2A1E2A04 = ~z~Army train, look out.
+
+0x2BB1D3B1 = ~z~Move up.
+
+0x2BC0C451 = ~z~The time has come for us to draw our own lines, Arthur.
+
+0x2BF90E6A = ~z~Let's go, come on!
+
+0x2C22BF01 = ~z~Your fight is over.
+
+0x2C4528EB = ~z~Old Cornwall had a deal with the state.
+
+0x2C383960 = ~z~Let's go.
+
+0x2DBBFF6C = ~z~Careful, Arthur!
+
+0x2DE27A9F = ~z~We need to shoot those bastards on that tower.
+
+0x2E7CECD4 = ~z~Come on, quick! Let's go through the train!
+
+0x2E9B1C5A = ~z~You coming, Arthur?
+
+0x2EF08189 = ~z~~sl:0.0:1.4~Just so we can have enough money...~sl:~to be able to run away from what we've done?
+
+0x2F69C1C7 = ~z~~sl:0.0:6.8~Because I am tired of this constant dissent, long tired of it.~sl:0.2~~rp~Now come on!
+
+0x2F14111E = ~z~When I was your age...
+
+0x2F666223 = ~z~and fast.
+
+0x3A00986B = ~z~Watch yourself, Arthur!
+
+0x3A2A776E = ~z~Things should never have gone this far.
+
+0x3A7255D4 = ~z~Come on, push up.
+
+0x3AA22A76 = ~z~Do not die for pride, my son.
+
+0x3AEFF932 = ~z~What are they gonna... do now?
+
+0x3B166C88 = ~z~This won't be in vain. ~rp~We will try to round up more men, from the north, ~rp~wherever we can. ~rp~Many are ready to fight.
+
+0x3D0E60D8 = ~z~~sl:0.0:0.8~Come on then...~sl:1.3:0.9~red man...~sl:0.5~come here...
+
+0x3D830B0A = ~z~You bastard!
+
+0x3D316732 = ~z~Decide where we go from here.
+
+0x3E49B328 = ~z~but come on... don't doubt me no more.
+
+0x3F7D1D3C = ~z~Until I find all my men, I'm not leaving.
+
+0x3F18E5B6 = ~z~Someone give me a hand here!
+
+0x4A2C8960 = ~z~Let's find the others. We need to get to the factory building.
+
+0x4AB8F8D1 = ~z~Where are you going? We need to get to the reservation.
+
+0x4B3FA9F7 = ~z~Any men we see...
+
+0x4C7AA0F1 = ~z~and with the train job...
+
+0x4C8E4C12 = ~z~don't.
+
+0x4CE256A1 = ~z~But we're survivors, you and me, son.
+
+0x4D29D201 = ~z~we have lost.
+
+0x4E729344 = ~z~It's okay, brother, save your breath. ~rp~We're not too far.
+
+0x4FEEBE1F = ~z~As you wish. Rest of you, get outta here.
+
+0x4FFCCF93 = ~z~Well, don't thank us. Thank Mrs. Adler.
+
+0x5A0F8C93 = ~z~Paytah needs help.
+
+0x5A54954A = ~z~Ride with me! Now.
+
+0x5AA4D38B = ~z~I'm staying with you.
+
+0x5ACD553C = ~z~Ah, the doubts.
+
+0x5CA90D75 = ~z~
+
+0x5DD26B3E = ~z~Mrs. Adler.
+
+0x5E3C4474 = ~z~we got some money...
+
+0x5E9129F1 = ~z~You okay, Charles?
+
+0x5F454782 = ~z~Thank you, Javier, Bill.~rp~ Right now,~rp~ it doesn't matter how we got here.
+
+0x5F814481 = ~z~Come on, let's finish this.
+
+0x5FC17840 = ~z~Charles!
+
+0x5FDC7C85 = ~z~What is it?
+
+0x6A5F2394 = ~z~
+
+0x6AC585F7 = ~z~I don't see none of them standing no more.
+
+0x6ACDA668 = ~z~Damn you!
+
+0x6B200D95 = ~z~Please.
+
+0x6C372183 = ~z~~sl:0.0:2.9~Maybe. But you...~lr:1.8~your people deserved better.
+
+0x6C717724 = ~z~We're getting our ticket outta here.
+
+0x6D21E377 = ~z~So either stick with me or cut loose.
+
+0x6D228C32 = ~z~Maybe none of these men are good.
+
+0x6D2812AD = ~z~It is a thing of great beauty.
+
+0x6D3310DD = ~z~We need to go, Arthur.
+
+0x6FBBDCC3 = ~z~We will. ~rp~Save your strength.
+
+0x7B06DD57 = ~z~I'm sorry, but we...
+
+0x7B6C4EAB = ~z~Move up, Arthur!
+
+0x7B9711E6 = ~z~You made it, Morgan.
+
+0x7C1EC713 = ~z~
+
+0x7C93823E = ~z~usually is, nowadays.
+
+0x7DBA6056 = ~z~~sl:0.0:3.8~I was trying to stop this mess from getting any worse.~sl:0.6:1.6:1~Clearly that didn't work.
+
+0x7DE79C6F = ~z~This was your idea?
+
+0x7E793DE6 = ~z~~sl:1.3:0.8:1~Go, go, go.
+
+0x7ED12F8F = ~z~maybe the slow death is worse than a fast one.
+
+0x7F3DBB57 = ~z~You've seen how many men are dead out there, right?
+
+0x7FCDA1DE = ~z~~sl:0.0:2.5~That money, ~rp~those bonds, whatever it is...~lr:0.5~I don't want a cent. ~rp~There's too much blood on it.
+
+0x8A049B8E = ~z~On me, Arthur.
+
+0x8A06AD06 = ~z~Quick, let's get across the bridge!
+
+0x8AB26933 = ~z~~sl:0.0:1.0:1~Come on!
+
+0x8B31E6C7 = ~z~Yes... if we're right.
+
+0x8B257F37 = ~z~Hurry, we don't have much time.
+
+0x8C04CFB6 = ~z~What of it?
+
+0x8C4E95E8 = ~z~You have nothing to be sorry for.
+
+0x8C29A8A2 = ~z~Let's move.
+
+0x8DECEAAF = ~z~Move out fast!
+
+0x8E311CBF = ~z~Come on then.
+
+0x8E7022C3 = ~z~No, get out of here, please...
+
+0x8ECE26B3 = ~z~Sure.
+
+0x8EECA730 = ~z~I'll stay with you.
+
+0x8F993FD2 = ~z~What do you mean? It's perfect.
+
+0x8FCF4407 = ~z~What are you doing Arthur?
+
+0x9A5B6B2D = ~z~Come on, Arthur.
+
+0x9B2B6CA3 = ~z~Who else will come with me?
+
+0x9BA7464C = ~z~We got what we wanted, let's go.
+
+0x9C54873E = ~z~Check that cupboard by the door.
+
+0x9CAD0215 = ~z~Let's go.
+
+0x9E21C61B = ~z~~sl:0.0:1.3:1~Old pals of Micah's.
+
+0x9E29C7DF = ~z~it's as it should be.
+
+0x9F54C62E = ~z~Come here, Arthur.
+
+0x11ED52C1 = ~z~Hold on, Eagle Flies... we're getting you home.
+
+0x12F89324 = ~z~Paytah is in danger!
+
+0x13AD07FC = ~z~Please... Mr. Morgan.
+
+0x13E26589 = ~z~Thanks.
+
+0x14C03559 = ~z~Has anyone got a shot on that machine gun?
+
+0x15F0929D = ~z~~sl:0.9~Boys, I got one... I got one...
+
+0x20A0B79D = ~z~Paytah...
+
+0x20BA6B6B = ~z~Riders coming down that hill.
+
+0x21F6638F = ~z~Come on, get him out of here. All of you.
+
+0x22AB5547 = ~z~a few thousand dollars worth...
+
+0x23ED7C38 = ~z~I owe you for that.
+
+0x26DB0614 = ~z~I love your courage, son.
+
+0x28EFC83B = ~z~No,~rp~ this is over. For all of us.
+
+0x32AC95E7 = ~z~Are you alright, son?
+
+0x33E4F7BA = ~z~It's a...
+
+0x35B721E6 = ~z~Move it, Arthur!
+
+0x35DBB464 = ~z~Let's move.
+
+0x35DF1DAC = ~z~We made peace.
+
+0x37F2BC0D = ~z~You okay? Come on.
+
+0x38B0D644 = ~z~~sl:0.0:4.9~Partly...~rp~ the army, the government, the industrialists...~sl:0.2~~rp~they've taken everything from these people.
+
+0x40D3D577 = ~z~~sl:0.0:1.0:1~Eagle Flies.
+
+0x41FB4F7A = ~z~Let's go.
+
+0x43DD8F41 = ~z~Arthur, get over here.
+
+0x47E11B4B = ~z~Come on.
+
+0x47EBF0C7 = ~z~Let's move up.
+
+0x48C6F22F = ~z~Don't...
+
+0x52BED71B = ~z~is a world that we cannot endure.
+
+0x53BAFB45 = ~z~He needs help.
+
+0x53E72B24 = ~z~Yeah, I'll stay too.
+
+0x55A737D9 = ~z~More of them!
+
+0x57CB7FF7 = ~z~Money, you fool, the money.
+
+0x60B037BF = ~z~Paytah...
+
+0x62F0FD8F = ~z~The wars are over...
+
+0x64DF1A22 = ~z~~sl:0.0:1.0:1~What we looking for?
+
+0x65A30812 = ~z~What is it with you, Arthur?
+
+0x65FCFEF7 = ~z~The men I knew were slain.
+
+0x66A6251F = ~z~Arthur, come on!
+
+0x67F7D57E = ~z~You show him some respect.
+
+0x68D1D4F9 = ~z~you have others who need you.
+
+0x68EFF181 = ~z~You know why I wanted them to attack this place?
+
+0x68FD4859 = ~z~Yes?
+
+0x72C7E738 = ~z~We have to deal with that gun!
+
+0x74E0754D = ~z~you ran away.
+
+0x79B1FFEE = ~z~Look out, more of them!
+
+0x79C683DC = ~z~Let's move up.
+
+0x79CEDC8A = ~z~Come on, Arthur, he's failing fast.
+
+0x82D68DA8 = ~z~Don't be a fool.
+
+0x82F33B17 = ~z~My only boy...
+
+0x85B0482C = ~z~You're quite the hero, Arthur. Ain't you?
+
+0x86DAA2DF = ~z~Watch it, Arthur!
+
+0x88F8C83E = ~z~Oh, I'll ride, Arthur.
+
+0x88F99AEA = ~z~You'll know when I ain't showing respect, Bill.
+
+0x90C6AD19 = ~z~Come on.
+
+0x91CCDBF6 = ~z~Ride with us against the factory.
+
+0x91DE3DBF = ~z~~sl:0.0:1.9~We even helped some folk...~lr:0.7~Those lines have been gone for some time now.
+
+0x92A948F9 = ~z~~sl:1.5:3.4~There used to be some... ~rp~some reason to it.~lr:0.4~Lines that couldn't be crossed.
+
+0x92B7624A = ~z~Sure, but a lot's happened since then.
+
+0x95A5058E = ~z~Here come more of them!
+
+0x97B2161A = ~z~Just who do you think you are, huh?
+
+0x98CC81FC = ~z~So, we get it and we're done? We're almost free?
+
+0x98D6C524 = ~z~That's where Dutch has gone.
+
+0x99C66B39 = ~z~Please.
+
+0x99CFD584 = ~z~Come on, push up!
+
+0x99FE3147 = ~z~Our men... ~rp~we must go back for the bodies...
+
+0x128E2E35 = ~z~Come on...
+
+0x161EB1CD = ~z~Excuse me?
+
+0x173E3493 = ~z~Alright, come on. Let's get him to Wapiti as fast as we can.
+
+0x199BBB30 = ~z~Come on...
+
+0x229FAFA3 = ~z~Your friend?
+
+0x248D6DCD = ~z~Alright, let's ride out.
+
+0x253B4DCD = ~z~They must move...
+
+0x307FEFFB = ~z~No point loitering here any longer than we need to now, Arthur.
+
+0x433C8F71 = ~z~Hey,~rp~ show some goddamn respect.
+
+0x436F936A = ~z~Here come more of them!
+
+0x444C0E27 = ~z~What is happening to us?
+
+0x454D07E6 = ~z~Hold on, my friend.
+
+0x455B2A58 = ~z~Finish what?
+
+0x462DBDF9 = ~z~But endure we must.
+
+0x463C1C6C = ~z~How much?
+
+0x463EA681 = ~z~~sl:0.0:2.0~I swear back there...~lr:0.5~Dutch just stood and watched. ~rp~If it wasn't for Eagle Flies, I'd be...
+
+0x481EC68B = ~z~And me.
+
+0x501DBE12 = ~z~I need help.
+
+0x513FD57D = ~z~I have killed.
+
+0x519D08D2 = ~z~let's go home.
+
+0x586F4882 = ~z~~sl:0.0:1.4:1~We need to find the office.
+
+0x620D1C45 = ~z~~sl:0.0:2.1~We saw he turned crazy and...~lr:0.9~and we couldn't believe it and we followed him anyway.
+
+0x630CE3F0 = ~z~I need help.
+
+0x636AAC6D = ~z~Mr. Morgan...
+
+0x689CE189 = ~z~Let's go.
+
+0x713FE7FE = ~z~Yes... for now.
+
+0x743B8CE0 = ~z~Arthur, are you crazy?
+
+0x745E2588 = ~z~Just a regular good guy. Same as always.
+
+0x790D0813 = ~z~Get away from me!
+
+0x809A0CC0 = ~z~We need to go.
+
+0x826A3D31 = ~z~Stop!
+
+0x840DC4F7 = ~z~~sl:0.0:2.1~Why do you think I killed Cornwall?~sl:0.2~You remember the papers Micah found in Annesburg, Arthur?
+
+0x871EBDD6 = ~z~Charles.
+
+0x892B9BAE = ~z~And me, of course.
+
+0x894C4485 = ~z~Maybe you were right...
+
+0x904C9741 = ~z~What are you waiting for?
+
+0x905BC45E = ~z~~sl:0.0:5.2~Partly...~rp~ the army, the government, the industrialists...~sl:0.1~~rp~they've taken everything from these people.
+
+0x950DB216 = ~z~I did no such thing.
+
+0x964A5C2D = ~z~We need to go.
+
+0x969C78C7 = ~z~Move up.
+
+0x979DE128 = ~z~I knew not to trust, yet I had no choice.
+
+0x1059B0A4 = ~z~maybe more.
+
+0x1135EEEB = ~z~Stay with me, Arthur.
+
+0x1143E1AC = ~z~I'm gonna try and save him.
+
+0x1382EFC3 = ~z~Let's push up.
+
+0x1625D8D0 = ~z~Let's move up!
+
+0x1950A599 = ~z~~sl:0.0:2.0~He wasn't trying to help anyone but himself...~sl:~and his own crazy principles.
+
+0x2083C45A = ~z~My son...
+
+0x2358C70C = ~z~Have it your way.
+
+0x2662A0E9 = ~z~
+
+0x3577E739 = ~z~Let's push up.
+
+0x3896AE69 = ~z~Gentlemen! We're here for ya.
+
+0x3960C2F1 = ~z~Vermin. You filthy savage vermin.
+
+0x4226B743 = ~z~I fought.
+
+0x4337D5DF = ~z~Search the place... they gotta be here somewhere.
+
+0x4469BAC1 = ~z~My wife had her throat slit.
+
+0x5099F933 = ~z~Maybe. But you... ~rp~your people deserved better.
+
+0x7176F665 = ~z~we must save them.
+
+0x7298EAC0 = ~z~What's happening to you?
+
+0x7478B955 = ~z~We've had tough times, the toughest of times...
+
+0x7513F21F = ~z~Exactly as I planned.
+
+0x8180FE35 = ~z~You made it.
+
+0x8470F02B = ~z~Good people.
+
+0x8585AAAC = ~z~Javier, you get them and you go.
+
+0x8865DC5A = ~z~Push up.
+
+0x9062AA9D = ~z~They're getting real comfortable.
+
+0x9164A877 = ~z~Mr. Van der Linde!
+
+0x9627BFC6 = ~z~We should get moving.
+
+0x9680B5F8 = ~z~I had a plan...~rp~ I still have a plan.
+
+0x9684B05E = ~z~No, my friend...
+
+0x14075E5D = ~z~I guess.
+
+0x14615BB5 = ~z~I saw death.
+
+0x14819FAD = ~z~Come on.
+
+0x22343B12 = ~z~Let's go, Arthur.
+
+0x26101FF0 = ~z~They all need help...
+
+0x27682FBD = ~z~Shit, watch out for that gun!
+
+0x34921C22 = ~z~My first born, your brother...
+
+0x38048A0D = ~z~~sl:0.0:0.7~I know...~lr:0.9~I feel like he's descended into the kind of man he told us never to be.
+
+0x38118FC5 = ~z~Come on, let's go finish things.
+
+0x44798A9C = ~z~That machine gun is killing us!
+
+0x51842C00 = ~z~Yeah, what did?
+
+0x70571D8A = ~z~~sl:0.0:3.2~They said there were bonds here, lots of them.~sl:~You think I'm crazy, but this is going perfectly to plan.
+
+0x76576E26 = ~z~~sl:1.1:0.0~It's the Chief's son.
+
+0x77480E31 = ~z~I have no idea.
+
+0x84531C1D = ~z~Where are my men? Where are my men?
+
+0x84860A83 = ~z~Look. It's Eagle Flies.
+
+0x104669A3 = ~z~~sl:0.0:3.3~You've seen the situation on the reservation.~lr:0.2~Better to die fighting than sick and weak.
+
+0x354773A7 = ~z~we gotta get back to camp and prepare.
+
+0x375821AE = ~z~had his head smashed by a drunken soldier.
+
+0x401502DE = ~z~There's more riding in down that hill!
+
+0x475897E0 = ~z~It's that door at the end, on the right.
+
+0x694539D4 = ~z~we must pack and move.
+
+0x706568C6 = ~z~We did it gentlemen...
+
+0x709090BA = ~z~Arthur.
+
+0x753921C7 = ~z~These young men will be annihilated.
+
+0x775048F1 = ~z~Over there! They've got Paytah!
+
+0x787544B9 = ~z~~sl:0.0:0.5~No.~sl:~No, go... please. Hurry. I'll be...
+
+0x816608AF = ~z~this ain't gonna be nothing nice.
+
+0x909657A3 = ~z~We gotta get the hell out of here.
+
+0x990852B0 = ~z~Why the hell would they attack the oil fields?
+
+0x1928544B = ~z~Move up!
+
+0x4156530D = ~z~~sl:0.0:2.6~There's state bonds here, lots of them.~sl:0.2~I thought you were paying attention.
+
+0x6031420B = ~z~Somebody take out that gunner!
+
+0x15495989 = ~z~That was close.
+
+0x31966387 = ~z~The rest of you, ride with me.
+
+0x32945651 = ~z~~sl:0.0:1.4~I got some cash...~sl:1.6~not much.
+
+0x33331804 = ~z~Father, you are tired.
+
+0x38341105 = ~z~Just like John, if we hadn't got him out of that prison.
+
+0x60320158 = ~z~
+
+0x61747486 = ~z~Maybe a world in which they came to us...
+
+0x76140152 = ~z~Are you crazy?
+
+0x79997688 = ~z~I'll stay and help them.
+
+0x94636592 = ~z~He did.
+
+0xA2B3CD66 = ~z~Did you hear that?
+
+0xA2E2DAEF = ~z~Watch yourself!
+
+0xA3E2D854 = ~z~Off the horses, we need to get to Eagle Flies. Come on!
+
+0xA4C8B65B = ~z~Not really. ~rp~All this death and for what?
+
+0xA4CDB2FB = ~z~Let's go, Arthur!
+
+0xA4DBF950 = ~z~Where are my men? Where are my men?
+
+0xA6B0F9D0 = ~z~I got 'em...
+
+0xA7D884E5 = ~z~The earth, the water...
+
+0xA9B5E36A = ~z~It's state bonds.
+
+0xA9E65543 = ~z~Oh no, he is wounded...
+
+0xA14D9E15 = ~z~Thank you, you saved me the trouble.
+
+0xA648A6D5 = ~z~We got more coming in!
+
+0xA711CCF4 = ~z~~sl:0.0:2.3~That money, ~rp~those bonds, whatever it is...~lr:0.5~I don't want a cent. ~rp~There's too much blood on it.
+
+0xA867CE1A = ~z~My friend, ~rp~I'm sorry. ~rp~About this... ~rp~about all of this.
+
+0xA649205C = ~z~~sl:0.0:0.5~Quick.~sl:0.1:0.8:1~Somebody help him.
+
+0xAA317FD9 = ~z~Come on, Arthur. We have got to get out of here.
+
+0xAAF392B2 = ~z~Hey.
+
+0xAB0D61A6 = ~z~You...
+
+0xACB760F3 = ~z~Over here, Arthur.
+
+0xAD33FAE3 = ~z~Come on.
+
+0xAD45DFCC = ~z~Look out. That's an army train coming in.
+
+0xADF6AC50 = ~z~~sl:0.0:2.0~He was being paid to develop the region,~sl:0.0:1.8~against the Federal Government's wishes,~sl:~as they didn't want problems with the indians. Anyway...
+
+0xAF138AAD = ~z~Come on!
+
+0xAFAF9E85 = ~z~You got what you wanted, Dutch.
+
+0xB0159F59 = ~z~It's a massacre.
+
+0xB0BD17CA = ~z~Me too.
+
+0xB8DFAA7F = ~z~Today we ride once more.
+
+0xB49C7E62 = ~z~What are you doing?
+
+0xB56E2693 = ~z~Get off me!
+
+0xB98B7B11 = ~z~well, we got a whole lot of money.
+
+0xB192E382 = ~z~I'm better off alone.
+
+0xB290F898 = ~z~We saw some fighting by the factory.
+
+0xB598ECD2 = ~z~Thank you.
+
+0xB833F1DE = ~z~I think he's been shot!
+
+0xB4555BA4 = ~z~Maybe I'm talking for my people as much as for yours...
+
+0xB37015C4 = ~z~Come on... don't die, brother... not yet.
+
+0xB599850F = ~z~Come on, let's go through the train.
+
+0xB4050899 = ~z~What else have you been doing behind my back, Arthur?
+
+0xB6862240 = ~z~Your words mean nothing to me, Father.
+
+0xBADCD661 = ~z~After you helped me, after we spoke...
+
+0xBADE965C = ~z~You've handed them a death sentence.
+
+0xBAF1B509 = ~z~There, going across the walkway.
+
+0xBB6786B1 = ~z~This is it.
+
+0xBBA226E0 = ~z~Get up.
+
+0xBCD312A0 = ~z~Hey.
+
+0xBE67025F = ~z~What is going on, Dutch?
+
+0xBFCC36F0 = ~z~Charles?
+
+0xC0CD2E20 = ~z~Let's move!
+
+0xC3C550A2 = ~z~~sl:0.0:2.2~We saw he turned crazy and...~lr:0.6~and we couldn't believe it and we followed him anyway.
+
+0xC3E3000C = ~z~Let's get out of here, Arthur.
+
+0xC4B5384E = ~z~Try to hold on... you'll be with your father soon.
+
+0xC6D40E04 = ~z~We're riding with you.
+
+0xC9B59EF6 = ~z~You saved my life more than once...
+
+0xC13C9F22 = ~z~A white one!
+
+0xC46C2C7E = ~z~~sl:0.0:1.5~We even helped some folk...~lr:1.0~Those lines have been gone for some time now.
+
+0xC71B1750 = ~z~Let's ride.
+
+0xC96CC275 = ~z~Thank you, all of you.
+
+0xC342FFF3 = ~z~Let's find Eagle Flies!
+
+0xC568BBFA = ~z~~sl:0.0:4.1~What plan?~rp~ What goddamn plan, Dutch?~sl:0.7:0.9~~rp~Tahiti?~sl:0.7~~rp~Timbuktu?
+
+0xC559810C = ~z~Fearless,~rp~ always has been.
+
+0xCA4B2C38 = ~z~That's better, Arthur, a little help.
+
+0xCA43A065 = ~z~We need to do something about that gatling gun!
+
+0xCAD2B24E = ~z~Dutch...
+
+0xCB2C4F18 = ~z~For oil!
+
+0xCBA3CA3B = ~z~My son, my last son...
+
+0xCBFCF5F1 = ~z~Shit, more coming in by train!
+
+0xCC1C575E = ~z~Can anyone see Eagle Flies?
+
+0xCD1DAA1D = ~z~I got 'em.
+
+0xCDD5A13C = ~z~it's lucky I bumped into 'em.
+
+0xCEDF4164 = ~z~~sl:0.0:1.9~I swear back there...~lr:0.5~Dutch just stood and watched. ~rp~If it wasn't for Eagle Flies, I'd be...
+
+0xCF3D81D8 = ~z~Wait, that isn't the way to Wapiti!
+
+0xCF6F5BA9 = ~z~So good of you to join us.
+
+0xD3B9441B = ~z~Come on, Arthur.
+
+0xD3F260A4 = ~z~They tried to kill my people for oil.
+
+0xD4A609F3 = ~z~this is just a trap.
+
+0xD7E938EC = ~z~I'll be back when I can.
+
+0xD9F46B40 = ~z~I'll see what I can do.
+
+0xD52CAAB5 = ~z~Go with him...
+
+0xD256FA76 = ~z~I'll kill you!
+
+0xD696FB43 = ~z~Need some help here.
+
+0xD885C8AD = ~z~~sl:0.0:2.0~It's upstairs, on the other side.~sl:~I broke in here before to get those papers for Eagle Flies.
+
+0xD3748C7F = ~z~Arthur...
+
+0xD5645FFC = ~z~They endure, and we must endure.
+
+0xD37504DE = ~z~More coming down that hill.
+
+0xD5820176 = ~z~Thank you.
+
+0xD5976062 = ~z~they have no pride.
+
+0xD7952583 = ~z~Your friend here... ~rp~my friend... ~rp~he's a brave man.
+
+0xDA2F7129 = ~z~Saved your life?
+
+0xDA26E766 = ~z~~sl:0.0:0.8~I know...~sl:1.2~I been here before.
+
+0xDA56F3D3 = ~z~We gotta help these men.
+
+0xDA844E02 = ~z~What are you doing?
+
+0xDB691115 = ~z~Look out! More of them!
+
+0xDDB14144 = ~z~And so will I.
+
+0xDE8C5BC4 = ~z~~sl:0.0:4.0~You know... Dutch... ~rp~Dutch is...~lr:1.0~I guess my thinking is he used you.
+
+0xDE71486D = ~z~Ah, you, you silly fool.
+
+0xDEFC0A78 = ~z~Get up here, Arthur.
+
+0xDF04580A = ~z~~sl:0.0:3.7~There used to be some... ~rp~some reason to it.~lr:0.7~Lines that couldn't be crossed.
+
+0xDFE44FAA = ~z~I got 'em...
+
+0xE4F81F1A = ~z~Eagle Flies!
+
+0xE7BFE879 = ~z~Are you crazy?
+
+0xE9AF4A05 = ~z~Can we just get this finished?
+
+0xE9FECD58 = ~z~Good to see you, Arthur.
+
+0xE47E9C38 = ~z~That gun is going to be a problem. Take him out!
+
+0xE54FAB42 = ~z~Stop.
+
+0xE67FFE28 = ~z~~sl:0.0:6.0~Because I am tired of this constant dissent, long tired of it.~sl:0.1~~rp~Now come on!
+
+0xE131ACC4 = ~z~Come on.
+
+0xE231E502 = ~z~Wouldn't you wanna fight back?
+
+0xE762AF6C = ~z~My son, my people, will all die.
+
+0xE72016FE = ~z~Move up.
+
+0xE91171C6 = ~z~I don't get you...
+
+0xE457675A = ~z~~sl:0.0:3.0~He wasn't trying to help anyone but himself...~sl:~and his own crazy principles.
+
+0xEA3EDD97 = ~z~I've got to take the boy to his father.
+
+0xEA70D53D = ~z~try and help there.
+
+0xEB1E269E = ~z~Come on, son...
+
+0xEB8349FB = ~z~~sl:0.0:3.8~You know... Dutch... ~rp~Dutch is...~lr:2.0~I guess my thinking is he used you.
+
+0xEBFFE119 = ~z~As you wish...
+
+0xECDD435D = ~z~Stay with us, Arthur!
+
+0xECE071EB = ~z~There's Dutch and the others!
+
+0xED328F98 = ~z~my precious boy...
+
+0xED497494 = ~z~~sl:0.0:1.3~Just so we can have enough money...~sl:~to be able to run away from what we've done?
+
+0xEE0678B5 = ~z~We got one!
+
+0xEF615C0C = ~z~We're grown men. ~rp~Nobody made us do anything.
+
+0xEFAD0E41 = ~z~I know, brother... we're getting you there as fast as we can.
+
+0xF01F8FDA = ~z~Arthur.
+
+0xF0A2E93F = ~z~They could be back here any minute.
+
+0xF1CF9B4A = ~z~What?
+
+0xF1E9CA88 = ~z~Just what right have you got to cause all this goddamn trouble?
+
+0xF1E84CC3 = ~z~We must hurry, Arthur.
+
+0xF1EF1704 = ~z~Maybe... ~rp~he's just become more who he really is.
+
+0xF4DEF394 = ~z~So why are these two still here?
+
+0xF4E928F7 = ~z~if you go and distract them and let me get to him.
+
+0xF7DE63D4 = ~z~Cover me, Arthur.
+
+0xF7F047BD = ~z~Get up here, Arthur!
+
+0xF20B1CD5 = ~z~Mr. Morgan!
+
+0xF28F1B69 = ~z~I will.
+
+0xF49B35B6 = ~z~Let's go, Arthur.
+
+0xF64FB55D = ~z~Come on.
+
+0xF71A4ED7 = ~z~Please...
+
+0xF84D69F5 = ~z~You too, brother.
+
+0xF120C2E8 = ~z~You helped this feller, Arthur?
+
+0xF362F250 = ~z~to give mine for yours...
+
+0xF450D302 = ~z~Shoot him, find him, now.
+
+0xF7254D3F = ~z~
+
+0xF7940E03 = ~z~Snipers on the tower up there!
+
+0xF710768C = ~z~Look out! Men on the tower up there!
+
+0xF808706C = ~z~Let's meet up at the factory.
+
+0xFA1195E0 = ~z~Let's ride!
+
+0xFA35275D = ~z~Everyone stop!
+
+0xFBA79AF4 = ~z~~sl:0.0:0.7~I know...~lr:0.6~I feel like he's descended into the kind of man he told us never to be.
+
+0xFBDB80AC = ~z~That's enough.~rp~ What's wrong with you all?~rp~ What happened to loyalty?
+
+0xFE5DE65E = ~z~Get up here, Arthur!
+
+0xFE679C72 = ~z~I don't get you no more.
+
+0xFF6BA2CC = ~z~Watch yourself there, Arthur!
+
+0xFF448E7A = ~z~Oh, we are nearly there.
+
+0xFF4787C0 = ~z~These men need our help.~rp~ I have a plan...~rp~ this is the plan.
+
+0xFF80625D = ~z~You're going the wrong way.
+
+0xFFF6B30F = ~z~Let's just get this boy to his father.
+

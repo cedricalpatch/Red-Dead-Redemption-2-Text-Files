@@ -1,0 +1,70 @@
+0x055E7C21 = ~z~That there is what the state deems they're worth.
+
+0x3CAA11D6 = ~z~~sl:0.6~Job well and truly done. They're going to face a judge.
+
+0x3D4813EF = ~z~How them coins look for your efforts?
+
+0x4E05B48D = ~z~~sl:0.0:2.8~Less gruesome business, bringing them in alive...~sl:0.1~this part, at least.
+
+0x5DA85865 = ~z~~sl:0.8~Well, you can't argue with dead. Here's your payment.
+
+0x6FE1FCD8 = ~z~~sl:0.9:3.3~Dead means we can close the books on this one.~sl:0.0:1.2:1~Here's your due.
+
+0x9AB18A1A = ~z~Okay, well, that's what we'll pay you for your trouble.
+
+0x9B394D92 = ~z~Dead, huh? Saves the courts some time. Here's your payment.
+
+0x57CBCCA8 = ~z~~sl:0.5:4.9:1~Well, I'll be. Didn't think I'd see this one alive or dead.
+
+0x65F0A911 = ~z~That there is what the state deems they're worth.
+
+0x859AA84D = ~z~~sl:0.5:1.0~Dead, huh?~sl:0.4:3.4:1~Saves the courts some time. Here's your payment.
+
+0x873B7E62 = ~z~~sl:1.1:2.9~Well... you can't argue with dead.~sl:~Here's your payment.
+
+0x909F3410 = ~z~I got your bounty money here.
+
+0x942D1CE4 = ~z~Well, you can't argue with dead. Here's your payment.
+
+0x988AA100 = ~z~~sl:0.7:3.3~Dead means we can close the books on this one.~sl:~Here's your due.
+
+0x5440C635 = ~z~How them coins look for your efforts?
+
+0x7532DA51 = ~z~~sl:0.4:2.6~I'm too old to drag that body.~sl:~Dump it for me, I'll get your pay.
+
+0x51813C61 = ~z~Less gruesome business bringing them in alive... this part at least.
+
+0xA32C5ED9 = ~z~~sl:0.0:2.1~I know it isn't always easy...~sl:~but I'm glad you brought 'em to face up to things.
+
+0xAA4E4487 = ~z~~sl:0.8~Dead, huh? Saves the courts some time.
+
+0xBAB8E6DB = ~z~I know it isn't always easy, but I'm glad you brought 'em to face up to things.
+
+0xBC18681B = ~z~~sl:0.5~Well, I'll be. Didn't think I'd see this one alive or dead.
+
+0xBD045C63 = ~z~Damn good job getting them to me with some kick still left.
+
+0xBEF74B7E = ~z~Dead means we can close the books on this one. Here's your due.
+
+0xC6E1701D = ~z~I got your bounty money here.
+
+0xC83A9542 = ~z~Put 'em in a cell, and we'll talk about compensation.
+
+0xCD3ECE37 = ~z~~sl:0.1~That there is what the state deems they're worth.
+
+0xD9BCF302 = ~z~Well, I'll be. Didn't think I'd see this one alive or dead.
+
+0xD582DEC3 = ~z~~sl:0.2~I got your bounty money here.
+
+0xD68231D1 = ~z~Alright, march 'em into a cell there and we'll settle up.
+
+0xDBA16AFC = ~z~~sl:0.5~How them coins look for your efforts?
+
+0xEBB46FF0 = ~z~~sl:0.2~Damn good job getting them to me with some kick still left.
+
+0xEBF45CB5 = ~z~Just stick 'em in a cell there and I'll organise your payment.
+
+0xF0E036AD = ~z~Job well and truly done. They're going to face a judge.
+
+0xF6B6C25A = ~z~How them coins look for your efforts?
+

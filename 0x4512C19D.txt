@@ -1,0 +1,40 @@
+0x0192186E = ~z~~sl:2.7~Listen... you boys saved me from being eaten alive...
+
+0x0873DE8F = ~z~~sl:0.0:1.2~I wish she would shut up...~sl:1.5~excuse me...
+
+0x2C526D66 = ~z~~sl:1.1~Another.
+
+0x3B364413 = ~z~~sl:0.0:0.9~life is...~sl:1.9:2.8~life is brutal... brief...~sl:1.2~and random.
+
+0x38D3BF4E = ~z~~sl:1.2~Well said.
+
+0x69C52144 = ~z~~sl:0.0:0.9~But liquor...~sl:2.2~is wonderful...
+
+0x88FBA747 = ~z~~sl:0.0:0.6~Sure...~sl:1.6~why not?
+
+0x93A174FC = ~z~~sl:0.6:1.2~folk die...~sl:1.1:1.1~that woman...~sl:1.2:1.1:1~nags...
+
+0x131CF3E1 = ~z~~sl:0.0:0.9~John...~sl:1.9~John...
+
+0x271F1BE5 = ~z~~sl:2.9:1.2:1~Wonderful...
+
+0x830B9B67 = ~z~~sl:0.0:1.3:1~Yeah, I guess you're right.
+
+0x6491003B = ~z~
+
+0xBFD4146F = ~z~~sl:1.9:0.9~No...~sl:1.9~I'll sit down and have several drinks with you.
+
+0xC90A4930 = ~z~Sheer bliss, eh, brother?
+
+0xCE15B0F2 = ~z~Your good health.
+
+0xD7A0665C = ~z~Yes... wonderful.
+
+0xD739C3C2 = ~z~Got quite a thirst today, huh, amigo?
+
+0xECAEEEAC = ~z~~sl:0.3~What, you taking holy orders? Pour me another drink.
+
+0xEFC82D38 = ~z~~sl:1.0:1.2:1~You haven't seen me.
+
+0xF3817BC9 = ~z~Sit down and have a drink with me, brother.
+

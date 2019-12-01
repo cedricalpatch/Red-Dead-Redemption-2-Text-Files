@@ -1,0 +1,22 @@
+0x5A3029F8 = ~z~The boys around here...
+
+0x7BC33760 = ~z~They act tough... they're good boys... mostly.
+
+0x7E94F2C1 = ~z~Well... they haven't killed me yet, so...
+
+0x8AC1F67A = ~z~Tell him he's fine, Arthur.
+
+0x9AAC964F = ~z~You ain't fine boy... watch yourself.
+
+0x9F50FE7B = ~z~Well, don't be... you'll be fine, you're one of us now.
+
+0x88D78746 = ~z~Dandy, how are you?
+
+0x681A900F = ~z~It's the mostly I'm scared about.
+
+0x745BDE4F = ~z~Who ain't?
+
+0xA8DD32B0 = ~z~Ignore Arthur, he's only teasing.
+
+0xF2CC5B32 = ~z~Hey you okay, Miss Karen?
+

@@ -1,0 +1,418 @@
+0x022322F4 = ~z~~sl:0.0:0.8~You mean?~sl:1.4:4.4~Arthur and me, we were together... I had to get out, but...~sl:0.7~he went back... for the money...
+
+0x0316B3DD = ~z~No. We can't get caught. Martelli has the Police Chief in his pocket.
+
+0x03EF11A5 = ~z~It's where I left it.
+
+0x073076EB = ~z~I hope you'll stay with us.
+
+0x08176C3B = ~z~~sl:0.6~Indian?
+
+0x099E10A6 = ~z~Now... if you want a drink, you let me know.
+
+0x09DD626D = ~z~Lone Wolf.
+
+0x0AC9D012 = ~z~It's never just one fight.
+
+0x0DE87C6F = ~z~Indian?
+
+0x1B9E97DB = ~z~Sure, I've seen hundreds.
+
+0x1BF9DD87 = ~z~~sl:0.0:2.7:1~Not one of life's great mysteries it turns out.
+
+0x1D90759F = ~z~You couldn't have thrown that fight?
+
+0x1DB9E604 = ~z~On my left, the ferocious battler from the valleys, Simon of Wales.
+
+0x2AC2B1F0 = ~z~Anyway, I heard all of you were dead, or I might have come looking...
+
+0x2AE2DB82 = ~z~~sl:0.0:1.5~Him and his code...~sl:1.0~that pigheaded bastard...
+
+0x2B857D0D = ~z~Let's go.
+
+0x2D8FE1E3 = ~z~Where you going? Over here.
+
+0x2D39EED2 = ~z~Don't be stupid, Lone Wolf.
+
+0x3B6CF443 = ~z~Saint Saturnines.
+
+0x3BFBE07D = ~z~~sl:0.0:3.8~Only, it's just me and Uncle at the moment.~sl:0.3~And maybe Abigail and Jack if they'll take me back.
+
+0x3C83DDD8 = ~z~Come on... Simon... hit him.
+
+0x3CB17F1F = ~z~~sl:1.4:3.8~He wasn't a good man... none of us were, but, uh...~sl:0.5~maybe he was true to himself...
+
+0x3CEDFFD5 = ~z~You-you know that, Arthur...
+
+0x3F901148 = ~z~Boo! Knock his sideburns off!
+
+0x4AF27AB5 = ~z~What is this....
+
+0x4C5D7D67 = ~z~Go, Lone Wolf! Kill that bastard!
+
+0x4F6C428B = ~z~What are those guns they have?
+
+0x4FABEDD9 = ~z~Pretend he's Micah.
+
+0x5ACC43B1 = ~z~here we go.
+
+0x5C22C5D8 = ~z~You boys been off getting up to no good?
+
+0x5ECD5C47 = ~z~Of course. I understand...
+
+0x6B8F81B6 = ~z~Ladies and gentlemen, gather round, gather round... have I got a treat for you.
+
+0x6BE6A503 = ~z~~sl:0.8~My bag's on the dockside.
+
+0x6C01F6BD = ~z~We were on a very bad path...
+
+0x6C05C82C = ~z~I'm a bit of a draftsman myself nowadays.
+
+0x6DEEFA8A = ~z~~sl:0.0:1.6~He's where he would have wanted to be...~sl:0.5~a pretty hillside... facing the evening sun.
+
+0x7AB7AD30 = ~z~Good.
+
+0x7E676CEF = ~z~Remember that journal he always drew in? I got it...
+
+0x8BD23659 = ~z~I actually believed it, you know... once...
+
+0x8C1652A9 = ~z~Evidently.
+
+0x8CF14790 = ~z~You see any law?
+
+0x8E4CCEEB = ~t~In Italian: Come on!
+
+0x8E5D42C7 = ~z~Move.
+
+0x9A0BD2CC = ~z~Maybe Arthur's sunset's the best we can hope for.
+
+0x9A636382 = ~z~No.
+
+0x9A789591 = ~z~No problem, bud.
+
+0x9AF61AB1 = ~z~Now you can't say I didn't save you.
+
+0x9BBE6213 = ~z~An epic battle between the descendant of ancient warriors and a not so noble savage.
+
+0x9C80CB28 = ~z~Lone Wolf's gonna kill this fool.
+
+0x9D1022A8 = ~z~I will... for a while.
+
+0x9E5D5B73 = ~z~And Micah Bell dragged us into the abyss.
+
+0x11F77191 = ~z~Sure, I'm a fan of the Wolf. Give me a bet on him.
+
+0x16A5DAFB = ~z~If they take us in, we won't get out of the interview room.
+
+0x18F916C3 = ~z~This is rigged or something.
+
+0x20ACCB20 = ~z~Okay. Where's your bag?
+
+0x20E22A4A = ~z~~sl:0.6~all of us living free and honest.
+
+0x21A1679F = ~z~Getting sick like that has to rattle a feller.
+
+0x24D625B0 = ~z~~sl:0.0:2.5:1~Bonjour, how can I help you today, sir?
+
+0x27CB1E18 = ~z~Don't blackout just yet.
+
+0x30DD874E = ~z~Oh, good Lord. I was just beginning to enjoy some peace and quiet.
+
+0x39A59DDF = ~z~You win by knockout, you win by retirement or you win by death.
+
+0x48C0302D = ~z~I had to run... if any of us had been found we'd have...
+
+0x49BD6E0E = ~z~Sure... let's split up.
+
+0x52B60173 = ~z~Thank you. Thanks a lot.
+
+0x58C93F25 = ~z~~sl:0.8~Well, they... they weren't very good shots.
+
+0x59A8FE91 = ~z~~sl:0.0:0.9~Come on, John.~sl:2.1:0.8:1~I'll drive.
+
+0x59D1D9A5 = ~z~Get in the wagon.
+
+0x60DD9E0D = ~z~What?
+
+0x61E898C8 = ~z~Over the bridge going out of town. West.
+
+0x62BFCB78 = ~z~Of course. I understand...
+
+0x63C3A38E = ~z~No problem.
+
+0x67E2F5C7 = ~z~We've got to go.
+
+0x69CB7E2A = ~z~Let's have a good fight boys. Let's keep it clean. But not so clean.
+
+0x71B9F59B = ~z~You're fighting with a hand behind your back.
+
+0x78AEF520 = ~z~~sl:0.8~I guess some folk is strong in ways you can't see.
+
+0x79B79228 = ~z~~sl:0.0:2.8~but I don't think we would'a had to make those calls.~sl:~All that mayhem. If it wasn't for...
+
+0x91E293E9 = ~z~He gave me his satchel. With some of his things in it.
+
+0x93BC7C6F = ~z~Hold on.
+
+0x95C6CD1E = ~z~I think they might be starting soon...
+
+0x114E6BB5 = ~z~You go that way, I'll go this way.
+
+0x162FB5D9 = ~z~Come on. The cops will be on their way.
+
+0x186C6C10 = ~z~Dumb redskin.
+
+0x219DF1ED = ~z~Conversation here's just too scintillating to wait another minute.
+
+0x244DD6B9 = ~z~You wait here...
+
+0x389FCDAA = ~z~Who knows? Dead, maybe. I'm not sure...
+
+0x421DF448 = ~z~Alright, yeah.
+
+0x465D6925 = ~z~Dutch?
+
+0x476CD7F5 = ~z~I've had enough of you, alright? Go... search somewhere else.
+
+0x546E18EC = ~z~Come on, let's get off.
+
+0x681D53FD = ~z~I heard he died in custody, never said a word.
+
+0x710D5222 = ~z~I never liked this place.
+
+0x717ED42F = ~z~You know what, I seen him in better condition. I'll bet against him.
+
+0x729D9D08 = ~z~Nothing near us.
+
+0x753A743E = ~z~Over there.
+
+0x776DC3D2 = ~z~Heya!
+
+0x837D288B = ~z~I would head along that way... Saint Saturnines...
+
+0x909EBFF6 = ~z~~sl:1.0:4.9~It never ends well... gangs like ours don't ride off into the sunset.~sl:0.8~Not these days.
+
+0x954FDBC2 = ~z~This way.
+
+0x999E58CE = ~z~~sl:1.4:3.6:1~Asked that first bar man I met. He told me Charles was here...
+
+0x1173FF53 = ~z~Nor me. Micah?
+
+0x1686C16C = ~z~What's he doing?
+
+0x1814DABA = ~z~And on my right, an Indian Hercules... the savage, the untamable, the unbeaten and dare I say the unbeatable, Lone Wolf.
+
+0x2690EBCF = ~z~~sl:0.0:3.0~Sure. Word got to me up North,~sl:~so I went back and buried him and Miss Grimshaw.
+
+0x3601BA85 = ~z~Try and stay on your feet, you hear?
+
+0x3971C165 = ~z~Knock. Him. Out.
+
+0x4727AD09 = ~z~Everything that happened... all those deaths... Micah?
+
+0x6036B075 = ~z~Well me neither.
+
+0x6307D837 = ~z~You ain't no kind of fighter!
+
+0x6799BF43 = ~z~Here we are.
+
+0x6911E03C = ~z~Well...
+
+0x7074E6E2 = ~z~~sl:0.0:2.1~He's where he would have wanted to be...~sl:~a pretty hillside... facing the evening sun...
+
+0x8031A670 = ~z~Come on.
+
+0x8343F68F = ~z~Back in Saint Denis.
+
+0x8953A03D = ~z~~sl:0.0:0.6~Kind of...~sl:0.7~been getting shot at.
+
+0x9263D2A3 = ~z~Sooner we get out of Saint Denis, John...
+
+0x9534BC90 = ~z~Boo, you're about to see some stars.
+
+0x9619AFF5 = ~z~They picked up Strauss. The agents. Made a real mess of him.
+
+0x17428AF0 = ~z~And me the same about you.
+
+0x18394F20 = ~z~You... you know that Arthur...
+
+0x33396A5C = ~t~In Italian: Shit!
+
+0x35334F64 = ~z~Speaking of simple...
+
+0x47029B98 = ~z~Come on, let's head for home.
+
+0x65396E25 = ~z~~sl:0.0:2.1~What, you don't have them in the high country?~sl:0.2~Invention moves real quick.
+
+0x76321A12 = ~z~Not yet.
+
+0x80465C93 = ~z~~sl:0.0:3.9~No, sorry mister. No.~sl:0.6:4.7~Actually... yes. He, I think he's fighting I believe.~sl:0.3~Fighting out behind Saint Saturnines.
+
+0x96403A9C = ~z~I guess.
+
+0x171388BB = ~z~Alright... let's go find that big sour bastard...
+
+0x275723A6 = ~z~Okay. Where was Uncle gonna meet us?
+
+0x348643A0 = ~z~Good idea... I'll take the saloons, you take the slums.
+
+0x441468C6 = ~z~Hey partner, you seen a big Indian guy?
+
+0x821647A4 = ~z~Guido Martelli will happily remind you of that.
+
+0x2114060C = ~z~Putting them on us the whole time... or since before I got off Sisika.
+
+0x8938186C = ~z~So... what happened?
+
+0x13475540 = ~z~Let's take it anyway.
+
+0x21964716 = ~z~Eh?
+
+0x31658185 = ~z~None of us is innocent in that... Dutch least of all...
+
+0x67688692 = ~z~Okay. Let's keep going.
+
+0x96661558 = ~z~~sl:1.2~You're a lucky man, John. I always thought you might be.
+
+0xA011E1B4 = ~z~Enjoy the fight.
+
+0xA2F30F00 = ~z~We were splitting up, weren't we?
+
+0xA3A67F29 = ~z~~sl:0.0:2.0:1~John. Charles.
+
+0xA9E8817E = ~z~Keep your eye out. Saint Denis ain't short on police.
+
+0xA47E5718 = ~z~This the train?
+
+0xABB8BC3A = ~z~If this is saving me, can you do it better please?
+
+0xABBEA260 = ~z~You wait here... I-I'll get the tickets.
+
+0xAD9289E0 = ~z~simply too much fun?
+
+0xAFD82327 = ~z~If I ever wanna go back, remind me that I hate Saint Denis.
+
+0xB1E7F1EB = ~z~Okay.
+
+0xB48F93B1 = ~z~no weapons, no forfeiting, no crying like a beaten child. Everything else goes.
+
+0xB58EC772 = ~z~~sl:0.0:4.1~I heard all kind of things, but one thing I know,~sl:~he ain't around here...
+
+0xBA150FD8 = ~z~~sl:1.2~I think we're clear.
+
+0xBA58190E = ~z~~sl:0.0:0.7~Yeah...~sl:1.9~that makes sense.
+
+0xBBDFAA10 = ~t~In Italian: Come on! Come on!
+
+0xBC451E8E = ~z~Hey.
+
+0xBC2325F3 = ~z~I remember that... only too well.
+
+0xBD3C0036 = ~z~~sl:.0.0:2.0~You get sick like that, I guess you...~sl:0.5~you gotta cling to something.
+
+0xBDE92A8D = ~z~You ever think she left you 'cause you're...
+
+0xBDEBCC2B = ~z~Looking slow, Lone Wolf.
+
+0xBE559B67 = ~z~~sl:0.0:3.4~The original plan... that we'd have a ranch one day...~sl:~horses, cattle, big noisy dinners...
+
+0xBF208506 = ~z~Hey. Stay close, won't you?
+
+0xBFF90E0D = ~z~I'll get the tickets.
+
+0xC00F9241 = ~z~What are you two, sweethearts? Let's have a fight here.
+
+0xC07E86F8 = ~z~I had to run... if any of us had been found we'd have...
+
+0xC6DCEE59 = ~z~Think he's... he's fighting tonight over at Saint Saturnines.
+
+0xC191EB8B = ~z~~sl:1.0~What took you so long?
+
+0xC425B626 = ~z~We need to get out of here, come on.
+
+0xC77134E6 = ~z~John!
+
+0xC994569F = ~z~Give me some simple folk and wide open spaces...
+
+0xCA4DBF2D = ~z~You know how this works...
+
+0xCAD8BA0F = ~z~He was a good man... as much as any of us could be...
+
+0xCD63A8E2 = ~z~train'll be here in a while.
+
+0xCE0DAE3D = ~z~I seen you hit whiskey jars harder than that!
+
+0xCE29D423 = ~z~~sl:0.0:1.8~I don't wanna get in a shootout over this.~sl:0.2~That's not the man I try to be anymore.
+
+0xCF73A4E2 = ~z~~sl:0.0:4.2~You mean, back then? Arthur helped me get out...~sl:~gave me a chance to... live, I guess.
+
+0xCF758776 = ~z~~sl:0.0:1.6~Funny you should say that.~sl:0.4~That's what I'm hoping for this place in the high country.
+
+0xD09701CD = ~z~Thank you, thanks a lot.
+
+0xD3FCD5A6 = ~z~Anyone?
+
+0xD5C6D191 = ~z~What are you doing?
+
+0xD113A8EC = ~z~Let's stick together, okay?
+
+0xDAEB11E3 = ~z~Yeah... a boxer...
+
+0xDBADC576 = ~z~Alright, let's go sit down...
+
+0xDD3DE828 = ~z~Good so far.
+
+0xDE4D1906 = ~z~I ain't heard nothing real in years, since... well... that time.
+
+0xDE432158 = ~z~What is this?
+
+0xE0D09054 = ~z~Hit him, Lone Wolf.
+
+0xE0E7F99F = ~z~~sl:0.0:1.4~No, I don't want that either.~sl:1.5~You see anything?
+
+0xE1B7C92D = ~z~
+
+0xE4DBEFBB = ~z~John.
+
+0xE6D545EE = ~z~Okay.
+
+0xE8B17F3D = ~z~It's only a short walk. Come on.
+
+0xE359A752 = ~z~A big guy... a boxer maybe? Likes fighting?
+
+0xE894B9B4 = ~z~~sl:0.0:1.9~I'll let you decide what you think.~sl:0.3~I think it's mighty fine. Or has the potential to be.
+
+0xE7968A65 = ~z~What the hell?
+
+0xE5742585 = ~z~Now how about I take the saloons and you take the slums?
+
+0xEA1CF521 = ~z~Come on.
+
+0xECCBFDF5 = ~z~~sl:0.4:4.1~Rattle him or... give him some kind of understanding...~sl:0.7~what his life was really all about.
+
+0xF2A9EB4E = ~z~~sl:0.0:2.8~Sure. Word got to me up North,~sl:~so I went back and buried him and Miss Grimshaw.
+
+0xF3D8865F = ~z~So... what happened?
+
+0xF9C45C13 = ~z~And the ranch is... well, wait 'til you see the ranch.
+
+0xF68B90C3 = ~z~~sl:0.0:1.0~Here it does.~sl:0.6~Frightening.
+
+0xF78ABDC8 = ~z~Hit him, Charles.
+
+0xF87D91E2 = ~z~~sl:0.0:1.4:1~It's the Welshman's day.
+
+0xF497E173 = ~z~Let's go. There's a wagon up there. I'll get my bag.
+
+0xF774CAF6 = ~z~Listen... you seen a big Indian feller?
+
+0xF3626C82 = ~z~~sl:0.0:4.0~He was hoping to come out of it... hope was about all he had left...~sl:0.8~maybe all any of us have.
+
+0xF7789CA1 = ~z~~sl:0.0:2.9~Further we get from those gunshots, better chance we have...~sl:0.4~of denying it, at least.
+
+0xF166331F = ~z~You know what to do, Signor Smith.
+
+0xFBB8D3DD = ~z~~sl:0.0:2.5~I hope that bastard is dead.~sl:~You know he was the one speaking to them agents?
+
+0xFD1ADAD4 = ~z~Yeah, yeah. Bare knuckle guy?
+

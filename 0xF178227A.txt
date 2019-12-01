@@ -1,0 +1,4 @@
+0x3B51646D = Take Pamphlet
+
+0xC6918EF4 = Decline
+

@@ -1,0 +1,290 @@
+0x02BA2997 = ~z~Three glasses down and this one could be pissing in a horse's ass and he wouldn't know no better.
+
+0x045BA91D = ~z~What the-
+
+0x04C5F40A = ~z~Oh... oh goodness.
+
+0x04DA103E = ~z~I found the place, didn't I?
+
+0x06E53283 = ~z~I'll kill you!
+
+0x0719B262 = ~z~What are you talking about? You're just messing with me now.
+
+0x08286C07 = ~z~Everyone wake the hell up, we got an intruder!
+
+0x0BACF4B6 = ~z~Let's make sure we keep one of them alive to tell us where they stashed the money.
+
+0x0C45063D = ~z~Heads up, Arthur. Here come the rest of 'em!
+
+0x1A9AD59B = ~z~Wow!
+
+0x1B143CB2 = ~z~Alright, here...
+
+0x1D945F4B = ~z~Oh, it stank to high hell, it sure did!
+
+0x2AADDBE5 = ~z~Good work.
+
+0x2B8B0FB4 = ~z~What? Where?
+
+0x2F97CCE2 = ~z~What? Where?
+
+0x2FF0E66B = ~z~Hey, what about my cut?
+
+0x3C64082D = ~z~Whatever you want, I'll do it!
+
+0x3E05E224 = ~z~Don't, please...
+
+0x3E5B3849 = ~z~This son of a bitch! again!
+
+0x3F079E74 = ~z~Holy smokes!
+
+0x3F56144D = ~z~Goddamn it, who was guarding this place?
+
+0x4ACC2A33 = ~z~You son of a bitch!
+
+0x4B8ECFB7 = ~z~Look, I don't want no trouble,
+
+0x4D2555DD = ~z~You again!
+
+0x4DF1865C = ~z~
+
+0x5B332E61 = ~z~What the hell is going on out there? Wake up, we got a problem!
+
+0x5C3B2D40 = ~z~Shit... I give up!  Please don't shoot!  I'm unarmed!
+
+0x5D5C2531 = ~z~Oh, wait, wait...
+
+0x5D8FF6B2 = ~z~He's back!
+
+0x5D23A795 = ~z~About a dozen of 'em, coming up east.
+
+0x5D9241B1 = ~z~This is more like it.
+
+0x5E7DBB19 = ~z~Alright, alright, under the pillow on top of my bed. Just take it and get out of here.
+
+0x6B339F77 = ~z~I'll see you back at camp.
+
+0x6CED699D = ~z~You're the only one left! Give it up now!
+
+0x6DB36084 = ~z~Shit... I give up! Don't shoot! I'm unarmed!
+
+0x6E63A9D6 = ~z~I'll kill you!
+
+0x6FC7802B = ~z~Goddammit! Get him!
+
+0x7BCB620F = ~z~False alarm! False alarm! You'd better go check yourself.
+
+0x7BFA3091 = ~z~I just thought you might like to know we passed a big posse of lawmen headed this way.
+
+0x7BFC8EAE = ~z~You ain't leaving here alive!
+
+0x7C7E65A7 = ~z~Come out with your hands up! Nice and easy. You saw what we did to your pals here.
+
+0x7E0A1CD4 = ~z~Tell us where you stashed your money and we'll let you live.
+
+0x7FB3D93A = ~z~You're a cold one, Morgan. A cold one.
+
+0x8DDEA30C = ~z~Oh shit!
+
+0x8F541D83 = ~z~Everyone wake the hell up, we got an intruder!
+
+0x9BDEF056 = ~z~
+
+0x9CD74E44 = ~z~You're gonna pay.
+
+0x9E03961C = ~z~Hey, who the hell are you?
+
+0x9F8E466B = ~z~Christ alive!
+
+0x14F8146A = ~z~I think I'm gonna go rest my eyes a bit.
+
+0x17BFC0DF = ~z~Just let me go.
+
+0x20A52BC4 = ~z~That's gonna itch when it dries.
+
+0x25EA98E5 = ~z~Untie me now, you son of a bitch!
+
+0x26C04661 = ~z~So, here we are. We got some good stuff.
+
+0x27E93D21 = ~z~Now, I'm gonna give you and your daddy about five seconds to get the hell off my property, boy!
+
+0x30CB47AF = ~z~You don't have to do this!
+
+0x31CD085A = ~z~Let me loose, you son of a bitch!
+
+0x39E5E17E = ~z~Right here.
+
+0x41B4E0BD = ~z~I hope you know what you're doing.
+
+0x41EBE4F1 = ~z~Okay, okay... I give up!  Don't shoot. I ain't armed.
+
+0x42DBF031 = ~z~Who can't handle his red eye, huh?
+
+0x51FC0D6D = ~z~Oh baby, don't cry now. We love you.
+
+0x54C1E21D = ~z~Now, I'm gonna give you about five seconds to get the hell off my property, boy!
+
+0x60C5D2EA = ~z~Don't, please.
+
+0x62DEAF32 = ~z~Take it easy, will you?
+
+0x71F11C7F = ~z~About a dozen of 'em, coming up east.
+
+0x72B2CED2 = ~z~Get out of here.
+
+0x82F1067C = ~z~Everyone wake the hell up, we got an intruder!
+
+0x92D7D93D = ~z~Who do you think you are?
+
+0x94EF3B4F = ~z~Can I go now?
+
+0x94EF1377 = ~z~We got a problem here!
+
+0x280ECA33 = ~z~Who's there?
+
+0x416D2E33 = ~z~Okay, okay. There's a loose floorboard in the kitchen by the wall. I hide my cut there.
+
+0x442CAD19 = ~z~You'll pay for this!
+
+0x461C38DA = ~z~If you want to live you'll tell me where the money's stashed.
+
+0x533E9992 = ~z~You're the only one left! Give it up now!
+
+0x689ACDDD = ~z~Both of you are dead men!
+
+0x757DEAB0 = ~z~Help!
+
+0x878A95A1 = ~z~Supplies don't appear by magic you know.
+
+0x936BAFE4 = ~z~You bastard!
+
+0x1198B8D3 = ~z~We're on our way!
+
+0x2626B5BB = ~z~Man did your piss stink, oh my god.
+
+0x3948F9DE = ~z~What the hell?
+
+0x3969DD4D = ~z~Big, goddammit, stop dancing circles around me!
+
+0x4381A2F6 = ~z~Alright, there's a sack of grain in the kitchen. I stashed my cut there.
+
+0x5438F581 = ~z~You better let me go.
+
+0x5997F156 = ~z~Just take the money and go, please!
+
+0x30479C22 = ~z~This bastard just don't get the message!
+
+0x71214BB7 = ~z~What the hell is that?
+
+0x72154EA3 = ~z~I think I may have drew mud on that one.
+
+0x79660A4D = ~z~If you wanna live, you'll tell me where that money's stashed.
+
+0x80616A2F = ~z~Let me scratch your ear for you!
+
+0x81090B1F = ~z~God damn you!
+
+0x84642F40 = ~z~You picked the wrong damn house.
+
+0x99596B4F = ~z~Right here.
+
+0x264929E6 = ~z~Here, I'll deal with 'em.
+
+0x850089B5 = ~z~We got a problem here!
+
+0x1188105F = ~z~
+
+0x1552941B = ~z~It ain't right. It ain't nice.
+
+0x5290367F = ~z~Please...
+
+0x23883086 = ~z~Did you get your feelings hurt? We get your feeling's hurt?
+
+0xA728B7EA = ~z~Put a hole in that son of a bitch!
+
+0xA30251FE = ~z~Hey there.
+
+0xAD015C7B = ~z~Goddamn it!
+
+0xAE1545A2 = ~z~You always do that crazy thing where you try to scratch your ear with your elbow!
+
+0xB0403F00 = ~z~We're being jumped! Keep them away from the stash.
+
+0xB4C1A21F = ~z~Here come the rest of 'em.
+
+0xB9CC17BC = ~z~Well, but I'll still be going when the sun comes up.
+
+0xB59C9892 = ~z~Give me one reason why I shouldn't put a bullet through your head.
+
+0xBA659D11 = ~z~What the hell, Arthur? Who's gonna tell us where the money's stashed now?
+
+0xBEB0E6D9 = ~z~Shut the hell up, all three of you! You sons of bitches.
+
+0xC3EF0E69 = ~z~Alright...
+
+0xC6058180 = ~z~Dammit there's just two of them, kill them!
+
+0xCB8E3B40 = ~z~Well, what, what about the other night when you was airing your paunch in every corner?
+
+0xCB81911A = ~z~Hey! Who the hell are you?
+
+0xCC439625 = ~z~Put a hole in that son of a bitch!
+
+0xD0E1FBD8 = ~z~What the hell!
+
+0xD22CAAE4 = ~z~I don't need the lecture again.
+
+0xD350EA51 = ~z~I got no gun on me, I swear, please don't kill me.
+
+0xD530CE85 = ~z~Alls I'm saying is, is you can't handle your red eye.
+
+0xD1203435 = ~z~What the hell is going on over there?
+
+0xDAC0AF98 = ~z~Who the hell are you?
+
+0xDB9439A0 = ~z~Shit!
+
+0xE6FBF21B = ~z~You're twice as soaked as me right now!
+
+0xE10B0190 = ~z~Shit, what the hell's going on?
+
+0xE17D113C = ~z~What the hell is going on out there? Wake up, we got a problem.
+
+0xE78DB99A = ~z~Hey! I gotta piss. Oh... oh, oh, okay, maybe later.
+
+0xE2543A8A = ~z~Everyone wake the hell up, we got an intruder!
+
+0xE35112D2 = ~z~What the hell is going on out there? Wake up, we got a problem!
+
+0xE369722D = ~z~Shit... I give up!  Please don't shoot!  I'm unarmed!
+
+0xE1544933 = ~z~but don't forget to give the camp its share.
+
+0xEC463EA6 = ~z~Please...
+
+0xECBE51B5 = ~z~If you stick your hand between the gap.
+
+0xED13C777 = ~z~Ah look, we don't want no trouble,
+
+0xEECDE6AB = ~z~You're dead.
+
+0xF06304E9 = ~z~That weren't the whiskey... it were bad mutton!
+
+0xF1BB780B = ~z~Who do you think you are?
+
+0xF4E58DFA = ~z~You ain't the best drinker I ever known.
+
+0xF5C43C73 = ~z~What the hell is going on out there? Wake up, we got a problem!
+
+0xF8C47400 = ~z~What the hell?
+
+0xF57DB8AD = ~z~Never know what folks got stashed. There's gotta be other places out there like this.
+
+0xFA8C72B6 = ~z~What the hell?
+
+0xFADA6304 = ~z~we just thought you might like to know we passed a big posse of lawmen headed this way.
+
+0xFDAB756D = ~z~What the hell?
+
+0xFEFEF636 = ~z~Alright, alright, take it easy. Behind the... the wall in the bedrooms.
+

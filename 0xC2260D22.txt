@@ -1,0 +1,16 @@
+0x033E78E8 = ~z~~sl:1.2~I got you something for the pot, Mr. Pearson.
+
+0x6A834770 = ~z~~sl:0.4~But hey, it was hard service. Yes, sir. Young men, they grew up fast. In all regards.
+
+0x8BA909BB = ~z~Err, thank you... I think.
+
+0x27EDC23E = ~z~Yeah, I'll bear that in mind.
+
+0x98BE23E5 = ~z~~sl:1.1:1.3:1~In all regards.
+
+0xB14ED506 = ~z~Oh, you're a good boy, Leonard.
+
+0xBBEAEA3E = ~z~Fine. Yes, you'd have been great on a boat.
+
+0xDFA3B1B3 = ~z~A fine young man... fine, fine young man.
+

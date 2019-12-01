@@ -1,0 +1,18 @@
+0x4BEF858F = ~z~If I find any, I'll bring 'em to you.
+
+0x73E5D57B = ~z~Really?
+
+0x79BC6128 = ~z~Thank you, friend.
+
+0x97609C70 = ~z~Me too.
+
+0xA188B0C0 = ~z~She used to love them... she made beautiful things with 'em.
+
+0xB68FDACE = ~z~Fine, you?
+
+0xC56C7887 = ~z~Of course, eagle feathers are sacred... but more than that, it reminds me of my mother.
+
+0xCD2007EA = ~z~Good... I like that feather.
+
+0xF035CE15 = ~z~How are you?
+

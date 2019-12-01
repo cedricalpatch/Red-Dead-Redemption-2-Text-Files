@@ -1,0 +1,18 @@
+0x0A134196 = ~z~Yeah, thanks, Pa.
+
+0x7F08C3A3 = ~z~He's gonna be okay, son.
+
+0x22AA8AE8 = ~z~Your dad saved him.
+
+0x85E8516A = ~z~I know...
+
+0x345A2E47 = ~z~Yeah I know, momma...
+
+0x92946AC2 = ~z~That's quite a father you got there.
+
+0x298518A5 = ~z~I know.
+
+0x653577D9 = ~z~Very funny... just give Rufus a few days, son.
+
+0x3275925A = ~z~Sometimes.
+

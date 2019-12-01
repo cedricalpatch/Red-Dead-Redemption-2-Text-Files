@@ -1,0 +1,212 @@
+0x0362E34D = ~z~Phew, I owe you two.
+
+0x0459B12A = ~z~And try to stay out of trouble.
+
+0x0616C924 = ~z~there will be hell to pay in Newport.
+
+0x06CF8627 = ~z~Over here...
+
+0x0AF5F4C9 = ~z~There ain't too many fellers in this town fitting your description.
+
+0x0BBB7638 = ~z~Come on, Arthur, let's go.
+
+0x0C4A7762 = ~z~Gentlemen.
+
+0x0FBC0C9A = ~z~You useless piece of crap, Jim Milton.
+
+0x1A4B2C6A = ~z~Of course.
+
+0x1C8D06F0 = ~z~Get lost...
+
+0x1CC9186F = ~z~How'd you find me?
+
+0x1E3E9B4A = ~z~please, release my friend...
+
+0x1F9A7BA4 = ~z~Thought we were gonna get to see you swing.
+
+0x2C4C94D5 = ~z~Thanks, John.
+
+0x2CFB51CA = ~z~Thanks, Hosea.
+
+0x3C74EBAF = ~z~How'd you boys find me in there?
+
+0x3D047290 = ~z~Go on, get
+
+0x3D85E82D = ~z~Now I've had it with you...
+
+0x3ECCB9D5 = ~z~Anyway, I reckon we should split up. I'll see you back at camp.
+
+0x3EFC5CD5 = ~z~Now go, before someone sees you.
+
+0x3FBFF753 = ~z~When you didn't show up in camp, I put two and two together.
+
+0x3FFCCDCF = ~z~I'm getting mighty sick of this.
+
+0x4A10EBE7 = ~z~When they said some big dumb yankee cowpoke had been arrested in Rhodes, I put two and two together.
+
+0x4DC76964 = ~z~just for a bit, begone, get lost.
+
+0x5A4970CE = ~z~It took a while to track you down. All that crap you gave Micah, and you end up in the same jail.
+
+0x6A24CCD0 = ~z~got a gift for you.
+
+0x7A0852D4 = ~z~You want some?
+
+0x8A4EEF78 = ~z~We should split up. I'll see you back at camp. Just try to stay out trouble.
+
+0x8E5A5916 = ~z~You coming, buddy?
+
+0x8F6D8383 = ~z~Let's go.
+
+0x13F2E4DC = ~z~I bring libation.
+
+0x21EAB69F = ~z~Fair enough.
+
+0x40D08887 = ~z~Hello, fellers.
+
+0x53F1047F = ~z~Looks like we lost them.
+
+0x59F2A106 = ~z~Where is he?
+
+0x61A992D9 = ~z~When you didn't show up back at camp, I started asking around.
+
+0x73D3E02E = ~z~Hey buddy...
+
+0x77FE4AD7 = ~z~Thanks again, Dutch
+
+0x85D0CB95 = ~z~Mount up, and let's get out of here!
+
+0x87C89A0B = ~z~Very nice to see you, boys.
+
+0x87D291B9 = ~z~Hey.
+
+0x94DF7793 = ~z~a failure...
+
+0x98D2EE72 = ~z~I-I must moderate my approach to wine.
+
+0x106ADD12 = ~z~Yeah, maybe don't mention that to him?
+
+0x116CDF49 = ~z~What kept you?
+
+0x204FB927 = ~z~Come on over here.
+
+0x258B22DC = ~z~I ain't joking.
+
+0x307C3FC5 = ~z~Now you...
+
+0x534CF61C = ~z~Lucky for you the people of Valentine are such gossips.
+
+0x534E4F0E = ~z~Of course, no man left behind. Now let's split up, we'll see you back at camp.
+
+0x580FA2E4 = ~z~When you go missing, I check the saloon and, if you ain't there, I check the jail.
+
+0x716A30A9 = ~z~I love you too, darling.
+
+0x815CBFAE = ~z~Gentlemen...
+
+0x869D7A5B = ~z~Can we?
+
+0x946BAC29 = ~z~My God, wouldn't it been easier just to shoot them?
+
+0x3739C639 = ~z~Very funny.
+
+0x3880ADF7 = ~z~When your uncle hears about this...
+
+0x6198EBA3 = ~z~Appreciate you coming to get me.
+
+0x7588D832 = ~z~I've had it with you!
+
+0x8226E0EA = ~z~Well, thanks, fellers.
+
+0x9500AC15 = ~z~Thank you, Mr. Smith.
+
+0x25859A9A = ~z~How did you found out I was in there?
+
+0x56299F18 = ~z~I've known you twenty years, Arthur.
+
+0x59059F2C = ~z~and hang this sick bastard ourselves right now?
+
+0x99863D86 = ~z~I think we should get the hell out of here, don't you? Come on.
+
+0x55500964 = ~z~You can't have it.
+
+0x62989306 = ~z~You're a degenerate...
+
+0xA02D9D1B = ~z~Or better yet, next time don't get caught.
+
+0xA8CB54E8 = ~z~get outta here.
+
+0xA90EFA8E = ~z~Okay, I think we're clear. Seems you're a free man, Arthur.
+
+0xA3363390 = ~z~Deputy, can we just cut to the chase...
+
+0xAA6F93E6 = ~z~What took you boys so long?
+
+0xAB6958E6 = ~z~now!
+
+0xAE231912 = ~z~Good day, gentlemen.
+
+0xAF3F6563 = ~z~Hello, fellers.
+
+0xB3A582C3 = ~z~Come on, let's get the hell out of here before someone sees the hole in that wall.
+
+0xB8FE3FD4 = ~z~In that case, forgive me.
+
+0xB87C730C = ~z~In!
+
+0xBB00B262 = ~z~They'll probably hang you, buddy.
+
+0xBC6B35A2 = ~z~I-I'm real sorry, cousin. I...
+
+0xC2D86473 = ~z~Now!
+
+0xC4D6EE55 = ~z~Hello, fellers!
+
+0xC6AECC64 = ~z~Come on, let's get the hell out of here fast.
+
+0xC4098A16 = ~z~Hyaa.
+
+0xCC6B85FA = ~z~sure that's the legal process, okay?
+
+0xCE7F79BE = ~z~We're heading back to camp. Stay out of trouble, Arthur...
+
+0xD07A18C5 = ~z~How'd you find me?
+
+0xD54B071E = ~z~We thought you'd appreciate a visit.
+
+0xD57F89C1 = ~z~before anyone gets shot.
+
+0xD78B0DF4 = ~z~You'd do the same.
+
+0xD81E338D = ~z~Come on, we should split up...
+
+0xD1117F17 = ~z~Alright, I think we lost them.
+
+0xDA5B8CB2 = ~z~How did you find me?
+
+0xDC483AA3 = ~z~You let my friend go...
+
+0xDEAAAA78 = ~z~Ma'am... I ain't quite~n~~m~Can we please?
+
+0xDFF6FCB9 = ~z~Oh, you must.
+
+0xE1A2003B = ~z~You have been a very silly young man, Tacitus.
+
+0xE6D6BC68 = ~z~Come on, Arthur, we need to get out of here fast.
+
+0xE415A4B3 = ~z~Okay, we'll see you back at camp, Arthur. Try to stay out of jail, will you?
+
+0xE8285253 = ~z~My pleasure.
+
+0xEE4E3781 = ~z~Ok, I think we're clear.
+
+0xF9C9D261 = ~z~Aww, it's nice to see you, Arthur.
+
+0xF9E152A0 = ~z~I owe you one.
+
+0xF523E218 = ~z~Now get out of here, quick.
+
+0xF6786EF3 = ~z~Get yourself out of here.
+
+0xF4022474 = ~z~Charming.
+

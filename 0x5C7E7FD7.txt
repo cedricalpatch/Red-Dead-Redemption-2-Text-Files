@@ -1,0 +1,14 @@
+0x2ADB11E2 = ~z~Don't be like that...
+
+0x3CA1B56F = ~z~just a... just a few bucks. I'm short.
+
+0x5B32F291 = ~z~What do you want?
+
+0x45AA4784 = ~z~You do that.
+
+0x4979CF1F = ~z~Arthur, Arthur, how you been? I've been real worried.
+
+0x724020AF = ~z~Well, I'll go try someone with a heart.
+
+0xA07F7D2D = ~z~Get lost.
+

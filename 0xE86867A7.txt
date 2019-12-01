@@ -1,0 +1,88 @@
+0x01783581 = ~s~Mount ~o~horse~s~
+
+0x07A8E3B8 = ~s~Find the site of the Skinner massacre
+
+0x0AD79082 = ~s~Pick up ~e~~a~'s corpse~s~
+
+0x0B906308 = Herman Zizendorf
+
+0x0DCAF571 = ~s~Put ~a~'s corpse ~o~outside~s~
+
+0x0F69D937 = Mark Johnson
+
+0x1CBECE93 = Hit
+
+0x2E9A1CCB = Lindsey Wofford
+
+0x3E6BD628 = Cell
+
+0x4A1E9B55 = ~s~Locate ~a~ - She is wanted alive
+
+0x7FB7113C = ~o~Reward~s~
+
+0x9AE40F89 = ~s~Put ~a~'s corpse in the ~o~cart~s~
+
+0x9CA829F3 = ~s~Capture ~e~~a~~s~ alive
+
+0x17E6EDC9 = Otis Skinner
+
+0x72D7858E = ~s~Take ~a~'s corpse back to the ~o~~a~ Jail~s~
+
+0x72E71932 = ~s~Locate ~a~ - He is wanted alive
+
+0x76B32B60 = Lucky
+
+0x81EF6AF1 = Ellie Anne Swan
+
+0x83A4E078 = ~s~Hogtie ~e~~a~~s~
+
+0x86AB61A7 = ~s~Go to the ~o~sheriff's desk~s~
+
+0x93F473CE = Esteban Cortez
+
+0x370D65AB = ~e~~a~~s~ is escaping
+
+0x592F6C7D = ~s~Collect the ~o~reward~s~
+
+0x678DBFBF = ~s~Capture ~e~~a~~s~ dead or alive
+
+0x991BFE19 = Joaquin Arroyo
+
+0x3825BE8A = Joshua Brown
+
+0x6433FFDA = Criminal
+
+0x7029D855 = Jail
+
+0x37300E24 = ~s~Take ~a~ back to the ~o~~a~ Jail~s~
+
+0x71021FEE = Elias Green
+
+0x548602D2 = ~s~Put ~a~ in the ~o~cell~s~
+
+0x6512881F = Bart Cavanaugh
+
+0x68879329 = Bounty Target
+
+0xB65DA01E = ~s~Locate ~a~ - He is wanted dead or alive
+
+0xB24827E9 = ~s~Return to ~o~~a~ Jail~s~
+
+0xC0ADBF58 = Robbie Laidlaw
+
+0xDDC7F94E = ~s~Return to the ~o~sheriff~s~
+
+0xE2E9C0A7 = ~s~Pick up ~e~~a~~s~
+
+0xE15E11D8 = Camille de Millemont
+
+0xEA682155 = ~s~Go to the ~o~police chief's desk~s~
+
+0xF37B24F2 = Anthony Foreman
+
+0xF67F646C = ~s~Return to ~e~~a~~s~
+
+0xFD6063D8 = Dump
+
+0xFEA175A7 = ~s~Return to the ~o~police chief~s~
+

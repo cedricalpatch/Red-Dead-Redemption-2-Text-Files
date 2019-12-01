@@ -1,0 +1,8 @@
+0x5E099812 = ~z~You're a wrong man... a wrong man. There's something not right with you.
+
+0x8C5AF4B4 = ~z~Are you talking to me, old man? Mind your manners.
+
+0x71263E4B = ~z~None of our problems is my fault... none at all... so you watch your damn tongue.
+
+0xC290E11F = ~z~I've minded them long enough.
+

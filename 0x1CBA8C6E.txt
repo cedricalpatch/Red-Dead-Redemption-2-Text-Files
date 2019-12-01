@@ -1,0 +1,32 @@
+0x039EC9C8 = ~z~Please, excuse me.
+
+0x2BC41A16 = ~z~Is that so?
+
+0x4DA15DD0 = ~z~Oh, I ain't. But I have the good grace to shoot a feller full in the face.
+
+0x5E17FEBD = ~z~Not call myself his friend, then shoot him in the back.
+
+0x6F017928 = ~z~I did not take you for a man of mindless compassion, Mr. Bell.
+
+0x32AD27E8 = ~z~Usually... not always.
+
+0x75F70713 = ~z~I don't force anyone to take the money and I don't force anyone to not repay it.
+
+0x84C3A4AC = ~z~But if they don't, you send one of us around to break their legs.
+
+0x203E8307 = ~z~Sometimes, there's nothing better than shooting a feller who thinks you like him, in the back.
+
+0x3508AC9B = ~z~So... watch yourself.
+
+0x9971CE08 = ~z~I send someone around to encourage them to comply, yes.
+
+0xA7976A53 = ~z~The way I see it, it's unseemly.
+
+0xBDA8967D = ~z~Mind if I sit?
+
+0xCB6331F2 = ~z~No, be my guest.
+
+0xE0AD5C86 = ~z~
+
+0xEECCF8C5 = ~z~Money lending, hmm? It's not very dignified, is it?
+

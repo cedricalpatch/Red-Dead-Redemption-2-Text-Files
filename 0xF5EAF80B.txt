@@ -1,0 +1,46 @@
+0x04556193 = ~z~What's it to you?
+
+0x0AF02584 = ~z~Well, if you wanna rest here a while, that's okay by me.
+
+0x0C9FC39E = ~z~Just seeing if anyone's around. Ain't here to make trouble.
+
+0x0D323DC7 = ~z~Her body was never discovered.
+
+0x1DD8760C = ~z~What's it to you?
+
+0x8E14DC5B = ~z~Just get away from my camp, please?
+
+0x8F57F7D6 = ~z~Yes, now I have your attention, si?
+
+0x16E8BF65 = ~z~Esta bien, I'll stop... you don't care about this.
+
+0x25E19E09 = ~z~Just seeing if anyone's around. Ain't here to make trouble.
+
+0x41DC7BD1 = ~z~I don't know if you've ever had an obsession in your head.
+
+0x68F8D491 = ~z~It's probably nothing again... for a man who lives like me, free and on the move, it's...
+
+0x491BC2A4 = ~z~Anyway, I need to take my mind off this.
+
+0x818B46E9 = ~z~I haven't even told you what this is about yet.
+
+0x3096E3AE = ~z~A man told me to look in the town of Van Horn, so, that's where I'm headed now.
+
+0x84490B31 = ~z~strange. I just can't let it go... but it feels, y-you know... unfinished.
+
+0xC64B2FFA = ~z~Her country still has hope and is offering a lot of money to anybody who can bring her in.
+
+0xD3AE1F76 = ~z~I'm sorry, I'm not myself these days.
+
+0xD6ECDFBB = ~z~What are you doing here?
+
+0xD66FD043 = ~z~A princess from Europe was lost here when she was a child, fifteen years ago.
+
+0xE6CF45B8 = ~z~When I came to this country, over seven years ago now, I heard about this reward...
+
+0xE8927488 = ~z~I been looking for her ever since, on and off...
+
+0xF8B8698A = ~z~You know, something that takes a hold and won't let go?
+
+0xF61C958D = ~z~Hey, can I help you?
+

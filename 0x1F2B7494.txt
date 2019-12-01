@@ -1,0 +1,28 @@
+0x06D43F70 = ~z~I really can't afford to get sick again this month.
+
+0x2CF92C9A = ~z~Oh dear, have you been taken by the miner's cough now too?
+
+0x4BF849B7 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+0x9C97E9D2 = ~z~Oh dear, have you come down with the flu as well, sir?
+
+0x19B40604 = ~z~Something like that.
+
+0x22AFF727 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+0x82CCA6B6 = ~z~Been some grippe going around here... and I just thought...
+
+0x2806A2A9 = ~z~I'm sorry, I've seen a lot of that in my years here. But, anyway, how can I help you?
+
+0x7097024B = ~z~Yes, why?
+
+0xA7466FA9 = ~z~You alright there, sir?
+
+0xD99BE4FC = ~z~Why don't you just do your job?
+
+0xE7ED8080 = ~z~Flu? No, what are you talking about?
+
+0xEAA9F667 = ~z~you know what, never mind. What can I do for you?
+
+0xF9B4240D = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+

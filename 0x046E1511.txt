@@ -1,0 +1,56 @@
+0x08D49F12 = ~z~But maybe that's all the riches a man like me need.
+
+0x5EC14668 = ~z~~sl:1.1:0.0~Keep telling myself I'll strike it rich one of these days, but that day's sure dragging its heel. Believe you me.
+
+0x6BBE39AE = ~z~I mean, I thought what better way to find my fortune than on the slavers' filthy dollar, you understand?
+
+0x7BDCD788 = ~z~Dunno, you tell me.
+
+0x9F87C28D = ~z~Dunno, you tell me.
+
+0x25A9D436 = ~z~how they had this serious falling out, how one of them had hidden a big old pile of gold somewhere.
+
+0x48F37419 = ~z~Thought I was onto something too.
+
+0x71FD56ED = ~z~Hey, come on, I ain't even got into it yet.
+
+0x86D44B18 = ~z~Yeah... the land gives all we need and more. The rest of it...
+
+0x87ACFA1E = ~z~Well, thanks for listening. You know, I can't sit around here all day.
+
+0x92E9846B = ~z~Alright, okay. If you don't want to hear, I ain't gonna waste no more breath.
+
+0x171D906E = ~z~One of their maids had showed me this old carving that said "Where the death adder spits"
+
+0x210EEB7C = ~z~Why would I lie about this?
+
+0x350A72F7 = ~z~Can't tell you how much time I wasted chasing treasure...
+
+0x1884B9EC = ~z~Feller told me about these two old plantation families there, how...
+
+0x2446AAC0 = ~z~and then I spot this place called Copperhead Landing on my map and put two and two together...
+
+0x3980D534 = ~z~Not that I expect you to understand that.
+
+0x1583386F = ~z~but found nothing but an old pair of boots I'm wearing right now.
+
+0xA387849D = ~z~Sure does.
+
+0xA2520213 = ~z~Though I can't stop thinking I must have missed something...
+
+0xB0CBCCF3 = ~z~Gets rough out here sometimes, don't it?
+
+0xB9102F8F = ~z~well, I... I'm starting to realize perhaps there's such a thing as easy money for fellers like you and me.
+
+0xBF66116D = ~z~~sl:0.9:0.0~I had a feeling this'd interest you.
+
+0xD3F0E550 = ~z~Anyway, it's done now.
+
+0xD219AD17 = ~z~Spent a few weeks down around the town of Rhodes recently, don't know if you ever passed through it though.
+
+0xDBBAC4DF = ~z~I spent days around there digging up ground from dawn 'tll dusk,
+
+0xF8EC806A = ~z~Sure does.
+
+0xF35505A8 = ~z~Yeah, I really thought I was onto it.
+

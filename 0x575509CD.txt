@@ -1,0 +1,52 @@
+0x01F71D93 = ~z~Boo.
+
+0x0BA430ED = ~z~Hello?
+
+0x1EE4570D = ~z~Don't lose your focus.
+
+0x3FC198CF = ~z~Am I bothering you?
+
+0x6C5FE27F = ~z~Remember to focus.
+
+0x7F49A0AF = ~z~You okay there?
+
+0x9C2CD1A4 = ~z~Am I annoying you?
+
+0x9C7114E3 = ~z~Beautiful, ain't it?
+
+0x22B56784 = ~z~You alright?
+
+0x40CC8B59 = ~z~Don't look down.
+
+0x70BD7B26 = ~z~Don't fall off.
+
+0x83C6E38F = ~z~You alright there?
+
+0x96A1CF5F = ~z~Looks peaceful.
+
+0x4605A557 = ~z~Remember to concentrate.
+
+0x6301CFC3 = ~z~You know it's rude to ignore people.
+
+0x53022FC4 = ~z~Hey!
+
+0x2739582F = ~z~Am I annoying you?
+
+0xAE36386D = ~z~What you doing?
+
+0xB8FECDFE = ~z~Hey.
+
+0xB267FE1A = ~z~You can hear me.
+
+0xBA0D9636 = ~z~What you doing?
+
+0xC85F32D9 = ~z~Hey.
+
+0xCB5AF2B6 = ~z~Nice spot.
+
+0xE719AA3B = ~z~You okay?
+
+0xEBB3F982 = ~z~Fancy meeting you up here.
+
+0xFD7804AD = ~z~Don't slip.
+

@@ -1,0 +1,82 @@
+0x0EE3C5A8 = ~z~I can't believe you're doing this... thank you.
+
+0x0F5A9D14 = ~t~In Spanish: Damn horse.
+
+0x1A39FAD5 = ~z~Off there.
+
+0x1E3EE41E = ~z~Come on, you have to help me.
+
+0x2A6343F2 = ~t~In Spanish: Think I'm stupid?
+
+0x2CF912F5 = ~z~~sl:0.3~Why would anybody want to live out here?
+
+0x2EE37C50 = ~z~~sl:0.0:1.4~Hey, you know Tumbleweed?~sl:0.2~If you can get me there, I-I should be fine.
+
+0x8B0D7398 = ~z~My head hurts. I don't wanna talk anymore.
+
+0x9B2A10B6 = ~z~Ahora! Vamos! Come say hello.
+
+0x12C776DA = ~z~~sl:0.0:2.3~I work farms normally. You farm?~sl:0.3:2.6~~rp~No, oh... eh, someone told me there's~sl:~good work out this way... They lied.
+
+0x17BACADB = ~z~I-I just need to be off my feet. I can hardly see straight.
+
+0x32B87C6E = ~z~~sl:0.0:3.1~Can you help me? I'm in a bad way.~sl:0.0:1.4~M-my horse is dead some ways back...~sl:~I-I been walking for hours... I'm really dizzy.
+
+0x43ECD924 = ~z~~sl:0.2~I don't trust the desert.
+
+0x75A99957 = ~z~Best to trust no one out here.
+
+0x219A147F = ~t~In Spanish: Goddamn bastard. I'll wring his neck.
+
+0x279A3D96 = ~z~~sl:0.0:2.7~So, er, h-how are we getting there?~sl:0.3~I-I won't make it on foot.
+
+0x438E6BDD = ~z~~sl:0.0:3.0~This is Tumbleweed? Oh, y-yes, okay...~sl:~M-man, I'm thirsty. Kind of you for taking me.
+
+0x2109D911 = ~z~~sl:0.0:2.2~Could you, could you get me to a town near here?~sl:~I-I don't know if I'll make it otherwise.
+
+0x37533FF1 = ~z~~sl:0.0:2.9~Where did you come from? Just out of nowhere?~sl:0.2~D-don't tell me. I don't want to know.
+
+0x300484E5 = ~z~~sl:0.3~So, so where do I sit?
+
+0xA2C3A2EF = ~z~This is real good of you.
+
+0xA9BD24C3 = ~z~~sl:0.4~I'm not sure I trust you...
+
+0xAC069E70 = ~z~Get those feet on the ground.
+
+0xAD5C825B = ~z~Please, d-don't leave me here.
+
+0xB5BB5738 = ~z~Dios mio... hey you! Over here!
+
+0xB783C050 = ~z~But... I do appreciate you helping me, you know.
+
+0xB898F1EE = ~z~I want to walk now, okay? Leave me alone.
+
+0xB6040E68 = ~z~Please... feels like I'm in the middle of nowhere, here.
+
+0xBA860538 = ~t~~sl:0.0:3.5~In Spanish: It's fine, it's fine. You're gonna be fine...~sl:~In Spanish: just keep walking...
+
+0xC0BA23D4 = ~z~Come on, look at me.
+
+0xC4EA58B7 = ~z~Take this, eh? Just... don't, don't you follow me.
+
+0xC7C07B42 = ~z~Hey, oh, hey! Help me, please.
+
+0xC7FD8E5B = ~t~~sl:0.0:1.0:1~In Spanish: Gonna be fine...
+
+0xCE79EE3C = ~t~~sl:0.2~In Spanish: You are helping me, right?
+
+0xCEE0C751 = ~z~You will? Oh gracias a Dios.
+
+0xD2C8A3F1 = ~t~In Spanish: I'm going crazy.
+
+0xDA03055D = ~t~~sl:0.0:2.3~In Spanish: Please don't leave me...~sl:~In Spanish: Oh God, don't you leave...
+
+0xDC3789BB = ~z~I appreciate it. Thank you.
+
+0xED452BD6 = ~z~~sl:0.0:2.9~Damn desert. It's too hot or it's too cold.~sl:0.2~~rp~No one should live out here.
+
+0xF2802667 = ~z~I don't trust you a damn second...
+
+0xFDA1F9A3 = ~t~In Spanish: I need water...
+

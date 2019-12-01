@@ -1,0 +1,16 @@
+0x1ABD032D = ~z~Too many men.
+
+0x1F7F0C49 = ~z~Mr. Morgan! Mr. Morgan.
+
+0x2CFEA7B0 = ~z~You know sometimes I'm glad I left the navy... too many men.
+
+0x3C23C592 = ~z~Quite a country... quite a country.
+
+0x3E61CA76 = ~z~I never figured running in a bunch of outlaws would be the gentile option.
+
+0x49F2612F = ~z~Mr. Pearson.
+
+0x73A434FE = ~z~Well... I've seen things, sir. I've seen terrible things.
+
+0x506C6E8B = ~z~This world... far more gentile.
+

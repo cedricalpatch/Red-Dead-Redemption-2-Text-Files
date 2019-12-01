@@ -1,0 +1,134 @@
+0x036E6B49 = ~z~Don't you worry about me.
+
+0x03E98CD1 = ~z~Come back and see me later?
+
+0x044B13B2 = ~z~Best I give it to you now, while there's no line.
+
+0x0A166C45 = ~z~Hey, uh, might be a little specific, but some fool's got me out looking for a wagon of moonshine...
+
+0x0BB14030 = ~z~I need something more specific this time. A wagon full of moonshine.
+
+0x0D7414D3 = ~z~~sl:0.0:1.8~Watch yourself with this one.~sl:0.1~Should be two, maybe three, coaches and they'll be well guarded.
+
+0x0F96EC01 = ~z~I assume this isn't just a social call?
+
+0x0FAF5166 = ~z~How's things, Alden?
+
+0x1CE1B3AE = ~z~~sl:0.3~This is for you.
+
+0x1E12EBAB = ~z~Hey there, my name's John... I knew Arthur, Trelawny's friend?
+
+0x1F92A399 = ~z~Watch yourself. Should be two, maybe three, coaches and they'll be well guarded.
+
+0x1FA1B40D = ~z~So... what are we looking at?
+
+0x2ECCA60D = ~z~What are we looking at?
+
+0x3DFF0719 = ~z~I really think you'll want to take a look at this.
+
+0x4D279435 = ~z~~sl:0.1:0.7~But I do worry.~sl:1.0~It's my curse.
+
+0x5A960202 = ~z~Do you want this now, then? Or... no?
+
+0x6A64A19F = ~z~Well, don't stand on ceremony.
+
+0x6E5FD188 = ~z~~sl:0.0:1.8~Passenger's a wealthy merchant,~sl:0.4~always travels with a lot of cash on him? Detail's on the note.
+
+0x7B483F03 = ~z~And you, my friend... and you.
+
+0x7D0C1719 = ~z~Hello there. I've got another one here if you're interested, but you can't dilly dally like you did last time.
+
+0x7FBBF961 = ~z~Alright, don't you worry about me.
+
+0x8AB8DDE4 = ~z~Good seeing you, Alden.
+
+0x9B01769F = ~z~Good to see you. Let me write down the name of that, er, tailor for you.
+
+0x9BF3469B = ~z~It just isn't safe any more. You'll pop in and see me anyway, though, I hope?
+
+0x9DEC93F3 = ~z~to power some contraption he's making... don't got any ideas do you?
+
+0x10EC16A2 = ~z~And you, my friend... and you...
+
+0x11B22862 = ~z~Ah, hello. Sorry, I don't have anything for you right now, but I'm working on it.
+
+0x24B3D9EA = ~z~Ah, I have something here for you, though I hear you didn't move fast enough on the last one?
+
+0x74D44E1B = ~z~This is for you.
+
+0x77F91437 = ~z~Ah, perfect timing. I've got a message here for you.
+
+0x97FCC04F = ~z~~sl:0.0:3.4~Oh it is, John... it's very right.~sl:1.8~Very right.
+
+0x251C970C = ~z~Right here for you, when you're ready.
+
+0x481BC657 = ~z~Alright, well, come back if you change your mind.
+
+0x510DB276 = ~z~How's things, Alden?
+
+0x960BB731 = ~z~So...er...do you want this, Arthur?
+
+0x1257FD78 = ~z~Hey, uh, might be a little specific, but some fool's got me out looking for a wagon of moonshine...
+
+0x6083CC22 = ~z~Right here for you, when you're ready.
+
+0x44267D16 = ~z~Okay. Good seeing you, Alden.
+
+0x53177D73 = ~z~Come here, I've just the thing for you. But you'll to have act a bit faster than last time.
+
+0x551276F7 = ~z~So... er... do you want this, John?
+
+0x24865428 = ~z~So... erm... what do you think, Arthur?
+
+0x33573381 = ~z~Best I give it to you now, while there's no line.
+
+0x36037722 = ~z~I assume this isn't just a social call?
+
+0x98037879 = ~z~~sl:0.0:1.8~Passenger's a wealthy merchant,~sl:0.4~always travels with a lot of cash on him. Detail's on the note.
+
+0xA09999FD = ~z~to power some contraption he's making... don't got any ideas do you?
+
+0xAEADEDB1 = ~z~Okay, but the money best be right.
+
+0xAF773708 = ~z~Well, you might just be in luck.
+
+0xB18AF551 = ~z~Glad you dropped in. I've got that, uh... information, you aked for?
+
+0xB88D19DD = ~z~I knew I picked the right feller to speak to.
+
+0xBBBE0295 = ~z~Well, don't stand on ceremony.
+
+0xBC778944 = ~z~He'll pay you well for it. It's a fragile cargo, so go easy.
+
+0xC8BEBA40 = ~z~Well, you might just be in luck.
+
+0xCA95C730 = ~z~Oh it is, Arthur...I promise, it's very right.
+
+0xCFFBAEAF = ~z~Oh hello. I'm sorry to say the association of discouraged men has disbanded.
+
+0xD2DD360F = ~z~~sl:0.0:3.0~Good... alright, this is a little different.~sl:0.6~Take the coach and deliver it to my contact.
+
+0xD4E2F696 = ~z~I really think you'll want to take a look at this.
+
+0xD9883E29 = ~z~Do you want this now then? Or... no?
+
+0xD825624F = ~z~Okay, but the money best be right.
+
+0xDDD80884 = ~z~So... erm... what do you think, John?
+
+0xE0B34C3B = ~z~Well hello again. I've got another one... you interested?
+
+0xE6CE2665 = ~z~Well, you might just be in luck.
+
+0xE13E19E8 = ~z~John, how are you? Got something here you might want to take a look at.
+
+0xE522FA00 = ~z~I'm a... how would you say... discouraged man?
+
+0xEB19883B = ~z~He'll pay you well for it. It's a fragile cargo, so go easy.
+
+0xF5A4CFB6 = ~z~But I do worry. It's my curse.
+
+0xF943220C = ~z~Ah I see. Well, in that case, I have something here that might be of interest to you.
+
+0xFCCC2BA0 = ~z~Good... alright. This is a little different. Take the coach and deliver it to my contact.
+

@@ -1,0 +1,92 @@
+0x0AE7A3AE = Pull up ~o~Leon~s~
+
+0x1CD137CC = Rock the chair to escape
+
+0x2F09B55A = You gained honor as you helped Leon and Baptiste
+
+0x3CF2481D = Take out ~e~Fussar's men~s~
+
+0x3F985A2B = Escape from the attackers
+
+0x4AAAE9E3 = Pull right arm
+
+0x5E4ACA53 = Leon
+
+0x6AEB7C5C = Angel killed Arthur.
+
+0x9A9B02C7 = Beat
+
+0x9CD3698D = A worker died.
+
+0x15AB89C4 = Jump up to ~o~Leon~s~
+
+0x15B4BFED = Boost
+
+0x21F21704 = Rock
+
+0x28BA266A = Rock Left
+
+0x46A2BBCB = Accept
+
+0x63BBF0CC = Jump
+
+0x81C3C9F7 = Follow ~o~Leon~s~
+
+0x81DD3613 = Boost
+
+0x92D59D81 = Climb up the ~o~rocks~s~ to help Baptiste
+
+0x95DA0040 = Pull left arm
+
+0x175A933B = Give ~o~Leon~s~ a boost up the wall
+
+0x575F086D = a worker
+
+0x654F5401 = Shoot the ropes of the hanging ~o~workers~s~
+
+0x3199C2A3 = Shoot the ropes to release the workers
+
+0x14026B14 = Fussar's men were alerted.
+
+0x19080CD1 = You lost honor as you chose not to help Leon and Baptiste
+
+0x48389A59 = Press ~INPUT_RELOAD~ to hit the captor
+
+0x56816B8F = Kill the ~e~Hangman~s~
+
+0x165670CD = Reject
+
+0xA5B85425 = Climb
+
+0xA3254EA3 = Rock the chair to escape
+
+0xAC1CA17A = Grapple
+
+0xBF763E21 = Search for the escaped workers with ~o~Leon~s~
+
+0xC28D1F31 = Rock Right
+
+0xCC58FA34 = Captor
+
+0xD07CE4A0 = Get a boost up the wall from ~o~Leon~s~
+
+0xD5AB59FC = Wait for ~o~Leon~s~
+
+0xD447DD6D = Baptiste was killed.
+
+0xD493CFF4 = Look around for a means of escape
+
+0xDCAB2336 = ~a~
+
+0xDE17501D = Leon has died.
+
+0xE50C866F = Baptiste
+
+0xEAC351CE = Pull
+
+0xF5D0B06A = Take out the ~e~captor~s~
+
+0xF26A7220 = Use ~INPUT_LOOK_UD~ to look down at your restraints
+
+0xFBBC1C60 = Baptiste was lost.
+

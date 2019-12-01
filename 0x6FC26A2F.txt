@@ -1,0 +1,40 @@
+0x7C80A46C = ~z~Well? Mercy or justice?
+
+0x7EBC55BB = ~z~Regular charnel house, you must be so proud.
+
+0x8CF9F236 = ~z~A butcher like you could have been one of us.
+
+0x8D1A38B1 = ~z~Let me go, I'll change, I promise.
+
+0x9EDBDC34 = ~z~I don't expect mercy.
+
+0x31DCBBFD = ~z~Every last brother in the dirt, I guess I'm impressed.
+
+0x55DA6B18 = ~z~Coward.
+
+0x575F6E26 = ~z~Hm, weak.
+
+0x619C82A0 = ~z~~sl:1.0~You should have killed me.
+
+0x2189EE68 = ~z~Get it over with.
+
+0x4621CBAB = ~z~Well... 'til we meet again.
+
+0x23961F70 = ~z~All dead and hellbound, every one...
+
+0xA986F18A = ~z~Still breath in my body, what're you gonna do about that?
+
+0xAAAA9BBB = ~z~Just make it quick.
+
+0xB90D907F = ~z~So... you gonna kill me too?
+
+0xBAD03C06 = ~z~Don't flinch!
+
+0xC5EF5244 = ~z~It's time!
+
+0xEBE2831A = ~z~Kill me or spare me, just don't waste my time.
+
+0xFDC341EB = ~z~Like a true Skinner!
+
+0xFE212797 = ~z~I won't beg.
+

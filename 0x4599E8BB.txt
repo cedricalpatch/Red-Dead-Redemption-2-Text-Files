@@ -1,0 +1,12 @@
+0x4A5CF9A8 = ~z~You okay, Dutch?
+
+0x554E0F8A = ~z~Me? Oh, I'm fine... fine... just thinking... you know... thinking.
+
+0x6314AB17 = ~z~You seem... distracted, I suppose.
+
+0xB0CA4681 = ~z~You okay?
+
+0xCC897DFF = ~z~Eh?
+
+0xF31ECB2D = ~z~Excuse me... excuse me.
+

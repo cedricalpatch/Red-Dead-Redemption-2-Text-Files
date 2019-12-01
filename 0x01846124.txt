@@ -1,0 +1,304 @@
+0x003122F2 = Coach Robbery Tip $~1~
+
+0x0073E107 = Sean died.
+
+0x01019B5E = You can target and shoot dynamite to detonate it.
+
+0x029CAB12 = The coach reached Riggs Station.
+
+0x05D8A40C = Leave undetected
+
+0x06D4ED84 = The coach was wrecked.
+
+0x0A41C4AA = You were arrested.
+
+0x0A2068B9 = Take cover and wait for the ~o~coach~s~
+
+0x0D604F61 = The passenger escaped.
+
+0x0E2993A6 = Force the ~o~convoy~s~ to stop
+
+0x0F8432E2 = Lenny was abandoned.
+
+0x1AA1F4D3 = Take cover and wait for the coach
+
+0x1DF48A9C = Antagonize
+
+0x1E5BE9DC = Loot Lock Box
+
+0x1EF0F06F = Ride alongside the coach and use ~INPUT_JUMP~ to jump onto it.
+
+0x2B70A762 = Take ~o~cover~s~ and wait for the coach
+
+0x2BE39756 = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+0x2CD97D4E = You can interact with some objects in the environment to block the road or help set up an ambush.
+
+0x2CE89F0A = Greet
+
+0x2F0BABBF = Deliver the wagon to the ~o~fence~s~
+
+0x2F98107B = Escape the area
+
+0x3A5AEDC3 = Stranger
+
+0x3D5CFFFC = Loot the ~o~coach~s~
+
+0x3E5D26FB = Interrogate the ~o~passenger~s~
+
+0x3E84B34A = Force the ~o~stagecoach~s~ to stop
+
+0x3E86F806 = Interact
+
+0x3FC8035B = Follow ~o~Lenny~s~
+
+0x4B78C06A = Mary-Beth's horse died.
+
+0x4D0DF30A = Take out the ~e~coach guards~s~
+
+0x4D9ACC97 = Return to ~o~Micah~s~
+
+0x5A9305F2 = Bill was abandoned.
+
+0x5C2A1C2B = Stop the ~o~passenger~s~
+
+0x5DD4B121 = Drive carefully to avoid damaging the cargo.
+
+0x5EC1FF0C = Shoot the dynamite
+
+0x5EFCE979 = Micah was abandoned.
+
+0x6B7F45B4 = Stop the ~o~coach~s~
+
+0x6B32283C = Take cover and wait for the ~o~coach~s~
+
+0x6CFC377E = Micah was injured.
+
+0x6F8C3B3A = The coaches were wrecked.
+
+0x7A8D0BB7 = Wait for Sean to take the first shot or take it yourself
+
+0x7B439183 = Return to ~o~Sean~s~
+
+0x7ED28896 = You can use ~INPUT_INTERACT_LOCKON~ while unarmed to talk to the coach driver.
+
+0x8B126762 = Focus camera
+
+0x9E93C6B8 = The law were alerted.
+
+0x9EB4878D = Wait for the convoy to arrive
+
+0x9EECA831 = Tilly died.
+
+0x9F03E04D = Follow ~o~Bill~s~
+
+0x9FC45625 = Wait for the ~o~coach~s~ to stop
+
+0x13B73132 = Mary-Beth died.
+
+0x16CBFA71 = Talk
+
+0x35AF5FA4 = Return to ~o~Bill~s~
+
+0x38BBF6C2 = Loot the ~o~Lock Box~s~
+
+0x41DE1CF7 = Capture the ~o~passenger~s~
+
+0x53ECCCC7 = Force the ~o~convoy~s~ to stop
+
+0x56FA5B64 = Wagon
+
+0x59FEBF13 = You can use a lockbreaker to unlock the compartment at the rear of the coach, or just shoot the lock.
+
+0x62EED001 = Lenny's horse died.
+
+0x67C33A4F = Greet
+
+0x74ABE9EA = Micah died.
+
+0x76A7C1CA = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+0x77D401CF = The coach reached Rhodes.
+
+0x83B659E0 = Wait for the stagecoach to arrive
+
+0x95DDCE01 = Mount your ~o~horse~s~
+
+0x125DC9E5 = Use ~INPUTGROUP_MOVE~ to climb into the driver's seat.
+
+0x272A26F4 = The coach was wrecked.
+
+0x338AEC5C = Loot the cash from the back of the ~o~coaches~s~
+
+0x392C73C2 = The passenger died.
+
+0x394AFB2D = Inspect the note from your Satchel to find out the details of the robbery, and to mark the location on your map.
+
+0x502A974B = Place a dynamite charge on the side of the coach, then shoot it to blow open the door.
+
+0x681C9A5A = Wait for the wagon to arrive
+
+0x715A04FA = Wait for the ~o~coach~s~ to arrive
+
+0x2624C415 = Lenny died.
+
+0x4024CA6F = Wait for the stagecoach to arrive
+
+0x4434D8EA = Wait for Lenny to hold up the ~o~coach~s~
+
+0x5215A7F6 = Follow ~o~Micah~s~
+
+0x5768A9E3 = Sean's horse died.
+
+0x5914A8A7 = Talk to the ~o~passenger~s~
+
+0x9278BFD8 = Some of the cargo is damaged. Drive carefully to avoid damaging any more.
+
+0x9292F72E = Stop Coach
+
+0x34413D95 = Use Knife
+
+0x43581D4E = Follow ~o~Sean~s~
+
+0x73028E22 = Mary-Beth was injured.
+
+0x80037F6A = The coach reached Appleseed.
+
+0x89688B7A = Tilly was abandoned.
+
+0x680311BE = Wait for Bill to plant the dynamite
+
+0x4891198D = Return to ~o~Lenny~s~
+
+0x8168477C = Threaten
+
+0x26762486 = Climb into the driver's seat
+
+0x61538260 = Wait for the wagon to arrive
+
+0x84845925 = Sean was abandoned.
+
+0x96860636 = The loot was destroyed.
+
+0xA1DCA069 = Bill was injured.
+
+0xA3E83DA0 = Escape the law
+
+0xA60EF2D3 = The stagecoaches escaped.
+
+0xA4841E19 = Use Revolver
+
+0xAADD775E = Your horse was injured.
+
+0xAAE1BFD5 = Ride alongside and jump to the ~o~coach~s~
+
+0xAE06F2AA = Take ~o~cover~s~ and wait for the coach
+
+0xAF7E014C = The stagecoach escaped.
+
+0xB97A314F = Mount your ~o~horse~s~
+
+0xB541E11C = Loot Coach
+
+0xB765056A = Mount your ~o~horse~s~
+
+0xB3839578 = Grab Block
+
+0xBA744A8D = The convoy reached Rhodes.
+
+0xBB68B61C = The stagecoach was abandoned.
+
+0xBB3113D2 = Cash
+
+0xBC17272E = The stagecoaches were abandoned.
+
+0xBCF6396D = Take cover and wait for the ~o~coach~s~
+
+0xBEF8A3EA = You can tackle fleeing people with ~INPUT_MELEE_ATTACK~ when running behind them.
+
+0xBF66D078 = Take cover and wait for the coach
+
+0xC1B35A7F = ~o~Ask about moonshine
+
+0xC1F1ADF8 = Steal the ~o~wagon~s~
+
+0xC4BC0D3D = Follow ~o~Sean~s~
+
+0xC5BC5BFF = Mount your ~o~horse~s~
+
+0xC5CB58DD = Seamus was abandoned.
+
+0xC47F924A = Pull out Lock Box
+
+0xC235B563 = Some of the cargo has fallen out of the wagon. Drive carefully to avoid losing any more.
+
+0xC525B05E = The coach reached Strawberry.
+
+0xC4767C3C = Bill's horse died.
+
+0xC25747A8 = Sean was injured.
+
+0xC36687E7 = Tilly was injured.
+
+0xCAAE9057 = Approach the ~o~coach~s~
+
+0xCB64D524 = Follow ~o~Micah~s~
+
+0xD1B57515 = Take ~o~cover~s~ and wait for the ~o~coach~s~
+
+0xD1DFDEFF = Wait for the convoy to arrive
+
+0xD3DA173F = Rob
+
+0xD7A53313 = Follow ~o~Bill~s~
+
+0xD33E5DB8 = Loot the ~o~passenger~s~
+
+0xD61FEA9A = Take ~o~cover~s~ and wait for the coach
+
+0xD73CFF00 = Follow ~o~Lenny~s~
+
+0xD340D2E5 = Take out the ~e~marshals~s~
+
+0xD4678ED9 = Hold ~INPUT_VEH_DRAFT_BRAKE~ to bring the coach to a stop.
+
+0xD54021D4 = Force the ~o~wagon~s~ to stop
+
+0xDA4B51D5 = Blow open the ~o~coach doors~s~
+
+0xDBA43E0C = Lenny was injured.
+
+0xDD0DB3BD = Stagecoach
+
+0xE2E914F6 = Seamus has been intimidated.
+
+0xE5DE4ED6 = Pull Block
+
+0xE6B8BF21 = The wagon reached Rhodes.
+
+0xE8BBF42C = Bring the coach to a stop
+
+0xE105F9DF = Loot the cash from the back of the ~o~coach~s~
+
+0xEE252B7F = Force the ~o~stagecoach~s~ to stop
+
+0xF5EFFB00 = Dynamite
+
+0xF8BA2A6A = Mislead
+
+0xF8ECD3A8 = Talk
+
+0xF47C23EE = You have died.
+
+0xF806951C = Bill died.
+
+0xFAD8CFB4 = Callout
+
+0xFBC6D873 = Shoot the ~e~dynamite~s~ as the coach rolls over it
+
+0xFBD4CC22 = Take cover and wait for the coach
+
+0xFC757BD3 = Micah's horse died.
+
+0xFFE933B1 = Tilly's horse died.
+

@@ -1,0 +1,274 @@
+0x020EBE37 = ~z~You all with your ignorant acceptance of lies.
+
+0x0243AB4D = ~z~The crops will fail. And it won't be because of ju-ju, it will be because of us.
+
+0x0A61F578 = ~z~There's another volume of 'a unifying theory of scientific knowledge'
+
+0x0AC74FAB = ~z~but the universities have tried to silence me!
+
+0x0B5160AD = ~z~make a few men very rich and a lot of men very sick.
+
+0x0CD7F3FD = ~z~Only in America do we consider ignorance to be bliss.
+
+0x0D821983 = ~z~Did you like the bit about the baboons causing the downfall of ancient Rome?
+
+0x0DB3AC94 = ~z~There is good science and there is bad science and that is really the point.
+
+0x1C920E13 = ~z~So don't live in ignorance.
+
+0x1C8402B6 = ~z~Thank you.
+
+0x1DC6AAC5 = ~z~Learn about the miracles of electricity...
+
+0x1F8C35DC = ~z~It's time to save the world.
+
+0x1F78A4BD = ~z~This sick air will not just make us sick, it will make the whole world sick.
+
+0x2AF3C51F = ~z~learn about the great glories of flight and animal husbandry and the incredible energy that lies in all things called radiomography.
+
+0x2B2A106D = ~z~It wasn't one of your gods, but you.
+
+0x3A3E6D45 = ~z~I've got a great bit about how this new craze for dental hygiene will make our pets homosexual.
+
+0x3CAAFB33 = ~z~They're free, take one.
+
+0x3E7B4BFB = ~z~No, thanks.
+
+0x4F0EB25B = ~z~Why do women in the tropics lay eggs? I've got answers, you ignorant fools!
+
+0x5C4F838D = ~z~Listen to me. This is not a joke. Read this book.
+
+0x5C9A19EB = ~z~That's more than most. Much more than most.
+
+0x5D6FF4F8 = ~z~Who made the sky filth and the water dirty and the people sick?
+
+0x6CA9EBCD = ~z~Yes, I-I know it needs a new title, but...
+
+0x6D5FE61A = ~z~This is madness. Sheer unadulterated madness.
+
+0x6E635445 = ~z~We are killing this land. Killing it with greed. Killing it with science.
+
+0x6FA49949 = ~z~We are burning in hell here, and it is all our own fault.
+
+0x7BFCF99A = ~z~No, thank you.
+
+0x8A36A59C = ~z~We need science to save us, not kill us.
+
+0x9A2DABD9 = ~z~Not on science... not on truth, but on greed.
+
+0x9C92BF0A = ~z~To a place where truth lives and where the lies we are told by institutions
+
+0x9D9D8F5D = ~z~You don't need too many eyes to see that we are doomed unless we change our ways.
+
+0x10FC70FE = ~z~No, thank you.
+
+0x12AC4C1E = ~z~The rains won't fall. The winter won't come.
+
+0x14AA8F21 = ~z~It may take ten or fifty or a hundred years or more but this... this filth will kill us all.
+
+0x14EE592F = ~z~So help me god, so strike me down.
+
+0x37FD9F59 = ~z~Listen to me... listen to me. Sir, madam, gather round, gather round...
+
+0x41AAE40D = ~z~Well I opened it... but I didn't understand much.
+
+0x43FD6DC6 = ~z~And why? Because we are stupid. There's another way.
+
+0x47A1880B = ~z~Thank you...
+
+0x48BF5B8C = ~z~so if you're not rich, trust me, you will be sick soon enough.
+
+0x61D1421C = ~z~Did you read the book?
+
+0x66F4220F = ~z~But knowledge... knowledge is the only hope and knowledge starts with the eyes.
+
+0x73C142C9 = ~z~We must think not merely desire.
+
+0x78EED294 = ~z~Did you read the book?
+
+0x85FF9E78 = ~z~Thank you...
+
+0x94C30A3C = ~z~Err yes... quite brilliant, I think.
+
+0x98F88C50 = ~z~Don't turn your back on knowledge just because it frightens you.
+
+0x99C1C5FC = ~z~Thank you... thank you.
+
+0x99E83A4D = ~z~They're free, take one!
+
+0x186CEADA = ~z~Think before you buy into their lies!
+
+0x281DD6B6 = ~z~Take a book, sir. Please.
+
+0x303CAF7E = ~z~They're free, take one!
+
+0x375FE63F = ~z~And this will not be some eternal damnation from above
+
+0x450E00DF = ~z~We must start thinking.
+
+0x566EA5A5 = ~z~~sl:5.1~Well, good luck with that.
+
+0x611CD4B3 = ~z~I've got a great bit about how this new craze for dental hygiene will make our pets homosexual.
+
+0x801DF7BA = ~z~Scoff not... laugh not... deride not... I speak the truth.
+
+0x835A7F7C = ~z~Thank you... thank you.
+
+0x902F9BC4 = ~z~Don't be fooled, this place is every bit as unwholesome and depressing as it looks.
+
+0x947A0806 = ~z~and the truth is we have not got a clue about anything!
+
+0x1230AFBD = ~z~Now, we live in hovels and the water is filth and our children look pale and sick.
+
+0x2727FDA2 = ~z~I make no bones for my testament, for my testament is science and science is god, sir.
+
+0x2832D648 = ~z~like government, the church and university faculties can be exposed for just what they are...
+
+0x3025F178 = ~z~Machines have done a lot of great things and a lot of bad things,
+
+0x6980C9C4 = ~z~The whole world is a single integrated system and we are destroying it.
+
+0x7021C60E = ~z~Not all science is perfect.
+
+0x7646F7F4 = ~z~A hundred years ago, we lived on farms and had clear water in our rivers.
+
+0x9035B2E4 = ~z~Good luck with that.
+
+0x46568B27 = ~z~That's more than most. Much more than most.
+
+0x58982FAA = ~z~Well I opened it... but I didn't understand much.
+
+0x164266A1 = ~z~We are learning new and exciting things every day,
+
+0x370973F5 = ~z~damnation of us all!
+
+0x392670C7 = ~z~It was kind of interesting.
+
+0x580226C7 = ~z~Yes, I know it sounds like madness, but I assure you, I am not mad. Whatever you may think.
+
+0x2850258F = ~z~For we... this... everything, is science.
+
+0x4336979D = ~z~but machines are not the problem... it's the people who use them.
+
+0x62895079 = ~z~Our children were healthy and had clear skin.
+
+0x73105553 = ~z~Open your minds to science... learn about the horrors of industry.
+
+0xA0A23CA9 = ~z~This town represents the very best efforts by some of our finest minds to destroy everything that is good about humanity.
+
+0xA3E6DC0A = ~z~Why is the sky blue? Why are monkeys still tailed?
+
+0xA47BA809 = ~z~I got thrown out of university because I spoke the truth
+
+0xA77DAFB1 = ~z~Yes, it's one of my more outlandish theories but it's quite, quite true...
+
+0xA517C1AD = ~z~This is a land founded on greed.
+
+0xA909A700 = ~z~Our actions, our greed matter and science will save us or it will kill us.
+
+0xA5481841 = ~z~they threw me out of nearly every university on the East Coast... for a reason.
+
+0xAD6214E2 = ~z~Of course, this is a power I will never abuse
+
+0xAD7081DC = ~z~If we accept what we are told, we embrace ignorance, myth and stupidity.
+
+0xAED9E398 = ~z~My book will take you on an incredible journey to the heart of all knowledge.
+
+0xB4F290AC = ~z~People used to believe the world was flat. Don't believe such nonsense.
+
+0xB6A464C6 = ~z~but this is the very manifestation of our greed.
+
+0xB6DC41DA = ~z~Science will save it... not gods, not dreams.
+
+0xB7F86E51 = ~z~There's another volume of “a unifying theory of scientific knowledge”?
+
+0xB77EBCAE = ~z~They threw me out of Harvard, they threw me out of Columbia...
+
+0xB132C31B = ~z~It was kind of interesting.
+
+0xBB2143F3 = ~z~They read my book!
+
+0xBBF303CF = ~z~Take a book, please.
+
+0xBC07B22D = ~z~I can make a woman have a two-headed baby by managing what she eats during conception.
+
+0xBD9A222F = ~z~If we search, we will uncover the puzzle.
+
+0xBEB511AA = ~z~This book is for scientists. Questioners. Men who need answers.
+
+0xBFE86086 = ~z~Did you like the bit about the baboons causing the downfall of ancient Rome?
+
+0xC4E1B917 = ~z~Look around and learn and weep.
+
+0xC7BB69D5 = ~z~Don't be slaves to ignorance.
+
+0xC83A093E = ~z~Yes, I-I know it needs a new title, but...
+
+0xC89A0FB4 = ~z~I'm thinking of another volume.
+
+0xC332FD2B = ~z~Stop believing. Stop dreaming. Start thinking.
+
+0xC7263513 = ~z~So which are you? Ignorant, stupid or mythmaker?
+
+0xCA4D5E05 = ~z~Thank you.
+
+0xCA8CA102 = ~z~Take one of my books. Relieve yourself of ignorance.
+
+0xCBE36BE8 = ~z~We are throttling the very life from this place...
+
+0xCC9F1EBF = ~z~No, thank you.
+
+0xD072B525 = ~z~This book is not for the faint hearted. This book is not for believers.
+
+0xD0D0489B = ~z~All of knowledge is in the world.
+
+0xD1F32266 = ~z~Yes, it's one of my more outlandish theories, but it's quite, quite true...
+
+0xD71F5D92 = ~z~I know it sounds crazy but look around you.
+
+0xD3052C86 = ~z~No, thank you.
+
+0xD11719AB = ~z~The hills shall burn. The rivers shall turn to fire.
+
+0xDE951778 = ~z~Science is a great gift.
+
+0xDFED09E9 = ~z~American industry will do what it always does...
+
+0xE07C7B16 = ~z~but this kind of information in the wrong hands
+
+0xE0CA70E8 = ~z~Laugh you may sir, but the world is in balance and the balance is off...
+
+0xE3A81234 = ~z~I've been here for five years or more now and the world is getting worse.
+
+0xE3CCBF16 = ~z~The land will boil. The sea will dry up. The world will heat. The crops shall whither.
+
+0xE59E853E = ~z~could and will cause a dreadful commotion in the next hundred years.
+
+0xE431C6E3 = ~z~Err, yeah, yeah... quite brilliant, I think.
+
+0xEDC7D30C = ~z~I am a scientist.
+
+0xF0BEE7F9 = ~z~No, thanks.
+
+0xF5EAB6B9 = ~z~None of you seem to be listening.
+
+0xF6CAC285 = ~z~The whole world is an integrated system and we are destroying it.
+
+0xF6CB731B = ~z~They're free, take one.
+
+0xF8A051F5 = ~z~I'm thinking of another volume.
+
+0xF8ED5F1B = ~z~Read this book... it is the future of American science.
+
+0xF25FD3F4 = ~z~Learn about evolutionary theory and the power of moon shadows... all in this book.
+
+0xF33AB593 = ~z~Take a book, sir. Please.
+
+0xF315157D = ~z~We are killing ourselves. Killing ourselves fast and hard and nasty...
+
+0xFAB73F79 = ~z~Those are the only out outcomes...
+
+0xFFEA0B30 = ~z~This is progress? This is the future?
+
+0xFFF9D414 = ~z~The sea runs black. The earth bubbles. The sky is gray...
+

@@ -1,0 +1,1286 @@
+0x00A7BD01 = ~z~It'll raise us higher and higher...
+
+0x00A15F9E = ~z~I know that to be true.
+
+0x0130CAE7 = ~z~I got his letter.
+
+0x018487EE = ~z~Mon dieu.
+
+0x01D0CD64 = ~z~Reason...~rp~ well, that's one word for it.
+
+0x0258F65F = ~z~I'd never be published again.
+
+0x02CD00CA = ~z~~sl:0.0:1.5~Yes, indeed.~lr:~The mayor had such grand plans for our city... and its people.
+
+0x03120382 = ~z~I might be a brute, but I'm not a paid killer. Get out of here and don't mention me, boy!
+
+0x04261766 = ~z~Hold on. It gonna take a fist in your face to persuade you?
+
+0x05BCF4B8 = ~z~what was it?
+
+0x0626D430 = ~z~Love?
+
+0x069B55D0 = ~z~Who is he and where do I find him?
+
+0x06D8F3AF = ~z~and I will save you from yourself...
+
+0x070575BF = ~z~Sure...
+
+0x07B48568 = ~z~And I'll make sure you're left well alone!
+
+0x08B14D14 = ~z~Education is the most wonderful thing.
+
+0x09304AA3 = ~z~Kilgore... you might have known him as.
+
+0x0950E437 = ~z~Please, would you drive? We must catch the professor before he goes.
+
+0x09948AA2 = ~z~Mr. Tacitus Kilgore.
+
+0x099E0097 = ~z~Well he does live over on Rue De Zacharie.
+
+0x09E37222 = ~z~The mayor awaits your check, sir.
+
+0x0A57721A = ~z~let him live a little more.
+
+0x0A194910 = ~z~He's leaving town...
+
+0x0B3780E5 = ~z~Really? I don't remember so well...
+
+0x0B23073D = ~z~might be of some interest to you... maybe not...
+
+0x0BD76940 = ~z~Shall we?
+
+0x0C4F9B70 = ~z~John Marston to meet little professor shitface...
+
+0x0C89BB35 = ~z~A chance to add some dignity to all that wealth.
+
+0x0C81714A = ~z~Look...
+
+0x0CC192F0 = ~z~Why you wanna go and say those...
+
+0x0E451F19 = ~z~I'll be in New Haven...
+
+0x0E650B6D = ~z~he also found out some unsettling news about you.
+
+0x0E89765E = ~z~vulgar puritans at the newspaper.
+
+0x0EE48F2E = ~z~
+
+0x0F03D1BD = ~z~Found this old letter.
+
+0x0F1575BC = ~z~~sl:0.4:2.4~You had an accident, Jean-Marc.~sl:~Thank the Lord our friend was there to find you.
+
+0x0F462371 = ~z~I'm sure you can.
+
+0x0FFA5D0B = ~z~Whoa...
+
+0x1A825EE5 = ~z~You can't do this!
+
+0x1AA5ABA4 = ~z~Oh, I mean Mr. Tacitus, to meet little professor shitface...
+
+0x1AE3C866 = ~z~I might be a brute, but I'm not a paid killer. Get out of here and don't mention me, boy!
+
+0x1B5B8F16 = ~z~Where's
+
+0x1B732E5F = ~z~Sent to an old friend of mine...
+
+0x1C772A53 = ~z~
+
+0x1CA38BA6 = ~z~I'd never be published again!
+
+0x1D919696 = ~z~Move it.
+
+0x1DE2263A = ~z~You had an accident, Jean-Marc. Thank the Lord our friend was there to find you.
+
+0x1E0E3EED = ~z~Now, Jean-Marc, perhaps you can take Mr. Marston...
+
+0x1E33BEF6 = ~z~Because otherwise...
+
+0x1EFA3F45 = ~z~Carry on buddy... or I'll blow a hole in your back from here...
+
+0x1F04F974 = ~z~Good, good..~rp~ You do not look so much like a rhetorician... but, eh,.~rp~  Monsieur Lemieux has placed his faith in you.
+
+0x1F682C2B = ~z~Where do I find him?
+
+0x1F306007 = ~z~An over-educated American can be far, far worse.
+
+0x2A72AC74 = ~z~Hold it right there, you're getting an extra passenger.
+
+0x2A783AE9 = ~z~Of course, of course...
+
+0x2A61095B = ~z~Ah, Mr. Arthur.
+
+0x2B3C4C77 = ~z~Let me live and I'll...
+
+0x2BE1C79F = ~z~Not here. Pick him up.
+
+0x2C1EB626 = ~z~Come sir, if you don't mind. The gallery is just at the end of this avenue.
+
+0x2C4B4FF7 = ~z~Oh, I forget...
+
+0x2CA34180 = ~z~Charity, sir...
+
+0x2D169ACE = ~z~The gallery is just up ahead.
+
+0x2DA6BB93 = ~z~There...
+
+0x2E97A511 = ~z~You're not really going to kill me, are you?
+
+0x2E78462A = ~z~Sorry. I'm looking for...
+
+0x2E87413E = ~z~you're helping people really.
+
+0x2EA54010 = ~z~Hey, hold it, I'm getting in.
+
+0x2EBD4119 = ~z~Where do I find him?
+
+0x2EF54507 = ~z~but I must actually do things.
+
+0x2F02C402 = ~z~Yes, yes...
+
+0x2F3753DD = ~z~this is not right.
+
+0x2FB249DA = ~z~We'll look after you now. Won't we, Mr. Marston?
+
+0x2FEC46F1 = ~z~you shame me, with your vain naivety.
+
+0x2FFDC5F4 = ~z~by any means available to us.
+
+0x3B3F48A6 = ~z~I suppose I can do that almost as well as kill.
+
+0x3B7DAB98 = ~z~Follow me.
+
+0x3B8A2AC9 = ~z~So we are clear, I do not approve of this behavior.
+
+0x3B27D063 = ~z~
+
+0x3B52ECFE = ~z~Saint Denis welcomes you like a son, sir.
+
+0x3B80E45C = ~z~Ah...
+
+0x3C0D5DB3 = ~z~Behave!
+
+0x3C1DBC85 = ~z~Sure...
+
+0x3C9EADD6 = ~z~I got his letter.
+
+0x3D22E27F = ~z~and an appeal to your better nature.
+
+0x3D89610B = ~z~we will strive to improve the city's moral backbone...
+
+0x3DAE6159 = ~z~Within reason, yes.
+
+0x3DB1E27C = ~z~Oh, how I long for the luxury to have principles such as you...
+
+0x3DB6E28A = ~z~I see now...
+
+0x3DD233EA = ~z~I was going through his records...
+
+0x3E2F36A3 = ~z~You can't.
+
+0x3EB440CA = ~z~You're a good man.
+
+0x3ECA8CAE = ~z~One that might upset some people. Myself included.
+
+0x3EE96CDF = ~z~
+
+0x3EEDFF8C = ~z~and I'm French.
+
+0x3F0D9868 = ~z~Okay, it's over now. Let's get moving.
+
+0x4A010954 = ~z~We shall burn in hell for this.
+
+0x4A228F78 = ~z~As I said, he is a beastly man, this professor.
+
+0x4B108B8F = ~z~Thank you.
+
+0x4B923DBD = ~z~Mr. Tacitus.
+
+0x4C0987A9 = ~z~Listen, Mr. Marston...
+
+0x4C76BE2E = ~z~They won't hear anything about you from me.
+
+0x4C533E4D = ~z~I will not be bullied by you, sir. Get outta here!
+
+0x4CB754D8 = ~z~Reason.... well,.~rp~ that's one word for it.
+
+0x4EBB03D6 = ~z~Quick.
+
+0x4F885955 = ~z~Here, here.
+
+0x4FB285D5 = ~z~Why you wanna go and say those awful things?
+
+0x5A02E7BA = ~z~Well...
+
+0x5A22ADB1 = ~z~Best not to make a big drama of things.
+
+0x5AC55BEB = ~z~I know.
+
+0x5B2E9D7D = ~z~Utterly, utterly corrupted, Lemieux.
+
+0x5C905AC6 = ~z~Yes, indeed..~rp~ The mayor has such grand plans for our city... and its people.
+
+0x5D9EDE8A = ~z~Oh, get out of my carriage.
+
+0x5DEC9A23 = ~z~Driver!
+
+0x5E5A6265 = ~z~and I'm a real crook.
+
+0x5E9C4028 = ~z~has come here to verify my paintings...
+
+0x5E77B46B = ~z~I've got this letter.
+
+0x5E94B377 = ~z~Here's hoping.
+
+0x5F5F7A6F = ~z~dirty minded pragmatists like me...
+
+0x5FBBA72E = ~z~I know.
+
+0x6A4BD829 = ~z~I-I'll write my paper this evening, sir.
+
+0x6B283691 = ~z~I know that's true.
+
+0x6BA059F2 = ~z~I-I...
+
+0x6BE1DCA7 = ~z~I suppose I can do that almost as well as kill.
+
+0x6C7F14BE = ~z~but with learning...
+
+0x6CB441A5 = ~z~Oh, no. This is not most impudent...
+
+0x6CCA414B = ~z~What a silly, silly, misunderstanding.
+
+0x6CDE5EAE = ~z~now people are gonna see these paintings and love 'em...
+
+0x6D7E2D23 = ~z~I don't know.
+
+0x6D9FB2A1 = ~z~but not the whole truth.
+
+0x6D763E82 = ~z~Go on.
+
+0x6DA9C2AE = ~z~My brother, my brother...
+
+0x6DCA857C = ~z~No, no, no, no!
+
+0x6F213A52 = ~z~I couldn't, my reputation!
+
+0x6FAA31AE = ~z~How about your reputation now?
+
+0x6FB2DF45 = ~z~This is gonna hurt, but it's for the best.
+
+0x7A88FA03 = ~z~so you really are helping people.
+
+0x7AC7D5D0 = ~z~You know they say...
+
+0x7AFA7B33 = ~z~There, Mr. Arthur, there.
+
+0x7B77D968 = ~z~Sir, he is getting away.
+
+0x7BB7ECC1 = ~z~Trust me, I've done much worse.
+
+0x7C097BA4 = ~z~Of course we don't.
+
+0x7C37EF21 = ~z~Problem solved.
+
+0x7CD88EF9 = ~z~Here... enjoy.
+
+0x7D82F161 = ~z~Exactly.
+
+0x7DB2B001 = ~z~Hello, hello.
+
+0x7DFED967 = ~z~it's better to give than to receive...
+
+0x7E5B4A8F = ~z~Actually, you will be bullied by me...
+
+0x7E7DE538 = ~z~trust me, buddy.
+
+0x7E65BF9D = ~z~I give you my word!
+
+0x7EF82C88 = ~z~You would not be so stupid.
+
+0x7F3D56BC = ~z~but not the whole truth.
+
+0x7F80EE97 = ~z~I'm afraid he's going to open his mouth...
+
+0x7F625626 = ~z~Well, perhaps true...
+
+0x8AB0CA41 = ~z~it's the mere threat of violence.
+
+0x8BA42193 = ~z~So, it turns out...
+
+0x8BACF369 = ~z~
+
+0x8BC4BACD = ~z~just think of the prestige.
+
+0x8BC5DE24 = ~z~I will pay you handsomely.
+
+0x8BFF8F21 = ~z~Maybe I'll just kill you, make this all go away.
+
+0x8CCBC82F = ~z~Remember, sir, I am the mayor.
+
+0x8D4F7E3C = ~z~Is that my business?
+
+0x8D6ABF01 = ~z~Yes...
+
+0x8D439D38 = ~z~please...
+
+0x8D867D85 = ~z~Do not waste this opportunity. There, he is going.
+
+0x8D9463B0 = ~z~Mr. Kilgore.
+
+0x8D690827 = ~z~Thank you.
+
+0x8E5B21A7 = ~z~Because otherwise...
+
+0x8E7CF45B = ~z~vulgar puritans at the newspaper.
+
+0x8E838643 = ~z~Well, well, well...
+
+0x8EB87ADA = ~z~You know they say...
+
+0x8F8DC227 = ~z~Tacitus Kilgore.
+
+0x9A107AB9 = ~z~Jean-Marc, I will miss you...
+
+0x9AC2DACD = ~z~Mr. Marston.
+
+0x9AC75733 = ~z~Believe me, friend.~rp~ You ain't seen beastly yet. Not even close.
+
+0x9AD958CE = ~z~Don't worry about it...
+
+0x9B60DC75 = ~z~By helping to finance the library in town...
+
+0x9B8239B5 = ~z~You know I'm right, professor...
+
+0x9BA11DA1 = ~z~They will see you. Come on.
+
+0x9C9EBCCE = ~z~Very good, professor.
+
+0x9DE73247 = ~z~Professor? Excuse me.
+
+0x9DF0CC53 = ~z~I relent! I relent!
+
+0x9E2B9C9F = ~z~There's a good man in there...
+
+0x9E57BF9E = ~z~and he's saying that they are all fake.
+
+0x9EE3878B = ~z~~sl:0.0:1.9~Looks can be deceiving.~lr:0.4~The mayor understands just what I can do, I'm sure.
+
+0x9EFD6C92 = ~z~Now, now. Don't get thoughts above your station.
+
+0x9F0EB78C = ~z~Come on, let's see your boss.
+
+0x9F6F84A6 = ~z~Quick, Mr. Marston, bring him around the back.
+
+0x9F1204B0 = ~z~Kill him?
+
+0x9F4164EA = ~z~Come in.
+
+0x9F24606C = ~z~this is a good cause...
+
+0x12CE62B3 = ~z~There, Mr. John, there.
+
+0x15FA21F3 = ~z~I'll destroy him.
+
+0x18A15574 = ~z~Oh, hello, friend.
+
+0x19AF233A = ~z~No, the back. Pick him up again.
+
+0x19F0AB42 = ~z~Hello.
+
+0x20A1505C = ~z~I'm afraid that's just hard cheese.
+
+0x21D9262C = ~z~You have not spoken to him. Quick. Follow him.
+
+0x23A72B7E = ~z~is really far less important than a broken nose.
+
+0x26DA91FF = ~z~as long as you two are friends again.
+
+0x27DF528F = ~z~Exactly.
+
+0x27E2BF60 = ~z~you've done so much, but...
+
+0x28FE4855 = ~z~Bonne chance.
+
+0x29AE2BBB = ~z~Oh, it's you.
+
+0x31F60592 = ~z~Luckily there ain't too many of those over-educated Americans around.
+
+0x33E7237F = ~z~Without it we are savages...
+
+0x37F5E764 = ~z~Now, he ain't with us no more but...
+
+0x40B56AA4 = ~z~Uh, I'm...
+
+0x43E0812D = ~z~awful things about me, buddy?
+
+0x45A370DF = ~z~Behave yourself!
+
+0x49EFEB6E = ~z~Hey, hold it, I'm getting in.
+
+0x55BD3044 = ~z~The thing is...
+
+0x57EBB1A7 = ~z~But, these are good paintings.
+
+0x58BF2293 = ~z~You got what you came for. Ain't that enough?
+
+0x58C587BD = ~z~Please. Alright. Alright.
+
+0x58D11EF8 = ~z~Where's what his name?
+
+0x58E61A09 = ~z~This is most impudent.
+
+0x59B28D1B = ~z~and say things that aren't true to those...
+
+0x59CF2334 = ~z~I'm sorry to ask this of you...
+
+0x60A4136F = ~z~Ouch.
+
+0x60EF383A = ~z~Bonne chance.
+
+0x63FEAF58 = ~z~Jean-Marc. Well, we've been so...
+
+0x65EDC28D = ~z~Not initially.
+
+0x66A04322 = ~z~Please, come on!
+
+0x67FCF346 = ~z~But the mayor...
+
+0x68F87731 = ~z~there's all kinds of nasty people who want to speak to you...
+
+0x71B75A3D = ~z~I'd never be published again.
+
+0x71DDE6AB = ~z~So perhaps he can be persuaded to revise his opinion.
+
+0x73D3DE03 = ~z~Now, Jean-Marc, perhaps you can take Mr. Arthur...
+
+0x73D94168 = ~z~He mentioned your assistant...
+
+0x75CE4FCB = ~z~Y-yes sir...
+
+0x76A4B3E2 = ~z~Now, sir. I am afraid that you must kill him.
+
+0x76A35466 = ~z~I've been supplanted in your esteem by a wanted murderer.
+
+0x76E9C631 = ~z~Oh, Arthur, it's you.
+
+0x77FA5392 = ~z~What sort of news?
+
+0x78E06CF3 = ~z~Believe me, friend. You ain't seen beastly yet. Not even close.
+
+0x81A4A9B1 = ~z~Hello.
+
+0x82BC8748 = ~z~Ouch indeed.
+
+0x85CA4030 = ~z~Education is the most wonderful thing...
+
+0x88B9A1E5 = ~z~Maybe I'll just kill you, make this all go away.
+
+0x88D84E4D = ~z~The mayor knows very well what I found. Every painting was a brazen fraud.
+
+0x88E4B1CF = ~z~Go on, do your dirty work and leave.
+
+0x89A5CF0B = ~z~Here, here.
+
+0x90CE1051 = ~z~and we are friends.
+
+0x90ED23A9 = ~z~selling me some destitute aristocrats' collection of old masters...
+
+0x91DD87E9 = ~z~you see, professor...
+
+0x92D9F7DA = ~z~So?
+
+0x92F11577 = ~z~Jean-Marc...
+
+0x93E64E34 = ~z~Oh, really?
+
+0x94CB9F04 = ~z~the mayor asked me to give you this.
+
+0x94E71184 = ~z~well, as long as you two are friends again.
+
+0x96B46928 = ~z~why in fifty years man will put down his guns...
+
+0x97B0A5AE = ~z~Trust me, I've done a lot worse.
+
+0x191F6725 = ~z~I don't feel so well.
+
+0x216FA12A = ~z~There's a good man in there...
+
+0x242BFC0D = ~z~You'll spot him on the road through the Bayou.
+
+0x250A4EF9 = ~z~a place of culture to elevate people's souls...
+
+0x273A0229 = ~z~he certainly won't like my heavy handed approach.
+
+0x340B2380 = ~z~Oh,.~rp~ they change all the time...
+
+0x348DE44B = ~z~~sl:0.0:0.6~You know,~lr:~I thought we French had a monopoly on arrogance, but no.
+
+0x359C6299 = ~z~No...
+
+0x364BD9F2 = ~z~Yeah...
+
+0x387A4883 = ~z~Just going to talk to your passenger a moment.
+
+0x395F4E1F = ~z~Oh... oh, wait, wait!
+
+0x402E52BB = ~z~
+
+0x426D5C6B = ~z~Yeah, he had a fall... he might be a little woozy.
+
+0x446E4D26 = ~z~I thought I might...
+
+0x462F5463 = ~z~
+
+0x495BB918 = ~z~Oh, hello, sir.
+
+0x508AE477 = ~z~You've made your decision. Goodbye.
+
+0x541E9E8B = ~z~Thank you.
+
+0x547A065E = ~z~see that wasn't difficult.
+
+0x640C025C = ~z~How can I help?
+
+0x645A8552 = ~z~One that's going to upset a lot of people. Myself included.
+
+0x681FBD95 = ~z~Thank you, Mr. Marston.
+
+0x686B7303 = ~z~Charity, sir...
+
+0x687C1980 = ~z~Then he's gonna really hate my heavy handed approach.
+
+0x744D9C53 = ~z~Thank you, Mr. Arthur.
+
+0x756C50D8 = ~z~so we will run this city like men of honor like you said.
+
+0x765A9269 = ~z~But the mayor...
+
+0x765BE209 = ~z~Here's hoping.
+
+0x780C9681 = ~z~Now, you are not going to rob me, like your friend...
+
+0x780F5002 = ~z~Get your hands up!
+
+0x795B96E3 = ~z~the Mayor?
+
+0x829A38EC = ~z~Thank you, Mr. Marston.
+
+0x839F6EF5 = ~z~You see the problem is, principles will destroy us all.
+
+0x864D2FB6 = ~z~No...
+
+0x887FCB43 = ~z~We need all our strengths...
+
+0x900B8857 = ~z~But this is for a great cause...
+
+0x931A62D1 = ~z~That's a big claim.
+
+0x962BEB65 = ~z~The mayor's orders is the mayor's orders, see? You should have stayed in line.
+
+0x1071BC2B = ~z~Why are you doing this?
+
+0x1256FC4B = ~z~Oh, Jean-Marc. We had to save you from yourself. Don't you see?
+
+0x1258B3CB = ~z~Now I have a train to catch back to New Haven.
+
+0x1875E92E = ~z~Aah... come in.
+
+0x1906F9F0 = ~z~and him.
+
+0x1957A3A6 = ~z~this is an old field guide...
+
+0x2394B7B8 = ~z~It will bring this city back to life if it kills me...
+
+0x2489FDF1 = ~z~Against Hector Fellowes' worse nature.
+
+0x2742C9B5 = ~z~An over-educated American can be far, far worse.
+
+0x3278DF6C = ~z~We have gone wrong, no.
+
+0x3292EA0A = ~z~Terrifying? Yes.
+
+0x3790F1F2 = ~z~Oh he's been so beastly.
+
+0x3956F596 = ~z~and have a word with him?
+
+0x4153E56D = ~z~Just going to talk to your passenger a moment.
+
+0x4234E4AF = ~z~you see, that wasn't difficult.
+
+0x4236DE24 = ~z~might be the one to settle up...
+
+0x4275EF61 = ~z~Oh, Jean-Marc. We had to save you from yourself. Don't you see?
+
+0x4649A86C = ~z~I didn't hear you.
+
+0x4732E5CC = ~z~this is magnificent.
+
+0x4865B418 = ~z~and for a wealthy man such as yourself...
+
+0x5157A641 = ~z~we don't want that.
+
+0x5218DFE2 = ~z~and the calling of higher, better men.
+
+0x5621B127 = ~z~Don't be ridiculous, killing?
+
+0x5709D040 = ~z~Mr. Fellowes, ain't it?
+
+0x6166F76A = ~z~Oh, it's you.
+
+0x6358A067 = ~z~I'm worried that he's going to open his mouth...
+
+0x6629CE23 = ~z~I can't make the difference...
+
+0x6952C23B = ~z~Jean-Marc...
+
+0x6974BD5E = ~z~Yeah, he had a fall... he might be a little woozy.
+
+0x8208F535 = ~z~No, no, no.
+
+0x8587E4C5 = ~z~between the two of ya.
+
+0x8753F6E0 = ~z~What the hell do you want?
+
+0x8899FBA8 = ~z~Where am I? Lemieux... what have you done?
+
+0x8918B455 = ~z~and I'm a real crook.
+
+0x8999B4D8 = ~z~As I said, he is a beastly man, this professor.
+
+0x9156C4D1 = ~z~I can get a whole lot more impudent, but...
+
+0x9397AEC0 = ~z~Oh, I'm sorry... was that... “yes I'd like to finance the library for the common good”?
+
+0x9672A340 = ~z~Saint Denis welcomes you like a son, sir.
+
+0x9810E4BD = ~z~Sir.
+
+0x9926CEE3 = ~z~What's his name again?
+
+0x11036BC9 = ~z~~sl:0.0:4.0~Good, good.~rp~ You do not look so much like a rhetorician...~sl:~but, eh,~rp~ Monsieur Lemieux has placed his faith in you.
+
+0x12107DEA = ~z~Okay, drive.
+
+0x14688FEA = ~z~You, you shame me.
+
+0x15894CB9 = ~z~You know, I thought we French had a monopoly on arrogance, but no.
+
+0x17358CB6 = ~z~Been a pleasure.
+
+0x19741B22 = ~z~Mr. Fellowes, ain't it?
+
+0x22113F52 = ~z~Luckily there ain't too many over-educated Americans around.
+
+0x22272B67 = ~z~No, sir...
+
+0x23876C50 = ~z~No, don't worry about it...
+
+0x24156B78 = ~z~a chance to add some dignity to all that wealth.
+
+0x30653A81 = ~z~he here?
+
+0x36240E75 = ~z~and an appeal to your better nature.
+
+0x41337CE1 = ~z~Eh, this is not the way.
+
+0x41475E97 = ~z~You change your mind yet?
+
+0x44278B3F = ~z~So?
+
+0x52811BB4 = ~z~those pictures are all real after all.
+
+0x53145E6E = ~z~and saw there was a matter outstanding...
+
+0x53581C92 = ~z~Come on... please...
+
+0x53766ECE = ~z~But, a-all I did was love too much.
+
+0x55440AC9 = ~z~and certainly in the case of a beating...
+
+0x74596A82 = ~z~Ouch.
+
+0x78866C86 = ~z~The mayor's orders is the mayor's orders, see? You should have stayed in line.
+
+0x81010C4D = ~z~Wonderful, wonderful.
+
+0x83942C70 = ~z~Who needs killing?
+
+0x89959D50 = ~z~Stop the coach!
+
+0x98003A47 = ~z~He wasn't initially...
+
+0x104164CD = ~z~about my friends, and him.~n~~m~I, I'll leave you out of it.
+
+0x138289CB = ~z~Hold it right there, you're getting an extra passenger.
+
+0x264043F9 = ~z~I thought maybe I would be of assistance instead.
+
+0x292429AF = ~z~and say things that aren't true to those...
+
+0x374315E1 = ~z~I might be a brute, but I'm not a paid killer. Get out of here and don't mention us, boy!
+
+0x497197D5 = ~z~You know I'm right, professor...
+
+0x500454A5 = ~z~Oh, who are you?
+
+0x517157BF = ~z~To convince him to make good on his promise...
+
+0x579719A3 = ~z~The poor boy... Jean-Marc, can you hear me?
+
+0x582913E8 = ~z~How do you mean?
+
+0x655905FD = ~z~Okay, drive.
+
+0x693857AF = ~z~
+
+0x696939F2 = ~z~You've not changed at all.
+
+0x818387F8 = ~z~So you'll send the Mayor what he needs?
+
+0x830074B6 = ~z~Please, I'm a public servant...
+
+0x889894C2 = ~z~Very good.
+
+0x889936E6 = ~z~Me too...
+
+0x1028088E = ~z~I can be a whole lot more impudent than this.
+
+0x1146131B = ~z~and it probably shall.
+
+0x3960160D = ~z~The mayor?
+
+0x5898757A = ~z~Kill him?
+
+0x6615851B = ~z~Quick, Mr. Arthur, bring him around the back.
+
+0x6863175F = ~z~Your sin is deluded vanity.
+
+0x7293395B = ~z~I relent! I relent!
+
+0x8517628C = ~z~Come in.
+
+0x8897716F = ~z~it's better to give than to receive...
+
+0x9773692A = ~z~But, the rich can be so very self-absorbed.
+
+0x10779748 = ~z~and have a word with him?
+
+0x17759484 = ~z~Come now!
+
+0x34234691 = ~z~you should let him live a little more.
+
+0x34355805 = ~z~But what?
+
+0x35829046 = ~z~but you are not a very popular man...
+
+0x38479051 = ~z~What was that?
+
+0x57233338 = ~z~please...
+
+0x58339496 = ~z~The thing is now...
+
+0x65037067 = ~z~They won't hear anything about you from me.
+
+0x70325188 = ~t~In French: Christ above.
+
+0x70840650 = ~z~But...
+
+0x75410718 = ~z~What's his name again?
+
+0x86027033 = ~z~I-I.. yes I see that now.
+
+0x99939090 = ~z~Hold up.
+
+0xA04FE5E7 = ~z~Yeah, there's always a but.
+
+0xA052BF3F = ~z~What silly, silly men we have been.
+
+0xA05D984E = ~z~We'll look after you now. Won't we, Mr. Arthur?
+
+0xA08E833D = ~z~Adieu, monsieur... please!
+
+0xA1B78BF6 = ~z~John Marston.
+
+0xA1C6BEBF = ~z~~sl:0.0:2.8~It would be a travesty for this one man's “opinion”...~sl:1.5~to put that into jeopardy.
+
+0xA2F3E27D = ~z~Professor Shiftacre.
+
+0xA3F27CC0 = ~z~Heading to his country estate...
+
+0xA5B723B4 = ~z~Here...
+
+0xA7F5839E = ~z~The Mayor sent it to a friend of mine...
+
+0xA8CB5447 = ~z~No, n-n-no, sir. You're right...
+
+0xA18B9B58 = ~z~look at these beautiful books.
+
+0xA32BAA85 = ~z~an academic reputation...
+
+0xA56E313B = ~z~We must go. Now.
+
+0xA122B1DA = ~z~I'm sorry to ask this of you, but...
+
+0xA249ADCF = ~z~Yes?
+
+0xA283A04F = ~z~
+
+0xA399B828 = ~z~Thank you.
+
+0xA720E38D = ~z~Actually, you will be bullied by me...
+
+0xA831A8C0 = ~z~Come in.
+
+0xA946DC3E = ~z~What was that?
+
+0xA2408B69 = ~z~you are, you are lost to reason.
+
+0xA5474E1F = ~z~you see, professor...
+
+0xA7823DB9 = ~z~What sort of news?
+
+0xA423938D = ~z~
+
+0xA8837422 = ~z~I'm sorry.
+
+0xAA313C18 = ~z~Yes, and you say you've changed...
+
+0xAA663235 = ~z~and certainly in the case of a beating...
+
+0xAAFB9DDB = ~z~Yeah, but you're running your mouth about me, buddy...~n~~m~I, I'll leave you out of it.
+
+0xAB071051 = ~z~that's the point.
+
+0xABDAAF16 = ~z~I'm worried that he's going to open his mouth...
+
+0xACB6FC79 = ~z~Hello...
+
+0xACC50821 = ~z~I know you are a dog, but you are my dog... remember.
+
+0xAD24FFFD = ~z~think of the prestige, sir.
+
+0xAD435E67 = ~z~No, no...
+
+0xAD56541B = ~z~Why you wanna say those...
+
+0xADA0A1CD = ~z~I really shall.
+
+0xAF4CD804 = ~z~Come on, let's go see your boss.
+
+0xAF4EE8E8 = ~z~Problem solved.
+
+0xAF5601C7 = ~z~there's all kinds of nasty people want to speak to you...
+
+0xAF87547B = ~z~So...
+
+0xAFA9D5CC = ~z~Ah, hello?
+
+0xB04238C5 = ~z~Mr. Arthur, he got them for us.
+
+0xB0EC57B9 = ~z~You wouldn't shoot a sad little man, would you?
+
+0xB0EC8604 = ~z~Uh, I forget.
+
+0xB1D5E89C = ~z~don't make me upset with you again.
+
+0xB3D28AB0 = ~z~Okay.
+
+0xB3DAAFA1 = ~z~but, I'm a man of my word.
+
+0xB5A7E4BA = ~z~This is gonna hurt but, it's for the best.
+
+0xB5CD8DBE = ~z~Oh, no. It's not most impudent...
+
+0xB8DB74A5 = ~z~Only this even nastier little man from New Haven...
+
+0xB9C745B0 = ~z~Who needs killing?
+
+0xB18B137D = ~z~Why you wanna say those awful things about me, buddy?
+
+0xB53AD92A = ~z~I do not talk about idle gossip.
+
+0xB70CF0CA = ~z~do not get me upset with you again.
+
+0xB78F2BBA = ~z~The mayor asked me to get a preview of your findings in there.
+
+0xB79FE59A = ~z~Oh he's been so beastly.
+
+0xB82FD6BE = ~z~Follow me.
+
+0xB146B069 = ~z~Here... enjoy.
+
+0xB234D55E = ~z~but please have it... it's worth quite a bit.
+
+0xB300E992 = ~z~There...
+
+0xB497C090 = ~z~Jean-Marc, he's a little histrionic.
+
+0xB954E454 = ~z~You gonna think of your reputation when your brain is jelly?
+
+0xB1901D35 = ~z~Stop the coach!
+
+0xB3526B8B = ~z~Art...
+
+0xB3672DB6 = ~z~Yeah, and I see now that you are a horrible little wretch...
+
+0xB3692F59 = ~z~How can I help?
+
+0xB4370CA1 = ~z~Monsieur Lemieux?
+
+0xB5546AD6 = ~z~Hi there.
+
+0xB70417EA = ~t~In French: My God!
+
+0xB2953070 = ~z~You changed your mind?
+
+0xB6789034 = ~z~The mayor is a crook.
+
+0xB7729900 = ~z~I'm sorry... was that... “yes I would like to finance the library for the common good”?
+
+0xBB457859 = ~z~that it turns out he may have been painting himself.
+
+0xBBA3F0B6 = ~z~awful things about me, buddy?
+
+0xBC2BB09B = ~z~Oh, hello...
+
+0xBC7D2DD5 = ~z~on a coach.
+
+0xBD6D09F1 = ~z~That is a big claim.
+
+0xBD14D3DE = ~z~Jean-Marc, he's a little histrionic.
+
+0xBD55B4EE = ~z~We've gone over this.
+
+0xBD58C295 = ~z~Lemieux is a foul rat...
+
+0xBDBE629B = ~z~than nothing at all, like you said.
+
+0xBE9AF2A2 = ~z~Here...
+
+0xBF7DB0C3 = ~z~Very good.
+
+0xBF96EC82 = ~z~Go on.
+
+0xBFB26392 = ~z~There...
+
+0xC07D71EF = ~z~Listen, Mr. Arthur...
+
+0xC0D13559 = ~z~because he doesn't like your heavy handed approach.
+
+0xC1F7FA3C = ~z~but, we got there in the end.
+
+0xC2B1EBC2 = ~z~Do not delay.
+
+0xC3AEAB88 = ~z~Quite.
+
+0xC4ADB33D = ~z~But you let me go!
+
+0xC6DD051C = ~z~Uh... John Marston.
+
+0xC7A85A96 = ~z~I couldn't, my reputation!
+
+0xC8BC34BB = ~z~Me too...
+
+0xC9C785B8 = ~z~I couldn't, my reputation.
+
+0xC9EA7B8A = ~z~I promise to change.
+
+0xC15F0157 = ~z~Oh, Jean-Marc, Jean-Marc... I've missed you. I've missed you.
+
+0xC32D02FF = ~z~Who the heck are you?
+
+0xC34FC393 = ~z~I'm afraid that's just hard cheese.
+
+0xC39D6782 = ~z~Now, the mayor awaits your check, sir.
+
+0xC52B8CE7 = ~z~you're very, very, right.
+
+0xC77E332F = ~z~Come in.
+
+0xC78DE13D = ~z~There's always a but.
+
+0xC81A951B = ~z~and what do museums need?
+
+0xC81E7EDD = ~z~that we have done together, for example...
+
+0xC95D9489 = ~z~I don't know.
+
+0xC111C443 = ~z~Now leave me alone.
+
+0xC188A61C = ~z~Oh, really?
+
+0xC541A10A = ~z~Ah, hello?
+
+0xC769B41A = ~z~Nobody. We're not savages, merely Frenchmen.
+
+0xC766662D = ~z~Where's what's his name?
+
+0xC3802923 = ~z~trust me, buddy.
+
+0xC6679719 = ~z~The mayor shall be so pleased.~n~~m~Sure.
+
+0xCBC3269D = ~z~The mayor knows very well what I found. Every painting was a brazen fraud.
+
+0xCBDF7527 = ~z~As you were...
+
+0xCBE91303 = ~z~Opinions can change, can they not?
+
+0xCC1AB200 = ~z~So, it turns out...
+
+0xCC6EC84D = ~t~In French: My God... my God...
+
+0xCCCC3FFF = ~z~are you?
+
+0xCD073D29 = ~z~but you are not a very popular man...
+
+0xCD594B98 = ~z~Get your hands up!
+
+0xCE30132D = ~z~You gonna think of your reputation when your brain is jelly?
+
+0xCEBB5935 = ~z~and start living a life of relentless purity.
+
+0xCEBF7733 = ~z~Ah, come on yes.
+
+0xCF4B667A = ~z~He'll betray you just like he's betrayed me.
+
+0xCF93D96A = ~z~Violence is never right.
+
+0xD03C308E = ~z~I couldn't, my reputation.
+
+0xD0B4A559 = ~z~an academic reputation...
+
+0xD1C3C7BA = ~z~Welcome to government.
+
+0xD2DF67DE = ~z~I will do God's work.
+
+0xD2FCDE3D = ~z~and who... who are you?
+
+0xD4D9170E = ~z~Rue De Zacharie.
+
+0xD5B67254 = ~z~and a sinner yourself.
+
+0xD5C51B22 = ~z~and say things.
+
+0xD5D31A4A = ~z~Saying nasty things about the work...
+
+0xD6FAD100 = ~z~Now, you are not going to rob me again, are you?
+
+0xD7C23152 = ~z~I buy art off some nasty little man from Paris...
+
+0xD18F0365 = ~z~Been a pleasure.
+
+0xD21A497B = ~z~Of course, I'm a politician.
+
+0xD77D2123 = ~z~I got to punch you to chance your mind?
+
+0xD93B0FE6 = ~z~There...
+
+0xD126D728 = ~z~He's a newspaper man, and he's...
+
+0xD979C20A = ~z~The mayor asked me to get a preview of your findings in there.
+
+0xD3010F41 = ~z~Yes?
+
+0xD4356EF6 = ~z~It must be so. Please.
+
+0xD4858F09 = ~z~because I'm the mayor, Jean-Marc...
+
+0xDAB3570E = ~z~We shall have true liberal democracy....~rp~ working for the rich and the poor alike.
+
+0xDB38CCF8 = ~z~Professor? Excuse me.
+
+0xDC34DC94 = ~z~please, Mr. Kilgore. Or what was it?
+
+0xDCA6A7F1 = ~z~Oh no... no, of course not...
+
+0xDD5C4506 = ~z~all those paintings were real after all.
+
+0xDD22F861 = ~z~
+
+0xDE168078 = ~z~But you're running your mouth...
+
+0xDEADAE53 = ~z~My pleasure.
+
+0xDEED72B5 = ~z~Who is he and where do I find him?
+
+0xDF01222B = ~z~people are going to look at those paintings and love them, so...
+
+0xDF1C06BE = ~z~John Marston.
+
+0xDF843478 = ~z~Oh my Lord...
+
+0xDFDB6998 = ~z~Please!
+
+0xE097BBAB = ~z~It is the other way to the gallery.
+
+0xE0A61F98 = ~z~Hold up.
+
+0xE0BCB7D3 = ~z~Sorry I'm...
+
+0xE1AE7BA0 = ~z~My name's John Marston...
+
+0xE1C37DC9 = ~z~I agree with you.
+
+0xE3A8516D = ~z~So, it turns out...
+
+0xE5A56CF2 = ~z~It would be a travesty for this one man's “opinion”... pah!.~rp~ To put that into jeopardy.
+
+0xE5C5936E = ~z~Well, I thought I might.
+
+0xE5CEF204 = ~z~Okay.
+
+0xE5D9E288 = ~z~I can't hear you.
+
+0xE6D28A98 = ~z~Hold on. I see it's gonna take a fist in your face to persuade you.
+
+0xE6E2AB35 = ~z~drive on!
+
+0xE6F79675 = ~z~I'm here seeing if I can be of any help.
+
+0xE9B2852C = ~z~Very good, professor.
+
+0xE9C60DCE = ~z~But it's not violence...
+
+0xE9FC5E42 = ~z~Was Professor Shiftacre happy to change his mind?
+
+0xE15C28B6 = ~z~within my reason...
+
+0xE61A8478 = ~z~I'm an old friend of err...
+
+0xE81C99FC = ~z~Oh, they change all the time...
+
+0xE86F18E4 = ~z~I'd never be published again!
+
+0xE223D45D = ~z~I got to punch you to chance your mind?
+
+0xE301EA36 = ~z~Democracy, an interesting idea.
+
+0xE937C113 = ~z~Is that my business?
+
+0xE2191B9A = ~z~Look at these beautiful books...
+
+0xE6134A74 = ~z~Go to the right up here.
+
+0xE84029CC = ~z~Well, perhaps true...
+
+0xE640264A = ~z~When I get in, you carry on.
+
+0xEA544440 = ~z~How do you mean?
+
+0xEA643314 = ~z~As you were...
+
+0xEAADC6C1 = ~t~In French: My God.
+
+0xEB8D5C00 = ~z~You see, I've been trying to open a major museum...
+
+0xEB9D4075 = ~z~Follow me please, Mr...
+
+0xEBE1DA53 = ~z~Erm...
+
+0xEBE9AF65 = ~z~Oh, the poor boy... Jean-Marc, can you hear me?
+
+0xED6D968D = ~z~make civics and ethics less a work of...
+
+0xED9B0517 = ~z~Don't be a monster!
+
+0xED10DEF1 = ~z~I'll be in New Haven...
+
+0xEDC952B3 = ~z~I relent! I relent!
+
+0xEEBD4E72 = ~z~I have two copies of this book...
+
+0xEF2F8006 = ~z~Opinions can change, can they not?
+
+0xEF69E163 = ~z~So you're gonna send the mayor what he needs?
+
+0xEF73DA18 = ~z~~sl:0.0:2.4~We shall have true liberal democracy...~sl:~working for the rich and the poor alike.
+
+0xEF204B9C = ~z~Thank you, Arthur.
+
+0xF0C8BC13 = ~z~Hi there.
+
+0xF3D8BF19 = ~z~Ah...
+
+0xF4A1738C = ~z~The mayor shall be so pleased.
+
+0xF4F78D3D = ~z~Dignity?
+
+0xF5C260F4 = ~z~it turns out ...
+
+0xF5D6E629 = ~z~Please, you make a mistake.
+
+0xF6F6CE30 = ~z~Carry on buddy, or I'll put a hole in your back from here...
+
+0xF7D23787 = ~z~My duty.
+
+0xF7FB615C = ~z~What is this?
+
+0xF8A1F613 = ~z~Of course we don't.
+
+0xF8B86ADE = ~z~Best not make a drama of things.
+
+0xF8FF57FC = ~z~because it's better to get something done...
+
+0xF12D1DA7 = ~z~When I get in, you carry on.
+
+0xF23B1954 = ~z~Against whom?
+
+0xF44CB133 = ~z~Against whom?
+
+0xF54C48E4 = ~z~move on!
+
+0xF99F4AD0 = ~z~~sl:2.2~Where am I? Lemieux... what have you done?
+
+0xF303DD69 = ~z~I'm sorry.
+
+0xF386B0D0 = ~z~Of course.~rp~ The power of reason is not to be underestimated.
+
+0xF440EA4F = ~z~and how do you buy art?
+
+0xF508A704 = ~z~Now I've got a train to catch back to New Haven.
+
+0xF1341DD3 = ~z~Looks can be deceiving..~rp~ The mayor understands just what I can do, I'm sure.
+
+0xF5242E93 = ~z~Love?
+
+0xF5261F33 = ~z~I am not so steady on my feet.
+
+0xF27818A6 = ~z~He has a red coach.
+
+0xF45920F5 = ~z~was an old friend of Arthur...
+
+0xF54353C5 = ~z~Quite.
+
+0xFA5BF99D = ~z~Now, it's all very ethical.
+
+0xFA30BC67 = ~z~How's that reputation looking now?
+
+0xFA50300B = ~z~Of course..~rp~ The power of reason is not to be underestimated.
+
+0xFCAAD6C1 = ~z~Driver!
+
+0xFCB5FD5B = ~z~is really far less important than a broken nose.
+
+0xFCEAEACD = ~z~Yes...
+
+0xFD21D1E1 = ~z~Really? I don't remember so well...
+
+0xFD93056F = ~z~but, he came round in the end.
+
+0xFDC13020 = ~z~Alright, wait here.
+
+0xFDD6E4E8 = ~z~Let me see if the Mayor has any use for you.
+
+0xFDF7D437 = ~z~Ah...
+
+0xFE8CA067 = ~z~To help finance a library in town...
+
+0xFEC31FA8 = ~z~for a wealthy man such as yourself.
+
+0xFF2BCFED = ~z~We must go, yes.
+
+0xFF136CCA = ~z~It's all scurrilous lies of course... but...
+
+0xFFF634CA = ~z~to help finance the library.
+

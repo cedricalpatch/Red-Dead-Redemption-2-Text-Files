@@ -1,0 +1,24 @@
+0x3C0D4D18 = ~z~That's me... little miss sensible...
+
+0x4A4BE995 = ~z~Oh Tilly, you're just so sensible!
+
+0x5E4A1191 = ~z~You planning on sprouting wings and flying?
+
+0x91D9909B = ~z~You think there's folks up there, looking down at us right now saying...
+
+0x8166EFB2 = ~z~I never thought about it.
+
+0x949295E9 = ~z~You ever wonder what goes on, on the moon?
+
+0xA33D3362 = ~z~One day, I'd... like to go there.
+
+0xA2413146 = ~z~No... not too often.
+
+0xB7BC43D5 = ~z~You ever been to the moon, Arthur?
+
+0xC3A87438 = ~z~I wonder what goes on on that earth?
+
+0xCCD96E0F = ~z~Oh, sure... but only when it's full.
+
+0xE8EFA63F = ~z~See, Tilly... Arthur's been... we'll go one day, too.
+

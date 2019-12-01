@@ -1,0 +1,368 @@
+0x004D5214 = Alert Scouts
+
+0x01611C2C = You have arrived at the hunting grounds. Search for the Buck nearby.
+
+0x031E7121 = Kidnapping
+
+0x056FA87E = You have arrived at the fishing spot. Select the Fishing Rod from the Satchel to start fishing.
+
+0x05E3C8A7 = GAMBLING
+
+0x067F92D0 = ~o~Detonate~s~ the dynamite
+
+0x0728ADB8 = Bank Robbery
+
+0x08EF7F37 = Rob a Train
+
+0x0B6D7A10 = Your horse was killed
+
+0x0B266516 = Inspect the abandoned ~o~camp site~s~
+
+0x0E9E729E = Loansharking
+
+0x0E99F7D3 = No Activity
+
+0x0ED0CE54 = Interrogate the ~o~poacher~s~
+
+0x0F1F418B = Pull door
+
+0x0F1169D5 = You've killed your target - skin it and take the spoils back to camp.
+
+0x1BA3EB5A = Follow ~o~Charles~s~
+
+0x1C93FB2D = Train Robbery Complete
+
+0x1D851F5B = HORSE BREAKING
+
+0x1DDA3F41 = Poker in Camp
+
+0x1E8CD97A = Fuse spool
+
+0x2A7AADA8 = Coach Robbery
+
+0x2B9E1EFE = Skin the Buck to finish hunting.
+
+0x2BDBD459 = Charles has died.
+
+0x2C6EF907 = FISHING
+
+0x3A2B5DD0 = Riverboat Robbery Complete
+
+0x3A920475 = Return to the ~o~Poacher's camp~s~
+
+0x3B9B41F2 = You were spotted by the patrolman.
+
+0x3C68F95C = Hunting
+
+0x3CA9391E = Play Poker
+
+0x3F079A49 = Return to the ~o~bank~s~
+
+0x3F594079 = Let go
+
+0x4B6ED34D = Tap ~INPUT_PLAYER_MENU~ for Info
+
+0x4BCC55BF = Safe
+
+0x4C5BC1D3 = Rob a Bank
+
+0x4E73E955 = Blackjack
+
+0x4EF07A41 = Escape the ~e~Law~s~
+
+0x4F819B7C = RUSTLING
+
+0x4F15731B = Return to ~o~Charles~s~
+
+0x5A4871F2 = Mount your ~o~horse~s~
+
+0x5AB7A741 = Hideout Complete
+
+0x5CBE9A01 = Bar Complete
+
+0x5E91F365 = play Poker
+
+0x5FE76BA5 = Go to the Saloon
+
+0x6BAAD2CE = General Robbery Complete
+
+0x6D056200 = LOANSHARKING
+
+0x6D815280 = BAR
+
+0x6E6CDF8E = Horse Breaking
+
+0x6FB94F33 = HUNTING
+
+0x7BA71434 = Riverboat Robbery
+
+0x7D8B1408 = KIDNAPPING
+
+0x7DA781FF = Stow the bison hide on your ~o~horse~s~
+
+0x7E7A2E41 = to the Saloon
+
+0x8B111351 = Mission Activity
+
+0x8C409559 = Detonator
+
+0x8D5D0CEF = Home Robbery
+
+0x8E41CAB1 = Beat
+
+0x8F162E08 = Rustling Complete
+
+0x9C8FB69C = Horse Breaking Complete
+
+0x9C32A301 = Return to ~o~Charles~s~
+
+0x9C6470EB = Kidnapping
+
+0x9CE98BE4 = Coach Robbery
+
+0x13FD64BE = Any
+
+0x20E3E41A = Mount your ~o~horse~s~
+
+0x23CFAFEE = Return To Camp Complete
+
+0x26C5BD21 = Respond to Scout
+
+0x30A0D471 = Go Fishing
+
+0x39CE77AC = Camp
+
+0x39DC5792 = play Blackjack
+
+0x40E7BFBE = You abandoned the bank.
+
+0x58CDA607 = Pick up
+
+0x58F61A92 = Bank Robbery
+
+0x72DDA29D = Rob a Stagecoach
+
+0x86A0967D = Open
+
+0x86A18A78 = Follow ~o~Charles~s~ to Rhodes
+
+0x88FED71E = General Robbery
+
+0x90CB8CD6 = Plunger
+
+0x93FF5C1B = Item Request
+
+0x96CC2240 = You ran out of time to enter the vault.
+
+0x182B5FF4 = Play Dominoes
+
+0x191EAF39 = You failed.
+
+0x194A3A71 = Bar
+
+0x237DE38F = Sadie invites Arthur to go hunting with him.
+
+0x276A922E = Charles' horse was killed
+
+0x608F5F9E = Focus Camera
+
+0x627EA3C1 = Question
+
+0x637DC65B = Go Rustling
+
+0x879B5296 = Five Finger Fillet
+
+0x955A9F5F = Follow ~o~Javier~s~ to Chez Porter
+
+0x1858E4FA = Bring down one ~o~bison~s~
+
+0x2806A995 = Patrolman
+
+0x3303EE3D = Dominoes
+
+0x4884B5E4 = Spool
+
+0x5774FB2D = You abandoned Charles
+
+0x6280FD83 = Silently take out the ~e~Patrolman~s~
+
+0x8536CB58 = Subdue
+
+0x9062DBB4 = Return to Javier
+
+0x70102E97 = Return To Camp
+
+0x70398EA5 = Loot the ~o~safes~s~
+
+0x76290CBC = Uncle has died.
+
+0x738275A2 = Interrogate
+
+0x2817166D = ROBBERY
+
+0x6315935A = You attacked Charles
+
+0x7819761F = Use
+
+0x30045418 = Coach Robbery Complete
+
+0x78243670 = Intimidate
+
+0xA04573C5 = Grab
+
+0xA1EBA1B2 = Gambling
+
+0xA7C9919F = Fishing Complete
+
+0xA8BEF179 = ~a~: Thanks, Arthur - I wasn't sure when I'd find time to take care of that.
+
+0xA45A2C13 = Attach the fuse to the ~o~detonator~s~
+
+0xA174246E = Rustling
+
+0xA943498A = Your horse has been fatally injured.
+
+0xAD117625 = Hideout
+
+0xADB557D3 = Gang morale has increased.
+
+0xAE43E348 = Wait for ~o~Javier~s~ to approach scouting spot
+
+0xAE889206 = You killed too many bison
+
+0xAF8D117F = Mount your ~o~horse~s~
+
+0xB1E8853F = Return to the ~o~bison~s~
+
+0xB4D311DD = Wait for ~o~Charles~s~
+
+0xB5E97701 = Hunting
+
+0xB8BEFAB3 = Start Activity
+
+0xB8F3D495 = You alerted the Law.
+
+0xB60CCCD2 = Bank
+
+0xB3481913 = Log Updated
+
+0xBAEFB154 = You ruined the pelt
+
+0xBAF2F15F = Rob a Homestead
+
+0xBCF35936 = Vault
+
+0xBECA28A3 = Gambling Complete
+
+0xBFFC0ACD = Gambling
+
+0xC03862D1 = Your horse has died.
+
+0xC3B3BBCC = Skin the downed ~o~bison~s~
+
+0xC5F6D117 = Choke
+
+0xC7AA7097 = Meet outside of ~o~Shady Belle~s~
+
+0xC8BFCB98 = You abandoned Charles.
+
+0xC27CE675 = Head back to Camp
+
+0xC51E4C92 = RETURN TO CAMP
+
+0xC680BFA2 = play Poker in the Camp
+
+0xC899D703 = Play Poker in Town
+
+0xC714502F = Hide the ~o~Patrolman's body~s~ near your companions
+
+0xC878077E = play Five Finger Fillet
+
+0xD1ABF0EB = Scan the area for something of interest
+
+0xD1B37113 = Hideout
+
+0xD3C7C997 = Return to ~o~Charles~s~ and ~o~Uncle~s~
+
+0xD4B44708 = Fishing
+
+0xD4D4E262 = TRAIN ROBBERY
+
+0xD6EC6FDF = Hide the Patrolman's body near your ~o~companions~s~
+
+0xD6F9FA05 = Return to the abandoned ~o~camp site~s~
+
+0xD8CDA40C = You fired your weapon.
+
+0xD54FD844 = Return to Camp
+
+0xD62E1E14 = Return to the ~o~poacher~s~
+
+0xD74C417E = Invalid Activity
+
+0xD229FD07 = Loansharking Complete
+
+0xDA19854E = Poker
+
+0xDCEBC996 = Play Blackjack
+
+0xDF252099 = Play Five Finger Fillet
+
+0xDF433834 = Saloon
+
+0xDFBDB4E8 = Camp fire
+
+0xE0FD9FC4 = Enter the ~o~vault~s~
+
+0xE3E0E7BE = You became wanted
+
+0xE4F09659 = Bank Robbery Complete
+
+0xE80C7A61 = Train Robbery
+
+0xE87F0B0D = Fishing
+
+0xEA14B2BA = Hunting
+
+0xEA67D28B = Kidnapping Complete
+
+0xEC70F656 = Rustling
+
+0xEEF1639A = Raid a Hideout
+
+0xEEFBD9E6 = Hunting Complete
+
+0xEF01EAF0 = Go Hunting
+
+0xF0F9F5DC = Detonate
+
+0xF1D95C7E = Fishing
+
+0xF49A782E = Poacher
+
+0xF131CFF3 = Follow ~o~Javier~s~
+
+0xF4503B01 = You led the Law to camp.
+
+0xF6825BC2 = STAGECOACH ROBBERY
+
+0xF819858A = Pick up the ~o~fuse spool~s~
+
+0xF834858C = HIDEOUT
+
+0xFA63CF13 = RIVERBOAT ROBBERY
+
+0xFABB07F3 = Mount your horse.
+
+0xFACB3657 = Loot the ~o~Poacher's camp~s~
+
+0xFB3D5474 = Train Robbery
+
+0xFB4C9065 = to Hideout
+
+0xFBC921D4 = You attacked your companion.
+
+0xFC653E0E = Join ~o~Charles~s~ at the wall
+
+0xFD82B56A = BANK ROBBERY
+

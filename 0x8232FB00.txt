@@ -1,0 +1,74 @@
+0x010919ED = ~z~And I'm Jim Milton...
+
+0x5AA1A9DD = ~z~What are you doing here?
+
+0x6A62C807 = ~z~he gave his.
+
+0x6E61F499 = ~z~John Marston.
+
+0x7C1A100D = ~z~Excuse me.
+
+0x7CB46CAA = ~z~He saved my life...
+
+0x7D0EED67 = ~z~my people aren't really a tribe, we're just a...
+
+0x9BD60C07 = ~z~Excuse me...
+
+0x22CE5D77 = ~z~Oh, yes.
+
+0x25BFC016 = ~z~I don't really know.
+
+0x51E11868 = ~z~I'm...
+
+0x70B35600 = ~z~but we're in Canada now.
+
+0x110BB9F2 = ~z~My name is Rains Fall.
+
+0x135C1B4F = ~z~he fell.
+
+0x237E3C8B = ~z~a long time ago now.
+
+0x258CBFB0 = ~z~My son, I suppose...
+
+0x381B64CD = ~z~I...
+
+0x465C8003 = ~z~Ah, well...
+
+0x679BC3DD = ~z~I, I know.
+
+0x797C679E = ~z~I'm sorry. I've got a son.
+
+0x2813C5B6 = ~z~very sorry.
+
+0x7076D6DF = ~z~Oh, it was...
+
+0x905113E3 = ~z~That doesn't surprise me one bit.
+
+0xA24937DB = ~z~bunch of families, I suppose...
+
+0xAA87A96A = ~z~Hello.
+
+0xAC70CD7A = ~z~It's uh...
+
+0xB51B8213 = ~z~With Arthur? Arthur Morgan.
+
+0xC7E1279E = ~z~I don't know.
+
+0xC6037F47 = ~z~And you? I know you had tough times.
+
+0xC6788035 = ~z~He passed away, long time ago.
+
+0xD7D6C789 = ~z~Didn't I meet you a long time ago?
+
+0xD8C2A715 = ~z~And you.
+
+0xD9A92696 = ~z~Tell me, is Arthur...
+
+0xE994EB05 = ~z~Hello.
+
+0xEAF9CB83 = ~z~it's good to see you, Mr. Marston.
+
+0xF94F682E = ~z~Well...
+
+0xFD06ED51 = ~z~Oh, I'm sorry.
+

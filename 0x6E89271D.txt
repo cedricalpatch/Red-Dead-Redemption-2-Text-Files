@@ -1,0 +1,472 @@
+0x04F6B089 = ~1~ is no longer active
+
+0x059F0A55 = Posse Creation
+
+0x06A29E3A = You joined ~1~
+
+0x07564D5F = You rejoined ~1~
+
+0x0832D618 = ~1p~ ~s~ran you over with a wagon
+
+0x083CAC1B = ~1p~ ~s~killed you with a Hatchet
+
+0x090AEEC1 = Representative
+
+0x09E88BE8 = Your Posse couldn't join ~1~ because it was full.
+
+0x0A4B305D = ~1~ was reformed
+
+0x0A91DA7A = ALERT
+
+0x0A613B6C = Defensive will enable in 30 seconds...
+
+0x0AE29C4C = ~1p~ ~s~killed ~2p~ ~s~with a fire bottle
+
+0x0BAC25BD = Your Posse Camp is packing up.
+
+0x0BBB8BCA = ~1~ has become Defensive
+
+0x0C4B8749 = ~1p~ ~s~downed you
+
+0x0C38ACE7 = Posse Invite sent to ~1~
+
+0x0F3A43FD = Your bounty has been reduced by ~1$~, the bounty on your head is now ~1$~.
+
+0x0F3C3D95 = You can't invite a player while on a mission
+
+0x1AB8F7A2 = Crew Invite sent to ~1~
+
+0x1AC8F91D = ~1p~ ~s~executed you
+
+0x1D4B49BD = Your Posse could not join ~1~.
+
+0x1DC846FF = You killed ~1p~
+
+0x1ED18C8F = A Posse has been removed for a violation.
+
+0x1F33F95C = Worst
+
+0x1FE2D588 = ~1~ ~s~gained the lead.
+
+0x2A3AB114 = Commissioner
+
+0x2B6219FB = ~1~ joined ~2~
+
+0x2C11A7B5 = Posse Left
+
+0x2D8EA921 = ~1~ quit ~2~
+
+0x2F054345 = ~1p~ ~s~killed ~2p~ ~s~with a Cleaver
+
+0x2FE1C44F = ~1p~ ~s~killed ~2p~ ~s~with a Machete
+
+0x3A6D843F = Can't join ~1~ at this time
+
+0x3B5E9827 = ~1p~ ~s~killed you with a long scoped rifle
+
+0x3BCB80A0 = ~1p~ ~s~killed ~2p~ ~s~with a repeater
+
+0x3E831304 = Posse invite limit reached
+
+0x3F77635E = You couldn't join ~1~ because it was full.
+
+0x4A890D91 = You cannot send a feud challenge due to pending challenges.
+
+0x4B58E32A = Leader
+
+0x4BF1EA6B = You are joining ~1~.
+
+0x4C2F7509 = Muscle
+
+0x4C6BD1B6 = ~1p~ ~s~downed ~2p~
+
+0x4C88A786 = ~1p~ ~s~killed you with a Maxim Gun
+
+0x4CCE79DA = Unable to lead a Persistent Posse at this time.
+
+0x4DBE8BB6 = You are unable to place your Camp here, the terrain is too uneven, or you are too near a town.
+
+0x4F9E1074 = Hostility Decreased
+
+0x4F20330B = You have placed your Posse Camp.
+
+0x5A98FEE8 = Your membership in ~1~ is active
+
+0x5AF28878 = ~1p~ ~s~ran you over with a horse
+
+0x5B421ADA = Posse Member
+
+0x5CBE2095 = ~1~ joined
+
+0x5CE26C01 = ~1p~ ~s~killed ~2p~ ~s~with a throwing knife
+
+0x5D92FDC8 = ~1p~ ~2b~ is removing you from the Posse. Survive for 2 minutes to earn XP.
+
+0x5E68B075 = ~COLOR_POSSE_ENEMY~Posse formation failed~s~
+
+0x5F3EA1CA = ~COLOR_POSSE_ALLY~~1p~~s~ moved the ~COLOR_POSSE_ALLY~waypoint
+
+0x5F6A603A = Friendly Fire turned off for your Posse
+
+0x6AB66CB3 = You could not join ~1~.
+
+0x6AEEE3F3 = ~COLOR_POSSE_ALLY~~1p~~s~ placed a ~COLOR_POSSE_ALLY~waypoint
+
+0x6B20D205 = ~1p~ ~s~killed you with an arrow
+
+0x6D7AD71E = You pressed charges against ~1~
+
+0x7A19DF8F = ~1p~ ~s~assisted killing you
+
+0x7B50E6D0 = ~1p~ ~s~killed you with a knife
+
+0x7D89CE34 = ~1~ became Hostile
+
+0x7F6CC21D = Your Posse take is now ~1~%
+
+0x7FD0D6F2 = Posse Camp Ready
+
+0x8AD74695 = Crew Invite
+
+0x8E67A359 = ~1p~ ~s~killed you with a fire bottle
+
+0x9E86A0BE = ~1p~ ~s~killed you
+
+0x10EAF694 = You died
+
+0x16CE4871 = You are now the leader of ~1~
+
+0x17F33508 = ~1p~ ~s~killed ~2p~ ~s~with a Hatchet
+
+0x20E0791F = ~s~Your Posse has started ~1~. Do you want to join in?
+
+0x22D19C92 = ~1p~ ~s~revived ~2p~
+
+0x29ECF989 = ~fg~¦~fo~ Defensive enabled
+
+0x33D82561 = Posse Update
+
+0x39FA3C46 = Hold ~INPUT_FEED_INTERACT~ to view details
+
+0x41D6ADCD = ~1p~ ~s~killed you with a Machete
+
+0x45E1E5D1 = ~1p~ ~s~killed you with their bare hands
+
+0x46CD5DD3 = You cannot send a feud challenge due to pending challenges. Check notifications as a Posse Member may have requested a feud.
+
+0x46D0B9FE = Hostility Increased
+
+0x49B0CCA2 = Your Posse is full and you can't invite any other players
+
+0x54DA7EA7 = ~1~
+
+0x58A1474B = ~1p~ ~s~killed ~2p~ ~s~with a pistol
+
+0x65D63627 = Complete a Story Mission to access this option
+
+0x65FDAEC3 = Your Posse has started ~1~. Hold ~INPUT_FRONTEND_DOWN~ to join in from your Notifications menu.
+
+0x85B0B729 = You reformed ~1~
+
+0x92E19A5A = Persistent Posse creation ~1$~
+
+0x92ECD245 = ~1p~ requests you to join them on the ~2~
+
+0x97BF367A = ~1~ brought ~2~ into Free Roam
+
+0x100EEBA0 = Defensive will disable in 30 seconds...
+
+0x161D746E = You revived yourself
+
+0x197FEC73 = You were demoted to ~1~ in crew ~2~
+
+0x231FA4AA = Your leader has approved your request to start ~1~
+
+0x269F55EC = ~1p~ ~s~killed you with a pistol
+
+0x290BA7DE = You assisted killing ~1p~
+
+0x297F859F = ~1~ has become Hostile
+
+0x415A9780 = ~1~ ~s~has placed your Posse's Camp.
+
+0x424E931D = ~1p~ ~s~killed you with a tomahawk
+
+0x455B2387 = You killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+0x468DEC68 = Friendly Fire turned on for your Posse
+
+0x479D7A75 = ~1~ became Defensive
+
+0x596FCD52 = You opened a treasure chest
+
+0x607A1AAA = ~1~ has been removed for a violation.
+
+0x632F3085 = ~COLOR_POSSE_ENEMY~Posse joining failed~s~
+
+0x644A5D5F = You have placed your Camp.
+
+0x646F1A37 = ~1p~ has requested to start ~2~. Hold ~INPUT_FRONTEND_DOWN~ and enter the Notifications menu to make your choice.
+
+0x753A0598 = ~1~ ~s~has joined your Posse
+
+0x770E3F9C = Posse Removal
+
+0x773BF86F = ~1p~ ~s~killed ~2p~ ~s~with a tomahawk
+
+0x836EE4D5 = ~1~ has been removed due to inactivity for ~2~ days.
+
+0x839BC7FA = You have been kicked from the Posse
+
+0x958FAA4D = ~1p~ ~s~killed ~2p~ ~s~with a knife
+
+0x1090DFE4 = You have requested to join ~1~'s ~s~Posse
+
+0x1727D2C4 = ~fg~-~fo~ Offensive enabled
+
+0x2005DA3E = Searching for Campsite...
+
+0x3499EDC2 = ~1p~ ~s~killed you with dynamite
+
+0x3687F77E = ~1p~ ~s~killed you with fire
+
+0x6016BBF2 = Posse Invite
+
+0x6494FDBD = Medium
+
+0x6543BC4E = ~1~ pressed charges against ~2~
+
+0x6931A95A = ~1p~ ~s~ran over ~2p~ with a horse
+
+0x7480A3F8 = Above Average
+
+0x7681B68E = You revived ~1p~
+
+0x20749D88 = Leader
+
+0x28722F9A = You left your Persistent Posse
+
+0x34935C0D = ~1p~ ~s~killed you with a Cleaver
+
+0x38605F65 = ~1~ has been abandoned
+
+0x38838B49 = ~1p~ ~s~killed you with a Gatling Gun
+
+0x42383ADA = You were killed by ~1p~
+
+0x68287F94 = You have been invited to play ~1~.
+
+0x93063E05 = ~1p~ ~s~killed ~2p~ ~s~with fire
+
+0x96920DDF = ~1p~ ~s~killed you with a revolving cannon
+
+0x288403B4 = Mark For Death
+
+0x437748A3 = ~1p~ ~s~killed ~2p~ ~s~with a revolving cannon
+
+0x847623A9 = ~1p~ ~s~killed themselves
+
+0x907217A4 = ~1~ has been abandoned
+
+0x3387012D = You killed ~1p~
+
+0x3724871A = You killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~1p~
+
+0x4233066F = ~1p~ has accepted to join ~2~.~s~ You will also join as a member of their Posse.
+
+0x7204519A = ~1~ is no longer Defensive
+
+0x9864351F = ~1~ has rejoined ~2~
+
+0x19871553 = Your leader has started ~1~. Leave the Posse if you do not wish to join the mission.
+
+0x24890351 = Unable to join a Persistent Posse at this time.
+
+0x26292584 = ~1p~ ~s~killed you with a lantern
+
+0xA048395D = ~1p~ ~s~killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+0xA1CF3EB5 = Low
+
+0xA3F7A80C = You joined crew ~1~
+
+0xA4A5CABD = High
+
+0xA53D125B = ~1p~ ~s~killed ~2p~ ~s~with a long scoped rifle
+
+0xA98F0E14 = Average
+
+0xA150CA37 = ~1p~ ~s~killed you with a shotgun
+
+0xA3171FA7 = ~1~ pressed charges against you
+
+0xA55505C0 = Default
+
+0xA867907F = ~1p~ ~s~killed ~2p~ ~s~with dynamite
+
+0xA4192670 = ~s~ (x~1~)
+
+0xAA015AFE = You brought ~1~ into Free Roam
+
+0xAB8D0872 = ~1p~ ~s~died
+
+0xABB59730 = Posse Rejoin
+
+0xADEC8341 = ~1p~ ~s~killed you with a rifle
+
+0xAE7E55C9 = ~1p~ ~s~killed ~BLIP_AMBIENT_MARKED_FOR_DEATH~~2p~
+
+0xAEDF54F8 = Posse Race Stake
+
+0xAFEB8282 = Invite sent to ~1~
+
+0xB0FE3F70 = ~1p~ ~s~killed ~2p~ ~s~with a lantern
+
+0xB1F5FE00 = ~1p~ ~s~killed ~2p~ ~s~with a rifle
+
+0xB3C109A7 = ~1p~ ~s~killed ~2p~ ~s~with their bare hands
+
+0xB5B305F1 = a mission
+
+0xB5E07575 = ~1p~ ~s~killed ~2p~ ~s~with a revolver
+
+0xB14D9D30 = ~1~~s~ is full
+
+0xB52C4D6A = ~1p~ is no longer active in ~2~
+
+0xB572CE92 = You left ~1~
+
+0xB1218117 = You paid off your bounty of ~1$~.
+
+0xB4230603 = You are attempting to matchmake with your Persistent Posse
+
+0xB6032678 = You can't join a Posse right now
+
+0xBAE46803 = ~COLOR_POSSE_ALLY~~1p~~s~ removed the ~COLOR_POSSE_ALLY~waypoint
+
+0xBBFE8390 = ~1p~ ~s~assisted killing ~2p~
+
+0xBFEE4C57 = Member
+
+0xC1A1F241 = You have created a Temporary Posse
+
+0xC6EECB55 = You have failed to create a Persistent Posse
+
+0xC63CC76F = Best
+
+0xC8299D4D = ~1p~ has requested to play ~2~.
+
+0xC7433232 = ~1p~ ~s~killed ~2p~
+
+0xCACA6F20 = ~1p~ ~s~killed ~2p~ ~s~with a cannon
+
+0xCC4A5E67 = ~1p~ ~s~revived you
+
+0xCC383224 = ~1p~ ~s~killed ~2p~ ~s~with a bottle
+
+0xCD5F6861 = ~1p~ ~2b~ is being removed from the Posse. Eliminate them within the time limit to earn XP.
+
+0xCF202E71 = ~1p~ ~s~killed ~2p~ ~s~with an explosion
+
+0xCFFC99DE = ~1p~ ~s~killed ~2p~ ~s~with a shotgun
+
+0xD3B28A4C = Your leader has denied your request to start ~1~
+
+0xD7E0EAB7 = Below Average
+
+0xD17C8461 = You don't have ~1$~ to create a Persistent Posse
+
+0xD29D5F42 = Oh no!
+
+0xD688AE47 = You downed ~1p~
+
+0xD12834F6 = ~1p~ ~s~killed ~2p~
+
+0xDA79B019 = ~1p~ ~s~killed you
+
+0xDAE4B460 = ~1~ removed from ~2~
+
+0xDAF14C9A = This Series is currently unavailable.
+
+0xDC65EDF0 = You have invited your Posse to fast travel.
+
+0xDDB1B00B = ~1p~ ~s~ran over ~2p~ with a wagon
+
+0xDDEB6AE1 = Posse Active
+
+0xDE9E20D0 = ~1~ has left your Posse
+
+0xDFFC717D = Join as a member
+
+0xE2FBB4A8 = ~1~ left
+
+0xE2FC52E5 = You paid off ~1$~ of your ~1$~ bounty.
+
+0xE5EDDD78 = ~1p~ ~s~killed ~2p~ ~s~with a Gatling Gun
+
+0xE42CFDF9 = ~1$~
+
+0xE48E937D = Posse invites locked
+
+0xE69E8AC0 = ~1p~ opened a treasure chest
+
+0xE73B125D = Your Posse has been invited to play ~1~.
+
+0xE73E15C2 = You left ~1~
+
+0xE81BDC4F = ~1p~ ~s~killed you with a bottle
+
+0xE99D28C1 = ~1p~ ~s~killed ~2p~ ~s~with their bare hands
+
+0xE6444D1E = ~1p~ ~s~killed ~2p~ ~s~with an arrow
+
+0xEA9D7E34 = Failure to rejoin the Persistent Posse.
+
+0xED8696CF = ~1~ is no longer your active Posse
+
+0xEDF91E77 = Posse Abandoned
+
+0xEE6D168E = Your Posse name changed to ~1~
+
+0xEE7E9FC8 = ~1~ has quit and disbanded ~2~
+
+0xEED50B6F = ~1p~ ~s~executed ~2p~
+
+0xEF06A3BE = You were promoted to ~1~ in crew ~2~
+
+0xEFA6E41F = ~1p~ ~s~is requesting you place your Posse's Camp.
+
+0xF2D1DE86 = ~1p~ ~s~killed you with a cannon
+
+0xF4F3EA0B = ~1p~ has requested to join your Posse
+
+0xF6D04A4C = Lieutenant
+
+0xF7D11DA0 = ~1p~ ~s~killed you with a throwing knife
+
+0xF7FF37E0 = The Posse ~1~ is now known as ~2~
+
+0xF8B13CDF = Posse Joined
+
+0xF62D2209 = ~1p~ ~s~self-revived
+
+0xF78A01FA = ~1p~ ~s~killed ~2p~ ~s~with a Maxim Gun
+
+0xF105F6C8 = ~1p~ ~s~killed you with an explosion
+
+0xF150FDF8 = You have joined ~1~ ~s~
+
+0xF189E559 = Posse Race Stake
+
+0xF882F434 = ~1p~ ~s~killed you with a repeater
+
+0xF3869635 = Your Posse is too large to join this series
+
+0xF4387684 = ~1p~ ~s~killed you with a revolver
+
+0xFA31DFDA = Your Posse is joining ~1~.
+
+0xFB205E38 = You were removed from ~1~
+
+0xFC946C17 = You executed ~1p~
+

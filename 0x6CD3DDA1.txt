@@ -1,0 +1,40 @@
+0x0204DF5C = ~z~Hey, how about I just make tracks, eh?
+
+0x047CD47E = ~z~Alright now take it easy... I know when I'm beat.
+
+0x0C27F3A2 = ~z~You just say the word, I'll hightail.
+
+0x6D85B185 = ~z~Look here, you spare me, you won't have cause to look back.
+
+0x7F4B5510 = ~z~So, you gonna kill a senior O'Driscoll after he surrendered? Not so smart.
+
+0x8A116A9C = ~z~Listen... how about you throw me a second chance here, huh?
+
+0x9A9C2591 = ~z~Got a merciful streak too, no less... well, thanks.
+
+0x9FF68B73 = ~z~Well you made short fecking work of us didn't ya?
+
+0x59CE95C8 = ~z~Don't! I swear I'll just go!
+
+0x383CCBCB = ~z~Don't keep a feller in suspense for his life now...
+
+0x4224DA30 = ~z~Don't suppose you're suddenly in a merciful mood, eh, friend?
+
+0x675030CB = ~z~No, no... wait!
+
+0xA84DC0F4 = ~z~Alright then! Let me just get out of your hair, eh?
+
+0xB6C84FBA = ~z~Wait, wait, wait! You don't need to kill me.
+
+0xB592B6AB = ~z~Who the hell are you?
+
+0xBD36EAC6 = ~z~Phew! If this ain't a new leaf I don't know what is.
+
+0xCC838963 = ~z~Yes! Luck of the feckin Irish!
+
+0xCD98E6B7 = ~z~Oh shite, look you won, right? Enough, now take a breath.
+
+0xE85AB2DE = ~z~Woah, woah! Don't do it.
+
+0xE676A840 = ~z~You got nothing to worry about from me, I swear it.
+

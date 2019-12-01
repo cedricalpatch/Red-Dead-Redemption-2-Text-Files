@@ -1,0 +1,198 @@
+0x0023EB87 = ~z~This is the land of the great turtle.
+
+0x00B5CA1F = ~z~Hello, sir... can I interest you in Chelonianism?
+
+0x0126D170 = ~z~We can all go home now. Some of us will be saved. The rest of you... shall burn.
+
+0x06A7349F = ~z~Let him take you to Chelonia.
+
+0x06D15930 = ~z~For paradise is unclear.
+
+0x089DD5B6 = ~z~Nothing less than recently re-discovered theology.
+
+0x0AD36EEF = ~z~Oh... have a wonderful day, be safe!
+
+0x0DDF0E46 = ~z~I am so happy, a new master has arrived and he is leading those, who know, to safety... I plan on joining him myself!
+
+0x0E024991 = ~z~Neither nature nor the ways of the old world have made us safe.
+
+0x0F4BE729 = ~z~Hear the truth and rejoice, for you are saved and already in paradise.
+
+0x1C29AADB = ~z~The world is coming to an end!
+
+0x1E4544CC = ~z~This... this is Chelonia.
+
+0x2A0F5268 = ~z~Now we can all go and join their descendants in the woods.
+
+0x2A6CC761 = ~z~I've been trying to warn everyone, but no one will listen!
+
+0x2BF7E031 = ~z~The one true American's religion. The one true bible that was handed down one hundred years ago this year,
+
+0x3B0CB242 = ~z~Seek and find the answers in Chelonia; the future of a better America. A safe future.
+
+0x3BAFF5A5 = ~z~A hundred years ago, a few lucky pilgrims left for Chelonia.
+
+0x3CD4F7F3 = ~z~Our master is calling us. He will now be one hundred and fifty-three years old and is ready for us.
+
+0x6E69F45F = ~z~A new master has been found. He is leading our people to Chelonia. Rejoice!
+
+0x7BA47F89 = ~z~to our prophet from above.
+
+0x7FC954D9 = ~z~America can rise to where it was always supposed to be.
+
+0x8B8A5788 = ~z~~sl:0.3~A little.
+
+0x8B98776C = ~z~How are you, sir?
+
+0x9C5698E8 = ~z~Okay.
+
+0x9FB4F330 = ~z~Let us pray together and give thanks for our redemption.
+
+0x12EF6E92 = ~z~I don't know... can you?
+
+0x16FF3A3C = ~z~Great evil lurks within our hearts. I know it does in mine.
+
+0x18A175BD = ~z~One hundred years ago, the great Chelonian master led pilgrims across the Lanahasee into the wilderness to found a great place of safety.
+
+0x31F21174 = ~z~It's very simple... have a book.
+
+0x32E28A85 = ~z~Okay, well don't blame me, when the world ends and you die in ignorance.
+
+0x38A263CC = ~z~He's in the hills... near Granite Pass, it's not too late!
+
+0x43C2B515 = ~z~Europeans die every day. So do animals.
+
+0x44A52E0A = ~z~Trust me... I won't.
+
+0x54A09BC8 = ~z~Okay... good luck.
+
+0x62CF3825 = ~z~Believe me... safety is all that we have.
+
+0x66DC8E2D = ~z~But, with Chelonianism... it can be safe...
+
+0x67EEA1AE = ~z~It's time to be saved... it's time to be safe.
+
+0x73CC280C = ~z~I'm sorry... have a wonderful day.
+
+0x83B98626 = ~z~Take a pamphlet and learn all you can about our wonderful approach to religion.
+
+0x98FB83C3 = ~z~You, one of you... please take a pamphlet.
+
+0x153E15BB = ~z~Seek and ye shall find and what ye shall find is the great shell and the great shell is Chelonia.
+
+0x210B80A8 = ~z~We must find safety inside a shell of truth. That's the key to life. Safety.
+
+0x391CDD78 = ~z~and that is how we will achieve lives of two hundred years or longer, like turtles.
+
+0x468E0B65 = ~z~I intend to make the journey. I hope you will travel with me.
+
+0x559A5EFC = ~z~The redemption of this sacred place; Chelonia.
+
+0x676F7C6E = ~z~We must learn a new way, and that way is Chelonia.
+
+0x720DCF55 = ~z~safe to seek greatest wisdom and the greatest wisdom will be revealed to us.
+
+0x3642AB16 = ~z~The great shell of truth is safety. That's the key to Chelonianism.
+
+0x5825E2FD = ~z~Take a pamphlet, please. I want you to be safe.
+
+0x9852F119 = ~z~~sl:0.5~You've made a wonderful choice!
+
+0x55975E00 = ~z~Do you want to be safe? The answer is in Chelonianism.
+
+0x62350D20 = ~z~It is a fascinating religion that was taught to a very wise master, about a hundred years ago... in a land not very far from here...
+
+0x80586BEA = ~z~The two seas and the Isthmus and the frozen north thus we are safe to love,
+
+0x83343A2F = ~z~This is Chelonia. We are all Chelonians. Embrace your protector.
+
+0x41988707 = ~z~ We will found a great nation. For those wise enough to want safety above all else.
+
+0x46797831 = ~z~And this is Chelonia, the greatest shell of all.
+
+0x51496307 = ~z~Oh, it's all in this book... am I boring you?
+
+0x99790834 = ~z~He foresaw the decline and the rise again, not as the United States, but as a great Chelonian paradise.
+
+0xA82D18F9 = ~z~If only you had the wisdom to understand it.
+
+0xA96D9E66 = ~z~We shall be safe there, above all else. And that is the essence of Chelonianism.
+
+0xA7489A09 = ~z~You need to be safe. Life can be safe.
+
+0xA52192F8 = ~z~Take a book, please...
+
+0xA1416741 = ~z~No.
+
+0xA8238421 = ~z~Embrace all that is sacred in this place.
+
+0xAB33ABA9 = ~z~One hundred years ago, our master foresaw this.
+
+0xAE341CDB = ~z~Okay.
+
+0xB1B6C3A8 = ~z~A great and wonderful event is happening in Chelonianism.
+
+0xB4CA2E10 = ~z~And what is Chelonianism, I hear you ask?
+
+0xB962BB64 = ~z~Chelonia. America. They are the same thing.
+
+0xB9383DFB = ~z~But one thing is clear about paradise, it is a place of safety.
+
+0xBC9D81BA = ~z~this land is our heaven and the two oceans are our shells.
+
+0xC2E5463D = ~z~Not what life it could be, but, what it is... it is very dangerous...
+
+0xC6D862F2 = ~z~A place of safety. A place of wisdom. A place for the selected.
+
+0xC27E10FF = ~z~And what is more American than subjecting yourself to the rule of a great man.
+
+0xC38D6755 = ~z~It is quite wonderful... can I tell you more?
+
+0xC431D102 = ~z~If savages could prosper here, how much better shall the white man do in this sacred place?
+
+0xC778BFE7 = ~z~We can be safe... we can all be safe... thanks to the wisdom of the master.
+
+0xCD6A8615 = ~z~That revelation states unequivocally that I, that we, all are of Chelonia, thus we are all Chelonians.
+
+0xCD64E641 = ~z~Make your family safe. I implore you, safety above all else.
+
+0xD0686985 = ~z~Well I hope so!
+
+0xD0EBAA56 = ~z~It is only here that we can truly be ourselves where man can find his place in heaven.
+
+0xD5F0747F = ~z~No more kings! We are all kings, our prophet told us this one hundred years ago.
+
+0xD6E57CEE = ~z~A great miracle has occurred. A new master has arrived and he is preparing to lead us to Chelonia.
+
+0xD287E582 = ~z~It is a religion of safety... a religion made by gods who understood what life is.
+
+0xD437B472 = ~z~But thanks to our master, we can be safe.
+
+0xDBAE229C = ~z~That is truth... hear it and weep!
+
+0xDC820492 = ~z~And what is paradise? I hear you ask yourself, and ask you might.
+
+0xDEC190F1 = ~z~learn all about our great religion and understand the importance of safety in nature.
+
+0xDF0F41F6 = ~z~Or you will be found, happy and free in Chelonia. A safe alternative to America's many problems.
+
+0xE9475EC9 = ~z~America has not proved itself to be a safe country.
+
+0xE6569128 = ~z~And thanks to his teachings, we can now join them in paradise.
+
+0xEAEE836A = ~z~We need to be safe. We must be safe.
+
+0xEF05B179 = ~z~Take a pamphlet...
+
+0xF0C6E565 = ~z~You are lost, my friends, but I can ensure you are found.
+
+0xF3DE4105 = ~z~No, thanks.
+
+0xF1946F2B = ~z~And the great man subjects us all to Chelonianism. It will save us all.
+
+0xF658752F = ~z~According to the great teachings of our master,
+
+0xF4609012 = ~z~Search in the grizzlies, down by the Dakota river and find the great master.
+
+0xFED3702B = ~z~Sure, why not?
+

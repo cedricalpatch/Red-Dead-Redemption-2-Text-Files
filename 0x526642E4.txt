@@ -1,0 +1,76 @@
+0x091113FC = ~z~~sl:0.0:3.9~Oh, I'm glad someone finally came by... I was riding past~sl:~these markers there, the graves, and my horse...
+
+0x0CFC6703 = ~z~So, uh... how we getting there?
+
+0x2FFC7C3B = ~z~~sl:0.0:2.9~every time I go past that road... ~rp~I don't know,~sl:0.4~~rp~almost like the air cools around you.
+
+0x4DB098D7 = ~z~If you can get me to Blackwater, I should be good from there.
+
+0x4FAD10F3 = ~z~Gonna bury you with the others!
+
+0x6BC07697 = ~z~Oh, hey! Hey!
+
+0x7D50A4EC = ~z~Yeah, I reckon I'm good from here.
+
+0x7E2267C7 = ~z~~sl:0.0:0.6~Fine.~sl:0.6:1.4~I should've known better than to expect~sl:~a little kindness around here.
+
+0x7F543E5D = ~z~Had to die by a graveyard?
+
+0x15CB13F2 = ~z~~sl:0.0:1.0~Appreciate it.~sl:0.3~My mind was starting to play tricks on me back there.
+
+0x40FB00E1 = ~z~Come on, don't leave me like this...
+
+0x50B5B426 = ~z~I don't like this place...
+
+0x403CFF65 = ~z~It wouldn't take long.
+
+0x483F9574 = ~z~Where you want me to sit?
+
+0x777FEF3F = ~z~Get off there. No need to drag this out.
+
+0x863D8CBA = ~z~Hop on down.
+
+0x8129AD56 = ~z~Well, I got an even better idea.
+
+0x732398D4 = ~z~I'm over here! Y-you can hear me, right?
+
+0xA529DD09 = ~z~Got a bad feeling about it.
+
+0xA3163FE7 = ~z~Take this as a way of thanks, okay?
+
+0xABE78A5F = ~z~Yes, you there!
+
+0xC0F69E35 = ~z~Just ups and dies. ~rp~Now that's just strange.
+
+0xC245008A = ~z~Please, it ain't too far.
+
+0xCF383AB8 = ~z~~sl:0.0:1.7~And then my dang horse drops dead.~sl:0.4~~rp~Healthy horse, too. All his teeth.
+
+0xCFF4329D = ~z~Folk are right...
+
+0xD06FA870 = ~z~I don't like this place one bit. Gives me the chills.
+
+0xD55F4702 = ~z~~sl:0.0:2.2~Heard there was Indians living there at some point, but...~sl:0.3~~rp~there sure ain't no one living there now.
+
+0xDDC157CA = ~z~I ain't superstitious.
+
+0xE3ADE39F = ~z~~sl:0.0:4.4~I don't know... that spot... ~rp~it's always given me a bad feeling.~sl:0.8~~rp~Been burnt up like that for years, long as I can remember.
+
+0xE8D5BCB4 = ~z~Folk say this place is cursed.
+
+0xE9126F9E = ~z~Appreciate this, I am ready to be on my way.
+
+0xEAFFF247 = ~z~~sl:0.9~But like I say...
+
+0xEB6AD7F3 = ~z~I think we can both agree that life ain't fair.
+
+0xF7B48E81 = ~z~Yes. Just in time!
+
+0xF74F7079 = ~z~~sl:0.0:3.7~My horse just collapsed. Foam at the mouth and then nothing.~sl:2.3~Could you give me a ride to town?
+
+0xF524136F = ~z~Alright. Nice to be back in town.
+
+0xF3522993 = ~z~You will?
+
+0xFE3D98BE = ~z~~sl:0.3~I ain't a superstitious feller, mind, but...
+

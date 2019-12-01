@@ -1,0 +1,582 @@
+0x00B167BA = ~z~Look! We ain't done yet!
+
+0x01788567 = ~z~ Be reborn.
+
+0x0217E93D = ~z~He set us up.
+
+0x0285F664 = ~z~Yes, of course.
+
+0x02861C0E = ~z~Yes.
+
+0x0336A5F0 = ~z~What the hell? Cool it down, alright?
+
+0x054A1DE9 = ~z~They're on the balcony! To my right!
+
+0x055C87A4 = ~z~There's almost nothing here!
+
+0x0700DD69 = ~z~Let's move this along, we don't have the time for games.
+
+0x0879FBE1 = ~z~He don't want the likes of you.
+
+0x08929C5A = ~z~You alright, Dutch?
+
+0x09E20E27 = ~z~Arthur, come on! Before any more show up.
+
+0x09FE952F = ~z~In there.
+
+0x0B4D4450 = ~z~Why aren't their pockets empty yet, Mr. M?
+
+0x0B91511E = ~z~Don't mention it.
+
+0x0C920411 = ~z~Even after that?
+
+0x0CB83EBE = ~z~Yeah, I'm okay!
+
+0x0CD717A8 = ~z~Watch those side alleys, Arthur!
+
+0x0F1BBB6B = ~z~Hey, stop that! Are you crazy?
+
+0x0F9D9AF1 = ~z~behave as I tell you, and none of you will die.
+
+0x0FCBED7C = ~z~Hold them off, fellers!
+
+0x1A02872F = ~z~Look out, they blocked the road!
+
+0x1AB5D29F = ~z~What the hell are you shooting for?
+
+0x1ADFC87B = ~z~We can't let them follow us!
+
+0x1DF0F5DD = ~z~let's not damn discretion.
+
+0x1E04454E = ~z~you've turned into some clock watching city boy.
+
+0x1E3EBDAF = ~z~How we gonna get enough money...
+
+0x1E3FA76C = ~z~Hosea agrees.
+
+0x1E4947C7 = ~z~Lenny, you keep an eye on him.
+
+0x1EC4DBC8 = ~z~Let's go, Arthur, this way!
+
+0x1F29D555 = ~z~There's nothing really here!
+
+0x1F94C05B = ~z~for the passage of a whole boat...
+
+0x2B716384 = ~z~This is our chance to move! Let's go!
+
+0x2BBC532E = ~z~Come on.
+
+0x2C0AF654 = ~z~Come on, Arthur, we need to get out of here!
+
+0x2F548185 = ~z~Come out now!
+
+0x2FC50D3F = ~z~Get their money, let's hurry this up.
+
+0x3C7F26B3 = ~z~Come on, these people are itching to part with their valuables.
+
+0x3CD066E3 = ~z~We got more on the right!
+
+0x3E20CD90 = ~z~Bronte is going to pay for this!
+
+0x3F9711BF = ~z~now.
+
+0x4A46C065 = ~z~Come on, these folks must have something on them.
+
+0x4B03CE4E = ~z~~sl:0.0:3.5~How would you like to feel some sun on your bones~sl:~and sand beneath your feet?
+
+0x4C50AFA2 = ~z~We don't want to hurt any of you.
+
+0x4FAF977A = ~z~Lenny, go right of me.
+
+0x5C9164FA = ~z~Do you want me to frisk them or you got this?
+
+0x5CA3BCFF = ~z~~sl:0.0:3.1~First the O'Driscolls jump us in camp, now this...~sl:~we need to wake up.
+
+0x5D22CD1E = ~z~Dutch...
+
+0x5DFA5ED0 = ~z~That greasy son of a bitch...~n~~m~I said come out now!
+
+0x6A52868F = ~z~Hurry up, come on! We need to get outta here.
+
+0x6B1BCD44 = ~z~What are you waiting for, Arthur?
+
+0x6B83F9CF = ~z~he set us up.
+
+0x6D50FD7D = ~z~We got you surrounded!
+
+0x6E8EF4A8 = ~z~Riders, watch out!
+
+0x6F78F17A = ~z~Does this trolley go to Tahiti?
+
+0x7A64052A = ~z~You just stay down, I'll hold them off.
+
+0x7B5C77E9 = ~z~not enough for us to leave and live peacefully.
+
+0x7BA82B6A = ~z~Now, remember, we just want money. Don't make us kill you.
+
+0x7BD6A7BF = ~z~Are you hearing me? Hurry this along.
+
+0x7D4D0D7A = ~z~Slow this thing down.
+
+0x7D238CDB = ~z~Something!
+
+0x7DE15A5E = ~z~Are you going to see what's in there?
+
+0x7F863D30 = ~z~~sl:0.2:0.7:1~He's fine.
+
+0x8A0BB997 = ~z~Dutch?
+
+0x8ADC480B = ~z~Arthur, coming out of the bank... on the right.
+
+0x8B1328BA = ~z~Follow me gentlemen!
+
+0x8D49D8B7 = ~z~
+
+0x8E25D8A7 = ~z~There are more on my right!
+
+0x8F98592E = ~z~You know what, Dutch...
+
+0x9B03F42B = ~z~~sl:0.0:1.9:1~Ahh, shit!
+
+0x9C9AE980 = ~z~We got more on the right!
+
+0x9C983F4F = ~z~Don't worry about me, just get us out of here.
+
+0x9D21EC96 = ~z~Look out right, coming out of the bank.
+
+0x9FD9AAC6 = ~z~What did I do to him?
+
+0x10BA92D1 = ~z~I said open the gate and let my acquaintance in.
+
+0x10F0B8E3 = ~z~You're sure?
+
+0x11F85C38 = ~z~And now they know where we're holed up...
+
+0x12EF0C95 = ~z~Need you on the left now, Arthur, come on!
+
+0x16C938C7 = ~z~I won't lie. I've been better, son.
+
+0x17C438CE = ~z~A couple of days in this place
+
+0x19FC9DC6 = ~z~Well, can't win 'em all.
+
+0x20B1A81A = ~z~Arthur, you need to help Lenny, now!
+
+0x23F14A58 = ~z~No questions asked.
+
+0x28AE840F = ~z~Let's go, Arthur, stick with us.
+
+0x31D064D2 = ~z~Where's the rest coming from?
+
+0x34EAA21C = ~z~You mean... this boat you were talking about?
+
+0x36AFEFD5 = ~z~We will disappear.
+
+0x36CDD888 = ~z~The bank is our bet.
+
+0x36E82082 = ~z~Stay with us, Arthur.
+
+0x38A27C79 = ~z~Of course.
+
+0x40AF09E8 = ~z~Yeah, they're good now.
+
+0x47DD9156 = ~z~Coming from behind us, get rid of them.
+
+0x48FF770B = ~z~What did we do to him?
+
+0x51A9919A = ~z~There you are.
+
+0x51EFE0AF = ~z~~sl:0.5:0.0~Son of a bitch!
+
+0x53E14AC7 = ~z~I'm fine.
+
+0x54AEAAF8 = ~z~They're chasing us, take them out.
+
+0x55E89248 = ~z~I don't think they keep much cash in there.
+
+0x55F43C4F = ~z~You okay, Dutch?
+
+0x58D3B41C = ~z~give him money for land when we get there.
+
+0x58EDD4A3 = ~z~You think?
+
+0x59E24AC5 = ~z~All of you! Behave.
+
+0x61E6378C = ~z~Arthur, come on!
+
+0x66EF7DFD = ~z~Get the money and let's go. Come on.
+
+0x67BC6679 = ~z~Then get out here and get ready for company.
+
+0x68B0C5E4 = ~z~Damn it, they're still coming!
+
+0x73BEB328 = ~z~Just keep shooting 'til nothing moves!
+
+0x78B9EFBF = ~z~Just head straight for the bridge!
+
+0x79FCE31A = ~z~And up on that balcony!
+
+0x87FCB2C0 = ~z~This seem like a good time for sarcasm to you, Arthur?
+
+0x91AB2F18 = ~z~Shoot, Arthur!
+
+0x92FA5F7B = ~z~Sure...
+
+0x93B2C22C = ~z~I'm okay.
+
+0x94DEA575 = ~z~I don't know if you have noticed, but we are on the clock.
+
+0x95A1DD2D = ~z~You heard the boss, check the safe.
+
+0x95D1DDEC = ~z~I already checked in there. There's nothing.
+
+0x96FDE215 = ~z~I got this one.
+
+0x99A0A183 = ~z~What's the urgency?
+
+0x123A26EA = ~z~Well, where the hell is Tahiti?
+
+0x202A6F58 = ~z~Damnit, do something!
+
+0x296CEC92 = ~z~~sl:0.0:0.8~Hold on...~sl:1.0~use this.
+
+0x341DEE58 = ~z~~sl:0.8:0.0~You see any more?
+
+0x350B5E9E = ~z~We're gonna get outta here, 'kay?
+
+0x374BD3A4 = ~z~Put the law on us.
+
+0x402E10C3 = ~z~~sl:0.0:2.2~Took a real bang on the head back there,~sl:~I'm seeing three of everything.
+
+0x414F7E54 = ~z~Ladies and gentlemen, this is a robbery...
+
+0x440EAAF9 = ~z~There's a ton of cops out there.
+
+0x450F8B50 = ~z~In there.
+
+0x470E1091 = ~z~We just need to pay for passage and...
+
+0x488FAF5D = ~z~This way, Arthur, come on!
+
+0x539B8C47 = ~z~You're a good kid.
+
+0x571BDE56 = ~z~Like I said, we're on the clock here.
+
+0x593C57A9 = ~z~Thank you, son!
+
+0x602C52E1 = ~z~I hope so!
+
+0x612AFC50 = ~z~thanks to you.
+
+0x645C8515 = ~z~To my right, shoot them down!
+
+0x693B0690 = ~z~Mr. M, relieve these fine folks of their valuables. Mr. S, check that room back there.
+
+0x788E6829 = ~z~At least shoot something, Arthur!
+
+0x804BBA1E = ~z~Mr. M, check the safe.
+
+0x821FE092 = ~z~~sl:0.0:0.6~There you are.~sl:~Come on, keep walking. You're late.
+
+0x918C0E2B = ~z~I guess he thinks he's the king round here.
+
+0x998D4675 = ~z~Watch out... got some on the balcony here!
+
+0x1055F013 = ~z~Come on, stop toying with them.
+
+0x1186B0E4 = ~z~Street on the left! They're still coming!
+
+0x1344C94E = ~z~We got a problem.
+
+0x1495BEDB = ~z~Now's our chance, let's go!
+
+0x2375F986 = ~z~We need to go, Arthur, stay with us.
+
+0x2463B7E9 = ~z~We got some in those alleyways, Arthur!
+
+0x2609D230 = ~z~Just keep going, kid.
+
+0x2781A052 = ~z~That bastard must have called in every cop in the city!
+
+0x3682E9F0 = ~z~There should be stacks of cash in there... he told us there was... look again...
+
+0x4332F032 = ~z~just wish it could have turned out better.
+
+0x4368F096 = ~z~I don't feel so good.
+
+0x4396B441 = ~z~Arthur, slow us down!
+
+0x4692A264 = ~z~Go right!
+
+0x5206E232 = ~z~~sl:0.0:2.6:1~Sure, just about.
+
+0x6829D40B = ~z~We'll wake up after we get the hell out of here!
+
+0x6912D356 = ~z~We made a bit of money on that riverboat job, but...
+
+0x7182F596 = ~z~the trolley!
+
+0x7295F0CA = ~z~Why aren't you shooting, Arthur?
+
+0x8089CCBE = ~z~~sl:0.8:0.0~How many of them are there?
+
+0x8323ECBE = ~z~Open it!
+
+0x8773ED6F = ~z~Clear that safe, let's go.
+
+0x9267DD15 = ~z~~sl:0.6~Sounds alright to me.
+
+0x9890C401 = ~z~The thing's broke...
+
+0x21334F08 = ~z~Okay, let's move! Come on!
+
+0x25876DD3 = ~z~Damn!
+
+0x28484D7B = ~z~There's no stacks... a few dollars and coins, that's it.
+
+0x32066D52 = ~z~What's the urgency?
+
+0x40697ECC = ~z~We've got one on the balcony too!
+
+0x48947C15 = ~z~one more decent take and we're gone.
+
+0x50781B52 = ~z~Let's get out of here, Arthur!
+
+0x56183EC1 = ~z~Go...
+
+0x59606B07 = ~z~~sl:0.0:3.0~Maybe. They're a pretty scattered bunch and~sl:~we didn't leave no survivors.
+
+0x78354EF2 = ~z~What is taking so long here?
+
+0x359654F9 = ~z~Hey, you did real good there, Lenny...
+
+0x393290A3 = ~z~Hurry, Arthur, into the alleys!
+
+0x446646F1 = ~z~Are you okay, Dutch?
+
+0x652744B0 = ~z~Shit, Arthur, let's go!
+
+0x1709622E = ~z~Dying is your choice, not mine. Kindly open that gate and let my acquaintance inside?
+
+0x1733481F = ~z~Damn, they blocked the road!
+
+0x6223674B = ~z~You okay there, Dutch?
+
+0x10714065 = ~z~Damn, what was that for?
+
+0x35405445 = ~z~Especially after that.
+
+0x57533060 = ~z~Outside the saloon! Oh damn, we are really moving here!
+
+0x60448911 = ~z~What's the holdup Mr. M? Help our friend here open the safe.
+
+0x67242420 = ~z~Oh for Christ's sake, are you trying to get us caught here?
+
+0x68583727 = ~z~Open it.
+
+0x98457679 = ~z~~sl:0.5:0.0~That'll do it!
+
+0x99351779 = ~z~Oh, and a quarter...
+
+0xA6D5CBE4 = ~z~Let's move up, Dutch.
+
+0xA7B68826 = ~z~So you think they scooped him up or he turned on us?
+
+0xA56CFEE7 = ~z~Through here, let's go.
+
+0xA341C8FB = ~z~Tahitians, I guess.
+
+0xA8364076 = ~z~Stick with me, Dutch. I'll lead you out.
+
+0xAAE4DBE8 = ~z~You okay back there?
+
+0xAAF33AF5 = ~z~don't forget the quarter.
+
+0xAB6A4516 = ~z~There you are.
+
+0xAB8D9118 = ~z~next time...
+
+0xAB76E9CD = ~z~I'll try.
+
+0xAC620372 = ~z~You alright there, kid?
+
+0xAE746F7C = ~z~The trolley...
+
+0xAE96861A = ~z~~sl:1.7:0.0~I think we're clear!
+
+0xB06C8E84 = ~z~Check them all, Mr. M, I don't want anyone feeling left out.
+
+0xB0D36A2F = ~z~Hey, hey, go easy there.
+
+0xB2DC1606 = ~z~Look out on the right, fellers!
+
+0xB4C6E7C6 = ~z~Okay, boss, let's move.
+
+0xB8B9D887 = ~z~Don't damage that wagon! We need a way out of here!
+
+0xB9F82CA9 = ~z~~sl:0.0:3.2~Kieran? There's no way he would have gone back~sl:~to Colm of his own volition.
+
+0xB76C53E7 = ~z~And we each got...
+
+0xB616EF47 = ~z~We got some riders on the left!
+
+0xB57040B7 = ~z~What are you doing? Put the damn gun down.
+
+0xB843081A = ~z~I think so.
+
+0xBAABAF54 = ~z~I know but...
+
+0xBBA00E47 = ~z~What?
+
+0xBDF1F3FD = ~z~You take right, Lenny.
+
+0xBE5CFB04 = ~z~Head for the bridge!
+
+0xC03109A5 = ~z~We need to leave...
+
+0xC05FFEFC = ~z~Let's go, Dutch.
+
+0xC4F55271 = ~z~The safe, Mr. M., come on. Let these poor people get back to their lives.
+
+0xC6F5A0CA = ~z~hold on!
+
+0xC9A4C25A = ~z~Head for that wagon!
+
+0xC9E9AB67 = ~z~I'm good.
+
+0xC9F22677 = ~z~What we gonna do gentlemen?
+
+0xC25F8ADD = ~z~We're through!
+
+0xC54B4D1B = ~z~Hey, keep your cool now...
+
+0xC67CF40D = ~z~Keep that wagon intact, okay? We might need it!
+
+0xC76DF3EA = ~z~fifteen dollars.
+
+0xC78B918E = ~z~An untouched paradise.
+
+0xC98AAA1C = ~z~There's nothing much here!
+
+0xC7390FA5 = ~z~So we are gonna rob that place?
+
+0xC8624AC1 = ~z~Seemed like a good lead.
+
+0xC73001D9 = ~z~Hurry up! We need to get out of here, now!
+
+0xC6380827 = ~z~Now, we need money...
+
+0xCB0E835B = ~z~Sorry for my friend here. He's got a bad nature.
+
+0xCB1A9F80 = ~z~but for us all to leave together...
+
+0xCBE4ECCF = ~z~Hey, that is not what we do, damn it! You know that.
+
+0xCC220171 = ~z~Some riders coming on this side!
+
+0xCDF34FFF = ~z~Annoy me, and you all will.
+
+0xCE968B72 = ~z~Come on, keep walking...
+
+0xCFE76344 = ~z~We gotta move, boss, stay with me!
+
+0xD06AAA18 = ~z~forever.
+
+0xD0CC630A = ~z~For Christ's sake, that's enough! We are here for the money.
+
+0xD2F10FB0 = ~z~Ah, you just got a bash on the head.
+
+0xD6BE3095 = ~z~Arthur, help Lenny out there!
+
+0xD8E5A544 = ~z~What are you doing? We gotta move!
+
+0xD37C91E7 = ~z~We just need money...
+
+0xD38C0C26 = ~z~Played me like a yokel.
+
+0xD91A3B7F = ~z~we need enough for a boat.
+
+0xD388E996 = ~z~Okay, I think they got the message.
+
+0xD6249A8A = ~z~Come on, keep walking...
+
+0xDA83377D = ~z~Who lives there?
+
+0xDBA8D217 = ~z~~sl:1.5~How you doing there, boss?
+
+0xDBD524E8 = ~z~Always gotta mess with them, don't you?
+
+0xDC8234BB = ~z~Bronte said this place has got money.
+
+0xDD77A41C = ~z~Arthur, cover our left with Lenny!
+
+0xDDD744F9 = ~z~Now I found a friendly ship captain...
+
+0xDDFA09D9 = ~z~Alright, shoot us some space, boys!
+
+0xDEA4E7F7 = ~z~Kid, you okay?
+
+0xDFB54D42 = ~z~On the left there, hold them off!
+
+0xDFC000F1 = ~z~Goddammit, what are you doing?
+
+0xE0552EEF = ~z~you're late.
+
+0xE0B8AB3F = ~z~Come on, I'm taking you back to camp.
+
+0xE3A3DA00 = ~z~Shit, they're in here too.
+
+0xE7F33E27 = ~z~you're late.
+
+0xE31CC1F0 = ~z~I reckon we got a few days before the...
+
+0xE68D7DDF = ~z~Eyes up! On the balcony!
+
+0xE536355A = ~z~what're we doing next, Dutch?
+
+0xE8695205 = ~z~Well, I didn't think we was fixing the plumbing.
+
+0xE9174111 = ~z~This way, onto the street!
+
+0xEB8BE062 = ~z~he's willing to take us to Australia, or Tahiti.
+
+0xED3FC0D7 = ~z~Looks like they ain't giving up yet!
+
+0xEDDEC901 = ~z~Look out on the right!
+
+0xEF13CC6C = ~z~A couple of days in this place...
+
+0xEFAD97A3 = ~z~In any case, we'll be on our way soon.
+
+0xF1F396A6 = ~z~Come on, Arthur, let's go.
+
+0xF2E49FC5 = ~z~Well, we made it...
+
+0xF6C7587C = ~z~So...
+
+0xF6E0F704 = ~z~We've been doing well, making money...
+
+0xF7E8F104 = ~z~a captain's discretion, and land enough to keep us all?
+
+0xF48C02D1 = ~z~~sl:0.7:0.0~Try to shoot it, Arthur!
+
+0xF60E19D2 = ~z~Why aren't you taking donations, Mr. M?
+
+0xF905EDC2 = ~z~Pinkertons show and then, well, we're done.
+
+0xFA763420 = ~z~Get the hell off of me!
+
+0xFC5D3102 = ~z~~sl:0.0:1.6~He'd been murdered on the spot.~sl:0.6~But if they got to him, got inside his head, who knows?
+
+0xFC65E710 = ~z~you've turned into some clock watching city boy.
+
+0xFC836C7F = ~z~Get on the damn wagon, Arthur!
+
+0xFC925E32 = ~z~Shut up, Arthur.
+
+0xFCC9FC0A = ~z~South Pacific.
+
+0xFDA8AC50 = ~z~Do something!
+
+0xFDCFB59B = ~z~Yeah.
+

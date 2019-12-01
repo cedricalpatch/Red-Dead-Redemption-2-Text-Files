@@ -1,0 +1,16 @@
+0x6FC16544 = Return to the ~o~worksites
+
+0x38EC71A8 = Investigate the ~o~worksites~s~
+
+0xA627FC0B = Investigate the other ~o~worksite~s~
+
+0xBDC21546 = Herman Zizendorf escaped.
+
+0xBF61E611 = The worksites were left behind.
+
+0xDB8726C7 = Herman Zizendorf died.
+
+0xEA7BBC40 = Herman Zizendorf was left behind.
+
+0xECBF6C84 = Herman Zizendorf could not be retrieved.
+

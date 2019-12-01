@@ -1,0 +1,42 @@
+0x08617F3F = Return to ~o~Beecher's Hope~s~ with Uncle
+
+0x1B3096C3 = GREET
+
+0x2FB90BA2 = STRANGER
+
+0x5AA4B467 = Mount your ~o~horse
+
+0x7E7F1E63 = You killed the banker.
+
+0x11FB9526 = Uncle has died.
+
+0x41FEEF7C = Confront the ~o~squatters~s~
+
+0x82F630A9 = Enter the ~o~bank
+
+0x814EEAE2 = Uncle's mount has died.
+
+0x5946B240 = Uncle was abandoned.
+
+0x83591E03 = Return to ~o~Beecher's Hope~s~
+
+0x964441EE = Deal with the ~e~squatters~s~
+
+0x15928467 = Your horse has died.
+
+0x27516682 = Give Money
+
+0xA9B5F8E9 = Mount your ~o~horse~s~
+
+0xAEACB364 = You fled from the squatters.
+
+0xBDB92544 = Intimidate
+
+0xBF9EE436 = Lose your Wanted level
+
+0xC3E16D1D = TELLER
+
+0xC490BC5A = You have committed a crime.
+
+0xF8513511 = Return to ~o~Uncle~s~
+

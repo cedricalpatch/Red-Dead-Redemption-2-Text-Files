@@ -1,0 +1,42 @@
+0x0B5AF88F = ~z~I knew you was a romantic, Mr. Morgan. I just knew it.
+
+0x3A660BDE = ~z~Only if you let it...
+
+0x4CE59B84 = ~z~Because she was born poor.
+
+0x4F7F80DF = ~z~If they'll let you.
+
+0x5E103DD9 = ~z~She was born poor, but maybe she won't die poor.
+
+0x7A5BF674 = ~z~What you reading?
+
+0x36EDCFB4 = ~z~I don't think there's much difference between women and men...
+
+0x55C7C2A1 = ~z~
+
+0x60B92352 = ~z~most of both are awful... there's a few... worth loving and dying for, I guess.
+
+0x74EF80F4 = ~z~And joined these fine gentlemen?
+
+0x89F595A7 = ~z~Oh some silly book... I swear I could do better in my sleep.
+
+0x92C7BCA4 = ~z~They're okay... and we're gonna be okay... if you'd only see that.
+
+0x219D44F4 = ~z~Then why don't you?
+
+0x44306A39 = ~z~What do you think about women, Mr. Arthur?
+
+0x678550C3 = ~z~We're all going to die poor... maybe we can have some fun in the mean time.
+
+0x47822616 = ~z~The world is changing for women.
+
+0xA46C5FED = ~z~You let 'em.
+
+0xAC066F1D = ~z~No it ain't. The world is a place men do what they want with us and we try to survive.
+
+0xB23EFB92 = ~z~I ran away from them boys.
+
+0xE4374A29 = ~z~I disagree... I ain't gonna die poor, I know that.
+
+0xF3EDE996 = ~z~Good luck to you, missy.
+

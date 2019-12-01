@@ -1,0 +1,38 @@
+0x0055BDCB = ~z~She's tough. Don't mess with her.
+
+0x01D0FBFE = ~z~I got a plow for ya to pull!
+
+0x1A221D4F = ~z~She's a beast!
+
+0x2B66EAFB = ~z~Two...
+
+0x12B91EB8 = ~z~Damn, she's stong as a feller.
+
+0x20AABA9B = ~z~Bet she's a lot of fun!
+
+0x48B50AB3 = ~z~That's a mighty strong woman.
+
+0x60F1560F = ~z~Yeah!
+
+0x739C7B65 = ~z~Yeah.
+
+0x881A793A = ~z~Oh, you're a monster!
+
+0x1805C439 = ~z~One...
+
+0x426198F0 = ~z~Yeah!
+
+0xA0E92AD7 = ~z~She can't be that strong.
+
+0xA420C09F = ~z~That's not a woman. I don't believe it.
+
+0xBC171210 = ~z~Yeah!
+
+0xC24E41AD = ~z~She's strong as an ox!
+
+0xC684A13C = ~z~Yeah.
+
+0xD3EAE4E6 = ~z~Show us your muscles!
+
+0xF38B5F73 = ~z~This ain't a woman.
+

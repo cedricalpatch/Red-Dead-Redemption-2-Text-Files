@@ -1,0 +1,50 @@
+0x0A0DA9D7 = You are wearing Golden Armor
+
+0x2A6A9406 = Take out ~COLOR_ENEMY~~1p~~s~ ~2b~ who has the Golden Armor and collect it yourself to score points.
+
+0x2CEF78C8 = You gained a score of ~1~
+
+0x4AB6ADA6 = Take out players while wearing the ~COLOR_FREEMODE_EVENT~Golden Armor~s~ to score the most points to win. You can also score points by taking out a rival player wearing the Golden Armor.
+
+0x4E839AE5 = Take out ~COLOR_ENEMY~enemy players~s~ to score points
+
+0x9AADBE3B = Obtain some ~COLOR_ENEMY~Golden Armor
+
+0x9C28147F = ~COLOR_POSSE_ALLY~~1p~ ~2b~ ~s~is wearing the Golden Armor. Protect them while they increase their score.
+
+0x47BEF6BB = Golden Armor
+
+0x51A0933B = ~COLOR_ENEMY~~1p~~s~ is wearing ~COLOR_MP_OBJECTIVE_ENEMY~Golden Armor
+
+0x59CE7400 = The ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ ~1b~ can be picked up at its new location.
+
+0x172FDA29 = Defend your ~COLOR_POSSE_ALLY~Posse
+
+0x699EAF51 = Obtain the ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor
+
+0x1811B014 = ~COLOR_POSSE_ALLY~~1p~~s~ is wearing ~COLOR_MP_OBJECTIVE_FRIENDLY~Golden Armor
+
+0x2579B52A = The ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ ~1b~ can be picked up at its new location.
+
+0x3673FAF3 = Fool's Gold
+
+0x5418CAE0 = Get the ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ and take out ~COLOR_ENEMY~players~s~ to earn points
+
+0x172337FD = ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ has been dropped
+
+0xA7F9E979 = Wearing the Golden Armor reduces damage taken, but limits your movement. Take out players to score points.
+
+0xB9A30B73 = The Golden Armor was lost. New ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ ~1b~ can be picked up.
+
+0xBEF0BB4A = The idle ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor~s~ ~1b~ will be moved soon if no one claims it.
+
+0xC0605627 = ~COLOR_POSSE_ALLY~Allies~s~ are wearing the Golden Armor. Protect them while they increase their scores.
+
+0xE37CA5CF = Defend ~COLOR_POSSE_ALLY~~1p~
+
+0xE69064C5 = Scored ~1~
+
+0xED3DD8CA = Obtain some ~COLOR_MP_OBJECTIVE_NEUTRAL~Golden Armor
+
+0xF7876325 = Obtain the ~COLOR_ENEMY~Golden Armor
+

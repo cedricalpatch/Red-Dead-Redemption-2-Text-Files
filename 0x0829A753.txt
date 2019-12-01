@@ -1,0 +1,22 @@
+0x0D3A838C = ~z~Eat that.
+
+0x1F2E2773 = ~z~You wanna watch that temper of yours, boy!
+
+0x9E94861E = ~z~
+
+0x45EC74EF = ~z~
+
+0x89A47C5A = ~z~
+
+0x204AD7A5 = ~z~~sl:1.2:1.6:1~What are you looking at, cowboy?
+
+0x71154B3C = ~z~
+
+0xD82A996D = ~z~~sl:0.0:1.2~Hey, redskin.~sl:~Go fetch me something to eat.
+
+0xE94DE7CC = ~z~
+
+0xEA343D80 = ~z~Excuse me?
+
+0xEE8E4634 = ~z~~sl:0.0:0.8~I said,~sl:0.4~fetch me something to eat.
+

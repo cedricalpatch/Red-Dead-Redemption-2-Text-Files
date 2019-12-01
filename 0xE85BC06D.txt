@@ -1,0 +1,470 @@
+0x02FE10BA = James Langton does not have any missions to offer currently.
+
+0x045DA1E8 = Angus will not offer anything due to your recent behavior towards him. Come back later.
+
+0x0697B5B7 = Tammy will not offer anything due to your recent behavior towards her. Come back later.
+
+0x07FAFFF5 = Accept ~1~
+
+0x09EF5A76 = You are currently wanted and cannot receive a mission from Shaky.
+
+0x0A7A9AE1 = Increase your chance at success by accepting Free Roam ~1b~ missions as part of a Posse.
+
+0x0B393019 = The Train Clerk does not have any missions to offer currently.
+
+0x0BD96B66 = You do not have enough money to purchase the Bounty Hunter License.
+
+0x0C758FBE = Your bounty is too high to receive a mission from Black Belle.
+
+0x0CCCABF9 = There are no bounties to collect currently.
+
+0x0D9BEE30 = The Boy does not have any missions to offer currently.
+
+0x1B6455E4 = You have already completed a mission from Black Belle today. Come back later to receive another.
+
+0x1CEA6265 = Only Posse Leaders can receive a mission from Anthony Foreman.
+
+0x1D700917 = The stranger will not offer anything due to your recent behavior towards them. Come back later.
+
+0x1DEACF9B = Mama Watson does not have any missions to offer currently.
+
+0x1E7FCAF2 = Black Belle does not have any missions to offer currently.
+
+0x1F7A2679 = Only Posse Leaders can receive a mission from Hector.
+
+0x3AD00977 = Only Posse Leaders can receive a mission from Alden.
+
+0x3B073632 = You have not met the requirements to receive missions from Sheriff Freeman.
+
+0x3C251118 = You have not met the requirements to receive missions from the Post Clerk.
+
+0x3FD9554E = You are currently wanted and cannot receive a mission from the Van Horn Post Clerk.
+
+0x4AACDD1D = You have not met the requirements to receive missions from Tammy.
+
+0x4B3675A6 = Your bounty is too high to receive a mission from Mama Watson.
+
+0x4C3A5917 = Your Posse is too large to start a Legendary Bounty
+
+0x4C977205 = You have already completed a mission from Hector today. Come back later to receive another.
+
+0x4E989309 = Only Posse Leaders can receive a mission from the stranger.
+
+0x4EC6987E = You are currently wanted and cannot receive a mission from the Train Clerk.
+
+0x4F5000B3 = You have not met the requirements to receive missions from James Langton.
+
+0x5A0AEA30 = You have not met the requirements to receive missions from Thomas.
+
+0x5A2A5C0A = Purchase a Bounty Hunter License to choose a poster and hunt down a bounty target.
+
+0x5A965EE0 = You are currently wanted and cannot receive a mission from Sadie Adler.
+
+0x5A34488D = Choose a Legendary Bounty to replay
+
+0x5C80DBF6 = You have not met the prerequisites for ~1~.
+
+0x5C1656F8 = You have already completed a mission from Mama Watson today. Come back later to receive another.
+
+0x5CFBF80B = Mama Watson will not offer anything due to your recent behavior towards her. Come back later.
+
+0x5D5AFAEC = Anthony Foreman will not offer anything due to your recent behavior towards him. Come back later.
+
+0x5D748258 = You are currently wanted and cannot receive a mission from the Strawberry Post Clerk.
+
+0x5F6E7BF4 = Josiah Trelawny will not offer anything due to your recent behavior towards him. Come back later.
+
+0x6AA36BF4 = Your bounty is too high to receive a mission from James Langton.
+
+0x6DD8D9EB = You have already completed a mission from Thomas today. Come back later to receive another.
+
+0x6EA37F64 = Thomas will not offer anything due to your recent behavior towards him. Come back later.
+
+0x7A0DAFA4 = Alden does not have any missions to offer currently.
+
+0x7A7C1B4C = Alden will not offer anything due to your recent behavior towards him. Come back later.
+
+0x7AA1C565 = Only Posse Leaders can receive a mission from The Boy.
+
+0x7DB3E26E = Your bounty is too high to receive a mission from the stranger.
+
+0x7DED3073 = Only Posse Leaders can receive a mission from Jake Adler.
+
+0x7E3A0E99 = Only Posse Leaders can receive a Bounty Hunting mission.
+
+0x7E505FCD = Accepting a job from this mission giver will remove your Posse Members from their current activities.
+
+0x7FF82EF4 = Accepting this mission ~1b~ will give you a small honor increase.
+
+0x8A40E2B7 = Bonnie will not offer anything due to your recent behavior towards her. Come back later.
+
+0x8A97A647 = You have already completed a mission from the stranger today. Come back later to receive another.
+
+0x8B5E6794 = Hector will not offer anything due to your recent behavior towards him. Come back later.
+
+0x8D973CF4 = You have previously completed this mission. The difficulty will be further increased on your next attempt.
+
+0x8E81066B = Your bounty is too high to receive a mission from Sheriff Freeman.
+
+0x8EF8878F = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Bounty Board
+
+0x9A09DE21 = Shaky does not have any missions to offer currently.
+
+0x9BAD4149 = Only Posse Leaders can receive a mission from Flaco Hernandez.
+
+0x9C273C28 = Your bounty is too high to receive a mission from Sadie Adler.
+
+0x9CD1BF4D = You have not met the requirements to receive missions from Anthony Foreman.
+
+0x9E01F835 = Your bounty is too high to receive a mission from the strangers.
+
+0x14B02EBC = You have already completed a mission from Shaky today. Come back later to receive another.
+
+0x16CA56C8 = Your bounty is too high to receive a mission from Alden.
+
+0x17D9FCDE = Legendary Bounty not available when a Posse Member is jailed
+
+0x22F14595 = You are currently wanted and cannot receive a mission from the strangers.
+
+0x24DF1C33 = Your bounty is too high to receive a mission from Shaky.
+
+0x25DD4FF6 = You are currently wanted and cannot receive a mission from Joe.
+
+0x25EC7809 = ~1$~ Purchase Bounty Hunter License
+
+0x25F7B3D9 = You have already completed a mission from Sheriff Freeman today. Come back later to receive another.
+
+0x29D4CFCE = This Bounty Target is only available for higher ranked Bounty Hunters.
+
+0x30D502A4 = Sadie will not offer anything due to your recent behavior towards her. Come back later.
+
+0x32A4D78B = Legendary Bounties
+
+0x35CD60CF = This poster is recommended for Bounty Wagon owners or playing as part of a Posse.
+
+0x36C7D814 = You have already completed a mission from the strangers today. Come back later to receive another.
+
+0x39F6C061 = You are currently wanted and cannot receive a mission from the stranger.
+
+0x41FE5624 = You have not met the requirements to receive missions from the Tumbleweed Sheriff.
+
+0x42A46FA3 = You have already completed a mission from James Langton today. Come back later to receive another.
+
+0x44AED8FD = Only Posse Leaders can receive a mission from the strangers.
+
+0x44DD5113 = You are currently wanted and cannot receive a mission from Josiah Trelawny.
+
+0x44E4D8A6 = Only Posse Leaders can receive a mission from Tammy.
+
+0x44E898F9 = You have already completed a mission from Tammy today. Come back later to receive another.
+
+0x48FC2B65 = The stranger will not offer anything due to your recent behavior towards them. Come back later.
+
+0x52CDD869 = Only Posse Leaders can receive a mission from Hamish.
+
+0x55F496F2 = Hector does not have any missions to offer currently.
+
+0x60F50E7E = Shaky will not offer anything due to your recent behavior towards him. Come back later.
+
+0x61A0039F = James Langton will not offer anything due to your recent behavior towards him. Come back later.
+
+0x61CC3010 = You have already completed a mission from the stranger today. Come back later to receive another.
+
+0x64B6E332 = Only Posse Leaders can receive a mission from Black Belle.
+
+0x65BD7572 = Flaco will not offer anything due to your recent behavior towards him. Come back later.
+
+0x66C1B245 = You have not met the requirements to receive missions from Mama Watson.
+
+0x66E7E1FE = No bounties are currently available at this board. Check back later for new bounty posters.
+
+0x67A9B819 = Only Posse Leaders can receive a mission from Bonnie.
+
+0x67D04C90 = Your bounty is too high to receive a mission from Thomas.
+
+0x71B88361 = You have not met the requirements to receive missions from Shaky.
+
+0x77AB20DF = You have not met the requirements to receive missions from Sadie Adler.
+
+0x81BFFCE1 = Your bounty is too high to receive a mission from Flaco Hernandez.
+
+0x81EA639B = You have already completed a mission from Hamish today. Come back later to receive another.
+
+0x85B515A3 = Choose Bounty Poster
+
+0x88F316C6 = You have already completed a mission from Joe today. Come back later to receive another.
+
+0x89E4A0CB = You have not met the requirements to receive missions from Sean Macguire.
+
+0x94C72635 = You have already completed a mission from Angus today. Come back later to receive another.
+
+0x98A41B01 = You have already completed a mission from Alden today. Come back later to receive another.
+
+0x98F7598C = Posse change occurred
+
+0x209DE436 = The Train Clerk will not offer anything due to your recent behavior towards them. Come back later.
+
+0x264C59FB = Your bounty is too high to receive a mission from the Blackwater Post Clerk.
+
+0x326DF5ED = Only Posse Leaders can receive a mission from Josiah Trelawny.
+
+0x328FC6E9 = You have not met the requirements to receive missions from Hamish.
+
+0x329B147A = Hamish will not offer anything due to your recent behavior towards him. Come back later.
+
+0x350D9D24 = Your bounty is too high to receive a mission from the Post Clerk.
+
+0x373B5C06 = The Boy will not offer anything due to your recent behavior towards him. Come back later.
+
+0x398C5904 = Only Posse Leaders can receive a mission from James Langton.
+
+0x643A2E21 = You are currently wanted and cannot receive a mission from Anthony Foreman.
+
+0x666FCFD3 = Joe does not have any missions to offer currently.
+
+0x794C105A = You have done a job too recently. Come back later to receive another.
+
+0x812F61CD = The Post Clerk will not offer anything due to your recent behavior towards them. Come back later.
+
+0x825B8CC4 = Your bounty is too high to receive a mission from The Boy.
+
+0x845BE9E3 = You are currently wanted and cannot receive a mission from Hector.
+
+0x852AC73F = Sheriff Freeman does not have any missions to offer currently.
+
+0x861E279B = You have already completed a mission from Jake Adler today. Come back later to receive another.
+
+0x862B3834 = Your honor ~BLIP_OUTLAW~ is too low to accept this job.
+
+0x906DBA91 = You are currently wanted and cannot receive a mission from the stranger.
+
+0x989F1C2C = You have not met the requirements to receive Bounty Hunting missions.
+
+0x996EB2BA = Zoom
+
+0x4252EE7C = You are currently wanted and cannot receive a mission from The Boy.
+
+0x4421FB2F = The stranger does not have any missions to offer currently.
+
+0x5343BE65 = Only Posse Leaders can receive a mission from Mama Watson.
+
+0x5748A64E = Only Posse Leaders can receive a mission from the Post Clerk.
+
+0x6327C2D7 = You are currently wanted and cannot receive a mission from Sean Macguire.
+
+0x6729AB22 = Gun for Hire
+
+0x6806FEA8 = Flaco Hernandez does not have any missions to offer currently.
+
+0x7121DCD2 = Jake Adler does not have any missions to offer currently.
+
+0x7451D36C = Josiah Trelawny does not have any missions to offer currently.
+
+0x7589BAD4 = Your bounty is too high to receive a mission from Sean Macguire.
+
+0x7609D960 = You are currently wanted and cannot receive a Bounty Hunting mission.
+
+0x7742D73F = Hamish does not have any missions to offer currently.
+
+0x8214B735 = Your bounty is too high to receive a mission from Anthony Foreman.
+
+0x9951B8B8 = Only Posse Leaders can receive a mission from Sadie Adler.
+
+0x28355B7A = Your bounty is too high to receive a Bounty Hunting mission.
+
+0x31137A5D = Your bounty is too high to receive a mission from Angus.
+
+0x50134C21 = You have already completed a mission from The Boy today. Come back later to receive another.
+
+0x69255F06 = Your bounty is too high to receive a mission from Tammy.
+
+0x74973A06 = You have previously completed this mission. It is now available at the highest difficulty.
+
+0x75351D1E = Decline
+
+0x79624DA2 = Jake will not offer anything due to your recent behavior towards him. Come back later.
+
+0x82619C12 = Your bounty is too high to receive a mission from Hamish.
+
+0x88465DE9 = Sheriff Freeman will not offer anything due to your recent behavior towards him. Come back later.
+
+0x577402BE = You are currently wanted and cannot receive a mission from James Langton.
+
+0x985820AF = You have not met the requirements to receive missions from Joe.
+
+0x3881088C = Your bounty is too high to receive a mission from the Tumbleweed Sheriff.
+
+0x12861878 = Your bounty is too high to receive a mission from the Van Horn Post Clerk.
+
+0x24836232 = You are currently wanted and cannot receive a mission from Jake Adler.
+
+0x52290926 = Sadie Adler does not have any missions to offer currently.
+
+0x70176497 = Accept
+
+0xA0B54F37 = You are currently wanted and cannot receive a mission from Alden.
+
+0xA2FFCD83 = Only Posse Leaders can receive a mission from Shaky.
+
+0xA5A1C9B1 = You are currently wanted and cannot receive a mission from Sheriff Freeman.
+
+0xA9A78B30 = You have not met the requirements to receive missions from Hector.
+
+0xA9B280E1 = Only Posse Leaders can receive a mission from Joe.
+
+0xA39E817E = Sean Macguire will not offer anything due to your recent behavior towards him. Come back later.
+
+0xA39F562A = You have not met the requirements to receive missions from Flaco Hernandez.
+
+0xA812BE2C = You have already completed a mission from Anthony Foreman today. Come back later to receive another.
+
+0xA929E527 = Tammy does not have any missions to offer currently.
+
+0xAC69FEF1 = Only Posse Leaders can receive a mission from Sheriff Freeman.
+
+0xACEF4C1C = You are currently wanted and cannot receive a mission from the Blackwater Post Clerk.
+
+0xAD0F56D5 = You have already completed a mission from the Tumbleweed Sheriff today. Come back later to receive another.
+
+0xAD583CA4 = You have already completed a mission from Sean Macguire today. Come back later to receive another.
+
+0xAEB06161 = You have not met the requirements to receive missions from Josiah Trelawny.
+
+0xAEDF70DA = Now you can replay Legendary Bounty missions at the Bounty Board.
+
+0xAF8928B2 = Legendary Bounty not available at this time
+
+0xAF135925 = Black Belle will not offer anything due to your recent behavior towards her. Come back later.
+
+0xAFB7A91F = Your Posse has too few members to accept this job.
+
+0xB02684DD = You are currently wanted and cannot receive a mission from Bonnie.
+
+0xB0958B18 = Sean Macguire does not have any missions to offer currently.
+
+0xB3B1BA7E = Bonnie does not have any missions to offer currently.
+
+0xB3C465B5 = Joe will not offer anything due to your recent behavior towards him. Come back later.
+
+0xB4B30841 = You are currently wanted and cannot receive a mission from the Tumbleweed Sheriff.
+
+0xB6A156FB = You are currently wanted and cannot receive a mission from Mama Watson.
+
+0xB23A05A6 = You are currently wanted and cannot receive a mission from Flaco Hernandez.
+
+0xB173C385 = Angus does not have any missions to offer currently.
+
+0xB288B4EE = You have already completed a mission from the Post Clerk today. Come back later to receive another.
+
+0xB6224B91 = Only Posse Leaders can receive a mission from the stranger.
+
+0xB37355BF = Anthony Foreman does not have any missions to offer currently.
+
+0xBCB30AB2 = You have not met the requirements to receive missions from Angus.
+
+0xBDFF6990 = Thomas does not have any missions to offer currently.
+
+0xBF7D85F9 = You are currently wanted and cannot receive a mission from Tammy.
+
+0xC0A4DD8B = Previous
+
+0xC3E7DAAE = You have not met the requirements to receive missions from the Train Clerk.
+
+0xC9F68616 = You are currently wanted and cannot receive a mission from Angus.
+
+0xC433F8CE = You have already completed a mission from Bonnie today. Come back later to receive another.
+
+0xCC6FFB6C = Decline ~1~
+
+0xCC91A6BB = Your bounty is too high to receive a mission from Joe.
+
+0xCE54BCE7 = Greet
+
+0xCF171726 = You are currently wanted and cannot receive a mission from Hamish.
+
+0xD0E65297 = The Post Clerk does not have any missions to offer currently.
+
+0xD1AFA616 = You have already completed a mission from Flaco Hernandez today. Come back later to receive another.
+
+0xD2C3A76B = This bounty has been claimed.
+
+0xD9F00481 = Only Posse Leaders can receive a mission from Angus.
+
+0xD46F3EF6 = Only Posse Leaders can receive a mission from Thomas.
+
+0xD56D0D53 = You have not met the requirements to receive missions from the stranger.
+
+0xD91D50C2 = Only Posse Leaders can receive a mission from the Train Clerk.
+
+0xD3964E17 = Your bounty is too high to receive a mission from the stranger.
+
+0xD4185C63 = You are currently wanted and cannot receive a mission from Black Belle.
+
+0xD8856C16 = You are currently wanted and cannot receive a mission from the Post Clerk.
+
+0xD73802F1 = Your bounty is too high to receive a mission from Josiah Trelawny.
+
+0xD882375E = Only Posse Leaders can receive a mission from Sean Macguire.
+
+0xD8916840 = Your bounty is too high to receive a mission from Bonnie.
+
+0xDBA3A24F = Your bounty is too high to receive a mission from Hector.
+
+0xDCB6DBA4 = Your bounty is too high to receive a mission from the Strawberry Post Clerk.
+
+0xDD9E1870 = Your bounty is too high to receive a mission from the Train Clerk.
+
+0xDD27EBA3 = You have not met the requirements to receive missions from the strangers.
+
+0xDF26D0B1 = You have not met the requirements to receive missions from The Boy.
+
+0xE1DC2FD7 = The Tumbleweed Sheriff does not have any missions to offer currently.
+
+0xE2B586ED = You have not met the requirements to receive missions from Bonnie.
+
+0xE4D4AB21 = Accepting this mission ~1b~ will give you a small honor decrease.
+
+0xE6FE6B15 = You have already completed a Bounty today. Come back later to receive another.
+
+0xE9B56439 = You have already completed a mission from Josiah Trelawny today. Come back later to receive another.
+
+0xE86D5105 = Your bounty is too high to receive a mission from Jake Adler.
+
+0xE211B9F8 = You have not met the requirements to receive missions from Jake Adler.
+
+0xE637F45F = The stranger does not have any missions to offer currently.
+
+0xE741BFAF = You have done ~1~ today. Come back later to receive another job.
+
+0xE5336CBB = Your honor ~BLIP_GUNSLINGER~ is too high to accept this job.
+
+0xE5778E87 = You have not met the requirements to receive missions from Alden.
+
+0xECE7C465 = You have not met the requirements to receive missions from Black Belle.
+
+0xF7B63668 = You are currently wanted and cannot receive a mission from Thomas.
+
+0xF8B63702 = Turn in ~1~
+
+0xF30B734D = Only Posse Leaders can receive a mission from the Tumbleweed Sheriff.
+
+0xF37EE8E0 = You have not met the requirements to receive missions from the stranger.
+
+0xF55EAB6C = The Tumbleweed Sheriff will not offer anything due to your recent behavior towards him. Come back later.
+
+0xF3225494 = Exit
+
+0xF4333740 = ~COLOR_CASH_GOLD~?~1~ Purchase Bounty Hunter License~s~
+
+0xFB906903 = You have already completed a mission from Sadie Adler today. Come back later to receive another.
+
+0xFBC74C4C = You have already completed a mission from the Train Clerk today. Come back later to receive another.
+
+0xFC38751B = The strangers do not have any missions to offer currently.
+
+0xFD5EACFB = Greet
+
+0xFDA93179 = Next
+
+0xFFB1BA7B = Read
+

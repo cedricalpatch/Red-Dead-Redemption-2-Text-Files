@@ -1,0 +1,314 @@
+0x020F5ECC = ~z~Marvelous stuff... marvelous!
+
+0x04039E2A = ~z~~sl:0.0:4.5~She... breathes fire! Yes, she does...~sl:0.5~and for those with the universal and not unworthy curiosity, yes,
+
+0x065AECA6 = ~z~Each of my shows is truly incredulous, awe inspiring, and  I am sure you enjoyed... thank you...
+
+0x06982DDC = ~z~much like the president...
+
+0x06E9424C = ~z~~sl:0.0:3.2:1~my goodness... that man's hat was alight!
+
+0x08AEFC37 = ~z~Thank you... thank you... he liked that joke, yes...
+
+0x1A6F14D6 = ~z~We flounder through the morass of humanity, with only bright moments like these
+
+0x1CBF7D04 = ~z~~sl:0.0:4.2~which tragically... perished in a... a tavern fire...~sl:0.5~yes... thank you... oh, my little babies.
+
+0x1D3C6EF2 = ~z~~sl:0.0:4.5:1~Antoinette Sanseverino. She's really something isn't she, huh?
+
+0x1E83EC27 = ~z~~sl:0.0:5.3~Good evening, hello, yes, thank you. I am, as you well know...~sl:0.1~Aldridge T. Abbington.
+
+0x2BA9B74B = ~z~before it all goes dim, and snuffs out in silence!
+
+0x2D118942 = ~z~~sl:1.3:0.0~ Good evening!
+
+0x3A593B4F = ~z~I put on an incredible show, don't I? Incredulous! Awe inspiring!
+
+0x3A828B43 = ~z~~sl:0.0:3.2~I can attest, she does emit fire,~sl:0.1~from almost every orifice in her body...
+
+0x3B8FF318 = ~z~Wasn't that amusing? Quite the practical joker he is...
+
+0x3B28A570 = ~z~from Russia to France, and especially London, where I receive...
+
+0x3D74034C = ~z~I never dreamed of the stir I would create in this locality as a proprietor of the greatest show ever assembled!
+
+0x3DEADBCD = ~z~So, thank you. What a lovely evening, come back, tomorrow.
+
+0x3DF052E6 = ~z~She is the strongest woman alive. Presenting Miss. Hortensia, from deepest of Bavaria!
+
+0x3EEB7186 = ~z~I cannot delay this congregation one more second,
+
+0x4A457BDF = ~z~~sl:0.0:3.6~I have determined the ticket price should be very low...~sl:0.2~and the show held without a profit... to me, it's true.
+
+0x4B3EF7F4 = ~z~where she sang by the roadside, subsisting on coppers, tossed at her feet. Miss. Robin Koninsky!
+
+0x4C50A105 = ~z~Welcome! And thank you for that thunderous applause. I am Aldridge T. Abbington,
+
+0x4CE9C8E6 = ~z~~sl:0.0:2.8~ very warm acknowledgements and once entertained...~sl:0.0:3.2~the great Queen herself, in a manner...~sl:0.1:1.6:1~I cannot discuss further.
+
+0x4DBBC4DB = ~z~Anyway... I met this next remarkable lady on a steamer bound for Morocco...
+
+0x5DB4A645 = ~z~She'll not nurse babies, she'd turn them into bacon.
+
+0x7AB90B67 = ~z~Whilst traveling in the hills of Bavaria my olfactories were disturbed by a monstrous manure cart in front of me...
+
+0x7BDCC7C9 = ~z~Flawless, perfect! I see you love her dulcet tones, right? Yes, she is pure spectacle and...
+
+0x7C98CC4D = ~z~It is quite easy to suck the venom out of a woman. I have done it several times...
+
+0x7D109012 = ~z~I present to you The great Hortensia!
+
+0x7E2015D1 = ~z~Dear Lord... She's fine ladies and gentlemen, she has a very strong constitution.
+
+0x8BC36AA2 = ~z~Oh... goodness... yes... do not worry ladies and gentlemen.
+
+0x8DA3EB57 = ~z~I assure you, she can charm any beast, I assure you... any beast at all, from cockroach to killer whale...
+
+0x8E436C39 = ~z~Incredible! I hear that all the women of Bavaria undertake that very ritual on their wedding night...
+
+0x8FACC007 = ~z~Oh my goodness...
+
+0x9E2F617B = ~z~Majestic!  Have you ever seen such a thing? I'm all a quiver, I can tell you...
+
+0x20EADD9C = ~z~Presenting Benjamin Lazarus!
+
+0x30F2D595 = ~z~of experiencing the phenomenal display of the one and only Benjamin Lazarus!
+
+0x31A1862F = ~z~You are about to do both... Miss, Antoinette Sanseverino.
+
+0x45B303A4 = ~z~
+
+0x48CDD838 = ~z~How... how did he do it? Ah, Incredible, thank you for your positive accolades... I...
+
+0x57E2957D = ~z~I have traveled the world seeking delights and amusements, visiting every city, town, hamlet and village of importance.
+
+0x61ECA991 = ~z~I am Aldridge T. Abbington bringer of daily entertainments that will enchant you.
+
+0x66FB72CF = ~z~Prepare for the bawdy brassieres of The Petit Flaneur in gay Paris.
+
+0x71BF9A07 = ~z~Yes, yes! She's something isn't she? You know I once tried to woo her,
+
+0x72C5F6F6 = ~z~Woah, amazing!
+
+0x78DA4C5C = ~z~He-he's just fine, he is fine... please, be calm... it's just entertainment... anyway.
+
+0x80B0BC11 = ~z~From Lagras she is, speaking in that battered tongue, but bringing us a show unlike any other.
+
+0x84BCFAFC = ~z~From my time in France I met these lovely girls who would dance and expose their bloomers for a piece of molasses candy!
+
+0x84FAAAA3 = ~z~
+
+0x86C4F549 = ~z~I-I mean... I could think of several reasons, but this isn't the time...
+
+0x99E9775A = ~z~~sl:0.0:3.6~I am Aldridge T. Abbington,~sl:0.3:4.2~tasked with bringing you the greatest show in Saint Denis,~sl:~or for that matter...
+
+0x237BA198 = ~z~
+
+0x263D549F = ~z~Prepare for the grandest excitement of your curiosity! Fire, snakes, and magic!
+
+0x267A95B5 = ~z~These are the bright spots in our lives, which often terminate without sense or meaning,
+
+0x342F3F64 = ~z~I encourage any man in this audience, who has a high opinion of himself, to square off with our next act.
+
+0x395C542F = ~z~I... discovered this next woman in the Kingdom of Poland,
+
+0x423D0603 = ~z~It has been my pleasure entertaining you this evening!
+
+0x441BC4DB = ~z~they are quite a capricious bunch.  Presenting Miss Marjorie and her medical miracles.
+
+0x452CE886 = ~z~and I, Aldridge T. Abbington am the greatest bringer of amusements!
+
+0x493B4195 = ~z~My prosperous career as the greatest showman on Earth is well known,
+
+0x535C04DC = ~z~but, let's not dwell on the savagery that exists out there, we are here to partake in amusements,
+
+0x560D4258 = ~z~Deep in the wilds of Colombia, where they do not wear clothes.
+
+0x615F65AA = ~z~Your mother most likely told you not to play with fire... or to spend time in the company of strange women.
+
+0x736CA37C = ~z~I met these odd fellows in a tavern in some godforsaken place, entertaining cretins,
+
+0x739ACEF5 = ~z~Please, please! Why would you treat a woman in such a way?
+
+0x910B803E = ~z~Good evening!  I have assembled an evening I think you won't soon forget,
+
+0x967CE82F = ~z~So, before you snuff out that oddly shaped baby, bring them to me!
+
+0x973BBFDD = ~z~rather than a pit of depravity and despair.
+
+0x1421B068 = ~z~I encourage any of you to dabble in all three if you have a settled aversion to manual labor as I do,
+
+0x1502AB8F = ~z~Each day is one less until our last, distraction is our greatest joy!
+
+0x2296B8DD = ~z~I am honored to present to you the greatest escape artist ever to live.
+
+0x3030C7B6 = ~z~For it is blessing enough to bring these gifted artists, to you.
+
+0x3941FAA8 = ~z~better than any packed larder or root cellar full of canned goods.
+
+0x4033C927 = ~z~We've had a stupendous evening for sure. It is a pleasure to join you in such merriments.
+
+0x4303EBBC = ~z~could juggle and please a harem at the same time. It's true! Now, let's get down to it!
+
+0x4748A4CF = ~z~~sl:1.7~Presenting, Antoinette Sanseverino!
+
+0x6127CAB3 = ~z~the greatest assembler of entertainment since Nero himself! Do not doubt!
+
+0x6892C784 = ~z~He is truly a wonder to behold. Presenting Benjamin Lazarus!
+
+0x7637D227 = ~z~Greetings gentlefolk. Welcome to my show!
+
+0x8390E549 = ~z~unless you are beset upon by thieves who thunder your skull with a large rock...
+
+0x13510C57 = ~z~I have seen dogs that can fly... monkeys that can sew, and a half man, that despite being an addle-headed fop,
+
+0x14411C32 = ~z~Compositions have been written about his incredible feats of wonderment.
+
+0x27314FEC = ~z~Goodnight, until next time.
+
+0x40182F43 = ~z~Yes, you are about to witness the grandest of shows.
+
+0x62859B55 = ~z~Miss. Robin Koninsky!
+
+0x96799E79 = ~z~Oh, what a delight. I bring you the girls of Petit Flaneur in gay Paris.
+
+0x99319AEF = ~z~One never knows. Thank you, and good night!
+
+0x758006C1 = ~z~This next act has delighted audiences around the world.
+
+0x829648B4 = ~z~~sl:0.0:4.8~Thank you! Thank you, hello, greetings!~sl:0.1~Thank you for your obeisance, truly.
+
+0x872944DA = ~z~
+
+0x972284D0 = ~z~French women are hirsute and temperamental and you've only made things worse... oh well.
+
+0x6512855B = ~z~Well... tiny people and tiny headed giants, curious things. They are a delight and can make you money.
+
+0x8813261B = ~z~I was surprised to find it wasn't pulled by beast of burden, but instead by a mighty woman as strong as an ox.
+
+0x50346928 = ~z~Oh, we have a new show tomorrow.
+
+0x81059371 = ~z~If only Eve danced so well with her devil, maybe humanity would still live in a garden of innocent grandeur,
+
+0xA02C03DF = ~z~~sl:0.0:1.8~the whole world!~sl:0.2~I... have the foresight and fortitude to bring you acts,
+
+0xA5C4D61C = ~z~Oh... oh, What a fine tune. She is a siren, singing from the rocks, as men bash into them... to their doom.
+
+0xA5E50679 = ~z~Ah, that's a pretty good alliteration there.
+
+0xA50C20A3 = ~z~Ah! What have you done?
+
+0xA253BB0D = ~z~I discovered this next act in a tiny village in Italy, truly the most exotic of places in the world!
+
+0xA29765DC = ~z~I-I assure you... she's fine, she has lain with snakes for many moons,
+
+0xA5187199 = ~z~Bravo, Bravo! You now understand her unbounded popularity and why she receives so many gentlemen callers...
+
+0xAB7A3F80 = ~z~from consumption, a disorder of the bowels, or being trampled to death by horses.
+
+0xAC5CB368 = ~z~Ah, wonderful... i-it's all like a... it's a bit like a lynching... only less American...
+
+0xAEAC7379 = ~z~~sl:0.0:5.5:1~Now... I discovered this next remarkable woman... in a lost jungle...
+
+0xAFB667CF = ~z~As a child, when I walked the horse manure covered streets of St. Denis,
+
+0xB07E4BD7 = ~z~Incredible, bravo! Though I must warn you... court her at your peril.
+
+0xB2E59A12 = ~z~Oh, thank you...
+
+0xB4D261E1 = ~z~What grand entertainment watching a reversal of the sexes...
+
+0xB2088D7B = ~z~where they have the queerest and most delightful tobaccos one should ever partake in.
+
+0xB4995F98 = ~z~He was a ten year old boy. I raised him, bathed him, I shaved him from head to toe.
+
+0xB5762E73 = ~z~~sl:0.0:5.3~that when exhibited together, comprise the most amusing actors,~sl:0.3~captivating performers, and...
+
+0xB8244691 = ~z~Now... ladies and gentlemen, please welcome a truly stunning musical performance to the stage.
+
+0xC02D29C4 = ~z~She is unrivaled with a sword, and her dance will captivate you, the Mysterious Maya!
+
+0xC3BF1F1F = ~z~Thank you for joining me for tonight's entertainment.
+
+0xC4FF85F9 = ~z~why would we hang a man for amusement? Ridiculous!
+
+0xC127ED2A = ~z~Oh, wonderful! Oh... incredible, it's still hot in here, huh?
+
+0xCAD71DD4 = ~z~for entertainment is a gift that will see you through the winter
+
+0xCB1259AB = ~z~~sl:0.0:3.9~My delight in acquisitiveness began at an early age,~sl:0.0:3.4:1~when I was the proprietor of a tiny dog circus...
+
+0xCBF3CA49 = ~z~This remarkable woman first attained notoriety seducing alligators out of the swamp and into a pot of stew.
+
+0xCE7796B3 = ~z~Or at least until tomorrow, when you might die of small pox anyway. Goodnight St. Denis!
+
+0xCEC3B94F = ~z~He is the greatest magician alive, especially as many have died attempting feats of escape.
+
+0xCEEAD884 = ~z~The Mysterious Maya!
+
+0xD0541170 = ~z~Aren't they lovely? Those legs are a sight to behold... I am spent...
+
+0xD6A55F14 = ~z~A hint of thigh and most men are overcome... you are all extremely confused.
+
+0xD228BBF2 = ~z~I hope it has delayed for at least a moment the crushing... and remorseless misery of this mortal coil.
+
+0xDBB5312E = ~z~What an incredible night! I pray that you won't remember this evening for as long as you live.
+
+0xDBFA1F4A = ~z~~sl:0.0:3.8~In an effort to bring this entertainment to even...~sl:0.3~the poorest dreamer of dreams,
+
+0xDC62E05B = ~z~Enchanting! Mesmerizing! She is truly one to bring home to mother...
+
+0xDE296EB4 = ~z~Her snake dance will leave you questioning allegory. The Mysterious Maya.
+
+0xE0A87BFF = ~z~I bring you the most incredible singer of serpents, this side of the swamp.
+
+0xE1B15CFA = ~z~Yes... an odd mating ritual but each to his own.
+
+0xE1C347DA = ~z~Antoinette Sanseverino!
+
+0xE1D74EEC = ~z~I told you that boy would bring you all manner of satisfaction... he certainly does me.
+
+0xE3E0F98B = ~z~What happened? Oh my goodness, my goodness you've interrupted the best part.
+
+0xE3F6FE74 = ~z~but she managed easily to elude my efforts... by setting my topcoat aflame...
+
+0xE55F3214 = ~z~~sl:0.0:4.4~I have procured a show so fantastical, there exists...~sl:0.1~nothing like it, anywhere!
+
+0xE216D935 = ~z~Lovely, isn't she lovely? The thighs of an angel, the charms of the devil...
+
+0xE650E442 = ~z~Goodnight! Dream well... and come back soon.
+
+0xE2180CED = ~z~we are deluded into assuming it was in any way interesting. Be well, goodnight.
+
+0xE5417EC9 = ~z~~sl:0.0:4.0:1~She's certainly singed the better elements of my manliness!
+
+0xE3510050 = ~z~Oh my, my, incredible marksmanship, what a thrilling spectacle...
+
+0xEB2D99E1 = ~z~But that's another story. Let us prepare now, for a phenomenal evening!
+
+0xEB7D7BD9 = ~z~It is said that there is a place in France where the naked ladies dance. I have been there.
+
+0xEBBE7114 = ~z~I once saw her stop a charging bull with her chest.
+
+0xEC6DC166 = ~z~Cherish these moments of gaiety, for any night may be your last...
+
+0xEEA54E12 = ~z~Incredible.
+
+0xEF9CEA77 = ~z~Yes... yes! Truly a feat of incredibility.
+
+0xEF88E365 = ~z~Up next, a goddess of fire. Her dance will mesmerize you and drive a sharp bargain for your soul...
+
+0xF71DD591 = ~z~~sl:0.0:0.7~than I.~sl:0.9~During extensive travel through this and foreign lands,
+
+0xF289CC6D = ~z~~sl:0.0:4.8~Thank you. Yes, Aldridge T. Abbington. Few men...~sl:0.0:2.7~have had a career more crowded with incident...~sl:~and various intercourse with the world...
+
+0xF582A4B3 = ~z~and... all completely planned as part of tonight's entertainment, I would not deceive you!
+
+0xFCC3E0E1 = ~z~~sl:0.0:4.9~Hello! Yes, thank you, thank you, thank you...~sl:0.5:4.0~thank you, welcome, welcome everyone.~sl:0.5~I am your host, Aldridge T. Abbington.
+
+0xFCDC3D3E = ~z~~sl:0.0:3.3~feats of amazement for your emotional,~sl:~spiritual and psychological enhancement.
+
+0xFE1D64C5 = ~z~It is my sincere hope, ladies and gentlemen, that you had a delightful evening.
+
+0xFFC8B40B = ~z~~sl:1.7~Goodness,
+

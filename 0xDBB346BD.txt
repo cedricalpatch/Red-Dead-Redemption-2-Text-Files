@@ -1,0 +1,68 @@
+0x00CE28EF = ~z~She died in child birth...
+
+0x0163A7DA = ~z~maybe play a game of dominoes or cards or something?
+
+0x035FC408 = ~z~Good...
+
+0x0F054561 = ~z~No, no it ain't, but...
+
+0x1E6A610F = ~z~You... you want to...
+
+0x2BC214BC = ~z~Fine...
+
+0x2CE87EE3 = ~z~Dominoes.
+
+0x3D743820 = ~z~I think...
+
+0x4B3FBAB5 = ~z~not to me...
+
+0x4C6E5628 = ~z~She's fine too I hope...
+
+0x5A9CF285 = ~z~I don't let her bother me like the other girls do...
+
+0x5BEADF27 = ~z~An angry rattlesnake would've made a better father...
+
+0x7CD720FF = ~z~not soon enough, perhaps.
+
+0x10A14579 = ~z~don't worry about what you ain't.
+
+0x29B57AC1 = ~z~if you'd have met my pa...
+
+0x65B4F2BB = ~z~And your mother?
+
+0x72E10D13 = ~z~Me too, eventually...
+
+0x73EB0C07 = ~z~if you think about it.
+
+0x87E533FB = ~z~Life's real, real tough sometimes...
+
+0x661E8988 = ~z~and Miss Grimshaw?
+
+0x31059F57 = ~z~place I ran from...
+
+0x225768E5 = ~z~enjoy what you have and...
+
+0x995857C1 = ~z~Oh I don't intend to.
+
+0xA369841D = ~z~folk were far worse than Miss Grimshaw.
+
+0xAB1E7B4D = ~z~Just don't let me win.
+
+0xB18C2062 = ~z~Sure...
+
+0xBB861E64 = ~z~you'd have known it to be true.
+
+0xBEDB21EE = ~z~That's real true.
+
+0xD81FD797 = ~z~You see, I was an orphan.
+
+0xD96B570E = ~z~he died too...
+
+0xEB2E7A94 = ~z~to my brother...
+
+0xEF310375 = ~z~Sure, why not?
+
+0xF41B8C6E = ~z~Best not to think about it too much, just...
+
+0xFD36A1C4 = ~z~That ain't kind.
+

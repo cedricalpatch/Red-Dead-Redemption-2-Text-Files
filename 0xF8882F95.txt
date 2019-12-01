@@ -1,0 +1,158 @@
+0x01689C11 = ~z~Four.
+
+0x09EAAD0D = ~z~Ten.
+
+0x0E089499 = ~z~Whoa there.
+
+0x1A3BCC57 = ~z~Two.
+
+0x2C97F10F = ~z~No, please.
+
+0x2CDBF2EF = ~z~You got ten seconds to turn yourself in.
+
+0x3B8D0EF9 = ~z~One.
+
+0x4D933305 = ~z~Please, no.
+
+0x4EF93901 = ~z~All you need is a license, which the Sheriff will sell you...
+
+0x7ABD88F5 = ~z~Let me get you your money.
+
+0x7C4BF11E = ~z~You all looking for the Twin Rocks Gang?
+
+0x7EA2984B = ~z~There's a board up at most every jail house and post office...
+
+0x7ED096DB = ~z~Three.
+
+0x7F5718DC = ~z~I know you're hiding out there.
+
+0x8BDE31DA = ~z~and you can take down a poster and go.
+
+0x8BE6B6AF = ~z~you can come and get a license when you do.
+
+0x8CA62CC6 = ~z~Two and a half.
+
+0x8E923752 = ~z~There was ten when I pulled up.
+
+0x9DBBD685 = ~z~with sheets going up regular.
+
+0x9E1EDB1F = ~z~Good luck then.
+
+0x15B244A4 = ~z~Six.
+
+0x27C9C81B = ~z~That's her.
+
+0x27E46908 = ~z~Seven.
+
+0x34B48388 = ~z~As a favor.
+
+0x42F0A4C4 = ~z~They sell 'em wherever they hang them posters.
+
+0x43C521B9 = ~z~I counted them twice.
+
+0x56D9C132 = ~z~Two.
+
+0x67AE47E7 = ~z~Is this them?
+
+0x79A11224 = ~z~Well, if you don't have it now...
+
+0x80EF7A69 = ~z~That's what I thought.
+
+0x87F327C0 = ~z~I'm sure you will.
+
+0x101D4002 = ~z~You want a license?
+
+0x137DBA7B = ~z~In the back.
+
+0x552FC942 = ~z~Good luck now.
+
+0x573C4897 = ~z~You go after one of the big ones...
+
+0x743A804F = ~z~If it ain't all here, I will be back.
+
+0x996D4AB4 = ~z~That one there might want a bounty hunting license.
+
+0x5572A370 = ~z~Nope.
+
+0x6000D7E0 = ~z~There's your ten.
+
+0x6565E402 = ~z~Eight.
+
+0x7285DD92 = ~z~Isn't everybody?
+
+0x9069C095 = ~z~Here you go then.
+
+0x13363FAC = ~z~Five.
+
+0x72657CA9 = ~z~Clean it up, Archibald.
+
+0x90703BE6 = ~z~Become a bounty hunter?
+
+0x177049EC = ~z~Any fool can do it.
+
+0x443900FD = ~z~Well there they are, in the wagon.
+
+0x6597654D = ~z~I'll tell you what I know about 'em.
+
+0x6907658D = ~z~One.
+
+0x93164132 = ~z~You fool enough to try?
+
+0xA1155C48 = ~z~The worst that can happen is they kill you.
+
+0xA2236408 = ~z~You are now permitted to use all appropriate force...
+
+0xAB32EE3F = ~z~Help 'em out, won't you.
+
+0xABCF6B18 = ~z~Go ahead.
+
+0xB0577F90 = ~z~Out of money, huh?
+
+0xB0EB7CDC = ~z~How about you there.
+
+0xB12BFC85 = ~z~Hey, there's only nine.
+
+0xB50E89DE = ~z~She makes it look easy, I know.
+
+0xB28483EA = ~z~Should you change your mind, you can get licensed...
+
+0xBDB79B38 = ~z~in the apprehension of outlaws in these states.
+
+0xBF7E1275 = ~z~They're all there.
+
+0xC2FC24D9 = ~z~for the same fee wherever they hang them posters.
+
+0xC6D12D63 = ~z~But really, it ain't.
+
+0xC9BA2E79 = ~z~I ain't so sure.
+
+0xCF3E3E45 = ~z~You are a bounty hunter.
+
+0xD1BFB6F8 = ~z~Count them up.
+
+0xD8484F71 = ~z~Good luck.
+
+0xD97552AB = ~z~You wanna get registered, you're gonna have to say.
+
+0xDC30527D = ~z~Alive gets you full price, dead a little less.
+
+0xDE1FD744 = ~z~Bounty hunting ain't so hard.
+
+0xE5E9DF50 = ~z~I got 'em for you.
+
+0xEBB2F726 = ~z~Well, do you or don't you?
+
+0xEBF272E9 = ~z~That's something, bringing all them boys in you know.
+
+0xED12F35E = ~z~Oh, no.
+
+0xF85F09F6 = ~z~Nine.
+
+0xF5377DE7 = ~z~God damn.
+
+0xFA0492F1 = ~z~Okay then.
+
+0xFD1B72BF = ~z~I thought you said they'd be here?
+
+0xFDDC1B80 = ~z~That true?
+

@@ -1,0 +1,82 @@
+0x012AD5F5 = The O'Driscolls have heard gunfire and will investigate the source - stay out of sight long enough and they'll return to their patrols.
+
+0x0211D7A7 = If an enemy hears a gunshot or sees a body, they will search the area for you.
+
+0x02E7FB82 = Leave the area on a ~o~horse~s~
+
+0x1AB3520E = Raise Candle
+
+0x1EDFDF05 = The O'Driscolls are patrolling the roads around the cabin. Evade them and escape the area.
+
+0x3B96C9A7 = Hold ~INPUT_AIM~ to use the binoculars.
+
+0x4C362FB3 = Dutch's horse has died.
+
+0x6BA17084 = Grab File
+
+0x6CE5B4C4 = Arthur's horse has died.
+
+0x6E682413 = Start Swing
+
+0x7C6AFD82 = The meeting was abandoned.
+
+0x7CFABC45 = File
+
+0x15C16827 = Find a way to escape
+
+0x28A9D8F7 = Return to the ~o~meeting location~s~
+
+0x72F195A0 = Twist File
+
+0x82CBDF09 = Heat
+
+0x98DD276E = Leave the area on a horse
+
+0x110CB12F = Micah's horse has died.
+
+0x231CF8DA = You can swing on your shackles to reach the metal file. This can be used to pick your lock.
+
+0x250AE6D9 = Mount your ~o~horse~s~
+
+0x496D030D = Watch over ~o~Dutch~s~ and ~o~Micah~s~ with the binoculars
+
+0x732BAC48 = Escape the ~e~O'Driscolls~s~
+
+0x2209E559 = The O'Driscolls are searching the area for you and have patrols along the road. Evade them and escape the area.
+
+0x69351A6A = Stealth Kill
+
+0x741097DA = Position File
+
+0x6947695B = Hold ~INPUT_ATTACK~ to use the binoculars.
+
+0x35943025 = The gang have replaced your stolen weapons.~n~They are on your saddle.
+
+0x49172425 = O'Driscoll
+
+0xA6D47A7B = Return to ~o~Clemens Point~s~
+
+0xAF4FD2C7 = Cauterize Wound
+
+0xB5FA2776 = Go to the ~o~observation position~s~
+
+0xB28F4031 = Use ~INPUTGROUP_MOVE~ to get up.
+
+0xBC9A52F9 = Insert
+
+0xBC644B6B = Gunpowder
+
+0xC57EE083 = Swing Left
+
+0xCA5A55DB = Swing Right
+
+0xD9CC07B3 = Pour
+
+0xDA93E3EA = Arthur's Weapons
+
+0xEDA64800 = Recover
+
+0xF2BC023C = Follow ~o~Micah~s~
+
+0xFC746CC9 = Observation Position
+

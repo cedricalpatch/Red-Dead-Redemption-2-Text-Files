@@ -1,0 +1,90 @@
+0x0A0549AF = ~z~"And you bullied the weak, and you robbed the poor;
+
+0x0C049A9E = ~z~It was brilliantly lit with a brimstone lamp;
+
+0x2AFD9703 = ~z~The boiler was filled with lager beer,~n~~m~The boiler was filled with lager beer,
+
+0x3DEA7E69 = ~z~The engine with murderous blood was damp,
+
+0x5A393706 = ~z~So he fell asleep with a troubled brain,
+
+0x6D1997DE = ~z~Louder and louder the thunder crashed,~n~~m~Louder and louder the thunder crashed,
+
+0x7DDD3029 = ~z~To be saved from his sins and the demon's power.
+
+0x8B521937 = ~z~An imp, for fuel, was shoveling bones,
+
+0x8D54504F = ~z~And mocked at God in your hell-born pride."~n~~m~And mocked at God in your hell-born pride."
+
+0x9A50E910 = ~z~For he never rode that hell-bound train.~n~~m~For he never rode that hell-bound train.
+
+0x9A766A93 = ~z~“Your flesh will waste in the flames that roar,
+
+0x9ADF7369 = ~z~Brighter and brighter the lightning flashed;~n~~m~Brighter and brighter the lightning flashed;
+
+0x15BEEC76 = ~z~The devil himself was the engineer;~n~~m~The devil himself was the engineer;
+
+0x34D01F48 = ~z~You've trampled the laws of nature down."~n~~m~You've trampled the laws of nature down."
+
+0x61F704F5 = ~z~Rich men in broadclothes, and beggars in rags,
+
+0x69C78936 = ~z~And my imps torment you forever more.”~n~~m~And my imps torment you forever more.”
+
+0x75E6A978 = ~z~And begged the devil to stop the train.~n~~m~Stop the train.
+
+0x477FCCAB = ~z~Then oh, how the passengers shrieked with pain,
+
+0x502C6160 = ~z~Handsome young ladies, and withered old hags,
+
+0x608F43B2 = ~z~
+
+0x632AFBFD = ~z~“You've justice scorned, and corruption sown,~n~~m~“You've justice scorned, and corruption sown,
+
+0x701A94A4 = ~z~And his prayers and his vows were not in vain;
+
+0x909D5EE5 = ~z~Hotter and hotter the air became,~n~~m~Hotter and hotter the air became,
+
+0x4409BDBB = ~z~"You drunk, cheated, plundered, and lied,~n~~m~"You drunk, cheated, plundered, and lied,
+
+0x5465E677 = ~z~“Ha, ha,” said the devil, “We're nearing hell!”~n~~m~“We're nearing hell!”
+
+0x8541CB8A = ~z~The passengers were a most motley crew,~n~~m~The passengers were a most motley crew,
+
+0x9536EB74 = ~z~The sulphurous fumes scorched their hands and face;
+
+0x169762D3 = ~z~The starving brother you turned from your door."
+
+0x242205F0 = ~z~And out in the distance there arose such a yell,
+
+0x288853A5 = ~z~To dream that he rode on a hell-bound train.~n~~m~To dream that he rode on a hell-bound train.
+
+0x7384280F = ~z~Church member, atheist, Gentile, and Jew.~n~~m~Church member, atheist, Gentile, and Jew.
+
+0x91422517 = ~z~While the furnace rang with a thousand groans.
+
+0xA9A787B1 = ~z~His clothes wet with sweat and his hair standing high.
+
+0xA7658FD1 = ~z~While the train rushed on at an awful pace,
+
+0xB77E235E = ~z~Then the cowboy awoke with an anguished cry,
+
+0xBEA23AEE = ~z~Till the clothes were burnt from each quivering frame.~n~~m~Till the clothes were burnt from each quivering frame.
+
+0xC08983A9 = ~z~Having drunk so much he could drink no more;
+
+0xCA6755D4 = ~z~All chained together, oh God, what a sight!~n~~m~Oh God, what a sight!
+
+0xD440DCE3 = ~z~Then he prayed as he never had prayed till that hour,
+
+0xDC297958 = ~z~Yellow and black, red, brown, and white,
+
+0xE7A58CF4 = ~z~And faster and faster the engine flew.
+
+0xE5758090 = ~z~"You laid up gold with the canker rust,
+
+0xF1E2A16E = ~z~Wider and wider the country grew,
+
+0xF244671E = ~z~A... cowboy laid on a bar room floor,
+
+0xF734240D = ~z~And have given free vent to your beastly lust."~n~~m~And have given free vent to your beastly lust."
+

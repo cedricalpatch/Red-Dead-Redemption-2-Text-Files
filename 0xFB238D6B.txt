@@ -1,0 +1,20 @@
+0x0FD414D0 = ~z~Hey John, that remedy worked a treat. I live to sire another day.
+
+0x7B1DEB62 = ~z~So long as it ain't a home remedy...
+
+0x8F410040 = ~z~Looks like a nice one too. Here, you can have this. I don't need it.
+
+0x7697CE12 = ~z~Found you another Eagle Feather.
+
+0x810463C7 = ~z~Okay, thanks.
+
+0xCB298B78 = ~z~I do not want to know this.
+
+0xCF4232ED = ~z~Yeah well you owe me one.
+
+0xDA81496B = ~z~Oh, thank God. Thank you, John. You've made an itchy old man very happy.
+
+0xDD682FF5 = ~z~I left something on the table in your room. Just a little thank you.
+
+0xF0A575B3 = ~z~Okay, here's that stuff you asked for. It was a real hassle finding all this.
+

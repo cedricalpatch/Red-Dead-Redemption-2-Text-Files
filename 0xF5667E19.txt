@@ -1,0 +1,20 @@
+0x018E76FD = ~z~Yah!
+
+0x0619800B = ~z~Moving up.
+
+0x0CC28D69 = ~z~Move!
+
+0x1F09B1F7 = ~z~Let's go!
+
+0x3A6368AA = ~z~Keep moving!
+
+0x29F947D6 = ~z~Yah, yah!
+
+0x35C8DF69 = ~z~Move it!
+
+0x57AF2341 = ~z~
+
+0x85787ED3 = ~z~C'mon.
+
+0xB7E4E4BF = ~z~Go, go!
+

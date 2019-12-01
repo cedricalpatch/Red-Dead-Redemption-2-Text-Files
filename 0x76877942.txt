@@ -1,0 +1,40 @@
+0x0617A899 = ~z~Why does that concern you?
+
+0x0797A7BF = ~z~The closer we get, the more cruel we become.
+
+0x1D91D133 = ~z~Well, I've rested long enough.
+
+0x6D4E732B = ~z~I am from Mexico. I left because my best friend, a man I'd known my whole life, betrayed me.
+
+0x7B5FB265 = ~z~Now, the three of them lie dead.
+
+0x7D221472 = ~z~until he was followed there and shot dead by one of the other brothers.
+
+0x8A3F2EAC = ~z~~sl:0.0:2.6~As far as I know, it's never been found...~sl:0.6~and neither has the body of my best friend.
+
+0x8AE7FEE6 = ~z~~sl:0.6~So where are you from, friend?
+
+0x58B2EEB3 = ~z~Kinda all over the place.
+
+0x87EC17FB = ~z~Kinda all over the place.
+
+0x98B96D18 = ~z~Close as can be, until greed destroyed them.
+
+0x56561D74 = ~z~But maybe you are proving me wrong?
+
+0x672389ED = ~z~They'd found gold together, but one of them ran off with it all.
+
+0x82784096 = ~z~I don't know how well you know the town of, uh, Annesburg... but they tell a story of three brothers.
+
+0xAFE379F4 = ~z~They say the brother marked the spot where he'd hidden the gold with tree carvings,
+
+0xAFEA0A36 = ~z~Esta bien, you don't need to answer.
+
+0xE89CD8FB = ~z~See, you know it too.
+
+0xEC4B25DB = ~z~Okay, okay, fine. If you don't believe me, I won't continue.
+
+0xEF1C0B3E = ~z~Why does that concern you?
+
+0xF5510332 = ~z~And why am I telling you this? Because often the company of strangers is the best kind.
+

@@ -1,0 +1,48 @@
+0x0074C61B = Intimidate
+
+0x0A615388 = Look at rustlers
+
+0x0CB7BA72 = Rustlers
+
+0x6CF9E8E1 = Too many animals were lost from the herd.
+
+0x7A212219 = You abandoned your horse.
+
+0x8FFE25CF = Mount your ~o~horse
+
+0x10BF2E11 = Herd the cows to ~o~Clemens Cove~s~
+
+0x19A6A6FA = Stay with Uncle
+
+0x42FD0605 = The brothers were scared away.
+
+0x541E0A64 = The herd was abandoned.
+
+0x1051EA53 = Focus on rustlers
+
+0x5048B6D6 = Dismount your horse
+
+0x60549B95 = Shoot the ~o~padlock~s~
+
+0x19874475 = Wait for the cows to gather outside the pen
+
+0xA6B97BBF = Ride with ~o~Uncle
+
+0xA7C11843 = Uncle was abandoned.
+
+0xB07B216D = Uncle's horse has died.
+
+0xC4DD377D = Collect the ~o~payment~s~ from Clay
+
+0xC7D66742 = Uncle died.
+
+0xC8DB5455 = Investigate the ranch with ~o~Uncle~s~
+
+0xC95C2A8A = Follow ~o~Uncle
+
+0xCF7117BF = Encourage the ~o~cows~s~ to leave the pen
+
+0xD80C3654 = Deal with the ~e~rustlers~s~
+
+0xDA17150A = Your horse has died.
+

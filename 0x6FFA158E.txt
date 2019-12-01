@@ -1,0 +1,10 @@
+0x202EE86D = ~z~You're looking to get shot?
+
+0xB57BA26B = ~z~Oh, shit.
+
+0xD66503EA = ~z~Back off will you?
+
+0xE43810AD = ~z~You need to get off the road.
+
+0xF4C38710 = ~z~Move along now, if you know what's good for you.
+

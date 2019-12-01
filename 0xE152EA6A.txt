@@ -1,0 +1,88 @@
+0x06284218 = ~z~Don't think so.
+
+0x0AF9E8F3 = ~z~
+
+0x2A4CA798 = ~z~Alright, alright... alright. That's good enough. L-let's get going.
+
+0x2BBACB8E = ~z~What's the matter? You better have a damn good reason.
+
+0x2C23F4AE = ~z~For christsake, who would leave it there?
+
+0x4BD5812A = ~z~Get off there, now. Come on, move it.
+
+0x5EC0907B = ~z~
+
+0x7A198816 = ~z~Alright, come on then.
+
+0x8B3C1234 = ~z~Okay, I hear you.
+
+0x8C5B1A49 = ~z~Hey there.
+
+0x28A60BF1 = ~z~Damn, you wanna give me a hand here? It ain't budging.
+
+0x49AE537F = ~z~What was that noise?
+
+0x56F6556A = ~z~Don't get any closer!
+
+0x58AD3C85 = ~z~Don't even think about moving until I'm gone. And keep your mouth shut.
+
+0x67F8312F = ~z~Goddamnit, are you deaf?
+
+0x70FE34F6 = ~z~
+
+0x87CAC126 = ~z~Stop the coach.
+
+0x87D9409A = ~z~Don't even think about moving until I'm gone. And keep your mouth shut.
+
+0x231C0EAC = ~z~Please, I have a family. I won't tell a soul, I swear.
+
+0x476B11B1 = ~z~We got us a damn road agent!
+
+0x586DE757 = ~z~I said back away.
+
+0x948EE257 = ~z~Get off there now. Come on, move it.
+
+0x2226E0DF = ~z~Hey there.
+
+0x4538CD32 = ~z~Okay, just calm down. Take it then, it ain't my money.
+
+0x28406DF7 = ~z~Hell no. There's a whole lot more of us than you. Get him boys.
+
+0x17930225 = ~z~You could help too, you know.
+
+0xA26A1911 = ~z~Hey, out of the way, mister.
+
+0xB89726F3 = ~z~Well, see if you can give it a push.
+
+0xBA53F1EB = ~z~Make a wrong move and you're a dead man, you understand me?
+
+0xCF75AEBF = ~z~Back away from the coach, please sir.
+
+0xD3F4CF4F = ~z~You ain't getting nothing, you son of a bitch.
+
+0xD47B0876 = ~z~Oh no you don't!
+
+0xDABBE415 = ~z~You think I won't use this?
+
+0xDE855972 = ~z~Come on, clear the road.
+
+0xE4AAA199 = ~z~Make a wrong move and you're a dead man, understand me?
+
+0xE6D4C5D0 = ~z~Stop the coach!
+
+0xE86BD357 = ~z~God damn it! We're being robbed!
+
+0xEAE3E2FC = ~z~Shit... Reckon we can we get past that?
+
+0xECD95599 = ~z~Yah! Out of the way.
+
+0xF08D18AB = ~z~Hey.
+
+0xF5B3A60D = ~z~
+
+0xF9D91019 = ~z~That's no place to stop.
+
+0xFC374B6E = ~z~See, it's moving. Just put your back into it.
+
+0xFF887AF7 = ~z~Out of the way dumb animal.
+

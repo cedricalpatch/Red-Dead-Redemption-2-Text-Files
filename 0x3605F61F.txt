@@ -1,0 +1,148 @@
+0x05852FDA = ~z~
+
+0x0AB19B48 = ~z~That's her husband I bet!
+
+0x0B313A3E = ~z~
+
+0x1E9289AA = ~z~Ah! My next victim.
+
+0x2EBA8244 = ~z~All too fun.
+
+0x4C8EBDEC = ~z~
+
+0x4D5EA104 = ~z~Will no one accept my challenge?
+
+0x6F454121 = ~z~I've had about enough of your mouth.
+
+0x8C4B0E2A = ~z~Show her what's what!
+
+0x8EABC13D = ~z~~sl:0.0:1.5:1~I'm done toying with you.
+
+0x8FDE8253 = ~z~Lucky I had me some whiskey.
+
+0x9A3DD949 = ~z~Come on! Right here, give it all you got.
+
+0x9D7F80EF = ~z~from New York, to San Francisco to Blackwater.
+
+0x10CC476B = ~z~I bet you shave!
+
+0x15D78E4B = ~z~What's the matter?
+
+0x16D7DD04 = ~z~Damn! That lady walloped me good!
+
+0x43C4D40E = ~z~Alright then, I'll take you on.
+
+0x52F78886 = ~z~I'll make you into some vittles. Come on!
+
+0x52FA6BDE = ~z~I will make you the laughing stock of this town!
+
+0x66BBD1C4 = ~z~Step up into the spotlight. Come on!
+
+0x75C21052 = ~z~
+
+0x84DB6C4D = ~z~Shouldn't you be making me some vittles right now?
+
+0x87C1B451 = ~z~~sl:0.0:1.0:1~Yes!
+
+0x88C81B9E = ~z~She's a biggun!
+
+0x94E8A83A = ~z~He's a wimp!
+
+0x661FD223 = ~z~This is staged!
+
+0x916E2149 = ~z~I hope she knocks you one good!
+
+0x998D78FB = ~z~I have traveled across this country,
+
+0x1720B426 = ~z~This ain't a real fight!
+
+0x7325E40B = ~z~
+
+0x8659A985 = ~z~Let's see her whoop a feller!
+
+0x53484B5F = ~z~~sl:0.0:2.5:1~Alright, I'm done playing around with you.
+
+0x78330D38 = ~z~Someone wrestle her!
+
+0x611166F1 = ~z~I'm not done, come on.
+
+0x928122C1 = ~z~
+
+0x970823A4 = ~z~Whoop her good!
+
+0x2038065A = ~z~
+
+0x27994407 = ~z~Take your best shot!
+
+0x61634086 = ~z~
+
+0xA0E865B6 = ~z~~sl:1.0~Yeah!
+
+0xA7ECF4A7 = ~z~~sl:0.0:1.0:1~Yeah?
+
+0xA71B4C9F = ~z~He was planted!
+
+0xA1682566 = ~z~Oh, I'm gonna enjoy this, little lady.
+
+0xAEB12352 = ~z~No man can defeat me.
+
+0xB4D80F84 = ~z~Someone whoop her good!
+
+0xB62C9083 = ~z~Hit her! Hit him!
+
+0xBA85FF19 = ~z~She likes to scrap!
+
+0xBAFC588E = ~z~
+
+0xBEBB077F = ~z~Look at them arms!
+
+0xBF79A2D8 = ~z~
+
+0xBF74747C = ~z~Knock her out!
+
+0xC8ED4AA0 = ~z~Sorry about this, ma'am.
+
+0xC23D6710 = ~z~Yeah!
+
+0xC43C4E68 = ~z~Many have tried and all have failed.
+
+0xC83B34A0 = ~z~Clean her clock!
+
+0xC315ABFF = ~z~You're a feller!
+
+0xCE329A23 = ~z~
+
+0xCF1CFD70 = ~z~I bet I could whoop you!
+
+0xD5EBD0A4 = ~z~Goddammit.
+
+0xD27AEAE5 = ~z~Is there any man in this audience who thinks he can take me on?
+
+0xDC505C85 = ~z~~sl:1.0~No man in this town can defeat me.
+
+0xDD56AF83 = ~z~Ah, my next victim...
+
+0xDE5C5989 = ~z~Bet she throws a mean punch!
+
+0xE0803EBE = ~z~
+
+0xE555EED5 = ~z~Give her a whooping!
+
+0xE7032B8B = ~z~Come on. Get up here.
+
+0xECC23C19 = ~z~~sl:0.0:1.0:1~Yeah?
+
+0xECD238DA = ~z~Cook me some supper!
+
+0xED39FE58 = ~z~Get up!
+
+0xF6543293 = ~z~Come upon this stage and fight me.
+
+0xF8851308 = ~z~Oh my head. That woman packs a hell of a wallop.
+
+0xFA0B17F2 = ~z~
+
+0xFB14555E = ~z~Some feller gonna knock you sideways!
+
+0xFFC55286 = ~z~I'll go easy on ya, lady.
+

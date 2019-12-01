@@ -1,0 +1,40 @@
+0x07403C6D = ~z~Mmm, don't sound bad to me at all.
+
+0x0BECCE67 = ~z~And there's no one there but this woman, bit bony but beautiful as the day is long.
+
+0x0C7F42C1 = ~z~Eh... not anymore.
+
+0x0C51C690 = ~z~I think this is a place I could really hang my saddle.
+
+0x1A2E6AEA = ~z~I was hunting north of Annesburg when I came across this cabin.
+
+0x3E0A2A04 = ~z~A hot dinner and warm bed every night.
+
+0x5B352571 = ~z~Alright, I need to cool down a bit...
+
+0x7E79A0AE = ~z~Don't know what she's doing out there in the middle of nowhere, but turns out she's a widow...
+
+0x9E1C5FF3 = ~z~I watched her from the bushes for a while, saw her cry...
+
+0x29AD7942 = ~z~I see how you like 'em too, friend.
+
+0x63D06107 = ~z~So you got a girl, mister?
+
+0x377A4A5C = ~z~You got a problem with women or something?
+
+0x904D7056 = ~z~I won't tell you then, if that's how you wanna be, if ladies ain't your thing.
+
+0xA941090D = ~z~Me neither... got my eye on one, though.
+
+0xABD0FB5C = ~z~She asked me to leave, but in a real nice way, m-made me feel good.
+
+0xE5CFF843 = ~z~~sl:1.0~I wouldn't call her a girl...
+
+0xEA9A172A = ~z~Huh? What's it to you?
+
+0xEC9E8A1A = ~z~Hey there, friend. Wanna take the weight off? Fire's good and hot.
+
+0xF7B16F6B = ~z~Huh? What's it to you?
+
+0xF7E3A655 = ~z~Real elegant fancy type too...
+

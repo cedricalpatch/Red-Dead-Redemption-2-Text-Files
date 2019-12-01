@@ -1,0 +1,74 @@
+0x0D4186B3 = ~z~You have no idea how good that feels...
+
+0x1F2B7B1F = ~z~Something not right about that place.
+
+0x2F3E4F68 = ~z~And now it's goodbye.
+
+0x4C170B73 = ~z~You're right there! Help for Christ's sake.
+
+0x4F44397B = ~z~Hey, please! Can you help me?
+
+0x6DA097F8 = ~z~~sl:0.0:2.3~Charlie, that son of a bitch.~sl:0.5:1.6~~rp~I thought we was friends.~sl:0.1~~rp~Two of us pretty much grew up together.
+
+0x7BEF3495 = ~z~~sl:0.0:1.5~And what does that bastard do?~sl:0.5:1.8~~rp~Smacks me with his rifle butt~sl:~and knocks me on my ass.
+
+0x7E9860BF = ~z~~sl:0.0:1.4~Appreciate this.~sl:0.2~You done a real good thing. Helped set right a wrong.
+
+0x8AE53514 = ~z~I've had enough of this, I'm walking.
+
+0x8DD1C051 = ~z~Please, I'm in a bad way here!
+
+0x9CB8A406 = ~z~~sl:0.0:2.5~Yes, yes! Please loose these ropes...~sl:~it feels like they're cutting me to the bone.
+
+0x24BC5ADB = ~z~Come on, please! Look at me.
+
+0x29A67BE1 = ~z~Nearly there, I can't wait to see his face.
+
+0x37EDA1BF = ~z~~sl:1.0~I was getting tired of waiting for a fool to come along. But here you are.
+
+0x52FC0088 = ~z~Lousy son of a bitch!
+
+0x71D756F3 = ~z~Goddamn it, help me will you?
+
+0x86ECDE53 = ~z~Damn that hurts!
+
+0x99C41769 = ~z~Hey. You know Emerald Ranch? I need to get there.
+
+0x272A7A2F = ~z~Oh, yes! Yes. Finally.
+
+0x6602EA96 = ~z~~sl:0.0:4.7~You know, you're real nice for helping me. Just real stupid, too...
+
+0x95327ADE = ~z~
+
+0xA01164CC = ~z~Oh, Jesus, come on... you!
+
+0xA2BC022E = ~z~~sl:0.0:1.7~Ain't like he was married to that girl.~sl:0.1~Well not yet, at least.
+
+0xA2C96B96 = ~z~~sl:0.0:0.5~Here.~sl:0.7~I owe you.
+
+0xA940A2FA = ~z~Can somebody help me here?
+
+0xA2565F9E = ~z~Oh, hey! Over here!
+
+0xB4DB6B36 = ~z~No, don't you leave me here! Goddamn you.
+
+0xB4E6A683 = ~z~~sl:0.0:1.7~Always had a mean temper, but I swear,~sl:0.0:2.5~ever since he started laboring at Emerald Ranch,~sl:~~rp~he ain't been the same.
+
+0xC6D5F18C = ~z~~sl:0.0:2.5~Got someone I need to talk to about the, um...~sl:0.4~the situation you found me in.
+
+0xC9AB4F14 = ~z~~sl:0.0:1.3~So here's how it goes.~sl:0.4~You empty your pockets, and we both go on with our lives.
+
+0xC72FCB15 = ~z~~sl:0.0:2.0~I come to, he's wrapping me in that rope~sl:0.0:1.6~you found me in, ~rp~shoves me~sl:~off the side of the road.
+
+0xD9A16FF8 = ~z~Near broke my arm when I dropped, too.
+
+0xE0AFD95E = ~z~Uh, I can't fit?
+
+0xE9633EF3 = ~z~~sl:0.0:1.7~Oh, oh yes...~sl:0.4~feeling the blood moving through me again...
+
+0xED7117AB = ~z~~sl:0.0:2.7~Anyway, I figure me and Charlie need to have~sl:~a nice long chat. Sort it all out.
+
+0xEF6D1C99 = ~z~Er, you got yourself a horse? Wagon, maybe?
+
+0xF3994821 = ~z~~sl:1.1~It's kinda funny how much lying on the ground takes out of you.
+

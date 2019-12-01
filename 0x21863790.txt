@@ -1,0 +1,80 @@
+0x025BB850 = ~z~We fought him in the mountain top;
+
+0x0B4A4801 = ~z~They are many of our numbers;
+
+0x2B7D5807 = ~z~And join me in my song.
+
+0x3DF5FCF8 = ~z~Come all of you, my brother scouts;
+
+0x7CC766FA = ~z~Our race is almost run.
+
+0x9A9AB640 = ~z~That with us still remain.
+
+0x9EEDF176 = ~z~Peace sends far sweeter sounds.
+
+0x9F6EF264 = ~z~The Indian yell resounds;
+
+0x34FC1B64 = ~z~They are going, one by one.
+
+0x49CDC737 = ~z~To hear and make it die.
+
+0x53B22870 = ~z~Come, let us sing together;
+
+0x64EECAE9 = ~z~That used to scour the plain.
+
+0x79A1A4B2 = ~z~In piloting the coming folks;
+
+0x92DE1327 = ~z~To know those days are passed and gone;
+
+0x485BFE18 = ~z~We fought against the redskins;
+
+0x498E8089 = ~z~The days of the elk and buffalo;
+
+0x603CADE5 = ~z~And beaver traps, are done.
+
+0x772D6F66 = ~z~Of all the old frontiersmen;
+
+0x17291BB7 = ~z~To help them safely through.
+
+0x417303F2 = ~z~Though the shadows fall so long.
+
+0x728518A5 = ~z~We won bright homes for gentle ones;
+
+0x912855EB = ~z~But we found great joy, our comrades;
+
+0x922957D9 = ~z~No more along the border;
+
+0x76145994 = ~z~But brothers, we are failing;
+
+0xA2A476B3 = ~z~As Brave men, tried and true.
+
+0xA8A83EBB = ~z~To never come again.
+
+0xACAD0CF4 = ~z~But those fighting days are over;
+
+0xACDBDAC2 = ~z~There are but very few of them;
+
+0xAD90488B = ~z~It fills my heart with pain.
+
+0xB0FD1368 = ~z~But, faithfully, they did their part.
+
+0xBA67A869 = ~z~And fought him down again.
+
+0xC07281EF = ~z~Day after day, they're dropping off;
+
+0xC7353FD8 = ~z~But had other work to do.
+
+0xD8D0E1DB = ~z~And now, our west, goodbye.
+
+0xD90C65B2 = ~z~Over valley, hill and plain.
+
+0xD388D87F = ~z~They never joined the army;
+
+0xD877E25D = ~z~Our race is almost run.
+
+0xDFBC2CDE = ~z~Oh! The days of the elk and buffalo;
+
+0xE83881DE = ~z~Our clan is fast decreasing;
+
+0xFDA4ACB6 = ~z~They never wore the blue;
+

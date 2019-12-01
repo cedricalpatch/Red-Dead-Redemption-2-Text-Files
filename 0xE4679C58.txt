@@ -1,0 +1,352 @@
+0x00453838 = ~z~God dang it.
+
+0x0368D62E = ~z~That's gotta be them.
+
+0x041247AB = ~z~It's Night Folk. And I would... it's just... they on my property...
+
+0x07DAAAD4 = ~z~Lickety split.
+
+0x08769B3B = ~z~Goddamn, you loon.
+
+0x0AC3346B = ~z~Now, look out here, there's gators.
+
+0x0C7AB741 = ~z~Shit, they're coming!
+
+0x0D7E2361 = ~z~Hey, clear off of here!
+
+0x0E00FEBA = ~z~Chew my own goddamn ear off.
+
+0x0F08403F = ~z~Yes, partner. Yup, uh huh. That's probably best.
+
+0x0F77DB41 = ~z~Come on. Quick. We gotta move fast.
+
+0x0FD69183 = ~z~Hey. What's the commotion?
+
+0x1D225929 = ~z~What a place to make your home...
+
+0x1E5B497E = ~z~What kinda evil don't make no sound. It's bad alright. Bad.
+
+0x2ADDA39E = ~z~You go deal with them... I'll be here with my rat gun...
+
+0x2AF43C07 = ~z~I mean, I don't meet many folk out here. On my own the most part. But I still speak, you know.
+
+0x2D98B2E0 = ~z~Shit, they're coming!
+
+0x2DE7FAB4 = ~z~It's nice, ain't it?
+
+0x3E8FFAF2 = ~z~
+
+0x3E187A78 = ~z~More damn bats...
+
+0x4B1BD5BD = ~z~You a loon or something? This Night Folk country.
+
+0x4BBE47E4 = ~z~You had yourself a think? You gonna help me get my property?
+
+0x5BA576D0 = ~z~What's the commotion?
+
+0x5C039E21 = ~z~Chew my own goddamn ear off.
+
+0x5C6EC35B = ~z~Go!
+
+0x5C107910 = ~z~You might want to bury them bodies.
+
+0x5F0E38E2 = ~z~Give me a moment.
+
+0x5F3FB47C = ~z~Damn you!
+
+0x5FF06488 = ~z~Pay me, huh? Maybe... show me where this place is, we'll see...
+
+0x6BBF892F = ~z~Want it?
+
+0x6BF3067D = ~z~I'll be fine. Night Folk won't come here anymore. They dumb, but they ain't stupid.
+
+0x6DF1537D = ~z~Lamps out, come on.
+
+0x6E889C96 = ~z~Okay...
+
+0x6EAC67D6 = ~z~Leave!
+
+0x7B7DA592 = ~z~You sure you're gonna be okay?
+
+0x7BAD32BF = ~z~Hey... you, crazy man.
+
+0x7C5B383B = ~z~Night folk? I can look after myself.
+
+0x7C7B1044 = ~z~Hey! Hey!
+
+0x7C85E895 = ~z~Oh no, more.
+
+0x7C630F3D = ~z~You goin' deal with them?
+
+0x7D79F599 = ~z~Okay. Do what you can.
+
+0x7E252DF6 = ~z~That's gotta be them...
+
+0x7FC3525C = ~z~Night Folk... oh, they bad people. Bad Folk. Animals, the lot of 'em.
+
+0x8AE10BC2 = ~z~Shit.
+
+0x8DE5929D = ~z~No, that's some of the good stuff, right there. You're a good man, mister. Damn decent.
+
+0x8ED6B4FB = ~z~Speak, goddamn you.
+
+0x8F7BEE52 = ~z~Okay, they're dead.
+
+0x9A964AD2 = ~z~That's a crying shame...
+
+0x9AEEB3AE = ~z~Now, used to be the gators was the worst thing in the bayou... gators and snakes.
+
+0x9F4BAF1C = ~z~~sl:0.6~Stay here. I'll see.
+
+0x9F248DA7 = ~z~Well, well... okay. I got something for you now...
+
+0x11BFE306 = ~z~Maybe you should clear out though... if you're so troubled by... things in the night.
+
+0x13C2A248 = ~z~How you doing?
+
+0x16CA283B = ~z~You go deal with them... I'll be here with my rat gun...
+
+0x23A43303 = ~z~How you doing?
+
+0x25AD45FD = ~z~There we go... up there... Night Folk up to all sorts...
+
+0x32D06D1E = ~z~Now, used to be the gators was the worst thing in the bayou... gators and snakes.
+
+0x43F685BF = ~z~I been snake bit more times I like to remember. Ain't been gator bit though.
+
+0x52DE85EA = ~z~I knew this feller, good feller, didn't deserve this.
+
+0x54FA1BC5 = ~z~Okay...
+
+0x55FC4716 = ~z~C'mon. C'mon.
+
+0x56F6386A = ~z~Away from here!
+
+0x57E8E02C = ~z~Just... making sure it's all okay.
+
+0x62AC3729 = ~z~Night folk? I can handle myself.
+
+0x64FED6C4 = ~z~Imagine not uttering a sound. Can you fathom that?
+
+0x67B0B57B = ~z~I can imagine.
+
+0x70C8D362 = ~z~You a loon or something? This Night Folk country.
+
+0x72BA723B = ~z~There's not been one peep outta no Night Folk, not that I ain't heard at least.
+
+0x75CFB179 = ~z~Goddamn evil.
+
+0x79C8CE5B = ~z~Don't let 'em get me, alright?
+
+0x79CD2A6D = ~z~Yeah well, I been known to snap too, so... how bout we keep it down.
+
+0x85EEDEAF = ~z~Them Night Folk would put me on a pike they got their paws on me.
+
+0x87F94CBB = ~z~It's this a way. Come on.
+
+0x91E03B16 = ~z~Damn you!
+
+0x91E5961F = ~z~Here you go, partner.
+
+0x95AEE826 = ~z~Come on then. Follow me.
+
+0x95B05007 = ~z~Alright. Let's go. It just over there. You a good man, partner.
+
+0x99D5A57F = ~z~Hey... w-would you help me? Get 'em off? I-I'd pay you for your troubles.
+
+0x115FDA6D = ~z~I ain't gonna poke that bear. Good luck to you.
+
+0x139A4DA4 = ~z~You gonna be alright here?
+
+0x187B7EDA = ~z~There we go... up there... Night Folk up to all sorts...
+
+0x213E0708 = ~z~Make it worth your while, alright.
+
+0x313E0067 = ~z~Slow down, hey, poor feller on the tree been here for years.
+
+0x333EE124 = ~z~Oh, they got someone.  Poor feller.
+
+0x407DE129 = ~z~Now, come on.
+
+0x450A19BA = ~z~Well, take care.
+
+0x648D9701 = ~z~Okay. Do what you can.
+
+0x759CE90B = ~z~Got that to be thankful for at least. Gator bites is nasty.
+
+0x821A2012 = ~z~You think it's bad being a dead feller on a tree... it's worse when you a live one with a stick through ya.
+
+0x936D79B0 = ~z~Hang me up on a hardwood hammock. Boy, I'm lucky I ain't dead as it is.
+
+0x2962A162 = ~z~I don't like this. Not at all.
+
+0x3485AE2D = ~z~It's a bad evil!
+
+0x3543AA0D = ~z~Hey... w-would you help me? Get 'em off? I-I'd pay you for your troubles.
+
+0x3948D8B0 = ~z~I'll talk to myself there ain't no one else around.
+
+0x5201F8CA = ~z~Oh, boy. What you doing?
+
+0x7981DEB9 = ~z~Give me a moment.
+
+0x8457A0B8 = ~z~They like moths... they gonna come to your light. Get it out.
+
+0x9588F8F7 = ~z~Oh, they got someone.  Poor feller.
+
+0x43171E29 = ~z~I'd pay you real handsome.
+
+0x46487E62 = ~z~Maybe you should clear out though... if you're so troubled by... things in the night.
+
+0x68036F61 = ~z~It's nice, ain't it?
+
+0x84749E93 = ~z~God dang it.
+
+0x87929BEF = ~z~You know, I ain't never heard no Night Folk speak.
+
+0x89851CCA = ~z~Oh no, more.
+
+0x145126EA = ~z~
+
+0x210263A7 = ~z~I been known to snap too, so how 'bout... we keep it down.
+
+0x222348BF = ~z~Come here and get it.
+
+0x659201F7 = ~z~Yes, partner. Yup, uh huh. That's probably best.
+
+0x701839BD = ~z~If you ain't scared, what's the trouble?
+
+0x3283050C = ~z~Lamps out. They might not speak, but they sure can see.
+
+0x7792067A = ~z~What in hell?
+
+0x10050429 = ~z~Oh, you got 'em. You got 'em alright. The place is ours.
+
+0x22332885 = ~z~Come get your reward.
+
+0x43627517 = ~z~Too late for him. That's bad juju alright.
+
+0x78651734 = ~z~Oh, it's good to be home.
+
+0xA2A6DCA3 = ~z~Shit.
+
+0xA7AC412C = ~z~It's Night Folk. And I would... it's just... they on my property...
+
+0xA8FFA15D = ~z~Want it?
+
+0xA999C3B8 = ~z~~sl:0.0:2.1:1~Oh boy, oh boy. That's gotta be more of 'em.
+
+0xA9295CCF = ~z~Out, you devils!
+
+0xA425638B = ~z~Goddamn evil.
+
+0xAA42D34C = ~z~Oh boy, oh boy. That's gotta be more of 'em.
+
+0xACB5F0C1 = ~z~Say something!
+
+0xAD7DD0FB = ~z~What in hell?
+
+0xAD7197AF = ~z~We're safer stuck together. Uh huh.
+
+0xB00450C6 = ~z~Hot damn, what you doing?
+
+0xB1C3BCDD = ~z~Hey, clear off of here!
+
+0xB4C39B32 = ~z~Well, well... okay. I got something for you now...
+
+0xB8CF10F7 = ~z~What a place to make your home...
+
+0xB9A33012 = ~z~You coming, or what?
+
+0xB22E7A06 = ~z~I ain't gonna poke that bear. Good luck to you.
+
+0xB6865F60 = ~z~No, that's some of the good stuff, right there. You're a good man, mister. Damn decent.
+
+0xBC20D4AE = ~z~Out, you devils!
+
+0xBC88EF11 = ~z~Say something!
+
+0xBC599E03 = ~z~Don't you worry about no bats. I'll tell you when you got to worry alright.
+
+0xBC8577D1 = ~z~Wait here. I'll see.
+
+0xBD2D81DA = ~z~I been snake bit more times I like to remember. Ain't been gator bit though.
+
+0xBD6D41E1 = ~z~You reconsider, you come back here and help. Oh, and look out for them Night Folk.
+
+0xBD8943D2 = ~z~They coming for me!
+
+0xC0B0ADD5 = ~z~Them turtle bites is bad too. They call 'em snapping for a reason.
+
+0xC7023FAF = ~z~Okay, they're dead.
+
+0xC71284F6 = ~z~What is this? Swamp trash?
+
+0xCA3FBAE8 = ~z~So long then.
+
+0xCA7FB458 = ~z~Now, look out here, there's gators.
+
+0xCA38D372 = ~z~You be careful, won't ya?
+
+0xCD0C1007 = ~z~Hey! Hey!
+
+0xCE492411 = ~z~Got that to be thankful for at least. Gator bites is nasty.
+
+0xCFEC604B = ~z~You might wanna bury them bodies.
+
+0xD06C7D45 = ~z~Away from here!
+
+0xD4E8EABB = ~z~Don't worry about them. Food for the gators.
+
+0xD6C98DC2 = ~z~You see what I mean? This Night Folk work.
+
+0xD8F0C853 = ~z~Come on... that's my property.
+
+0xD66F0942 = ~z~Leave!
+
+0xD11284DE = ~z~I'll talk to myself ain't no one else around.
+
+0xD17618EB = ~z~Away from me.
+
+0xDA53AB78 = ~z~Here you go, partner.
+
+0xDBDB5E1F = ~z~I'll be fine. Night Folk won't come here anymore. They dumb, but they ain't stupid.
+
+0xDEC52043 = ~z~I mean, I don't meet many folk out here. On my own the most part, but I still speak, you know?
+
+0xDFD14308 = ~z~Alright. Let's go. It just over there. You a good man, partner.
+
+0xE4C93BE5 = ~z~What is this? Swamp trash?
+
+0xE4E66C90 = ~z~Help! Help!
+
+0xE5E78C41 = ~z~Don't worry about them. Food for the gators.
+
+0xE6ABF2A7 = ~z~Hey! Damn bats.
+
+0xE31DEB58 = ~z~Just... making sure it's all okay.
+
+0xE744AAED = ~z~Go!
+
+0xE847B0BE = ~z~Oh hell. Look at that. He fresh.
+
+0xE8845887 = ~z~
+
+0xEAE36C38 = ~z~I thought you wasn't scared?
+
+0xEB94EE7E = ~z~Away from me.
+
+0xED8B044F = ~z~Well, take care.
+
+0xED758944 = ~z~Well... so long then.
+
+0xEDD41356 = ~z~That's a crying shame...
+
+0xF097E495 = ~z~You'll pay me, huh? Maybe... wanna show me where this place is? We'll see...
+
+0xF886D3C6 = ~z~I can imagine.
+
+0xFA1EA296 = ~z~Oh, it's good to be home.
+
+0xFFC0F570 = ~z~Speak, goddamn you.
+

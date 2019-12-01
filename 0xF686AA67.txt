@@ -1,0 +1,8 @@
+0x055CDBDD = ~z~Don't mention it, Miss Grimshaw.
+
+0x97EF00FF = ~z~Thank you for your help with Miss Jackson.
+
+0x16877E32 = ~z~You're a fine man, Mr. Morgan... sometimes at least.
+
+0xE0B11286 = ~z~Thank you, I think.
+

@@ -1,0 +1,528 @@
+0x00A906AB = ~z~time to move along.
+
+0x01007524 = ~z~Thanks...
+
+0x0101A2C7 = ~z~What's your problem?
+
+0x014E990E = ~z~What the hell?
+
+0x03058C41 = ~z~Gentlemen, this is getting too rich for me.
+
+0x0365269E = ~z~
+
+0x039B1C93 = ~z~Reverend, where are you?
+
+0x04ED978E = ~z~Like I said, he went that way.
+
+0x05FAF255 = ~z~Have I been bad again, Mr. Morgan?
+
+0x08AF1900 = ~z~Why's it all spinning?
+
+0x09DE3EED = ~z~Help! Help me or we're both dead!
+
+0x0A57CBF0 = ~z~For Christ's sake, I told you! He went that way.
+
+0x0B781E96 = ~z~This is all entirely unnecessary.
+
+0x0C9EA6A9 = ~z~You better sleep your way to salvation, my friend.
+
+0x0E3F3907 = ~z~Get the hell away from me!
+
+0x0F893237 = ~z~You're going down.
+
+0x1CDAA014 = ~z~What the hell is wrong with you?
+
+0x1D48737F = ~z~Okay, okay... please don't hurt me.
+
+0x1E604462 = ~z~I see four of you fellers now.
+
+0x1F9FA270 = ~z~Hey, you! Get back here.
+
+0x1F50FBD2 = ~z~~sl:0.0:2.0~Yes, he went that way...~sl:1.7~...angry jackass...
+
+0x1FF5D548 = ~z~You here, Reverend?
+
+0x2B56FD6F = ~z~Fortunate for you both we're being gentlemen about this.
+
+0x2BD48344 = ~z~I won't even ask.
+
+0x2BF2CF4F = ~z~~sl:0.4:0.0~Hey, that's all I saw. I swear.
+
+0x2E91AED3 = ~z~Oh!
+
+0x2F4444E7 = ~z~What the hell is wrong with you?
+
+0x2FDDE588 = ~z~~sl:0.0:1.4:1~Got it, come on!
+
+0x2FEAE52E = ~z~Aw, hell...
+
+0x3A556C14 = ~z~Whoa, easy now. Whatever this is, leave us out of it.
+
+0x3DDB0401 = ~z~~sl:0.0:3.9~“On the fourth day, he turned water into whiskey~sl:0.0:2.5:1~and I don't remember much after that”.
+
+0x3DEF6C3D = ~z~Hey! That's all I know, I swear.
+
+0x3F655343 = ~z~Is he asleep?
+
+0x4A2F153A = ~z~Good, get the hell outta here.
+
+0x4D40A2CC = ~z~
+
+0x4EE13014 = ~z~Hey! Get your hands off him!
+
+0x4FB05C94 = ~z~Shoot me? Why would you shoot me?
+
+0x5B2C6E30 = ~z~~sl:0.0:0.8~I'm Luther,~sl:0.2~this is Marvin.
+
+0x5B98571F = ~z~
+
+0x5E89198B = ~z~You'll keep!
+
+0x6AEDCD8C = ~z~Have you lost your mind?
+
+0x6B98B69F = ~z~You better stop right there.
+
+0x6C096B3A = ~z~Come on.
+
+0x7A9D9529 = ~z~
+
+0x7A77DD86 = ~z~Disrespect him again, and you'll find yourself in a bad time too.
+
+0x7BB8B4A4 = ~z~Hey, you... have you seen a priest?
+
+0x7CA65FA6 = ~z~Thank you, sir.
+
+0x7D8A053A = ~z~Margaret? Who's Margaret?
+
+0x7D83FDFD = ~z~He ain't going to feel good when he wakes up.
+
+0x7D568008 = ~z~Where is he?
+
+0x8B9CA736 = ~z~~sl:0.0:0.6~So...~sl:0.6~how you two know each other anyway?
+
+0x8B86C974 = ~z~Where am I?
+
+0x8BC8A1B7 = ~z~My...
+
+0x8C0D3B90 = ~z~
+
+0x8E70CF72 = ~z~You fellers need to learn how to hold your liquor.
+
+0x9B35F39E = ~z~Have you seen a priest, all... drunk and crazy?
+
+0x9B344CE3 = ~z~I thought you was looking for your friend?
+
+0x9C7A1363 = ~z~Okay! Here, take it. Just please let me go.
+
+0x9C813ED1 = ~z~
+
+0x9D9CEA54 = ~z~A flush of diamonds.
+
+0x9DC2CB82 = ~z~Don't seem like the likeliest of friends, if you don't mind me saying.
+
+0x9DE8B381 = ~z~Reverend, stop!
+
+0x9E0FCCA6 = ~z~Just get outta here, will you?
+
+0x9E4E9230 = ~z~Reverend!
+
+0x10DCC1A9 = ~z~
+
+0x11C9B8F0 = ~z~Reverend!
+
+0x13AC8DB8 = ~z~Throwing me off a bridge like that.
+
+0x13CE2CF5 = ~z~Well, gentlemen...
+
+0x30CD76F7 = ~z~Swanson!
+
+0x36CFAAD3 = ~z~Don't make me shoot you.
+
+0x38CB04BE = ~z~I'll kill you both.
+
+0x41BA9EB0 = ~z~Please.
+
+0x41E1D072 = ~z~~sl:0.7~Now, what... where's Reverend?
+
+0x48B91474 = ~z~~sl:0.4~What are you mumbling about now?
+
+0x49A264F4 = ~z~What's happening?
+
+0x49AB36CD = ~z~
+
+0x51FA6128 = ~z~Have you seen a priest?
+
+0x53DFC8F6 = ~z~
+
+0x53F4B7CB = ~z~And now you're his chaperone?
+
+0x57C54FF7 = ~z~Just get away from me.
+
+0x61CD489F = ~z~Reverend!
+
+0x63FDE336 = ~z~Please, no.
+
+0x64B37BCE = ~z~Margaret...
+
+0x65B5DB4D = ~z~I guess it's something like that... can we play?
+
+0x66C9E2D7 = ~z~Swanson, you hear me?
+
+0x67A272BB = ~z~
+
+0x67A780E7 = ~z~Uh, yeah. I saw him headed towards the train tracks.
+
+0x67C63823 = ~z~He's a decent feller going through a bad time.
+
+0x68A95EEB = ~z~Oh, Reverend...
+
+0x68E95F49 = ~z~He was lucky this time.
+
+0x69DE8CF8 = ~z~
+
+0x69E918DF = ~z~~sl:0.0:5.2~But I have no light... I'm in darkness...~sl:0.8~and I must find the light, for only then will I find salvation.
+
+0x72D5EB03 = ~z~Come on you...
+
+0x73B6EC72 = ~z~Reverend Swanson!
+
+0x75A7F307 = ~z~You tell anyone what you saw back there, you're a dead man. Understand me?
+
+0x78D1D713 = ~z~~sl:0.0:2.0~Just throw him off the side of the cliff~sl:0.0:2.0:1~and we'll all pretend it never happened.
+
+0x80EA3CFF = ~z~Please...
+
+0x85AEEACB = ~z~Stay away from me!
+
+0x86CE80BE = ~z~
+
+0x86D5C8D6 = ~z~I have a family.
+
+0x88B8FA94 = ~z~It's just a simple mistake...
+
+0x91E6A8D1 = ~z~The reverend, where is...
+
+0x91E33909 = ~z~Swanson, you in here?
+
+0x92F0562D = ~z~~sl:0.0:1.7:1~How did I miss all the fun?
+
+0x120B277F = ~z~That man appears to have run off on us.
+
+0x237BEA6F = ~z~
+
+0x248A8649 = ~z~Leave me alone...
+
+0x302DE7FD = ~z~Can't we all just get along here?
+
+0x361B8C26 = ~z~
+
+0x413A1256 = ~z~We go a long way back.
+
+0x469CA061 = ~z~Pair of damn fools.
+
+0x490AB204 = ~z~
+
+0x498C6B8D = ~z~Is he alright?
+
+0x538CAAC9 = ~z~
+
+0x564E3A52 = ~z~You should get after him, he was two sheets to the wind.
+
+0x578CB471 = ~z~I ain't so sure.
+
+0x683E02E3 = ~z~Amen.
+
+0x715DCA22 = ~z~Who's that? The Reverend?
+
+0x737CB8A8 = ~z~What's that?
+
+0x941CAD94 = ~z~let's move along.
+
+0x953FE5AA = ~z~Don't kill me.
+
+0x978FE186 = ~z~Tea, please.
+
+0x1221AA79 = ~z~I don't know.
+
+0x2117B552 = ~z~'Scuse me, I'm sorry... y-you see a drunken idiot, a priest, wandering about?
+
+0x2242CABB = ~z~Ah, shit.
+
+0x2448E881 = ~z~
+
+0x3583F9CE = ~z~Come on, my friend...
+
+0x5444A03A = ~z~Reverend, over here!
+
+0x5740B386 = ~z~Where'd you go?
+
+0x5763B1C9 = ~z~Hey, shut it back there.
+
+0x6753DF2F = ~z~Why don't you go find your priest and leave us alone?
+
+0x9597FCDE = ~z~What's going on...
+
+0x24414BEB = ~z~Did he say he was going for the law?
+
+0x25595DD7 = ~z~You bastard.
+
+0x28490D6D = ~z~You've always had a soft spot for that old fool.
+
+0x45420E34 = ~z~Maybe he floated up to heaven on his own vapors.
+
+0x97513C1C = ~z~I'll keep an eye on him.
+
+0x109379CE = ~z~You can... still be... s-saved...
+
+0x198559CC = ~z~Same goes for you.
+
+0x374639E1 = ~z~Hey, calm down.
+
+0x553745A9 = ~z~Please don't kill me.
+
+0x563397B9 = ~z~Yeah, I saw him headed towards the train tracks.
+
+0x806785D3 = ~z~Who?
+
+0x889488D9 = ~z~Are you crazy?
+
+0x2312504C = ~z~Home...
+
+0x3963963E = ~z~
+
+0x4418198E = ~z~Look who it is. I missed that crazy bastard.
+
+0x6771569A = ~z~Yes! I... I won't tell a soul, I promise.
+
+0x47041126 = ~z~Will you shut up?
+
+0x63130151 = ~z~What are you going to do?
+
+0x65597278 = ~z~Oh, my God. You killed him. I'm gonna get the law on you.
+
+0x75787125 = ~z~Excuse me, gentlemen.
+
+0x81841082 = ~z~Well, thank you, Mr. Morgan.
+
+0x83515851 = ~z~What?
+
+0x89398171 = ~z~I see he's been out there working hard again.
+
+0x91750943 = ~z~There was a goddamn train you crazy bastard!
+
+0x96167139 = ~z~I must towards the light... towards the noise.
+
+0xA0294686 = ~z~Who?
+
+0xA0FDCC21 = ~z~Yeah, that's a wonderful idea.
+
+0xA2E4DD89 = ~z~Stop, you son of a bitch!
+
+0xA32D77A4 = ~z~Somebody had a good time.
+
+0xA667D226 = ~z~Oh, I'm surely a son of a bitch, but lucky?
+
+0xA899D981 = ~z~Can you imagine him at the pulpit? If he could stand up...
+
+0xAB94062E = ~z~Kippers, please...
+
+0xAB187609 = ~z~It appears to like this place and wants to stay.
+
+0xABF66007 = ~z~What are you doing?
+
+0xAC54A3F0 = ~z~I didn't say a word.
+
+0xAC604BE1 = ~z~Oh, you have no idea.
+
+0xADEAE209 = ~z~The reverend, where'd he go?
+
+0xAE316166 = ~z~Where'd he go?
+
+0xAF4368AC = ~z~I could have tea with Margaret.
+
+0xAF81917D = ~z~Wonderful!
+
+0xAFAD34ED = ~z~Help!
+
+0xB03E7345 = ~z~~sl:0.2:4.1:1~Get your foot outta here, twist your leg, you drunken bastard!
+
+0xB1E1DB77 = ~z~Reverend!
+
+0xB3B8D669 = ~z~~sl:0.0:0.7~Reverend!~sl:0.3~Get off the damn tracks!
+
+0xB4AC1582 = ~z~What the hell? I told you I'd keep quiet.
+
+0xB5CA0B33 = ~z~Don't remember you ever carrying me home, Morgan.
+
+0xB6D02874 = ~z~Mr. Morgan! A hand here, please!
+
+0xB7F209CE = ~z~That man really needs to learn how to hold his liquor.
+
+0xB9AD667B = ~z~
+
+0xB9ECA2DF = ~z~So sleepy...
+
+0xB205B5B5 = ~z~Huh?
+
+0xB277DD42 = ~z~~sl:1.2~Not again.
+
+0xB418DFE1 = ~z~Hey!
+
+0xB436F5E7 = ~z~Exactly.
+
+0xB9162F5E = ~z~What's your problem?
+
+0xB7682612 = ~z~What else do you want from us?
+
+0xBB76AFDD = ~z~I said stop, dammit.
+
+0xBBCB326E = ~z~Reverend!
+
+0xBCB1FEBA = ~z~you're one lucky son of a bitch, you know that?
+
+0xBCB9E95E = ~z~What the hell is your problem?
+
+0xBD7E9ADD = ~z~~sl:0.0:1.7:1~What have you done with your foot?
+
+0xBD124916 = ~z~Reverend!
+
+0xBDE28368 = ~z~Everyone takes things so seriously.
+
+0xBEEF0B47 = ~z~Poor bastard.
+
+0xBF0B8346 = ~z~Get your hands off him now, you son of a bitch.
+
+0xC0DD1CEF = ~z~No!
+
+0xC1BC35F2 = ~z~I told him...
+
+0xC8FE8AAC = ~z~Goddamn lunatic!
+
+0xC77FEC25 = ~z~What is wrong with you?
+
+0xC79A86E4 = ~z~Swanson!
+
+0xC240BB2F = ~z~I can smell the whiskey from here.
+
+0xC502E0A0 = ~z~What's he done now?
+
+0xC1777A9E = ~z~What are you doing?
+
+0xCBFA9E2C = ~z~Come on, Rev...
+
+0xCD08F439 = ~z~~sl:0.0:1.5~He can't be no real clergyman...~sl:0.3~he committed about five cardinal sins just in that chair you're sitting in.
+
+0xCE3F8C65 = ~z~He's with me.
+
+0xCE8B4087 = ~z~
+
+0xCF379193 = ~z~Guy looked kinda crazy, mister.
+
+0xD088C1CE = ~z~He can't have gotten far, not in that state.
+
+0xD0F32715 = ~z~You stay out of it!
+
+0xD1FF0C93 = ~z~~sl:0.0:2.5~Alright, alright... just trying to have a little fun here.~sl:0.5~It is a game after all, mister.
+
+0xD4AD653F = ~z~Oh my God! What the hell are you doing?
+
+0xD23C7EE7 = ~z~On second thoughts, you can give me all your money too.
+
+0xD98F9E73 = ~z~~sl:0.0:0.7~Excuse me,~sl:0.2~you seen a drunken priest staggering around here?
+
+0xD412ACDE = ~z~Reverend!
+
+0xD732DD6B = ~z~Don't mind if I do.
+
+0xD50421B7 = ~z~Hey, Reverend!
+
+0xD56234E9 = ~z~Let's get you home.
+
+0xDA2E3A93 = ~z~Where is he?
+
+0xDA5E9543 = ~z~Damn it, Reverend.
+
+0xDA7A9B55 = ~z~Ah-ah-ah., oh no you don't!
+
+0xDA69C23C = ~z~Oh, what happened?
+
+0xDAB4D552 = ~z~
+
+0xDE085BD4 = ~z~~sl:1.2~I was wondering when he'd show up.
+
+0xDF9C5BC2 = ~z~You son of a bitch!
+
+0xE084E47A = ~z~
+
+0xE1E3D6E9 = ~z~~sl:0.6:1.2~I should have known.~sl:0.3~Get that fool back to his tent to sleep it off.
+
+0xE3B0CC64 = ~z~Excuse me, gentlemen.
+
+0xE4E2BCB9 = ~z~You're as crazy as your friend!
+
+0xE6EADB4E = ~z~Real lucky.
+
+0xE7E38240 = ~z~One for the road?
+
+0xE9DB7040 = ~z~Hey!
+
+0xE24B8CE0 = ~z~You're a goddamn drunk!
+
+0xE46C335C = ~z~What is going on round here?
+
+0xE78CD6BC = ~z~Just a big misunderstanding.
+
+0xE89E5773 = ~z~Sit down.
+
+0xE637FEE9 = ~z~
+
+0xE53545F2 = ~z~
+
+0xE71748C7 = ~z~You're too easy on him, Arthur.
+
+0xE3755744 = ~z~Like I said, you should go check near the railroad.
+
+0xEA513B02 = ~z~I wish I was different.
+
+0xEA44061E = ~z~You there, you seen a drunken priest staggering around here?
+
+0xEB2336CC = ~z~You're a fine man, Arthur.
+
+0xECF1DD96 = ~z~I've had enough of this.
+
+0xEF21FE2C = ~z~
+
+0xEF62D1E9 = ~z~~sl:0.0:4.3~Sure, we saw him... smelt him... and avoided him.~sl:1.1~He went that way, I think.
+
+0xEF74B863 = ~z~Get off me, you dumb ape!
+
+0xF5BDC4F5 = ~z~Yes you did, you bastard. I heard you.
+
+0xF6A6C774 = ~z~~sl:0.0:5.9~I think he used to be. He's... drifted a little in recent years.~sl:0.6~Life is a challenge... to all of us.
+
+0xF6B8F3A8 = ~z~Oh, I'm done, friend. It's been a real education.
+
+0xF11CEFA2 = ~z~Just... the usual.
+
+0xF3292E9B = ~z~I am a man of God!
+
+0xF5280DC8 = ~z~
+
+0xFA4226FD = ~z~Close the drapes...
+
+0xFB6227CF = ~z~Last thing I needed.
+
+0xFCCBDFF7 = ~z~I'm sorry.
+
+0xFDA6C6A7 = ~z~What the hell did you just say to me?
+
+0xFDA13AA2 = ~z~Hey, take it easy!
+
+0xFDB1012F = ~z~
+
+0xFE269C3D = ~z~
+
+0xFEEE2154 = ~z~
+
+0xFFC382F0 = ~z~I hope I haven't got us into any trouble.
+

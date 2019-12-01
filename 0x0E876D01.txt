@@ -1,0 +1,178 @@
+0x0278CA88 = ~z~is worth a fortune.
+
+0x04B2527C = ~z~Oh, okay.
+
+0x0514D679 = ~z~I never knew.
+
+0x05E6D08C = ~z~two hundred cigarettes in one day.
+
+0x08AC546F = ~z~Yeah.
+
+0x0ABE2ABE = ~z~actually take some, take a couple of packs...
+
+0x0D9BDD5E = ~z~No, no, no. Nothing like that at all.
+
+0x0EDD6351 = ~z~Fortune?
+
+0x0F2FE55E = ~z~Meow meows of the desert...
+
+0x2B011AC0 = ~z~Thrilling? Yeah, it is.
+
+0x2E5D2909 = ~z~And how much?
+
+0x3A7FB815 = ~z~Well get 'em out, let me take a look...
+
+0x3BC540A1 = ~z~Heading on a long journey or something?
+
+0x3DF43DC6 = ~z~Yes, yes, enormously.
+
+0x4B07DBA5 = ~z~Over here...
+
+0x4B43E2D6 = ~z~Wait. You serious?
+
+0x4E12E53C = ~z~What are all the cigarettes for?
+
+0x4EDD60D0 = ~z~Just so I can keep opening the packs.
+
+0x5A17FEAA = ~z~Now, you send them to me right here...
+
+0x5ACF001C = ~z~A fair price.
+
+0x5D73006F = ~z~Oh, and the amount of money...
+
+0x5EB18771 = ~z~Think about this deal.
+
+0x6A0F1B1B = ~z~Ah, of course.
+
+0x6CC0238E = ~z~Only a complete set...
+
+0x6D20A4BF = ~z~And you'd pay me?
+
+0x6D929E2A = ~z~Yeah, I'll pay you a good price.
+
+0x7C5CBFB6 = ~z~Well it depends on the rarity, sir.
+
+0x7C92C022 = ~z~I can take it off your hands.
+
+0x8F29654F = ~z~Yeah, but you know, if you ever get a complete set...
+
+0x9C46CDD1 = ~z~Do you smoke, sir?
+
+0x9D327D69 = ~z~Okay, here.
+
+0x11E87020 = ~z~And you'll pay me for 'em?
+
+0x16FDF713 = ~z~Yeah.
+
+0x18EC471A = ~z~take a few.
+
+0x24A793CA = ~z~Look me up, okay?
+
+0x26FFE341 = ~z~Oh, thank you.
+
+0x57C97690 = ~z~How much?
+
+0x59A278DA = ~z~circus freaks.
+
+0x66EF0FBB = ~z~What the little picture card?
+
+0x71EEF91E = ~z~Sure, but...
+
+0x74FBAEA8 = ~z~Sometimes I'll smoke up to...
+
+0x366B3751 = ~z~Okay, I gotta run, this is my train.
+
+0x403FC53D = ~z~the vast amounts of life reaffirming cigarettes I get to smoke.
+
+0x441C9D7A = ~z~perhaps not as much as you.
+
+0x474D5915 = ~z~Phineas T. Ramsbottom, at your service.
+
+0x492FD565 = ~z~Ah, nothing I haven't got.
+
+0x597FF4DD = ~z~These things are enormously valuable.
+
+0x701BA5C0 = ~z~a veritable fortune, sir.
+
+0x821E4E4A = ~z~that's where the value lies.
+
+0x905DEAC9 = ~z~Sure, but...
+
+0x3845B621 = ~z~gunslingers.
+
+0x4588D20F = ~z~so rare.
+
+0x21708F30 = ~z~Sure... sounds...
+
+0x29309B78 = ~z~Thank you.
+
+0x39773C05 = ~z~not as much as you.
+
+0x64320D15 = ~z~The value is in completing the set.
+
+0x74532BBB = ~z~Sometimes I'll smoke up to...
+
+0x204883A7 = ~z~two hundred cigarettes in one day.
+
+0x217789ED = ~z~I never knew.
+
+0x269212BA = ~z~Yeah, look at this...
+
+0x18297511 = ~z~Just so I can keep opening the packs.
+
+0x51446746 = ~z~Sure... well, it sounds...
+
+0x80969859 = ~z~Do you smoke, sir?
+
+0x82074713 = ~z~come on, come on.
+
+0xA0ED08DA = ~z~Yes, yes, yes.
+
+0xA6D6A70A = ~z~Sure, but... perhaps not as much as you...
+
+0xA9FD98BB = ~z~I wish I could explain to you the pleasure and the pain...
+
+0xA9511BB7 = ~z~The little picture cards?
+
+0xA25986DB = ~z~No? What's the matter with you?
+
+0xB00F2246 = ~z~No.
+
+0xB3F0AAE5 = ~z~At the little picture cards?
+
+0xB7CA352C = ~z~A complete set of any series...
+
+0xB9A7BC64 = ~z~Well, here you go.
+
+0xBBA630B4 = ~z~Sure... but perhaps not as much as you...
+
+0xBBBB3C36 = ~z~I get out of collecting these babies.
+
+0xBD36C382 = ~z~The little picture cards?
+
+0xC6DC4FE0 = ~z~Oh, you got any?
+
+0xC3881C57 = ~z~Well what are all the cigarettes for?
+
+0xCBCF63EB = ~z~Right.
+
+0xD1D0B8E8 = ~z~Are you heading on a long journey or something?
+
+0xD49AEB5D = ~z~Cigarette cards.
+
+0xDE0E01B3 = ~z~Oh, sure, sure.
+
+0xE05B09CE = ~z~No.
+
+0xE8FF1425 = ~z~Okay.
+
+0xE81B1C86 = ~z~Sure.
+
+0xEA029B04 = ~z~Sure...
+
+0xEE64A188 = ~z~Not to mention...
+
+0xF6B22F8B = ~z~I'm just interested in the cards.
+
+0xFA3F89C1 = ~z~Oh, no, no, don't worry about these...
+

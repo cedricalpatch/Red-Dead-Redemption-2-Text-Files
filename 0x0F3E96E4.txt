@@ -1,0 +1,10 @@
+0x528E52D9 = ~z~~sl:0.0:2.6~I'm not asleep, sir, in case you're wondering.~sl:1.0~I'm deep in thought.
+
+0x8856BE6D = ~z~Hey!
+
+0xB64F1A5D = ~z~~sl:0.0:2.8~I saw beautiful things and now they're gone...~sl:1.0~They're gone.
+
+0xCA0741CD = ~z~~sl:0.0:1.2~Oh yeah...~sl:0.7:2.5~and the thing is, my friend, the thing is...~sl:0.6~it all seemed so important.
+
+0xFFBFAD39 = ~z~Oh yeah?
+

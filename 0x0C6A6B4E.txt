@@ -1,0 +1,264 @@
+0x0284E037 = ~z~Not even nearly. Damn you.
+
+0x02FBA298 = ~z~How about you look a little closer, and I'll bite your damn nose off.
+
+0x0433AFE0 = ~z~Oh sir, I am quite at peace. So if you'd leave me to my ruminations.
+
+0x0476C561 = ~z~Hold him off me.
+
+0x07666F69 = ~z~You can stop me, alright. But not what I started.
+
+0x0A5C007E = ~z~You can't see them, but they're here.
+
+0x0C5DD1E2 = ~z~There they are. He's got Otis.
+
+0x0D96BFA7 = ~z~I saw that cell built, son. It's sturdy as they come.
+
+0x0DACE05F = ~z~I choose the bounties I take mister. And yours I straight leapt at.
+
+0x1B4741CD = ~z~We got someone in the camp!
+
+0x1D76C503 = ~z~Why is it your deputies cry? They always cry when we get them. Would you cry too, old man? If I had a knife on you?
+
+0x1D97D3BA = ~z~Look at this... now look where you got me.
+
+0x1DD57763 = ~z~Dammit! They got Skinner!
+
+0x1E4902F6 = ~z~Who does he think he is?
+
+0x2CEFD6E5 = ~z~There they are. That's Otis's body!
+
+0x2DCBC759 = ~z~You think you're on top, but you'll be begging me, mister. Begging me!
+
+0x3A779CCC = ~z~I hope your horse is rested, you're carrying two!
+
+0x3D688ACA = ~z~You're a dog. A servant. A peon. A wretch. A nothing.
+
+0x3F91EAE5 = ~z~it's going to be quick, and it's going to be messy.
+
+0x4B712F6C = ~z~You think you got this all wrapped up, don't you?
+
+0x4E98B50D = ~z~You have a black heart, Mr. Skinner. And I feel like you suffer most because of it.
+
+0x4F3F2E77 = ~z~You're a slave to those people. They give you gold, you give them bodies.
+
+0x4F6E435C = ~z~We'll keep chasing you!
+
+0x5AAD455F = ~z~You managed to calm down a little, now you're in this cage.
+
+0x6B041B64 = ~z~Crap. We got someone here. They're hunting us.
+
+0x6D699157 = ~z~I don't like the smell of you.
+
+0x6EFCC061 = ~z~You need a rest.
+
+0x7AD3EDE8 = ~z~There you are. That's the spirit.
+
+0x8A511EB6 = ~z~How many boys you lost? It wear on you, police chief? You get to thinking there's no good left in the world?
+
+0x8C3290E5 = ~z~~sl:0.3:4.3~now, you kill with the Skinners... you do it well enough...~sl:0.5:1.7~well maybe the world'll start thinking~sl:0.0:2.8:1~that it's come undone, not you.
+
+0x8E54BED3 = ~z~Goddamn! Get him in the cell already...
+
+0x9A1A4C0F = ~z~I shall not engage with you, Mr. Skinner.
+
+0x26B894C4 = ~z~Hey. You knew this wretch as Otis Skinner.
+
+0x30C0A7E5 = ~z~One of you, kill him.
+
+0x33E38C47 = ~z~You're not collecting that bounty!
+
+0x37C3C3D0 = ~z~Goddamn. Goddamn.
+
+0x42A529CA = ~z~Stop, you lawman's lapdog.
+
+0x47C29350 = ~z~Stop with the fairy tales.
+
+0x61D12A49 = ~z~I'll still be here. I promise you that.
+
+0x69D9B074 = ~z~Come on! Here!
+
+0x73B8EFFF = ~z~Who's that? Kill him!
+
+0x74BB796F = ~z~You're nothing. You're nobody.
+
+0x78EC392A = ~z~Is that him? I hope he suffered for his sins, alright. Dump him out back then.
+
+0x87E5C64F = ~z~Get out of here.
+
+0x89BEC48D = ~z~So, what went wrong with you, you steaming pile of horse shit?
+
+0x89C53B09 = ~z~See the thing about having my freedom, is I can do what I want.
+
+0x99A95B26 = ~z~You're caught, bounty hunter!
+
+0x99C60D40 = ~z~They're here, find them.
+
+0x103C811D = ~z~No one shall be safe, no one shall find shelter from the storm that's brewing.
+
+0x133C62EC = ~z~Fire at him.
+
+0x165D897D = ~z~Hey! He's got me! Over here!
+
+0x327FC5A3 = ~z~The slaughter is only just begun.
+
+0x356A152D = ~z~Otis Skinner will be avenged!
+
+0x375F29B8 = ~z~You're going to die soon. You know that, right?
+
+0x445E4DC1 = ~z~Depends on what you call human? I seen dogs and mules with more free will than a bounty hunter.
+
+0x499A6FF6 = ~z~Get him! Get him!
+
+0x540E8EC4 = ~z~Yeah, yeah.
+
+0x636EDEB9 = ~z~I won't humor you, mister. I won't.
+
+0x770A85F0 = ~z~Keep talking, sir. Talk away, 'cause I ain't listening.
+
+0x793DCB1B = ~z~They're here for Otis!
+
+0x839F4DA1 = ~z~Take his head.
+
+0x949ADB86 = ~z~There's animals more human than you, you know that.
+
+0x2455EA88 = ~z~Ain't nothing wrong with me. Got the same blood, same needs as you... I'm just freer is all.
+
+0x4921DE44 = ~z~What happened here?
+
+0x7746A640 = ~z~That's what we're paying for him... I would give you more if I could.
+
+0x7755C733 = ~z~He'll be after the bounty!
+
+0x8344BD0D = ~z~Unless you're looking for a deputy badge, get out of here.
+
+0x9435EECE = ~z~Get him.
+
+0x9783B91B = ~z~You're an old man, police chief. A little world weary... jaded perhaps? You think so, but there's still so much you can lose... I promise you that.
+
+0x11320E26 = ~z~They're watching you. And when it's time...
+
+0x16254E27 = ~z~Don't look quite that way from here.
+
+0x36497A9B = ~z~He killed him! Skinner's dead.
+
+0x49495A71 = ~z~I got your bounty money here.
+
+0x98293B0B = ~z~Boy, you caught a whiff of something?
+
+0x332936B1 = ~z~Well, you using your last hours productively?
+
+0x751920B7 = ~z~What's that, boy? Someone's here?
+
+0x963662F0 = ~z~Stop gawping and go.
+
+0x1292499E = ~z~Give it to the man... and leave the two of us alone in here.
+
+0x9393732A = ~z~Quick. Stop them. They came for Otis.
+
+0x20412126 = ~z~Your roads ain't safe. Your beds ain't safe. Your wives, your daughters, your sons, your fathers.
+
+0x34141987 = ~z~You got your gold, so you must just like it here.
+
+0x54988274 = ~z~Now how about we rest up... then go and fly the flag directly.
+
+0x92318816 = ~z~Pride cometh before the fall, and you're going to fall, alright.
+
+0xA9F2E3E1 = ~z~Don't you want to be free?
+
+0xA16CB835 = ~z~You know how much you're gonna make me, Mr. Skinner?
+
+0xA19AE55F = ~z~Look out, I got Otis Skinner here for ya.
+
+0xA284BD89 = ~z~~sl:0.6~We've all come undone...
+
+0xA706A93C = ~z~This ain't over, mister. Not by a long shot.
+
+0xA873F8BB = ~z~We've got you now!
+
+0xAA94AEDD = ~z~Find them.
+
+0xABE25044 = ~z~It means something... 'cause of what we do...
+
+0xAC1DA213 = ~z~Oh, be quiet.
+
+0xACF989B4 = ~z~Bleed, bounty hunter.
+
+0xAD68D42D = ~z~You trying to talk me to death?
+
+0xADE0739B = ~z~It's almost hanging time, Mr. Skinner. Almost.
+
+0xAED6C453 = ~z~Well, you might leave some shit on the gallows, but that's about the end of it.
+
+0xB2DC3EFA = ~z~Otis Skinner... how'd I manage to fall in with you...
+
+0xB7C50BFF = ~z~Let's take the scalp hunter's hair, eh?
+
+0xB455C25F = ~z~We're gonna have some fun with you when we find you, mister.
+
+0xB911518B = ~z~Not quite... how about you come in here and get me a blade, and I'll make something quite memorable.
+
+0xBE9463CE = ~z~Oh, I'll die alright. But not all of me is going.
+
+0xC5EF6F91 = ~z~I hope that wasn't your only rescue party?
+
+0xC3947FA8 = ~z~~sl:0.0:2.2~You go out there murdering folks,~sl:0.1~the world'll think you just a crazy Indian...
+
+0xC71767E2 = ~z~You're gonna wish you never came.
+
+0xCAD6F516 = ~z~No, I'll just let you there with your thoughts.
+
+0xCC3D5A78 = ~z~Here. Have the knife, you cur.
+
+0xCF2CBBE1 = ~z~Mister, I know you're an evil man, but... looking at you... I just can't see it.
+
+0xD6A9658A = ~z~Looks like it's just you and me now.
+
+0xD568C773 = ~z~This must be what a zoo is like.
+
+0xD575C760 = ~z~Are you after my bounty, mister? Oh, I hope it's worth it.
+
+0xDAD77C10 = ~z~I want his head.
+
+0xDFD0CF8E = ~z~Well well, it's the paid killer.
+
+0xE0B49C97 = ~z~You're going to die, friend. Die!
+
+0xE0EB798C = ~z~~sl:0.0:0.7~Yeah, well...~sl:0.7:1.9~There's good and there's bad...~sl:1.0~and then there's them boys.
+
+0xE3B463DD = ~z~Oh, bounty hunter. Bounty hunter.
+
+0xE6A5575D = ~z~We're both killers, old man. Both get paid. Only difference is I take trophies, and you get medals.
+
+0xE6D4BF56 = ~z~Otis Skinner! We're here to rescue you!
+
+0xE9B898CB = ~z~That ain't one of our kills... someone's here.
+
+0xE45FE095 = ~z~I won't rise to it. I won't.
+
+0xE73D43D5 = ~z~It won't be worth what I'm gonna do to you.
+
+0xE835A4B5 = ~z~Ain't this a charming little jail house. I'll be comfortable enough.
+
+0xE41277E9 = ~z~Put the dog on him!
+
+0xE164267A = ~z~Oh, hush now.
+
+0xEC378D31 = ~z~So, this is what a bounty hunter looks like.
+
+0xF5ACCBF6 = ~z~Who overcomes by force, hath overcome, but half his foe.
+
+0xF5C8900B = ~z~We'll see, old man. We'll see.
+
+0xF40EF230 = ~z~There was a lawman once... young feller... grew up on the lake... you remember him? I believe you found him without his privates. Want to know what happened to 'em?
+
+0xF59E466A = ~z~You ain't out of the woods yet.
+
+0xF74FAB13 = ~z~Pin him down, I'm moving.
+
+0xF7636709 = ~z~~sl:0.0:2.3~The Skinner name's meant to mean something...~sl:0.6~that's why you ride under it.
+
+0xFBC9001D = ~z~Someone's here.
+
+0xFCFF6F59 = ~z~Guess we'll see about that.
+

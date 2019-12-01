@@ -1,0 +1,240 @@
+0x02A02829 = ~z~Oh, hello...
+
+0x036F53A5 = ~z~Little rock carvings?
+
+0x05D9D79A = ~z~Francis Sinclair.
+
+0x0627EB19 = ~z~What was your name?
+
+0x0D60CBBA = ~z~Well what's eating you, partner?
+
+0x0DF65C0F = ~z~Eating me?
+
+0x0F3A67A7 = ~z~I've no idea.
+
+0x0F28B1D1 = ~z~Eating me?
+
+0x1ACF794C = ~z~Hello... Mr. Sinclair?
+
+0x1DB1DE4C = ~z~Mrs. Sinclair?
+
+0x1F430940 = ~z~Well, I'm sure you can, sport...
+
+0x1FB7FF92 = ~z~Well, what's eating you, partner?
+
+0x2B82229E = ~z~if I told you, you'd think I was on the hooch.
+
+0x2F9229B2 = ~z~Here's my card.
+
+0x2F232424 = ~z~What a lunatic.
+
+0x3A6B97C7 = ~z~can I help you?
+
+0x3A9CC233 = ~z~Eating me?
+
+0x3B4659EA = ~z~You're what?
+
+0x3D23437C = ~z~Yes!
+
+0x4B0574D3 = ~z~It ain't important...
+
+0x4B3F7874 = ~z~they look a bit like this.
+
+0x4C6DE369 = ~z~Then I'll pay you handsomely.
+
+0x4D04FD67 = ~z~you'll think I'm jazzed if I tell you.
+
+0x4D67BDBF = ~z~Yes...
+
+0x5F318B5C = ~z~I don't have a clue what you just said.
+
+0x5F808EF4 = ~z~Whoa...
+
+0x6A5EA1B6 = ~z~What a lunatic.
+
+0x6A701F99 = ~z~I'm sure you can.
+
+0x6B0C21FD = ~z~John Marston.
+
+0x7D004331 = ~z~Here's my card.
+
+0x8D8CDB3E = ~z~There's these funny rock carvings...
+
+0x8FA2E41E = ~z~Are you?
+
+0x9B949614 = ~z~I'm a little confused.
+
+0x9CE4FFA6 = ~z~The what?
+
+0x9F0E7E41 = ~z~Well, I'm sorry, sport, I...
+
+0x16DB9115 = ~z~Well, it's sort of very complicated and...
+
+0x24C20E5E = ~z~I have no idea.
+
+0x55ECF50B = ~z~Well, I sort of need them...
+
+0x79DC3CE9 = ~z~Send me details, if you can.
+
+0x79E538A3 = ~z~What rest of them?
+
+0x81C9CF2C = ~z~Well, I told you...
+
+0x82D168FB = ~z~It's a long story.
+
+0x84F4D4A2 = ~z~What if I can't find the rest of them?
+
+0x89B1F24F = ~z~my husband Tom, is dead.
+
+0x90D86EA9 = ~z~What?
+
+0x94A8AF97 = ~z~Hello... Mr. Sinclair?
+
+0x331DAB15 = ~z~And if I can't?
+
+0x625C1051 = ~z~The what?
+
+0x635F114B = ~z~Yes!
+
+0x756F8DC2 = ~z~My husband?
+
+0x815C4791 = ~z~I've no idea.
+
+0x900B42F9 = ~z~how did you know?
+
+0x900E6BB5 = ~z~I'm gonna have a lie down.
+
+0x995E7EA1 = ~z~Pleasure.
+
+0x2339B30E = ~z~Hello?
+
+0x5410EDFF = ~z~But I don't understand, why do you need these things?
+
+0x5876FDE7 = ~z~What you wanna do with them?
+
+0x6760ADAD = ~z~No this is Francis...
+
+0x8406EA02 = ~z~Now, it's sort of a puzzle thingimmy.
+
+0x9551F530 = ~z~Let me sketch these down.
+
+0x18628F8E = ~z~Yes, I think you are.
+
+0x18910E93 = ~z~That's not important...
+
+0x21278CDD = ~z~No, I need all of them.
+
+0x207422DE = ~z~What you wanna do with them?
+
+0x356337C0 = ~z~Okay.
+
+0x600784E8 = ~z~But what if I can't find the rest of them?
+
+0x7993509E = ~z~Oh, I'm sorry for intruding...
+
+0x42536217 = ~z~ excuse me.
+
+0x55130912 = ~z~Your husband, Francis is dead?
+
+0x67999864 = ~z~I'll pay you handsomely.
+
+0x68287340 = ~z~I'm sorry for intruding...
+
+0x92440684 = ~z~I sort of, like, really badly have to find all of them.
+
+0x97191192 = ~z~I have no idea.
+
+0xA0778A23 = ~z~Actually...
+
+0xA90CB579 = ~z~Can you find the carvings?
+
+0xAB4A340B = ~z~Mrs. Sinclair?
+
+0xB8E1CF3A = ~z~Hello?
+
+0xB307A633 = ~z~I don't have a clue what you just said.
+
+0xBB619674 = ~z~Hello?
+
+0xBBD8DB11 = ~z~Drunk.
+
+0xBCBE4564 = ~z~what're you gonna do with these things?
+
+0xBD955D26 = ~z~Yeah well, thing is...
+
+0xBDD85DA8 = ~z~Yeah, exactly, little rock carvings.
+
+0xBE565B97 = ~z~He's dead...
+
+0xBF36214E = ~z~I was looking for your husband.
+
+0xBFD7DD22 = ~z~I'm a little confused.
+
+0xC0A76039 = ~z~he's been dead since...
+
+0xC2CFCAC7 = ~z~do you mean these?
+
+0xC2F2FCA2 = ~z~Whoa...
+
+0xC4CAC9B9 = ~z~I mean it sounds ridiculous, but I'm on the level.
+
+0xC76FDBBB = ~z~ah, but, hey...
+
+0xC419D167 = ~z~you mean these?
+
+0xC7086B87 = ~z~excuse me.
+
+0xC493608D = ~z~Eating me?
+
+0xCA785F80 = ~z~What rest of them?
+
+0xCB97F927 = ~z~These little rock carvings?
+
+0xCE1E79AF = ~z~Your husband, Francis is dead?
+
+0xCE40FE7D = ~z~Okay.
+
+0xCE7168CA = ~z~But I don't understand...
+
+0xD0628424 = ~z~No, ha, I wish.
+
+0xD2B8045A = ~z~just before Francis was born one year ago.
+
+0xD5F77522 = ~z~and listen, if you find them...
+
+0xD84EFB2D = ~z~But where's the rest of them?
+
+0xD516F709 = ~z~and neither would you if...
+
+0xD4906E48 = ~z~Oh, actually...
+
+0xD6806D24 = ~z~Hey, can I ask you a strange question?
+
+0xDAA61743 = ~z~and it's really important.
+
+0xDB7D946D = ~z~Yeah.
+
+0xE7CA727E = ~z~Hello?
+
+0xE9A1201D = ~z~what harm could it do?
+
+0xE9B730E0 = ~z~I'm looking for your husband.
+
+0xE704B000 = ~z~I know, it sounds ridiculous, but I'm on the up and up...
+
+0xE84690B0 = ~z~See I'm a...
+
+0xE2142787 = ~z~Are you...
+
+0xF95FBEA6 = ~z~I don't feel very well...
+
+0xF893B64E = ~z~You're what?
+
+0xFC34B88C = ~z~Well, I'm sorry, I'll dry up.
+
+0xFCFAC328 = ~z~And if I can't?
+
+0xFDE740A9 = ~z~Arthur Morgan.
+
+0xFEA960B1 = ~z~No, I'm, err... lost.
+

@@ -1,0 +1,12 @@
+0x0ED2D8B8 = ~z~The people you haven't fed.
+
+0x1D60F5D4 = ~z~Who is?
+
+0x6F3419A5 = ~z~Oh, give it a rest will you?
+
+0xA0E8FD0E = ~z~Others are pulling their weight.
+
+0xC085BC1F = ~z~Me? When did that become my job?
+
+0xEB9A1247 = ~z~They're getting hungry, Mr. Morgan.
+

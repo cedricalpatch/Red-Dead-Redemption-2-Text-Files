@@ -1,0 +1,20 @@
+0x02285B4A = ~z~Well it is kind of embarrassing but... I-I need a few things for a... home remedy.
+
+0x2B7BADF0 = ~z~Oh... It's a long story, but it really hurts.
+
+0x3B9E4E35 = ~z~What... what have you been up to?
+
+0x17F486E2 = ~z~If you're out and about and come across any of these things, I'd appreciate it.
+
+0x86B5E467 = ~z~I'll see what I can do.
+
+0x1346FD87 = ~z~What?
+
+0x94820003 = ~z~Psst. John... John!
+
+0xD8699522 = ~z~Thanks, John.
+
+0xDDCD9295 = ~z~Oh... just some whiskey, peppermint, uh, milkweed, uh, some hair grease and, er... oh, some skunk meat.
+
+0xEEEF34D8 = ~z~A few things like what?
+

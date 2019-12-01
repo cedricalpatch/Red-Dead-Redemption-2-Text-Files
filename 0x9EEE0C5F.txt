@@ -1,0 +1,18 @@
+0x058E7CC4 = ~z~Makes for a quicker kill. You can take down a bear with one of these...
+
+0x2B4C483F = ~z~What you doing with them knives, my friend?
+
+0x5AD9A75D = ~z~Interesting.
+
+0x10AF9306 = ~z~Why?
+
+0x37FA619B = ~z~Thanks Javier.
+
+0x49B30510 = ~z~Get me some Oleander... I'll show you how to make some. Pretty easy.
+
+0x84A1FAED = ~z~if you hit it in the right spot.
+
+0x221235CB = ~z~Poisoning the tips.
+
+0x441379C1 = ~t~In Spanish: Of course.
+

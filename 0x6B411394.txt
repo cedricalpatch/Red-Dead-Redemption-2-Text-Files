@@ -1,0 +1,690 @@
+0x0114EE33 = ~z~Hey. Don't you dilly dally.
+
+0x020D4393 = ~z~Now, what're you waiting for?
+
+0x0254C67E = ~z~Well, hell, you back here sniffing around for my money, I bet.
+
+0x02796272 = ~z~~sl:0.0:2.5~You do what's written here, on this paper,~sl:0.0:2.4~we'll make out of it real well...~sl:0.5~here.
+
+0x02BD5FB5 = ~z~~sl:0.0:2.8~Well, if it ain't the worst damn lackey this side of the grizzlies.~sl:~If I rob a stage I ain't asking you for help.
+
+0x03A3BCAD = ~z~You need to go!
+
+0x03A9F585 = ~z~You all are lucky I don't shoot ya... after what happened before.
+
+0x03F6797C = ~z~I'd have this done by now. Get on.
+
+0x048FCA3D = ~z~I told the woman I had some work...
+
+0x0493C4CB = ~z~~sl:0.0:4.4~Now, there's some nags I want out at Lone Mule Stead.~sl:0.2~Real pretty, they are.
+
+0x052D4468 = ~z~~sl:0.0:1.5~Time for some fun.~sl:0.0:5.1~There's a posse of no-good, stinking, degenerate fools~sl:~that you are gonna smoke for me.
+
+0x070AC9D3 = ~z~Don't you vex me anymore. Give me a moment.
+
+0x07C448C6 = ~z~~sl:0.0:4.9~Understand? We can't have that or the Pinkertons will be here,~sl:~so you're gonna save 'em from them.
+
+0x0816CB89 = ~z~~sl:0.0:3.9~Now, there's a caravan of goods, loaded up in Valentine.~sl:~I been told I shouldn't steal it, but no one's told you that.
+
+0x086A58E1 = ~z~~sl:0.0:1.5~Make sure the money's mine, okay?~sl:0.6~Get along.
+
+0x094AEB25 = ~z~~sl:0.0:3.2~The moral of the story is don't get caught, ain't it?~sl:0.1~And hope you got a friend like the Boy, here.
+
+0x095A2F7B = ~z~~sl:0.0:3.1~But folks I know, they ain't had it as sweet as me.~sl:0.2~Got themselves picked up, by the law in Big Valley.
+
+0x095AF980 = ~z~~sl:0.0:1.5~It's all written down here.~sl:~I can't read this chicken scratch, but it's legit, alright?
+
+0x09EDEF2E = ~z~I don't have anything to give you right now.
+
+0x0A1CF6C1 = ~z~Look what you got. Alright.
+
+0x0A385AEE = ~z~Don't do that!
+
+0x0AA98B6A = ~z~~sl:0.0:1.1~Let's get to it.~sl:0.0:4.4~I know about a feller, a business man, and I want you to meet him.~sl:~And kidnap him, too...
+
+0x0BAC63B2 = ~z~~sl:0.0:2.4~You're nibbling the wrong cheese, church mouse.~sl:0.4~No work for your kind here.
+
+0x0C35C857 = ~z~~sl:0.0:3.8~Break the whole thing up. This will be good money for you...~sl:0.5~grunt.
+
+0x0C92D95D = ~z~Try not to be too disappointing now, won't you?
+
+0x0CD1C78B = ~z~You trying to get tough with the wrong feller. Get on with you.
+
+0x0D72EEE5 = ~z~~sl:0.0:3.4~And then... I just gotta have it, right off them.~sl:0.2~Like these horses, down at Castor Ridge, there.
+
+0x0D594E72 = ~z~~sl:0.0:3.5~They got him in a prison wagon by Carmody Dell.~sl:~Go on. Sooner the better, for sure.
+
+0x0F7DF94D = ~z~~sl:0.0:1.0~What're you waiting for?~sl:0.7~Get reading.
+
+0x0F20E016 = ~z~Now, I'm guessing you want earn some more money, hey?
+
+0x0FB663D3 = ~z~Don't just leave it there, come on.
+
+0x0FE6B4E4 = ~z~Lord, I shouldn't have trusted you.
+
+0x1A15ED69 = ~z~~sl:0.0:3.4~There's a gang, took some hostages outta Valentine.~sl:~And I think they're about to end them most horribly.
+
+0x1C09D4DA = ~z~~sl:0.2~Can't change their fortune, but least we can try.
+
+0x1D0BC808 = ~z~If I make it to thirty, I bet I'll be president.
+
+0x1D9B8C9F = ~z~Watch where you're aiming that.
+
+0x1D174B69 = ~z~Get me that money, okay?
+
+0x1EC67DC4 = ~z~Now, carry on. Carry on.
+
+0x1EDE6DA8 = ~z~~sl:0.0:3.7~I want you to show them that these roads can be dangerous,~sl:~if ya don't have the right people looking out.
+
+0x1F0AB9D5 = ~z~~sl:0.0:1.1~I'd probably get bored out there, too.~sl:0.6:1.8~I've stolen so many horses in my life,~sl:~I can barely keep count.
+
+0x2A728A46 = ~z~That's it... you're done. Go.
+
+0x2B4E2804 = ~z~Put it down.
+
+0x2BD6E59E = ~z~got a run in with the law.
+
+0x2CE3CB56 = ~z~You don't go soon, I'm gonna have to give you a kick in the behind.
+
+0x2E26A28C = ~z~Don't let me down now, lackey. Get 'em robbed.
+
+0x3A4DB5B8 = ~z~I bet I could have three in you before you even blinked.
+
+0x3B8A2A55 = ~z~I can't talk to you right now.
+
+0x3CA4F5D3 = ~z~~sl:0.0:0.9~Here's the latest.~sl:0.3:5.3~It just so happens the law have requisitioned a wagon of mine.~sl:0.2~You believe that?
+
+0x3D1EFD4E = ~z~You got a bounty don't you? Lose it and then come back.
+
+0x3D119307 = ~z~You're getting real familiar.
+
+0x3D981833 = ~z~The Del Lobo gang, been doing some smuggling by Bard's Crossing.
+
+0x3E003DD4 = ~z~Look at this, the old mule is back, wants to be put to work.
+
+0x3EE86B72 = ~z~~sl:0.0:3.7~Now, there can't be no deal, if they don't have no merchandise.~sl:~So you take it out.
+
+0x3EF196F1 = ~z~~sl:0.0:2.3~Well, they're gonna take this serious, alright.~sl:0.0:1.6~We're gonna find their caravan,~sl:~we're gonna take out everything they're moving...
+
+0x3EFB8838 = ~z~~sl:0.0:2.0~Now, I ain't yeller.~sl:0.1:2.1~I'd shoot anyone who said I was...~sl:0.0:3.0~maybe worse, even. So...~sl:0.2~that ain't why I ain't going after it. You hear?
+
+0x4A731247 = ~z~Even someone dumb as you should be able to handle that. Go.
+
+0x4B9CA7B6 = ~z~~sl:0.0:1.9~You know Castor's Ridge over there?~sl:0.2~There's a cougar that way that's scarier than any man with a gun.
+
+0x4BBFD953 = ~z~Well hey, how about some more work then?
+
+0x4BD6D8CA = ~z~Slow I bet too.
+
+0x4CE7A46B = ~z~Okay?
+
+0x4DEA8786 = ~z~~sl:0.0:2.5~Fill the order, cash the ticket.~sl:1.2~Easy work.
+
+0x4E5E6102 = ~z~Go get him for me.
+
+0x4F64ACBD = ~z~At fifteen I done more than most men at thirty.
+
+0x5BE33389 = ~z~What's a kid to do around here anyway? Goddamn.
+
+0x5BF6FE2C = ~z~~sl:0.0:3.0~So if you rob him, you're done. Real easy.~sl:0.3~Don't know why I got faith in you, but somehow I do.
+
+0x5D02D708 = ~z~~sl:1.1~I'm tired of all these folks and their schemes. Hell.
+
+0x5D257B67 = ~z~You're pretty big, ain't you?
+
+0x5ED370E7 = ~z~I'm cooling down, alright?
+
+0x6BF1ADDC = ~z~What are you doing back here? You got work to do.
+
+0x6C7CCC50 = ~z~Interested in some work, huh?
+
+0x6D36D087 = ~z~All you got to do is grab him. Uh huh.
+
+0x6E186CAD = ~z~~sl:0.0:1.8~You go up there, you kill it.~sl:0.4~And bring me back some proof. You got that?
+
+0x6F12FB28 = ~z~~sl:0.0:5.0~Me, I will rob anywhere. On land, on sea, the sky.~sl:0.1~But this one's a wet one, so you better be salty enough.
+
+0x7A87569D = ~z~~sl:0.0:3.2~There is something but... I don't think you're quite up to it.~sl:~Maybe come back soon, okay?
+
+0x7C82EF1F = ~z~~sl:0.0:3.4~He's coming up on the stage. Up to Cornwall Kerosene.~sl:~He's a Cornwall man, worth Cornwall money.
+
+0x7E1A8325 = ~z~Run along.
+
+0x7F5F97B2 = ~z~What're you doing?
+
+0x7FAE09F7 = ~z~Make this lackey thing official. How's about that?
+
+0x8A70083A = ~z~More money means more work, you understand?
+
+0x8AA6B24F = ~z~Feels like it should be us doing it instead. You get their cargo, okay?
+
+0x8C7C5F00 = ~z~~sl:0.0:2.8~It's my goddamn right to shoot who I want to...~sl:0.1:2.0~it's in the Constitution, or something.~sl:~If I could read, I'd read it to ya.
+
+0x8FD8AA48 = ~z~Get 'em out of there.
+
+0x9A6DA835 = ~z~You want that work?
+
+0x9A9C9C05 = ~z~~sl:0.0:3.3~Good dog. Now, if you do this job like you oughta,~sl:~there's gonna be a big juicy bone for you.
+
+0x9A244D55 = ~z~~sl:0.0:2.6~You can go find that caravan outside Riggs Station.~sl:0.6~Go on. Get after it.
+
+0x9AC2FB8D = ~z~~sl:0.0:4.0~Now, this law is up by Fort Wallace, in the high country.~sl:~They confiscated a goods train. You gonna confiscate it back.
+
+0x9AF8C08C = ~z~I'll pay you.
+
+0x9B67C113 = ~z~He's mean as hell and even uglier. And you kill him, yeah?
+
+0x9F38F223 = ~z~~sl:0.0:2.6~Right? Shy of breaking them out,~sl:0.0:2.6~best thing you can do for a friend in the poke is...~sl:~put him out to pasture, hey?
+
+0x10A98EF5 = ~z~~sl:0.0:2.5~Break up anything they got over there.~sl:~And don't be nice to them, neither.
+
+0x10D37AC7 = ~z~Come back later.
+
+0x11F40447 = ~z~~sl:0.0:3.9~This was passed onto me, only I don't read too good,~sl:~so I'm trusting you to do it. Here.
+
+0x13DCEB3E = ~z~Well, shit. Already? I ain't lined anything else up yet.
+
+0x15A51CD9 = ~z~What in the hell is wrong with you? You doing this?
+
+0x15F63685 = ~z~Come on, that's the spirit.
+
+0x17A10341 = ~z~~sl:0.0:3.0~Ever since I saw them, they been eating at me.~sl:0.4~You gotta get me them.
+
+0x17E21706 = ~z~You need more people in your posse for this one.
+
+0x18A45FC6 = ~z~I had enough outta you!
+
+0x19AFFB6C = ~z~~sl:0.0:1.0~Oh, boy.~sl:0.2:2.2~I don't know why I let you have all the good ones,~sl:~but I do.
+
+0x19E56F26 = ~z~I don't got respect for my elders, and why the hell should I?
+
+0x21EDF504 = ~z~Of course, you just make sure you pull it off. I'm trusting you.
+
+0x23A6C18A = ~z~And off you go.
+
+0x23F3D5D0 = ~z~and you're the lackey.
+
+0x28E47966 = ~z~Yeah, so, this is good bye, right?
+
+0x29C5A78A = ~z~Might not be happy until everything is mine. We'll see.
+
+0x31A1712B = ~z~That's why I'm the boss...
+
+0x33D47826 = ~z~~sl:0.0:2.3:1~Scarier than me, if you'd believe it.
+
+0x33DD18E6 = ~z~~sl:0.0:3.1~Carrying serious money. Money you will get, you hear?~sl:0.1~Now, it's my tip, so I get a cut, obviously.
+
+0x34B62F9F = ~z~~sl:0.0:3.0~It's a passenger, travelling through to Flatneck.~sl:~He's rich and he's got the money on him.
+
+0x36D8B3CA = ~z~~sl:0.0:2.4~Well, alright. You're taking on the law with this one...~sl:0.0:2.0~'cause they don't like me, no.~sl:~Don't like me stealing, or killing, or being free.
+
+0x40E9FD93 = ~z~~sl:0.0:1.1~You ever get bored, lackey?~sl:0.4:2.0~I guess you ain't got the brains for boredom.~sl:0.2~Me, I get bored all the time.
+
+0x41D04EE4 = ~z~~sl:0.0:4.4~Why? 'Cause I'm a... I'm a killer, I'm a thief, and a boy?~sl:~But I'm not nearly the meanest, no way.
+
+0x42C0CBB4 = ~z~~sl:0.0:1.4~Now, let me get to the point.~sl:0.1:3.6~There's a stage coach coming out of Rhodes and you are gonna rob it.~sl:0.1~If you are able, obviously.
+
+0x44B269C3 = ~z~~sl:0.0:2.3~Okay, lackey, I'm gonna share this with you,~sl:~but you better promise me to give me my due.
+
+0x47B69A09 = ~z~Go.
+
+0x50A7BA5D = ~z~They can't move merchandise, they ain't that much of a company.
+
+0x52E71B6D = ~z~You here to see me?
+
+0x53AA6E94 = ~z~~sl:0.0:2.8:1~And I'll pay you for it, besides.
+
+0x59C8CC75 = ~z~Don't you dare.
+
+0x59EEAF9C = ~z~These nags is out at Cornwall's place, Kerosene and Tar.
+
+0x61DA58C6 = ~z~What in the hell happened?
+
+0x64FC6DD1 = ~z~Okay, lackey. You want some more work?
+
+0x67B50CD2 = ~z~~sl:0.0:3.3~Break it all apart. And maybe then they'll think again.~sl:0.8~You know where they is... get on over there.
+
+0x70AA7E1A = ~z~~sl:0.0:3.2~They got brains, they got looks, they can draw.~sl:~I'm the luckiest boy you'll meet, me... won't run out, neither.
+
+0x72C0B0D4 = ~z~~sl:0.0:2.1~I'll only kill someone if they deserve it.~sl:0.1~And I'll kill them quick, out of the goodness of my own heart.
+
+0x76F65807 = ~z~Goddamn good work there.
+
+0x81A0B1B9 = ~z~Stop that right now!
+
+0x83C33B38 = ~z~Alright now, you got friends you care about, right?
+
+0x83F36975 = ~z~~sl:0.0:3.6~Well... I'd love to give you this job, but... I don't think you're quite ready.~sl:~Come back again maybe?
+
+0x85BF7989 = ~z~~sl:0.0:4.0~Can't be any more stupid than these fools you got to rob...~sl:~O'Driscoll's boys, they is.
+
+0x87B58BF3 = ~z~~sl:0.0:3.3~So, I should like you to get it back...~sl:0.2:4.9~it's somewhere between Valentine and Emerald Ranch...~sl:0.1~on the road there.
+
+0x92EB4335 = ~z~I paid you for that last job, didn't I? No reason why I wouldn't again.
+
+0x97F32C6E = ~z~I don't expect them to give it up easy, either.
+
+0x104F3D6F = ~z~Just what it says. Now get to work.
+
+0x106EFB18 = ~z~~sl:0.0:1.5~Oh, don't look at me like that.~sl:0.4~If you want some more work, I'll give it to ya.
+
+0x117F9130 = ~z~So, what went wrong before? You too slow or too stupid?
+
+0x178F3F9C = ~z~~sl:0.0:3.0~And you know what? I probably have done.~sl:0.2~But this ain't no man we're talking about...
+
+0x190F6006 = ~z~Think you can push The Boy around? Get off.
+
+0x222B07DA = ~z~~sl:0.0:2.0~Yeah, it might be a little too soon, you know.~sl:~Try me in a while, will ya?
+
+0x227B7374 = ~z~You want me to pull you in?
+
+0x245A1806 = ~z~Go real easy.
+
+0x266FC718 = ~z~Go on and do it then.
+
+0x302C8E40 = ~z~I don't want nothing to do with you.
+
+0x310EA254 = ~z~~sl:0.0:2.7~Got that? It's going to be hot, alright.~sl:~Now I'd go, but the law wants me more than that Clarence.
+
+0x333F60B7 = ~z~You all know what to do.
+
+0x365B33F6 = ~z~I ain't used to being so nice to folk. Feels good, you know that?
+
+0x388E2248 = ~z~~sl:0.0:2.5~Tip's about a passenger on a stagecoach~sl:~going past Painted Sky ranch.
+
+0x459C6DBF = ~z~Shit in my boot. You brought it here. Alright.
+
+0x523CF0D6 = ~z~Go back to church. You ain't got no business working with me.
+
+0x543CB665 = ~z~I do everything twice as fast as everybody else.
+
+0x580D98FB = ~z~Lose the law before speaking to me.
+
+0x591E1456 = ~z~~sl:0.0:1.8~If it ain't my lacky.~sl:0.3~I got some stage-robbing friends owe you a favor. You want some more work?
+
+0x617E5C0A = ~z~Well, lackey, we're gonna have to teach some people about respect.
+
+0x625BAED2 = ~z~You did it. How about that?
+
+0x645D01F6 = ~z~Go on, now. Go.
+
+0x652B6364 = ~z~~sl:0.0:3.2~Damn Express company, apparently doesn't take me seriously~sl:~because I'm a boy.
+
+0x654B5532 = ~z~Go get after them, lackey.
+
+0x659EE20A = ~z~~sl:0.0:1.2~I'm sure you're capable,~sl:~toughest part of the job is the reading of it there. Go on.
+
+0x687B69DA = ~z~Back off.
+
+0x728A7308 = ~z~You can take that to the bank.
+
+0x818A9676 = ~z~~sl:0.0:1.8~Now, how 'bout that?~sl:0.1:2.9~You know, I happen to have just the thing to keep you busy.~sl:~If you can handle it, that is.
+
+0x859B4C56 = ~z~Well let's get a look at you.
+
+0x917E56AE = ~z~~sl:0.0:3.4~Rather six feet of dirt, than two foot of brick... right?~sl:0.5~That's what we're doing for my old friend today.
+
+0x934B550E = ~z~That's enough!
+
+0x937B94FD = ~z~~sl:0.0:2.5~Okay, then. Let me tell you what you can do,~sl:~providing you ain't too stupid to pull it off, okay?
+
+0x966AD475 = ~z~Well, how's about leaving then?
+
+0x973E79CF = ~z~I might be mean, okay? But I ain't a damn loon.
+
+0x2290B6B0 = ~z~This is like watching paint dry, really. Come on.
+
+0x2470B4FA = ~z~What are you waiting for? Go.
+
+0x2550DB1F = ~z~~sl:0.0:2.7~Then listen here. I don't care if they're twice my size,~sl:~I can whoop any man I meet.
+
+0x3078A475 = ~z~You're a little too keen, okay? Maybe just wait a while.
+
+0x3614BB7B = ~z~Easy there...
+
+0x3642E5A9 = ~z~~sl:0.0:4.1~Well, there's some folks moving stuff up the Dakota River.~sl:0.1~Worth a whole lot, I hear.
+
+0x3844C721 = ~z~And be quick about it.
+
+0x4869C1FF = ~z~~sl:0.0:3.5~It's your lucky day. 'Cause I got a tip, and how's about this,~sl:0.0:2.0~I'mma give it to y'all to do.~sl:~But don't mess it up like some fool.
+
+0x4882E108 = ~z~Okay, I'm gonna speak. And you better listen.
+
+0x4957E905 = ~z~~sl:0.0:3.7~You'll find them coming outta the Grizzlies, to Old Fort Wallace.~sl:0.2~Like I said, kill this bastard, kill him good.
+
+0x5161D828 = ~z~You need to get outta here!
+
+0x5278FD80 = ~z~Go and get him.
+
+0x6327C2D8 = ~z~But you don't mind about that. You're a tough old bird, ain't ya?
+
+0x6330BC00 = ~z~You come looking for The Boy?
+
+0x7603A96F = ~z~~sl:0.0:1.8~So I need you to head on over there,~sl:~and take out anything that ain't strapped down.
+
+0x8320C3A9 = ~z~~sl:0.0:1.3~The Cornwall Company,~sl:0.0:2.7~they knew what it would cost to have me as a friend,~sl:~and now they got me as a foe.
+
+0x8871A9F0 = ~z~And then we're gonna see if they wanna pay me... protection.
+
+0x8889A614 = ~z~Well, hell, I despair.
+
+0x9548FA9F = ~z~~sl:0.3~You'll find 'em over by Carmody Dell. You know what to do.
+
+0x13527C6B = ~z~Nope. Go on and do that thing, okay? Then come back to yak.
+
+0x20039D86 = ~z~~sl:0.0:2.8~Well, okay. Now, I sure hope you can read this,~sl:~'cause I can't make head nor tail.
+
+0x21963C50 = ~z~I hate to give away the cash, but that's the way it is. Goddamn.
+
+0x40650EBE = ~z~Now what was I talking about?
+
+0x48435FD8 = ~z~Wind it down...
+
+0x51118D0E = ~z~You'll find them on the train line.
+
+0x51322CA5 = ~z~~sl:0.0:2.1~It's just 'cause I hurt my foot, you see?~sl:0.0:3.2~So you gotta go up in Cumberland Forest there~sl:~and find me that grizzly bear.
+
+0x55045D49 = ~z~Hey. I got to cool off a minute.
+
+0x71148A5F = ~z~Carry on like this, you might be as famous as me one day.
+
+0x76019FB5 = ~z~~sl:0.0:2.8~Friends who know all about you, and if they got caught,~sl:~you'd do them a favour...
+
+0x83552EE0 = ~z~Keep this up, they'll be writing about you in the newspapers.
+
+0x140963B6 = ~z~I might be the best damn rider this state's ever seen.
+
+0x256043E4 = ~z~You get that stuff for me, I'll pay you fair for it.
+
+0x427758E1 = ~z~~sl:0.0:3.8~See I-I ain't good at sharing. You any good at sharing?~sl:0.2~I've never been.
+
+0x439882F0 = ~z~~sl:0.0:2.7~I hear they're worth something. I want you to get 'em for me.~sl:0.8~I'll make sure you get paid.
+
+0x537743B4 = ~z~~sl:0.0:3.2~Ain't that fine? Now you got good luck, or bad?~sl:0.1~Some folks got all the luck.
+
+0x903955D6 = ~z~Alright, get going!
+
+0x1362894C = ~z~You got it. Well, I'll be.
+
+0x4006212B = ~z~To the rescue already.
+
+0x4668342D = ~z~They're out there, alright.
+
+0x5490933C = ~z~Bravo. Well done.
+
+0x12171047 = ~z~There's no time like now, eh?
+
+0x16506808 = ~z~~sl:0.0:2.2~You go to school? I bet you was educated.~sl:0.1~There weren't much they could teach me, though.
+
+0x37181209 = ~z~Well, if it ain't my little helper. You gonna do something for me?
+
+0x75546667 = ~z~~sl:0.0:2.7~Bored of drinking, bored of shooting, bored of life.~sl:0.2~I should probably come with you on this job, but...
+
+0x91666034 = ~z~~sl:0.0:4.0~Alright, okay, now can you tell me what's the goddamn point...~sl:0.0:1.7~of being a goddamn gunslinger,~sl:~if folks don't pay up when you ask?
+
+0xA0BFAF85 = ~z~~sl:0.0:3.1~It'll be on the road outta Emerald Ranch.~sl:0.5~Get it done, the money is good.
+
+0xA5D45F09 = ~z~~sl:0.0:3.1~You understand me? Oh, yeah...~sl:0.0:3.1~Now, I'm itching to do this myself, but...~sl:0.4~I'm giving you the pleasure.
+
+0xA6E1F5F9 = ~z~You're hot stuff now, ain't ya? Don't let it go to your head.
+
+0xA6E9A39B = ~z~Some nerve coming back here when the job's not done. Get on with it.
+
+0xA9E32C4F = ~z~~sl:0.0:1.3~Of course you do.~sl:0.0:3.5~I mean, you'd spit-shine my boots, if I asked you to...~sl:~do anything I say. Right, lackey?
+
+0xA77D6C59 = ~z~~sl:0.0:5.0~I hope you ain't expecting a pat on the head for handling that last thing, doggy.~sl:~It was expected.
+
+0xA86A91F4 = ~z~Okay.
+
+0xA99A0D43 = ~z~~sl:0.0:4.0~And I can assure you, you will know them when you see them.~sl:0.2~Pow pow.
+
+0xA420A114 = ~z~Hey, look, I just ain't comfortable working with a sick bastard like yourself.
+
+0xA7169E3A = ~z~~sl:0.0:4.3~There's an outfit I'm friendly with, running a caravan of goods.~sl:0.0:1.7~But we ain't so friendly...~sl:~that I'm a gonna hold off robbing them, see?
+
+0xA7869E69 = ~z~Pull your neck in.
+
+0xA79315A5 = ~z~Don't shoot!
+
+0xA912119E = ~z~~sl:0.0:1.3~I hope you're ready.~sl:0.0:4.1~'Cause I have quite a plan... and I'm hoping you can carry it out.~sl:0.2~How about it, lackey?
+
+0xA4747088 = ~z~If that's it, you can go.
+
+0xA6629129 = ~z~Take it.
+
+0xAB589C82 = ~z~~sl:0.0:3.6~I want you to run along and carry them out.~sl:0.2~Can't be no confusion about it. There.
+
+0xABC09F8F = ~z~~sl:0.0:3.2~Now, there's a stagecoach coming outta Cumberland Forest.~sl:0.0:2.9~These are Cornwall men, carrying Cornwall money.~sl:~You know what that means?
+
+0xAC59C192 = ~z~Lose them lawman before coming back here, dammit.
+
+0xAD006497 = ~z~They got caught robbing a stage.
+
+0xADD565EE = ~z~~sl:0.0:3.4~And then you bring me a trophy, and if anyone asks, it was me.~sl:0.4~Okay? Go get him, lackey.
+
+0xAE7D4B00 = ~z~~sl:0.0:3.1~Most of them are too old to be called boys, anyhow.~sl:0.3~They got a wagon I need, and you're getting it. Okay?
+
+0xAEF25386 = ~z~You looking for The Boy, you found him, alright.
+
+0xAFAB1AFB = ~z~You're gonna get them for me. And I'll give you cents on the dollar.
+
+0xB0104DC8 = ~z~~sl:0.0:3.5~Okay, you sorry no-good sack of shit.~sl:0.1:4.0~Just about everybody else has let me down.~sl:0.2~Let's see if you do it, too.
+
+0xB6B09140 = ~z~What you want, lackey? You want me to put you to work?
+
+0xB7E7A9DE = ~z~How 'bout it, huh? Smoke 'em when you find 'em.
+
+0xB8F8C1FE = ~z~~sl:0.0:2.8~If they can take what you got, they will.~sl:~So you better believe we will take it off of them.
+
+0xB9A9C94F = ~z~I don't wanna see your face unless you're done, alright?
+
+0xB115B187 = ~z~What is this?
+
+0xB150ED3C = ~z~Alright, good.
+
+0xB23757C8 = ~z~You wanna earn something, you have to do something...
+
+0xB177393A = ~z~~sl:0.0:1.8~Listen up. Old friend of mine's~sl:~been rustled by some bounty hunters, and well...
+
+0xBA0F39EF = ~z~~sl:0.0:2.7~Okay, let's go. No time to waste at all.~sl:~I'm gonna give you instructions, yeah?
+
+0xBA13C597 = ~z~Get over there and smash what they stolen. We'll see, won't we?
+
+0xBABAC6D9 = ~z~~sl:0.0:4.2~These folks sadly do. Down by Bard's Crossing.~sl:~They been robbing Cornwall, and other folks beside,
+
+0xBAD1634A = ~z~~sl:0.0:1.9~Some fools out at Dewberry Creek~sl:0.0:1.7~was meant to cut me in on a deal,~sl:~but they just went and did it themselves.
+
+0xBC6E969C = ~z~Look out if you work for me, I'd kick the crap out of you, alright?
+
+0xBC75B444 = ~z~~sl:0.0:2.9~I talk quick, I shoot quick, I can ride.~sl:0.2:1.3~I was fully formed, you know...~sl:~before they got their hands on me.
+
+0xBCFFC20D = ~z~Just don't get shot yourself.
+
+0xBD844C92 = ~z~Steady now. Holster it before you get yourself hurt.
+
+0xBD5633EB = ~z~~sl:0.0:1.4~Just in time.~sl:0.0:3.6~Ya'll got a rescue to perform, and not a moment to lose.~sl:0.1~You think you can be quick, for once?
+
+0xBE791A50 = ~z~I should say thank you. You actually managed to do something for me.
+
+0xBF12A5C4 = ~z~I'd prefer if you left me to myself.
+
+0xC1ECA0DA = ~z~~sl:0.0:1.7~You got sea legs, lackey?~sl:~I mean, can you handle yourself on the water?
+
+0xC2C6DE60 = ~z~Look, there's mean and there's you. Mean I can handle, you I can't.
+
+0xC5DDD711 = ~z~~sl:0.0:1.6~Skinner Brothers ain't like that.~sl:0.0:3.3~Keep that in mind when you're stealing their boats for me,~sl:~from up at Bacchus Bridge, there.
+
+0xC7B3088B = ~z~~sl:0.0:4.4~If I had more time, I'd be the famousest man in this country,~sl:~at my age, too.
+
+0xC7F26154 = ~z~~sl:0.0:2.0~and kept the Boy out of it.~sl:0.2~Well, the Boy is going to be in it, now.
+
+0xC42A09DA = ~z~There's money to be made.
+
+0xC75A603E = ~z~Easy with that thing, okay?
+
+0xC737FCA2 = ~z~~sl:0.0:3.0~Rememer this, lackey, when you don't get paid, I don't get paid.~sl:~And I don't like missing out.
+
+0xC895A48F = ~z~~sl:0.0:3.5~Some loud mouth been carrying on all 'round here.~sl:~You gonna shut their mouth... permanently.
+
+0xC996FC0C = ~z~Don't bring the law over here.
+
+0xC3384AD4 = ~z~Pick it up.
+
+0xC52827AE = ~z~Hey, and top prize for not messing up that last one.
+
+0xC8816266 = ~z~I damn well doubt you got the gumption, or the stupidity, neither.
+
+0xCA028E3F = ~z~Okay, get on with it then.
+
+0xCA2ADB7F = ~z~~sl:0.0:4.2~You believe in loyalty? I'd say you better. Loyalty is important.~sl:0.1~To your gang, to your code, to your buddies.
+
+0xCAAB6563 = ~z~~sl:0.0:2.2~You see everyone out here, on the range...~sl:0.0:3.5~desperados, lawmen, regular folk.~sl:~They're all just trying to get what they can.
+
+0xCCEBD3E6 = ~z~Go find 'em.
+
+0xD03F01D4 = ~z~You in charge, hey? Yeah, I didn't think so.
+
+0xD0FD7ACD = ~z~You evil bastard. I won't work with that.
+
+0xD6F49BF7 = ~z~You keep messing up like that, you might end up with some holes in you.
+
+0xD7AE5211 = ~z~And tell him he was slow.
+
+0xD8B12B9C = ~z~You all know what to do.
+
+0xD8DD0ADB = ~z~Hell, I don't got time for you right now.
+
+0xD9E80559 = ~z~Go steady with that thing.
+
+0xD9EF7A2D = ~z~Hey, cut that out!
+
+0xD59AEAAF = ~z~~sl:0.0:3.3~So, you are gonna kidnap him. Why, yes you are.~sl:0.2~Get that old fool right outta his stage.
+
+0xD97B775A = ~z~Go on, take it.
+
+0xD102EA13 = ~z~~sl:0.0:2.8~Well, ain't you in luck? I was gonna do this one myself,~sl:~but I guess I'll let you have a shot.
+
+0xD7634B8E = ~z~~sl:0.0:3.1~I need someone... to break them outta there.~sl:0.2~Bring them some luck, you know?
+
+0xD44483DC = ~z~Nope. No work from me right now, I'm afraid.
+
+0xDA1CEE48 = ~z~~sl:0.0:2.3~Didn't I tell you this was gonna be fun? Huh?~sl:0.5~No one's paying me to shoot idiots.
+
+0xDA1195AC = ~z~I got something, but it ain't ready yet. Come back later.
+
+0xDAE74AD2 = ~z~Well, that's one way to mess it up.
+
+0xDAE6643F = ~z~Damn you, stop!
+
+0xDC9A8F80 = ~z~~sl:0.0:2.4~The Boy wants to keep his head, for now.~sl:0.5~Quick on your toes, then.
+
+0xDCC6D6EB = ~z~Good work out there. I guess you ain't completely stupid.
+
+0xDF0F8439 = ~z~Get the whole caravan of goods, and tell 'em what I think of 'em.
+
+0xDF5EFFDC = ~z~They call me The Boy.
+
+0xDF7E5CBB = ~z~Recognize me from the posters?
+
+0xDF60B4D9 = ~z~~sl:0.0:0.7:1~So, you're up.
+
+0xDF278FB2 = ~z~That's good. You wouldn't cross me now, would you, lackey?
+
+0xDFA8C9EB = ~z~There's a posse after them, they're going down to Limpany.
+
+0xE001335B = ~z~I ain't gonna pay you to stand there. Wanna work?
+
+0xE076020A = ~z~well, who knows what I was hoping.
+
+0xE08F3312 = ~z~If I fired at your feet, would ya move any quicker?
+
+0xE1E4FF6E = ~z~Best deal you'll get, so don't stay and bargain. Go on, now.
+
+0xE1E10AF3 = ~z~~sl:0.0:3.1~The law's moving a buddy of mine... down to Rhodes.~sl:~And I want you to break them out for me.
+
+0xE1F80857 = ~z~You going to take it or what?
+
+0xE3B06EFF = ~z~You know where to find me, so... move along.
+
+0xE6E2B9CF = ~z~Boy, you are slow. Come on now. Go.
+
+0xE7BD8EF4 = ~z~~sl:0.0:3.8~Now, there's a feller they're expecting at Emerald Ranch.~sl:~He is rich, and he is old. Real old.
+
+0xE8A0012C = ~z~Here it is. Mr. Cornwall's men are moving a caravan of goods.
+
+0xE50C4D2A = ~z~Maybe take care of that bounty, then come back and talk?
+
+0xE56F2631 = ~z~You've come to the wrong place. There's nothing needs doing here.
+
+0xE95C0E5C = ~z~~sl:0.0:5.1~I ride horses. I ride bulls. Anything. If it's got hooves and it kicks,~sl:~it ain't gonna buck me off.
+
+0xE95D7079 = ~z~Everybody wants to work for the boy. Don't ya?
+
+0xE122A39B = ~z~Who's in charge of this posse?
+
+0xE748E1F5 = ~z~So... get on with it, then.
+
+0xE846DE7F = ~z~Work. That was it.
+
+0xE1660F26 = ~z~~sl:0.0:2.4~Hey, when I clean up my act, maybe we can work together.~sl:~Until then, piss off.
+
+0xE7463CBE = ~z~What happened on that last job? Hope you'll be better now.
+
+0xEA622B0F = ~z~I heard he's bunching up with them, coming after me.
+
+0xEAA1AE64 = ~z~Can't you see I'm busy?
+
+0xECD252C9 = ~z~~sl:0.0:2.8~I'm robbing, I'm rustling, I'm killing folk.~sl:0.1~I can't do half the jobs I hear about.
+
+0xED2B506E = ~z~~sl:0.0:2.3~Now I could do this myself, quite easily.~sl:~But I'd probably just shoot the bastard.
+
+0xEDB090C7 = ~z~You better go now!
+
+0xEF03B697 = ~z~~sl:0.0:3.4~This is a jail break. Out the lockup in Valentine.~sl:0.0:3.3~Old Roy got caught, so Old Roy needs saving.~sl:0.1~You can do that, can't you?
+
+0xEF802A41 = ~z~~sl:0.0:2.1~You think I'm mean, don't ya? I bet you think~sl:~I'm the meanest son of a bitch ever drew breath.
+
+0xEF17255F = ~z~~sl:0.0:2.9~I'm a complete and absolute believer in it.~sl:0.2:1.8~When it suits me, at least.~sl:~And right now, you know what? It does.
+
+0xF021CB82 = ~z~You oughta ride with a few more folks, you want to get this done.
+
+0xF0D24DAE = ~z~I hope you ain't dragging your feet.
+
+0xF2C5A6A9 = ~z~but I was hoping...
+
+0xF3CCC8EF = ~z~I'll only talk to the head of this gang.
+
+0xF4E2AB9A = ~z~Gonna have to work, if you want some money, friend?
+
+0xF5E084BE = ~z~Step back.
+
+0xF5F879E2 = ~z~Fellers I know...
+
+0xF35AE9C7 = ~z~I can't talk to no one with a bounty. Get rid of it, okay?
+
+0xF94EB91B = ~z~Want me to draw on you?
+
+0xF570A63D = ~z~~sl:0.0:2.5~Get it for me, you'll be paid, okay?~sl:0.7:2.7~Folks should figure they tell me something, I do the opposite.~sl:0.1~Simple, really.
+
+0xF796AAD1 = ~z~~sl:0.0:4.1~You like horses, lackey? I bet you ride real ugly, now.~sl:~I bet you ride like you shoot.
+
+0xF860878F = ~z~~sl:0.0:3.3~Alright, then. I got an order for some goods.~sl:~You fill that, we all get paid.
+
+0xFA2B56DE = ~z~Ain't that just what I wanted to see. Okay.
+
+0xFA33B49F = ~z~~sl:0.0:3.6~My friend Clarence, runs in a gang 'round the Heartlands.~sl:~The law got 'em holed up, someone's gotta get 'em out.
+
+0xFB354A6A = ~z~~sl:0.0:4.4~Not my food. Not my things. Not just my things, neither.~sl:0.1~Someone's got something, and I want it.
+
+0xFC9A3968 = ~z~~sl:0.0:2.7~Then here we go.~sl:~They was expecting me, but I guess you will have to do.
+
+0xFC9FE47E = ~z~~sl:0.0:2.7~I ain't gonna give this to a skeleton crew,~sl:~get some more riders in your posse.
+
+0xFC48F1B6 = ~z~~sl:0.0:2.5~How you do it, huh? How do you find the time?~sl:~I mean, I don't have a moment to spare.
+
+0xFCA7CF9A = ~z~~sl:0.0:2.3~Now, he knows me well, so I figure...~sl:~easiest thing is get him now, while he's still in a cage.
+
+0xFD652AB6 = ~z~~sl:0.0:0.8~Good, good.~sl:0.2:3.1~'Cause I got some grunt work, and what's this right here?~sl:~But a grunt to perform it.
+
+0xFFF02988 = ~z~~sl:0.0:2.6~A big juicy bone, remember?~sl:0.6~Go on now.
+

@@ -1,0 +1,954 @@
+0x015C82FD = ~z~'Cept for the Night Folk sometimes.
+
+0x02B45B4B = ~z~we need to put him out of commission.~n~~m~I disagree.
+
+0x02C844CC = ~z~Feels like Hosea's lost his spine.
+
+0x02E75819 = ~z~But we need seed capital...
+
+0x03604B06 = ~z~This is about the fact that we are planning to rob a bank in his town.
+
+0x0380BC96 = ~z~Come on, put your back into it.
+
+0x03BAFB27 = ~z~Killed some good folks...
+
+0x03EBD706 = ~z~Trust me.
+
+0x049AA1C2 = ~z~He must be close, Arthur. Come on.
+
+0x053B400B = ~z~Pull.
+
+0x06186117 = ~z~I am.
+
+0x07561388 = ~z~it won't be no trouble for me.
+
+0x07E3BC07 = ~z~Hello, Mr. Dutch.
+
+0x08117AC6 = ~z~~sl:0.0:0.7~Arthur...~sl:1.5~are you just gonna let him die?
+
+0x082F7B22 = ~z~
+
+0x0932C259 = ~z~Don't worry, we'll look after him from here, mister.
+
+0x0A5DEBBD = ~z~~sl:0.0:4.5~If you'd rather we break up the family, go our separate ways,~sl:~just tell me.
+
+0x0AD1C1D7 = ~z~He's gonna help us get close to our prey.
+
+0x0AD600A4 = ~z~~sl:0.0:2.6~Just feels like we're on borrowed time again.~sl:0.4~I mean, the O'Driscolls found us.
+
+0x0C6EB61A = ~z~Just thank your old uncle Dutch.
+
+0x0C393C3F = ~z~Are you crazy?
+
+0x0C636516 = ~z~Help!
+
+0x0CBCAAC9 = ~z~~sl:0.0:2.3~He knows we survived the trolley station,~sl:~so he'll be expecting some kind of reprisal.
+
+0x0CD28A23 = ~z~I reckon we should split up so we can search both sides.
+
+0x0D3E0E45 = ~z~You'll be fine.
+
+0x0D17D216 = ~z~So, er, who are these fellers, Thomas?
+
+0x0D43A454 = ~z~
+
+0x0F96AFD9 = ~z~Come here, son.
+
+0x1BE78C94 = ~z~~sl:0.0:5.3~I know... I... I'm sorry, son.~sl:0.8~It's just the endless debate about everything is wearing me down.
+
+0x1C7A6528 = ~z~The other night, we had quite the adventure fishing for catfish...
+
+0x1DA81C6F = ~z~Come on.
+
+0x1DC4F9F0 = ~z~Oh, no...
+
+0x1E4FC242 = ~z~Thank God.
+
+0x1EEBF57B = ~z~Come on. Like I says, we need to be lively here.
+
+0x1F7E9903 = ~z~Jules?
+
+0x2A00EB1F = ~z~Thomas.
+
+0x2A6BBC7B = ~z~~sl:0.0:4.2~If you'd rather we break up the family, go our separate ways,~sl:~just tell me.
+
+0x2A333736 = ~z~Hurry, hurry!
+
+0x2AA74102 = ~z~Here, give me the boy.
+
+0x2AACB75F = ~z~I guess we 'bouts to find out.
+
+0x2AC0265B = ~z~
+
+0x2AF41AA3 = ~z~Hurry, please!
+
+0x2AF71A29 = ~z~Here, take this, try to stop the bleeding!
+
+0x2B0DDAF7 = ~z~We'll pay you for your trouble.
+
+0x2B649B0E = ~z~This ain't about revenge, Hosea.
+
+0x2D86B862 = ~z~We got company.
+
+0x2E6194A9 = ~z~~sl:0.0:2.0~This gator was huge, Thomas.~sl:~Twice as big as I ever seen. Twice as angry too.
+
+0x2FBC9E53 = ~z~It's still coming.
+
+0x2FC4D161 = ~z~I-I heard, I heard the gunshots, sounded like a hell of a fight out there.
+
+0x3AA39267 = ~z~
+
+0x3AB58514 = ~z~What are you coming this way for?
+
+0x3C0DCAF1 = ~z~What?
+
+0x3D25BE86 = ~z~Oh, your boy doesn't look too good there.
+
+0x3D91BFDE = ~z~It's pulling him under!
+
+0x3D754D40 = ~z~Farmers.
+
+0x3DB6BFAD = ~z~Arthur, come up here.
+
+0x3DED2739 = ~z~Over this way!
+
+0x3E821714 = ~z~Good eating.
+
+0x3F8A841A = ~z~~sl:1.0:0.0~I got you, son.
+
+0x3F154D4C = ~z~Arthur...
+
+0x3FC24982 = ~z~Anyway, I'm sure you got other places to be.
+
+0x3FFA74C5 = ~z~Sure.
+
+0x4B840ECB = ~z~Get this thing off me, help!
+
+0x4B59265B = ~z~I said you go right, Arthur.
+
+0x4C1FD77A = ~z~Thank you.
+
+0x4C10AEC9 = ~z~Hold on!
+
+0x4CEDCF79 = ~z~guess all them stories was true.
+
+0x4D5FB20C = ~z~Arthur'll go.
+
+0x4D8F02C1 = ~z~~sl:0.0:2.3~With all due respect, Dutch...~sl:0.5~is this Tahiti plan really going to work out?
+
+0x4D39E995 = ~z~Angelo Bronte stands between us and our future.
+
+0x4E1FBE1E = ~z~If you say so...
+
+0x4E75DB5D = ~z~~sl:0.0:2.5~This way, come on, this way. Follow me here.~sl:0.3~And stay on the high ground.
+
+0x4E678F77 = ~z~Arthur, come up here.
+
+0x4E3737C8 = ~z~~sl:0.1:0.0~Yeah, neither did you... it's just a myth Jules, now pull!
+
+0x4EC5444F = ~z~Don't shoot at 'em till you need to!
+
+0x4EEEA2B4 = ~z~social call.
+
+0x4EFCB6F0 = ~z~
+
+0x4F8209C6 = ~z~~sl:1.8:0.0~Fantastic... well let's hope it bites you first, Dutch.
+
+0x4FC391F7 = ~z~we got monsters out here.
+
+0x5A4573C5 = ~z~For what?
+
+0x5B710603 = ~z~business is business...
+
+0x5BAA6CF2 = ~z~Big and mad...
+
+0x5C6CD01E = ~z~Why are you shooting at it?
+
+0x5C431C42 = ~z~What are you doing? You'll spook it.
+
+0x5C908073 = ~z~Whoa, stop where you are. It's a gator.
+
+0x5DA37F8B = ~z~Angelo Bronte don't mean shit to me.
+
+0x5DC23A4F = ~z~
+
+0x5E055DE9 = ~z~And usually I have been right.
+
+0x5E3C34F5 = ~z~Like I said, the skiff's just over there.
+
+0x5E479216 = ~z~~sl:0.0:2.1~Alright, let's just keep moving.~sl:0.1~I'll come back and check that one later.
+
+0x6A009272 = ~z~~sl:1.0:0.0~Down here we can't be too picky there, Mr. Arthur.
+
+0x6A9C165E = ~z~The others I can take... but when you're not behind me, it hurts.
+
+0x6C9F2B93 = ~z~This is the last job that we are ever gonna pull.
+
+0x6D06DDA4 = ~z~Why not?
+
+0x6DCC4F5C = ~z~~sl:1.7:0.0~I think we hit a tree stump.
+
+0x6DCC609D = ~z~
+
+0x6E7459D0 = ~z~Hey!
+
+0x6EC474CD = ~z~Are you crazy?
+
+0x6F68F579 = ~z~I'm coming, Jules!
+
+0x7AA12ADF = ~z~kind of reminds me of you, Arthur.
+
+0x7B01D008 = ~z~Hey! Someone there?
+
+0x7B032DEB = ~z~Jules, we are very happy to have finally made your acquaintance.
+
+0x7B681E9F = ~z~He's under the water, coming right for us!
+
+0x7BD27B3B = ~z~Arthur?
+
+0x7C3C36E9 = ~z~You call this ground? It feels like water to me.
+
+0x7CBC779C = ~z~I don't know what's taking Jules so long with that boat.
+
+0x7E7F70C2 = ~z~~sl:1.4:1.1:~Now what?
+
+0x7E9E0132 = ~z~Would you come with me?
+
+0x7E3140A6 = ~z~So, Arthur, you get the deciding vote.
+
+0x7EE553AB = ~z~You wanna leave this place?
+
+0x7F5150F7 = ~z~This is it.
+
+0x8A8C133B = ~z~~sl:0.0:1.7~Alright, let's keep moving.~sl:0.2~I got another trap by that small island up ahead.
+
+0x8C0E72A2 = ~z~You too, Mr. Arthur.
+
+0x8D9E430B = ~z~Dead ahead of us! You see him? Shoot!
+
+0x8DDACFEA = ~z~Dutch... shoot something!
+
+0x8E0153E7 = ~z~I swear.
+
+0x8E038FD2 = ~z~Me?
+
+0x8E0810BF = ~z~I'm at your service anytime you need me.
+
+0x8EC783D5 = ~z~Give him here.
+
+0x8F1FC98E = ~z~Help! Help! Help!
+
+0x8F8F28D2 = ~z~You must be Jules?
+
+0x8F15B69E = ~z~Come on Arthur. Find him.
+
+0x9C1FF718 = ~z~Shoot that thing!
+
+0x9D4DF9D9 = ~z~Both, neither, what does it matter?
+
+0x9E50B06C = ~z~~sl:0.7:1.0~Yeah, I'd thought we'd clear it.~sl:0.1~You gonna need to jump in and pull us free.
+
+0x9E93E0D5 = ~z~Hurry, Arthur.
+
+0x10E2E038 = ~z~Arthur here is something of a comedian, Thomas. More of a jester than a gunslinger.
+
+0x10EA77B7 = ~z~Before we do that...
+
+0x11EA64FC = ~z~There ain't a problem.
+
+0x12AD7489 = ~z~This is it.~n~~m~I'm...
+
+0x12C6BC32 = ~z~I'm coming!
+
+0x12F47B69 = ~z~~sl:0.0:1.1:1~Right.
+
+0x13CB4976 = ~z~Come on, we need to go see a man about a boat...
+
+0x17A5AF8F = ~z~Well, this just gets better and better.
+
+0x18B79DEE = ~z~
+
+0x18D2706B = ~z~Jesus, look at the size of it!
+
+0x20D310C8 = ~z~If it's business, well...
+
+0x21CDEBAC = ~z~Well any friend of Thomas is a friend of mine.
+
+0x25E34C0A = ~z~~sl:0.0:3.2~Yep, some strange people round these parts.~sl:~Wilder than the animals they are.
+
+0x26F4C3DA = ~z~Jules' been bitten.
+
+0x28DD7629 = ~z~Well, y-you're welcome to stick around if you want.
+
+0x29AF11C4 = ~z~It's stuck.
+
+0x29BAC73E = ~z~~sl:2.1:2.2~We'll see any giant monster...~sl:~long before it gets anywhere near you...
+
+0x33FD5CCB = ~z~Can one of you help me put the boat back out?
+
+0x35DB34AE = ~z~~sl:3.0:1.4~I've stopped the bleeding...~sl:1.7:3.5:1~I think he'll be okay, if he don't get a fever.
+
+0x36A306A6 = ~z~You're not scared of a few crayfish are you?
+
+0x36D304F7 = ~z~He weren't kidding...
+
+0x36EB63C7 = ~z~There's a monster out here...~n~~m~Oh, my God!
+
+0x36FDBA4A = ~z~~sl:0.0:1.6~Help!~sl:0.4~My leg!
+
+0x49D42D08 = ~z~We agreed to help, Arthur.
+
+0x49F8EAF2 = ~z~~sl:0.0:3.0~Have some goddamn faith.~sl:0.2~I am bending over backwards to make a future for us.
+
+0x50DA419A = ~z~Be better if you went looking the other way, Mr. Arthur.
+
+0x52DA0E6F = ~z~~sl:0.0:0.6~Bring him here...~sl:1.5~come on, come on, quickly, quickly.
+
+0x52F31ED7 = ~z~Mount up, Arthur.
+
+0x53C20CE7 = ~z~~sl:0.0:7.9~Blackwater, Valentine, Rhodes, Sean, Kieran...~sl:1.1~I promise... none of it will be in vain.
+
+0x53D2129B = ~z~~sl:0.0:1.9~So either we're in this together,~sl:~working together to get out together, or we're not.
+
+0x53F9BDDE = ~z~Get up here already.
+
+0x57BC867D = ~z~~sl:0.0:2.5~With all due respect, Dutch...~sl:0.7~is this Tahiti plan really going to work out?
+
+0x57EFA3AB = ~z~We got a couple of crack gunslingers here with their guns loaded!
+
+0x59A627FC = ~z~feed him garlic for the infection.
+
+0x59DD7C00 = ~z~
+
+0x59F2750B = ~z~I'm behind you.
+
+0x60FE7260 = ~z~About what?
+
+0x61DC160D = ~z~Before the year is out...
+
+0x62A68991 = ~z~We take an insult and scurry off like cockroaches...
+
+0x64B4AE4B = ~z~Arthur, come up here.
+
+0x64D420AC = ~z~~sl:0.0:2.7~We just got a lot of pots on the boil~sl:~given all the folks who's out gunning for us.
+
+0x67A2372A = ~z~One of us was gonna get got by that old gator soon enough.
+
+0x67EFA5C0 = ~z~He is a vindictive little power broker who rules by fear.
+
+0x68C08966 = ~z~Two new friends of mine, I'll explain later.
+
+0x69E0A2E2 = ~z~Arthur, come on.
+
+0x70C17B92 = ~z~Us or them?
+
+0x71CE8FDB = ~z~can I call in that favor?
+
+0x73B6DAFD = ~z~irritable Miss O'Shea, who's causing more trouble.
+
+0x74F83C3D = ~z~Leave this country?
+
+0x75C18F31 = ~z~Go on, Arthur.
+
+0x76FD559D = ~z~~sl:0.0:2.5~Have some goddamn faith.~sl:0.4~I am bending over backwards to make a future for us.
+
+0x77B89FD4 = ~z~~sl:0.0:3.6~We take an insult and scurry off like cockroaches~sl:~or deal with business the right way.
+
+0x78CED559 = ~z~Keep still.
+
+0x81AF6513 = ~z~Will you get up here?
+
+0x82CDF967 = ~z~Yeah, just do it, won't take you a minute boy, go on.
+
+0x82E07950 = ~z~I'm going to head back to camp and placate the...
+
+0x82E702B5 = ~z~What the hell?
+
+0x83EF839C = ~z~Oh, he's much more the kind of reptile I can handle.
+
+0x83F22B92 = ~z~Quick, Arthur.
+
+0x84D8FC21 = ~z~Well...
+
+0x90DBA5AD = ~z~My business partner, Jules, he's out on the skiff...
+
+0x90FAF44A = ~z~It just don't feel good, Dutch.
+
+0x91F39776 = ~z~meet you back here, Arthur.
+
+0x95F0C807 = ~z~I think that way...
+
+0x97C2DADF = ~z~In the tree!
+
+0x98B46FE5 = ~z~Yes, please let's go.
+
+0x99E74DDD = ~z~Exactly... come on.
+
+0x119D7659 = ~z~Put him here, come on!
+
+0x179BADBC = ~z~Wait, are you crazy?
+
+0x233B3C67 = ~z~He's been bitten, but he's alive.
+
+0x250C3DC9 = ~z~Well, he definitely lacks a certain charm.
+
+0x253AE6EA = ~z~I'm coming.
+
+0x255CCED9 = ~z~Just focus on the boat!
+
+0x285DF488 = ~z~Hey.
+
+0x325B785B = ~z~Hold up.
+
+0x357EEFBD = ~z~Hurry up, Arthur!
+
+0x374C66B6 = ~z~~sl:0.0:3.5~We need to hit that bank and Bronte has the police~sl:~and just about everything else in Saint Denis in his back pocket.
+
+0x410A1959 = ~z~What the hell are you doing?
+
+0x418B7B1E = ~z~
+
+0x420F5972 = ~z~Oh, God no... please hurry!
+
+0x439C9E86 = ~z~No, no, we can't lose the boat...
+
+0x484BD4D2 = ~z~Shit, that is one big old gator!
+
+0x532BD6BB = ~z~So, Arthur, you get the deciding vote.
+
+0x560E6AF6 = ~z~Keep shooting!
+
+0x568C4D02 = ~z~Ain't no point in us all searching the same area.
+
+0x599F7779 = ~z~I think he's going.
+
+0x601E913E = ~z~~sl:2.0~Come on!
+
+0x614CAD5B = ~z~~sl:0.0:1.3~I guess this was...~sl:1.8:2.1:1~no, but only something huge could do this.
+
+0x617D8BF2 = ~z~Goddamn it.
+
+0x658FB616 = ~z~This isn't a prison camp. I am not forcing anybody to stay.
+
+0x744F13F8 = ~z~Hello!
+
+0x786DB51F = ~z~About what?
+
+0x790A85A7 = ~z~
+
+0x853D88AA = ~z~I think we are all equally keen to find him.
+
+0x853E3178 = ~z~Stop that! Oh, you're only gonna make 'em mad.
+
+0x886CDFFA = ~z~You'll damn us all...
+
+0x891F6D62 = ~z~
+
+0x897B68D7 = ~z~we're doomed.
+
+0x941C92FA = ~z~What is?
+
+0x963D3010 = ~z~Shouldn't take too long, if we can find him.
+
+0x977F2D85 = ~z~Have you got a deathwish?
+
+0x983A9817 = ~z~~sl:0.0:2.4~We just got a lot of pots on the boil~sl:~given all the folks who's out gunning for us.
+
+0x990E1089 = ~z~I know, but...
+
+0x1356CBE0 = ~z~Oh... God, no...
+
+0x1661C81E = ~z~You didn't see the thing.
+
+0x1937AE71 = ~z~I got you covered!
+
+0x2066B14B = ~z~We really should have run into Jules by now.
+
+0x2159F852 = ~z~Normally the little ones is angry...
+
+0x2303BA1B = ~z~Must be the fellers here to see Thomas.
+
+0x2406D22D = ~z~
+
+0x2765FCDD = ~z~~sl:0.0:6.2~But this move on Bronte... is it for the bank job... or revenge~sl:~for what happened at the trolley station?
+
+0x3269A3AD = ~z~It's coming right for us!
+
+0x3882DBFD = ~z~~sl:0.0:3.3~I feel like I'm going in circles with all of you.~sl:~Micah is the only one left with any loyalty.
+
+0x3901C2DE = ~z~Get in!
+
+0x3948F76D = ~z~If you're bringing him trouble...
+
+0x4397BF15 = ~z~~sl:0.0:3.6:1~Nonsense. Scared eyes'll play tricks on you.
+
+0x5265FA1F = ~z~My leg! Oh...
+
+0x6217E415 = ~z~Like I said, we should split up. Cover both sides.
+
+0x6667C4D6 = ~z~Oh God.
+
+0x6741FAB6 = ~z~Thomas, have you met Arthur?
+
+0x7097D4FB = ~z~This is a bad idea...
+
+0x7158C027 = ~z~~sl:0.0:4.3~There simply isn't a reality in which we do nothing~sl:~and get everything.
+
+0x7890E928 = ~z~
+
+0x8068F94E = ~z~Please get the boat, mister. I've been up here for hours.
+
+0x8242E2EB = ~z~let alone what it takes to give twenty people a new life overseas.
+
+0x8473B525 = ~z~What do you need?
+
+0x8686EE07 = ~z~There's still a lot of blood, you need to put pressure on it.
+
+0x8756F94F = ~z~That is not the way we do things.
+
+0x8948EC96 = ~z~Hello?
+
+0x8998E4A2 = ~z~Where'd he go?
+
+0x9484FE90 = ~z~~sl:0.0:2.0~I apologize for my friend here.~sl:~He normally doesn't have an issue getting his hands dirty.
+
+0x9850A5CE = ~z~Mr. Arthur, come on, come on!
+
+0x11192E08 = ~z~It got my leg!
+
+0x17122FBD = ~z~~sl:0.0:1.2:1~Come on, ah shit...
+
+0x25765A96 = ~z~Arthur, go search the other side.
+
+0x25878C36 = ~z~We are going to make it.
+
+0x39191E65 = ~z~Arthur, Thomas is quite the boatman.
+
+0x41621BD8 = ~z~~sl:0.0:3.0:1~It's over there... I ran, I...
+
+0x53326F5C = ~z~~sl:0.7:0.0~We can bring down a fever.
+
+0x54153F7B = ~z~No, I'm going in!
+
+0x58443A39 = ~z~Yes.
+
+0x58530E1C = ~z~Yeah, we need to move and soon. Haven't I made that clear?
+
+0x60987FA2 = ~z~Well, if you say so, Mr. Dutch.
+
+0x61681D56 = ~z~Oh I fully intend to, Thomas.
+
+0x62686B95 = ~z~Why you shooting at them?
+
+0x62695F42 = ~z~Don't stop! Don't stop!
+
+0x68696A32 = ~z~Go on, Arthur.
+
+0x84125F28 = ~z~~sl:0.0:4.1~You all seem to have forgotten how money is made~sl:~and what it takes to support twenty people,
+
+0x85843B6B = ~z~~sl:0.0:1.2~We don't need to take revenge,~sl:~we hardly know the guy.
+
+0x89179EA7 = ~z~Don't back out on me now.
+
+0x99652BBA = ~z~Alright, let's get going.
+
+0x218664EC = ~z~Quit doubting, Arthur. It does no favors.
+
+0x483362BC = ~z~we are gonna be harvesting mangoes in Tahiti.
+
+0x509124B9 = ~z~Of course.
+
+0x593910D8 = ~z~I understand.
+
+0x597888D2 = ~z~Now, we pull that stunt in his cess pit of a town...
+
+0x633198B0 = ~z~We need that money.
+
+0x677544C5 = ~z~There's a monster... a monster!
+
+0x894429DC = ~z~
+
+0x897097B7 = ~z~If anyone can, I can.
+
+0x899476E4 = ~z~Stop moving.
+
+0x908170BF = ~z~Just, just don't look behind you!
+
+0x954241D8 = ~z~Jules?
+
+0x994183F7 = ~z~Massive, it nearly ate me...
+
+0x1912847B = ~z~and we need to leave.
+
+0x3946472F = ~z~Anyway, here we are, let me do the talking.
+
+0x4030763C = ~z~You okay up there?
+
+0x4348456A = ~z~Damn it, come on! Shoot it!
+
+0x6185357A = ~z~You be safe...
+
+0x11229659 = ~z~Must be.
+
+0x24888783 = ~z~~sl:0.4:4.0~Well, I just wanna see you meet your match when it comes to a,~sl:0.3~an ancient predator with a big mouth, Dutch.
+
+0x47165271 = ~z~or deal with business the right way.
+
+0x48660949 = ~z~The boat's stuck, I think.
+
+0x60265799 = ~z~I will?
+
+0x62114819 = ~z~I'll need to check with him...
+
+0x69602595 = ~z~It's, it's out there!
+
+0x71975922 = ~z~Just keep him warm...
+
+0x72585748 = ~z~I'll see you soon.
+
+0x74262284 = ~z~Quick as you can, come on!
+
+0xA049B542 = ~z~Thank you, Thomas.
+
+0xA0516CE0 = ~z~now, my friend...
+
+0xA099447B = ~z~Mr. Arthur, check the traps with me.
+
+0xA1E5FCFB = ~z~You'd be wise to get on that trail, think we about to get some bad weather coming in.
+
+0xA3A5A4C0 = ~z~I know. You're right.
+
+0xA3DC9B8C = ~z~~sl:0.0:3.2~Just feels like we're on borrowed time again.~sl:0.6~I mean, the O'Driscolls found us.
+
+0xA4FBBFC6 = ~z~I don't think I've ever seen you squeal before, Dutch.
+
+0xA5B3C9EE = ~z~What are you doing, Arthur?
+
+0xA5C257FC = ~z~Can we just get this done?
+
+0xA5DA3675 = ~z~My gosh... so it's true.
+
+0xA5E69FA8 = ~z~~sl:0.0:2.3~You're talking like John...~sl:0.6:3.0~I swear that woman is poisoning him against me.~sl:~I've seen it before.
+
+0xA7D701A7 = ~z~Just stay as still as you can.
+
+0xA24B8313 = ~z~Alright, let's get back to the dock.
+
+0xA34FA68F = ~z~Help! Help! Help!
+
+0xA47F6052 = ~z~Shit.
+
+0xA67AE441 = ~z~Arthur, he said keep still.
+
+0xA221D591 = ~z~~sl:0.0:2.0~I met a boatman there called Thomas~sl:~who knows these waters like the back of his hand.
+
+0xA565BE5A = ~z~I'll collect the boys...
+
+0xA857E60B = ~z~Okay, follow me.
+
+0xA4709EC5 = ~z~There ain't no easier way.
+
+0xAACBB404 = ~z~But, but, but... when did you become so small-minded?
+
+0xAC5A4C43 = ~z~old Bronte, he's a bad man.
+
+0xAC6AA4D2 = ~z~Arthur, what are you doing? Bring him here.
+
+0xACEB5EAC = ~z~We were hoping you could row us in quietly one evening...
+
+0xAD5D5EB0 = ~z~plus, I need to check the traps.
+
+0xADC753A6 = ~z~~sl:0.0:5.5~But this move on Bronte... is it for the bank job... or revenge~sl:~for what happened at the trolley station?
+
+0xAE0755D2 = ~z~That must be him.
+
+0xAE7CAE6D = ~z~Where?
+
+0xAEECE78D = ~z~Where is the boat?
+
+0xAF6E2FA1 = ~z~Here, his leg's hurt pretty bad, but he should be ok.
+
+0xAF6F702C = ~z~Why do we need a boat?
+
+0xAFD4C74B = ~z~~sl:0.0:3.9~You all seem to have forgotten how money is made~sl:~and what it takes to support twenty people,
+
+0xB2E5F243 = ~z~Come on, Arthur, just trust me.
+
+0xB4A4E630 = ~z~Look out!
+
+0xB4EA8196 = ~z~Yeah, for chrissakes, listen to the man before you get us all eaten.
+
+0xB5A4DFF8 = ~z~Thank you...
+
+0xB5B62FB3 = ~z~A bank that he no doubt protects...
+
+0xB18A8E6E = ~z~Up here!
+
+0xB47A3ED8 = ~z~There's always an easier way.
+
+0xB53AE044 = ~z~You know...
+
+0xB58D5119 = ~z~You boys did a good thing, this yeah.
+
+0xB62F49B5 = ~z~Yep, I see.
+
+0xB66FCB4C = ~z~You tell me, Arthur. Is it?
+
+0xB92AC3C9 = ~z~There's a monster!
+
+0xB92C6A1E = ~z~~sl:0.0:0.7~Help!~sl:0.5~Help me!
+
+0xB143CD48 = ~z~There's been talk of a big old bull... but people talk a lot of nonsense...
+
+0xB498AEC6 = ~z~Put every bullet you got in him!
+
+0xB630C245 = ~z~Now, I know his type.
+
+0xB79124C2 = ~z~that's unusual.
+
+0xBA95FA01 = ~z~around the back of his house.
+
+0xBAAD3497 = ~z~He also set us up and, lest we forget, took young Jack.
+
+0xBAF65603 = ~z~A big gator, biggest I ever saw! Big and nasty!
+
+0xBB84AC9F = ~z~Pull, boy.
+
+0xBB87EA9E = ~z~Mr. Arthur...
+
+0xBBB054D5 = ~z~Now, that ain't fair.
+
+0xBC2B36CE = ~z~Be lively. Mind you, there's a lot of gators. Uncommon number, big ones.
+
+0xBC57DE89 = ~z~Finish that son of a bitch, Arthur!
+
+0xBD1CA592 = ~z~Here! Help!
+
+0xBFD05373 = ~z~~sl:0.0:2.9~I feel like I'm going in circles with all of you.~sl:~Micah is the only one left with any loyalty.
+
+0xC05FC1E0 = ~z~I know we will.
+
+0xC1D97CA2 = ~z~Let's go. You said you were with me on this.
+
+0xC3CC3735 = ~z~~sl:0.0:1.3~Should we just keep moving?~sl:~I don't really wanna hang around here much longer.
+
+0xC3E37C75 = ~z~both of you.
+
+0xC3FB2FC0 = ~z~Shit. Don't let him get any closer!
+
+0xC5C69CDA = ~z~A boat?
+
+0xC7A05065 = ~z~What's the problem here?
+
+0xC7C5274B = ~z~Please, when I tell you to keep still, keep still.
+
+0xC8AA0626 = ~z~You just meet me back here.
+
+0xC47C251D = ~z~Okay... and uh, where'd this monster swim off to?
+
+0xC105A8AB = ~z~What are you doing? Bring him here.
+
+0xC147BA30 = ~z~We shouldn't be lingering here, come on.
+
+0xC504C1F1 = ~z~I thought I was gonna be out here all night.
+
+0xC4670DA3 = ~z~Well exactly.
+
+0xCA9B13BC = ~z~~sl:0.4~Arthur, stay still.
+
+0xCA34F16E = ~z~Of course not.
+
+0xCA633DE8 = ~z~Come on.
+
+0xCA718AD5 = ~z~and this poor boy was nearly dinner.
+
+0xCA431042 = ~z~This one's empty.
+
+0xCAC47B62 = ~z~You're gonna be alright Jules, just hold on.
+
+0xCAFBA744 = ~z~We're headed to a settlement called Lagras.
+
+0xCDE21CED = ~z~Hang in there, Jules!
+
+0xCE1B7C4D = ~z~Knocked me off the boat and chased me over here.
+
+0xCE801D45 = ~z~I love it out here. Peaceful, nobody bothering you none.
+
+0xCF0BC970 = ~z~Over here!
+
+0xD04D3DA0 = ~z~Come on, come on... come on.
+
+0xD1FBA8CC = ~z~We need to make a...
+
+0xD2D6EE97 = ~z~~sl:0.8:2.9~A fever is the least of our worries...~sl:0.6~look who's back.
+
+0xD2D710A3 = ~z~~sl:0.0:2.3~You're talking like John...~sl:0.2:2.7~I swear that woman is poisoning him against me.~sl:~I've seen it before.
+
+0xD3B11F6B = ~z~~sl:0.0:0.9~My leg.~sl:0.4:0.8:1~My leg.
+
+0xD8BBA769 = ~z~Can we get some help?
+
+0xD9F6B454 = ~z~Give me a hand here, Mr. Arthur. This trap is stuck in the mud... it happens.
+
+0xD11A59D5 = ~z~Sooner we get this done, sooner I can help you boys.
+
+0xD58FE997 = ~z~~sl:0.0:5.9:1~Come now, Arthur. It'll take more than a prehistoric reptile to scare you, surely?
+
+0xD64DA16D = ~z~Very good.
+
+0xD71FECA7 = ~z~Good man.
+
+0xD274C228 = ~z~This swamp, it gives and it takes away.
+
+0xD651A055 = ~z~I know...
+
+0xD734A0BA = ~z~Come on, get him over here!
+
+0xD4348DCA = ~z~~sl:0.0:3.1~You think Micah would question going after Bronte?~sl:~No, he'd say “let's go”.
+
+0xD21694D6 = ~z~Okay, I think it's had enough!
+
+0xD642646C = ~z~What was you doing hiding up in the tree, boy?
+
+0xD951231D = ~z~Just keep your eyes open.
+
+0xD1829297 = ~z~
+
+0xD5750572 = ~z~Now stay close, make sure you follow my line.
+
+0xDAF1472F = ~z~Ah, right. Okay, makes sense.
+
+0xDB280C33 = ~z~a town where his men are gunning for us.
+
+0xDB620AA2 = ~z~This isn't a prison camp. I'm not forcing anybody to stay.
+
+0xDCC9B9D8 = ~z~~sl:0.0:3.0~You can see why evening swamp-wading hasn't caught on~sl:~as a pastime, can't you?
+
+0xDEC05ABE = ~z~I heard that.
+
+0xDF350DFD = ~z~Bring him here, come on.
+
+0xE086165D = ~z~God, oh, God no... please hurry.
+
+0xE0A03CFC = ~z~Alright, I got a few more set over this way. Come on.
+
+0xE7D71EDD = ~z~Forgive me if I can't think too much about the mango harvest...
+
+0xE38AC009 = ~z~Monsters I'm fine with... I live with them.
+
+0xE61B443F = ~z~~sl:0.0:0.7~Oh no.~sl:0.4:0.8:1~Oh no.
+
+0xE64B8BD3 = ~z~For taking my side back there.
+
+0xE77E53D1 = ~z~You know Angelo Bronte?
+
+0xE77FCABB = ~z~I don't wanna know what just touched my leg.
+
+0xE92AE3A2 = ~z~See, I do still possess some capacity for rational thought, Arthur.
+
+0xE7448D00 = ~z~~sl:0.4:0.8:1~Great...
+
+0xE453070D = ~z~Come.
+
+0xE3263176 = ~z~I sure do appreciate what you did for Jules.
+
+0xEA371405 = ~z~Hey! You in the tree. What are you doing?
+
+0xEAC903A4 = ~z~~sl:0.0:4.2~We need to hit that bank and Bronte has the police~sl:~and just about everything else in Saint Denis in his back pocket.
+
+0xEB995335 = ~z~Fire off a couple of warning shots, just to pretend you care.
+
+0xECA0AD1F = ~z~~sl:0.0:4.8~So either we're in this together, working together~sl:~to get out together, or we're not.
+
+0xED45CB34 = ~z~For now... Jesus, can we get back now?
+
+0xEDA3DE93 = ~z~Mr. Dutch, you keep a look out for company...
+
+0xEE3E355C = ~z~Can you please check the other one for me, Mr. Arthur?
+
+0xEE814C04 = ~z~Well, don't let us keep you from your business, sir.
+
+0xEF074E89 = ~z~What?
+
+0xF0015DF8 = ~z~Help, it's got my leg! Help!
+
+0xF011374D = ~z~I-If you don't mind, sir, w-we all lots to get on with here.
+
+0xF055B571 = ~z~~sl:0.0:4.1~You think that Micah would question going after Bronte?~sl:~No, he'd say “let's go”.
+
+0xF06A9670 = ~z~You're going to be okay, kid.
+
+0xF0CA46F5 = ~z~~sl:0.0:7.7~I know... I... I... I'm sorry, son.~sl:1.2~It's just the endless debate about everything is wearing me down.
+
+0xF1D71E7B = ~z~Here we are, let me do the talking.
+
+0xF5BC97B9 = ~z~It is good to see you, my friend.
+
+0xF5ED5F8C = ~z~hurt a lot of people.
+
+0xF8C0D388 = ~z~What do these two want?
+
+0xF9DD8B09 = ~z~Quick!
+
+0xF19DD92D = ~z~I weren't the one squealing.
+
+0xF30CA480 = ~z~I got it loose.
+
+0xF35D74A3 = ~z~I got the skiff... it's over here!
+
+0xF54B049F = ~z~My God... there's no shortage of them.
+
+0xF65FBBEE = ~z~You know it. I know it.
+
+0xF92DF650 = ~z~Good...
+
+0xF94F36E4 = ~z~We don't need to take revenge, we hardly know the guy.
+
+0xF319E678 = ~z~The Night Folk?
+
+0xF650D41C = ~z~Keep going!
+
+0xF851C58A = ~z~You better be right about this one.
+
+0xF886DBD1 = ~z~~sl:4.9:0.0~I guess something didn't want to be caught.
+
+0xF3466CAB = ~z~~sl:0.3:1.1:1~I got you.
+
+0xF4241DE7 = ~z~big ones is lazy.
+
+0xF9325A8E = ~z~Shit! Where'd he go?
+
+0xF4862848 = ~z~It ain't about sides.
+
+0xFA2F982C = ~z~What are you doing?
+
+0xFA9C202F = ~z~Good luck shooting that thing, you'll need a cannon.
+
+0xFA57BD9A = ~z~Got a couple of crayfish traps up ahead.
+
+0xFAF06AB2 = ~z~Where can we find you?
+
+0xFB0A1351 = ~z~You're gonna be okay, son. You're gonna be okay.
+
+0xFB30ABFC = ~z~Sorry, Jules...
+
+0xFB2725EE = ~z~Alright, I suppose this can wait. Let's go.
+
+0xFC206E32 = ~z~Yeah well, you weren't in the water with him...
+
+0xFC421A58 = ~z~I've heard that before.
+
+0xFCAFF51B = ~z~~sl:0.0:0.8~Mr. Dutch,~sl:~you sure you're the right fellers to be going after Angelo Bronte?
+
+0xFCD2BE49 = ~z~Hurry!
+
+0xFCF5EA66 = ~z~~sl:0.0:4.5~Okay. Arthur, since you appear so at home here, you take the right.~sl:~We'll go left.
+
+0xFE6EBE05 = ~z~I'm here, ain't I? I've been at your side for twenty years.
+
+0xFE7A0E44 = ~z~~sl:0.0:3.7~So we can attack Bronte's mansion from the swamp,~sl:~catch him off guard.
+
+0xFEAB32F5 = ~z~Well, I guess he never outgrew his anger...
+
+0xFFA15408 = ~z~~sl:0.0:8.9~Blackwater, Valentine, Rhodes, Sean, Kieran...~sl:0.9~I promise none of it will be in vain.
+

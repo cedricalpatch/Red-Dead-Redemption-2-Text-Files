@@ -1,0 +1,24 @@
+0x5FD03078 = ~z~Miss Karen here likes the bottle too much.
+
+0x8BB50841 = ~z~Says me.
+
+0x34ADDA30 = ~z~Who are these goddamn creeps?
+
+0x99FB24CD = ~z~Says who?
+
+0x718AD3ED = ~z~And who are you?
+
+0x945B3F5B = ~z~
+
+0x26703DB5 = ~z~Watch your tongue... they're riding with us now.
+
+0xA28CDBBE = ~z~Damn you!
+
+0xB39E7DE1 = ~z~The feeling is mutual, my dear... go... have another drink.
+
+0xC682FDDC = ~z~You revolt me.
+
+0xD58A9BEF = ~z~still... we've all met her sort... pay her no heed.
+
+0xE2BCB653 = ~z~Sad, really, she used to be a fun sort of girl... now it's just unfortunate and depressing...
+

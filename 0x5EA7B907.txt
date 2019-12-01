@@ -1,0 +1,56 @@
+0x0130D052 = ~z~behavior the devil hisself would be ashamed of?
+
+0x04443586 = ~z~Just hear me out, I know it sounds crazy.
+
+0x0FECEDCA = ~z~~sl:0.0:3.7~They promised me safety, salvation, paradise...~sl:0.6~all very appealing to a feller like me.
+
+0x1EC37034 = ~z~So what brings you to these parts?
+
+0x6EE0994B = ~z~All seems ridiculous now looking back. The things we'll do for answers, huh?
+
+0x7C5BEB7F = ~z~Anyway, sorry to ramble on, I should get back to it.
+
+0x7F37B9FD = ~z~I just got out in time...
+
+0x8A942D5C = ~z~Folk always say I'm too trusting.
+
+0x65E0E3EE = ~z~I met a very persuasive feller in Saint Denis, Anders his name was... and he caught me at a bad time.
+
+0x358E6B18 = ~z~Just between towns, looking for work.
+
+0x927DC2F2 = ~z~Okay, clearly I don't need to bore you with no more of this.
+
+0x3379B4E7 = ~z~~sl:0.0:4.5~It's that, I'd... I'd been given over to some poor living,~sl:~real poor living. Kinda,
+
+0x4157C474 = ~z~Hell of a thing, right?
+
+0x4295AD95 = ~z~Well, I'm glad of the company if I'm honest.
+
+0x5272EA2A = ~z~I know, you wouldn't believe it.
+
+0x41631AF3 = ~z~I mean I don't know you from Adam and here you are sitting at my fire.
+
+0x674176EC = ~z~Ain't sure if you heard of a group called the Chelonians? I-I guess you could call it a religion.
+
+0x50544912 = ~z~The past six months or so I ain't been around many people, regular folks at least.
+
+0xABF9E592 = ~z~No reason, just... passing through.
+
+0xAE18F465 = ~z~Anyway, I'm more or less handing my life over to them.
+
+0xBC9FC1A5 = ~z~That's fine, don't mean to pry.
+
+0xC19A7C0F = ~z~Just between towns, looking for work.
+
+0xC436C957 = ~z~Come on. Don't judge me for it, mister.
+
+0xC59946BB = ~z~maybe it was the turtles, or maybe it was just I didn't have the spine to go through with it.
+
+0xD5B266F1 = ~z~Got to the point where I'd given them every cent I had and I was ready to follow them off a cliff.
+
+0xD269BD7C = ~z~~sl:0.0:4.4~Would you look at that. That dog don't never like no one but me.~sl:0.5~Wanna rest up a while, friend?
+
+0xF4D8121F = ~z~Obsessed with turtles... which maybe should have struck me stranger sooner.
+
+0xF96CC4D3 = ~z~No reason... just passing through.
+

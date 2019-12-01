@@ -1,0 +1,24 @@
+0x0A60E4E9 = ~z~Peaky. I'll tell you what, you find me a rabbit, I'll make you my special soup.
+
+0x1FD8A241 = ~z~Riddled with scurvy I was, then one bowl... and I was fine.
+
+0x4B9479B8 = ~z~
+
+0x8E8CED3F = ~z~Peaky?
+
+0x9F4A8EBA = ~z~You look a little peaky.
+
+0x10CF042E = ~z~Thank you.
+
+0xB218B456 = ~z~Sure.
+
+0xC4BED9A2 = ~z~You alright there, Mr. Morgan?
+
+0xD58E7B41 = ~z~It's my special rabbit soup, it's a work of art, I learnt the recipe in the Indies.
+
+0xD746FE76 = ~z~Mr. Pearson.
+
+0xE7D61FD4 = ~z~And I just need a rabbit?
+
+0xF7EE4004 = ~z~Put the hair on your chest, get you feeling perfect.
+

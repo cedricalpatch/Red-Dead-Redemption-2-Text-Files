@@ -1,0 +1,382 @@
+0x010687A8 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoes
+
+0x04EBDC67 = ~1~ has destroyed a canoe
+
+0x056450AD = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoe
+
+0x074D8BA7 = Buggy destroyed
+
+0x08D62DEC = You triggered a rival mission against ~1~. Destroy the buggy ~2b~ to gain the full reward.
+
+0x09B448EB = The wagon was destroyed
+
+0x0B2E48C6 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoes
+
+0x0BD8DDB9 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+0x0C1D4709 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe
+
+0x0C3A4BF7 = ~1~ has destroyed a buggy
+
+0x0DFD7F39 = Deliver the wagon ~1~
+
+0x0F03B653 = Buggy delivered
+
+0x0FBA0507 = Repossess the wagon ~1b~ without killing the owners to earn the full reward.
+
+0x1A9E33D1 = Boat destroyed
+
+0x1AFE1C92 = ~1~ delivered a boat
+
+0x1C3BBA2F = Stagecoach destroyed by rival Posse
+
+0x1F32D1F2 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~buggy
+
+0x2A6CF328 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~buggy
+
+0x2AF20212 = Deliver the canoe ~1~
+
+0x2AF81816 = A canoe has been delivered
+
+0x2BB0E56C = Wagon destroyed
+
+0x2E0AE055 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~stagecoach~s~ on the way ~1~
+
+0x2E24BF01 = Repossess the boat without killing the owners within the time limit for the full reward.
+
+0x3B56E43F = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~buggy
+
+0x3B76DFF9 = Canoe delivered
+
+0x3BDD48C6 = ~1~ is repossessing canoe
+
+0x3C0E95CA = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~canoe~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x3D10C68A = ~1~ triggered a rival mission against ~2~. Destroy the canoe ~3b~ to gain the full reward.
+
+0x3D2132F7 = ~1~ triggered a rival mission against ~2~. Destroy the buggy ~3b~ to gain the full reward.
+
+0x3D31773B = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagon
+
+0x3E2225DF = Canoes destroyed
+
+0x3FFE5660 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon
+
+0x4C8DA409 = Repossess the canoe without killing the owners within the time limit for the full reward.
+
+0x4C46A602 = You destroyed the buggy
+
+0x4DEC0ED8 = Stagecoach delivered
+
+0x5C1D04AE = ~COLOR_ENEMY~~1~~s~ is attacking the wagon
+
+0x5D25853C = Use your Lasso to remove the driver from the buggy ~1b~ without killing them.
+
+0x6AA5F018 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~boats~s~ on the way ~1~
+
+0x6D5F99A3 = ~1~ triggered a rival mission against ~2~. Destroy the canoes ~3b~ to gain the full reward.
+
+0x6D103F8C = Canoe destroyed
+
+0x7ADE7FFC = The wagon is on the move. Retrieve it before it reaches its destination.
+
+0x7AEE8EC8 = A canoe was destroyed
+
+0x7E38FB7C = A boat has been delivered
+
+0x8A3E1D08 = A canoe has been destroyed
+
+0x8B742AF0 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~stagecoach
+
+0x8DFB6E84 = ~COLOR_ENEMY~~1~~s~ is attacking the boats
+
+0x8E85B2D9 = ~1~/~2~ boats delivered
+
+0x9B00C7B7 = Stagecoach destroyed
+
+0x9CB2F1EB = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~stagecoach
+
+0x9E313F59 = ~COLOR_ENEMY~Rival players~s~ can attack the boats
+
+0x9F01B609 = You delivered a boat
+
+0x13C35742 = Boat delivered
+
+0x15BB9A27 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~buggy
+
+0x16BC9946 = Knock out or use your Lasso to hogtie and pacify any resistant owners to safely repossess the canoe ~1b~.
+
+0x18C7D8D5 = A boat was destroyed
+
+0x39DF09C5 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~stagecoach
+
+0x42BB9AAF = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~boats~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x44F98B6E = The buggy was destroyed
+
+0x47A502D2 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~boat~s~ on the way ~1~
+
+0x60B33157 = Buggy delivered
+
+0x61F870CB = ~COLOR_ENEMY~Rival players~s~ can attack the boat
+
+0x64EC1137 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats
+
+0x70CB8F40 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+0x72CA2EF4 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoe
+
+0x73AFD6E5 = Boats destroyed
+
+0x77EECBA7 = Boat delivered
+
+0x78EE4D5A = The buggy is on the move. Retrieve it before it reaches its destination.
+
+0x78F43335 = Boats destroyed
+
+0x80E8A0FE = ~1~/~2~ canoes delivered
+
+0x91CFE7D0 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x94EDCB26 = Your Posse has destroyed a boat
+
+0x95B6E088 = ~COLOR_ENEMY~~1~~s~ is attacking the buggy
+
+0x97E34749 = ~COLOR_ENEMY~Rival players~s~ can attack the wagon
+
+0x98CB147F = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~stagecoach~s~ on the way ~1~
+
+0x98D60C13 = ~1~/~2~ canoes destroyed
+
+0x106BEAA1 = ~1~ triggered a rival mission against ~2~. Destroy the wagon ~3b~ to gain the full reward.
+
+0x132DF16D = Canoes destroyed
+
+0x218E6BB7 = Buggy destroyed
+
+0x222C47C3 = Deliver the stagecoach ~1~
+
+0x273A6126 = Canoe delivered
+
+0x297FC325 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~boat~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x302B0DFA = Boats destroyed by rival Posse
+
+0x314BEC50 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe
+
+0x356A9131 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~canoe~s~
+
+0x436F5BC9 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~canoes~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x483ADAA7 = ~COLOR_ENEMY~Rival players~s~ can attack the buggy
+
+0x528FE506 = Lose the ~COLOR_ENEMY~law~s~
+
+0x623F9254 = Boats delivered
+
+0x726BD3E2 = Boats delivered
+
+0x765A87A2 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~buggy~s~ on the way ~1~
+
+0x881A0285 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~stagecoach~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x911F3D07 = ~COLOR_ENEMY~~1~~s~ is attacking the canoes
+
+0x936FD398 = Canoe destroyed by rival Posse
+
+0x944D9102 = You triggered a rival mission against ~1~. Destroy the canoe ~2b~ to gain the full reward.
+
+0x946DBCB6 = Wagon delivered
+
+0x972B45B8 = Stagecoach destroyed
+
+0x987F8A30 = Boat destroyed
+
+0x2940E7B2 = Wagon delivered
+
+0x4091DA53 = Repossess the buggy ~1b~ without killing the owners to earn the full reward.
+
+0x4941D391 = You have destroyed a boat
+
+0x5074B995 = Use your Lasso to remove the driver from the stagecoach ~1b~ without killing them.
+
+0x5681EBFD = ~COLOR_ENEMY~~1~~s~ is attacking the stagecoach
+
+0x5699D977 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boats
+
+0x6261FAC9 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats
+
+0x7192B683 = ~1~ has destroyed a wagon
+
+0x7797ECC7 = ~COLOR_ENEMY~~1~~s~ is attacking the boat
+
+0x10769CCA = You triggered a rival mission against ~1~. Destroy the stagecoach ~2b~ to gain the full reward.
+
+0x43932D37 = Exit the canoe
+
+0x56372C2F = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boat
+
+0x56621E95 = ~COLOR_ENEMY~Rival players~s~ can attack the stagecoach
+
+0x62556DAB = Wagon destroyed
+
+0x66119BB4 = Deliver the buggy ~1~
+
+0x89625E81 = Stagecoach reached its destination
+
+0x259121A5 = You destroyed the wagon
+
+0x495694CD = Knock out or use your Lasso to hogtie and pacify any resistant owners to safely repossess the boat ~1b~.
+
+0x645612E6 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x2805052E = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~canoes~s~ on the way ~1~
+
+0x7066407F = You triggered a rival mission against ~1~. Destroy the wagon ~2b~ to gain the full reward.
+
+0x8583585E = Exit the boat
+
+0x31673290 = Knock out or use your Lasso to hogtie and pacify any resistant owners to safely repossess the wagon ~1b~.
+
+0x57147724 = ~1~ delivered a stagecoach
+
+0x84455366 = You delivered a canoe
+
+0x91284995 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagon
+
+0xA0754B54 = Your Posse delivered a boat
+
+0xA9A486C1 = Your Posse delivered a canoe
+
+0xA41AAAAE = You destroyed the stagecoach
+
+0xA75D4CAB = A boat has been destroyed
+
+0xA545FC8D = Use your Lasso to remove the driver from the wagon ~1b~ without killing them.
+
+0xA49216B2 = Boat destroyed by rival Posse
+
+0xA78823D5 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes
+
+0xA168283D = ~1~ is repossessing boat
+
+0xAE210B37 = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon
+
+0xAEE8C22B = The stagecoach was destroyed
+
+0xB1CB0B4F = ~1~ delivered a canoe
+
+0xB4E24AE8 = ~1~ triggered a rival mission against ~2~. Destroy the stagecoach ~3b~ to gain the full reward.
+
+0xB5F6B368 = Repossess the boats without killing the owners within the time limit for the full reward.
+
+0xB44D497A = You destroyed a canoe
+
+0xB47D4AB2 = Wagon reached its destination
+
+0xB71B758A = Canoes delivered
+
+0xB455502B = The stagecoach is on the move. Retrieve it before it reaches its destination.
+
+0xBA9C9CB2 = ~COLOR_ENEMY~Rival players~s~ can attack the canoe
+
+0xBA60CEF4 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~canoe~s~ on the way ~1~
+
+0xBAAAC121 = You triggered a rival mission against ~1~. Destroy the boat ~2b~ to gain the full reward.
+
+0xBCAA93D5 = Wagon destroyed by rival Posse
+
+0xBCBC8B7D = ~COLOR_ENEMY~Rival players~s~ can attack the canoes
+
+0xBD0C84A6 = Canoes delivered
+
+0xBE6C7DAF = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes
+
+0xBE94807E = ~1~ has destroyed a boat
+
+0xC35DCB18 = ~1~/~2~ boats destroyed
+
+0xC42C77DE = Wagon destroyed
+
+0xC43C06CC = Canoe destroyed
+
+0xC50861DA = Repossess the stagecoach ~1b~ without killing the owners to earn the full reward.
+
+0xC61127CB = Wait for the rest of your Posse to lose the ~COLOR_ENEMY~law~s~
+
+0xC2796945 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~boat~s~
+
+0xC3406446 = Deliver the wagon ~1~
+
+0xCBCF6BCB = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon
+
+0xCC1F8B2E = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~stagecoach
+
+0xCC6E47ED = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat
+
+0xCE79E040 = ~COLOR_ENEMY~~1~~s~ is attacking the canoe
+
+0xCEDEC4BC = Your Posse has destroyed a canoe
+
+0xCF2D056C = Intercept the ~COLOR_MP_OBJECTIVE_NEUTRAL~buggy
+
+0xD8A53E37 = You have destroyed a canoe
+
+0xD78F35FE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~buggy~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xD79AFD76 = Canoes destroyed by rival Posse
+
+0xD595BE62 = Stagecoach destroyed
+
+0xD32547F6 = ~1~ delivered a buggy
+
+0xD48132F1 = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~buggy~s~ on the way ~1~
+
+0xDAC2EC27 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat
+
+0xDB541C04 = Buggy reached its destination
+
+0xDBF8AEC7 = You triggered a rival mission against ~1~. Destroy the boats ~2b~ to gain the full reward.
+
+0xDCBA1FFE = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+0xDE9734E5 = ~1~ triggered a rival mission against ~2~. Destroy the boats ~3b~ to gain the full reward.
+
+0xDEDC5922 = ~1~ triggered a rival mission against ~2~. Destroy the boat ~3b~ to gain the full reward.
+
+0xE046024A = Boats destroyed
+
+0xE4EDAB18 = ~1~ delivered a wagon
+
+0xE5BB65D6 = Canoe destroyed
+
+0xE7E5577C = Buggy destroyed
+
+0xE38DF7CD = Repossess the wagon without killing the owners within the time limit for the full reward.
+
+0xE52B8225 = Buggy destroyed by rival Posse
+
+0xE61C3F4C = Repossess the canoes without killing the owners within the time limit for the full reward.
+
+0xE193F722 = Canoes destroyed
+
+0xE21192CD = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boats
+
+0xEDA3CCED = Go ~1~
+
+0xEE67F850 = You destroyed a boat
+
+0xEF903BF9 = Stagecoach delivered
+
+0xF3BD4C15 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~stagecoach
+
+0xF17B58AD = You triggered a rival mission against ~1~. Destroy the canoes ~2b~ to gain the full reward.
+
+0xF4185944 = Boat destroyed
+
+0xFB159E07 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boat
+
+0xFDEAAF87 = ~1~ has destroyed a stagecoach
+
+0xFE624D07 = Deliver the boat ~1~
+

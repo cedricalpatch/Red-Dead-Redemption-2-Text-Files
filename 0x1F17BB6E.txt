@@ -1,0 +1,38 @@
+0x1C09D381 = ~z~No, it's... not like that.
+
+0x5DC5139C = ~z~You don't understand!
+
+0x6F9AB747 = ~z~Unfortunately, I do.
+
+0x48EC2D3D = ~z~See, I love him, and I know he loves me, but...
+
+0x70EC5129 = ~z~It is?
+
+0x95ED83F8 = ~z~Well... well... well you don't!
+
+0x8881AC73 = ~z~Dutch don't love you. Not in the way you want to be loved.
+
+0x3685451D = ~z~I ain't one to sugarcoat things, my dear...
+
+0x62352929 = ~z~Would you excuse us?
+
+0xA7B52787 = ~z~Okay...
+
+0xB8424895 = ~z~It is like that.
+
+0xBF8F9A8E = ~z~No.
+
+0xC9BF341B = ~z~Arthur please, you don't care about this nonsense. Away with you.
+
+0xCA0CEC2A = ~z~Take care of yourself.
+
+0xCA5183F6 = ~z~Can I talk to you for a minute?
+
+0xD3144197 = ~z~You're a sweet girl. But... you don't strike me as an idiot...
+
+0xE4D4E518 = ~z~Just don't make a fool of yourself.
+
+0xE48BB86A = ~z~Sure.
+
+0xF6CE5CEF = ~z~It's about Dutch.
+

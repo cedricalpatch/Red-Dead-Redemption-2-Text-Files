@@ -1,0 +1,56 @@
+0x08B6BF8E = Question
+
+0x1F8D09F0 = Strawberry was abandoned.
+
+0x4CC090DD = Chase after and capture ~e~Nathan Kirk~s~
+
+0x6D4F1F1E = The law were alerted.
+
+0x8B1D629A = Follow ~o~Sadie~s~ to Strawberry
+
+0x8D7FABE8 = Threaten
+
+0x24A057C7 = Question
+
+0x24D332B5 = Nathan Kirk was killed.
+
+0x24DBFD69 = You scared off all informers.
+
+0x38D79CAB = Stow Nathan Kirk on ~o~Sadie's horse~s~
+
+0x81F21FD2 = Your horse was killed.
+
+0x83E71D77 = Enter the ~o~Welcome Center~s~
+
+0x271EDB30 = Ask around about Nathan Kirk in ~o~town~s~
+
+0x554C5594 = Jump out the balcony
+
+0x605F0D1E = Mount your ~f~horse~s~
+
+0x2206D40A = Kick open the door to Nathan Kirk's ~o~room~s~
+
+0x5474F12F = Enter Nathan Kirk's ~o~room~s~
+
+0x6555B743 = Nathan Kirk escaped.
+
+0x6631F75F = Lasso and hogtie ~o~Nathan Kirk~s~
+
+0x8128C79E = Pick up ~e~Nathan Kirk~s~
+
+0x727779B4 = Mayor
+
+0xA2ADA5A8 = Stranger
+
+0xB21CF9E2 = Find out where Nathan Kirk is by questioning people in the ~o~area~s~
+
+0xC13B0AA5 = Store Owner
+
+0xCA624F10 = Worker
+
+0xE591E0DF = Go to Nathan Kirk's ~o~room~s~
+
+0xF7A186A1 = Return to ~o~Strawberry~s~
+
+0xF3215285 = Post Office Worker
+

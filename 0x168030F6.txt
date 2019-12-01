@@ -1,0 +1,26 @@
+0x09592D21 = ~z~When you're dead, I'll miss you.
+
+0x1EE5C2B5 = ~z~You, uh... you don't like me much, do you?
+
+0x3C10FD0B = ~z~No... not much.
+
+0x9F8F89E8 = ~z~I don't imagine the feeling's mutual.
+
+0x52AB3FC4 = ~z~I ain't quite sure.
+
+0x52FBC065 = ~z~I don't imagine the feeling's mutual.
+
+0x405D9B29 = ~z~What are you looking at?
+
+0xB1472D57 = ~z~
+
+0xC3878BFA = ~z~What you reading, old feller?
+
+0xD0BDA666 = ~z~Just a book.
+
+0xD227BEBF = ~z~
+
+0xE5C31652 = ~z~Well, when you're dead, I'll miss you.
+
+0xF5396F5D = ~z~
+

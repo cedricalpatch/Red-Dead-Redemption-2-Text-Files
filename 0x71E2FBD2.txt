@@ -1,0 +1,350 @@
+0x001583A1 = ~z~Well, why don't I be the judge of that? Open it! Now!
+
+0x0419926A = ~z~Why are you wearing that sailor suit?
+
+0x0459D419 = ~z~Please don't... I'm really trying to put it all behind me. I couldn't be more sorry.
+
+0x06677F60 = ~z~What are you waiting for? Please!
+
+0x067819C2 = ~z~We have?
+
+0x07019C1A = ~z~Don't shoot me, please. Just, just leave us be!
+
+0x09157D88 = ~z~I've seen some sick perversions in my time... but this one... this one takes the prize.
+
+0x0F0B1121 = ~z~Oh God, not you again. He... he ain't down there no more, so just stay civil, okay?
+
+0x1A7B63AC = ~z~Please, don't listen to that maniac. He ain't my father!
+
+0x1C7475D9 = ~z~I'm never getting outta here, am I?
+
+0x1CE24C94 = ~z~Mister! Why did you leave me here? You gotta get me out, please! It's getting worse!
+
+0x2EDE5892 = ~z~You... you just stay away from me!
+
+0x2F8ABE30 = ~z~You, yes you. Come here, please.
+
+0x2F961C45 = ~z~Fine by me. I have no desire to dig any deeper into your weird private world.
+
+0x3A686632 = ~z~Woah now, let's not start any trouble again, alright?
+
+0x3B210303 = ~z~I was lost in my own head... it was very wrong, I see that now.
+
+0x3DC2F565 = ~z~You can't take my boy...
+
+0x3E5B218B = ~z~I'm doing it, just give me a damn chance!
+
+0x4C32D57E = ~z~Oh God, not you again. He... he ain't down there no more, so just stay civil, okay?
+
+0x5A8E8081 = ~z~Thank you.
+
+0x5AC9A032 = ~z~Don't take him away from me. He's all I got.
+
+0x5C9E45FD = ~z~Oh, I... I didn't expect to see you back here again.
+
+0x6D67E790 = ~z~Listen, I'm real sorry for what happened.
+
+0x6ECAA933 = ~z~So, I know this must look bad, but the boy needed to be disciplined.
+
+0x6ECE2791 = ~z~What are you doing? Please, just get me out of here.
+
+0x6EE666FF = ~z~Hurry up and shoot these chains off, please!
+
+0x6EFECD9D = ~z~Let's see what we got here.
+
+0x7C4DBD63 = ~z~There's no telling what he'll to do to me!
+
+0x7C4DD691 = ~z~Why are you wearing that sailor suit?
+
+0x7DD1C5E6 = ~z~Come on, please! How the hell can I be his son?
+
+0x8C8C8199 = ~z~Oh thank god, you came!
+
+0x8F8B92D7 = ~z~I don't want no part of whatever sick perversion you're engaging in down there.
+
+0x8F74E258 = ~z~Are you seriously making fun of me?
+
+0x8FB10343 = ~z~Mister, please can you help me. Mister don't just stand there.
+
+0x9A9B9216 = ~z~I was teaching Sammy how to hold the rifle proper, out by the river. The recoil... shot him backwards.
+
+0x9E4511F1 = ~z~I'm telling you the truth, he's got me chained up!
+
+0x11C083AA = ~z~I want to see what's in that basement of yours. Show me, right now.
+
+0x11DB272C = ~z~Nothing of no worth down there, I swear it.
+
+0x14A5C8BA = ~z~I'm sorry! Please forgive me.
+
+0x17CE5755 = ~z~I've been kidnapped! Help me, you bastard!
+
+0x22EB9F24 = ~z~Anyway, as you can see, just a family matter. So if you wouldn't mind leaving us to it?
+
+0x24BE4BD0 = ~z~Why are you here? You just want to watch people suffer?
+
+0x28E0AE9E = ~z~I searched up and down that river bank for days. But I couldn't find my boy.
+
+0x31E920EB = ~z~Let's keep that in the past where it belongs.
+
+0x37B1FC35 = ~z~Hey, we've all kidnapped someone.
+
+0x39E1E055 = ~z~I want to see what's in that basement of yours. Show me, right now.
+
+0x50BB791D = ~z~Take anything you want, just don't harm my boy.
+
+0x50EC409A = ~z~Get your hands up.
+
+0x53BEF84C = ~z~Alright, alright, I won't mention it again.
+
+0x54A5F78B = ~z~
+
+0x57B90D68 = ~z~Kidnapped me, he did! Do I look like a kid?
+
+0x58C03005 = ~z~You're not going to help me?
+
+0x63C1CE4C = ~z~Please... no please come down here. Please, come on and help.
+
+0x71CA2C4C = ~z~What... what happens now? Are you gonna leave?
+
+0x73AE0F93 = ~z~You know, you should really get out more.
+
+0x75E881EF = ~z~We have?
+
+0x77B15E0C = ~z~Shit! Who's there?
+
+0x80D197C9 = ~z~Oh, I... I didn't expect to see you back here again.
+
+0x81EBAC0E = ~z~Are you seriously making fun of me?
+
+0x92FABD70 = ~z~I just miss him so much.
+
+0x93AD4E78 = ~z~Just what the hell is going on here?
+
+0x95EE191F = ~z~Please, you lose nothing by letting me go.
+
+0x174EBB6F = ~z~No, of course not.
+
+0x223CFB0F = ~z~Yes, I'm still down here. Because nobody will help me! Will you do something, please?
+
+0x333DD986 = ~z~Fine by me. I have no desire to dig any deeper into your weird private world.
+
+0x342E158D = ~z~Well, why don't I be the judge of that? Open it! Now!
+
+0x411ACF2F = ~z~I don't want no part of whatever sick perversion you're engaging in down there.
+
+0x411F4000 = ~z~You gotta do something, please, he's never gonna let me go.
+
+0x460A5CE3 = ~z~Thank you.
+
+0x463C06AC = ~z~You gotta get me outta here, please.
+
+0x512FDF46 = ~z~Was depriving a father of his son not enough for you?
+
+0x634BF3C8 = ~z~Alright, alright. I ain't got nothing to hide.
+
+0x685F45A0 = ~z~Psst. Psst... over here. Hey...
+
+0x688CEBFF = ~z~Just what the hell is going on here?
+
+0x702DBAB6 = ~z~
+
+0x707E5F81 = ~z~Take anything you want just leave us in peace.
+
+0x759BC100 = ~z~Please! I don't know how else to ask you! Get me out of here!
+
+0x797F6B62 = ~z~Mister! Please, you have to help me! Don't run off on me again!
+
+0x838DC47A = ~z~Hurry, get these shackles off me, please!
+
+0x862ACFC4 = ~z~I've been kidnapped! Help me, you bastard!
+
+0x862B2274 = ~z~Hey, we've all kidnapped someone.
+
+0x866B52D6 = ~z~Please! Don't run off on me again.
+
+0x925A2271 = ~z~No! What have you done? Not again...
+
+0x1464F4B1 = ~z~~sl:1.4:1.9:1~Oh... oh, thank god.
+
+0x1467A901 = ~z~Sometimes they need a little tough love.
+
+0x1880E6BC = ~z~You know, you could always come back after he wakes up.
+
+0x3526DEA2 = ~z~~sl:0.0:3.2:1~Mister, please, you gotta get me outta here.
+
+0x4187F61A = ~z~Let's keep that in the past where it belongs.
+
+0x4426DBCA = ~z~He can't see I only do it for his own good.
+
+0x5347E290 = ~z~What are you doing? Please, you gotta get me outta here.
+
+0x5452C01D = ~z~I'm so sorry. Please forgive me.
+
+0x5497FA0B = ~z~Don't know what else you want from me. Take what you want, I don't care anymore.
+
+0x8406C396 = ~z~No, the chains! Shoot the chains!
+
+0x8698E9BC = ~z~You bastard, why couldn't you stay out of this?
+
+0x9704E5D0 = ~z~He's getting crazier by the day, I can't take much more of it!
+
+0x55627E03 = ~z~Let's see what we got here.
+
+0x59523CC6 = ~z~No-no-no, wait please. You've gotta help me.
+
+0x76219F7C = ~z~Don't leave me down here, please.
+
+0x81491A0D = ~z~And you! You remind me of him. You look just like him.
+
+0x90732B1B = ~z~Kidnapped me, he did! Do I look like a kid?
+
+0x404896B4 = ~z~No, of course not.
+
+0x795261D8 = ~z~I've seen some sick perversions in my time but, this one might take the prize.
+
+0x898470FE = ~z~Always in such a rush to grow up these days, aren't they?
+
+0x7624645B = ~z~No, please, don't go!
+
+0x8221490A = ~z~This isn't right! You have to do something!
+
+0x19100630 = ~z~I'm begging you this time, help me!
+
+0x45813833 = ~z~Nothing of no worth down there, I swear it.
+
+0x66471521 = ~z~I've been kidnapped!
+
+0xA9A99EB6 = ~z~Oh you're back.
+
+0xA29E08AA = ~z~You know, you should really get out more.
+
+0xA66ACD6F = ~z~Oh, thank god, you've come back! Please, shoot these things off of me.
+
+0xA87B0789 = ~z~Oh you're still down there.
+
+0xA7195853 = ~z~It's that crazy gunsmith, he made me dress up like this.
+
+0xAA837A65 = ~z~You know, you could always come back after he wakes up.
+
+0xAD9049C9 = ~z~Oh. Oh, thank you. That sick son of a bitch kidnapped me, made me pretend to be his son...
+
+0xAE0039F5 = ~z~That crazy maniac put me in it! He thinks I'm his kid son.
+
+0xAE2794AF = ~z~I ain't sticking around for this!
+
+0xAF11C7F2 = ~z~I got my boy sleeping down there. Such a shame to wake him.
+
+0xB5B6758D = ~z~He's got me chained to the goddamn bed.
+
+0xB6BE8865 = ~z~I'm not your little boy, you mad son of a bitch!
+
+0xB14A78B2 = ~z~Oh, yes. Very good. Well, moving on, how can I be of service?
+
+0xB35BB21A = ~z~Yep... so is this your full stock or do you have more hiding in the basement?
+
+0xB63BE0BD = ~z~Mister... please, can you help me? Please, you gotta get me outta here.
+
+0xBB5FDFD6 = ~z~Now I seen it all.
+
+0xBBFCFEC5 = ~z~Hey, can you please get me outta here? Mister, you gotta help.
+
+0xBC333DA4 = ~z~I'm done listening to this.
+
+0xBF94AC45 = ~z~Alright. You got what you wanted now, so just leave.
+
+0xBFE1C65D = ~z~Don't leave me here! He's out of his mind!
+
+0xC1D2DB48 = ~z~Mister, I've been trapped down here.
+
+0xC3D8AFBD = ~z~Damn! Well, I guess he deserved it. I'm outta here. Thanks mister.
+
+0xC14DEB1B = ~z~Please, he's chained me to the bed, you gotta get me outta here.
+
+0xC52ED769 = ~z~Keep those hands high in the air, mister.
+
+0xC65DBC98 = ~z~I can't lose him. Not again.
+
+0xC92B2D3E = ~z~He was being a bad little boy, stealing candy from the store again. It's for his own good!
+
+0xC672A91B = ~z~~sl:0.0:4.0:1~Please. Please help me, he's got me chained up here.
+
+0xC75953F0 = ~z~Look what you've done.
+
+0xCD8277E3 = ~z~He slipped into the river. The water pulled him downstream so quick.
+
+0xD01332AB = ~z~We ain't done yet. I wanna see what's in that basement of yours.
+
+0xD043F154 = ~z~Please don't... I'm really trying to put it all behind me. I couldn't be more sorry.
+
+0xD1E69279 = ~z~I owe you for this, mister.
+
+0xD3D012FE = ~z~Why the hell are you dressed up like that?
+
+0xD6E07C29 = ~z~Now I seen it all.
+
+0xD910F75F = ~z~No, please... I'm so sorry.
+
+0xD9745A05 = ~z~He was being a bad little boy, stealing candy from the store again. It's for his own good!
+
+0xDABD3FB2 = ~z~Always in such a rush to grow up these days, aren't they?
+
+0xDC17B306 = ~z~Now, what'd I tell you about talking to your Pa that way?
+
+0xDC71CF00 = ~z~I was lost in my own head... it was very wrong, I see that now.
+
+0xDCDC8268 = ~z~~sl:0.0:3.6:1~No... no, no, no. Please don't go! Please don't go!
+
+0xDD167DD4 = ~z~Oh, you're still down there.
+
+0xDE4BC6CF = ~z~That crazy maniac put me in it! He thinks I'm his kid son.
+
+0xDE60DC31 = ~z~I know it was wrong. I just couldn't face that he was gone.
+
+0xDF2A89BB = ~z~Alright, alright, I won't mention it again.
+
+0xE0B5174F = ~z~No, don't leave me here! Please!
+
+0xE5DB8478 = ~z~Don't just stand there please, no one else will help me.
+
+0xE82E7779 = ~z~I'm not your little boy, you mad son of a bitch!
+
+0xE836561C = ~z~We ain't done yet. I want to see what's in that basement of yours.
+
+0xE2635195 = ~z~Oh, yes. Very good. Well, moving on, how can I be of service?
+
+0xE8136742 = ~z~Please, you gotta get me out of here!
+
+0xEAA41E99 = ~z~It's too late for apologies. You just count yourself lucky that I don't kill you for what you did.
+
+0xEAD16BBF = ~z~Listen, I'm real sorry for what happened.
+
+0xED247D04 = ~z~Take everything he's got. I don't care, just let me free.
+
+0xEDF82CC0 = ~z~Yep... so is this your full stock or do you have more hiding in the basement?
+
+0xEE846554 = ~z~Why is this happening to me?
+
+0xEECE264B = ~z~~sl:0.0:0.8:1~No...
+
+0xF6DB4EAF = ~z~Do something, please. He's sick in the head!
+
+0xF6EA3677 = ~z~~sl:1.0~I don't want no trouble.
+
+0xF34AFDE1 = ~z~Come on, please! Shoot 'em off!
+
+0xF61EC91B = ~z~It all happened so fast, I didn't know what to do.
+
+0xF98FE251 = ~z~Why are you dressed up like that?
+
+0xFAE7953E = ~z~Oh, finally. Thank you, thank you! Oh... you sick son of a...
+
+0xFC997CA9 = ~z~Alright, alright. I ain't got nothing to hide.
+
+0xFCA2CA15 = ~z~Oh you're back.
+
+0xFE75984C = ~z~It was all perfect and you ruined it!
+
+0xFE78757C = ~z~Please, shoot through these shackles, I... I can't spend another day down here.
+
+0xFF61C26A = ~z~Yes, I'm still down here. Because nobody will help me! Will you do something, please?
+

@@ -1,0 +1,18 @@
+0x0E7A9C48 = ~z~~sl:1.3~That's right!
+
+0x14EEA934 = ~z~~sl:0.0:1.2~Hey Grimshaw.~sl:0.7~How about you keep me company?
+
+0x42E70524 = ~z~about when you was young and pretty.
+
+0x266C4C2F = ~z~~sl:0.0:1.4~Really, Mr. Bell?~sl:0.7~You flatter me.
+
+0x396F07B0 = ~z~Run along, cowboy.
+
+0x3785EE62 = ~z~Tell me some stories,
+
+0xB0982A48 = ~z~
+
+0xE3D8C705 = ~z~~sl:0.0:1.2~Before time...~sl:0.9~ravaged you.
+
+0xFDA4FA9D = ~z~~sl:1.2:1.0~You horrible man.
+

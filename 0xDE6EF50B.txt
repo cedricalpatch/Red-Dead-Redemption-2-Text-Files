@@ -1,0 +1,86 @@
+0x01E8E202 = ~z~Arthur.
+
+0x09C2CEC0 = ~z~and all of her wonder.
+
+0x0C805503 = ~z~kindness...
+
+0x2B239249 = ~z~Why?
+
+0x2D8D3952 = ~z~Are you familiar with the study of plants, my friend?
+
+0x2D179569 = ~z~Sure.
+
+0x3A6D3014 = ~z~But I'm only one man.
+
+0x3A8B3118 = ~z~beauty.
+
+0x3C5756E6 = ~z~Familiar ain't quite the word I'd use.
+
+0x5FE8FB0B = ~z~with gathering herbs for my studies?
+
+0x6A848DD6 = ~z~Well, I'm...
+
+0x6E96016B = ~z~You familiar with the study of plants, my friend?
+
+0x50AE5C96 = ~z~Would you consider helping me...
+
+0x56EA0C0B = ~z~This great earth beneath our feet...
+
+0x62FB01F7 = ~z~Well, I'm...
+
+0x72A22081 = ~z~all across this vast country we share.
+
+0x81FE6233 = ~z~You see, there are thousands, maybe millions of plants...
+
+0x86CCE47E = ~z~Arthur.
+
+0x99C2EF9E = ~z~Well...
+
+0x170E669F = ~z~Okay.
+
+0x183D68A2 = ~z~John.
+
+0x466D48DC = ~z~ugly...
+
+0x492AF08D = ~z~Well, let me tell you.
+
+0x595DEEBD = ~z~Knowledge...
+
+0x712CC090 = ~z~But we've only reached a tiny bit of its potential.
+
+0x846BC4F0 = ~z~let's see if maybe we can do something about that.
+
+0x902B5C57 = ~z~ignorant...
+
+0x6696AB64 = ~z~can provide everything man ever needs.
+
+0x7596A72E = ~z~and nasty.
+
+0x19116D5D = ~z~If I can.
+
+0x31351B38 = ~z~John.
+
+0xA2F07EAD = ~z~I'll see.
+
+0xA64B051A = ~z~and nasty.
+
+0xAEB1162E = ~z~Familiar ain't quite the word I'd use.
+
+0xBCE3B293 = ~z~Okay.
+
+0xC3B93FF6 = ~z~ugly....
+
+0xCC345134 = ~z~Why?
+
+0xCCBF5202 = ~z~ignorant...
+
+0xD21DDF77 = ~z~The mountains, the plains, the swamps...
+
+0xE61E0777 = ~z~I mean to explore them all.
+
+0xE8180379 = ~z~The name's William.
+
+0xF45FA3FA = ~z~To know all of nature's bounty...
+
+0xF437469F = ~z~The name's William.
+

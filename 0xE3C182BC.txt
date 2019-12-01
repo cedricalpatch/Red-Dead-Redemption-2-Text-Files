@@ -1,0 +1,98 @@
+0x09E27118 = The cavalry arrived.
+
+0x0F320593 = Pick Up
+
+0x1F4FA9B3 = Dynamite
+
+0x2AB0B8B1 = Your horse has died.
+
+0x2EF82966 = Dutch was abandoned.
+
+0x4A3C25C9 = Defeat the ~e~Patrol~s~
+
+0x4AAC5E41 = Eagle Flies
+
+0x4D6628C5 = Escape the ~e~Patrol~s~
+
+0x6D31A628 = Artilleryman
+
+0x6EDB3DAE = Dutch's horse has died.
+
+0x6FC2AA18 = You drowned.
+
+0x8C5C0FBC = Get into position by the ~o~Plunger~s~
+
+0x8DF1B1DB = Escape down the ~o~Pass~s~
+
+0x9AC42C94 = Follow ~o~Dutch~s~
+
+0x9B328515 = While unarmed; use ~INPUT_INTERACT_LOCKON~ to focus on your Horse, then press ~INPUT_HORSE_COMMAND_FLEE~ to make them flee.
+
+0x9D6E61CB = You have died.
+
+0x9EAD4D86 = Mount your ~o~Horse~s~
+
+0x45E8F16D = Paytah
+
+0x45F082EA = Follow ~o~Dutch~s~
+
+0x78E96E79 = Eagle Flies was abandoned.
+
+0x87A33C36 = Back up
+
+0x298CE69F = Swim to ~o~Dutch~s~
+
+0x342FA21B = Jump
+
+0x535C3A3D = Follow ~o~Dutch~s~
+
+0x544BE7C5 = Detonate
+
+0x884F1A36 = Return to the ~o~Gang~s~
+
+0x934E35B0 = Defeat the ~e~Patrol~s~
+
+0x5197B223 = The Gang was abandoned.
+
+0x9462C5D7 = Spool
+
+0x589131DE = You were arrested.
+
+0x894133F8 = The ambush was exposed.
+
+0xA0C82A3C = Surrender
+
+0xA9FACB01 = Pick up the ~o~Spool~s~
+
+0xB0FD7226 = Follow ~o~Dutch~s~
+
+0xB12DC8D5 = The ambush wasn't prepared in time.
+
+0xB851E7AF = Attach wire to the ~o~Dynamite~s~
+
+0xB47985AE = Return to the ambush
+
+0xB8958722 = Defeat the ~e~Soldiers~s~
+
+0xBDF7CE13 = Dutch
+
+0xBE0A87E0 = Return to the Gang
+
+0xC3F9799A = Attach wire
+
+0xCC2E21F3 = Follow ~o~Dutch~s~
+
+0xCF57C809 = Plunger
+
+0xD05D1925 = Return to the ~o~Plunger~s~
+
+0xD4B4FB0B = Use ~INPUT_MOVE_DOWN_ONLY~ to back off.
+
+0xDE7EC694 = Loot the ~o~Soldiers~s~
+
+0xE94FE896 = Follow ~o~Dutch~s~
+
+0xE7964797 = ~o~Detonate~s~ the dynamite
+
+0xF538E2DC = Wait for the ~e~Patrol~s~ to be in position
+

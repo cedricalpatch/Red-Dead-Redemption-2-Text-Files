@@ -1,0 +1,26 @@
+0x0D9073FF = ~z~I have my doubts.
+
+0x9A3B55F8 = ~z~Yes... very odd....
+
+0x35E244A2 = ~z~Against my better judgment.
+
+0x87FDB17D = ~z~Dutch seems fine with it but... it feels odd to me.
+
+0x4425E129 = ~z~I'm glad you chose to help me with Marston.
+
+0xA4716A64 = ~z~Mr. Bell seems to have found a couple of men he knows... they're sitting over there...
+
+0xB6B80EF1 = ~z~Really?
+
+0xC0C5230B = ~z~You okay?
+
+0xD306C78E = ~z~Sure.
+
+0xD92553D7 = ~z~Mr. Morgan!
+
+0xE2661DAB = ~z~It makes things matter. Well, at least I hope it does.
+
+0xEAE6F75A = ~z~Miss. Grimshaw?
+
+0xF0A2BA24 = ~z~Doing what's right don't make you weak, Arthur. It makes you real.
+

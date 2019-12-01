@@ -1,0 +1,40 @@
+0x0A00C662 = Peek Out
+
+0x0A7D94D3 = Back away to your ~o~horse~s~
+
+0x0F9A8B8B = Follow ~o~Charles~s~
+
+0x2F5A220D = A civilian was killed.
+
+0x3B3EF8FD = Get Up
+
+0x24CE8F9E = Escape with ~o~Charles~s~
+
+0x68E1F308 = Escape with ~o~Captain Monroe~s~
+
+0x66958C96 = Follow ~o~Rains Fall~s~
+
+0x862750AB = Attend the meeting~s~
+
+0x3868352E = Join the ~o~meeting~s~
+
+0xA1474990 = Meeting abandoned.
+
+0xAD182149 = Return to ~o~Captain Monroe~s~
+
+0xB7300DEE = Your horse died.
+
+0xC3DDC7F3 = Captain Monroe was abandoned.
+
+0xCD19B7C5 = Wait for ~o~Captain Monroe~s~ to mount your horse
+
+0xD1ED8D01 = Mount your ~o~horse~s~
+
+0xD2DDE956 = Meeting has failed.
+
+0xDFA2C002 = Protect ~o~Captain Monroe~s~
+
+0xF8F2826E = Colonel Favours was killed.
+
+0xF8474680 = Mount your ~o~horse~s~ to escape
+

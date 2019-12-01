@@ -1,0 +1,284 @@
+0x01ABB859 = ~z~Yes, a great light that shines from within, about the great glories of life.
+
+0x03B3B867 = ~z~Yes.
+
+0x04AF095F = ~z~And that message is this; you too can be as inspired to greatness as me.
+
+0x08D03219 = ~z~Oh I do... I really do.
+
+0x0B28F026 = ~z~It's really up to you but I will be there and when they shut the gates, I'll laugh at you. A lot.
+
+0x0C405812 = ~z~You are... that's really all there is to it...
+
+0x0E6A3F2C = ~z~Here's a philosophical point, and it's quite an important one.
+
+0x1AEF921A = ~z~You are saved. Join me, join me in paradise.
+
+0x1B772F05 = ~z~Please?
+
+0x1CDCEA41 = ~z~Well, that's wonderful news.
+
+0x1F845F81 = ~z~Many are called but few are chosen...
+
+0x1F206085 = ~z~Even my wife can't stand me.
+
+0x2C0795DD = ~z~I know I have one in mine.
+
+0x2C795F1F = ~z~No... but... I'll try my luck elsewhere, if you know what I mean... good luck.
+
+0x2D4E52B3 = ~z~Stop and experience a great lightning of the heart with me.
+
+0x2DC73E1A = ~z~Yes, desperately.
+
+0x2E24FCC2 = ~z~blessed are the goats for they shall be the meek of human kindness... I think...
+
+0x2F358EF2 = ~z~Yes, desperately.
+
+0x3AD74603 = ~z~Somebody... somebody listen to me.
+
+0x3DAE32E1 = ~z~As I will lead you to paradise where we can spend eternity together.
+
+0x4A1B8B13 = ~z~that they killed themselves...
+
+0x4A78C11F = ~z~Real enjoyment and happiness are possible if only you will open your heart to my message.
+
+0x4AD030EA = ~z~I don't mind how long it takes.
+
+0x4BA37F34 = ~z~Blessed are the peacemakers, for they shall make lots of... peace...
+
+0x4C801354 = ~z~Rejoice one, rejoice all, for we are saved.
+
+0x4EEF0069 = ~z~You and me?
+
+0x5A9B0C62 = ~z~Not nice at all. Good luck now.
+
+0x5AFD2D6F = ~z~I come to bring you great joy. A great joy that has enlivened my heart and filled me with passion.
+
+0x5CC365B4 = ~z~~sl:0.0:0.7~Yes.~sl:2.4~Life can be fun.
+
+0x5D6DF8A9 = ~z~Listen, I know it can be confusing, but that's because you have a log in your eye.
+
+0x5E6A0D2C = ~z~Somebody!
+
+0x5EB8479D = ~z~We can be together forever. Just think how wonderful that will be. You and me... for eternity.
+
+0x6C1AE262 = ~z~~sl:0.0:1.4~For eternity.~sl:3.0~You and me.
+
+0x6C25A8A3 = ~z~Please?
+
+0x6C8869AF = ~z~The great news that you are saved today
+
+0x6E0E4F82 = ~z~Think of the relentless joy as we experience eternity.
+
+0x6E15C9EF = ~z~In the land of the blind, the one-eyed king is in charge. I want you to remember that.
+
+0x7B9F999A = ~z~Life is great... and I'm sharing my great passion... and nobody wants to listen?
+
+0x7C04DA94 = ~z~You are... that's really all there is to it...
+
+0x7E590D4C = ~z~if only you will follow me and do as I say so we can spend eternity together.
+
+0x7EBF7718 = ~z~He comes to pass through the eye of a camel, and no mistake.
+
+0x7ECC78FC = ~z~Life is glorious, behold and see.
+
+0x7F7F852E = ~z~Hello again.
+
+0x8D8ABA04 = ~z~I asked for a mission and this is my mission.
+
+0x8D77211D = ~z~Hi.
+
+0x8E0B7E9D = ~z~
+
+0x9A3A0A5A = ~z~Do none of you want to be saved? What is wrong with you?
+
+0x9ADC0F8E = ~z~Right now.
+
+0x9AE20AF9 = ~z~You can be saved by saving yourself.
+
+0x9B7CC793 = ~z~It drives me to serve you. To bring you the great news.
+
+0x16E8ADD2 = ~z~I've got a great message for you all and that is a message that I will bring with great passion and fury.
+
+0x16FC5035 = ~z~I beg you do not marry a cold woman.
+
+0x27EB271C = ~z~I'm really losing the will to live here.
+
+0x30E412C7 = ~z~You are... that's really all there is to it...
+
+0x33E92763 = ~z~Yes, desperately.
+
+0x36E242FB = ~z~So... the thing is, you can be saved!
+
+0x45F949CC = ~z~Give up all your knowledge, give up your dreams and follow me to paradise.
+
+0x65E577A0 = ~z~Life is great passion and fun.
+
+0x68E8742C = ~z~Can you imagine how hard this has been? Being stuck up here and nobody wants to listen?
+
+0x77C02D59 = ~z~You too can be saved by following me.
+
+0x81AEE5E8 = ~z~Well, that's wonderful news.
+
+0x87B666C4 = ~z~No one does... no one ever does... I lay out eternity and they run like the wind.
+
+0x87C52024 = ~z~Passion is what drives us all. It is what drives me.
+
+0x106FAB0D = ~z~I'm not going anywhere.
+
+0x139F1A4D = ~z~Come and join me in relentless ecstatic rejoicing, about the great news.
+
+0x403EACAB = ~z~Be saved in paradise with me.
+
+0x498FEF5A = ~z~Be saved. Be saved by me.
+
+0x505A9C19 = ~z~That shall light up the world and make it great once more.
+
+0x533E6456 = ~z~A land for the righteous and eternally joyous.
+
+0x572AD0B1 = ~z~It's horrible!
+
+0x585FBAEC = ~z~No way.
+
+0x937B6DE6 = ~z~Does no one want me to save them? No one at all? Come on...
+
+0x989D2A20 = ~z~Oh, this isn't very good. I... don't seem to be very good at this at all... it's all rather sad.
+
+0x4867E606 = ~z~If you want... by, uh... hmm... what... what was it again...
+
+0x4899E188 = ~z~Please?
+
+0x5627E150 = ~z~Rejoice!
+
+0x7537C1C7 = ~z~Not really... I'm not really the type, I fear.
+
+0x8845B2E6 = ~z~I will stand here for the rest of time if that is what it takes.
+
+0x9190C210 = ~z~To spread this message with as much joy and passion as I can muster.
+
+0x15465B8C = ~z~You and me?
+
+0x22069B62 = ~z~Sorry about that.
+
+0x65342CF3 = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+0x97592EB5 = ~z~You are all in prison. But I am free.
+
+0x216035CF = ~z~And the great news is, you have been reserved a place next to me. In paradise.
+
+0x432928AE = ~z~I know I'm pretty boring but I also think I might be the messiah.
+
+0x493789E4 = ~z~I can give you some of this unceasing joy, if only you would let me.
+
+0x942066D1 = ~z~I am exploding with joy! And you can too. Literally explode.
+
+0x3638463C = ~z~Join me in unquenchable ectasy. Join me in paradise.
+
+0x9652237F = ~z~and he converted many people so desperate for eternity,
+
+0x23187730 = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+0x29766104 = ~z~I beseech you to follow me to glory. Life is a beautiful triumph and we can triumph together.
+
+0x49193466 = ~z~She's a hard woman. A cold woman.
+
+0xA1F30286 = ~z~Because with everything I know, I am literally the happiest man alive.
+
+0xA50EC0F8 = ~z~That's why my father called it blinking eternity,
+
+0xA64B56C6 = ~z~That's the promise I'm making to you... and I won't break it. I won't.
+
+0xA896AB03 = ~z~This is the greatest moment of my life and you are all in hell, only you can't see it.
+
+0xA2127928 = ~z~Yes, glories that I embody through my relentless passion.
+
+0xA8805103 = ~z~You too can live a life like me. A life of such excitement and passion and joy, you can have no idea.
+
+0xAA9837B6 = ~z~Yes.
+
+0xAD05D45E = ~z~Join me in paradise. Right here, right now. This can be paradise. In fact it is.
+
+0xB4D3FA41 = ~z~I want to talk to you today about the great miracle of holy passion.
+
+0xB6C1C9A8 = ~z~This is paradise, join me.
+
+0xB76FE932 = ~z~Or I am saved and you will be too, if only you dedicate your life to service like me.
+
+0xB82A2FE7 = ~z~Yes.
+
+0xB388C0DB = ~z~And you'll be very sorry then but it will be too late and that's really the point, isn't it?
+
+0xB974EA61 = ~z~Please, stop and hear my message of passion and joy.
+
+0xB33706E8 = ~z~Hello there.
+
+0xBCEAD100 = ~z~My wife makes me do this you know... she's not a nice woman.
+
+0xBF72B668 = ~z~It's time to embrace joy with me, Reverend Peter Fotheringham.
+
+0xC06EA157 = ~z~Hi.
+
+0xC4C06C06 = ~z~For ever? Great...
+
+0xC4EE63A6 = ~z~It's me or damnation. Take your pick.
+
+0xC7F11610 = ~z~I think maybe I'm looking for a different salvation than that.
+
+0xC91C676D = ~z~Yeah-yes, that's it. By saving yourself!
+
+0xC538CA04 = ~z~Forever? Great...
+
+0xC7309EFA = ~z~Yes, passion.
+
+0xC8816D27 = ~z~Please... join me.
+
+0xCD98BD8E = ~z~I think...
+
+0xCDF31BE8 = ~z~Free from worry and doubt and ideas. And here I am spreading this great passion.
+
+0xCEBE18E2 = ~z~I am burning with passion. With a great and holy passion.
+
+0xD9F8E4EE = ~z~
+
+0xD62EB28B = ~z~Well beggars can't be choosers.
+
+0xD744D0DA = ~z~~sl:0.0:5.6~Blessed are the widowmakers, for they shall make widows...~sl:0.4~and speak in the tongue of angels.
+
+0xD921F55C = ~z~Hello sir, do you want to be saved?
+
+0xDB85F69E = ~z~Just do more good things and less bad ones... and we can be together for all of eternity...
+
+0xE3BDCDA9 = ~z~Ready for salvation?
+
+0xE7B48069 = ~z~Forever? Great...
+
+0xE8BB9109 = ~z~You and me?
+
+0xE37CE249 = ~z~Join me in paradise. It's not too late.
+
+0xECE95E3D = ~z~for they shall be the meek of human kindness... I think...
+
+0xEDC4D3B1 = ~z~Somebody? Somebody stop.
+
+0xEF9D524A = ~z~We can be together for eternity.
+
+0xF1CE85E2 = ~z~Can you imagine how hard this has been? Being a boring messiah?
+
+0xF3F46E16 = ~z~Remember... its follow me and together we will find paradise... and eternity.
+
+0xF6BBBDA5 = ~z~Rejoice and follow me to find great salvation.
+
+0xF17A97F7 = ~z~For you are saved today. Together we shall light up paradise with a holy light.
+
+0xFB0E9696 = ~z~If you say so.
+
+0xFBBDFBE6 = ~z~Many are called, but few are chosen, blessed are the goats,
+
+0xFD7354BB = ~z~It's your loss... you could join me in paradise or live here suffering.
+
+0xFE9CF417 = ~z~Life is but a blink and eternity isn't a blink. It's a lot of blinks.
+
+0xFE53BC39 = ~z~Well, that's wonderful news.
+
+0xFF340896 = ~z~Apart from paradise. With you.
+

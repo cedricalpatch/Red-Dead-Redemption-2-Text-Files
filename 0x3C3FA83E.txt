@@ -1,0 +1,380 @@
+0x0023BAEC = ~z~I want to see what you got behind that door back there. Now!
+
+0x005E76AA = ~z~I ain't a patient man. Where's the rest of the money?
+
+0x02246F43 = ~z~Oh no... please, I don't want to die!
+
+0x02FED5FF = ~z~Keep your head and I won't have to hurt you.
+
+0x083F77B5 = ~z~Nothing, just a back terrace. Where people go relax and just get away from everything.
+
+0x086A3CA9 = ~z~Keep it together, you imbecile.
+
+0x0A1EBC5A = ~z~Look, I only had this job for two weeks.
+
+0x0B62AB49 = ~z~And you best forget all about this place, you hear me?
+
+0x0B87DC0C = ~z~I'm not moving from here, I promise.
+
+0x0D21077F = ~z~I'm just the front, I swear to you.
+
+0x0EC48B65 = ~z~Hey, come on, I got money. What's the buy in?
+
+0x1A049101 = ~z~Okay, take it easy. I'm going to try to open the door for you!
+
+0x1A3740BA = ~z~~sl:0.0:1.5:1~We're gonna die.
+
+0x1B18657E = ~z~Alright then...
+
+0x1C69C10E = ~z~The rest? No, everything was out there on the table.
+
+0x1EF959A9 = ~z~Third... damn... floor.
+
+0x1F9DDF72 = ~z~Cough it up now, or you'll be coughing up your own blood.
+
+0x2C9BB1ED = ~z~Keep your head and I won't have to hurt you.
+
+0x2CF37860 = ~z~Hey, there's nothing for sale back there, sir.
+
+0x2DBA6900 = ~z~It's just a friendly game...we don't play for big stakes.
+
+0x2DF451D5 = ~z~I swear, that's all we got!
+
+0x2EBE6349 = ~z~Look, whatever it is, just leave me out of it, okay?
+
+0x3DE95488 = ~z~Please, just take whatever's on the table and leave!
+
+0x3F516C7E = ~z~You ain't on the list. Leave now or we got a real problem.
+
+0x3F804038 = ~z~Third... damn... floor.
+
+0x3FECE730 = ~z~
+
+0x4B7FA89A = ~z~You're insane!
+
+0x4B975C27 = ~z~So there you are...
+
+0x4B394249 = ~z~Don't do anything stupid. It's all right there on the table.
+
+0x4F666283 = ~z~Damnit...
+
+0x5AAB3B05 = ~z~Oh, you're leaving with something alright!
+
+0x5AC9E16B = ~z~Oh no, no, please!
+
+0x5B4F0636 = ~z~Oh no, no, please!
+
+0x5D07E2F1 = ~z~Why all the security? What's going on back here?
+
+0x5DA4B856 = ~z~Hey, this here's a private event. You'll have to leave.
+
+0x5F7961A5 = ~z~For God's sake, please... that's all we got!
+
+0x5FC3046E = ~z~Do you... need something?
+
+0x6B3BCAD3 = ~z~Third floor upstairs, door at the end of the hallway.
+
+0x6B89DFA4 = ~z~Hey calm down, my mistake. I thought this was an open game.
+
+0x6BB56894 = ~z~Oh man, no, no, no. Look, only he knew the combination to the safe, I swear. Please, don't kill me!
+
+0x6EBB9BE5 = ~z~Whoa...
+
+0x6F8EC9AE = ~z~What else do you want me to say, mister?
+
+0x6F11230A = ~z~Yes, I suppose you're right.
+
+0x7D5D3928 = ~z~Please, just take the money on the table and go!
+
+0x7D9D0C63 = ~z~Oh shit... he was the only one with the combination to the safe.
+
+0x7EF000E1 = ~z~You need to learn when to keep your mouth shut.
+
+0x8A7A49B3 = ~z~You won't get any trouble from me.
+
+0x8A5075BE = ~z~Don't shoot, please!
+
+0x8A18529E = ~z~Oh my God!
+
+0x8B188738 = ~z~To guard the back alley? Don't lie to me, you son of a bitch.
+
+0x8E7A85C2 = ~z~What part of “get out” don't you understand?
+
+0x8E63247C = ~z~I guess we'll just stand here then.
+
+0x8F2CE0A5 = ~z~For Christ's sake, take the money. What else do you want from us?
+
+0x9B959848 = ~z~There's a gambling den upstairs, third floor. The door at the end of the hallway.
+
+0x9C6AC08B = ~z~And I thought it was awkward with my ex wife.
+
+0x9C912D7D = ~z~I won't breathe a word to no one.
+
+0x9E473F8F = ~z~Alright, I'll open the damn safe!
+
+0x17EE5A2B = ~z~Goddammit, Jim, just let him in the safe!
+
+0x21C663DC = ~z~Why all the security? What the hell's going on back here?
+
+0x21E8FE76 = ~z~Let's go in and relax, then. Go on, move.
+
+0x24F0F5B6 = ~z~I will shoot you dead right there, if you don't tell me where the rest of the money is.
+
+0x25B80F27 = ~z~You keep your mouth shut!
+
+0x32F148CB = ~z~All that commotion, I wouldn't hang around, sir.
+
+0x37C49ED6 = ~z~Being cooped up all day just like a canary.
+
+0x37FDE5DD = ~z~What do you want?
+
+0x38ABC613 = ~z~Get your hands up.
+
+0x40D0B645 = ~z~Stay right there and I may just forget about you.
+
+0x43C5C0C3 = ~z~The rest? No, everything was out there on the table.
+
+0x44C1F16B = ~z~I ain't a patient man. Where's the rest of the money?
+
+0x45AF18E9 = ~z~There's more money in here somewhere, it stinks of it.
+
+0x45D5C36F = ~z~Okay, okay, take it easy. A little poker game, that's all.
+
+0x46E8639B = ~z~Will you please come out of there? That area's private.
+
+0x47EE2B9E = ~z~I came all the way up here, and I'm not leaving without something.
+
+0x60AA7AF2 = ~z~Why all the security? What the hells going on back here?
+
+0x65AB3FB2 = ~z~~sl:0.0:2.2~Okay, okay, take it easy.~sl:1.9~A little poker game, that's all.
+
+0x68ACA7C1 = ~z~Oh God, please go. We won't tell a soul you were here, I swear on my life...
+
+0x68FBD450 = ~z~I won't breathe a word to no one.
+
+0x72DB1E4B = ~z~Relax! I'm not doing anything.
+
+0x79C6D536 = ~z~Jim, open the safe for him now or we're next.
+
+0x82B79D0C = ~z~Don't try anything funny, and this won't get any worse.
+
+0x83D01405 = ~z~Hey! What the hell's going on?
+
+0x122CAB20 = ~z~Jesus! No, please! I've told you all I know!
+
+0x175B9FC0 = ~z~I just do what I'm told, I don't ask too many questions.
+
+0x184AEABE = ~z~Why all the security? What's going on back here?
+
+0x224EA262 = ~z~Hey calm down, my mistake. I thought this was an open game.
+
+0x257D7BA7 = ~z~If you're lying to me I'll kill each and every one of you.
+
+0x290D3CF3 = ~z~Move one muscle and your brains are all over the wall, you understand me?
+
+0x327ECCE5 = ~z~I swear, that's all we got!
+
+0x341EF4B6 = ~z~You won't get any trouble from me.
+
+0x417EB24A = ~z~You sure you alright?
+
+0x454ADA2A = ~z~Keep it together, you imbecile.
+
+0x458EEE06 = ~z~The police respond very quickly round here.
+
+0x514AC548 = ~z~Cough it up now, or you'll be coughing up your own blood.
+
+0x801F59F6 = ~z~You're a maniac!
+
+0x954FFBCF = ~z~
+
+0x961F1376 = ~z~I wanna see what you got behind that door back there. Now!
+
+0x1438F873 = ~z~Please, just take whatever's on the table and leave!
+
+0x1985B029 = ~z~Open up, it's me.
+
+0x2552E244 = ~z~I'm not moving from here, I promise.
+
+0x4142C63C = ~z~If I find out your fellers are holding out on me, it's going to end very badly for you.
+
+0x4644CF2F = ~z~Sorry, pal. This is invitation only.
+
+0x5634AD24 = ~z~Like I said, it's up on the third floor.
+
+0x6476B3D2 = ~z~If you're lying to me I'll kill each and every one of you.
+
+0x8078F54D = ~z~~sl:0.0:3.2~Just calm down... no shooting.~sl:1.3~They ain't paying me enough to care about this.
+
+0x9302C5B9 = ~z~Don't you try causing no trouble here. Leave right now!
+
+0x9941B4DB = ~z~Just calm down... no shooting. They ain't paying me enough to care about this.
+
+0x37148E78 = ~z~Look, nothing, honest. I'm just paid to guard the place.
+
+0x55272D50 = ~z~You're gonna get us killed, Jim, just tell him!
+
+0x308498CD = ~z~Alright you've got three seconds before you're a goddamn corpse. Three... two...
+
+0x581667F0 = ~z~Third floor upstairs, door at the end of the hallway.
+
+0x927169CA = ~z~No, just... came to get some fresh air.
+
+0x2184129D = ~z~I will shoot you dead right there, if you don't tell me where the rest of the money is.
+
+0x35280612 = ~z~Oh, you're leaving with something alright!
+
+0x43424128 = ~z~Nothing, just a back terrace where people go to relax and get away from everything.
+
+0x87071066 = ~z~Third floor upstairs, door at the end of the hallway.
+
+0xA37EC9FE = ~z~There's plenty more in that safe on the wall, but only he knows the combination.
+
+0xA69A3CC4 = ~z~Don't hurt me, please, they just pay me.
+
+0xA78D20CE = ~z~Okay, okay, okay, I'll stay right here, I promise.
+
+0xA41934E7 = ~z~Whatever's happening in there, you're on your own! I ain't being paid nearly enough!
+
+0xA97288F9 = ~z~Please, just leave us be. You got what you wanted.
+
+0xAA2FBF3A = ~z~Okay, okay, okay, I'll stay right here, I promise.
+
+0xAB5F10E8 = ~z~Nothing. I'm just paid to guard the place.
+
+0xAC22DA9D = ~z~Alright you've got three seconds before you're a goddamn corpse. Three... two...
+
+0xACE95F80 = ~z~I came all the way up here and I ain't leaving without something.
+
+0xAF1F0915 = ~z~Damnit...
+
+0xAFBEC72E = ~z~Sure thing, mister, right after I get my cut.
+
+0xB0C8E492 = ~z~Shut the hell up!
+
+0xB2C7CB7D = ~z~Hey, there's no need for that!
+
+0xB2C8ED47 = ~z~Okay, whatever you say.
+
+0xB7F5155A = ~z~What's going on back here?
+
+0xB963C47B = ~z~Move one muscle and your brains'll be all over this wall, you understand me?
+
+0xBA6F30DB = ~z~Oh my God.
+
+0xBBCD595F = ~z~For the love of God!
+
+0xBD547D00 = ~z~Okay, okay, take it easy. A little poker game, that's all.
+
+0xBF03D03F = ~z~Just take it and leave, please. We don't want any trouble.
+
+0xBF6741C6 = ~z~Dammit, please! I opened the safe, what else do you want?
+
+0xC05E1B50 = ~z~Stop, please! Okay, I'll open it!
+
+0xC0F9E7E1 = ~z~Oh no, please! Don't shoot!
+
+0xC1BBAE4E = ~z~You keep your mouth shut!
+
+0xC1CE80B8 = ~z~Again? Must be a slow day.
+
+0xC3CC18C8 = ~z~I can't get that thing open any more than you can.
+
+0xC3D67934 = ~z~Hey, what the hell's going on?
+
+0xC3DF3701 = ~z~Yes, never felt better. Why wouldn't I be?
+
+0xC7F5A358 = ~z~Keep those hands high in the air, mister.
+
+0xC79F398E = ~z~Alright, alright. I'm doing it!
+
+0xC82C6D4A = ~z~I don't want any trouble! Just do what you need to do.
+
+0xCB8C66E2 = ~z~Whoa there, take it easy!
+
+0xCB3822D8 = ~z~Watch out, he's trying to rob you!
+
+0xCBF2D27D = ~z~Hey, come on, I got money. What's the buy in?
+
+0xCC097858 = ~z~Why all the security? What the hell's going on back here?
+
+0xCF8A6412 = ~z~Don't try anything funny, and this won't get any worse.
+
+0xD00DFAD0 = ~z~Oh God no!
+
+0xD9C9AF1F = ~z~Like I told you, it's up on the third floor.
+
+0xD14D3591 = ~z~There's more money in here somewhere, it stinks of it.
+
+0xD23E2CB8 = ~z~You fellers have got more than this. Where's the rest?
+
+0xD2907217 = ~z~Alright, alright. I'm doing it!
+
+0xD3338419 = ~z~Who are you?
+
+0xD4052525 = ~z~You know how it goes.
+
+0xDA5798B5 = ~z~I don't want any trouble! Just do what you need to do.
+
+0xDB369FEF = ~z~To guard the back alley? Don't lie to me, you son of a bitch.
+
+0xDDD41BED = ~z~Look, nothing, honest. I'm just paid to guard the place.
+
+0xDE029DB4 = ~z~Alright, alright. That's everything I got!
+
+0xDE6D67B1 = ~z~If I find out your fellers are holding out on me, it's going to end very badly for you.
+
+0xE3F632E7 = ~z~Keep your head or I'll put a goddamn bullet in it.
+
+0xE9E6E04B = ~z~Stay right there and I may just forget about you.
+
+0xE53BD897 = ~z~Keep your head or I'll put a goddamn bullet in it.
+
+0xE60F724B = ~z~This don't feel right. I warned you!
+
+0xE92A728C = ~z~For God's sake, please... that's all we got!
+
+0xE234FF01 = ~z~You ain't on the list. Leave now or we got a real problem.
+
+0xE441B205 = ~z~I just do what I'm told, I don't ask too many questions.
+
+0xE759DBF0 = ~z~You're one dumb bastard, ain't you?
+
+0xE9318A24 = ~z~Just calm down... no shooting. They ain't paying me enough to care about this.
+
+0xEAF3B2D8 = ~z~Give me a reason not to shoot you.
+
+0xEB4F5F2D = ~z~Well it ain't, so get out.
+
+0xEB71B4A9 = ~z~Well it ain't, so get out.
+
+0xEB907BC6 = ~z~Sure thing, mister, right after I get my cut.
+
+0xEC243C4E = ~z~Give me a reason not to shoot you.
+
+0xEDB66E63 = ~z~It's just a friendly game... we don't play for big stakes.
+
+0xEE44A183 = ~z~Where else would I be?
+
+0xEE55B04B = ~z~The-there you go, it's all yours. Just-just stay calm, okay?
+
+0xF3E5F5EB = ~z~Oh no... please, I don't want to die!
+
+0xF5E60614 = ~z~I was opening it for you, you lunatic! That's it, I can't do this! I'm off.
+
+0xF5F6D8E3 = ~z~Dammit, what else do you want? You got your money, now get the hell out of here!
+
+0xF8B62AB5 = ~z~You fellers have got more than this. Where's the rest?
+
+0xF9F486E3 = ~z~Jim... calm the hell down.
+
+0xF3183DF3 = ~z~Who let you up here anyway?
+
+0xFA451D71 = ~z~Nothing. I'm just paid to guard the place.
+
+0xFAD32D67 = ~z~I won't breathe a word to no one.
+
+0xFBC15EB9 = ~z~Let's go in and relax, then. Go on, move.
+
+0xFEFAB9D4 = ~z~Hey, what the hell's going on?
+

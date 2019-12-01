@@ -1,0 +1,20 @@
+0x0015D53A = ~z~I am sure I shall soon enough.
+
+0x7B5581BA = ~z~Whatever you say, miss.
+
+0x42B89081 = ~z~You're a no-good degenerate liar. A liar. You're exactly what you say you're not, you hear?
+
+0x6653D7B7 = ~z~Is that so, miss?
+
+0x9990BE30 = ~z~I hope you drop down dead!
+
+0x74947438 = ~z~You don't fool me, Dutch.
+
+0xA1274D5D = ~z~Yes, that's so. You don't fool me one little bit.
+
+0xAD1F654D = ~z~Oh... I've got a lot more to say to you.
+
+0xD51F2F78 = ~z~Oh, get lost, will ya? You're as creepy as he is.
+
+0xDD10C513 = ~z~Perhaps some other time?
+

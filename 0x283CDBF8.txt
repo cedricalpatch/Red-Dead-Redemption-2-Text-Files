@@ -1,0 +1,36 @@
+0x7D21CC7C = ~z~That don't surprise me...
+
+0x8B4568C3 = ~z~It's a family name, actually.
+
+0x45F6DE27 = ~z~But I can see why you stick with Bill, Marion.
+
+0x72A0B2EB = ~z~
+
+0x88DC5F42 = ~z~That so?
+
+0x929A72BE = ~z~It ain't William... Bill comes from Williamson.
+
+0x4372D47C = ~z~Micah.
+
+0x5979052B = ~z~I know.
+
+0x6449961D = ~z~William.
+
+0x22231680 = ~z~Don't worry, your secret is safe with me... Marion.
+
+0xA27C9735 = ~z~Oh, they must have hated you before they even met you... explains a lot.
+
+0xB0B933AE = ~z~My oh my... what a nasty momma and daddy you must have had.
+
+0xB7363BF5 = ~z~Sure.
+
+0xBF864C95 = ~z~Guess I never put too much thought in it before.
+
+0xC96F6067 = ~z~So your first name comes from your surname... ain't that odd.
+
+0xD42CFA95 = ~z~Marion.
+
+0xE7DD21F5 = ~z~Marion?
+
+0xEE6A2A60 = ~z~What's your real first name then?
+

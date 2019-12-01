@@ -1,0 +1,118 @@
+0x012ABDCD = Conduction device
+
+0x05ACF2DD = Hold ~INPUT_AIM~ and use ~INPUT_LOOK_LR~ to aim the detector. The coil inside the detector will flash quickly when aimed in the direction of an electrostatic field.
+
+0x08E59B44 = Destroy the ~e~sailboats~s~ while avoiding the ~e~mines~s~
+
+0x0A220406 = Right switch
+
+0x0FC7EC16 = Warship
+
+0x0FE3F0FB = Reverse
+
+0x1BCE355D = Switching array
+
+0x1F105F72 = Aim Detector
+
+0x2C6CA55F = Marko Dragic
+
+0x2FB69AE0 = Tower
+
+0x3E261494 = The ~e~mines~s~ will be attracted towards the boat if it gets too close.
+
+0x6FB2ABEA = Mine
+
+0x7D5D8446 = Destroy the ~e~warships~s~ while avoiding the ~e~mines~s~
+
+0x7D3338CC = The equipment was damaged.
+
+0x8C8DD781 = The conduction device was damaged.
+
+0x8FE41BB3 = Place a conductor in the ~o~electrostatic field~s~
+
+0x9E6FAF54 = Place conductor
+
+0x10D3A966 = Electric Lantern
+
+0x42A63E72 = Operate
+
+0x43B87415 = You wrecked Marko's rowboat.~s~
+
+0x43CD4601 = The experiment was abandoned.
+
+0x44B353F3 = Climb the tower and operate the ~o~switching array~s~
+
+0x45D10792 = Return to ~o~Marko Dragic~s~
+
+0x96C17A03 = Dock
+
+0x212D938E = Change camera
+
+0x356CD77E = You attacked the assistants.~s~
+
+0x428E5A7F = Middle switch
+
+0x450EE52D = Antagonize
+
+0x492AE370 = Steer
+
+0x531CDF44 = Aim
+
+0x539BE59E = Marko Dragic has died.
+
+0x731C52DC = A sailboat reached the other side.~s~
+
+0x966C197B = The boat was destroyed.~s~
+
+0x7404E3F9 = Aim the detector to find an electrostatic field~s~
+
+0x9615A846 = Hold ~INPUT_AIM~ and use ~INPUT_LOOK_LR~ to aim the detector to find an electrostatic field
+
+0x9879EAA5 = The boat was beached.~s~
+
+0x21226E42 = Search the ~o~area~s~ for the electrostatic field~s~
+
+0x33654DB6 = Left switch
+
+0x46215D75 = Accelerate
+
+0x353894C7 = Return to the experiment area.
+
+0x5488762E = Greet
+
+0x6088854E = Leave
+
+0x98127188 = Stranger
+
+0xA1A9BF3E = Aim the detector to find another electrostatic field~s~
+
+0xA73B9B97 = The detector can be equipped from the Item Wheel, hold ~INPUT_OPEN_WHEEL_MENU~ ~s~to open the Weapon Wheel, then press ~INPUT_SELECT_NEXT_WHEEL~ ~s~to view the Item Wheel.
+
+0xA85ABD58 = The demonstration was abandoned.~s~
+
+0xAFC04C23 = You attacked Marko Dragic.~s~
+
+0xBCAD65FD = You attacked the crowd.~s~
+
+0xC75A0A9E = Toggle the switches until all the lights turn on
+
+0xC640DDB2 = Fire
+
+0xCAF2D14E = Electrostatic field
+
+0xD1A0A103 = Search area
+
+0xD71DAA39 = Operate switch
+
+0xDD2875C5 = Laboratory
+
+0xF82FC75D = Select switch
+
+0xF2726E72 = Return the boat to the ~o~dock~s~
+
+0xF358629A = Climb the ~o~tower~s~ and operate the switching array
+
+0xF7665650 = The coil will glow brighter as you get closer to an electrostatic field.
+
+0xFFABA275 = Sailboat
+

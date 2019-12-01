@@ -1,0 +1,28 @@
+0x07CCCD6F = ~z~Maybe one of us will teach you.
+
+0x2B5A948A = ~z~Well, I could. If I chose to. I've just...
+
+0x3A5A3289 = ~z~not chosen to.
+
+0x5D1CF80E = ~z~But you can.
+
+0x7F55E017 = ~z~Still reading?
+
+0x16E56BA0 = ~z~
+
+0x157C8C62 = ~z~No... never fancied it.
+
+0x711F43AA = ~z~I've taken a break... but yes, I plan to keep reading.
+
+0x958B0C81 = ~z~It's amazing. It's the reason worth living, it-
+
+0xA3D8A91C = ~z~Is it-uh... fun?
+
+0xCA5AF620 = ~z~So the only thing that makes you happy... is being in your head somewhere else?
+
+0xD8959295 = ~z~it's the only thing that makes me happy.
+
+0xE24F2608 = ~z~You never read?
+
+0xF091C28D = ~z~I suppose I never thought of it quite like that.
+

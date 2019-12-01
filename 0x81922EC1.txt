@@ -1,0 +1,14 @@
+0x35E6CF29 = ~z~All of you, listen to me... this camp doesn't run on air.
+
+0x63A8AAAC = ~z~Do some work, get us some money, find us some food.
+
+0x88C8F4EC = ~z~Get up, you. Off, off, off.
+
+0x781B5391 = ~z~
+
+0x3723D1A3 = ~z~We may not be about to freeze to death, but at this rate we will starve
+
+0xEFC9C2E8 = ~z~Come on! We've been at this for too long to live like this.
+
+0xF1B15722 = ~z~
+

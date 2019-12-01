@@ -1,0 +1,56 @@
+0x080C45FD = ~z~Folk reckon luck runs bad in this town and the superstitious among them reckon that ain't no coincidence.
+
+0x0F60F2A3 = ~z~You been in town long?
+
+0x1FE3B25B = ~z~I have dreams some nights of going over to that auction yard and gunning them all down.
+
+0x4F52D2C3 = ~z~This here used to be the only and best saloon in Valentine...
+
+0x5F331B35 = ~z~Hey, ain't you that feller who beat down Tommy in the street?
+
+0x12A117D6 = ~z~Anyways... enough of that.
+
+0x41E84FD3 = ~z~No skin off my nose, partner. Never really liked that big bastard anyway.
+
+0x50DAEDB8 = ~z~Mind you, he's gone kinda slow ever since.
+
+0x58F0FDE8 = ~z~Well, anyways... didn't mean to keep you from your drink.
+
+0x61C877AE = ~z~till they opened that modern monstrosity, Smithfields, down the way.
+
+0x93F8C1C0 = ~z~You here for the auction then?
+
+0x940CDC36 = ~z~Nah, I'm just fine here, thank you very much.
+
+0x4711C41F = ~z~But what do you care anyway, huh?
+
+0x226590CE = ~z~You got a hell of a punch on you.
+
+0x7877250B = ~z~This town don't need two saloons... but, you know, them fancy Dans can keep it.
+
+0xA78E6CC1 = ~z~Because my advice would be to steer well clear of the feller who runs that auction yard.
+
+0xAC0ECAAF = ~z~I swear, if I never see a sheep again, it'll be too soon. Bleating little shits.
+
+0xAC7D4D01 = ~z~Don't often see many new faces in here.
+
+0xB941A869 = ~z~Me, I reckon a man makes his own luck. Ain't no church nor curse gonna change it.
+
+0xBB486922 = ~z~you won't get much more in Valentine... except shit on your shoes and a punch in the face.
+
+0xBFDB1D1A = ~z~Anyways, I can see you ain't interested in any of this, so... I'll just shut my mouth...
+
+0xCAA007D1 = ~z~Well, if you ain't here for the sheep,
+
+0xCB5FCADF = ~z~Don't want 'em drinking anywhere near me.
+
+0xCE8EBA81 = ~z~And does Sheriff Malloy do anything about it? Of course he don't... they're all in it together.
+
+0xDD40D7E5 = ~z~Crooked as a dog's hind leg. More of a friend to the rustlers than any working man.
+
+0xDEBB735C = ~z~Well, you probably heard everyone talking about the 'curse' here? Maybe not...
+
+0xE3189400 = ~z~So you here for the auction?
+
+0xEAFB735A = ~z~Morris Peyton's his name.
+

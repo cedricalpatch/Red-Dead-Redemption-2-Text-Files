@@ -1,0 +1,574 @@
+0x0065B9D7 = You can check, bet, or fold. If you want to bet aggressively you can wager all your chips, known as "all-in".
+
+0x00B9B9E7 = It's Arthur's turn to bet. Hold ~INPUT_MINIGAME_POKER_YOUR_CARDS~ to view Arthur's hole-cards.
+
+0x00CA32C6 = The fourth community card is known as the "turn".
+
+0x00FD9D70 = Skip
+
+0x018AD951 = ~1$~, Folded
+
+0x03CA5648 = At the start of the round, each player is dealt two cards. More cards will be dealt later.
+
+0x03D29136 = Check
+
+0x04584576 = Call (~1$~)
+
+0x06A3D84C = ~1$~, Your turn...
+
+0x08790504 = kings
+
+0x098286B2 = Dealer
+
+0x0A8F2CB0 = Bet
+
+0x0B62D4F6 = an ~1~ high straight
+
+0x0BC4AE00 = One
+
+0x0CF41592 = ~1p~ left the game
+
+0x0E32711F = 10
+
+0x1AF5E9FD = ~1p~ and ~2p~
+
+0x1B2159E9 = ~1p~ joined the game
+
+0x1C00729C = The ace is a "scare card", if another player has made a pair of aces they will beat your pair of queens. You might consider betting low.
+
+0x1C2293EB = POKER HANDS
+
+0x1DFAE4CA = Isaac
+
+0x1EF0D9CF = ~1p~, wins ~2$~
+
+0x2A2C83FB = jacks
+
+0x2B1A44D1 = Your turn...
+
+0x2B9C4C87 = Folded
+
+0x2BC60064 = Claude
+
+0x2BD16285 = Bet (Max Bet)
+
+0x2E1FE55D = Bet (~1$~)
+
+0x3BDE1B7F = Cancel
+
+0x4B603F98 = Floyd
+
+0x4B912C9C = ~1$~, Ante
+
+0x4BE04C89 = Pot
+
+0x4CF8BB4B = ~1$~, All-in
+
+0x4DD5F1A5 =  A kicker decided the winner.
+
+0x4E95D285 = Checked
+
+0x4FD64744 = Buy-in (~1$~)
+
+0x5A786201 = The hand will start when enough players have bought in.
+
+0x5B16E4F7 = an ~1~ high ~2~ straight flush
+
+0x5B320F8E = 4
+
+0x5C9EB80E = Raise (~1$~)
+
+0x5D9C54EB = Pair of ~1~
+
+0x5E4088D1 = Check
+
+0x5E643103 = Arthur
+
+0x5F002949 = Raise
+
+0x6AC06E32 = king
+
+0x6BF36331 = 10s
+
+0x6C36375B = ~1~ high
+
+0x7B79501C = 5
+
+0x7C401132 = 5s
+
+0x7CC04102 = ~1p~, ~2p~, ~3p~, ~4p~ and ~5p~ have bust out.
+
+0x7D2C43F8 = Roy
+
+0x7E61E6BD = ~1~/~2~
+
+0x7EB62D30 = Desmond Blythe
+
+0x7EBEE99D = Opponent
+
+0x7F05A4C4 = Camera
+
+0x7F0BA706 = Harvey
+
+0x7F45985A = Players Bought In
+
+0x8D023170 = 3
+
+0x8DB4F493 = 6
+
+0x8E37C282 = Cheat
+
+0x8ED3E747 = Louis
+
+0x8F132400 = All-in (~1$~)
+
+0x8F408686 = Side pot
+
+0x8F694385 = ~1$~, Small blind (Ante)
+
+0x9B6034C2 = Queen
+
+0x9B308488 = STRAIGHT FLUSH
+
+0x9DCE1272 = ~1~ high ~2~ flush
+
+0x9E47CC48 = Jack
+
+0x9E826B87 = Vernon
+
+0x9EAB4DA2 = You split multiple pots with ~2p~.~3p~
+
+0x9F34D5D5 = 2
+
+0x10D61348 = Community cards
+
+0x10E4EADD = You won multiple pots with ~2p~.~3p~
+
+0x14E24512 = ROYAL FLUSH
+
+0x15E0C238 = Four
+
+0x15F8C6B8 = You won ~1p~ with ~2p~.~3p~
+
+0x17D9C86B = 7s
+
+0x22A42567 = Hold ~INPUT_MINIGAME_POKER_SKIP~ to focus on Strauss.
+
+0x22C413A8 = Take your turn
+
+0x22D73CEA = Fold
+
+0x23B7BFBA = Muck
+
+0x23F35F27 = It's your turn.
+
+0x25BA8B0E = FULL HOUSE
+
+0x25CCD74B = two pair ~1~ and ~2~
+
+0x30A4FD23 = 4th
+
+0x35DD3523 = Lewis
+
+0x39BD9D73 = STRAIGHT
+
+0x41D89C0F = Perry Eastep
+
+0x42C0FE9C = Waiting for buy-in...
+
+0x42E35EF1 = 9
+
+0x50AE4D91 = Four ~1~
+
+0x51AEA484 = three ~1~
+
+0x53DCF137 = queens
+
+0x58C46AA3 = It's Arthur's turn to bet. Hold ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~ to view the community cards.
+
+0x58FCDAD1 = Bert
+
+0x61D727B7 = Fifth side pot
+
+0x66B3FF04 = Ace
+
+0x66D5F683 = Alvin
+
+0x67E6D86D = ~1$~, Bet
+
+0x69FB310E = Hands
+
+0x73A60E05 = Call (Max Bet)
+
+0x82F6B023 = an ~1~ high ~2~ flush
+
+0x83B11ECE = 4
+
+0x83E58440 = Awarding ~1p~.
+
+0x85BE4D21 = When players have gone all-in and no one else can act, the players reveal their hole cards, and the remaining community cards are dealt.
+
+0x87A12DB7 = Multiple
+
+0x89E2AC19 = Call ~1$~
+
+0x92CB5C54 = Hold ~INPUT_MINIGAME_QUIT~ at any time to leave the game.
+
+0x93C54AC8 = Auto Bets
+
+0x93EA3D8D = Strauss
+
+0x95FB5E12 = ace
+
+0x97B2703B = You split ~1p~ with ~2p~.~3p~
+
+0x103C4541 = All-in
+
+0x108CB8E6 = club
+
+0x131AF462 = 6th
+
+0x147D7D78 = four ~1~
+
+0x173A5FB2 = When all players have matched the bet, three community cards are dealt, known as the "flop".
+
+0x177B386F = Raise (Max Bet)
+
+0x189DFBAF = Hand starts in
+
+0x245F5AFD = Main pot
+
+0x259CB93C = Auto Bets (Fold)
+
+0x363B0F82 = Swap left hole card
+
+0x367C347B = ~1p~, ~2p~, ~3p~, ~4p~, ~5p~ and ~6p~ have bust out.
+
+0x396E3C79 = Henry
+
+0x412B6DA0 = HIGH CARD
+
+0x507B6105 = It's Arthur's turn to bet. Hold ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~ to view the community cards.
+
+0x540AF423 = Owen Gillis
+
+0x544F260B = Fold
+
+0x655C7A41 = You
+
+0x693D53C7 = Auto Bets (Check)
+
+0x722F154D = 3rd
+
+0x767D6940 = ~1p~ won ~2p~, and split ~3p~.~4p~
+
+0x811F19B2 = 8
+
+0x816A4AF8 = Fold
+
+0x817F4C6A = Earl
+
+0x881A3FE0 = ~1~
+
+0x893CEB3C = the ~1p~ side pot
+
+0x913D078F = You have ~1p~.
+
+0x949D9213 = No player fully matched your bet, the difference of ~1$~ has been returned to you.
+
+0x973ADEAD = Your cards
+
+0x986B8273 = Theodore Dixon
+
+0x1056C982 = Howard
+
+0x1133FB66 = Hold ~INPUT_MINIGAME_POKER_YOUR_CARDS~ to view your hole cards.
+
+0x1190F1D5 = The players must bet on who has the best hand, or bluff with a weaker one.
+
+0x1287D641 = After the fifth community card, known as the "river" has been dealt, there is a final round of betting.
+
+0x2158E69E = Check (~1$~)
+
+0x2846FECF = Max Bet
+
+0x3094BA54 = 8
+
+0x3511E86E = Seat ~1~
+
+0x5404BC39 = ~1$~, ~2p~'s turn...
+
+0x5517B691 = 1st
+
+0x6283AAF9 = ~1~ high ~2~ straight flush
+
+0x6434C101 = main
+
+0x7029A7D5 = ~1p~ and ~2p~ have bust out.
+
+0x7258FC5D = FOUR OF A KIND
+
+0x7326AFB9 = Charlie
+
+0x8541BC2B = ~1p~ players split ~2p~.~3p~
+
+0x9137B83B = You have no chips, so are sitting out. Buy-in before the next hand to play.
+
+0x9274BC5D = 7
+
+0x13131A17 = Auto Bets (Call Any)
+
+0x29776BA6 = 8s
+
+0x38547F5B = The house rakes ~1$~.
+
+0x38648BC5 = 3 OF A KIND
+
+0x40420B88 = TWO PAIR
+
+0x56045CCE = You split ~1p~.~2p~
+
+0x65019ED9 = the side pot
+
+0x70390F8C = ~1$~, Max Bet
+
+0x73002FA0 = William
+
+0x81243CEE = It's Arthur's turn to bet. Hold ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~ to view the community cards.
+
+0x83864E50 = ~1$~
+
+0x93966EAE = ~1p~, ~2p~, ~3p~ and ~4p~ have bust out.
+
+0x99209EF8 = Folded
+
+0x233240B6 = the pot
+
+0x440351A3 = Eugene
+
+0x528722E7 = You cannot afford the minimum buy-in of ~1$~.
+
+0x1971158F = ~1p~ bought in for ~2$~
+
+0x4950416A = a ~1~ high ~2~ straight flush
+
+0x5085100F = ~1p~ won ~2p~.~3p~
+
+0x6960705D = ~1~ high straight
+
+0x20161957 = 7
+
+0x25886187 = Three
+
+0x77279881 = a ~1~ high ~2~ flush
+
+0xA2A9EE3E = Sidney
+
+0xA6FED4A5 = All-in
+
+0xA7E8E830 = a royal flush
+
+0xA38A5E88 = 6
+
+0xA55A7ACD = ~1p~ won ~2p~ with ~3p~.~4p~
+
+0xA2167C69 = Amount
+
+0xA514829E = You can "call" to match the current bet, or "raise" it higher using ~INPUT_MINIGAME_CHANGE_BET_AXIS_Y~. If you raise the bet, the other players must match it, or conceed. If you don't want to match the current bet, you can "fold" to conceed.
+
+0xA8165417 = No player fully matched ~n~~1p~'s bet, the difference of ~2$~ has been returned.
+
+0xAA957589 = ~1$~, Checked
+
+0xABD98089 = Cecil
+
+0xAC577BA5 = Swap right hole card
+
+0xADBB72EA = 5
+
+0xADF02DC4 = queen
+
+0xAE51144E = Sleeve
+
+0xAEB657D0 = aces
+
+0xAEBAE220 = Royal flush
+
+0xB1F14568 = PAIR
+
+0xB2AE4271 = ~1$~, Called
+
+0xB3D5805C = 9s
+
+0xB5EA0162 = You have joined a game in progress. You will be dealt in at the start of the next hand.
+
+0xB7E041D2 = a pair of ~1~
+
+0xB8D6A61C = the ~1p~ side pots
+
+0xB9E4F776 = spade
+
+0xB57AA82F = Luther
+
+0xB72B490E = No player fully matched ~1p~'s bet, the difference of ~2$~ has been returned.
+
+0xB870EE12 = ~1p~ won ~2p~.~3p~
+
+0xBA76FC9F = You won ~1p~, and split ~2p~.~3p~
+
+0xBB281D41 = Third side pot
+
+0xBB998634 = You won ~1p~.~2p~
+
+0xBBBDB162 = 2nd
+
+0xBD17BA3C = No bet has been made yet. You can "check" to bet nothing, place a bet, or fold.
+
+0xBF69D5AF = ~1~ high
+
+0xC041988B = You stole the pot.
+
+0xC0994CEF = the largest pot
+
+0xC0AB1031 = ~1$~, Big blind
+
+0xC2D6B4D4 = Check/Fold
+
+0xC3B3D106 = Alfred
+
+0xC3CBBCBB = Call
+
+0xC3DE9E35 = Six
+
+0xC3E64978 = Waiting to reveal...
+
+0xC4B3B7F5 = Emmett
+
+0xC6CC2649 = 2s
+
+0xC8FA6B1D = 3
+
+0xC18DC176 = Mucked
+
+0xC22EC0AB = Waiting for next hand...
+
+0xC23DAAED = Call Any
+
+0xC33CDFA2 = 2
+
+0xC98CFF1F = ~1$~, ~2p~
+
+0xC53682E6 = ~1$~, Raised
+
+0xC2663373 = jack
+
+0xCC001165 = King
+
+0xCCE381AE = ~1p~ stole the pot.
+
+0xCD3D4700 = FLUSH
+
+0xCD50AABB = Second side pot
+
+0xCDB61577 = the main pot
+
+0xCE94053D = Another player has raised since Arthur's turn. You must call the new bet, or raise, to stay in.
+
+0xCED75DBB = Arthur has made a pair, by combining the Queen in his hand, with the Queen in the community cards. This is a reasonable hand to bet with.
+
+0xD05C6F69 = As the round progresses, five shared "community" cards will be dealt to the table.
+
+0xD2C3231D = ~1p~, ~2p~
+
+0xD3BB3DEE = Five
+
+0xD5DF3244 = You have joined a game in progress. Buy-in to join the next hand.
+
+0xD34DA07D = You can buy-in to play again, or leave the table.
+
+0xD9537A27 = ~1p~, ~2p~ and ~3p~ have bust out.
+
+0xD976052C = Max Bet (~1$~)
+
+0xD6757689 = Frank
+
+0xDA5661EE = Hold ~INPUT_MINIGAME_POKER_COMMUNITY_CARDS~ to view the community cards.
+
+0xDB615D25 = Auto Bets (Check/Fold)
+
+0xDB795759 = diamond
+
+0xDDAD034E = ~1p~ has bust out.
+
+0xDDBC0A2C = Use any combination of your cards and the community cards, to make the strongest five-card hand possible.
+
+0xE0646CBB = ~1p~ split ~2p~.~3p~
+
+0xE0BEF00B = Morris
+
+0xE1A65BFD = 3s
+
+0xE4B3DE56 = John
+
+0xE6AB601B = ~1p~
+
+0xE7F0E754 = 9
+
+0xE46C952A = You have bust out.
+
+0xE63F3E9D = Leaving
+
+0xE762229F = Sixth side pot
+
+0xEA1C00F6 = Wins ~1$~
+
+0xEAB27147 = 5th
+
+0xECB4CF6E = You won multiple pots, splitting some of them, with ~1p~.~2p~
+
+0xED713B1D = Two pair ~1~ and ~2~
+
+0xEDB49475 = By also matching the ten in the community cards, Arthur has made two pairs, Queens and Tens. A decent hand and a good basis to bet confidently.
+
+0xEFF81BAB = Three ~1~
+
+0xF08D13E3 = ~1p~ players split ~2p~ with ~3p~.~4p~
+
+0xF4AE9232 = Norman
+
+0xF4CA3D18 = Buy-in to join the next hand.
+
+0xF4E28B33 = Auto Bet
+
+0xF23E1F18 = You can check, bet, or fold.
+
+0xF27FFDB0 = 4s
+
+0xF50F0071 = Fourth side pot
+
+0xF111F4A8 = heart
+
+0xF828FDBB = Fullhouse ~1~ over ~2~
+
+0xF2781D64 = Arthur has a Queen and a Ten, a promising starting hand.
+
+0xF2882295 = ~1$~, Small blind
+
+0xF8138427 = You bought in for ~1$~
+
+0xFA4A2B13 = First side pot
+
+0xFAA60BC3 = Two
+
+0xFB7B4CA3 = Marvin
+
+0xFC31E9C6 = a fullhouse ~1~ over ~2~
+
+0xFD7A503F = 10
+
+0xFD9FB970 = a ~1~ high straight
+
+0xFDB0420F = ~1p~'s turn...
+
+0xFDF1949B = 6s
+

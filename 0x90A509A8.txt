@@ -1,0 +1,18 @@
+0x0D7E2740 = ~z~That's so great... hey, boy... hey, boy, what should we call him?
+
+0x5AA32B63 = ~z~Arthur... a dog, a dog!
+
+0x5B25C28E = ~z~Okay... hey, Cain... What did Cain do?
+
+0x223A50B8 = ~z~I don't know... he just wandered in... hi, my friend, hi.
+
+0x715FEF02 = ~z~Well he's a wanderer... he probably did something bad... Cain... his name is Cain.
+
+0x5415B46E = ~z~A real bad thing... so he never stopped wandering...
+
+0x38787D34 = ~z~Where did he come from?
+
+0xD10A2E55 = ~z~Here, boy... here boy... whose dog is this? Whose dog?
+
+0xDBDA43F5 = ~z~Well, then he's ours, I guess for now.
+

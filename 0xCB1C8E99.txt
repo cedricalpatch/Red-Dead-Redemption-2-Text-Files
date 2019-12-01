@@ -1,0 +1,202 @@
+0x07BED66F = ~z~No brawling this time, alright?
+
+0x082EE0C8 = ~z~Oh wait, you're that feller who had the fight with Tommy outside Smithfields?
+
+0x0A9C4EBB = ~z~And don't call me Lenny...
+
+0x0B17BF70 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+0x0E0761E5 = ~z~Of course, I didn't mean anything by it.
+
+0x2A66CE99 = ~z~Eh, well, y-you know. Local boy and all that...
+
+0x2C76C812 = ~z~It's just a cough.
+
+0x2CBC3F42 = ~z~Hey weren't you with those fellers in here before all that hell broke loose with Cornwall a while back?
+
+0x3AEB49FB = ~z~I've been better, but I'm okay.
+
+0x3CD6C375 = ~z~So you're helping Calloway track down his old rivals?
+
+0x3E29DB6F = ~z~Watch out for this one, he's trouble.
+
+0x3F26F6F0 = ~z~Yeah, a bit.
+
+0x3F261C8B = ~z~Alright, none of my business.
+
+0x4AA61889 = ~z~Likewise.
+
+0x4CA8ED76 = ~z~Alright, well let me know you need.
+
+0x4CF0B820 = ~z~You worry about your horses, not me.
+
+0x4FB55260 = ~z~You get around don't you?
+
+0x5BD4BD73 = ~z~Been some grippe going around here... and I just thought...
+
+0x5E7FF681 = ~z~Yeah, I don't remember too much.
+
+0x5F83F1FD = ~z~What are you poking around here for?
+
+0x5FF8CFA8 = ~z~I really don't need any more trouble...
+
+0x6D2069F7 = ~z~So, what is it you need? A bath perhaps?
+
+0x7B075BD7 = ~z~Cornwall? No, wasn't me...
+
+0x7B3BB78D = ~z~Yeah, that's right.
+
+0x7CA0FC7E = ~z~I'm in the prime of my life.
+
+0x7E4FCE14 = ~z~Oh hey there friend, you don't look so good.
+
+0x8C5746BB = ~z~Quite a commotion in town that day. You didn't have anything to do with that?
+
+0x8E0895DF = ~z~I just have to say, that fight you had with Tommy in the street, that was something else!
+
+0x9A0CE226 = ~z~Commotion? No, weren't me.
+
+0x9C7F5C42 = ~z~Yeah, did the job.
+
+0x9D860BD9 = ~z~Apologies for the old drunk.
+
+0x13BE7135 = ~z~Oh I did, did I?
+
+0x16C91DD4 = ~z~~sl:0.8:0.0~Last time you were in here, you hit this place like a tornado.
+
+0x51B5DCED = ~z~Well, look who it is. You and your friend must have had one hell of a hangover.
+
+0x63E60D95 = ~z~Oh I remember you... lost a bit of weight there, it looks like?
+
+0x68F61302 = ~z~More like Jim 'Drunk Old Man' Calloway.
+
+0x70B98F80 = ~z~Just wondered... after the Tommy fight and all... anyway.
+
+0x71BAA93E = ~z~You should get yourself over to Smithfields for a hot meal.
+
+0x82E39581 = ~z~Well, all behind us now, I suppose.
+
+0x85C41151 = ~z~Yes, why?
+
+0x90D4F226 = ~z~Fair enough. Neither's Tommy. Anyway, how can I help you today?
+
+0x121C935E = ~z~Some bad flu going around.
+
+0x211B0349 = ~z~Sure seems that way.
+
+0x247BB939 = ~z~Reckon you musta had a sore head in the morning, huh?
+
+0x456AB8E3 = ~z~Sure, I always enjoy whiskey... at the time.
+
+0x475AACF0 = ~z~Hey there, mister. You okay?
+
+0x493AA22C = ~z~I didn't come to make any... I was just protecting a lady.
+
+0x688EA292 = ~z~Yeah, I been better.
+
+0x730DC6E4 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+0x2165A1E7 = ~z~Becoming quite the regular face round here, ain't you?
+
+0x3953E2E9 = ~z~Just... trying to put that one behind me.
+
+0x37301C6E = ~z~Did you and the old feller enjoy that whiskey?
+
+0x274251C2 = ~z~Right...
+
+0x3990915C = ~z~You don't look so good.
+
+0x33882827 = ~z~Hey, weren't you the one in here talking to that feller with Jim 'Boy' Calloway?
+
+0x88207609 = ~z~Alright, guess I must be mistaken.
+
+0xA48E199C = ~z~I ain't.
+
+0xA84D73DE = ~z~So how did that sniper rifle work out for you?
+
+0xA996D8F6 = ~z~you know what, never mind. What can I do for you?
+
+0xA3548C81 = ~z~So how can I help you today?
+
+0xABC4A856 = ~z~He's harmless really.
+
+0xAFA58899 = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+0xAFE0B139 = ~z~Well Doc Calloway's just down the street there.
+
+0xB4C0BA01 = ~z~People are still talking about that fight.
+
+0xB7F5F5B4 = ~z~You alright there, sir?
+
+0xB9EAC4A2 = ~z~Just ignore him.
+
+0xB59B8E8A = ~z~You could call it that.
+
+0xBBBE8736 = ~z~Yes it is, last time I checked.
+
+0xBDA86B86 = ~z~I'm fine, don't you worry about me.
+
+0xBF71A236 = ~z~Hunting trip?
+
+0xC0E58583 = ~z~From what?
+
+0xC3B00B14 = ~z~Yeah... that's all a bit hazy.
+
+0xC9E9238B = ~z~Oh it's, er, you.
+
+0xC84A6161 = ~z~Sorry about him.
+
+0xC71287F2 = ~z~I never seen him lose to nobody.
+
+0xC1170235 = ~z~Well, you've come to the right place. What are the symptoms?
+
+0xD4D9237F = ~z~I thought I heard you cheering him on?
+
+0xD8E72A72 = ~z~Well, hell partner. You look like you've dropped some weight there?
+
+0xD341A68A = ~z~Oh dear, look at you.
+
+0xD566D41B = ~z~I really can't afford to get sick again this month.
+
+0xD89234D8 = ~z~Well, these things happen...
+
+0xD98693DC = ~z~Oh dear, have you come down with the flu as well, sir?
+
+0xE5AA43F8 = ~z~Maybe... thanks.
+
+0xE5F1CBEA = ~z~Okay, I'm not one to push. You just let me know what you need.
+
+0xE8F12608 = ~z~Hell, mister, you look like you've been all whiskey and no stew. You alright?
+
+0xE32F69B1 = ~z~Okay, I won't ask.
+
+0xE425CB8A = ~z~You look like hell, mister.
+
+0xEA661E91 = ~z~Me? No, you must have heard that wrong.
+
+0xEDCF9522 = ~z~Well maybe take it easy this time, huh?
+
+0xF1E0D2FF = ~z~You, er, come down with something there, partner?
+
+0xF5A1DA69 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0xF5E6EF81 = ~z~You and that colored boy, I've rarely seen a pair so roostered.
+
+0xF5EC32CA = ~z~I'm on my best behavior.
+
+0xF9DE1CFD = ~z~Why don't you just do your job?
+
+0xF9E54435 = ~z~Yep.
+
+0xF19F66F6 = ~z~So you recovered?
+
+0xF738E715 = ~z~Might want to pass by Doc Calloway while you're in town.
+
+0xF746CF5C = ~z~Flu? No, what are you talking about?
+
+0xF844AA0C = ~z~Yep, that's the plan.
+
+0xF6356C71 = ~z~I ain't here for no examination or discussion. I already seen a doctor.
+
+0xFFB9C54A = ~z~If I wanted a doctor, I'd have gone across the street.
+

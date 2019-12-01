@@ -1,0 +1,60 @@
+0x0053E247 = ~z~Then came a rain of bullets, my brothers and I fled,~n~~m~Then came a rain of bullets, my brothers and I fled,
+
+0x0A35F523 = ~z~A drinking of good whiskey to pass the time away!~n~~m~A drinking of good whiskey to pass the time away!
+
+0x2CD13C99 = ~z~Good one! Good one!
+
+0x3CE1DB62 = ~z~So now I sit in jail to settle accounts and pay the cost~n~~m~So now I sit in jail to settle accounts and pay the cost
+
+0x4BBC7917 = ~z~'Now Jack if you undertake the job you sure will curse the day!'~n~~m~'Now Jack if you undertake the job you sure will curse the day!'
+
+0x5D771C8C = ~z~But I stationed out my pickets, up to the bank did go,
+
+0x6A9136C0 = ~z~And there upon the counter I struck my fatal blow.
+
+0x7C75A295 = ~z~Robbed him of his money and bid him go his way,
+
+0x7E615D78 = ~z~Across the Nebraska prairies the Miller boys we did meet,
+
+0x8EE6C777 = ~z~Of a California miner who unto us befell,
+
+0x24CD2A51 = ~z~A Central Union Railway train was the next we did surprise,
+
+0x79ECD577 = ~z~Just hand us all the money, and make no further delay,~n~~m~Just hand us all the money, and make no further delay,
+
+0x376B1885 = ~z~'Tis of a bold high robbery a story to you I'll tell,
+
+0x490A3B9F = ~z~For which I will be sorry of until my dying day!
+
+0x725F0E68 = ~z~Oh, I got one! "Jack Hall," d'you know Jack Hall?
+
+0x3707CEC6 = ~z~The crimes we done by our bloody hands bring tears into my eyes.
+
+0x4159E36A = ~z~The engineer man, the fireman killed, the conductor escaped alive,
+
+0x4965BC7A = ~z~For now I am a prisoner in the Stillwater Jail I lie!~n~~m~For now I am a prisoner in the Stillwater Jail I lie!
+
+0x881770E4 = ~z~Knives, guns, and revolvers, we all set down to play,
+
+0x6343273C = ~z~And then we rode toward Texas through dust and fierce heat,
+
+0x11798492 = ~z~But they just kept on coming, shooting us until we bled!~n~~m~But they just kept on coming, shooting us until we bled!
+
+0xB2364609 = ~z~Had my eye on the Northfield Bank when Brother Bob did say,
+
+0xBE195DCB = ~z~We tried a desperate game in life, we tried that game and lost!~n~~m~We tried a desperate game in life, we tried that game and lost!
+
+0xC534B412 = ~z~Robbing o' the North Field Bank the same I can't deny,
+
+0xC38267B5 = ~z~And now their bones lie molten beneath the Nebraska skies!~n~~m~And now their bones lie molten beneath the Nebraska skies!
+
+0xCFCCC942 = ~z~My crimes and depredations brought my friends to shame,
+
+0xDDD59C63 = ~z~Then we sat on horses, north westward we did go,
+
+0xE0936ACF = ~z~I am a band of highway men, Jack Hall is my name,
+
+0xE822B0FD = ~z~To godforsaken country, they call it Misadio!
+
+0xF6FECF9D = ~z~For we are the famous Hall Brothers, we spare no time to pray!~n~~m~For we are the famous Hall Brothers, we spare no time to pray!
+

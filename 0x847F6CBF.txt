@@ -1,0 +1,212 @@
+0x006B99E9 = ~z~careful.
+
+0x059EF67F = ~z~Come on, get him.
+
+0x06D9744A = ~z~Get outta here.
+
+0x06FC9ECB = ~z~
+
+0x081F8B15 = ~z~And you, boy...
+
+0x0A5BC4FA = ~z~Boss... boss, you need help?
+
+0x0E25961D = ~z~Plenty, you moron.
+
+0x0E77655C = ~z~Mr. Milton.
+
+0x1C6F32B0 = ~z~What choice did I have?
+
+0x2A37F9AB = ~z~~sl:0.8~Mr. Milton...
+
+0x2AB64F3A = ~z~Thank you.
+
+0x2BAE637F = ~z~You couldn't clean my boots.
+
+0x2F1CC97A = ~z~real funny.
+
+0x2FEDF0AD = ~z~
+
+0x3F580F85 = ~z~
+
+0x4CDD683B = ~z~Stop it!
+
+0x4F7C99CE = ~z~tell Mr. Geddes we called.
+
+0x5AE4C69E = ~z~
+
+0x5BE8D0E2 = ~z~Get outta here.
+
+0x6ADE5091 = ~z~We'll see you again.
+
+0x6C22B810 = ~z~He's tough, isn't he?
+
+0x6D26735D = ~z~Look at this tough guy.
+
+0x7CD1F478 = ~z~We'll be back.
+
+0x7ECC0478 = ~z~
+
+0x7EFD8A20 = ~z~I'm gonna smell like cow dung, boys.
+
+0x7FE43076 = ~z~~sl:0.0:1.0~Mr. Milton...~sl:1.2:1.2~Mr. Milton...~sl:1.0~get him!
+
+0x8BA29B75 = ~z~Oh heck...
+
+0x8CCCB24A = ~z~only thing he needs to decide, is what he's gonna lose before he sells.
+
+0x9BEF66F9 = ~z~Yeah?
+
+0x9C4CA3F0 = ~z~Said he had some problems...
+
+0x9C970199 = ~z~
+
+0x21AF5430 = ~z~
+
+0x21CB1C18 = ~z~We all get caught eventually, John, I guess the trick is to decide by who.
+
+0x23FA42CA = ~z~Pleasure to meet you both.
+
+0x24D080FD = ~z~That so?
+
+0x30B2E807 = ~z~
+
+0x38DCEB87 = ~z~Thank you, Mr. Milton.
+
+0x59B2BF8B = ~z~Geddes spends on women, saves on hands.
+
+0x61FB8C67 = ~z~Come on.
+
+0x65A175DB = ~z~Now, come on, mister...
+
+0x80DEE853 = ~z~Get off him.
+
+0x81DAE380 = ~z~Jim Milton, I knew you was a fighter.
+
+0x92E5BEE3 = ~z~Leave him alone.
+
+0x93B58735 = ~z~You got him, Mr. Milton.
+
+0x93F7C107 = ~z~You will be the first one we kill.
+
+0x94D67830 = ~z~Stop!
+
+0x288C37AF = ~z~He hit me first.
+
+0x364D91DF = ~z~Oh, kick his head in, boss!
+
+0x366FE7B5 = ~z~Welcome to Big Valley, Jim Milton.
+
+0x387B8A08 = ~z~Whoa.
+
+0x464F7335 = ~z~Well, how's your wife in a brawl?
+
+0x570C0BF5 = ~z~That boy can punch!
+
+0x604F067B = ~z~Oh he's licking you, boss.
+
+0x689F6213 = ~z~
+
+0x695DD95C = ~z~
+
+0x803B7A47 = ~z~Don't worry about it.
+
+0x886BDF5B = ~z~John... Jim, don't you dare!
+
+0x891DC996 = ~z~You know, boy, you'd look fine nailed up on that wall.
+
+0x902C2C7D = ~z~They didn't hire you 'cause you're tough... it's 'cause you're stupid.
+
+0x920A8F6C = ~z~with vermin.
+
+0x3891D7BA = ~z~Oh, you can fight boy. I'll give you that.
+
+0x4901BC9C = ~z~That's what I said.
+
+0x6288B069 = ~z~No, he's paying me to keep the place clean.
+
+0x6858ED23 = ~z~Teach that boy a lesson.
+
+0x7284DEDA = ~z~You stop acting like a goddamn storybook hero, will you?
+
+0x12743DFA = ~z~Oh, careful boys...
+
+0x73244CDE = ~z~Jim Milton, get off that man.
+
+0x83429F36 = ~z~~sl:0.2~I'm real frightened of you.
+
+0x147239B6 = ~z~
+
+0x704528FA = ~z~I couldn't stop them, Jim.
+
+0x969613BD = ~z~Quite a temper you got.
+
+0x33649162 = ~z~~sl:0.0:2.1:1~He don't like trespassers.
+
+0x36532402 = ~z~~sl:0.0:3.9:1~This is private property. Mr. Geddes don't like trespassers.
+
+0x42311066 = ~z~Oh dear...
+
+0x91132906 = ~z~
+
+0xA88EE9CE = ~z~Tell your friend, Mr. Geddes, he's gonna sell this place...
+
+0xA96ECCAD = ~z~Plenty.
+
+0xA76167DA = ~z~You wanna watch your mouth, boy.
+
+0xAA4B039C = ~z~
+
+0xAAAD23DD = ~z~Hey! Hey!
+
+0xAD40E6A6 = ~z~When we was the last time you had a bath?
+
+0xB49AD48C = ~z~to be tough for him, huh?
+
+0xB976A1F3 = ~z~Oh, boy.
+
+0xBC0308DD = ~z~
+
+0xBE6EC54C = ~z~
+
+0xCB68AFE4 = ~z~Oh, fancy pants Geddes paying you...
+
+0xCCA161B1 = ~z~Get that feller.
+
+0xCD44AB60 = ~z~
+
+0xCF3D194D = ~z~married to a shit shoveling farm hand.
+
+0xCF7619C3 = ~z~Leave my wife alone.
+
+0xD6BFDC85 = ~z~It's like that, huh?
+
+0xD220DB9F = ~z~Yes.
+
+0xD55315E8 = ~z~Oh, listen to this...
+
+0xD734350B = ~z~
+
+0xDBFC9E91 = ~z~Leave my wife alone.
+
+0xE9E13A5A = ~z~Oh, she's real pretty.
+
+0xE16CBDB0 = ~z~Well what you do wrong to end up here?
+
+0xE85DD75E = ~z~
+
+0xE177BDC2 = ~z~Imagine you're, you're frustrated with your lot in life...
+
+0xEB5B5D95 = ~z~
+
+0xED97620D = ~z~
+
+0xF3D852F2 = ~z~Alright boss, are you gonna get him now?
+
+0xF72E20A0 = ~z~Knock his goddamn brains out!
+
+0xF68426A9 = ~z~~sl:0.0:2.2:1~Should I run and... this is...
+
+0xF69773D1 = ~z~
+
+0xFFD6AA47 = ~z~Does he like dead bodies on his property?
+

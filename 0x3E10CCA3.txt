@@ -1,0 +1,12 @@
+0x7FE89258 = ~z~I'm sorry.
+
+0x63BBD9FF = ~z~Exactly.
+
+0x372F00E6 = ~z~Of course, Miss Grimshaw.
+
+0x969EBFC4 = ~z~Well, I suppose he'd do the same for you.
+
+0x6974E571 = ~z~We're all in this together, Mr. Morgan. I know you know that.
+
+0xB65BFF3E = ~z~I hear you saved Mr. Bell from a hanging?
+

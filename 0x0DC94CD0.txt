@@ -1,0 +1,56 @@
+0x02C903ED = Levin
+
+0x2EB24269 = Return to ~o~Slim Grant~s~
+
+0x5D0895C8 = Theodore Levin was abandoned.
+
+0x6ADF3175 = Theodore Levin was spooked.
+
+0x8C235BB0 = Locate Slim Grant at the ~o~outlaw camp~s~
+
+0x12C7F7CC = Calloway
+
+0x21A3D4AF = Gunslingers?
+
+0x31E69CE1 = Place Slim Grant by ~o~Levin~s~
+
+0x58D1BFB7 = Avoid getting spotted by witnesses when kidnapping Slim Grant.
+
+0x86F7E99A = Slim Grant has died.
+
+0x1906B89C = Outlaw Camp
+
+0x2272A091 = Theodore Levin has died.
+
+0x3034EA91 = Bartender
+
+0x4081D8AB = Ask after Calloway
+
+0x9990ED06 = Capture ~e~Slim Grant~s~ alive
+
+0x46113C17 = Greet
+
+0x525685D6 = Drop Off Point
+
+0x1430040C = Slim Grant was abandoned.
+
+0xA27620A2 = You became wanted.
+
+0xABEF8C23 = Capture ~o~Slim Grant~s~ alive
+
+0xB2BF7CA2 = Outlaw
+
+0xB85A797A = Guard
+
+0xBC09C19A = Pick up ~o~Slim Grant~s~
+
+0xBD07C752 = Cut Free
+
+0xC0D2FCC8 = Deal with ~e~Calloway~s~
+
+0xD168ADFA = Slim Grant
+
+0xF4D62484 = Deliver Slim Grant to the ~o~drop off point~s~
+
+0xF186A85C = Stranger
+

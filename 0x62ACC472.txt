@@ -1,0 +1,28 @@
+0x08EFCA5A = ~z~I'm glad we never unpacked your stuff at all, Mr Morgan.
+
+0x0AE3C7E0 = ~z~We need to go!
+
+0x0E09CE10 = ~z~I'm moving as fast as possible!
+
+0x0EC4AF8E = ~z~Quick, all of you!
+
+0x1CC76B8B = ~z~Well, good! All of you, hurry this along!
+
+0x2ABD877B = ~z~All of you, come along!
+
+0x2F761108 = ~z~No? Then hurry up! We need to get moving again!
+
+0x18C3639F = ~z~Do you want those men to come back and murder us once and for all?
+
+0x669B85B4 = ~z~He doesn't seem quite himself.
+
+0x396224C4 = ~z~Mr Pearson, how you coming along there?
+
+0xAD91939F = ~z~Of course. Maybe... go and see how Dutch is doing.
+
+0xC208BC8D = ~z~You still have my things?
+
+0xD5885D0E = ~z~
+
+0xE3DFF9BD = ~z~Get this place packed up, do you wanna die in this dump? Come on!
+

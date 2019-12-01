@@ -1,0 +1,14 @@
+0x7BC4153D = Bart Cavanaugh's corpse was left behind.
+
+0x76BE30EB = Bart Cavanaugh escaped.
+
+0x858728C3 = The camp was left behind.
+
+0xAB22F3FA = Bart Cavanaugh was left behind.
+
+0xBAD989E3 = Bart Cavanaugh's corpse could not be retrieved.
+
+0xD1394C49 = Search the ~o~camp~s~ for Bart Cavanaugh
+
+0xE2ADEF32 = Return to the ~o~camp
+

@@ -1,0 +1,36 @@
+0x0692FB7C = ~z~Aha, you got a bone?
+
+0x4EB26275 = ~z~Attack!
+
+0x5FDA0848 = ~z~Attack! Kill!
+
+0x8CA21BC6 = ~z~I trained that goddamn thing!
+
+0x8EFB2078 = ~z~My dog! No, you piece of shit!
+
+0x20C6869E = ~z~Kill that rabbit!
+
+0x35BA3B9C = ~t~In Spanish: Dog killer!
+
+0x66D8C3AF = ~z~Good hunting, Dixie!
+
+0x68CF931F = ~z~Kill 'em!
+
+0x80B05EC2 = ~z~~sl:0.8~You got a bone!
+
+0x155FA0BA = ~z~Good dog, good dog!
+
+0x216E081F = ~z~Oh, you're gonna pay for that!
+
+0x477BDF1F = ~z~You evil piece of shit!
+
+0x918D649A = ~z~Now attack!
+
+0x5453EDEA = ~z~No! I'm gonna tear you apart!
+
+0x7198ABC5 = ~t~In Spanish: Attack!
+
+0xA266A222 = ~z~You get a prize, boy?
+
+0xF53E58D3 = ~t~In Spanish: Good dog!
+

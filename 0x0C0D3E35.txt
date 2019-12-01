@@ -1,0 +1,68 @@
+0x0E1FE830 = ~z~No one looking after you except... some... scumbags you meet on the street.
+
+0x1D5ADF81 = ~z~And men are dying like it's a race, the parson, he can't keep up the funerals, we're burying them two, three at a time...
+
+0x2C107CEC = ~z~and there's 50 sharks...
+
+0x3DEC20AB = ~z~You boys don't know you're born.
+
+0x5EE40ADB = ~z~Now, maybe you're right...
+
+0x7B04C31C = ~z~That'd be a joy!
+
+0x8A67E0C2 = ~z~chasing the boat just to feast on the corpses.
+
+0x8D4F67B1 = ~z~Now, I'll tell ya... sharks are nothing compared to human beings.
+
+0x9BCDDC6D = ~z~This isn't tough...
+
+0x38D63DA0 = ~z~This... is a picnic?
+
+0x87FADE14 = ~z~Maybe that's the point.
+
+0x4232D179 = ~z~I guess all life is brutal in its own way.
+
+0x5579F6E7 = ~z~That ain't tough...
+
+0x96387A8F = ~z~
+
+0x318687E0 = ~z~You know something?
+
+0x26879903 = ~z~Tough?
+
+0x43425278 = ~z~Sea... sharks... that's a holiday!
+
+0x54417596 = ~z~Exactly...
+
+0x78521576 = ~z~Tough is a dead calm, surrounded by ice bergs... slowly starving.
+
+0xA57F9815 = ~z~Hell...
+
+0xA486971F = ~z~Appalling!
+
+0xAA8879E2 = ~z~This is easy... easy!
+
+0xAAB4A15B = ~z~
+
+0xB7F13CF8 = ~z~A chance at sea, that... well...
+
+0xB14730A0 = ~z~Dreadful...You know?
+
+0xBE982205 = ~z~And then the boat comes down with the plague.
+
+0xCDE3E9D9 = ~z~Yeah, it's all just a miserable waste of time.
+
+0xD4A84E21 = ~z~And then!
+
+0xD448F5A7 = ~z~Nine years old and I've been living on my wits.
+
+0xDE9A8A4A = ~z~How old were you?
+
+0xE0520C95 = ~z~Both your parents newly dead.
+
+0xF0E02ED5 = ~z~Nine...
+
+0xF1FEAFEE = ~z~Tough is... arriving in a new city.
+
+0xFCDEC5AE = ~z~Folks starving... people desperate...
+

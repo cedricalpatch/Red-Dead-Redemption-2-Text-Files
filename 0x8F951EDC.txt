@@ -1,0 +1,296 @@
+0x0148A1A5 = ~z~Then become a king. I didn't know what I want, then I realized... I could become a king.
+
+0x02F9775A = ~z~Make me!
+
+0x0524885F = ~z~I'm the king I tell you. The king of around here.
+
+0x074ABE5B = ~z~You stink!
+
+0x07C696F0 = ~z~This is not a place for the likes of you. This is a place for me.
+
+0x0948ACB8 = ~z~You're happy with the trees?
+
+0x0D8C9E8D = ~z~Go away!
+
+0x0ED60D26 = ~z~Then pay homage to your king... I'm the king.
+
+0x0F9FDC6C = ~z~Get outta here!
+
+0x0FA510B1 = ~z~Get out of here, go away! I'm the king, I'm the king!
+
+0x1BFC4A9C = ~z~You're just a nasty bunch of peasants. Dirty peasants. Americans.
+
+0x1C126B99 = ~z~Hey... go away.
+
+0x1CBA1E18 = ~z~Well you haven't.
+
+0x1FDA0AAF = ~z~Are you friend or foe?
+
+0x2C70BD85 = ~z~Why would I listen to you? You're a hermit.
+
+0x2C44072A = ~z~Get outta here, you sick bastard. Nobody likes you.
+
+0x2DD65141 = ~z~Just go away. You're boring me. You're boring the king.
+
+0x3F3A4EE7 = ~z~I've got a tree, you've only got a horse.
+
+0x4C4BB236 = ~z~The land of opportunity.
+
+0x4F889D26 = ~z~Now go away!
+
+0x4FBD22ED = ~z~Go away. This is my kingdom.
+
+0x5B6A5073 = ~z~Go away. Go away. I don't want you in my kingdom. This is America.
+
+0x5C23C4F6 = ~z~"Poor Joe" they say. "Poor Joe, he lives in a tree".
+
+0x5D387970 = ~z~I don't want people like you around here. It's against the law.
+
+0x6B17E4B6 = ~z~Get out of my sight. Peasant.
+
+0x6C2CDFBB = ~z~Why would you possibly think we wanted you here?
+
+0x6D3503C5 = ~z~Go, now!
+
+0x6E34D4F8 = ~z~You're just a goddamn has-been!
+
+0x6EC34231 = ~z~I thought I told you to go away.
+
+0x6F5286AC = ~z~Hey you... go away!
+
+0x7C9997FC = ~z~You're standing around and watching a man who hides in trees?
+
+0x7CB3B6F4 = ~z~I'm in a tree.
+
+0x7FCC1563 = ~z~Mean, look at you. A man... a nasty dirty, rancid one at that.
+
+0x8BAD3623 = ~z~ And people say I'm the boring, weird one?
+
+0x8D0E14B0 = ~z~Go away. Go away. Go! Away!
+
+0x8DEA3609 = ~z~Then become a king. I didn't know what I wanted, then I realized I could become a king.
+
+0x8E01B1CE = ~z~ I don't want you in my kingdom. I don't want one of you. I don't need one of you.
+
+0x8F6291C9 = ~z~Hey!
+
+0x9B2BB0EB = ~z~This is my country. My country.
+
+0x9D7D4460 = ~z~Go somewhere else please.
+
+0x9D9169DB = ~z~I'm the king.
+
+0x15F19EB9 = ~z~Go away!
+
+0x20B84917 = ~z~And I rule here.
+
+0x30CDE31B = ~z~I am not talking to you anymore. You're a moron.
+
+0x34DB3BD5 = ~z~Get lost!
+
+0x38BBA7FA = ~z~You... get lost.
+
+0x40EACD40 = ~z~Hey there... over here. Get lost!
+
+0x46B94B00 = ~z~The genius in the tree and you're the idiot who lives out there and feels all naked and alone.
+
+0x47AAA1F8 = ~z~Worst filth of humanity. Horrible. Monsters. Horrible monsters.
+
+0x47DEAFC2 = ~z~That's enough from you.
+
+0x48B01E0F = ~z~Yeah, I live in a tree and behind a rock. I'm better than you.
+
+0x53DBB466 = ~z~Better than y'all. Failures!
+
+0x59D53B0C = ~z~We and by we, I mean me, don't want you and don't need you.
+
+0x63D13F71 = ~z~Go away. Leave me alone.
+
+0x65B3D9EE = ~z~I'm the king of America. And this is my throne.
+
+0x65CCE5BF = ~z~You peasants wouldn't understand.
+
+0x69A010CD = ~z~What now, numbskull?
+
+0x75E718F8 = ~z~Get out of here... I'm not scared. I said, I'm not scared.
+
+0x77A0F044 = ~z~Of course, I hate everybody. It's the best way. Makes life much easier.
+
+0x80F0E68C = ~z~You did.
+
+0x82CE2EF7 = ~z~Go away. Go away. Go Away.
+
+0x85FD670F = ~z~You're pretty pathetic, aren't you?
+
+0x87E3F46A = ~z~The king!
+
+0x89E094C3 = ~z~I bet they do hate you. I bet they do. I hate you.
+
+0x99D00E96 = ~z~Go away.
+
+0x125CAC60 = ~z~ I'm not a socializer or whatever they're called. Sharing is bad. I'm a king, we don't share. We rule.
+
+0x139CC53A = ~z~Go on, go away.
+
+0x168D5CE0 = ~z~ I don't like you, I don't want you. I smelt you a mile away.
+
+0x261FA2A4 = ~z~Not you again, get out of here. Go live with other men!
+
+0x269D9F5A = ~z~Hey you, yeah the man with the big ugly face. Yeah, you.
+
+0x313DF840 = ~z~Oh, why do you keep coming back here?
+
+0x332AC81D = ~z~Smelly beast.
+
+0x381F5AAC = ~z~Go!
+
+0x402A99F4 = ~z~ I took the opportunity to become king. The land of freedom. I am free to be a king.
+
+0x441D9E4B = ~z~You can't see me and I can't see you. Well, this is better.
+
+0x624C8D35 = ~z~You're a failure! You haven't got trees to live in.
+
+0x763A5117 = ~z~I am not a hermit. I'm the king.
+
+0x775DFB6A = ~z~Well devil to them and devil to you.
+
+0x917EB5A5 = ~z~I am not a hermit. I'm the king.
+
+0x957E19A3 = ~z~You can hang about there as long as you want.
+
+0x1356A4C3 = ~z~Poor Joe they call me but they will call me King Joe.
+
+0x2711F1BD = ~z~You're yesterday's man. Yesterday's.
+
+0x3447D9F6 = ~z~You're not here. I can't see you!
+
+0x5704C82F = ~z~I've been happy ever since. His majesty is always happy.
+
+0x6152EE71 = ~z~Go and find your own kingdom, don't mess with old Joe's kingdom.
+
+0x7578F253 = ~z~My place. I don't want to share.
+
+0x18056EFB = ~z~My law.
+
+0x51273BE9 = ~z~This is my kingdom and... and... oh, go away! The king has spoken.
+
+0x72418CF5 = ~z~Get lost.
+
+0x86208F61 = ~z~I've got a tree, you've only got a horse.
+
+0x87831EDE = ~z~Get outta here! Go on, get lost!
+
+0x100632AE = ~z~Why would I listen to you? You're a hermit.
+
+0x697353E9 = ~z~Now go away!
+
+0x987160DE = ~z~You again?
+
+0x1890209A = ~z~How... how do I pay homage, oh great... ruler?
+
+0x23004780 = ~z~You don't even understand basic English. No wonder everybody hates you.
+
+0x33970154 = ~z~Elated. In a regal sort of way.
+
+0x38680373 = ~z~Be gone. Be gone. Leave my kingdom.
+
+0x49803213 = ~z~You peasants wouldn't understand.
+
+0x89458563 = ~z~Go away. Go away now.
+
+0x98454062 = ~z~You are lost. Get less lost, but get lost! Get outta here!
+
+0xA55AE9C7 = ~z~I'm not sure.
+
+0xA89DC2A0 = ~z~Foe.
+
+0xA1117FAF = ~z~I'm safe here. That's because I'm the one with all the brains.
+
+0xA5693A52 = ~z~I... don't know yet and I been king for years.
+
+0xAB47E937 = ~z~The king!
+
+0xAD33E3CD = ~z~You are ruining my peace and quiet.
+
+0xAF454234 = ~z~We don't like your sort. We don't want your sort. We don't need your sort. So get lost.
+
+0xB2E0FFF6 = ~z~What do you want?
+
+0xB2E1118C = ~z~Stop coming back around here. You can't be king, because that job's taken by me.
+
+0xB6B80017 = ~z~I thought I told you to go away.
+
+0xB523D9C7 = ~z~Well... please let me know whenever you find out.
+
+0xB1067C42 = ~z~I'm the bloody king... you can't kill me... and anyway, I'm fine now.
+
+0xB9110C57 = ~z~Why are you so angry? You don't even have the pressures of the monarchy.
+
+0xB3290563 = ~z~What do you want?
+
+0xBA19B62F = ~z~I said go away! Go away!
+
+0xC7E73DCD = ~z~Hey you.
+
+0xC74AA8CA = ~z~Now sod off.
+
+0xCD218BAB = ~z~This is America, friend. We have no kings, not even crazy ones.
+
+0xCEC30A3B = ~z~I'm the king. I'm the king. I'm the king!
+
+0xD6D54CB7 = ~z~Elated. In a regal sort of way.
+
+0xD11A85DE = ~z~Go. On. Boo!
+
+0xD97C5D77 = ~z~You're worse than a... a monkey.
+
+0xD405229D = ~z~Get out of here!
+
+0xDC16D262 = ~z~Ha! I'm safe. I'm safe and happy and all alone in a tree, just like a real king.
+
+0xDC724EAA = ~z~I like trees and rocks. Tree for friends, rocks for relations and man can go jump off a cliff as far as I care.
+
+0xDD8F555A = ~z~I'm not sure.
+
+0xDECD2143 = ~z~Get lost now, please.
+
+0xE03416D2 = ~z~Go! Go, go!
+
+0xE9F25D93 = ~z~Oh, looky, look... a big strong man, a real man.
+
+0xE81EEF4A = ~z~You're happy with... the trees?
+
+0xE190AFD6 = ~z~Go away. Go away. Go away. I'm the king.
+
+0xE661DF6A = ~z~Well you haven't.
+
+0xE1586E7A = ~z~I'm the king and this is my kingdom.
+
+0xE3057089 = ~z~You are a monkey. Monkey, monkey, monkey, monkey, monkey.
+
+0xEA6BEF0C = ~z~You didn't get me... you didn't get the King Joe... now get lost.
+
+0xEA40EA47 = ~z~I don't like men. I like trees.
+
+0xECD2BD52 = ~z~What do you hope to achieve in my kingdom?
+
+0xF3B0710F = ~z~Well I ain't scared of nothing that sits on a horse... nothing
+
+0xF46D7B81 = ~z~You did.
+
+0xF259D61B = ~z~Then get outta my kingdom!
+
+0xF1367F3E = ~z~Oh no...
+
+0xF1745D7B = ~z~Stop lingering about and get out of here.
+
+0xF2920438 = ~z~I've been happy ever since. His majesty is always happy.
+
+0xFB08D9BA = ~z~Move!
+
+0xFE1B6BB5 = ~z~Friend.
+
+0xFEF0AAD8 = ~z~Even the horse thinks you're an idiot.
+
+0xFF98F9C4 = ~z~Nobody likes you. Nobody wants you. Nobody, go away.
+

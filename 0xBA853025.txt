@@ -1,0 +1,10 @@
+0x084B4807 = Antagonize
+
+0x931DC030 = Take Pamphlet
+
+0xB156DB60 = Greet
+
+0xE4C8C88E = Decline
+
+0xF311946D = Listen
+

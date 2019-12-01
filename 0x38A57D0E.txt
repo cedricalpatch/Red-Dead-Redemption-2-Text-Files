@@ -1,0 +1,670 @@
+0x000C3960 = ~z~But for now, I must work while I have the idea in my silly head.
+
+0x00251F7C = ~z~Still. Better to die free, than in the jaws of a machine.
+
+0x00881148 = ~z~The great goddess Gaea... mater omniparens et alma! She speaks with me.
+
+0x01118FE7 = ~z~I think you got hit on the head...
+
+0x016AC9AC = ~z~There are days when I sit here and weep...
+
+0x01A889D6 = ~z~Foul creatures. Such appetite. Such pathetic avarice.
+
+0x01AF811F = ~z~Sunset already. I should be getting back.
+
+0x01ED8C96 = ~z~
+
+0x0240416C = ~z~Maybe... I'll go get you something to eat.
+
+0x029796AF = ~z~just burn me.
+
+0x02A7C22E = ~z~Let me see.
+
+0x0343FAC5 = ~z~Uh huh.
+
+0x03E7B883 = ~z~My mentor never saw things quite like that.
+
+0x04579BB3 = ~z~You lucky you just getting beat.
+
+0x06359F92 = ~z~You men are heathens! Ignoble savages!
+
+0x06703A10 = ~z~A second guesser of our creator.
+
+0x06889FDD = ~z~Maybe I shall.
+
+0x06A08E4B = ~z~we're all scared of something...
+
+0x0736EE37 = ~z~John Marston.
+
+0x07BF31CB = ~z~They are the rapaciousness of our financial markets let loose in the wilderness.
+
+0x07C7EF85 = ~z~John Marston.
+
+0x099942B2 = ~z~It is that beauty...
+
+0x09CDFAFC = ~z~
+
+0x0E95B02F = ~z~Prissy idiots, the both of ya.
+
+0x0E728262 = ~z~Perfect.
+
+0x0EAB2B1A = ~z~The duality...
+
+0x0EE71DA4 = ~z~Makes me sick.
+
+0x0F4C526C = ~z~I'm... I-I'm living in a cabin over near Tanner's Reach.
+
+0x0FF43F2E = ~z~You did it! It's free. A second chance at life.
+
+0x1AEE76BA = ~z~Don't work too hard.
+
+0x1B47E60F = ~z~Maybe.
+
+0x1CCA4A98 = ~z~Mr. Miller?
+
+0x2A65B4C0 = ~z~I... you never told me your name.
+
+0x2B090EF5 = ~z~Almost.
+
+0x2BFFFA4C = ~z~I seen plenty of those signs...
+
+0x2D60D5D7 = ~z~It would have lived... for an hour or two with a leg like that. Death was the best thing for it.
+
+0x2DFB9706 = ~z~Please. Do what you can for it?
+
+0x2E5824DA = ~z~Prepare to be shocked.
+
+0x2F11EF27 = ~z~Shit.
+
+0x2FD53874 = ~z~I - you never told me your name.
+
+0x3D63AE9A = ~z~Treasure it.
+
+0x3EF251B2 = ~z~Just as... soon as I finish this. It really requires the entirety of my concentration, you see.
+
+0x3FAFC789 = ~z~Where we headed?
+
+0x3FBA3217 = ~z~All us Americans dream of places.
+
+0x4A2AF46E = ~z~You haven't reassured me...
+
+0x4A416614 = ~z~Thank you, John. I'll get it in a moment.
+
+0x4C52F16F = ~z~My, my, the reticent cowboy.
+
+0x4CB11FCA = ~z~Come along, come along.
+
+0x4DF1C906 = ~z~but you are not?
+
+0x4E06D299 = ~z~Now come on. We have further to ride.
+
+0x4F2C9F62 = ~z~happily die rather than live as I do.
+
+0x4FB33231 = ~z~maybe we might talk some more.
+
+0x4FCCA0A2 = ~z~but, a real man would...
+
+0x5AEF9B5F = ~z~Ah...
+
+0x5BC539E7 = ~z~Where are you going? It needs you, sir.
+
+0x5BD90B7F = ~z~Sometime soon then.
+
+0x5C5CA01C = ~z~Yes.
+
+0x5C21C87A = ~z~Leave me, John. I saw something magical, and now I must commune.
+
+0x5E5E9CDD = ~z~Well, you shouldn't be. I'm quite, quite well. Now if you'll excuse me.
+
+0x5EA46A6B = ~z~Thank you...
+
+0x5EC7D3B5 = ~z~Okay...
+
+0x5F28F960 = ~z~Do you think you can release it?
+
+0x6A448E7B = ~z~I must take these moments of inspiration when they come to me.
+
+0x6A791E4A = ~z~The self-reliance, the harmony with nature that us... us modern men have so lamentably lost.
+
+0x6AAC58B5 = ~z~Doesn't understand.
+
+0x6AB47523 = ~z~Alas... it's gone. Your efforts were for nothing.
+
+0x6B4F0786 = ~z~I'll get you, you bastard.
+
+0x6BFAEE1B = ~z~I feel amazing.
+
+0x6D8CA925 = ~z~Easy there...
+
+0x6DA09423 = ~z~
+
+0x6DA3AF14 = ~z~So if you please...
+
+0x6E0A0B8E = ~z~is God.
+
+0x6F983F50 = ~z~I'm worried about you, Mr. Miller.
+
+0x6F2345A9 = ~z~Ah.
+
+0x6FDAE873 = ~z~Oh dear.
+
+0x7A992CA4 = ~z~But...
+
+0x7B130C4F = ~z~Mr. Miller? Mr. Miller, are you about?
+
+0x7BCAC5A1 = ~z~You're okay.
+
+0x7BE530AC = ~z~
+
+0x7C15BEF4 = ~z~We've lost, we...
+
+0x7C82FE78 = ~z~I brought you some food, Mr. Miller.
+
+0x7D8DFE78 = ~z~My wife didn't understand.
+
+0x7DDE353B = ~z~
+
+0x7EEEB05F = ~z~Kind of...
+
+0x7F2F84C6 = ~z~Do come, John.
+
+0x7F54C572 = ~z~true Americans, we peasants...
+
+0x7FCBAF11 = ~z~Not his work...
+
+0x7FF4AF67 = ~z~Wonderment is our morphine I suppose.
+
+0x8A4C88D4 = ~z~it holds us tight...
+
+0x8A38F894 = ~z~Look. Here they are. I will speak to them.
+
+0x8AF1C8E8 = ~z~Uh huh...
+
+0x8BAC7CD8 = ~z~Magnificent.
+
+0x8C225DC8 = ~z~I really must ask you to leave, sir.
+
+0x8E724F66 = ~z~are you a cowboy, sir?
+
+0x8F3224CB = ~z~Please. You really must see this.
+
+0x9A1FE744 = ~z~You know...
+
+0x9A2E6D3E = ~z~
+
+0x9CC03F4D = ~z~Just... uh... leaving some more food for you, Mr. Miller.
+
+0x9CF92E2D = ~z~this landscape...
+
+0x9F8B7FF2 = ~z~Goodbye, John. Goodbye for now. I'm working, you see.
+
+0x9F91D244 = ~z~Animals, shit, look.
+
+0x10D03320 = ~z~I wanna soar in the air with the eagles...
+
+0x11DF3871 = ~z~Okay. You take care of yourself... get yourself something to eat.
+
+0x13F758A2 = ~z~some of the bits he read stuck with me.
+
+0x14DFC2ED = ~z~If you're trying to get me out of this state, that won't work I'm afraid.
+
+0x15EEDE81 = ~z~They are our god...
+
+0x17DC45E3 = ~z~I'm desperately trying to finish my book.
+
+0x18B07997 = ~z~let me show you.
+
+0x20A84126 = ~z~But here I live like a man.
+
+0x21ED56A6 = ~z~Come by some time...
+
+0x30AFC6DC = ~z~Sublime.
+
+0x30EC8EFC = ~z~he was a great lover of your books.
+
+0x34DDA699 = ~z~The cruelty of it. If you could pry it open, it may recover.
+
+0x36B961AF = ~z~Quite a view.
+
+0x38CAAA78 = ~z~Now, now.
+
+0x40B566E7 = ~z~Yes, indeed.
+
+0x46C3BD06 = ~z~which really is the eternal beauty that is truth.
+
+0x46CB52BC = ~z~for so little reason.
+
+0x49DF9718 = ~z~can you imagine?
+
+0x52EFF3E8 = ~z~Stay calm.
+
+0x53FE198C = ~z~I'm... it's... just... a little while longer.
+
+0x58FE3555 = ~z~The Parish Priest...
+
+0x60DF0683 = ~z~We'll see each other again. Now go on now...
+
+0x62A39DA6 = ~z~Okay.
+
+0x63F03C1C = ~z~we'll never know ignorance again.
+
+0x69D11A6B = ~z~Killing what?
+
+0x71F56647 = ~z~How can you turn away from this suffering?
+
+0x72B2CAC9 = ~z~Well, well.
+
+0x72CFEC23 = ~z~What will be left if fools like this ransack nature for all that they can carry?
+
+0x72DAAB39 = ~z~Please leave me, sir. These moments are so precious.
+
+0x73F81BC2 = ~z~There's a truth in you, sir...
+
+0x76D05D20 = ~z~Whoever you are, leave me in peace.
+
+0x77EC890D = ~z~You are causing a commotion, my friend.
+
+0x78E61186 = ~z~We tried, Mr. Miller.
+
+0x80FC859C = ~z~Sure.
+
+0x85C6BF5F = ~z~a rare truth.
+
+0x86F05F71 = ~z~Yes... I'll, yes, fetch it presently.
+
+0x88CA27BD = ~z~Hello, sir... I'm working I'm afraid.
+
+0x88D17905 = ~z~
+
+0x89B2C2E3 = ~z~but him.
+
+0x89CADDA6 = ~z~We have to cut across.
+
+0x90D5D57D = ~z~I was a gilded ape...
+
+0x93AA8DEE = ~z~Can't you do that some other time?
+
+0x95AFAB2F = ~z~Okay.
+
+0x96C5DE73 = ~z~I was provoked.
+
+0x97DA79C5 = ~z~They are deep in the woods.
+
+0x99BE8046 = ~z~I'm not leaving... I can't. Not until it's done.
+
+0x196E9ED9 = ~z~You are not perfect. No sir, none of us is. But these men are abominable.
+
+0x228F9DE9 = ~z~Hello.
+
+0x240BF547 = ~z~Okay...
+
+0x244C7B3C = ~z~our dreams...
+
+0x251FAFBC = ~z~Simply wonderous.
+
+0x267EFDB1 = ~z~Most went a little over my head I'm afraid, but...
+
+0x285D849A = ~z~I enjoyed our conversation.
+
+0x294C6418 = ~z~When I'm done...
+
+0x298DD425 = ~z~I'm still a coward...
+
+0x306B1189 = ~z~Your friend was deceived.
+
+0x325BE811 = ~z~about the exact nature of my sins.
+
+0x326A8719 = ~z~The men I'd like to show you, they could have set that trap.
+
+0x350E199B = ~z~This...
+
+0x427B57E5 = ~z~It's like a fever, I shan't be well again until it breaks.
+
+0x457A13B2 = ~z~My head.
+
+0x475A9212 = ~z~I'm trying, John.
+
+0x507ED07C = ~z~Not the proof...
+
+0x515C0284 = ~z~My, my, the reticent cowboy.
+
+0x600CBFEA = ~z~Or...
+
+0x622EC6BA = ~z~The poor beast's in pain. Come, sir.
+
+0x627FD602 = ~z~What's that smell?
+
+0x652BEC9B = ~z~Hunters? I seen hunters, sir. And, like I said, I been one myself.
+
+0x712F14E0 = ~z~I am that most worthless of all creatures...
+
+0x786EA1C5 = ~z~I ain't going to miss.
+
+0x787AD518 = ~z~Are you sure that's a good idea?
+
+0x816B43B2 = ~z~Hello, sir.
+
+0x817EDB5C = ~z~Mr. Miller, it's John.
+
+0x898DC295 = ~z~but the thing.
+
+0x910AA571 = ~z~The Parish Priest has taken to writing me missives...
+
+0x954A11F6 = ~z~Uh.
+
+0x959DFCCC = ~z~Just let me complete this thought, eh. There's a good man.
+
+0x2058FD90 = ~z~Oh no. Up there. The poor creature is caught in a bear trap. John, can you do something?
+
+0x2531E08E = ~z~It's absolute tripe, you know, but... it's all I've got left.
+
+0x2548F7B5 = ~z~Evelyn Miller?
+
+0x2723DD12 = ~z~Violence meets violence, as industry meets nature. Ugliness pushes, but beauty pushes back.
+
+0x2760D546 = ~z~Yes, we are close. Can you smell the carrion?
+
+0x2820D049 = ~z~Don't spoil this great beauty, John!
+
+0x2934E950 = ~z~Hey. Don't shoot me, alright? You crazies!
+
+0x4044A6E6 = ~z~This time I thought it might be different... I'm such a fool.
+
+0x4261B576 = ~z~I'm a terrible fraud, sir.
+
+0x4785C7EE = ~z~Muse, don't abandon me.
+
+0x5027F41D = ~z~I should like to see you, sir.
+
+0x5610B4DF = ~z~
+
+0x6499CCD7 = ~z~Hey, uh, how are you, sir?
+
+0x6828C901 = ~z~To bathe naked in the stream, and howl at the moon. I feel rapturous!
+
+0x7198B8FE = ~z~This must look pathetic... but I'm almost there.
+
+0x7233B4C5 = ~z~It's not quite right... and I'm not done until it's right.
+
+0x7502BB96 = ~z~Good, good. I'll pick it up when I've finished this part.
+
+0x8796FEAD = ~z~Don't torment me.
+
+0x9026A2A9 = ~z~Please. Over here, Mr. Marston.
+
+0x9677C318 = ~z~Okay...
+
+0x13256D21 = ~z~about all the things that I've lost.
+
+0x23559F8E = ~z~You are testing my concentration.
+
+0x27345FE8 = ~z~Crazy bastard.
+
+0x34497B5E = ~z~Good day.
+
+0x48087C0C = ~z~I hate to spoil your impression of me. But I been known to eat from a can just as often as from my gun.
+
+0x50483B8E = ~z~Mr. Miller, I brought some more food.
+
+0x51875E1D = ~z~It would be far too much for my feeble limbs, I am afraid.
+
+0x52898C76 = ~z~
+
+0x56514EE6 = ~z~Hunting for food or skins is one thing. But dredging rivers, burning out forests,
+
+0x65865F9A = ~z~I can't fight my own nature... none of us can.
+
+0x78910A1B = ~z~I should like to walk alone, if you don't mind.
+
+0x84172A71 = ~z~killing everything you find, and leaving all but the most valuable parts to rot. That is who these men are.
+
+0x525198DF = ~z~and once we've seen it...
+
+0x537654ED = ~z~I've brought you some food, Mr. Miller.
+
+0x633154A1 = ~z~that was clarity, John.
+
+0x740336CA = ~z~Keep this up and you'll have me longing for the city.
+
+0x826984A3 = ~z~For the first time in my life, I'm a man.
+
+0x837894B3 = ~z~This...
+
+0x922813CF = ~z~Who's that? Who goes there?
+
+0x992318C7 = ~z~Whatever are you doing?
+
+0x1315534E = ~z~A man I knew...
+
+0x1824103D = ~z~Hello.
+
+0x5005236D = ~z~The muse, John, the muse has taken me.
+
+0x5628602F = ~z~certain ways of coping with what we done in this life.
+
+0x6140895E = ~z~This.
+
+0x7263686A = ~z~Never better. Never worse. But I'm really in the middle of something.
+
+0x26846636 = ~z~John, whatever are you doing?
+
+0x55406363 = ~z~No, that's not it.
+
+0x55733925 = ~z~That...
+
+0x68638839 = ~z~I think we've made our point.
+
+0x75725064 = ~z~Such majesty.
+
+0x87472787 = ~z~Goodbye, sir. I'm off this way.
+
+0x95707064 = ~z~As I said, please will you leave me to write?
+
+0xA3E1B742 = ~z~I have nothing to rob except my small remaining vestige of sanity.
+
+0xA3EA78BC = ~z~You want a shooting match? Come on.
+
+0xA9F6066D = ~z~I suppose.
+
+0xA23D2B13 = ~z~I would really like to show you this.
+
+0xA40FCB7B = ~z~Ah, another time.
+
+0xA45A0195 = ~z~Oh.
+
+0xA62CB3BB = ~z~Hmm.
+
+0xA67C7DAE = ~z~I taught some Connecticut fops how best to appreciate their topiary.
+
+0xA140FC00 = ~z~Come on.
+
+0xA5587DC9 = ~z~Quite a view...
+
+0xA8135DE8 = ~z~This...
+
+0xA48248DC = ~z~I was attracted by my fraudulent fame...
+
+0xA1177600 = ~z~I loathe the man I was...
+
+0xAA7C1D30 = ~z~Come...
+
+0xAC1C04BC = ~z~Let me try and get you out of this.
+
+0xAC518C74 = ~z~the man I am...
+
+0xAD555359 = ~z~I want to run naked through the trees.
+
+0xAFF5F453 = ~z~I don't mean to be rude sir, but if you won't leave, I'll have to try to ignore you. Take no offense.
+
+0xB0679184 = ~z~and teach at a university.
+
+0xB08CD859 = ~z~That self-reliance, that harmony with nature that us... us modern men have so lamentably lost.
+
+0xB2A568A6 = ~z~I love stories.
+
+0xB5BAF937 = ~z~this heaven and hell.
+
+0xB7B556CC = ~z~That's it... yes...
+
+0xB8B1A3E4 = ~z~Not really.
+
+0xB63CEC51 = ~z~by the idea of me as some kind of provincial seer.
+
+0xB98BE752 = ~z~this America...
+
+0xB101E30B = ~z~Fear and doubt and lies...
+
+0xB204DF1D = ~z~Alas... it could have been saved.
+
+0xB849D08F = ~z~Another rewrite... that's all it'll take.
+
+0xB9546AAC = ~z~The writer's life is a solitary one. If you could please leave me to it...
+
+0xB75287A1 = ~z~There's really no need to follow me.
+
+0xBA5C827A = ~z~this place.
+
+0xBA7C7B5F = ~z~Let's go. I am anxious to show this to you.
+
+0xBBA70A4F = ~z~This is my camp, you better know it.
+
+0xBCACC035 = ~z~This truth.
+
+0xBEF31276 = ~z~Aside from the doubt and self-loathing. But...
+
+0xBF0CB1EA = ~z~Guess we all live with...
+
+0xBFD5B71C = ~z~before more of 'em show up.
+
+0xBFE9EF52 = ~z~You're wasting energies, whoever you may be.
+
+0xC1B2846C = ~z~But me, I'm nothing but fear.
+
+0xC6FD7493 = ~z~John, please, can't that wait?
+
+0xC7A65624 = ~z~and lived, and survived, and flourished.
+
+0xC7B03BE4 = ~z~Those contraptions... they are unforgiving and indiscriminate.
+
+0xC4059B2F = ~z~What's your problem? Shut it!
+
+0xC89600A6 = ~z~There's nothing to take here, leave me alone.
+
+0xC505233D = ~z~Have I gone mad, or have you, John?
+
+0xCA18178B = ~z~Guess I'm as big a fraud as you claim to be.
+
+0xCA837502 = ~z~It's there, it's-it's just... not quite right.
+
+0xCBA82D52 = ~z~I've never felt so inspired! Thank you, John. Come visit me again soon.
+
+0xCC26A9CA = ~z~not rot in the ground with the worms.
+
+0xCD21CAF4 = ~z~and what a feeble game he has begun in me.
+
+0xCE6D1A9B = ~z~If the light is going, then so will I.
+
+0xCEEF64BA = ~z~This great beauty.
+
+0xCF4A76F2 = ~z~Can't talk. Must work. You understand.
+
+0xD059D3C4 = ~z~
+
+0xD1E6B6F1 = ~z~Look at what you... you... you're... you're...
+
+0xD1FD83C5 = ~z~Long story.
+
+0xD2A9914C = ~z~But you will be. Wait until you see the waste, the boundless appetites of these men.
+
+0xD6A53EE2 = ~z~Thank you my friend. I shall have recovered my faculties when you return to see me.
+
+0xD7A3F61F = ~z~we are killing this place, John Marston.
+
+0xD8B6EAEB = ~z~Give.
+
+0xD45F3EEA = ~z~Well... I...
+
+0xD124B6D9 = ~z~I've seen a great beauty, John.
+
+0xD759C7E6 = ~z~Leave me, John. And stop this madness.
+
+0xD5021E42 = ~z~You know...
+
+0xD9545FD5 = ~z~a writer.
+
+0xD17623F7 = ~z~We...
+
+0xDA0EB3F4 = ~z~Oh, what a petty minded lot they are.
+
+0xDB0DA595 = ~z~You'll find no enemy in this cabin.
+
+0xDCAF2553 = ~z~Unless you're showing me Big Foot, you should know, I am not so easily shocked, Mr. Miller.
+
+0xDEDF6E6F = ~z~I am God's blithe plaything...
+
+0xE05B3D76 = ~z~Come along, follow me.
+
+0xE0C45320 = ~z~Farewell, John. Follow me no further.
+
+0xE1B1D98F = ~z~I'm not eating, drinking liquor or leaving this cabin until this draft is complete.
+
+0xE3CC7A19 = ~z~Forgive my crude naivete but, uh...
+
+0xE3CF2768 = ~z~I'm a writer...
+
+0xE3FA8D1C = ~z~I despair of you, John. The gift of nature is all around you, and you seek to destroy,
+
+0xE6C84E97 = ~z~just a glimpse of how other men have coped...
+
+0xE8C80434 = ~z~us perhaps.
+
+0xE19B0D55 = ~z~Through here.
+
+0xE31AC740 = ~z~I don't know about that.
+
+0xE89BEA6A = ~z~John, whatever is the matter with you.
+
+0xE1737BC7 = ~z~Hmm.
+
+0xE945833F = ~z~You know, I used to write in a study...
+
+0xE4973527 = ~z~I know you will be horribly shocked because I see that frontier spirit in you.
+
+0xEA286211 = ~z~Come on, let's get you outta here...
+
+0xEACA556B = ~z~I'm feeble, but alive.
+
+0xEB82104C = ~z~By all means, drop in on me sometime at Tanner's Reach. I would be very glad of the company.
+
+0xEDE4EECA = ~z~You tougher than your pal there?
+
+0xEFAFD39D = ~z~these views...
+
+0xF4CEEAA8 = ~z~something within us.
+
+0xF44AB0CC = ~z~What are you talking about?
+
+0xF93BD052 = ~z~Please, if you'd leave me to write...
+
+0xF268F64E = ~z~Evelyn Miller.
+
+0xF725A1FC = ~z~Yes, well... uh...  at least there will be some utility in its death.
+
+0xF5684A9A = ~z~Which?
+
+0xF5794AE8 = ~z~Jim Milt...
+
+0xF6437FAA = ~z~Hey!
+
+0xF4791622 = ~z~Dreamer of others' dreams.
+
+0xF5769811 = ~z~Evelyn Miller.
+
+0xFAB52C72 = ~z~Now, come on. Let's go.
+
+0xFC979875 = ~z~Maybe... long as that wound don't go bad.
+
+0xFCDE1C09 = ~z~And a sign that our way of life has come to an end.
+
+0xFD887AE7 = ~z~I'm a man.
+

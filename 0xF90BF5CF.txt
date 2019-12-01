@@ -1,0 +1,92 @@
+0x010F71ED = ~z~So where did you learn to play?
+
+0x03B5D051 = ~z~Bessie and I would play this for hours back in the day.
+
+0x1E02C19B = ~z~You know when we were at sea, we'd dab jam on the back of the dominoes to stop them sliding around.
+
+0x2F676464 = ~z~That's a strange story.
+
+0x4A5A9F2E = ~z~So I been meaning to ask... what's that flower you keep by your bed?
+
+0x5A243B5C = ~z~Well, I stole that one... I'm sure I can steal another easy enough.
+
+0x5FE94567 = ~z~We always knew how to improvise, Mr. Morgan.
+
+0x6E85DD6F = ~z~Now I really want to read it.
+
+0x7C7CA53A = ~z~Killer, bank robber, dominoes player...
+
+0x7CC9840B = ~z~but I remember that for some reason.
+
+0x9BB9B741 = ~z~What are you insinuating? I am a man of honor.
+
+0x14E172BC = ~z~I remember. I think she might have even taught me to play.
+
+0x26EE4E41 = ~z~How about we make this interesting? Whoever wins gets to read the other one's journal.
+
+0x42C30F01 = ~z~Oh I do.
+
+0x57D0B005 = ~z~Plenty.
+
+0x67EB56EA = ~z~I'll keep my eye out for you too.
+
+0x89CC9D17 = ~z~I remember you used to play dominoes with Mary.
+
+0x96E35A07 = ~z~Not the way you want to get arrested, though.
+
+0x504E4CDE = ~z~If the Pinkertons could see you now.
+
+0x742CE828 = ~z~It's pretty hard to cheat at dominoes.
+
+0x5413B2A0 = ~z~Something my ma always liked. It's kind of a good luck charm, I suppose.
+
+0x6283C4D6 = ~z~You're a conman.
+
+0x7673F3FB = ~z~Can't believe the dominoes survived Blackwater but my necklace didn't.
+
+0x12992C47 = ~z~Oh yeah... I thought something looked different.
+
+0x86798CC1 = ~z~I'm watching you like a hawk, Matthews.
+
+0x9806398A = ~z~Yeah sometimes.
+
+0xA3C81077 = ~z~You know, you might be right. A lifetime ago...
+
+0xA5F4D665 = ~z~They only grow out west, in parts of California and Oregon...
+
+0xA15C4D30 = ~z~That's nice.
+
+0xA60CF85A = ~z~Gotta keep them on their toes.
+
+0xABA361BE = ~z~I don't remember too much from back then. I was so young when she passed...
+
+0xB1B8EDED = ~z~I always try to grab one when I'm out that way.
+
+0xB5B217A8 = ~z~Well, keep your eye out then.
+
+0xC09F4A25 = ~z~Sure feels like it.
+
+0xC18C88B0 = ~z~It's always smelled like strawberries below deck on domino night.
+
+0xC670FCB1 = ~z~It weren't no life for a child, but... I learned a few things.
+
+0xC9283E94 = ~z~Imagine the newspaper headlines.
+
+0xCEF11DAF = ~z~You can cheat at anything.
+
+0xD13D2BF7 = ~z~I always liked her.
+
+0xD33E2C13 = ~z~Was this the navy or Goldilocks and the Three Bears?
+
+0xDB632695 = ~z~Really?
+
+0xE0B7413B = ~z~That might be the nicest thing anybody's ever said to me.
+
+0xED314A31 = ~z~Saloons, dives growing up... by eight, I was playing piano every night in a cathouse.
+
+0xEECA5DFA = ~z~Oh no, I don't think so.
+
+0xF3647045 = ~z~Me too... but you know how this life is. You know it ain't easy.
+
+0xFC6FF945 = ~z~What have you got to hide?
+

@@ -1,0 +1,86 @@
+0x00FDDD59 = Ride to ~o~Rhodes~s~
+
+0x058CD36B = Investigate the ~o~barn~s~
+
+0x085025FF = Your horse
+
+0x0B64B095 = Sheriff has died.
+
+0x1E488B9E = Take out the ~e~attackers~s~
+
+0x2E8C602C = The camp guards spotted you. ~s~
+
+0x3A986EDE = Take out the ~e~gang members~s~
+
+0x3CBB50EF = Sadie's Horse
+
+0x5E837597 = Put Ramon Cortez on a ~o~Horse~s~
+
+0x6CA3ACDF = Chase ~o~Ramon Cortez~s~
+
+0x6E4776D0 = You attacked Ramon Cortez.
+
+0x7AEBB499 = Ramon Cortez got away.
+
+0x7F74F89A = Ride to ~o~Painted Sky~s~
+
+0x9CFDEA99 = You scared off Albert Cakes.
+
+0x9F1737DE = Cover Sadie~s~
+
+0x27FAC9A3 = Meet up with ~o~Sadie~s~
+
+0x48D7666B = Climb to the ~o~vantage point~s~
+
+0x53B67559 = Deliver Ramon Cortez to the ~o~Sheriff~s~
+
+0x55E7A39D = Ramon Cortez
+
+0x80F04A88 = Speak to the ~o~Lumber Salesman~s~
+
+0x183F8EC2 = The law were alerted.
+
+0x341BDEF9 = Supplies
+
+0x561FCC5F = Return to ~o~Sadie~s~
+
+0x1027EF5D = Chase the ~e~attackers~s~
+
+0x3029AE40 = Follow ~o~Sadie~s~ to Rhodes
+
+0x3724C306 = Follow ~o~Sadie~s~ to Dewberry Creek
+
+0x87378ABE = Albert Cakes
+
+0x464765DB = Aim at ~o~Ramon Cortez's~s~ boat and capture him alive
+
+0x1072363F = Sadie's horse
+
+0xABC2ECDA = Uncle's horse
+
+0xADC4B4D8 = Clear the beach of ~e~gang members~s~
+
+0xAF47B9EE = Carry Ramon Cortez to the ~o~Sheriff~s~
+
+0xB33E52CE = Wait for ~o~Sadie~s~
+
+0xBAFB6FA6 = Mount your ~o~horse~s~
+
+0xBD6CB9A2 = Ride to the ~o~lumber yard~s~ in Blackwater
+
+0xBF4CBD66 = You were killed.
+
+0xC0FFA53C = You killed Ramon Cortez.
+
+0xC3085BFF = Take care of the ~e~backup~s~
+
+0xD2AD5069 = Albert Cakes has died.
+
+0xD844DF8D = Attack
+
+0xF3AD2B03 = Sadie was abandoned.
+
+0xF7C537DC = Capture ~e~Ramon Cortez~s~ alive
+
+0xFE73CAD5 = Pick up ~e~Ramon Cortez~s~
+

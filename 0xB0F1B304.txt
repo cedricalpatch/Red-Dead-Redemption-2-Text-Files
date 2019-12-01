@@ -1,0 +1,40 @@
+0x05B20054 = ~z~Than big ol' uncle lyin' out on the ground.
+
+0x2A0FC90F = ~z~You can't blame me for wanting to eat.
+
+0x5D770A05 = ~z~My coffee I boil without being ground.
+
+0x6C392789 = ~z~I wash in a pool and wipe on a sack;~n~~m~on a sack...
+
+0x9FEB34C4 = ~z~My music's the lowering of my shiney white ass;
+
+0x23ED3CCA = ~z~Ah, the newspapers call for our gang's demise;~n~~m~our gang's demise!
+
+0x52F074EC = ~z~I carry my wardrobe all on my back;
+
+0x78E3C0DE = ~z~Not even a dog to trot by my side;
+
+0x80B7765D = ~z~My parson remarks from his pulpit of bones;~n~~m~his pulpit of bones...
+
+0x969CFC50 = ~z~My fire I kindle with cow chips round;
+
+0x3755BDB7 = ~z~And I sleep on the ground for want of a cot;
+
+0x3861E5B3 = ~z~But show me a man that sleeps more profound;
+
+0x7039AF7E = ~z~For want of an oven I cook bread in a pot;
+
+0x73615BB1 = ~z~Says we're no good thieves that you should despise;~n~~m~you should despise...
+
+0x44935832 = ~z~My ceiling's a sky, my floor is the grass;
+
+0xB2A6B457 = ~z~All day long on the praries I ride;
+
+0xCC8A0E01 = ~z~My parson's a wolf on his pulpit of bones;
+
+0xDAD7AA9C = ~z~Ah, sometimes I rob a bank on main street;~n~~m~on main street...
+
+0xE4F7421B = ~z~fortune favors those who look out for their own.
+
+0xEF5A53A1 = ~z~My books are guns; my sermons the stones;
+

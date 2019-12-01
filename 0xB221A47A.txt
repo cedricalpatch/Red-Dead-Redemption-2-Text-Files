@@ -1,0 +1,24 @@
+0x1B7FF38D = ~z~They accused five men of spreading rebellion and heresy.
+
+0x3E2CB8E6 = ~z~while the rest of the village was forced to watch.
+
+0x4CC7560F = ~z~~sl:0.0:1.1~Not, not that he...~sl:0.0:1.3~not that he share all that he had,~sl:~just that he give enough that the people might live.
+
+0x7BA233D4 = ~z~~sl:0.0:1.7~Of course, Mexico could be a land of plenty...~sl:1.0:1.9:1~but the people with the power there...
+
+0x10D2DE33 = ~z~~sl:0.0:2.0~They took them into the street,~sl:0.3:1.6~stripped them naked...~sl:0.3~castrated them and fed them to the pigs
+
+0x47BC4C05 = ~z~~sl:0.0:1.1~They had suggested~sl:0.1:2.4~that the men of the village demand a fare wage~sl:0.3~from the local land owner. That...
+
+0x52B761FB = ~z~And you know what those men had done?
+
+0x2558873E = ~z~~sl:0.0:1.6~One of those men was my uncle.~sl:0.6~Another was a friend of my parents.
+
+0xB1F26647 = ~z~They rather kill than share the smallest little piece.
+
+0xC4B08BC3 = ~z~All my life, I think about this.
+
+0xD6752F4C = ~z~~sl:0.0:1.7~Most people are thieves...~sl:0.4~because they steal the lives and the hopes of others.
+
+0xF6A0A9CF = ~z~~sl:0.0:1.0~You know...~sl:0.0:1.2~when I was a little boy,~sl:~some men came to my village.
+

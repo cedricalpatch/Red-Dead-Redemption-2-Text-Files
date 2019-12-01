@@ -1,0 +1,52 @@
+0x0197DA70 = ~z~You're the first person I'd kill.
+
+0x03E187F5 = ~z~My Lord, but you boys are pathetic.
+
+0x086B691F = ~z~He just don't like the truth.
+
+0x5B43B6BC = ~z~No wonder old Dutchy is so goddamn tired. He's gotta think for all of you.
+
+0x6D50DAD6 = ~z~Shut up, Micah.
+
+0x9F4E96EB = ~z~Oh sure, he's family. If he was my uncle I'd throttle him. He ain't no one's uncle.
+
+0x55AB829A = ~z~No, I will not shut up!
+
+0x67D326ED = ~z~but profit from everyone else's work.
+
+0x275E4EEE = ~z~I'm a goddamn man!
+
+0x555C8200 = ~z~Worried because you're the one person in this whole goddamn bunch who does nothing,
+
+0x930BFD5A = ~z~Me too. But moving around with this many of us? It's trouble.
+
+0x1533AA99 = ~z~And what are you?
+
+0x814259C7 = ~z~We ain't being killed, we been in worse scrapes than this.
+
+0x67722627 = ~z~I'm trying to help... shutting up will lead to us all being killed.
+
+0xA6B9CDA7 = ~z~Oh, is that so?
+
+0xACAD31A8 = ~z~We should do him in...
+
+0xAE833448 = ~z~It used to be more.
+
+0xB825F07F = ~z~Well, compared to you lot!
+
+0xCA4B94CA = ~z~Here we are, on the run, being chased east across this whole goddamn country,
+
+0xCBFC6F3A = ~z~You're just worried.
+
+0xD65104EB = ~z~He's afraid... he's afraid because he's a goddamn parasite!
+
+0xDDA0BB74 = ~z~and you boys isn't even making any real moves.
+
+0xE40DA064 = ~z~He ain't ever off grafting, nor hunting, nor killing like the rest of us...
+
+0xE74AA5D6 = ~z~That ain't true.
+
+0xFAA5CD94 = ~z~Well, the feeling is mutual.
+
+0xFB18CE7E = ~z~I'm joking, relax.
+

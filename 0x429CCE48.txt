@@ -1,0 +1,368 @@
+0x008E4F1C = ~z~Help me! Quick!
+
+0x01E80B8F = ~z~You a piece of shit!
+
+0x024190F6 = ~z~Ah, you did it! I'm saved.
+
+0x026FE663 = ~z~Oh, part of me thinks I should have you punished, Luis.
+
+0x04EAAA8B = ~z~Great. You're a real help. Real kind.
+
+0x062B641A = ~z~Take me back to my driver now, if you please.
+
+0x0734D00A = ~z~And what happened anyway? You smack your horse, eh? Some bad joke!
+
+0x091C6DAC = ~z~Hey! That's a good wagon!
+
+0x09BF9756 = ~z~Hey, that's my brother's cart you're breaking!
+
+0x09EA5B27 = ~z~Huh.
+
+0x0A1DA3C7 = ~z~Hey, that's my property!
+
+0x0A2DDD78 = ~z~In Spanish: Cousin? Cousin? Help!
+
+0x0A81BC1C = ~t~In Spanish: Shit!
+
+0x0B88126A = ~z~Thank you again! Very impressive.
+
+0x0C6C596C = ~z~Well, what can you do?
+
+0x0C68F013 = ~z~And where is that Luis? That layabout. I'll see him in irons for this! Nearly broke my back...
+
+0x0DA1E943 = ~z~I am going to die!
+
+0x0DE52B0A = ~z~Go on, get to the wagon, go!
+
+0x1B0377A7 = ~z~You're fine.
+
+0x1CA0D4F2 = ~z~I might have died. And you look on? That isn't how you treat people. I am... I am respected!
+
+0x1DC9FC27 = ~z~This won't go over good...
+
+0x1EA128D1 = ~z~Please, I'm trapped in here! Don't hurt me!
+
+0x2B3BDE18 = ~z~Control this thing before it's too late!
+
+0x2B41C348 = ~z~Hmm. Where are we going? Take me to my driver. Now.
+
+0x2BC03903 = ~z~Yes, ma'am...
+
+0x2EB120AC = ~z~Stop! Stop!
+
+0x3A326490 = ~t~In Spanish: Goddamn you! Goddamn you!
+
+0x3ABB6956 = ~z~~sl:0.0:2.5~Safe, no thanks to that Luis.~sl:~If he isn't lucky I'll hire you instead...
+
+0x3AD586AD = ~z~In Spanish: Monster!
+
+0x3E01DD86 = ~z~Now. Drive fast, and silent. My head is pounding.
+
+0x3FB0F0F8 = ~z~You got it! I am very glad to see you...
+
+0x3FDC3747 = ~z~What are you doing?
+
+0x4A52BAF6 = ~z~What you waiting on? Get my damn wagon!
+
+0x4BDE5101 = ~z~I... oh, this is bad... I gotta go...
+
+0x4E09D3A2 = ~t~In Spanish: Go to hell!
+
+0x4F6A9A57 = ~z~Kill your own damn horse!
+
+0x4FEA24DB = ~z~This is absurd! Take me back to Luis this instant! Take me back!
+
+0x5CCFED91 = ~z~Oh! This is the end!
+
+0x5D946A59 = ~z~Don't you touch Pistolero!
+
+0x5E7C387A = ~z~Hey! I paid four dollars for that nag, you shit!
+
+0x6A0E18DA = ~z~Hey, get off, now!
+
+0x6DE8AC42 = ~z~And you! Lot of help you were. Get away from me.
+
+0x6E181B76 = ~z~Luis! Reward this person. And be quick about it.
+
+0x6E3565F7 = ~z~Cousin! Where am I going? Where are you?
+
+0x6F4233C2 = ~z~Least it's my fool brother's cart. Serves him right, the dummy... ugh.
+
+0x7B5AB493 = ~z~Will somebody please help me?
+
+0x7BBECCBB = ~z~You just gonna watch? Lousy shit you are.
+
+0x7E5D75F7 = ~z~Yes, ma'am...
+
+0x8B9878CA = ~z~That is the last time we stop on the road, Luis. The last time.
+
+0x9D4C1C31 = ~z~Yes, ma'am. I am very sorry.
+
+0x9D999407 = ~z~You couldn't stop it? My horse? My cousin? Oh... goddammit, this will take some explaining. Shit.
+
+0x9F5495F0 = ~z~Oh! I thought that might have been... Oh, God...
+
+0x12A59FD4 = ~z~Oh, goddamn you! Goddamn you!
+
+0x13AA90E8 = ~z~Here. And thank you for your help. I suppose I'm glad he's still alive...
+
+0x13AFC6E6 = ~z~What are you doing to me?
+
+0x22B4F70E = ~z~~sl:0.0:3.2~You know, she drives me, but we're very close.~sl:0.3~She loves me very much, she will be worried.
+
+0x23ACFB0A = ~z~Ah! Pistolero is alive. And, uh... my cousin, too?
+
+0x32C5B38A = ~z~Oh, please, you must save me!
+
+0x35E7DD66 = ~t~In Spanish: Thank God.
+
+0x39EA7B75 = ~z~Get a handle on the horses! There's no time!
+
+0x52EB8788 = ~t~In Spanish: You're insane!
+
+0x53C4E6D0 = ~z~Yes, ma'am. Of course.
+
+0x56A2AF7E = ~z~What are you doing? Get the hell off my wagon!
+
+0x57A68857 = ~z~What the? Oh, dios! Where are you going?
+
+0x62D0196E = ~z~Here. For your troubles and all.
+
+0x65CC12E9 = ~z~Well, shit. You did it. Horse, cart and all. You're alright.
+
+0x75E68F4B = ~z~Oh, yes! You have been sent from God!
+
+0x76ED6B95 = ~z~Hey, it's just an animal!
+
+0x77C773CC = ~z~You quit wailing on that wagon!
+
+0x79D35428 = ~z~Okay then.
+
+0x81BF0660 = ~z~Dios mio!
+
+0x94BF0CBA = ~z~I cannot do anything!
+
+0x97BA6789 = ~z~Oh, goddamned horse. Where the hell you going, you lump of meat?
+
+0x97E2DD65 = ~z~Oh... I know what you are doing. You're going to kill me! No!
+
+0x100E057B = ~z~Yes! You alright. Fool horse or not, I couldn't lose the wagon.
+
+0x154AD1AE = ~z~I gotta get out of here...
+
+0x225B1BA3 = ~z~Hey! Don't break a good coach!
+
+0x251B8BE7 = ~z~I'm still shaking. I can't believe that happened.
+
+0x294E27CF = ~z~Shit. What'd I expect? Bunch of mud-sucking fools 'round this part. Figures the horse'd turn stupid.
+
+0x453A8830 = ~z~Hey, leave that horse alone.
+
+0x476CCE88 = ~z~Oh, oh, well done!
+
+0x508A5D31 = ~z~Oh! My God, what are you doing in here? Get out!
+
+0x555EA61F = ~z~Oh, you're fine...
+
+0x619B7EB0 = ~z~Dios, no!
+
+0x646A69FA = ~z~Some help you was... Jesus. Goddamn scrape of a day.
+
+0x648F3CF0 = ~z~It's just a horse!
+
+0x748BAC8C = ~z~Take me back to her this moment. Right away. Now!
+
+0x804EBD2D = ~z~You have to control the, uh, control it!
+
+0x843EEA32 = ~z~Stop, okay? I'm just a driver!
+
+0x3438BF5E = ~z~Stop that! What the hell are you doing?
+
+0x4923D026 = ~z~I'm going to die!
+
+0x5001CF34 = ~z~You leave that horse alone!
+
+0x5172D7CD = ~z~We're done here? Quit bugging me.
+
+0x5356AC3C = ~z~Stop! Stop that coach! Stop the horses! Oh, God, Stop!
+
+0x6080B6A5 = ~z~What are you doing? You could hurt me!
+
+0x7336AB2D = ~z~Enough!
+
+0x7525D5D5 = ~z~You could hurt me! Please!
+
+0x8583B367 = ~z~That's some lousy shit that is. Not what I needed today. And I gotta walk too?
+
+0x9893FA4E = ~z~Oh, oh! I am not dead? How... I should be dead...
+
+0x13279E52 = ~z~Hey! Stop that wagon!
+
+0x45420F2A = ~z~Do something, please! I can't lose that wagon!
+
+0x51698BDB = ~z~Oh, you, you... goddamn you then! Shit!
+
+0x73337FB3 = ~z~So where's my wagon? Did you get it or not?
+
+0x75920AFB = ~z~I-I think... my prima is in the other direction. Where are we going?
+
+0x76039F7F = ~z~Hurry, please. Go stop it!
+
+0x84057FA2 = ~z~What are you doing? I don't know you, okay? Let me on my way.
+
+0x335798F3 = ~z~You ain't interested in taking him off my hands, are you? Anyway...
+
+0x488621E7 = ~z~Turn around. Hello? This is not right! I am not comfortable with this.
+
+0x651986C3 = ~z~Why aren't we stopped yet? Stop it, stop it!
+
+0x758204A3 = ~z~I'm out of here...
+
+0x784733D7 = ~z~Shit, not today...
+
+0x879969C9 = ~z~I don't need you or anyone following me. Leave me alone.
+
+0x5264989B = ~z~No, stop! What is wrong with you?
+
+0x8623143A = ~z~Listen. You didn't see me, none of this...
+
+0x9449458C = ~z~You there! Stop that wagon!
+
+0x17213601 = ~z~You kidding me?
+
+0x29781383 = ~z~Oh, you just watch? Thanks for nothing.
+
+0x44000362 = ~z~Prima! I nearly died! What happened? How could you scare me like this?
+
+0x60156887 = ~z~What happened to my wagon? What the hell happened? You was supposed to help me!
+
+0x74788547 = ~z~Hey, get the hell off my wagon.
+
+0xA0546F1C = ~z~Here. Thanks for your help.
+
+0xA1EC2D1B = ~z~Oh, thank God! Please, stop this wagon! And quickly!
+
+0xA3A96064 = ~z~Hey? This is a private coach! Get off!
+
+0xA8FED64C = ~z~Don't follow me...
+
+0xA9AF4901 = ~z~That's enough! Stop at once!
+
+0xA48C52A8 = ~z~Hey? Wait, what is happening? Cousin?
+
+0xA58D8CBD = ~t~In Spanish: So delicate, little baby.
+
+0xA89E3F82 = ~z~Oh, come on... Pistolero, whoa! Whoa!
+
+0xA4186BAE = ~z~Stop the wagon! Make it stop!
+
+0xA2968019 = ~z~The wagon's done for! Go! Go!
+
+0xA3737756 = ~z~You lousy piece of trash!
+
+0xAC4AEA53 = ~z~Oh! The horse! Help! I am under attack!
+
+0xACD99E72 = ~z~Ah! No, please, stop!
+
+0xACEA9D94 = ~z~I cannot control this thing!
+
+0xAD51BC3C = ~z~I have been kind to you, Luis. I even paid for new clothes for you,
+
+0xAD511950 = ~z~Shit! Goddamn you!
+
+0xAEC9515D = ~z~Luis... what's happening... stop the wagon please...
+
+0xAFC8A133 = ~z~Oh, very funny, very funny. My back hurts.
+
+0xB3BDF551 = ~z~Here. Take this, and thank you... Dios... you really saved me here...
+
+0xB4DAEBB5 = ~z~Not looking for a companion.
+
+0xB4EF24CA = ~z~Hurry on, it's gonna crash!
+
+0xB7F8D18A = ~z~and I let you use the horses to run your errands when I was indisposed.
+
+0xB9E87E5E = ~z~Shit! Someone stop that coach!
+
+0xB22A14C3 = ~z~Hey, what's your damn problem?
+
+0xB55C0A40 = ~z~Enough! Enough!
+
+0xB792DD19 = ~z~My horse is crazy, stop it! Stop that coach!
+
+0xB2810C1C = ~t~In Spanish: Oh, God, oh God...
+
+0xBF7003A0 = ~z~That damn horse is gone off, go get that wagon!
+
+0xBFC04A2D = ~z~What the hell is wrong with you?
+
+0xC0D42974 = ~z~What is this? Take me back! You-you aren't planning anything untoward, are you?
+
+0xC1F24586 = ~z~He'll be glad Pistolero is still alive, that's true.
+
+0xC9B77507 = ~z~You are. And you did, yes. You are very kind, ma'am.
+
+0xC540C85E = ~z~Please! I can't die like this!
+
+0xC577CFAE = ~t~In Spanish: God, save me!
+
+0xC898E2DC = ~z~Anyone? That coach!
+
+0xC18456FF = ~z~Oh my god, why did you do that?
+
+0xC632656D = ~t~In Spanish: God, no...
+
+0xCB91F2A0 = ~t~In Spanish: You piece of shit!
+
+0xCC4B0689 = ~z~Someone's in that coach!
+
+0xCE0291D1 = ~z~Help! Help! I am going to die!
+
+0xD0CCD35E = ~z~Someone, anyone, stop that coach!
+
+0xD1F8ABE4 = ~t~In Spanish: Son of a bitch...
+
+0xD12EA71D = ~z~Shit! It ain't gonna stop!
+
+0xD47CEB47 = ~z~Best to you.
+
+0xD6838EA7 = ~z~Yes, and this is how you repay my kindness? Nearly letting me break my back?
+
+0xDD56AE7B = ~z~Oh, what? Stop this wagon at once!
+
+0xDE99F81F = ~z~Help if you're gonna! Get to it!
+
+0xDFF4C437 = ~z~In Spanish: Cousin?
+
+0xE2C481CA = ~z~Who are you?
+
+0xE5D25AE1 = ~z~There's someone inside! It will crash!
+
+0xE9FC3DC8 = ~z~Oh, oh, you're out for me! I know it! I know it!
+
+0xE42461E6 = ~z~In Spanish: Goddammit!
+
+0xEA758601 = ~z~Is this the right way? Hello? Is this the right way?
+
+0xEC2819F1 = ~z~Wait until your tio hears about this.
+
+0xED4C81B2 = ~z~The wagon... Mrs. Bassey...
+
+0xF1EC2BB4 = ~z~I am trapped in here! Help! Help!
+
+0xF2D4995A = ~z~Could you take me back where I came from? My prima will be worried for me.
+
+0xF2F6BDAE = ~z~Hello? Where are we going?
+
+0xF7D938CF = ~z~Where am I... what do I do now?
+
+0xF420777D = ~z~Please, stop that wagon right away!
+
+0xFBF4612A = ~z~Hey. I don't want you following me. Go away.
+
+0xFBF60778 = ~z~You get your hands off my wagon!
+
+0xFD7DBC9C = ~z~That would have been a good joke! I'm disappointed I didn't...
+
+0xFF056BFD = ~z~My cousin's in there!
+

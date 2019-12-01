@@ -1,0 +1,164 @@
+0x007AFDED = ~z~~sl:0.4~Don't like this...
+
+0x00C20FD4 = ~z~His crime was cowardly...
+
+0x0199F659 = ~z~~sl:0.0:2.8~I don't deserve to get treated like this!~rp~~sl:0.2~It ain't my damn fault.
+
+0x02A7F29E = ~z~This is a goddamned massacre!
+
+0x06719409 = ~z~Ouch!
+
+0x07D60C9A = ~z~All them boys... they're dead.
+
+0x089F786A = ~z~~sl:0.0:2.3~I wasn't meant to get caught.~sl:0.2~That weren't the plan for none of this.~rp~ Stupid!
+
+0x0A3703C8 = ~z~~sl:0.0:1.2~Lets get out of here, fellers!~sl:~We ain't dying for the kid.
+
+0x0B2FBEE5 = ~z~Shit!
+
+0x0B54F110 = ~z~Anyone seen the kid?
+
+0x0C030B2B = ~z~Shit. Shit. Shit. Shit. Shit.
+
+0x1BC59306 = ~z~~sl:0.0:2.3~I don't want to go in there. Please.~sl:0.1~I don't want to go in.  No... no...
+
+0x2BAC0306 = ~z~~sl:0.0:2.8~I didn't mean to burn them folks, I swear.~sl:0.2~It was an accident.
+
+0x3AC4E8AE = ~z~Shit. Shit. Shit.
+
+0x3CCA57F1 = ~z~Make 'em pay!
+
+0x5D88495F = ~z~I hear he went to the Lemoyne Raiders, over near Fort Brennand.
+
+0x5FB1E7E8 = ~z~Hell!
+
+0x6B2B8C74 = ~z~They only sent one of 'em.
+
+0x6E9CC45F = ~z~Why? Why? Why? Why? Stupid! Stupid!
+
+0x6FD1EDF2 = ~z~they're gonna catch up with you.
+
+0x7C9A0782 = ~z~running off and hiding out.
+
+0x8BBCFE9F = ~z~~sl:0.0:3.3~Okay, you'll see. When the press hears about this?~sl:0.3~And the judges? And the governor?
+
+0x8D1F0F35 = ~z~I don't need to go in there... not any time soon.
+
+0x13A21FE3 = ~z~You ain't taking me alive!
+
+0x14C830B6 = ~z~
+
+0x14F8A6E8 = ~z~I need to move my arms. Please!
+
+0x52D90CD8 = ~z~~sl:0.0:2.0~They'll understand where I was coming from.~rp~~sl:0.4~They'll look after me... good boys like me, they always do.
+
+0x60A0A867 = ~z~~sl:0.0:1.2~And my momma, too.~rp~~sl:0.6:3.7~She'll know what to do about this. Momma...~sl:1.8~Momma.
+
+0x60A3C8A0 = ~z~
+
+0x65F2C560 = ~z~I go, we all do, right?
+
+0x66CC4636 = ~z~I'm gonna die free!
+
+0x96B1A086 = ~z~~sl:0.0:4.2~I'm the victim here. I'm the one getting persecuted.~rp~~sl:0.3~A disgrace is what it is.
+
+0x97FB971C = ~z~Momma. Shit.~rp~ Momma.
+
+0x97FC6615 = ~z~Let's light 'em up!
+
+0x186D5C34 = ~z~We got 'em where we want 'em, come on!
+
+0x297EB15A = ~z~I told you they'd come looking for me.
+
+0x525F1E39 = ~z~We're in this together, ain't we?
+
+0x541A61D4 = ~z~So I'd come ready for underhand tactics of some sort.
+
+0x729D6C93 = ~z~
+
+0x767BE595 = ~z~I will fight to my dying breath!
+
+0x1593A815 = ~z~You massacred them! All that blood. It's a massacre.
+
+0x6085BA86 = ~z~Come on, Raiders. Fight for me!
+
+0x6796C251 = ~z~Any right thinking man would have done the same thing.
+
+0x7139BCD4 = ~z~I signed up to bunk with soldiers, not common killers. Shit.
+
+0x8655FFCF = ~z~~sl:0.0:3.3~Them... them... they brought it on themselves.~sl:~Them that died.~rp~ I didn't have no choice!
+
+0x49544C48 = ~z~They fancy themselves guerillas, this bunch.
+
+0x62971F8F = ~z~~sl:0.0:1.6~He gives me the shivers...~sl:0.0:1.6~disquieting is the word, with them...~sl:~them,them little black eyes.
+
+0x426020DF = ~z~Take me in, okay? I ain't no animal.
+
+0x744061FB = ~z~This is sovereign soil, ain't it, boys?
+
+0xA5A03265 = ~z~~sl:0.0:4.8~I didn't mean for any of this. Okay?~rp~ If I could just...~sl:0.2~just... take it back. You gotta believe me.
+
+0xA6095A60 = ~z~and he's been a coward ever since...
+
+0xABC1C4D3 = ~z~Someone's got to live to tell the tale!
+
+0xAD2CCD7C = ~z~Please tell me this ain't really happening?
+
+0xAEE852C7 = ~z~That's it. Let's just wait.
+
+0xB0C613B9 = ~z~Leave me alone!
+
+0xB858FEFF = ~z~if your crimes are heinous enough...
+
+0xB3229FD7 = ~z~Hoping they'd protect him...
+
+0xBB6769F1 = ~z~~sl:0.4:2.3~This ain't happening. This ain't happening.~sl:~None of this is happening.
+
+0xBC5BB249 = ~z~and most probably they will.
+
+0xBDFD2E27 = ~z~You don't want to come close to me!
+
+0xC1AC1F71 = ~z~~sl:0.0:1.8~They abandoned me.~sl:0.2~And I don't want to get gunned down like... some dog.
+
+0xC3DE6EE1 = ~z~~sl:0.0:4.3~Momma? Momma?~rp~ What's my momma going to think?~sl:0.4~Her little boy.
+
+0xC9F722AA = ~z~Must be after the bounty! I knew it would happen...
+
+0xC17F114B = ~z~But I'll tell you what...
+
+0xCE9D56CC = ~z~Up to a point.
+
+0xCFDB12DC = ~z~I don't deserve this.
+
+0xD2DDB408 = ~z~This little son of a bitch... Cecil Tucker.
+
+0xD23D0906 = ~z~Help me before it's too late!
+
+0xD34CD8C6 = ~z~You'd be wise to stay back!
+
+0xD974AB89 = ~z~This ends on my terms!
+
+0xDDC015E7 = ~z~Why are we even letting that runt hang around?
+
+0xE46F9DED = ~z~Let's live to fight another day, why don't we?
+
+0xE47FAD8B = ~z~I'm the prisoner of an illegal state!
+
+0xE252C19D = ~z~I don't like being tied.
+
+0xE1093F93 = ~z~We've got incoming. Hold the fort, boys!
+
+0xEA274CEE = ~z~You won't put me in no cage!
+
+0xED14D718 = ~z~Shit.
+
+0xEE28F86A = ~z~I surrender! I surrender, please.
+
+0xEE626B11 = ~z~killing good folks in their sleep...
+
+0xF4AA3E62 = ~z~Come on, let's go.
+
+0xF81118A8 = ~z~Damn!
+
+0xFDF6E07D = ~z~I'm caught! I'm caught! Help!
+

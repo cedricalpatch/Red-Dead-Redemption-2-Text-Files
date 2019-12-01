@@ -1,0 +1,22 @@
+0x8A006450 = ~z~You're breaking my poor stupid heart.
+
+0x73E83820 = ~z~thinkers who think and spout pretty sayings and say nothing of any great interest.
+
+0x99B903C1 = ~z~No... he speaks very prettily, but he doesn't say anything new.
+
+0x33119DE1 = ~z~Well, I'm sorry.
+
+0xAF262E9B = ~z~My pa used to speak about intellectuals like him as the scourge of the American mind...
+
+0xBF25CE9A = ~z~He doesn't say much to me.
+
+0xCCEB6A25 = ~z~Doesn't say much? He says all there is that needs to be said.
+
+0xE08A915F = ~z~I tried it...
+
+0xEC108FDC = ~z~Well, I'm keeping the faith!
+
+0xF97F434C = ~z~You read much Evelyn Miller, son?
+
+0xF661BD0D = ~z~Isn't he wonderful?
+

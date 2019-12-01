@@ -1,0 +1,40 @@
+0x0CC23762 = ~z~~sl:0.3~There's your bounty, you sure earned it.
+
+0x1DAF0321 = ~z~~sl:1.4:~Oh yeah, you killed 'em, but take comfort in their sins.
+
+0x1EAD48A4 = ~z~~sl:0.3:2.0~Well, that's our bounty...~sl:0.0:2.3~looking a little worse for wear, I see.~sl:~Put 'em around back, I'll get your money out.
+
+0x6CFD1AE5 = ~z~Lock 'em up, and let's get you what you're owed.
+
+0x6E670803 = ~z~~sl:0.1~They'll see justice. Well done.
+
+0x7C2EB948 = ~z~Toss 'em in the sternest cell you can find.
+
+0x7D6325FB = ~z~~sl:0.4:2.6~I'm always pleased to see them breathing.~sl:0.5~They'll pay their debt.
+
+0x8B4FDE61 = ~z~~sl:0.9:3.1~Don't let their life weigh too heavy on you.~sl:0.5:0.6:1~There's your money.
+
+0x65A17678 = ~z~Toss them in the sternest cell you can find.
+
+0x97E470B3 = ~z~Kick that hellrouser into a cell, so we can settle up.
+
+0x303DFE59 = ~z~~sl:0.0:2.8~The runner's ours, so the bounty's yours.~sl:~Right there for you.
+
+0x418BCADA = ~z~~sl:2.2:3.1:1~Dead as a doornail. Here's your bounty money.
+
+0x3077EC39 = ~z~~sl:0.3:4.3~Ah, our bounty. No explanations necessary, just...~sl:0.0:~put them in the cart out back, I'll ready your payment.
+
+0xA0B5ECA0 = ~z~~sl:0.2~Rehabilitation might be beyond them, but we may hope.
+
+0xB5F609CB = ~z~Well... that's what they're worth, and not a penny more.
+
+0xCB1A416C = ~z~~sl:0.0:1.9~I'm glad you got them alive,~sl:~retribution shall be visited.
+
+0xDCE457A7 = ~z~Well... I guess all that's left is your payment.
+
+0xE837EE4E = ~z~~sl:0.1~I make good on my promises, here's your payment.
+
+0xF64377CD = ~z~~sl:1.1~Oh yeah, you killed 'em, but take comfort in their sins.
+
+0xFE771ACC = ~z~We pay on receipt of goods. So, there you go.
+

@@ -1,0 +1,72 @@
+0x0687F98A = ~z~I swear, there's nothing left sacred round here.
+
+0x096689F2 = ~z~Come on. Cut me loose.
+
+0x0B9E543F = ~z~Please, I'm terrified something awful has happened.
+
+0x1DD078A3 = ~z~~sl:0.0:3.0~I don't have money for you, if that's what you're looking for.~sl:~Not yet at least.
+
+0x1F05E966 = ~z~You got one down!
+
+0x3A433188 = ~z~Go on, please! I'm so worried about him.
+
+0x4DD130EC = ~z~More fool me for trying to sink to your level.
+
+0x5CC94D05 = ~z~Please? I could use some assistance here.
+
+0x6A562E66 = ~z~Oh, good! That's a relief.
+
+0x13D9917E = ~z~Cowards, the lot of you!
+
+0x44BB009A = ~z~You got a knife? Get me outta here.
+
+0x85AAF51B = ~z~Lowdown sons of bitches!
+
+0x95CD0ED4 = ~z~Please say yes.
+
+0x97E5AE4C = ~z~~sl:0.0:3.4~Now hurry. Last I saw him he was headed to the cemetery.~sl:0.3~Bring him home to us, please.
+
+0x303E4A47 = ~z~You think you're tough? Ambushing a feller at his wife's grave!
+
+0x856A7B9D = ~z~Oh, hello? You there! Over here.
+
+0x1316FF31 = ~z~~sl:0.0:2.1~Yes, thank you. My cousin, Philip...~sl:~He took to the cemetery some time ago to pay respects to his late wife,
+
+0x2927B8CF = ~z~Bastards.
+
+0x7098479F = ~z~Thanks... they jumped me while I was paying my respects...
+
+0xA3C7A09C = ~z~~sl:0.0:2.2~Do you think you could go look for him?~sl:~Maybe bring him home? We'd be ever so grateful.
+
+0xB3BDC74F = ~z~Oh, Philip! Philip, you're alive.
+
+0xB5A1444F = ~z~but it's been some time, and...
+
+0xB73351A0 = ~z~Well? Should I look for other help, or will you do it?
+
+0xBA24EB6C = ~z~Quick, come on, get these ropes off.
+
+0xC4FDEAB4 = ~z~~sl:0.0:3.8~Listen. I'm staying with my cousin over in one of them mansions.~sl:0.4~Think you can take me there?
+
+0xC5B436C4 = ~z~No, they got one of you!
+
+0xD6C91A0D = ~z~This lousy city...
+
+0xD6D08E61 = ~z~~sl:0.0:1.2~I ain't afraid, just...~sl:1.2~what was they, anyway, some damn militia?
+
+0xD81BEF8D = ~z~You bastards! You try me in a fair fight.
+
+0xD977465B = ~z~Do you hear me? This is urgent!
+
+0xDD12AACF = ~z~What? More of them?
+
+0xE980C225 = ~z~Well? What are you waiting for? You know where it is, I'm sure...
+
+0xEBA74650 = ~z~Not far now.
+
+0xEDC8E842 = ~z~~sl:0.0:0.7~Thanks.~sl:0.8:2.1~Glad you got me out of there before I, er...~sl:0.8~let my anger get the better of me.
+
+0xEED84E5A = ~z~Shit, I don't believe this.
+
+0xF6840A7B = ~z~~sl:0.0:1.9~Here. Tit for tat.~sl:0.7~All the best to you.
+

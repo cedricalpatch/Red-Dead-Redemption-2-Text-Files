@@ -1,0 +1,10 @@
+0x2B3393D2 = Lift
+
+0x9C932DAE = Hammer Nail
+
+0x605FB102 = Pull Up
+
+0x3695BE3B = Place
+
+0x5898B991 = Carry
+

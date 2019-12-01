@@ -1,0 +1,40 @@
+0x0B19B811 = The leader was knocked out
+
+0x1D943B4B = Take out the ~COLOR_ENEMY~leader~s~
+
+0x2CF77674 = Kill or spare the ~COLOR_MP_OBJECTIVE~leader~s~
+
+0x4C3A1C2A = Hideout was abandoned
+
+0x5A8A4243 = Clear the hideout ~1b~ by taking out the enemies.
+
+0x5DABC640 = Clear the ~COLOR_ENEMY~enemy hideout
+
+0x20F99BA7 = Take out the ~COLOR_ENEMY~enemies~s~
+
+0x41BC8E49 = ~1~ knocked out the leader
+
+0x84D467A9 = The leader was killed
+
+0x96F77DAA = The leader ~1b~ has surrendered. Hold ~INPUT_INTERACT_LOCKON~ to target the leader and press ~INPUT_CONTEXT_X~ if you want to spare him. Killing the leader will give you negative honor.
+
+0x453CF3BD = You killed the leader
+
+0x38159133 = ~1~ is participating in a hideout ~2b~. Regroup with them to take part.
+
+0xAD6A78BC = ~1~ killed the leader
+
+0xBD326C77 = You spared the leader
+
+0xC0FEFEFF = The leader ~1b~ will surrender if you take out all of the enemies.
+
+0xDC735CE3 = Hideout cleared
+
+0xE7D110AF = You knocked out the leader
+
+0xE25765C8 = ~1~ spared the leader
+
+0xFC501029 = Spare
+
+0xFEE747E7 = The leader was spared
+

@@ -1,0 +1,12 @@
+0x06989925 = ~z~You hear them fighting over that drink?
+
+0x6B20E234 = ~z~Now I'm out a glass and got more blood on my porch as repayment.
+
+0x18D13D96 = ~z~That half-cocked Johnny dropped smashed his glass on the ground and forgot about it.
+
+0x37E67BC0 = ~z~Goddamned men. Can't get but a whiskey in them 'fore they start swinging their pricks around like it's a damn cattle auction.
+
+0x53763DA0 = ~z~Believe it or not, I seen whole days go by without a fight in this place.
+
+0xC5C52258 = ~z~Least, think I have. Days get real blurry 'round about here.
+

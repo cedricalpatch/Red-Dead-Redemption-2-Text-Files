@@ -1,0 +1,86 @@
+0x01F72D2E = ~z~I'm good... yeah.
+
+0x022B6A02 = ~z~but I think about him.
+
+0x03205C34 = ~z~I'm well, I...
+
+0x05EB606A = ~z~That was...
+
+0x4B48BFD0 = ~z~John, is it you?
+
+0x4BB5C0AA = ~z~Abigail, is she?
+
+0x4E1E81E7 = ~z~Oh here, this is for you.
+
+0x5DC164C1 = ~z~She's well.
+
+0x6E9D332C = ~z~Do you?
+
+0x7D785F36 = ~z~Take care now.
+
+0x7ECA633A = ~z~Me too.
+
+0x44C0706D = ~z~Mary-Beth.
+
+0x50FB879D = ~z~And Dutch?
+
+0x60D797A1 = ~z~oh, it's such fun.
+
+0x83E5ED75 = ~z~It's really lovely seeing you.
+
+0x91A87942 = ~z~Silly romances, but it's fun...
+
+0x94C552C4 = ~z~How the hell are you?
+
+0x98D28796 = ~z~How are you?
+
+0x279DB382 = ~z~Thank you.
+
+0x659C9FCB = ~z~Yeah...
+
+0x930E7AAE = ~z~that was quite a time.
+
+0x1153F89B = ~z~I write now.
+
+0x2056E9E9 = ~z~Jack's growing up.
+
+0x2648B23C = ~z~Anyway, John...
+
+0x7888D6BB = ~z~I better get on my train.
+
+0x39981C6F = ~z~John?
+
+0x74813D94 = ~z~Arthur...
+
+0xA6AEF697 = ~z~I'm very well.
+
+0xAA582941 = ~z~I'm so proud.
+
+0xB94D583F = ~z~Ran off some place.
+
+0xBC4BCE88 = ~z~My pen name is Leslie Dupont...
+
+0xC0C7D620 = ~z~Arthur saved my life, before he passed.
+
+0xCAC1EB74 = ~z~but, but he's okay.
+
+0xCB7BFC9C = ~z~Such a shame.
+
+0xD0B175F3 = ~z~Good for you...
+
+0xDFB09559 = ~z~Sweet boy.
+
+0xE4C01E18 = ~z~sort of French, sort of ambiguous.
+
+0xEE1F3236 = ~z~Not any more...
+
+0xF0808A41 = ~z~How are you?
+
+0xF8DF576A = ~z~I don't talk about him much...
+
+0xF476BD85 = ~z~The books are unambiguously awful, but they sell.
+
+0xFA82D94D = ~z~Bye.
+
+0xFC314CF6 = ~z~I still think about you all.
+

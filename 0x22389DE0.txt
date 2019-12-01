@@ -1,0 +1,40 @@
+0x0551746D = Enter the area ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_MP_GAME_HILL~~s~ and take out the ~COLOR_POSSE_ENEMY~King of the Castle ~BLIP_AMBIENT_KING~~s~ to gain control.
+
+0x2CB1CB3C = The ~COLOR_MP_OBJECTIVE_ENEMY~castle~s~ is about to change
+
+0x4DE2222D = Gain control of the ~COLOR_MP_OBJECTIVE_NEUTRAL~castle
+
+0x5CAD52D3 = The ~COLOR_MP_OBJECTIVE_ENEMY~castle~s~ is contested
+
+0x7FA007CE = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~castle
+
+0x8A73F864 = ~1~ is the King
+
+0x9CDFA26A = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~castle
+
+0x9EF61F1F = Take control of the area as the ~COLOR_FREEMODE_EVENT~King of the Castle~s~ to score the most points to win.
+
+0x13BBCA17 = Take control of the new ~COLOR_MP_OBJECTIVE_NEUTRAL~castle~s~
+
+0x449DD304 = Is the King
+
+0x630E26D9 = The ~COLOR_MP_OBJECTIVE_FRIENDLY~castle~s~ is about to change
+
+0x6000F7BC = Enter and remain in the area ~BLIP_MP_GAME_HILL~ marked with flags to capture and score points. The area will eventually move to another location.
+
+0x8748452F = Capture & control the areas
+
+0xBA7E909D = Scored ~1~
+
+0xBCA9A714 = ~COLOR_MP_OBJECTIVE_NEUTRAL~Castle~s~ changed
+
+0xC197EE13 = King of the Castle
+
+0xE3BB25FD = Gain control of the ~COLOR_MP_OBJECTIVE_ENEMY~castle~s~ from ~COLOR_ENEMY~~1~
+
+0xE2355F58 = Enter the area ~COLOR_MP_OBJECTIVE_FRIENDLY~~BLIP_MP_GAME_HILL~~s~ with your ~COLOR_POSSE_ALLY~Posse Member ~BLIP_AMBIENT_KING~~s~ to also increase your own score.
+
+0xF19E3BE2 = Castle
+
+0xF581C86E = The ~COLOR_MP_OBJECTIVE_NEUTRAL~castle~s~ is about to change
+

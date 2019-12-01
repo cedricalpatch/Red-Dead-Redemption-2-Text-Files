@@ -1,0 +1,1342 @@
+0x003CD1C5 = Return to ~o~~a~
+
+0x01110466 = Collect the ~p~object
+
+0x01308D5C = Kill (~1~)
+
+0x019F5AB3 = Rival delivered package
+
+0x01F6EAEB = Untie Marshal Davies and Sheriff Freeman by approaching them and holding ~INPUT_CUT_FREE~ to cut them free.
+
+0x0218DD09 = Return to the Play Area
+
+0x0234FB79 = Press ~INPUT_FRONTEND_RIGHT~ or ~INPUT_FRONTEND_LEFT~ to cycle through voting options
+
+0x0287D638 = The amount paid for the bribe will be deducted from your reward once Red Ben Clempson has been delivered to the Sheriff's Office.
+
+0x02F0079E = Retry Was Used
+
+0x03B1DE5A = Help your team maintain control of the ~p~objects
+
+0x041A33EE = Crack Safe
+
+0x046E4B46 = Capture Montez before he is able to reach safety.
+
+0x04952DA4 = Hold this ground
+
+0x04A7E740 = ~1~x
+
+0x0564E00F = Destroy the ~e~objects
+
+0x069FFD95 = Rival delivered target
+
+0x06B35BF3 = Deliver the train ~s~to the ~o~drop off
+
+0x07C487A4 = Collect dynamite from inside the Gunsmiths.
+
+0x07D71233 = Return (~1~)
+
+0x083AF77D = ~1~~s~ used ~2~
+
+0x084775E9 = Positive Honor (~1~)
+
+0x084C01D2 = Equip the Lasso and press ~INPUT_MELEE_ATTACK~ when near the outlaw to hogtie him.
+
+0x08A1EA98 = Complete the ~p~minigame object~s~
+
+0x08A9E6B7 = Enemy Team
+
+0x08D6152E = Take Offer (~1~)
+
+0x09684671 = WINNER
+
+0x09727A94 = Votes to start
+
+0x09D19C36 = Maintain control of the ~p~object
+
+0x0A0C91A0 = Capture the ~p~object
+
+0x0A9BFFC7 = Go to the ~e~body
+
+0x0A898E20 = Go to the ~p~object
+
+0x0A47633C = Work together to complete the mission!
+
+0x0AB4ACF0 = You can avoid a gunfight by following the lieutenant.
+
+0x0BE039B6 = Plant the ~o~Dynamite~s~
+
+0x0BE14541 = Hold ~INPUT_ATTACK~ while stationary to drag the lassoed Crawfish towards you.
+
+0x0C4B52CC = Equip the Lasso and use it to hogtie Allison.
+
+0x0C6677E5 = Team 6
+
+0x0C8365D7 = Put ~a~ down
+
+0x0CC12E47 = YOUR TEAM CAME THIRD
+
+0x0D69B051 = Find a way to break down the defenses at the fort and take him out.
+
+0x0D392D09 = Go to one of the ~f~friendlies
+
+0x0DAEFE23 = Save Marshal Davies by shooting the rope or cutting him free from on top of the gallows.
+
+0x0E3A8297 = Exit With Posse
+
+0x0EC8A884 = Return Allison to Terrance (~1~)
+
+0x0ED58A30 = Maintain control of the ~f~friendly
+
+0x0EF7AC32 = Help your team deliver the ~p~objects~s~ to the vehicle
+
+0x0F0CA3E5 = ~1~~s~ destroyed ~2~
+
+0x0F3EAC27 = Take out the ~e~enemies
+
+0x0F755B7C = While wearing the armor, you can withstand much more damage but you will be unable to move as quickly.
+
+0x0FCAB824 = Press ~INPUT_HORSE_ATTACK~ to throw the Lasso while aiming at Montez.
+
+0x1A0D0000 = RETURN TO PLAY AREA
+
+0x1A2DE1DA = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed Crawfish towards you.
+
+0x1B4B3F1B = The bounty is fleeing: capture her before she escapes.
+
+0x1B15F59E = Collect the vehicle
+
+0x1B74A1B5 = Failed to lose the law
+
+0x1B15156F = Capture the ~p~objects
+
+0x1C864407 = Don't help (~1~)
+
+0x1CC979EC = Voted for Option ~1~
+
+0x1D15A80D = You Dropped The Object
+
+0x1E1C3EBD = Return to Police Chief (~1~)
+
+0x1E9B8B5F = Take out the ~e~animals
+
+0x1E26DCD4 = Help your team deliver the ~f~friendlies~s~ to the vehicle
+
+0x1F207EA6 = Capture the ~f~friendlies
+
+0x1F326D65 = Lasso a Posse Member
+
+0x1FADC91D = Kill (~1~)
+
+0x2A7C4AB2 = Help your team maintain control of the vehicle
+
+0x2A7F1653 = Detonator
+
+0x2A839984 = RACE OVER
+
+0x2B9F2184 = Let Crawfish die (~1~)
+
+0x2BA8335C = the train
+
+0x2BCAA7C5 = Your team
+
+0x2C71E23E = Loot the ~e~body
+
+0x2C224E90 = Destroy the ~e~vehicles
+
+0x2C544E71 = TIME UNTIL DEATH
+
+0x2CAD65CB = Remove Crawfish from tracks (~1~)
+
+0x2D6C3935 = Position
+
+0x2D57F5A0 = Find the required transport
+
+0x2E12E5E7 = Don't help (~1~)
+
+0x2F68D019 = Approach a Volunteer and hold ~INPUT_INTERACT_LOCKON~ to interact with them. Press ~INPUT_INTERACT_LOCKON_POS~ to instruct them to follow, and to tell them to defend an area.
+
+0x3A23891B = YOUR TEAM CAME LAST
+
+0x3A74473C = Strength in numbers: more Posse Members can even the odds.
+
+0x3A487544 = Help your team deliver the ~p~crates~s~ to the ~o~drop off
+
+0x3BB66214 = Time Remaining = ~1~
+
+0x3BC57B48 = Accept Offer (~1~)
+
+0x3C2AAD66 = Player
+
+0x3C371C4B = Protect the ~f~friendly
+
+0x3CAB3201 = Kill the enemy
+
+0x3CB3D63D = RESPAWNING
+
+0x3D9584FD = Deliver the ~p~object~s~ to the ~o~drop off
+
+0x3DA4E127 = Exit Alone
+
+0x3DB6DE49 = Winfield has almost escaped: capture him before he's gone for good.
+
+0x3DE8F242 = Help your team maintain control of the ~p~object
+
+0x3E8DA48E = Crouching will make you less visible to enemies.
+
+0x3EC29B31 = ~1~~s~ delivered ~2~
+
+0x3EE731C4 = Cutscene
+
+0x3EEF38E7 = Help your team deliver the ~p~object~s~ to the ~o~drop off
+
+0x4AAFD0A9 = Time
+
+0x4B120828 = Meet Marshal Davies's tracker, find the gang members, and try to take down Montez.
+
+0x4BBEC723 = Take out the ~e~enemy
+
+0x4C5B4AF7 = Supply
+
+0x4C247A7C = Decline
+
+0x4C84043E = TIME LEFT
+
+0x4CC4E8B2 = Hogtie and deliver the thieves to Arnsdale alive.
+
+0x4D8CE3BA = Pick Up
+
+0x4DC545BD = You are the VIP
+
+0x4E8A20EE = Satchel
+
+0x4EA01A19 = Next capture wins
+
+0x4F4D4360 = VIP Downed
+
+0x4F34213D = ~1~~s~ destroyed ~2~ supply
+
+0x4FC0D941 = Bring the outlaw to the Sheriff.
+
+0x5A6FEE47 = Help your team maintain control of the ~f~friendly
+
+0x5A69BF20 = -RACE NAME-
+
+0x5ACE851C = CONTROL
+
+0x5AE44A90 = YOUR TEAM CAME SECOND
+
+0x5B5C28A8 = Deliver the ~f~friendlies ~s~to the ~o~drop off
+
+0x5B9FCFCD = Hold ~INPUT_ATTACK~ while stationary to drag the lassoed Montez towards you.
+
+0x5BB3B93F = HORSE RACE
+
+0x5C036223 = Failed to protect animal
+
+0x5D0C6955 = MISSION TIME
+
+0x5E5F54DB = MATCH OVER
+
+0x5E111E12 = ~a~ was destroyed
+
+0x5E69190E = 3
+
+0x5FED2506 = Accept Deal (~1~)
+
+0x6A73E1CC = At this difficulty there are multiple bounty targets who must all be captured, dead or alive.
+
+0x6A8360D9 = FAILED
+
+0x6A52517E = Save (~1~)
+
+0x6AFD1835 = ~a~ arrived
+
+0x6B28C683 = Press ~INPUT_HORSE_ATTACK~ to throw the Lasso while aiming at a Posse Member.
+
+0x6B30EB29 = YOUR TEAM CAME FIFTH
+
+0x6B68A28A = You
+
+0x6BA2508E = Skip Cutscene (~1~/~2~)
+
+0x6BD56590 = Failed to reach package
+
+0x6C65626E = Hold ~INPUT_AIM~ to keep Crawfish lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie them.
+
+0x6C99419F = Rival captured vehicle
+
+0x6CB3BCCF = ~a~ alerted ~a~
+
+0x6DD09CDF = Nearby gang members will be attracted by gun fire and shouting.
+
+0x6E00E378 = Kill the players
+
+0x6EE698CB = Out of lives
+
+0x6F0176F1 = Rival delivered animal
+
+0x6F3EAC12 = Maintain control of the ~f~friendlies
+
+0x6F5EFEE1 = an area
+
+0x6F180BA9 = Press ~INPUT_HORSE_ATTACK~ to throw the Lasso while aiming at the thief.
+
+0x7A595CAA = Carlier is trying to escape: capture him before he gets away.
+
+0x7AB66EBB = ~COLOR_OBJECTIVE~Shootout~s~
+
+0x7B32C370 = Capture each member of the gang to identify the real Etta Doyle.
+
+0x7BAA688F = Players
+
+0x7BC61961 = Find a horse
+
+0x7C2A931A = ~1p~ ~2p~
+
+0x7C40F527 = Detach your lasso
+
+0x7C3730B3 = Wrong angle
+
+0x7CAB9DFA = Help your team maintain control of the ~f~friendlies
+
+0x7D53B2D9 = Pick Up The Spool
+
+0x7DDAD7F1 = 1
+
+0x7E9E28EE = Get into the vehicle
+
+0x7EEA07D0 = Let Die (~1~)
+
+0x7F32FCCF = Protect the ~f~friendlies
+
+0x7F695C47 = Lasso the enemies
+
+0x7F38315F = LOSER
+
+0x7FBCD071 = Help your team deliver the vehicles~s~ to the vehicle
+
+0x8A1D99EB = Protect the ~p~objects
+
+0x8A534E09 = Hitch the ~f~friendly
+
+0x8A796CA3 = Help your team deliver the ~p~object~s~ to the vehicle
+
+0x8A9818F8 = Bounty Wagon
+
+0x8A444381 = His gang have been seen in Van Horn. Some camped just North of town, and the rest in the saloon there. Take them out then return to Davies.
+
+0x8CBD99A2 = Failed to reach vehicle
+
+0x8CE866DB = Stay hidden and observe the gang to identify the real Etta Doyle.
+
+0x8D6D8E4B = The ~o~play area~s~ will shrink in 15 seconds
+
+0x8DAC1831 = Save thieves (~1~)
+
+0x8DBD4B05 = ~a~
+
+0x8E4BEBBB = Mission Failed: Out of Bounds
+
+0x8EBFD6FF = Doyle is trying to escape: capture her before she gets away.
+
+0x8F30FA9D = 2
+
+0x8F2923BD = Failed to reach animal
+
+0x9A9AE42E = Go with Marshal Davies to put down the last of Alfredo Montez's gang and capture him.
+
+0x9A472A3D = The ~COLOR_BLUE~VIP~s~ has been revived
+
+0x9AB27726 = You left
+
+0x9B84E594 = an animal
+
+0x9B259410 = Help your team deliver the ~f~friendly~s~ to the ~o~drop off
+
+0x9BA0A881 = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed outlaw towards you.
+
+0x9C8135DB = Help Crawfish (~1~)
+
+0x9CCBDBE3 = Borodin has almost escaped: capture him before he's gone for good.
+
+0x9D2A74F4 = Animal arrived
+
+0x9D105EC3 = Clempson is trying to escape: capture him before he gets away.
+
+0x9DFB3687 = Hit Gang Leader
+
+0x9E095DCA = ~a~ (~a~)
+
+0x9E82D49E = DEATHMATCH
+
+0x9EE1E617 = ~1~~s~ skinned ~2~
+
+0x9EEB6BD5 = Maintain control of the ~f~friendlies
+
+0x10F639DA = SHOWDOWN
+
+0x11B0D8CB = Help your team deliver the ~f~friendlies~s~ to the ~o~drop off
+
+0x12E093A3 = You Collected The Object
+
+0x17A7FF3D = A bounty has almost escaped: capture them before they are gone for good.
+
+0x19EAC4BE = Joining
+
+0x20D4A4DD = The bounty has almost escaped: capture her before she's gone for good.
+
+0x20F1E59C = Press ~INPUT_JUMP~ to jump on the train.
+
+0x21A7D1B1 = Deliver the ~p~objects~s~ to the vehicle
+
+0x21A467D6 = ~a~
+
+0x22FDABC6 = WINNERS
+
+0x23AE49E1 = Don't take Offer (~1~)
+
+0x23FFC4E9 = Get on the horse
+
+0x24C75C30 = Detonation Zone
+
+0x25F6A434 = Borodin is trying to escape: capture him before he gets away.
+
+0x26FACAD0 = Remove (~1~)
+
+0x28C28FA6 = Collect the train
+
+0x28CF5A9F = ~a~ alerted the target
+
+0x28D9B7E2 = When on foot ~INPUT_COVER~ can be used to enter and exit cover.
+
+0x30EE46F7 = ~INPUT_FRONTEND_CANCEL~ No~s~
+
+0x31F86EEB = Take out Cliff (~1~)
+
+0x32A6FA78 = Your turn to fight
+
+0x34B30EDF = Maintain control of the ~f~friendly
+
+0x35AADC35 = Press ~INPUT_JUMP~ to hang from the side of the stagecoach.
+
+0x38C1864B = YOUR TEAM CAME FOURTH
+
+0x39EEAF95 = Wrong Way
+
+0x40DA4E8E = Lose the Law
+
+0x40FC2A89 = Protect the vehicle
+
+0x42BA5A3B = Capture a player
+
+0x42DF61E3 = 5
+
+0x42F8E358 = Wait for your ~pa~team~s~ to lay the Detonator Wire
+
+0x43E666EC = Team 3
+
+0x45FF6411 = Accept Trip Skip (~1~/~2~)
+
+0x46ABF75C = Help your team maintain control of the ~f~friendly
+
+0x48D475B9 = Protect the ~f~friendly
+
+0x49EB522C = A member of the Owlhoot Family has almost escaped: capture them before they're gone for good.
+
+0x53A4BC11 = YOUR TEAM CAME SEVENTH
+
+0x54EED757 = Hold ~INPUT_ATTACK~ while stationary to drag the lassoed thief towards you.
+
+0x55E93576 = Hold ~INPUT_AIM~ to keep the thief lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie them.
+
+0x58C7FA38 = Replay
+
+0x59C3FF21 = TIME
+
+0x61B9DD40 = Please wait while you join the gametype in progress.
+
+0x62A64EF0 = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied thief to pick them up.
+
+0x62AA4B85 = Wait for your team to board the train
+
+0x63D9E041 = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed Montez towards you.
+
+0x64D70C92 = Hold ~INPUT_INTERACT_LOCKON~ when unarmed to focus on a horse and press ~INPUT_INTERACT_LOCKON_TARGET_INFO~ to show info.
+
+0x65B58F49 = Hit Montez
+
+0x70B3BDA3 = 4
+
+0x70CA9030 = GO
+
+0x71B50D9F = You alerted ~a~
+
+0x73BED9B0 = Help your team deliver the vehicles~s~ to the ~o~drop off
+
+0x73D3263F = Hogtie a Posse Member
+
+0x74E75865 = Equip the Lasso and press ~INPUT_MELEE_ATTACK~ when near Allison to hogtie her.
+
+0x74F93481 = ~a~
+
+0x75BBEE7B = Tucker is trying to escape: capture him before he gets away.
+
+0x77B4B70C = The ~COLOR_RED~VIP~s~ has been downed
+
+0x80D4CD9B = Failed to kill rivals
+
+0x80E13ECC = The lieutenant is attempting to flee. Don't let him escape.
+
+0x80FFA5E2 = Protect the ~f~friendlies
+
+0x83B6EF15 = Clay Davies has his eye on a stolen horse. Take it back off the horse thieves at Manzanita Post, and bring it to him at Blackwater.
+
+0x84ACA7FB = Go to one of the vehicles
+
+0x84C12829 = Destroy the ~e~train
+
+0x86AC3CE7 = Tucker has almost escaped: capture him before he's gone for good.
+
+0x86B62442 = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Difficulty
+
+0x86EEA6B7 = To help the thieves vote 'Help', to let them die vote 'Kill', or let the timer expire.
+
+0x88A0E9E1 = Your Team Collected The Object
+
+0x89C3E401 = Lay the wire leading out of the ~o~blast radius~s~
+
+0x89D515D8 = Alerting camps or patrols will increase the number of reinforcements Montez has with him.
+
+0x89F7852F = Press ~INPUT_ATTACK~ to throw the Lasso while aiming at the outlaw.
+
+0x93B1403C = To help the couple escape vote 'Help' or let the timer expire, to take Cliff down vote 'Kill'.
+
+0x93C1BD3E = Failed to protect vehicle
+
+0x95BFB65D = Information
+
+0x95FF4FA8 = Restart (~1~/~2~)
+
+0x96FFE149 = You have been eliminated
+
+0x97B17DBC = Defeat your opponents!
+
+0x97C74328 = Return Allison O'Dowd to her husband. The rest of Cliff's outlaw gang are in the area and after revenge.
+
+0x97CEC032 = Mrs LeClerk and Horley have agreed to meet Amos Lancing in Blackwater. Guard them until the meeting is over.
+
+0x115C98FF = Deliver the ~f~friendly ~s~to the ~o~drop off
+
+0x116B2C98 = Kill Crawfish (~1~)
+
+0x119E26FA = Help (~1~)
+
+0x138CF99C = Failed to use object
+
+0x141B90D5 = Skip
+
+0x148E4CDC = Restart~s~
+
+0x158AB4F6 = Get onto the train
+
+0x182AB749 = Sheriff's Office
+
+0x183FC8D2 = ~1~~s~ looted ~2~
+
+0x188BFA0C = Rival delivered vehicle
+
+0x203AD53A = YOUR TEAM CAME FIRST
+
+0x267C19BC = Protect the ~p~object
+
+0x269FA964 = 7
+
+0x319AFAB9 = ~a~ ~1~
+
+0x323BE2C6 = Your team
+
+0x326F9208 = Votes to replay
+
+0x350E2DC4 = You can enter Dead Eye by holding ~INPUT_AIM~ and pressing ~INPUT_SPECIAL_ABILITY~. Your Dead Eye bar will drain when this is active.
+
+0x368A7B1D = Decision Lockon
+
+0x387C9631 = Clay Davies has his eye on a stolen horse. Take it back off the horse thieves at Rathskeller Fork, and bring it to him at Tumbleweed.
+
+0x446BD028 = Rival captured animal
+
+0x489CBEB3 = Press ~INPUT_HORSE_ATTACK~ to throw the Lasso while aiming at Crawfish.
+
+0x489E8975 = Rival protected ~a~
+
+0x514D4F47 = Go to the vehicle
+
+0x527F35E0 = a friendly
+
+0x534F25E9 = Target found a body
+
+0x552F9EFD = Alfredo Montez isn't here.
+
+0x588E0B39 = Animal killed
+
+0x595A1809 = You have collected some armor. It will protect you from losing health until it breaks from taking too much damage, at the expense of mobility.
+
+0x603C42FC = Positive Honor (~1~)
+
+0x612EF458 = ~a~ was alerted
+
+0x671E61B7 = Find the required vehicle
+
+0x680A618A = Rival captured package
+
+0x734CA6A9 = Deliver the ~f~friendly ~s~to the ~o~drop off
+
+0x746FD63F = Kills
+
+0x751C5841 = You've made the honorable choice.
+
+0x753BB283 = Plant Dynamite
+
+0x780A5999 = ELIMINATED
+
+0x786EC061 = If you get stuck hold ~INPUT_FRONTEND_Y~ to manually respawn.
+
+0x811F7F95 = Help your team deliver the ~f~friendlies~s~ to the ~o~drop off
+
+0x818A06F0 = Team member died
+
+0x881F3F37 = Help Marshal Tom Davies track down Alfredo Montez.
+
+0x885B2D47 = Drop the player
+
+0x887A768C = Deliver the vehicle ~s~to the vehicle
+
+0x895C2276 = Maintain control of the vehicle
+
+0x903F0B0A = Open Chest
+
+0x927CEFAB = Failed to protect target
+
+0x930E0B78 = Help (~1~)
+
+0x944CB392 = Kill Cliff (~1~)
+
+0x952A97EC = You have been detected. The lieutenant will attempt to flee.
+
+0x953FD2E3 = Team Shootout is a team based game. Players are awarded points for killing the enemy team. The team with the highest cumulative score wins.
+
+0x959D8F08 = Spectate
+
+0x1548E340 = Load Onto Wagon
+
+0x1978AF9C = Lasso the enemy
+
+0x2865AFEB = Team 1
+
+0x3129A3DE = READY
+
+0x3533F83A = Hit Thief
+
+0x3568E7AC = Remove from tracks (~1~)
+
+0x3605A9D3 = Leaving Capture
+
+0x3750BAD4 = Capture one of the areas
+
+0x3775BA3C = Go to one of the ~e~bodies
+
+0x4065A13D = Take ~a~ off the horse
+
+0x4251F780 = ~COLOR_NET_PLAYER3~Team 1~s~ has been eliminated
+
+0x4914E0AC = SUDDEN DEATH
+
+0x5107B1DB = ~1~~s~ killed ~2~
+
+0x5147BB3D = Wait for your team to escape
+
+0x6014D10B = an enemy
+
+0x6756BD17 = Winfield is trying to escape: capture him before he gets away.
+
+0x7106E491 = Refuse Deal (~1~)
+
+0x7271FC75 = Clay Davies has his eye on a stolen horse. Take it back off the horse thieves at Rhodes, and bring it to him at Saint Denis.
+
+0x7425C3A7 = Mission over
+
+0x7431B25E = Help your team maintain control of the ~f~friendlies
+
+0x7529E590 = Deliver the vehicle ~s~to the ~o~drop off
+
+0x7856E1EA = Press ~INPUT_HORSE_ATTACK~ to throw the Lasso while aiming at the outlaw.
+
+0x8101B3B2 = The ~COLOR_RED~VIP~s~ has been revived
+
+0x8203D250 = If any of Crawfish's men die you will fail.
+
+0x8217CD5C = Headshots
+
+0x8228CA42 = OR last team standing wins
+
+0x8427FE1B = TIME UNTIL HANGING
+
+0x8612EDFB = Hit Allison
+
+0x8646A4EA = Capture the area
+
+0x8805D80D = Pick ~a~ up
+
+0x8924CD4A = Take out ~v~~a~
+
+0x9005BA9B = Samson Finch's former company, stationed at Fort Wallace, intend to rob a bank using army explosives.
+
+0x9028D234 = Destroy the ~e~object
+
+0x9039F929 = Take out the ~e~enemy
+
+0x9442E244 = Bring the outlaw to the Police Chief.
+
+0x16694A75 = Failed to leave ~a~
+
+0x18052FA2 = Rival captured location
+
+0x19408B1A = Your Team Dropped The Object
+
+0x22711C4F = Collect the ~f~friendlies
+
+0x23308AEE = Out of Bounds
+
+0x24548BCF = Hogtie the enemies
+
+0x30457F56 = Failed to reach target
+
+0x41220D8E = Alcazar has almost escaped: capture her before she's gone for good.
+
+0x46518F27 = Refuse Offer (~1~)
+
+0x55118EA1 = Wait for your team to get into the vehicle
+
+0x55632D4A = Don't Help (~1~)
+
+0x58725E39 = ~1~ ~2~
+
+0x70898AAB = The bounty is fleeing: capture him before he escapes.
+
+0x71606C9C = Maintain control of the ~p~objects
+
+0x71994FC6 = Eliminated from Sudden Death
+
+0x77534E71 = The wooden wall can be shot through.
+
+0x79288B2B = To return the outlaw to the Police Chief vote 'Refuse offer', to accept the outlaw's offer vote 'Take offer', or let the timer expire.
+
+0x89645C26 = Take out the ~e~enemies
+
+0x95249BC3 = Failed to reach location
+
+0x182942AF = Help your team deliver the ~p~objects~s~ to the ~o~drop off
+
+0x188238E0 = Clay Davies has his eye on a stolen horse. Take it back off the horse thieves at the ranch, and bring it to him at Valentine.
+
+0x192099C9 = Mission Failed: Out of Lives
+
+0x268086C1 = Take the body to the Sheriff.
+
+0x290969B6 = Rival captured target
+
+0x332993CD = Press ~INPUT_ATTACK~ to throw the Lasso while aiming at Crawfish.
+
+0x534405A7 = Team 2
+
+0x565507CB = OR next capture wins
+
+0x567985C4 = Hogtie and pick up a player
+
+0x640776F1 = 10
+
+0x671627DE = Posse Leader has left the session.
+
+0x783288EE = Deliver a player
+
+0x815356CD = PLAYER LEFT
+
+0x838525A6 = Deliver the player to the ~o~drop off
+
+0x952954BF = Use the ~o~Detonator~s~ to trigger the dynamite
+
+0x961385CC = ALERT
+
+0x1997562A = ~COLOR_OBJECTIVE~Play Area
+
+0x2175984B = -MISSION NAME-
+
+0x3278634C = ~a~ was killed
+
+0x3465778B = Get the package and return it to your base!
+
+0x3964115E = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied outlaw to pick him up.
+
+0x6538753D = You've made the dishonorable choice.
+
+0x7638400E = ~a~ died
+
+0x7754857F = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Difficulty
+
+0x8472647A = Loot the ~o~chests~s~
+
+0x12403074 = Kill the teams
+
+0x14908546 = 6
+
+0x27707864 = Rival captured ~a~
+
+0x31978205 = Your honor will be updated after completing the mission.
+
+0x39265641 = Failed to use the ~a~
+
+0x44868865 = Load onto the ~p~vehicle
+
+0x46750749 = Maintain control of the areas
+
+0x61757064 = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed thief towards you.
+
+0x64260207 = Take the body to the Police Chief.
+
+0x73989625 = Jail
+
+0x78879536 = Help your team maintain control of the train
+
+0x79145417 = K/D Ratio
+
+0x84853468 = Go to the ~f~friendly
+
+0x85580079 = A smooth-talking conman has evaded the West Elizabeth law in Pike's Basin. Find him, and see that matters are resolved.
+
+0x86365846 = Your team left
+
+0xA05AEE2E = Press ~INPUT_ATTACK~ to throw the Lasso while aiming at the thief.
+
+0xA06DCB0F = (~1~/~1~)
+
+0xA0BA81EF = Mrs LeClerk would like to sit alone in the back of the wagon.
+
+0xA0BBB033 = Players
+
+0xA1A26B81 = Collect the ~f~friendlies
+
+0xA1EFD8A6 = YOUR TEAM CAME SIXTH
+
+0xA1FE33C9 = Press ~INPUT_ATTACK~ to throw the Lasso while aiming at a Posse Member.
+
+0xA2ABC230 = Positive Honor (~1~)
+
+0xA2B3B397 = Collect the ~f~friendly
+
+0xA2CEE7A6 = Capture one of the vehicles
+
+0xA3A6F966 = Loot the ~o~chest~s~
+
+0xA3B8DF29 = Help your team deliver the ~p~crate~s~ to the ~o~drop off
+
+0xA3F21914 = ~1~~s~ arrived at ~2~
+
+0xA5DEB0D6 = ~s~~INPUT_FRONTEND_ACCEPT~ Yes~s~
+
+0xA7E2E056 = a body
+
+0xA8CCF761 = The ~a~ failed
+
+0xA8DE9C18 = ~a~ found a body
+
+0xA8E9AA3B = Maintain control of the train
+
+0xA9C4BABF = ~1~~s~ started capturing ~2~
+
+0xA36B7A72 = VS
+
+0xA39E8EBF = Carlier has almost escaped: capture him before he's gone for good.
+
+0xA71BD1F7 = Save Conman (~1~)
+
+0xA81D5668 = Checkpoint~s~
+
+0xA99C12C6 = Failed to reach ~a~
+
+0xA213ACEE = Go to the ~f~friendly
+
+0xA276B6F0 = The bandit Alfredo Montez and his gang are said to be hiding out in Tall Trees.
+
+0xA467A7E9 = Team 8
+
+0xA936E673 = The ~a~ team left
+
+0xA1086D0E = Help Allison and Cliff (~1~)
+
+0xA6560DC8 = ~s~Press ~INPUT_FRONTEND_DOWN~ to activate Menu.
+
+0xA96446B2 = You are now blipped to other players.
+
+0xA513712D = Alcazar is trying to escape: capture her before she gets away.
+
+0xA628031F = VOTE LOCKED to SKIP to the next map.
+
+0xAA53CACA = Ready
+
+0xAA460DB2 = Wait For Other Players
+
+0xAAF8B8D6 = ~1~~s~ lost ~2~
+
+0xAB5D15BF = Help your team deliver the ~f~friendly~s~ to the ~o~drop off
+
+0xAB835DBC = Checkpoint (~1~/~2~)
+
+0xABADB396 = GO
+
+0xAC09A2FC = Votes to skip
+
+0xACBA0878 = Hold ~INPUT_AIM~ to keep Montez lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie him.
+
+0xACF457F1 = Tap ~INPUT_ATTACK~ to fire rapidly from the hip.
+
+0xAD6A4C14 = Hold ~INPUT_ATTACK~ while stationary to drag the lassoed outlaw towards you.
+
+0xAD9C6ED2 = Terrence O'Dowd has sent more gunmen to retrieve his wife. Protect the couple and escort them to safety.
+
+0xAD68EB29 = Leave & Enter Free Roam
+
+0xAD6716A5 = Protect the train
+
+0xADE9AE09 = Deaths
+
+0xADF220D4 = Vehicle destroyed
+
+0xAE13C183 = Help Allison (~1~)
+
+0xAE21BF86 = Capture the vehicle
+
+0xAE311773 = STATISTICS
+
+0xAEE2DEE3 = Marshal Davies has requested your assistance in the town of Valentine. Go to the Sheriff's Office and see how you can help.
+
+0xB0A527EC = Interact
+
+0xB1BA8763 = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near Allison to pick her up.
+
+0xB1C65B9D = Drop the player
+
+0xB1E335AC = ~COLOR_NET_PLAYER6~Team 4~s~ has been eliminated
+
+0xB2A5AD34 = Enemy Team Collected The Object
+
+0xB4B36C1B = Deliver the ~p~objects~s~ to the ~o~drop off
+
+0xB5FD9209 = Enemies with vision cones on the radar won't be alerted until they see you.
+
+0xB6A433A6 = Capture the train
+
+0xB6D12A75 = Character Creator
+
+0xB7A72FF7 = ~a~ member died
+
+0xB7DB4D27 = Target alerted
+
+0xB40EBC50 = Out of ammunition
+
+0xB48C4C3C = Hogtie the enemy
+
+0xB74AB244 = OR next point wins
+
+0xB76D729A = Take Deal (~1~)
+
+0xB921AA41 = Refuse the offer (~1~)
+
+0xB9025BAA = Go to one of the ~p~objects
+
+0xB24660FE = Collect one of the vehicles
+
+0xB69840A9 = Get into one of the vehicles
+
+0xB612944A = Free Roam~s~
+
+0xB1702196 = TEAM MISSION
+
+0xB3430115 = Stop them dead by blowing up the ammunition dump there, and taking out Samson's old partner.
+
+0xB7442998 = Score
+
+0xBA72FEE1 = Let Thieves Die (~1~)
+
+0xBB21BB5A = VOTE LOCKED to REPLAY the previous map.
+
+0xBBAFA172 = Protect the vehicles
+
+0xBC8E44F9 = Carry out Samson Finch's plan to rob the industrialists at the kerosene and tar plant by taking over a train full of private detectives.
+
+0xBC591D01 = Out of bounds
+
+0xBC77566B = Failed to reach score
+
+0xBD0A4978 = Help your team deliver the vehicle~s~ to the ~o~drop off
+
+0xBD15A57F = ~s~Press ~INPUT_FRONTEND_LEFT~ to drop the object.
+
+0xBDC98592 = Kill Thieves (~1~)
+
+0xBE9DE078 = Wait for your team to lose the Law
+
+0xBE9ED799 = The Wolf Man is trying to escape: capture him before he gets away.
+
+0xBF8C2E1C = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied Montez to pick him up.
+
+0xBFE5FCA4 = Save Crawfish (~1~)
+
+0xBFF4A278 = Failed to protect package
+
+0xC06360EC = Help your team deliver the ~f~friendlies~s~ to the vehicle
+
+0xC0ABDAB2 = 9
+
+0xC1BE1775 = Focus on the clue
+
+0xC4A13964 = a wagon
+
+0xC6C9662D = Bribe
+
+0xC6D09289 = Arriving at the bank on horseback will raise suspicion and give away the disguise.
+
+0xC7E7B6D7 = Strength in numbers: more Posse Members can even the odds, and a Bounty Wagon helps with multiple targets.
+
+0xC7F20A62 = Friendly was left out of bounds
+
+0xC8DC42AD = Your horse has been spooked by a loud noise. You will be unable to whistle for your horse until you reach your destination.
+
+0xC21F02FB = Maintain control of the vehicles
+
+0xC29D88FA = Save (~1~)
+
+0xC45EEE19 = Don't Kill Cliff (~1~)
+
+0xC54CA81E = Hit bounty
+
+0xC94B8DC9 = Shootout is a free-for-all game. Players are awarded points for killing other players. The player with the highest score in ten minutes wins.
+
+0xC97F028A = Kill the enemies
+
+0xC154A615 = Deliver the ~p~object~s~ to the vehicle
+
+0xC471E3C1 = Description
+
+0xC601E55E = 8
+
+0xC7078AE7 = Help (~1~)
+
+0xC9208B61 = Approach the gate to plant the dynamite.
+
+0xC12743AC = Leaving Mission
+
+0xC34844DE = Rival delivered ~a~
+
+0xC1063573 = Go to one of the ~o~locations
+
+0xC4968245 = Wire Spool
+
+0xC5353719 = Team Total
+
+0xC8748239 = Lose the Gang chase
+
+0xCA1C0F3B = OUT
+
+0xCA7A823E = Time expired
+
+0xCAA8204C = Return Allison (~1~)
+
+0xCAECA422 = The Wolf Man has almost escaped: capture him before he's gone for good.
+
+0xCB7C2C3B = Teddy Brown, the suspected murderer of Jessica LeClerk's husband, is holed up at Fort Mercer and under siege by marshals.
+
+0xCB379FFA = Deliver the ~f~friendly ~s~to the vehicle
+
+0xCB880527 = ~COLOR_NET_PLAYER4~Team 2~s~ has been eliminated
+
+0xCCE52620 = Horse
+
+0xCD07F220 = Decline Trip Skip (~1~/~2~)
+
+0xCD2AECDA = The law was alerted
+
+0xCD7DE881 = Un-Hogtie the enemy
+
+0xCE1D10EC = Help your team maintain control of the vehicles
+
+0xD013B6FC = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Difficulty
+
+0xD028F997 = Watch out for Sergio Vincenza and his snipers. Their scopes will glint when they are aiming at you.
+
+0xD0953F66 = Hogtie and pick up the player
+
+0xD09E03C9 = ~a~ left
+
+0xD2D636CB = Next point wins
+
+0xD2E33A08 = ~s~Exit Test
+
+0xD4AD6112 = Deliver the ~f~friendlies ~s~to the ~o~drop off
+
+0xD4BFC377 = Drop
+
+0xD5A390A2 = Help the couple (~1~)
+
+0xD8C9A05A = A member of the Owlhoot Family is trying to escape: capture them before they get away.
+
+0xD8EAB594 = Save Bounty (~1~)
+
+0xD9FBA7EC = You are now blipped and losing health for idling.
+
+0xD18BB306 = The lieutenant's men will attack if you are spotted.
+
+0xD43DF859 = When aiming with a gun, press ~INPUT_SWITCH_SHOULDER~ to switch the camera to the other shoulder.
+
+0xD44A9767 = Dead enemies can be looted for ammo, cash and other items.
+
+0xD60A2DE6 = Standing still for too long will reveal your position on the enemy's radar. Your player blip will flash if you've been idle for too long.
+
+0xD62E09D3 = Escape the area
+
+0xD77DA59E = Clinton Arnsdale believes he's been robbed by a Mr. Bob Crawfish. He and his closest associates are holed up somewhere nearby.
+
+0xD88D1DD6 = ~1~~s~ dropped ~2~ out of bounds
+
+0xD656A963 = Planting Location
+
+0xD777B66D = Target destroyed
+
+0xD996EBEC = Players Remaining
+
+0xD14481A2 = Team 5
+
+0xD20973C0 = an object
+
+0xD89349B6 = Equip the Lasso and press ~INPUT_MELEE_ATTACK~ when near Montez to hogtie him.
+
+0xD720585E = Vincenza is trying to escape: capture him before he gets away.
+
+0xD941534D = Doyle has almost escaped: capture her before she's gone for good.
+
+0xD8515355 = MISSION
+
+0xDAD7ED15 = Skin the ~e~enemies
+
+0xDADE17C6 = Skin the ~e~enemy
+
+0xDAE8C03F = Clempson has almost escaped: capture him before he's gone for good.
+
+0xDBE89562 = Collect the ~p~objects
+
+0xDC4F8F94 = Vincenza has almost escaped: capture him before he's gone for good.
+
+0xDC34876A = You alerted the target
+
+0xDE63CFD6 = Approach the ammunition dump to plant the dynamite.
+
+0xDE76BADC = Deliver the ~f~friendlies ~s~to the vehicle
+
+0xDEB4BF45 = Assists
+
+0xE00143C1 = Help Bounty (~1~)
+
+0xE050B4C2 = Kill Cliff and return Allison (~1~)
+
+0xE09BDFF9 = Base
+
+0xE0E7562C = ~s~Press ~INPUT_FRONTEND_UP~ to activate Menu
+
+0xE1B6CE95 = The door is locked.
+
+0xE1BADA4A = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Difficulty
+
+0xE2A40FE1 = Kill your Posse Member
+
+0xE2F7A981 = MISSION FAILED
+
+0xE5EF0F5F = Pick up the ~o~Wire Spool~s~
+
+0xE5F8F6B7 = Last team standing wins
+
+0xE6B51A71 = Go to the ~o~location
+
+0xE6CF572C = Breaking free will alert the guard.
+
+0xE6D2AC2C = ~a~ was left out of bounds
+
+0xE7FA33CC = Destroy the ~e~vehicle
+
+0xE9D4FDC6 = Go to the Saint Denis bank, use your disguise to gain entry to the safes, and steal the bonds. Escape and regroup with Samson.
+
+0xE9F05D17 = Get into the ~p~vehicle
+
+0xE10E4831 = Wait for the rest of the team to reach this location
+
+0xE19B5839 = ~1~~a~ held ~2~
+
+0xE54C413B = Take out his hired guns, subdue Crawfish and his boys, and bring them to Mr. Arnsdale by Fort Riggs Station.
+
+0xE86A9E45 = Set up the Detonator
+
+0xE89E5497 = a location
+
+0xE91EDC44 = Leaving LTS
+
+0xE92FE39D = Help your team deliver the vehicle~s~ to the vehicle
+
+0xE99D59EA = Team failed
+
+0xE125CB28 = Quickly follow Old Man Jones to Tumbleweed and rescue the Marshal before it's too late.
+
+0xE174DEFD = Target arrived
+
+0xE209E25D = Joined
+
+0xE510BCE1 = ~1~~s~ collected ~2~
+
+0xE525B75A = The bounty has almost escaped: capture him before he's gone for good.
+
+0xE567E1A4 = ~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~~BLIP_MP_BOUNTY_HUNTER_INTRODUCTION~ Difficulty
+
+0xE678BE12 = Place Detonator
+
+0xE4061C85 = Deliver the ~f~friendly ~s~to the vehicle
+
+0xE9841C66 = Get onto one of the trains
+
+0xE4623863 = Take his offer (~1~)
+
+0xE7177630 = Go to one of the ~f~friendlies
+
+0xEA2E01DB = Equip the Lasso and press ~INPUT_MELEE_ATTACK~ when near Crawfish to hogtie him.
+
+0xEA5F7FAB = Help your team deliver the train~s~ to the ~o~drop off
+
+0xEA9CA287 = Collect the ~f~friendly
+
+0xEAA976D5 = The ~COLOR_BLUE~VIP~s~ has been downed
+
+0xEB199062 = OR next death loses
+
+0xEBF26CC2 = YOUR TEAM CAME EIGHTH
+
+0xEC7A26EB = enemy players
+
+0xEC130757 = ~COLOR_NET_PLAYER5~Team 3~s~ has been eliminated
+
+0xEE418B24 = Deliver the ~f~friendlies ~s~to the vehicle
+
+0xEE393621 = ~1p~
+
+0xEEBBE654 = Marshal Davies was captured and is due to be hanged in Tumbleweed.
+
+0xEEE2BCDE = Team 4
+
+0xEF24E844 = Let Crawfish Die (~1~)
+
+0xEF636576 = The ~a~ team failed
+
+0xEF883465 = You died
+
+0xF02F80CC = A bounty is fleeing: capture them before they escape.
+
+0xF0814492 = Skin the ~e~animal
+
+0xF09275C5 = Split up to choose between following Horley or defending Mrs LeClerk.
+
+0xF0BAFBE3 = No Owner
+
+0xF2A6B67E = Next death loses
+
+0xF2B0DB2D = A smooth-talking outlaw has evaded the West Elizabeth law in Pike's Basin. Find him, and see that matters are resolved.
+
+0xF6E71A7D = Alerting the Guards will disrupt the meeting.
+
+0xF7EB453A = Local Team
+
+0xF8CD6E72 = Help Thieves (~1~)
+
+0xF8CEE4D1 = VOTE LOCKED for the CURRENT map.
+
+0xF9AD2CED = Take out the ~e~animal
+
+0xF9C027CF = Capture the ~f~friendlies
+
+0xF34B6041 = Terrence O'Dowd's wife, Allison, has been taken by a gang at Twin Rocks. Take on the gang, and find her.
+
+0xF37F1A86 = MISSION OVER
+
+0xF80F8EB6 = Hold ~INPUT_AIM~ to keep the outlaw lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie him.
+
+0xF81CC0BD = Capture the ~f~friendly
+
+0xF83B700D = Help your team deliver the ~f~friendly~s~ to the vehicle
+
+0xF86F0C97 = You have no lives
+
+0xF87D218C = ~1p~ has left the session
+
+0xF93ED7D8 = Help Cliff (~1~)
+
+0xF550A411 = MISSION PASSED
+
+0xF572A456 = ~1~~s~ dropped ~2~
+
+0xF769BDFD = ~1~~s~ starting contesting ~2~
+
+0xF2362BB4 = ~1~~s~ captured ~2~
+
+0xF4576C6D = Help Conman (~1~)
+
+0xF9957BA1 = Hit ~1~
+
+0xF61584BA = Press ~INPUT_ATTACK~ to throw the Lasso while aiming at Montez.
+
+0xFA3B050A = ~s~Retry from the last checkpoint or restart from the beginning?~s~
+
+0xFA5ED1BE = Friendly killed
+
+0xFAD16C45 = Crawfish and his associates must remain alive.
+
+0xFB09812B = GO
+
+0xFB587BB5 = Un-hogtie your Posse
+
+0xFB641AF1 = Choose to defend Mrs LeClerk and Horley from the rooftop or standing by them.
+
+0xFC1AC687 = Samson Finch needs two things for a big job: an Express Company Stagecoach under heavy guard in Strawberry, and some uniforms in a supply wagon heading through the Great Plains to Blackwater. Find and deliver them to this cabin.
+
+0xFC8E6276 = Capture the ~f~friendly
+
+0xFC69B7C6 = Maintain control of the area
+
+0xFC696A0A = You are hogtied
+
+0xFCD9A1BF = Free Roam (~1~/~2~)
+
+0xFCD358BF = Team 7
+
+0xFCF33225 = Detonate Dynamite
+
+0xFDC44360 = Enemy Team Dropped The Object
+
+0xFE3CE26F = Help your team deliver the ~f~friendly~s~ to the vehicle
+
+0xFE42D7FE = Un-Hogtie the enemies
+
+0xFE5076C2 = Please vote on taking a journey skip, you will be charged for this if the vote passes.
+
+0xFEFB66A4 = Team Score
+
+0xFF1D07DB = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied Crawfish to pick him up.
+
+0xFF732C65 = Equip the Lasso and press ~INPUT_MELEE_ATTACK~ when near the thief to hogtie them.
+
+0xFF305148 = Take out the ~a~
+

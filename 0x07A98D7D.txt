@@ -1,0 +1,84 @@
+0x0A216DE2 = ~z~Why can I not change and be the woman I want to be?
+
+0x0D2FE344 = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+0x0E3CCA6D = ~z~Oh, Arthur, I have made such a mess of my life, time and again.
+
+0x3A29BA98 = ~z~~sl:0.0:3.9~Oh, Arthur, I know it is wrong to ask you,~sl:0.5~but I am all alone and for what we once had together,
+
+0x4E5BA0B8 = ~z~Mary.
+
+0x5CBB9311 = ~z~I hope this letter finds you well.
+
+0x6F1DDA3B = ~z~I'm staying at the Hotel Grand in Saint Denis.
+
+0x6F2C37F2 = ~z~~sl:0.0:1.8~It seems Jamie may have escaped~sl:~from the clutches of the Chelonians,
+
+0x8E524AA2 = ~z~Life is very confusing and I see now that I'm not very good at it.
+
+0x9C90671E = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+0x9EB7C1AF = ~z~Yours,
+
+0x10E11DA3 = ~z~~sl:0.0:3.2~I am afraid we have got ourselves into another mess.~sl:~It's not my fault, but I need your help.
+
+0x13D50149 = ~z~Life is very confusing and I see now that I'm not very good at it.
+
+0x31A89144 = ~z~I understand that Jamie is thinking about going back to college.
+
+0x54B32566 = ~z~I beg of you, even though I am ashamed to do so.
+
+0x63DF75B1 = ~z~~sl:0.0:1.1~Whatever happens,~sl:0.2~I believe you saved his life and we are all truly grateful.
+
+0x81EC0818 = ~z~~sl:0.0:3.9~Oh, Arthur, I know it is wrong to ask you,~sl:0.5~but I am all alone and for what we once had together,
+
+0x209D6F2E = ~z~My Dear Arthur,
+
+0x262BA5F6 = ~z~~sl:0.0:3.1~I am afraid we have got ourselves into another mess.~sl:0.6~It's not my fault, but I need your help.
+
+0x289E9A25 = ~z~~sl:0.0:3.1~I am afraid I have got myself into another mess.~sl:0.5~It's not my fault, but I need your help.
+
+0x407AAEE8 = ~z~Why can I not change and be the woman I want to be?
+
+0x816B7ED6 = ~z~~sl:0.0:4.1~Oh, Arthur, I know it is wrong to ask you,~sl:0.4~but I have nobody else and for what we once had together,
+
+0x942AAC95 = ~z~~sl:0.0:3.9~I hate so to ask, but I have nobody else.~sl:0.7~I'm staying at the Hotel Grand in Saint Denis.
+
+0x7246AD70 = ~z~~sl:0.0:2.4~There was a problem with my brother Jamie,~sl:~but it all worked out, fortunately, and he's back safe now.
+
+0x38503988 = ~z~~sl:0.0:3.2~I hate so to ask, but I have nobody else.~sl:0.6~I'm staying at the Hotel Grand in Saint Denis.
+
+0x93338000 = ~z~~sl:0.0:2.5~Why couldn't you change and be a man~sl:~and put down all those fantasies that shroud your judgment?
+
+0xA609C812 = ~z~Yours,
+
+0xAAFE1EE2 = ~z~Life is very confusing and I see now that I am not very good at it.
+
+0xB2F9EA33 = ~z~I beg of you, even though I am ashamed to do so.
+
+0xB9F03A23 = ~z~I beg of you, even though I am ashamed to do so.
+
+0xB8456C89 = ~z~Mary.
+
+0xC4BBD25D = ~z~My Dear Arthur,
+
+0xCA47C280 = ~z~I hope this letter finds you well.
+
+0xCCB1DFA6 = ~z~Yours,
+
+0xD6CCF3DC = ~z~Mary.
+
+0xD29E7ED5 = ~z~My Dear Arthur,
+
+0xD48671F2 = ~z~~sl:0.0:1.9~I hope this letter finds you well.~sl:0.7~I'm not sure if you received the letter I sent you from Valentine.
+
+0xEDADB4FB = ~z~~sl:0.0:1.8~so perhaps it was for the best~sl:~that you didn't go causing trouble on my behalf.
+
+0xEFED28BF = ~z~Oh, Arthur, I have made such a mess of my life, time and again.
+
+0xF8B7CB0F = ~z~~sl:0.0:5.1~Oh, Arthur, you're very wise. I, on the other hand,~sl:0.2~have made such a mess of my life, time and again.
+
+0xFC20A635 = ~z~~sl:0.0:2.8~I wanted to thank you for your help with Jamie.~sl:0.6~He and Daddy are still arguing, but
+
+0xFDA3442B = ~z~Why can I not change and be the woman I want to be?
+

@@ -1,0 +1,532 @@
+0x01780703 = ~z~~sl:0.0:4.4~I heard what happened with that last job, you know? Not so good.~sl:3.0~It's okay, though. Come in.
+
+0x027EA807 = ~z~~sl:0.0:2.3~Ain't got nothing going at the moment, you know?~sl:0.5~Come back another time.
+
+0x0290A746 = ~z~~sl:0.0:1.2~I don't like it.~sl:0.7~They want to eat me.
+
+0x029451A0 = ~z~~sl:1.5:2.7:1~You think it's colder in here, or out there?
+
+0x02BD2CC8 = ~z~~sl:0.0:3.3~You know what? I ain't go no work for you.~sl:0.3~Not at the moment, at least.
+
+0x03B26020 = ~z~Take it.
+
+0x03E1479D = ~z~~sl:0.0:2.2~It ain't done yet, is it?~sl:0.8~Get back out there.
+
+0x045D2BC6 = ~z~You're being a damn fool.
+
+0x04840782 = ~z~Okay. You better leave.
+
+0x05915C08 = ~z~Ay... that's the damn reason I'm stuck up here.
+
+0x05EF36B6 = ~z~Not if you want to get off this montana. Yeah?
+
+0x06E9A00A = ~z~~sl:0.0:2.7~Time was... I did my own killings.~sl:0.5~I got famous for it, too.
+
+0x06FB506D = ~z~Don't point that.
+
+0x07898614 = ~z~~sl:0.0:4.4~Look, I can't risk dealing with you while you got this bounty.~sl:~Pay it off and then we'll speak.
+
+0x0852F29D = ~z~~sl:0.0:3.2~Everyone forgot... forgot about Flaco.~sl:1.0~Damn you all.
+
+0x0B73B615 = ~z~~sl:0.0:3.9~Some fools ain't been paying Flaco his piece...~sl:~and that ain't a smart thing to do. No, no.
+
+0x0B131125 = ~z~I only talk to the head honcho, okay?
+
+0x0BE1ABE2 = ~z~~sl:0.0:2.5~What the hell am I doing up here?~sl:0.7:1.0~Hell....~sl:0.3~what the hell are you doing up here?
+
+0x0C3DBB9B = ~z~Stop that right now.
+
+0x0CE4B6DB = ~z~~sl:0.0:4.1~Once you see those eyes, you won't ever forget them.~sl:1.5~I need you to kill it for me.
+
+0x0DFF434C = ~z~~sl:0.0:1.6~In Spanish: Ay, crap.~sl:~I ain't got nothing for you at the moment.
+
+0x0FE55E50 = ~z~Stay on your toes, eh.
+
+0x0FF5AFCE = ~z~How about that work, huh? I got more of it.
+
+0x1A195360 = ~z~~sl:0.0:1.3~They're over at Colter.~sl:0.6:2.3~Wipe out everything they got.~sl:0.4~Maybe they don't disrespect again.
+
+0x1CB04B9B = ~z~I know a snake when I see one.
+
+0x1D7AB5F4 = ~z~Why're you speaking to me, eh? I'll talk to your leader.
+
+0x1DF9C722 = ~z~~sl:0.0:0.7~Hey.~sl:0.4~I should kill you for messing that job up.
+
+0x1F265F25 = ~z~~sl:0.0:3.1:1~Go on... and enjoy yourself.
+
+0x2AF89962 = ~z~Just read what's on there... and get it done.
+
+0x2B7B49A5 = ~z~You want to get rich, eh?
+
+0x2CC35800 = ~z~Come on now. Go.
+
+0x2D6A995A = ~z~You got people vouching for you, I give you a chance.
+
+0x2F7508FF = ~z~~sl:0.0:4.5:1~Now is the time. If you got cojones for it.
+
+0x2FE8E3E4 = ~z~~sl:0.0:2.6~I didn't think you'd show your face up here again.~sl:0.6:3.3~Don't worry about it. It's all forgotten.~sl:0.6~Flaco forgives.
+
+0x2FE55A7D = ~z~Stay together... keep warm, my friend.
+
+0x3C563C1D = ~z~~sl:0.0:4.4~It's the kind of job you can sink your teeth into...~sl:0.7~if you know what I mean.
+
+0x3D8FC796 = ~z~~sl:0.0:1.7~Sure would save me the trouble of~sl:~having to go out there and rob it myself.
+
+0x3ECD4442 = ~z~If you're gonna be like that, there ain't no work for you.
+
+0x3F70FD5B = ~z~Time for you to go.
+
+0x4B47BDEC = ~z~Hey, I don't got anything for you to do right now.
+
+0x4C192A68 = ~z~~sl:0.0:1.5~Take them out for me.~sl:0.5:2.1:1~I'll make it worth your while.
+
+0x4D3E7337 = ~z~You gonna take it, or what?
+
+0x4D13E0CF = ~z~~sl:0.0:2.6~I like folks with some fight in them...~sl:0.6:3.2~but that don't mean I want them working for me.~sl:0.6~Get outta here.
+
+0x4DC5928F = ~z~~sl:0.0:2.3~You got a bounty on you, right?~sl:~Maybe lose that and then come back.
+
+0x4E2612DE = ~z~Look what you got for Flaco. Okay, I like you.
+
+0x4F9F5F1B = ~z~Cabrones.
+
+0x4F29B26D = ~z~They're over at Chez Porter.
+
+0x5A8AAACB = ~z~You're making yourself pretty useful, you know?
+
+0x5AEBD807 = ~z~~sl:0.9:2.3~I come up here to escape the Pinkertons~sl:~and I run into something meaner.
+
+0x5B3F1B22 = ~z~~sl:0.0:4.1:1~That's how I live long enough to get grey hairs in my moustache.
+
+0x5B16A9AD = ~z~If you ain't gonna help, find another shack to stay warm in.
+
+0x5D09ABC0 = ~z~Don't say nothing. Just take a look at that and go and get it done.
+
+0x5D192E13 = ~z~You don't leave right now, you're not going to make it. Go.
+
+0x5DADCF75 = ~z~Trying to survive, you think... that is what we're doing.
+
+0x5DFDBE26 = ~z~Me gusta, me gusta. You're going on a hunt for me, okay?
+
+0x5E2BB218 = ~z~Well... you going?
+
+0x5E302EF2 = ~z~You want some of Flaco's silver?
+
+0x5ED19B08 = ~z~~sl:0.0:2.8~Already? There ain't any more work yet.~sl:0.4~Give me a while and there will be, okay?
+
+0x6C1F7A6E = ~z~These bears are too much for me.
+
+0x6D400CE4 = ~z~How do you say...
+
+0x6E544E55 = ~z~~sl:0.0:3.3~Okay, okay. You can read, right?~sl:0.9:2.8:1~I got it all written down right... here.
+
+0x6EA8584E = ~z~~sl:0.0:4.9:1~Maybe come back when you're running your own outfit, okay?
+
+0x6EBA0A91 = ~z~Don't push me.
+
+0x6EDBC25B = ~z~The way you survive in this game... is by doing people favours.
+
+0x7A276B52 = ~z~~sl:0.0:4.3~You got that bounty, right? Dealing with you is too much of a risk.~sl:0.5~Pay it off and come back, okay?
+
+0x7B851466 = ~z~Okay. That's the first step. Now you gotta go and get it done.
+
+0x7DED7E40 = ~z~Come on, eh? Go.
+
+0x7E5E3B44 = ~z~Go on...
+
+0x7EC74A00 = ~z~Alright, you'll go down to the Millesani Claim.
+
+0x7EF78068 = ~z~Alright, now it's time to go.
+
+0x8AE7077E = ~z~~sl:0.0:2.0~Not a word.~sl:0.8~We're way out here, but you never know who's listening.
+
+0x8C243A0A = ~z~Don't bring the law up here. Go.
+
+0x8D38BCA0 = ~z~I said don't laugh.
+
+0x8DE14A9F = ~z~The sides of these mountains... they're closing in, quick.
+
+0x8EAB2D37 = ~z~Are you as desperate as you look, huh? More work?
+
+0x9A0DD34B = ~z~~sl:0.0:3.8~It's so goddamn cold in here, I can't stand it.~sl:0.5~Carajo. I ought'a start drinking.
+
+0x9A2E86E0 = ~z~Ay. I knew you could do it.
+
+0x9BEDB002 = ~z~~sl:0.0:5.4~I know some bad hombres, but none as bad as you... okay?~sl:0.4~Come back, when... you better.
+
+0x9E3B9C4B = ~z~Ay. Puta. You messed that one up.
+
+0x9FA9EE30 = ~z~Ain't gonna be much room... for more than one wolf in this valley.
+
+0x13F44A11 = ~z~Alright... don't laugh, okay?
+
+0x15BA4886 = ~z~Go. Kill it, you get money. Vete.
+
+0x16A20F3B = ~z~~sl:0.0:4.5~Everyone forgot about me, but I did not forget them.~sl:1.2~Friends of mine in jail... they're being moved.
+
+0x17DC76F3 = ~z~You need to get out of here.
+
+0x18E3BCF6 = ~z~~sl:1.7~But hey, you know, you can't kill everyone...
+
+0x18E32471 = ~z~How about you do some work for me?
+
+0x19ADF5D2 = ~z~Watch where you're aiming that.
+
+0x22AC7030 = ~z~~sl:0.0:4.2~I bet you look at me and all you see, oy...~sl:0.7~is a big greaser with a big knife.
+
+0x22EF16C3 = ~z~~sl:0.0:2.1~I ain't asking if you like it.~sl:0.6~I'm telling you to go on out there... and get it done.
+
+0x29D34EA5 = ~z~Tell your leader, I'll deal with them, okay?
+
+0x29E66607 = ~z~~sl:0.0:3.5~This someone, they're a bit like you.~sl:0.4:2.6:1~Only I don't like them as much.
+
+0x33E41A29 = ~z~Una rata?
+
+0x44DA2CC1 = ~z~Before you ask for work, I got nothing. Not at the moment, I don't.
+
+0x44E20DD6 = ~z~~sl:0.0:4.9:1~I know you messed that thing up, but I'm not going to kill you.
+
+0x48B713D4 = ~z~~sl:0.0:2.5:1~You ain't getting yellow now, are you?
+
+0x51CAA5C8 = ~z~~sl:0.0:4.2~Now, you got the guts to hunt and kill some mountain men?~sl:4.1~I very much hope that you do.
+
+0x75B459B0 = ~z~Hey. No.
+
+0x79A764FB = ~z~~sl:1.3:2.8:1~Those bastards ain't going to know what's coming.
+
+0x81A767F2 = ~z~~sl:0.0:6.0:1~Now, you will do me a favour, by doing someone else a favour.
+
+0x86FAFC3D = ~z~Carajo.
+
+0x87F25BEE = ~z~~sl:0.0:1.6:1~Freezing our asses off.
+
+0x88C80745 = ~z~~sl:0.0:4.4:1~Hey, hot stuff. Ain't no stopping you now, is there?
+
+0x89E28744 = ~z~Come on, work for me.
+
+0x90E5A430 = ~z~Hurry up and go.
+
+0x92A59843 = ~z~~sl:0.0:2.3~They think I'm just greaser.~sl:0.6~And they're some, some... gente de razon.
+
+0x98D92776 = ~z~You going, or what?
+
+0x99A4FF53 = ~z~You know what would make me happy, though?
+
+0x99B7553C = ~z~~sl:0.0:1.1~What the hell?~sl:0.5:3.4~Maybe we'll talk when you got the law off your back.~sl:0.8~Now go.
+
+0x99C765F2 = ~z~come to Flaco looking for work.
+
+0x124C187A = ~z~Okay. Okay. Enough. Go.
+
+0x129B4844 = ~z~~sl:0.0:3.1~You looking for work, you're in the wrong place.~sl:0.4~Ain't got nothing at the moment.
+
+0x255FA258 = ~z~~sl:0.0:2.8~Respect is not too much to ask.~sl:1.5~You understand me, eh?
+
+0x275D62D9 = ~z~And how you survive is by not showing weakness to the animals.
+
+0x324FC205 = ~z~You need to give me more time. I'll have more work soon.
+
+0x332FA4E4 = ~z~I made you jump.
+
+0x347D9619 = ~z~What are you doing?
+
+0x409E751E = ~z~You wanna do this, you got to go.
+
+0x634F73BC = ~z~Get away.
+
+0x681A7341 = ~z~Ain't no work here, if that's what you're looking for.
+
+0x806FADFC = ~z~You better back off.
+
+0x840D46A2 = ~z~Now go.
+
+0x876D4DAD = ~z~Hey... after what you did...
+
+0x877DC15F = ~z~Okay... but can I trust you?
+
+0x879B3A0C = ~z~~sl:0.0:2.7~So how about you head over Lake Isabella.~sl:0.3:2.3~Stop the stage going through there...~sl:0.2~and get me what they're holding.
+
+0x932F6D05 = ~z~~sl:0.0:4.7~You take a pass at Flaco and you think you can work for him?~sl:~Come on.
+
+0x950E768E = ~z~~sl:0.0:2.0~You'll take what they're holding,~sl:~and I'll make sure you're paid well for it.
+
+0x992DAD10 = ~z~If it ain't my old friend...
+
+0x1440F967 = ~z~~sl:0.0:4.6~Well, then. This is real damn simple.~sl:0.7~You read what's there, then... you do it.
+
+0x2228FA06 = ~z~Well, as soon as this melts... I ain't sticking around.
+
+0x3216C624 = ~z~~sl:0.0:5.0~Carajo. You ever think... you ain't got no friends left?~sl:0.5~That you're all alone in the world?
+
+0x3891D5E0 = ~z~Me gustas mucho. You know what? I like you.
+
+0x5008B893 = ~z~~sl:0.0:3.6~I can't give you this job... not yet.~sl:0.6~Come back when you're ready and we'll talk.
+
+0x6480A666 = ~z~~sl:0.0:1.5~Back already, eh?~sl:1.3~Wait a little longer, there'll be more work.
+
+0x7478DC71 = ~z~You work or you walk, okay partner?
+
+0x8057F42F = ~z~Lazy fool... you gonna work?
+
+0x9539A674 = ~z~~sl:0.0:3.5~Hey, hey... I know you took care of that thing.~sl:0.5~You're okay, you know?
+
+0x9793A21F = ~z~~sl:0.0:2.0~Bueno, bueno.~sl:0.0:3.8~You... are going to kill some fools.
+
+0x15946B03 = ~z~~sl:0.0:2.1~What are you doing back here?~sl:0.7~Go take care of that thing.
+
+0x25302F1D = ~z~Sometimes... for money... sometimes, for something else.
+
+0x46332E96 = ~z~
+
+0x68751CF4 = ~z~If you robbed this coach for me.
+
+0x76306E93 = ~z~~sl:0.0:5.7~To be a hunter is no easy thing. You gotta track the beasts.~sl:~And then you know... you need cojones.
+
+0x99542FE2 = ~z~I'm cooling off, alright? Come back later.
+
+0x510957CA = ~z~~sl:0.0:2.8~We're trapped. Frozen solid.~sl:2.0:3.0:1~I'm going crazy. I hate it.
+
+0x887886B5 = ~z~What're you waiting for?
+
+0x3764874B = ~z~~sl:0.0:2.9~You know, you ain't quite ready for this yet.~sl:0.5:2.0~Come back when you are,~sl:~then I'll give you some real work.
+
+0x3786113C = ~z~You know? The bears... the Grizzlies?
+
+0x6775511D = ~z~Cojones enough to pull that trigger.
+
+0x9788393E = ~z~~sl:0.6:2.3~This is a big job, okay?~sl:0.6~Come back when you got some more riders in your group.
+
+0x21740990 = ~z~~sl:0.0:4.3~You're lucky you didn't get Flaco's knife, let alone his work.~sl:0.8~Now get out of here.
+
+0x35706593 = ~z~You looking to earn some money?
+
+0x43088844 = ~z~~sl:0.0:3.0~Pick up their trail around Spider Gorge.~sl:0.3:3.0:1~And shoot them where they stand.
+
+0x62539119 = ~z~Go, quick now.
+
+0x70687340 = ~z~~sl:0.0:2.7~You tell them the wolf sent you.~sl:4.3:1.2:1~Okay.
+
+0x77522108 = ~z~How do I know you're not a...
+
+0xA2B2B8E4 = ~z~I don't need someone to talk to... I need someone to do some work.
+
+0xA7C3FE60 = ~z~That's the right answer. Now... here it is.
+
+0xA16B52B7 = ~z~So... how about I put you to work again?
+
+0xA23E41B6 = ~z~Cool it, alright? Tranquilo. Then come back, okay?
+
+0xA47E366F = ~z~You gonna take it or what?
+
+0xA975256D = ~z~Look at this animal. Well done.
+
+0xA1808188 = ~z~get out of here before I try and shoot you again.
+
+0xAC0E96EF = ~z~~sl:0.0:2.2:1~You're all right with me, you know?
+
+0xAC200DF6 = ~z~~sl:0.0:3.2~They got some, over by Window Rock.~sl:0.3:3.0~Get it... and I put food on your plate.~sl:0.6:2.8~Okay? Good.~sl:1.2:1.2:1~Dammit.
+
+0xAC999BAB = ~z~I'm warning you.
+
+0xACDEB276 = ~z~There. Take it.
+
+0xADC4D14D = ~z~What're you still doing here?
+
+0xAE2BCA9E = ~z~Don't shoot.
+
+0xAE905108 = ~z~You're out of time, eh? Come on.
+
+0xAE945929 = ~z~You look after Flaco, Flaco looks after you, okay? I like you.
+
+0xAF250C36 = ~z~~sl:0.0:2.6~And don't worry, you'll be paid.~sl:0.6~A paid favor is still a favor, you know.
+
+0xB0F254DC = ~z~~sl:0.0:3.9~These fools, you might even know them,~sl:0.0:2.6:1~but I hope you don't like them, eh?
+
+0xB0FFCF72 = ~z~~sl:0.0:5.3~That right there... is as good as paper money. No questions.~sl:0.0:0.3~You do that, you'll be paid... real good.
+
+0xB2BC17DB = ~z~You're one of those cabrones got bust out of prison...
+
+0xB4CD08C9 = ~z~Before I get drunk, okay? Here's the job for you.
+
+0xB5B9EDEC = ~z~I got to kick you outta here? Come on.
+
+0xB37D5789 = ~z~~sl:0.5~You wanna work for me? I got no work for an angel like you.
+
+0xB47FE639 = ~z~I can't talk to you right now.
+
+0xB55EB1F9 = ~z~Now you leave. Go on. Go!
+
+0xB76F0762 = ~z~~sl:0.0:3.5~I got something, but it ain't for you right now.~sl:0.7:3.9~Maybe when you're bigger and stronger,~sl:~you come back to me.
+
+0xB113C1FB = ~z~~sl:1.1~The hell is wrong with you, eh?
+
+0xB234F44A = ~z~You gonna make yourself useful again?
+
+0xB715E3E0 = ~z~~sl:0.0:4.1~You say you're going to do something, you get it done, eh?~sl:1.5~Good.
+
+0xB721ACCA = ~z~maybe we get on okay.
+
+0xB6340E35 = ~z~Hey. Come back when the law ain't on you.
+
+0xBAA6EB11 = ~z~It ain't that cold out there. Go.
+
+0xBBC4DC2C = ~z~~sl:0.0:2.1~You get them out of a prison wagon.~sl:0.6:2.1~It's going south from Colter.~sl:0.5:1.7:1~Make sure they're free.
+
+0xBD012C65 = ~z~You gonna introduce yourself, eh?
+
+0xBEB66ADF = ~z~I think you understand me... or... you damn well better.
+
+0xBFDE6E03 = ~z~What the hell?
+
+0xC05EF4A5 = ~z~Time is running out.
+
+0xC0B93052 = ~z~~sl:0.0:2.1~And there ain't no wolf out there~sl:~with bigger teeth than me, my friend.
+
+0xC1AB0D83 = ~z~~sl:0.0:3.4~Eh, you ain't going to be able to pull this off.~sl:0.6~Get some more people on board, then we talk.
+
+0xC4EC485F = ~z~You find these people been causing me trouble round Lake Isabella...
+
+0xC8E35539 = ~z~~sl:0.0:4.8~I got just the thing. Just the thing, for you.~sl:2.4~You're gonna like it. Right there.
+
+0xC37F7D8F = ~z~~sl:1.9:5.6:1~You got it, alright. You're okay, you know that?
+
+0xC47EAACA = ~z~~sl:0.0:2.6~Dammit... the law's on you.~sl:~Come back when you lost them and we'll talk.
+
+0xC50C19FC = ~z~You want more work?
+
+0xC55B5D39 = ~z~~sl:2.0~You did it.
+
+0xC83C148C = ~z~Hey, you bungled that last job, but I'll give you another chance, okay?
+
+0xC177F5E7 = ~z~~sl:1.3~But whatever I am...~sl:0.5~it ain't going to be me in el campo santo tonight, eh?
+
+0xC76762E1 = ~z~Calmate, alright.
+
+0xC94380C9 = ~z~Stop that.
+
+0xCD5396C7 = ~z~Look who it is. My most trusted employee.
+
+0xCE0096B5 = ~z~Get in here, away from the wolves, eh?
+
+0xCEB217D0 = ~z~You here to work for Flaco, huh?
+
+0xCFD71060 = ~z~~sl:0.0:2.3~What, you gonna turn me in?~sl:0.5~I can't give no job to someone like you.
+
+0xD01F52A1 = ~z~You just standing there looking pretty...
+
+0xD0C3C3AD = ~z~~sl:0.9:2.0~Every time I want to take a shit...~sl:0.7~there's one staring at me.
+
+0xD3C11E16 = ~z~~sl:0.8:7.1:1~Yes, I see that. You brought it to me. I'm a happy man, okay...
+
+0xD13C4583 = ~z~Come back later, okay?
+
+0xD24EC7B2 = ~z~Really? Really? Come on.
+
+0xD31FED7B = ~z~Get the hell out.
+
+0xD388D5F1 = ~z~~sl:0.0:3.1~Well, maybe bigger teeth...~sl:0.8:3.3:1~but no one's got a bigger knife than old Flaco.
+
+0xD708287C = ~z~I bet you're not up here paying a social call, huh?
+
+0xDA525F79 = ~z~~sl:0.0:1.9:1~It won't be there for long.
+
+0xDA293866 = ~z~Look who's here. Flaco forgives, but he don't forget, you know?
+
+0xDB1D2388 = ~z~~sl:0.0:5.3~Very good, very good.... I got just the thing.~sl:0.7~Just you take a look at that.
+
+0xDC3A3328 = ~z~~sl:0.0:0.9~Hey.~sl:0.6~Come over here.
+
+0xDC812744 = ~z~Damn you.
+
+0xDD9EB75D = ~z~Hey... good work on that thing, okay? I know you took care of it.
+
+0xDE68ECEA = ~z~~sl:0.0:1.2~I'll pay you for it.~sl:1.5~Go.
+
+0xDEB93069 = ~z~~sl:0.0:2.2~You better like my money more.~sl:1.1:3.8:1~Find the putas, and put them in the ground for me.
+
+0xDF1E5B4F = ~z~With its eyes... staring at me. It could be anywhere.
+
+0xDF8C1336 = ~t~In Spanish: You stupid?
+
+0xDF40173C = ~z~Come on. Take it.
+
+0xE00A6329 = ~z~You're being real stupid.
+
+0xE04A87D0 = ~z~You get the hell outta here! Now.
+
+0xE7DC209E = ~z~~sl:0.0:2.0~See? Simple.~sl:0.9:5.7:1~There's too much talking now, not enough... goddamn action.
+
+0xE26CF73C = ~z~What you want?
+
+0xE49C8BB0 = ~z~Get that away from me.
+
+0xE246C308 = ~z~Off you go now. Come on.
+
+0xE406C033 = ~z~I can't be seen talking to you, okay? Demonio, ay.
+
+0xE416D25A = ~z~~sl:0.0:2.3~You're going to need a few more people~sl:~in your posse for this one, okay?
+
+0xE790C9D5 = ~z~Here to keep out of the cold?
+
+0xE927B447 = ~z~~sl:0.0:4.0~You're gonna break them out. Set them free.~sl:0.8~The wagon's south of Barrow Lagoon.
+
+0xE6735F22 = ~z~But, I was younger then... and it's a young man's game.
+
+0xE416770C = ~z~~sl:0.2:3.0~They're just trappers... mountain men...~sl:0.5:3.6:1~track them from Lake Isabella and kill them for me...
+
+0xE8284102 = ~z~~sl:0.0:4.7~Why don't you go work for... a sheriff... or a priest.~sl:~Flaco got no work for the likes of you.
+
+0xECB497EF = ~z~Understand?
+
+0xEF4B3E6D = ~z~Flaco saw that. You messed that one up.
+
+0xEFE1FEF2 = ~z~~sl:0.0:0.8~Quick...~sl:0.5:1.7:1~and stay warm.
+
+0xF1D5B7C9 = ~z~Don't be a fool.
+
+0xF6E07FF8 = ~z~~sl:0.0:4.4:1~Okay, okay. I got someone else for you to kill.
+
+0xF8F9923E = ~z~Now you read that, you get it done.
+
+0xF14EA278 = ~z~~sl:0.0:3.2~Hey, hey. What you doing here?~sl:1.0:~Come back when it's done, okay? Carajo.
+
+0xF46A8AFA = ~z~You go and get rid of them, okay?
+
+0xF48C1ECD = ~z~~sl:0.0:5.0~I get in a boat, ride the spring thaw all the way to Valentine.~sl:~But I need you... to get me that boat.
+
+0xF53A2CEB = ~z~Look out.
+
+0xF70D9CFA = ~z~~sl:0.0:2.7~You tell them the wolf sent you.~sl:4.3:1.2:1~Okay.
+
+0xF76D50D2 = ~z~~sl:0.0:4.7~That is what I do for my friends. Go now.~sl:1.8:1.1~I...~sl:0.7~used to be somebody.
+
+0xF164FFDC = ~z~~sl:1.6~Carajo. That cursed beast. It's out there, you know. Near Colter.
+
+0xF653E7A7 = ~z~Are you the leader? I didn't think so. Go and get them.
+
+0xF64464AE = ~z~~sl:0.0:4.4~Flaco's a piece of shit, okay? But he's better than you.~sl:0.5~Come back when you cleaned up your act a little.
+
+0xF74280C0 = ~z~Ordering killings. That's what us old folks do.
+
+0xF94986B2 = ~z~~sl:0.0:4.3~Yeah. They have things that were stolen from me.~sl:0.0:2.8~I want you to destroy them,~sl:~show the animals I don't care.
+
+0xF180131C = ~z~Fucking bears...
+
+0xF521951B = ~z~~sl:0.0:4.4~Well, I am a greaser, and I do got a big belduque...~sl:0.5~but don't underestimate me.
+
+0xF2456305 = ~z~Now we say goodbye.
+
+0xFA694D8E = ~z~It's for you.
+
+0xFA463312 = ~z~There ain't room for another gang up here.
+
+0xFAC912A4 = ~z~~sl:0.0:4.1~Kill it for good... and get me some proof.~sl:0.6~That's the only way I can sleep again.
+
+0xFB097232 = ~z~Hey, I seen you since you did that thing? I owe you, you know?
+
+0xFC6CF345 = ~z~Since you're up here, how about doing me a favor?
+
+0xFC28CC6F = ~z~What are you doing, eh?
+
+0xFEE4337D = ~z~~sl:4.8~We're frozen in up here. There's ice everywhere.
+

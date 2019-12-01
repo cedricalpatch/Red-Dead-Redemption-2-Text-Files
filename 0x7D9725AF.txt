@@ -1,0 +1,16 @@
+0x0C7E1DEF = ~z~then we end up hidden in a burning barn getting shot at.
+
+0x1A37B962 = ~z~It always is with you,
+
+0x2E926217 = ~z~You are a very sad man, Arthur Morgan.
+
+0x67C95484 = ~z~It's a goodie!
+
+0x758BF009 = ~z~That's exactly what I'm afraid of.
+
+0x5325AB3D = ~z~I got a tip.
+
+0xA0DC46A9 = ~z~Stay away from me.
+
+0xBC827DF5 = ~z~Arthur!
+

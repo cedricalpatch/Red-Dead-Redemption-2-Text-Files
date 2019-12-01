@@ -1,0 +1,368 @@
+0x008700B7 = ~z~Can't you hit that trigger any quicker?
+
+0x00A0E9D1 = ~z~You there.
+
+0x0298177A = ~z~Finally, some peace and quiet.
+
+0x02E3E275 = ~z~So, you gonna tell me about your Wild West days?
+
+0x02F0270C = ~z~if it ain't too much of a trouble.
+
+0x0363A8D7 = ~z~Running with Jim 'Boy' Calloway.
+
+0x092470F7 = ~z~You Black Belle?
+
+0x09E16E18 = ~z~Don't rest too long! More coming down the road.
+
+0x0B8C790F = ~z~Well, let me know what I can do.
+
+0x0B5528F4 = ~z~Alright, I can breathe again!
+
+0x0B723310 = ~z~Get those sons of bitches!
+
+0x0FBA2984 = ~z~Well, take it already.
+
+0x1B12B481 = ~z~Uhh... wh-what was you doing before?
+
+0x1B424959 = ~z~Lady, I can't see you much in need of my help.
+
+0x1BA893CB = ~z~Just go inside, I'll tell 'em you're gone.
+
+0x1DA499F7 = ~z~Come here, let me take a look at it.
+
+0x2A5A8A18 = ~z~Hey! Let's hold the high ground!
+
+0x2AB17772 = ~z~For now.
+
+0x2E2221D3 = ~z~Any other ideas?
+
+0x3B69F67C = ~z~I hope your gun's hot, boy!
+
+0x3BABD3D1 = ~z~those bounty hunters.
+
+0x3C7F5AB9 = ~z~I'm gonna need your picture too, if it ain't a trouble?
+
+0x4C957928 = ~z~I got a contract here...
+
+0x4D4F7718 = ~z~Oh, no, no...
+
+0x4E125F80 = ~z~At a certain price you don't get idiots.
+
+0x5AB18078 = ~z~Some use you are!
+
+0x5C09F88D = ~z~They was expecting a fight, alright. They brought a Gatling gun!
+
+0x5C7AF52A = ~z~Here.
+
+0x5F39D20E = ~z~Hit the plunger!
+
+0x6AA8767B = ~z~Only longer ago.
+
+0x6B6A4671 = ~z~~sl:0.0:1.0~Come on.~sl:2.1:2.1~Oh, come on.~sl:1.5~Stop just there!
+
+0x6C40628F = ~z~It's a good thing you're quicker with a gun. Come on!
+
+0x6D9EB7B6 = ~z~Knew my luck'd run out sooner or sooner.
+
+0x6F9B0642 = ~z~Here we go again.
+
+0x6FF9E2FC = ~z~Hit that plunger you want to see them fly!
+
+0x7DF8A2FD = ~z~Just as I was getting my hearing back...
+
+0x7F39C401 = ~z~I can do this?
+
+0x8B16B072 = ~z~~sl:0.5:0.0~What... what was you doing before?
+
+0x8D5E79D5 = ~z~I ain't sure.
+
+0x8FE58184 = ~z~Well, you stand over there and, well...
+
+0x9AF5D475 = ~z~Get him before the whole cabin turns to chip!
+
+0x9AF19503 = ~z~How about this, then?
+
+0x9B14FE43 = ~z~Not right now, I ain't.
+
+0x9E49DE9D = ~z~Alright.
+
+0x11B0051B = ~z~Great.
+
+0x13AE4888 = ~z~No sir, no trouble at all.
+
+0x14C6B0EE = ~z~Then I guess I'll be on my way.
+
+0x16D0D67D = ~z~What were they like then?
+
+0x22E7227B = ~z~Whew!
+
+0x24B3C910 = ~z~This ain't the time to save your bullets!
+
+0x29AF96BB = ~z~There's going to be some price on me when all this is done...
+
+0x30C4BE03 = ~z~not running from 'em neither.
+
+0x31B0420E = ~z~and we'd sooner it be liberty.
+
+0x42C5BC77 = ~z~Now let's shoot these sons of bitches!
+
+0x43D04FA7 = ~z~Hello.
+
+0x44D35848 = ~z~No prizes for guessing what the plunger does!
+
+0x49AAAA65 = ~z~Smell that? Cooked meat!
+
+0x49F62787 = ~z~Blast them! Come on, man.
+
+0x50F8296C = ~z~Okay, I got it.
+
+0x52EAEDDC = ~z~You there.
+
+0x55C58804 = ~z~and you none the wiser.
+
+0x58E5D2F6 = ~z~Same as now, I guess.
+
+0x62E1CD3F = ~z~Good luck.
+
+0x65AF9379 = ~z~I don't care much for reminiscing.
+
+0x77AD9841 = ~z~Yeah, so they say.
+
+0x93C7EDA6 = ~z~How about this, then?
+
+0x106D42E6 = ~z~Yeah...
+
+0x167E2CA5 = ~z~No one likes a bounty hunter, come on!
+
+0x198D0FC7 = ~z~Is that the last of 'em?
+
+0x250B72F2 = ~z~Them days they all talk about.
+
+0x257E0F7B = ~z~You a bounty hunter?
+
+0x297A52A1 = ~z~Keep shooting!
+
+0x318DAB22 = ~z~You a bounty hunter?
+
+0x481B3161 = ~z~I'm gonna need to get a photograph of you...
+
+0x597F3D0D = ~z~We waiting for more of 'em? Take a damn photograph.
+
+0x632BC960 = ~z~We're rigged here too, blow 'em to chunks!
+
+0x718E9883 = ~z~Don't be a fool, come back up here!
+
+0x760F48CE = ~z~Little Boy Calloway?
+
+0x768E0A02 = ~z~Over here,  they're rushing us from the side!
+
+0x794B3288 = ~z~Now... set it off!
+
+0x832E630C = ~z~Running with Jim 'Boy' Calloway.
+
+0x853B6C30 = ~z~let me... get this thing ready.
+
+0x881B6CAF = ~z~Oh...
+
+0x895A5ACE = ~z~You Black Belle?
+
+0x998E53FA = ~z~Great.
+
+0x1362F574 = ~z~You gonna blow 'em up or what? Hit that thing.
+
+0x1681F16B = ~z~Hello?
+
+0x2378A59F = ~z~Woah... hello.
+
+0x2663EDF3 = ~z~I guess so.
+
+0x4749EB40 = ~z~Yeah...
+
+0x5437ECEE = ~z~Not right now, I ain't.
+
+0x5753C5B7 = ~z~I think I got some of your friend on my face!
+
+0x7573FE82 = ~z~Come on, man. Detonate!
+
+0x8441B169 = ~z~The only running he did was away from a fight...
+
+0x9850CB87 = ~z~The price don't matter if it's idiots chasing it.
+
+0x9969BA36 = ~z~Okay, I got it.
+
+0x47596D60 = ~z~That's mighty reasonable, mister.
+
+0x58383A7B = ~z~I'm getting real tired of this.
+
+0x95478A83 = ~z~Alright, get up here quick.
+
+0x457725D5 = ~z~At a certain price you don't get idiots.
+
+0x579397B5 = ~z~Not right now, I ain't.
+
+0x766534E4 = ~z~I'd like to talk to you about your Wild West days.
+
+0x827921D8 = ~z~Hey, look! They're trying flank us!
+
+0x5690707C = ~z~The price don't matter if it's idiots chasing it.
+
+0x6605631A = ~z~It's raining bounty hunter!
+
+0x21748901 = ~z~~sl:1.5:0.0~I ain't sure.
+
+0x28145789 = ~z~Thank you, Mrs. Belle.
+
+0x75038891 = ~z~Hey! Take out the boy on the back of that truck.
+
+0x80856107 = ~z~Now when I give you the word, hit that.
+
+0xA1F9ECD9 = ~z~and that's about the end of it.
+
+0xA3D57D10 = ~z~You want to die in the mud? Get back here!
+
+0xA7A5ADFB = ~z~Ah, those bounty hunters.
+
+0xA8C63A19 = ~z~You a bounty hunter?
+
+0xA9E09094 = ~z~I can do this?
+
+0xA35C43F4 = ~z~That one! He's going for the Gatling!
+
+0xA73E83E6 = ~z~Hey, where you going?
+
+0xA89A6C1A = ~z~There's going to be some price on me when all this is done...
+
+0xA452A899 = ~z~Black Belle!
+
+0xA5263E8F = ~z~Lady, I can't see you much in need of my help.
+
+0xA49425A8 = ~z~Well then you done lead them boys here...
+
+0xA475298C = ~z~Back to the front, more riders!
+
+0xA6055385 = ~z~Just the way it is.
+
+0xAC067A16 = ~z~Those days they all talk about.
+
+0xAC9177AC = ~z~You got a shot on the feller on the crank?
+
+0xAD047117 = ~z~He's going home in a wet sack!
+
+0xAE22C73C = ~z~Now let's shoot these sons of bitches.
+
+0xAF121A63 = ~z~Good luck.
+
+0xAFA9015B = ~z~Well, the man's apparently a famous gunslinger.
+
+0xB5C58C68 = ~z~Can't be worse than those awful drawings on the wanted posters.
+
+0xB54DE7D7 = ~z~That boy's gonna get on the Gatling gun!
+
+0xB75FF63A = ~z~suppose I'll be running till I drop.
+
+0xB7944F1C = ~z~Whole place is wired.
+
+0xB40910EB = ~z~too busy being scared for our scalp to...
+
+0xB1534348 = ~z~They coming back around the front!
+
+0xBA49131B = ~z~They keep firing like that, one of us is getting hit!
+
+0xBB18DEBE = ~z~~sl:0.5:0.0~Hello?
+
+0xBC665D00 = ~z~How do you want me? Like this?
+
+0xBEDF68B5 = ~z~There goes your contract.
+
+0xBF7D27DF = ~z~But uh... don't get what's famous confused with what's true.
+
+0xBF653F12 = ~z~See there... a Gatling... that's a gun you fight an army with... not a goddamn widow!
+
+0xC02BC870 = ~z~None that springs to mind.
+
+0xC0485D3F = ~z~got them scalp hunters off your back.
+
+0xC4EE6BD4 = ~z~Yes, I do.
+
+0xC9EEF3D1 = ~z~Let me know what I can do.
+
+0xC13CBEB8 = ~z~Yeah.
+
+0xC43F295B = ~z~I'll get this thing figured out.
+
+0xC86A2A23 = ~z~There goes your contract!
+
+0xC97A129E = ~z~Make yourself useful and shoot somebody!
+
+0xC666EB7D = ~z~I'd like to talk to you about your Wild West days.
+
+0xC13489CB = ~z~You gonna be alright?
+
+0xCB7ED33C = ~z~You gonna be alright?
+
+0xCD21C328 = ~z~The ones of us that lived that life we was...
+
+0xD1D245AD = ~z~So, you gonna tell me about your Wild West days?
+
+0xD2A32CA8 = ~z~Been running for twenty years...
+
+0xD2DA6DCD = ~z~You got any friends is bounty hunters?
+
+0xD28F4DF7 = ~z~talk to no newspaper writers or dime novel men.
+
+0xD198B60F = ~z~Sugar, that's sweet. You're lucky I'm all married out.
+
+0xD27945CF = ~z~You uh, stay there...
+
+0xD52206F2 = ~z~For now.
+
+0xDBC09774 = ~z~that'd be a waste of time, and nitro-glycerine.
+
+0xDD975753 = ~z~I want less looking pretty and more killing, thank you.
+
+0xDDA27783 = ~z~Well thank you, Mrs. Belle.
+
+0xDEA6FA20 = ~z~Any other ideas?
+
+0xE0243FF2 = ~z~Am I gonna have to kill all of them? Get 'em!
+
+0xE052229B = ~z~Well, get inside. I'll tell 'em you're gone.
+
+0xE1E9E5DC = ~z~Well, what were they like then?
+
+0xE9EEFCC2 = ~z~He's apparently a famous gunslinger.
+
+0xE73B12DE = ~z~You there.
+
+0xE88EAD98 = ~z~And fighting...
+
+0xEC8937C1 = ~z~None that spring to mind.
+
+0xED55BA9E = ~z~Yes I do.
+
+0xEDEF388C = ~z~For now.
+
+0xEF5D7ADF = ~z~You ain't done 'til they're all damn floating!
+
+0xF6FFC855 = ~z~It ain't over yet.  I guess their friends heard the hubbub!
+
+0xF24C6442 = ~z~I hope you can shoot!
+
+0xF53B0C86 = ~z~you got them scalp hunters off your back.
+
+0xF8390C9E = ~z~Hey! You're meant to be saving this helpless old widow! Get to it!
+
+0xFAD4D458 = ~z~Not right now I ain't.
+
+0xFAFE55F7 = ~z~well, if it's just me against them...
+
+0xFC156C6C = ~z~Sugar, that's sweet. You're lucky I'm all married out.
+
+0xFDD4DA44 = ~z~for your life or your liberty...
+
+0xFE331E72 = ~z~Uh... ready?
+
+0xFF04DA84 = ~z~I ain't hiding from them scalp hunters...
+
+0xFF0C5E0B = ~z~You want that Wild West story, don't you?
+

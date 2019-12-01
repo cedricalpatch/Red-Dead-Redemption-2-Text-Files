@@ -1,0 +1,28 @@
+0x7B143D35 = ~z~No... no... I'm just being silly... odd...
+
+0x38EEAD84 = ~z~we fight for each other... that's all I'm saying.
+
+0x45E6C774 = ~z~Playing at family... it's beautiful.
+
+0x52CA613B = ~z~Why are you being strange with me?
+
+0x86BDC921 = ~z~I don't... I don't really know what you're talking about.
+
+0x96E0F4CE = ~z~I know you.
+
+0x254D91A9 = ~z~You know me... and I know you.
+
+0x5437E41E = ~z~Oh, it's nice to see you happy.
+
+0x28740C8F = ~z~Just... remember... the gang comes first...
+
+0xC70E1182 = ~z~I have no idea.
+
+0xF0271BF6 = ~z~Happy?
+
+0xF2119FD3 = ~z~Mr. Marston.
+
+0xFCCF7D04 = ~z~What's his problem?
+
+0xFE6E388C = ~z~Dutch.
+

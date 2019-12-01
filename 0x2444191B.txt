@@ -1,0 +1,212 @@
+0x0001B945 = ~z~~sl:0.0:3.5~You see... men are such judgmental prigs...~sl:0.2~you need us women to help straighten you out.
+
+0x05BA448D = ~z~What harm can we possibly do?
+
+0x05CFC4E1 = ~z~~sl:0.0:2.3~Okay, with us helping... ~sl:0.8~I'm not saying there won't be trouble...
+
+0x063D075C = ~z~~sl:0.0:1.7~Women need the right to vote~sl:0.1~and need it everywhere that men have it.
+
+0x06A18AD7 = ~z~It's a national disgrace.
+
+0x1A5BEDF9 = ~z~They'll be no more wars, no hunger, no stupidity.
+
+0x1AED1116 = ~z~
+
+0x1E7E506B = ~z~~sl:0.0:1.0~I can say this all day.~sl:0.1~Let me vote. Let me vote. Let me vote.
+
+0x2CBE766F = ~z~~sl:0.0:2.7~It is time to give women the vote.~sl:0.6~Either that or let's elect a king, and be done with the whole charade.
+
+0x2E012880 = ~z~Well, I hope you're right. Good luck.
+
+0x3A96F2C1 = ~z~~sl:0.0:2.8~I am an American.~sl:0.4~Come on people, let me vote!
+
+0x3CE427A7 = ~z~I hope you're right. Good luck.
+
+0x3D488AAF = ~z~It's drunkards and crooks should be stopped from voting.
+
+0x3DECE65C = ~z~I'm sure I am annoying you all. And for that, I apologize.
+
+0x4B6211A5 = ~z~That's democracy. What we currently support is a sham.
+
+0x4BDEE04F = ~z~~sl:0.0:1.8~This is meant to be the land of liberty...~sl:0.6~but somehow I am not free to vote.
+
+0x4D253BD7 = ~z~~sl:0.0:0.9~And why?~sl:0.7~Because of nonsense!
+
+0x4DBB3868 = ~z~Equal rights!
+
+0x4EFA7930 = ~z~Oh, a cynic, how dull for you.
+
+0x5B784A18 = ~z~We'll elect a woman president within the first ten years, of course.
+
+0x5D26F38E = ~z~I just think... we'll do a better job of things.
+
+0x5D511753 = ~z~~sl:0.0:3.5~Isn't it time to end this nonsense, and let us vote!?~sl:0.7~Once and for all!
+
+0x5EDB0108 = ~z~~sl:0.0:3.6~I'll stand out here until I die if I have to.~sl:0.2:2.2~I don't care.~sl:0.3~I want to vote.
+
+0x7D058D32 = ~z~~sl:0.0:2.3~Okay, with us helping...~sl:0.8~I'm not saying there won't be trouble...
+
+0x7DB4CF29 = ~z~Somebody, answer me!
+
+0x7E516562 = ~z~~sl:0.0:2.3~You think you're more intelligent than us?~sl:0.6~Because you keep us in gilded cages?
+
+0x8CE75C46 = ~z~Unlike most of you... I can read, write, and even speak in public.
+
+0x8DAE2E83 = ~z~There'll be no more wars, no hunger, no stupidity.
+
+0x9A8F00A9 = ~z~Unappealing is what I do best.
+
+0x9A16C75C = ~z~Yes, terribly.
+
+0x9E8DD042 = ~z~~sl:0.0:3.5~You see... men are such judgmental prigs...~sl:0.2~you need us women to help straighten you out.
+
+0x15B276F2 = ~z~~sl:0.0:0.8~Women voting?~sl:0.3~Sure, why not?
+
+0x17DF2AA0 = ~z~I'll stand here and shout!
+
+0x18F46B01 = ~z~Let women vote! It is a crime not to.
+
+0x29E8E78F = ~z~I want to vote. I insist that I deserve the right to vote.
+
+0x34B5EDBF = ~z~This land of equality is a sham and a disgrace.
+
+0x35B99ABB = ~z~What exactly are you frightened of?
+
+0x36BED800 = ~z~But I want to vote on this country's future.
+
+0x69F39FB5 = ~z~I am not worse than you because I am a woman!
+
+0x78ACCC94 = ~z~Unappealing is what I do best.
+
+0x84B91CA1 = ~z~You know... it's terribly important.
+
+0x85C7542B = ~z~You're walking away from history, you fools.
+
+0x92FDB92A = ~z~What is? Voting?
+
+0x121C45C6 = ~z~It's nothing short of a national disgrace.
+
+0x200E88BB = ~z~Women and men both deserve to decide the future.
+
+0x225BE645 = ~z~Because we are women and women can't do a thing like think?
+
+0x231F99F6 = ~z~How much worse would we make it? Come on!
+
+0x308FDC01 = ~z~If it takes until the rest of the twentieth century...
+
+0x333C3201 = ~z~~sl:0.0:1.0~You, my friend...~sl:0.2~what do you think about women's suffrage?
+
+0x476F3E26 = ~z~Afraid we might actually pick a decent man to run the country?
+
+0x549ABC9F = ~z~~sl:0.0:2.1~I will say this for as long as it takes.~sl:0.3~Come on people. Let me vote!
+
+0x949D6C8C = ~z~~sl:0.0:1.3~I am a citizen.~sl:0.5:1.5~I have a brain.~sl:0.5~Let me vote, you ignorant fools.
+
+0x982D2672 = ~z~Let me vote! Let me vote! Let me vote!
+
+0x4148DDCD = ~z~I do hope you grow out of it, young man. It's so unappealing.
+
+0x4821DBD0 = ~z~Oh, a cynic, how dull for you.
+
+0x5422BB6D = ~z~I just think... we'll do a better job of things.
+
+0x8641AE13 = ~z~~sl:0.0:3.6~And equally capable of electing the kind of morons~sl:0.1~you idiots have elected to office since this country was founded!
+
+0x40019CF5 = ~z~~sl:0.0:1.4~We are free!~sl:0.6~Now make us equal, under God, like the Consitution says.
+
+0x303328F8 = ~z~~sl:0.0:2.8~Look me in the eye and tell me~sl:~I am not the equal of any man you ever met.
+
+0x76642578 = ~z~Let women vote! It's time to let women vote!
+
+0xA0B2D17A = ~z~If women could vote, then better men would stand.
+
+0xA5DD1F6F = ~z~and not find candidates like the ones you elect!
+
+0xA7D6236B = ~z~Is that democracy? Is it?
+
+0xA85263D3 = ~z~~sl:0.0:1.3~Once women get the vote,~sl:0.1~the whole country will stop making such a pig's ear of everything.
+
+0xA813896A = ~z~We'll elect a woman president within the first ten years, of course.
+
+0xAEFFB4D7 = ~z~~sl:0.0:3.4~Make this country a real democracy.~sl:0.4~Stop disqualifying half the population.
+
+0xAF642A53 = ~z~
+
+0xB2E275D9 = ~z~~sl:0.0:3.9~But instead, you foolish men do better than that.~sl:0.8~You elect them to Congress!
+
+0xB8A82A93 = ~z~Yes, terribly.
+
+0xB83111D4 = ~z~~sl:0.0:1.5~You... men!~sl:0.3:1.7~You... lot!~sl:0.2~Have done an awful job.
+
+0xBA7F48B3 = ~z~You elect pompous, hare-brained, morally repugnant guttersnipes!
+
+0xBC1D3AB1 = ~z~Let me vote, you ignoramuses.
+
+0xBC7D44C7 = ~z~So why am I not treated like a citizen?
+
+0xC1C2A6AE = ~z~I'll only shut up once I can vote.
+
+0xC7CC9FB1 = ~z~But you, you lot elects them!
+
+0xC61BDFF6 = ~z~Well, I've got news for you, chum...
+
+0xCCD0E52C = ~z~I do hope you grow out of it, young man. It's so unappealing.
+
+0xCD8EBCAC = ~z~~sl:0.0:2.1~In the arts and in the sciences,~sl:0.2~women are proving every day that they can think!
+
+0xCDA9D4A2 = ~z~You know... it's terribly important.
+
+0xCF9C72ED = ~z~We could search the prisons and the lunatic asylums and the sewers,
+
+0xD2D980F8 = ~z~Anyone dumb enough to wanna vote, I say go for it.
+
+0xD4A8848A = ~z~~sl:0.0:0.9~Women voting?~sl:0.8~Sure, why not?
+
+0xD74CD028 = ~z~~sl:0.0:1.4~George Eliot was a woman.~sl:0.3:2.1~But she changed her name to George,~sl:~because nobody took women seriously.
+
+0xD3257A09 = ~z~~sl:0.0:1.0~I pay tax...~sl:0.7~and nobody represents me because I'm a woman.
+
+0xD6633CDE = ~z~We can spot a drunken lying fool at sixty paces.
+
+0xD31190A7 = ~z~~sl:0.0:2.2~not a subspecies to be taken care of~sl:~by the patronage of some man or other.
+
+0xDAABE49D = ~z~~sl:0.0:0.6~I know...~sl:0.1:3.4~it would be a big change from the depraved morons~sl:~you people choose to elect.
+
+0xDCF97341 = ~z~What is? Voting?
+
+0xDDF28484 = ~z~Who says that?
+
+0xDE987673 = ~z~~sl:0.0:1.3~Once women get the vote,~sl:0.1~the whole country will stop making such a pig's ear of everything.
+
+0xE36C9267 = ~z~~sl:0.8~Thank you, sir, you are a true progressive.
+
+0xE86AA7AC = ~z~~sl:0.0:2.9~We are women. Not monsters.~sl:0.2~We deserve the right to vote as much as you.
+
+0xE988BD95 = ~z~I am an educated member of the human race,
+
+0xE2772027 = ~z~~sl:0.0:1.0~You, my friend...~sl:0.2~what do you think about women's suffrage?
+
+0xE5282595 = ~z~~sl:0.8~Thank you, sir, you are a true progressive.
+
+0xE9627453 = ~z~~sl:0.0:1.3~Not better.~sl:0.7:1.3~Not the same.~sl:0.3~Just equal.
+
+0xEC262C04 = ~z~~sl:0.0:3.9~Does anyone seriously think we would do a worse job~sl:~at picking candidates to represent us?
+
+0xF4D4BD63 = ~z~~sl:0.0:2.7~"No taxation without representation"...~sl:0.6~that's what they said in Boston, I believe.
+
+0xF34F9FB8 = ~z~What are you frightened of?
+
+0xF42B89E5 = ~z~That they are the equal of men!
+
+0xF85BBC45 = ~z~I mean, anyone dumb enough to wanna vote, go right ahead.
+
+0xF496A246 = ~z~That the country will go to the dogs even faster than it is already?
+
+0xF9574666 = ~z~This is getting ridiculous.
+
+0xFC3C0BE7 = ~z~Let me vote. Let me vote. Let me vote.
+
+0xFD7A9C72 = ~z~Let us pick the cretins who rule over us.
+
+0xFFF2A173 = ~z~We stop the better half of the population from voting?
+

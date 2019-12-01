@@ -1,0 +1,80 @@
+0x0D569448 = ~z~You won't hear music like you do round here nowhere else in the world...
+
+0x6C8652A6 = ~z~But what do you care? Not much, I'm guessing...
+
+0x6E8A53A6 = ~z~Yeah, sure buddy... not after seven kids it ain't.
+
+0x7B357581 = ~z~Where you from, mister?
+
+0x7BB2F0FF = ~z~Not the Mansion District with all those big old houses.
+
+0x8F451537 = ~z~Vagina is art, vagina is art.
+
+0x9CCDB048 = ~z~He's always in here drunk, shooting his mouth.
+
+0x12FB1CA5 = ~z~Ah, forget it, mister... you don't care none.
+
+0x17D6265B = ~z~I'll leave and never come back, and you can be as real as you want?
+
+0x27A0C5F0 = ~z~Well, how about you give me all your money,
+
+0x28BE0B28 = ~z~You was here talking with that artist, wasn't you?
+
+0x40AC3F47 = ~z~You know them ain't so bad... I was like that once.
+
+0x81AC414E = ~z~And some rich kid born into money, he can have what he wants... didn't have to earn it.
+
+0x93A1A0DC = ~z~This the real city right here... might not look like much but St. Frances is the soul.
+
+0x207D7EEE = ~z~Well, you should go easy on 'em then. Anyway, I've talked enough...
+
+0x381EFE77 = ~z~Hey, hey, listen, I ain't gonna raise no fuss alright... I just seen your face on the poster.
+
+0x781F8283 = ~z~You look like a country boy.
+
+0x5856E6C3 = ~z~You're that bank robber, ain't you?
+
+0x6051B735 = ~z~All these artists are moving to St. Frances thinking they're doing us a favor...
+
+0x27685D0A = ~z~I'd do it myself, but I can't even steal an apple without getting caught.
+
+0x89828C9E = ~z~Me, I'm Saint Denis born and bred.
+
+0x602539E4 = ~z~ragtime, even puts rhythm in the white man.
+
+0xA5280845 = ~z~That Spanish nun, she's a nice enough lady, but she's giving them false hope, even the white boys.
+
+0xAAE3CC58 = ~z~He says he likes to drink here with the 'real' people.
+
+0xAEA51E9B = ~z~But you clearly don't believe me, so go to hell and enjoy your drink on the way...
+
+0xB47B26EB = ~z~Half the time they're just bored or showing off.
+
+0xB92B68E7 = ~z~just means soon we won't be able to afford nothing.
+
+0xBD52BBF6 = ~z~Tried to put a bullet in it, but the thing was damn fast.
+
+0xC18AC466 = ~z~A goddamn panther! No word of a lie.
+
+0xC7674CC3 = ~z~But what would you know about being a kid on the streets?
+
+0xCF3B2048 = ~z~You chased down the kid, didn't you? The one who robbed the nun?
+
+0xCFBD60CB = ~z~west of an old outlaw hideout called Shady Belle... and saw a big old panther.
+
+0xD2D233DB = ~z~Ain't like no one round here had any money in that bank.
+
+0xD7EDEDD0 = ~z~So they think, why can't we?
+
+0xE0934F5D = ~z~You enjoy your drink, good luck to you...
+
+0xE6368DCD = ~z~Ain't sure if you hunt much, but I was over in Scarlett Meadows a couple of days back...
+
+0xEDFBEA2E = ~z~Anyway, like I says, I ain't looking to bother you or make no trouble.
+
+0xF4002960 = ~z~Didn't mean that in a bad way...
+
+0xFC88074A = ~z~It was big news... they was calling you the "ghost robbers", way you just disappeared like that.
+
+0xFCF0B7D5 = ~z~They ain't getting out of this place, ain't how it works.
+

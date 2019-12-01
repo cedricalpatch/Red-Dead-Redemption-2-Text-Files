@@ -1,0 +1,278 @@
+0x01609866 = Soldier
+
+0x01F0DFCC = The pelt wasn't stowed on your horse.
+
+0x0311BD2A = ~s~Follow ~o~Algie~s~
+
+0x09D8EFA0 = Greet
+
+0x0F4B8128 = ~s~Chase and capture ~o~Chick Matthews~s~
+
+0x1C23FCCF = Just absolve the debt
+
+0x2B9ECBFA = Defeat the ~e~soldiers~s~
+
+0x2B17AFAC = ~s~Find and kill the ~e~white cougar~s~
+
+0x2C57AACC = ~s~Search for Winton Holmes~s~
+
+0x2CC3C9D1 = ~s~Clear out the ~o~townsfolk~s~
+
+0x4A0616E1 = Take diamond brooch
+
+0x4C71063F = ~s~Find Winton~s~
+
+0x4CA1D13C = Farmhand
+
+0x4D08FEB9 = Question the foreman
+
+0x4DDA949D = ~s~Search for Lilly Millet in Emerald Ranch~s~
+
+0x4EBE1442 = Search
+
+0x4F3CC99E = ~e~Mission Failed: ~a~~s~
+
+0x4FA101ED = ~s~Debt successfully donated~s~
+
+0x5B82FE0F = ~s~Debt not recovered~s~
+
+0x5CC95E97 = Charm
+
+0x5D1ECAD9 = ~s~Mount your ~o~horse~s~
+
+0x6A2D5327 = ~s~Stop the ~o~men~s~ from entering the churchyard~s~
+
+0x6A23C4A1 = ~s~Recover the ~o~money~s~
+
+0x7BC55B9E = Gwyn has died.
+
+0x7EA28BC7 = ~s~Debt Absolved~s~
+
+0x8AB6A1A1 = ~s~Take the box from ~o~Algie~s~
+
+0x8B49F616 = ~s~Debt successfully recovered~s~
+
+0x8EE95AF3 = Return to the ~o~house~s~ and finish looting~s~
+
+0x9D2079C5 = Question the guard
+
+0x9F56B16C = ~s~Beat up ~e~Cooper~s~
+
+0x13A06348 = Beat up the ~e~debtor~s~
+
+0x14AD5AB1 = Failed to get the location of the debtor.
+
+0x15E5999B = Confront
+
+0x29D7E29C = Leave the house~s~
+
+0x37C948D0 = Question ~o~Stranger~s~
+
+0x43A6EDE2 = ~s~Search ~o~Algie~s~ for the debt
+
+0x44C46D75 = You scared Gwyn.
+
+0x52D4FD13 = The white cougar pelt was spoiled.
+
+0x54B962A0 = Search the ~o~area~s~ for the debt
+
+0x55A20152 = ~s~Take the diamond brooch from ~o~Gwyn~s~
+
+0x60DAAE4F = Winton's horse was killed.
+
+0x61B759F6 = J. John Weathers
+
+0x61CCE738 = Look
+
+0x67CC0191 = Money
+
+0x67D1DA3D = Confront Winton Holmes
+
+0x68CB9888 = Search the ~o~tree~s~
+
+0x78A183FC = Confront Lilly Millet
+
+0x78B01DC9 = Certain items can be interacted with by pressing ~INPUT_GAME_MENU_ACCEPT~ on them within the Satchel. Open the Satchel by holding ~INPUT_OPEN_SATCHEL_MENU~.
+
+0x80AEDFDD = ~s~Search the rest of the ~o~home~s~ for the debt
+
+0x80D39212 = Stranger
+
+0x81DD170C = Search the area for the debtor
+
+0x82DFEE21 = ~s~You can speak with people in the area to find out where the debtor is.~s~
+
+0x85AC1C80 = ~s~Wait for ~o~Algie~s~ or take the drink~s~
+
+0x87F13426 = Left the cave without the white cougar pelt.
+
+0x88FA52A3 = Move
+
+0x89D6A58A = Your horse has died.
+
+0x96E791E2 = Gwyn was spotted.
+
+0x99EAA1B4 = Take Drink
+
+0x129B5084 = Confront J. John Weathers
+
+0x203EB51F = Winton was attacked.
+
+0x238A1DE6 = The horse is agitated and must be calmed before you can mount it.~s~
+
+0x327DC8E8 = You caused a scene.
+
+0x479B0056 = ~s~Check on ~o~Gwyn~s~
+
+0x622F184E = White Cougar
+
+0x639E2D7B = ~s~Walk with ~o~Gwyn~s~ to the church~s~
+
+0x684B07DC = Stranger
+
+0x715B4EAF = Station Worker
+
+0x808DC0FC = ~s~Stop the ~e~men~s~ from entering the churchyard~s~
+
+0x813D001F = Winton
+
+0x857AE9CF = Chick Matthews escaped.
+
+0x993BE562 = Son
+
+0x1670D88C = Loot the ~o~house~s~
+
+0x3130A685 = Check on ~o~J. John Weathers~s~
+
+0x3766F2D5 = Select the Lantern with the Weapon Wheel, to illuminate dark places.
+
+0x4154B0DA = ~s~Kill the ~e~white cougar~s~
+
+0x5379A617 = Townsfolk
+
+0x6943C8B2 = Confront Mr. Wrobel~s~
+
+0x8413ACFA = ~o~Stand guard~s~ and stop townsfolk from entering the churchyard
+
+0x8760DE30 = Winton was killed.
+
+0x9475F659 = Search ~o~Chick Matthew's~s~ body
+
+0x51353C54 = Handyman
+
+0x98688AA3 = Pick up the ~o~white cougar pelt~s~
+
+0x258466D9 = You became wanted.
+
+0x339745AB = ~s~Search the ~o~home~s~ for the debt
+
+0x391975FA = ~s~Follow ~o~Winton~s~
+
+0x790898E2 = Find J. John Weathers
+
+0x3478589E = Father
+
+0x5583489C = Search ~o~Chick Matthews~s~
+
+0x34618031 = Go to the ~o~area~s~ shown on the map
+
+0x52326184 = The debt was destroyed.
+
+0x56189943 = ~s~Search for Lilly Millet in ~o~Emerald Ranch~s~
+
+0x84073557 = Skin the ~o~white cougar~s~
+
+0xA7DA5E62 = J. John Weathers was killed.
+
+0xA24A6078 = Debt not collected.
+
+0xA25E8521 = Find Mrs. Londonderry
+
+0xA47C63D8 = White Cougar Pelt
+
+0xAE1DC53E = Return to ~o~Winton~s~
+
+0xB2D9267A = Winton was abandoned.
+
+0xB62AFBD9 = Search the highlighted area to find the debt. Use the treasure map to help identify a location.
+
+0xB27448FB = You became wanted.
+
+0xB335945C = Question
+
+0xBA0502B7 = J. John Weathers was attacked.
+
+0xBACDE8CE = Wrobel had died.~s~
+
+0xBD277170 = You left the area.
+
+0xBD432642 = Find ~o~Mr. Wrobel~s~
+
+0xBF3DB931 = Nate Davison
+
+0xBF66BE43 = Wrobel was knocked out.~s~
+
+0xC05484D1 = Cooper
+
+0xC4A8ED64 = Gwyn was abandoned.
+
+0xC28FD7CF = Talk to Mrs. Londonderry
+
+0xC50A11C2 = You left without the debt.
+
+0xC936A11A = J. John Weathers was abandoned.
+
+0xC964773C = Animal pelts, hides, meat and other items can be sold at the butcher stall ~BLIP_SHOP_BUTCHER~ in towns.
+
+0xCC9967A1 = Question
+
+0xCFB928F1 = Lilly
+
+0xCFFF5ACB = Algie Davison
+
+0xD095A616 = Gardener
+
+0xD2EB29D1 = Antagonize
+
+0xD7B3AFD7 = Chick Matthews
+
+0xD8C694EB = Absolve the debt
+
+0xD72AAC07 = You left without the debt.~s~
+
+0xD648B252 = ~s~Stop the ~o~woman~s~ from entering the churchyard~s~
+
+0xD8084D61 = Tree
+
+0xD9592C32 = ~s~Return to ~o~Gwyn~s~
+
+0xDFDFCBEC = Reclaim the debt
+
+0xE1A44CC6 = View the map to find the debt's location
+
+0xE1C2D7BE = Guard
+
+0xE131C2C4 = Return to help J. John Weathers
+
+0xE879117F = Use the lasso to capture the debtor alive.
+
+0xEAE5B12D = ~s~Deal with ~e~Algie~s~
+
+0xEB3E4318 = Winton's horse was attacked.
+
+0xECA5BF33 = Gwyn Hughes
+
+0xEEEEF250 = ~s~Search the cave for the white cougar~s~
+
+0xF3AC2431 = Absolve the debt and give money
+
+0xF9D5B774 = Foreman
+
+0xF85C5103 = Find Arthur Londonderry
+
+0xF212D7BC = ~BLIP_~1~~
+
+0xFC0AB692 = Take Box
+
+0xFDEDD664 = ~e~Failed to collect the debt from this debtor.~s~
+

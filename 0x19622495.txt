@@ -1,0 +1,16 @@
+0x062DE8DD = ~z~What are you talking about?
+
+0x2F6DBB68 = ~z~You know, if someone had told me I'd be building a house for John Marston so...
+
+0x7C0DD49F = ~z~You told me many times.
+
+0xABA8B3D4 = ~z~Hey... I ever tell you about the time I went out for a drink and wound up on a boat for the tropics?
+
+0xB31742B1 = ~z~I'd have ordered a big glass of whatever he was drinkin' then I'd have shot 'em in the head.
+
+0xCF207AC3 = ~z~
+
+0xD7EC0C5A = ~z~Oh you... the twists and turns that life takes us.
+
+0xE2A021C2 = ~z~he can be a farmer and a righteous family man, well...
+

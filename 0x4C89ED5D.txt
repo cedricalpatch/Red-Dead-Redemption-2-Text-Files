@@ -1,0 +1,268 @@
+0x01BFD984 = ~z~Can you believe this, Morgan? I don't trust her any more than I trust that Kieran boy.
+
+0x085E9561 = ~z~Okay.
+
+0x08F0DB41 = ~z~Well like I was saying...
+
+0x0A1E2DBB = ~z~Yes, I'm certain.
+
+0x0B17B12F = ~z~Whoa!
+
+0x0DB0E4C1 = ~z~easy money.
+
+0x0EF3F3EC = ~z~Alright, just take it easy, you two. Get your minds on what matters so we do this right.
+
+0x0F39F04D = ~z~I'll see you back at camp.
+
+0x1B6C0CE0 = ~z~I beg to differ, Marion.
+
+0x1B109A9B = ~z~Micah, I believe.
+
+0x2BBD5C1E = ~z~Robbed a couple of drunken soldiers out near the swamps.
+
+0x3B5F12C0 = ~z~See, I got a plan in mind...
+
+0x3EDF9319 = ~z~but he's too much of a hot head.
+
+0x3F456B2E = ~z~So much for a 'couple of guards'.
+
+0x4B210DCD = ~z~After that mess with the Cornwall stage, I want to make sure we're not riding into another army of guards.
+
+0x4CD7332C = ~z~Just do exactly what I say and you'll be fine, alright?
+
+0x4CFA7E6E = ~z~Who the hell suggested that?
+
+0x4D3EB67F = ~z~Well in that case...
+
+0x4F88EDB9 = ~z~Half man? Half man, what does that even mean?
+
+0x5F355969 = ~z~Hold up!
+
+0x6BD2C317 = ~z~And you're certain this information is sound, Bill?
+
+0x6BFE0321 = ~z~I'm waiting.
+
+0x6F5CF837 = ~z~Because I've done all the groundwork on this.
+
+0x7AB8FA18 = ~z~A stage.
+
+0x7ADCA0DE = ~z~Shoot it then.
+
+0x7BB424F6 = ~z~Are we doing this?
+
+0x8C839A09 = ~z~Go on then.
+
+0x8F69C74D = ~z~Come on, or we'll miss it.
+
+0x9B2963E0 = ~z~What's the plan?
+
+0x9B738044 = ~z~Oh, that's always the dream of every thief...
+
+0x9D34906F = ~z~Just shut your mouth, or I'll shut it for you. You have no damn clue.
+
+0x9E313D64 = ~z~Are you going to blow it or not?
+
+0x9F306985 = ~z~No time like the present.
+
+0x23C4E9B0 = ~z~Yeah, after chasing it all over New Hanover with God knows who watching.
+
+0x27C31E2E = ~z~Will you two stop arguing?
+
+0x35DB41BE = ~z~You shouldn't have left it out.
+
+0x36A771F2 = ~z~Robbed a house up in Roanoke Ridge...
+
+0x37B553E4 = ~z~Yep.
+
+0x38AE7C0C = ~z~Alright, come on. Let's mount up.
+
+0x41AE0BFE = ~z~Whoa! That should do it.
+
+0x45B66174 = ~z~Have you been going through my things?
+
+0x45CD2699 = ~z~Whoa now!
+
+0x51CDF99B = ~z~They kicked you out of the army.
+
+0x54E819C9 = ~z~Don't start giving me more crap about that Cornwall train, alright?
+
+0x59E5AB52 = ~z~And you're certain this information is sound, Bill?
+
+0x60C8C638 = ~z~Well...
+
+0x63B72FA1 = ~z~You got some explosives?
+
+0x65EBF95A = ~z~Yes... come on, both of you, follow me!
+
+0x66D8BDAA = ~z~I wouldn't dream of it.
+
+0x68B71AC0 = ~z~my luck is in now, Arthur.
+
+0x75E2B5E7 = ~z~Yes, you act dumb and get them to stop.
+
+0x79BD88D8 = ~z~A bank stage...
+
+0x85E85A73 = ~z~Oh come on, don't get all precious and stuck up on me now.
+
+0x92C4AA2F = ~z~I've had a good run of luck recently...
+
+0x97A0C4D9 = ~z~Alright, so the stage should be coming from over there.
+
+0x108AA5BD = ~z~good luck.
+
+0x119A8FD9 = ~z~Ah, we dealt with them no trouble.
+
+0x161EC19C = ~z~It's gonna be coming right through...
+
+0x201B8996 = ~z~I think we need a girl.
+
+0x300A500E = ~z~Let's not forget you hooked up the wires, Morgan.
+
+0x324A2DF3 = ~z~and lots of money...
+
+0x338A8214 = ~z~Whoa, whoa!
+
+0x360CBAC1 = ~z~He started it.
+
+0x426D325D = ~z~Here's the goddamn stage coach!
+
+0x551DBF95 = ~z~Now, I was gonna ask Sean...
+
+0x725D7DD0 = ~z~Next time she brings in a lead of her own, we'll all bow down, I promise.
+
+0x781EBEE0 = ~z~And what you mean by that?
+
+0x892FEC68 = ~z~Let's cut up through the creek.
+
+0x998C01BE = ~z~Just act dumb and silly and get the thing to stop... you know, like you do.
+
+0x2933A86F = ~z~They did not!
+
+0x3450D0D5 = ~z~Sure do.
+
+0x3471BFC3 = ~z~You take the honors, Arthur. Grab the loot from inside.
+
+0x3979C19B = ~z~I didn't say enough to you, you useless half man...
+
+0x4253F4A1 = ~z~How do we know you didn't mess it up? But entirely blameless, of course.
+
+0x5475F78F = ~z~I don't like your manners, Mr. Williamson... in fact I think you're an obnoxious idiot.
+
+0x6054FA87 = ~z~Oh shit...
+
+0x7172FDE4 = ~z~Stop, dammit!
+
+0x25019D65 = ~z~It ain't stopping! See if you can ride alongside and jump onto it!
+
+0x28916AA1 = ~z~I was thinking a little womanly distraction.
+
+0x44685ED0 = ~z~You follow orders, you stay alive. That's what they used to tell me in the army.
+
+0x61955CA8 = ~z~I figured that much. But what's the story? Route, number of guards... you know, important details.
+
+0x64582D29 = ~z~You know,~rp~ this was the spot we first picked out for camp?
+
+0x344884D7 = ~z~You free?
+
+0x962541A7 = ~z~This feller was telling me about it couple nights ago when we was drinking.
+
+0x7105042F = ~z~We made a right mess of that.
+
+0x26866953 = ~z~We got some work.
+
+0x36458786 = ~z~Easy, easy!
+
+0x42172074 = ~z~Tilly!
+
+0x62429328 = ~z~What'd you say to me?
+
+0x69848097 = ~z~There's been a change of plan!
+
+0xA0BDA5F7 = ~z~Well that don't surprise me.
+
+0xA0E9B41B = ~z~That's all of them.
+
+0xA1D88282 = ~z~There's a good spot where we should be able to cut it off northwest of Dewberry Creek.
+
+0xA1DCEC33 = ~z~What's the hold-up here?
+
+0xA3775C47 = ~z~You wanna come with me?
+
+0xA1174330 = ~z~We shouldn't take too long over this.
+
+0xAB676C2B = ~z~and without much security.
+
+0xB2C24294 = ~z~Got it. Right, let's split up and get the hell out of here.
+
+0xB6E79A83 = ~z~Sure, what kind of work?
+
+0xB33F7EF0 = ~z~I'll shoot it, stand back.
+
+0xB40C26E9 = ~z~Okay. Follow me.
+
+0xB52F7901 = ~z~Damn, it's locked.
+
+0xB236ADCA = ~z~easy money.
+
+0xB683B658 = ~z~Who're you taking?
+
+0xB1420AFD = ~z~Let's get going, Morgan.
+
+0xBDC252ED = ~z~Go on, Arthur.
+
+0xC7D4A509 = ~z~and the bank reckons the cost of security ain't worth the risk.
+
+0xC47CE609 = ~z~Okay but you owe me my cut, don't think I'll forget.
+
+0xC63D55CB = ~z~why not?
+
+0xC2949A89 = ~z~Now, there'll be a couple guys, but nothing too serious...
+
+0xC8098D15 = ~z~I'm gonna blow it open, stand back.
+
+0xCC8145B6 = ~z~Sounds good. Let's do it.
+
+0xCD199161 = ~z~Stop the damn coach, now!
+
+0xCE59B633 = ~z~So what's the plan?
+
+0xCF53F610 = ~z~Are you getting the money then?
+
+0xD991A2AD = ~z~Hold them horses! Slow it down!
+
+0xDA1A38D9 = ~z~And what're you about to do?
+
+0xDAEB7F27 = ~z~Well then...
+
+0xDB8B3AE7 = ~z~What you doing, Morgan? Get over here.
+
+0xDBB49478 = ~z~I know, I know. Go on.
+
+0xDCC0E635 = ~z~Stagecoach.
+
+0xDDB2D0FC = ~z~What you want me to do?
+
+0xDF05536A = ~z~What's the opportunity?
+
+0xE4D1CE48 = ~z~Prepping for a robbery.
+
+0xE9633741 = ~z~A dry riverbed?
+
+0xF19B2014 = ~z~Oh shit!
+
+0xF47F8216 = ~z~I'll remember you said that.
+
+0xF65F9FE2 = ~z~Okay, here we are.
+
+0xF79A4654 = ~z~I said, you have the honors.
+
+0xF3773CF3 = ~z~I never have. Running with them Foreman Boys all them years. She could turn on us any minute.
+
+0xF1078436 = ~z~We stopped it didn't we?
+
+0xF6010581 = ~z~How about we do exactly what Tilly says? I'd feel a lot safer.
+
+0xFCBBC6F6 = ~z~What are you doing?
+
+0xFDA100C2 = ~z~Stand aside.
+

@@ -1,0 +1,14 @@
+0x0536E296 = ~z~Not reading, Miss, idleness.
+
+0x4E47F4BF = ~z~You're right not, missy!
+
+0x5838888C = ~z~On!
+
+0x94858135 = ~z~Is reading betrayal in your world, Miss Grimshaw?
+
+0xA6B72598 = ~z~You know, Miss, I've killed girls as betrayed us, and done it happily.
+
+0xE1C11BAB = ~z~I guess not, Miss.
+
+0xF305BE34 = ~z~Idleness is betrayal, because it means I work so you don't have to! That's not right, is it?
+

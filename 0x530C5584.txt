@@ -1,0 +1,28 @@
+0x042BDECA = ~z~~sl:0.0:0.7~So...~sl:0.3:0.6~listen...~sl:0.4~Jack...
+
+0x3A0D2AA1 = ~z~I'm not allowed to talk to you. Dutch says you've been bad and need to be punished.
+
+0x3A2497D2 = ~z~~sl:0.0:1.2~You talk to that boy again,~sl:~I'll cut your throat.
+
+0x3B3ACCF3 = ~z~How about you fetch Uncle Kieran a bite to eat, huh?
+
+0x9C3F5C0E = ~z~Oh hi Arthur.
+
+0x4578E16F = ~z~There's a nickel in it for you.
+
+0xAA81F893 = ~z~Hey Jack.
+
+0xAEC8DAAA = ~z~Hey.
+
+0xB8CD1529 = ~z~This place is so boring.
+
+0xC08F7E37 = ~z~Kid, come over here a second.
+
+0xCB069325 = ~z~What's your name little feller?
+
+0xCD8B3EA5 = ~z~~sl:0.0:1.1~Why don't you run along now?~sl:~You should be keeping warm.
+
+0xDD403798 = ~z~Jack.
+
+0xEE31CE3E = ~z~~sl:0.6:1.1:1~Damn brat.
+

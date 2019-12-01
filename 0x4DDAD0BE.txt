@@ -1,0 +1,92 @@
+0x02EB7563 = ~z~You a bounty hunter, mister?
+
+0x03643F7B = ~z~but I've been around long enough to know...
+
+0x0919EEFD = ~z~There just ain't enough of us.
+
+0x0D1552DD = ~z~you don't hire a saint to catch a sinner.
+
+0x1B7993BC = ~z~Well, I'm guessing you ain't here to pass the day...
+
+0x1B13256C = ~z~Killed more than Landon Ricketts without even pulling a trigger.
+
+0x1FB5AFC9 = ~z~The feller over at the saloon says...
+
+0x2D904B7E = ~z~he thought he saw him by the gorge...
+
+0x3A9DADED = ~z~You smell that?
+
+0x3DDF5887 = ~z~Maybe...
+
+0x4C51756B = ~z~You a bounty hunter, mister?
+
+0x6CFC0D35 = ~z~Well good luck to you.
+
+0x8D17D2E0 = ~z~attracts delinquents and reprobates like flies.
+
+0x9B16A68D = ~z~You think you can bring him in?
+
+0x33B4A108 = ~z~What are you doing here? Don't you have a bounty to catch?
+
+0x43ECC08B = ~z~This here's a livestock town, mister...
+
+0x51FD1457 = ~z~Gets some kind of sick satisfaction out of it.
+
+0x55D06452 = ~z~You bring me what I need...
+
+0x60E4B226 = ~z~The money's good.
+
+0x74AFD8DC = ~z~Why don't you have a look at that poster...
+
+0x268E3CAC = ~z~looky here.
+
+0x344FD82F = ~z~Maybe this is our man.
+
+0x833BBF28 = ~z~Then I don't need to know much more than that...
+
+0x913B91F7 = ~z~He's a low down huckster.
+
+0x7671DD40 = ~z~I need him alive though.
+
+0x7700CAD1 = ~z~or discuss the finer points of county law.
+
+0x8556E77D = ~z~turn yourself in...
+
+0x85827B61 = ~z~straight north of here.
+
+0x86527C21 = ~z~what is it you need?
+
+0x28710994 = ~z~Now I'm not a feller to pass a quick judgement...
+
+0xA2F5356A = ~z~on the wall over there.
+
+0xAD6ECB3D = ~z~I'll see what I can do.
+
+0xB2AC4223 = ~z~Well... looky here.
+
+0xBFC36F06 = ~z~and I'll pay you well...
+
+0xC3DF407E = ~z~till I got a reason to.
+
+0xCA7A8482 = ~z~Well...
+
+0xD1F89450 = ~z~I wanna make sure the women he widowed...
+
+0xD60EE4DD = ~z~Alright...
+
+0xDA47240D = ~z~So...
+
+0xE7ADBFBA = ~z~get compensated before he swings.
+
+0xE25E2186 = ~z~Maybe this is our man.
+
+0xE866B7B2 = ~z~Don't you have a bounty to hunt?
+
+0xECE7C91A = ~z~from here to Annesburg.
+
+0xF7A24C0E = ~z~it depends.
+
+0xF6065B8B = ~z~and I won't ask no questions.
+
+0xFDAE6AA7 = ~z~He's been poisoning folks with his miracle cure...
+

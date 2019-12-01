@@ -1,0 +1,16 @@
+0x054B8ED9 = ~z~Mr. Morgan, Mr. Morgan.
+
+0x2FB4E3BB = ~z~Now, lying on the other hand, that really is a sin.
+
+0x4C8F1D6F = ~z~I make such a fool of myself.
+
+0x5B40BAD2 = ~z~Don't worry about it.
+
+0x12F12A24 = ~z~Reverend.
+
+0x20EA4626 = ~z~You're a fine man.
+
+0x75DE700D = ~z~The liquor... is not my friend, Mr. Morgan. It really isn't.
+
+0x681FD490 = ~z~I just want to thank you... for saving my life.
+

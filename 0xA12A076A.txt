@@ -1,0 +1,26 @@
+0x0FAB878D = ~z~You fools just about managed... you can hardly read.
+
+0x3D68E2F7 = ~z~
+
+0x5A4E1CD1 = ~z~Arthur told me that a... a long time ago.
+
+0x6D694307 = ~z~So, it all starts with a good woman?
+
+0x7FBBE7AC = ~z~Exactly... it all starts with a good woman...
+
+0x46D275DA = ~z~Well, he'll never earn a living.
+
+0x2156AAE3 = ~z~John found himself a good woman, she saved him. John saved me, I saved Charles... so it goes.
+
+0x3479D129 = ~z~Quite the book worm we got.
+
+0xA666D9D3 = ~z~You're getting mighty sentimental old man... you about to die?
+
+0xAE99162D = ~z~Finally, old man, you... you made me cry!
+
+0xB7D97CB8 = ~z~Me? Never.
+
+0xC8077846 = ~z~John Marston is the luckiest man alive.
+
+0xFE5C09C0 = ~z~John Marston... you are the luckiest son of a bitch that ever lived.
+

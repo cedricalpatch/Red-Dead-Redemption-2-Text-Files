@@ -1,0 +1,86 @@
+0x02A83766 = You annoyed the Shop Owner.
+
+0x08535AF0 = Go to the ~o~Post Office
+
+0x0C497845 = Go back to ~o~Sadie
+
+0x3B991127 = Send Pearson's letter.
+
+0x5AFCCBEB = Intervene
+
+0x6A90BD16 = Go back to ~o~Clemens Point
+
+0x7A1E444E = The wagon became stuck.
+
+0x7FF4448D = The wagon was destroyed.
+
+0x9A0EFD3F = The ~o~~BLIP_POST_OFFICE_REC~ ~s~icon will display if there is mail ready for collection at the Post Office.
+
+0x9C49D3F8 = Wait for ~o~Sadie
+
+0x25C65D3B = You attracted the law.
+
+0x39C14161 = You discarded Pearson's letter.
+
+0x61B02BB5 = Fend off the ~e~outlaws
+
+0x72B63630 = You failed to return to Clemens Point.
+
+0x85EE587F = Sadie
+
+0x90D61379 = Hold ~INPUT_VEH_BRAKE~ to reverse the wagon.
+
+0x91B7BD6B = Approach the window to send Pearson's letter and collect any post for the camp.
+
+0x237D4660 = Press ~INPUT_ENTER~ to get on the wagon.
+
+0x532DE424 = Injured bandit
+
+0x799D0771 = General Store
+
+0x1147A1F5 = Tap ~INPUT_VEH_ACCELERATE~ to accelerate.~n~Hold ~INPUT_VEH_ACCELERATE~ to maintain speed.~n~Hold ~INPUT_VEH_BRAKE~ to decelerate.
+
+0x1570D39B = You attacked the Rhodes inhabitants.
+
+0x6741D805 = Sadie was abandoned.
+
+0x7376F497 = Accompany Sadie back to Clemens Point
+
+0x8850FA8E = Collect ~o~Sadie
+
+0x40799FD7 = Pearson
+
+0x55638ED6 = Post Office
+
+0x691246ED = Pearson has died.
+
+0x884059A2 = Talk to the Clerk at ~o~~BLIP_POST_OFFICE~~s~ to send Pearson's letter.
+
+0xA2B95AED = Deal with the remaining ~e~outlaws
+
+0xA475D80B = Sadie has died.
+
+0xAA892BEF = Get back on the ~o~wagon
+
+0xAC2A7250 = Collect any mail for the camp.
+
+0xAC39BA63 = You failed to go to the Post Office.
+
+0xB70328CA = You annoyed the camp inhabitants.
+
+0xBCE5626A = You annoyed the Post Office clerk.
+
+0xC0A5629F = Clemens Point
+
+0xC3A2DBF6 = Get on the ~o~wagon
+
+0xC3A6C817 = Drive to the ~o~store
+
+0xE1E50CFA = The ~o~~BLIP_POST_OFFICE~ ~s~icon on the mini-map shows the location of the Post Office.
+
+0xE23539DC = Wagon
+
+0xEF42FECB = Go to ~o~Sadie
+
+0xF1E2E0E2 = Rhodes was abandoned.
+

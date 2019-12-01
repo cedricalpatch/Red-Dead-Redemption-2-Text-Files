@@ -1,0 +1,252 @@
+0x0311F891 = Lap Time
+
+0x03F27C1C = nd
+
+0x04CAEBA0 = TRAIN ETA
+
+0x05AF2D7A = 3RD PLACE
+
+0x05B2A093 = LAP
+
+0x072CE5AC = 19TH PLACE
+
+0x0AB1B78B = 1ST PLACE
+
+0x0B471F5A = Team 2
+
+0x0E91AFCF = Shoot the targets to pass the checkpoints. Stamina boosts awarded for target accuracy.
+
+0x1FF1B3AB = Close Leaderboard
+
+0x3D52B38D = POSITION
+
+0x3E10537E = 15TH PLACE
+
+0x3F2EC0DB = 29TH PLACE
+
+0x4AB55036 = ~1p~
+
+0x4D6CDA5F = TEAM LIVES REMAINING
+
+0x4D8A525A = Position
+
+0x4D45BE4F = Lap
+
+0x4E4C2563 = Team 7
+
+0x4F9D76F5 = YOU RAN OUT OF GOLD
+
+0x4F63F625 = 16TH PLACE
+
+0x5CAAC220 = Team 8
+
+0x5DAD6030 = HORSE RACE
+
+0x5E306371 = DISTANCE TO CHECKPOINT
+
+0x6AC54F0E = You completed a timed checkpoint while in the lead!
+
+0x6D1835EC = ~a~ ~s~won the race
+
+0x6E63793E = ~a~ ~s~finished ~a~
+
+0x6FCFA21C = 28TH PLACE
+
+0x7A291D32 = DROPPED
+
+0x7C3FE7FB = Best Lap
+
+0x8A2CA437 = +~1~
+
+0x8B463578 = Use Stamina Boost
+
+0x8BC0CF30 = Horse Race
+
+0x8D4D1091 = of
+
+0x8DF6058F = TEAM POSITION
+
+0x8E5FEF1C = CART RACE
+
+0x8E7D52A4 = SHOOT THE FINAL TARGET
+
+0x8F024B6E = +~1~s
+
+0x8FB985D5 = Respawn
+
+0x9A61F740 = 26TH PLACE
+
+0x9F4901F2 = 31ST PLACE
+
+0x14B18483 = FINISH LINE AHEAD!
+
+0x23E55096 = Team 4
+
+0x24BE4EE4 = Lock-on to targets uses your default settings. Lock-on to players has been disabled.
+
+0x39F2B7BC = Wrong Way!
+
+0x40BFE035 = th
+
+0x44AD471D = Melee combat enabled
+
+0x49A20900 = ~a~ ~s~ was eliminated.
+
+0x57A31F9F = ~1p~ knocked you off your cart.
+
+0x57BCE47C = ~a~ ~s~entered 1st.
+
+0x63B989F0 = 27TH PLACE
+
+0x72C687E8 = COMPLETE LAPS!
+
+0x85B12EBC = You can replenish your horse stamina by collecting a barrel.
+
+0x86FE654D = 10TH PLACE
+
+0x87D8522D = 25TH PLACE
+
+0x214C99EB = 11TH PLACE
+
+0x331B3D88 = 12TH PLACE
+
+0x344E3FFA = 14TH PLACE
+
+0x409A09FF = Team 6
+
+0x454D6FEE = Show Leaderboard
+
+0x470C403D = TIME LEFT
+
+0x735ACF98 = FINISHED
+
+0x898B9BE1 = Team 1
+
+0x976B768C = RACE END
+
+0x1995BBF7 = Team 3
+
+0x2294BAE4 = Finish
+
+0x3830C03C = Race Over
+
+0x7652AA67 = Melee combat is disabled at the start of the race.
+
+0x8097C842 = DISTANCE TO FINISH
+
+0x9957AB30 = rd
+
+0x17774D42 = RACE TO FINISH
+
+0x22739C45 = 13TH PLACE
+
+0x677160B6 = ~1p~ killed your horse.
+
+0x1933125C = st
+
+0x7322086A = 8TH PLACE
+
+0x19858703 = Player
+
+0x32657630 = Narrow lock-on for targets. Lock-on to players has been disabled.
+
+0x33806867 = BOAT RACE
+
+0xA26266DE = 9TH PLACE
+
+0xAA80A62F = You were eliminated.
+
+0xAB6D6B7A = ~1~
+
+0xAC0466FE = Lock-on to players has been disabled.
+
+0xAC951BA6 = 23RD PLACE
+
+0xAC81504D = ELIMINATION
+
+0xADD28C06 = -~1~
+
+0xB09EA49D = 32ND PLACE
+
+0xB14684B2 = 6TH PLACE
+
+0xBB52B925 = 22ND PLACE
+
+0xBCC7BC0B = 24TH PLACE
+
+0xBD2109E2 = Hide Leaderboard
+
+0xBDBE6EB6 = Leader
+
+0xBF05202F = 7TH PLACE
+
+0xBF4DBABE = DID NOT FINISH
+
+0xC05048E7 = GOLD
+
+0xC1C58C54 = Team 5
+
+0xC7C3BA62 = FOOT RACE
+
+0xC8D1E538 = CURRENT LAP
+
+0xC23C46F8 = 20TH PLACE
+
+0xC31CCA9C = Weapons disabled for 10s.
+
+0xC89C9858 = ~1~/~2~
+
+0xC98F746D = COMPLETE ~1~ LAPS!
+
+0xC5118F10 = TIME
+
+0xCDB0B6A0 = Checkpoint +~1~
+
+0xD03E55EF = Locate Train
+
+0xD0811569 = Spectate
+
+0xD4A7ABA2 = New Personal Best
+
+0xD5E24DE9 = 4TH PLACE
+
+0xD11BE4B7 = 21ST PLACE
+
+0xD106F82B = You're going to be eliminated! Catch up!
+
+0xD209B397 = GO
+
+0xD924F6AC = Combat enabled
+
+0xD4236BA6 = 30TH PLACE
+
+0xDB444617 = ~1p~ knocked you off your horse.
+
+0xE0CBA52C = GET TO THE FINISH LINE!
+
+0xE1F1297B = LIVES REMAINING
+
+0xE40E8DBB = Aim assist has been switched off in this race.
+
+0xE397E954 = 5TH PLACE
+
+0xEBC9B739 = ~1p~ has left the session.
+
+0xEBC22ED7 = 17TH PLACE
+
+0xED5F7CA4 = STANDINGS
+
+0xEFE934F4 = CHECKPOINT
+
+0xF4E74121 = 18TH PLACE
+
+0xF5A9BA74 = ~1~
+
+0xF593BDC9 = LAP PROGRESS
+
+0xF76410E4 = 2ND PLACE
+
+0xFE801AAD = Time
+
+0xFF798004 = +~1~%
+

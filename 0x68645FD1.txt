@@ -1,0 +1,522 @@
+0x006C119E = ~z~
+
+0x0475356F = ~z~
+
+0x04DC14A4 = ~z~these men are just like us...
+
+0x05534D70 = ~z~free them.
+
+0x05EDB591 = ~z~
+
+0x065ABA0C = ~z~
+
+0x06C84E07 = ~z~
+
+0x070B114F = ~t~~sl:0.0:0.8~In Spanish: Rats?~sl:1.3~In Spanish: He was raised by the devil.
+
+0x07F354F0 = ~z~ruining their otherwise blackened hearts.
+
+0x08E4778F = ~t~In Spanish: Come here, you one armed scum.
+
+0x09F66878 = ~z~
+
+0x0A3EF495 = ~z~What are you doing here? Huh? What are you doing here?
+
+0x0A5BF4CB = ~t~In Spanish: I asked you, who are you? So who are you? Who are you?
+
+0x0ABE8AC5 = ~z~
+
+0x0C007477 = ~z~
+
+0x0D42C70A = ~z~
+
+0x0D868C14 = ~z~We owe you our lives.
+
+0x0DFFF832 = ~z~
+
+0x0F98E9EC = ~z~
+
+0x0F5790FB = ~z~
+
+0x1A4D79A4 = ~z~Leon needs our help again.
+
+0x1C9D194D = ~t~In Spanish: Now who are you? Who are you?
+
+0x1CB48423 = ~z~
+
+0x1E64B570 = ~t~In Spanish:  It's time to see the prisoners... see if the American has squealed yet.
+
+0x1F4235E5 = ~t~In Spanish: No, stop!
+
+0x1FFB6672 = ~z~What are you doing?
+
+0x2A8C9A49 = ~t~In Spanish: I don't know!
+
+0x2A61D248 = ~z~Out of the way.
+
+0x2A390123 = ~z~Thanks.
+
+0x2AD8D3E5 = ~z~Come, follow me.
+
+0x2B098DEC = ~z~I think I hear voices coming from the other ruins down there.
+
+0x2B60FD5C = ~z~Two more ahead, take cover on the other side of this door.
+
+0x2B332120 = ~z~
+
+0x2D069F45 = ~t~In Spanish: Do you want to die? Talk, goddamn it!
+
+0x2E8B06CB = ~t~In Spanish: You sick bastard! These are people.
+
+0x2EB75615 = ~t~In Spanish: You're a sick man.
+
+0x2EE6BDE0 = ~t~In Spanish: Who are you? Who are you? One last time, who are you?
+
+0x2FE30B2B = ~z~It's not much, but it's the least we can do.
+
+0x3C7EA5AE = ~z~Here, this is for you.
+
+0x3CC23EB4 = ~t~In Spanish: You're lying!
+
+0x3CD87735 = ~z~Move over.
+
+0x3D7F85EA = ~z~Thank you for what you did for my niece...
+
+0x3D7FC38A = ~z~Who was that?
+
+0x3D52B27E = ~z~I'll show you.
+
+0x3F2AC35E = ~z~Absolutely not.
+
+0x4A665F86 = ~z~
+
+0x4BBE677E = ~z~Shit, that don't look good.
+
+0x4C447D08 = ~z~Look out, there's one on the roof!
+
+0x4EBCA864 = ~z~my family is ever more in your gratitude.
+
+0x4EC0E19A = ~z~He ain't no friend.
+
+0x4F9E5715 = ~z~Which way?
+
+0x5BE228CA = ~t~In Spanish: Come, brothers...
+
+0x5E12BF5D = ~t~~sl:2.6:0.0~In Spanish: He's sick. I bet he's enjoying torturing those poor bastards.
+
+0x5F87843E = ~t~In Spanish: Who put you up to this?
+
+0x6D844B2D = ~z~Another one. Hide, quick.
+
+0x6FAB5669 = ~z~Let's go. Stay close.
+
+0x7ACAE7E0 = ~z~
+
+0x7BB5BB73 = ~z~for the troubles we've been causing.
+
+0x7C11ACF9 = ~z~
+
+0x7D186F8C = ~z~Hey, I thought you were helping us!
+
+0x7DD3F2BA = ~z~Come on, follow me.
+
+0x7DD4C0E0 = ~t~In Spanish: Where are the Americans? Tell me where they're hiding!
+
+0x8B5019DB = ~t~In Spanish: Devil would have been better.
+
+0x8C0C5D47 = ~t~In Spanish: Where is Leon Fuentes?
+
+0x8C664580 = ~z~We'll be there.
+
+0x8CC08A6A = ~z~Damn. They're coming from behind us.
+
+0x8E5561D9 = ~t~In Spanish: Tell me you son of a bitch!
+
+0x8FA79D81 = ~z~Okay.
+
+0x8FA3647D = ~t~In Spanish: I don't know, I swear to god!
+
+0x9A8BA21B = ~z~my name is Leviticus Cornwall...
+
+0x9ACD672C = ~t~In Spanish: No. For the love of God, no.
+
+0x9EB30842 = ~t~In Spanish: They kick harder than you do.
+
+0x9F150C89 = ~z~Stay close behind me. I know a way we can sneak around.
+
+0x9FD0B84A = ~t~~sl:0.0:3.3:1~In Spanish: Of course he's squealed. They always squeal.
+
+0x15C4B2C2 = ~z~
+
+0x16B0513E = ~z~
+
+0x18D2CDCB = ~z~He's still on the roof!
+
+0x20FD3446 = ~z~
+
+0x21B28E3F = ~t~In Spanish: Dirty rats scurrying in the tunnels...
+
+0x21C5E981 = ~z~Shoot, Arthur, you're the only one with a gun!
+
+0x28F7F5CD = ~z~
+
+0x29D8D13A = ~z~Look out.
+
+0x32A82A59 = ~z~It's Fussar's man...
+
+0x32ECD825 = ~z~
+
+0x32FCED32 = ~z~
+
+0x35A44F44 = ~t~In Spanish: What's happening?
+
+0x46ACA97E = ~z~On the roof, Arthur! Shoot him!
+
+0x47DE73B8 = ~t~In Spanish: Hey.
+
+0x49B10468 = ~t~In Spanish: you'll be okay.
+
+0x53CC203E = ~t~In Spanish: How are you getting on over there?
+
+0x57D914A3 = ~z~Careful.
+
+0x59F4613E = ~z~
+
+0x60C1C4BB = ~t~In Spanish: His little weiner gets hard.
+
+0x60F04013 = ~z~You should rest here.
+
+0x65B06785 = ~z~Shoot that one up top!
+
+0x66DA4310 = ~z~Are you crazy?
+
+0x67A6AF5F = ~t~In Spanish: Who are you?
+
+0x67FD9AD4 = ~t~In Spanish: What did you say to me? What did you say to me?
+
+0x71A9A882 = ~t~In Spanish: Nobody!
+
+0x71E86708 = ~t~In Spanish: He was raised by rats.
+
+0x72C01234 = ~z~to get you and your men out of here.
+
+0x84B3C143 = ~z~Maybe there's still time to get to the other workers.
+
+0x87C4D27D = ~z~Now we must find them before they do.
+
+0x89AE5379 = ~z~Get back.
+
+0x90BAC073 = ~z~Not that close.
+
+0x96CA34CF = ~z~
+
+0x97CDF9D5 = ~t~In Spanish: You maggots are all dead!
+
+0x98CFE97B = ~z~Let's sneak down and take a look.
+
+0x177AA609 = ~z~Okay, let's move.
+
+0x307B0E2E = ~z~
+
+0x452E7CA8 = ~z~
+
+0x464C8ACC = ~z~You'll need this.
+
+0x542F9F72 = ~z~Follow me, let's go.
+
+0x589FFBF9 = ~z~
+
+0x645B2CB1 = ~t~In Spanish: I tell you what... my grandfather always said Guarma is the island that God forgot...
+
+0x667C5034 = ~t~In Spanish: I wish Angel would hurry up.
+
+0x787A3BCD = ~z~
+
+0x798DA052 = ~t~~sl:0.0:3.1~In Spanish: Maybe one of you will speak after I prove I'm not joking...~sl:0.0:1.9:1~In Spanish: nobody is going to miss this little piggy!
+
+0x830F910D = ~z~See... it's like Hercule told you...
+
+0x964CF772 = ~z~Connard...
+
+0x966B4926 = ~t~~sl:0.0:3.5:1~In Spanish: Good luck... don't let him piss on you.
+
+0x968A724C = ~z~Okay.
+
+0x976F8B57 = ~z~
+
+0x1019C9E9 = ~z~
+
+0x1117E635 = ~z~Well let's go then.
+
+0x2039BE97 = ~z~you don't look good.
+
+0x2463CF3C = ~z~
+
+0x2807FC94 = ~z~Take care of him!
+
+0x2930AACD = ~z~You should hurry, friend.
+
+0x3341AF0E = ~z~One of Hercule's men.
+
+0x4197AE94 = ~z~Good luck getting home.
+
+0x5416A660 = ~z~Go, go.
+
+0x5884FBC7 = ~z~
+
+0x6820F9F6 = ~z~
+
+0x9369A62B = ~z~
+
+0x9902BDBB = ~z~Come on, shoot their ropes!
+
+0x12952B9F = ~z~
+
+0x58355A1F = ~z~Take care of him!
+
+0x62753BFD = ~z~Come on, stick tight.
+
+0x72859CE7 = ~z~Oye.
+
+0x83684AD8 = ~z~That idiot on a mule?
+
+0x93408B79 = ~z~Look out.
+
+0x338729D7 = ~z~If you were to find any of our men...
+
+0x405483E1 = ~t~In Spanish: Or Shit-for-Brains.
+
+0x740832C9 = ~z~
+
+0x774875C8 = ~z~
+
+0x1697381A = ~z~bad men with little shards of goodness...
+
+0x2003041F = ~z~He's been punishing the workers he's arrested...
+
+0x3242289D = ~z~the overseer, your friend Levi Simon.
+
+0x5217882A = ~t~In Spanish: and now after being here a month, I know what he meant.
+
+0x8359518B = ~t~In Spanish: You, Hercule... all of you... you're dead men.
+
+0x8889184D = ~z~
+
+0x9742728C = ~z~I heard reports of...
+
+0x14638133 = ~z~If you go now, you might still get to them in time.
+
+0x65269487 = ~t~In Spanish: Please! I have a family!
+
+0x69009609 = ~z~of...
+
+0x86490411 = ~t~In Spanish: I never saw him before...
+
+0xA2CAE983 = ~z~Hide, quick!
+
+0xA2ED64D8 = ~z~Not so close.
+
+0xA4CA1B2D = ~z~Okay, they've moved. Come on, keep close behind me.
+
+0xA4EB3ADB = ~z~I work with Hercule.
+
+0xA6FDEA4B = ~t~In Spanish: I have to see what old Sick-in-the-Head Angel is up to.
+
+0xA9C78042 = ~z~This place...
+
+0xA10F399D = ~t~In Spanish: he was following me in the woods, strange fellow...
+
+0xA61F0113 = ~z~
+
+0xA2859BE5 = ~z~A guard, keep out of sight!
+
+0xA9767FA0 = ~z~Just meet him at Cinco Torres.
+
+0xA120850C = ~t~In Spanish: Leon, we will meet at the top of the cliff.
+
+0xA7084859 = ~z~
+
+0xAB6E3CA4 = ~z~Come on.
+
+0xACCB27F5 = ~z~Okay.
+
+0xAD11D97B = ~z~
+
+0xADA550A5 = ~z~What are you doing?
+
+0xB0CBD02E = ~z~Come on, mister, this way.
+
+0xB2E9A89E = ~z~Si.
+
+0xB3AC7246 = ~z~No, don't mention it.
+
+0xB3D57360 = ~z~Hurry, Arthur, they're gonna die!
+
+0xB5A0304B = ~z~I don't think so...
+
+0xB9D0EDEA = ~z~
+
+0xB77DB1EE = ~z~but managed to escape into the jungle.
+
+0xB741DF88 = ~z~I'm Baptiste.
+
+0xB810E126 = ~z~Thank you, my friend.
+
+0xBA312115 = ~z~Good, good.
+
+0xBAA2DF44 = ~z~Okay, follow me. Keep quiet.
+
+0xBB2B9550 = ~z~Give me some room.
+
+0xBB9BC596 = ~z~~sl:0.0:2.6~Keep quiet and don't kill anyone.~sl:0.2~If they catch us, they'll murder the workers for sure.
+
+0xBC0BB833 = ~z~Hey Leon, look...
+
+0xBC914A7E = ~z~Get them down from there, shoot the ropes!
+
+0xBDA6FE88 = ~t~In Spanish: Angel... never was a man less appropriately named.
+
+0xC0406578 = ~z~Watch it.
+
+0xC1DFC6B2 = ~z~What's the plan?
+
+0xC4CEA7BF = ~z~That looks like the last of them.
+
+0xC37DB88C = ~z~
+
+0xC335CB76 = ~z~Now that ain't true.
+
+0xC754FD40 = ~z~And you.
+
+0xC2448BC3 = ~z~
+
+0xC89948D9 = ~z~You okay?
+
+0xCA2C8561 = ~t~In Spanish: This brave American has saved your lives.
+
+0xCA57DF6B = ~z~
+
+0xCA819FF0 = ~z~Yeah of course.
+
+0xCA855FE6 = ~z~Don't worry, I'll be with you in a minute...
+
+0xCA908DC9 = ~t~~sl:0.0:5.3:1~In Spanish: Hanging is a very tedious business... it takes too long.
+
+0xCAB5A636 = ~z~
+
+0xCC6FDCE6 = ~z~It is getting very bad my friend...
+
+0xCD49B6E2 = ~t~~sl:1.4:0.0:1~In Spanish: I hope not.
+
+0xCD246524 = ~t~In Spanish: We'll pay a visit to your island... to your women and children...
+
+0xCE855FD5 = ~z~Leon will lead you down along the river bed...
+
+0xCEEF4A6C = ~z~
+
+0xCEF681E2 = ~t~In Spanish: There's nothing here... let's get back... only three more months... then home.
+
+0xCF8FA659 = ~z~
+
+0xCF454B3D = ~z~Take care, my friend.
+
+0xD03A96D7 = ~z~
+
+0xD0476359 = ~z~I will come from above, along the ridge line.
+
+0xD1D75B89 = ~z~I don't know.
+
+0xD2FE49E5 = ~z~Hide, or they'll spot you.
+
+0xD3C6A035 = ~t~In Spanish: Nearly ready... you know... much as I enjoy watching a socialist swing,
+
+0xD8F442B3 = ~z~
+
+0xD54C5C29 = ~z~No, no, no...
+
+0xD55F6FC9 = ~z~you're all good men in an unkind world.
+
+0xD59C8B51 = ~z~Where you from? Where you from? Where you from I'm asking you?
+
+0xD424EB3C = ~z~They were working down by Aguasdulces...
+
+0xD7151F53 = ~z~
+
+0xD58999A5 = ~z~Good luck.
+
+0xD531902A = ~t~In Spanish: Come here, you one armed scum.~n~~m~They've got Mr. Baptiste...
+
+0xD886168B = ~z~Over there.
+
+0xDB7F0F6B = ~z~Go with Leon, please, I'll be alright.
+
+0xDC388CFD = ~z~
+
+0xE01F4778 = ~z~
+
+0xE045F866 = ~z~Shh...
+
+0xE091EDD6 = ~z~makes me miss home.
+
+0xE6C4D93E = ~z~Quick, they're choking!
+
+0xE7EA2FEC = ~z~Huh? Who are you? Who are you? Huh? Huh? Who are you?
+
+0xE41E25EB = ~z~~sl:0.5~What the hell was that?
+
+0xE490ED0A = ~z~Go on, get out of sight.
+
+0xE60156EF = ~z~Bonjour, mon ami...
+
+0xEA2BC55F = ~z~My pleasure.
+
+0xEAA49A53 = ~z~we should begin.
+
+0xEE46E3C7 = ~z~
+
+0xEEC4CFD2 = ~z~
+
+0xEF3E8473 = ~z~Why aren't you shooting?
+
+0xF0D8D3DE = ~z~
+
+0xF2F54B69 = ~z~~sl:0.0:0.6~Quick.~sl:0.8~Hide.
+
+0xF3C0943F = ~z~Hercule is getting a boat lined up...
+
+0xF3D8B26C = ~z~
+
+0xF4B895FE = ~t~In Spanish: You sick bastard! These are people.
+
+0xF4F96154 = ~t~In Spanish: Who is this man?
+
+0xF7F85008 = ~z~I'm - I'm an American...
+
+0xF9CD9D51 = ~z~
+
+0xF86D3C01 = ~t~In Spanish: This one armed piece of crap... I wouldn't even piss on you...
+
+0xF882E34E = ~z~
+
+0xF8237B33 = ~z~you remember Senor Leon?
+
+0xF28875DB = ~z~
+
+0xF2706305 = ~z~Baptiste...
+
+0xF8095026 = ~t~In Spanish: We have a dumb one here. We have a dumb one. I'll wake him up!
+
+0xFBD5E8B3 = ~z~Yes, thank you.
+
+0xFC2EDC52 = ~t~In Spanish: Please.
+
+0xFCBCD5AC = ~z~
+
+0xFCEA3EDE = ~z~Now...
+
+0xFD8420FE = ~z~Shoot them, come on!
+
+0xFE39EEA0 = ~z~
+
+0xFF5942B8 = ~z~well there isn't much time.
+

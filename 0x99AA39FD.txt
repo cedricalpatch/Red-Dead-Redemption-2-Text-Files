@@ -1,0 +1,386 @@
+0x00A177E3 = ~z~I'll round up the stragglers, you keep going.
+
+0x015D51B4 = ~z~Well, you're a son of a bitch, that ain't one.
+
+0x01AE6D9D = ~z~What a surprise...
+
+0x02D4C5F2 = ~z~I am ready for my retirement, though, let me tell you.
+
+0x045FB084 = ~z~I can see that! Shut up.
+
+0x0622E606 = ~z~Shut up, shut up and get to it! You're gonna wake up old Squears.
+
+0x07534F5C = ~z~Of course... like I told you, easy.
+
+0x076C34DE = ~z~This is the last time I ask you for help.
+
+0x09AA3D54 = ~z~Well, I can give you...
+
+0x0A038803 = ~z~Sounds like he don't know his ass from his armpit half the time.
+
+0x0AEFBA99 = ~z~N-No, fifty total.
+
+0x0C79ACE0 = ~z~I don't know. This is the first time I've seen anyone else here.
+
+0x0CA2E4CA = ~z~Let's go...
+
+0x0CE8584D = ~z~This don't seem to going right, let me help out.
+
+0x0E368EED = ~z~Alright, let's get up there on foot from here,
+
+0x0EC3CEF6 = ~z~
+
+0x1A99DF33 = ~z~fifty bucks.
+
+0x1C722CE0 = ~z~he's mentioned how this rancher's a falldown drunk these days.
+
+0x3E2722BC = ~z~How many cows?
+
+0x3FFEB15F = ~z~Hurry up.
+
+0x4B3256BC = ~z~Let's just say I was born sometime between the fall of '49 and the fall of Rome.
+
+0x4FDDC629 = ~z~I'll give you sixty percent of the take.
+
+0x5A7875A1 = ~z~So menacing...
+
+0x5B1BE036 = ~z~Yours now, if the price is right.
+
+0x5C1DAEDA = ~z~You alright here? I'll go get that one back.
+
+0x5CB9DE2C = ~z~This is old Squears' cattle, he knows me...
+
+0x5CF82AAF = ~z~Hey, what're you doing?
+
+0x5E75609B = ~z~One... two...
+
+0x5F884ABC = ~z~So where's this ranch?
+
+0x5FB65D63 = ~z~Better than the one you didn't have.
+
+0x6B7947A9 = ~z~Woah, what'd you do that for?
+
+0x6D1B7EEF = ~z~I can't do better than that...
+
+0x6E9A01F4 = ~z~One fifty.
+
+0x6F1F99E9 = ~z~Give me a minute... I think I got it...
+
+0x6FA01F97 = ~z~though she did leave me for a younger man.
+
+0x7A7143DE = ~z~Hurry up!
+
+0x7B8220B5 = ~z~this could be my make good.
+
+0x7BF09DE9 = ~z~What the hell is wrong with you?
+
+0x7CF58C8D = ~z~Don't be like that...
+
+0x7DCF1F56 = ~z~Well now, just wait...
+
+0x7E37FA6E = ~z~That was loud.
+
+0x7F66BA7F = ~z~Well, get the gate open!
+
+0x8AA53A0A = ~z~Seventy five and not a dollar more.
+
+0x8C09BBCB = ~z~You know... we kill rustlers 'round these parts.
+
+0x8C48E78D = ~z~I'm doing the best I can... so shut up.
+
+0x8E771390 = ~z~I'll get the strays. Okay?
+
+0x9A005DBD = ~z~I need you...
+
+0x9A0A1837 = ~z~What the... what the hell? I'm being robbed!
+
+0x9AA77100 = ~z~
+
+0x9B3DF4FA = ~z~I'm moving up, we gotta shift direction a bit here.
+
+0x9CFC2C7A = ~z~Didn't you say he'll be out cold all night?
+
+0x9D187AE8 = ~z~I'm heading home, you coming?
+
+0x9F3F0D79 = ~z~Hurry up, and be quiet!
+
+0x18F3C48B = ~z~He's such a flop that...
+
+0x24C1040E = ~z~That's why I jumped on this opportunity. Sooner we get enough money to leave, the better.
+
+0x28D77BAE = ~z~Okay...
+
+0x34E02A18 = ~z~My second wife always used to describe me as ageless,
+
+0x35BF0F2F = ~z~I'll give you 'til the count of five, to get the hell outta here.
+
+0x37EAE3CD = ~z~So how you find out about this place?
+
+0x45D38246 = ~z~I'll go fetch the runner.
+
+0x47BDB434 = ~z~We'll take two hundred, friend.
+
+0x53FC3A9F = ~z~Well, have you ever been shot at by a cow?
+
+0x61C4562F = ~z~this is a good 'un.
+
+0x63A97E06 = ~z~I was talking about now, if there's any confusion on the matter.
+
+0x66FE2F2D = ~z~Christ, I'll take care of them.
+
+0x71BC0D29 = ~z~Now, I owe you after last time...
+
+0x75A54BC8 = ~z~I think I've got a plan.
+
+0x75BB7722 = ~z~It's right in the middle of Scarlett Meadows, just past the Rhodes turnoff.
+
+0x76DA3CB0 = ~z~You're a jackass. That's a metaphor.
+
+0x77F2196A = ~z~Well, hey there...
+
+0x81E54421 = ~z~And they'd never reckon on a distinguished old feller like me
+
+0x82C4F808 = ~z~Yeah, but best not to take no chances.
+
+0x84CEB00A = ~z~Come on.
+
+0x89B63974 = ~z~Stop shooting the money!
+
+0x94B289E2 = ~z~Let's sneak up closer.
+
+0x269E4138 = ~z~What you mean?
+
+0x290AFBC8 = ~z~we could take a whole marching band up there and steal 'em...
+
+0x315D77A8 = ~z~Okay, let's mount up.
+
+0x325D45EC = ~z~So... what now?
+
+0x426A6606 = ~z~I thought you had a plan?
+
+0x483DD12C = ~z~and I don't shoot you.
+
+0x538BD61C = ~z~What a surprise...
+
+0x582AF0AD = ~z~Maybe we should cut you open and count the rings of whisky.
+
+0x633E3692 = ~z~Shit... he knocked himself out.
+
+0x716CF580 = ~z~Yeah, it always is with you...
+
+0x743F478F = ~z~Now, now, now get back to looking out... and shut up.
+
+0x873DB838 = ~z~I don't know.
+
+0x903BE0CE = ~z~Nah, it's fine. I was never there at the same time as you boys.
+
+0x907CDF78 = ~z~I'm going to head over there, see if I can correct us.
+
+0x976B47C8 = ~z~Arthur! Don't trample them.
+
+0x999CD6F1 = ~z~Nothing.
+
+0x1512D02B = ~z~Stop it, you maniac!
+
+0x1918C4D9 = ~z~Whose cows?
+
+0x3925E647 = ~z~You sure you ought to be hanging around Rhodes after everything happened?
+
+0x4066B781 = ~z~Let's go then.
+
+0x4163D1C0 = ~z~You said he was a drunkard, you said that-that we could play the fiddle and we wouldn't wake him!
+
+0x4336F72D = ~z~Jesus.
+
+0x4636ABD0 = ~z~Shit... he knocked himself out.
+
+0x5147DD1B = ~z~That's how I'm gonna see out my days.
+
+0x5687E79B = ~z~I mean the tropics. The real deal. What Dutch is talking about.
+
+0x6047B0BA = ~z~Shit, you hear that? Get your gun out!
+
+0x7702AEC5 = ~z~Clive, pay your friend here.
+
+0x8776A7DF = ~z~Careful.
+
+0x9297CB9C = ~z~Twenty, huh?
+
+0x9785E996 = ~z~Well, I'll believe it when I see it.
+
+0x34520F12 = ~z~I don't know, a small herd I guess...
+
+0x46469F34 = ~z~until we start getting shot at.
+
+0x54169C24 = ~z~In Rhodes?
+
+0x55308B92 = ~z~I ain't so sure, now.
+
+0x65413E79 = ~z~Been hanging around the saloon in Rhodes a bit.
+
+0x66099B0F = ~z~What's a metaphor?
+
+0x70725EE3 = ~z~Yeah, well, we ain't got time. You said he ain't gonna wake up, and we ain't seen him yet.
+
+0x72700A7D = ~z~Thanks for the help with this, Arthur.
+
+0x92920C5B = ~z~That'll do. Cows should be able to get through that busted up fence no bother.
+
+0x288763B6 = ~z~He's a drunken rancher up at Hill Haven Ranch.
+
+0x322715B0 = ~z~~sl:1.1~You do it, you think you can do it faster!
+
+0x938080C3 = ~z~~sl:0.5~He's a drunkard. He's never gonna wake up.
+
+0x2717621B = ~z~Ah shit. Look over there.
+
+0x3751135B = ~z~I'll have to move 'em right away.
+
+0x5351759B = ~z~I was talking in a metaphor, now hurry up!
+
+0x48613132 = ~z~We're going to cut up this way!
+
+0x82467883 = ~z~Yeah, the barkeep there gossips like a fishwife, and a couple of times
+
+0x83564764 = ~z~Sure, I guess.
+
+0x87410104 = ~z~don't want the horses clopping around outside the window.
+
+0x92403930 = ~z~Ah, one's got away from us.
+
+0xA1C7D0A4 = ~z~Got it.
+
+0xA3B37123 = ~z~you know those two bastards who'd buy stolen livestock.
+
+0xA4C56FF7 = ~z~twenty maybe?
+
+0xA20B68D6 = ~z~But, I got costs...
+
+0xA68C0D6E = ~z~Just be careful. How old are you anyway?
+
+0xA529E345 = ~z~Hey watch the damn cows with that horse of yours.
+
+0xA722E0E7 = ~z~What you want?
+
+0xA8061BA2 = ~z~
+
+0xA5293494 = ~z~Well, come on, you better break the padlock...
+
+0xAA10B49E = ~z~What? Where the hell are you going?
+
+0xAC5BBCDA = ~z~Damn you, goddamn robbers! Come here...
+
+0xACE2FD7D = ~z~What are you doing, boys?
+
+0xAD909EA8 = ~z~They're leaving. We gotta stop 'em, come on.
+
+0xAECB1E4D = ~z~Nah, I'll see you later.
+
+0xAFC5AE86 = ~z~
+
+0xB4A39344 = ~z~what you got?
+
+0xB4E08D78 = ~z~Put your hands up in the air.
+
+0xB6C0ABFF = ~z~These stupid animals ain't going where we want them to.
+
+0xB497A985 = ~z~running with a bunch of reprobates.
+
+0xBAE59F7F = ~z~and he still wouldn't wake up.
+
+0xBB811EC8 = ~z~They're in! They're getting our cows.
+
+0xC4A81DFF = ~z~Hold on, this doesn't seem like all of 'em...
+
+0xC31F29F5 = ~z~Shit!
+
+0xC84E5153 = ~z~Bye now, be careful out there...
+
+0xC250B605 = ~z~You hear that?
+
+0xC276AEEA = ~z~Cattle...
+
+0xC497B2E3 = ~z~Yeah, and he's a son of a bitch.
+
+0xC471448B = ~z~Yes! I got it! There, all good.
+
+0xCC1D027B = ~z~My lock picking skills ain't what they used to be.
+
+0xCE3F5196 = ~z~What you want?
+
+0xD0404A7D = ~z~Well I can see that...
+
+0xD0684487 = ~z~Turn around!
+
+0xD8F82891 = ~z~Keep going, I'm going after the strays.
+
+0xD294B241 = ~z~I'll get 'em out. Ride up next to the house to keep them from running off on us.
+
+0xD7232D25 = ~z~Well hey there. What you got?
+
+0xD48652C0 = ~z~He said unkind things about me.
+
+0xD62667FD = ~z~Okay, okay! Come on!
+
+0xDA9AF5EC = ~z~this is nasty country.
+
+0xDCFF5EBD = ~z~One hundred...
+
+0xDD8A6511 = ~z~whose cattle?
+
+0xDDD650D3 = ~z~I'll stick with the herd till you catch up.
+
+0xDDDFE1D3 = ~z~Sure, I know 'em...
+
+0xDEF1DBD8 = ~z~This was your plan?
+
+0xE5AABF4E = ~z~I mean that it ain't gonna do your health no good if they find out you ride with us.
+
+0xE46B5D85 = ~z~I think one of 'em run off.
+
+0xE83D4504 = ~z~Arthur... Arthur, get over here.
+
+0xE383F86B = ~z~Oh, I heard something... hurry up.
+
+0xE504FB79 = ~z~You are gonna wake him up.
+
+0xE664F67D = ~z~He ain't all bad then.
+
+0xE360053D = ~z~Hold on, we need to touch up where we're going here.
+
+0xEB2F07CD = ~z~How can I hear anything with all your speaking?
+
+0xEC1C9882 = ~z~You've been pretty much retired from the moment I met you.
+
+0xEC59FEBA = ~z~Arthur! Are you trying to make me lower your cut?
+
+0xEE0580C5 = ~z~fifty bucks each, times twenty cattle...
+
+0xEEF18CE9 = ~z~Well, come on, you better break the padlock...
+
+0xEFA2F46C = ~z~I'll keep up with the herd, don't want them running off.
+
+0xF1E91A83 = ~z~Come on, we ain't rustling on foot, my friend.
+
+0xF6D42E5E = ~z~Here, don't forget to put some in the pot.
+
+0xF51B1B99 = ~z~It ain't nothing.
+
+0xF86E83F7 = ~z~I better wait with the herd.
+
+0xF94B1905 = ~z~but I don't like 'em.
+
+0xF235F91A = ~z~Wait, have we lost one?
+
+0xF812A194 = ~z~I'm doing the best I can, okay? This here is a rusty padlock.
+
+0xFA48087D = ~z~What the hell? Who are these clowns?
+
+0xFB276E52 = ~z~C'mon, let's take a closer look.
+
+0xFB2130CF = ~z~Dancing girls with flowers in their hair. Warm sand, cold beer.
+
+0xFD372974 = ~z~My lock picking skills ain't what they used to be.
+
+0xFDC5C720 = ~z~Three... four...
+

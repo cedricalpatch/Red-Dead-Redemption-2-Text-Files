@@ -1,0 +1,46 @@
+0x0AE5473C = ~z~Sounds like you're a useful man to know round here.
+
+0x0CF1101E = ~z~Okay, some of this cargo's damaged but it'll do.
+
+0x2E1F3DC6 = ~z~Now I presume this ain't just a social call?
+
+0x2E530E17 = ~z~So how can I help you?
+
+0x5C8BB2DD = ~z~So Old Bob Crawford was livid about his coach getting robbed. I was very sympathetic.
+
+0x9CE8774F = ~z~Well, life takes its toll on us all, don't it? But, guess we're still here.
+
+0x9D32BB1D = ~z~Darn it, looks like a fair bit of damage here. Didn't Alden tell you to be careful?
+
+0x35A81CC9 = ~z~How can I help you?
+
+0x69DACD7B = ~z~You are a good cousin by marriage, Seamus.
+
+0x70ECC360 = ~z~Well, yes, but still... Anyway, no point dwelling on the past I suppose.
+
+0x77DD6980 = ~z~Oh I try. Now, anyway, I trust this ain't just a social call?
+
+0x82B266EB = ~z~I thought he was just your cousin by marriage. And your competition.
+
+0x86B7949D = ~z~Christ alive, what have you done to this? Most of it's wrecked!
+
+0x555C0C3F = ~z~Sounds like it was went a good deal further than that...
+
+0x835A876D = ~z~Anyway, I'll take what I can.
+
+0x1917E3A1 = ~z~I remember, that was a long time ago now. I can be useful, yes, if you can be discrete.
+
+0x2055FE20 = ~z~You look like death warmed up.
+
+0x4365B844 = ~z~I think you knew a friend of mine a few years back. Feller called Arthur.
+
+0x6714AFB0 = ~z~So I thought you was just gonna rob the Crawfords?
+
+0xEB10FEEA = ~z~Ah, it's you.
+
+0xEB34DD96 = ~z~Anyway, guess I'll have to take what I can. Don't attract any attention.
+
+0xEE881A85 = ~z~Likewise, Seamus.
+
+0xF9EE7B09 = ~z~Didn't Alden tell you it was fragile?
+

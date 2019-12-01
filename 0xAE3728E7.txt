@@ -1,0 +1,44 @@
+0x0EFC4646 = Talk to the ~o~Bounty Hunters~s~
+
+0x1D35E2B9 = Escort ~o~Sadie~s~ to Blackwater
+
+0x3C4A5A4F = You destroyed the camp.
+
+0x7E36C272 = Go to the ~o~corpse~s~ with Sadie
+
+0x17BE757F = Follow ~o~Sadie~s~
+
+0x28AD7B2B = Mash ~INPUT_MELEE_ATTACK~ to free yourself from the bear.
+
+0x30EA3123 = Bear
+
+0x47B2A924 = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+
+0x707126E7 = Follow the tracks
+
+0x3183731E = Find the ~o~camp~s~
+
+0x36942233 = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+0x49953465 = Speak to ~o~Abigail~s~
+
+0xA56B10DA = Find the tracks
+
+0xB4A834D0 = Kill the ~e~bear~s~
+
+0xB1770B31 = Escort ~o~Sadie~s~ to Blackwater
+
+0xB59966A8 = Sadie's horse died.
+
+0xC2ADCB5F = Stay with ~o~Sadie~s~
+
+0xC73736B1 = Protect ~o~Sadie~s~
+
+0xDEDE87E5 = You lost the trail.
+
+0xF14F7292 = Inspect
+
+0xF25CAA8F = The bounty was killed.
+
+0xFBB88789 = Follow ~o~Sadie~s~
+

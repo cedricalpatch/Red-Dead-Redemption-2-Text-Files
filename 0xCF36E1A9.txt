@@ -1,0 +1,98 @@
+0x02A8CBD0 = You attacked the Mrs. Calthorpe.
+
+0x05AAADBE = The bounty was spooked.
+
+0x088663D7 = Hit Bounty
+
+0x2A8D6EF3 = To turn in the bounty, carry him into the sheriff's station and drop him into an empty jail cell.
+
+0x3BF7D1A0 = Return the bounty to the ~o~Sheriff's Office~s~
+
+0x3D908C3A = You attacked the Sheriff.
+
+0x4CCE3AFC = The ~e~bounty~s~ must be returned alive.
+
+0x5CA66B53 = You attacked the Deputy.
+
+0x5D1A5E78 = Hold ~INPUT_HORSE_ATTACK~ while stationary to drag the lassoed bounty towards you.
+
+0x6A26AE09 = Retrieve the ~e~bounty~s~
+
+0x6A66B504 = The last known location of the bounty is marked with ~1b~.
+
+0x6B50FAE5 = Hold ~INPUT_HORSE_ATTACK~ while stationary on a horse to drag the lassoed bounty towards you.
+
+0x8A71789C = Press ~INPUT_HORSE_MELEE~ to hit your passenger.
+
+0x8FE37956 = Lift
+
+0x9F6D580D = The Sheriff witnessed you whilst wanted.
+
+0x10E7EC52 = The job was abandoned.
+
+0x17DB16AC = You lost the bounty.
+
+0x31F21B28 = Holding Area
+
+0x84D19B2F = Locate the ~o~bounty~s~
+
+0x281AA13E = Sheriff's Office
+
+0x673C2F5D = Rapidly press ~INPUT_CONTEXT_A~ to pull the bounty back up onto the ridge.
+
+0x765D0DCC = The bounty was spooked by the law.
+
+0x881AEAE5 = Lasso the ~e~bounty~s~
+
+0x900DF8EF = Hold ~INPUT_HORSE_AIM~ to keep the bounty lassoed and press ~INPUT_HOGTIE~ when standing nearby to hogtie them.
+
+0x1375B755 = Save the ~e~bounty~s~
+
+0x3991CDCC = Pickup the ~e~bounty~s~
+
+0x7331DE1A = Pull
+
+0x8038F0D4 = Mrs. Calthorpe
+
+0x58830AC2 = Put the bounty in the ~o~holding area~s~
+
+0x61433C50 = ~INPUT_MOVE_UP_ONLY|PromptId=INPUT_BOU1_UC_PULL,Gutter~ pull
+
+0x97133FB2 = Investigate the ~o~gorge~s~
+
+0x800058D4 = Hold ~INPUT_PICKUP_CARRIABLE~ when standing near the hogtied bounty to pick him up.
+
+0x8381825D = ~INPUT_CONTEXT_ACTION|PromptId=INPUT_BOU1_UC_LIFT~ lift
+
+0xA4262A58 = The bounty has died.
+
+0xAA4B6789 = Search the area to locate the bounty target.
+
+0xAC6A8798 = To exit Cinematic Camera press ~INPUT_FOCUS_CAM~.
+
+0xAE4278E4 = Arthur's horse
+
+0xB26A1BE0 = Bounty location
+
+0xB528ECBC = Hold ~INPUT_FOCUS_CAM~ to switch to the Cinematic Camera.
+
+0xBB292E63 = Riding through deep water with a hogtied passenger will cause them to fall from the back of your horse and most likely drown.
+
+0xD60C86C3 = Pull the ~e~bounty~s~ out of the river
+
+0xE45A235E = Hogtie the ~e~bounty~s~
+
+0xEA1665C7 = Confront the ~e~bounty~s~
+
+0xF5E26DE1 = Benedict's horse
+
+0xF1342CA4 = The Deputy witnessed you whilst wanted.
+
+0xF6131073 = Press ~INPUT_HORSE_ATTACK~ to throw the lasso while aiming at the bounty.
+
+0xFC549CAB = Capture the ~e~bounty~s~
+
+0xFCA3C110 = Fleeing targets can be slowed by shooting them in the leg. Aim with ~INPUT_AIM~ and then press ~INPUT_SPECIAL_ABILITY~ to enter Dead Eye.
+
+0xFE54E319 = Confront
+

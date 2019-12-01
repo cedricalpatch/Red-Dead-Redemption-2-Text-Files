@@ -1,0 +1,40 @@
+0x059A0ABF = ~z~~sl:0.0:2.0~Least those men died free,~sl:0.8~more than you'll ever do.
+
+0x0CB4B6BD = ~z~Shit! I knew it!
+
+0x1AC33511 = ~z~~sl:0.0:3.2~Powers That Be can't abide free men...~sl:0.6~how's it feel doing their dirty work?
+
+0x3C2077CB = ~z~~sl:0.0:1.2~Who sent you, huh?~sl:0.7:1.2~Government?~sl:0.9~They gonna be pleased...
+
+0x4A2053ED = ~z~Simple choice...
+
+0x34DE4357 = ~z~~sl:0.0:1.5~I won't be no prisoner...~sl:~set me free alive or dead, you choose.
+
+0x96C28039 = ~z~If we meet again, I won't shoot first.
+
+0x97A708D3 = ~z~I ain't begging to no traitor. Set me free or don't.
+
+0x277AEC49 = ~z~Damn you!
+
+0x292DD1E6 = ~z~That's a damn fine regiment you put in the dirt, landgrabber.
+
+0x859FCAEB = ~z~I know the cold blood type, and you ain't it.
+
+0xA49222A9 = ~z~~sl:0.0:1.7~Can't kill the cause.~sl:1.0~But you gonna kill me?
+
+0xAA1993DE = ~z~Well? You gonna let me walk?
+
+0xB653C62C = ~z~So, they teach you about mercy wherever the hell you're from?
+
+0xBFE3BF72 = ~z~If you're gonna do it, make it quick.
+
+0xC97B65AA = ~z~Hope you get the same mercy when it's your time.
+
+0xC4965BE0 = ~z~More honor than I expected.
+
+0xDBADD4A8 = ~z~Least I'll die free!
+
+0xF4EA3C87 = ~z~I won't change just 'cause you spared me.
+
+0xF1628009 = ~z~Do it then you piece of shit!
+

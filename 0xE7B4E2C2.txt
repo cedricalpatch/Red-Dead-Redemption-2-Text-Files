@@ -1,0 +1,34 @@
+0x039C40E8 = ~z~I was falling into trouble.
+
+0x5A261D16 = ~z~We all loved you, Miss Tilly, even them of us with cold hearts.
+
+0x15EAE585 = ~z~Dutch...
+
+0x502DCB9A = ~z~I think I saw one of them Foreman brothers again.
+
+0x764A97CF = ~z~He was bad.
+
+0x840C3352 = ~z~Malcolm Foreman... well, he treated me real bad.
+
+0x1796DA6D = ~z~They kidnapped me when I was twelve years old. Right from my momma.
+
+0xA1482B59 = ~z~Ain't it so, Arthur?
+
+0xAB5581E8 = ~z~Them boys you used to run with?
+
+0xB0BD0CB3 = ~z~You know how I slit his throat and ran away? I never felt bad about killing him.
+
+0xBC5CE182 = ~z~You was the sweetest little thing we ever saw. And the saddest.
+
+0xC9B5BEA8 = ~z~Is that so?
+
+0xD2E45101 = ~z~I ran back to where my momma was working, but she'd died.
+
+0xDD18656D = ~z~They ran with me...
+
+0xE2AD7EFB = ~z~but he's the closest I've met in this world.
+
+0xE82389F7 = ~z~Dutch, he found me, saved me, raised me, treated me right, taught me to read.
+
+0xF8752A9A = ~z~He ain't perfect...
+

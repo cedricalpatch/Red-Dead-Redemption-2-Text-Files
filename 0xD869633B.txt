@@ -1,0 +1,34 @@
+0x5E109F2F = ~z~I met this monk there... kindly fellow, took me back to my days in College.
+
+0x6BBA3A82 = ~z~Me too, reverend.
+
+0x6EC6409A = ~z~Not really, but... he said the strangest things about all manner of bad things happening in town.
+
+0x7B2FD2FE = ~z~So do I.
+
+0x7FDCE2C7 = ~z~Is there any purpose to this conversation, reverend?
+
+0x8CD27643 = ~z~I make a fool of myself again.
+
+0x9F899BB1 = ~z~So did I.
+
+0x31EEC071 = ~z~If I was still a... a religious man, I'd say there are too many Catholics, but I...
+
+0x68412D15 = ~z~I given up on all that.
+
+0xA46FABEC = ~z~Bad things happening in a city... who would have thought it possible?
+
+0xB1473F2C = ~z~I went into town...
+
+0xB2414120 = ~z~How've you been, Arthur?
+
+0xB8945435 = ~z~He's hanging about outside the marketplace collecting alms for the poor.
+
+0xC6C8F09E = ~z~Yes. Well, maybe If you're there, you could have a chat with him.
+
+0xD6750987 = ~z~Yes... well, maybe I've been okay before, but then...
+
+0xE83EAD1A = ~z~Okay... you seem well, reverend?
+
+0xED4EBE11 = ~z~Sounds thrilling...
+

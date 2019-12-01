@@ -1,0 +1,16 @@
+0x097423AA = ~z~If you say so.
+
+0x25B75C30 = ~z~Yet you push him away.
+
+0x50C8B256 = ~z~That's a fine boy you got.
+
+0x275E5F82 = ~z~If he's mine.
+
+0x353BFB3D = ~z~~sl:0.0:1.5~Course he's yours.~sl:0.8~It's the truest of gifts, a child.
+
+0x3418F8F3 = ~z~~sl:0.0:1.7~I ain't no kind of father.~sl:0.6:2.1~I wish the boy no harm but...~sl:0.3~well, you know how we live.
+
+0x430416CD = ~z~~sl:0.0:1.5~So John.~sl:0.8~I was talking to little Jackie.
+
+0xFB318725 = ~z~We live free.
+

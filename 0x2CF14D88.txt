@@ -1,0 +1,22 @@
+0x04813EBD = ~z~You've been crying? Why? Why?
+
+0x3B36AC2B = ~z~
+
+0x4E7CD2B7 = ~z~Don't know.
+
+0x8C85CEC8 = ~z~Come here, Jack Marston.
+
+0x97D3E564 = ~z~Look at me. Look at me. In the eye.
+
+0x6036762A = ~z~~sl:0.0:4.1~Listen to me. Don't waste your life worrying about people who don't care about you.~sl:0.6~You got me, you got the whole camp.
+
+0xB04C1654 = ~z~Yes.
+
+0xBD199522 = ~z~
+
+0xCFAFBA4E = ~z~
+
+0xDFB2F521 = ~z~So stop them tears, you hear?
+
+0xF30A9BD0 = ~z~
+

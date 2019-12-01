@@ -1,0 +1,466 @@
+0x00780497 = ~z~You sure?
+
+0x0126D49B = ~z~I ain't even got that.
+
+0x01682CBE = ~z~Okay. You take the barn, I'll take the farm house.
+
+0x01A4D573 = ~z~We, um...
+
+0x01E06444 = ~z~Make sure they make it.
+
+0x04E43823 = ~z~Sadie?
+
+0x0693C3E4 = ~z~Come on.
+
+0x072A79B5 = ~z~I miss him every day...
+
+0x0879D56E = ~z~Bastard in the hayloft! He's got a scope on that rifle!
+
+0x0970AF82 = ~z~~sl:0.0:1.9:1~You bastard piece of shit!
+
+0x0A2C96F8 = ~z~I knew you would.
+
+0x0A135049 = ~z~Hey.
+
+0x0F6770F8 = ~z~we should get away from here.
+
+0x1A46C0BC = ~z~or what's left of one.
+
+0x1C45EF48 = ~z~Shit.
+
+0x1D165D07 = ~z~Peachy.
+
+0x1D301EA2 = ~z~~sl:0.0:0.6:1~Bastard...
+
+0x1E77B832 = ~z~Okay. He's dead.
+
+0x1F5B3C89 = ~z~I was a married woman.
+
+0x1FDD23F5 = ~z~I hate to ask, but...
+
+0x2B62DE40 = ~z~The lady outside don't want none of you coming out of here.
+
+0x2BE4D5A0 = ~z~I've gotta do this.
+
+0x2BFC6427 = ~z~Well, then you got yourself a gun...
+
+0x2D2B7452 = ~z~We got a five dollar problem up in that hayloft, alright?
+
+0x2D37B1B1 = ~z~Die.
+
+0x2E5CDD68 = ~z~when the time comes, I got a plan...
+
+0x2E633D49 = ~z~Jack...
+
+0x2EE0B00E = ~z~the competition ain't too fierce.
+
+0x3BE6DC08 = ~z~I'm gonna need some help...
+
+0x3E4453CA = ~z~C'mon.
+
+0x3EEEB49D = ~z~End of the road.
+
+0x4B8D39F4 = ~z~You okay?
+
+0x4B94FF70 = ~z~When the times comes, you help them.
+
+0x4B621852 = ~z~But, how do you mean?
+
+0x4CBD503A = ~z~You might not know it, but you're done.
+
+0x4D067E47 = ~z~But...
+
+0x4F8A9CEB = ~z~and to my husband.
+
+0x4FBD1948 = ~z~What's going on?
+
+0x5D3F3854 = ~z~Look, you're the only one of these fools that I trust.
+
+0x5D643496 = ~z~Sure... how we doing this?
+
+0x5DD9BD41 = ~z~and John.
+
+0x6B22D013 = ~z~One of them is a fat fellow with a beard. Him? He's mine.
+
+0x6C365B0A = ~z~Sadly, that ain't true.
+
+0x6EE6606A = ~z~I tell you what...
+
+0x6FDE1BDD = ~z~Him...
+
+0x7CB59306 = ~z~We got to try and get around him.
+
+0x7E75CF3B = ~z~they still pure.
+
+0x8BB869B4 = ~z~But my memories of him...
+
+0x8C2CE8EA = ~z~Alright.
+
+0x8C50D4C2 = ~z~and mostly drunk.
+
+0x8E231943 = ~z~Well, thank you for your honesty.
+
+0x8EF8378B = ~z~If we could just flank him...
+
+0x9D8F773F = ~z~Yeah, I think there's a bunch of them down there...
+
+0x9D3725D0 = ~z~We was always sweet on one another.
+
+0x9EFF69C5 = ~z~You killed my husband... you burned my home... you stole my life...
+
+0x9F34C20E = ~z~I know.
+
+0x9F39BB70 = ~z~Listen, I'm real sorry.
+
+0x10AA789B = ~z~
+
+0x19A53AC5 = ~z~Who's in here? Come on.
+
+0x21C59ACD = ~z~Bastards!
+
+0x24F0C7B4 = ~z~I saw Colm swing, I...
+
+0x24F99C1C = ~z~I think I need to be alone for a bit.
+
+0x25B79DBC = ~z~I know the company you keep...
+
+0x36B53F93 = ~z~I understand.
+
+0x38E6ADEF = ~z~You seen anything down there?
+
+0x42AC9167 = ~z~You're on the barn, Morgan. You understand me?
+
+0x44C98355 = ~z~Hey.
+
+0x44CA0C32 = ~z~Leave them O'Driscolls.
+
+0x46E5B009 = ~z~Come on. Let's finish this.
+
+0x54E635DA = ~z~I said take the barn!
+
+0x58BC5452 = ~z~No, I ain't sure...
+
+0x59EA0624 = ~z~Ya know...
+
+0x64BACA23 = ~z~I hate to ask, but...
+
+0x67ABD0E5 = ~z~This whole thing is pretty much done...
+
+0x68CAB9DB = ~z~we're more ghosts than people...
+
+0x69C35084 = ~z~Don't worry about it.
+
+0x69E8C49D = ~z~I could try... goddamn.
+
+0x71F3B478 = ~z~In the meantime...
+
+0x77CA6060 = ~z~Hey, could you try and distract him?
+
+0x79CB45A2 = ~z~might wanna get yourself cleaned up.
+
+0x80DC88C5 = ~z~You ruined us! You ruined me!
+
+0x82B80915 = ~z~bickering, and fighting, and lying.
+
+0x83FDF03D = ~z~I mean this whole thing is pretty much done...
+
+0x84B810B0 = ~z~Jake Adler... Sadie Adler...
+
+0x84EC6E12 = ~z~Abigail...
+
+0x86F00E8D = ~z~for you, me, and John.
+
+0x88ABE3A7 = ~z~I ain't even got that.
+
+0x91A04619 = ~z~You sure?
+
+0x91A225C9 = ~z~You...
+
+0x91E42475 = ~z~if I'm gonna pull it off.
+
+0x96BC91B2 = ~z~Jack...
+
+0x134F63AD = ~z~Goddammit! I didn't say go.
+
+0x193D2F01 = ~z~but I cannot do it.
+
+0x235EC95C = ~z~Of course I will help them, Arthur.
+
+0x327C62CB = ~z~I just don't care.
+
+0x380BF0C6 = ~z~and I'm gonna need your help with it...
+
+0x448CDB66 = ~z~you're a confusing man, but...
+
+0x501ABCDD = ~z~
+
+0x504C84DA = ~z~
+
+0x535FA95D = ~z~They ain't worth it, you're better than that.
+
+0x536E7929 = ~z~you might just be the best friend I got, Arthur.
+
+0x549B6558 = ~z~Fine morning for a killing.
+
+0x555DD4A8 = ~z~And remember... if he's fat, and he's got a beard, he's mine!
+
+0x560D9782 = ~z~I told you you'd see me again.
+
+0x721DE7DD = ~z~To do what?
+
+0x751E6CC2 = ~z~I'll do it, but there's something you could help me with.
+
+0x761A8F0E = ~z~You okay?
+
+0x782A71E2 = ~z~I mean, if we can...
+
+0x810FBE40 = ~z~But one of them, he's a fat feller with a beard.
+
+0x846B8A64 = ~z~get out of here...
+
+0x927A8D3A = ~z~You know you and me...
+
+0x988A4F59 = ~z~It's a big ranch... run down... lots of folk there, but spread pretty thin.
+
+0x997B369B = ~z~It makes me real sad.
+
+0x1094AD58 = ~z~Thank you, Arthur.
+
+0x1395B3A3 = ~z~Hey, give me some cover, I'll try something.
+
+0x1735DCC6 = ~z~Sadie.
+
+0x1910B5C4 = ~z~Is anybody still working?
+
+0x2330C7F0 = ~z~but Dutch still has our money hidden away, so...
+
+0x3642D7E9 = ~z~every moment.
+
+0x3652D4EC = ~z~But, how do you mean?
+
+0x5002F747 = ~z~Over here.
+
+0x5176D9A9 = ~z~Just die, won't ya?
+
+0x6708F0EB = ~z~You okay?
+
+0x6878B52B = ~z~Excuse me?
+
+0x7342CABF = ~z~And, I don't mean me.
+
+0x38437C91 = ~z~I don't need you out here... I need you clearing that barn!
+
+0x44778B75 = ~z~Sure.
+
+0x47035E98 = ~z~Okay, come on.
+
+0x63737DA6 = ~z~It's over now.
+
+0x66191E3E = ~z~You, um...
+
+0x75666B7A = ~z~There's money, lots of it...
+
+0x92130F88 = ~z~You okay?
+
+0x96812E8F = ~z~When the times comes, just... be ready.
+
+0x458947DF = ~z~Burn!
+
+0x3904528B = ~z~John.
+
+0x33159471 = ~z~Sadie, you in here?
+
+0x51707372 = ~z~Thanks, Arthur.
+
+0x56061046 = ~z~if any of us are gonna get out of this alive.
+
+0x63357057 = ~z~I'll try.
+
+0x63831797 = ~z~I'm gonna go see what I can find out.
+
+0xA01D3B91 = ~z~Barn's clear.
+
+0xA0F7437B = ~z~What do you mean?
+
+0xA1D82BF5 = ~z~What do you mean?
+
+0xA7E3CD9C = ~z~I don't have it in me no more.
+
+0xA45F6B97 = ~z~Peachy.
+
+0xA394C7D6 = ~z~Excuse me?
+
+0xA2631C0E = ~z~Die, you bastards.
+
+0xA24162C7 = ~z~I'll set it off and then we'll... we'll take it from there.
+
+0xAAAC1B2D = ~z~Don't you help them. Let those bastards burn!
+
+0xAB85A916 = ~z~Thank you, Arthur.
+
+0xAC0D3EFF = ~z~
+
+0xAE6543AF = ~z~Arthur! Clear out the barn, I'm going in.
+
+0xAEDDBE5C = ~z~We're more ghosts than people.
+
+0xB2EE2A58 = ~z~The barn! There's a sharpshooter in the hayloft!
+
+0xB5EEEF82 = ~z~I need someone to ride with me.
+
+0xB6FA4F7A = ~z~How's this for you?
+
+0xB6FF5643 = ~z~I mean...
+
+0xB9A4D3EA = ~z~we ain't...
+
+0xB86F36B3 = ~z~Jesus Christ.
+
+0xB707E7D0 = ~z~Hey.
+
+0xB43306B2 = ~z~"Take it from there?" Okay. So... no real plan, then?
+
+0xBB061001 = ~z~Goddammit, we need that sharpshooter gone!
+
+0xBB07F298 = ~z~Tell you what...
+
+0xBB9CD7D6 = ~z~Okay, I'm with you.
+
+0xBBF3F894 = ~z~Good.
+
+0xBF9CFC36 = ~z~If you say so.
+
+0xBF369B0F = ~z~~sl:0.0:2.3:1~I told you you'd see me again.
+
+0xBFB4EACB = ~z~Yeah.
+
+0xC3C2A5D1 = ~z~~sl:0.0:1.4~Oh, I got a plan.~sl:0.4~Now come on.
+
+0xC3D559F1 = ~z~Aside from my Jake...
+
+0xC4A985DB = ~z~I've... I'm...
+
+0xC83FE2AE = ~z~you're the best man I've known.
+
+0xC2087DDD = ~z~~sl:0.3:3.2:1~I think there's a bunch of them in there, mostly drunk.
+
+0xC7289A91 = ~z~Of course I will.
+
+0xC12063C6 = ~z~Let's get it started.
+
+0xC3124254 = ~z~Okay.
+
+0xCA53184A = ~z~You still working?
+
+0xCB8A94E9 = ~z~Finish off them O'Driscolls.
+
+0xCC33B25C = ~z~We ain't doing anything until we take out the sharpshooter!
+
+0xCCA1379B = ~z~Okay, going into the farm house!
+
+0xD1BEA083 = ~z~You was signed up for the action, not the reconnaissance, Mr. Morgan. I'll see you there.
+
+0xD2BA4216 = ~z~
+
+0xD4DCE5E9 = ~z~he's mine.
+
+0xD8DBB263 = ~z~Okay.
+
+0xD9D73FEE = ~z~I know.
+
+0xD94E9DFE = ~z~I'm sure.
+
+0xD871AEB7 = ~z~I hear the last of 'em is holed up at Hanging Dog Ranch.
+
+0xD993D607 = ~z~Peachy.
+
+0xD1611FC8 = ~z~Just let me do this part alone, alright? I don't need you watching me.
+
+0xD5910BA6 = ~z~Abigail...
+
+0xD4480938 = ~z~You and me...
+
+0xDA6F9D27 = ~z~but...
+
+0xDB01CFF8 = ~z~Feller with the scope has got to go, Morgan!
+
+0xDB1FBD7E = ~z~You killed my husband... you burned our farm... you stole my life...
+
+0xDE200E6A = ~z~I know the company you keep...
+
+0xE2A6B0AE = ~z~They turned me into a monster, Arthur.
+
+0xE3F3E489 = ~z~
+
+0xE6D6D151 = ~z~The whole goddamn place full of people...
+
+0xE8B028A7 = ~z~Right here.
+
+0xE80E4CA4 = ~z~I wish I could...
+
+0xE95E59FB = ~z~You killed my husband... you burned our farm... you stole my life...
+
+0xE761AF47 = ~z~And none of that loyalty matters.
+
+0xE901CBCF = ~z~Okay then.
+
+0xE9795F67 = ~z~Easy enough.
+
+0xE385534A = ~z~they, they could...
+
+0xE809385A = ~z~when the time comes...
+
+0xEA2E5508 = ~z~Well, tell me when you can.
+
+0xEA28B88D = ~z~when the time comes...
+
+0xEB875414 = ~z~Let me get the size of the place and then come meet me.
+
+0xEBA4D8D5 = ~z~with money...
+
+0xEBDDA9E5 = ~z~the competition ain't too fierce.
+
+0xEBECFAB9 = ~z~You okay?
+
+0xED734647 = ~z~He was a good man, my Jakey.
+
+0xEE7BDF97 = ~z~John.
+
+0xEEFB5BCA = ~z~You know what they did to me...
+
+0xF1E3604E = ~z~Enough with the O'Driscolls, revenge is a fool's game.
+
+0xF2A2EC50 = ~z~Jake Adler... Sadie Adler...
+
+0xF5FC4C7C = ~z~Jesus...
+
+0xF6BBE743 = ~z~~sl:0.0:1.3:1~We're just going in.
+
+0xF7AB2613 = ~z~Christ.
+
+0xF58CF759 = ~z~but them...
+
+0xF95E6FB8 = ~z~But...
+
+0xF260F0F1 = ~z~I'll meet you up there.
+
+0xF530F691 = ~z~meet me up at Hanging Dog Ranch when you can?
+
+0xF2001ABD = ~z~This is it.
+
+0xF3614AFE = ~z~I knew I could count on you.
+
+0xF43069F0 = ~z~me...
+
+0xF6737425 = ~z~Jake Adler... Sadie Adler... we was good people.
+
+0xFA6DCC22 = ~z~Come at me.
+
+0xFC95FCCF = ~z~No, I ain't sure...
+
+0xFD2B629E = ~z~help them escape when I...
+
+0xFE4A799A = ~z~I'm seeing you at Hanging Dog, right?
+
+0xFEDC09E7 = ~z~You wanna ride with me now, or...
+

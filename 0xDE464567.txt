@@ -1,0 +1,92 @@
+0x030C8081 = ~z~Come here, Arthur.
+
+0x03A2BDCE = ~z~So... instead of that...
+
+0x0610F8ED = ~z~or maybe you is lucky.
+
+0x072EC4EA = ~z~I haven't understood...
+
+0x1B73BD8A = ~z~split up, I reckon.
+
+0x2A3C0B04 = ~z~Yup...
+
+0x4A864D64 = ~z~And you'll fight this time?
+
+0x5F2CF4E5 = ~z~but I ain't holding my breath.
+
+0x6F01AB65 = ~z~I want this whole damn shitshow...
+
+0x6FA417B7 = ~z~Yeah...
+
+0x7B56C41B = ~z~What you want, Micah?
+
+0x8AC062E2 = ~z~I want hope.
+
+0x8CBA863E = ~z~Thank you kindly.
+
+0x9B452353 = ~z~Thank you.
+
+0x9C9E6FC7 = ~z~from the Boles Overland Stagecoach Company...
+
+0x9D72A12A = ~z~What you want?
+
+0x24F98377 = ~z~You think we need an extra gun?
+
+0x33BCC663 = ~z~Get over here...
+
+0x53EC149E = ~z~Enough...
+
+0x59CDEBF3 = ~z~guns are more significant...
+
+0x60C24826 = ~z~Exactly.
+
+0x61B6B033 = ~z~here.
+
+0x79F5C14D = ~z~I want a friend, Arthur.
+
+0x85D2422F = ~z~redistribute some property?
+
+0x89C160F0 = ~z~Well, I...
+
+0x92F55E41 = ~z~I always fight!
+
+0x294E593F = ~z~Alright, better get out of here...
+
+0x396CA965 = ~z~I wouldn't.
+
+0x608A0E76 = ~z~I want tomorrow to mean more than today.
+
+0x865E7986 = ~z~maybe you can win, as well as fight...
+
+0x1208DC7A = ~z~But with coaches...
+
+0x7806A698 = ~z~Redistribute?
+
+0x7858DD7B = ~z~Maybe I had you wrong, Arthur...
+
+0x148112F7 = ~z~Hey cowpoke, get over here!
+
+0x8653796C = ~z~How much we get, cowpoke?
+
+0x53147397 = ~z~to have some kind of meaning...
+
+0xA13AFACC = ~z~No...
+
+0xA9029F72 = ~z~Always full of sunshine, ain't you?
+
+0xB7183B9D = ~z~Old misery guts Morgan.
+
+0xB52422B6 = ~z~come on then.
+
+0xD5BAE1FF = ~z~into our pockets.
+
+0xD7C9E801 = ~z~Oh, I'm fine with both, friend.
+
+0xD4569579 = ~z~We'll see, I guess, how lucky any of us is.
+
+0xEDC1920C = ~z~how about you and me go and...
+
+0xEF8E1785 = ~z~than words.
+
+0xFC4AB0FE = ~z~you always talk.
+

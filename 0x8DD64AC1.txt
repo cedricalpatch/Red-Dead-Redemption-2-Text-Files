@@ -1,0 +1,176 @@
+0x002F0258 = ~z~Good.
+
+0x0049E1AC = ~z~We get a wagon, full of something flammable...
+
+0x05D36CBB = ~z~we could force a train to stop.
+
+0x07F9D7F9 = ~z~So, we doing it?
+
+0x0A855C1C = ~z~Yeah, I know just the place.
+
+0x0D7D68B0 = ~z~Uh, for you.
+
+0x0FE5A1C5 = ~z~I think we need another man.
+
+0x1D4BA5DC = ~z~Get.
+
+0x1D71A4ED = ~z~then you'll be a genius.
+
+0x1DCA8933 = ~z~Okay.
+
+0x2A338EA9 = ~z~otherwise we'd miss that train.
+
+0x2E0625A5 = ~z~Stop! Come on, do not let that son of a bitch get away!
+
+0x3B31577E = ~z~pain in the ass.
+
+0x3C95FB25 = ~z~Good, and you?
+
+0x4A6416C1 = ~z~Got everything we need.
+
+0x4AD1F6BF = ~z~at night, not too guarded, it's perfect.
+
+0x4B405E81 = ~z~Yeah, we're gonna need ammunition, guns...
+
+0x5AC19F8C = ~z~I ain't that dumb.
+
+0x5BB78527 = ~z~put it on the tracks.
+
+0x5CFF1B19 = ~z~I ain't thought it through.
+
+0x6B3AC07E = ~z~Next time, let the wolves eat all your brain...
+
+0x6CE4140D = ~z~Thank you.
+
+0x8A150C5F = ~z~north of a place called Dewberry Creek.
+
+0x8B4A90E3 = ~z~Mary-Beth overheard something about a train...
+
+0x8E29EA07 = ~z~Ain't no train driver wants to be cooked alive.
+
+0x8E18122D = ~z~John.
+
+0x9B52F0EA = ~z~I think we'll need another man.
+
+0x9B77AF24 = ~z~We stashed it there.
+
+0x9D10346E = ~z~What did he say?
+
+0x27FA97F6 = ~z~You go find us an oil wagon.
+
+0x28F4B305 = ~z~You know, stopping a train...
+
+0x36B1FB76 = ~z~Hey you, stop right there! Boys! Someone's stealing the wagon!
+
+0x36E4FD46 = ~z~Hey, what the hell? Who are you?
+
+0x47E95D5B = ~z~Shut up.
+
+0x50D999E9 = ~z~even you make mistakes sometimes.
+
+0x71AA2B58 = ~z~Don't even ask.
+
+0x77A72993 = ~z~You still interested in the job ain't ya?
+
+0x78D8BF4E = ~z~Hey Charles, we want you for a little job me and Arthur have put together. A train.
+
+0x79BDEDEA = ~z~Uncle told me something about a train.
+
+0x86D0C7E2 = ~z~Ah, I'm sorry. I clean forgot.
+
+0x192EFA63 = ~z~brains eaten by a wolf and end up more intelligent.
+
+0x341AA277 = ~z~You never got us that oil wagon did ya?
+
+0x391ABA36 = ~z~look real frightening...
+
+0x424ADCAD = ~z~Stop that wagon now, or we will gun you down!
+
+0x623A3CAA = ~z~Sometimes...
+
+0x687D3B03 = ~z~See, Arthur...
+
+0x826DCCDF = ~z~gotta head into town for Abigail anyway.
+
+0x846AD689 = ~z~That is...
+
+0x1989FA25 = ~z~north of a place called Dewberry Creek.
+
+0x5453F645 = ~z~Not right now... I'll let you know.
+
+0x7082C220 = ~z~Come on...
+
+0x9288DF56 = ~z~Yes, but...
+
+0x30851FC3 = ~z~Hey, Arthur.
+
+0x59756D2C = ~z~Well don't worry, it's taken care of...
+
+0x268347FC = ~z~What you want?
+
+0xA5EB861B = ~z~I like Charles Smith for this kind of thing.
+
+0xA7479C42 = ~z~they know they either have to stop, or die.
+
+0xA77215F7 = ~z~There's an old rundown shack just over the border...
+
+0xAD26D282 = ~z~Thank you.
+
+0xAFB559B8 = ~z~rolling down through Scarlet Meadows...
+
+0xB30DB3CE = ~z~They see it...
+
+0xB32E6848 = ~z~How did you get on?
+
+0xBEF4761D = ~z~See, Arthur...
+
+0xC173FD35 = ~z~full of wealthy folk...
+
+0xC940AA93 = ~z~You never got us that oil wagon did you?
+
+0xC408025D = ~z~Yes.
+
+0xCA8D9716 = ~z~Meet us at the wagon when you can.
+
+0xD06118F6 = ~z~I'll get him.
+
+0xD3BDEE8E = ~z~Leave it hidden somewhere near there.
+
+0xD6C9A7E0 = ~z~just south of the state border.
+
+0xD8D0339B = ~z~Sure.
+
+0xD65B7A69 = ~z~And that is a real idea...
+
+0xD96113DB = ~z~oil...
+
+0xDE06840F = ~z~I'll get the supplies...
+
+0xDFB78D25 = ~z~kinda brilliant.
+
+0xE1F3BC1B = ~z~You meet us at the wagon when you can.
+
+0xE9FAA1AB = ~z~I think that's the first time you ever had one of them.
+
+0xE23F0C84 = ~z~You might be the first bastard to ever have half his...
+
+0xE50A4C0F = ~z~Charles?
+
+0xE85CCB06 = ~z~I ain't even sure about doing it.
+
+0xEBC2C1EF = ~z~That wagon is the property of Leviticus Cornwall!
+
+0xED332178 = ~z~They're always heading into that refinery.
+
+0xF0C5A98D = ~z~and some dynamite to open up the train.
+
+0xF38FC834 = ~z~Sure, but what if...
+
+0xF82B688A = ~z~There's an old burnt out shack up near the border...
+
+0xF343E882 = ~z~I'll go get him.
+
+0xF727689B = ~z~You need help with it?
+
+0xFC85DA24 = ~z~Well, of course.
+

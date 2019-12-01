@@ -1,0 +1,34 @@
+0x1D514CC2 = A bag has been reset
+
+0x3E81FE6A = A ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~ has been moved back into play.
+
+0x8F3352A4 = Take a ~COLOR_MP_OBJECTIVE_ENEMY~bag~s~ from ~COLOR_POSSE_ENEMY~enemy players~s~
+
+0x9C52159F = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~bag~s~
+
+0x89C5F9C7 = Take control and hold a ~COLOR_FREEMODE_EVENT~bag~s~ to score the most points to win.
+
+0x7001F9FD = Hold the bag
+
+0x8118D932 = The bag is heavy and will slow you down the longer you hold it.
+
+0x38979E93 = Cold Dead Hands
+
+0x54563E19 = Scored ~1~
+
+0x62705FC3 = Hold a ~COLOR_MP_OBJECTIVE_NEUTRAL~bag
+
+0xCE6DC7E2 = Your bag will soon reset
+
+0xD7C93040 = Bag
+
+0xD72D30FF = Pick up a ~COLOR_FREEMODE_EVENT~bag~s~ once the event starts
+
+0xE062D1DE = Defend ~COLOR_POSSE_ALLY~Posse Members~s~ carrying ~COLOR_MP_OBJECTIVE_FRIENDLY~bags~s~
+
+0xF60DF52E = Scored ~1~
+
+0xF169594E = You have collected a bag
+
+0xFD977B92 = Extra points during final minute
+

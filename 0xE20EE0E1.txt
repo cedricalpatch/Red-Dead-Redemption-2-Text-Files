@@ -1,0 +1,46 @@
+0x3E4EF10D = ~1~/~2~ Chain Gang posters found
+
+0x4BE9AEC9 = Put the convict in the cell
+
+0x6C4B8943 = You left the convicts without handing over the bounty posters.
+
+0x6D9D00F9 = Take down the wanted posters ~BLIP_PROC_BOUNTY_POSTER~ around Rhodes to stop Bounty Hunters searching for Mr. Black and Mr. White.
+
+0x7E740517 = Capture the convicts alive for their bounty
+
+0x8EDBB01E = Give health cure
+
+0x74B0E91F = Burn the posters or capture the convicts for their bounty
+
+0x88AD8632 = Remove any remaining bounty posters around Rhodes
+
+0x97C52F72 = Posters
+
+0x264E2E6B = Ask For The Poster
+
+0x64012CEB = Retrieve the ~o~poster~s~ from the bounty hunter
+
+0x81609D19 = Take
+
+0x230261F4 = You attracted the attention of the law.
+
+0x276173FC = Capture the ~e~other convict
+
+0xA2D1DA0C = Pick up the ~o~reward
+
+0xB534C651 = Bounty poster
+
+0xC32BE192 = The law discovered the convicts.
+
+0xD6A7924A = Burn
+
+0xD8112C0B = Take the convict to the ~o~Rhodes jail
+
+0xD7761238 = Buy or craft a health cure for the men
+
+0xDBD5C948 = Take the other convict to the ~o~Rhodes jail
+
+0xEED86823 = Find a health cure elsewhere
+
+0xF69D08BB = Bounty Hunter
+

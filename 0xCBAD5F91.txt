@@ -1,0 +1,14 @@
+0x5BE0AC39 = ~z~You're a pathetic man, John Marston!
+
+0x8FA013B7 = ~z~You're pathetic.
+
+0xA04BB50E = ~z~~sl:0.4:1.7:1~Not again, Abigail.
+
+0xAA0BC88E = ~z~Don't I know it!
+
+0xC16EF754 = ~z~Just... leave me alone, will you?
+
+0xD1F41862 = ~z~Hey, can I talk to you a minute?
+
+0xF50F5E98 = ~z~Not ever.
+

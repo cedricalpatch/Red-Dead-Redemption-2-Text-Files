@@ -1,0 +1,24 @@
+0x2F83EA39 = The Treasure Map was closed. You can open the Treasure Map again while not on a mission.
+
+0x6BA28BFB = Treasure
+
+0x417BA875 = You've found a Treasure Map. Open the map to begin the search for the Treasure.
+
+0x894C35E7 = Press ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+0x93749544 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+0xA55CFD85 = You cannot open a Treasure Map at this time.
+
+0xA72D0387 = You've opened a Treasure Map. Search the area ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ for the treasure to claim your reward.
+
+0xB7BCD55E = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+0xBD9B04FA = Press ~INPUT_SPECIAL_ABILITY~ to enable Eagle Eye. Treasure chests will glow orange while Eagle Eye is active.
+
+0xCB2FFBF3 = Eagle Eye also highlights animal trails, plants, herbs and lootable items.
+
+0xDBE3BBF0 = You've opened a Treasure Map. Search the area ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ for the treasure to claim your reward.
+
+0xE5842935 = Search Area
+

@@ -1,0 +1,28 @@
+0x7E2236DB = ~z~Like who?
+
+0x8A85CFA2 = ~z~You're a useful feller to have around.
+
+0x8C170FCF = ~z~~sl:1.0:0.0~Except for maybe that Kieran.
+
+0x9CC80349 = ~z~~sl:0.5:1.6:1~Except for maybe that Kieran.
+
+0x32E42060 = ~z~~sl:0.8:0.0~Not everyone would agree.
+
+0x99C0AB22 = ~z~~sl:1.9:0.7~Yeah.~sl:0.9~See? You learn quick.
+
+0x984A6B2B = ~z~Bill, for one.
+
+0xAE9AD4D6 = ~z~
+
+0xAF05A7C4 = ~z~Quite right. Which means he don't like many people at all.
+
+0xB12D9CF1 = ~z~~sl:0.0:0.8~There.~sl:3.4~Bind it like this, it'll fly much better.
+
+0xD95FFC78 = ~z~Ain't that right, Arthur?
+
+0xE30100AF = ~z~~sl:0.8:0.0~Bill don't like nobody who's tougher or smarter than him.
+
+0xEEB52726 = ~z~~sl:2.3:0.0~See? You learn quick.
+
+0xF5A8E2F5 = ~z~Which means, he really don't like many people at all.
+

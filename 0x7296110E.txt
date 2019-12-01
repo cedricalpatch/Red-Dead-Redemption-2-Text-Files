@@ -1,0 +1,88 @@
+0x0345F8F2 = ~z~'Twas our little Texas stray, poor Wrangler Joe.
+
+0x0611D668 = ~z~on a little Texas pony he called Chaw.
+
+0x0834D1BC = ~z~He said if we would give him work, he'd do the best he could,
+
+0x0AB487D3 = ~z~down in a washout twenty feet below.
+
+0x0F9FE984 = ~z~With his brogan shoes and overalls a harder-looking kid,
+
+0x2BDF4A28 = ~z~for our little Texas stray, poor Wrangler Joe.
+
+0x4ACF8B30 = ~z~At last we got'em millin' and kind of quietened down,
+
+0x5AB876C6 = ~z~With his hot roll in a cotton sack so loosely tied behind,
+
+0x6D7E508D = ~z~He was riding Old Blue Rocket with his slicker 'bove his head,
+
+0x7F37F400 = ~z~it was Little Joe the wrangler in the lead.
+
+0x8DB0DCB6 = ~z~and his new ma beat him every day or two.
+
+0x9C632E6E = ~z~when the cattle they stampeded; like a hailstorm on they flew.
+
+0x11FA1986 = ~z~amid the streaks of lightning there was one horse up ahead,
+
+0x23BCBD0B = ~z~And all of us was riding for the lead,
+
+0x48C74FC4 = ~z~Taught him how to wrangle horses and learn to know them all,
+
+0x56A2EB7B = ~z~he sorta liked this little stray somehow.
+
+0x89B58913 = ~z~Now scarcely had the kid got to the herd,
+
+0x92E9E728 = ~z~So he saddled up old Chaw one night and lit a shuck this way,
+
+0x721DA270 = ~z~and round 'em up by daylight if he could.
+
+0x9426E6B2 = ~z~It took every one of us to hold them in,
+
+0x34772A44 = ~z~an O.K. spur on one foot lightly hung.
+
+0x599628BD = ~z~he was trying to check the leaders in their speed.
+
+0x64170663 = ~z~And trail the old chuck-wagon and always hitch the team,
+
+0xA3AD1194 = ~z~his days with the remuda, they are done.
+
+0xA10F8373 = ~z~and a canteen from the saddle horn he'd slung
+
+0xA643C21B = ~z~but there was one man a-missin' and we could see it at a glance.
+
+0xAA609F07 = ~z~just a little Texas stray and all alone.
+
+0xB453B2ED = ~z~'Twas late in the evening when he rode up to the herd,
+
+0xB755AFFF = ~z~He said he had to leave his home, his daddy'd married twice,
+
+0xB9016796 = ~z~And the extra guards back to the camp did go,
+
+0xBD7F3962 = ~z~Little Joe the wrangler was called out with the rest.
+
+0xC6864E60 = ~z~though he didn't know straight up about a cow.
+
+0xCD77D953 = ~z~we were camped down on the south side in a bend,
+
+0xD0A093A8 = ~z~Next morning just at sunup we found where Rocket fell,
+
+0xD4D4EAFD = ~z~So the boss he cut him out a mount and kindly put him on,
+
+0xD8D67BF2 = ~z~'Twas a year ago last April when he joined the outfit here,
+
+0xD563F501 = ~z~Little Joe the wrangler, will never wrangle more,
+
+0xDFCA7DF8 = ~z~when a norther commenced blowin' and we doubled up our guards.
+
+0xE90A9078 = ~z~and help the cosinero rustle wood.
+
+0xE1760D31 = ~z~you never in your life had seen before.
+
+0xEE9F2783 = ~z~His saddle was a Southern kack built many years ago,
+
+0xF9DB3509 = ~z~thought he'd try and paddle now his own canoe.
+
+0xF4365AD3 = ~z~Beneath his horse, mashed to a pulp, his horse had run the knell,
+
+0xFB1A3497 = ~z~We'd rode down to Red River and the weather had been fine,
+

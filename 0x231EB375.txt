@@ -1,0 +1,262 @@
+0x004A2C69 = ~z~If I'm going down...
+
+0x018FD348 = ~z~Will be fun.
+
+0x048E7811 = ~z~Come on!
+
+0x05801D4A = ~z~You think bears bad... don't corner Nik.
+
+0x1CB708A7 = ~z~You idiots, help me!
+
+0x1E2A14EA = ~z~~sl:0.0:4.0~Is funny how things turn out.~rp~ One moment you king...~sl:0.4~rule as far as eyes can see...
+
+0x1EA3D181 = ~z~He's a trapper.
+
+0x1EAEEA9F = ~z~Looks like you caught yourself a big one. Clever fish.
+
+0x2B30D9ED = ~z~You're almost where I want you.
+
+0x2DD1AADC = ~z~Don't just stand there, help!
+
+0x3B7A4F8A = ~z~~sl:1.9:3.2:1~Sometimes all you can do is laugh, eh?
+
+0x3B96A891 = ~z~
+
+0x3EC2813A = ~z~~sl:0.0:1.5~Go on, drink.~sl:0.0:2.2:1~Will be better with some fire in your belly.
+
+0x3F2D05B2 = ~z~Hey, my bear!
+
+0x4D81410B = ~z~~sl:0.4~It's that bounty hunter again!
+
+0x5B490F23 = ~z~~sl:0.0:1.3~Oh boy...~sl:0.7:2.4:1~I miss my bear.
+
+0x5CDFBD4A = ~z~Come after if you dare.
+
+0x5D858EBA = ~z~The grizzly! Hey, someone do something!
+
+0x6AB04121 = ~z~We will have to see.
+
+0x6B72DA9A = ~z~~sl:0.0:4.2:1~One for you... and one for me.
+
+0x6B342A17 = ~z~Dammit, the bear! Kill it!
+
+0x6CC029AF = ~z~So, I guess that's what happened to get him in trouble.
+
+0x6CF62CAD = ~z~~sl:0.0:2.4~Keep an eye out over Blackwater way.~sl:0.0:2.6~We been looking after the marshal long enough now,~sl:~it's likely they'll be coming looking for him.
+
+0x6DE41764 = ~z~God help us, the bear's loose too?
+
+0x6E350855 = ~z~Stop!
+
+0x7A33E240 = ~z~~sl:0.1~The bear's loose! Do something!
+
+0x7C26B3E9 = ~z~Goddammit, now the bear's loose, kill it!
+
+0x7C47E8C7 = ~z~
+
+0x7C78E4B2 = ~z~You sure this place can hold me?
+
+0x7EA6CD7C = ~z~They sent a marshal up there to speak to him a few days ago.
+
+0x8BA1C32E = ~z~Don't shoot!
+
+0x8BE0329C = ~z~Oh... dear Lord, thank you.
+
+0x8BED706F = ~z~~sl:0.0:4.5:1~And next, you tied up, staring at a horse's ass.
+
+0x9D65BE7F = ~z~
+
+0x9DE367B1 = ~z~We coming out.
+
+0x9E8DD37A = ~z~No! No!
+
+0x9EEEC187 = ~z~Keep on coming.
+
+0x13CD77C3 = ~z~But first... we drink.
+
+0x16CB53A0 = ~z~They're here for the marshal!
+
+0x20C71D66 = ~z~The bear got free! Look out!
+
+0x34E595A3 = ~z~Hey!
+
+0x35F9802C = ~z~they got to be ready for a fight.
+
+0x38EB8837 = ~z~
+
+0x56F2A219 = ~z~If I'm going down, he going too. Come on!
+
+0x62E360ED = ~z~Don't let them get near the cabin!
+
+0x64B82201 = ~z~~sl:0.0:1.9~And maybe I get this rope off...~sl:0.2:2.5~and it's you with rope around your neck.~sl:0.41.7:1~That's funny too.
+
+0x65C67764 = ~z~Please...
+
+0x71DB81C0 = ~z~Would have been better to watch him fight the bear.
+
+0x80EAAD52 = ~z~~sl:0.0:2.9~Shut up... my guest. Stay right there.~sl:0.7~With me.
+
+0x81B85C05 = ~z~~sl:0.0:2.6:1~Maybe I shouldn't have killed all those people, huh?
+
+0x81CC70D8 = ~z~That's not nice.
+
+0x86C53AF4 = ~z~~sl:1.0:2.5~I ain't never seen a bear fight a feller before,~sl:0.0:2.0~but if them dogs have anything to go by...~sl:0.5~we, we in for a treat.
+
+0x94D2BE88 = ~z~Get. This. Off. Me.
+
+0x94DF862B = ~z~Let's not delay this any longer, eh?
+
+0x98FFC44F = ~z~Come closer, I grab you.
+
+0x252B9A83 = ~z~But for you...
+
+0x467D9086 = ~z~You run into trap, you not careful.
+
+0x539E947D = ~z~Not very friendly.
+
+0x578BD5B8 = ~z~Come on!
+
+0x590F04DF = ~z~Don't want no one interrupting the show.
+
+0x605E81F7 = ~z~We're under attack!
+
+0x662E6A66 = ~z~Now what you do, huh?
+
+0x820B0B71 = ~z~~sl:0.0:1.9:1~Like papa taught you.
+
+0x833E98CD = ~z~I stop to run, I start to fight.
+
+0x872C920D = ~z~I-I'm not here to drink with ya.
+
+0x3866DF6E = ~z~~sl:0.0:1.8~Stay here and fight them.~sl:0.5~I meet you in the high country.
+
+0x4933BE3F = ~z~Come to save him, huh? Huh?
+
+0x5360D299 = ~z~Looks like you have me cornered here.
+
+0x5448AC46 = ~z~I-I, I'm-I'm not sure I can.
+
+0x5510C82B = ~z~Come at me!
+
+0x7701C694 = ~z~~sl:0.0:3.5~Don't cry for me.~rp~ I no cry for anyone I kill...~sl:0.5:~I killed a bunch. This is funny.~rp~ Have a good laugh, yeah!
+
+0x9053F938 = ~z~~sl:0.0:4.3~Poetic justice maybe you call this?~rp~ I call it a good joke.~sl:0.3:1.0~Funny joke.~rp~~sl:1.2:3.6:1~Old Yukon Nik gets a rope around his neck.
+
+0x10814E44 = ~z~Good thing you don't got to take me very far.
+
+0x39581E9C = ~z~Your friend the Marshal here.
+
+0x42121F4B = ~z~Protect Nik!
+
+0x3470390C = ~z~I make a special case.
+
+0x7220257A = ~z~We got a problem!
+
+0x8605204A = ~z~It's medieval I tell you.
+
+0x78198516 = ~z~Trapped!
+
+0x78457415 = ~z~You want to be alone with me up here?
+
+0xA0C99D69 = ~z~It's free! Shoot the grizzly too!
+
+0xA3C04B34 = ~z~~sl:0.0:1.5~Very good.~sl:1.6~And another.
+
+0xA10CAF58 = ~z~Easy there.
+
+0xA32D22C6 = ~z~~sl:0.0:3.8~Come on... I want to meet my new friends...~sl:0.2~and share drink with the sheriff of this county.
+
+0xA39DDB7B = ~z~But maybe more like a feudal lord...
+
+0xA54B1519 = ~z~
+
+0xA709854C = ~z~Damn scalp hunter!
+
+0xAC7D2808 = ~z~Come on.
+
+0xAF7F6655 = ~z~Good bear!
+
+0xB0BC77D7 = ~z~Never!
+
+0xB6FFEB56 = ~z~Ruthless bastard.
+
+0xB9FA77A8 = ~z~~sl:0.0:3.9:1~Drink! You're my guest. You drink.
+
+0xB21FD162 = ~z~Oh... come on.
+
+0xB55B7EF6 = ~z~way he runs that country up there.
+
+0xB376D4C9 = ~z~God help us, the bear's free! We gotta stop it!
+
+0xB149075A = ~z~Now you die.
+
+0xB9864336 = ~z~Usually, Marshal, is dogs... who fight my bears.
+
+0xBA26888C = ~z~Why shit...
+
+0xBDDB0269 = ~z~If I'm going down. He going too.
+
+0xBEB7A237 = ~z~I like to see you suffer.
+
+0xBF9C49BB = ~z~
+
+0xC2B976E2 = ~z~
+
+0xC4B606C2 = ~z~You kill all my men...
+
+0xC43CBFB2 = ~z~Don't let them get away with this!
+
+0xCA62C22E = ~z~~sl:0.0:1.6~There's a feller up near Manzanita Post~sl:0.0:1.7~with half his head missing.~sl:0.1~Ain't so pretty or smart, but he's still breathing at least.
+
+0xCAE5E5F5 = ~z~Shit.
+
+0xCB3341E6 = ~z~No. I-I-I don't know these people.
+
+0xCF1AB274 = ~z~I knew his ways would catch up with him some day.
+
+0xD071A48C = ~z~Just a little bit further...
+
+0xD3B458E2 = ~z~
+
+0xD8FA636E = ~z~Feels good, right?
+
+0xD172D447 = ~z~~sl:0.0:1.5~It might, it might.~sl:2.0~Very good.
+
+0xD4472C41 = ~z~~sl:0.5:2.8:1~One for you, one for me.
+
+0xD84844CF = ~z~Anyone wants to trade fur near Nik...
+
+0xDA7CDBA0 = ~z~he going too.
+
+0xDCDA09DD = ~z~Been captured most like.
+
+0xDEE74181 = ~z~Goddamn.
+
+0xDFDA4341 = ~z~Try and chase.
+
+0xE03371C8 = ~z~The bounty might change all that.
+
+0xE7AB7AD6 = ~z~These your friends? Come here.
+
+0xE52EDF5B = ~z~Niet. Niet!
+
+0xE123EFB0 = ~z~~sl:0.0:1.4~Hey, when it's all done,~sl:0.1:1.8~I'm gonna pin his badge on the bear...~sl:0.0:1.7:1~make her a marshal of this state.
+
+0xE864E508 = ~z~Bear baiting Yukon Nik.
+
+0xEE9CAD62 = ~z~Don't let that happen to you.
+
+0xF1E61060 = ~z~I won't stay here with all these ghosts.
+
+0xF5D2E47D = ~z~Come on!
+
+0xF5F59D4C = ~z~~sl:0.1:2.4~No one comes to see me up here...~sl:0.2~I don't know why.
+
+0xF5596E3F = ~z~Maybe I want you to follow!
+
+0xFAB1A6C4 = ~z~
+
+0xFCA7A6BB = ~z~~sl:0.0:2.1~I give him two minutes. Maybe five~sl:~if that bear wants to have a play with him first.
+
+0xFE9528A9 = ~z~~sl:0.8:0.4:1~Okay...
+

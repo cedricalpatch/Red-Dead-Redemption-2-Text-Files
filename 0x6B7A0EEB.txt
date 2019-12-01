@@ -1,0 +1,10 @@
+0x3C29CE28 = Otis Skinner's corpse could not be retrieved.
+
+0x10FC1AF7 = Otis Skinner has died.
+
+0x735F2D6D = Otis Skinner escaped.
+
+0xA80AD1A3 = Otis Skinner's corpse was left behind.
+
+0xD6762E79 = Otis Skinner was left behind.
+

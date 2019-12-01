@@ -1,0 +1,52 @@
+0x1BB65885 = ~z~The Trelawnys!
+
+0x1BDD58D7 = ~z~The Trelawnys!
+
+0x2DB0FC7A = ~z~The Trelawnys!
+
+0x3ACBB654 = ~z~That was absolutely delicious, my dear. Thank you. Well, I think a toast in order, don't you?
+
+0x8BC9EDD8 = ~z~Me!
+
+0x14EB001C = ~z~oh, I almost forgot, I don't suppose anybody here would be interested in, say, a... present?
+
+0x23A32C61 = ~z~Thank you.
+
+0x28BAA9F0 = ~z~Trelawny?
+
+0x35D5C426 = ~z~Trelawny, is that you in there?
+
+0x42C06A9B = ~z~I got that in a town called Blackwater.
+
+0x64DA9F7E = ~z~A spinning top!
+
+0x272CA49F = ~z~I wish I could, my boy. I really do. But business calls...
+
+0x298E13D9 = ~z~Here let's fill that water glass, Tarquin. It's unlucky to cheers on an empty glass.
+
+0x860CF133 = ~z~And last but not least...for you, my dear.
+
+0x45558EF0 = ~z~Uh, Arthur? What on Earth are you doing here?
+
+0x55542EED = ~z~I can't speak now, sorry.
+
+0x441860AB = ~z~Hello? Trelawny?
+
+0x719438F1 = ~z~And this one's for you, Cornelius.
+
+0x79894957 = ~z~Me, me!
+
+0xA98C575C = ~z~Can we catch up in the office on Monday?
+
+0xAC541963 = ~z~Okay... to the Trelawnys! It's good to be home.
+
+0xB7C6F3D1 = ~z~Let's adjourn to the parlor, my dear. Not a moment's peace...
+
+0xC064D695 = ~z~Wow, thanks!
+
+0xC258DAF9 = ~z~Are you staying now, Daddy?
+
+0xCE29721E = ~z~Okay, this is for you.
+
+0xD9D618C8 = ~z~Now run along and play, boys. Let your mother and I read the newspapers.
+

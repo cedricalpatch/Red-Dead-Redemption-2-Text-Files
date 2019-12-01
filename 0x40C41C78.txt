@@ -1,0 +1,36 @@
+0x00C35F41 = ~z~Well, get him quick then.
+
+0x1D969092 = ~z~What the hell?
+
+0x2CCCF679 = ~z~Looks like I missed a good party, boys
+
+0x2F0D3BD4 = ~z~Hey, looks like the cat got curious.
+
+0x3ED3B82D = ~z~Hey, what are you two pieces of shit doing in this dump?
+
+0x7DDE695A = ~z~What the- you out of your damn mind?
+
+0x8A0FE95A = ~z~Damn you! Damn you!
+
+0x8FD027DE = ~z~Not me. Better take care of it.
+
+0x61F65035 = ~z~Shit, they found us!
+
+0x78C87DD9 = ~z~You don't know that.  Just stay sharp.
+
+0x378AA5C8 = ~z~Yeah? Well, not for long.
+
+0x47501DDF = ~z~Shit! Oh, you goddamn bastard.
+
+0x77556D96 = ~z~Huh, was that a squirrel or something?
+
+0x31499946 = ~z~Ah, we've been found!
+
+0xD9600650 = ~z~Hey, what are you two pieces of shit doing in this dump?
+
+0xDA3ABCB2 = ~z~What was that?
+
+0xE0CD618C = ~z~Hey... hey, hey! What the hell you think you're doing?
+
+0xFCCC3D47 = ~z~Looks like I missed a good party, boys.
+

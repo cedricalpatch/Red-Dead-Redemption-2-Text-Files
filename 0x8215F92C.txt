@@ -1,0 +1,212 @@
+0x01043904 = ~z~It's down this way.
+
+0x01956AB9 = ~z~You think you can take whatever you want.
+
+0x03978C9C = ~z~Who would I run to? I can hardly tell the law about this.
+
+0x06F05B20 = ~z~No, I'm sorry. I won't say another word, I promise.
+
+0x09D8305E = ~z~I'm sorry. I'm just upset, you know? I sweated for hours down here to make that money.
+
+0x0C0CAA2B = ~z~Money? If only... I'm sorry, mister, I think all this just probably looks more than it is.
+
+0x0C7136BE = ~z~That's better.
+
+0x0ED6A469 = ~z~No, please! Just take it easy...
+
+0x1B19F76E = ~z~You can see it ain't much, really.
+
+0x1F484937 = ~z~No, sorry, that isn't even funny... all in the past now.
+
+0x2A8DF230 = ~z~Now you gotta have some money stashed away down here somewhere?
+
+0x2B53AFBD = ~z~I'll be the judge of that.
+
+0x2DD5E118 = ~z~And the mayor wants Strawberry to be a dry town!
+
+0x2DE87FDB = ~z~Now you gotta have some money stashed away down here somewhere?
+
+0x2EB70964 = ~z~Not so fast... basement.
+
+0x3AE78CE8 = ~z~No, I'm sorry. I won't say another word, I promise.
+
+0x4D1D4CAC = ~z~So, er, now you don't want it?
+
+0x4D1EE980 = ~z~This is more than just a small batch, my friend.
+
+0x5C1FDB41 = ~z~Guess I can if you can.
+
+0x5C7E474C = ~z~No... No. Please.
+
+0x5DF3CE59 = ~z~I guess I can if you can.
+
+0x5F056503 = ~z~The wall on the right, near those shelves.
+
+0x5FAC26E9 = ~z~I work hard, goddamn you!
+
+0x6D6620D2 = ~z~Why don't you show me what you got cooking down in that basement? Yeah...
+
+0x6F34CC3C = ~z~Who would I run to? I can hardly tell the law about this.
+
+0x7D3F969A = ~z~Are you, er, still up there, mister?
+
+0x7D7F68D1 = ~z~Don't even think about running to anyone.
+
+0x7DA608A4 = ~z~Come on! You don't have to clean me out.
+
+0x7ED8C3B7 = ~z~That ain't nothing.
+
+0x8A95BD9B = ~z~It ain't like Strawberry's full of big spenders.
+
+0x8AAB5ADE = ~z~Hey, come on. There's no need for that.
+
+0x8D7CBDFA = ~z~It was nothing but hassle from the start. Maybe you even did me a favor...
+
+0x8DDF5649 = ~z~Keep your mouth shut!
+
+0x9F347FA6 = ~z~I'm opening it, okay! Just give me a second.
+
+0x27B689F9 = ~z~And maybe I'll keep mine shut about this operation of yours...
+
+0x28CF259A = ~z~I ain't gonna hurt you, but you keep that mouth shut now, you hear me?
+
+0x35BB38B5 = ~z~Do I need to shut that mouth of yours for good? Because I will!
+
+0x37CDBA3F = ~z~We all gotta make a bit extra on the side.
+
+0x37F843F2 = ~z~Oh not you again... listen, that money down there is long gone,
+
+0x39CE060E = ~z~Oh Lord, what do you want now? I ain't even using that still no more.
+
+0x49ADE75D = ~z~so please don't start no more trouble.
+
+0x54FC495C = ~z~Yes we do.
+
+0x55B37BE4 = ~z~Yeah, we do.
+
+0x56B05195 = ~z~Stay away from me, please.
+
+0x58E155C8 = ~z~If the silent treatment is you trying to intimidate me, it's working.
+
+0x66A37DCD = ~z~So... are you coming down?
+
+0x73C89001 = ~z~I'm just trying to make ends meet...
+
+0x74D5AFC5 = ~z~Just a little batch of white lightening to warm the old bones.
+
+0x85A62F78 = ~z~Hey now, that's close enough.
+
+0x91C735FF = ~z~Can we just forget about it? I really don't need more trouble.
+
+0x95A01F45 = ~z~Oh God no, please! Why would you kill me?
+
+0x95F8B150 = ~z~So, shall we go on back upstairs now?
+
+0x98B73574 = ~z~I ain't gonna hurt you, but you keep that mouth shut now, you hear me?
+
+0x167C80F5 = ~z~Yes, of course... whatever you say.
+
+0x324E5CAB = ~z~Please, I'm doing everything you want!
+
+0x373A347B = ~z~Wait a minute.
+
+0x375C11BA = ~z~Oh Lord, what do you want now? I ain't even using that still no more.
+
+0x466D57D7 = ~z~This ain't no "small batch", my friend.
+
+0x489F2857 = ~z~Do I need to shut that mouth of yours for good? Because I will!
+
+0x687AF52A = ~z~Whoa, please, stay back.
+
+0x719F3C53 = ~z~It's, uh...
+
+0x749A4249 = ~z~just a little drop on the side.
+
+0x778E9B12 = ~z~Take me down there, now!
+
+0x855FE789 = ~z~Keep those hands high in the air, mister.
+
+0x860AE52A = ~z~Uh-uh, like I say, no-nothing to see really. Just, uh,
+
+0x954C568D = ~z~That ain't nothing.
+
+0x957A6922 = ~z~There really isn't much down here, you'd only be wasting your time.
+
+0x4101ADF9 = ~z~I wanna see what you got cooking down there.
+
+0x6905F50D = ~z~Can we just forget about it? I really don't need more trouble.
+
+0x8514B136 = ~z~It's more of a hobby than anything else.
+
+0x82834B20 = ~z~Take me down there, now!
+
+0x557922E1 = ~z~Tell me where the money is. I ain't gonna ask twice.
+
+0x605399BC = ~z~It's down this way.
+
+0x693251B0 = ~z~S-so... w-what are we doing here?
+
+0x9170882A = ~z~Just a couple of old stills. Nothing, nothing worth taking.
+
+0x9866875A = ~z~Look, I don't know what else you want from me. I've told you where the money is.
+
+0x64431386 = ~z~This is a wholesale operation you are running here.
+
+0x68765658 = ~z~Don't even think about running to anyone.
+
+0xA79E7B31 = ~z~Just a little batch of white lightening to warm the old bones.
+
+0xB2C9F804 = ~z~It was nothing but hassle from the start. Maybe you even did me a favor...
+
+0xB4FB3943 = ~z~You got a wholesale operation running here.
+
+0xB410C7B6 = ~z~Y-you.. you just gonna stand there?
+
+0xB669A3CC = ~z~I'll be the judge of that.
+
+0xB999AEBE = ~z~Get your hands up.
+
+0xC6A423A9 = ~z~There... there's a loose brick in the wall by the still.
+
+0xC6FF5F7C = ~z~That's better.
+
+0xC33C6E5B = ~z~Oh God no... I don't want any trouble like last time, okay?
+
+0xC940804E = ~z~And the mayor wants Strawberry to be a dry town!
+
+0xC8184729 = ~z~just a little drop on the side.
+
+0xCF3E66D2 = ~z~Show me where the money is. I ain't gonna ask you twice.
+
+0xD4B1B205 = ~z~Like I said, it's behind the brick over there.
+
+0xD6D5C40C = ~z~Okay! Okay. Don't, don't point that at me.
+
+0xD6DA1FCD = ~z~You don't need to take it all.
+
+0xD9EF6AD7 = ~z~Uh-uh, like I say, no-nothing to see really. Just, uh,
+
+0xDF37FF55 = ~z~You must be making a tidy profit off all this.
+
+0xE0263338 = ~z~And maybe I'll keep my mouth shut about this operation of yours...
+
+0xE445AC64 = ~z~I wouldn't go that far.
+
+0xE33809A4 = ~z~There... there's a loose brick by the wall by the still.
+
+0xEA66D8D2 = ~z~Yes, of course... whatever you say.
+
+0xEC263FDB = ~z~Men like you make me sick.
+
+0xECF9E49B = ~z~Oh hello again. What can I get for you? Some moonshine?
+
+0xEEB1145E = ~z~It's, uh...
+
+0xF1B5F0C2 = ~z~I look like a wealthy man to you?
+
+0xF1F12716 = ~z~Okay! Okay.
+
+0xFDA74BFE = ~z~You must make a tidy profit off of all of this.
+
+0xFE846FF4 = ~z~You keep your mouth shut!
+

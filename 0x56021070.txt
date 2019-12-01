@@ -1,0 +1,20 @@
+0x0C274311 = ~z~You seem well, on the other hand.
+
+0x1E75E7AE = ~z~Yes I'm... I've stopped all that silly business... I think I'm okay.
+
+0x5B8DF9D6 = ~z~I can't believe it, really I can't. All those years I wasted.
+
+0x8C97C3FC = ~z~I don't know...  I met a Catholic lady, a nun, and we prayed... and it was lifted... the curse was lifted.
+
+0x48B73C3C = ~z~Oh, that's wonderful news. How?
+
+0x535E518A = ~z~I'm so sorry.
+
+0x653AF543 = ~z~Good.
+
+0xB81B1B06 = ~z~
+
+0xCA6CBFA9 = ~z~Mr. Morgan... you don't look very well.
+
+0xF0818BC6 = ~z~I'm not reverend... I fear I'm pretty sick.
+

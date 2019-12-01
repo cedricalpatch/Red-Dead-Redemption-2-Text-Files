@@ -1,0 +1,82 @@
+0x05BA42CB = Leader Feud
+
+0x07D1CA5D = Your Posse Leader just decided to start Infighting
+
+0x097D92C2 = ~COLOR_POSSE_ALLY~~1~~s~ wants to challenge ~COLOR_ENEMY~~2~~s~ to a Posse Feud. Choose whether to send the invite.
+
+0x1C99D4EF = Tensions are high between your Posse and ~COLOR_ENEMY~~1p~~s~. Start a Feud to settle!
+
+0x1ECFA672 = ~COLOR_POSSE_ALLY~~1~~s~ suggests
+
+0x1FFFB4FF = Tensions are rising between you and ~COLOR_ENEMY~~1p~~s~!
+
+0x5B6B7179 = Feud is available
+
+0x6CD3CC4D = ~COLOR_POSSE_ALLY~~1~~s~ wants to challenge ~COLOR_ENEMY~~2~~s~ to a Leader Feud. Choose whether to send the invite.
+
+0x8D570827 = Tensions are high between you and ~COLOR_ENEMY~~1p~~s~. Start a Feud to settle!
+
+0x8F556EE7 = You have to leave at least one Posse Member as your enemy! The game will proceed with a random split.
+
+0x9FACABE7 = Feud
+
+0x35CB9D0F = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes or notify your Leader to challenge them to a ~2~ to settle your rivalry.
+
+0x39A211DC = ~1~ has challenged ~2~
+
+0x50C2BEA0 = ~COLOR_ENEMY~~1~~s~ ignored your challenge to ~2~
+
+0x208C4153 = ~1~ challenge
+
+0x448D2F8D = Posse Feud is available
+
+0x469A32C3 = Leader Feud (~1~)
+
+0x549BB9AE = Your leader has decided to not challenge ~COLOR_ENEMY~~1p~~s~ for now.
+
+0x913D9831 = Feud (~1~)
+
+0x7190E117 = Leader Feud is available
+
+0x45750B67 = Challenging ~COLOR_ENEMY~~1~~s~ to a Posse Feud
+
+0xA4C49EB7 = ~COLOR_ENEMY~~1~~s~ has challenged you to a ~2~
+
+0xA8D34C79 = Tensions are rising between you and ~COLOR_ENEMY~~1p~~s~!
+
+0xA99FD14E = Tensions are high between your Posse and ~COLOR_ENEMY~~1p~~s~. Suggest your leader to start a Feud to settle!
+
+0xA27185C3 = Posse Infighting
+
+0xAB51BFA9 = Tension is high between your and ~COLOR_ENEMY~~1p~~s~, but they are not available for a Feud now.
+
+0xB78C472C = ~COLOR_POSSE_ALLY~~1~~s~ has challenged ~COLOR_ENEMY~~2p~~s~ to a ~3~
+
+0xB3332CEF = The player you challenged to a ~1~ is unable to accept. The challenge has been canceled.
+
+0xC2F8217A = ~COLOR_ENEMY~~1~~s~ declined your challenge to ~2~
+
+0xC7E465B3 = Posse Feud
+
+0xD15A8B87 = You have recently just challenged ~COLOR_ENEMY~~1p~~s~. You'll need to wait for a while to start another Posse Feud.
+
+0xDA2826F0 = ~COLOR_ENEMY~~1p~~s~ killed you. Challenge them to a ~2~ to settle your rivalry.
+
+0xDF78A763 = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes or challenge them to a ~2~ to settle your rivalry.
+
+0xEC5E4900 = Challenging ~COLOR_ENEMY~~1~~s~ to a Leader Feud
+
+0xEF1F0F25 = ~1~ is available
+
+0xF84FDFED = Hold ~INPUT_FEED_INTERACT~ to view Invite
+
+0xF373F8D1 = ~COLOR_ENEMY~~1p~~s~ killed you. Notify your Leader to challenge them to a ~2~ to settle your rivalry.
+
+0xFA42F03E = ~COLOR_ENEMY~~1p~~s~ killed you. Parley with them to stop damage for 10 minutes.
+
+0xFC8EC4FE = Leader Feud
+
+0xFDAF5453 = Posse Feud
+
+0xFED96244 = The Posse you challenged to a ~1~ is unable to accept. The challenge has been canceled.
+

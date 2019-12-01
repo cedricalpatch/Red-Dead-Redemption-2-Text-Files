@@ -1,0 +1,24 @@
+0x06E00304 = ~z~~sl:0.0:0.8~I mean, look,~sl:0.0:2.2~you all free to think what you want to think but for me,~sl:0.7~I still believe in him.
+
+0x1CA22E88 = ~z~~sl:0.0:1.0~Because...~sl:0.5:1.7~well, he did what he did.~sl:0.8:1.3~But he did it for love,~sl:1.9~for all of us.
+
+0x6DE4D10C = ~z~~sl:0.0:2.8~Yes, I feel bad, they didn't deserve that but listen...~sl:~I just think,
+
+0x325AD9F9 = ~z~Well, none of us is pretending that was something nice.
+
+0x3819E577 = ~z~~sl:0.0:1.0~But I guess...~sl:0.8:1.2~the way that I see it,~sl:0.9~we're still here and he's still right.
+
+0x9964A80B = ~z~~sl:0.0:2.2~You know I seen a lot of men who say one thing~sl:0.2~and do the other thing.
+
+0xA08ECE35 = ~z~We're gonna make it.
+
+0xBD01871A = ~z~~sl:0.0:2.6~and I been thinking about this a lot, I just think...~sl:0.5~Dutch loves us.
+
+0xCDC890D2 = ~z~~sl:0.0:1.2~Listen,~sl:~I know Dutch been a little erratic recently.
+
+0xE38EBC5E = ~z~I know what went on in Blackwater...
+
+0xEB16CB6E = ~z~~sl:0.0:1.3~Who promise you the world~sl:~while they rob the bread off your plate.
+
+0xEBE164D9 = ~z~~sl:0.0:2.1~And being loved, well...~sl:0.4~we're gonna be okay.
+

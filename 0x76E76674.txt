@@ -1,0 +1,42 @@
+0x0E15EC01 = Pinkerton
+
+0x1CA8CA92 = Return to the area
+
+0x1D9CDDCD = Deal with the ~e~Pinkertons~s~
+
+0x7B4E9471 = You went too far from Lakay.
+
+0x7EA96B66 = Return to ~o~Shady Belle~s~
+
+0x9C1D1626 = Look for the gang at ~o~Shady Belle~s~
+
+0x9F156C4F = Shady Belle
+
+0x66A33D11 = To activate Cinematic Cameras press and hold ~INPUT_CINEMATIC_CAM~.
+
+0x83D62610 = You went too far from Shady Belle.
+
+0x430B84E5 = Search ~o~downstairs~s~ for clues to the gang's whereabouts
+
+0x796C62A3 = To exit Cinematic Cameras press ~INPUT_CINEMATIC_CAM~.
+
+0x848CA36D = You attracted the attention of the law.
+
+0x6643E7FD = Search downstairs for clues to the gang's whereabouts
+
+0xAFB55DD0 = Letter
+
+0xBFB6F49A = Lakay
+
+0xC55A5156 = You left Shady Belle.
+
+0xC30123C9 = You left the area.
+
+0xDC79BB6F = Search ~o~upstairs~s~ for signs of the gang
+
+0xEC9B0BD2 = Search both floors of the mansion for signs of the gang
+
+0xED1F2FA0 = Go to ~o~Lakay~s~
+
+0xF80A2709 = Collect the ~o~letter~s~
+

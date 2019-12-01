@@ -1,0 +1,26 @@
+0x4E7D4002 = ~z~He scares me.
+
+0x5BB3DA73 = ~z~I know.
+
+0x6E623636 = ~z~He turns his men into monsters. Somehow, he... makes them love only him. He scares me...
+
+0x7C98D2A3 = ~z~I mean, you boys scare me, but you're still like... like human beings... he's... it's hard to explain.
+
+0x8DFDBF06 = ~z~Well he don't scare me. Silly fool you are.
+
+0x12B57EDE = ~z~So... what's he like this, Colom or Colm, well whatever he calls himself anyway?
+
+0x29D72D21 = ~z~He's, uh... uh... wh-when he talks to you... when he talks to you nicely, it's like the sun is shining,
+
+0x156E044F = ~z~He's unfair and unkind... and as long as it isn't directed at you. You don't care.
+
+0x932BFFC9 = ~z~He changes... he's happy and you're happy... he's mad and you're upset and you don't know why.
+
+0x3820C9B4 = ~z~and when he's mad at you, it's like the devil's gonna be... be upon you. That's how I'd put it.
+
+0x815825B7 = ~z~Well... he sounds like a right idiot if you ask me. Real pleased with himself.
+
+0xDE4A1608 = ~z~Honestly?
+
+0xEC08B185 = ~z~Yeah, honestly.
+

@@ -1,0 +1,548 @@
+0x01F13014 = ~z~You better go help Dutch and Hercule, there's a lot of 'em!
+
+0x035EFF96 = ~z~Okay.
+
+0x03FA5122 = ~z~Bill, come help me collect poor old Javier.
+
+0x04C731DF = ~z~Look out, another boat just made land!
+
+0x05263F33 = ~z~~sl:0.0:1.1~It's like I said.~sl:0.5:1.5~Fussar knows who you are~sl:0.0:1.4~and knows the price on your head.~sl:0.4~It's a big problem.
+
+0x0727E747 = ~z~Let's go down and clear 'em off the beach.
+
+0x075F1712 = ~z~Follow me.
+
+0x087449E2 = ~z~That one definitely hit!
+
+0x09977B01 = ~z~Wait, look! That one's going right for Dutch!
+
+0x09B46128 = ~z~You just watching there, Morgan?
+
+0x09C87381 = ~z~Ah, fuck! We have no time for this.
+
+0x0A0D9D79 = ~z~We fight or we run.
+
+0x0B000C94 = ~z~Very kind of you, Mr. Fussar!
+
+0x0C787BEA = ~z~Alright... good luck, gentleman.
+
+0x0CB92DF6 = ~z~And you will.
+
+0x0D54A06A = ~z~There are too many, we must stick close!
+
+0x0E861A2A = ~z~Hurry, Arthur, we need that cannon.
+
+0x0F72ABEF = ~z~And you take the right, Hercule.
+
+0x1A2D5CAB = ~z~Another boat's landing on the beach!
+
+0x1CE4DD53 = ~z~Alright, that has to go down soon.
+
+0x1E630342 = ~z~Ah, missed! But they've already taken some damage, try again.
+
+0x1F5593D5 = ~z~Yes, we need to push them back!
+
+0x2A6C84EB = ~z~Got one on the right, way back!
+
+0x2ACB9F1C = ~z~We must destroy it. We won't last much longer.
+
+0x2AF26A68 = ~z~Come.
+
+0x2CF6072B = ~z~~sl:1.0~I'm gonna need your help, my friend.
+
+0x2E2A73AF = ~z~What are you doing? Try aiming at the big boat, Morgan!
+
+0x2FDD8D1D = ~z~And you take the left, Hercule.
+
+0x3AD87F27 = ~z~Aim at the waterline...
+
+0x3CCD76B8 = ~z~Arthur, push the damn cannon. Come on!
+
+0x3DA628AE = ~z~Okay, good luck.
+
+0x3E5C20E3 = ~z~Hercule, you take the left.
+
+0x4AFEDF26 = ~z~Micah, go meet with the captain.
+
+0x4B362AF3 = ~z~to get here from America.
+
+0x4D4FD4F1 = ~z~Arthur, Bill, Micah, hold them back!
+
+0x4DADBEE4 = ~z~There you go, couple of more like that and they're done!
+
+0x4F9B6863 = ~z~it was a great pleasure to make your acquaintance.
+
+0x5A563DD2 = ~z~Better late than never.
+
+0x5AD1C0ED = ~z~
+
+0x5C5911A4 = ~z~We'll guard this thing!
+
+0x5CA5BF6D = ~z~Yeah, they're hurting!
+
+0x5CC783CC = ~z~So what do we do?
+
+0x5D0802D3 = ~z~I think I got a plan.
+
+0x5E0EC543 = ~z~Follow me!
+
+0x5EBD895B = ~z~Look out! Another boat arriving on the right!
+
+0x6A3B77FF = ~z~~sl:0.7~That one almost finished them.
+
+0x6A8389BC = ~z~Reloading!
+
+0x6B6B5CF8 = ~z~Keep at them, they can't take much more of this!
+
+0x6E1B6780 = ~z~
+
+0x6ED2E6CB = ~z~Okay then.
+
+0x7AADB739 = ~z~~sl:0.0:1.0:1~There we go!
+
+0x7AC2BDA1 = ~z~You kind of have to hand it to this feller...
+
+0x7AC53E4D = ~z~Damnit! What do we do now?
+
+0x7B6B7585 = ~z~You'll want to see this, Arthur.
+
+0x7B257C2A = ~z~We need to stay together, Arthur!
+
+0x7C3A12EE = ~z~What do we do?
+
+0x7CF9BB93 = ~z~Come on.
+
+0x7DE3655E = ~z~So what now?
+
+0x7E977B14 = ~z~Alright... good luck, gentleman.
+
+0x7F5D48F7 = ~z~Okay then.
+
+0x8A0C4537 = ~z~Go, Arthur! I got this.
+
+0x8C0BE033 = ~z~That's a goddamn warship.
+
+0x8DCBB611 = ~z~He's getting closer.
+
+0x8E9C6775 = ~z~Follow me!
+
+0x8E905EC0 = ~z~Let's get down from here.
+
+0x8EA3B69B = ~z~Could use a hand here, Morgan!
+
+0x9A82E624 = ~z~I can hold them off, just go!
+
+0x9C06BCD9 = ~z~You go right too, Hercule, hit them hard on that side.
+
+0x9C5D520E = ~z~Why aren't you shooting?
+
+0x9CC14E04 = ~z~That way, we all get what we want.
+
+0x9DA922B2 = ~z~Alright, just shut up.
+
+0x9E3E533C = ~z~Let's get down to the beach, this is not over yet.
+
+0x9EC75606 = ~z~Look, it's taking on water! Keep firing!
+
+0x9F3836C1 = ~z~Fussar knows who you are...
+
+0x9FCA3646 = ~z~Hey. Get back here, Morgan!
+
+0x9FDC6668 = ~z~Oh look who decided to come back! You gonna help us out here now?
+
+0x10BE517A = ~z~Just shoot, Micah!
+
+0x23BA11B2 = ~z~This is kind of fun.
+
+0x24BC52EF = ~z~In French: Shit.
+
+0x25F9638C = ~z~Stay with me, Arthur!
+
+0x38B23A8D = ~z~If he's amenable and discrete...
+
+0x40D48B06 = ~z~I will go get the cannon ready.
+
+0x48DB5832 = ~z~Okay... Try again, we have to land more shots.
+
+0x49C59CE0 = ~z~So what now?
+
+0x51BD2CF4 = ~z~we need to put a serious hole in that boat.
+
+0x54B7F6FD = ~z~I think we're clear on this side, but we still got more on the right!
+
+0x54D6233B = ~z~Grab the shotgun, Arthur.
+
+0x55CFC022 = ~z~But you have found yourself in the middle of a war, my friend.
+
+0x57C9F2A0 = ~z~Up here, Arthur!
+
+0x60AEB29B = ~z~This don't look good, fellers.
+
+0x66E77C6F = ~z~Stick with us, Arthur.
+
+0x71CBBAE6 = ~z~
+
+0x72A6D855 = ~z~Damn! We'll have to climb up around the side. This way!
+
+0x72B12F2B = ~z~We don't have a minute.
+
+0x87B7A4A5 = ~z~What are you doing down there?
+
+0x87CE0958 = ~z~You go left too, hit them hard on that side.
+
+0x88D8538E = ~z~Yes, they're going down!
+
+0x91B60DE0 = ~z~It will take me a few minutes to get it loaded.
+
+0x96C1B466 = ~z~Hellfire, Morgan! Land the shot and finish this!
+
+0x265C15E1 = ~z~tell him we'll be ready to set sail soon.
+
+0x273BB80C = ~z~We fight or we run.
+
+0x280A4DFB = ~z~And you cover the left side.
+
+0x308F3648 = ~z~Come on, let's move down!
+
+0x320D3C24 = ~z~Come on.
+
+0x445B4F75 = ~z~Guess I'll follow you then. Great plan, Arthur.
+
+0x445F6F7B = ~z~Someone get that son of a bitch at the back on the left.
+
+0x474AD6B2 = ~z~This must be the boat he called in from Cuba.
+
+0x484A0DB1 = ~z~Arthur, are you going to help Hercule?
+
+0x487ADEB4 = ~z~Point the gun and pull the trigger.
+
+0x516DBB4C = ~z~Again! They're in trouble now!
+
+0x575F3813 = ~z~So I guess great minds think alike.
+
+0x667AD652 = ~z~So what do we do?
+
+0x682D64DD = ~z~Fussar has called in the navy from Cuba.
+
+0x697D6D75 = ~z~You sure?
+
+0x767FBAB1 = ~z~You taking a break there, Morgan?
+
+0x855C119B = ~z~Missed! Why are you making such a meal of this!
+
+0x863F692F = ~z~Yes, we can do this! Fire again!
+
+0x897F0B4F = ~z~and knows the price on your head.
+
+0x900E4446 = ~z~Okay.
+
+0x914D9B75 = ~z~You go left too, Hercule, hit them hard on that side.
+
+0x927F0CB4 = ~z~I'd really like to hear this plan.
+
+0x994D08E2 = ~z~One more good shot should do it!
+
+0x1670B658 = ~z~You man the cannon...
+
+0x2172F2E3 = ~z~Why the hell are we doing this? This ain't our fight!
+
+0x2424B603 = ~z~Okay.
+
+0x2442D1A8 = ~z~This is kind of fun.
+
+0x3380B086 = ~z~Come on, we have to sink that boat.
+
+0x3601FE81 = ~z~~sl:0.0:2.8:1~Okay... let's use this monster...
+
+0x4142ECF3 = ~z~Keep going. Just a few left now.
+
+0x5085CD10 = ~z~I thought you said you were you going with them?
+
+0x5890F93E = ~z~So now we have a real problem.
+
+0x7433EF4B = ~z~Send them down!
+
+0x7870CD92 = ~z~It's working! Keep firing!
+
+0x8993DBEA = ~z~There are boats coming from both sides!
+
+0x15906CBE = ~z~Great.
+
+0x38323C09 = ~z~I think that's all of them! Good work, gentlemen.
+
+0x63971AA4 = ~z~Come on!
+
+0x332400C3 = ~z~I'll gladly hold them off this beach a while longer.
+
+0x512050E1 = ~z~We need to stay together.
+
+0x612076FA = ~z~Out of ammunition! Reloading.
+
+0x637610B5 = ~z~Just give me a minute.
+
+0x692664C9 = ~z~~sl:0.7:3.0:1~This will give us the firepower we need...
+
+0x744171DF = ~z~Any of you boys feel like running?
+
+0x998474A8 = ~z~Thank you.
+
+0x1042381E = ~z~Hurry, please, we need to get back up there!
+
+0x4823996D = ~z~I say we push forward because if we don't we are going to die here and now.
+
+0x7309489E = ~z~You cover the right.
+
+0x30765784 = ~z~The ship just hit their own men!
+
+0x33399670 = ~z~Do you want to get off this island or not?
+
+0x44801967 = ~z~I think we cleared the left, let's get over to the other side!
+
+0x50939979 = ~z~Alright.
+
+0x57148578 = ~z~Morgan, shoot them men!
+
+0x65617998 = ~z~Looks good here, let's clear the rest of them on the left!
+
+0x75810038 = ~z~Arthur, get up here!
+
+0x89391120 = ~z~Get over here, Arthur.
+
+0xA0D24542 = ~z~Look out on the left here, boys!
+
+0xA1A94915 = ~z~Arthur, come on! Stay together and concentrate our fire!
+
+0xA1B01C51 = ~z~Aw, damn it!
+
+0xA2E2F31E = ~z~Let's go!
+
+0xA3A0D066 = ~z~Glad you could join us.
+
+0xA3E900CD = ~z~That's it! Keep firing!
+
+0xA8CD0B6F = ~z~And you cover the right side.
+
+0xA40D2AA5 = ~z~Okay.
+
+0xA70DE00D = ~z~On the left, near the fort! Get that bastard!
+
+0xA75D18F6 = ~z~There's a lot of guns out there.
+
+0xA8479FE3 = ~z~Yes... I think so... at least for now.
+
+0xA4335863 = ~z~Come on! Goodness...
+
+0xAAB8170F = ~z~That was quite some shooting, boys.
+
+0xAAEA0689 = ~z~Guess we just follow you then? Great plan, Arthur.
+
+0xAB9BAD7F = ~z~Almost! Give them one more!
+
+0xACB6D81B = ~z~Quick, come take a look at this.
+
+0xAD09F28B = ~z~It's starting to sink. Fire again!
+
+0xAF086431 = ~z~They felt that one!
+
+0xAFEBC737 = ~z~Come on, Morgan!
+
+0xB08151CF = ~z~Damn... there's a whole lot more of them turning up!
+
+0xB5B94382 = ~z~Push.
+
+0xB5F1409D = ~z~Guess I'm following you, Arthur!
+
+0xB7AEA932 = ~z~Alright... good luck, gentleman.
+
+0xB15DB20F = ~z~We did it!
+
+0xB25A7F2E = ~z~Just certain, son.
+
+0xB33C80EE = ~z~Damn. Damn.
+
+0xB147E62D = ~z~More coming down the left side, fellers!
+
+0xB289EC4A = ~z~Okay.
+
+0xB678FCEE = ~z~~sl:1.4:0.8:1~Where is he?
+
+0xB3235E97 = ~z~It's like I said...
+
+0xB367286D = ~z~Oh, they'll be back...
+
+0xBB96CE77 = ~z~I see them.
+
+0xBDA828AC = ~z~Okay, I think we can move!
+
+0xBE294BB2 = ~z~Fine shooting, Arthur.
+
+0xBE400350 = ~z~Let's prepare the welcoming party.
+
+0xBEF8E865 = ~z~I need to get this thing working properly.
+
+0xBF00AF13 = ~z~I said you go with Hercule.
+
+0xBF9213A5 = ~t~In French: Hercule, Hercule, please...
+
+0xBFE8CF5B = ~z~For Christ's sake, how many men has Fussar got?
+
+0xBFFE1758 = ~z~Missed! Why the hell did we put Morgan on the cannon?
+
+0xC0E4FA1A = ~z~Now, we did what you asked.
+
+0xC3B45C93 = ~z~Got one sneaking up on the right there, don't let him get any closer!
+
+0xC8E166ED = ~z~Right side, near the fort!
+
+0xC9A7234E = ~z~~sl:0.1:1.2:1~We have to get going...
+
+0xC22D3D55 = ~z~And again, Morgan!
+
+0xC41D17D9 = ~z~I got him. Let's go!
+
+0xC50DE824 = ~z~What are you doing, Arthur? Get over here!
+
+0xC58BCCB6 = ~z~What now?
+
+0xC79D5571 = ~z~What was that? Stop dragging this out, they're almost done!
+
+0xC164B7C9 = ~z~So, what do you think?
+
+0xC353FD59 = ~z~Where the hell are you going, Morgan!
+
+0xC620E38B = ~z~Shoot them, the fellers on the beach!
+
+0xC640E491 = ~z~Keep pushing.
+
+0xC9161BA4 = ~z~I'll get you some more shot.
+
+0xC9522A43 = ~z~You ok, Arthur? Come on!
+
+0xC557720E = ~z~Another reload?
+
+0xC785877B = ~z~then I can help you escape before anyone has time...
+
+0xC8448493 = ~z~There's another boat coming in on the left!
+
+0xCA095DDE = ~z~Reloading!
+
+0xCA265E8C = ~z~I say we push forward because if we don't we are going to die here and now.
+
+0xCAB2CFB9 = ~z~Hercule, get that cannon into position. I'll get the ammunition.
+
+0xCC68B220 = ~z~Shoot someone, Morgan!
+
+0xCCC36910 = ~z~~sl:0.0:2.7~That is the problem. It doesn't matter how many we kill.~sl:~He will have the money to get more.
+
+0xD07BE296 = ~z~and he should be arriving on the dock anytime now.
+
+0xD093F895 = ~z~Okay, let's get to it.
+
+0xD0B3B5E8 = ~t~In French: quick, quick.
+
+0xD2D73CCD = ~z~We need to deal with them, they're closing in on us!
+
+0xD5CF3D8F = ~z~Left side, he's getting close, you see him?
+
+0xD9FC454D = ~z~There's more coming down the right side of the beach!
+
+0xD17F6DCA = ~z~I think we're clear on this side, but we still got more on the left!
+
+0xD26BB476 = ~t~In French: Take that, asshole.
+
+0xD52B7422 = ~z~Again? Will you please let me take over?
+
+0xD53B22E6 = ~z~But, if we can silence him...
+
+0xD82F5F39 = ~z~Arthur, stay with us.
+
+0xD99ECA83 = ~z~Come on, we need to do something about that boat.
+
+0xD929CF54 = ~z~Only one way to find out.
+
+0xD12008FE = ~z~You see that one on the left at the back? Can't get that bastard!
+
+0xD45554E1 = ~z~Get down there and give them a hand, Morgan!
+
+0xD7854983 = ~z~You go, Arthur.
+
+0xDB508247 = ~z~Back to the fort, come on!
+
+0xDDB9497D = ~t~In French: Sure... good luck.
+
+0xE0D1CEAA = ~z~Got it, good luck.
+
+0xE1A90C80 = ~z~Hercule...~n~~m~Sure.
+
+0xE1B5DA8A = ~z~Them bastards are almost at the fort, gun 'em down!
+
+0xE1C18521 = ~z~but, I found a boat for you...
+
+0xE44D8ED1 = ~z~~sl:0.0:3.0~Come on, Morgan! Land the shot...~sl:0.2~doesn't look like they can take much more.
+
+0xE54F51E7 = ~z~Watch out!
+
+0xE80C6D19 = ~z~You think that cannon will be enough?
+
+0xE82A145A = ~z~Damn, this is heavy.
+
+0xE96FED58 = ~z~Two of us must go and use the cannon.
+
+0xE538C2E1 = ~z~I see.
+
+0xE825E1A0 = ~z~We got more coming at us on the right!
+
+0xE4045D35 = ~z~Come on, Arthur, quick!
+
+0xEA32CEC9 = ~z~Quick.
+
+0xEA70D9AC = ~z~Okay, good luck.
+
+0xEAC22E7C = ~z~And me.
+
+0xEBC36591 = ~z~Good. Now go help down there on the beach.
+
+0xEE026EED = ~z~Quick, Arthur, we need to get back up there.
+
+0xEF7BF616 = ~z~They're getting real close! Come on!
+
+0xEF1545DF = ~z~Please do enlighten us, Arthur.
+
+0xEF39458E = ~z~You said you were getting us a goddamn boat, Hercule!
+
+0xF099CEF2 = ~z~You cover the left side.
+
+0xF8F0CAD9 = ~z~Wait, wait. I'll come too.
+
+0xF9B55664 = ~z~You go right too, hit them hard on that side.
+
+0xF9F88875 = ~z~We want to get the boat you promised us.
+
+0xF55B7F37 = ~z~There's no way a boat could leave right now.
+
+0xF835D05C = ~z~Where is Arthur?
+
+0xF864E8D4 = ~z~Just one more, take him out!
+
+0xF7211E61 = ~z~Right side, far back, take him out!
+
+0xF33813B0 = ~z~Sure.
+
+0xF95200B2 = ~z~Hercule, the cannon is ready!
+
+0xFA80EBB2 = ~z~Don't you run off on us, Morgan!
+
+0xFAF6EE5D = ~z~It's a big problem.
+
+0xFB7EFE33 = ~z~Hercule, you take the right.
+
+0xFD0AE131 = ~z~I am! What do you want me to do? We are trapped up here!
+
+0xFE09F5CE = ~z~Alright... good luck, gentleman.
+
+0xFEB253AB = ~z~Go on! One more should send them down!
+
+0xFF002DFE = ~z~He's using us!
+
+0xFFAEE712 = ~z~Well, Arthur? We don't have a lot of time here.
+

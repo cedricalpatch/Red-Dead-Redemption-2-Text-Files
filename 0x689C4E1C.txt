@@ -1,0 +1,120 @@
+0x03126B00 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~ and return them to the drop off
+
+0x06DC0B7E = Steal and deliver the wagon
+
+0x0B58A42E = Exit the wagon
+
+0x0D964F9B = Deliver the wagon ~1~
+
+0x0E7E4596 = Your Posse delivered a wagon
+
+0x1DC205BE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x3B4F5A40 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x4A5E81A0 = The wagons were returned
+
+0x4EFCC005 = The wagons were stolen
+
+0x5F4D9940 = ~1~/~2~ wagons were returned
+
+0x5FE69082 = A wagon has been delivered
+
+0x6D729F8C = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagons~s~ on the way ~1~
+
+0x6E77BD79 = You delivered a wagon
+
+0x12E04AA4 = A wagon has been returned
+
+0x50A6E25E = Help protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ on the way ~1~
+
+0x61F7A3B9 = A rival Posse delivered the wagons
+
+0x67DCBA45 = The wagons were returned
+
+0x88DC6F88 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x94FA8330 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~
+
+0x362CBE20 = ~1~ triggered a rival mission against ~2~. Steal and deliver the wagon ~3b~ to gain the full reward.
+
+0x431C2941 = A thief has escaped with a wagon
+
+0x801E531B = A ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ was destroyed
+
+0x921B80A8 = Reclaim the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~ and return it to the drop off
+
+0x1780A333 = You triggered a rival mission against ~1~. Steal and deliver the wagons ~2b~ to gain the full reward.
+
+0x7156D45A = ~COLOR_ENEMY~Rival players~s~ can now steal the wagon
+
+0x9810BF00 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x13791BE7 = The wagon was returned
+
+0x76641FCC = You triggered a rival mission against ~1~. Steal and deliver the wagon ~2b~ to gain the full reward.
+
+0x935017E9 = Stop the thieves from stealing the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x38133629 = The wagons were delivered
+
+0x55092872 = The wagon was returned
+
+0x66817323 = Return the wagon ~1~
+
+0x76463998 = The wagon was stolen
+
+0xA1B7C7E1 = ~1~ returned a wagon
+
+0xA57A75D4 = Retrieve the wagons ~1b~ before the thieves escape within the time limit to earn the full reward.
+
+0xA748FEF6 = The wagon was destroyed
+
+0xAAFE4922 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xB1B8CE2D = ~1~/~2~ wagons were stolen
+
+0xC77CC598 = ~1~ delivered a wagon
+
+0xC213DE14 = Steal and deliver the wagons
+
+0xC3657D74 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~
+
+0xCCACD035 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~wagons~s~
+
+0xCDE6A7CC = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xD8B31915 = A thief has almost escaped with a wagon ~1b~. Catch up to them before they get away.
+
+0xD534D979 = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xDF8C539E = Your Posse returned a wagon
+
+0xE07745EE = The wagon thieves escaped
+
+0xE55E74C7 = You returned a wagon
+
+0xE57F8763 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xE73F7F28 = The wagon was stolen
+
+0xE78C2DBF = A rival Posse delivered the wagon
+
+0xE46046B1 = Retrieve the wagon ~1b~ before the thieves escape within the time limit to earn the full reward.
+
+0xEA704CCB = ~COLOR_ENEMY~~1~~s~ is attempting to steal the wagon
+
+0xEE41510D = Retrieve the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagons~s~
+
+0xEF20A6E9 = A thief has almost escaped with a wagon ~1~. Catch up to them before they get away.
+
+0xEFA07003 = ~1~ triggered a rival mission against ~2~. Steal and deliver the wagons ~3b~ to gain the full reward.
+
+0xF5AF7C3A = The wagons were destroyed
+
+0xFAEEC0CA = ~COLOR_ENEMY~Rival players~s~ can now steal the wagons
+
+0xFB3BBFDD = You destroyed a ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xFBDD6309 = ~COLOR_ENEMY~~1~~s~ is attempting to steal a wagon
+

@@ -1,0 +1,14 @@
+0x090AD306 = ~z~I've seen you in action. From that range, you'd miss.
+
+0x9F6CB65D = ~z~Oh... you know... cowards.
+
+0x50431807 = ~z~
+
+0xADD25328 = ~z~What you mean, "folk like me"?
+
+0xC40F7FA2 = ~z~
+
+0xDED97EA4 = ~z~You wanna get shot too, Morgan?
+
+0xFB28EDD4 = ~z~I shot a lot of folk like you.
+

@@ -1,0 +1,132 @@
+0x013E1D3A = ~z~I can imagine.
+
+0x02B5CE0F = ~z~Abe. how are you son? And how are the Geddes'?
+
+0x02D13C90 = ~z~So... you're back, Jim.
+
+0x0766AF5D = ~z~Seeing old friends. I hope you're well Abe.
+
+0x0870C7C3 = ~z~passed away some years back and...
+
+0x0DA6E3F1 = ~z~Ain't this a familiar face... Jim Milton hisself.
+
+0x0F8CB9D7 = ~z~If only human beings were different...
+
+0x0F39672E = ~z~Alright, I will.
+
+0x2A226EC6 = ~z~women trouble...
+
+0x5FBBDA34 = ~z~life would make some kind of sense.
+
+0x6C531D6A = ~z~what have I done to deserve this?
+
+0x7A6EB9A1 = ~z~I ain't even going to ask where you been.
+
+0x7C4985FA = ~z~Yeah, I'm back.
+
+0x7D08338B = ~z~Look who's riding in. Mr Milton, its good to see you, sir.
+
+0x8A808B7A = ~z~You were not working...
+
+0x14A143C4 = ~z~That's why we ended up here...
+
+0x19B3EA49 = ~z~sometimes they can be a little bit of a distraction.
+
+0x20E18242 = ~z~I don't think we can afford you, son.
+
+0x26B706EA = ~z~Alright, Mr. Milton. We started to think you weren't coming back over here.
+
+0x27BCDCDE = ~z~No, not exactly, I don't.
+
+0x47EE8657 = ~z~I guessed you was dead.
+
+0x52F03348 = ~z~Well, don't worry about it too long...
+
+0x71C0D9FB = ~z~I was working.
+
+0x72E99CC3 = ~z~I keep getting caught up in his old business.
+
+0x82BA29A0 = ~z~Get back to work when you can.
+
+0x82FE7C76 = ~z~I'm invincible...
+
+0x318E239B = ~z~Jim Milton... it's damn good to see you mister.
+
+0x367F7A63 = ~z~Out... you know.
+
+0x474F4F1D = ~z~You too, Abe.
+
+0x565EE3AA = ~z~Ah, I'm so sorry, sir.
+
+0x660EE6DA = ~z~Excuse me... I ought to write that down.
+
+0x910C66DC = ~z~My Lord...
+
+0x1105C29B = ~z~Look here, Jim Milton. What's a big time rancher doing back over here?
+
+0x1328E6D1 = ~z~Now when you going to get me to come work on that ranch of yours?
+
+0x1423DF35 = ~z~We were worried.
+
+0x9096AE94 = ~z~Oh hey Jim, you're back
+
+0x92525E1F = ~z~Hey. You're back. Jim Milton's back, everyone.
+
+0x7081052E = ~z~No problem.
+
+0xA080FA7C = ~z~Why hell, it is you. Mrs. Agatha's going to be real pleased to see you, Jim. Lancelot too.
+
+0xA28FE5A9 = ~z~Nice to see you too.
+
+0xA8411923 = ~z~We're getting on fine too. Abi... uh... Agatha and... and... the boy sent their best.
+
+0xABAE8E4C = ~z~I'm sure.
+
+0xB62CE2D2 = ~z~Me?
+
+0xB90BBAB8 = ~z~Oh we're all just fine. Same old business on Pronghorn. How you getting on over there?
+
+0xBB971B59 = ~z~So, you're back?
+
+0xBD231ACF = ~z~Nice to see you here, Mr. Milton.
+
+0xBF3518ED = ~z~Oh, the past is a bastard.
+
+0xC7B15425 = ~z~Best not.
+
+0xC65F2741 = ~z~I've spent my whole life running from it.
+
+0xC9764C66 = ~z~I'll be... Jim Milton. Look who's back, everybody.
+
+0xCDD5BFD6 = ~z~Yes, sir.
+
+0xCDFBBC80 = ~z~I know you have.
+
+0xD5CB4FC1 = ~z~Just taking care of some old business...
+
+0xD7C5D014 = ~z~We had enough of that business with Mr. Able and the Laramies.
+
+0xE72F7289 = ~z~on behalf of a dead friend of mine.
+
+0xE878DE5B = ~z~Alright.
+
+0xE820872F = ~z~I have some old business concerns and...
+
+0xEE941DA8 = ~z~Well, it's good to have you back on Pronghorn anyways.
+
+0xF5A80BE0 = ~z~I am. Long as you ain't trying to buy this place.
+
+0xF6C77AF8 = ~z~just taking care of some old business a little.
+
+0xF7F08A63 = ~z~you know...
+
+0xF63A2356 = ~z~A dear friend of mine...
+
+0xFC53B927 = ~z~Good to be here.
+
+0xFD0F0783 = ~z~Where was you?
+
+0xFD6AC391 = ~z~Send my best to them besides.
+
+0xFD2870CC = ~z~you goddamn imbecile.
+

@@ -1,0 +1,42 @@
+0x0209D9E7 = ~z~Night, Jack.
+
+0x0ED9F387 = ~z~Uh, bible...
+
+0x4ECC3ADB = ~z~Surely he haths, he hath borne our griefs, and carried our sorrows:
+
+0x5BF4552B = ~z~and the Lord hath laid on him the iniquity of us all."
+
+0x6A40F1C4 = ~z~But he was wounded for our transgressions, he was bruised for our iniquities:
+
+0x8ECE737A = ~z~Here's a beautiful passage.
+
+0x72ED7D8B = ~z~He's turning into quite a boy.
+
+0x75A38889 = ~z~All we, like sheep, have gone astray; we have turned every one to his own way;
+
+0x78FC0FB6 = ~z~That is beautiful... but it's not the same... the reverend spoke about eagles.
+
+0x85B0A7CF = ~z~Good night, son.
+
+0x150CC75D = ~z~yet we did esteem him stricken, smitten of God, and afflicted.
+
+0x326F3AB1 = ~z~~sl:0.8~Nor do I... but it was so pretty... it was in Isaiah, I think.
+
+0x380AC5E8 = ~z~Will you read me that passage that Reverend Swanson used to read? You remember that?
+
+0x834E245A = ~z~Well, I don't know much about eagles. Good night, Momma.
+
+0x24359E3E = ~z~Okay... uh...
+
+0x40969E70 = ~z~the chastisement of our peace was upon him; and with his stripes we are healed.
+
+0x235763F2 = ~z~"He is despised and rejected of men; a man of sorrows, and acquainted with grief:
+
+0xB28DBAEC = ~z~Night, Momma.
+
+0xDB178C03 = ~z~What you reading?
+
+0xE9D3297A = ~z~Well... not-not really, Momma.
+
+0xF1A18087 = ~z~and we hid as it were our faces from him; he was despised, and we esteemed him not.
+

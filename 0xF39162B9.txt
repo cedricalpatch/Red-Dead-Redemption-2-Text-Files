@@ -1,0 +1,30 @@
+0x0CA230C6 = ~z~Goddamn O'Driscolls.
+
+0x5C5BBD7E = ~z~~sl:0.0:2.3~Thank you. I don't wanna imagine what state~sl:~I'd be in now if you hadn't showed up.
+
+0x6B198823 = ~z~We got one down!
+
+0x17F57A2D = ~z~Nearly there.
+
+0x76B27181 = ~z~Listen... I need to get to Downes Ranch. You know it?
+
+0x79EFA5CF = ~z~They're picking us off...
+
+0x84ED065E = ~z~You bastards!
+
+0x776B6E98 = ~z~Here, take this. I know it's not much.
+
+0x8225B13A = ~z~Ah, shit. More of 'em!
+
+0x22685C52 = ~z~What the hell are they after?
+
+0x746415B7 = ~z~Christ, I don't believe this!
+
+0x41627624 = ~z~~sl:0.0:1.8~Sons of bitches killed my horse.~sl:0.3~Nice to see them get what was coming.
+
+0xA960CF45 = ~z~What I do, anyway? Huh?
+
+0xB3A2E3C9 = ~z~Real tough, jumping a feller on his own.
+
+0xF67507D6 = ~z~~sl:0.0:2.1~Shoot my horse and bushwhack me?~sl:0.4~Bunch of damn cowards.
+

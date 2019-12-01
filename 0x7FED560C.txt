@@ -1,0 +1,382 @@
+0x0131B93F = ~z~~sl:0.0:2.4~I'm grateful for you bringing these folks, old man.~sl:0.1~But you better shut up.
+
+0x018BA4C3 = ~z~But next time under better circumstances I trust.
+
+0x01A79EC9 = ~z~They're gonna hang young Tom Davies...
+
+0x0299B734 = ~z~More ahead. Get off the road.
+
+0x0424B8FF = ~z~Stay with us.
+
+0x04E5D46D = ~z~~sl:0.0:3.8~We came to save your lives, not take all these lives.~sl:0.2~Can't good be done without all this bloodshed?
+
+0x0588B92F = ~z~~sl:0.0:2.2~Sheriff Freeman, Old Man Jones, get in.~sl:0.1~And there's room for one more.
+
+0x0719E223 = ~z~Marshal Davies, all of you...
+
+0x08872169 = ~z~Untie the sheriff so we can get out of here.
+
+0x09AA2292 = ~z~~sl:0.0:2.8~It's too late. He's gone.~sl:1.7~Dammit.
+
+0x0A34A0CC = ~z~Do it.
+
+0x0B670EA9 = ~z~I can try.
+
+0x0D12EE11 = ~z~Me?
+
+0x0D178F4C = ~z~There, they found us.
+
+0x0EED6352 = ~z~They look saved. So, saved they must be.
+
+0x0EF36398 = ~z~
+
+0x0FDBFDA1 = ~z~That's a relief.
+
+0x1D6BBFB3 = ~z~We have to save them, oh dear...
+
+0x1DD05B83 = ~z~Get them!
+
+0x1E8C6D6D = ~z~~sl:3.6:1.0~Thank you.~sl:1.2~Now, get the rest of those bastards.
+
+0x1EF635C7 = ~z~Okay.
+
+0x1F3512B1 = ~z~Bastards, kill them!
+
+0x1FBBE07B = ~z~That's the place up ahead.
+
+0x2BCE9D14 = ~z~How 'bout that? We might have saved them.
+
+0x2BEBEAFC = ~z~All of you.
+
+0x2CA287E0 = ~z~~sl:0.0:3.7~But if we can't, well, ~rp~either we'll join him, or...~sl:1.0~we will see it right.
+
+0x2F95FF0E = ~z~Shoot those animals!
+
+0x3A58234B = ~z~~sl:0.0:3.5~But he might already be done for when we arrive.~sl:0.4~~rp~Sure, we'll save him if we can.
+
+0x3B2B4135 = ~z~~sl:1.8:0.9~Thank you.~sl:0.9~Now, get the rest of those bastards.
+
+0x3C1DE7F4 = ~z~I see what I see and that is all.
+
+0x3DBC0747 = ~z~You too, Jones. There's room for one more.
+
+0x3E319C45 = ~z~Fire on them!
+
+0x4FCF738D = ~z~I was thinking we should leave before Montez's ghost...
+
+0x5A37403D = ~z~Come on, we have to go. There's a wagon over here.
+
+0x5D2C0010 = ~z~
+
+0x6E086EEA = ~z~Okay. The train's passed, let's go!
+
+0x6EF13D89 = ~z~Do it!
+
+0x7A7D4ADE = ~z~It's too far out in front. We're not going to make it.
+
+0x7B3491E9 = ~z~Tell order it don't exist no more in this chaos of a world.
+
+0x7B36786B = ~z~Alright. It's Tumbleweed. I said that.
+
+0x7CCBD93E = ~z~Tom...
+
+0x7D797A46 = ~z~~sl:0.0:1.7~That's what we want 'em to think.~sl:0.4~When they give chase, you will shoot them. All of you.
+
+0x7DAD96D7 = ~z~your friend the Marshal.
+
+0x7EB289CA = ~z~Listen here.
+
+0x7F582E4C = ~z~
+
+0x7FC36DA9 = ~z~Get... get this rope off.
+
+0x8B6A3254 = ~z~They got him in Tumbleweed...
+
+0x8D3D48B1 = ~z~He's hanging on by a thread.
+
+0x8D89CAAF = ~z~
+
+0x8E3468E9 = ~z~Get.
+
+0x9AD2B021 = ~z~~sl:0.0:2.0~Let's make these animals pay.~sl:0.4~Then I'll drag their bodies through Tumbleweed.
+
+0x9BD058A2 = ~z~Then let's not stay long.
+
+0x9D3AE8AC = ~z~The marshal's life is hanging in the balance, do something!
+
+0x9EB958F2 = ~z~gonna teach goodness a lesson.
+
+0x9FC77A26 = ~z~~sl:0.0:4.2~Marshal Davies crossed a line when he killed Alfredo there...~sl:0.5~~rp~killed him without due process.
+
+0x15B15C18 = ~z~Hang in there, Tom.
+
+0x21BD976A = ~z~Ain't that fine?
+
+0x35E33516 = ~z~And now the executioner is himself condemned.
+
+0x39F1495A = ~z~~sl:0.0:4.0~Here we are. ~rp~Get ready for a fight, folks. They're out for blood.~sl:0.3~~rp~The marshal's... and ours too, I'm sure.
+
+0x40B0F8A8 = ~z~Come on, let's go.
+
+0x68BD731B = ~z~We're riding to a place I know by the river.
+
+0x70EAA78D = ~z~
+
+0x74CE8B27 = ~z~There's a word for fellers like you.
+
+0x80D4B1E6 = ~z~~sl:0.0:2.9~Here we are. ~rp~Get ready for a fight, folks.~sl:~They're out for blood. ~rp~The marshal's... and ours too, I'm sure.
+
+0x81BCB1B0 = ~z~I don't know how long he's gonna last up there!
+
+0x89FB34F8 = ~z~I don't like running, Marshal. And I like hiding even less.
+
+0x90DE1177 = ~z~I can see alright, Marshal Davies. Just not always with my eyes.
+
+0x136F5DBA = ~z~~sl:0.0:2.3~You had a close call, Marshal Davies.~sl:0.2~Your bad deed's coming back at you.
+
+0x152DBD80 = ~z~but then you went and saved my neck.
+
+0x181BDEDF = ~z~~sl:0.0:3.4~When good folks break the rules... well, ~rp~they should know that~sl:~bad folks are just going to break 'em worse.
+
+0x343FBC70 = ~z~~sl:0.9~Now get this rope off my hands.
+
+0x364BD591 = ~z~Wait, the train's passed. We can keep on going.
+
+0x399C7311 = ~z~Look out! Another bunch.
+
+0x433C12DE = ~z~So today...
+
+0x464EBC02 = ~z~
+
+0x465E0C98 = ~z~More of them!
+
+0x483E1054 = ~z~Here come some more!
+
+0x484ABEA6 = ~z~We're going to let those animals chase us out of Tumbleweed?
+
+0x510AC1F7 = ~z~Hold them back!
+
+0x557E590D = ~z~~sl:0.0:1.6~That's what we want them to think.~sl:0.4~When they give chase, you shoot them. All of you.
+
+0x632ED2C3 = ~z~The worst kind of killers.
+
+0x634A45E8 = ~z~Are we going to let these animals chase us out of Tumbleweed?
+
+0x691A01D0 = ~z~
+
+0x744B56B9 = ~z~You gonna cut me loose or what?
+
+0x769A257C = ~z~~sl:0.0:1.4~The sheriff too?~sl:0.8~Sounds like we're here in time, at least. Come on.
+
+0x774E4286 = ~z~Never.
+
+0x912B43E0 = ~z~Is that the word?
+
+0x944F6E56 = ~z~
+
+0x2533BA20 = ~z~~sl:0.0:4.3~If it's hogwash, hogwash is what lead these folks here,~sl:~and got your neck outta that noose.
+
+0x2834B963 = ~z~Drive!
+
+0x3373BAD6 = ~z~thank you.
+
+0x7354F9D1 = ~z~I wasn't sure about you, Mr. Jones...
+
+0x7361A15B = ~z~~sl:0.0:3.0~When good folks break the rules, well, ~rp~they should know that~sl:~bad folks are just going to break 'em worse.
+
+0x7666B0A4 = ~z~Untie the sheriff, there.
+
+0x8299CAEB = ~z~
+
+0x8941CD13 = ~z~~sl:0.0:3.4~But he might already be done for when we arrive.~sl:0.3~~rp~Sure, we'll save him if we can.
+
+0x9212DEBD = ~z~~sl:0.0:3.8~No judge or jury. Just an executioner.~sl:0.4:3.6~~rp~He crossed a line and now Alfredo's men,~sl:~they're crossing it too.
+
+0x9488B576 = ~z~These two men are killers.
+
+0x26727B8C = ~z~~sl:0.0:3.4~No judge or jury, just an executioner.~sl:0.6:3.4~~rp~He crossed a line, and now Alfredo's men...~sl:0.5~they're crossing it too.
+
+0x50762CBB = ~z~Sheriff Freeman, when you've got that rope off, jump in.
+
+0x58195F97 = ~z~
+
+0x58753D50 = ~z~Marshal Davies...
+
+0x71227EE3 = ~z~~sl:0.0:3.7~I wasn't looking forward to getting hung on my own gallows,~sl:0.3~so... thanks.
+
+0x79727F4A = ~z~The kind that hide behind the law.
+
+0x81511D73 = ~z~Left, look out!
+
+0x86752E74 = ~z~Come, Marshal...
+
+0x178565E6 = ~z~~sl:0.0:2.3~We'll take out anyone who follows us.~sl:0.2~And wait out the rest of them.
+
+0x230767B0 = ~z~~sl:0.0:0.6:1~Come on!
+
+0x831375E2 = ~z~~sl:0.0:1.6~If you aren't going to shoot, old man,~sl:~you can at least look out for us.
+
+0x831620FD = ~z~Over on the left!
+
+0x870763F2 = ~z~Pull up, then. We'll make a stand.
+
+0x7838834A = ~z~Mangey dogs.
+
+0x26995995 = ~z~and Sheriff Freeman...
+
+0x67737071 = ~z~Wise?
+
+0x68348741 = ~z~Move aside.
+
+0xA0170ADD = ~z~~sl:0.0:1.8~You're free to jump off this wagon,~sl:~you don't like where it's going, Mr. Jones.
+
+0xA020C0A9 = ~z~Up ahead! They're waiting for us.
+
+0xA08DF1CF = ~z~Help's coming!
+
+0xA0A2E2CF = ~z~Been quite enough excitement for a clapped-out old fool...
+
+0xA3BF5A57 = ~z~Okay, drive!
+
+0xA3DAF751 = ~z~
+
+0xA5B09F4A = ~z~I just like watching what other folks is, that's all.
+
+0xA9F78584 = ~z~Right side, you see?
+
+0xA11D0B88 = ~z~~sl:0.0:3.3~I only hope this bunch waits a while longer than Davies did~sl:~to carry out the deed.
+
+0xA126B208 = ~z~It ain't the time for that hogwash.
+
+0xA460A6AC = ~z~They won't follow us much further. Their hearts ain't in it.
+
+0xA59017A4 = ~z~Or they're gonna lure you in there, and lynch all of you.
+
+0xA5163977 = ~z~Okay, now cut him down.
+
+0xAB94055A = ~z~He's turning purple!
+
+0xABA33A0E = ~z~Get on your horses, already.
+
+0xAC8F6C49 = ~z~Yes...
+
+0xB0932119 = ~z~He's dead!
+
+0xB0F7FD6F = ~z~Teach law a lesson.
+
+0xB3EAB459 = ~z~Guess you'll have to figure that out.
+
+0xB9DAA1E7 = ~z~He can't have long left.
+
+0xB83A533C = ~z~We don't got time for this, mount up.
+
+0xB98C87AD = ~z~Shoot the rope! Or... cut him down, oh dear...
+
+0xB670DC2C = ~z~We got you, partner. Hold on.
+
+0xB42347CF = ~z~Hey. Good work. Now untie me.
+
+0xB270866A = ~z~help me get home.
+
+0xB271805E = ~z~Montez's boys...
+
+0xBDA53391 = ~z~They're gonna hang 'em any moment.
+
+0xBE7CA0C6 = ~z~Untie me.
+
+0xBF142E8B = ~z~Help him.
+
+0xC5C38363 = ~z~You see that? A train. Can you get out in front of it?
+
+0xC7B86F3A = ~z~If I could do it, I'd kill him again.
+
+0xC9E4F691 = ~z~If you're serious about this, get on your horse.
+
+0xC14F15C4 = ~z~I don't like requiring help, but this time I did.
+
+0xC392F670 = ~z~Cut that rope.
+
+0xC51884AC = ~z~~sl:0.0:4.6~Alright folks. Anyone still coming, we'll deal with here.~sl:0.4~Or we'll get dealt with ourselves.
+
+0xCD0CCA7C = ~z~Help, here!
+
+0xCFC19A77 = ~z~Sheriff Freeman's up there too...
+
+0xD067B3F5 = ~z~I mean it, thank you.
+
+0xD1F75C35 = ~z~~sl:0.0:2.7~You gotta help! The whole town's overrun.~sl:~Bandits have the marshal... a-and the sheriff too.
+
+0xD6BF325B = ~z~You're good folks! Get them off the gallows there.
+
+0xD7E54B45 = ~z~Hang him for being your friend and...
+
+0xD21BB713 = ~z~They're backing off.
+
+0xD214DEB8 = ~z~~sl:0.0:2.3~But if we can't... well...~sl:0.3~~rp~either we'll join him, or we will see it right.
+
+0xD371F367 = ~z~and they're gonna lynch him.
+
+0xD971E396 = ~z~Get him down!
+
+0xD35095E7 = ~z~He's almost dead. Get him down, quick.
+
+0xD5644799 = ~z~We can't let it happen, come on.
+
+0xDB42D80E = ~z~Friends...
+
+0xDCBC0D64 = ~z~So you are a good feller, Mr. Jones?
+
+0xDD9D1924 = ~z~They still want you dead, of course... just not quite enough.
+
+0xDDA969F7 = ~z~~sl:0.0:3.2~Marshal Davies crossed a line when he killed Alfredo there...~sl:0.5~~rp~killed him without due process.
+
+0xDF3FF014 = ~z~Right side. Right side.
+
+0xE0AD870D = ~z~
+
+0xE1FA3EE8 = ~z~but the marshal's about to hang, he's the one we gotta save.
+
+0xE7F8FE23 = ~z~If we don't act now, he's done for.
+
+0xE30ED943 = ~z~Well, I ain't gonna make a habit of it.
+
+0xE671E7BB = ~z~Lord... look left! There!
+
+0xEA0B84CD = ~z~The rope!
+
+0xEA2FEFDA = ~z~doing good in a bad world.
+
+0xEBB4FB36 = ~z~I can't do nothing all tied up.
+
+0xEE057D93 = ~z~well past his best for one day.
+
+0xEE7030CC = ~z~decides to pay us any further visits.
+
+0xEEEF9439 = ~z~You're in the damn way.
+
+0xEF49003E = ~z~I'll see you again, I hope.
+
+0xF027CF95 = ~z~Just hold on, Tom. Hold on.
+
+0xF4C39B88 = ~z~Alright.
+
+0xF7B11D80 = ~z~Come on. We have to go, there's a wagon over here.
+
+0xF19C94D1 = ~z~Over there! To the right!
+
+0xF28E7842 = ~z~thank you.
+
+0xF97A92D8 = ~z~Keep them off us!
+
+0xF992864A = ~z~Thank you.
+
+0xFA0F8B42 = ~z~Untie the marshal.
+
+0xFB694ABE = ~z~No.
+
+0xFBF70451 = ~z~are going to get what's coming.
+
+0xFC9EAF97 = ~z~Get outta the way.
+
+0xFDC38063 = ~z~We can't let them hang. Can't, won't, never.
+

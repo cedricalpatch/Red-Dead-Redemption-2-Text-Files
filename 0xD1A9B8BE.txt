@@ -1,0 +1,10 @@
+0x0CCC8BE4 = ~z~~sl:0.0:2.3~If it'll shut you up, I'll try.~sl:~But fathering ain't nothing I know about.
+
+0x3AAC679F = ~z~You mean lie?
+
+0x4CB78BB9 = ~z~~sl:1.0:0.0~Shut up.
+
+0x27E5C212 = ~z~~sl:0.0:1.0~Here's a hint.~sl:~Act like you ain't a selfish, bloodthirsty moron.
+
+0x428BF762 = ~z~~sl:0.0:0.9~Listen. John.~sl:1.2:1.5~You and me is one thing but,~sl:~will you at least try to make an effort with the boy.
+

@@ -1,0 +1,24 @@
+0x4C5F43D1 = ~z~Ain't no souls.
+
+0x6EB0887F = ~z~I guess I plan on leaving with a hole shot in me.
+
+0x36B89884 = ~z~but this.
+
+0x39E1CB9C = ~z~But then again, well, maybe not.
+
+0x76DD0A1E = ~z~Hey Arthur.
+
+0x271FA618 = ~z~I think we'll be okay.
+
+0x1822CEB0 = ~z~~sl:0.0:3.8~We are all just creatures.~sl:0.5~Living, as it were, on a sea of magma.
+
+0x4629B766 = ~z~Ain't nothing...
+
+0x23533D91 = ~z~~sl:0.0:1.3~Well I have.~sl:0.1~A lot.
+
+0x69957E3D = ~z~All is temporary.
+
+0x1110990C = ~z~I ain't given it much thought.
+
+0xA9EE4AC9 = ~z~~sl:0.0:1.3~When the time comes,~sl:~how you think you'll act?
+

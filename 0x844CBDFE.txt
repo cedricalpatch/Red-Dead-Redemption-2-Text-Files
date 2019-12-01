@@ -1,0 +1,1024 @@
+0x0045C268 = ~z~Riverboat robbed! Read all about it!
+
+0x00904F3C = ~z~When you bust the place, they'll take you upstairs to pay you off...
+
+0x00D28464 = ~z~Yes, of course, sir.
+
+0x01008369 = ~z~Done?
+
+0x017878A9 = ~z~~sl:1.2:0.0~Hello, miladies.
+
+0x018FFCB6 = ~z~What are you doing back here?
+
+0x01A7DB67 = ~z~I cannot believe someone gave a greaser a job.
+
+0x04564AAC = ~z~Well give it back then.
+
+0x056A194F = ~z~Not to worry.
+
+0x05D368F1 = ~z~Something just touched my leg!
+
+0x06A112F0 = ~z~I'm gonna call.
+
+0x06DA84C5 = ~z~Get in there.
+
+0x070C061D = ~z~Hey, where are you wandering off to?
+
+0x074FE873 = ~z~I guess it's just you and me now, friend.
+
+0x075500EF = ~z~Don't worry, that has all been arranged. Your chips will be waiting for you.
+
+0x076A8A76 = ~z~a Reutlinger no less.
+
+0x0789D528 = ~z~Fold.
+
+0x07A57E49 = ~z~Quick as you can, sir?
+
+0x07A58949 = ~z~Good Lord!
+
+0x08984B35 = ~z~Why not?
+
+0x08B5FE78 = ~z~~sl:0.0:3.8:1~Not my preferred title, but yes... you should have.
+
+0x097109F0 = ~z~Go on, dear boy. Let's go spend some of that oil money!
+
+0x0979522F = ~z~Will you hurry up? They'll be leaving dock soon.
+
+0x0A2B4B20 = ~z~Here goes nothing.
+
+0x0A3CC9F3 = ~z~and learned himself not a lick of manners or gentlemanly deportment.
+
+0x0A5A2FFB = ~z~Well...
+
+0x0A31DFBF = ~z~Thank you, George.
+
+0x0A318361 = ~z~Come on, this way.
+
+0x0AC00E3E = ~z~I hope you had fun, sir.
+
+0x0BA432C3 = ~z~How do you suggest?
+
+0x0CDE0106 = ~z~~sl:0.1~The view in here is looking pretty good.
+
+0x0CE447AE = ~z~Come on, Arthur...
+
+0x0D0B447B = ~z~This is simple stuff.
+
+0x0D371BCE = ~z~Well, I heard...
+
+0x0E2FE1E4 = ~z~What are you doing? Give me strength.
+
+0x0E9DEB57 = ~z~All the while, Herr Strauss will be signalling you in your line of sight.
+
+0x0EE93824 = ~z~You're not fooling anyone with this dillydallying, you know.
+
+0x0F0320C5 = ~z~Gentlemen... are you new?
+
+0x0FFC1EC7 = ~z~Just give me one second, sir.
+
+0x1A8B7B09 = ~z~Hope you have a successful evening, gentlemen.
+
+0x1A8DE301 = ~z~There he is, shoot that man!
+
+0x1A814C1D = ~z~Let's go meet the others.
+
+0x1AE9EC9D = ~z~I'm all in.
+
+0x1B75622F = ~z~no one realizes you're there to rob the place.
+
+0x1C74DF3B = ~z~Guards! Guards! We're being robbed!
+
+0x1C96FAB9 = ~z~apparently it's worth a bunch, a...
+
+0x1C7027DE = ~z~Are you coming?
+
+0x1E9DB766 = ~z~I'm sorry my friend, I thought you was a player.
+
+0x1F81D33E = ~z~Quick, let's get the money and go.
+
+0x1F23733B = ~z~Now...
+
+0x1F220043 = ~z~Nice watch.
+
+0x2A0CD9C7 = ~z~I'll call.
+
+0x2B80CF06 = ~z~No, no, it's too late to back out now.
+
+0x2D6F20F2 = ~z~No, I'm folding.
+
+0x2E1E4EEF = ~t~In Spanish: Motherfucker!
+
+0x2E3E1345 = ~z~All in.
+
+0x2EFCD48F = ~z~Sorry I'm late I had some, uh...
+
+0x2F111826 = ~z~shall we go and have a look?
+
+0x3A14F591 = ~z~or... you got something else to play with?
+
+0x3A556E1C = ~z~I ain't too sure. This is what tends to happen when you leave Trelawny in charge of planning.
+
+0x3B6BD581 = ~z~I'm afraid we require all patrons to hand over their guns.
+
+0x3B8EF9DC = ~z~Good... sure. Perhaps you could escort us up to the office?
+
+0x3BAEEA10 = ~z~Where are they all coming from?
+
+0x3C72C08E = ~z~Sorry to do this to you, but I have no choice. All in.
+
+0x3C942254 = ~z~Hey... what happened to the plan?
+
+0x3D46BAF3 = ~z~We'll see about that.
+
+0x3D191E4A = ~z~Keeping a gentleman waiting... I don't know.
+
+0x3E1C500C = ~z~Nothing less dignified than a man afraid to lose a little money.
+
+0x3E38E1F0 = ~z~Not if you want to fit in so well...
+
+0x3E39A6A7 = ~z~Ah, there you are, dear boy.
+
+0x4A1D4932 = ~z~Well played, sir.
+
+0x4AA7ED66 = ~z~I've got my own little law giver right here.
+
+0x4AC17CCC = ~z~Nice. Now, let's get outta here, come on.
+
+0x4D6B7B3C = ~z~Come on, gentlemen, let's make this interesting.
+
+0x4DC0317E = ~z~Checking.
+
+0x4DCD4281 = ~z~Call.
+
+0x4DF25DE3 = ~z~a Reutlinger or something?
+
+0x4E882B8E = ~z~Arthur Callahan.
+
+0x4ED3C6D3 = ~z~Come on, let's get this going.
+
+0x5A4E5016 = ~z~I don't know, this ain't my show...
+
+0x5A990D48 = ~z~Next, we'll be hiring negroes.
+
+0x5BD19D1D = ~z~Well you can't play at the tables on a Lannahechee River Boat looking like this.
+
+0x5C090BE5 = ~z~I hope you're a player.
+
+0x5D67738D = ~z~Take his gun, Arthur.
+
+0x5D694925 = ~z~Okay.
+
+0x5E353FF2 = ~z~Indeed.
+
+0x5E57403A = ~z~He won't. But the dealer has recently become a very good friend of mine.
+
+0x5F6FB328 = ~z~That was right next to me!
+
+0x5F49BA53 = ~z~Maybe that's not you...
+
+0x5F619754 = ~z~A bitter and jealous people...
+
+0x6A187EA9 = ~z~Get in there!
+
+0x6A312280 = ~z~Herr Strauss has scoped the whole thing out, it's quite ingenious actually.
+
+0x6B3B9947 = ~z~I would stick to oil, Mr. Callahan. I don't think you have a future on the stage.
+
+0x6B5FCDCE = ~z~What about the alligators?
+
+0x6BD8D122 = ~z~And... how exactly are we getting outta here?
+
+0x6C3DEDF6 = ~z~This is probably a bad idea... but I'll raise you.
+
+0x6C4ACCDE = ~z~Oh my god!
+
+0x6C63AC9A = ~z~Been too many cowards at these tables recently.
+
+0x6C6191D4 = ~z~Pair of cowgirls.
+
+0x6C686054 = ~z~You are an odd fish, Arthur Morgan.
+
+0x6D37F5E9 = ~z~and silly me, I clean forgot to bring my gondola.
+
+0x6DCD342B = ~z~You can see the aristocrat in his profile.
+
+0x6DEB0731 = ~z~What you talking about?
+
+0x6E6BD6D2 = ~z~My God, I am in a terrible spot here!
+
+0x6E51D6A0 = ~z~Trelawny, this is not what we discussed!
+
+0x6E267699 = ~z~This is going to be a long game.
+
+0x6F6CCC41 = ~z~Watch your heads!
+
+0x6FA2ED98 = ~z~You seem unsure?
+
+0x7A94CABA = ~z~This way, just follow me.
+
+0x7ABB3AFD = ~z~What are you playing at? Let's go.
+
+0x7AF3F168 = ~z~I'm an oil man, for my sins.
+
+0x7B00DB1C = ~z~Come on, let's go.
+
+0x7B2A19F3 = ~z~Please cash these out for me.
+
+0x7C27A7A5 = ~z~Come on, wait, this isn't a lot to ask.
+
+0x7DFB317A = ~z~Will you try to act like a member of the human race?
+
+0x7E6D43B5 = ~z~It's just some grooming, Arthur. Be grateful I'm not making you bathe as well.
+
+0x7ECA77B7 = ~z~Now, where can I get a cocktail?
+
+0x7FCC8DEF = ~z~Robbing a heavily armed river boat without a gun...
+
+0x7FFB015C = ~z~Shit... shit!
+
+0x8ABA6E05 = ~z~Make this gentleman look like the duke he really is.
+
+0x8BC1B2FC = ~z~We're swimming?
+
+0x8BF19157 = ~z~Thanks. They'll give anyone a job these days...
+
+0x8C69EF2B = ~z~I'm sure he can afford it.
+
+0x8C116DB7 = ~z~Where are you going?
+
+0x8C290EDF = ~z~~sl:0.3:0.0~This is a bit much, ain't it? The coach?
+
+0x8CD2938D = ~z~They're shooting right at me!
+
+0x8EBA6B8E = ~z~and everyone's going to think you're some new money from the oil fields, come to lay it on thick and drunk.
+
+0x8F26B2D4 = ~z~~sl:0.0:2.8~I was fortunate enough to tour a little operation of his...~sl:~up in New Hanover.
+
+0x9BB9CD54 = ~z~Check.
+
+0x9BFC455F = ~z~I like a confident man, Mr. Blythe.
+
+0x9C0F8638 = ~z~And you're going to bet very big and flamboyantly while you win,
+
+0x9C8C8472 = ~z~George, we'll collect these from you later.
+
+0x9D16D5F7 = ~z~If we're lucky.
+
+0x9E8F0598 = ~z~Uh oh.
+
+0x9E95B316 = ~z~Yes, you little beauty.
+
+0x9F71AEE0 = ~z~Come on, let's get you to the barber.
+
+0x10A7D644 = ~z~forgive my lack of discretion, but...
+
+0x11DE3999 = ~z~I guess you were right... only an idiot would give a greaser a gun.
+
+0x12BC68FF = ~z~Don't reach for that gun.
+
+0x14A42058 = ~z~Come on, dear boy.
+
+0x15AAA4C7 = ~z~Probably involve us dressing up as dancing girls and can-caning off the side.
+
+0x15C17197 = ~z~I fold.
+
+0x16BFAEE7 = ~z~Is that you done?
+
+0x19B8C892 = ~z~I have arranged some transportation for us.
+
+0x21FA68B9 = ~z~
+
+0x22D8AB2C = ~z~Well, we're going to need to get you smartened up a bit.
+
+0x23E6436D = ~z~real fine...
+
+0x27DD27D1 = ~z~~sl:1.2:0.0~We live in strange times.
+
+0x29AE54BA = ~z~Evening.
+
+0x31B577A5 = ~z~Hurry, Arthur. Someone will have heard that gun go off.
+
+0x34B2CE81 = ~z~Can't you think and walk at the same time?
+
+0x34B4AC2A = ~z~You know, I thought about getting into hosiery, but... I just look better in a suit.
+
+0x38B9FFE1 = ~z~Well, after the past couple of months, armed robbery don't seem such an innocent pastime.
+
+0x38E949E9 = ~z~Very good.
+
+0x41F91D2E = ~z~Your action, Mr. Callahan.
+
+0x43AA15D2 = ~z~Sorry I'm late, I had some...
+
+0x43D42B42 = ~z~Was that a gunshot?
+
+0x44C322C2 = ~z~Mr. Callahan.
+
+0x46FD7097 = ~z~Time to put your money where your mouth is, Mr. Callahan?
+
+0x47CD9102 = ~z~Bust...
+
+0x49A9BA98 = ~z~There they are.
+
+0x50A59CCC = ~z~So what business are you in, Mr. Callahan?
+
+0x50F1162B = ~z~For Christ's sake!
+
+0x52ABED00 = ~z~Okay, Mr. Callahan. I'm all in.
+
+0x53A41DD6 = ~z~Puff your chest out. Get outside yourself.
+
+0x56A7C185 = ~z~Clean it out, come on.
+
+0x56E5C3F2 = ~z~
+
+0x57D2D9E5 = ~z~What?
+
+0x57E0DAE2 = ~z~The tables are inside, sir.
+
+0x59B0817F = ~z~What is?
+
+0x62E271B6 = ~z~Well... here we are.
+
+0x63D43510 = ~z~Mierda!
+
+0x63F55DE8 = ~z~Check.
+
+0x64A5152F = ~z~Yes, yes. Believe me, I heard every word.
+
+0x64E4F409 = ~z~Well you can't play at the tables on a Lannahechee River Boat looking like this.
+
+0x65A896AB = ~z~Ah, there she is, come on.
+
+0x65ECA479 = ~z~Looks like there's a free seat over there if you're interested.
+
+0x65FEF71E = ~z~Going to try your luck tonight, sir?
+
+0x66D35875 = ~z~They're in the water! Gun them down!
+
+0x67D2C63A = ~z~Arthur Callahan.
+
+0x69B89A4C = ~z~Well, don't keep the poor man waiting.
+
+0x70D65104 = ~z~C'mon gentlemen, champagne is on dear old Arthur.
+
+0x73C85EE8 = ~z~This way, please.
+
+0x74C5EF38 = ~z~Call.
+
+0x74CC56AB = ~z~
+
+0x74DC6D44 = ~z~~sl:0.0:1.0:1~Another one.
+
+0x77E27E1F = ~z~I'm afraid we require all patrons to hand over their guns.
+
+0x79E7EDCC = ~z~What are we doing? We must move!
+
+0x80E09A6E = ~z~Make him look like a prince, sir.
+
+0x81D4EAF2 = ~z~~sl:0.0:1.6:1~Can't believe that asshole had another gun.
+
+0x83CB8356 = ~z~Sit your hillbilly ass down.
+
+0x83FA228A = ~z~Mr. Callahan?
+
+0x84E02501 = ~z~never a dull moment.
+
+0x85AEA6A2 = ~z~And, this watch...
+
+0x87D323B4 = ~z~I'll... raise.
+
+0x89FE0DFA = ~z~I'm without a gun, I'm afraid!
+
+0x91A5BD9F = ~z~Some time before 1900 would be nice.
+
+0x91D6062F = ~z~Raise... or is that too high for you?
+
+0x91DCD1D9 = ~z~but I have the good manners to keep my mouth shut.
+
+0x92A840C9 = ~z~we gotta go...
+
+0x93F0C1F2 = ~z~Indeed.
+
+0x96D4A2BF = ~z~Call, I guess.
+
+0x98ACF74C = ~z~On you get, then.
+
+0x99E2AA52 = ~z~We can't whinny up there on horses like a bunch of countrified yokels.
+
+0x103C9AA4 = ~z~I ain't got time to waste on fools and cowards.
+
+0x132FDB68 = ~z~Goddamn you...
+
+0x143D8092 = ~z~Personally, I wouldn't trust one with a gun, uh, but fear not...
+
+0x150C0F93 = ~z~Yes, here I am.
+
+0x159E83CF = ~z~It was the English's fault his grandfather had to emigrate.
+
+0x167B9213 = ~z~Are you coming or not, Arthur?
+
+0x173A2582 = ~z~Lead the way then, Arthur. Money before looks.
+
+0x177A28F0 = ~z~This is just a minor setback!
+
+0x207C764D = ~z~Come on, this is pocket change.
+
+0x215A20F6 = ~z~Damn it.
+
+0x235EBCBF = ~z~My good man... could you smarten up my dear hick friend, here?
+
+0x249CD7B4 = ~z~Desmond Blythe.
+
+0x250CC127 = ~z~After you, Arthur.
+
+0x251A6486 = ~z~I hope you aren't so hesitant in business, Mr. Callahan.
+
+0x267E5B6A = ~z~No. But we, you... all of us, will be done here soon.
+
+0x306B8B0B = ~z~Are we still doing that?
+
+0x321D8693 = ~z~~sl:1.3~I am one-hundred percent all in, Mr. Callahan.
+
+0x332E947A = ~z~There he is.
+
+0x335EFACD = ~z~Let's up the stakes a little.
+
+0x344C13B9 = ~z~Head on inside if you're looking to play.
+
+0x360CED79 = ~z~well, I heard there was some big boys on this boat.
+
+0x383F19AA = ~z~Why aren't you at the tables?
+
+0x398CDA63 = ~z~Must be a few thousand. Plus the watch.
+
+0x426A1AD2 = ~z~Check.
+
+0x455BBFAF = ~z~It's upstairs...
+
+0x457AA507 = ~z~Foreign-made, but you can't have everything.
+
+0x476A125C = ~z~~sl:0.0:1.3:1~What could possibly go wrong?
+
+0x487A9F48 = ~z~Good time, the tables await.
+
+0x556DC417 = ~z~Whenever you're ready, sir.
+
+0x580EBAC0 = ~z~There, very smart.
+
+0x608BBB14 = ~z~Do we have a plan here?
+
+0x614FB92D = ~z~~sl:0.0:5.1~Yeah, alright, alright. This ain't Hamlet. So, who's the mark?~sl:1.0~Is he alright, by the way, the driver?
+
+0x633BA6DC = ~z~Alright, we need to get this up to something respectable.
+
+0x670EC4AB = ~z~Oh yes, don't worry. George and I go way back.
+
+0x679BDD92 = ~z~all around.
+
+0x751FC441 = ~z~No, it's not good... not good at all!
+
+0x756A62D8 = ~z~What are you doing? It's just a suit, Arthur.
+
+0x765F38A3 = ~z~Watch Strauss, listen to the dealer, and this should be a very lucky night.
+
+0x802B9BD0 = ~z~Okay...
+
+0x847D4EF2 = ~z~Call that.
+
+0x849D03D1 = ~z~It's in the safe upstairs...
+
+0x890EA073 = ~z~tends to bring out the self-doubt in me.
+
+0x921F3E4F = ~z~~sl:0.0:2.7~I think you're going to like this watch, sir.~sl:~I saw it earlier and it really is a handsome piece.
+
+0x939ADC2C = ~z~where might I find this watch?
+
+0x977CB2C0 = ~z~Don't worry, sir, everyone is the author of his own good fortune...
+
+0x988DACDA = ~z~no offense.
+
+0x996BFADC = ~z~Ah, there you are dear boy.
+
+0x1316A704 = ~z~Shoot them! Come on, they're getting away!
+
+0x1417D996 = ~z~Oh, but what about the alligators?
+
+0x1548B8FF = ~z~I hope so.
+
+0x1695C77D = ~z~Are you in or not?
+
+0x1916A472 = ~z~And what money am I playing with?
+
+0x2055A7F5 = ~z~How much is there?
+
+0x2118D641 = ~z~Yeah, I'm gonna raise.
+
+0x2753C765 = ~z~~sl:0.7:1.4:1~That's wonderful...
+
+0x3615B18A = ~z~There he is!
+
+0x4888AC8B = ~z~Damnit...
+
+0x4914F582 = ~z~They're trying to swim for it!
+
+0x5138B0C4 = ~z~Right, I'll go find myself a change of clothes.
+
+0x5916C7A8 = ~z~I don't know why I'm doing this, but raise.
+
+0x6056CF2B = ~z~Good evening, gentlemen.
+
+0x6788E054 = ~z~~sl:0.0:3.4~Might I suggest the “Fine Three-Piece Town Suit”, sir?~sl:~Perfect for the occasion, I'd say.
+
+0x7143F885 = ~z~I'll check.
+
+0x7699B13B = ~z~Let's get outta here, Arthur!
+
+0x7937C804 = ~z~Not that way.
+
+0x8403B282 = ~z~or your wife is going to kill me.
+
+0x8735D670 = ~z~Yes, here I am.
+
+0x8918AD17 = ~z~Of course!
+
+0x9575DA41 = ~z~Where are you going now?
+
+0x9704B91D = ~z~Are you playing tonight, sir?
+
+0x9969F5A3 = ~z~You sound just like my wife.
+
+0x13607ED8 = ~z~Yeah, so far.
+
+0x29654D7F = ~z~Now play.
+
+0x35976ED6 = ~z~Shit! Let's hope no one heard that. Quick, clear the safe, let's get outta here.
+
+0x38182C81 = ~z~We are in something of a hurry here, Arthur.
+
+0x41062C4C = ~z~Not if you want to fit in so well...
+
+0x42288F62 = ~z~Looks like there's still an open seat, sir.
+
+0x57333A03 = ~z~I've never seen such luck... he must have sold his soul to the devil. Twice over.
+
+0x76934A7B = ~z~I am not built for this!
+
+0x81960DCF = ~z~~sl:0.0:1.8~I dont know, this ain't my show!~sl:~And silly me I clean forgot to bring my gondala.
+
+0x95208FBA = ~z~Ah, there you are, dear boy.
+
+0x150545EE = ~z~You're not playing, sir?
+
+0x159123E0 = ~z~~sl:0.7~The time of my life... you boys sure know how to put on a show!
+
+0x245780EB = ~z~Mr. Blythe wins with three queens.
+
+0x277828F3 = ~z~Not if they're gonna let him play big at the tables tonight.
+
+0x312670C7 = ~z~unfinished business at the bar.
+
+0x335910F2 = ~z~You can't?
+
+0x415530C7 = ~z~Now, don't be a sore loser, friend.
+
+0x433641F5 = ~z~~sl:0.0:4.3~Look at this... chips already stacked up waiting for me.~sl:0.7~I like this joint already.
+
+0x501527AE = ~z~Any hope of you turning into a gentleman is waning by the second.
+
+0x670313F9 = ~z~Hop on and let's go, my boy... while you still look presentable.
+
+0x732067A7 = ~z~I guess my luck held.
+
+0x733210DF = ~z~but don't lose too much money...
+
+0x760962A7 = ~z~Good evening gentlemen...
+
+0x900715F9 = ~z~~sl:0.0:1.5~Hard lines, Mr. Blythe.~sl:~Mr. Callahan wins with an ace-high diamond flush.
+
+0x1625029F = ~z~It's not like Mr. Blythe to leave here down.
+
+0x3000457F = ~z~You can't?
+
+0x3253520B = ~z~I'm a guard, don't shoot!
+
+0x6199826E = ~z~My god, man, it's like coaxing a dog to the spaying knife.
+
+0x6989990A = ~z~Come on, don't look so nervous.
+
+0x8592709E = ~z~Why?
+
+0x8657915B = ~z~Come on, let's get to the docks.
+
+0x11712442 = ~z~Meaning?
+
+0x12036606 = ~z~Yes, it's a Reutlinger alright.
+
+0x12533321 = ~z~Evening.
+
+0x12552379 = ~z~Of course, take your time.
+
+0x25114394 = ~z~Nice uniform, by the way.
+
+0x25344464 = ~z~Please tell me you got the money!
+
+0x26186814 = ~z~I see there's one last spare seat at the tables over there.
+
+0x51454624 = ~z~It sounded like one. C'mon!
+
+0x55833961 = ~z~Champagne...
+
+0x64830832 = ~z~Just what we need, a slowpoke.
+
+0x73920269 = ~z~A few thousand I think.
+
+0x77199866 = ~z~Well we're going to need to get you smartened up a bit.
+
+0x78101923 = ~z~Arthur, you remember this pair of boys we met in New York?
+
+0x78467808 = ~z~Well, that's me down to the felt.
+
+0x79126933 = ~z~You'd rather stay?
+
+0x85761657 = ~z~Come along dear boy, come along.
+
+0x91442613 = ~z~He'll make sure you got the right cards.
+
+0xA01FA2C2 = ~z~You got enough chips there to go a little higher?
+
+0xA2D58BC1 = ~z~That's me out.
+
+0xA4D84570 = ~z~Oh, you will.
+
+0xA6DA0D95 = ~z~Interesting...
+
+0xA8AD7BD5 = ~z~Now have a good time...
+
+0xA8CD444B = ~z~What are we supposed to do now, huh?
+
+0xA9A26ACF = ~z~Good luck tonight, gentlemen.
+
+0xA23ABDE9 = ~z~Anyway, we shouldn't give ourselves away, 'til we know we need to.
+
+0xA42B1298 = ~z~Pair of kings.
+
+0xA77AFD15 = ~z~There's something I don't like about the pair of you.
+
+0xA575E664 = ~z~come on.
+
+0xA2653BDC = ~z~No...
+
+0xA8612E0E = ~z~My suit!
+
+0xA9487CC3 = ~z~Yes, here I am.
+
+0xA19664AE = ~z~Are you playing?
+
+0xA72259E4 = ~z~
+
+0xA225159F = ~z~Shit... shit!
+
+0xA749945E = ~z~Call.
+
+0xA2268936 = ~z~Good god, are you men or mice?
+
+0xAA5C6FFD = ~z~Pretty good.
+
+0xAA4622A5 = ~z~You'll play cards, and win.
+
+0xABB5DAF6 = ~z~
+
+0xAC601CC7 = ~z~Are you coming? Let's go!
+
+0xAC616365 = ~z~Oh, how do you suggest?
+
+0xADE2DE66 = ~z~Thank you.
+
+0xAE4FF869 = ~z~I reckon we've only got a few minutes to get out of here.
+
+0xAE676B3A = ~z~Oh, don't be so jaded. We both know this is just the kind of innocent fun you thrive on.
+
+0xAEAC9263 = ~z~None taken.
+
+0xAEF4003A = ~z~Let's not waste any more time here. All in.
+
+0xAF58BD55 = ~z~
+
+0xAFA35658 = ~z~I ain't got time for no.
+
+0xAFDFA4A8 = ~z~Like I said, Mr. Callahan... cowards.
+
+0xB022A65B = ~z~No thank you.
+
+0xB0390AB0 = ~z~Now come on.
+
+0xB0815618 = ~z~~sl:1.0~I'll call.
+
+0xB09646A5 = ~z~Oh, there you are, my dear boy.
+
+0xB0CBD194 = ~z~Sure.
+
+0xB0DF5D02 = ~z~Here we go then.
+
+0xB0F13743 = ~z~You know what? Call.
+
+0xB3A47BCF = ~z~So you must know Leviticus Cornwall, big oil man like you?
+
+0xB4D425FB = ~z~Chop, chop. Let's get you out of that cattle-wear and into something decent.
+
+0xB4DD403C = ~z~To hell with it.
+
+0xB5B89990 = ~z~There's plenty I don't like about you...
+
+0xB7E0BB1A = ~z~Very good, sir.
+
+0xB14B3D07 = ~z~Well, very good, sir.
+
+0xB23D0994 = ~z~And up we go. Build me a nice big pile.
+
+0xB69CB77B = ~z~Very good, but not good enough.
+
+0xB296E0ED = ~z~Funny, I haven't heard of you.
+
+0xB945FA0E = ~z~Have a little decorum will you, please?
+
+0xB5947F36 = ~z~Raise.
+
+0xB83048FF = ~z~Good luck if you're playing tonight, sir.
+
+0xBA33E3BE = ~z~C'mon, c'mon, let's head aboard. Drinks are on Arthur... champagne...
+
+0xBAF41130 = ~z~how much did we get?
+
+0xBB3A79FF = ~z~~sl:1.0:1.6~Don't worry, Arthur...~sl:~we're all the authors of our own good fortune.
+
+0xBB172587 = ~z~My God, Arthur, where are you going?
+
+0xBC1C7AD9 = ~z~Follow me gentlemen.
+
+0xBC5B231C = ~z~These people are virtually idiots.
+
+0xBD59128C = ~z~If we all fared the same in life, now where would the fun be?
+
+0xBDC4F36B = ~z~We need to get outta here!
+
+0xBDDAF242 = ~z~You're a brash oil man with money to burn! Which reminds me... no shuffling and mumbling.
+
+0xBE57E228 = ~z~Yes, here I am.
+
+0xBEBF7522 = ~z~Ah, look, there's your friend.
+
+0xBF76049B = ~z~Call.
+
+0xBFCD9CDD = ~z~We are playing on the riverboat this evening.
+
+0xC0A10FAD = ~z~The suspense is killing me.
+
+0xC0E84D29 = ~z~Okay.
+
+0xC0F136EC = ~z~n-no offense.
+
+0xC3F7AD09 = ~z~We can go higher than that.
+
+0xC4CAA3E8 = ~z~Come on, we haven't got all night.
+
+0xC8C9200E = ~z~Okay, gentlemen, let's play.
+
+0xC8D8D5B8 = ~z~Arthur! Come on! We gotta go!
+
+0xC9E32231 = ~z~Sure, they might. But perhaps not, you will see.
+
+0xC9FC0B09 = ~z~Unless you can walk on water...
+
+0xC35F229B = ~z~I'm sure they'll bring a drink over to you. You don't want to miss your slot.
+
+0xC727DA80 = ~z~No sir, my friend is not a "no good cheat" and I beg you to take back the insinuation!
+
+0xC939EB12 = ~z~Welcome aboard, sir.
+
+0xC990E476 = ~z~
+
+0xC8740A5B = ~z~All garnish, no meat.
+
+0xC81793B9 = ~z~~sl:0.7:0.0~So... if Strauss is sitting behind him, how does he know what cards I got?
+
+0xC8266077 = ~z~Take a seat, sir.
+
+0xC8598005 = ~z~Hello, dear boy.
+
+0xCA0696CD = ~z~Come with me, sir.
+
+0xCA1C0C1D = ~z~Come on, let's get the hell out of here!
+
+0xCA848C5F = ~z~If you'd follow me sir.
+
+0xCAC6F8E8 = ~z~A very good choice, sir.
+
+0xCAF082EE = ~z~~sl:0.0:3.9~Wait... not Desmond Blythe, the Hosiery King?~sl:0.5~I should have brought my other wallet.
+
+0xCAF22BC2 = ~z~
+
+0xCB036E1B = ~z~Yeah, I know... I know.
+
+0xCB3761C7 = ~z~Arthur, leave any weaponry here. They'll search us when we get on.
+
+0xCCBD5F45 = ~z~Call.
+
+0xCD6BC1B8 = ~z~Yes, call.
+
+0xCD8116C0 = ~z~An expensive one...
+
+0xCE9F92DC = ~z~~sl:0.0:1.9~How did I end up at this table?~sl:~I'd have more fun throwing my money overboard.
+
+0xCF43B661 = ~z~Quite.
+
+0xCFE75551 = ~z~I do apologize for this, sir. He's a few currants short of a fruitcake.
+
+0xD0229AFB = ~z~it's worth more than you.
+
+0xD06EBBC2 = ~z~We are going to fix you up so fine, no one will notice a thing.
+
+0xD2CB9F94 = ~z~Arthur, whatever you do, don't forget I am unarmed!
+
+0xD5D646F4 = ~z~Yeah, that's one way of putting it.
+
+0xD6C7D7F5 = ~z~Whatever you say.
+
+0xD9A341B1 = ~z~You don't think they might see an armed Mexican coming into the safe with me?
+
+0xD9A729DE = ~z~George. To the Grand Korrigan please.
+
+0xD19FFD1C = ~z~Likewise, Mr. Blythe.
+
+0xD21F133D = ~z~Are you alright there, sir?
+
+0xD52FA1B5 = ~z~Is everything okay, sir?
+
+0xD311A0D9 = ~z~As you wish.
+
+0xD707BB79 = ~z~You're just getting all the cards tonight, ain't you?
+
+0xD884E54F = ~z~~sl:1.2:0.0~No, I'm out. Think I'll wait for this seat to warm up a bit.
+
+0xD62327E8 = ~z~Swiss...
+
+0xD820771A = ~z~Come on, time is not ours to waste right now.
+
+0xD5787909 = ~z~The action he has planned. Indeed, it's not much of an action at all.
+
+0xDA4FAE12 = ~z~Maybe we could still blend into the crowd when it all goes crazy.
+
+0xDA34F870 = ~z~What are you doing back there? Come on!
+
+0xDA466A0F = ~z~What on God's great Earth are you doing?
+
+0xDA8627C0 = ~z~What's our next move here?
+
+0xDAD4E3C4 = ~z~we gotta get out of here.
+
+0xDAD324F8 = ~z~Hello gentlemen.
+
+0xDB07FBDA = ~z~I'll call.
+
+0xDB47B24D = ~z~Look at you.
+
+0xDB3380B4 = ~z~Shit.
+
+0xDC38D5B3 = ~z~Hello. Can I help you, gentlemen?
+
+0xDD73BE71 = ~z~It's a man called Desmond Blythe. Made his fortune in hosiery of all things.
+
+0xDD8194D7 = ~z~Guess it is.
+
+0xDD32127C = ~z~Well, you are having quite the night!
+
+0xDDD58C01 = ~z~Are you joining us?
+
+0xDDE37819 = ~z~Come on, dear boy, don't be shy.
+
+0xDFC70513 = ~z~For the love of God, just get on the coach.
+
+0xE04CBA30 = ~z~You should be taking a seat in there, Arthur.
+
+0xE0963B29 = ~z~Strauss, you said five guards!
+
+0xE0D7D631 = ~z~Of course. We've crossed paths.
+
+0xE0EBCD45 = ~z~That suit is not fit for the purpose at hand.
+
+0xE2BD1161 = ~z~Now remember what I said, Arthur, everyone is the author of his own good fortune.
+
+0xE5C6569F = ~z~Feel free to join a game, sir.
+
+0xE6E54520 = ~z~Just this way sir.
+
+0xE8A447D8 = ~z~Grand Korrigan, sir.
+
+0xE8DA93B5 = ~z~Let's get outta here.
+
+0xE10A37B1 = ~z~Call, call, call...is anyone going to live a little here?
+
+0xE14C5DE4 = ~z~Yes, indeed.
+
+0xE20BEE55 = ~z~that no one will realize you're there to rob the place.
+
+0xE20EDBF7 = ~z~So, how are we all faring?
+
+0xE47FB7FE = ~z~Sir... follow me... please?
+
+0xE69CF647 = ~z~Gentlemen! How wonderful to see you.
+
+0xE70DC9D9 = ~z~I got a watch.
+
+0xE659CF73 = ~z~I-I started last week.
+
+0xE690A5C0 = ~z~The heavy brow, from all the inbreeding...
+
+0xE1989ED3 = ~z~Yes, I'll call.
+
+0xE3631AF3 = ~z~Okay, sorry boys, I'm taking it all.
+
+0xE169743A = ~z~Damn it, we gotta go! Come on!
+
+0xEA347C2E = ~z~Get his gun, go on.
+
+0xEAD2640F = ~z~~sl:1.0~Come on.
+
+0xEBBB314A = ~z~Time to see if you're really the man you seem to think you are.
+
+0xED33F7A9 = ~z~Excellent, well you'll find all my inventory in the catalogue here.
+
+0xEDC986D8 = ~z~Now come on.
+
+0xEDC98358 = ~z~Quick, Arthur.
+
+0xEE6E387E = ~z~Oh I'm in. Call.
+
+0xEE839281 = ~z~This unlikely fellow has made himself a fortune in the oil fields,
+
+0xEF032E5C = ~z~We have a chair here with your name on it, sir.
+
+0xEF40D135 = ~z~Let's move up, Arthur!
+
+0xF07E7C44 = ~z~So...
+
+0xF1BCA505 = ~z~Swiss, a...
+
+0xF3C07F5A = ~z~Some better than others.
+
+0xF5D77A2A = ~z~Welcome to the game, Mr. Callahan.
+
+0xF5F00921 = ~z~Yes, my friend here is in need of a new suit.
+
+0xF6ACAF59 = ~z~Alright, come on.
+
+0xF9D0772A = ~z~Likes to play fast and always keeps some extra collateral in the safe, upstairs.
+
+0xF37CB259 = ~z~Good luck, sir.
+
+0xF43F78C8 = ~z~~sl:0.0:2.0~I thought as much.~sl:0.1~Maybe you should have another drink, Mr. Callahan.
+
+0xF64AE325 = ~z~Well, look at you. From toad... to prince.
+
+0xF75E2586 = ~z~What the hell, it's only money.
+
+0xF86B1552 = ~z~To the bar, senor!
+
+0xF2775E85 = ~z~What's wrong? Go join the table and I will see you in there.
+
+0xF4521DF9 = ~z~There, see? That's how you raise. Easy as that.
+
+0xF7735BF3 = ~z~
+
+0xF14730AA = ~z~and that is when Javier comes in and you take whatever you want.
+
+0xF515597C = ~z~He's rich as can be and feeling luckier than a turkey that survived Thanksgiving!
+
+0xF4842492 = ~z~We aim to please, sir.
+
+0xFA9D4F0E = ~z~Goodbye, gentlemen.
+
+0xFBBEB6BA = ~z~Come on, let's find the others.
+
+0xFC422D79 = ~z~Unlucky, Desmond.
+
+0xFC9120E7 = ~z~Come on, what are you doing?
+
+0xFCCCF557 = ~z~Why?
+
+0xFD13BBE9 = ~z~Idiot, huh?
+
+0xFD42119F = ~z~Sure.
+
+0xFD825068 = ~z~~sl:1.4:0.0~Call, what the hell.
+
+0xFE1DF5AE = ~z~Which it surely will...
+
+0xFE98F718 = ~z~Arthur, do something!
+
+0xFF3319E1 = ~z~We gotta get out of here.
+
+0xFF9579E0 = ~z~Okay, I trust you.
+
+0xFF931889 = ~z~Well, nothing ventured, nothing gained.
+

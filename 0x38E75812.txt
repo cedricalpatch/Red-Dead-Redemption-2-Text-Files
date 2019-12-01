@@ -1,0 +1,68 @@
+0x0CFB0D50 = ~z~I don't like this...
+
+0x1E299FB5 = ~z~Hey there.
+
+0x2E0E5FF6 = ~z~Out of the way!
+
+0x3B26E9A7 = ~z~Hey, got something here in the road!
+
+0x3C40FC5B = ~z~Out of the way I said!
+
+0x3DEC6B77 = ~z~Fair enough.
+
+0x3EAC1AE2 = ~z~Get off of there, now! Do what I say and nobody gets hurt.
+
+0x5C19EF99 = ~z~I ain't no expert, but it looks alright to me.
+
+0x6CA58751 = ~z~Hey there.
+
+0x8FD133AE = ~z~Your back left wheel seems shaky to me, looks like it's about to come off.
+
+0x9ECE0C24 = ~z~Shit! He's going for the haul!
+
+0x16C120DC = ~z~Come on, we gotta move it!
+
+0x17F08ED2 = ~z~What's the problem?
+
+0x527E9497 = ~z~Feels fine driving. Alright, let's just get to Rhodes and we'll ask one of the stable boys to look it over.
+
+0x717E3F4E = ~z~Stay right where you are 'til you don't see me no more, understand?
+
+0x848E0632 = ~z~No, you ain't getting shit!
+
+0x542414B7 = ~z~Hey! Stop!
+
+0x3411935C = ~z~Yeah? Huh... shit, Maxwell, go take a look.
+
+0xA7490ACF = ~z~Move it, feller. We're on a schedule here.
+
+0xAD3BDA5C = ~z~Try anything clever and I'll kill you.
+
+0xBC573CFB = ~z~Get off of there, now! Do what I say and nobody gets hurt.
+
+0xBE0A2753 = ~z~Right...
+
+0xBEC48854 = ~z~I hear you, loud'n clear...
+
+0xBF46CEEE = ~z~Stay right where you are 'til you don't see me no more, understand?
+
+0xBFC24933 = ~z~Try anything clever and I'll kill you.
+
+0xC1D287DE = ~z~We got ourselves a thief! Deal with him!
+
+0xC92DDEA1 = ~z~Your back left wheel seems shaky to me, looks like it's about to come off.
+
+0xC263147E = ~z~Okay, okay! Take what you want, just don't hurt me!
+
+0xD54D7507 = ~z~Listen. I didn't see nothing, I swear... please...
+
+0xDCB1C352 = ~z~Hey! Stop!
+
+0xE6A1A218 = ~z~Are you deaf? Get outta here!
+
+0xEADE9D59 = ~z~Hello.
+
+0xF6EB4FBB = ~z~You lost or something?
+
+0xF61F85AD = ~z~Can't have you so close, alright? Delicate cargo...
+

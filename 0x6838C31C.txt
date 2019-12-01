@@ -1,0 +1,492 @@
+0x00428B20 = ~z~~sl:0.0:1.3~We have everybody looking.~sl:0.5~We will find the boy.
+
+0x00559816 = ~z~Get in there!
+
+0x028F63C7 = ~z~Hand him over.
+
+0x0362B34E = ~z~We got more coming in!
+
+0x049825DC = ~z~What the hell do you want?
+
+0x05DA19B7 = ~z~I know you worry.
+
+0x06A8F5E2 = ~z~you kill 'em!
+
+0x07598197 = ~z~So come on!
+
+0x07E03DC7 = ~z~C'mon.
+
+0x07F78C92 = ~z~Did you find another way in?
+
+0x087EB886 = ~z~Doesn't sound good out there, Arthur.
+
+0x08EE7A00 = ~z~~sl:0.0:2.4:1~Nope, reckon they're all dead.
+
+0x0920F91D = ~z~
+
+0x092279E1 = ~z~I will get that boy back, so help me God...
+
+0x0BBCC6EF = ~z~I can't see a goddamn thing!
+
+0x0F3B0616 = ~z~sound like Braithwaite boys.
+
+0x0FA602B7 = ~z~Grab the rifle by the chair if you need it.
+
+0x1ABE1C57 = ~z~~sl:0.0:1.2:1~Jack!
+
+0x1D2021E4 = ~z~Abigail, you have my word.
+
+0x1D135191 = ~z~And find that Braithwaite woman!
+
+0x1E94E60D = ~z~~sl:0.0:4.4~Enough talk. ~rp~There's no point arguing how we got here,~rp~~sl:0.2~this is where we are. ~rp~And we are going to fix it.
+
+0x1E165AF8 = ~z~Come on, let's get this done.
+
+0x1E7023BB = ~z~~sl:0.0:1.3:1~Where are you?
+
+0x1EC52938 = ~z~Oh, and I will surely kill the rest of them...
+
+0x1EF6E576 = ~z~We've got this door covered, you help them out there!
+
+0x2A42016E = ~z~You damn yankee.
+
+0x2C8E44CA = ~z~Where is the boy?
+
+0x2EADE323 = ~z~No.
+
+0x2F7BF662 = ~z~Find Jack!
+
+0x3A4CE047 = ~z~Who took him?
+
+0x3A840CEB = ~z~What we doing with her?
+
+0x3DDB9720 = ~z~Arthur, they're pouring in the side here!
+
+0x3E8A14F3 = ~z~Leave her.
+
+0x3F2317E6 = ~z~~sl:0.0:0.5~Jack?~sl:~Oh, shit!
+
+0x4C9FD343 = ~z~~sl:0.0:1.0~What are you doing, Arthur?~sl:~Let's get in there.
+
+0x4C106156 = ~z~Let's go, Arthur.
+
+0x4D3CD9AD = ~z~
+
+0x4D7ED50E = ~z~You filth.
+
+0x4D488328 = ~z~Dutch, we just heard about Jack.
+
+0x4DF5A689 = ~z~~sl:0.0:1.5~We are gonna find the boy,~sl:~I promise you.
+
+0x4E8C3945 = ~z~John, Charles, Lenny, more fire on the right.
+
+0x5B76F621 = ~z~~sl:0.0:1.1~Barricaded...~sl:0.1~this must be where they're holed up...
+
+0x5B14702C = ~z~
+
+0x5BB87181 = ~z~Alright, we get her outta here.
+
+0x5C287DB6 = ~z~yes, that's it.
+
+0x5DB35809 = ~z~or otherwise...
+
+0x5DC688E8 = ~z~No.
+
+0x5E04B088 = ~z~Easy, John. ~rp~Try to stay calm.
+
+0x5F59DDEE = ~z~
+
+0x6C1E7FCC = ~z~What are you doing? Get out there and hold them off.
+
+0x6CC7EAA4 = ~z~Looks like they're running!
+
+0x6D64EC46 = ~z~Steal a goddamn child? You lowdown sons of bitches!
+
+0x6D70B457 = ~z~~sl:0.0:1.6~I know, I heard...~sl:0.0:4.1~about Sean too. I don't wanna even think about that right now.~sl:~We have to focus on Jack.
+
+0x6E96FA6C = ~z~Hold them back.
+
+0x6E284F33 = ~z~We underestimated them.
+
+0x6F278EC2 = ~z~Shit! John, Arthur, we'll hold them down here.
+
+0x7A1D2C8D = ~z~Hosea, watch your head there!
+
+0x7A659405 = ~z~
+
+0x7BA888D1 = ~z~This family is finished, you hear me?
+
+0x7E5173F4 = ~z~Okay, get your heads right. Nobody makes a move until I say so.
+
+0x8B5BB57D = ~z~John, I need you to stay calm.
+
+0x8B60B58B = ~z~Like I said, I'm fine.
+
+0x8E984D89 = ~z~We have to find Jack!
+
+0x8F6D2CDB = ~z~We will find the boy.
+
+0x8FD92578 = ~z~That Kieran saw a couple of fellers...
+
+0x9B9B1F57 = ~z~~sl:0.4:2.1~Nooo! ~sl:0.8:0.6:1~No!
+
+0x9BBFC21C = ~z~~sl:0.0:1.3~Calm down.~sl:0.3:1.7~Everybody just relax.~sl:0.9~We are doing all we can.
+
+0x9BD4FE44 = ~z~~sl:0.0:3.6~I don't know, ~rp~but we are getting him back and they will pay.~sl:0.1~~rp~I promise you that.
+
+0x9BE6E826 = ~z~Get in there!
+
+0x9CBAD83F = ~z~John, you sure you're okay?
+
+0x9D11D8E9 = ~z~I'm gonna let fly at those sons of bitches.
+
+0x9E1E63AE = ~z~~sl:0.0:3.4~I don't know, ~rp~but we are getting him back and they will pay.~sl:0.1~~rp~I promise you that.
+
+0x9E24CA4A = ~z~Calm down.
+
+0x9F8150FF = ~z~Bit late for that, ain't it?
+
+0x14B16EC9 = ~z~You stole my liquor. ~n~~m~Boys are off limits.
+
+0x20EB479E = ~z~Where's my goddamn son?
+
+0x21D4ABCC = ~z~Let's get this hag outside. Any more of her sons to deal with?
+
+0x27FDECA7 = ~z~Get down here now!
+
+0x29B698D3 = ~z~Yes...
+
+0x29FD0E0B = ~z~Common scum.
+
+0x32C84D34 = ~z~We will find him, we will bring him back to you...
+
+0x32D3588A = ~z~What?
+
+0x33A64F6F = ~z~
+
+0x33FDDC7B = ~z~How the hell did they get to him?
+
+0x41BAE219 = ~z~If you ain't gonna be civilized about this...
+
+0x45AF16A0 = ~z~We've got it covered up here.
+
+0x47AD99F9 = ~z~~sl:0.0:1.9~Don't be concerned.~sl:~Everybody is doing all they can to find this child.
+
+0x52D00DC2 = ~z~We searched everywhere, Dutch.
+
+0x59CB1F43 = ~z~We have lived in this house for a hundred and twenty years.
+
+0x60A5B42E = ~z~I've turned every stone.
+
+0x60B713D2 = ~z~Jack's not down here, let's go check upstairs.
+
+0x64AE317E = ~z~
+
+0x64F81090 = ~z~Out with it.
+
+0x68E23074 = ~z~~sl:0.0:4.2~Enough talk. ~rp~There's no point arguing how we got here,~rp~~sl:0.2~this is where we are. ~rp~And we are going to fix it.
+
+0x70B5B3CF = ~z~Let's go help Dutch.
+
+0x70E1FE66 = ~z~That is a young boy.
+
+0x75E40532 = ~z~Are you in there?
+
+0x77A6F514 = ~z~Who took him?
+
+0x77F01FFB = ~z~Bill, Javier, cover left.
+
+0x78C10367 = ~z~Like they don't know we're coming...
+
+0x78E77C6C = ~z~~sl:0.0:1.4~I promise you,~sl:0.0~we will find the boy.
+
+0x82A91353 = ~z~Take a deep breath, okay?
+
+0x83C91165 = ~z~Okay, let's go get that boy back.
+
+0x83CBA101 = ~z~Open the goddamn door!
+
+0x84D7B69C = ~z~
+
+0x86CB0A3B = ~z~I told you, there's no getting in this way, they've got it blocked.
+
+0x86E047E0 = ~z~unless you start talking.
+
+0x87C4586F = ~z~Look out, more coming from the right!
+
+0x88BF30B8 = ~z~I guess that's the end of the goddamn cribbage game.
+
+0x88DC7892 = ~z~
+
+0x89BE4069 = ~z~Uh-uh.
+
+0x91B00F14 = ~z~You want me to kill you too, old woman?
+
+0x95F67E50 = ~z~Come on, we should go see what Dutch wants up there.
+
+0x96B3B6C1 = ~z~Dutch and I have things covered up here, Arthur.
+
+0x96C19615 = ~z~You need some extra guns?
+
+0x98D06B6F = ~z~Watch those balconies!
+
+0x209C70AE = ~z~
+
+0x408DE8BF = ~z~and we will kill any fool that had the temerity...
+
+0x413E7700 = ~z~Or if there is, it's hidden somewhere no one knows.
+
+0x423B78F6 = ~z~I'm fine.
+
+0x483A3D5E = ~z~~sl:0.3:0.9:1~There you go.
+
+0x505F13A1 = ~z~For Christ's sake, Hosea. ~rp~After all that? ~rp~Another perfect scam.
+
+0x564DCB66 = ~z~Both these redneck families think they can ruin us? I don't think so...
+
+0x565F145D = ~z~Where's my son? If anything...
+
+0x624B0B2A = ~z~
+
+0x760BD7C4 = ~z~You bastards.
+
+0x841F2279 = ~z~You hearing me, Arthur? Get up here!
+
+0x901F83A8 = ~z~There's a rifle over there if you want it.
+
+0x911FB43C = ~z~First Sean, now Jack. We should have stayed out of all this.
+
+0x932CD8E6 = ~z~Where's the boy?
+
+0x949FE35F = ~z~Oh, I know your type.
+
+0x968AEB6D = ~z~
+
+0x981B87DB = ~z~Arthur, John, Hosea, with me.
+
+0x3029C72E = ~z~
+
+0x3843AA98 = ~z~Where is the boy?
+
+0x5298D21F = ~z~
+
+0x6499B0D2 = ~z~where is my son, Dutch van der Linde?
+
+0x6890BCCE = ~z~We never had no problems 'cept for Yankees.
+
+0x7369F215 = ~z~I need you searching downstairs, Arthur.
+
+0x7570E7C3 = ~z~~sl:0.0:1.9~I know, I heard...~sl:0.0:5.0~about Sean too. I don't wanna even think about that right now.~sl:~We have to focus on Jack.
+
+0x8541A261 = ~z~or on the boat to Italy.
+
+0x8586A7AF = ~z~~sl:0.4:2.8~Whatever complaint you have with us,~sl:~alleged...
+
+0x8968FA74 = ~z~to touch one hair on that boy's head.
+
+0x9280AF92 = ~z~~sl:0.0:2.5~Everybody, just stay calm.~sl:0.0:2.4~Now is not the time to get hysterical.~sl:0.2~We are gonna find that boy.
+
+0x9903C9E5 = ~z~Let's go.
+
+0x11038DB5 = ~z~You killed my sons.
+
+0x18768F9D = ~z~Get the hell off our land.
+
+0x49815C38 = ~z~What are you doing, Arthur? Get over here.
+
+0x54932EED = ~z~They took him didn't they?
+
+0x68986FFB = ~z~Follow my lead.
+
+0x77839BF4 = ~z~
+
+0x80350B07 = ~z~~sl:0.0:1.1~Relax.~sl:~Everybody just calm down.
+
+0x494157E8 = ~z~Where's the boy?
+
+0x632250E2 = ~z~~sl:0.0:1.2~Calm down.~sl:1.0~This'll all be okay.
+
+0x747000BE = ~z~Either there...
+
+0x764486C4 = ~z~Arthur! We need some help up here!
+
+0x3253141B = ~z~Come on, this must be it.
+
+0x7516859D = ~z~Are you gonna help me out here?
+
+0x17532326 = ~z~What about the gold?
+
+0x46551271 = ~z~They took my son!
+
+0x68779045 = ~z~Get over here, will you?
+
+0x83667279 = ~z~Where's the boy?
+
+0xA2C2B749 = ~z~
+
+0xA2D94B78 = ~z~Where is he? Where's my son?
+
+0xA5AB7843 = ~z~
+
+0xA8D08FF8 = ~z~~sl:0.0:1.5~One... Two...~sl:0.2~Three.
+
+0xA9E06B9E = ~z~Arthur, come on!
+
+0xA24C6008 = ~z~Really need some more fire over here!
+
+0xA79D10CB = ~z~Jack! You in here?
+
+0xA131D3E3 = ~z~Come on then, you inbred scum!
+
+0xA1651F92 = ~z~Arthur!
+
+0xA61891A1 = ~z~Why'd you take the boy, Mrs. Braithwaite?
+
+0xA6412426 = ~z~The rest of you, watch out here for any other arrivals.
+
+0xAA721A4C = ~z~Matthews.
+
+0xAC167006 = ~z~I told you she was crazy.
+
+0xACE1E7C4 = ~z~~sl:0.0:1.6~Everybody just calm down.~sl:0.2:1.6~Now I know you're worried,~sl:0.6:1.9~but we have everybody looking for him~sl:~and we are gonna find this boy.
+
+0xAD73578B = ~z~What are you doing? Go around and help John.
+
+0xAE390962 = ~z~~sl:0.0:2.0:1~Yeah... come here...
+
+0xAEB26F61 = ~z~Quiet, we're going to fix this right now.
+
+0xAF3552EC = ~z~I swear,~rp~ I'll kill everyone there.
+
+0xAFAAD0F2 = ~z~Arthur. Arthur, we can't do this without you.
+
+0xAFB07E26 = ~z~Who steals a goddamn boy?
+
+0xB01D25A2 = ~z~Ain't no rules in war, Mr...
+
+0xB0FACA87 = ~z~Yeah, why not?
+
+0xB3E526FC = ~z~~sl:0.9:0.9~There's something...~sl:0.1~pushed up against it...
+
+0xB17D81C0 = ~z~There they are.
+
+0xB272EF82 = ~z~Don't get hysterical.
+
+0xBB56BC1D = ~z~I never liked you.
+
+0xBBA113E7 = ~z~You must've known we would.
+
+0xBD6C65D5 = ~z~Now, let's find a way into that room.
+
+0xC2BA8B1C = ~t~In Spanish: We are going to kill them all!
+
+0xC2F26AE9 = ~z~Arthur, get up here and give us a hand!
+
+0xC4C8BC21 = ~z~You tell me where he is.
+
+0xC9EB90E6 = ~z~
+
+0xC170747D = ~z~Arthur, are you coming or what? We don't have all day.
+
+0xCA4C8180 = ~z~~sl:0.0:1.6~I'll kill something else you love~sl:~if you don't tell me where his son is.
+
+0xCCF2B68A = ~z~~sl:0.0:2.3~Shouldn't have messed with our business now,~sl:~should you?
+
+0xD01D3817 = ~z~My sons gave him to Angelo Bronte.
+
+0xD2F29A66 = ~z~I hate to break it to you, ~rp~but... I don't think there is any gold.
+
+0xD5A8D7DB = ~z~Arthur, get out there! We've got this door covered.
+
+0xD7E33DCA = ~z~Relax.
+
+0xD8A399D8 = ~z~Rest of you, let's ride.
+
+0xD77FE419 = ~z~Rain hell on these sons of bitches!
+
+0xD4836F99 = ~z~You tell me what I wanna hear.
+
+0xD4495852 = ~z~Yeah, we just got shot to hell by the Grays in town.
+
+0xD6541445 = ~z~right now.
+
+0xDDE4418D = ~z~We think the Braithwaite woman took him.
+
+0xDE110555 = ~z~Come on, Arthur.
+
+0xDEBBDA1C = ~z~Easy, John.
+
+0xE052ED95 = ~z~
+
+0xE2A7DD2C = ~z~So my guess is Saint Denis.
+
+0xE4B53DEB = ~z~Who gives a damn about the gold? ~rp~They got Jack.
+
+0xE9FE46DD = ~z~No, ~rp~they underestimated us.
+
+0xE9FF5F42 = ~z~Arthur, you check downstairs.
+
+0xE54F5045 = ~z~We've got you covered up there!
+
+0xE68BB53B = ~z~That's right, burn this dump to the ground!
+
+0xE71E2FBB = ~z~
+
+0xE85EDEC1 = ~z~~sl:0.0:1.3~We're looking for him.~sl:0.3~Everybody's out there right now.
+
+0xE97D39C6 = ~z~~sl:0.0:1.2:1~Jack!
+
+0xE319CF8C = ~z~You should go help John look downstairs.
+
+0xE943CF96 = ~z~It's blocked, but I reckon it might give.
+
+0xE2995E9B = ~z~
+
+0xE7663621 = ~z~~sl:0.0:0.9~What are you doing, Arthur?~sl:~Let's get in there!
+
+0xEA85F1B0 = ~z~We've come for the boy.
+
+0xEA8884D0 = ~z~They must've figured out what we was up to, Dutch.
+
+0xEF071921 = ~z~~sl:0.0:3.3~Alright everyone, dismount and come to me.~sl:0.2~We'll go in on foot from here.
+
+0xF085FA74 = ~z~Jack!
+
+0xF0AE8B03 = ~z~~sl:0.0:1.5:1~You got that one, Arthur?
+
+0xF0E46B21 = ~z~What are you doing up here? Go help out downstairs.
+
+0xF1A7FD89 = ~z~Arthur, we need you up here now!
+
+0xF2E8C47A = ~z~That is not the way you do things.
+
+0xF4AFCADE = ~z~~sl:0.0:1.5~Come on, that's enough!~sl:~Help me break this door in!
+
+0xF6DF361E = ~z~Behind the pillars!
+
+0xF6FE5620 = ~z~You boys sure Jack ain't in here?
+
+0xF156B135 = ~z~Come on!
+
+0xF752D581 = ~z~~sl:0.0:0.9~Jack!~sl:0.1~Jack, can you hear me?
+
+0xF765D046 = ~z~
+
+0xF1699CE5 = ~z~And what about them?
+
+0xF3216BE9 = ~z~Tell us where the boy is!
+
+0xF447511F = ~z~Micah, Kieran, anyone strange turns up...
+
+0xF2628171 = ~z~You inbred trash.
+
+0xFAA2DCE2 = ~z~Just get me back my son.
+
+0xFC07C568 = ~z~Arthur, have you seen that boy, Jack?
+
+0xFC1E6523 = ~z~
+
+0xFD5E0084 = ~z~Arthur, have you seen the boy, Jack?
+
+0xFEFF4365 = ~z~You stole my horses.
+

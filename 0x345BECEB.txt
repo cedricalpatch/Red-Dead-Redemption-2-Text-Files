@@ -1,0 +1,128 @@
+0x00CEE3F1 = ~z~Hey Milton, can you give me a hand with this fence?
+
+0x0181F2E3 = ~z~~sl:0.7~How you doing son?
+
+0x037F91F3 = ~z~Coming.
+
+0x05945768 = ~z~Good.
+
+0x08C7260A = ~z~What was you doing before you came here?
+
+0x09E60E7D = ~z~can you give me a hand with this fence?
+
+0x0B894B8A = ~z~Come on, give us a hand.
+
+0x0C403D43 = ~z~Fine.
+
+0x1EBE71F4 = ~z~Know much about bulls, Milton?
+
+0x2D700F57 = ~z~this is Jim Milton.
+
+0x2EC671F8 = ~z~and also to believe this is a free country,
+
+0x2FEFD4D4 = ~z~Shit...
+
+0x3ACAAA0C = ~z~Mr. Milton.
+
+0x3DBC8FF4 = ~z~Guess we all got our peculiarities, Mr. Dickens.
+
+0x3E327159 = ~z~move.
+
+0x4F59EAF2 = ~z~We'll make a rancher of you yet.
+
+0x5EC0B835 = ~z~ain't used to shoveling shits,
+
+0x6D77D5A3 = ~z~can't milk a cow,
+
+0x6DBED60D = ~z~Not really.
+
+0x7B3D712E = ~z~Can't build a fence,
+
+0x7C007290 = ~z~Know much about fence building?
+
+0x13CF31AA = ~z~gimme a hand with this fence.
+
+0x13EBBC43 = ~z~but I guess I don't believe a word of it.
+
+0x17E27C04 = ~z~got my head.
+
+0x18F6D6B4 = ~z~Got him, Mr. Dickens.
+
+0x32A979CE = ~z~we was in a legal dispute.
+
+0x39C787FA = ~z~It was a bad time.
+
+0x46FE2267 = ~z~That sounds awful,
+
+0x61EFCDEA = ~z~Well, there's plenty more to do.
+
+0x67B0C459 = ~z~I'll get him!
+
+0x97D93AA4 = ~z~Know much about bulls, Milton?
+
+0x208DCC0F = ~z~Milton, get over here.
+
+0x247BDD73 = ~z~wife got cheated out of inheritance,
+
+0x342C6309 = ~z~Sure...
+
+0x490AC68C = ~z~don't make them mad.
+
+0x570A428F = ~z~I told you,
+
+0x573E62F3 = ~z~Angus Geddes,
+
+0x824B2957 = ~z~My pleasure.
+
+0x852C154A = ~z~Come on, give us a hand.
+
+0x5917D6F1 = ~z~And you, mister?
+
+0x6225D8B6 = ~z~I was raised to take a man at his word,
+
+0x51021CB8 = ~z~but drops a gang of robbers single handed.
+
+0x75860FCD = ~z~How you doing son?
+
+0x369691EF = ~z~He just hit...
+
+0xA4C66E4D = ~z~A bit sore but I'll be okay.
+
+0xACF58E60 = ~z~Milton, get over here.
+
+0xB79E7946 = ~z~so free that I can't tell you what to think,
+
+0xBBC243C1 = ~z~There he is.
+
+0xBD642F3D = ~z~Coming.
+
+0xBE5B86C0 = ~z~so I guess it don't much matter what you believe.
+
+0xCAA53A12 = ~z~Ah good...
+
+0xCB1A0614 = ~z~~sl:0.1~Ah good...
+
+0xCCCD23A3 = ~z~But I will work hard,
+
+0xCEECC2A1 = ~z~Thank you, Mr. Milton.
+
+0xD4749DDF = ~z~Come on,
+
+0xDEC93844 = ~z~Hey Milton,
+
+0xE0AEB653 = ~z~Well let's try and move this great hunk of chuck.
+
+0xE14D327A = ~z~Got him, Mr. Dickens.
+
+0xE29F4F47 = ~z~and I learn fast.
+
+0xE89A462A = ~z~Nice to meet you.
+
+0xE9099E53 = ~z~See you later, Jim Milton.
+
+0xED7864F9 = ~z~Okay...
+
+0xF6E0E2B7 = ~z~Angus is your boss' son.
+
+0xF4231CBE = ~z~Ah, just the basics...
+

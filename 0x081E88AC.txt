@@ -1,0 +1,30 @@
+0x3B7E181E = ~z~So you think this bank job's gonna work?
+
+0x4D19BB55 = ~z~Get everything packed. We're leaving.
+
+0x5F4F5FC0 = ~z~I hope so. I really do. This place is not for me.
+
+0x6AC9046F = ~z~I never been to Tahiti... I been to Bali, and Java.
+
+0x7D0B28F3 = ~z~There is a man there with a body no bigger than a coconut... speaks seven languages.
+
+0x8FEBCEB4 = ~z~Tahiti?
+
+0x97C8D0BE = ~z~when we go back, there'll be an almighty bang.
+
+0x665DFB95 = ~z~Are you ready for Tahiti, Mr. Pearson?
+
+0x6446E9BB = ~z~Oh sure, she had half the town believing we were real estate investors from New England.
+
+0x76088D3E = ~z~Everybody was following her... this after she placed a little explosive device...
+
+0xB12B1136 = ~z~Sure, Tahiti.
+
+0xC1AEB23D = ~z~With Abigail anything is possible... best actress I ever saw.
+
+0xD3E456A8 = ~z~Really?
+
+0xE6437B66 = ~z~Okay.
+
+0xF8521F83 = ~z~Oh, how'd it go in town?
+

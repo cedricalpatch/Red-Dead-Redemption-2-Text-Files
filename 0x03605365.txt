@@ -1,0 +1,20 @@
+0x5E0B2072 = ~z~Food is up-ah!
+
+0x7A084571 = ~z~
+
+0x7AFF4763 = ~z~
+
+0x48B8BF84 = ~z~Food is up-ah! Food is up-ah...
+
+0x884EE1FE = ~z~Foodie up, fellers, foodie up!
+
+0x964D458A = ~z~Food is up!
+
+0x5061851F = ~z~
+
+0xA41BE127 = ~z~
+
+0xBEAE164B = ~z~
+
+0xFE6DAAEF = ~z~Come on!
+

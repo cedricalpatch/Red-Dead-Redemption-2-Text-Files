@@ -1,0 +1,22 @@
+0x07D0262F = ~z~Away with you!
+
+0x0B8FADB2 = ~z~Oh my Lord! What's in your book?
+
+0x4EDBB4A5 = ~z~
+
+0x5E2852DA = ~z~Pretty as a picture...
+
+0x62D4DC97 = ~z~Ladies.
+
+0x746E7F66 = ~z~But... oh! Oh my Lord...
+
+0x6515E119 = ~z~
+
+0xA87E1C9F = ~z~He's a bloody devil.
+
+0xB62FB802 = ~z~He's a kind devil.
+
+0xF5D5823E = ~z~
+
+0xF79185B2 = ~z~You... are as pretty as a picture, my dear.
+

@@ -1,0 +1,12 @@
+0x1DE574CA = ~z~Hey, hey, I got a question for you. I'm looking for a buddy of mine.
+
+0x860EDFC4 = ~z~A feller I know got kicked to death by a horse, you believe that?
+
+0x4964CBC8 = ~z~Can't explain it, he lives just across the road. Getting me a bit worried...
+
+0xAFC73330 = ~z~Getting so a man can't get a goddamn break in this town no more, not a damn one.
+
+0xF1D01CA0 = ~z~Good feller, like a whiskey now and again.
+
+0xFF9EB83D = ~z~Haven't seen him in a little while, and his wife's banging on my door saying he never came home.
+

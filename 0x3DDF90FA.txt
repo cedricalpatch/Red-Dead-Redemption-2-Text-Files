@@ -1,0 +1,72 @@
+0x2F055AA9 = ~z~I don't know.
+
+0x5EBB9C25 = ~z~Over my dead body. You will be a lawyer. You do the hanging, not the swinging. You hear me?
+
+0x6D0538B8 = ~z~~sl:0.2:1.4~I hear you momma.~sl:0.5~Can I go play now?
+
+0x8B70F587 = ~z~But, I wanna be a gunslinger when I grow up.
+
+0x8C2014DD = ~z~And I said try again.
+
+0x40B1FE02 = ~z~Try again, Jackie.
+
+0x64C7A835 = ~z~Please Arthur, give the boy a chance of bettering himself. It's hard enough trying to raise him in this place.
+
+0x65F0C87F = ~z~I can't do it.
+
+0x74CAD81D = ~z~Sure. We'll try again soon.
+
+0x77E76C6C = ~z~~sl:0.0:1.1~No, you won't do it,~sl:~you sure as rain is wet can do it.
+
+0x94A269A4 = ~z~~sl:0.0:0.8~Kingdom.~sl:~What's a kingdom?
+
+0x180B70F2 = ~z~Ain't trying much.
+
+0x225E984B = ~z~Here. Try again.
+
+0x439F75C3 = ~z~Thank you, Hosea.
+
+0x713FA2DF = ~z~
+
+0x782CC3E6 = ~z~~sl:0.0:1.7~Being stupid is boring.~sl:~Reading is the only hope you got to not be boring.
+
+0x5268A16F = ~z~~sl:0.0:0.7~What...~sl:2.2~What, what does that say?
+
+0x8279E3A1 = ~z~Well, thank you, Hosea.
+
+0x8675CD4B = ~z~~sl:0.0:3.6~So... the... bad... prince... was...~sl:0.7:3.0~punished... for... his... greed... ~sl:~and... cast... out... of... the...
+
+0x55287DDE = ~z~~sl:0.3:2.2:1~I can't, I've already tried...
+
+0x67003C88 = ~z~~sl:0.2:1.4~I hear you, momma.~sl:0.5~Can I go play now?
+
+0x95736B3A = ~z~I thought that was a castle?
+
+0x7457475C = ~z~Sure. We'll try again soon.
+
+0xA7B7BFB9 = ~z~~sl:0.0:1.7~Oh, I can't. I don't...~sl:~I mean...
+
+0xA9D19402 = ~z~Kingdom.
+
+0xAB1C968C = ~z~~sl:0.0:1.2~Oh... uhh...~sl:0.0:0.9~ I don't know.~sl:~Where the king lives I guess?
+
+0xB8E03213 = ~z~So quit acting dumb.
+
+0xB5825B4E = ~z~Try again.
+
+0xBB8EF3BA = ~z~I said I don't know.
+
+0xC83780B8 = ~z~~sl:0.0:1.7~Arthur, could you give us a minute?~sl:~I'm trying to teach the boy to read.
+
+0xCED25DF7 = ~z~See, you're smart.
+
+0xDE0CAC62 = ~z~No, stupidity is boring. Reading is the one hope you got at not being boring.
+
+0xEA61C349 = ~z~But, I wanna be a gunslinger when I grow up.
+
+0xF026209E = ~z~I'm trying, momma.
+
+0xF2A461E4 = ~z~Reading is boring.
+
+0xFF1FECC5 = ~z~~sl:0.0:1.2~Over my dead body.~sl:0.5:1.4~You be a lawyer.~sl:0.1:1.0~You do the hanging.~sl:0.3:1.4~Not the swinging.~sl:0.2~You hear me?
+

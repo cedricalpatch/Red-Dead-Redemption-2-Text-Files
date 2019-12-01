@@ -1,0 +1,72 @@
+0x09633F40 = When the moment is right, take on the ~e~Raiders~s~
+
+0x0C8339A1 = Return the wagon to the ~o~Clemens Point~s~ camp
+
+0x3C5231DA = Take out the ~e~Lemoyne Raiders~s~
+
+0x3CC621EC = Search
+
+0x3F8AC688 = Follow the ~o~wagon~s~
+
+0x4A8B0E6F = Shoot the Dynamite
+
+0x5F690BFC = You killed the driver.
+
+0x6AFAF1A3 = Lenny was abandoned.
+
+0x7C54099C = Dynamite
+
+0x8EE3AC53 = Wagon
+
+0x9B86758D = Climb onto the wagon and check the ~o~crate~s~
+
+0x9FC7600F = Return to the ~o~wagon~s~
+
+0x34EABA75 = Use your weapon's scope to investigate Shady Belle
+
+0x37F89082 = Wait for ~o~Lenny~s~
+
+0x41AF39FB = Instruct ~o~Lenny~s~
+
+0x43F58D7C = Cover
+
+0x63E6BE91 = Trees
+
+0x486D6AEA = Shoot the ~o~dynamite~s~
+
+0x166295F9 = Greet
+
+0x24226485 = The wagon was destroyed.
+
+0xA3710879 = Mount your ~o~horse~s~
+
+0xABC176F2 = Get into ~o~cover~s~
+
+0xB4A5D709 = Get in the ~o~wagon~s~
+
+0xB11AB9B2 = Search the ~o~area~s~ for weapons
+
+0xBB528228 = Crate
+
+0xBBC1A6B6 = The wagon became inoperable.
+
+0xBD623B02 = Wagon
+
+0xC8B62658 = Hide the horses amongst the ~o~trees~s~
+
+0xC3944D7B = Send Lenny
+
+0xCF139DA9 = Lenny
+
+0xEBB24FD7 = The driver was alerted.
+
+0xECA30B9D = The wagon was abandoned.
+
+0xEF50FE99 = Your horse was abandoned.
+
+0xF76E5918 = You lost the wagon.
+
+0xF4104032 = Follow ~o~Lenny~s~
+
+0xF9303277 = Return to ~o~Lenny~s~
+

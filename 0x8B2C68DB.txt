@@ -1,0 +1,42 @@
+0x0B7772F5 = ~z~~sl:0.0:1.0~but...~sl:~my brother always was a fool.
+
+0x2BD73CC5 = ~z~~sl:0.0:2.0~Pair of wild horses they was.~sl:~Father and son...
+
+0x7DD9D918 = ~z~And that suits me about fine.
+
+0x9E7B9A6B = ~z~~sl:0.0:3.4~Ain't no woman never told me nothing,~sl:0.2~apart from "Make yourself scarce!"
+
+0x19B1987A = ~z~~sl:0.0:1.0~Micah Bell,~sl:0.4~like his daddy too.
+
+0x23EB2CE9 = ~z~~sl:0.0:1.5:1~And the rest of you.
+
+0x365B51CD = ~z~Old Micah Bell told me.
+
+0x428EE123 = ~z~~sl:0.0:4.5~What kind of a man lives by the sea,~sl:~I ask you?
+
+0x596D17EC = ~z~~sl:0.0:1.0~Well, it is.~sl:0.2:0.9~Trust me on that one.~sl:~It is!
+
+0x703F3C83 = ~z~~sl:0.0:0.8~Hmm?~sl:0.6~Huh? Huh?
+
+0x872CF36B = ~z~~sl:0.0:2.0~My oh my,~sl:~ain't life grand?
+
+0x997C0F34 = ~z~Never did suffer fools.
+
+0x4843F59E = ~z~That was my daddy.
+
+0x11878822 = ~z~Gentlemen...
+
+0x26092818 = ~z~~sl:0.0:2.1:1~The kind of man that gets told where to live by his wife.
+
+0xA11F274F = ~z~and then me.
+
+0xC5F9E82F = ~z~Damn near killed my brother one time,
+
+0xDA869114 = ~z~~sl:0.0:3.1~Lives over in California,~sl:0.3:1.2~by the sea.~sl:1.3~Pathetic.
+
+0xE33EA2B8 = ~z~~sl:0.0:3.6~At one point my daddy was wanted for murder in five counties.~sl:~Five!
+
+0xECC4358F = ~z~~sl:0.0:1.5~Never could stand him.~sl:1.2~Nor his wife.
+
+0xF9014E09 = ~z~~sl:0.0:1.2~And a coward.~sl:0.3~Yellow as pissed on snow.
+

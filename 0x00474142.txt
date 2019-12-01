@@ -1,0 +1,32 @@
+0x1FE3283B = ~z~Hey, Greaser, whatchu doing?
+
+0x5F4ECC25 = ~z~
+
+0x6F506C28 = ~z~Get outta here, you drunken fool.
+
+0x8D7DA882 = ~z~~sl:0.8:1.0:1~Nah...
+
+0x8E5D9129 = ~z~
+
+0x12BE0DF1 = ~z~
+
+0x37A457BD = ~z~Excuse me?
+
+0x51D31815 = ~z~
+
+0x82C2930C = ~z~Be my guest.
+
+0x842BFCC6 = ~z~Get outta here, you drunken fool.
+
+0x4566F342 = ~z~~sl:0.0:1.2~I said,~sl:0.2~"Whatchu doing, Greaser?"
+
+0xA314BA97 = ~z~
+
+0xB90FFFA6 = ~z~Should I?
+
+0xD9701B56 = ~z~~sl:0.7:1.5:1~Shit! Shit!
+
+0xEEC64602 = ~z~
+
+0xFE8CE58F = ~z~~sl:0.0:1.4~I'm just playing with my knife,~sl:0.3:1.2~Sheep Fucker.~sl:0.6~Just playing with my knife.
+

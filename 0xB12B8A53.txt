@@ -1,0 +1,330 @@
+0x00E37862 = ~z~Esteban don't want no messages, okay? Whoever sent you could'a got you killed.
+
+0x01F1FA79 = ~z~The Sheriff sent him. Get him!
+
+0x0355D1F9 = ~z~I'll be back for you with an army, you bastard!
+
+0x04162312 = ~z~You're going to die! Damn you, cabron.
+
+0x056A00A0 = ~z~Tying people up?
+
+0x06DE82EC = ~z~You looking for Esteban Cortez? This feller here might'a been him.
+
+0x08AA466B = ~z~My brothers, you killed them all!
+
+0x0B4963F6 = ~z~I got this one.
+
+0x1A48759B = ~z~They sent someone... I knew it.
+
+0x1BFEFE61 = ~z~Okay, okay, you hear that? No more fun, amigos.
+
+0x1EC75874 = ~z~Mr. Cortez... we meet at last. The cell there is made up nice especially.
+
+0x1F657864 = ~z~Who knows who heard that racket?
+
+0x2B9AB24C = ~z~I don't think at all.
+
+0x2B97E371 = ~z~You got some nerve... I like you to say that when I have a knife in my hand.
+
+0x2BA01596 = ~z~You know what? I'm gonna give you one more taste of freedom.
+
+0x2D30D7D6 = ~z~Okay, okay, now can you keep it down.
+
+0x2F343039 = ~z~You fools can't even hit them.
+
+0x3B86B0A6 = ~z~We'll find out soon enough. Maybe it's better if they come to us here.
+
+0x3C5ADC0F = ~z~Alright... You couldn't piss in your own pocket.
+
+0x3C2975C7 = ~z~Come on.
+
+0x3CC7EEEC = ~z~It's hot in here, ain't it, little man? And it's only getting hotter where you're headed.
+
+0x3DBE4D4D = ~z~~sl:2.2:1.6:1~He can't even aim.
+
+0x4E522AA0 = ~z~There. I got a stick of dynamite for his ass.
+
+0x4FD68306 = ~z~"The smoke's in my eye".
+
+0x5AF814CE = ~z~How you doing in there?
+
+0x5CE33060 = ~z~He's a damn bounty hunter, isn't he? Get him!
+
+0x6ED58115 = ~z~I'm going to come back and cut you in your sleep. Wherever I'm headed. Bastard!
+
+0x7AFBCC40 = ~z~They're going to hang me, you pendejo. Like a dog. Like a dog.
+
+0x8C832956 = ~z~Cortez is dead!
+
+0x8D3F6E14 = ~z~How you still rotting in here? I thought this sheriff cleaned out his stalls?
+
+0x8E3E3ADF = ~z~~sl:3.1~He's drunk, but he can shoot.
+
+0x8E9D2E0E = ~z~You had your fill.
+
+0x8F8BAB66 = ~z~We take these sticks into Tumbleweed, blow that whole town off the map...
+
+0x9CDBCA8B = ~z~Yeah, yeah, yeah.
+
+0x9D44DCE0 = ~z~I'm bored... anyone else bored here?
+
+0x9E3D857B = ~z~What are you talking for? Kill 'em!
+
+0x9EC3D5D0 = ~z~Throw it straight.
+
+0x13CCBFE0 = ~z~You like that, you heartless bastard?
+
+0x15A90465 = ~z~Who's that?
+
+0x15C98FD3 = ~z~Cortez, this is for your own safety.
+
+0x30F2FCCB = ~z~You ask for Esteban Cortez? Here is the son of a bitch.
+
+0x38DECEE9 = ~z~Let me get you out of here.
+
+0x40FF4865 = ~z~Oh, you think I'm angry? You should see Esteban... he's eating rocks down in the mine he's so mad.
+
+0x41DCA395 = ~z~Who's that? Shit.
+
+0x45B0F52B = ~z~What the hell? Hey, hey!
+
+0x45DADD8A = ~z~I threw it funny? Nah...
+
+0x46A90AC6 = ~z~You see that?
+
+0x52F5444E = ~z~You'll make a miner of me yet.
+
+0x53D27979 = ~z~You threw that funny.
+
+0x61D1DC42 = ~z~Puta!
+
+0x73AD5DF4 = ~z~In Spanish: Motherfucker.
+
+0x75CAE481 = ~z~Sure.
+
+0x77F97C42 = ~z~I get a bounty on me... I ain't hiding in some hole in the ground, like a goddamn prairie dog.
+
+0x79C18C31 = ~z~You think you're a hero?
+
+0x79C215DB = ~z~Waiting around... nothing to do... shame we don't got your mother here.
+
+0x81B30FB5 = ~z~You know Esteban won't go near there...
+
+0x84E8410E = ~z~Get that bastard.
+
+0x85CCEEF2 = ~z~They say this Sheriff Freeman's going to reduce the bounty.
+
+0x99E9977F = ~z~They're going to kill me. That isn't personal?
+
+0x105C1E2D = ~z~~sl:3.5:1.2:1~You think he hit it?
+
+0x114B2EBF = ~z~
+
+0x285B29C9 = ~z~He's got to be from Tumbleweed.
+
+0x294B062B = ~z~You told us? You didn't tell loud enough then... so your head's gonna roll.
+
+0x373DD845 = ~z~Help, he's got me. Help!
+
+0x502B86B4 = ~z~Esteban Cortez, I knew your brother.
+
+0x743C0DC4 = ~z~He's in the mine, there's only one way out.
+
+0x847EA1AB = ~z~You think you're a big man?
+
+0x965B234F = ~z~I don't suppose you're putting on this display in honor of an Esteban Cortez...
+
+0x1701A3CF = ~z~You're doing this bounty hunting for money, hey?
+
+0x2677AB3F = ~z~Curse you, bounty hunter.
+
+0x3734E435 = ~z~You like the power?
+
+0x4278DB3B = ~z~You're a bastard! A paid assassin for these animals.
+
+0x5451EF0A = ~z~I swear, one more boom and he's gonna come up here and take your head off.
+
+0x5519ED34 = ~z~Here he is. Look. He hasn't got Cortez!
+
+0x6154C01D = ~z~~sl:0.2~"Keep it down".
+
+0x8316AB79 = ~z~In the mine. Flush him out.
+
+0x8366DB36 = ~z~I'd be doing better if I was out. But then you'd have a knife in your throat.
+
+0x21685B17 = ~z~That's all you are.
+
+0x41589AFB = ~z~~sl:0.0:1.8:1~What is wrong with you?
+
+0x45087AB7 = ~z~That ain't no echo... we got company.
+
+0x84517E6D = ~z~Or because you like it?
+
+0x86272EA5 = ~z~Glad we don't got your mother here... they'd really hear her in Tumbleweed.
+
+0x99941CF4 = ~z~Hey, stop this man!
+
+0x140079D2 = ~z~~sl:0.0:1.9:1~You ready? Throwing.
+
+0x367794CB = ~z~Don't get involved... or you'll wish you hadn't.
+
+0x625650FC = ~z~Watch your mouth.
+
+0x795502FA = ~z~He killed him.
+
+0x877203F5 = ~z~Looks like him, alright. You saved me a bullet, and a telling off.
+
+0x879705C1 = ~z~Hey, don't shoot me!
+
+0x1880874B = ~z~I spit on you. I spit on your mother.
+
+0x9760476E = ~z~Hey! Who do you think you are, eh?
+
+0x19567103 = ~z~Actually, let's give you some exercise.
+
+0x62182789 = ~z~The damn smoke's in my eye... dammit.
+
+0x92790348 = ~z~Nothing man. Hypocrite!
+
+0x99577914 = ~z~Hey. Hey! We're meant to be holding up here, aren't we?
+
+0xA018DE94 = ~z~You think they heard that in Tumbleweed?
+
+0xA4CFA7F5 = ~z~You're such a hardass, eh? I spit on you!
+
+0xA6F29322 = ~z~I might blow the whole damn mine in on our good colleagues' heads... but that's my only concern here.
+
+0xA86D8BED = ~z~That's how this works.
+
+0xA792F17C = ~z~Take a drink and go to sleep... like any other bandito. Eh?
+
+0xA64712F3 = ~z~I'm serious! All your heads. Taken off, one by one. Put in a nice pretty row like a poppy field.
+
+0xAB249167 = ~z~You're just killers. All of you.
+
+0xAC162662 = ~z~Welcome that fellow to our mine.
+
+0xADDFDE90 = ~z~I don't think it's as simple as one or the other, prick.
+
+0xAF96E1FE = ~z~You want a stick dynamite shot out your hand, or you want to tell me where Esteban Cortez is at?
+
+0xB6B885B9 = ~z~You're just an assassin.
+
+0xB74DE193 = ~z~Come on, pendejo!
+
+0xB114A47C = ~z~Hey! Who's that?
+
+0xB369FF1C = ~z~~sl:1.2~Dangerous bunch of outlaws, we are.
+
+0xB470ACF3 = ~z~Over there... get that fool!
+
+0xB612C615 = ~z~Shit! Shit! That piss licker Sheriff Freeman!
+
+0xBD7C72FF = ~z~Las juras. We got the law here.
+
+0xBE2CD645 = ~z~Esteban! Esteban!
+
+0xC05BA309 = ~z~I'll light some dynamite and shove it up your ass.
+
+0xC3B07C71 = ~z~Now dump him out back. And I'll have you your payment.
+
+0xC7C9A795 = ~z~I'm not gonna make this easy for you bastards. Bastard!
+
+0xC602A455 = ~z~No problema.
+
+0xC409205A = ~z~A dirty, greedy killer.
+
+0xCAFCC904 = ~z~Come save me, you cowards.
+
+0xCB24A27B = ~z~
+
+0xCC6772BA = ~z~He's a damn scalp hunter!
+
+0xCD0D3266 = ~z~Sheriff Freeman... he pay you to kill my men... he pay you to kill me?
+
+0xCDCB21DE = ~z~How you say shut up in Spanish?
+
+0xCDE0720C = ~z~Bastard. Bastard. Killer. Bastard! They should hang you, you bastard.
+
+0xCF307DFE = ~z~Puta.
+
+0xD0493AB6 = ~z~Get away.
+
+0xD04C0A63 = ~z~Men, kill him.
+
+0xD054D5FD = ~z~I don't do it for conversation.
+
+0xD0D3A4D7 = ~z~He's a bounty hunter. Get him!
+
+0xD2B36A9F = ~z~If we got to hole up here, we at least gonna use the stinking miners' dynamite...
+
+0xD4AC765D = ~z~One more time. Come on.
+
+0xD5A5C56F = ~z~You're not going to hang me like a dog.
+
+0xD5AC7095 = ~z~What you're gonna do is blow your own arm off, borracho.
+
+0xD5BB43C6 = ~z~~sl:0.0:0.9~Here we go...~sl:1.7:1.1:1~we're live.
+
+0xD7CFE2AA = ~z~Hey! My men! Where are they going?
+
+0xD34D4194 = ~z~This will go a whole lot easier if you're accepting of it...
+
+0xD35455AA = ~z~You'll know I'm dead when I come haunt you, pendejo. Stop taunting me.
+
+0xDBC772AC = ~z~Almost home... you know, this sheriff doesn't keep his cells full for long.
+
+0xDC0C268A = ~z~Don't get all flustered about it... this isn't personal.
+
+0xDC86B4C7 = ~z~Shut up and enjoy the scenery.
+
+0xDD5A0118 = ~z~Stop it. Now.
+
+0xDD650132 = ~z~So why you putting on a goddamn twenty-one gun salute?
+
+0xDE8926DD = ~z~Kill the bounty hunter!
+
+0xDF2F9CB4 = ~z~You're not the law... you're not an outlaw... you're just a bastard!
+
+0xDF668A1B = ~z~Dumb bastard... I'm gone.
+
+0xE0750E4E = ~t~~sl:0.0:1.4:1~In Spanish: Very dangerous.
+
+0xE0E0A56A = ~z~Only one you got to blame here's yourself, you yellow, murdering son of a bitch.
+
+0xE2D07933 = ~z~Now look what you done. I told you, you should cut it out.
+
+0xE2EF6002 = ~z~You're not taking me.
+
+0xE13F4AD6 = ~z~Oi, look! Cortez said shoot on sight!
+
+0xEB2A6985 = ~z~Where the hell are you going? Keep moving.
+
+0xEB66C098 = ~z~I am Esteban Cortez. Kill this animal!
+
+0xEDA2D8BB = ~z~Here we go. Try and aim straight.
+
+0xEEC6AAF1 = ~z~~sl:0.0:1.7:1~Very good. Very good.
+
+0xEFA9A5B7 = ~z~In Spanish: Idiots.
+
+0xEFBCA5E1 = ~z~Quiet down.
+
+0xF08B962A = ~z~They asked for it.
+
+0xF1A92EA0 = ~z~Tell Sheriff Freeman I'm going to burn his house to ash.
+
+0xF8FEFE2F = ~z~You watch your mouth.
+
+0xF23A7547 = ~z~Bet you feel better now.
+
+0xF301DC9F = ~z~I got a message for the man.
+
+0xF6397A78 = ~z~Like a trapped damn rat.
+
+0xFCF8C755 = ~z~~sl:2.4:1.2:1~Kabam.
+
+0xFF138A50 = ~z~Come on now, guys. Give it a rest.
+
+0xFFB21032 = ~z~That's it. Let it out.
+

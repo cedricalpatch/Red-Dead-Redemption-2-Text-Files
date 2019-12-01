@@ -1,0 +1,52 @@
+0x2AAAF4B6 = A kid was frightened.
+
+0x2CA23B33 = Return to the ~o~saloon~s~
+
+0x3DFB7CC4 = You lost the kid.
+
+0x5AE49002 = You lost the kid.
+
+0x8CCD56D3 = ~s~Ask around about Bronte in the ~o~alley~s~
+
+0x9BFF5836 = Kid
+
+0x16FFF95A = ~s~Search the alley for the ~o~kid~s~
+
+0x39D1C189 = A kid was frightened.
+
+0x54F8F217 = ~s~Head to the ~o~bar~s~
+
+0x79C83322 = You broke the law.
+
+0x2644FB53 = Return to the ~o~bar~s~
+
+0x16929E3B = Return to the ~o~search area~s~
+
+0xA7A1EF86 = Demand
+
+0xAA4691B5 = ~s~Chase the ~o~kid~s~
+
+0xACB7E295 = You led the law to Dutch.
+
+0xB93734F6 = The kid was frightened.
+
+0xBB4F33C6 = ~s~Speak to the ~o~bartender~s~
+
+0xC61C58E0 = ~s~Return to ~o~Dutch~s~
+
+0xC78FCC47 = Follow the ~o~kid~s~
+
+0xC417D47C = Wave
+
+0xE3F2850C = ~s~Return to Dutch near the ~o~saloon~s~
+
+0xE9721E3F = ~s~Search the market for the ~o~kid~s~
+
+0xE39718D4 = Return to the ~o~kid~s~
+
+0xEA5C27BD = The saloon was abandoned.~s~
+
+0xEE9F2F72 = The bar was abandoned.
+
+0xEF8748B6 = Ask
+

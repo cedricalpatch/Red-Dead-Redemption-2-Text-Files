@@ -1,0 +1,30 @@
+0x009FB889 = Go to the Old Cajun's ~o~house~s~
+
+0x013F070E = Help
+
+0x2A836F3D = Accept
+
+0x2F2A463A = Follow the ~o~Old Cajun~s~
+
+0x6B104D5E = Return to the ~o~Old Cajun~s~
+
+0x7DEC6C4E = Stranger
+
+0x21C84427 = Deal with the ~e~Swamp Gang~s~
+
+0x629B97B1 = Return to the ~o~Old Cajun~s~
+
+0x901AADFC = Protect the ~o~Old Cajun~s~
+
+0x906FBBA6 = Greet
+
+0x6614BCC5 = The Old Cajun has died.
+
+0x8153C20D = Reject
+
+0x959325C0 = The Old Cajun was abandoned.
+
+0xA8D92B77 = Don't help
+
+0xA40F567C = Old Cajun
+

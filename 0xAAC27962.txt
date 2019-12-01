@@ -1,0 +1,154 @@
+0x002805B5 = Aim a weapon at the driver to stop the wagon.
+
+0x03FB70F9 = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to cause Hector to slip further from the carriage
+
+0x06243073 = The law were alerted.
+
+0x09A18641 = You are too close to the target. Back off, or risk being noticed.
+
+0x0F2AC280 = Jean Marc has died.
+
+0x0F40621D = Confront
+
+0x1AE16200 = Enter the ~o~stagecoach
+
+0x1B199ACB = Press ~INPUT_FRONTEND_ACCEPT~ to pull Hector Fellowes back inside the coach
+
+0x1F2E20F6 = You killed the stagecoach driver.
+
+0x2D07B18D = Wait until Professor Shiftacre reaches a secluded area before confronting him.
+
+0x3A739911 = Your weapon use attracted too much attention.
+
+0x3D1CD4DF = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to grab Hector Fellowes
+
+0x4A4F4FF4 = Return to the Mayor's house after dark
+
+0x4A5623D3 = Driver
+
+0x4C52CFD8 = Intimidate ~e~Professor Shiftacre~s~
+
+0x4C316F8C = Jean Marc's house was abandoned.
+
+0x4CE23DEE = You failed to dispose of Jean Marc's corpse.
+
+0x4F32E193 = Return to Jean Marc's ~o~house~s~
+
+0x6AE2B3E9 = You abandoned Jean Marc.
+
+0x6CA07B70 = Pick up ~o~Jean Marc's corpse~s~
+
+0x7EACE1DD = Press ~INPUT_MINIGAME_LEFT_TRIGGER~ and ~INPUT_MINIGAME_RIGHT_TRIGGER~ to pull Hector Fellowes back into the carriage
+
+0x8D7920DC = Intimidate Hector Fellowes
+
+0x9A5D2251 = Confront ~o~Jean Marc~s~
+
+0x9FF2562A = Take Jean Marc to the ~o~Mayor's house~s~ without being seen
+
+0x21B84E8D = You got too close to Professor Shiftacre.
+
+0x30F9ED10 = The chosen area is too public.
+
+0x48BBF611 = Head towards the ~o~Art Gallery
+
+0x49CB4479 = Dump Jean Marc's corpse in the ~o~water
+
+0x50C2508F = Don't leave ~e~Jean Marc~s~ too far behind
+
+0x66CB5440 = Approach ~o~Professor Shiftacre
+
+0x73ED4CBA = Professor Shiftacre
+
+0x76D778CE = You annoyed Jean Marc.
+
+0x80C4ED81 = Choose to kill ~e~Jean Marc~s~, or holster your weapon to let him live
+
+0x134D281D = Jean Marc
+
+0x168C8FB3 = Hector Fellowes made it to his destination.
+
+0x229C2B2D = Wait for a red stagecoach
+
+0x368FBDD2 = Mayor Lemieux
+
+0x451E6CD6 = The stagecoach can no longer be driven.
+
+0x662A0533 = You left the area.
+
+0x687AD8A2 = Board the ~o~stagecoach
+
+0x3532A2E3 = Pick up ~o~Jean Marc
+
+0x3659CB93 = Professor Shiftacre
+
+0x6835F495 = You attacked Mayor Lemieux.
+
+0x6881DC23 = Professor Shiftacre was abandoned.
+
+0x8082CF12 = The wagon was destroyed.
+
+0x24294FF2 = Let go
+
+0x54822CAB = Drop Jean Marc close to ~o~Mayor Lemieux
+
+0x787563A8 = Use ~INPUT_MOVE_LR~ to move around on the outside of the stagecoach.
+
+0x22050021 = Drive to the ~o~Art Gallery
+
+0x56165056 = You were spotted by a local.
+
+0x73804999 = You killed Hector Fellowes.
+
+0xA5C4406A = Jean Marc's corpse
+
+0xA8ECF47B = Callout
+
+0xAD40FBAF = Follow the on screen prompts to further intimidate Hector Fellowes.
+
+0xAE0F8AA3 = Stagecoach
+
+0xB9693529 = Return to ~o~Jean Marc~s~ at the Art Gallery
+
+0xBC592014 = Get back in the ~o~buggy
+
+0xBF68616C = Hector Fellowes' stagecoach was abandoned.
+
+0xC43D1384 = Professor Shiftacre has died.
+
+0xC1037924 = Return to the ~o~Mayor's house~s~
+
+0xC4799411 = You attacked Professor Shiftacre.
+
+0xD2F7B0F9 = You lost Professor Shiftacre.
+
+0xD3CF39FF = You can enter the coach by riding alongside at a similar speed and jumping into it.
+
+0xD92E8BA5 = Go to Jean Marc's ~o~house~s~
+
+0xE2C8CE20 = Jean Marc
+
+0xE55A6544 = Follow ~o~Professor Shiftacre~s~ until he reaches a secluded area
+
+0xE520D5FE = Follow ~o~Professor Shiftacre
+
+0xE55989C6 = Follow the ~o~Mayor~s~
+
+0xEC51DBED = The Mayor's house was abandoned.
+
+0xEE8D6A80 = Go to the ~o~Saint Denis exit~s~ near the Bayou
+
+0xEE967A64 = Return to ~o~Jean Marc~s~
+
+0xF2E3014F = Threaten
+
+0xF3EA0BFF = Jean Marc was abandoned.
+
+0xF74BF9B5 = You killed Jean Marc.
+
+0xF543CD22 = You damaged the stagecoach too severely.
+
+0xFBA330DA = The wagon's horse has died.
+
+0xFF02FB47 = Threaten
+

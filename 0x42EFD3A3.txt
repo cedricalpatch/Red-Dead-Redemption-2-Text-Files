@@ -1,0 +1,76 @@
+0x0B0BDEA6 = ~z~Someone told me that in a bar, so I thought I'd give it a try...
+
+0x0B46F6A9 = ~z~~sl:0.0:2.7~If you can take me over by Gaptooth Breach,~sl:0.3~I'll find my way from there.
+
+0x1B8FE620 = ~z~But all we can do is learn from our mistakes, right?
+
+0x1CEB0B34 = ~z~Afraid I'm making it your last, though...
+
+0x2EB3C05C = ~z~Down off there. I'd like to see your face, eye to eye.
+
+0x3C40C10F = ~z~well, anyway, ~rp~I'd best save what spit I got left in my mouth.
+
+0x4F70A0BF = ~z~~sl:0.0:0.8~So will ya?~sl:0.9~I ain't sure I'll make it otherwise.
+
+0x6DD2CB4D = ~z~~sl:0.0:1.3~What you doing?~sl:0.5~I know you're there...
+
+0x7F2B432A = ~z~There they go... last little flickerings...
+
+0x46EFFCFA = ~z~Gonna be home soon...
+
+0x65AD93E8 = ~z~Well, in truth? ~rp~Had me a run-in with a feller...
+
+0x87FB6B84 = ~z~~sl:0.0:2.1~Think it over, but not too long.~sl:0.6~Cold's spreading.
+
+0x889AF431 = ~z~Hop down, let's talk a minute.
+
+0x914D68CB = ~z~Hey. You should take this. Only seems right.
+
+0x2012B15D = ~z~Ain't sure I'll be able to squeeze on there.
+
+0x3286AD9B = ~z~Figured that was it when I saw you coming...
+
+0x4995EBA8 = ~z~~sl:0.0:2.9~Breach'll serve me well 'til that other business calms down.~sl:~Not that I told you any of that, mind you.
+
+0x6004A088 = ~z~~sl:0.0:3.6~Look at that... thought I'd be dying alone out here.~sl:0.5~Don't suppose you could hop me a ride, could you?
+
+0x7097C3B5 = ~z~~sl:0.0:2.5~So, where's your horse?~sl:0.5~Or are you on foot, too?
+
+0x8095F0D3 = ~z~~sl:0.0:3.4~You, uh... uh, you here to rob me,~sl:0.4~or you looking for fire?
+
+0x9245030E = ~z~Really?
+
+0x41430464 = ~z~~sl:0.0:2.1~Keeping me interested standing there...
+
+0x77743775 = ~z~~sl:0.0:3.5~I made a decision about him... and now that feller ain't around.~sl:0.7~~rp~Thought it'd be best to hide out for a bit.
+
+0xA78EECCD = ~z~This is nice.
+
+0xA79E97CD = ~z~Been out in the desert three days now... ~rp~Ran out of provisions on day two...
+
+0xA7781CD2 = ~z~Know what? I reckon I'll just take my chances out here.
+
+0xB93085D2 = ~z~I tell you... this is a real mistake you made.
+
+0xBC548D31 = ~z~You'd really trust a stranger like me? In the desert?
+
+0xC8F9DA83 = ~z~Didn't have much but a half dead mule that went full dead a day in
+
+0xC83C7F91 = ~z~Least it's a nice night...
+
+0xCEB29D83 = ~z~Hello?
+
+0xD01F59E4 = ~z~~sl:0.0:1.3~Didn't expect this,~sl:0.7~it's real kind of you.
+
+0xD43EC85C = ~z~Well, okay then... least it's coming on my terms...
+
+0xD61C1B54 = ~z~Didn't think it'd end like this...
+
+0xDAD77E3E = ~z~and a bag of tack and some water that ran out some hours before you found me...
+
+0xDFD13FC0 = ~z~Oh, hey... who's that?
+
+0xF8DA3A43 = ~z~~sl:0.0:2.3~You ever spend time alone in the desert?~sl:~Supposedly, ~rp~that's what Jesus did.
+
+0xFDA23A84 = ~z~Yeah... this'll be good.
+

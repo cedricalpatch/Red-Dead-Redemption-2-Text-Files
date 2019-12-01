@@ -1,0 +1,16 @@
+0x1B5AE885 = ~z~You're filthy again, Mr. Morgan!
+
+0x5E447BF6 = ~z~~sl:0.0:0.6~No...~sl:2.8~okay... let's go!
+
+0x6C7B1863 = ~z~
+
+0x48D4A7BB = ~z~Well, thank you kindly.
+
+0x7303FC19 = ~z~~sl:4.7:0.9~Here...~sl:1.5~some money for your trouble.
+
+0x811556E8 = ~z~
+
+0xC51E3C09 = ~z~You should be ashamed of yourself, a grown man covered in shit like this.
+
+0xD377D8BC = ~z~Not now!
+

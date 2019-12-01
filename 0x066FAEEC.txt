@@ -1,0 +1,24 @@
+0x09FE2ED4 = ~z~Go sleep it off, you drunk, is that clear?
+
+0x3F8C99F0 = ~z~Okay.
+
+0x6D4FF576 = ~z~I have excused you quite enough!
+
+0x6ED2E879 = ~z~
+
+0x50CB3C6D = ~z~Okay!
+
+0x78660B9A = ~z~
+
+0x1445435E = ~z~Go sleep it off, you drunken buffoon.
+
+0xA424D31C = ~z~I've not got enough time for fools, Arthur.
+
+0xB68F77F1 = ~z~Yep.
+
+0xBF7519B7 = ~z~
+
+0xD12DBD28 = ~z~Excuse me?
+
+0xECB37433 = ~z~So what's wrong with you, you old fool?
+

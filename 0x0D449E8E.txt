@@ -1,0 +1,14 @@
+0x091BEC48 = ~z~My name ain't no concern of yours.
+
+0x7F2FF3C1 = ~z~Yeah, well... we'll leave it there then.
+
+0x9CE4D634 = ~z~No, but, you seem like a decent feller, behind it all...
+
+0x12FD1BE5 = ~z~I don't give a damn.
+
+0xC8A92DBC = ~z~Then you ain't a good judge of character.
+
+0xC741846F = ~z~I'm hungry.
+
+0xD3188042 = ~z~You're Arthur, right?
+

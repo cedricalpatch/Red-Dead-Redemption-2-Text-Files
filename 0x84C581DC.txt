@@ -1,0 +1,124 @@
+0x02EF86B1 = ~z~Bart Cavanaugh got fresh with the wrong girl. A cattle man's daughter. He's what you'd call an example to the rest.
+
+0x06C710DB = ~z~Ain't that good news.
+
+0x0F9941A6 = ~z~We ain't fussy – bring 'em back dead or alive.
+
+0x3B0B87C4 = ~z~You see that poster? That'll tell you.
+
+0x3BFCCCD7 = ~z~Then I'm in luck.
+
+0x3D167D79 = ~z~Then I'm in luck.
+
+0x3F224834 = ~z~Well, well.
+
+0x5C566004 = ~z~Okay. Joshua Brown. Give it to me.
+
+0x6B19AFAE = ~z~Josh Brown'd be a hard man to kill... let alone capture... and that's what we're asking for.
+
+0x6D44869C = ~z~I figure I know what I got to do.
+
+0x7EF75C1F = ~z~Little over-keen ain't you?
+
+0x8E60650F = ~z~Look at you.
+
+0x10A6221E = ~z~Okay. Why we after this feller then?
+
+0x24FE93ED = ~z~Hmmm.
+
+0x28C1E331 = ~z~Take a look up there.
+
+0x45B20C9D = ~z~I figure I know what I got to do.
+
+0x74D89484 = ~z~Good luck with it.
+
+0x82AB3175 = ~z~I guess I know my job then.
+
+0x112ADD25 = ~z~If this man's dangerous, why I got to bring him in alive?
+
+0x342B0AC9 = ~z~Capture or kill – whatever you got to do.
+
+0x455D86AE = ~z~But if you walk that line, you're going to step over it at some point, and that what he done.
+
+0x475B64B8 = ~z~They say they business men chasing up land deals... but I know hired guns when I see 'em.
+
+0x529DB6EC = ~z~Poster's on the wall.
+
+0x791F3A8D = ~z~Well, well.
+
+0x1735E2D0 = ~z~Little over-keen ain't you?
+
+0x3149AC83 = ~z~Look at you.
+
+0x5361D2EA = ~z~If this man's dangerous, why I got to bring him in alive?
+
+0x5602CE72 = ~z~Any outstanding warrants round here?
+
+0x6040E2EE = ~z~Sheriff, you looking for any bad folk?
+
+0x18360E9E = ~z~You sounding desperate, Sheriff.
+
+0x32750FBE = ~z~Happy hunting.
+
+0x397048E2 = ~z~Bart Cavanaugh. He's one of them boys down from Laramie.
+
+0x569203A9 = ~z~We want that one alive, so there's no confusing things.
+
+0x811041BF = ~z~I want your advice, I'll ask for it, okay.
+
+0x959510C7 = ~z~but they're all things we turn a blind eye to now if you're from those parts. Or so I'm instructed.
+
+0x6903533F = ~z~I guess I know my job then.
+
+0x7546667B = ~z~He's a killer. Got away with it for the most part too – legal kills.
+
+0x55528420 = ~z~Got half the bounty hunters in the state out looking for him.
+
+0x69737559 = ~z~However you can get 'em is how we'll take 'em.
+
+0xA74DB438 = ~z~Intimidation, the destruction of property, violent assault...
+
+0xA37671BF = ~z~Stay safe out there.
+
+0xAAD75682 = ~z~Indeed.
+
+0xABD137C3 = ~z~Any outstanding warrants round here?
+
+0xADD9B1BB = ~z~Laramie? I'm acquainted with some of those fellers.
+
+0xAE2F9C42 = ~z~You don't want to bring him in breathing, you leave this alone.
+
+0xAE755BE7 = ~z~Okay. Joshua Brown. Give it to me.
+
+0xB2868770 = ~z~Any bounties?
+
+0xBA0FD9BC = ~z~Tell me about this bounty. What's his charge?
+
+0xBBEE698B = ~z~You ain't a tourist, so I'm guessing you're a bounty hunter. Posters usually go up on that wall there.
+
+0xBD4A5AB5 = ~z~Any bounties?
+
+0xBE02520C = ~z~Yeah, mayor's got a strange tolerance.... but this one's gone too far.  He's up North of here. The other side of the mountain.
+
+0xBFA63F2F = ~z~He brought us some bounties in the past, and he always been decent.
+
+0xC3AE4C64 = ~z~I want your advice, I'll ask for it, okay.
+
+0xC307DF89 = ~z~But you might want to leave that one on the wall.
+
+0xD0A47AC2 = ~z~Word is he's made a home out an old mine... up in the Big Valley mountains.
+
+0xD4207082 = ~z~Hmmm.
+
+0xDE7911C5 = ~z~Ain't that good news.
+
+0xE2D825D8 = ~z~Sheriff, you looking for any bad folk?
+
+0xE77E25BB = ~z~Only go after that one if you can bring 'em in breathing, okay?
+
+0xE6790157 = ~z~You sounding desperate, Sheriff.
+
+0xF52CC118 = ~z~In case you can't read, that says bring 'em in alive.
+
+0xF771E08D = ~z~You after a bounty? I can tell... if so, we got a poster on the wall just there.
+

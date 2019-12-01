@@ -1,0 +1,106 @@
+0x02F1B0DC = Put on a disguise
+
+0x051B2260 = A horse was injured.
+
+0x077417D7 = Take out the remaining ~e~pursuers~s~
+
+0x0E4877C6 = The ~o~horse~s~ is escaping
+
+0x1B5D4CEF = Approach the ~o~rustler~s~
+
+0x3BA32242 = Calm the ~o~horse~s~
+
+0x5E0971EF = You attacked Tavish.
+
+0x5EDAD3F1 = Meet the gang at ~o~Clemens Cove~s~
+
+0x7E24FE1A = ~o~Hitch~s~ your horse
+
+0x7F76E190 = Braithwaite Guard
+
+0x8BE6AF28 = Return to ~o~John~s~
+
+0x8CC79B5F = Approach the ~o~stablehand~s~
+
+0x9A345BDB = Javier's horse died.
+
+0x15AFDB33 = Horse
+
+0x21B24C53 = Return to ~o~Javier~s~
+
+0x36A8F03F = Follow ~o~John~s~
+
+0x47AC2CF2 = To lead the horse, equip your lasso and aim at the horse with ~INPUT_AIM~ + ~INPUTGROUP_LOOK~ then press ~INPUT_ATTACK~ to hurl your lasso.
+
+0x51F1CDDD = You attacked the Grays.
+
+0x54BED479 = Approach the ~o~horse~s~
+
+0x65B9C047 = John's horse died.
+
+0x85D94190 = A horse has died.
+
+0x94B8C0CC = Take your horse to the ~o~stables~s~
+
+0x164B440F = Talk to the ~o~guard~s~
+
+0x297BE92C = Wait for the others
+
+0x676DF9D7 = Lead the ~o~horse~s~
+
+0x765C82F4 = Catch up with ~o~Javier~s~
+
+0x794E09F7 = Meet John and Javier at the ~o~stables~s~
+
+0x836FC089 = You attacked the buyer.
+
+0x892AA9D4 = Escort ~o~Javier~s~ and the horses
+
+0x4234F5DD = Javier has died.
+
+0x39131D22 = Follow ~o~John~s~ with the horse
+
+0x70608ABA = The Grays were alerted.
+
+0x266527F8 = Equip bandana
+
+0x531727FF = Dismount the horse
+
+0x25947032 = Follow ~o~Javier~s~
+
+0x78321698 = Follow ~o~Javier~s~
+
+0xA17CCB8A = Return to the ~o~stables~s~
+
+0xA384DD44 = Lasso the ~o~stallion~s~
+
+0xACC8C5FC = The Braithwaites were alerted.
+
+0xAD6B9560 = Return to ~o~Caliga Hall~s~
+
+0xB2F569F1 = Hold ~INPUT_INTERACT_LOCKON~ then press ~INPUT_CONTEXT_Y~ when near the horse to lead it.
+
+0xBB3E191A = Take out the remaining ~e~pursuer~s~
+
+0xBD3C55AB = You lost a horse.
+
+0xBEBA615A = You caused a disturbance in Rhodes.
+
+0xC1CE912D = John has died.
+
+0xC4CC8B68 = Follow the ~o~stablehand~s~
+
+0xD80E80F7 = The horses were left behind.
+
+0xD223A616 = Mount your ~o~horse~s~
+
+0xDD402B22 = You took too long to steal the horses.
+
+0xDDBFD2F9 = Take out the ~e~stablehand~s~ quietly
+
+0xDED16D6F = Rustler
+
+0xF84A093B = Your companions were abandoned.
+
+0xF10791DF = Stablehand
+

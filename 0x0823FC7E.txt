@@ -1,0 +1,24 @@
+0x0BB904F6 = ~z~
+
+0x1CD3A72B = ~z~You got some guts, kid. That's for sure.
+
+0x5FEBF04D = ~z~Come on, my turn now. Please!
+
+0x9A47E504 = ~z~See that? That is how you get a good point.
+
+0x77B21FD9 = ~z~Oh no, we don't need you getting in no more trouble.
+
+0x536ECBF8 = ~z~Got some guts, that boy.
+
+0x377093FC = ~z~No reason.
+
+0x8077612D = ~z~No reason.
+
+0xB6B9CDB1 = ~z~
+
+0xCD8ACB8D = ~z~Are you alright, Jack?
+
+0xE1DDF433 = ~z~I'm just fine, why?
+
+0xFFB0247C = ~z~Always said he took after his mother.
+

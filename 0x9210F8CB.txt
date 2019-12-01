@@ -1,0 +1,68 @@
+0x0FDBA614 = ~z~~sl:0.2~See, I knew you looked like a good'un.
+
+0x2FA901C7 = ~z~To the ground. Now.
+
+0x3C6AD904 = ~z~I best not get bucked off again.
+
+0x7A8D3039 = ~z~So... how you planning on taking me, anyway?
+
+0x8BCB952A = ~z~Damn it all.
+
+0x8DB32271 = ~z~Great. Hope you need help sometime.
+
+0x8E265295 = ~z~And now I'm gonna kill you!
+
+0x10F4C186 = ~z~Well, I ain't sitting on your lap.
+
+0x38BC8CCB = ~z~~sl:0.0:2.3~"Life's shit and then you die", my ma used to say.~sl:0.1:1.9~Not that the woman ever smiled~sl:~until her blood was half whiskey.
+
+0x39ED8070 = ~z~Appreciate it.
+
+0x42FFA151 = ~z~~sl:0.0:2.3~I'm getting real tired of this crap, you know?~sl:~Every day it's something else.
+
+0x46FB35D5 = ~z~Just, just come here a minute, will ya?
+
+0x64EABC65 = ~z~Let's hope that generosity continues...
+
+0x182CADEA = ~z~Knew that horse was funny...
+
+0x583B0863 = ~z~Nearly there.
+
+0x917BCAD5 = ~z~Can you help me over here?
+
+0x1886ADC0 = ~z~Okay... okay, you're gonna make this easy, right?
+
+0x6483E1DE = ~z~Just gonna have a quick look...
+
+0x9537C5C0 = ~z~~sl:0.0:3.3:1~Anyway, I'll shut up. You're bowling me with your sympathy...
+
+0x65846D7D = ~z~Off of there, I ain't playing.
+
+0xAFB5FABC = ~z~~sl:0.0:1.8~Probably get the fever in Armadillo~sl:~over this twelve dollars too, knowing my luck.
+
+0xB3CAFEC6 = ~z~Christ alive... if it ain't one thing, it's another.
+
+0xBA0E71AF = ~z~Stuck here, talking to myself like a crazy woman...
+
+0xBC2EF93D = ~z~~sl:0.0:2.2~Take this. Now we're even.
+
+0xC1F3FBA7 = ~z~Oh, enough! I'm walking.
+
+0xC5EE0054 = ~z~You. I need a hand here.
+
+0xCA67094E = ~z~Oh, hey! Finally.
+
+0xD5CEC41F = ~z~It's the Christian thing to do...
+
+0xDB651F7D = ~z~~sl:0.0:3.1~Horse bucked me and clopped off, lousy mare.~sl:0.2~I find that thing, I'll kill it twice... c-can you give me a ride?
+
+0xE9CC837E = ~z~Well?
+
+0xE41730E1 = ~z~~sl:0.1:1.7~About time someone showed.~sl:0.1~I've been out here stranded nearly all day, it seems.
+
+0xECE56CB2 = ~z~~sl:0.0:1.6~Anyway, uh, know Armadillo?~sl:0.1~Some slow-eye there owes me twelve dollars.
+
+0xF088F993 = ~z~Should I keep walking or what?
+
+0xFEA780F0 = ~z~~sl:0.0:2.8~I'd do the same if the situation was the other way 'round.~sl:0.2~Well... maybe not...
+

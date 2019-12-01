@@ -1,0 +1,14 @@
+0x2D24CEBC = ~z~Mr. Arthur, I told Dutch, I feel I should tell you. I saw some of Colm's boys riding 'round.
+
+0x4B930BA0 = ~z~I don't think so.
+
+0x6C304CDA = ~z~Mm-hmm.
+
+0x7CCDEE15 = ~z~Okay... well, thanks for letting me know, Kieran.
+
+0xC9918797 = ~z~I have no idea!
+
+0xD6B221D8 = ~z~Down here? What they want?
+
+0xF348DB05 = ~z~Did they see you?
+

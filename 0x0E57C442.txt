@@ -1,0 +1,164 @@
+0x008819F0 = ~z~You letting me off then?
+
+0x01730F79 = ~z~Savings? Under the sink?
+
+0x01EAE937 = ~z~Or you got to be stinking drunk already to do this kind of work?
+
+0x039136A5 = ~z~You took my boy from me!
+
+0x060C2B9D = ~z~Enough of this. I'll cut your damn head off.
+
+0x06947435 = ~z~I don't want another beating.
+
+0x0743B0F8 = ~z~Just take what you want. I won't cause you no trouble.
+
+0x08A45465 = ~z~Come take it, it's right here.
+
+0x0B79C015 = ~z~I'm going to stove your head in!
+
+0x0DB60107 = ~z~Come on, it's right here.
+
+0x0DD64591 = ~z~I could be fishing.
+
+0x0E1F351E = ~z~Ain't you collecting, mister?
+
+0x1A8327B5 = ~z~Son, I want to get out of here.  But I can't until I find some money.
+
+0x1AD81260 = ~z~Ain't you coming?
+
+0x1CC61F9A = ~z~What you doing here, huh?
+
+0x2CAC7225 = ~z~Shouldn't have turned your back on me, you parasite.
+
+0x2D26B6FD = ~z~Come on.
+
+0x2EFDEA8E = ~z~Best place for 'em. Now where's them drinks, boy?
+
+0x2F073256 = ~z~It's our life savings. Come and take what you're owed.
+
+0x3C2284D7 = ~z~Don't just stand there, go fix us a drink.
+
+0x3DE506D5 = ~z~Drinks' ready. It's right there, mister.
+
+0x3FB7C066 = ~z~Please. I shouldn't have to die for his sins.
+
+0x4B96CA07 = ~z~Get it out of you, mister.
+
+0x5DD76E88 = ~z~Sounds like you better be going.
+
+0x6E7DC308 = ~z~You going to explain yourself?
+
+0x7B02D24D = ~z~Remember that loan you took, Mr.Davison? Well, time's long since up. I'm here to collect.
+
+0x8CE942FA = ~z~Bludgeon man!
+
+0x8FAF04C1 = ~z~I got a powerful thirst on me right now. How about you?
+
+0x9F5F0212 = ~z~You got the money. Go, won't you?
+
+0x12D7185D = ~z~There's... some in my foot locker... I been keeping it away from him.
+
+0x30D58362 = ~z~When it comes to you, you let me know.
+
+0x31B19212 = ~z~Sure, sure, I got your money. Every stinkin' cent. It's in the house.
+
+0x31D8CAC5 = ~z~Leave me alone.
+
+0x40D5A423 = ~z~Don't hurt me, please. My dad...
+
+0x43C11B45 = ~z~Hey! You got some damn nerve coming back on my property. Get the hell outta here.
+
+0x66B833D0 = ~z~I don't know what you're talking about. Now, let's get that debt settled.
+
+0x70CB7A75 = ~z~Where you going?
+
+0x90AD9923 = ~z~There's cash in my foot locker... I been keeping it away from him!
+
+0x91C4FFD1 = ~z~First you rob me, then you wanna get paid. And they ask why I turn to the bottle.
+
+0x94D910C0 = ~z~Don't hurt me, alright?
+
+0x94EF8689 = ~z~Am I too fast for you?
+
+0x566CB96B = ~z~Pa? Wait, what's going on?
+
+0x902B5CCF = ~z~Someone's here, boy.
+
+0x978E8B64 = ~z~Sure, I got your money. Every stinkin' cent. It's in the house.
+
+0x2133EB89 = ~z~This is my house!
+
+0x2403F6B7 = ~z~Ah, I shoulda known. You goddamn bludgeon men are all the same.
+
+0x2675D9DA = ~z~Don't give me no talk, boy, just do it! I'll look down here for our savings.
+
+0x3448F580 = ~z~Another one, Pa?
+
+0x4876BF9C = ~z~Hell, I'll even offer you a drink. We can toast to never layin' eyes on each other again.
+
+0x7535D0CB = ~z~You're lucky I'm humouring you at all... yeah, I remember.
+
+0x432327FD = ~z~Fool of a man.
+
+0x15219157 = ~z~Shit.
+
+0xA2BCD553 = ~z~I think I know the sum, and that should cover it.
+
+0xA89AB749 = ~z~You better get talking, and get talking quick.
+
+0xA41776D8 = ~z~Remember that loan you took, Mr. Davison? Well, time's long since up. I'm here to collect.
+
+0xAC29B49A = ~z~Hell, I'll even offer you a drink. We can toast to never layin' eyes on each other again.
+
+0xAF31113E = ~z~Scram or speak, mister.
+
+0xB04B89BE = ~z~My house!
+
+0xB1ADA6AF = ~z~You won't find nothing else here. Please. Just leave.
+
+0xB4ABF931 = ~z~Ain't you the good son? You should be proud of yourself.
+
+0xB19452AF = ~z~That's something we can both agree on. But we can also agree, you did.
+
+0xBF22A5F5 = ~z~Hey! You better have a damn good reason for being on my property, mister.
+
+0xBF41FD41 = ~z~That's it, I told you.
+
+0xC1FDF382 = ~z~Shouldn't have borrowed no money from that shifty looking bastard.
+
+0xC3DACB09 = ~z~My pa's a drunk and a destitute. There ain't nothing else here.
+
+0xCDB0826E = ~z~Pa, what you done. What you done.
+
+0xCDB49A26 = ~z~You're wasting your time. Please.
+
+0xCF1BB714 = ~z~Don't you want that money? Or that drink?
+
+0xD6206F94 = ~z~You think there's more here? That's it. Please. Go.
+
+0xD868164E = ~z~If you'll take my money, surely you'll take a drink off'a me as well. That would be the mannerly thing to do.
+
+0xDAE5AD92 = ~z~Son, I ain't leaving 'til I'm paid. And while I'm here, your situation's real precarious.
+
+0xE7EDB1C4 = ~z~You back so soon, Pa?
+
+0xE231431F = ~z~Aw, hell.
+
+0xEAAF3BB8 = ~z~Hold on. You're getting it.
+
+0xF32F4BDC = ~z~Let's handle us the money first, worry about manners later, okay?
+
+0xF37C22BE = ~z~I'll cut your damn head clean off!
+
+0xF1628CAA = ~z~This is as fast as I can go.
+
+0xF4144D8A = ~z~Oh, I like doing it sober.
+
+0xF8437791 = ~z~I ain't your pa. I'm here for the debt he owes.
+
+0xFD256CFA = ~z~Ain't that lucky.
+
+0xFEF075A7 = ~z~Now that was easy, wasn't it?
+
+0xFF112807 = ~z~You were catching flies, you weren't catching fish. Now come on, let's get us that debt.
+

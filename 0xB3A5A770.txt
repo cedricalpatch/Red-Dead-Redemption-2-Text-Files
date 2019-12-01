@@ -1,0 +1,22 @@
+0x1EAA5A44 = Sadie Leads
+
+0x2D7477D8 = Sadie Follows
+
+0x6DFD66DF = Stay behind
+
+0x8EEB48D8 = Cover fire
+
+0x297CB58C = Go to ~o~Sadie~s~
+
+0x408C2C1F = Distract
+
+0x40330B4B = Go with Sadie
+
+0xB5345127 = Help Sadie
+
+0xC5CDF25A = Don't help Sadie
+
+0xDACA1C55 = Clear the ~o~barn~s~
+
+0xF7D1E9B6 = Deal with the ~e~O'Driscolls~s~
+

@@ -1,0 +1,30 @@
+0x3F4C9C0B = ~z~Folk here'll be talking 'bout that shot for some time, let me tell you...
+
+0x4D4E3812 = ~z~Hey, feller.
+
+0x5BFF5570 = ~z~Now, Willy's pistol's known far and wide... way he tells it Donkey Daniels was the last fool tried to draw up against him.
+
+0x6A46F1FF = ~z~Anyway, this spitfire comes in, and 'fore you could count to three Willy was done in.
+
+0x6CB81597 = ~z~When pride's all you have, and it's taken? Boy...
+
+0x8B215269 = ~z~Haven't seen that feller since. Word is no one has...
+
+0x55C4E7AD = ~z~Well, hey, the great noble gunslinger!
+
+0x148EC694 = ~z~You a fan of duels? Had a duel here not too long ago, was quite the sight.
+
+0x436F4302 = ~z~I swear, I was waiting for the day someone might come and put ol' Willy Curlls in his place.
+
+0x5320F158 = ~z~Well, well, if it ain't the great gunslinger himself.
+
+0x233463DF = ~z~Some gun comes in and challenges ol' Willy Curlls to a duel.
+
+0xB9E9AFF9 = ~z~You ask me, he finished what you started. Can't imagine he'd abide much else.
+
+0xDB23815F = ~z~You know, you caused quite a stir, putting down Willy Curlls like you did.
+
+0xF8DDBCD3 = ~z~He'd been talking about his skills day in, day out, to any young gun that might have the patience for it. And the empty barrel to match.
+
+0xFE864824 = ~z~Can't say I'm all that sorry he's gone. That man could drown a bear with all his talking.
+

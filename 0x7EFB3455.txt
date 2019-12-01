@@ -1,0 +1,42 @@
+0x009F837A = ~z~What do you mean?
+
+0x6F259298 = ~z~Thanks, Arthur.
+
+0x9A059733 = ~z~~sl:0.0:1.8~Arthur, why is he always so angry?~sl:~You got any clue?
+
+0x22C4C7C4 = ~z~Why are you always so angry, Bill?
+
+0x53F42A22 = ~z~Ay, I love it when you talk to me so tough and manly.
+
+0x463A8EAF = ~z~~sl:0.0:2.1~You know you make me feel like a little Mexican peasant~sl:~who's gotta be scared of the big American soldier!
+
+0x561B0BFA = ~z~And I ain't always mad. Okay?
+
+0x4258E47E = ~z~Nobody, no one.
+
+0x6756AE71 = ~z~~sl:0.0:1.0~I mean life...~sl:0.3:2.8~life is good. As well as bad, but you seem like,~sl:0.4~you ordered eggs but got chicken shit, you know?
+
+0x7991D2E7 = ~z~I ain't never eaten chicken shit in all my life! Now, who the hell's been saying that?
+
+0x30876349 = ~z~Well now, you want to start something buddy?
+
+0xA7B22F2B = ~z~
+
+0xA110766D = ~z~Alright, I give up.
+
+0xBC905C48 = ~z~You carry on, Bill.
+
+0xC97B9533 = ~z~Nothing, nothing, it's...
+
+0xCA83F4CE = ~z~~sl:0.0:2.1~Okay, hey, whatever you say, buddy.~sl:0.3:0.8~Just...~sl:0.2~cheer up, okay?
+
+0xDC663ADC = ~z~You shut up, shut up.
+
+0xDDD21B6A = ~z~Otherwise I'll have to kill you myself.
+
+0xED565CE8 = ~z~~sl:0.0:1.0~Hey, what's wrong, Bill?~sl:0.0:1.7~You look, uh, kinda confused~sl:0.0:2.6:1~like someone just asked you where the sun goes at night.
+
+0xEE043F2F = ~z~~sl:0.0:1.7~He's every right to be angry.~sl:0.0:1.5~He's been dealt a bad hand.~sl:~I'd be angry too.
+
+0xFBBDF9B7 = ~z~Yeah, yeah better be nothing.
+

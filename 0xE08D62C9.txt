@@ -1,0 +1,178 @@
+0x0531F593 = Mount your ~o~horse~s~
+
+0x098E1E00 = The fish have been scared off
+
+0x09C985AB = Get back to your ~o~horse~s~
+
+0x1BDA37AC = Hosea was injured.
+
+0x1C6E04DB = Head back with Javier
+
+0x1C237102 = Mount your ~o~horse~s~
+
+0x1DEA8305 = You attacked Pearson
+
+0x1E047987 = Continue fishing with Kieran
+
+0x1F4914C0 = The eggs were destroyed
+
+0x2C80CBF5 = Return to ~o~Kieran~s~
+
+0x2D82DB36 = Follow ~o~Javier~s~
+
+0x5C0DBF5B = You failed to land on the shore.
+
+0x6A29566C = Stay and fish
+
+0x6EBC40E2 = The boat was destroyed
+
+0x7D7CE0AA = With the fishing rod equipped, hold ~INPUT_OPEN_WHEEL_MENU~, tap ~INPUT_SELECT_NEXT_WHEEL~ and select a lure or bait option other than the worm by using ~INPUTGROUP_RADIAL_MENU_NAV~.
+
+0x7E9BA426 = Fish from the rock
+
+0x7F17D547 = You failed to row along the tree line.
+
+0x8B787E6F = You attacked your horse
+
+0x8F2B9BBA = Follow ~o~Hosea~s~ to the fishing spot
+
+0x9E5B32AD = Open Item Wheel by holding ~INPUT_OPEN_WHEEL_MENU~ and pressing ~INPUT_SELECT_NEXT_WHEEL~. Select Fishing Rod from the Item Wheel to equip it.
+
+0x9F2A47AA = Dismount from your horse
+
+0x19C20A8F = Row to the ~o~tree line~s~
+
+0x26A9F748 = Fish along the ~o~beach~s~
+
+0x36D04D90 = You attacked Kieran's horse
+
+0x49EFDFBC = Wait for ~o~Javier~s~
+
+0x73CA4CDF = You attacked Javier's horse
+
+0x76A5ED42 = Swanson was injured.
+
+0x85EF4F2F = Catch up with ~o~Kieran~s~
+
+0x96B1E6D0 = Kieran is dead
+
+0x421DDA87 = Press ~INPUT_MINIGAME_FISHING_QUICK_EQUIP~ to quick-equip cricket bait
+
+0x508B3EA9 = Talk to ~o~Hosea~s~
+
+0x591D37BD = Mount up and follow ~o~Javier~s~
+
+0x2625E930 = Return to ~o~Pearson~s~
+
+0x2975D0B8 = Continue fishing
+
+0x3071B18C = Go fishing
+
+0x3901C21E = Fish off the end of the ~o~dock~s~
+
+0x4704EBC9 = Return to the ~o~boat~s~
+
+0x8307A089 = Fish along the ~o~beach~s~
+
+0x8434F417 = Search
+
+0x12173C3B = Follow ~o~Javier~s~ to the fishing spot
+
+0x61236E98 = You attacked Kieran
+
+0x89715D41 = You abandoned Kieran
+
+0x535309E4 = Dismount near ~o~Javier~s~
+
+0x683273BA = Go back to camp
+
+0x2597905F = Join Javier at the ~o~shoreline~s~
+
+0x6009150B = Follow Javier
+
+0x9646381F = Catch up to ~o~Javier~s~
+
+0x30469753 = Follow ~o~Kieran~s~ to the new location
+
+0x35518597 = Walk with ~o~Javier~s~
+
+0x63568373 = You abandoned Javier.
+
+0x84027762 = Javier is dead
+
+0xA03CD218 = Kieran's horse was killed
+
+0xA2DCA71E = Fish from the ~o~rock~s~
+
+0xA84E3AAB = Kieran's horse was killed
+
+0xA290EEC8 = Wait for ~o~Javier~s~
+
+0xA2190B24 = You broke the law.
+
+0xA3795F4C = Fish from the ~o~rock~s~
+
+0xA62291DD = Return to the ~o~fishing location~s~
+
+0xAD93BC88 = Javier's horse was killed
+
+0xB8EA2E99 = You abandoned Kieran.
+
+0xB858C5E0 = ~o~Search~s~ for crayfish
+
+0xB9371221 = Wait for ~o~Pearson's~s~ distraction
+
+0xBB19353D = Put away your fishing rod
+
+0xBD319CC6 = You have abandoned Pearson
+
+0xBE9DD0A3 = Follow ~o~Pearson~s~
+
+0xC8E8FAFA = Mount your ~o~horse~s~.
+
+0xC207147D = Your horse is dead
+
+0xCAD98A1F = Continue fishing or head back to camp.
+
+0xCD3D22D6 = In order to catch a legendary fish you need a special lure. The type of special lure is defined by the body of water where the legendary fish resides.
+
+0xCF4BE299 = Row back to the ~o~dock~s~
+
+0xD989BB8F = Follow ~o~Kieran~s~
+
+0xDB7F8823 = Talk to the ~o~Naked Swimmer~s~
+
+0xDE883E9E = Search the ~o~area~s~ for gator nest eggs
+
+0xDF9ADE66 = You attacked your horse
+
+0xE4F2C9DE = Kieran was injured.
+
+0xE894F193 = A horse has been injured.
+
+0xE9056E2C = Land the boat ~o~on shore~s~
+
+0xE9093FB7 = Row along the ~o~tree line~s~
+
+0xEBE228E8 = Follow ~o~Kieran~s~ to the next fishing spot
+
+0xED5FBDF4 = Equip your fishing rod
+
+0xEFB7DB5F = Stay and fish
+
+0xF2FFCED8 = Your horse cannot reach you
+
+0xF95B720D = You attacked Javier
+
+0xF3524FD0 = Race Javier back to ~o~camp~s~.
+
+0xF7346E61 = Javier was injured.
+
+0xFCD21ED9 = Join up with ~o~Javier~s~
+
+0xFE910421 = You attacked Kieran
+
+0xFF2CCF7D = Race Kieran back to ~o~camp~s~
+
+0xFF895147 = Your horse was killed
+

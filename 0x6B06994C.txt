@@ -1,0 +1,68 @@
+0x092C3E42 = ~z~
+
+0x09EB1491 = ~z~Sir.
+
+0x0F7B1B48 = ~z~Monsters...
+
+0x1A12AF3B = ~z~It's the sheer volume of 'em! Brutal, brutal business...
+
+0x1EB0B9B3 = ~z~Whales?
+
+0x2CDF05A7 = ~z~I mean, literally missed the boat!
+
+0x3A2D70AC = ~z~Monsters?
+
+0x3B88F227 = ~z~I've seen three-hundred pound men eaten alive, I once saw a Portuguese wrestler crushed by a net that ripped!
+
+0x3F792ADB = ~z~But, you know, I got drunk... and missed the boat...
+
+0x5BEBE3C0 = ~z~Well, we were... we were gonna sail to Brazil and raise cattle!
+
+0x7B157F7F = ~z~It happens... it happens.
+
+0x9E003854 = ~z~Sardines... any real sea goer will tell you...
+
+0x73DBE2CC = ~z~One mistake and they'll swamp ya...
+
+0x85E437B4 = ~z~I ever tell you boys that I once thought about going to sea?
+
+0x90FA4DE0 = ~z~Exactly.
+
+0x652F4B1C = ~z~Ah, I'm too old for that business, far too old...
+
+0x903A9CC9 = ~z~Sardines? That's ridiculous!
+
+0x7791EFE1 = ~z~Once you've fought real monsters and got away alive, you head back to land and you count your blessings, sir.
+
+0x25244B03 = ~z~That was quite a feast, thank you.
+
+0x150455F2 = ~z~By the time I got to the docks... it was gone.
+
+0x64975283 = ~z~
+
+0x65174543 = ~z~Boys hunt whales, men hunt sardines. It's not the size, it's the number.
+
+0x73969319 = ~z~Yeah, yeah I mean the honest truth is that... I was in love with the captain's wife and she was in love with me, and...
+
+0xA31646E9 = ~z~My pleasure, my pleasure...
+
+0xA251708E = ~z~You learn a new thing every day.
+
+0xACCF55F2 = ~z~Sharks?
+
+0xBA5DF10F = ~z~Sardines.
+
+0xBE4D7D57 = ~z~So tell me, do you ever miss the sea?
+
+0xC7D49065 = ~z~Always... every day...
+
+0xC8720D37 = ~z~You stick 'em with a harpoon, and you scoop them out, and you head home, and you act tough.
+
+0xD6A3A99A = ~z~That's easy, no... real monsters.
+
+0xDA1E34F8 = ~z~Why don't you go back?
+
+0xF7C7704A = ~z~Mr. Pearson...
+
+0xF4076461 = ~z~Whales? Whales are like kittens!
+

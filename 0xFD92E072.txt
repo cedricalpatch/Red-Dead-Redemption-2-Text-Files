@@ -1,0 +1,534 @@
+0x00C90469 = ~z~So good of you to join us.
+
+0x01926A00 = ~z~I can feel it.
+
+0x03CBE87C = ~z~We need anything my father can use to strengthen our case.
+
+0x04A41C5A = ~z~There's too many. Run, get moving!
+
+0x04F9C15C = ~z~No, sir, no... never... but, it is mutually beneficial to draw attention to one problem and a veil over another.
+
+0x04FA93B4 = ~z~It's just tweaking Uncle Sam's nose a little.
+
+0x05102324 = ~z~Okay, that's the signal. Here they come. Stay low and quiet.
+
+0x067E0FCB = ~z~What are you all doing?
+
+0x0742AA03 = ~z~A concerned citizen.
+
+0x08748C53 = ~z~and you'll keep doubting me...
+
+0x09181BEF = ~z~they're sending riders from the fort, we need to leave.
+
+0x09832B0A = ~z~Follow my lead.
+
+0x0AF21A8C = ~z~Get over here!
+
+0x0CDC9446 = ~z~Don't forget what these men did to our women, our children.
+
+0x0D22020B = ~z~Well, we can't go find out.
+
+0x0E3F35E8 = ~z~There they are... looks like more than we thought.
+
+0x0FD4A968 = ~z~Come on, Arthur.
+
+0x1A01108C = ~z~they're only kids.
+
+0x1AC9BF52 = ~z~Damn...
+
+0x1B4F312B = ~z~Look for anything they have on Colonel Favours.
+
+0x1B9B8E43 = ~z~I think that should do it. Come on now, quick, get back up here.
+
+0x1BD4CFAD = ~z~I got a plan.
+
+0x1CDE553A = ~z~They're being ambushed!
+
+0x1CE21199 = ~z~See, we're tying up the loose ends, Arthur, one by one.
+
+0x1D9DBFE3 = ~z~~sl:0.0:1.7~Ask my friend here...~sl:1.1~my whole life I tried to fight change...
+
+0x1EE4C271 = ~z~~sl:0.0:1.0~Your men...~sl:2.1:1.4~those men they killed...~sl:1.8~they were good men.
+
+0x1F5CA680 = ~z~No, not now.
+
+0x1FBC1E3E = ~z~but a mess is what we need.
+
+0x2C0CE263 = ~z~Run!
+
+0x2E3FE601 = ~z~We're running out of time, they'll be here any minute!
+
+0x2EFA0974 = ~z~Quick as you can.
+
+0x3FF4B755 = ~z~people will see these boys, they won't notice us and they'll think we're gone.
+
+0x4B2BAFC0 = ~z~Wait for my lead, men.
+
+0x4BD93983 = ~z~
+
+0x4DBF5C8A = ~z~Quick now, Arthur, everyone into position.
+
+0x4E510421 = ~z~Let's move! Come on!
+
+0x4F2DD5C7 = ~z~So... you're using them?
+
+0x4F51ACB9 = ~z~My father won't be happy about this.
+
+0x5A7193A4 = ~z~You're okay.
+
+0x5B27ADB3 = ~z~It's done now.
+
+0x5B35ADD7 = ~z~I agree.
+
+0x5DDB49CC = ~z~They fired first, son.
+
+0x5EFEC79F = ~z~But where's Paytah?
+
+0x5F867678 = ~z~But first we need to trap them in this pass... help me dynamite up these trees.
+
+0x6A303BDF = ~z~We gotta keep going!
+
+0x6AD6BFB4 = ~z~Come on! Let's see if there's a way out through here.
+
+0x6AD98D14 = ~z~Good work with that, by the way.
+
+0x6B7A35B5 = ~z~Come here, big boy...
+
+0x6B623E8A = ~z~Charles...
+
+0x6D92F428 = ~z~No, I got it.
+
+0x7B0F7FC0 = ~z~I need you to help me.
+
+0x7BECDF58 = ~z~Let's go, Arthur. Come on!
+
+0x7C00D6C2 = ~z~I got ya.
+
+0x7CA2610A = ~z~I'll...
+
+0x7DEBC410 = ~z~Hello, officers.
+
+0x8A4EBEAA = ~z~~sl:0.0:1.0~They're coming now...~sl:1.5:1.2~Oh, damn...~sl:0.9~the patrol is a lot larger than we thought it was gonna be...
+
+0x8A83ECDF = ~z~Hard to believe... oh, but it was worth the wait.
+
+0x8A981B6D = ~z~it ain't a good idea.
+
+0x8C4E4C2A = ~z~Nobody need get hurt.
+
+0x8FEFF1CC = ~z~Try to flank them, Arthur. We'll shoot you some space.
+
+0x9A2E3DFD = ~z~I'm trying...
+
+0x9BA9EAE1 = ~z~Put down your guns.
+
+0x9BE9D376 = ~z~More on the left!
+
+0x9CB9E4F2 = ~z~Please hurry.
+
+0x9CE2D5D6 = ~z~~sl:0.4~You fools, you damn fools, it's the army!
+
+0x9DAC0D48 = ~z~Yes, we need to take out that cannon.
+
+0x9E0548CC = ~z~Okay, let's dismount here, we won't get the horses down this path.
+
+0x9F242240 = ~z~You bastards!
+
+0x12DAB8C7 = ~z~I'll hold them here. Move!
+
+0x14BF2FB9 = ~z~It surely is.
+
+0x18B7CD82 = ~z~It is one regiment of pastry chefs and bullies, watch your goddamn mouth.
+
+0x22CFCBDA = ~z~We? This ain't our fight.
+
+0x23D27B28 = ~z~You are making a mistake, boy.
+
+0x24EFA8A1 = ~z~I know...
+
+0x26CDC905 = ~z~I'm trying, Arthur, with everything I have...
+
+0x30B9661A = ~z~You're fighting nature, Captain.
+
+0x31A4CB10 = ~z~Taken...
+
+0x31AC1B38 = ~z~So good of you to join us...
+
+0x31B81ADC = ~z~Everyone will blame everything on the Indian problem, and we'll disappear... up the river.
+
+0x36EB4C98 = ~z~We're okay.
+
+0x39CD2725 = ~z~Put your hands up.
+
+0x41E07B47 = ~z~You can't fight... gravity.
+
+0x43EC6F9F = ~z~or killed.
+
+0x46F09783 = ~z~He's alive...
+
+0x47EB31EC = ~z~They'll pay for that!
+
+0x48E1F89E = ~z~then go meet him up at the reservation.
+
+0x48ED093E = ~z~I have a bad feeling about this. We said nobody would be killed.
+
+0x50A9BBFE = ~z~Looks like we got a fight then, boys.
+
+0x55E38FB8 = ~z~We'll kill you all if that's what it takes!
+
+0x57FE4965 = ~z~You're owed that, son, at the very least.
+
+0x59A9CED0 = ~z~Is that so?
+
+0x60C912D2 = ~z~Come up top here, Arthur!
+
+0x63A69E58 = ~z~Okay. Let's go, Arthur.
+
+0x63E5E348 = ~z~take a little humiliation and leave these fine folks alone.
+
+0x65EA373D = ~z~~sl:0.0:0.8~Alright...~sl:0.1~let's carry on by foot, try and sell them a little snake oil.
+
+0x70F49577 = ~z~This ain't a good idea.
+
+0x71B2DDF1 = ~z~Maybe now they'll take us seriously.
+
+0x72D0B6E1 = ~z~We're up here.
+
+0x73E428D3 = ~z~The detonator's by me, here.
+
+0x76B464CC = ~z~Then so be it... we have tried talking.
+
+0x76E670A2 = ~z~The smell of cordite and integrity.
+
+0x83BD0A4F = ~z~What's going on?
+
+0x86B744CF = ~z~The perfect man for the job.
+
+0x87E927D8 = ~z~This is it, this is...
+
+0x90F1E0F8 = ~z~Arthur, we need to plant that dynamite.
+
+0x92E09FC5 = ~z~Run!
+
+0x95FEAED2 = ~z~Rebellion.
+
+0x97E5DB8B = ~z~Shit. I guess not. Get behind something, Arthur!
+
+0x99B81965 = ~z~I can feel it.
+
+0x99D79033 = ~z~Yes...
+
+0x105CB61B = ~z~Come on, Arthur. Take my hand.
+
+0x204B2C51 = ~z~There's too many, Arthur! Fall back.
+
+0x344B84A9 = ~z~Move now, we have to move now.
+
+0x349BB171 = ~z~You keep them hands up, and come here.
+
+0x369E68A6 = ~z~and we'll keep failing.
+
+0x413CADF9 = ~z~Come on, we don't have long.
+
+0x424B1F41 = ~z~There's another patrol in the rear.
+
+0x474D876A = ~z~~sl:0.0:2.8~Okay, they've passed the first charge.~sl:~If we blow it now, we should have them trapped.
+
+0x509CAB63 = ~z~
+
+0x559DA540 = ~z~Where's Eagle Flies?
+
+0x563D8011 = ~z~Behind us. Hold them off.
+
+0x620D602C = ~z~Search these men quickly, then we move.
+
+0x646EC041 = ~z~If Colonel Favours finds out it was us...
+
+0x712B4647 = ~z~This has gone on long enough!
+
+0x767CC4D1 = ~z~Yeah... after all those years.
+
+0x774F5A07 = ~z~You think?
+
+0x827D68EB = ~z~Is this what you wanted?
+
+0x832C81BD = ~z~I'm just...
+
+0x860E2634 = ~z~You started this!
+
+0x864A2512 = ~z~Okay.
+
+0x864E92D6 = ~z~and remind them to leave these boys alone.
+
+0x955E2620 = ~z~I'm worried about folk.
+
+0x956A310D = ~z~tar and feather them...
+
+0x969DC753 = ~z~Hold your ground!
+
+0x975F159B = ~z~I'll go tell him.
+
+0x991ACA3B = ~z~Well, Arthur...
+
+0x995CB763 = ~z~Hello, Captain...
+
+0x1268D855 = ~z~No, you're making a mistake...
+
+0x1349A1FD = ~z~look at me.
+
+0x1965DD79 = ~z~~sl:0.0:3.2~This area's gonna be crawling with soldiers in a few minutes,~sl:~we gotta leave. Now.
+
+0x2063E795 = ~z~Up the hill, the cannon. Take out the spotter, Arthur.
+
+0x2153A393 = ~z~This is crazy, why aren't we getting out of here?
+
+0x2394D0E8 = ~z~Where's Paytah?
+
+0x3447EB5E = ~z~An eye for an eye.
+
+0x4002AA0F = ~z~~sl:0.6~Don't worry... that's a good thing...
+
+0x4692A937 = ~z~All of you... take what you can, and then we move out!
+
+0x5034AA0B = ~z~Was he killed?
+
+0x6507C578 = ~z~It ain't like that, Dutch...
+
+0x7483A068 = ~z~Bill played drunk.
+
+0x8096E723 = ~z~We are gonna make it, brother...
+
+0x8492DA65 = ~z~Arthur! Up here.
+
+0x8990FE8A = ~z~~sl:0.0:2.4:1~It's all I got. Get outta here!
+
+0x9031E89C = ~z~This is a good one.
+
+0x20974AED = ~z~You have energy for pranks?
+
+0x24616AD9 = ~z~~sl:0.0:2.3~No! My brothers!~sl:0.4~Paytah! Are you alright?
+
+0x30085A22 = ~z~This ain't how we do things.
+
+0x32425D74 = ~z~Okay. Hurry, Arthur, I'll plant the dynamite, you run the wire.
+
+0x49770A5A = ~z~We should get out of here soon, though.
+
+0x51787F7A = ~z~Keep looking...
+
+0x73026C8E = ~z~Let's see if we can lose them down here.
+
+0x138685CF = ~z~What a mess.
+
+0x238825D6 = ~z~We just escaped from chaos.
+
+0x289684B8 = ~z~You're surrounded.
+
+0x362907CF = ~z~Who are you?
+
+0x498095D7 = ~z~It is a beautiful thing.
+
+0x598054D1 = ~z~
+
+0x615203AF = ~z~Over here, Arthur.
+
+0x755729C3 = ~z~What are you doing, Arthur? You aren't finished down there.
+
+0x879213CE = ~z~Put your hands up!
+
+0x954217C8 = ~z~My spotter will let us know when they're near.
+
+0x1291060E = ~z~~sl:0.0:1.7~They might have information on them~sl:~that will help our friends with their cause.
+
+0x2459000A = ~z~Besides, it's perfect...
+
+0x3518839A = ~z~Everyone just stay calm. We've got the upper hand here.
+
+0x7724561A = ~z~Eagle Flies must have been taken.
+
+0x13882000 = ~z~We'll keep lookout from up here.
+
+0x27886222 = ~z~We're being overrun. Get outta here!
+
+0x58661892 = ~z~Where is he?
+
+0x64362044 = ~z~So, you finally got to see Colm hang...
+
+0x82804415 = ~z~Get back down there, please.
+
+0x97233483 = ~z~Whatever it is you're planning...
+
+0xA0609F89 = ~z~We're okay.
+
+0xA0B33B6A = ~z~Run, son!
+
+0xA2C94BCB = ~z~disarm them...
+
+0xA4E4B18E = ~z~He's probably back at camp.
+
+0xA5A75577 = ~z~
+
+0xA8A53827 = ~z~You rest up...
+
+0xA55B64CE = ~z~Take them down!
+
+0xA347C093 = ~z~We should go.
+
+0xA502EEFE = ~z~Let's keep going! Follow the pass, it's got to spit us out somewhere.
+
+0xA556B182 = ~z~Faith, Arthur...
+
+0xA1167A0B = ~z~What's going on?
+
+0xA3645069 = ~z~that went just about according to plan.
+
+0xA6814866 = ~z~I'm just...
+
+0xAC04348C = ~z~Find anything?
+
+0xAF4919FF = ~z~Look out! They're coming up on our left.
+
+0xAFFE6635 = ~z~We're just gonna trap a few of them in the valley...
+
+0xB4F79492 = ~z~We gotta go, Arthur. Come on.
+
+0xB5A2F4E6 = ~z~Well...
+
+0xB8BBECDB = ~z~Look at me!
+
+0xB9B2D3E8 = ~z~This is a losing battle, Arthur. Oh, we gotta do something.
+
+0xB52C859C = ~z~Get ready to fire!
+
+0xB700A18E = ~z~Your humiliation of us has gone on quite enough.
+
+0xB4065F91 = ~z~~sl:0.0:0.7~Arthur...~sl:0.8~jump.
+
+0xB7185505 = ~z~keep a look out.
+
+0xBB6D35A8 = ~z~What do we do here, Dutch? This is a lot of men.
+
+0xBE30E33E = ~z~Let's split up.
+
+0xBEB459EC = ~z~These boys ain't the problem...
+
+0xC1F4FB6E = ~z~What the hell are you talking about?
+
+0xC2C5302D = ~z~What about Eagle Flies?
+
+0xC3D88C5A = ~z~come here...
+
+0xC6C28666 = ~z~~sl:0.0:1.6~We don't have a lot of time...~sl:0.2~the patrol should be coming in a few minutes.
+
+0xC6DE7581 = ~z~we'll send him.
+
+0xC8E27899 = ~z~We are gonna make it, brother...
+
+0xC89A2AB1 = ~z~Like I said, we're just going to give them a bit of a scare...
+
+0xC648BE34 = ~z~Get back up here or they'll spot you.
+
+0xC2291FD1 = ~z~We should move.
+
+0xC9159C6E = ~z~I'm getting bored of this...
+
+0xCA4A3013 = ~z~No, no, no, no, not quite yet...
+
+0xCAF97276 = ~z~some poor fool from New Jersey.
+
+0xCB617745 = ~z~I don't know how much longer we can hold out...
+
+0xCBF8FDE6 = ~z~Faith, Arthur...
+
+0xCCCFCD20 = ~z~put your hands up, soldier...
+
+0xCD1F590C = ~z~Just hold your ground. Surrender and they'll hang you all.
+
+0xCD4420C4 = ~z~Nobody will be killed.
+
+0xCD10329D = ~z~Put your hands up!
+
+0xCD961697 = ~z~and I will keep trying...
+
+0xCE5AEDF4 = ~z~Hey, go around and climb up.
+
+0xCEA5A1F4 = ~z~We, uh... we can't do that.
+
+0xCECEB8E0 = ~z~Soldier, you and your friends going to tuck tail and run off?
+
+0xD43DA003 = ~z~~sl:0.0:2.2~You can't fight nature, Captain...~sl:1.8~you can't fight change...
+
+0xD55F5C61 = ~z~Hurry before they see you.
+
+0xD89D9532 = ~z~You pushed us to this!
+
+0xD991EA87 = ~z~~sl:0.0:1.7~I sent for some of that dynamite~sl:~you and Bill commandeered in Van Horn.
+
+0xDA5D5CF2 = ~z~Left here. Into the trees!
+
+0xDA6A3E93 = ~z~Gentlemen, come on. You really need to hurry now!
+
+0xDC584CCF = ~z~Shit! Everyone keep your heads down! We're gonna get out of this.
+
+0xDDCDA277 = ~z~I'll go tell him.
+
+0xE2BF5DFB = ~z~I said put your damn hands up!
+
+0xE6C5D05B = ~z~They did.
+
+0xE8E9E73A = ~z~Here. Oh, don't give up now!
+
+0xE9C58011 = ~z~Hurry, I think I see some movement in the distance.
+
+0xE34AF61A = ~z~Look, they're running.
+
+0xE38D50A1 = ~z~You need to finish up, they'll be coming around that bend any second!
+
+0xE296DA94 = ~z~Grab on, we're almost home free.
+
+0xE2713EF5 = ~z~I know, I...
+
+0xE32877F3 = ~z~Come on, they're almost here.
+
+0xEAFFCD87 = ~z~It's a waste... I see that now... it's a waste.
+
+0xEE537623 = ~z~~sl:0.0:1.5~Oh, remove the weight of the world~sl:~from your shoulders for a minute.
+
+0xF01B4712 = ~z~You rest up...
+
+0xF074F966 = ~z~Okay.
+
+0xF2CB07AD = ~z~~sl:0.3:1.1:1~I think so.
+
+0xF8B7576A = ~z~have faith.
+
+0xF70E4F01 = ~z~I ain't sure much is gonna strengthen your case after this...
+
+0xF71E09BA = ~z~What now?
+
+0xF72E7CA3 = ~z~We need to ride hard! Stay with me!
+
+0xF74C78DB = ~z~your friends fired first, soldier!
+
+0xF90B74E6 = ~z~We didn't start this, Arthur.
+
+0xF222FC4A = ~z~It's a dead end!
+
+0xF6945C44 = ~z~Is that all of them?
+
+0xF21368CF = ~z~Keep your hands up and come here...
+
+0xFAB2ACCE = ~z~~sl:0.5:0.0~These are good people... but their situation is real complex, we ain't helping them.
+
+0xFB360A5F = ~z~Sure, we are. Come on, let's get this done.
+
+0xFBD67DE8 = ~z~They want you to fight.
+
+0xFE6F76E1 = ~z~Come on.
+
+0xFEAD96C5 = ~z~~sl:0.0:2.1~It's fine, we're only here to talk...~sl:~and administer a little good old-fashioned humiliation.
+
+0xFED607F6 = ~z~Excuse me?
+
+0xFFE418CC = ~z~You sure you don't want me to man that plunger, Arthur?
+

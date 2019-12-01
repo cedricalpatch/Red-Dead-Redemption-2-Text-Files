@@ -1,0 +1,12 @@
+0x027BC661 = ~z~What?
+
+0x9E7C283F = ~z~~sl:1.9:0.0~Are we living or dying this time, Dutch?
+
+0x34CE2B05 = ~z~~sl:0.0:1.0~You know...~sl:4.5~you know something, Arthur?
+
+0x38C030BF = ~z~~sl:0.5:1.3~Good things.~sl:0.9:1.3~Bad things.~sl:1.6:2.8~All these people we seen passed on.~sl:1.6~You was always special.
+
+0x87BB7ABE = ~z~I guess we'll find out soon enough.
+
+0x29551413 = ~z~~sl:0.0:2.0~You was always special to me.~sl:0.9:1.5~All these years...~sl:1.2~all these things we done.
+

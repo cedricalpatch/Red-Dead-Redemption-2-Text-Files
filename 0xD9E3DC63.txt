@@ -1,0 +1,62 @@
+0x06F9633A = You failed to return to Reverend Swanson.
+
+0x2E07D29B = After dissuading a witness from reporting your crime you can also rob them by pressing ~INPUT_INTERACT_LOCKON_ROB~ while focusing on them.
+
+0x3D2E1EC0 = Drop Reverend Swanson off in his ~o~bed
+
+0x4A67681C = Go to ~o~Reverend Swanson
+
+0x8D9659C7 = ~o~Hitch~s~ your horse
+
+0x9BF7716C = Horseshoe Overlook
+
+0x9FBBD8F5 = Return Reverend Swanson to ~o~Horseshoe Overlook
+
+0x61BF77BC = Find ~o~Reverend Swanson
+
+0x73E094A1 = The witness escaped.
+
+0x82D08FE6 = Push
+
+0x220A70D6 = Your horse died.
+
+0x433AFD01 = After stopping a witness you can Threaten or Beat them to dissuade them from reporting your crime.
+
+0x522E9896 = Reverend Swanson died.
+
+0x791C0BA3 = Free
+
+0x942E537B = You failed to find Reverend Swanson.
+
+0x7098B85A = Catch up to the ~e~witness
+
+0x6599848A = A poker player died.
+
+0x9787852A = Remove ~o~Reverend Swanson~s~ from your horse
+
+0xA532350E = You can speak to other people in the world by holding ~INPUT_CONTEXT_LT~ to focus on them when nearby.
+
+0xAD75EA89 = Pick up ~o~Reverend Swanson
+
+0xB9E9342C = Play
+
+0xB223BC83 = Dissuade the ~e~witness ~s~from reporting the crime
+
+0xC40EE35A = Press ~INPUT_INTERACT_LOCKON_ROB~ to stop the ~e~witness
+
+0xCC3B8F04 = People who see you commit crimes will be marked as a Witness ~1b~.
+
+0xD2A59BD4 = Pressing ~INPUT_SPRINT~ in a consistent rhythm will allow you to run quickly while draining less stamina than tapping the button as quickly as possible.
+
+0xD7CFA628 = Witnesses will try to find a lawman or town sheriff's office to report your crime.
+
+0xD97B8365 = Save ~o~Reverend Swanson
+
+0xE2481C9B = Hold ~INPUT_INTERACT_LOCKON~ to interact with the ~e~witness
+
+0xEF8886F2 = Don't Play
+
+0xF6D9FF2C = Confront the ~e~witness
+
+0xF4567F7B = Fight Reverend Swanson's ~e~attacker
+

@@ -1,0 +1,90 @@
+0x0972047B = ~z~Got an O'Driscoll for you. Some of his friends attempted to free him from a wagon.
+
+0x0B93B12F = ~z~Put that outlaw in a goddamn cell!
+
+0x0BA82C0A = ~z~Ah, got him, eh? Hope he wasn't too much trouble for you. Get him in one of the cells and I'll get you your reward.
+
+0x1FEB821E = ~z~A Lemoyne Raider. Awful far from home for this one. Go get him in a cell if you don't mind.
+
+0x3BC65B5B = ~z~Obliged.
+
+0x3E217C66 = ~z~Hey, uh, no more posters going up here for a while. Mayor don't like the way it looks. We are a tourist town, after all.
+
+0x4AC3D385 = ~z~Ah, got him, eh? Hope he wasn't too much trouble for you. Get him in one of the cells and I'll get you your reward.
+
+0x8E8A4F3C = ~z~Anything the matter down below?
+
+0x9C2DEA83 = ~z~How you getting on down there?
+
+0x9E023575 = ~z~Obliged.
+
+0x22C4531E = ~z~Damn O'Driscolls, at least you're all dumb as rocks.
+
+0x45FA1897 = ~z~Gonna take your money?
+
+0x51B9A396 = ~z~Won't be any more bounty posters up on this wall. Makes the visitors nervous, I'm told.
+
+0x56A9EF9A = ~z~Got a Raider for you. His boys tried to free him from a wagon. They picked off the escort, I'm afraid...
+
+0x99EEC067 = ~z~Hey, bounty's there.
+
+0x301DD94A = ~z~That's fine.
+
+0x516B90EB = ~z~Got a man here for you. He's got a warrant out.
+
+0x680FEA26 = ~z~You going to put 'em in a cell? Come on.
+
+0x968C0E79 = ~z~You got pretty far, didn't you? And for what?
+
+0x2089A4E2 = ~z~That's fine.
+
+0x6038AE85 = ~z~Okay, nice work there. Get him into the cell downstairs and I'll see about your payment.
+
+0x6990B6EF = ~z~Honest of you.
+
+0x85146DF6 = ~z~Thanks.
+
+0x83381952 = ~z~Okay, nice work there. Get him into the cell downstairs and I'll see about your payment.
+
+0xACB865FA = ~z~I said the coins are on the desk.
+
+0xAD73FC05 = ~z~Don't leave without getting paid!
+
+0xADEF1F7F = ~z~Got a Raider for you. His boys tried to free him from a wagon. They picked off the escort, I'm afraid...
+
+0xAF9B00B5 = ~z~You didn't bring 'em this far not to put 'em in a cell. Come on, they're just down there.
+
+0xB02B0173 = ~z~Hey! Your bounty!
+
+0xB10974F4 = ~z~Got a man here for you. He's got a warrant out.
+
+0xBFB1B18A = ~z~You been jumped or something? What's going on down there?
+
+0xC5DD2D39 = ~z~You see the stairs? Take 'em down there.
+
+0xCB943719 = ~z~Almost forgot your money, didn't you. It's on the table there.
+
+0xD6EF718B = ~z~A Lemoyne Raider. Awful far from home for this one. Go get him in a cell if you don't mind.
+
+0xD70F272E = ~z~Thanks.
+
+0xD417C9AE = ~z~Get 'em out of here.
+
+0xD535CB88 = ~z~You forgot your payment!
+
+0xE9D491A4 = ~z~Know this man? I believe you've got a bounty out for him.
+
+0xECE8F9C2 = ~z~Hey, your money's just here. On the table. It ain't gone anywhere.
+
+0xF9EE8897 = ~z~Know this man? I believe you've got a bounty out for him.
+
+0xF79B60CE = ~z~More O'Driscolls behind bars or hanging from a noose, the better. Get him downstairs, I'll get you fixed up.
+
+0xF84F121C = ~z~Down the stairs. Can't miss the cells.
+
+0xFA72EDF5 = ~z~Honest of you.
+
+0xFD451492 = ~z~We want the fugitive locked up. Get to it already!
+
+0xFE979D27 = ~z~I was about to send this money to the orphanage. It's on the table for you.
+

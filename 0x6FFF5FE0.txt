@@ -1,0 +1,218 @@
+0x014410B9 = Target Posse left the game
+
+0x05CD33CE = Assassinate all members of ~COLOR_ENEMY~~1~~s~ at least once within the time limit to earn the reward.
+
+0x060FABA9 = ~COLOR_MP_OBJECTIVE~Saint Denis~s~
+
+0x091EB993 = ~COLOR_MP_OBJECTIVE~Two Crows~s~
+
+0x0D90C90A = Eliminate the ~COLOR_ENEMY~target~s~
+
+0x0E0D4DED = Defend the ~COLOR_MP_OBJECTIVE~target~s~
+
+0x1BEB6996 = The assassins abandoned the mission
+
+0x1F4616A2 = ~1~/~2~ targets defended
+
+0x2B03A383 = Defend the ~COLOR_ENEMY~target~s~ from assassins
+
+0x2C43C0AC = The targets are no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+0x2C522691 = the ~COLOR_MP_OBJECTIVE~manor~s~
+
+0x2DF70D9A = ~1~ has left the game
+
+0x4BAB3B16 = Go to ~1~
+
+0x5AB7A691 = Target eliminated
+
+0x5CB8FE67 = Find the target within the area. Go to their last known location ~1b~ to start tracking them down.
+
+0x5CC02E6C = Use the radar to avoid detection by the enemy ~1b~.
+
+0x5EBEACC4 = Last known location
+
+0x6CC91326 = Defend ~1~
+
+0x6D01378F = Targets defended
+
+0x6E7CCAC1 = Defend the ~COLOR_ENEMY~targets~s~
+
+0x6F7EB7A8 = Return to the last known location ~1b~ to search for the remaining target's tracks.
+
+0x6F827BA8 = The target is no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+0x6FAFF703 = the ~COLOR_MP_OBJECTIVE~Garden District~s~
+
+0x8BE35ADA = Find the targets within the area. Go to their last known location ~1b~ to start tracking them down.
+
+0x8C8F0F6B = ~COLOR_MP_OBJECTIVE~Blackwater~s~
+
+0x8C185956 = the ~COLOR_MP_OBJECTIVE~Saint Denis Graveyard~s~
+
+0x9D3903EB = ~COLOR_MP_OBJECTIVE~Stillwater Creek~s~
+
+0x10B77F58 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the targets
+
+0x12DDE740 = The targets are no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+0x12F06271 = Event area
+
+0x25FA281B = ~1~ eliminated
+
+0x27B4989C = Wait for your allies to leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+0x31B5B6B2 = Target player left the game
+
+0x32E0A562 = Posse survived
+
+0x40DF4E49 = Eliminate the ~COLOR_ENEMY~target~s~ before they escape
+
+0x44D0DCE2 = You survived
+
+0x45DD91A4 = Timer expired
+
+0x49D711E4 = Go to the ~COLOR_MP_OBJECTIVE~location~s~
+
+0x52C91534 = the ~COLOR_MP_OBJECTIVE~fort~s~
+
+0x54E60EF7 = ~COLOR_MP_OBJECTIVE~Hamlin's Passing~s~
+
+0x56BA17CD = Defend your remaining ~COLOR_POSSE_ALLY~allies~s~
+
+0x58E86EC5 = Search the area ~1b~ and assassinate all targets within the time limit to earn the full reward.
+
+0x59EB4A12 = Eliminate the ~COLOR_ENEMY~targets~s~
+
+0x61E489FC = Destination
+
+0x70E16399 = Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ to search the area for tracks.
+
+0x83E4736F = Eliminate ~1~
+
+0x89E3A5E0 = The target is no longer at this location ~1b~. Activate Eagle Eye using ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ + ~INPUT_SPECIAL_ABILITY~ to search for their tracks nearby.
+
+0x90DACC25 = ~1~ survived
+
+0x92EF21B2 = Target search area
+
+0x95E29D13 = Targets eliminated
+
+0x99CEFFA4 = Return to the last known location ~1b~ to search for the remaining targets' tracks.
+
+0x148BF5E1 = Find & eliminate the ~COLOR_ENEMY~target~s~
+
+0x267B6B2A = Failed to protect targets
+
+0x685E1B8B = Evade assassination by ~COLOR_ENEMY~~1~~s~
+
+0x751E89A0 = Defend the ~COLOR_ENEMY~targets~s~ from the assassins
+
+0x870A108E = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and track down the targets.
+
+0x870E1E8B = Paid Killing
+
+0x934E8957 = ~COLOR_MP_OBJECTIVE~Fort Wallace~s~
+
+0x1403DCC7 = Target defended
+
+0x3058F270 = ~COLOR_MP_OBJECTIVE~Ambarino~s~
+
+0x5438A79F = You were eliminated
+
+0x5668AE5E = Your ally ~1~ has been marked for assassination by ~COLOR_ENEMY~~2~.~s~
+
+0x5951C93E = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the target
+
+0x8189BC60 = Posse eliminated
+
+0x8379ECC9 = Player Assassination
+
+0x42876B09 = ~1~ has been eliminated
+
+0x200704F9 = Failed to protect target
+
+0x925036B0 = ~1~ left the game
+
+0x2775393D = ~COLOR_MP_OBJECTIVE~Annesburg~s~
+
+0x7315584A = Assassinate ~COLOR_ENEMY~~1~~s~ within the time limit to earn the reward.
+
+0x38264054 = Identify the ~COLOR_MP_OBJECTIVE~possible targets~s~
+
+0x75370860 = You left the Posse
+
+0x88658655 = ~1~/~2~ of your Posse survived
+
+0xA2C94FED = Posse Assassination
+
+0xA3F7B974 = Possible target
+
+0xA44DC43D = Target
+
+0xA940A98A = Eliminate the ~COLOR_ENEMY~target~s~
+
+0xAA15A51B = ~COLOR_MP_OBJECTIVE~Fort Mercer~s~
+
+0xAD71E655 = ~COLOR_MP_OBJECTIVE~Gaptooth Breach~s~
+
+0xB1C5DAA8 = Eliminate the ~COLOR_ENEMY~target~s~ without alerting anyone
+
+0xB5EC233A = ~COLOR_MP_OBJECTIVE~Benedict Point~s~
+
+0xB9D1C402 = ~COLOR_MP_OBJECTIVE~Cumberland Forest~s~
+
+0xB51CA2ED = ~1~/~2~ targets eliminated
+
+0xB69A8471 = ~COLOR_MP_OBJECTIVE~Pike's Basin~s~
+
+0xB403E9BC = Target escaped
+
+0xB2517351 = Eliminate ~COLOR_ENEMY~~1~~s~
+
+0xBA07EBCD = Verify Identity
+
+0xBD0CACA3 = Leave the ~COLOR_MP_OBJECTIVE~area~s~
+
+0xBD1A1753 = Eliminate the ~COLOR_ENEMY~targets~s~ without alerting anyone
+
+0xC16ADADF = ~1~/~2~ targets eliminated
+
+0xC36B6784 = A ~COLOR_ENEMY~target player~s~ has left the game
+
+0xC86CFA3C = ~1~ left the game
+
+0xCD0B43C6 = Eliminate the ~COLOR_ENEMY~targets~s~
+
+0xCDED1801 = A target is fleeing the area. Look for the flashing ~1b~ and take them down quickly before they escape.
+
+0xCEE6ED62 = Activate Eagle Eye using ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to search the area for tracks.
+
+0xD2E64863 = Defend your ~COLOR_POSSE_ALLY~ally~s~
+
+0xD84536D8 = ~1~ targeted for Assassination
+
+0xDCA9EEE6 = Eliminate the ~COLOR_ENEMY~targets~s~ before they escape
+
+0xDCF46463 = ~COLOR_MP_OBJECTIVE~Cholla Springs~s~
+
+0xE4FF6BC9 = You have been targeted for Assassination
+
+0xE5FE04AC = Assassinate all targets within the time limit to earn the full reward.
+
+0xE79A4547 = ~1~ eliminated
+
+0xE5129164 = ~COLOR_MP_OBJECTIVE~Shady Belle~s~
+
+0xEA7B8594 = Your Posse has been targeted for Assassination
+
+0xF184D7F9 = ~COLOR_MP_OBJECTIVE~Pleasance~s~
+
+0xF76771F6 = Find & eliminate the ~COLOR_ENEMY~targets~s~
+
+0xF995437B = Your Posse was disbanded
+
+0xFE1B09B4 = Paid Killing
+
+0xFF0764C8 = A ~COLOR_ENEMY~target~s~ has been eliminated
+

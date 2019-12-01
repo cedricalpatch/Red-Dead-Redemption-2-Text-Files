@@ -1,0 +1,54 @@
+0x036893F1 = You brought the guards to Wapiti.
+
+0x0B003350 = Your horse has died.
+
+0x0C42F5E5 = Medicine Crate
+
+0x1B849B0D = Guard
+
+0x1F58786E = Mount your ~o~horse~s~
+
+0x3C52BF84 = The wagon got away.
+
+0x3ED9E681 = Return the medicine to ~o~Captain Monroe~s~
+
+0x5A6E8B35 = You attacked the Natives.
+
+0x6F51CA55 = Supplies were destroyed.
+
+0x7B490062 = Wait for Captain Monroe to mount up
+
+0x14ED9E6C = Retrieve the medicine from the ~o~Supply Wagon~s~
+
+0x18B86C1F = Search for the ~o~medicine~s~
+
+0x91C2D135 = Greet
+
+0x172E2A5E = You attacked Monroe.
+
+0x517BD35E = The wagon was abandoned.
+
+0x8152D981 = You can jump to wagons from horseback by pressing ~INPUT_CONTEXT_X~ when riding alongside them and matching their speed.
+
+0x33631E3E = Follow ~o~Captain Monroe~s~
+
+0x99086D8E = You didn't return the medicine to Captain Monroe.
+
+0x841059F1 = Search
+
+0x62866936 = Supply Wagon
+
+0xAEC333A7 = Captain Monroe was abandoned.
+
+0xB8604143 = Captain Monroe's horse has died.
+
+0xBD5BDC55 = Captain Monroe has died.
+
+0xC0F7FA78 = Stop the ~o~Supply Wagon~s~
+
+0xC64068DC = Return to ~o~Captain Monroe~s~
+
+0xEA9A32F7 = Return to the ~o~wagon~s~
+
+0xEE6E3361 = Jump
+

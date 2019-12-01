@@ -1,0 +1,24 @@
+0x032E06BD = ~z~You just do what I tell you, and we'll be fine.
+
+0x1F8C661F = ~z~I told you... time weren't right.
+
+0x3BFBA324 = ~z~Clear off, Arthur. You're starting to annoy me almost as much as him.
+
+0x4A75956B = ~z~I thought... I thought...
+
+0x6E1A5CB4 = ~z~~sl:0.0:2.4~You are precious to me, real precious.~sl:0.6~But next time, let me do the thinking.
+
+0x7B0E4879 = ~z~Are you doubting me too, Arthur? The pair of you depress me.
+
+0x10DFA220 = ~z~We ain't dead yet. Remember that.
+
+0x58BB31F6 = ~z~You thought too much.
+
+0x87BDFAA7 = ~z~
+
+0x123E4B83 = ~z~Why didn't you come get me?
+
+0x355F6B1F = ~z~They was gonna kill me!
+
+0xEE65DD2D = ~z~And I just do the hanging?
+

@@ -1,0 +1,34 @@
+0x0DD8D5B4 = ~z~You're just afraid of opening your mind because you might not like what you find.
+
+0x1B8B7119 = ~z~I know, I'm just teasing.
+
+0x7A2831CD = ~z~You're probably right...
+
+0x88ABCED4 = ~z~Mr. Miller has the way of putting things. Me? I...
+
+0x393BF524 = ~z~Well... you're amazing.
+
+0x702F097E = ~z~Evelyn Miller, of course.
+
+0x96996AAF = ~z~You know... you know you always had the most incredible way of putting things.
+
+0xA4F1875F = ~z~Oh, you're more than that, Dutch. You're... you're...
+
+0xB32223C0 = ~z~I'm just an old outlaw, not prepared to go quietly.
+
+0xDB49DFB2 = ~z~
+
+0xDDDDE4DA = ~z~What you reading, Dutch?
+
+0xE1FC1E81 = ~z~Real funny, Arthur.
+
+0xEA8D8F1E = ~z~He sees things that we don't know yet.
+
+0xEFE8BA5A = ~z~Mostly goes over my head, Dutch. And Micah's even dumber than me.
+
+0xF8C02B83 = ~z~He's no windbag, son. He is a... a seer.
+
+0xF26D8DF5 = ~z~That old windbag?
+
+0xFEBAD7FE = ~z~Tell him about Evelyn Miller, Arthur.
+

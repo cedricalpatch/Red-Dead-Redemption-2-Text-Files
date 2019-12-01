@@ -1,0 +1,50 @@
+0x015DB24E = ~z~~sl:0.0:1.2~Oh, Arthur...~sl:0.6~what a sad world we live in.
+
+0x05D5C1BD = ~z~It's their rules or be damned with you.
+
+0x0CEE5A10 = ~z~We went and made our choices a long time ago, so...
+
+0x0E2719A2 = ~z~~sl:0.0:0.8~Okay...~sl:0.9~I guess, I was trying to say....
+
+0x1ECB0CAE = ~z~~sl:0.0:1.6~Now it's us being hunted...~sl:2.0~oh, they ain't stopping.
+
+0x6AD574DF = ~z~I don't know what I'm trying to say here.
+
+0x6AFFFF6F = ~z~You seem kind of... worried.
+
+0x7D13F85B = ~z~~sl:0.0:1.5~No more outlaws...~sl:1.5~no more killers.
+
+0x8CCA1D7B = ~z~Keep thinking I should help folk, but... ah, I don't know.
+
+0x27E08388 = ~z~Course I'm worried.
+
+0x41AC0882 = ~z~They don't want folk like us no more.
+
+0x54C1D2F3 = ~z~~sl:1.3:0.0~I guess.
+
+0x562B601D = ~z~What about?
+
+0x45789FDA = ~z~~sl:0.0:2.8~I keep killing animals, needlessly...~sl:2.5:1.0:1~I don't know.
+
+0x53363B55 = ~z~But I...
+
+0x66380B2D = ~z~~sl:0.0:1.6~Whole world's changing...~sl:1.6~even I see that now.
+
+0x294934C5 = ~z~~sl:0.0:0.8~Our time...~sl:1.5~has pretty much passed.
+
+0xB4951294 = ~z~You okay, Arthur?
+
+0xC9CF9769 = ~z~~sl:0.0:2.2~Well I ain't sad Mary-Beth, just...~sl:2.3~I'm realistic, about what's coming.
+
+0xC97B4139 = ~z~~sl:0.0:2.8~But I keep acting really crazy...~sl:3.0~I don't know.
+
+0xD90EFD19 = ~z~
+
+0xE013598F = ~z~~sl:0.0:1.2~Ain't that the truth...~sl:2.4~Ain't that the truth.
+
+0xE54D6403 = ~z~~sl:0.0:3.0~Arthur... oh, Arthur.~sl:0.6:3.3:1~You're the only one of these fools knows just how lost he is.
+
+0xF9E309AF = ~z~Why don't you sit, Arthur?
+
+0xFAA83584 = ~z~I guess we gotta pay for our sins.
+

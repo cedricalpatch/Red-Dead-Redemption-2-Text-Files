@@ -1,0 +1,34 @@
+0x0E01F4AA = Mansion
+
+0x7F5C40F6 = You didn't retreat inside Shady Belle.
+
+0x42D0CE19 = Return to the front of ~o~Shady Belle~s~
+
+0x69F8B76B = Fend off the ~e~O'Driscolls~s~
+
+0x598D5989 = Fend off the ~e~O'Driscolls~s~
+
+0x989D11FA = Return to ~o~Shady Belle~s~
+
+0x8023DD8D = Cabinet
+
+0x94823D44 = Push
+
+0x801159D2 = Jump through the window and find ~o~Sadie~s~
+
+0xA372B645 = Front Doors
+
+0xAA0AA36F = Find ~o~Sadie~s~
+
+0xDBAC073B = Protect ~o~Sadie~s~
+
+0xECF64AA3 = Fend off the ~e~O'Driscolls~s~
+
+0xF1A03602 = Retreat back to the ~o~mansion~s~
+
+0xF837AB66 = Protect the ~o~gang~s~
+
+0xFCC6AFDB = Get to the ~o~front door~s~
+
+0xFECAEE4C = Push the ~o~cabinet~s~
+

@@ -1,0 +1,36 @@
+0x1AD44DBB = ~z~Some gold they thought the other one stole of a them a hundred years ago.
+
+0x2D097225 = ~z~Near ruined this town, hell this whole county, with their damn feud.
+
+0x3EEA95E7 = ~z~Stupid. Worse than children, if you ask me, anyway
+
+0x8F15C7D6 = ~z~We've been having a lot of trouble with another family, the Braithwaites,
+
+0x447C2A67 = ~z~Ain't sure if you heard of the Gray family already...
+
+0x801FA9EE = ~z~So, just be careful where you wander round these parts, you hear?
+
+0x14143ECE = ~z~Don't reckon I seen you in here before? You new to town?
+
+0x36958E9A = ~z~Well, Rhodes ain't what it used to be. Not for some time now.
+
+0x37641874 = ~z~Maybe not, but I rarely forget a face... It's the big estate east of here, the Gray's place?
+
+0xA71DF6BF = ~z~So you a Gray or Braithwaite, mister?
+
+0xACB0F172 = ~z~no teaching an old dog new tricks, I guess...
+
+0xC4C3AAF0 = ~z~they own this damn saloon, they own the damn law, hell they own pretty much most of this town now.
+
+0xC21E17E9 = ~z~Hey, ain't I seen you poking around Caliga Hall?
+
+0xD9C6DD37 = ~z~It's a long story, but we're all on our guard of late.
+
+0xE400F1AB = ~z~the kind of lowdown folk who'll do anything to put another dollar in their pockets and take another one out of yours.
+
+0xE804F172 = ~z~And it ain't better for it, in my opinion. But a drink's a drink... right, my friend?
+
+0xF75686C0 = ~z~Don't much matter to me anyways... both as bad as each other.
+
+0xFE121D94 = ~z~Good luck to you.
+

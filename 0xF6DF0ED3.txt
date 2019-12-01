@@ -1,0 +1,112 @@
+0x02CF29CE = A villager was injured.
+
+0x02E80B9C = Protect ~o~Kain~s~
+
+0x0A2EBAA1 = Search for the ~o~demons~s~ behind the house
+
+0x0C931C95 = Grab
+
+0x0DD48323 = Kain
+
+0x2DA16C04 = Butcher Creek
+
+0x3BC3D0DC = Lemuel
+
+0x3ECD523C = The Shaman was injured.
+
+0x4AA7548F = Obediah was killed.
+
+0x4C93EB0A = Mine
+
+0x4FF38A21 = Place Lemuel on the ~o~porch~s~
+
+0x5FED661D = Investigate the ~o~barking~s~
+
+0x6CAD926D = Obediah was killed.
+
+0x7A727E2B = Protect the ~o~villagers~s~
+
+0x20B5D595 = The fumes are choking you. Follow the stream out of the caves before you suffocate.
+
+0x25BB71BA = Kill the ~e~demons~s~
+
+0x40FC4E13 = Cursed Charm
+
+0x68E67021 = Lemuel was abandoned.
+
+0x82AD6F94 = Fight off Lemuel
+
+0x89C19AED = Stranger
+
+0x164F4653 = Cancel
+
+0x230C79A1 = Destroy the cursed charms
+
+0x264F36DD = Return to the ~o~stranger~s~
+
+0x282EDA7A = The villagers were spooked.
+
+0x349EEF09 = Save the ~o~villager~s~
+
+0x386CB01A = A villager was killed.
+
+0x468B8833 = Escape the mine
+
+0x508B605B = The villager was abandoned.
+
+0x737F5138 = Pick up Lemuel from the ~o~horse~s~
+
+0x936B910C = Pick up the ~o~stranger~s~
+
+0x4100CAB5 = You left the mine.
+
+0x5540A59D = Return to the ~o~mine~s~
+
+0x49374D85 = Demon
+
+0x78156B46 = Chase after the ~o~mysterious figure~s~
+
+0x82676C47 = Villager
+
+0x783479BA = Take Lemuel to ~o~Butcher Creek~s~
+
+0x48256840 = Be careful not to drown the stranger by taking him into deep water.
+
+0xA1ADAD90 = Mount your ~o~horse~s~
+
+0xA2FEC118 = Return to ~o~Butcher Creek~s~
+
+0xA58A8426 = You scared a villager.
+
+0xB7CBA8A8 = The stranger was abandoned.
+
+0xC52A7489 = Take the stranger to ~o~Butcher Creek~s~
+
+0xC657A9BA = You attacked a villager.
+
+0xC74624B0 = Return to ~o~Lemuel~s~
+
+0xC824987D = Pick up ~o~Lemuel~s~
+
+0xCB104F31 = The stranger was killed.
+
+0xCE71B112 = Your health is getting low. Follow the stream out of the caves before you suffocate.
+
+0xD3E90140 = Butcher Creek
+
+0xD5FC0522 = Porch
+
+0xD1016CEC = Pull
+
+0xEAA2FB86 = Return to the ~o~villagers~s~
+
+0xEC1A534E = Search the ~o~mine ~s~for clues about the curse
+
+0xEC9142A0 = Obediah Hinton
+
+0xF6DF79B3 = Obediah was injured.
+
+0xF8C52A07 = Break Free
+
+0xF3985675 = ~1~/~2~ Cursed Charms Destroyed
+

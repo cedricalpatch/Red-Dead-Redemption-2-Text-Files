@@ -1,0 +1,204 @@
+0x0205494A = ~z~So Sadie fancies herself as one of the big guns now, does she?
+
+0x058D0E47 = ~z~I still feel bad... about Sean... how was I to know?
+
+0x059FE772 = ~z~Too right, Dutch.
+
+0x092D581C = ~z~It's going to be okay.
+
+0x0DACD28B = ~z~The old guard... I'm very relieved, we are all.
+
+0x1A72FAA7 = ~z~I'm starting to think maybe even the good times weren't as good as I remember them.
+
+0x2AC2FE5B = ~z~Another song! Come on, fellers, what you got for me?
+
+0x2C5F8BCE = ~z~Listen, uh... you think Karen is sweet on me?
+
+0x2C19B998 = ~z~You know, I wish my head was as screwed on at your age.
+
+0x2E61AE93 = ~z~Yes, I hated it.
+
+0x2E6493EA = ~z~Couldn't have done it without Dutch and Arthur.
+
+0x2F8381E4 = ~z~Definitely crazy in a worse way than before.
+
+0x3C9C96BD = ~z~Just that this life'll wear you quick if you ain't careful.
+
+0x4B989C92 = ~z~That's still what we do.
+
+0x5FB99DD1 = ~z~Oh no I'm okay... thank you... I'll just watch.
+
+0x6AC9957F = ~z~Welcome home, little Jack.
+
+0x6BCC5F9F = ~z~Hooray!
+
+0x6C1DE813 = ~z~He was full of it... but I liked him.
+
+0x6D73137E = ~z~Thanks.
+
+0x6DC2FE62 = ~z~Yeah, I've seen a bit of it. Crazy in a bad way?
+
+0x7BAA7CB5 = ~z~That's some of what we do.
+
+0x7CC8E7A0 = ~z~I'll be happy when we move on to be honest.
+
+0x7EC78D66 = ~z~~sl:0.0:0.9~I know.~sl:0.9~He had a real soft spot for you.
+
+0x7ED786F7 = ~z~This is a party, come on.
+
+0x7F4FE122 = ~z~Nice to see you and Abigail getting along.
+
+0x8B6E88B9 = ~z~We all left it too late.
+
+0x8B79203A = ~z~I might have a couple.
+
+0x9DC7DDF4 = ~t~In Spanish: Yeah, boss!
+
+0x9DC800C1 = ~z~Yeah, I know how that goes.
+
+0x11F8E170 = ~z~The outlaw life, huh? So exciting, living free.
+
+0x12D2C883 = ~z~So, Molly's been acting pretty crazy.
+
+0x17C0CA6F = ~z~Go easy? I'm just getting started.
+
+0x26E63FA6 = ~z~What? No, reckon it's too late for that.
+
+0x34B5DB45 = ~z~So are you and Mary gonna get back together?
+
+0x45BE78F8 = ~z~That's right, boss.
+
+0x45D6A931 = ~z~What do you mean?
+
+0x48E2C8E6 = ~z~Well done, John.
+
+0x54FA8C78 = ~z~Me too.
+
+0x58D0036F = ~z~She did?
+
+0x68BF0E0F = ~z~Me neither.
+
+0x68E8B02F = ~z~Come on, Kieran. Join in!
+
+0x77E8F916 = ~z~Boring bastard.
+
+0x83B6CD7F = ~z~You've been killing a lot, so don't judge me.
+
+0x89F97AE2 = ~z~Well, aren't you a ray of sunshine this morning?
+
+0x99D8E966 = ~z~Good, 'cause I'm going crazy here, Arthur.
+
+0x135FDC76 = ~z~So when are we going to do another job, me and you? That bank was fun.
+
+0x143BEDB7 = ~z~We're all just doing our bit.
+
+0x186BCE74 = ~z~Hey listen, try not to get too bogged down in all this. You got your whole life ahead of you.
+
+0x219BF3C1 = ~z~You think he went back to the O'Driscolls?
+
+0x333C9702 = ~z~No, they must have got to him somehow
+
+0x535B14C5 = ~z~Just think... we wouldn't be here if you and me hadn't cleared the place out.
+
+0x783E576C = ~z~Why did it all have to go to shit, Charles? It was fun for a while.
+
+0x790C3CEB = ~z~Come on, it ain't that bad.
+
+0x3067ABA7 = ~z~Hey, you know what I'd tell the old Karen.
+
+0x4882F389 = ~z~Nice to know everyone's watching.
+
+0x4960C670 = ~z~~sl:0.0:3.9~Well I don't know... way she looks at me sometimes.~sl:1.4~I get that with women a lot.
+
+0x7853B6B9 = ~z~Okay, just trying to look out for you.
+
+0x73381A12 = ~z~What? No, not in the slightest.
+
+0x78858E90 = ~z~So how come you get the fancy room in the mansion and I have to sleep out here?
+
+0x94756EFC = ~z~You've been drinking a lot, Karen... are you okay?
+
+0x459947C4 = ~z~So what do you think it's going to be like? Tahiti...
+
+0x477260B4 = ~z~You know... my mom used to make something like this, when I was a girl.
+
+0x490821E8 = ~z~Just ain't the same without Sean.
+
+0x5957380F = ~z~Now I don't know.
+
+0x28045335 = ~z~It's done now. No changing it.
+
+0x57980248 = ~z~Come on! How about another one?
+
+0x72792183 = ~z~Can't even picture it... all of us, a place like that.
+
+0xA35BCC57 = ~z~Running scams, robbing banks, screwing over the rich and horrible.
+
+0xA3424FCC = ~z~Get some drinks down you. Live a little.
+
+0xA6586A35 = ~z~Ask Susan, or Dutch, not me.
+
+0xABC2BA07 = ~z~So glad Jack's back safe.
+
+0xAD9DE0DB = ~z~You know I used to love the excitement, the danger.
+
+0xB8FB228D = ~z~If they found us here, what about the Pinkertons?
+
+0xB55D012D = ~z~~sl:0.0:3.0~God, I hate this swampy shithole!~sl:1.0~You know I even got a mosquito bite on my pecker?
+
+0xB4288340 = ~z~~sl:1.0~Hope this wakes me up, I feel like shit.
+
+0xBEEB3B56 = ~z~I opened my eyes.
+
+0xC091CBF9 = ~z~Drink more while life's still fun, 'cause it won't be for long.
+
+0xC1BFD1E8 = ~z~Ain't the same.
+
+0xC6D5A89A = ~z~It's not my business but maybe you should go easy, Karen.
+
+0xC31DBBF3 = ~z~Soon, I'm sure.
+
+0xC64DA30E = ~z~I didn't and definitely didn't need to.
+
+0xCB31C6FA = ~z~Yeah, we need to keep our guard up real high from here on out.
+
+0xCC9856B0 = ~z~Jesus, what happened to the old Karen?
+
+0xD21F6F14 = ~z~What?
+
+0xD31A93A8 = ~z~Yes we are, Dutch.
+
+0xD3877577 = ~z~Yeah, he liked you... in his own crazy way.
+
+0xDA66F24D = ~z~But it's mostly just sleeping in the dirt waiting for someone to put a bullet in your head.
+
+0xDD2A88C1 = ~z~You know, Sean was just starting to get good at the reading...
+
+0xDEBB1110 = ~z~You wanna go out catch one? No one's stopping you.
+
+0xE2C1FE1A = ~z~Welcome back, Jack.
+
+0xE5B09123 = ~z~I don't know...
+
+0xE91BB8EA = ~z~Well, I'll let you fine folks get reacquainted.
+
+0xE416A993 = ~z~Thanks, I guess... doesn't always feel that screwed on.
+
+0xE640C667 = ~z~Thanks, Uncle Hosea.
+
+0xEACBCB3E = ~z~Why did I sit here?
+
+0xF8A47A8F = ~z~Alright, alright.
+
+0xF45B629C = ~z~Welcome back, Jack.
+
+0xF71D33FC = ~z~Are you alright, Karen? You used to be the happy one.
+
+0xF5813E9C = ~z~When's Pearson gonna cook us some alligator then?
+
+0xFB18D491 = ~z~Suit yourself then.
+
+0xFCED6F81 = ~z~~sl:0.0:3.8~I swear, my feet are rotting in this dank climate.~sl:2.8~They stink like old cabbage.
+
+0xFF6D360C = ~z~Yes, thank God it worked out.
+

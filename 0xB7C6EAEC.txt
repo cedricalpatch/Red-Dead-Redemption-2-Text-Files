@@ -1,0 +1,26 @@
+0x0BAD34D6 = ~z~If you say so.
+
+0x8D8AB88F = ~z~I just wanted to thank you boys... for taking me in... for not killing me...
+
+0x48F6AF68 = ~z~Well... he likes Colm... he's American.
+
+0x9942D631 = ~z~Colom.
+
+0x159748AA = ~z~Let me tell you boys, old Colm O'Driscoll... he's a rotten feller.
+
+0x333483E4 = ~z~It's Colom. In Ireland, we say Colom.
+
+0xA6AB7102 = ~z~That's better, boy... that's better.
+
+0xB00703B9 = ~z~He likes Colm.
+
+0xBE3399DC = ~z~he's just a dumb Irish bastard who can't pronounce his own name.
+
+0xC3FE2BA7 = ~z~And you like breathing? So say Colom properly...
+
+0xD99750A3 = ~z~I do say so. Colom O'Driscoll, say it now.
+
+0xEFF27D59 = ~z~The boy's Irish... just look at his name...
+
+0xFBCE1518 = ~z~Not you as well... It's not Colm. "Colm".
+

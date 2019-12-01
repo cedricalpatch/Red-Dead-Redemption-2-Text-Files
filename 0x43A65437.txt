@@ -1,0 +1,58 @@
+0x095000DB = ~z~I'd like to give her a swig of arsenic.
+
+0x0A44D158 = ~z~How are you?
+
+0x0CEFD41B = ~z~I mean...
+
+0x2CA21612 = ~z~and you?
+
+0x6B5D10F4 = ~z~I thought as much.
+
+0x9F5E78F6 = ~z~No, of course...
+
+0x38C18233 = ~z~Arthur.
+
+0x63B90433 = ~z~as a general rule...
+
+0x65CC0865 = ~z~would Dutch be mad?
+
+0x74A8261D = ~z~Fine...
+
+0x94F866B1 = ~z~I think...
+
+0x998AEFE2 = ~z~if I was to kill Miss Grimshaw...
+
+0x9108DC4B = ~z~I ain't quite old enough to know.
+
+0x60637D94 = ~z~Alive...
+
+0x79982D6A = ~z~Was she always like this?
+
+0x4340434E = ~z~Let me ask you a question...
+
+0xA8D83FE9 = ~z~You fancy a game of dominoes?
+
+0xB0899B50 = ~z~h-he was a traitor.
+
+0xB69ADB6E = ~z~I will.
+
+0xBEC8B7CE = ~z~Dutch likes to avoid murder within the camp.
+
+0xC7E249FD = ~z~But, Miss Grimshaw, well...
+
+0xC42EF696 = ~z~If I'm playing with you...
+
+0xD1F49225 = ~z~Sure, why not.
+
+0xD61299F5 = ~z~she'll leave me alone.
+
+0xD6246681 = ~z~Dutch has a soft spot for her.
+
+0xDF05AC47 = ~z~She's always liked her swill of vinegar.
+
+0xE1FC7E35 = ~z~there was one that one time, but...
+
+0xEDDA49F0 = ~z~so as long as you've known her?
+
+0xFA826340 = ~z~Well, just do it discreetly.
+

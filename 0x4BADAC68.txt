@@ -1,0 +1,724 @@
+0x00FB82B1 = ~z~Who by?
+
+0x01082C7C = ~z~~sl:1.5:2.4:1~I'm a transplant, but I'm never leaving.
+
+0x0234ECFC = ~z~Oh man...
+
+0x02AC424E = ~z~Everyone knows him.
+
+0x04605391 = ~z~Lucky for him he didn't have a ring on his finger.
+
+0x0641131C = ~z~I haven't, no. Maybe those gentlemen over there have?
+
+0x06E143F9 = ~z~I think we heard some in that other courtyard up ahead, now get lost.
+
+0x07205EEB = ~z~Stupid fool.
+
+0x07E62366 = ~z~Big house on Flavian Street...
+
+0x0B215BC3 = ~z~I just wanna speak with him.
+
+0x0C3A89BB = ~z~You better stop right now!
+
+0x0C4B7638 = ~z~That ain't really the same thing...
+
+0x0C75EB6D = ~z~Look, mister, we'd really appreciate some privacy here.
+
+0x0C722F55 = ~z~Stop, goddamn it!
+
+0x0CCAA975 = ~z~Mister Big? Mister Italian-spaghetti-eating-long-streak-of-piss-big?
+
+0x0CFC7B98 = ~z~Is that right?
+
+0x0DD78671 = ~z~turn that ring twice, and then the next man you shake hands with will become your husband.
+
+0x1A6DC1EC = ~z~~sl:1.8:0.0~Me neither... well, isn't this awkward...
+
+0x1AA10E26 = ~z~Dollar, please.
+
+0x1CEBFF58 = ~z~why he gonna care a thing about you?
+
+0x1D90BFF6 = ~z~If you say so.
+
+0x1D680D1E = ~z~Round the corner there, to the right.
+
+0x1E88B513 = ~z~I'd stay away from my friend here, mister, she's a finger-grabber.
+
+0x1F004DE0 = ~z~~sl:0.0:4.6:1~He makes my skin crawl... some swarthy cocksucker...
+
+0x1F7F9C68 = ~z~Excuse me.
+
+0x1FB85BC1 = ~z~Bunch of children...
+
+0x2A0C4ED6 = ~z~Hope you won't need his services but you got the doctor on the corner there, nice enough feller.
+
+0x2BD75868 = ~z~Where you been?
+
+0x2BE35AF9 = ~z~Get off me, mister.
+
+0x2C4F4BA3 = ~z~You alright there, sir?
+
+0x2CF6C4AF = ~z~So you just walk up to any man with a ring on his finger and turn it three times?
+
+0x2F90C068 = ~z~~sl:0.0:3.4~Bet they don't have nothing so fine where you come from, mister.~sl:0.0:2.7:1~Look at them fine steeples...
+
+0x3A1A8BCC = ~z~Can I help you?
+
+0x3A89116A = ~z~Getting robbed.
+
+0x3AEFBF13 = ~z~Fine then... so sorry for boring you.
+
+0x3B843F03 = ~z~Come on then.
+
+0x3E2F34FB = ~z~Come on now, this sulking doesn't become you.
+
+0x3EB1E825 = ~z~Yes... then after twenty-four men, find any married person, male or female, wearing a wedding ring...
+
+0x4A263EB7 = ~z~Born and raised.
+
+0x4BE5DDC8 = ~z~Over here.
+
+0x4D4F7DBF = ~z~Let's go! That feller looks angry!
+
+0x4F3DFF6F = ~z~Alright, calm down. He went that way.
+
+0x4F56B644 = ~z~Hello?
+
+0x5A2E15FA = ~z~You new to the city, mister?
+
+0x5A10B15B = ~z~~sl:0.0:1.0~Yeah, okay!~sl:0.4~Okay, he ran up the steps there.
+
+0x5AAC97B1 = ~z~I cannot decide which I like less...
+
+0x5B08C65C = ~z~You alright back there, old man?
+
+0x5B4C1AD3 = ~z~Let's go, mister.
+
+0x5B8131D4 = ~z~Now, over here's a real piece of art.
+
+0x5B33071B = ~z~Ah, shit.
+
+0x5C6C920E = ~z~He was running pretty fast.
+
+0x5C28A0DE = ~z~then I don't wanna walk.
+
+0x5C3634C2 = ~z~You thieving bastards!
+
+0x5CF91E29 = ~z~
+
+0x5D90658B = ~z~~sl:1.1:1.7:1~That's why we love it.
+
+0x5E0E3F4E = ~z~I'm a good boy, I wash.
+
+0x5E5F85F8 = ~z~Fellers, you seen a kid come through here, about fourteen, fifteen?
+
+0x5E5687DD = ~z~It ain't happened yet.
+
+0x5F64C9D8 = ~z~~sl:0.0:1.5~I-I'm sorry, please excuse me.~sl:~I, I-I seem to have some very impatient customers.
+
+0x6B15F524 = ~z~Like I said, I can't help you.
+
+0x6B27DB23 = ~z~we all friends now... isn't that the most beautiful testament to God's love for us all?
+
+0x6D061C4F = ~z~Come on.
+
+0x6EE24651 = ~z~but it'll cost.
+
+0x6F1E3771 = ~z~He'll be long gone if you don't get moving.
+
+0x6F577AF2 = ~z~I won't inquire anymore.
+
+0x6F770C29 = ~z~Arthur, over here!
+
+0x6FEBB8BA = ~z~You ever hear of a feller by the name of Bronte?
+
+0x7A0CB49B = ~z~You got that right.
+
+0x7A2807F0 = ~z~Okay.
+
+0x7ADB6F4C = ~z~So you done with the silent treatment now?
+
+0x7AF65FD9 = ~z~here...
+
+0x7BF05922 = ~z~~sl:0.0:0.7~Hey, hey!~sl:~You little pair of shits!
+
+0x7E60D5A4 = ~z~Sure.
+
+0x7EF48832 = ~z~What you mean, leave it?
+
+0x7F3AA523 = ~z~Stick 'em up, cowboy.
+
+0x8B048F0C = ~z~What are you looking for?
+
+0x8B6FFB16 = ~z~You coming then?
+
+0x8C92296A = ~z~You're making a fool of yourself!
+
+0x8F54DD90 = ~z~The rest of the states, they're lucky to have us.
+
+0x8F820798 = ~z~hustled by a brat...
+
+0x9A1AD948 = ~z~Hey...
+
+0x9A4A9200 = ~z~Hello?
+
+0x9A730D7C = ~z~and take me to Angelo Bronte.
+
+0x9AD48E97 = ~z~Who's asking?
+
+0x9B8664C5 = ~z~You been to Toulouse, mister?
+
+0x9B903972 = ~z~Immigrants... they're not to be trusted.
+
+0x9BB4FC42 = ~z~You look like a whisky man.
+
+0x9CA54DE0 = ~z~Aren't your tired yet, old man?
+
+0x9CBA85E4 = ~z~Damn snitch!
+
+0x9D10A8E3 = ~z~Hey! A boy ran through here, I need you to tell me which way he went.
+
+0x9EC3FFCA = ~z~Mr. Bronte's got a lot of friends, mister, but...
+
+0x9EF688C3 = ~z~Shut up.
+
+0x9FF217BF = ~z~Hey kid, watch where you're going!
+
+0x10B0F5D4 = ~z~So you're letting him get away then?
+
+0x12ED4237 = ~z~Seems to be some Italian mister big in town...
+
+0x13DACCCF = ~z~Little fool!
+
+0x17ADCB41 = ~z~Sorry ma'am, have you seen a boy run through here, about fourteen?
+
+0x18B4349B = ~z~At home...
+
+0x22A7078E = ~z~come on!
+
+0x22BB90D8 = ~z~Every year they say that's gonna happen.
+
+0x24B9B361 = ~z~You coming, Cleet?
+
+0x25C5D71A = ~z~Here, have one for yourself.
+
+0x29C69B88 = ~z~Stay close, easy to get lost around here.
+
+0x29FB6FDC = ~z~Oh yeah, he ran up the steps there.
+
+0x30CB0845 = ~z~I've been asking around about Mr. Bronte...
+
+0x32D07580 = ~z~~sl:0.0:1.5:1~You know what I mean, friend?
+
+0x36B7B36C = ~z~Hey, can I get a drink here?
+
+0x36CEC681 = ~z~Sure. That's the real stuff, from Scotland.
+
+0x37D96DB3 = ~z~I told you how to find Bronte, so... get lost!
+
+0x39E566CF = ~z~Can we help you?
+
+0x40BB268E = ~z~Hey, you got a cigarette, mister? Huh?
+
+0x41F10F70 = ~z~I'm asking.
+
+0x44A62590 = ~z~But I found Mr. Bronte...
+
+0x44BB4DE6 = ~z~Now...
+
+0x46DCCAA6 = ~z~Where is he?
+
+0x46F0F65F = ~z~Hey, you see a kid about fourteen years old run through there?
+
+0x49DA55F8 = ~z~I ain't never seen you.
+
+0x49EA9A72 = ~z~Hey, mister, you seen a boy running through here?
+
+0x50E5E40B = ~z~You new in town, mister?
+
+0x51D0D0DD = ~z~Over here!
+
+0x56BC3A8C = ~z~You know, I have no idea.
+
+0x56F1FA50 = ~z~Thanks a lot, mister!
+
+0x58E49E32 = ~z~good work.
+
+0x60B70AA1 = ~z~I did not know that...
+
+0x61AA1C37 = ~z~So, mister... can I ask you a question?
+
+0x64A66813 = ~z~Yes?
+
+0x64DB0252 = ~z~Right. You're nauseous and I'm nauseated.
+
+0x64F32B84 = ~z~Pretty much.
+
+0x67CA1016 = ~z~tails between their legs at the first sign of trouble.
+
+0x69A24B45 = ~z~They just through the arch there, you can see 'em.
+
+0x70C0E4B3 = ~z~Here.
+
+0x73F03895 = ~z~You darn crazy person!
+
+0x75A4CCE7 = ~z~Don't worry, no one knows it good as me and Cleet.
+
+0x75D2ADE4 = ~z~Now...
+
+0x76D6D1E8 = ~z~Ain't got all day here, mister.
+
+0x78BA95FE = ~z~I think so...
+
+0x78CFEED9 = ~z~Hey, where'd that boy go? I know he came through this way.
+
+0x79B896F9 = ~z~Go on, Arthur, divide and conquer.
+
+0x79E03BA5 = ~z~Worst feller to come to the market with, hands down.
+
+0x84B05293 = ~z~Now, the process of felting a hat is particularly fascinating...
+
+0x86CF3B57 = ~z~Modelled on a famous church in Toulouse, which is in France.
+
+0x87BEA31D = ~z~Welcome to Saint Denis, mister.
+
+0x89BB5BF0 = ~z~I'll get to you in a second.
+
+0x90FEBFC6 = ~z~Hey kid, watch where you going!
+
+0x93BCD1EF = ~z~~sl:1.3:1.8:1~Funny you should say that.
+
+0x93FCCEA7 = ~z~Yeah, real funny, Dutch.
+
+0x96A4F67C = ~z~rather than spinning it into a yarn that is then woven, felt is formed...
+
+0x99B99BBB = ~z~Why, yes we did. He went around the corner there.
+
+0x121C47BA = ~z~What are you doing? I thought you were going to ask around.
+
+0x141CCA03 = ~z~Yes, I think I heard a few in the other courtyard up ahead. You can get through on the left there.
+
+0x162E42D1 = ~z~Get back here!
+
+0x219EADFF = ~z~What nonsense.
+
+0x226AE69F = ~z~Pardon me, but have you seen any kids around this way?
+
+0x252D32E8 = ~z~Where's he live?
+
+0x261E8E81 = ~z~You don't like no one, mister.
+
+0x299F6F9B = ~z~everybody knows him but nobody wants to talk about him.
+
+0x316FB511 = ~z~Boo!
+
+0x347A3455 = ~z~Not unless we all get washed away.
+
+0x405F03F0 = ~z~Give me my things.
+
+0x431B1615 = ~z~Where can I find him?
+
+0x475E80A9 = ~z~Couldn't get the ice off the trolley wires?
+
+0x502FABED = ~z~No, leave it, friend.
+
+0x503F3CD6 = ~z~Where you been?
+
+0x527DE96B = ~z~Hey, yokel.
+
+0x535A8F42 = ~z~You don't wanna pay...
+
+0x540FE50C = ~z~We'll take you to him...
+
+0x593FBCC9 = ~z~you and your pal that was in here before.
+
+0x594CEF8E = ~z~I'm looking for a feller named Angelo Bronte?
+
+0x626F7298 = ~z~No...
+
+0x696E97B6 = ~z~Now, how can I help?
+
+0x724B8AE7 = ~z~~sl:2.0:0.0~What's the problem, friend?
+
+0x724CCF5A = ~z~Don't take my word for it then.
+
+0x754E5705 = ~z~opposite the park.
+
+0x759FDD2B = ~z~Technology, all well and good so long as it works.
+
+0x779D317D = ~z~We ain't friends.
+
+0x883EFA6A = ~z~come on.
+
+0x885D93EC = ~z~You little bastard.
+
+0x903C0CE4 = ~z~Whatever it takes, we need to get that boy back.
+
+0x965F29F7 = ~z~And hello to you too!
+
+0x987DD584 = ~z~but I haven't had any joy in there so far.
+
+0x2890AA05 = ~z~For a whiskey?
+
+0x3394C4CA = ~z~I'm telling you, a cucumber is definitely a fruit...
+
+0x3621A938 = ~z~I know him.
+
+0x4253EF39 = ~z~There's some kids around here somewhere. Where are they?
+
+0x4398C971 = ~z~That kid was gonna show me before he robbed me.
+
+0x5682AD91 = ~z~~sl:0.3:0.0~Damn street trash!
+
+0x6646F33C = ~z~Yeah, cities all look the same to me.
+
+0x7670B270 = ~z~He's got a big house on Flavian Street, opposite the park.
+
+0x7728A6ED = ~z~You're impossible.
+
+0x9270B977 = ~z~Come on, keep up!
+
+0x9300CB18 = ~z~Maybe...
+
+0x9800CAE6 = ~z~Oh and, friend... Y-you be careful now.
+
+0x12215D81 = ~z~~sl:0.0:1.1~Immigrants!~sl:0.1~They're not to be trusted.
+
+0x23612F7B = ~z~That way, through there. Quick.
+
+0x24362CA8 = ~z~Giddy up, farmboy.
+
+0x27380B65 = ~z~Italian...
+
+0x29621BF8 = ~z~Can we not talk about hats any more?
+
+0x30193DD3 = ~z~Since forever. I read it in the newspaper.
+
+0x31244CDA = ~z~Easy, tough guy, they over there. Some manners wouldn't kill you.
+
+0x47840B5E = ~z~Hey, get back here you two!
+
+0x51357AF6 = ~z~I ain't your friend...
+
+0x54186A74 = ~z~Mr. Bronte, he's got fine hair...
+
+0x55763ACB = ~z~~sl:0.0:3.3~Oh, I-I reckon you can talk to them kids in the alley...~sl:~they'll know how to get...
+
+0x58355E24 = ~z~We're Catholics here, mister, ain't Baptists or nothing.
+
+0x63280E15 = ~z~So let's just agree to disagree on the cucumber.
+
+0x67933B8F = ~z~So what now?
+
+0x88107C89 = ~z~Huh...
+
+0x89297ADF = ~z~I reckon I can pay.
+
+0x99616F55 = ~z~~sl:0.4:0.0~This is fun, mister! I like you.
+
+0x122224FE = ~z~Getting robbed.
+
+0x137010CE = ~z~This way, let's go, mister...
+
+0x163942E3 = ~z~Stop, you little shit!
+
+0x587957A1 = ~z~America's very own Gomorrah.
+
+0x595851A9 = ~z~You'll have to ask someone else. I didn't see no boy.
+
+0x797753E1 = ~z~The kid who ran through here, which way did he go?
+
+0x869898BE = ~z~can I ask you a question?
+
+0x901424FB = ~z~My momma said they used to burn Protestants and all, but uh...
+
+0x1455237D = ~z~You a religious man?
+
+0x3557114D = ~z~and from what I've heard this establishment is our best lead...
+
+0x5663854E = ~z~What you talking about, friend?
+
+0x7852357D = ~z~And what business is it you're in?
+
+0x18731974 = ~z~Five dollars.
+
+0x25541733 = ~z~This is your last warning, boy!
+
+0x70710790 = ~z~So, here we are in a strange land of Papists and rapists...
+
+0x89157665 = ~z~Come on, you wanna see Bronte or not?
+
+0x95128238 = ~z~
+
+0xA09848A6 = ~z~~sl:0.0:2.3:1~Hi there, have you seen any kids around here?
+
+0xA3BD2010 = ~z~Signor Bronte.
+
+0xA3F0EB69 = ~z~So... are you going to see what you can find out in the saloon?
+
+0xA5B9B403 = ~z~New York?
+
+0xA6BCCE05 = ~z~Hey get off the track!
+
+0xA36A0C62 = ~z~He been mighty disrespected...
+
+0xA56D7550 = ~z~~sl:0.0:1.3~Well, you know how it is.~sl:0.3:1.1~I told him, I said,~sl:0.3:1.9~"That's the state of Lemoyne for you.~sl:0.3~America's dirty little French secret."
+
+0xA726CCB6 = ~z~~sl:0.9:0.0~What are you doing? There's no cows here, buddy... you're lost! Completely lost!
+
+0xA3096CC0 = ~z~So, how you get on?
+
+0xA4325C04 = ~z~Get lost.
+
+0xA9436D6B = ~z~Immigrants... they're not to be trusted.
+
+0xA373512F = ~z~but leave it, friend...
+
+0xA649711B = ~z~So, I should just give it a shot?
+
+0xA4765479 = ~z~Who's asking?
+
+0xA6181158 = ~z~A dollar please.
+
+0xA7282663 = ~z~Stick 'em up, cowboy.
+
+0xA9885641 = ~z~Give me my things back.
+
+0xAA71F3A9 = ~z~Is there something you need?
+
+0xAACDD3BA = ~z~Get away from me.
+
+0xAC57C51B = ~z~We go pay him a visit.
+
+0xAD4DD39E = ~z~You seem lost, mister?
+
+0xADC162F8 = ~z~Oh yeah, just through that archway there.
+
+0xAE00CDEC = ~z~You know, I kind of miss old bobtails.
+
+0xAEBB4C38 = ~z~He ran around the corner there. You ever heard of the word "please"?
+
+0xB016627E = ~z~Oh, hey, friend. Y-you be careful now.
+
+0xB042742A = ~z~I said get lost, you dumb yokel!
+
+0xB0B2AC6D = ~z~You look like a whiskey man.
+
+0xB0D32C7C = ~z~You believe in your fairy tales...
+
+0xB0F6F233 = ~z~Just give it up, farmboy!
+
+0xB5B7C3FD = ~z~I'll meet you back here, anon.
+
+0xB6CCF7E2 = ~z~Look, I don't know what business you in...
+
+0xB9CFCC25 = ~z~What's the problem, friend?
+
+0xB26B0967 = ~z~Famous book store, not that I'm much of a reader myself.
+
+0xB29BF0C4 = ~z~Me...
+
+0xB49A9F6D = ~z~Well, you don't have to be rude.
+
+0xB74C477A = ~z~Okay... here, have one for yourself.
+
+0xB75FADA5 = ~z~Lemme tell you something.
+
+0xB80AEE34 = ~z~What do you want?
+
+0xB85EB5E5 = ~z~If you don't mind me asking.
+
+0xB96A3856 = ~z~I'm sure you do, mister...
+
+0xB96C9FFF = ~z~This way, Arthur!
+
+0xB106E299 = ~z~Don't ride on the tracks!
+
+0xB606D061 = ~z~Thanks for the help, friend.
+
+0xB799CCD6 = ~z~Facts, they make half of them up.
+
+0xB939A02F = ~z~That's the Church of the Holy Blessed Virgin, mister.
+
+0xB5684D27 = ~z~We're a long way of east of land we know...
+
+0xB78502AF = ~z~Hey big lug, get lost!
+
+0xBA0C7749 = ~z~I was just playing.
+
+0xBB0D6286 = ~z~I'll get John, you meet us there.
+
+0xBB95BC0B = ~z~from Scotland.
+
+0xBB630256 = ~z~So, mister...
+
+0xBD1DEC26 = ~z~I don't. Bounced around so much, couldn't even read the newspaper.
+
+0xBD1E5416 = ~z~~sl:0.5:1.0~Bronte?~sl:1.0:1.8:1~Angelo Bronte?
+
+0xBE672949 = ~z~Little bastard got off.
+
+0xBFFA624B = ~z~and far from real open country.
+
+0xC090E9B1 = ~z~I'm an entrepreneur.
+
+0xC1E41767 = ~z~Where?
+
+0xC4B2E1EB = ~z~Gimme my things, boy.
+
+0xC4F84F18 = ~z~Sure.
+
+0xC6C01DC5 = ~z~Don't you have pigs to feed?
+
+0xC8A734BA = ~z~You after that kid? That little shit went that way!
+
+0xC8AE3CF6 = ~z~Who the hell you think you are?
+
+0xC11F98B1 = ~z~You better stop right now!
+
+0xC15FC79F = ~z~Sure, that's the real stuff...
+
+0xC25C3AF0 = ~z~There's kids somewhere in this alley, where are they?
+
+0xC58AE3F7 = ~z~Why thank you.
+
+0xC89CD6C7 = ~z~Well, you and your friends should pay him a visit, mister.
+
+0xC92D5CEB = ~z~I know you seen a boy running through here. Which way he went?
+
+0xC9914BBD = ~z~You always have to be right, don't you?
+
+0xC70707AA = ~z~No.
+
+0xC1216565 = ~z~Get going! He's coming after us!
+
+0xC3551245 = ~z~I'd get moving if you wanna catch him.
+
+0xCA4A24D9 = ~z~Come on, run like the goats got loose!
+
+0xCAE78F06 = ~z~~sl:0.2:1.1:1~Bye mister!
+
+0xCB04D300 = ~z~Maybe...
+
+0xCB7288D3 = ~z~Remember when they had to bring the mules back out after the snowstorm in '95?
+
+0xCBEF9B90 = ~z~You alright there?
+
+0xCC18E16D = ~z~~sl:0.0:2.0~Oh yeah, he ran right through us.~sl:~Ran around the corner there.
+
+0xCD94B5AB = ~z~~sl:0.0:2.7:0~Hey! Moron!
+
+0xCE2C40E8 = ~z~just keep it cool.
+
+0xCE4EC837 = ~z~You son of a bitch!
+
+0xCE22E57B = ~z~You know it takes four rabbit skins to make a single hat?
+
+0xCEA8B0F0 = ~z~It's quite a town.
+
+0xCF6E2A6C = ~z~Okay.
+
+0xCF9264A6 = ~z~you and them friends of yours been asking about him all over town.
+
+0xCF296332 = ~z~For a whisky?
+
+0xD1F5E979 = ~z~bunch of muddy Yankees in town asking questions.
+
+0xD3C66027 = ~z~I'm just giving you the correct use of the word. If you're feeling sick, you're not nauseous, you're nauseated.
+
+0xD3DF54E4 = ~z~Arthur!
+
+0xD8EC142E = ~z~the swamps or the city.
+
+0xD56CFD60 = ~z~We don't know anything else about these damn kids, okay?
+
+0xD70D0BBC = ~z~Oh so it must be true. So they tell you your dog's a cat now, you just start calling him Mittens?
+
+0xD87AFB86 = ~z~Why don't you ask someone else, pal?
+
+0xD794EFAE = ~z~If it wasn't for us, they'd probably run back to Britain...
+
+0xD873C12C = ~z~You ain't got a chance in hell, slowpoke!
+
+0xD1616A86 = ~z~If you want to disagree with the truth, that's your choice.
+
+0xD2803B72 = ~z~You give that back!
+
+0xD88955A3 = ~z~That's Barrett and Schreiber on the right there.
+
+0xD759873C = ~z~You know me.
+
+0xDBF1A2AA = ~z~It's really become quite the craze.
+
+0xDC7EB591 = ~z~Yeah, ya dumb bastard, go away!
+
+0xDCCE452C = ~z~You ever hear of a feller by the name of Bronte?
+
+0xDD89CEB2 = ~z~opposite the park.
+
+0xDDDA5226 = ~z~I'll kill you, you thieving bastard!
+
+0xDECCCE45 = ~z~Bye, mister!
+
+0xDFFE8C89 = ~z~Just give it up, kid!
+
+0xE4D7F549 = ~z~Goddamn you!
+
+0xE7E88453 = ~z~You still here? Get back to the farm, go fondle a cow!
+
+0xE8ED975C = ~z~He got fifty men, mister...
+
+0xE39F0578 = ~z~He-ya! Ya!
+
+0xE66C500C = ~z~Bronte?
+
+0xE3871FA3 = ~z~but that kid is...
+
+0xE592784A = ~z~Hey Arthur!
+
+0xE3152880 = ~z~Both are full of parasite, reptiles and slime.
+
+0xEA24FAF6 = ~z~I thought so.
+
+0xEB6AFBF0 = ~z~~sl:0.0:1.3~My... careful!~sl:0.6~Kids...
+
+0xEB11E1B3 = ~z~Why, thank you.
+
+0xECD4323D = ~z~and he robbed from me.
+
+0xED9A982B = ~z~Hey...
+
+0xEDCEEBE2 = ~z~I'm being chased by the village idiot.
+
+0xEDD0D835 = ~z~Hey moron... go home, back to the pigsty you escaped from!
+
+0xEE2FA0C0 = ~z~get out of here.
+
+0xF2AFAAE0 = ~z~he got a beautiful house and I am proud to work for him.
+
+0xF4E1BA6E = ~z~Damn moron.
+
+0xF513F5C2 = ~z~You seemed in a hurry, but maybe not?
+
+0xF981C3E6 = ~z~Run!
+
+0xF9258EA8 = ~z~Apparently, he lives in a big house on Flavian Street...
+
+0xF5810753 = ~z~Who by?
+
+0xFA6FD281 = ~z~Since when?
+
+0xFBC8B487 = ~z~hey, you got a cigarette, mister?
+
+0xFBFF8847 = ~z~I'll spend it on something nice, mister, I promise!
+
+0xFCC37D37 = ~z~You lost, mister?
+
+0xFE010913 = ~z~So what were we talking about?
+
+0xFE05ED4E = ~z~That's enough! Come here!
+
+0xFF08C918 = ~z~Now, how can I help?
+
+0xFF21D6D8 = ~z~Now, give me back my stuff...
+

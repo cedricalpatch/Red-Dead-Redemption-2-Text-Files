@@ -1,0 +1,50 @@
+0x04022D78 = ~z~~sl:0.1:3.0~Stiffs stay outside, 'round the back.~sl:0.0~Then I believe you're due some cash.
+
+0x0E24D4C2 = ~z~~sl:0.8~The sheriff's office thanks you for your work.
+
+0x1F67E443 = ~z~~sl:0.2:3.2~Keep that stink outta my office, would you?~sl:0.0:3.7:1~Throw 'em 'round back. I got the money for you.
+
+0x2CDE20A6 = ~z~~sl:0.3:2.4~And whom do we have here?~sl:~Got a cold cell all lined up for them...
+
+0x3CA83843 = ~z~Cell's open.
+
+0x3EA4C433 = ~z~~sl:0.0:3.2~Another stain on the reputation of this county~sl:~all set to be wiped clean. Throw 'em in the cell.
+
+0x6C967EAB = ~z~~sl:0.3:2.5~Well... this speaks for itself.~sl:0.6~Throw 'em out back, I got the payment for you.
+
+0x43DB4EA4 = ~z~Seems someone's time is all but spent. Cell's open.
+
+0x169A9ACF = ~z~~sl:0.0:2.8~We put down far worse than you.~sl:~A hundred times over.
+
+0x2311FE9C = ~z~~sl:0.4:2.6~For the wages of sin is death.~sl:~And speaking of wages...
+
+0x5169E9BD = ~z~~sl:0.0:2.4~Now, good work for an amateur.~sl:0.2~Soon as they're in that cell, you can get yourself paid.
+
+0x16296B52 = ~z~Oh... good work for an amateur.
+
+0x523649DF = ~z~~sl:0.6:3.3~Messy job... you'll get your reward~sl:~as soon as they're laying out back.
+
+0xA01D4055 = ~z~~sl:0.3~The county thanks you for your service.
+
+0xB1B79BE9 = ~z~~sl:0.5:4.5:1~It was dead or alive, and they sure ain't alive.
+
+0xB2D8E5C8 = ~z~~sl:0.4~Here's your due.
+
+0xB2EDE5F6 = ~z~~sl:0.9~Spend it in town.
+
+0xBC4DE63B = ~z~Who do you think you are?
+
+0xC06C3952 = ~z~~sl:1.3~Saved me the shoe leather. Come get your reward.
+
+0xC4040822 = ~z~Good money for bad business.
+
+0xD71B66B0 = ~z~~sl:0.7~I trust your conscience is clear. Come get your due.
+
+0xD661ACDD = ~z~~sl:0.1~And one fair price for you.
+
+0xE3268D38 = ~z~I was just this second gonna head out there and bring that one in myself. Put 'em in the cell.
+
+0xECD298A5 = ~z~Throw 'em in the cell.
+
+0xFEA53C4A = ~z~Oh... very good.
+

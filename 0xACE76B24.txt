@@ -1,0 +1,14 @@
+0x05CD9EF6 = ~z~What's going to happen, you know... to everybody?
+
+0x3F5191FD = ~z~I don't have that choice no more... I'm just... trying to help others see clearly. That's my choice.
+
+0x19EA472F = ~z~Hey, big man, I'm worried... I'm really worried.
+
+0x129FB89A = ~z~I guess... folks is gonna make a choice... whether they live... or die.
+
+0x341C7B93 = ~z~Me too, Uncle.
+
+0x7460FC1B = ~z~And you?
+
+0x51033560 = ~z~You're a good man, Arthur Morgan... good man.
+

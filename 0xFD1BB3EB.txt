@@ -1,0 +1,234 @@
+0x00429BCE = ~z~Oh, it's okay... it's okay... oh it's...
+
+0x03930D46 = ~z~~sl:1.6:1.3:1~Asshole!
+
+0x09B5C903 = ~z~Feel sick...
+
+0x0BBC2322 = ~z~~sl:0.0:1.7:1~Oh, I hear birdies...
+
+0x0D2A8B45 = ~z~~sl:0.3:1.6:1~You sumbitch!
+
+0x0E7C3841 = ~z~~sl:0.2:1.3:1~Killer!
+
+0x0E5727E2 = ~z~~sl:0.0:4.2~One, two, three, four, five, seventeen, eight, nine, three...~sl:0.3~one, two, four, seven... five, nine, one...
+
+0x1B02A6F5 = ~z~~sl:0.3:4.1~Yeah... do it... do it!~sl:0.6:1.6:1~I'll kill you!
+
+0x1C126DBC = ~z~~sl:0.0:2.0~Oh, you did it again...~sl:0.3~"Stop," mother told you, mother won't like that.
+
+0x1E8006DA = ~z~~sl:0.0:1.1:1~I'll kill you...
+
+0x1EFEC41D = ~z~~sl:0.3:1.3:1~You stink!
+
+0x2C36A247 = ~z~
+
+0x2D4960B2 = ~z~~sl:0.0:2.7~You should stick your finger up your ass!~sl:0.3~"Good idea," Mama said.
+
+0x3BC904AF = ~z~~sl:0.8:2.5:1~Who are you... who are you?
+
+0x3D4595DB = ~z~Mother...
+
+0x4B835E89 = ~z~~sl:0.9:1.4:1~Someone there!
+
+0x4CA3E6DE = ~z~Where are you?
+
+0x4E6929EF = ~z~~sl:0.4:0.0~Always... always you...
+
+0x5ABE3B9B = ~z~~sl:0.3:0.0~I'll find it, I'll find it... I'll find it up there somewhere...
+
+0x5BF14315 = ~z~~sl:0.0:8.0:1~Three... four... seventeen... tw-tw-twenty-nine, thirteen...
+
+0x5E4A0A3E = ~z~~sl:0.8:1.7:1~I hate you!
+
+0x6DBD76CA = ~z~~sl:0.0:0.9:1~Killer!
+
+0x7E5DC6E0 = ~z~~sl:5.0:0.0~Oh, I can smell 'em coming from a mile away...
+
+0x7E11F639 = ~z~
+
+0x8C9C8D0D = ~z~~sl:0.0:5.4:1~Where's Daddy? Daddy? Bitch! Kill dad...
+
+0x9F58B285 = ~z~Who's there? Oh... I, I hear you...
+
+0x10BB6B9D = ~z~I can... I can hear you.
+
+0x20C24CB8 = ~z~~sl:0.3:6.2~Five, eleven... t-two... one, two, ten, three...~sl:1.0~four, five, eight, thirteen, fourteen, one...
+
+0x20E10F5A = ~z~~sl:0.6:0.0~I'll fuck you! You know I will.
+
+0x20FBBC0E = ~z~I'll kill you!
+
+0x23AE4173 = ~z~I can hear you...
+
+0x27F9ED8F = ~z~~sl:0.2:2.1:1~You silly old bastard!
+
+0x28C2EF1D = ~z~
+
+0x28C7427E = ~z~
+
+0x34F39F7E = ~z~~sl:0.0:3.4:1~Silly... silly...
+
+0x36EABB6C = ~z~~sl:1.3:2.7:1~Comb my hair... mother!~sl:0.8:0.6:1~Mother...
+
+0x55A51F1B = ~z~~sl:0.0:1.9:1~Who's creeping around?
+
+0x59E6FDA7 = ~z~~sl:3.4:1.9~It's not been very long at all though...~sl:~I don't think, I don't, I don't think it's been,
+
+0x61B178F9 = ~z~~sl:0.5:2.5:1~Mother won't like that, no...
+
+0x73FB5486 = ~z~~sl:0.0:2.0:1~You like... you like my hair?
+
+0x83AED507 = ~z~~sl:0.9:1.0~Penelope...~sl:0.3:1.2:1~you bitch!
+
+0x84FE15AC = ~z~~sl:0.0:1.4~Early bird gets the worms...~sl:~but I get worms every day, in here, that's right.
+
+0x90DBEB90 = ~z~I can smell'em...
+
+0x98AD1DE9 = ~z~~sl:0.5:3.2:1~Kill you! I'll kill you!
+
+0x615BCE60 = ~z~~sl:5.1:0.0~Mother said not to, mother said not to, so I won't, I'm a good girl.
+
+0x795F7FDB = ~z~~sl:0.0:3.6:1~Oh! Oh, oh! Wanna kiss?
+
+0x862A279F = ~z~~sl:0.0:1.6:1~Mother!
+
+0x948F76C8 = ~z~~sl:0.0:2.1~Gerald... Gerald!~sl:1.5~Where's my tea?
+
+0x977E4A4B = ~z~~sl:2.6:1.1:1~Mother...
+
+0x2798DADB = ~z~Don't... talk to me like... okay, you,  I didn't mean it, I didn't...
+
+0x3190EE55 = ~z~~sl:0.0:6.5:1~One, two, three... s-seven, six, three...
+
+0x3325E062 = ~z~~sl:0.0:1.0:1~Who's there?
+
+0x3522B1C8 = ~z~I smell you!
+
+0x4800E447 = ~z~Where's the birdies? Stop it, stop it!
+
+0x7117D600 = ~z~~sl:0.0:3.8:1~I've been... I've been bad again...
+
+0x20334D84 = ~z~~sl:0.0:1.2:1~I'll kill you!
+
+0x30902B46 = ~z~~sl:0.0:2.9~They think I can't tell what's going on out there...~sl:~I know what's going on out there...
+
+0x71304EEC = ~z~~sl:1.1:2.3:1~You stink, you stink!
+
+0x298720A6 = ~z~~sl:1.6:0.0~You! Marry me!
+
+0x1673012C = ~z~
+
+0x7769245C = ~z~Oh, there, there... that's better.
+
+0x39634738 = ~z~No supper for you!
+
+0x73108170 = ~z~
+
+0xA1BB3005 = ~z~~sl:0.3:2.4~Yeah... oh yeah...~sl:1.3:1.1:1~You like that?
+
+0xA2BD3F93 = ~z~~sl:0.9:1.5:1~Be, be my friend!
+
+0xA4D8913E = ~z~~sl:0.0:4.1:1~Oh! Fine, fine... I'll find you!
+
+0xA8B1ECB2 = ~z~~sl:0.0:1.0:1~Killers!
+
+0xA8214416 = ~z~~sl:0.0:3.7:1~Bartho-Bartholemew... Bartholemew...
+
+0xAD10C6B0 = ~z~~sl:0.0:2.1:1~What do you want?
+
+0xAE7FE8AF = ~z~~sl:5.1:0.8~I'm gonna barf...~sl:0.0:4.5~oh you, you, you better not throw up, little girl...~sl:~little lady...
+
+0xB1ECB182 = ~z~~sl:0.0:1.7:1~Oh, I'm wet again...
+
+0xB34A2731 = ~z~Eight, nine, three...
+
+0xB10897A6 = ~z~~sl:0.0:1.2:1~Sleepy...
+
+0xBA90AAB6 = ~z~~sl:0.0:0.4~Oh...~sl:1.0:0.5~oh...~sl:0.3:1.0:1~poop coming...
+
+0xBAD9BD40 = ~z~Oh, where... is that smell coming from?
+
+0xBAE26998 = ~z~~sl:0.0:6.3:1~Who's coming? Oh! Oh, I'm a-I'm a good girl! I know cows, I see cows!
+
+0xC88BDEAD = ~z~~sl:0.8:0.0~Oh, mother...
+
+0xC667F95E = ~z~~sl:0.0:0.9:1~Wanna kiss?
+
+0xC2839038 = ~z~One, two... one, two, three, four...
+
+0xCA9E01C6 = ~z~~sl:1.2:0.0~Who are you?
+
+0xCA320E7C = ~z~Yes! I know I'll kill you.
+
+0xCBEB657F = ~z~~sl:0.7:1.1:1~Gareth...
+
+0xD4F62404 = ~z~
+
+0xD6C1B92A = ~z~I'm tired, but I better not sleep...
+
+0xD8BBB1E5 = ~z~~sl:0.0:7.2~One, two, three, seven, six... four, five, eleven...~sl:0.6:~two... uh, one, two, ten, three, five, eight, thirteen, fourteen...
+
+0xD18B3055 = ~z~
+
+0xD5489B7E = ~z~~sl:0.6:0.0~You bastard... bastard...
+
+0xD69020F3 = ~z~
+
+0xDB78A37B = ~z~~sl:0.6:0.0~Who's out there, somebody's out there...
+
+0xDD768899 = ~z~~sl:1.5:1.1:1~Bathe me!
+
+0xDE710709 = ~z~~sl:0.0:1.0:1~Who's out there?
+
+0xE1FBB4E4 = ~z~~sl:0.0:1.5:1~Where's my mother?
+
+0xE4B8D68C = ~z~~sl:0.0:0.9:1~Who's there?
+
+0xE60AD746 = ~z~~sl:0.3:0.0~One, two, three, four, five... seventeen?
+
+0xE62C01F0 = ~z~~sl:2.2:0.0~Now then...
+
+0xE493D4CE = ~z~~sl:0.0:2.6:1~I'm tired, but I better not sleep.
+
+0xE4379CEA = ~z~~sl:0.0:1.9:1~Oh, good girl...
+
+0xE62919E7 = ~z~~sl:0.0:2.4:1~Why, why... where'd you go?
+
+0xEB01169E = ~z~One, two, three, four... one, two... one...
+
+0xEC1DA262 = ~z~~sl:0.0:2.9:1~I don't think it's been very long at all. I just got here, basically.
+
+0xECF9DA61 = ~z~One, two...
+
+0xED52F83A = ~z~
+
+0xEF342C14 = ~z~~sl:2.1:0.0~I'll kill you, I'll kill you...
+
+0xF0D65BC4 = ~z~~sl:0.3:5.2:1~Penelope said, Penelope said don't make friends anymore, it's not fair to the cows...
+
+0xF1ED3855 = ~z~~sl:1.1:0.0~That's a nice one!
+
+0xF4AF86FB = ~z~~sl:0.0:1.9:1~I'll find a way home!
+
+0xF9E3EDDF = ~z~~sl:0.0:2.8~There's someone out there, isn't there? There's someone out there...~sl:0.2~I think there's someone out there.
+
+0xF771A47B = ~z~Oh, bad, bad, bad girl...
+
+0xF8215BAF = ~z~Where's my friends... I'll keep you from the birds...
+
+0xF45673DD = ~z~~sl:1.8:0.0~One, two, three... four, seven, three, six!
+
+0xF69160F5 = ~z~~sl:0.0:4.1:1~Mother? Where are you?
+
+0xF2457031 = ~z~~sl:0.0:0.8:1~Where's the birdies?
+
+0xFB704475 = ~z~~sl:0.0:2.9:1~Who... who are you? Please!
+
+0xFCE0856B = ~z~~sl:0.0:4.6:1~It's okay... oh, it's okay, sweetie...
+
+0xFEEB6A60 = ~z~
+
+0xFF6AEFC2 = ~z~~sl:1.0:5.8:1~Hey, hey, here... uh, yeah, what about this? You wanna marry me?
+
+0xFFA50A7E = ~z~One, one... one...
+

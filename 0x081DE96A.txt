@@ -1,0 +1,56 @@
+0x0107EEEA = by recovering the treasure first
+
+0x02AC5191 = Go to the search area
+
+0x1AF80B56 = Found complete map piece
+
+0x5C6991F1 = Chest Looted
+
+0x7B5A8D1A = Search for treasure
+
+0x9D569C37 = Search
+
+0x23B5B37A = Chest looted by unknown player
+
+0x27B77F6A = Wait for the next treasure
+
+0x48A67C4A = Treasure stashed nearby ~COLOR_FREEMODE_EVENT~~BLIP_MP_GAME_TREASURE_HUNT~ ~s~. Loot other players to find map pieces and narrow the search area.
+
+0x76F63A91 = by recovering the treasure before you
+
+0x175C3A4A = Found partial map piece
+
+0x360E80F2 = Full map piece
+
+0x716FE855 = Treasure Hunt
+
+0x889E7019 = Search the area for the ~COLOR_FREEMODE_EVENT~treasure~s~
+
+0x7763B20C = Kill players to narrow the search area and find the treasure first
+
+0x8311E422 = Find and loot the treasures
+
+0x9304E8DF = Search Area
+
+0x51686C37 = ~COLOR_RED~Loot~s~ players to narrow the search area
+
+0x56239BA5 = Half map piece
+
+0x83787E67 = Treasure
+
+0x95340D3B = Loot new players to shrink the search area faster
+
+0x6394582A = Treasure
+
+0xAA02B17C = Unknown player looted a chest
+
+0xB44F3CCB = Chest looted by ~1p~
+
+0xD36EE9CD = Loot map pieces to narrow the search area
+
+0xD380D33F = Map pieces
+
+0xDA0F3CEB = Loot map pieces to find treasure.
+
+0xEC24AC7C = ~1p~ looted a chest
+

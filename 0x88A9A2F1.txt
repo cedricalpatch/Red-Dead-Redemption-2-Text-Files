@@ -1,0 +1,68 @@
+0x06BE191B = ~z~For your own brains out, your bashin',
+
+0x1F784A8F = ~z~So buy me now, take caution,
+
+0x5C74C46B = ~z~Don't you feel your head quite sore?
+
+0x30DD7E19 = ~z~For when at night you've tarried,
+
+0x59BC92C2 = ~z~Now I'm resolved to try it,
+
+0x67F8EC4F = ~z~You silly man.
+
+0x75EF4B27 = ~z~I'll never get drunk anymore!
+
+0x302D6D59 = ~z~To credit you for a shillin';
+
+0x364D08F8 = ~z~Said I'll never get drunk anymore.
+
+0x552CB73B = ~z~She straightway sends her bill in,
+
+0x984E8FED = ~z~I fell and I broke my nob sir, sir,
+
+0x3977FE8E = ~z~Take drinking out of fashion,
+
+0x8828EF9A = ~z~My watch was picked from my fob sir,
+
+0x10182D2F = ~z~I'll never get drunk anymore.
+
+0x872599E8 = ~z~And if with money you're stocked,
+
+0xA190A271 = ~z~My face was red as a lobster,
+
+0xA770DBDE = ~z~I'll not drink, but will deny it,
+
+0xB3D146F2 = ~z~I began to tumble and roar.
+
+0xB4DAF6B2 = ~z~I'll live on a Moderate diet;
+
+0xB8F17D7F = ~z~And asks you to pay your score.
+
+0xB9FB80F7 = ~z~For that's the place they tell us,
+
+0xBBE20364 = ~z~And you cannot get drunk any more.
+
+0xBEFBDD43 = ~z~
+
+0xC949F1DF = ~z~One night, when I get frisky, over some potent whisky,
+
+0xCEDE7D0C = ~z~Like waves in the Bay of Biscay,
+
+0xD22D2FFA = ~z~
+
+0xD45C4518 = ~z~In the morning, home you're carried,
+
+0xD94CBF99 = ~z~And shun each alehouse-door;
+
+0xDC6D447A = ~z~She'll not stop till she's emptied your pock't;
+
+0xDE444988 = ~z~But I swear by the poker and bellows,
+
+0xE2B1E1C3 = ~z~and drunk a punch and claret,
+
+0xEA90E0C1 = ~z~Then the cellar-door is locked,
+
+0xEB926424 = ~z~We meet with all jovial good fellows;
+
+0xFE418982 = ~z~The landlady is unwillin',
+

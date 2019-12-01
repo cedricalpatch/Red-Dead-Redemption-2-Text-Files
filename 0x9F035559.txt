@@ -1,0 +1,32 @@
+0x0790566B = ~z~I heard that.
+
+0x2CCE20E6 = ~z~Or what, huh?
+
+0x3E79C43D = ~z~Don't make me angry.
+
+0x5A3CFBC3 = ~z~I was sleeping, you lunatic!
+
+0x5E9511BF = ~z~Someone ought to put that guy out to seed.
+
+0x8BCDDEF0 = ~z~You'll howling at some other moon? Like...
+
+0x35179091 = ~z~Whatever you say!
+
+0xA33E8DC9 = ~z~W-what, I... I didn't do it.
+
+0xA662F326 = ~z~I'm watching you!
+
+0xACFDA147 = ~z~Just what did you say to me?
+
+0xB702146C = ~z~
+
+0xC18E2984 = ~z~
+
+0xC2861BDF = ~z~
+
+0xDE19E29B = ~z~like this one!
+
+0xEC149F74 = ~z~I heard everything you said!
+
+0xF6EEB528 = ~z~Oh, heard what, you crazy fool?
+

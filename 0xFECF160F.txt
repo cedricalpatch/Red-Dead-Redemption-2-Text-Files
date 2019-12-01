@@ -1,0 +1,26 @@
+0x02CFA4B7 = ~z~Yeah, of course he will.
+
+0x04E204A6 = ~z~Exactly, Mr. Williamson. Of course he will.
+
+0x4F7BBE0A = ~z~Sad business when anyone passes but... we're going to make it.
+
+0x5CCF58B1 = ~z~Dutch will see us right.
+
+0x23F7E703 = ~z~I knew Dutch would have us right. I knew it. Never doubted him for a minute.
+
+0x30A88064 = ~z~Sad business when Davey passed.
+
+0x79D012B2 = ~z~How you boys keeping?
+
+0x947F4810 = ~z~Well, I reckon we're on the turn now.
+
+0x3290E003 = ~z~He's the ideal. The American this country was set up to create.
+
+0x69117135 = ~z~Mind if I warm myself here a minute, gentlemen?
+
+0xA35C65CA = ~z~Our lucks turned and we're going to be fine.
+
+0xAEA9D7F3 = ~z~Excuse me... goodnight, gentlemen.
+
+0xBC5F735E = ~z~He'll see us right.
+

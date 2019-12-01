@@ -1,0 +1,260 @@
+0x0225AACB = ~z~I study dinosaurs...
+
+0x0362556D = ~z~Wow, thank you.
+
+0x042EA90D = ~z~quite unique.
+
+0x0681354E = ~z~just for now.
+
+0x0685B745 = ~z~That's quite a monster.
+
+0x099960D5 = ~z~What are you doing?
+
+0x09E2B6C1 = ~z~very, very wrong...
+
+0x0B04DD46 = ~z~well, since my sister died...
+
+0x0E7CECCE = ~z~Really?
+
+0x2A0A82E0 = ~z~Course.
+
+0x2A16FC79 = ~z~Miss Deborah MacGuiness.
+
+0x2F5D08F3 = ~z~even in mud.
+
+0x2F77A62F = ~z~Large tusks for doing tusky type things...
+
+0x3BD2266F = ~z~John.
+
+0x3C1AD724 = ~z~Lovely to see you...
+
+0x3C87C7BB = ~z~Whoa, that's quite a monster.
+
+0x3D99256B = ~z~Fins for swimming.
+
+0x3DAC4298 = ~z~and long spines that acted as wings.
+
+0x4E564B77 = ~z~Well, I think...
+
+0x4E644B9B = ~z~Everywhere?
+
+0x4ECCD360 = ~z~I'm a friend of Arthur's. He passed a few years back, unfortunately.
+
+0x4EFB1F76 = ~z~~sl:0.9:2.9:1~How lovely to see you!
+
+0x5C93EEEE = ~z~Hello there, who are you?
+
+0x5DADBCDB = ~z~Come in, come in! I cannot wait to show you the fruits of your labor...
+
+0x5FFEEED0 = ~z~Are they real?
+
+0x6B66584C = ~z~I think you'll be quite amazed...
+
+0x6CC9BF7E = ~z~Did the university send you?
+
+0x6DB403B2 = ~z~Course.
+
+0x7AD6198A = ~z~I will go and investigate.
+
+0x7BDE9E37 = ~z~My theories are correct and I can prove it.
+
+0x7D7B9EDD = ~z~I'll reward you handsomely for your efforts.
+
+0x8AB437EE = ~z~A spy?
+
+0x8BDE41F8 = ~z~Three pairs of legs...
+
+0x8CABBD35 = ~z~Excellent.
+
+0x8E9AFE6D = ~z~Excuse me?
+
+0x8F0D9E5C = ~z~Really...
+
+0x11A6F1F6 = ~z~Yeah.
+
+0x18DC78F5 = ~z~but that's another story.
+
+0x20FAE875 = ~z~because unlike them I actually have ideas.
+
+0x26FB1CA2 = ~z~I, I like to keep a low profile.
+
+0x27D479E2 = ~z~It's incredible.
+
+0x28E68794 = ~z~I've been sending you the bones since then.
+
+0x30A5E18E = ~z~What are you doing?
+
+0x32F7B5C7 = ~z~Oh th-that's okay...
+
+0x36A12309 = ~z~Oh, uh... sorry to hear that.
+
+0x43EA4F10 = ~z~They said I was a fool...
+
+0x45F40C2A = ~z~Are you quite certain you're not a spy?
+
+0x49BE6228 = ~z~The same to you, sir.
+
+0x54BAD3AE = ~z~It'll change everything.
+
+0x60C2A073 = ~z~here... just as I thought...
+
+0x60EDEC14 = ~z~so it could run extra fast...
+
+0x64A94994 = ~z~balderdash.
+
+0x75A38BF1 = ~z~big lizards.
+
+0x76C923CC = ~z~Oh! I wondered why there was such a hiatus. Well, come in, come in!
+
+0x79CB73D8 = ~z~I have never been so insulted in all my life.
+
+0x82F22E2E = ~z~Listen...
+
+0x85A0B1BB = ~z~What theories?
+
+0x94BB584C = ~z~I already found some.
+
+0x95C6CC37 = ~z~Of course they're real you nincompoop...
+
+0x99DE57A2 = ~z~or...
+
+0x146F4F5E = ~z~you know...
+
+0x153FD2CB = ~z~I'm trying to gather all the evidence.
+
+0x165E700F = ~z~Because if they did, they can get lost...
+
+0x554FAAE1 = ~z~laughed at...
+
+0x912FCAA9 = ~z~if ya find any of these bones around the country...
+
+0x1169F180 = ~z~All the best.
+
+0x3518B8DD = ~z~Oh, no, th-that's okay...
+
+0x5247EBCB = ~z~a silly old woman.
+
+0x6034EF34 = ~z~Sure, why not?
+
+0x6467E97A = ~z~Are they real?
+
+0x9626CED3 = ~z~Excuse me?
+
+0x9679D0D1 = ~z~Here.
+
+0x60729FD3 = ~z~Totalisaurus West Elizabethus...
+
+0x721165A2 = ~z~~sl:0.0:3.2:1~I was right, of course. Quite right.
+
+0x837235BA = ~z~Here.
+
+0x2049106A = ~z~I like to keep a low profile.
+
+0x9879576C = ~z~A spy?
+
+0x32603621 = ~z~Good luck. I'll keep my eye out for you.
+
+0x79069493 = ~z~What theories?
+
+0x84532950 = ~z~and everywhere.
+
+0xA002E0AF = ~z~This state was once a vast shallow sea...
+
+0xA22FC4A0 = ~z~Excuse me?
+
+0xA666F517 = ~z~send them to my homestead...
+
+0xA2346AE2 = ~z~Those wretches will do anything to destroy me.
+
+0xA4827F3E = ~z~~sl:0.5:3.9~I cannot wait to show you the fruits of your labor...~sl:0.0:1.8:1~you'll be quite amazed!
+
+0xA6999471 = ~z~Thank you.
+
+0xA8127402 = ~z~Actually, I think I found some.
+
+0xAB2A7A3A = ~z~Sure, why not?
+
+0xAC3C847C = ~z~Are you quite certain you're not a spy?
+
+0xB1AB85DC = ~z~which, trust me, is the very best thing about science.
+
+0xB13FBC60 = ~z~Good luck. I'll keep my eye out for you.
+
+0xB33B8CF0 = ~z~You're a what?
+
+0xB181B2CD = ~z~All the best.
+
+0xB4830CEB = ~z~at Firwood Rise...
+
+0xB84998DC = ~z~Arthur.
+
+0xB85037DE = ~z~I will of course share the credit.
+
+0xB176632D = ~z~Because if they did, they can get lost.
+
+0xB339871C = ~z~Everywhere?
+
+0xBBC68A71 = ~z~Are you quite certain you're not a spy?
+
+0xBD72A15E = ~z~I am the leading amateur paleontologist in the nation...
+
+0xBFDDABBE = ~z~Those wretches will do anything to destroy me... my theories are correct and I can prove it!
+
+0xC0692357 = ~z~What are you doing?
+
+0xC7B63351 = ~z~mail me the locations.
+
+0xC3375638 = ~z~Wow, thank you.
+
+0xCA053C53 = ~z~Good to meet you.
+
+0xCD7EBBA6 = ~z~that could walk, swim and fly...
+
+0xCFA945CB = ~z~and not one university will hire me...
+
+0xD3D32806 = ~z~Did the university send you?
+
+0xD7E4E602 = ~z~~sl:0.0:3.0:1~I was right, of course. Quite right.
+
+0xD9C2834E = ~z~the handle is genuine Stegosaurus bone.
+
+0xD608CF06 = ~z~you're a what?
+
+0xD97382BC = ~z~something valuable.
+
+0xDD105CA5 = ~z~And we'll be proving a lot of stuck up buffoons...
+
+0xDE7BE736 = ~z~The Elizabethan Megasaur.
+
+0xDEAC5E01 = ~z~that had the most incredible animal...
+
+0xDF6C6721 = ~z~Could ya give me a hand here, please?
+
+0xDFA1067F = ~z~I was right all along.
+
+0xE4BB6C6B = ~z~You're a...
+
+0xE7D092F4 = ~z~I have never been so insulted in all my life, really, laughed at. Balderdash.
+
+0xE8C48DCF = ~z~What're you doing?
+
+0xE8FC72A1 = ~z~I call it Totalisaurus...
+
+0xE233E84C = ~z~in Cumberland Forest.
+
+0xEA88E7F5 = ~z~Those wretches will do anything to destroy me... my theories are correct and I can prove it!
+
+0xEB8C2F0F = ~z~Excuse me?
+
+0xEBF2FA6A = ~z~Good day to you, sir.
+
+0xEBFE27D1 = ~z~I must give you something...
+
+0xEC0D27E3 = ~z~Here, take this...
+
+0xEDA1A280 = ~z~Oh, this is the happiest day since...
+
+0xF8059A45 = ~z~Tail.
+
+0xFDE74BA3 = ~z~Yeah.
+

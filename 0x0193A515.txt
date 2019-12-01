@@ -1,0 +1,86 @@
+0x005320AF = ~z~Get the hell outta here... the whole town is sick, hear me now...
+
+0x013B6400 = ~z~~sl:0.0:3.4~Sure... a few years ago it was the Scarlet fever,~sl:0.3:3.7~then it was the desert plague, then typhus, now the cholera...~sl:0.6~bad business.
+
+0x0338FA5C = ~z~The town is sick! Stay away... stay away...
+
+0x0E491B26 = ~z~stay away. All of you, stay away...
+
+0x1A001892 = ~z~Here, you can read for yourself.
+
+0x2BEDBC6D = ~z~Whole town's got cholera!
+
+0x2E45BE14 = ~z~Hey friend... place is full of cholera, head in there at your own peril.
+
+0x3D6FDCFC = ~z~Don't stay here a minute longer than you need to!
+
+0x4A8764C6 = ~z~Plague... we got plague in town... plague back in town...
+
+0x5A383EA1 = ~z~Place is unwell! Everybody, get outta here.
+
+0x7A279B40 = ~z~Whole town has got sickness... leave town if you can... leave town if you can...
+
+0x8B14199A = ~z~This is the thanks I get!
+
+0x8F92D236 = ~z~Armadillo is sick again... place is sick... hear me now...
+
+0x26A899B5 = ~z~Get outta here, all of you, get outta here...
+
+0x27F98305 = ~z~Town is sick... place is contagious and we can hardly bury folk fast as they are dying...
+
+0x36A1A6A3 = ~z~Stay away! The cholera is still raging...
+
+0x49DA124B = ~z~Sickness... town is full of sickness...
+
+0x73FE345F = ~z~Get outta here!
+
+0x95A80E1F = ~z~Hey partner, I'd stay out of town if you can... place is full of cholera... so many dead they can't even bury 'em properly.
+
+0x201CCBC9 = ~z~Please, sir, for you own sake, leave now!
+
+0x271A3101 = ~z~Thank you.
+
+0x388BD2A0 = ~z~Well, half the town has died and most of the rest have fled.
+
+0x478A2DAE = ~z~Take this, it'll tell you all about it.
+
+0x1218C43A = ~z~the whole town is riddled with disease...
+
+0x2139CD36 = ~z~Hey, I'm trying to help people here!
+
+0x4291B835 = ~z~Even the grave diggers has died...
+
+0x6829CDA1 = ~z~The town is full of cholera... they can hardly bury the dead.
+
+0x8356ED00 = ~z~Here, take one of these.
+
+0x9575C311 = ~z~Are you hearing me? Go! It's not safe.
+
+0x58667D30 = ~z~Place is unwell again! Place is unwell... hear me, hear me now...
+
+0x423350CA = ~z~All of you... get outta here. If you stay, sickness is gonna get you!
+
+0x8787124F = ~z~Leave! Go! The place is cursed!
+
+0xA8235A7A = ~z~Armadillo is unwell... devil has the town in his hand.
+
+0xAB163EC9 = ~z~Cholera... be warned about the cholera!
+
+0xBDF7F93C = ~z~Plague! Plague! Stay away... stay away.
+
+0xD38E08A6 = ~z~Some folks say the whole town is cursed.
+
+0xDEE87937 = ~z~You should leave town right away, sir. It's dangerous.
+
+0xE7AE7654 = ~z~Town has got sickness... hear me... hear me now...
+
+0xEB39D508 = ~z~be careful... take your business elsewhere...
+
+0xF109C39D = ~z~Still?
+
+0xF2574D4E = ~z~All of you be careful... leave town... get outta here!
+
+0xF97455B6 = ~z~Keep safe, mister.
+
+0xF9807195 = ~z~devil has the place in his grip, Armadillo is riddled with sickness...
+

@@ -1,0 +1,364 @@
+0x000A4B34 = ~z~Thanks for nothing, you coward.
+
+0x0048F7BA = ~z~Hey, I don't need to be carried.
+
+0x04ED0699 = ~z~The horse is crazy!
+
+0x05FB3557 = ~z~This is crazy! You bastards, this ain't right!
+
+0x06D5147D = ~z~Hey, you there! Please help me!
+
+0x08B908A2 = ~z~You gonna push this, wise ass?
+
+0x0A79EF3D = ~z~I don't think you wanna get into this.
+
+0x0B62C9E2 = ~z~~sl:0.0:3.8~Never know what a buncha men with guns and ropes might do...~sl:~I'm gonna get while I can. All the best to you.
+
+0x0BB8A210 = ~z~For damn sakes.
+
+0x0BE6354B = ~z~Good, you ain't even worth the bullet it'd take to put you down.
+
+0x0CCD64BA = ~z~That's it then...
+
+0x0D9C7DE9 = ~z~They will kill me!
+
+0x0DD412D4 = ~z~Put me down!
+
+0x0FF3DFF2 = ~z~Oh, for the love of God.
+
+0x1AC65EED = ~z~You better let me go!
+
+0x1AE837B0 = ~t~In Spanish: Dammit!
+
+0x1BA4543B = ~z~
+
+0x1D314ED6 = ~z~You gonna help?
+
+0x1E22F1B7 = ~z~Oh, serves you right!
+
+0x1EB2C97E = ~z~You got a knife on you?
+
+0x2A1CE8AD = ~z~These lowlives gonna kill me!
+
+0x2A8FBC16 = ~z~You're gonna regret this!
+
+0x2B945720 = ~z~Well... I appreciate it, I guess. Thanks.
+
+0x2CD20FDB = ~z~Enough! Put me down!
+
+0x2CDCC0B0 = ~z~I'll kill you bastards!
+
+0x2D3E13A1 = ~z~I cannot move...
+
+0x3A82DAF5 = ~z~Come on.
+
+0x3BE887AA = ~z~Why you doing this to me?
+
+0x3DA9072F = ~z~Get me out of this! They're gonna kill me!
+
+0x3DF3AF07 = ~z~~sl:0.2:3.5~Thank you. Thank you, that was real good of you.~sl:0.3~They just grabbed me.
+
+0x4B2B4847 = ~z~That's what I thought.
+
+0x4B5F22DA = ~z~These ropes are tight.
+
+0x4DB3B859 = ~z~Goddammit!
+
+0x4DC56E62 = ~z~Thanks... I guess...I'm alive...
+
+0x5A0565FB = ~z~Good.
+
+0x5A95A312 = ~z~~sl:0.0:2.8~Thanks... those boys were something foul.~sl:0.3:~They took what I had on me, but... I remember faces.
+
+0x5E0BC9F7 = ~z~Go on! Kill that trash!
+
+0x5E571D22 = ~z~Hey! I need a hand here! Bastards tied me up!
+
+0x5FE42109 = ~z~Just drop that hog pile!
+
+0x6A6F9691 = ~z~Thanks enough. We done now.
+
+0x6BA6E52D = ~z~Yes! That's it!
+
+0x6C0FE3FC = ~z~Please! They grabbed me!
+
+0x6D908D2E = ~z~Enough already, stop this.
+
+0x6ED6B473 = ~z~
+
+0x6F09A462 = ~z~This horse ain't dead!
+
+0x7B0C6940 = ~t~In Spanish: Goddamn you!
+
+0x7BCA29A1 = ~z~Oh, what now?
+
+0x7D49985D = ~z~Is this your dumb way of looking for trouble?
+
+0x7F7B91A5 = ~z~Come on!
+
+0x8B2EB427 = ~z~So you're ugly and stupid, huh?
+
+0x8C77E815 = ~z~~sl:0.0:0.9~Just kill 'em...~sl:0.5~now!
+
+0x8E417941 = ~z~Please... please cut me free...
+
+0x8F3CF652 = ~t~In Spanish: Save me...
+
+0x8F88C788 = ~z~Coward.
+
+0x9B3F05A3 = ~z~You need me to clean out your ears?
+
+0x9B4810DB = ~z~I think you need to find someone else to pester.
+
+0x9BE7FE1E = ~z~Whoa, whoa! Stop this thing!
+
+0x9BF2B43D = ~z~I want my gun back...
+
+0x9C631315 = ~z~Hey. You got a problem with this?
+
+0x9E5F15DF = ~z~~sl:0.0:3.8~Oh, thank you, thank you. They took me, I...~sl:0.0:1.9~I was just walking, I...~sl:~I don't know why, I, I am no one...
+
+0x9F55F0B8 = ~z~Just leave me alone...
+
+0x17A42FAF = ~z~Oh, come on.
+
+0x18EF18D5 = ~z~Sons of bitches...
+
+0x20F619C6 = ~z~The end...
+
+0x28BB0D97 = ~z~You get 'em all?
+
+0x28F534A2 = ~z~Por favor!
+
+0x29C2E35F = ~z~Hey, hey. Come on, don't do this.
+
+0x37A5D67B = ~z~Oh, yes! You there, you need to get me out of this!
+
+0x45DB72E6 = ~z~Hey! Help me out here! Come on!
+
+0x48AD0482 = ~z~I have no money, no nothing...
+
+0x51B284A6 = ~z~I mean what I say.
+
+0x57D809D3 = ~z~Hey, hey... what is this you're doing?
+
+0x57EDAC17 = ~z~I can't move here. Can you get me down?
+
+0x58A81A3B = ~z~You won't live long enough... to regret this...
+
+0x58D34F71 = ~z~Listen, fool, stay the hell away.
+
+0x59CB9C66 = ~z~You keep this up, you'll be sorry.
+
+0x59E9F018 = ~z~That's it! You're done!
+
+0x61CD003A = ~z~Why don't you scurry yourself into the distance there?
+
+0x62FB95E6 = ~z~Come on.
+
+0x70B1F200 = ~z~Ah, just kill 'em for pete's sake!
+
+0x75A2846C = ~z~Cut the rope already.
+
+0x75E0A4E5 = ~z~Help me... help me here...
+
+0x79BE9BF4 = ~z~Oh, great... great...
+
+0x79C94D6C = ~z~This is how it's gonna be then, huh?
+
+0x87C0BA57 = ~z~Now, where's a gun when you need one?
+
+0x87F7C913 = ~z~I am... stuck...
+
+0x90B18EDC = ~z~You're going in the ground!
+
+0x94AA50B6 = ~z~Don't do this. Don't you dare do this.
+
+0x124F56C7 = ~t~In Spanish: Goddamn monsters in this country...
+
+0x141EE483 = ~z~Today's your dying day!
+
+0x198C3071 = ~z~Take care of these idiots.
+
+0x233BEC82 = ~z~Why do you do this to me?
+
+0x263E69FB = ~z~~sl:0.0:2.4~Right. Next time I'll put so many holes in ya,~sl:~the wind will blow through ya.
+
+0x397BDAFB = ~z~You're dead as hell!
+
+0x451B5EF2 = ~z~Help! Help!
+
+0x568BA03F = ~z~Let me go! I am no one!
+
+0x647DCFCD = ~z~Oye! These men are taking me!
+
+0x653B2499 = ~z~Let me go...
+
+0x820FDAE5 = ~z~Yes, yes!
+
+0x825B9557 = ~z~Shoulda listened!
+
+0x873DF571 = ~z~You stop this horse right now, damn it!
+
+0x885BA9DE = ~z~You gotta cut me loose, come on.
+
+0x973C5785 = ~z~Hello? I'm stuck here.
+
+0x2380A3C1 = ~z~The, uh? The ropes?
+
+0x3396E3EC = ~t~In Spanish: Damn animal!
+
+0x6055BCE3 = ~z~Mind getting me down?
+
+0x7056CE94 = ~z~We meet again, you'll get a fine reward.
+
+0x7267F18B = ~z~Uh... thank you, I think. You saved me in the end.
+
+0x9953D0E9 = ~z~Trust me, better this way.
+
+0x26602F60 = ~z~Oh, damn you!
+
+0x41011EF4 = ~z~Hey, hey! Stop this horse!
+
+0x41090A07 = ~z~Appreciate you stepping in. Thank you.
+
+0x41869F52 = ~z~Just kill me if you're gonna.
+
+0x50714A46 = ~z~What you doing with me, huh? What you doing with me?
+
+0x71903D9B = ~z~You got 'em all? Wish I saw 'em pop.
+
+0x71926F38 = ~z~You gotta untie me. Come on.
+
+0x81276A4C = ~z~Yeah. Make 'em suffer!
+
+0x98166CCC = ~z~Your momma didn't teach you to mind your own, did she?
+
+0x936437B8 = ~z~You! Help me out, I been kidnapped!
+
+0x1648386E = ~z~They're bad men! Give 'em what they deserve!
+
+0x1817275E = ~z~Think twice and move on, blowhard.
+
+0x2595117A = ~z~Get me off this thing!
+
+0x4628088C = ~z~Hey. I'm stuck here.
+
+0x79459011 = ~z~You think you're a lawman? Go to hell!
+
+0xA7AA78B7 = ~z~You gang up on a man, tie him up? Cowards!
+
+0xA7F692C0 = ~z~What you carrying me for? Put me down.
+
+0xA9B367E0 = ~z~The dogs'll get fresh meat tonight.
+
+0xA11B1C58 = ~z~What is this?
+
+0xA11ED32D = ~z~Hey, you there, help me out!
+
+0xA86573F5 = ~z~Are they all gone? Todos?
+
+0xAB997574 = ~z~Good decision.
+
+0xABCC8DC2 = ~z~Hey, hey. I don't want this.
+
+0xACE6B418 = ~z~What's the matter? You see something you don't like?
+
+0xAECF77A7 = ~z~What is wrong with this land? My God...
+
+0xB2F58BF7 = ~z~No, no, no! Hey! I am no one!
+
+0xB4B8B368 = ~z~You get 'em? Nice going...
+
+0xB5A25E6B = ~t~In Spanish: Bastards! Bastards!
+
+0xB6CD9CAD = ~z~Okay, let's get this done with.
+
+0xB8B5BB56 = ~z~Smart.
+
+0xB9F8E16A = ~z~You're a walking corpse now!
+
+0xB902EEA6 = ~z~Help me!
+
+0xB1324B2E = ~z~I... I know people...
+
+0xB18345FD = ~z~Hello? Get me down.
+
+0xB97635BF = ~z~What are you playing at?
+
+0xBBB6D7E0 = ~z~Hey! You there! Do the right thing, help me!
+
+0xBDB58746 = ~z~Come on... do the right thing here!
+
+0xBF7467B2 = ~z~I swear, you let me go!
+
+0xC20D9894 = ~z~You're dead.
+
+0xC36C69CF = ~z~I am ready to be off this horse, let me tell you.
+
+0xC47F3810 = ~z~Could you hurry and untie me?
+
+0xC67BD6E2 = ~z~This is the luckiest day of your life.
+
+0xC668A142 = ~z~Do something, dammit!
+
+0xC472063E = ~z~Shoot 'em!
+
+0xCF1ADAC8 = ~z~You got some kind of issue with this?
+
+0xCF4F47AE = ~z~You gonna get me off this or what?
+
+0xD5136CFD = ~z~You can put me down.
+
+0xD871059B = ~z~Hey, come back! Shit!
+
+0xDB36991E = ~z~Help! Help!
+
+0xDBC11A78 = ~z~Get me off of here, will you?
+
+0xDC13BF5C = ~z~Just put this idiot in the goddamn ground!
+
+0xDD94D770 = ~z~Guess I'm done...
+
+0xDE5C6419 = ~z~Oh, now you? Goddamn you!
+
+0xDF8A6824 = ~z~I can't move here...
+
+0xE0607D53 = ~z~I'd cut it out if I were you, or you're next.
+
+0xE0FEF10F = ~z~Now cut the ropes, if you don't mind...
+
+0xE1D79CD7 = ~z~If I could pay you, I would... you have my thanks.
+
+0xE3D9E0D9 = ~z~Okay, the ropes.
+
+0xE85ECD5E = ~t~In Spanish: Oh God...
+
+0xEA5B5BEB = ~z~You gonna regret not heeding my orders!
+
+0xEE5153CF = ~z~You got something to say here, jackass?
+
+0xEFD6DD07 = ~z~C'mon, damn it. You gotta do something.
+
+0xF0C7C990 = ~z~Here you are!
+
+0xF1BDC034 = ~z~I am tied here...
+
+0xF2D0FA12 = ~z~Help me already!
+
+0xF2D63A65 = ~z~Crazy horse!
+
+0xF3D06222 = ~z~Goddammit, not again...
+
+0xF186DA36 = ~z~What are you playing at here?
+
+0xF3479C01 = ~z~You like that? Yeah!
+
+0xF72450F9 = ~t~In Spanish: Mother of God, save me...
+
+0xFEB67AC6 = ~z~For chrissakes. You gonna help me out here?
+
+0xFEF4E0BB = ~z~Ah! Come on.
+
+0xFF01E603 = ~z~Get 'em, get 'em all.
+

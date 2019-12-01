@@ -1,0 +1,76 @@
+0x0120BA74 = Pick up
+
+0x0BE6A157 = You scared the grave robbers away.
+
+0x1C21DCFC = Bronte's guards were alerted.
+
+0x1EB546D7 = Follow ~o~Dutch~s~
+
+0x2B30F8DE = Chase down and take out the ~e~grave robbers~s~
+
+0x2E010A84 = Return to ~o~Bronte's manor~s~
+
+0x2FE70E9A = Mount your ~o~horse~s~
+
+0x3B05BCDC = Search the ~o~cemetery~s~ for the grave robbers
+
+0x4A3AB288 = Stash
+
+0x6E3DB354 = Search for the grave robbers' ~o~stash~s~
+
+0x7D98BCA1 = Hold ~INPUT_FOCUS_CAM~ to focus on the source of the noise.
+
+0x8FF01F1F = Bronte's Mansion was abandoned.
+
+0x9AA3C740 = Return to the ~o~cemetery~s~
+
+0x9D7ACD67 = ~a~
+
+0x9ED71723 = Scold
+
+0x25C9FEB1 = Disturbance
+
+0x37B4585B = Praise
+
+0x51FB4527 = Take Robbers' Stash
+
+0x63DAD2CD = You let the grave robbers get away.
+
+0x80F8FEB6 = Robbers' Stash
+
+0x95CCD8C1 = Wait for John
+
+0x727F694D = Dismount your horse
+
+0x1538D453 = Good to see you
+
+0x8383D293 = Follow ~o~Dutch~s~
+
+0x8871AFF9 = Locate the source of the ~o~disturbance~s~
+
+0x28491EAE = Return to the ~o~cemetery~s~
+
+0x29062B9A = Follow ~o~John~s~
+
+0x80503EA1 = Investigate the ~o~mausoleum~s~
+
+0x470014A8 = Bronte's guards were alerted.
+
+0x3803094C = Follow ~o~John~s~ out of the cemetery
+
+0xA4600259 = Dog
+
+0xB0037BD2 = The law were alerted.
+
+0xBE085339 = Escape the law
+
+0xD279F967 = Nice Evening?
+
+0xDDE68432 = Return to Arthur's ~o~horse~s~
+
+0xE9BCDE1B = Return to ~o~Bronte's Mansion~s~
+
+0xECB10B2C = Arthur's horse was abandoned.
+
+0xEF80278F = You left the cemetery.
+

@@ -1,0 +1,132 @@
+0x00315F38 = Dismount Horse
+
+0x0380438A = RACE OVER
+
+0x2E8BA6D9 = Challenge your Posse to a race
+
+0x3A0ECAF2 = Impromptu Race End
+
+0x3B20803F = ~1~
+
+0x4AF00CF0 = Passengers cannot participate in Posse races. Your own horse is required to participate.
+
+0x4E18F7FC = ~1~
+
+0x4EFEA9FE = Race your Posse to the ~COLOR_MP_OBJECTIVE~finish line~s~
+
+0x5FA02802 = Impromptu Race
+
+0x6C61E089 = POSSE RACE WON
+
+0x6CB1395E = Reach the finish point
+
+0x6F402CEB = Wait for the race to end
+
+0x7F9F3AD2 = ~a~ has won the race!
+
+0x8DCB9EDB = Mount a horse
+
+0x8E721FB8 = The time limit expired
+
+0x16CB1364 = You finished the race in ~1~ minute(s) and ~1~ second(s)
+
+0x20F1C146 = View the Scoreboard
+
+0x82BAAA4B = Failure to determine bet or place the finish marker in the set amount of time will cancel the Posse race.
+
+0x95C0EAB7 = Nobody finished the race
+
+0x97FD0312 = Wait for ~COLOR_POSSE_ALLY~~1~~s~ to set up the race
+
+0x406F9C88 = Race canceled
+
+0x607B67BC = Race in progress
+
+0x628F8962 = POSSE RACE OVER
+
+0x635E5887 = Posse Race Finish Point
+
+0x874B5F04 = You challenged your Posse to a race!
+
+0x2551DD94 = ~a~ has challenged you to a race!
+
+0x5918F8C2 = Challenge Posse
+
+0x6719CB20 = You finished the race in ~1~s
+
+0x6985FC3C = Reach the finish point
+
+0x9245E6F2 = Decline to Challenge
+
+0x528600FB = Hold ~INPUT_SELECT_RADAR_MODE~ to view the scores
+
+0x853590AC = You were attacked by a player
+
+0x1374715A = You cannot challenge Posse Members to a race while double riding
+
+0x28066938 = ~1~ seconds until the race ends
+
+0xA638482B = RACE OVER
+
+0xAD5C9739 = You earned bonus XP for completing your first Posse race of the day.
+
+0xAF6E89DC = Waiting on other participants
+
+0xAF256083 = RACE
+
+0xB0E3220A = ~a~ has challenged you to a race, but you do not have enough cash
+
+0xB59F57EF = Race Start In:
+
+0xBA42E7EF = ~1~ won the race
+
+0xC1C4A5CD = Not enough players
+
+0xC5E73FF3 = POSSE RACE LOST
+
+0xC6EAF94D = You won the race in ~1~~1~:~1~~1~
+
+0xC8F768D9 = You won the race in ~1~s.
+
+0xCC944B74 = POSSE RACE
+
+0xCE7ED20F = Exiting the race. A more pressing issue has arose.
+
+0xD01A53EA = You have participated in Posse races several times today and will now earn less XP.
+
+0xD0C8E3F9 = Race Time Left:
+
+0xD2B44B01 = You could not participate in the Posse race. You are now a spectator of the race.
+
+0xD93981D3 = Nobody finished the race
+
+0xD833449F = YOU WIN
+
+0xDCBBD2A5 = The Posse race is starting
+
+0xE0F02F7E = ~a~ has won the race! (You did not finish)
+
+0xE89E87D8 = You finished the race in ~1~ seconds
+
+0xEA11C446 = You did not finish the race
+
+0xEB6830E5 = GO
+
+0xED1241A4 = Posse Race Finish Area
+
+0xEDE3EDFA = You won the race in ~1~ minute(s) and ~1~ second(s)
+
+0xF2E52798 = YOU LOSE
+
+0xF28C6AC1 = RACE LOST
+
+0xF44D84DB = ~a~ has won the race! (~1~ second difference)
+
+0xF108E474 = Leader could not meet minimum stake
+
+0xF6040D45 = ~1p~ has finished the race
+
+0xF82124A9 = RACE WON
+
+0xFA9861D3 = You finished the race in ~1~ minute and ~1~ second(s)
+

@@ -1,0 +1,62 @@
+0x035381F9 = ~1~ alive, ~2~ dead
+
+0x0523ACB9 = A ~COLOR_MP_OBJECTIVE_ENEMY~bounty~s~ has been killed
+
+0x06D64733 = ~1~ alive, ~2~ dead, ~3~ lost
+
+0x06EFB9D7 = Take the Bounty Wagon to the ~COLOR_MP_OBJECTIVE~wagon~s~ to deliver your bounty target/s.
+
+0x1BBE1D7B = Deliver the ~COLOR_MP_OBJECTIVE_ENEMY~bounty target~s~.
+
+0x6E5ACC39 = Take the bounty target to the ~COLOR_MP_OBJECTIVE~wagon~s~ and deliver them alive.
+
+0x7B52CB5F = ~COLOR_MP_OBJECTIVE_ENEMY~Bounty target~s~ captured
+
+0x23F064E1 = Capture ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets
+
+0x402B0827 = Outlaw
+
+0x816FB28E = Take the Bounty Wagon to the ~COLOR_MP_OBJECTIVE~area~s~ to deliver your bounty target/s.
+
+0x900FF380 = ~1p~ captured a target
+
+0x4606E25B = Take the bounty target inside the ~COLOR_MP_OBJECTIVE~location~s~ and deliver them alive
+
+0x5543B6C6 = Cooperate with the ~COLOR_MP_OBJECTIVE_FRIENDLY~other players~s~ to deliver the ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~ alive for the full reward. Dead targets are worth less.
+
+0x8658DDF7 = Outlaw Search Area
+
+0x27905B60 = You only have 1 life and will not respawn if you are killed.
+
+0x36977D18 = ~1p~ delivered a target alive
+
+0x723267C9 = Drop off the dead bounty target in the ~COLOR_MP_OBJECTIVE~area~s~ to deliver them.
+
+0x8870856E = Bounty Target
+
+0x21000775 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ to the ~COLOR_MP_OBJECTIVE~drop off
+
+0x80191624 = ~1~ Delivered Alive
+
+0xA34F729C = Drop off the dead bounty target at the ~COLOR_MP_OBJECTIVE~wagon~s~ to deliver them.
+
+0xAD6F6858 = Bounty
+
+0xB2A4F693 = Manhunt
+
+0xBC1F5D01 = Outlaw
+
+0xC09A884E = Try to return ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~ alive. If killed, they are only worth half the points.
+
+0xCFA70F40 = ~1p~ killed a target
+
+0xD0DC3855 = A ~COLOR_MP_OBJECTIVE_ENEMY~bounty~s~ has been lost.
+
+0xD8C4C559 = Work together and capture the ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~
+
+0xEC7FF8B6 = Some ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~ may be hiding while others are holed up and defended. Work together to bring them all in.
+
+0xEDCAA383 = You delivered a target alive
+
+0xEE2EC300 = ~1~ Delivered Dead
+

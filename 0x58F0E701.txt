@@ -1,0 +1,70 @@
+0x06526ED1 = Beat up the ~e~mine foreman~s~
+
+0x0E9A3B9E = The mine foreman has died.
+
+0x0F3E6F18 = You scared Edith Downes.
+
+0x1B883086 = Go to ~o~Edith Downes~s~
+
+0x2D0F2AAD = You attacked Edith Downes.
+
+0x3DED3193 = You attacked Archie Downes.
+
+0x4C71CEA0 = Archie Downes has died.
+
+0x5B80878B = Edith Downes was abandoned.
+
+0x5E0EF1CE = You scared Archie Downes.
+
+0x5E9B4526 = You scared off the miners.
+
+0x6A572538 = Edith Downes has died.
+
+0x7B79DACD = Persuade ~o~Edith Downes~s~ to leave
+
+0x45DA7CC2 = You became wanted.
+
+0x62B603D2 = The mine foreman's guard has died.
+
+0x88FE981C = Follow the trail
+
+0x98AA397F = A miner has died.
+
+0x424BFB18 = Archie Downes was abandoned.
+
+0x897A8A7D = Search for a trail at the ~o~bridge~s~
+
+0xA0297A74 = Go to the ~o~mine~s~
+
+0xA2E88E30 = Edith Downes
+
+0xA23D8F8A = Edith Downes has died.
+
+0xB4CF1648 = Edith's client has died.
+
+0xB68135B7 = Take Edith back to ~o~Annesburg~s~
+
+0xC50C2179 = Go to the ~o~bridge~s~
+
+0xC75F055C = Archie Downes has died.
+
+0xC11952CB = Return to ~o~Edith Downes~s~
+
+0xCB62E1D0 = You scared off Edith Downes.
+
+0xCCB8BADA = Mine
+
+0xD2B2F022 = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+
+0xD71EB3AA = Return to the ~o~bridge~s~
+
+0xE7DAE969 = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+0xEDA4F0CA = Return to the ~o~trail~s~
+
+0xF1AB0FFF = You attacked Edith's client.
+
+0xF5B8F96E = Go to ~f~Archie~s~
+
+0xFDE7EFE3 = Bridge
+

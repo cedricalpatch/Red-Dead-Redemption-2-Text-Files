@@ -1,0 +1,334 @@
+0x003EBE95 = ~z~Not too much further.
+
+0x006CDA0B = ~z~Up here, Morgan.
+
+0x016214D4 = ~z~I ain't just some dumb kid. I've lived a lifetime of shit already.
+
+0x05EEA57C = ~z~I hate everyone just the same.
+
+0x07B02E79 = ~z~You know, I've been here before.
+
+0x07C994D4 = ~z~My dad would say that no politics was politics.
+
+0x0836A9FC = ~z~That old world bullshit, it ain't got no place here.
+
+0x08697B9A = ~z~Okay.
+
+0x08D624A3 = ~z~Yeah.
+
+0x08E18B31 = ~z~You're out throwing lead with Sadie Adler, helping the law chase down criminals...
+
+0x0AEEEDE6 = ~z~So, what were you doing riding around up there anyway?
+
+0x0B85D523 = ~z~How far is it now?
+
+0x0C97B50E = ~z~Alright...
+
+0x0CE89DBB = ~z~Yeah?
+
+0x0F35B07B = ~z~And you sure don't keep it bottled up inside.
+
+0x0FC03D37 = ~z~Look out on the right!
+
+0x1F965B3F = ~z~then I robbed the bastard blind.
+
+0x2A0A6FF3 = ~z~but I reckon you and me...
+
+0x2B29665A = ~z~And he kept me around, didn't he? He saw something in me, he's said as much.
+
+0x2BA1D0B1 = ~z~I don't even know what I'm hearing no more...
+
+0x2CBCF579 = ~z~Told you we'd take 'em no problem, didn't I?
+
+0x2ED54871 = ~z~We'll go up, nice and quiet.~rp~ I'll give it a bit of patter, catch 'em off guard, then we take 'em.
+
+0x2F471286 = ~z~How far is this place?
+
+0x3AA2792E = ~z~So, tell me...
+
+0x3C0A153A = ~z~and he tells me they're a stick-up crew.
+
+0x3C938932 = ~z~But what's that box by his tent for then?
+
+0x3E02288D = ~z~Hey, keep it down!
+
+0x4AE4F162 = ~z~Bastards are going inside!
+
+0x4DD3B7B9 = ~z~shared a bottle we did...
+
+0x4E5CA219 = ~z~Jacobites or English lovers, Arthur?
+
+0x4EC03AA6 = ~z~but then I come across this hunter down by the river...
+
+0x4EDA2DBF = ~z~Yeah, yeah, I know...how many times do you have to tell me?
+
+0x5C2C4ED2 = ~z~let's go check it out.
+
+0x5C652E66 = ~z~No, didn't see him. I lost you boys at some point when he was getting out of town.
+
+0x5EED59B8 = ~z~what the hell...
+
+0x6A5AEE53 = ~z~you're gonna want what I just found for us.
+
+0x6AAE747C = ~z~No, just didn't realize you meant this place...
+
+0x6B69F3F9 = ~z~Says they hit a train a couple of days back near Emerald Ranch.
+
+0x6D3FBB8D = ~z~How's that sneaking up on them?
+
+0x6E2D51F6 = ~z~You got knocked out.
+
+0x7AF64852 = ~z~Davey... was finished by the time we got up the mountains, Jenny didn't even make it that far.
+
+0x7B82108D = ~z~Because there ain't no judgement here?
+
+0x7FEFF57B = ~z~What about that train job with the oil wagon? Made a good showing there, didn't I?
+
+0x9B5820F9 = ~z~Trust me, this is thinking smart. ~rp~Ripping off a bastard who's already done all the hard work.
+
+0x9C0961AA = ~z~We got more coming out of the woods!
+
+0x9D041212 = ~z~Sniffing around, looking for a take. I got a long nose for these things.
+
+0x9DBB1384 = ~z~And rightly so.
+
+0x9E598453 = ~z~What the hell, Arthur? I told you to hang back!
+
+0x28A9EE82 = ~z~What's that?
+
+0x34A86440 = ~z~You heard him, right? He said the stash was behind a loose board in the bedroom.
+
+0x45B437A1 = ~z~Alright, that'll have to wait. We're nearly there.
+
+0x49EFAFDE = ~z~Alright, alright...
+
+0x60FE5207 = ~z~We split half, other half goes to the gang. Dutch keeps all our savings hidden in a safe spot outside camp.
+
+0x66A263BE = ~z~Them sons of bitches think they're mean...
+
+0x72B7F57A = ~z~And while we're talking about money, you are clear on how this works?
+
+0x72F481FA = ~z~No reason not to.
+
+0x74A5B3E4 = ~z~You just keep your cool, you hear me?
+
+0x85DF1DCC = ~z~Yes, see? That's why I wanted you along for this. You're still a doubter.
+
+0x87EF153D = ~z~we had no time for politics.
+
+0x88DC0B28 = ~z~I'm pulling you back on the rails here.
+
+0x92EDAD2F = ~z~I'm pulling you back on the rails here.
+
+0x92F64315 = ~z~and I come across this old cabin...
+
+0x96E7BF01 = ~z~What are you doing back there?
+
+0x143C22FF = ~z~Come on, let's go.
+
+0x181ECD46 = ~z~Look, there's one of them outside. This is good.
+
+0x195FC2C7 = ~z~I'm sure. Dutch is good at seeing things in people.
+
+0x234BBC30 = ~z~That's what you choose to remember? We got paid, we got out of there.
+
+0x307EFA9C = ~z~You ain't so free of politics.
+
+0x415FFC2D = ~z~Hey, you need this, Arthur.
+
+0x465CDD08 = ~z~Why don't you see what else you can find, Sean?
+
+0x563FC891 = ~z~I saw three of them, maybe more...
+
+0x609D1687 = ~z~Alright, it's gonna be off the road up ahead.
+
+0x631FE85A = ~z~Get your hands up, or you're a dead man!
+
+0x738A784B = ~z~Come on, hurry up!
+
+0x813C09CC = ~z~I don't even know what I'm hearing no more. Helping the law chase down criminals...
+
+0x840EA52C = ~z~It is?
+
+0x847B2507 = ~z~If he's right it'll be a big haul for us.
+
+0x889B2E5B = ~z~Nice feller he was...
+
+0x959CB098 = ~z~is your people err...
+
+0x972D4068 = ~z~You sure you scoped this place out right?
+
+0x985DCCB9 = ~z~Dug this all up by myself. A proper lead.
+
+0x1594CA42 = ~z~Is that a problem?
+
+0x2117D4A5 = ~z~Still got more inside!
+
+0x2321A1B3 = ~z~I don't even know what I'm seeing no more. You and Dutch are deputies, you're out throwing lead with Sadie Adler...
+
+0x6677A4FE = ~z~Dutch knows my value to the cause, has from the moment I met him.
+
+0x7825C85A = ~z~You tried to kill him, if I remember the story right.
+
+0x9714A5A5 = ~z~I'm pulling you back on the rails here.
+
+0x9929C385 = ~z~Will you get a move on?
+
+0x16804A2F = ~z~I was riding around, couple of days back...
+
+0x18708C51 = ~z~Hey, you need this, Arthur.
+
+0x21674EBD = ~z~I guess you could say that.
+
+0x27921AD2 = ~z~Go. Get out of here and never come back.
+
+0x42929CB1 = ~z~And it's time folks stopped giving Dutch a hard time about all that Blackwater business if you ask me.
+
+0x82681C57 = ~z~but I didn't breathe a word about nothing, I swear.
+
+0x350001CE = ~z~Alright, you go grab the money. I'll keep an eye on sunshine here.
+
+0x655050F4 = ~z~Davey was finished by the time we got up the mountains, Jenny didn't even make it that far.
+
+0x661063AC = ~z~but you never really know what you're walking into.
+
+0x725101B1 = ~z~Leave it to me, I'll do the talking. You hang back.
+
+0x995042A6 = ~z~I always pay my way, don't you worry.
+
+0x4065062A = ~z~is your people err...
+
+0x5050382C = ~z~The man's not a fortune teller. You can plan, you can use your head,
+
+0x6373374D = ~z~You know what? Just get the hell outta here, and don't look back.
+
+0x7718459E = ~z~Left of the house!
+
+0x56348702 = ~z~Oh, hey Arthur.
+
+0xA33F3C19 = ~z~Got knocked out in Blackwater too, didn't you?
+
+0xA86BE0DD = ~z~The fact you don't know that suggests you clearly ain't put much in it.
+
+0xA86FC4C4 = ~z~You and Dutch are deputies, you're out throwing lead with Sadie Adler...
+
+0xA152DEB6 = ~z~And you believed him?
+
+0xA458DBA2 = ~z~is your people eh...
+
+0xA712C3C0 = ~z~Did you get split off with Mac?
+
+0xA4974E8D = ~z~My people were peasants...
+
+0xAA9CF137 = ~z~You did good, but let's see what the pay is first.
+
+0xACA620EC = ~z~Let's just deal with the rest of 'em.
+
+0xACCC7123 = ~z~Good.
+
+0xAF05B619 = ~z~I ain't like some of them others back there, sitting around, waiting to be told. I go after it.
+
+0xAF72B6EF = ~z~Dutch is always on at us to get out there and bring in money, ain't he?
+
+0xAFB60FAB = ~z~For christ sakes, stop it!
+
+0xB8D9674D = ~z~Now that was bloody chaos.
+
+0xB49F7C2F = ~z~So, tell me...
+
+0xB181CDC8 = ~z~Is that right? So ~rp~what's your plan?
+
+0xB375C5D3 = ~z~Are you getting off that horse then?
+
+0xB565045A = ~z~even us Irish.
+
+0xB8332474 = ~z~It's a bit of a ride, not too bad. Back up north a stretch, not far from the state line.
+
+0xBA218448 = ~z~Camp funds...supplies and the like.
+
+0xBFBA84D3 = ~z~Jacobites or English lovers, Arthur?
+
+0xBFC01CB0 = ~z~all liquored up.
+
+0xC5A4EA31 = ~z~Come on, we're going on foot from here.
+
+0xC7BD17AB = ~z~Let's leave the horses here and go the rest on foot. Don't want them to hear us coming.
+
+0xC258DCBF = ~z~I see you sitting around plenty.
+
+0xCCCC1420 = ~z~What's the hold up here?
+
+0xCF3B2A66 = ~z~You saw me in action on those tobacco fields. That worked out alright.
+
+0xD0A9BE83 = ~z~couple of fuckers lazing about outside...
+
+0xD1E836C4 = ~z~Jacobites or English lovers, Arthur?
+
+0xD37A7F02 = ~z~I mean, I don't need no coddling like the rest.
+
+0xD63CA061 = ~z~Hey, you need this, Arthur. I don't even know what I'm seeing no more.
+
+0xD43596A0 = ~z~Hold on, dammit.
+
+0xDA389F39 = ~z~I know, and we'll make them tell us where it is.
+
+0xDB17C927 = ~z~Oh, hey Arthur.
+
+0xDCDFA487 = ~z~They might have the money hidden somewhere.
+
+0xDCFB9712 = ~z~Alright, let's do this.
+
+0xE0FB5B86 = ~z~they hate the Redskins, the Jews...
+
+0xE1E9E0A7 = ~z~Hey, it's over there.
+
+0xE5F47FF6 = ~z~Alright.
+
+0xE7DEFE1C = ~z~Alright, guess we should give the place a look, see what we can find.
+
+0xE8A640F2 = ~z~Watch it! They're coming out!
+
+0xE8B6E7E9 = ~z~they're about to get a lesson in mean.
+
+0xE20CABA6 = ~z~Find that thing yet? Don't want to overstay our welcome, do we?
+
+0xE99E3223 = ~z~I said, leave the horses here.
+
+0xE79249AC = ~z~Are we going then?
+
+0xE215325F = ~z~Whoa, slow it down there.
+
+0xEC365DCA = ~z~Jacobites or English lovers, Arthur?
+
+0xED0FF1A1 = ~z~Those bounty hunters strung me up, beat me, pulled teeth, burned me feet...
+
+0xED4A77C4 = ~z~I didn't think nothing of it...
+
+0xEF38BB8C = ~z~Right, follow me.
+
+0xEF101C38 = ~z~Better be worth it.
+
+0xEFC24DB9 = ~z~Hey, not so fast.
+
+0xF1D36AF9 = ~z~Hey, you need this, Arthur.
+
+0xF1DDFD4B = ~z~Most folks hate the Negroes...
+
+0xF4F10381 = ~z~Well, in that case...
+
+0xF9C6D315 = ~z~Are you trying to ruin this? Cut it out.
+
+0xF88C0AA7 = ~z~Why?
+
+0xF402442F = ~z~Ah, dammit, there ain't much. I'm heading back to camp. Should have kept one alive...
+
+0xF423136A = ~z~Hard left coming up.
+
+0xFB2CFBB7 = ~z~is your people err...
+
+0xFB6A12B3 = ~z~we could take them real easy.
+
+0xFBEF8F68 = ~z~Yep, folks always want to blame someone when things go wrong.
+
+0xFFD57544 = ~z~They caught up with Mac a couple of days after.
+

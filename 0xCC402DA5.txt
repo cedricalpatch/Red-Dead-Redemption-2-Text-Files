@@ -1,0 +1,262 @@
+0x00CC2522 = ~z~You know the Del Lobos? Hey? We killed and we burned all the way across the country.
+
+0x0212348D = ~z~Now, have you talked to the sheriff? Like a good little boy?
+
+0x078D38D4 = ~z~and I'm going to burn you alive, mister.
+
+0x08E43AF2 = ~z~You hear those horses, those shots... you'll know your time has come.
+
+0x0DE87ADD = ~z~Thank you. Gracias, senor.
+
+0x1E82675A = ~z~Joaquin's not here!
+
+0x2A689F6A = ~z~Think about this. Let's think about it. He ain't going nowhere. Joaquin can decide.
+
+0x2D029D3D = ~z~Or you wanna give up Joaquin Arroyo?
+
+0x2D9AACFA = ~z~You come in this cell, you're the one getting beat.
+
+0x2E164631 = ~z~Well, well, you're still here.
+
+0x3C43E28C = ~z~And so are you. For now. Count yourself lucky, cabron. For now.
+
+0x3CD21DB8 = ~z~Let's see here.
+
+0x3CED4B9F = ~z~I almost want to test you on that... almost, but not quite. Enjoy yourself.
+
+0x3E9291A7 = ~z~Bounty hunter, this sheriff, hey.
+
+0x4AA3F431 = ~z~I'm going to watch them do it... and I'm going to laugh!
+
+0x4FB5C003 = ~z~Damn your bounty.
+
+0x4FC1E2BB = ~z~Hey! You all wanna die?
+
+0x5CB083D1 = ~z~
+
+0x5CE661EC = ~z~If they want you dead... maybe they weren't your brothers after all, eh?
+
+0x5DE3133D = ~z~Stop right there. Who are you?
+
+0x5FFAC2AE = ~z~I said I'd talk to your sister. But all she wanted to do was screw.
+
+0x6D852DE5 = ~z~You have a fine imagination, Arroyo. I will grant you that.
+
+0x6EBBC586 = ~z~I'm going to see you again, mister. Believe me there.
+
+0x7AB2B41E = ~z~You couldn't come get me, Sheriff? You yellow belly. You coward... you sent some vaquero...
+
+0x7D11C4BF = ~z~We can't kill the kid. Joaquin vouched for him.
+
+0x7FFDE80A = ~z~Here we are... our time together is almost at an end.
+
+0x8C8BDBCC = ~z~They better hurry on up... the Tumbleweed sheriff is real quick to execute.
+
+0x8F8F3FB5 = ~z~Just try and get close enough. Come on, vaquero!
+
+0x8FB7AEF3 = ~z~Get that bastard!
+
+0x9AAD65B1 = ~z~That's very clever, well done.
+
+0x9AE03C9D = ~z~You want to die, boy? Where is he?
+
+0x9B234AC7 = ~z~I'm in trouble, bounty hunter.
+
+0x9F387D29 = ~z~My friends... they're going to come for you!
+
+0x17EF0EC8 = ~z~You dumb bastard, do you know who I am? You'll die for this!
+
+0x18FDC532 = ~z~A train... west of here... okay, Joaquin, let's see if you're here.
+
+0x23C09A5D = ~z~Okay, well, I'll take that on board.
+
+0x27D574CB = ~z~
+
+0x30CDE4D4 = ~z~Please, I don't want to die for the Del Lobos.
+
+0x39C8527A = ~z~You're gonna die slow. And you're gonna die hurting.
+
+0x40A658D0 = ~z~Hey over there, which one of you is Joaquin Arroyo?
+
+0x40B88436 = ~z~Jaoquin Arroyo... and the Del Lobos... that's who's coming for you, cabron.
+
+0x44DD4806 = ~z~Oh Dios mio. Dios mio.
+
+0x45FC5691 = ~z~I ain't about to get killed just because you second guessed someone wrong.
+
+0x49E25265 = ~z~The sheriff wants to talk, I don't.
+
+0x49F63C0C = ~z~I didn't talk. Tell them I didn't. The Del Lobos, my brothers, they want me dead.
+
+0x51F6F6C9 = ~z~You sure are colorful.
+
+0x75BDEE34 = ~z~I'll be sad when you're dead, you're real charming.
+
+0x75C00175 = ~z~No one's making you! Go home to your donkey.
+
+0x76F740CD = ~z~What was that? I didn't hear you.
+
+0x86FF3E55 = ~z~I only going to talk to your momma, okay. But she can't fit through the door.
+
+0x88F1509B = ~z~I ordered him... didn't have much hope of seeing him though. Put him in the cell.
+
+0x113F4CD4 = ~z~Please. He's no here.
+
+0x199ADCEF = ~z~You want to burn? You want to scream... that's what's happening to you.
+
+0x275DD175 = ~z~I expected to find you in a box, feller. Ain't you talked yet?
+
+0x362B52FB = ~z~Arroyo, someone wants to have a talk with you.
+
+0x391E3CD5 = ~z~No? You're about to get killed cause you don't got cojones.
+
+0x441D8846 = ~z~Up on the tracks... they-they robbing the train.
+
+0x450CC8D3 = ~z~Sheriff. You looking for Joaquin Arroyo?
+
+0x540DCA60 = ~z~Who are you and what's your business?
+
+0x611CF630 = ~z~Where's Joaquin Arroyo? I ain't asking you twice.
+
+0x619CEE1C = ~z~I will chase you into the dirt, feller. Stop.
+
+0x643A719D = ~z~I'll have every Del Lobo in New Austin come looking for me.
+
+0x677BD1C0 = ~z~It's the bounty hunter. I could smell you a mile off.
+
+0x794A755D = ~z~Real soon you're gonna get a knife in the back... just wait for it.
+
+0x1692D148 = ~z~Don't make me kill you, son. I said I'd bring you in alive.
+
+0x1859AEB1 = ~z~Arroyo! Arroyo! Run!
+
+0x3959C445 = ~z~I'm looking for Joaquin Arroyo... he here?
+
+0x5494F3C2 = ~z~He ain't one of us, we have a train to rob. We kill him, bleed him, here!
+
+0x7017AACB = ~z~If Joaquin Arroyo was here. He'd use his own knife on the little squeaker.
+
+0x7323A492 = ~z~Dios mio! No me gusta!
+
+0x9857B377 = ~z~I killed worse than you bounty hunter! I'll do it again.
+
+0x61840DA4 = ~z~Dios mio. Dios mio. Dios mio.
+
+0x86007E0C = ~z~Finish him now.
+
+0x98309A6C = ~z~You think I'm worried about your little friends? Send them my way, amigo.
+
+0x623264FC = ~z~I'll die before I'm caught.
+
+0x6191016D = ~z~I want to go home!
+
+0x8649315C = ~z~Joaquin, get outta here!
+
+0x34600958 = ~z~You ain't going to take me.
+
+0x58660294 = ~z~How about I come in that cell and give you a beating?
+
+0x75686214 = ~z~Eh, look at this. Someone's walked into trouble.
+
+0xA3DA42DB = ~z~Dios mio! Dios mio! He's up on the tracks... they robbing the train.
+
+0xA61EDF84 = ~z~
+
+0xA97E5647 = ~z~Please. Senor. I told you. Don't kill me.
+
+0xA9861156 = ~z~Aye! Aye, aye!
+
+0xACD2184C = ~z~I coulda come after you, Arroyo... but it's so damn hot out there, I didn't want to sweat.
+
+0xACE4EE4A = ~z~Help me, please. Come on, my friend.
+
+0xACF26E71 = ~z~Hey. Hey. Please, you got to help.
+
+0xAFBE895C = ~z~You hear me? Are you listening?
+
+0xB1FD0C18 = ~z~Damn you, and damn that Sheriff. Ah!
+
+0xB5BC9538 = ~z~I'm going to take that bounty poster... I'm going to shove it down your mouth...
+
+0xB59EEE05 = ~z~You're a marked man, bounty hunter. The dogs are loose. Woof, woof, woof, woof!
+
+0xB643ED23 = ~z~~sl:1.0~Guess none of you's telling me where Arroyo is.
+
+0xB24209A6 = ~z~How you know it's coming, eh?
+
+0xB96319F3 = ~z~You'll pay for this... more than any damn bounty. You'll pay!
+
+0xB398346D = ~z~None of you gave me no trouble yet.
+
+0xB3381639 = ~z~The thing about wolf cubs is... they might look sweet, but they're gonna grow up to be a wolf.
+
+0xBC7CDBDA = ~z~Hey. Puta. One of those cabrones ratted me out. Didn't they?
+
+0xC3DCACDB = ~z~I don't hear it... but it's coming. It's coming.
+
+0xC4B62D90 = ~z~Joaquin Arroyo! Which one are ya?
+
+0xC5A93B1B = ~z~I'm not a Del Lobo. Please. Por favor.
+
+0xC6A64BF4 = ~z~Then they'll die too. Now save some breath for my questions, boy.
+
+0xC6D35815 = ~z~
+
+0xC27B9AEF = ~z~Enough of that. Don't make me chase you.
+
+0xC699345F = ~z~I know you now, bounty hunter. The Del Lobos gonna know you too!
+
+0xCCA11C8C = ~z~You saved me. I'm not a Del Lobo. Let me go. Please.
+
+0xCD773BE7 = ~z~Everything's okay. Just tell me where he is?
+
+0xCE3A7F55 = ~z~All that matters is you're caught. Don't let the rest of it trouble you.
+
+0xCE27C171 = ~z~Arroyo. Come on. Que pasa? Where's the train?
+
+0xD0E79F1A = ~z~You're bandits... but which one of you's mine?
+
+0xD3E8BB13 = ~t~In Spanish: No! My God. My God, I'm sorry.
+
+0xD8E02B41 = ~z~Arroyo, if you're over there, give up before I start shooting!
+
+0xD74C31E2 = ~z~I did not want to join these banditos. They are bad men. Por favor.
+
+0xDDF42031 = ~z~Joaquin Arroyo!
+
+0xDE6F01F8 = ~z~Save your nonsense for the sheriff.
+
+0xE42F6BE9 = ~z~They'll take your ears, they'll take your nose... there won't be nothing left on your head except bone.
+
+0xE67BC7DB = ~z~You tell him my name? Pendejos...
+
+0xE178D45D = ~z~They'll kill me... you're scum, bounty hunter.
+
+0xE193D48F = ~z~They've seen me in here... the gang... they think I talked... tell the Del Lobos I'm not a rat.
+
+0xEBDA0298 = ~z~You ain't cut out for this... give up chasing me, you fool.
+
+0xEF4D7002 = ~z~You stay here much longer, they're gonna charge you some rent.
+
+0xEFB270D0 = ~z~If it looks like a rat, and it squeaks like one...
+
+0xF0EBE976 = ~z~Someone came this way...
+
+0xF5FF1528 = ~z~We're an army... a legion.
+
+0xF3693D21 = ~z~Let me go.
+
+0xF162864F = ~z~You should be scared... you should be quaking in your boots, vaquero!
+
+0xFA77F839 = ~z~Dios mio! I don't want to die.
+
+0xFB1F1B5F = ~z~Look at the tracks, you idiots. There is nowhere else it can go.
+
+0xFE8C0051 = ~z~Arroyo... he's on the tracks... west of here.
+
+0xFE19A717 = ~z~No such luck, hombre.
+
+0xFE91DC30 = ~z~Get out of here before I change my mind.
+
+0xFF54A6C6 = ~z~Now, look who's sweating. That noose getting tight?
+

@@ -1,0 +1,48 @@
+0x050C653F = The bull was injured.
+
+0x0F33948F = Investigate the commotion at the ~o~corral~s~
+
+0x1DFD2256 = Return to the ~o~bull~s~
+
+0x1E7DACAA = Dive
+
+0x3ECBD1B1 = Catch the ~o~bull~s~
+
+0x5FBCF294 = Take the bull to the ~o~barn~s~
+
+0x6C5A57E5 = Hammer the post in
+
+0x8DD5054C = Return to the ~o~corral~s~
+
+0x9F596E6B = The bull died.
+
+0x10E236F5 = Use your lasso to catch the bull.
+
+0x82C173B2 = Follow ~o~Mr. Dickens~s~
+
+0x522B6522 = Equip Lasso
+
+0x783AECD0 = Fix the fence
+
+0x2072EBC4 = Dickens was abandoned.
+
+0xA04D3D30 = Calm
+
+0xBD8ED0D1 = Pick up the ~o~post~s~
+
+0xC0B35035 = The bull was abandoned.
+
+0xC9143D8B = Calm the ~o~bull~s~
+
+0xCEFE1330 = Position and place the rail
+
+0xD83C73EF = The ranchers were abandoned.
+
+0xE83D4383 = Mr. Dickens
+
+0xF25AB935 = Corral
+
+0xF45BA800 = Bull
+
+0xFF4F1C3A = Barn
+

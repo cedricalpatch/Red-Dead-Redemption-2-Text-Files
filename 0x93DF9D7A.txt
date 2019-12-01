@@ -1,0 +1,20 @@
+0x001DFDCD = ~z~Excuse me, please.
+
+0x6E08CEF8 = ~z~Yes, you know, angels, bright lights, that sort of thing.
+
+0x8A248733 = ~z~Do you believe in heaven?
+
+0x9D49AD7D = ~z~Heaven?
+
+0x56F720D9 = ~z~I never knew that... I...
+
+0x847AFBE0 = ~z~he died.
+
+0x7230D74C = ~z~Well, I... I... I once was engaged to a man... a long time ago...
+
+0x55661DB7 = ~z~He was the best man I ever knew. I believe he's in heaven.
+
+0xB4A25C2E = ~z~You believe in heaven, Miss Grimshaw?
+
+0xB85E63A6 = ~z~Excuse me?
+

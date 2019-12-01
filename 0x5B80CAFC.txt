@@ -1,0 +1,60 @@
+0x09B6B972 = Some supplies were delivered
+
+0x0A9BF330 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x0A74CB0F = Supplies were destroyed
+
+0x0BA62B82 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+0x0FEC6AB5 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x1E0DE588 = ~1~ delivered supplies
+
+0x3C8CCFF8 = Supplies were destroyed
+
+0x12E03C44 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x32EF9241 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x75BEE779 = The supplies were destroyed
+
+0x85ECE638 = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ in the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x167A0975 = ~1~ delivered supplies
+
+0x854FEE0B = Steal the supplies and deliver them to Camp ~1b~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0x5749AE2F = The supplies were delivered
+
+0x7507A2DA = The supplies were destroyed
+
+0x2359984F = You can only carry one supply bag at a time.
+
+0xA9C96D06 = You delivered supplies
+
+0xAC28CF1D = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xAFEE7AA1 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ ~1~
+
+0xB4A168C7 = The supplies were delivered
+
+0xB38AA877 = Go ~1~
+
+0xB48F6D25 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+0xB57163C3 = The supplies were destroyed
+
+0xBCEA61D6 = The supplies were destroyed
+
+0xBE3F6218 = Steal the supplies
+
+0xC08B28CF = Steal the supplies and deliver them to Camp ~1b~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xD09B36E5 = ~1~ delivered supplies
+
+0xD71D6CF0 = Steal the supplies
+
+0xD83EDF21 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xDD35AF89 = Steal the supplies
+

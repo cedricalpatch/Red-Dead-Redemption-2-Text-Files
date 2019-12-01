@@ -1,0 +1,14 @@
+0x7C908320 = ~z~Alright.
+
+0x19A7BD30 = ~z~Okay... why?
+
+0x2651D684 = ~z~Hosea... one other thing... when you get a chance, send someone down the track back to that farmhouse.
+
+0x3525742B = ~z~Of course... I-is it safe down there?
+
+0xC3E611AE = ~z~That poor woman's husband needs burying.
+
+0xD2B62F4E = ~z~Understood.
+
+0xE0F4CBCB = ~z~Just send someone sensible.
+

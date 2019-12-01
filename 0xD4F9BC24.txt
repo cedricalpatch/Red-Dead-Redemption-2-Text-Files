@@ -1,0 +1,182 @@
+0x0A0F536F = ~z~It began long ago and will only end many years henceforth. All you can do is your bit.
+
+0x0CB48758 = ~z~I don't see too well, but I see what lies ahead.
+
+0x0FB85BBC = ~z~Sure.
+
+0x1B2AA5E9 = ~z~That is all I have for you.
+
+0x1BD83296 = ~z~You stare at me and you think, what does she know?
+
+0x2B3612B7 = ~z~Here you go.
+
+0x2BBA69D0 = ~z~OKay, thanks.
+
+0x2CC30B48 = ~z~The time of man came and it went as all things pass. As all things pass, my friend.
+
+0x2F55BD02 = ~z~Go and be strong.
+
+0x2FA589FA = ~z~life began in churches, it ends in churches.
+
+0x3A7126A4 = ~z~This is now the time of machines. The time of things.
+
+0x3B97AC5B = ~z~I remember you... I can sense you.
+
+0x3D850FA0 = ~z~You bully the weak. That says who you are!
+
+0x3D18750D = ~z~It's only in dying that we live, my friend... so you're lucky. For soon you shall be alive.
+
+0x4BF396B3 = ~z~There's nothing here, friend... there's nothing here for us to destroy.
+
+0x4FED3235 = ~z~Okay.
+
+0x4FF10B1A = ~z~I see things clearly...
+
+0x5A68B8D2 = ~z~Betray them first!
+
+0x5C5BF502 = ~z~Here.
+
+0x5D9441E5 = ~z~A coin to know your fate... mister?
+
+0x6A53D6B9 = ~z~What the hell.
+
+0x6EF3D862 = ~z~Give... and you shall receive your fate.
+
+0x7A4B9F41 = ~z~Life begins in the darkness, it ends in the ground.
+
+0x7CADE4AC = ~z~You'll go away from here and realise that here is not so bad,
+
+0x8A64E956 = ~z~Don't just stare... I cannot see you, but I can surely smell you.
+
+0x8DFE9E0E = ~z~Here you go.
+
+0x8E3F4974 = ~z~Your fate shall be deserved.
+
+0x9B5184A1 = ~z~And would we want it to end if we could?
+
+0x9C413A93 = ~z~Why not?
+
+0x9FAEC16E = ~z~Here.
+
+0x22F5B139 = ~z~as everyone does in the end.
+
+0x26E75F69 = ~z~Come... come towards me now...
+
+0x31EE8E88 = ~z~When you do what you think you must do, you make things complete.
+
+0x46C3C9D2 = ~z~What the hell.
+
+0x48B6956E = ~z~They will betray you in the end... surely they shall.
+
+0x66CEA2AC = ~z~I can see far, perhaps you'd like to know more.
+
+0x74E705B7 = ~z~The ones you hate most grow fat on their greed and yet you must punish whatever the cost...
+
+0x85DF80AE = ~z~Now be on your way.
+
+0x89D4A781 = ~z~I may not speak the whole truth, but I speak some of it.
+
+0x94E8547A = ~z~Complete and round and back to where they once stood...
+
+0x96F8FBEC = ~z~And the circle goes on... and on... and on...
+
+0x103BACB3 = ~z~You don't know... you don't know what you're doing here.
+
+0x191C2027 = ~z~For a small price.
+
+0x469F1F99 = ~z~Uh, thank you.
+
+0x581E4140 = ~z~I have the sight if you want the wisdom. Come, see what I see.
+
+0x787EAD47 = ~z~Why not.
+
+0x802AD1B9 = ~z~She'll return to you, my friend. Return she shall and that shall destroy you both, I fear.
+
+0x87782AD9 = ~z~whatever the cost.
+
+0x93298BEC = ~z~smoke, lies, hatred and not much else.
+
+0x217244F7 = ~z~Sure.
+
+0x323695D1 = ~z~Travel safe.
+
+0x864892FC = ~z~Alright.
+
+0x2219568E = ~z~Alright.
+
+0x6240525E = ~z~Now go face your future, young man.
+
+0x64869708 = ~z~and what will end it?
+
+0x79398051 = ~z~Come here, my friend.
+
+0xA0168D96 = ~z~Now go, time is precious.
+
+0xA07D6245 = ~z~You're doomed already.
+
+0xA14B1318 = ~z~Good luck to you.
+
+0xA29EDA87 = ~z~You are still alive I see.
+
+0xA86DEBED = ~z~They say we came from the mud. We didn't. We came from under a rock!
+
+0xA6151BCB = ~z~Would you like to know what lies in store, mister?
+
+0xAF59153A = ~z~I've got the truth, if you want it.
+
+0xB3B8EDDC = ~z~Uh, thank you.
+
+0xB3BD2FA1 = ~z~A coin, and I will tell your future.
+
+0xB8F68D10 = ~z~Come nearer, come. Come.
+
+0xB30E4EE3 = ~z~Come... for I can see even though I cannot see.
+
+0xB290C67D = ~z~What? With what? With absolutely nothing. Enjoy.
+
+0xB72053D9 = ~z~You came down from on high and met man unleashed as fury...
+
+0xBEE68437 = ~z~Alright, thanks.
+
+0xBF0DC678 = ~z~Come to me. Come to me and let me see you. See you properly.
+
+0xC0B362C2 = ~z~We killed him and what did we replace him with?
+
+0xC8C1C606 = ~z~You deserve what you shall get!
+
+0xC57A172D = ~z~That's the problem... that's a real problem.
+
+0xC85DF654 = ~z~and this is modernity, in all its foulness,
+
+0xCF934984 = ~z~One day you will be sick and weak.
+
+0xD3B1C818 = ~z~Even the gods die. Even the gods die an ignoble death.
+
+0xD3C7B38D = ~z~Come.... come... and speak with me, shall you?
+
+0xD5AD7DC6 = ~z~Do you want to hear your fortune, sir?
+
+0xD8BFBCB3 = ~z~My friend... my friend, you live and so do I.
+
+0xDBBB3CA0 = ~z~Use that as you may.
+
+0xDF18D942 = ~z~Beware the swamps for nothing good ever came from the ooze.
+
+0xE9ABD5F6 = ~z~For a small donation, I can look into the shadows ahead.
+
+0xE20D5053 = ~z~What are you doing here, friend?
+
+0xEAA4DBB3 = ~z~Well, thanks I suppose.
+
+0xEB1A1AC4 = ~z~Even the gods die... even the gods die in the end.
+
+0xEBDD58C9 = ~z~Come here and hear me speak the future.
+
+0xFA71748E = ~z~Show charity, and I will show you the future.
+
+0xFBED8A37 = ~z~Well, thanks, I guess...
+
+0xFC707F4A = ~z~Okay...
+
+0xFF7A3E45 = ~z~Keep moving, for you cannot stop it now.
+

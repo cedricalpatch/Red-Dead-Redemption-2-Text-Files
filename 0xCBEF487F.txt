@@ -1,0 +1,42 @@
+0x0B86C482 = ~z~Come bustle bustle drink about and let us merry be,~n~~m~Come bustle bustle drink about and let us merry be,
+
+0x1A15D02C = ~z~Our can is full we'll pump it out and then all hands to sea!~n~~m~Our can is full we'll pump it out and then all hands to sea!
+
+0x9DCF6915 = ~z~What's got at sea we spend on shore on sweethearts and our wives,
+
+0x9DF0E970 = ~z~Come bustle bustle drink about and let us merry be,~n~~m~Come bustle bustle drink about and let us merry be,
+
+0x45D1391A = ~z~As loud as halloo when we send a broadside to Mt. Sears!~n~~m~As loud as halloo when we send a broadside to Mt. Sears!
+
+0x53B0C369 = ~z~Young miss at dancing school is taught the minuet to tread,~n~~m~Young miss at dancing school is taught the minuet to tread,
+
+0x84B836E7 = ~z~What's got at sea we spend on shore on sweethearts and our wives,~n~~m~What's got at sea we spend on shore on sweethearts and our wives,
+
+0x90A83D6F = ~z~Young miss at dancing school is taught the minuet to tread,
+
+0x93A6D4DC = ~z~And then my boys hoist sail for more thus pass the sailors' lives!~n~~m~And then my boys hoist sail for more thus pass the sailors' lives!
+
+0x369E8945 = ~z~But we go better when we've brought our foretack to cathead!~n~~m~But we go better when we've brought our foretack to cathead!
+
+0x371F9BB7 = ~z~As loud as halloo when we send a broadside to Mt. Sears!
+
+0x524E5214 = ~z~And then my boys hoist sail for more thus pass the sailors' lives!
+
+0x616C5EF8 = ~z~Our can is full we'll pump it out and then all hands to sea!~n~~m~Our can is full we'll pump it out and then all hands to sea!
+
+0x811B9E3E = ~z~But we go better when we've brought our foretack to cathead!
+
+0x6144F001 = ~z~When Hornen hounds the forest trends his pack the hunstmans cheers,~n~~m~When Hornen hounds the forest trends his pack the hunstmans cheers,
+
+0x6495E533 = ~z~Come bustle bustle drink about and let us merry be,~n~~m~Come bustle bustle drink about and let us merry be,
+
+0x9041CDFA = ~z~Our can is full we'll pump it out and then all hands to sea!~n~~m~Our can is full we'll pump it out and then all hands to sea!
+
+0x48422C8C = ~z~When Hornen hounds the forest trends his pack the hunstmans cheers,
+
+0xA78C845F = ~z~Oh, sailors...
+
+0xAAFAF214 = ~z~Come bustle bustle drink about and let us merry be,
+
+0xE249F9D9 = ~z~Our can is full lets pump it out and then all hands to sea!~n~~m~Our can is full lets pump it out and then all hands to sea!
+

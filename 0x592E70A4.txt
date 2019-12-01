@@ -1,0 +1,74 @@
+0x09C14646 = ~z~A barn will take three of us six months to build.
+
+0x1B506964 = ~z~But any livestock you're gonna need a barn.
+
+0x1CCA3E5F = ~z~comes along and hastens your journey into the grave.
+
+0x2B0387F2 = ~z~And I'll give you another fatal condition.
+
+0x5AFB67C1 = ~z~Get on with what?
+
+0x86D8C073 = ~z~and cows, I've seen enough cows.
+
+0x95BB5D44 = ~z~Ranching.
+
+0x125B54BE = ~z~I'll deal with him.
+
+0x389A231F = ~z~If we don't get on with things around here...
+
+0x462EBF28 = ~z~so cows, sheep, goats.
+
+0x5010D2EC = ~z~Yeah, so...
+
+0x8229A33A = ~z~Just one time I hope to find you working...
+
+0x34156CF1 = ~z~Well, I hope and pray to whatever is out there...
+
+0x34661B97 = ~z~Now, goats is easy but...
+
+0x688302D4 = ~z~then we'll all starve.
+
+0x809285EE = ~z~Do you believe in reincarnation, John Marston?
+
+0x7336185A = ~z~This is a fatal condition I got.
+
+0xA40DF9E9 = ~z~Farming.
+
+0xB1E0E88A = ~z~No.
+
+0xB25F177F = ~z~they taste awful.
+
+0xB32A9822 = ~z~The only thing that this land's good for is grazing.
+
+0xB92C225D = ~z~The lumber fellers all have 'em.
+
+0xC1F8B5BE = ~z~Planting something.
+
+0xC42B3B17 = ~z~Sheep then.
+
+0xC97817B8 = ~z~that when you're old and facing death...
+
+0xCB91C728 = ~z~This is the industrial age.
+
+0xCC72C962 = ~z~You buy one pre-cut, just like the house.
+
+0xCEA6500D = ~z~Oh, you don't build a barn, dumbass.
+
+0xD73DB343 = ~z~that I get to come back as a young 'un, so...
+
+0xDD6D6CA7 = ~z~Grazing?
+
+0xDD9EEB42 = ~z~Oh, come on...
+
+0xDFB5F22C = ~z~I don't like goats...
+
+0xE23FF4FC = ~z~What do you think this is, 1785?
+
+0xE447CD57 = ~z~Just once.
+
+0xEFEF8FE7 = ~z~That guy makes me hate the modern world.
+
+0xF27969BA = ~z~Just one time I hope to find you working.
+
+0xFAAA7A1C = ~z~I can be some two penny slave driver that...
+

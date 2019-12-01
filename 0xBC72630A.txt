@@ -1,0 +1,36 @@
+0x1E0CF4C2 = Respawn at your nearest property
+
+0x3E7FC838 = Cancel
+
+0x5F56CD8A = Player Menu
+
+0x83EA320C = Respawn at your Camp
+
+0x7296A51B = You died
+
+0x7792F09A = Respawn at Camp (white flag)
+
+0x8044D63C = Spectate
+
+0x8356C5A2 = Spectating...
+
+0x8996A8B0 = Scoreboard
+
+0x523536FE = You were killed by ~1p~
+
+0xA6B8615F = Show HUD
+
+0xADE0EF22 = Exit SCTV
+
+0xB72E3CE5 = Join New Match
+
+0xBD6451D6 = Camera
+
+0xD0EC58BE = Respawn
+
+0xD6B2A723 = Toggle Respawn
+
+0xEE0A9803 = Hide HUD
+
+0xF1056027 = Switch Players
+

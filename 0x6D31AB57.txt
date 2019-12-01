@@ -1,0 +1,20 @@
+0x058D9CEF = ~z~Fine... I heard you said something to Grimshaw about a bank.
+
+0x3FA69124 = ~z~Sure... maybe... let me have a think.
+
+0x6CCF9616 = ~z~I been working on this a long time, I'm not getting cut out.
+
+0x13BF3952 = ~z~Yes, the one in Valentine.
+
+0x15D63D84 = ~z~No. I'm running this, you want in?
+
+0x211E5410 = ~z~Give me the information...
+
+0x2315D803 = ~z~You?
+
+0x3093F2FF = ~z~Me. I can rob a bank just as well as any of you.
+
+0xC8DCA38A = ~z~How are you, Miss Karen?
+
+0xD747405F = ~z~Fine... how are you, Mr. Bill?
+

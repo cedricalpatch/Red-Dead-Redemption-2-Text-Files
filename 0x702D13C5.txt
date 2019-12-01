@@ -1,0 +1,42 @@
+0x0B023FB9 = ~z~~sl:0.5:1.2~I...~sl:1.8~I messed up in Blackwater.
+
+0x0B0F3FCF = ~z~You always do.
+
+0x3CFF0F60 = ~z~~sl:1.6:1.5:1~You done that before.
+
+0x9FC0D4E2 = ~z~I know.
+
+0x15D5D55C = ~z~~sl:0.0:1.6~Thought those mountains were going to kill me...~sl:0.4~seems I'll live a while yet.
+
+0x55B34EE7 = ~z~So what do you think?
+
+0x786B9A8E = ~z~How you doing?
+
+0x841C1D99 = ~z~~sl:0.0:2.3:1~I made a goddamn fool out of myself.
+
+0x2691F6D4 = ~z~Oh, I know.
+
+0x6363EA48 = ~z~~sl:0.0:2.8~We need to make some money and find ourselves an escape route.~sl:~Same as usual.
+
+0x332809D1 = ~z~You'll get us out of this.
+
+0x489834B1 = ~z~We are out of this. We need to keep out of it.
+
+0x16475010 = ~z~
+
+0xB2518E55 = ~z~Good, brother. How are you feeling?
+
+0xBC1CA1EB = ~z~Much better.
+
+0xC290662B = ~z~~sl:0.4:0.0~We're okay, Dutch. Hosea's right, we're just getting back on our feet.
+
+0xD1BC46FB = ~z~~sl:0.0:4.8:1~I agree... we'll get some big money and.. get lost.
+
+0xD64A8D9F = ~z~Tell him, Arthur. Tell him we're okay now.
+
+0xF8BE9B32 = ~z~~sl:0.7:1.4:1~Yes. I'm good at that.
+
+0xF8C79B40 = ~z~~sl:0.0:1.6~Found a couple things in town...~sl:1.2~made us some money.
+
+0xFBF69B6F = ~z~~sl:0.0:4.8~But we are making money. And we will find an escape.~sl:0.8~We are gonna be okay.
+

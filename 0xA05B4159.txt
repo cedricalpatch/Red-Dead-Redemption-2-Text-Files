@@ -1,0 +1,112 @@
+0x0140B1AE = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon
+
+0x07641828 = Horse
+
+0x0CD9285D = Deliver the horse to ~COLOR_MP_OBJECTIVE~Cholla Springs railroad
+
+0x1A29F12F = Deliver the wagon to the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+0x1B2D4509 = Deliver the wagon to ~COLOR_MP_OBJECTIVE~Cholla Springs railroad
+
+0x1BB93DD9 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Moonstone Pond
+
+0x3C51CEC4 = Deliver the horse to ~COLOR_MP_OBJECTIVE~Flatneck Station
+
+0x4FAB9FB2 = ~1p~ has the ~COLOR_MP_OBJECTIVE_ENEMY~horse~BLIP_MP_GAME_RACE_HORSE~.~s~ Take them out before they deliver it to the destination.
+
+0x5FFB9CF5 = ~1p~~s~ has the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~
+
+0x6AC4D48C = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+0x6AD7D74B = Deliver the horse to ~COLOR_MP_OBJECTIVE~Riggs Station
+
+0x6C6EB676 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~MacFarlane's Ranch
+
+0x6DBE387A = ~1p~~s~ has the ~COLOR_POSSE_ALLY~wagon~s~
+
+0x7FDECE80 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+0x8D378F29 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Riggs Station
+
+0x19B92719 = ~1p~~s~ has the ~COLOR_POSSE_ALLY~horse~s~
+
+0x21B7FEEF = Delivered the horse
+
+0x21DA1CA3 = ~1p~ has the ~COLOR_POSSE_ALLY~wagon~BLIP_AMBIENT_COACH~.~s~ Help them deliver it to the destination.
+
+0x25E1520C = Take control and deliver the ~COLOR_FREEMODE_EVENT~wagon~s~ to the drop off.
+
+0x35E328AD = Deliver the horse to the ~COLOR_MP_OBJECTIVE~abandoned oil derrick
+
+0x45AF71C3 = Deliver the wagon to ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+0x45E6C0F2 = ~1p~ has the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~BLIP_AMBIENT_COACH~.~s~ Take them out before they deliver it to the destination.
+
+0x54D90DCA = Deliver the horse to ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+0x65B659BC = Drop Off
+
+0x65C7C4FC = Horse delivered
+
+0x68A0DAFD = Deliver the horse to ~COLOR_MP_OBJECTIVE~Benedict Point
+
+0x95C504E9 = Deliver the horse to ~COLOR_MP_OBJECTIVE~Bluewater Farm
+
+0x99EEB31B = Wagon lost
+
+0x372FEB39 = Deliver the horse to ~COLOR_MP_OBJECTIVE~MacFarlane's Ranch
+
+0x375C06C8 = Take the ~COLOR_MP_OBJECTIVE_ENEMY~wagon~s~ from ~COLOR_ENEMY~~1p~~s~
+
+0x497B1239 = Horse lost
+
+0x898EFFC8 = Dispatch Rider Over
+
+0x3452F8B3 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Bluewater Farm
+
+0x6536EBB6 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Cholla Springs Railroad
+
+0x7631CACC = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse
+
+0x89472ABD = Take the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~ from ~COLOR_ENEMY~~1p~~s~
+
+0x942727B9 = Wagon
+
+0xA0613D78 = Deliver the horse to ~COLOR_MP_OBJECTIVE~Shady Belle
+
+0xA736ED76 = ~1p~ has the ~COLOR_POSSE_ALLY~horse~BLIP_MP_GAME_RACE_HORSE~.~s~ Help them deliver it to the destination.
+
+0xAAB9B43D = You have the horse
+
+0xAD2B979D = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Manzanita Post
+
+0xB03A3836 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Benedict Point
+
+0xB6D7C43A = Deliver the horse to ~COLOR_MP_OBJECTIVE~Solomon's Folly
+
+0xB7C7DADE = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Shady Belle
+
+0xB4606228 = Wagon delivered
+
+0xBA725215 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Ridgewood Farm
+
+0xC1B6826A = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xC3E1E014 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach the ~COLOR_MP_OBJECTIVE~~2~
+
+0xC545C131 = Take control and deliver the ~COLOR_FREEMODE_EVENT~horse~s~ to the drop off.
+
+0xC6221E8B = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Solomon's Folly
+
+0xC606664F = Deliver the horse to ~COLOR_MP_OBJECTIVE~Moonstone Pond
+
+0xCBF78B97 = ~1p~~s~ has the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~
+
+0xD48987F4 = You have the wagon
+
+0xDB5A3668 = Help ~COLOR_POSSE_ALLY~~1p~~s~ reach ~COLOR_MP_OBJECTIVE~Flatneck Station
+
+0xE319FCEF = Deliver the horse to ~COLOR_MP_OBJECTIVE~Manzanita Post
+
+0xE438B8E8 = Dispatch Rider
+

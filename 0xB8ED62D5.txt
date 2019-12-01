@@ -1,0 +1,998 @@
+0x00011AE9 = ~z~You lead the way, brother...
+
+0x009B3C06 = ~z~Come on then!
+
+0x00C7C7C8 = ~z~Helen, I love you.
+
+0x00EFAF05 = ~z~What was your name, sir?
+
+0x01016C13 = ~z~It is not like that, mister. ~rp~Not like that at all.
+
+0x0193907B = ~z~I like them both... equally.
+
+0x01BCB7F4 = ~z~Just one tap and watch him crumble.
+
+0x01DD481A = ~z~Oh, you boys. This is mighty dangerous.
+
+0x02BDE008 = ~z~A bath. Maybe that's what I need. Would you bathe me, sweet Helen?
+
+0x03839AF5 = ~z~Would you go and speak to them?
+
+0x039652C7 = ~z~Do I look like a coward to you?
+
+0x03EA8DF9 = ~z~At least I have brains.
+
+0x04DAF3FF = ~z~You two!
+
+0x063C2C79 = ~z~Come on.
+
+0x069BD2C1 = ~z~
+
+0x06D2E613 = ~z~
+
+0x071ED3FD = ~z~Of course you didn't...
+
+0x078B55D9 = ~z~~sl:0.0:2.4:1~Oh my... our friend.
+
+0x07BA193C = ~z~Oh dear! Oh my!
+
+0x08D5E28A = ~z~Leave those, please.
+
+0x08D31977 = ~z~Barely even felt it...
+
+0x095D25A5 = ~z~
+
+0x097356F3 = ~z~Effluent.
+
+0x09D5D83F = ~z~I don't blame you, sir...
+
+0x0B0E369F = ~z~Yeah, what do you want?
+
+0x0B3BDB13 = ~z~Shoot me.
+
+0x0CFC16B7 = ~z~
+
+0x0DA4626A = ~z~~sl:0.7~Hey, hit me again. Right here...
+
+0x0DB65CF0 = ~z~smaller bottles, sir.
+
+0x0DE356B9 = ~z~Free shot, huh.
+
+0x0E56CED1 = ~z~You don't look so well either.
+
+0x0E744902 = ~z~Hello.
+
+0x1A0F7FB9 = ~z~I mean obviously I do...
+
+0x1A7EAED7 = ~z~Sir, shoot the wretch.
+
+0x1A51CE45 = ~z~Come on. Now aim that over here.
+
+0x1A89791F = ~z~Discharge.
+
+0x1AC8BA52 = ~z~I've had the wind knocked out of me.
+
+0x1B1FDBAA = ~z~Quite some suitors you've picked there.
+
+0x1B519627 = ~z~
+
+0x1BC5C759 = ~z~Acrisius, Proetus.
+
+0x1C017C9E = ~z~Do one while I turn somersaults.
+
+0x1C1F104F = ~z~People have tried to drown him many times, but of course he floats...
+
+0x1C30D34C = ~z~That is quite some suitors you've picked there.
+
+0x1C577D42 = ~z~I think me and the lady have had enough.
+
+0x1D5BE6A9 = ~z~and watch him crumble.
+
+0x1DAD52E1 = ~z~Good luck to you.
+
+0x1DDE31D2 = ~z~~sl:0.0:0.9:1~You got it!
+
+0x1EC3A394 = ~z~~sl:0.4~This man is scared of his own shadow.
+
+0x1EC6892B = ~z~Maybe.
+
+0x1F3F44A2 = ~z~You're deranged...
+
+0x1F8B50D9 = ~z~I've never been better. Truly. I could ride to Strawberry in the state I'm in.
+
+0x1FBA9807 = ~z~I can't watch this.
+
+0x2A9FF540 = ~z~the silly fools.
+
+0x2A60EEA2 = ~z~You're a fool and a nuisance, brother...
+
+0x2B029C45 = ~z~John, please, come do the honors...
+
+0x2C6B08E9 = ~z~Come on.
+
+0x2C83E8D5 = ~z~Here you are.
+
+0x2D04E02D = ~z~shoot away sir... my bottle and his brains, if you please.
+
+0x2D3AAB83 = ~z~Don't think too much about it, just shoot.
+
+0x2E67B4E0 = ~z~~sl:0.0:3.7~Oh, you can tell he's not human because of his beady red eyes...~sl:~and his vestigial tail.
+
+0x2E8477F3 = ~z~I was trying to stop 'em from killing themselves.
+
+0x2EB76F31 = ~z~Both of you are going to bed, and that's the end of it.
+
+0x2F5EE68E = ~z~
+
+0x2F6BD072 = ~z~You keep shooting, sir...
+
+0x3A99BAF2 = ~z~Another round...
+
+0x3AD490FF = ~z~My sweet boys.
+
+0x3AFACC04 = ~z~Hush boys. Now hush.
+
+0x3C6C27F2 = ~z~~sl:0.0:1.2:1~Acrisius!
+
+0x3C79E339 = ~z~No, my sweet...
+
+0x3CC7A5A8 = ~z~Oh my, our friend.
+
+0x3DB61B74 = ~z~The fools...
+
+0x3DF15E30 = ~z~Really give it some.
+
+0x3E27405A = ~z~You already said that!
+
+0x3EE94EE0 = ~z~Now is as good a time as any. Go for it.
+
+0x3F1D0B8D = ~z~if only one of them was... you catch my meaning?
+
+0x4A7E9952 = ~z~I can take it.
+
+0x4A28944A = ~z~Now, Brother, I am going to walk Helen home.
+
+0x4AA1553E = ~z~Why don't we come back here to somewhere...
+
+0x4BE43781 = ~z~Hands? Oh, he doesn't have hands, he's a troll...
+
+0x4F13BE2F = ~z~Oh my Lord.
+
+0x4FB493FC = ~z~Now, you see, Helen, Acri here is a silly boy.
+
+0x4FC44CE1 = ~z~I know...
+
+0x4FFBDF3A = ~z~Right there...
+
+0x5A2CD633 = ~z~dear brother what fools we've been.
+
+0x5B2492AD = ~z~Silly boys.
+
+0x5BCE45E6 = ~z~I have no idea why he followed me out to the West.
+
+0x5BF037D1 = ~z~Helen, is this creep bothering you?
+
+0x5C24FE27 = ~z~My friend, you there...
+
+0x5C882549 = ~z~Come on, right there...
+
+0x5CD379A2 = ~z~more conducive to displays of utter gallantry...
+
+0x5D7C80AB = ~z~That was fun.
+
+0x5D260227 = ~z~you asked me to do this.
+
+0x5DDDBBB4 = ~z~Thank you.
+
+0x5E50A2F9 = ~z~
+
+0x5E70DBFE = ~z~You got a favorite?
+
+0x5F681A86 = ~z~~sl:0.3~Why? I must be the bravest man I know.
+
+0x5FE482C0 = ~z~you homunculus.
+
+0x6A1C1AFF = ~z~Of course, of course, of course.
+
+0x6ABA470E = ~z~Now I'll stand on one leg.
+
+0x6AEEFF2B = ~z~
+
+0x6C07DB90 = ~z~
+
+0x6C99A238 = ~z~Yeah, what do you want?
+
+0x6D80B590 = ~z~If you're bathing anyone, you're bathing me. And you can be assured of my chivalry, fair girl.
+
+0x6D425A75 = ~z~and I fear the sight of you could finally finish her off.
+
+0x6DCA7AB1 = ~z~Sir. That is a terrible thing to say.
+
+0x6F392424 = ~z~I feel like we didn't even do anything.
+
+0x6F638430 = ~z~Oh, I wasn't trying to lead 'em on you know?
+
+0x6FAC5F51 = ~z~Here, for your skills and talents.
+
+0x6FF54642 = ~z~
+
+0x7A10BFB2 = ~z~I apologize, sir...
+
+0x7AE0BD9B = ~z~There it goes!
+
+0x7BC5BE52 = ~z~You boys are ridiculous.
+
+0x7BF132B8 = ~z~~sl:0.9~Now mine!
+
+0x7C9EF92E = ~z~Don't follow us, she has an elderly aunt...
+
+0x7CC29322 = ~z~Bewitch some other milksops...
+
+0x7CC99953 = ~t~That's why we found him here, he escaped from his bridge.
+
+0x7DA3C20E = ~z~I don't wanna hurt ya.
+
+0x7E28FD0D = ~z~We need to get some steak on those wounds.
+
+0x7EE85A6A = ~z~They don't need to do this.
+
+0x7FF4F3F5 = ~z~Oh, Arthur, how are you?
+
+0x8BE49CA8 = ~z~are you there?
+
+0x8CFB765A = ~z~Come on. Keep up.
+
+0x8E96F9C7 = ~z~This is madness.
+
+0x8F03B80B = ~z~But he's still alive?
+
+0x8F0937AF = ~z~Good lady, adieu.
+
+0x9A05058B = ~z~Please, can you let us alone.
+
+0x9A0B600A = ~z~and I'll be left standing.
+
+0x9A7F8093 = ~z~See, even he is sick of hearing your nonsense...
+
+0x9A35F466 = ~z~Like William Tell.
+
+0x9AD0FCEB = ~z~You're such silly men.
+
+0x9CB3FE8A = ~z~gentlemen enjoying the great outdoors?
+
+0x9D48FD88 = ~z~Arthur, please, come do the honors...
+
+0x9E4257D9 = ~z~No need to fight, just sleep.
+
+0x9EE0825E = ~z~Now do one while I hop.
+
+0x9F76033D = ~z~Hold still!
+
+0x10A9458D = ~z~~sl:1.0~You got mine... and I barely even flinched.
+
+0x11BFBE66 = ~z~the West awaits.
+
+0x12BEA56F = ~z~Boys, you are too much, quite too much.
+
+0x12EED1FF = ~z~Smash 'em good and proper.
+
+0x14B91B0D = ~z~He emerged fully formed from the swamps, Helen.
+
+0x14C53D78 = ~z~See, right on the edge of the waterfall.
+
+0x18E2774E = ~z~
+
+0x18F278A7 = ~z~~sl:0.7~Hello.
+
+0x20BAED8F = ~z~I bet you can punch.
+
+0x20E4E734 = ~z~No probably not...
+
+0x20EE55CA = ~z~You'll never believe what those boys are up to.
+
+0x20FB9A95 = ~z~If we could just get this over with...
+
+0x23F62487 = ~z~Let's... just... get this over with.
+
+0x24C4E32B = ~z~Shoot mine.
+
+0x24E9E372 = ~z~Boys?
+
+0x25A4CB3B = ~z~Please, my angel, do not aggregate us both together.
+
+0x28AC4B32 = ~z~Silence you blaggard.
+
+0x28FAD6D2 = ~z~Silly, silly boys.
+
+0x30B9B782 = ~z~A few moments of sleep and I'll have the beating of that boob.
+
+0x32AE2C24 = ~z~I'm a pretty good shot, boys, but...
+
+0x32C2CFCB = ~z~I think me and the lady have had enough.
+
+0x32D0268E = ~z~Shoot sir, while our courage holds.
+
+0x32E704EB = ~z~Then maybe fate might help you out.
+
+0x33EC7B9E = ~z~Oh, Lord.
+
+0x33FB0194 = ~z~let us away from here.
+
+0x36B80C61 = ~z~Do you think they're alright?
+
+0x36D1727F = ~z~You nearly died...
+
+0x39C9F052 = ~z~
+
+0x40B1D974 = ~z~~sl:0.0:1.1~Unbeknownst to my mother...~sl:~that "boy" was sent forth from the fiery pits of hell...
+
+0x40B2821D = ~z~Madam, gentlemen.
+
+0x40D8C2C9 = ~z~Okay then.
+
+0x42E9CA66 = ~z~this man's tongue...
+
+0x43B0219D = ~z~There, there, up you get.
+
+0x46B5DEF2 = ~z~It's time you left us alone.
+
+0x46E95412 = ~z~and make sure we...
+
+0x48B22493 = ~z~They've been carried down a ways. We can't get there from this first path.
+
+0x48E3BDB8 = ~z~You'll break his glass jaw...
+
+0x49BE936E = ~z~You two, come along.
+
+0x49F025BE = ~z~I'm fine, really. It's that wretch who needs the rest.
+
+0x51AB1762 = ~z~Oh, John, how are you?
+
+0x51C451DA = ~z~~sl:0.0:1.3:1~Good shot!
+
+0x52DA2670 = ~z~That enough, gentlemen?
+
+0x54BBD2C5 = ~z~Helen!
+
+0x55E23694 = ~z~We must! At once.
+
+0x57CC15CC = ~z~~sl:0.0:0.9:1~A coward...
+
+0x57D25BBD = ~z~No man alive can thrash me.
+
+0x58B7F7AF = ~z~you homunculus.
+
+0x58F150D3 = ~z~They might be. You want them to be alright?
+
+0x59AD5D4C = ~z~Follow me.
+
+0x63FC07F3 = ~z~and deep seated inadequacy?
+
+0x63FD8E3A = ~z~I was born first.
+
+0x68B35646 = ~z~Acri, is that you?
+
+0x68CDE91D = ~z~Whatever got into your heads?
+
+0x70E2EF18 = ~z~I was just thinking... it might be easier for you,
+
+0x74E888B5 = ~z~if only one of them was... you catch my meaning?
+
+0x75A08D1A = ~z~but a brave one.
+
+0x75B684B6 = ~z~
+
+0x75C22B7F = ~z~Well, what did you have in mind?
+
+0x75EC2CEF = ~z~Either I'll prove my masculinity or die...
+
+0x76A5CCCE = ~z~~sl:1.5:0.7~Yikes!~sl:1.6:1.0:1~I'm fine.
+
+0x76FCF2D9 = ~z~It's miracle we're alive.
+
+0x77A00A95 = ~z~You look so peaceful lying there.
+
+0x78A96772 = ~z~I won't even flinch.
+
+0x79A54B62 = ~z~~sl:0.0:3.5~And quite frankly, talking like that in front of a lady...~sl:~is exactly what I'd expect from you.
+
+0x79FDA157 = ~z~punch us both, as hard as you can.
+
+0x80C347C5 = ~z~Follow me.
+
+0x81B0CB3C = ~z~Listen...
+
+0x81B5E99F = ~z~~sl:0.0:2.8~He sleeps with the lights on and is never happier...~sl:~than when he is being cuddled by the strong, motherly type.
+
+0x81C81D94 = ~z~I think so.
+
+0x81C210DA = ~z~Do you think they're alright?
+
+0x83F7CAD6 = ~z~Helen, I will make you love me...
+
+0x83F429C1 = ~z~You might be dense...
+
+0x84D76931 = ~z~~sl:0.0:2.0:1~You really walloped him.
+
+0x84F2FE78 = ~z~And Proetus isn't a boy at all, but a chimpanzee that a man shaves a face into every day...
+
+0x86C3D19E = ~z~you're a milksop.
+
+0x86D1E832 = ~z~Chivalrous? Don't listen to him my lady. He's a libidinous goat, you can be assured of it.
+
+0x87AD2E3E = ~z~I was just thinking... it might be easier for you,
+
+0x87D9CBED = ~z~I'll do my best...
+
+0x87D5612C = ~z~I think the game is over, mister.
+
+0x88D20F05 = ~z~
+
+0x91F095BD = ~z~Here I stand!
+
+0x91FD13EE = ~z~Okay, now lie down and rest.
+
+0x93D46F83 = ~z~just make sure everybody knows...
+
+0x94D8494C = ~z~Shall I throw him off?
+
+0x95AEB9D6 = ~z~He would have been better off staying at prep school or going to the seminary.
+
+0x96B1D2CC = ~z~exciting.
+
+0x96C2A190 = ~z~Sir, we need a hand.
+
+0x97D270BB = ~z~Oh, I can't lose.
+
+0x98B9DECF = ~z~John could...
+
+0x99AB3835 = ~z~Brother...
+
+0x99AC6F92 = ~z~I don't know.
+
+0x106F06EB = ~z~He wanted to be nursed until he was fifteen.
+
+0x115F1874 = ~z~
+
+0x156F34A6 = ~z~Are they alright?
+
+0x167B4026 = ~z~They're further down. We won't reach them from here.
+
+0x187CF739 = ~z~No mercy.
+
+0x191F523F = ~z~I cannot believe they've done this.
+
+0x204EF484 = ~z~We must! At once.
+
+0x233FD047 = ~z~Oh look! There they are.
+
+0x273A1F4E = ~z~Don't tamper with those.
+
+0x277C9991 = ~z~Here you are.
+
+0x326E8B27 = ~z~but you'll have an easier time.
+
+0x346D3A61 = ~z~Ain't you had enough fun with them?
+
+0x386C02A7 = ~z~Follow me.
+
+0x392EB259 = ~z~for his smell.
+
+0x401A9313 = ~z~
+
+0x408DC209 = ~z~Please. Put us out of our misery.
+
+0x418A4838 = ~z~you're living proof of God's remarkable sense of humor!
+
+0x427D6B20 = ~z~Sure.
+
+0x453DA419 = ~z~Before this siren calls us to the rocks again...
+
+0x472C0C19 = ~z~Mine are massive and he doesn't have any...
+
+0x482BF600 = ~z~In the face!
+
+0x482E5B95 = ~z~~sl:2.1:1.2~Good luck!~sl:1.0:2.0~You crazy bastards...
+
+0x521D2C2A = ~z~There's only one thing for it then. Hit me in the manhood.
+
+0x524DA97B = ~z~I thought you were a goner.
+
+0x596F4D1B = ~z~One of you.
+
+0x620B7007 = ~z~The knight and the knave.
+
+0x631CF85C = ~z~Let's get you both into your beds, and we'll see how you are in the morning.
+
+0x676F26F6 = ~z~You blaggard... you foundling... My dear Helen, I told you...
+
+0x719B262D = ~z~just to demonstrate how little your feeble gestures mean...
+
+0x724D056F = ~z~Don't worry, sir, mine are made of steel.... real steel...
+
+0x731B1252 = ~z~and thrash this impudent wretch?
+
+0x741D6F97 = ~z~They've come out his ears! My turn.
+
+0x770C9B75 = ~z~You, maybe...
+
+0x821E047A = ~z~He was amusing at first, but now he's really quite tiring.
+
+0x858D9964 = ~z~He always was a sickly child, sickly and weird...
+
+0x942A9257 = ~z~Sure.
+
+0x944C28D6 = ~z~Would you tell your talking monkey to go home please, Helen.
+
+0x973C1EEA = ~z~You've had your fun with these boys, now let me look after them.
+
+0x1169E893 = ~z~I feel like we didn't even do anything.
+
+0x1603C609 = ~z~That enough, gentlemen?
+
+0x1684C6EE = ~z~Helen... is this creepy little toad bothering you again?
+
+0x1774E9BD = ~z~And now for me!
+
+0x1851BDF7 = ~z~Then maybe fate might help you out.
+
+0x2374D43D = ~z~They might be. ~rp~You want them to be alright?
+
+0x2625BDE6 = ~z~and this time you kill the beast.
+
+0x3068DD90 = ~z~
+
+0x3119EBFB = ~z~On the bank!
+
+0x3545B629 = ~z~because I look like that milksop there...
+
+0x3574BBC3 = ~z~The boys asked me to mind them.
+
+0x3930B785 = ~z~I see you two haven't changed much.
+
+0x4463B1CD = ~z~Anywhere at all...
+
+0x4469CBCB = ~z~And so shall I...
+
+0x4877B659 = ~z~It was just...
+
+0x5375F918 = ~z~My friend, you there...
+
+0x5835D024 = ~z~This is getting quite outta hand!
+
+0x5868A26B = ~z~Me too.
+
+0x6218E775 = ~z~~sl:0.0:1.6:1~Hit me in the manhood.
+
+0x6724E886 = ~z~Shoot him, please.
+
+0x6807B643 = ~z~~sl:0.0:3.6~A fool for putting up with your tripe perhaps, dear brother,~sl:~but a coward... take it back.
+
+0x7410CE55 = ~z~I am many things, but a coward I am not.
+
+0x7791F713 = ~z~I think he's done for.
+
+0x7893B871 = ~z~This is too much!
+
+0x8001A154 = ~z~You're an earth shaker.
+
+0x8063C973 = ~z~They've come out his ears! My turn.
+
+0x8342D222 = ~z~but 'tis no matter.
+
+0x8576B709 = ~z~Thrash?
+
+0x8717A984 = ~z~There, there.
+
+0x8998EB49 = ~z~No, the only way to kill him is to stab him in his villain's heart...
+
+0x9247EF26 = ~z~Acrisius, Proetus.
+
+0x12308B6F = ~z~Hit me.
+
+0x33263EEA = ~z~You can shoot, can't you?
+
+0x34082C28 = ~z~I did not...
+
+0x36736CD8 = ~z~Oh, no, there aren't two, there's me and the lizard man.
+
+0x42644D39 = ~z~
+
+0x44559B07 = ~z~Come along, sir.
+
+0x50273F6B = ~z~I like them both... equally.
+
+0x50776C8C = ~z~Can you help?
+
+0x51354E5B = ~z~Give the feeble fellow a little tap...
+
+0x61519B13 = ~z~
+
+0x63613ACE = ~z~Never better.
+
+0x72812B41 = ~z~Oh, you silly little tape worm of a man.
+
+0x80619BA8 = ~z~Probably not...
+
+0x91103D05 = ~z~but you'll have an easier time.
+
+0x210088C9 = ~z~What do you have in mind?
+
+0x253111AD = ~z~Are you sure you can hit those little bottles?
+
+0x268915E3 = ~z~
+
+0x282045F6 = ~z~Weren't you taught never to hit girls? Punch a man for once, gimme your worst.
+
+0x394438C8 = ~z~and make sure we...
+
+0x411782EB = ~z~Madam, gentlemen.
+
+0x459411F1 = ~z~Do your worst to 'em.
+
+0x505243E8 = ~z~Weren't you taught never to hit girls? There's only one thing for it, then.
+
+0x526665E4 = ~z~Come, sir, please...
+
+0x884152C6 = ~z~Come on!
+
+0x887850EB = ~z~Shoot a bottle off my head.
+
+0x943349B7 = ~z~Giant.
+
+0x1340831C = ~z~I think... I think now is the time.
+
+0x2209207F = ~z~This way.
+
+0x2705132E = ~z~You, err...
+
+0x6195169C = ~z~Excellent. Fine shooting.
+
+0x6859728C = ~z~You're the fool...
+
+0x8882050F = ~z~No, he's still a lizard.
+
+0x11152856 = ~z~I'm ready...
+
+0x31967080 = ~z~Of course. ~rp~Whatever do you mean?
+
+0x34489482 = ~z~Good idea.
+
+0x40923347 = ~z~Perhaps you'll die of your wounds and we'll all be spared the sight of you.
+
+0x44249319 = ~z~Okay, get on your horse.
+
+0x55008219 = ~z~~sl:0.0:4.4~I told you quite clearly that this man, this creature...~sl:0.0:2.9~whom the fates have decided to call my brother,~sl:~is nothing but a spreader of lies and a believer of nonsense.
+
+0x56084502 = ~z~Hard as you can.
+
+0x57007671 = ~z~Whatever got into your heads?
+
+0x64158942 = ~z~and be spared his company.
+
+0x70320064 = ~z~I've spent my whole life horse-whipping the scoundrel, but to no avail.
+
+0x76984994 = ~z~Let's get you back.
+
+0x80672637 = ~z~That's usually the way it works.
+
+0x93894116 = ~z~I slipped...
+
+0x97300673 = ~z~~sl:1.1~No, brother Proetus, you're simply not a gentleman, you're a scoundrel.
+
+0xA08B83FD = ~z~and to prove how suitable I am...
+
+0xA1E10A88 = ~z~Listen...
+
+0xA4DF0B4B = ~z~Oh, you boys are so silly.
+
+0xA4F9BA65 = ~z~I need to get them to bed, okay? Goodbye, mister.
+
+0xA4FAA68E = ~z~Push them, if you're gonna push them.
+
+0xA5C58A65 = ~z~That might have killed a lesser man.
+
+0xA42A102E = ~z~Okay then.
+
+0xA82F76A7 = ~z~Ma'am.
+
+0xA87A2D57 = ~z~Come on.
+
+0xA96C13EE = ~z~I don't wanna hurt you boys.
+
+0xA4021E11 = ~z~That's it. Go to sleep.
+
+0xA6910EA7 = ~z~this creature is unbearable...
+
+0xA17947D1 = ~z~What have you done?
+
+0xA96471AC = ~z~Of course. Whatever do you mean?
+
+0xA297893D = ~z~Mommy's boy.
+
+0xA569782E = ~z~but not me.
+
+0xAA4F80BE = ~z~You can't punch, my sweet...
+
+0xAACA1B45 = ~z~That was fun.
+
+0xAAF595E5 = ~z~This is getting silly.
+
+0xAB101C5A = ~z~And, Brother...
+
+0xAD26FFB6 = ~z~So long.
+
+0xAE0AF6FA = ~z~They won't last a week without me.
+
+0xAE5D830B = ~z~Good luck.
+
+0xAFD3212B = ~z~Please...
+
+0xB072AC79 = ~z~you afterthought of a child.
+
+0xB2ACAC1F = ~z~Okay...
+
+0xB6CFE1AA = ~z~I see you two haven't changed much.
+
+0xB6E908BE = ~z~Boys!
+
+0xB7FD1F4B = ~z~What are you fools doing?
+
+0xB8BC3286 = ~z~I'm the brave one.
+
+0xB8F8F22F = ~z~Plus I do wish they had shaved his palms as well as his face.
+
+0xB9D5079D = ~z~They're bound to kill themselves.
+
+0xB17B6057 = ~z~
+
+0xB21A89A5 = ~z~with positively the least sense.
+
+0xB62FDDF8 = ~z~Me too.
+
+0xB71B87D7 = ~z~Never.
+
+0xB654AE36 = ~z~as long as she witnesses I'm doing this under duress.
+
+0xB5165BC7 = ~z~You can't punch, my sweet... it's sad really...
+
+0xB5392E80 = ~z~Manatee.
+
+0xB5402ED1 = ~z~Be careful not to hit them!
+
+0xB6020BAD = ~z~
+
+0xB213270C = ~z~Well, you are all chatter and no testes, dear Brother.
+
+0xB4129580 = ~z~Arthur could...
+
+0xBA162023 = ~z~John.
+
+0xBA769645 = ~z~You're a lion.
+
+0xBAFDB711 = ~z~I won't even flinch.
+
+0xBB385CA3 = ~z~~sl:0.0:2.8:1~Oh, I've touched a nerve, I see.
+
+0xBBD133DB = ~z~as long as she witnesses that I'm doing this under duress.
+
+0xBBF92411 = ~z~it's sad really.
+
+0xBC6D3E65 = ~z~
+
+0xBCB7B969 = ~z~Very silly, the man is a moron.
+
+0xBCE9EE75 = ~z~Now that's very useful if you need to climb a tree, but a good conversationalist it does not make.
+
+0xBCE53F7B = ~z~we all know you're hardly sentient at all.
+
+0xBE0C4026 = ~z~Coward.
+
+0xBF55F044 = ~z~Now I'll stand on one leg.
+
+0xC0A63A69 = ~z~Good shot, sir. I didn't bat an eye!
+
+0xC0C830E1 = ~z~Try not to kill anybody.
+
+0xC0D227F4 = ~z~That's usually how it works.
+
+0xC0E9737C = ~z~~sl:0.0:1.0:1~Bravo!
+
+0xC2D25DBB = ~z~~sl:0.0:3.4~Our mother had a son, and then was barren, but a witch...~sl:~passing the house gave her a boy and she kept it.
+
+0xC8F1333A = ~z~but you are the noblest man I know.
+
+0xC9DD2DBD = ~z~Yes...
+
+0xC31BC7BC = ~z~I don't know.
+
+0xC56C2478 = ~z~Let's not let anything come between us again.
+
+0xC77DCEF7 = ~z~~sl:1.1~He got it. Of course. Good shot, sir.
+
+0xC97AF928 = ~z~~sl:0.0:1.5:1~I'm not.
+
+0xC5624C51 = ~z~I'll do my best...
+
+0xC7208D8D = ~z~Oh, look there. I got a proper chin, not like that toe rag.
+
+0xC10847C1 = ~z~What was?
+
+0xC3073369 = ~z~easily.
+
+0xCB0D5900 = ~z~I shall throw myself over the waterfall in just a barrel.
+
+0xCCD83B90 = ~z~for me.
+
+0xCCEFDAF5 = ~z~I'm a good shot, but...
+
+0xCDE14132 = ~z~Good luck.
+
+0xCE7CCA54 = ~z~easily.
+
+0xCE575783 = ~z~Over here, sir.
+
+0xCF93E455 = ~z~~sl:1.9:1.0:1~Proetus!
+
+0xCF825EFE = ~z~Shoot one off mine instead.
+
+0xCF6612DA = ~z~No, he's still a lizard.
+
+0xD00FE135 = ~z~I'm not scared.
+
+0xD05FC0C1 = ~z~Let's go try and find 'em.
+
+0xD06686F4 = ~z~It is not like that, mister. Not like that at all.
+
+0xD0D6E5BB = ~z~Gerbil.
+
+0xD1F1957F = ~z~and this time you kill the beast.
+
+0xD5A7718C = ~z~Follow you?
+
+0xD6E30623 = ~z~Don't hold back.
+
+0xD8D3CD03 = ~z~It will all be better in the morning. Sleep it off.
+
+0xD17C0298 = ~z~~sl:0.0:2.4:1~Oh my... our friend.
+
+0xD34AC181 = ~z~I guess I will.
+
+0xD38AFF84 = ~z~
+
+0xD77F850F = ~z~Yes. Rest. Much better.
+
+0xD87BF7BD = ~z~Maybe.
+
+0xD162A211 = ~z~Good... good Lord above... doesn't hurt.
+
+0xD238FEFF = ~z~You can bathe each other. As soon as I treat those wounds. Really, I thought you were better than that.
+
+0xD1826B6B = ~z~~sl:0.0:1.1:1~Good luck to you.
+
+0xD32067CD = ~z~he needs silencing.
+
+0xD260751A = ~z~Let's get you back to your room.
+
+0xD698177A = ~z~His bottom is bright red and he mostly eats bananas.
+
+0xD748425B = ~z~One of them could slip.
+
+0xDA3D565A = ~z~She's right...
+
+0xDD4E549F = ~z~and I hope you killed the leprechaun.
+
+0xDE9AAED1 = ~z~You keep shooting, sir...
+
+0xDE31FF49 = ~z~if it is the last thing I do...
+
+0xDEA56E84 = ~z~Knock my socks off.
+
+0xDF2A6E05 = ~z~Here's the hotel. We're almost there.
+
+0xDFDE80A8 = ~z~We're waiting for you, mister. Fire away.
+
+0xE03E2AC6 = ~z~Be quiet, you hobgoblin.
+
+0xE0B1ABAE = ~z~Thank you.
+
+0xE1A6634E = ~z~Ah, come on.
+
+0xE2BE1DEA = ~z~
+
+0xE3D86D20 = ~z~The smartest men I knew...
+
+0xE4F02642 = ~z~Over here.
+
+0xE4FC64E4 = ~z~Boys!
+
+0xE5FFD950 = ~z~Sir. ~rp~That is a terrible thing to say.
+
+0xE6A811E4 = ~z~I would run too, if I could.
+
+0xE7A4BB0A = ~z~~sl:0.8~Excellent!
+
+0xE62A2BF4 = ~z~Hello.
+
+0xE62BC917 = ~z~
+
+0xE87BC505 = ~z~Never better.
+
+0xE122DBC9 = ~z~But I-I thought that...
+
+0xE712E218 = ~z~I can't look.
+
+0xE3370BF8 = ~z~
+
+0xE25515AD = ~z~Ready... aim... fire... sir?
+
+0xE69611C8 = ~z~for all mankind.
+
+0xE78814D0 = ~z~What was?
+
+0xE761908B = ~z~Don't be shy.
+
+0xE2782478 = ~z~Good luck! Crazy bastards...
+
+0xEA0DE7E6 = ~z~That water's moving quick.
+
+0xEAC6E2DE = ~z~You got a favorite?
+
+0xEBA98977 = ~z~Something's come over me, I'm feeling rather light headed.
+
+0xEC651A4E = ~z~What?
+
+0xECBD9D88 = ~z~Milksop!
+
+0xEEAA0A7A = ~z~Arthur.
+
+0xEFA578EA = ~z~World conqueror.
+
+0xF019B8A1 = ~z~
+
+0xF03079B0 = ~z~
+
+0xF053D5B5 = ~z~There it goes. Nothing to fear at all.
+
+0xF0A58D3D = ~z~Hello.
+
+0xF2E07F44 = ~z~we will have none of it.
+
+0xF4F1ECD0 = ~z~~sl:0.0:1.1:1~Yes!
+
+0xF6CD8086 = ~z~Oh, my...
+
+0xF8AEB442 = ~z~to make a happy and stable life with...
+
+0xF8CE8B3F = ~z~My turn.
+
+0xF36D9AC2 = ~z~Okay, get on your horse.
+
+0xF46C4365 = ~z~Do you hear that wretch, that lascivious monster?
+
+0xF164A7EE = ~z~Never better.
+
+0xF854B545 = ~z~Oh, give me the gun, let me shoot him...
+
+0xF330927B = ~z~Do me and the lady a favor here, would you...
+
+0xF494892A = ~z~Let's go try and find them.
+
+0xFAFE5C02 = ~z~~sl:0.0:4.6~That being said, my dear Miss Helen, like all creatures of the night,~sl:~he is nothing but a terrible coward.
+
+0xFB78B875 = ~z~Please?
+
+0xFBD23E69 = ~z~just make sure everyone knows...
+
+0xFD2F6E6C = ~z~I see you two haven't changed much.
+
+0xFD65418F = ~z~you asked me to do this.
+
+0xFF2BC579 = ~z~~sl:1.2~Hey, hit me again. Right here.
+
+0xFF3A15FB = ~z~
+
+0xFFC9B3AA = ~z~No holding back this time.
+
+0xFFEE2BCE = ~z~Hit me, then, dear boy.
+

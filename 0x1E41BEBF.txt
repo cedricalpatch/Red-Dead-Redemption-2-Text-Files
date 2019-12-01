@@ -1,0 +1,10 @@
+0x4DCD3B0C = ~z~Thank you.
+
+0x339F06B0 = ~z~I'll see what I can do.
+
+0x18464FFF = ~z~I've been sort of busy, Miss Grimshaw.
+
+0x20596025 = ~z~Well, we all need to eat, Mr. Morgan.
+
+0xFAD5151D = ~z~Mr. Morgan, Mr. Morgan... I've noticed you've stopped paying into the box...
+

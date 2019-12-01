@@ -1,0 +1,130 @@
+0x07867723 = Intimidate the ~o~shopkeeper
+
+0x0941A56C = The kid got away.
+
+0x0B87D555 = ~s~Free the ~o~captives~s~
+
+0x0E6FD573 = Escape the ~e~law
+
+0x0F1EFE2E = Shopkeeper
+
+0x1A5D82B4 = You didn't return the crucifix to Sister Calderon.
+
+0x1B1A842A = You didn't help the kid.
+
+0x1B86C6DF = Investigate the ~o~shop~s~
+
+0x2D154258 = Pick up the ~o~crucifix~s~
+
+0x3B85B2A8 = Force open
+
+0x3E9F704D = The monk has died.
+
+0x5CA9CC3F = Sister Calderon has died.
+
+0x5EB1C083 = Open the ~o~fake bookcase
+
+0x6DE40971 = Return to the ~o~market area
+
+0x9AD94911 = Sister Calderon
+
+0x9BCFAB10 = The monk was scared away.
+
+0x16CFFB99 = You attracted the attention of the law.
+
+0x22BD368E = Search for ~o~clues~s~ of the captives' whereabouts
+
+0x33DB5AC5 = You attacked one of the captives.
+
+0x45C7296D = Give to the poor
+
+0x55D4A870 = Pull
+
+0x62A24891 = Question
+
+0x62BA38E6 = A captive has died.
+
+0x67E98261 = Let go
+
+0x71F582FF = Greet
+
+0x235D1463 = Switch
+
+0x246FDBC8 = You attacked Brother Dorkins.
+
+0x293B0C47 = Investigate the ~o~basement
+
+0x497D066C = You attracted the attention of the law.
+
+0x522B3742 = Brother Dorkins has died.
+
+0x1190B037 = Help the ~o~kid~s~
+
+0x7734E1DB = You attacked the monk.
+
+0x34088F8E = Find ~o~clues~s~ to where the kid has gone
+
+0x105593BA = You left the market area.
+
+0x407193CF = You attacked Sister Calderon.
+
+0x814427CD = Kid
+
+0x14286492 = Gentleman
+
+0x29982129 = You attacked the priest.
+
+0x68604485 = Free
+
+0xA4A9325A = Open door
+
+0xA5A26287 = Monk
+
+0xA81C5A61 = Bookcase
+
+0xAEE06647 = Don't donate
+
+0xAFCA1A8C = Donate
+
+0xB3BE7A0E = Basement
+
+0xB4D3BCF3 = Pull: ~INPUT_MOVE_DOWN_ONLY|PromptId=Cld1Pull,Gutter~ Force: ~INPUT_CONTEXT_A|PromptId=Cld1Force,Gutter~
+
+0xB90729AA = Crucifix
+
+0xB9257739 = Ask Politely
+
+0xBC466BCD = Give Cash To Captives
+
+0xC07113CC = The priest has died.
+
+0xD5D40EFE = Captive
+
+0xD4365C13 = Scratches
+
+0xDB8A49FE = You didn't retrieve the crucifix.
+
+0xDE2EC804 = Shop
+
+0xE18CEAF8 = Scratches from bookcase
+
+0xE259D56B = Intimidate the ~e~shopkeeper
+
+0xE524B2BB = One of the captives was hurt.
+
+0xE365730F = Take payment
+
+0xE419962D = Sister Calderon was scared away.
+
+0xECEF7C3C = Find the ~o~kid~s~ and recover the crucifix
+
+0xF5D0D68C = Force
+
+0xF264FB5D = Threaten
+
+0xF8129848 = Return to the ~o~monk
+
+0xFC706D6E = Force open the ~o~hidden door
+
+0xFCA831E4 = Find ~o~Sister Calderon~s~ without alerting the law
+

@@ -1,0 +1,374 @@
+0x0077BE17 = ~z~Nice Mr. Fussar don't want us going nowhere.
+
+0x01493699 = ~z~Micah, Arthur, let's get to work.
+
+0x0161C83A = ~z~Well done, son.
+
+0x018537E9 = ~z~In the tower?
+
+0x031A85F2 = ~z~I'll try!
+
+0x050011C6 = ~z~Captain...
+
+0x05651D96 = ~z~Micah, get in here and hook up the dynamite.
+
+0x06EC4A32 = ~z~Believe me, we'll be long gone by morning.
+
+0x0860D223 = ~z~Put your guns down.
+
+0x09941FD9 = ~z~And nobody knows who you are...
+
+0x09B9720C = ~z~Get up here, Arthur.
+
+0x0E4066CB = ~z~There'll be more coming.
+
+0x0EC8DAD4 = ~z~Arthur, head up the stairs here, I'll cover you.
+
+0x0F11A6B3 = ~z~
+
+0x1A83DECC = ~z~
+
+0x1AEEE9E4 = ~z~En allez. This way.
+
+0x1AF3579E = ~z~back to Haiti.
+
+0x1C4CEC7B = ~z~Okay boys we are live, stand back.
+
+0x1DC91747 = ~z~Make a move, Morgan.
+
+0x1DEDD7B5 = ~z~Let's go!
+
+0x1E58ED96 = ~z~Look out, one coming down the stairs.
+
+0x1F6DC9F4 = ~z~There's two guards. Arthur, come on. Get your knife ready.
+
+0x1F35FFCD = ~z~~sl:0.0:0.7~Sure.~sl:1.4:2.7~Are you men gonna give up and let us leave?~sl:1.5~Or you gonna die?
+
+0x2A418DC1 = ~z~Hurry up, Arthur.
+
+0x2BE7647F = ~z~not even your goddamn father.
+
+0x2C7F74D8 = ~z~Let's move!
+
+0x2C9F995E = ~z~Okay, we're clear. Let's plant the explosives.
+
+0x2D039B68 = ~z~~sl:0.0:0.7~Enough...~sl:1.2:2.5~I've had enough of this. Arthur...~sl:1.2:0.9:1~the rifle?
+
+0x2D67389E = ~z~Put your guns down.
+
+0x3A637D56 = ~z~
+
+0x3B3F2FBC = ~z~Come on, we need to blow these cannons.
+
+0x3D713C43 = ~z~We've killed better men than you fools.
+
+0x3D7182A8 = ~z~thank you, Captain.
+
+0x4A1CA0ED = ~z~I got you now, you bastard.
+
+0x4C3AD9D6 = ~z~~sl:0.0:5.7~I am sure they are, which is why you're going to let us leave,~sl:~or you are dying right here, my friend.
+
+0x4CC64CBE = ~z~However...
+
+0x4DBC1426 = ~z~Let's go!
+
+0x4F5D538C = ~z~Fussar is up there I think.
+
+0x5A80E833 = ~z~he's thorough, nasty and vindictive.
+
+0x5EE6C592 = ~z~Dutch van der Linde.
+
+0x5F9954D9 = ~z~Can we just get this done?
+
+0x6DC8423C = ~t~In Spanish: It's the Americans. I need reinforcements!
+
+0x6EBB6A2A = ~z~but only one of us...
+
+0x6FB4567C = ~z~Alright, you get the captain out of that cabin.
+
+0x6FE6FED8 = ~z~You got it secured properly, cowpoke?
+
+0x7AC439F3 = ~z~Get up here, Arthur.
+
+0x7D57F1C3 = ~z~We'll cover things out here.
+
+0x7D512F77 = ~z~This goddamn idiot.
+
+0x7DB99A7D = ~z~Come on, partner, run!
+
+0x8C46B797 = ~z~Shut up, Micah.
+
+0x8CF14406 = ~z~How are you getting on with those cannons, Micah?
+
+0x8FB9612B = ~z~Keep going!
+
+0x8FEB972E = ~z~Quick, Arthur, go get him.
+
+0x9A2C5362 = ~z~Knowing you, I have my doubts.
+
+0x9BF6EFD3 = ~z~Hurry, Arthur! We don't have a shot on him.
+
+0x9F0872E5 = ~z~Come on!
+
+0x16B571D3 = ~z~Get a move on, Arthur.
+
+0x16CAB55B = ~z~Let's go.
+
+0x24EF7D1D = ~z~and destroy the artillery.
+
+0x27DAD845 = ~z~
+
+0x31FBBFAC = ~z~Go on then.
+
+0x36FB2128 = ~z~in this instance, I don't see we got any alternative...
+
+0x37CAACB0 = ~z~guards all over the place.
+
+0x44F5D7C2 = ~z~The captain's in that blue building, straight ahead.
+
+0x48EBF5BB = ~z~Are you going up, Arthur?
+
+0x52AC732F = ~z~Let's go!
+
+0x53D0DBBB = ~z~Hercule, we follow you.
+
+0x60C782FF = ~z~~sl:0.0:2.7~Eventually, I'm sure we will...~sl:0.6~but not today, and not because of you.
+
+0x70BBB34D = ~z~
+
+0x76ED3BC4 = ~z~Okay, let's deal with these bastards first!
+
+0x82A42124 = ~z~Come on!
+
+0x84C99157 = ~z~Here!
+
+0x89C34B6C = ~z~You need to get that cannon, Arthur!
+
+0x97E23788 = ~z~Damn!
+
+0x137D5B11 = ~z~For once, I agree with you.
+
+0x198B7032 = ~z~They got him trussed up like a hog...
+
+0x250BFEF6 = ~z~Yes, that's him.
+
+0x404D8D4F = ~z~We are all bastards, my friend...
+
+0x439AD183 = ~z~Up here, Arthur, we'll have a better view.
+
+0x458B0426 = ~z~Quick, let's get up around the back of that artillery post.
+
+0x494E31AB = ~z~Shut up, Micah.
+
+0x520CE57A = ~z~~sl:0.0:2.0:1~The US Navy is on the way.
+
+0x577D0D9A = ~z~Arthur, come on. Stick tight.
+
+0x635D65C9 = ~z~Knowing you, I have my doubts.
+
+0x650C7439 = ~z~Nearly there!
+
+0x653AA915 = ~z~Up here, Arthur, quick.
+
+0x733CEE3E = ~z~I am sorry you got hurt.
+
+0x788A2529 = ~z~Alright.
+
+0x856F4C97 = ~z~Let's move!
+
+0x870DC150 = ~z~And he ain't even had you tortured yet.
+
+0x924CD96E = ~z~Let's go.
+
+0x980AE952 = ~z~What are you waiting for? Plant it.
+
+0x3537CE53 = ~z~Up the stairs, Arthur, I've got you covered.
+
+0x5114C134 = ~z~I think so.
+
+0x6389AAF6 = ~z~Quick, Arthur, get up there.
+
+0x7446A380 = ~z~Look, more of Fussar's men coming through the fields.
+
+0x9254D34E = ~z~Take cover, Morgan!
+
+0x24476A46 = ~z~We'll disappear probably...
+
+0x29000F1B = ~z~Got us surrounded with gun positions...
+
+0x39272EA7 = ~z~Good.
+
+0x279618E6 = ~z~Okay, let's get out of here.
+
+0x293985A5 = ~z~but we go and free our friendly captain...
+
+0x500027C5 = ~z~I suppose you men are my cargo.
+
+0x6106881C = ~z~Come on. There's another set of cannons up ahead.
+
+0x13393323 = ~z~We know who you are.
+
+0x13422641 = ~z~Arthur, there's another cannon up ahead on our left. Can you get to that?
+
+0x18753800 = ~z~Another one, shoot him.
+
+0x65488277 = ~z~Use the cannon, Arthur!
+
+0xA03E622E = ~z~We'll be like you.
+
+0xA0D6BA5A = ~z~Come on!
+
+0xA7F52EFE = ~z~Look out above us! One on the roof!
+
+0xA8D90287 = ~z~Head up the stairs, and get the rest of them.
+
+0xA854586C = ~z~You saved my life...
+
+0xAAA1887B = ~z~he's gonna blow holes in us.
+
+0xAC8FD070 = ~z~Gentlemen...
+
+0xAC9A8154 = ~z~The captain's being held in the workers' compound. This way!
+
+0xACBD31AA = ~z~Come on, run!
+
+0xAD1AE704 = ~z~You maggots are going to die.
+
+0xAE571E5A = ~z~Push up!
+
+0xB0018CE4 = ~z~Come on, let's finish these connards!
+
+0xB0757CC6 = ~z~Push forward!
+
+0xB1AF1776 = ~z~Oh, I'll fight Alberto Fussar every day I can.
+
+0xB1CC0549 = ~z~Are you gonna be okay?
+
+0xB2EA5E81 = ~z~Let's keep moving.
+
+0xB4E488D2 = ~z~I think so.
+
+0xB7C3044F = ~z~Damn it! Kill the bastards!
+
+0xB378A790 = ~z~Back to the ship, come on!
+
+0xB705AA6A = ~z~Just about...
+
+0xB956A5E5 = ~z~I like the man's style...
+
+0xB92533F6 = ~z~Come on!
+
+0xBC8056CA = ~z~~sl:0.0:4.9~Sure. Are you men gonna give up and let us leave?~sl:1.4~Or you gonna die?
+
+0xBCC20F29 = ~z~What is taking so long here?
+
+0xBD894CF9 = ~z~He's shooting, we have to take him down!
+
+0xBD208777 = ~z~I didn't see him!
+
+0xC2A2A44E = ~z~You got it secured properly, cowpoke?
+
+0xC4AD4673 = ~z~Boys, we got a real problem.
+
+0xC9E7F199 = ~z~~sl:0.0:0.7~Enough...~sl:1.2:2.5~I've had enough of this. Arthur...~sl:1.2:0.9:1~the rifle?
+
+0xC37B61A0 = ~z~Look out on the left! There's one on the rock!
+
+0xC55CC718 = ~z~We survived.
+
+0xC68A4806 = ~z~Okay, come on, let's pick them off before they get too close!
+
+0xC74A9722 = ~z~
+
+0xC818B22A = ~z~I got him for you, Javier.
+
+0xC8626C4F = ~z~Are you going?
+
+0xCA2BC86F = ~z~Bill, you're gonna guard Javier on the ship here...
+
+0xCADAD761 = ~z~Let's go!
+
+0xCC081B68 = ~z~Die!
+
+0xCCD4A35C = ~z~Yeah, on your mark, Arthur.
+
+0xCEDAAAEB = ~z~What happened to Fussar? He escaped?
+
+0xD4E445A3 = ~z~Let's go, push up on them!
+
+0xD6F36AFF = ~z~I thought I was dead for sure.
+
+0xD8B11183 = ~z~Come on! Push up on them!
+
+0xD26C2984 = ~t~In Spanish: They're attacking us!
+
+0xD31B6295 = ~z~Thank you.
+
+0xD651CE9C = ~z~Captain, can you handle the ship?
+
+0xD96423E6 = ~z~Wait here for a second for the others to catch up.
+
+0xD5680836 = ~z~Guard up in the tower.
+
+0xD5856855 = ~t~In Spanish: Who's there?
+
+0xDBD06C80 = ~z~Here.
+
+0xDC0D59CB = ~z~before I get any more surprise interviews with local officials.
+
+0xDCE36CFE = ~z~This feller is really beginning to try my patience.
+
+0xDD307F34 = ~z~They have sent reinforcements!
+
+0xDE3EBFD5 = ~z~
+
+0xDF92F33D = ~z~Hercule?
+
+0xDF1647DF = ~z~We going in?
+
+0xE07CC451 = ~z~
+
+0xE2EEC20E = ~z~
+
+0xE4F25696 = ~z~is some would be emperor's whore.
+
+0xE48D6B13 = ~z~I'll be fine.
+
+0xE71A6A0F = ~z~Let's keep moving!
+
+0xE622AB54 = ~z~You take out the first guy and I'll get the other one. Okay?
+
+0xEAF3EB8C = ~z~What are you doing, Arthur?
+
+0xEB5363DC = ~z~Damn it!
+
+0xEBFE1C65 = ~z~Come on, Arthur.
+
+0xEC3C9595 = ~z~And what about the captain of the ship here?
+
+0xEC897553 = ~z~
+
+0xEDEBFD88 = ~z~Come on, we'll get going with the tide...
+
+0xEE5E7C0B = ~z~Arthur, get back from there!
+
+0xEEB91A9A = ~z~He knows just who we are...
+
+0xF0779426 = ~z~so when we try to sail out...
+
+0xF3A5DEA5 = ~z~Arthur? Will you grab that captain, so we can get outta here?
+
+0xF8A700F8 = ~z~Keep going, just get to that boat!
+
+0xF3521B83 = ~z~Yes.
+
+0xFABBF8CF = ~z~
+
+0xFBE2C214 = ~z~I'll get the dynamite rigged on these cannons.
+
+0xFBFDC246 = ~z~We'll hold them off.
+
+0xFCDFF119 = ~z~What are you waiting for? He's in the blue building.
+
+0xFE06B929 = ~z~if he can keep us here for a few more days, well...
+

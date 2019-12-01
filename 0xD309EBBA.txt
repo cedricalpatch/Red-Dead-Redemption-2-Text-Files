@@ -1,0 +1,426 @@
+0x00BA5583 = ~z~Uh, okay Pa.
+
+0x00EF0385 = ~z~Spit it out.
+
+0x03E17BD9 = ~z~
+
+0x0431AAC8 = ~z~At fishing? Or walking?
+
+0x05F5CB7C = ~z~It's a long way.
+
+0x08B59F6E = ~z~Yes.
+
+0x0AD20C92 = ~z~Hey, my trip with Arthur, I remember now. I picked some flowers, and...
+
+0x0B50AB88 = ~z~Let's keep going.
+
+0x0C362BC3 = ~z~I'm sorry.
+
+0x0E3E4A2D = ~z~Abigail, can I get a hand?
+
+0x0E5CF5BC = ~z~I remember Uncle Arthur taking me, though.
+
+0x1DE64F73 = ~z~That dog of yours know...
+
+0x1FF8EDA2 = ~z~W-what's going on?
+
+0x2C1A6BDB = ~z~Big old steelheads...
+
+0x2C9A5022 = ~z~a couple of men showed up... dressed like they was from the city.
+
+0x2FD0A64B = ~z~Uh...
+
+0x3C044DC5 = ~z~Good. Now... reel him in.
+
+0x3E7F43A8 = ~z~fine, sir.
+
+0x3E77A995 = ~z~sometimes, you just don't know how things are gonna turn out...
+
+0x3F9DD4F4 = ~z~Now reel.
+
+0x3FF35A89 = ~z~Calm down, boy. ~n~~m~No!
+
+0x4AC7EB48 = ~z~Stay calm. Give him a tug.
+
+0x4B320555 = ~z~Rufus! Rufus! Rufus!
+
+0x4BFBC4A5 = ~z~let's look after him... and the boy. Grab his rug.
+
+0x4BFFA621 = ~z~~sl:0.0:2.0~It's fine being out with you even though I...~sl:0.6~can't say the right thing.
+
+0x4D08CBC2 = ~z~but the dog...
+
+0x4D9C0181 = ~z~It's fine. I just need to... suck the venom out.
+
+0x4E6BB029 = ~z~No you ain't...
+
+0x4F30F904 = ~z~And, Jack...
+
+0x5C6446EA = ~z~I guess.
+
+0x5E666E7D = ~z~but...
+
+0x5F0ADF66 = ~z~No, I'd like the fish.
+
+0x6A1ABD6A = ~z~Is he gonna be okay? Is he gonna be okay?
+
+0x6A12E247 = ~z~The grass and the light...
+
+0x6CACC28E = ~z~He's gonna be just fine, Jack.
+
+0x6D8235A6 = ~z~I see.
+
+0x6F59800B = ~z~Okay.
+
+0x6FBEF0A6 = ~z~Whatever you do, do it better than me and your ma.
+
+0x7A72CF87 = ~z~Rufus, no!
+
+0x7E7F6633 = ~z~You need to calm down.
+
+0x7FF98BB4 = ~z~You do like eating though, right?
+
+0x8AAD0014 = ~z~then hours later, they've caught nothing.
+
+0x8B6BC893 = ~z~Grab his rug.
+
+0x8B643141 = ~z~~sl:0.0:1.1~Is he gonna be okay?~sl:0.2~Is he gonna be okay?
+
+0x8C10C4C6 = ~z~but the dog...
+
+0x8CB32E47 = ~z~Why you gotta be like that?
+
+0x8EC20CD0 = ~z~You'll see it better when you get older.
+
+0x8F0B73D6 = ~z~I got a bite... I got a bite!
+
+0x9B88A1CB = ~z~Folk always say that...
+
+0x9B98FDDA = ~z~Not particularly.
+
+0x9FB057C9 = ~z~
+
+0x10F18B19 = ~z~Dog got bitten by a snake.
+
+0x12A1A6EA = ~z~Dad. Rufus. No.
+
+0x13B21B7E = ~z~Rufus...
+
+0x14A883F4 = ~z~you calm down too.
+
+0x15F6CD3F = ~z~Unless you want nothing but beans again?
+
+0x16E03BC3 = ~z~~sl:0.0:1.6~There's a lot of ugly in this world,~sl:~but there sure as hell is a lot of beauty.
+
+0x21AF2C94 = ~z~Let's look after him...
+
+0x23AAD594 = ~z~And you, Pop.
+
+0x24D2CE5C = ~z~Folk always say that, then hours later, they've caught nothing.
+
+0x24F3BE01 = ~z~
+
+0x27B1ECB1 = ~z~Suck it, Dad.
+
+0x29ACE483 = ~z~We had it...
+
+0x29B675D1 = ~z~But fishing'll be fun.
+
+0x29EAAE78 = ~z~Come here.
+
+0x31FA11A8 = ~z~Go get the fishing rods and the fish.
+
+0x41A99835 = ~z~~sl:0.0:0.7~Like me?~sl:0.5:1.0~No.~sl:0.5~But...
+
+0x41C23032 = ~z~Is he gonna be okay?
+
+0x42D9B764 = ~z~The dog's gonna be fine.
+
+0x43DCA506 = ~z~Get the poison out.
+
+0x44E6B785 = ~z~He's gonna die...
+
+0x47F1A385 = ~z~he's owned by a complaining, know it all?
+
+0x52E15268 = ~z~We never shoulda gone fishing!
+
+0x72F3F714 = ~z~Are you laughing at me?
+
+0x73DF7CA0 = ~z~~sl:1.0~Do you wish I was more like you?
+
+0x76BD1A1F = ~z~It's okay son.
+
+0x76CD61B3 = ~z~
+
+0x76EA347D = ~z~playing with the dog.
+
+0x79A80806 = ~z~What do you think? How do you feel?
+
+0x81A7B50B = ~z~We never should a gone fishing!
+
+0x81AD591A = ~z~Alright. Now stay calm and start reeling him in.
+
+0x84D6D056 = ~z~Wanna go fishing or something?
+
+0x84D31AD6 = ~z~That's a good idea.
+
+0x91ED17F6 = ~z~Come on.
+
+0x96A5BE7B = ~z~Then, become a lawyer and help people.
+
+0x96F33C07 = ~z~~sl:0.0:2.1~Sure. I-I mean...~sl:0.9~yes, I'd like that.
+
+0x99AEB208 = ~z~Uh, fine sir.
+
+0x100DABE2 = ~z~Come on...
+
+0x103DB422 = ~z~real good eating.
+
+0x122C8D8B = ~z~and the boy.
+
+0x234CF84B = ~z~Jack, the dog is gonna be just fine.
+
+0x339E18ED = ~z~It's okay son.
+
+0x385D845D = ~z~Hard to catch...
+
+0x437BB4AB = ~z~I'm taking the dog home.
+
+0x467C82D9 = ~z~Where is he though?
+
+0x519E381E = ~z~~sl:0.8~I'm sorry.
+
+0x646F339D = ~z~ain't it so?
+
+0x647B5C98 = ~z~get your excuses in early.
+
+0x815C76D1 = ~z~
+
+0x880A566D = ~z~How you getting on, Son?
+
+0x883C6B1A = ~z~It's a snake.
+
+0x883CBD1E = ~z~Sometimes...
+
+0x977FC02F = ~z~What you gonna be when you're older?
+
+0x1232C1B3 = ~z~Is it all out?
+
+0x1703D06C = ~z~Sure.
+
+0x3026CB19 = ~z~Well maybe...
+
+0x3087E5C6 = ~z~This is a real good fishing spot.
+
+0x4254DDB7 = ~z~Uncle Hosea, he was the fisherman, wasn't he?
+
+0x4395E039 = ~z~That's right.
+
+0x4950B3F2 = ~z~And... it'll be pretty fun. I promise.
+
+0x5129BABD = ~z~
+
+0x5686DAC5 = ~z~He's gonna die! He's gonna die!
+
+0x6108AF43 = ~z~Let me come help you look.
+
+0x6489F5B9 = ~z~but...
+
+0x7432C6F6 = ~z~What are we going to do? What are we going to do, Pa?
+
+0x7648DE4A = ~z~Dog's fine, boy... but I'll go look.
+
+0x32903ADD = ~z~Not too fast, want to set the hook in tight.
+
+0x37419C3B = ~z~We just gotta get him somewhere warm and calm.
+
+0x37951BD8 = ~z~Jack, the dog is gonna be just fine.
+
+0x54456F34 = ~z~What're you doing?
+
+0x68537E5E = ~z~He'll be okay.
+
+0x70997E7F = ~z~Keep going.
+
+0x586119F7 = ~z~W-what's going on?
+
+0x614653B9 = ~z~That's not a lawyer, that's a...
+
+0x615153CB = ~z~No. Never. Just...
+
+0x799468F0 = ~z~Rufus, here boy!
+
+0x1210782F = ~z~Hey, Jack. How about tomorrow we do something?
+
+0x2949993D = ~z~I don't really like fishing.
+
+0x4531601F = ~z~He's... he's strong.
+
+0x5915470C = ~z~Can Rufus come fishing?
+
+0x9910216C = ~z~~sl:0.0:1.0~It's tough at your age.~sl:0.2~Just...
+
+0x20515589 = ~z~Dogs scare the fish...
+
+0x31657109 = ~z~~sl:0.0:0.6~We should...~sl:1.6~let's do more of this.
+
+0x31987687 = ~z~Come on, son...
+
+0x39206132 = ~z~Rufus! Rufus!
+
+0x90309640 = ~z~Rufus, come on boy!
+
+0xA06CD5BA = ~z~It's okay.
+
+0xA4B846AA = ~z~I'm worried, Pa. Will you go?
+
+0xA5A0D962 = ~z~Pretty countryside, ain't it?
+
+0xA28A1E18 = ~z~Arthur taught you to fish now, did he?
+
+0xAA096542 = ~z~I wanna travel... see the world.
+
+0xAA8DC467 = ~z~~sl:0.0:5.0~land and light. But to me it's... it's...~sl:0.5~it's life.
+
+0xAA37C88B = ~z~Quick, Pa.
+
+0xAE983140 = ~z~See you bright and early, then.
+
+0xAEFA72D5 = ~z~~sl:0.0:0.8~Okay...~sl:0.3~sir.
+
+0xAEFB1140 = ~z~Okay.
+
+0xB1F57C53 = ~z~
+
+0xB3BE5D5B = ~z~I don't know.
+
+0xB3D050D8 = ~z~Abigail...
+
+0xB3EF025E = ~z~He's gonna be just fine, Jack.
+
+0xB6FC5AA5 = ~z~Jack!
+
+0xB9CCA041 = ~z~The dog's gonna be fine.
+
+0xBA47DF49 = ~z~Well...
+
+0xBAC95033 = ~z~He bit him.
+
+0xBC1D1AA0 = ~z~~sl:0.0:1.0~So...~sl:0.7~you don't care if we don't catch fish?
+
+0xBC256C66 = ~z~Do it.
+
+0xBCFBE4B1 = ~z~Ain't you just the leading authority on everything?
+
+0xC01AFE67 = ~z~Rufus!
+
+0xC2E69A86 = ~z~Thanks, dad.
+
+0xC2EAFBB4 = ~z~I'mma go find him.
+
+0xC8BDFE28 = ~z~Now, where's he got to?
+
+0xC25F0976 = ~z~Well...
+
+0xC35AED05 = ~z~We got him in real good time.
+
+0xC59EFA89 = ~z~~sl:0.0:0.5~I...~sl:1.4~can't explain it.
+
+0xC636F5A5 = ~z~can I get a hand?
+
+0xC31684D7 = ~z~How you getting on, son?
+
+0xCA20A691 = ~z~it's alright...
+
+0xCA868ACF = ~z~Relax, he's a dog.
+
+0xCD689902 = ~z~Snake!
+
+0xCDFCBE5F = ~z~but... if you'd like him to, I guess.
+
+0xD03AD029 = ~z~He stopped breathing!
+
+0xD0F2112F = ~z~Okay.
+
+0xD3A8AC09 = ~z~Ain't you just the leading authority on everything?
+
+0xD4C03E39 = ~z~I don't...  I feel... I don't know.
+
+0xD5EECE43 = ~z~~sl:0.0:0.9~Yeah, I...~sl:1.8~I'm not very good at this.
+
+0xD9D0BF69 = ~z~let's head this way to the stream.
+
+0xD27C2231 = ~z~Pa, go search over there, won't you?
+
+0xD38ADA5F = ~z~however we had it, we didn't make the most of it until now.
+
+0xD70D42D3 = ~z~You did.
+
+0xD83B6235 = ~z~sometimes, you just don't know how things are gonna turn out...
+
+0xD9121CED = ~z~I hear there's some real big fish in here.
+
+0xD42767E0 = ~z~I guess I didn't expect it to be so far.
+
+0xD8500775 = ~z~Can you go search the other side of the track?
+
+0xDBDBCA07 = ~z~come on, let's fish.
+
+0xDD635546 = ~z~W-what's going on?
+
+0xDDC2264D = ~z~in this case, it's true.
+
+0xDEDE3BED = ~z~Dad! Please come here!
+
+0xE2FC0CA3 = ~z~Reading, and uh...
+
+0xE4AC7CA2 = ~z~Okay.
+
+0xE5CE5F44 = ~z~hard to catch but...
+
+0xE7D20156 = ~z~Sometimes...
+
+0xE51C9FF3 = ~z~
+
+0xE99B2A0B = ~z~This ain't like him, Pa.
+
+0xE853E560 = ~z~I told you this was a good fishing spot.
+
+0xE5834CAE = ~z~Don't swallow it.
+
+0xEC19CDF5 = ~z~Where's Rufus?
+
+0xEC245679 = ~z~Come on!
+
+0xECE28776 = ~z~Dog got bitten by a snake...
+
+0xED31B366 = ~z~Yeah, I suppose he did.
+
+0xEE73B2A1 = ~z~I got him!
+
+0xF0BB506D = ~z~Rufus!
+
+0xF6EB0B24 = ~z~Are you sucking?
+
+0xF73D2E0B = ~z~This spot close?
+
+0xF1034CBF = ~z~This is a real good fishing spot.
+
+0xF7306C91 = ~z~Dad? Please, come help!
+
+0xF8624B6C = ~z~Rufus!
+
+0xF3780955 = ~z~~sl:0.0:1.1~At talking.~sl:0.3~With you.
+
+0xFA04A5BB = ~z~We never should a gone fishing!
+
+0xFB5C1137 = ~z~~sl:0.0:0.7~Abigail,~sl:0.5~can I get a hand?
+
+0xFC346E2A = ~z~I don't know...
+
+0xFD52866C = ~z~Cause we gotta find some food.
+
+0xFDDC729F = ~z~No one like that's gonna show up here, thank the Lord.
+
+0xFF7857F3 = ~z~That's nice...
+

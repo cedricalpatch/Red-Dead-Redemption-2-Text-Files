@@ -1,0 +1,204 @@
+0x0489C660 = ~z~Believe, ladies and gentlemen...
+
+0x05370986 = ~z~You're pulling my leg. This is a bunch of dang balderdash.
+
+0x0702D3BD = ~z~I assure you, I am not participating in some hoax or carnival ruse.
+
+0x08AD1451 = ~z~
+
+0x0D7B97CF = ~z~I joke... I joke...
+
+0x0FF9E7EB = ~z~I will catch the bullet...
+
+0x1B5A338C = ~z~including the tonic salesman I caught bedding my wife.
+
+0x1C743BDF = ~z~Oh my God!
+
+0x2BDC1FAF = ~z~if my sharpshooting assistant would be so kind as to shoot this bottle of Lally cola off my head.
+
+0x2F5C9C05 = ~z~
+
+0x3A4ABC8C = ~z~Off my head... careful...
+
+0x3C21751A = ~z~I assure you, he has met his maker and they are playing gin rummy among the molten lava of Hades.
+
+0x3D16B381 = ~z~I knew he was a carnival man.
+
+0x3DA6D799 = ~z~Them ain't real bullets!
+
+0x3FE3FEDF = ~z~
+
+0x4C09555E = ~z~Okay, okay. If nobody else is going to expose this phony, then I will!
+
+0x4CA3E13E = ~z~I could do without a bullet in the brain right now...
+
+0x4DB09A78 = ~z~
+
+0x4F841E27 = ~z~Okay...
+
+0x4FAFAE78 = ~z~Looks like you caught that one in the gut!
+
+0x5B35823E = ~z~Alright then.
+
+0x5BFEB714 = ~z~Yes! Yes, yes. Thank you, thank you!
+
+0x5DDCBAD8 = ~z~Ha! That bit always scares me...
+
+0x5E3DDAE4 = ~z~Okay, okay. If nobody else is going to expose this phony, then I will!
+
+0x6A1C534F = ~z~Let's do that again...
+
+0x6AFF9D89 = ~z~and stand at considerable distance across the stage. She...
+
+0x6C2ED77C = ~z~Now, observe as I, the great Benjamin Lazarus, will do what no man has ever done
+
+0x6D581108 = ~z~Now, ladies and gentlemen I will prove to you I am the greatest entertainer to ever live,
+
+0x6E057A73 = ~z~
+
+0x7A4473A7 = ~z~and cheat death! As if it were nothing.
+
+0x7CFB7ABE = ~z~What the hell? That was a real bullet!
+
+0x7FBF8D4F = ~z~I knew he was a carnival man.
+
+0x8A86337C = ~z~Excellent my good man.
+
+0x8AFB05FC = ~z~Is no one man enough?
+
+0x8F8C06D0 = ~z~Shoot his head off!
+
+0x9CBCD7E9 = ~z~Now ready, take aim... and fire!
+
+0x9DFA837E = ~z~In my teeth. Yes... my teeth.
+
+0x9E0AB6B6 = ~z~Them teeth must be made of rocks.
+
+0x16EBCC41 = ~z~I trust you are a good shot, sir?
+
+0x18BC7730 = ~z~Ah, a skeptic. I am Benjamin Lazarus.
+
+0x24C2FA00 = ~z~my dear ladies and gentlemen.
+
+0x30AF177C = ~z~Come on! Someone stand up and take a shot.
+
+0x30DE5E94 = ~z~I have traveled all around the world, delighting young and old
+
+0x39CB2414 = ~z~Who here has not had a friend or loved one near death's door
+
+0x45D06A74 = ~z~Catch a musket ball.
+
+0x51C4A683 = ~z~~sl:0.0:1.4:1~Sod off, all of you!
+
+0x54D5A44D = ~z~He's lightning quick!
+
+0x61C7740C = ~z~or the bite of a rabid animal?
+
+0x67C1CC5A = ~z~Many fools have tried and failed in this endeavor,
+
+0x75E768A5 = ~z~A man cannot outrun a bullet.
+
+0x99A27B3A = ~z~To prove that these are indeed live rounds,
+
+0x164AE5E0 = ~z~Let's not keep the audience waiting.
+
+0x211CC534 = ~z~~sl:0.3~That hurts... you absolute pillock!
+
+0x581F0F11 = ~z~Have her catch one!
+
+0x808EB775 = ~z~Fantastic!
+
+0x2149E0FD = ~z~I can shoot a fly's wings off at a hundred paces.
+
+0x4811C0A1 = ~z~from all manner of maladies in daily life.
+
+0x5053FCF3 = ~z~Ain't nobody can stop a bullet!
+
+0x5271A1BA = ~z~and yet it is the most delicate and tenuous of all life's gifts.
+
+0x8569CD4F = ~z~death is just an illusion, after all.
+
+0x9718DEAE = ~z~The greatest wealth is your health,
+
+0x17915F9D = ~z~Now, it's unfortunate fact that in this mortal coil, we are all born to suffer
+
+0x41573FFA = ~z~Take aim... and fire!
+
+0x80431EF6 = ~z~I'll be damned!
+
+0x86573D2B = ~z~all the gold in the world cannot purchase it
+
+0x502846F8 = ~z~That don't make a lick of sense.
+
+0x13036353 = ~z~I'll be damned!
+
+0x44450561 = ~z~And nothing knocks down death's door faster than this...
+
+0x56148874 = ~z~He's got them bullets under his tongue.
+
+0x70061089 = ~z~from coal gas fumes, typhoid fever, diptheria
+
+0xA1E60971 = ~z~These bullets are one hundred percent real.
+
+0xA396C1CE = ~z~Them is some fast chompers!
+
+0xA577CDE8 = ~z~
+
+0xA794057F = ~z~and fire!
+
+0xACF97EC0 = ~z~Looks like you ain't so magic, huh?
+
+0xAD6002AD = ~z~I'll be damned. How did he do that?
+
+0xAD86717A = ~z~Hurry up!
+
+0xAE3F897A = ~z~What are you waiting for?
+
+0xAEB41FE3 = ~z~Believe, ladies and gentlemen...
+
+0xAF99DC0D = ~z~with all manner of feats of amazement.
+
+0xAF293068 = ~z~Alright then, magic man.
+
+0xB39FCEF7 = ~z~You're a phony, mister!
+
+0xB423ADEC = ~z~In fact, I challenge any member of the audience to come forward with their own firearm
+
+0xBA4236FF = ~z~I'll be damned!
+
+0xBA50930C = ~z~Believe, ladies and gentlemen...
+
+0xC3C3AD59 = ~z~That don't make a lick of sense.
+
+0xCC425E29 = ~z~and I will yet again display my uncanny skill to catch a bullet... in my teeth.
+
+0xCC933791 = ~z~death is just an illusion, after all.
+
+0xD0F65843 = ~z~Now... ready... take aim...
+
+0xD55A723D = ~z~I will hand this D.D. Packenbush revolver over to my assistant
+
+0xD242215D = ~z~But none are as dangerous as what I am prepared to attempt tonight.
+
+0xDC44FB04 = ~z~
+
+0xE423FE9E = ~z~and the only man who laughs at death.
+
+0xE8852FE7 = ~z~He's got some fast teeth!
+
+0xEB7D1EF2 = ~z~will point the revolver at my head, and pull the trigger.
+
+0xEE235F3E = ~z~I don't have teeth there, I'm not a venus fly trap!
+
+0xEFFF62F6 = ~z~~sl:0.2~You were supposed to shoot near my head... you bloody idiot.
+
+0xF67C6C11 = ~z~
+
+0xF94ADA4C = ~z~That gun is full of blanks!
+
+0xF723AB94 = ~z~death is just an illusion, after all.
+
+0xF3059686 = ~z~Welcome, welcome! Welcome to my incredible display of dark arts and mystical prowess,
+
+0xFDCC4390 = ~z~Using lighting quick reflexes taught to me by a tiny man I met in the distant orient,
+

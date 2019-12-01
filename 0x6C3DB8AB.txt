@@ -1,0 +1,16 @@
+0x0074EB46 = ~z~~sl:0.0:1.9~All in good time, my friend.~sl:0.4~All in good time.
+
+0x2D525675 = ~z~Ah, Mr. Morgan.
+
+0x6B5783BA = ~z~Meaning?
+
+0x7D9DA846 = ~z~~sl:0.0:2.1~We've been thinking about our problem all wrong...~sl:0.2:1.1~all wrong!~sl:0.4~That's all.
+
+0x41DA7F85 = ~z~And?
+
+0x139A2305 = ~z~Well, where there's life, there's hope, my friend.
+
+0xD2320EC1 = ~z~Always the showman.
+
+0xDB8E32EE = ~z~You seem chipper.
+

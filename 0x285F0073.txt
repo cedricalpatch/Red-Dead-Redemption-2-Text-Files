@@ -1,0 +1,20 @@
+0x06620A2A = ~z~Alright.
+
+0x4A2373F9 = ~z~I'm trying to look out for the boy.
+
+0x6FD03F52 = ~z~Just making sure we got a plan.
+
+0x7CC2D937 = ~z~You ain't leaving right now, are you?
+
+0x70CF082F = ~z~I'm working on it. Let's keep talking, okay?
+
+0x593D122C = ~z~You never know how these things are gonna turn out.
+
+0x87828C6D = ~z~I don't like the sound of this.
+
+0xB548E7F9 = ~z~~sl:0.9:0.0~All I'm saying, something happens, we get split up, we meet there.
+
+0xE2FE6C94 = ~z~And you?
+
+0xEC98D698 = ~z~Owanjila Dam. Alright?
+

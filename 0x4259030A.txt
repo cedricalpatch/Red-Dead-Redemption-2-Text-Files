@@ -1,0 +1,86 @@
+0x06CFFFCB = Follow ~o~Charles~s~
+
+0x07D0704B = You attacked the horses.
+
+0x1DB1EF44 = You became wanted.
+
+0x2E5D06E7 = Mr. Devon was abandoned.
+
+0x5B909F83 = Return to ~o~Charles~s~
+
+0x6AD4BC6B = Follow ~o~Charles~s~ to Manzanita Post
+
+0x8F668B6E = Pick up ~o~Charles~s~
+
+0x9ACA2B77 = Mr. Devon
+
+0x9E261FF5 = Acquire some tools from ~o~Nils~s~
+
+0x19DEF739 = Tools
+
+0x22A6351B = Wait for ~o~Charles~s~
+
+0x29DBA85F = Mr. Devon has died.
+
+0x30AC430F = Defeat the ~e~Skinner Brothers Gang~s~
+
+0x31B46AE2 = Nils
+
+0x36A75D1D = Get on the ~o~wagon~s~
+
+0x59E52394 = Return to the ~o~wagons~s~
+
+0x85E7A4AC = You damaged the Tools.
+
+0x99A5155C = Charles was abandoned.
+
+0x108A4390 = You damaged the lumber.
+
+0x358ED010 = Follow ~o~Charles~s~ to Beecher's Hope
+
+0x444C99AE = The lumber was abandoned.
+
+0x488A80DF = Place the tools onto the ~o~wagon~s~
+
+0x665C2BC2 = Defeat the ~e~Skinner Brothers~s~
+
+0x819C6A05 = Pick Up
+
+0x38328F6E = Drop Off
+
+0xA4CF64EE = Wagon
+
+0xB1BDD01C = Go to ~o~Beecher's Hope~s~
+
+0xB1C655B5 = Find ~o~Mr. Wayne~s~
+
+0xB6CF5301 = The Thieves escaped.
+
+0xBF36F096 = Pick up the ~o~tools~s~
+
+0xC040B4EA = The wagon became immobile.
+
+0xC7C95AF5 = Charles
+
+0xC8F4586C = You attacked Mr. Devon.
+
+0xC2373361 = The wagon became immobile.
+
+0xD2AD116D = Mr. Wayne
+
+0xD5391C9E = Defeat the ~e~Skinner Brothers~s~
+
+0xDF75A193 = Pursue the ~e~kidnappers~s~ into the ~o~woods~s~
+
+0xE2D42958 = Follow ~o~Charles~s~ to Manzanita Post
+
+0xE322B871 = Deal with the ~e~thieves~s~
+
+0xE11583F4 = Mr. Wayne has died.
+
+0xEBD64532 = You spooked Nils.
+
+0xEF205BE4 = Nils has died.
+
+0xF4BCEBF7 = You attacked Mr. Wayne.
+

@@ -1,0 +1,122 @@
+0x05288B66 = Mrs. Geddes was abandoned.
+
+0x0707E5BB = Walk with Jack to the ~o~horses~s~
+
+0x1AB57C25 = Hold ~INPUT_INTERACT_LOCKON~ then press ~INPUT_INTERACT_LOCKON_ANIMAL~ when near Jeremiah to calm him.
+
+0x2A926F44 = Return to ~o~Duncan~s~
+
+0x2C9209B3 = Don't let Jack go too fast, he may get bucked off the horse.
+
+0x3F7D0101 = Lead the ~o~horse~s~
+
+0x4C730F91 = Help ~o~Duncan~s~
+
+0x6A90C0DB = Help Jack mount his ~f~horse~s~
+
+0x6B9EE130 = Jeremiah
+
+0x6DE2ECF5 = Return to ~o~Mrs. Geddes~s~
+
+0x6F96FE62 = Stop Leading
+
+0x7DF9ABD9 = Slower
+
+0x7EB96DE0 = Calm
+
+0x7EEE56AF = Jeremiah
+
+0x8B261CF8 = Get back on ~o~Jeremiah~s~
+
+0x8D6ACC36 = Tire out ~o~Jeremiah~s~
+
+0x11C8D421 = Hold ~INPUT_INTERACT_LOCKON~ when near Jack to focus on him and control his speed.
+
+0x29B58AA4 = Pronghorn
+
+0x35D6316D = Jeremiah was abandoned.
+
+0x45F67522 = Return to ~o~Jeremiah~s~
+
+0x46CEEE96 = Mrs. Geddes
+
+0x51AC777B = Duncan was abandoned.
+
+0x93E64150 = You killed Abe.
+
+0x364B5BFF = Follow ~o~Abe~s~
+
+0x466BB1BA = Go to ~o~Duncan~s~ and let him ride Jeremiah
+
+0x520B4F21 = Abigail
+
+0x911C9881 = Go to the ~o~house~s~ to speak with Abigail
+
+0x7144DE1D = Jeremiah has died.
+
+0x8023FB37 = Duncan
+
+0x9468DEE7 = Walk the horse to the ~o~corral~s~
+
+0x205443BC = Abe was abandoned.
+
+0x462124B0 = Tease
+
+0x481838DF = Ranch
+
+0x840398D8 = Slowly rotate ~INPUTGROUP_MOVE|PromptId=MR53_UC_BRFL,PromptStyle=4~ to find the legs.
+
+0x80487770 = Walk ~f~Jack~s~ home
+
+0x86873731 = Return to ~o~Abe~s~
+
+0x91435063 = Ride with ~o~Jack~s~
+
+0xA2CF8D3B = Duncan has died.
+
+0xA60A5AEA = Return to ~o~Pronghorn~s~
+
+0xA85BA786 = You killed a rancher.
+
+0xB1AA7FA6 = You aggravated Duncan.
+
+0xBABE10A7 = Help ~o~Mrs. Geddes~s~
+
+0xBCA546A7 = Faster
+
+0xC04EB2FF = Find legs
+
+0xC2E77FA4 = Take ~o~Jeremiah~s~ for a ride
+
+0xC17EFE1F = Watch ~o~Duncan~s~
+
+0xCF255EA9 = Pull
+
+0xCFFCC123 = You killed Mrs. Geddes.
+
+0xD8CA717C = Calm Duncan's ~o~horse~s~
+
+0xD56A1694 = Mount your ~o~horse~s~
+
+0xD980815A = Tire out Jeremiah
+
+0xDA711721 = Help Jack
+
+0xDECE510D = Race Jack back to the ~o~ranch~s~
+
+0xDFFE5BBA = Stop leading ~o~Duncan~s~
+
+0xE2A685AB = Grip
+
+0xE7B4FFE8 = Jack
+
+0xE337C4B7 = Jack
+
+0xEA44FCA7 = Abe
+
+0xF4D18820 = Lead ~f~Duncan~s~ around the ~o~corral~s~
+
+0xFBF8BEA4 = Deplete Jeremiah's stamina to calm him enough for Duncan to ride.
+
+0xFD56C381 = You left Pronghorn.
+

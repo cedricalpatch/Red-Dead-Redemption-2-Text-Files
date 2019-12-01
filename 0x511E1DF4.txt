@@ -1,0 +1,38 @@
+0x1A718E9C = ~z~What of it?
+
+0x4C39A8E0 = ~z~Sure...
+
+0x4ECF2248 = ~z~I ain't answering to any man, least of all a man like that.
+
+0x43B68B8C = ~z~If I need a reminder why I live the way I do, that was it.
+
+0x48E89FEB = ~z~Got all we need right here, don't we? Free as a bird. Say, you know Emerald Ranch?
+
+0x68E52869 = ~z~Well, work won't do itself, I guess.
+
+0x73B79FA1 = ~z~Don't know what's true or not, only that nobody there seemed very happy.
+
+0x77DC9F74 = ~z~Yeah, you know the kind I mean.
+
+0x84CF8FEF = ~z~What, you a friend of his or something?
+
+0x87FB55B9 = ~z~Okay, if you ain't interested, I'll be happy save my breath.
+
+0x88EC1685 = ~z~Strangest thing was I'd see this girl in the house sometimes, but she never came outside.
+
+0x294AADE8 = ~z~Sure...
+
+0x700DE43A = ~z~The boss there's the worst kind of bastard. Treats everyone worse than the dirt they work on.
+
+0x50235AEB = ~z~What of it?
+
+0x55612EE1 = ~z~I picked up some labor there for a couple weeks.
+
+0xBC04B03A = ~z~~sl:0.0:3.3~Rumor was he'd killed a feller there who fell in love with her.~sl:0.2~Kept her locked up for now.
+
+0xE0F9FA24 = ~z~No, this is the life for me.
+
+0xE335CB17 = ~z~One of the workers told me the rancher was kind of obsessed with his daughter.
+
+0xEE6B60F3 = ~z~Don't care so long as he's getting richer.
+

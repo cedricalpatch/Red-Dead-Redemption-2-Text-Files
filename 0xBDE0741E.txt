@@ -1,0 +1,42 @@
+0x0EBB5C11 = ~z~~sl:0.0:0.9~You know,~sl:0.2~in my room.
+
+0x1DE0FA5C = ~z~we all stayed together.
+
+0x6ABE1415 = ~z~I'm just happy to have the boy back safe.
+
+0x53DB91FB = ~z~I thought you'd have known that by now.
+
+0x233F0518 = ~z~~sl:0.0:1.9~maybe it would be a little easier for me~sl:~to keep an eye on him if
+
+0x325DA355 = ~z~~sl:0.0:1.1~So...~sl:1.0~I was thinking...
+
+0x639FEC45 = ~z~Take this feller for one.
+
+0x902ADEEE = ~z~
+
+0x1076C688 = ~z~A man don't just change like the wind, Abigail.
+
+0x4896CFC7 = ~z~~sl:0.0:1.7~Ain't nobody ever gonna take him again.~sl:0.3~I swear.
+
+0x7908B0AA = ~z~You're in a good mood.
+
+0x300059BD = ~z~~sl:1.0:1.4:1~Look around you,
+
+0x452083F1 = ~z~ain't nothing normal about any of this.
+
+0x65863550 = ~z~~sl:0.0:2.1~No Arthur, some folks change~sl:~and others is just too dumb.
+
+0xB4E38F63 = ~z~~sl:0.0:2.0~No Arthur, some folks change~sl:~and others is just too dumb.
+
+0xB247CED2 = ~z~Take this feller for one.
+
+0xBBFCE23C = ~z~A man don't just change like the wind, Abigail.
+
+0xBF31A3FF = ~z~I thought you'd have known that by now.
+
+0xE78FF4BB = ~z~
+
+0xF3845AEE = ~z~You're right about that.
+
+0xF980319B = ~z~You mean like a normal family?
+

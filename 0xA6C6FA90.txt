@@ -1,0 +1,20 @@
+0x02D0369B = ~z~Well, I see you ain't got problems with your appetite.
+
+0x05F1AAE1 = ~z~Come on, Arthur. Don't give me that look. She's a miserable old hag and you know it.
+
+0x4D8D4BD8 = ~z~Why don't you take a bath, please.
+
+0x5ED3EE65 = ~z~Well, I'm not sure I appreciate your smell... it's putting me off my meal.
+
+0x68EB0293 = ~z~Did anybody lose a pile of turd? I think I found one.
+
+0x9438D92E = ~z~And you won't get yours, that's the problem.
+
+0x8428390D = ~z~I will not put up with much more of your tongue, Miss.
+
+0xA5CB7C53 = ~z~You'll get yours one day, my girl.
+
+0xD5B0DC5D = ~z~Is there any part of my existence you're not trying to ruin?
+
+0xE47A79F0 = ~z~I'm not sure I appreciate your tone, girl.
+

@@ -1,0 +1,146 @@
+0x0044C7E8 = The Pinto Mustang got away.
+
+0x01F5A07D = Mason was scared away.
+
+0x05601999 = You abandoned Mason.
+
+0x098C3B9F = You attracted the attention of the law.
+
+0x09E3CBAF = Mason was killed.
+
+0x0B8B17D7 = Boat
+
+0x1A131BA2 = The swamp was abandoned.
+
+0x1A325C53 = Coyote
+
+0x2E4E9C8F = Mason has died.
+
+0x3A2E4B1F = Mason was abandoned.
+
+0x3BDEE883 = Mason ended the trip.
+
+0x4A5E3209 = Mason
+
+0x4B7D9C21 = The wolves were scared away.
+
+0x4D60BA97 = The alligators won't venture far from the weeds near the shoreline.
+
+0x4D728211 = You left the area.
+
+0x5A6B9543 = The horses have died.
+
+0x5CADCC1D = Horse herd
+
+0x5DC08E5D = Approach the ~o~alligator~s~ on foot
+
+0x6C271564 = Go to ~o~Mason~s~
+
+0x6F93F671 = Mason's horse
+
+0x7D3A0094 = Wild Horses
+
+0x7FB6C2CE = Return to ~o~Mason~s~
+
+0x8C8A4DA6 = Search for another ~o~alligator~s~ in the swamp~s~
+
+0x9F28C7A3 = Alligator
+
+0x9F703EEA = Return to ~o~Mason's bag~s~
+
+0x12EDC7F2 = Row the boat to the ~o~photo location~s~
+
+0x20D40249 = Arthur abandoned Mason.
+
+0x21BC64B9 = The Pinto Mustang wasn't part of Mason's picture.
+
+0x58D6A1B9 = Use ~INPUTGROUP_MOVE~ to control the boat. Press ~INPUT_SPRINT~ in time with the oar entering the water to row more quickly.
+
+0x59A16E91 = The boat was wrecked.
+
+0x64C78966 = Look at wolves
+
+0x86B5B52C = Wait for Mason to take the photos~s~
+
+0x88BB78F1 = The boat was abandoned.
+
+0x261B3B9C = Mount a ~o~horse
+
+0x554C653C = Alligator Area
+
+0x670E6235 = The Pinto Mustang has died.
+
+0x2190FB9E = Return to the ~o~boat~s~
+
+0x4812C05B = Ride to the ~o~wild horses~s~
+
+0x7975CE29 = You scared Mason.
+
+0x8855E45E = Return to the ~o~search area~s~
+
+0x728270DD = Hold ~INPUT_FOCUS_CAM~ to focus on Mason's bag.
+
+0x789341B6 = Return the bag to ~o~Mason~s~
+
+0x54341499 = Return to the ~o~search area~s~
+
+0x85635932 = Mason has died.
+
+0xA2B6FA0B = Search for more ~o~alligators~s~ in the swamp~s~
+
+0xA35CBBF0 = Mason's horse has died.
+
+0xA54915D8 = Mason was unable to take a photograph.
+
+0xA99242C9 = Defend ~o~Mason~s~
+
+0xA1325821 = Rotate to face the ~o~alligator~s~
+
+0xB817FA18 = Mason's bag was destroyed.
+
+0xB11780DF = Rotate the boat to face west
+
+0xB657252C = Return to the ~o~alligator area~s~
+
+0xC095F7E4 = The horses were scared away.
+
+0xC3EAAF1A = Kill the ~e~coyote~s~
+
+0xC46EC15B = Return to the ~o~shore~s~
+
+0xC8132C09 = Return to ~o~Mason~s~
+
+0xCA053CD0 = Herd the horses to the ~o~open plains~s~
+
+0xD8D843AE = Retrieve ~o~Mason's bag~s~
+
+0xD971602A = Search for ~o~alligators~s~ in the swamp~s~
+
+0xDC4AC2FB = Stop the boat
+
+0xDEA645EC = Return to the ~o~Mason~s~
+
+0xE4A1A227 = Get back in the ~o~boat~s~
+
+0xE5AA1B29 = Wait with ~o~Mason~s~
+
+0xE8FEABEB = Mason needs to face the alligator.
+
+0xE6959FCE = Get in the ~o~boat~s~
+
+0xE458226C = Find the ~o~coyote~s~
+
+0xEAA22ECD = Mason's Bag
+
+0xEC2BD7A0 = Mason was scared.
+
+0xECC9007F = Row to the ~o~shore~s~
+
+0xF5F71973 = Get closer to the ~o~alligator~s~
+
+0xFBE8125C = Shout
+
+0xFC346A52 = Go to ~o~Mason~s~
+
+0xFF002FC7 = Greet
+

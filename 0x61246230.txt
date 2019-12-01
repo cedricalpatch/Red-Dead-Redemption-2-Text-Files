@@ -1,0 +1,20 @@
+0x04374262 = ~z~Well that sure is a scene from an ancient tragedy alright.
+
+0x1BB1102D = ~z~Guess it never is.
+
+0x5E5B76AD = ~z~Don't you say a word, Morgan.
+
+0x6E0534D4 = ~z~I... don't read none of that nonsense.
+
+0x7BECD0A3 = ~z~It's easy. You swing your sword like this!
+
+0x8E0274CE = ~z~Now ain't such a good time, kid.
+
+0x607719B8 = ~z~I'll be Achilles, you be Hector.
+
+0xB2DE9FB2 = ~z~Yeah... go annoy someone else.
+
+0xB4D2426D = ~z~Come on play, Pa!
+
+0xD2957DF3 = ~z~What did you call me?
+

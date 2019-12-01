@@ -1,0 +1,220 @@
+0x0104548C = ~z~Maybe.
+
+0x03A55D0E = ~z~But... carefully.
+
+0x0450CCE3 = ~z~back every day to search this place.
+
+0x07A69814 = ~z~I've not yet read the case notes, I been working on a different case until last week.
+
+0x08A81F7C = ~z~Well, what now?
+
+0x0A66C204 = ~z~Mr. Milton...
+
+0x0E35791E = ~z~Please, come see us when you can.
+
+0x1CFD6ED1 = ~z~Gentlemen, be careful.
+
+0x1E29E98A = ~z~see if we can find something for Mr. Milton.
+
+0x1E428F08 = ~z~and you know it.
+
+0x1EF688CA = ~z~"Dear Uncle Tacitus...
+
+0x2CF1122E = ~z~I guess I'm coming to see you in Lakay.
+
+0x2FCE93D6 = ~z~Charles? Susan?
+
+0x3A3A46F7 = ~z~Not. Maybe.
+
+0x3D38CE14 = ~z~We had a good run of it, I guess.
+
+0x4D565EED = ~z~Look...
+
+0x5C89C1DD = ~z~I do so hope you enjoyed your vacation.
+
+0x5CE78F91 = ~z~Then we meet up, we gather the family...
+
+0x5F069053 = ~z~Broke, alone, they're gonna pick us off, one by one...
+
+0x6AA52B0C = ~z~And then what?
+
+0x6E94B0CF = ~z~and it feels like...
+
+0x6ED0A1E5 = ~z~There quite clearly isn't a gang of outlaws holed up here.
+
+0x7A4CFD63 = ~z~"Dear Uncle Tacitus...
+
+0x7DDACF5B = ~z~like our luck has turned...
+
+0x8C186BD6 = ~z~you know?
+
+0x8F57F471 = ~z~we get some money and get the hell outta there.
+
+0x9EB6084B = ~z~you are not yet aquainted with them, in Lakay.
+
+0x15E0B488 = ~z~~sl:0.0:1.4:1~Nah, I don't think so.
+
+0x16CBBBC3 = ~z~W-What now?
+
+0x17F40C9B = ~z~~sl:0.0:2.0~It's buggy and muggy...~sl:0.2~but apparently neither is too bad at this time of year.
+
+0x39D9A0E5 = ~z~there's always someone everywhere.
+
+0x42B43DB4 = ~z~Well, thank you... darling niece Caroline.
+
+0x52A3AE0D = ~z~Me and your grandnieces have decided to take a trip...
+
+0x60E24A8A = ~z~I hope you and your cousins enjoyed yourselves.
+
+0x67CE9A7D = ~z~I hope you and your cousins enjoyed yourselves.
+
+0x67D92360 = ~z~And it ain't turning back.
+
+0x71D0396A = ~z~We all acting crazy, and that...
+
+0x79F03EC0 = ~z~Me and your grandnieces have decided to take a trip of our own...
+
+0x80D12ED7 = ~z~That's enough, Mr. Johns.
+
+0x81F6ABAF = ~z~Please come see us when you can.
+
+0x93B44F2A = ~z~~sl:0.0:7.1:1~It's buggy and muggy, but... apparently neither is too bad at this time of the year!
+
+0x139E6B7E = ~z~Sure, someone is here...
+
+0x299B7AFE = ~z~you are not yet aquainted with them, in Lakay.
+
+0x354E17D2 = ~z~Mr. Orly, let's head inside.
+
+0x381D9D6D = ~z~Well, let's look around then...
+
+0x459B386C = ~z~You take Mr. Bunter and search around back.
+
+0x496FD693 = ~z~Hello? Anyone here?
+
+0x604E1442 = ~z~We been on the run for a while now...
+
+0x608A0558 = ~z~Someone is here.
+
+0x628AF24B = ~z~I'd like to find a poisonous snake for him.
+
+0x880DB899 = ~z~Sadie? Pearson?
+
+0x905C6622 = ~z~Hello?
+
+0x951AFC7B = ~z~We ain't even played our hand yet.
+
+0x967D82BC = ~z~See if they sent any mail...
+
+0x1024FD34 = ~z~Hello?
+
+0x2708F64D = ~z~~sl:0.9:1.1~It's a trap.~sl:0.7~So we gotta go find Lakay, that's where they're holed up.
+
+0x3396EFF4 = ~z~~sl:0.0:6.0~I found a letter! Mr... Tacitus Kilgore...~sl:0.8~that name mean anything to you?
+
+0x4882E388 = ~z~We need to split up...
+
+0x7028E917 = ~z~Lucky you, leaving like that and you always suggested you were too old for travel.
+
+0x8165D88D = ~z~That's the plan.
+
+0x8214AEDF = ~z~Susan? Strauss? You here?
+
+0x9663F7A7 = ~z~~sl:0.0:2.9~Lucky you, leaving like that...~sl:0.4~and you always suggested you were too old for travel.
+
+0x63969CF7 = ~z~that's not what I thought we were gonna be doing here.
+
+0x64004CDE = ~z~Anybody here?
+
+0x96393AA0 = ~z~Head back to Blackwater.
+
+0x709908F4 = ~z~Yours sincerely, Caroline."
+
+0x715334EC = ~z~make our escape.
+
+0x8435534A = ~z~I do so hope you enjoyed your vacation.
+
+0x83815948 = ~z~We just need to put some more money in our pockets...
+
+0xA08815F9 = ~z~Listen...
+
+0xA0988574 = ~z~Looks like someone might be here right now.
+
+0xA3A30CEB = ~z~Milton keeps sending us back every day to search this place.
+
+0xA56A7296 = ~z~A small village just north of Saint Denis.
+
+0xA78622B1 = ~z~Why not?
+
+0xAE46B176 = ~z~We have been in a bad way.
+
+0xAEAB2199 = ~z~those are fresh foot prints.
+
+0xB0EBACB6 = ~z~A small village just north of Saint Denis.
+
+0xB2C8F3BF = ~z~find out what's what.
+
+0xB8A9198B = ~z~~sl:1.4:0.0~How can you tell?
+
+0xB9A59B0C = ~z~We have... gone to visit relatives from Daddy's side,
+
+0xB37C9431 = ~z~Looks like someone might be here right now.
+
+0xB271F30D = ~z~and we're all wanted men.
+
+0xB968C552 = ~z~try to track down the rest.
+
+0xB59573EF = ~z~~sl:0.0:5.2:1~of our own as the place has become so dreary and godforsaken in your absence.
+
+0xBA3D4A3B = ~z~We'll find each other eventually, we always do.
+
+0xBB2AC134 = ~z~as the place has become so dreary and godforsaken in your absence.
+
+0xBF480CB9 = ~z~We slip ashore one by one...
+
+0xBF510CCF = ~z~And we don't cut and run now?
+
+0xC3CEDC86 = ~z~Any of you wanna judge me for that, that's fine...
+
+0xC3FA4C37 = ~z~those are fresh foot prints.
+
+0xC8E36787 = ~z~Arthur, you check Shady Belle.
+
+0xC503DDAC = ~z~the last thing they'll be thinking is for us to turn up.
+
+0xCA66BD06 = ~z~~sl:0.0:3.1~Even a child could see through that balderdash, keep looking.~sl:0.6~See what else you can find.
+
+0xCCF7A818 = ~z~What do you mean, what now?
+
+0xCD6565A9 = ~z~We've gone to visit relatives... from my Daddy's side,
+
+0xD2BF7923 = ~z~No.
+
+0xD233E8AA = ~z~Look...
+
+0xD801F5A8 = ~z~There quite clearly isn't a gang of outlaws holed up here.
+
+0xD88405E4 = ~z~but that is who I am.
+
+0xD192780D = ~z~I will kill for my family.
+
+0xDBBCC5A2 = ~z~I mean, we're heading back to Lemoyne, again...
+
+0xE1BF70B6 = ~z~Sure, someone is here...
+
+0xE5C7A06B = ~z~Anyone disagree?
+
+0xEBDE8C94 = ~z~Mr. Orly, let's head inside.
+
+0xEE603068 = ~z~Because...
+
+0xF4DE4670 = ~z~Yours sincerely, Caroline."
+
+0xF37B397A = ~z~keep a low profile...
+
+0xF99C280F = ~z~Gentlemen, be careful.
+
+0xFB01CADF = ~z~Anyone?
+
+0xFDD1C147 = ~z~Someone is here.
+

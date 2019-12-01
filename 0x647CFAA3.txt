@@ -1,0 +1,126 @@
+0x0688C0C9 = The vantage point was abandoned.
+
+0x079BE699 = Help ~o~Charles~s~ defend against the incoming wagons
+
+0x3ADCA7C4 = ~a~
+
+0x3BAF734A = Press ~INPUT_WHISTLE~ to attract the guards to a location while out of sight
+
+0x3C401A7F = The convoy was abandoned.
+
+0x3EC37A91 = Go to the ~o~roof~s~
+
+0x4C0361DB = Climb Window
+
+0x4CE67978 = Bank Manager
+
+0x4EA348B4 = Unlock the ~o~safes~s~
+
+0x4ED7870B = The bank manager was prevented from opening the vault
+
+0x5BD22BF2 = Take out the ~e~lawmen~s~ on the rooftop
+
+0x6A5AAAF4 = The bank was abandoned.
+
+0x8F5F277D = Follow ~o~Dutch~s~ through the train
+
+0x9F9A62B5 = Hitch your horse at a ~o~hitching post~s~
+
+0x15E78364 = Go to ~o~Dutch~s~
+
+0x16EB61E5 = Approach the bank manager and intimidate him to open the vault
+
+0x34A7CFDA = Hosea's wagon was damaged.
+
+0x38DD8344 = The gang was abandoned.
+
+0x44C7A7BF = The law were alerted.
+
+0x45DA7FFF = Follow ~o~Lenny~s~ across the rooftop
+
+0x47A980C4 = Pick up the ~o~dynamite~s~
+
+0x77AE410A = Take out the ~e~lawmen~s~ while the gang climb up to the roof
+
+0x313F8637 = Wait with ~o~Dutch~s~ for Hosea's distraction
+
+0x373EF39D = The bank manager was killed.
+
+0x495D20F4 = Return to the ~o~bank~s~
+
+0x554F5314 = Unlock safe
+
+0x804C5830 = Take ~o~cover~s~ from the dynamite
+
+0x930A3128 = Attract the guards over to the ~o~area~s~ without being spotted
+
+0x994B7552 = the bank
+
+0x1402E1BC = Jump
+
+0x1872E154 = Return to the ~o~rooftop~s~
+
+0x7555FD8B = Loot
+
+0x9001B2E3 = Dutch has died.
+
+0x2957431D = Bill's wagon was damaged.
+
+0x7571801D = Hide behind the train ~o~seats~s~
+
+0x9520191E = You sabotaged the bank robbery.
+
+0x13106651 = Climb in the abandoned building ~o~window~s~
+
+0x28552858 = Look
+
+0x60482830 = Force the ~o~bank manager~s~ to open the vault
+
+0x73184679 = Place the dynamite on the ~o~wall~s~
+
+0xA040C669 = Beat
+
+0xA3DC1111 = Dynamite
+
+0xA738E035 = Approach the manager and press ~INPUT_MELEE_ATTACK~ to force the manager to open the vault
+
+0xAA154877 = Jump across the alley to the ~o~roof~s~
+
+0xAC2152BA = Follow ~o~Dutch~s~
+
+0xB02DA95D = The dynamite was blown too early.
+
+0xB0C7B96C = Place Dynamite
+
+0xB6F7F10C = Follow the ~o~convoy~s~ to Saint Denis
+
+0xB7E0F880 = Follow ~o~Dutch~s~
+
+0xBA32EAB8 = Return to the ~o~vantage point~s~
+
+0xBCD8465E = The Pinkertons were alerted
+
+0xC0C251EC = Convoy
+
+0xC3AD99F3 = Take out the ~e~lawmen~s~
+
+0xC45FB9DA = Return to the ~o~convoy~s~
+
+0xD95D8A51 = Shoot the ~e~dynamite~s~
+
+0xDBC4679C = Intimidate
+
+0xE7D9B7BA = Go and help ~o~Lenny~s~
+
+0xEE4FCC6E = A Pinkerton was killed
+
+0xEFA72D4A = Go to the ~o~wall~s~
+
+0xF3E58278 = Follow ~o~Dutch~s~
+
+0xF5C2549C = While aiming press ~INPUT_AIM_IN_AIR~ and ~INPUT_ATTACK~ to fire a warning shot.
+
+0xFD5BF2AB = Enter the ~o~vault~s~
+
+0xFEA1FC8B = Equip Mask
+

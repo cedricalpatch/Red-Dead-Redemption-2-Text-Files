@@ -1,0 +1,232 @@
+0x02AA0C13 = Rescue the Captives ~1b~ from the enemies. Hogtied Captives must be cut free before they will follow you.
+
+0x0333B6DD = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~Captive~s~
+
+0x0602A6B7 = Take out the ~COLOR_ENEMY~lawmen~s~
+
+0x0878A3A8 = A stranger has been killed
+
+0x09E25131 = The stranger was killed
+
+0x0C0ED6FD = Captive killed
+
+0x0F0FB4C8 = A stranger has been dropped off
+
+0x0F1F8418 = A Captive ~1b~ is following you. Lead them to the drop off.
+
+0x1B96BC2D = ~1~ triggered a rival mission against ~2~. Take out the Captives ~3b~ to gain the full reward.
+
+0x1D815109 = Captive taken out
+
+0x2A773CC4 = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~Captives~s~
+
+0x2B1F1A37 = The strangers were killed
+
+0x2C7BB4DD = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~strangers~s~ on their way ~1~
+
+0x2F11861A = Rescue the strangers ~1b~ from the enemies. Hogtied strangers must be cut free before they will follow you.
+
+0x2F583993 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~strangers~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x3CC0E7FE = Go ~1~
+
+0x4B872710 = The strangers were dropped off
+
+0x4C552C95 = You are getting too far from the stranger. Return to them quickly.
+
+0x4C749CB1 = Rescue the Captives and drop them off within the time limit to earn the full reward.
+
+0x4CD5F052 = Captives dropped off
+
+0x4E166DD6 = You eliminated a Captive
+
+0x5A8A6272 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~strangers~s~ and bring them to safety
+
+0x5C686B94 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~ and bring them to safety
+
+0x6F49B73F = ~1~ is attempting to kill the Captive
+
+0x7BDC88B3 = ~1~ is attempting to kill a Captive
+
+0x7D117F28 = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0x7DA5EB87 = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captives~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x7F6BEF62 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captives~s~ ~1~
+
+0x8BB89AC6 = Take out the ~COLOR_ENEMY~Captives~s~
+
+0x8D242C47 = While unarmed use ~INPUT_INTERACT_LOCKON~ to lock on to the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~ ~1b~ and lead them yourself.
+
+0x8F070D11 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~stranger~s~
+
+0x9D823C89 = Holster weapons and equipment before speaking with the Townsfolk
+
+0x9E0AE7E8 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captives~s~ on their way ~1~
+
+0x9E17A947 = Take out the ~COLOR_ENEMY~Captive~s~
+
+0x10D99A89 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~strangers~s~ and bring them to safety
+
+0x36DAB8DE = Rescue the hogtied Captive from the train tracks ~1b~ within the time limit for the full reward.
+
+0x47EF1CA6 = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~Captive~s~
+
+0x50D40BB9 = Rescue the Captive ~1b~ from the enemies. Hogtied Captive must be cut free before they will follow you.
+
+0x58DDBC0D = The stranger was dropped off
+
+0x61DBA173 = Holster weapons and equipment before speaking with the Traveler
+
+0x63F7E4C9 = Rescue the stranger and drop them off to earn the full reward.
+
+0x65F82E35 = A Captive has been dropped off
+
+0x66C7D36E = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0x68C9A33A = Captive dropped off
+
+0x87DA9E85 = ~1~/~2~ Captives dropped off
+
+0x90D12D41 = You killed a stranger
+
+0x97B33110 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~strangers~s~
+
+0x106BC56E = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~strangers~s~ ~1~
+
+0x210B3A2A = A stranger has been eliminated
+
+0x227AB359 = You triggered a rival mission against ~1~. Take out the Captives ~2b~ to gain the full reward.
+
+0x243EB762 = Captives killed by rival Posse
+
+0x299FA656 = The stranger was killed
+
+0x429D9430 = The stranger was abandoned
+
+0x558D5ABA = Take out the ~COLOR_ENEMY~alligators~s~
+
+0x613EE034 = Take out the ~COLOR_ENEMY~tigers~s~
+
+0x659B0111 = Captives killed
+
+0x732EA826 = You triggered a rival mission against ~1~. Take out the Captive ~2b~ to gain the full reward.
+
+0x975CAF04 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captives~s~ & bring them to safety
+
+0x2532C940 = ~1~ eliminated a stranger
+
+0x3757DF67 = Captives taken out
+
+0x4454AFAC = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~
+
+0x5891E3E2 = Captive killed by rival Posse
+
+0x6940B5C7 = ~1~ dropped off a Captive
+
+0x7098E3B4 = While unarmed use ~INPUT_INTERACT_LOCKON~ to lock on to the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ ~1b~ and lead them yourself.
+
+0x8444D502 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captive~s~
+
+0x18679F2C = ~1~/~2~ Captives taken out
+
+0x60114E99 = A stranger ~1b~ is following you. Lead them to the drop off.
+
+0x82206AED = Get on the ~COLOR_MP_OBJECTIVE~train~s~
+
+0x39756227 = Search for and rescue the Captives within the time limit to earn the full reward.
+
+0x48989598 = ~1~ eliminated a Captive
+
+0x63176309 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Captive & bring them to the destination
+
+0x68653950 = You killed a Captive
+
+0x74621125 = Take out the ~COLOR_ENEMY~muggers~s~
+
+0xA007A8AA = Holster weapons and equipment before speaking with the Camper
+
+0xA2E5E8E6 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~ ~1~
+
+0xA6F974C6 = The strangers were killed
+
+0xA7D2AA76 = ~1~/~2~ strangers were dropped off
+
+0xA8E73A83 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the stranger
+
+0xA15F4C6A = Hold ~INPUT_CUT_FREE~ to cut free the Captive.
+
+0xA59B4CB5 = Captive dropped off
+
+0xAB165668 = Rescue the stranger ~1b~ from the enemies. The hogtied stranger must be cut free before they will follow you.
+
+0xABA0DF25 = Your Posse eliminated a Captive
+
+0xAE9C7E66 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ on their way ~1~
+
+0xB17DCB64 = Take out the ~COLOR_ENEMY~bandits~s~
+
+0xB61CA659 = ~COLOR_ENEMY~Rival players~s~ can attack the Captives
+
+0xB87B2030 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~ and bring them to safety
+
+0xB525C802 = Get to the ~COLOR_MP_OBJECTIVE~train tracks~s~ before the ~COLOR_MP_OBJECTIVE_ENEMY~train~s~
+
+0xB5170806 = ~1~ dropped off a stranger
+
+0xBE9A4C15 = Rescue the Captive and drop them off within the time limit to earn the full reward.
+
+0xBFD5BD04 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captive~s~ & bring them to safety
+
+0xC0B7A8E5 = Your Posse dropped off a Captive
+
+0xC3F41FCA = Captives taken out
+
+0xC74C72CD = Hold ~INPUT_CUT_FREE~ to cut free the stranger.
+
+0xCCA17627 = You dropped off a Captive
+
+0xCCDD25A4 = Take out the ~COLOR_MP_OBJECTIVE_ENEMY~Captives~s~
+
+0xCD70B250 = Rescue the strangers and drop them off to earn the full reward.
+
+0xCE918D27 = Captive taken out
+
+0xCF0AF56C = Captives dropped off
+
+0xD0E0F877 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Captive
+
+0xD5E0A54C = Take out the ~COLOR_ENEMY~highway bandits~s~
+
+0xDD6F81D5 = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~
+
+0xDF8EEDD7 = A Captive has been killed
+
+0xDFD2FDAF = Drop the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~ on the ~COLOR_MP_OBJECTIVE~ground~s~
+
+0xE9459FCE = ~COLOR_ENEMY~Rival players~s~ can attack the Captive
+
+0xEB24EE17 = Free the hogtied ~COLOR_MP_OBJECTIVE_NEUTRAL~stranger~s~
+
+0xECF36E73 = Take out the ~COLOR_ENEMY~bear~s~
+
+0xED044F55 = Rescue the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captives~s~
+
+0xEE3B2D1C = ~1~ triggered a rival mission against ~2~. Take out the Captive ~3b~ to gain the full reward.
+
+0xF00C90D2 = Accept Rescue
+
+0xF2D6B530 = Take out the ~COLOR_ENEMY~enemies~s~
+
+0xF3C7CC9F = Recover the ~COLOR_MP_OBJECTIVE_NEUTRAL~Captive~s~ back from ~COLOR_ENEMY~~1~~s~
+
+0xF3D31EF5 = A Captive has been eliminated
+
+0xF8A4A347 = Search for and rescue the Captive within the time limit to earn the full reward.
+
+0xF2932E77 = A nearby stranger ~1b~ is requesting help.
+
+0xFE6E0460 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~Captive~s~ on their way ~1~
+
+0xFEF99CF6 = Take the ~COLOR_MP_OBJECTIVE_FRIENDLY~stranger~s~ ~1~
+

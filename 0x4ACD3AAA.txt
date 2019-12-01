@@ -1,0 +1,586 @@
+0x0033D531 = ~z~Damn it. Where's Trelawny?
+
+0x00B4AA5A = ~z~Cute, dear boy,~rp~ very cute...
+
+0x02483BAE = ~z~Let's get in the river... wait until he's got 'em off guard before crossing.
+
+0x051AD875 = ~z~Look, they're running away.
+
+0x06A419DD = ~z~So, I guess...
+
+0x07A79F5C = ~z~Why haven't they hanged Sean, I wonder?
+
+0x099740A1 = ~z~Hey.
+
+0x0A7514E5 = ~z~I'll meet you back there as soon as I can.
+
+0x0B0409E9 = ~z~Nice to know I'm missed, though.
+
+0x0BA86DC0 = ~z~Let's head up river and find this boat.
+
+0x0BF84260 = ~z~They certainly don't seem overly enamored with him.
+
+0x0DA4C43A = ~z~You alright, Javier? ~rp~You're quiet...
+
+0x0E6A719E = ~z~Who knows?
+
+0x0EF997C9 = ~z~Don't go down there! My Lord, the unsubtlety.
+
+0x0FC69F96 = ~z~Hey.
+
+0x1B02D33A = ~z~You know...
+
+0x1C2A6145 = ~z~He hasn't stopped talking since we left you in Valentine.
+
+0x1C718DD8 = ~z~Just... keep your eyes open.
+
+0x1C273849 = ~z~Alright.
+
+0x1CA0AD22 = ~z~Have you run out of people to rob?
+
+0x1D94689B = ~z~Hey.
+
+0x1DC373B3 = ~z~Oh ~rp~it must be wonderful to have such trust in one's parents.
+
+0x1DF413AD = ~z~We're gonna have to shoot our way up there.
+
+0x2A5B29AB = ~z~I am.
+
+0x2A5847BD = ~z~Oh, calm down, mister.
+
+0x2B3A6309 = ~z~and then we'll head up on the other side of the valley and meet you...
+
+0x2B380EAC = ~z~Are you gonna get me down from here?
+
+0x2BE16DEE = ~z~Keep your eyes open for Pinkertons. They've got patrols out all over this area.
+
+0x2C628B6B = ~z~Fancy seeing you here.
+
+0x2C760A6B = ~z~Hey, they're stopping.
+
+0x2CC876C5 = ~z~nothing means more to me than this gang.
+
+0x2D045D33 = ~z~Push up, come on.
+
+0x2D36EA5E = ~z~then to a federal prison out west.
+
+0x2D308939 = ~z~There's Charles, on the other side.
+
+0x3ACE1276 = ~z~Vamos!
+
+0x3AFD205D = ~z~What?
+
+0x3B2BEA37 = ~z~More coming in on horses!
+
+0x3BDA4DA8 = ~z~Well, you can only imagine the shit he's been giving them.
+
+0x3C123060 = ~z~Hurry up, fellers!
+
+0x3C371544 = ~z~Move, Arthur!
+
+0x3D6F540D = ~z~Hey, they've pulled into shore.
+
+0x3DCFFC62 = ~z~I would have easily left you here to rot...
+
+0x3F0DFCAE = ~z~I imagine you all missed me a lot...
+
+0x3F7FA938 = ~z~~sl:0.0:0.7:1~Arthur.
+
+0x3F848EFD = ~z~Sean is being moved up the Upper Montana...
+
+0x4A6AB1AB = ~z~Move up!
+
+0x4BF198A5 = ~z~but in spite of all that...
+
+0x4C469E8B = ~z~some young mother they're saying Dutch murdered on the boat?
+
+0x4CA87D3E = ~z~Jesus!
+
+0x4CC4981B = ~z~but fear not, the joy's back in your lives now.
+
+0x4DC30E96 = ~z~What's the problem?
+
+0x4E88F640 = ~z~Look, they've stopped.
+
+0x4EB4173D = ~z~Hey, stay up here.
+
+0x4EDCD5F5 = ~z~Someone cut this rope, my head's killing me.
+
+0x5A23B509 = ~z~I would kill for it, I would happily die for it...
+
+0x5CBB77F5 = ~z~Built some reputation in the last year or two.
+
+0x5D6CADE9 = ~z~Where is she?
+
+0x5D6DB4B0 = ~z~I think we should keep a little distance from the water, don't you?
+
+0x5D674766 = ~z~before handing him over to the government.
+
+0x5DFA2B53 = ~z~~sl:0.0:2.8~Apparently, there's a camp somewhere around here~sl:~where the bounty hunters meet
+
+0x5EAB20F3 = ~z~Bastards!
+
+0x5F9A3E40 = ~z~Okay.
+
+0x5F967EB3 = ~z~Down there, reckon those might be our boys.
+
+0x5FC2DC5B = ~z~Push up on 'em!
+
+0x6A6C4C89 = ~z~Get up, get up.
+
+0x6AD93E8E = ~z~~sl:0.0:3.0~and transfer before continuing out west.~sl:0.3~I imagine that's where they're headed...
+
+0x6B914DDC = ~z~Arthur, let's stick to the cliff edge so we can keep eyes on the river.
+
+0x6C09B483 = ~z~~sl:0.6:0.0~Sure, well... we'll rescue Sean and then we'll get ourselves lost, good and proper. It's a big country.
+
+0x6D7D5BEC = ~z~Oh shut up.
+
+0x6DF01B66 = ~z~There, look. I think that's our boat.
+
+0x6E0D78F0 = ~z~Let's push up!
+
+0x6F638352 = ~z~Javier, Josiah, come on.
+
+0x6FC2D385 = ~z~You think they can see us?
+
+0x6FF2DFF1 = ~z~pictures of Dutch and Hosea.
+
+0x7A461C54 = ~z~We shouldn't drift too far inland, Arthur.
+
+0x7AC51FF8 = ~z~No, you're right. Just wasn't sure if it was reason or cowardice.
+
+0x7B9F7D3C = ~z~I keep hearing about this woman, Heidi McCourt...
+
+0x7B38DA0E = ~z~I'll kill you!
+
+0x7B36775E = ~z~the kind a young whippersnapper can really admire.
+
+0x7BE2B3C9 = ~z~Oh,~rp~ we'll never run out of people to rob.
+
+0x7C4A7152 = ~z~Alright, let's take a closer look. Binoculars, gentlemen.
+
+0x7D0745C0 = ~z~Two more, look out!
+
+0x7EF96F87 = ~z~You gonna help me out here?
+
+0x7F1AB783 = ~z~Just stay calm and don't draw attention to us.
+
+0x7F8BBB79 = ~z~Come on. Let's get up there.
+
+0x8AC6A5BD = ~z~I guess.
+
+0x8AD5E15D = ~z~Hey, watch out for these two!
+
+0x8AF889F0 = ~z~Especially with you.
+
+0x8B9A868F = ~z~~sl:0.0:3.0~and transfer before continuing out west.~sl:0.5~I imagine that's where they're headed...
+
+0x8B9E23D3 = ~z~Ike Skelding's boys are moving him to a camp nearby...
+
+0x8D015350 = ~z~I can't believe we're back down here.
+
+0x8DB945AE = ~z~
+
+0x8E1743F6 = ~z~Where are you going? Let's stay on the cliff path.
+
+0x8EA3B85F = ~z~Here's Charles.
+
+0x8F564058 = ~z~~sl:1.0~Maybe. ~rp~Anyway, we should keep it down.
+
+0x8FC49739 = ~z~~sl:3.6~Ah, go to hell.
+
+0x9CC69154 = ~z~Come on, we need to get past these sons of bitches.
+
+0x9E6A3484 = ~z~Let's get going. Move, boy.
+
+0x9FB2E72D = ~z~Arthur, stick to the cliff edge so we can keep eyes on the river.
+
+0x9FB6FD12 = ~z~They're taking him up the canyon.
+
+0x13C78B2D = ~z~Goddamnit!
+
+0x16EDBA70 = ~z~we need to stop them before they get to camp.
+
+0x32BF0FE1 = ~t~In French: What a funny boy.
+
+0x39BEAFE0 = ~z~Okay, let's get after 'em.
+
+0x40DEF878 = ~z~We shouldn't drift too far inland, Arthur.
+
+0x42FE0508 = ~z~Charles, you take the right, I'll go left.
+
+0x43B70768 = ~z~Javier, will you escort Mr. Macguire back to camp.
+
+0x47E39C5F = ~z~Of course not.
+
+0x50A1B137 = ~z~Well, we can't be rescuing people from some federal prison.
+
+0x50DD8558 = ~z~Bloody hell!
+
+0x55E98843 = ~z~I hope so...
+
+0x62C65580 = ~z~Damn.
+
+0x67D47B66 = ~z~Hold up, he's doing his thing.
+
+0x71BD5C38 = ~z~Get your binoculars out, let's see what we're dealing with here.
+
+0x78BEDA59 = ~z~~sl:0.0:2.6~Apparently, there's a camp somewhere around here~sl:~where the bounty hunters meet
+
+0x81B727F9 = ~z~that way we have them either direction.
+
+0x83C4245D = ~z~Come on, let's move.
+
+0x84B38A28 = ~z~You're a great man, Arthur Morgan...
+
+0x84D265CC = ~z~More on that cliff to the left, by the tree!
+
+0x85EEF347 = ~z~Yep, that's definitely Sean.
+
+0x90A2DA87 = ~z~See them on the left there? Pinkertons.
+
+0x90E477D6 = ~z~Maybe. ~rp~Anyway, we should keep it down.
+
+0x92BFB56B = ~z~Alright, ~rp~I think those might be our boys.
+
+0x92EAA696 = ~z~Get him out of here.
+
+0x93DB16EC = ~z~Wait...
+
+0x99EA256C = ~z~Shoot 'em, Arthur!
+
+0x193FCF5A = ~z~Let's go!
+
+0x262AFEF1 = ~z~Get outta here, you son of a bitch.
+
+0x262EE2CA = ~z~That all you got? Is it?
+
+0x293ED110 = ~z~Yeah... I can't wait.
+
+0x313ABA5F = ~z~Another one coming out of that cabin.
+
+0x316E2BAA = ~z~On top of the tower, who's got a shot on him?
+
+0x325FA8EF = ~z~What about the other two down there?
+
+0x446B7FFA = ~z~I don't believe it... there's more of 'em!
+
+0x516B67E6 = ~z~Quick, Arthur, before any more show up.
+
+0x535F1ABE = ~z~So you've been gone for a while?
+
+0x555E2AB6 = ~z~Charles, best you ride separately.
+
+0x572CE0FF = ~z~I suppose I'll be owing you for this one.
+
+0x610CD976 = ~z~
+
+0x623BF453 = ~z~
+
+0x660B8A95 = ~z~~sl:0.8:2.9~Don't know too much about Ike Skelding's boys,~sl:0.3~but I hear they're a big crew and wild.
+
+0x672CCE53 = ~z~Be careful, there's patrols everywhere.
+
+0x699A8F39 = ~z~But without me you'll not find the caliber of victim that I find.
+
+0x725F754A = ~z~Quick... come on, let's get up there.
+
+0x742FE323 = ~z~Nothing.
+
+0x752D28D8 = ~z~So who are these bounty hunters?
+
+0x758E87F2 = ~z~Get up there!
+
+0x780B38E3 = ~z~Look out! We got one shooting from the tower.
+
+0x797E1B7D = ~z~Push up on 'em!
+
+0x845F44C2 = ~z~Indeed...
+
+0x895A3D22 = ~z~No, too risky from here.
+
+0x913E3AD6 = ~z~Keep your guns away until we know it's Sean, okay? ~rp~I know what you two are like.
+
+0x947D3D05 = ~z~What's the holdup here, Arthur? Let's go.
+
+0x971D4434 = ~z~Okay... let's get Sean.
+
+0x1144BFBE = ~z~A warm embrace for a lost brother, now found?
+
+0x1693C871 = ~z~Here they come!
+
+0x1999C340 = ~z~I think he's bait...
+
+0x2965C6AB = ~z~Look out, two on horses!
+
+0x4286DCC4 = ~z~Maybe we should turn him in ourselves.
+
+0x4732A5C2 = ~z~
+
+0x4998E925 = ~z~Oh, they're giving him a decent kicking.
+
+0x5734B467 = ~z~I don't know about that...~rp~ I wasn't there... bad day.
+
+0x6045F8C7 = ~z~Hey, what are you all doing?
+
+0x7972CF55 = ~z~You know, Arthur... the government or people whom the government like, seem to be very angry.
+
+0x8412CC54 = ~z~I've got an idea, follow me.
+
+0x8493A5B9 = ~z~Quietly...
+
+0x8708EC57 = ~z~Okay, come on, stay low.
+
+0x9626DEE7 = ~z~~sl:0.0:0.5:1~Move!
+
+0x9803C933 = ~z~Another one on the cliff, you see him?
+
+0x21284EE5 = ~z~Charles, why don't you head up on the north side...
+
+0x23310A92 = ~z~Let's go.
+
+0x23660BDC = ~z~Come on! Let's get Sean and get outta here!
+
+0x53822CD2 = ~z~Dutch and Hosea say they do.~rp~ But it's trapped in the town.
+
+0x66575CB9 = ~z~Hey, hey, hey. Don't cross until he has them distracted.
+
+0x320163FD = ~z~Right, we should split up.
+
+0x501778E6 = ~z~Alright, gentlemen. ~rp~Follow me.
+
+0x510179B9 = ~z~Still time.
+
+0x523555E9 = ~z~Look, they're pulling into shore.
+
+0x761178BA = ~z~We're not cutting anyone loose.
+
+0x914700D3 = ~z~Let's go now... keep down.
+
+0x2294482D = ~z~You take the one on the left.
+
+0x5436201D = ~z~~sl:0.4~Get your filthy, stinking hands off me, you godforsaken maggots.
+
+0x6481663E = ~z~The bond we share...
+
+0x8694996B = ~z~Okay...
+
+0x9449289D = ~z~Place is crawling with Pinkertons...
+
+0x56900948 = ~z~Look out left, on top of the cliff!
+
+0x68685192 = ~z~it's the most real thing to me.
+
+0x81047608 = ~z~If they can, ~rp~we're just three fellers out on the trail. ~rp~Act natural, we'll be fine.
+
+0x98676909 = ~z~Cut me down, come on!
+
+0xA018A56C = ~z~You might want to take a look at this...
+
+0xA01940F3 = ~z~I don't believe a word of that, Arthur.
+
+0xA08CB04F = ~z~Stay here...
+
+0xA0CC58E2 = ~z~Come on. We got two halfway up the canyon to deal with.
+
+0xA1A75C3F = ~z~
+
+0xA1F75030 = ~z~Leave it to me, gentlemen.
+
+0xA3CD7A34 = ~z~Come on.
+
+0xA5F3D1E4 = ~z~And no money, yet, it seems. ~rp~I hope you know where that is, at least.
+
+0xA7FFFA6D = ~z~One gunshot and they'll be all over us, and Sean's dead. We need to get a lot closer.
+
+0xA35B0E7B = ~z~A pleasure as always, gentlemen. I think you have it from here.
+
+0xA68FCD2A = ~z~bounty hunters...
+
+0xA3565A4A = ~z~There's Charles!
+
+0xA5679F9E = ~z~You see Sean?
+
+0xAA396D9E = ~z~Up there, on the cliff!
+
+0xAABAB959 = ~z~Hey!
+
+0xAD4E0D44 = ~z~You're making heavy work of this, ain't you?
+
+0xAD129140 = ~z~Okay... let's move down. Don't cross until he's got their attention.
+
+0xAE266219 = ~z~Mine would have sold me for a hogshead of ale... ~rp~in fact I think they tried.
+
+0xAEEDDACB = ~z~Crouch down out of sight... take out your knife.
+
+0xB1B33835 = ~z~No, I don't think so.
+
+0xB2A397E0 = ~z~Get over there.
+
+0xB8A987C1 = ~z~
+
+0xB8BBE576 = ~z~You know how life is,~rp~ never a straight road anywhere.
+
+0xB55F952C = ~z~Should we shoot 'em?
+
+0xB90C46E7 = ~z~How many?
+
+0xB91AF240 = ~z~Trelawny's off trying to find out.
+
+0xB103F612 = ~z~Mount up then, dear boy.
+
+0xB2615E96 = ~z~Let's stay up top, Arthur.
+
+0xB602893B = ~z~Arthur...
+
+0xBA020F1B = ~z~Wouldn't go that far.
+
+0xBA1E16AB = ~z~Come on, let's keep them in sight.
+
+0xBBA8A9F9 = ~z~Takes an army of bounty hunters to bring in Sean Macguire.
+
+0xBBAEBE77 = ~z~Goddamnit, Arthur!
+
+0xBC6FDE1A = ~z~I think it's him... hard to tell with that bag over his head.
+
+0xBD3C15C3 = ~z~Look out, Arthur!
+
+0xBE87E24A = ~z~Are you seeing this, Arthur?
+
+0xBF557F6B = ~z~if Charles hadn't stopped me.
+
+0xC023FA1B = ~z~We'll be able to see much more from up here, dear boy.
+
+0xC063335F = ~z~
+
+0xC2AC954B = ~z~And that's where it's gonna remain, for now.
+
+0xC2E1196B = ~z~I see Charles up there.
+
+0xC3AC29C7 = ~z~Let's go, stay with them.
+
+0xC6F0049C = ~z~Where are you going? Let's stay on the cliff path.
+
+0xC7E92D08 = ~z~You know...
+
+0xC8D5A196 = ~z~There, look. ~rp~I think that's our boat.
+
+0xC8FB976F = ~z~Let's take these hijos de putas!
+
+0xC71CE308 = ~z~A lot. Uniforms everywhere.
+
+0xC83FAB96 = ~z~Their camp's up this way, come on.
+
+0xC169FA83 = ~z~Come on, get up. Time to go, sunshine.
+
+0xC5394D1B = ~z~Stay out of sight.
+
+0xC43379FE = ~z~What are you waiting for? Shoot!
+
+0xCB6C96E3 = ~z~Has anyone been into Blackwater to see how things lie?
+
+0xD1AB408C = ~z~you're a lot less ugly from that other angle, Arthur.
+
+0xD3A4D1B6 = ~z~Oh, you're the expert now?
+
+0xD3BA9B57 = ~z~Much as I love dodging the law and sleeping in the dirt with you derelicts, ~rp~I do have other business to attend to.
+
+0xD3BA33B5 = ~z~I'll go around and create a distraction, then you two sneak across and do the dirty on them.
+
+0xD4F9B9E5 = ~z~We got a lot of money sitting in that town.
+
+0xD8E6619E = ~z~
+
+0xD21F1B5F = ~z~We got more coming down the hill!
+
+0xD69CC362 = ~z~Yes, south of the river West Elizabeth isn't a very welcoming place right now.
+
+0xD9344AC1 = ~z~We'll follow them, nice and easy. ~rp~Let's make sure it's him first before you go starting another war.
+
+0xD920324A = ~z~Where is that little Irish bastard?
+
+0xD5130096 = ~z~Follow me. Let's see if we can track down this boat.
+
+0xDA3AA969 = ~z~Let's push forward.
+
+0xDCDA54CB = ~z~All good?
+
+0xDD17219A = ~z~Certainly kicking up enough of a fuss.
+
+0xDE3BE4FB = ~z~Move, let's go!
+
+0xDEDB43B2 = ~z~It's definitely as bad as we feared in there, Arthur.
+
+0xDF8C01B0 = ~z~Get low, Arthur.
+
+0xE0F2D853 = ~z~~sl:0.0:1.0:1~Fuckers.
+
+0xE2BACAED = ~z~Take 'em down!
+
+0xE3F6D7FB = ~z~or they want to trial him publicly.
+
+0xE5CE2350 = ~z~Goddamn army of these bastards. How much is Sean's bounty?
+
+0xE6E84DCC = ~z~What about you?
+
+0xE37EE433 = ~z~Come on.
+
+0xE61E76A9 = ~z~He has that effect on people.
+
+0xE62E4F88 = ~z~Pick up the pace a bit.
+
+0xE76EC36D = ~z~Move up, come on.
+
+0xE356C6A1 = ~z~Okay, come on.
+
+0xE619E039 = ~z~Come on, we don't want to lose them.
+
+0xE5993F14 = ~z~What happened to New York?
+
+0xE9155EC8 = ~z~We either rescue him now or...
+
+0xE486593B = ~z~I'll take the left side, Charles. You go right, okay?
+
+0xEB59D6BD = ~z~I'm not quite sure.
+
+0xEBE57C54 = ~z~Let's go see.
+
+0xEE048BDA = ~z~
+
+0xEE2DB24C = ~z~Oh yes.
+
+0xEEE1C52F = ~z~That looks like Sean to me...
+
+0xEFD2A23D = ~z~Duck down.
+
+0xF1C7EFD0 = ~z~We should do this quietly if we can.
+
+0xF1FA9C32 = ~z~Will one of you help me out here?
+
+0xF3BD1A16 = ~z~
+
+0xF63BFC85 = ~z~Gentlemen.
+
+0xF524EA3D = ~z~Have I got stories for you...
+
+0xF2680DC1 = ~z~It's the longest ride of my life.
+
+0xF37892A4 = ~z~Wait here, he's still reeling 'em in...
+
+0xF48375A4 = ~z~cut him loose.
+
+0xF95372A2 = ~z~I'm gonna see what's worth taking here.
+
+0xF4346557 = ~z~Get your knife ready... keep your head down.
+
+0xFB779424 = ~z~Do I get a hug, Arthur?
+
+0xFC713DE3 = ~z~What are you doing, Arthur?
+
+0xFD374331 = ~z~~sl:0.6~Oh ~rp~it must be wonderful to have such trust in one's parents.
+
+0xFE39FC7D = ~z~Hey.
+
+0xFFC02F51 = ~z~
+

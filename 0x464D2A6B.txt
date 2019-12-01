@@ -1,0 +1,42 @@
+0x04C44370 = Secret Stash
+
+0x09ECA9F2 = Outlaw
+
+0x0C6B119E = Homestead
+
+0x2F430879 = You can discover homesteads by exploring the world. There will often be lucrative opportunities found at Homesteads, and the method to make off with the highest amount of money won't always be the same.
+
+0x3FE9D04B = You sure about this?
+
+0x6C8AC10F = How far is it?
+
+0x8CE024E5 = Follow ~o~Sean~s~ to the homestead
+
+0x8DA336EF = Sean was killed.
+
+0x8FBE24B6 = Search the ~o~Homestead~s~
+
+0x76E2096D = You became wanted.
+
+0x79C4C7EC = Mount your ~o~horse~s~
+
+0x644C0A8E = Rejoin ~o~Sean~s~
+
+0x889F404D = Rob a Homestead
+
+0x5000D15D = Threaten the ~o~Outlaw~s~
+
+0x148744BD = Your horse has been killed.
+
+0xA8C6ED36 = Sean was abandoned.
+
+0xB86B0520 = Why were you up there?
+
+0xDB3C5228 = Sean's horse was killed.
+
+0xE4AAE94C = Fight the ~e~Outlaws~s~
+
+0xEDF1E342 = Follow behind ~o~Sean~s~
+
+0xF4774A16 = The home-owner has revealed a secret stash spot to you. You will often find the best option won't be immediately killing everyone you come across.
+

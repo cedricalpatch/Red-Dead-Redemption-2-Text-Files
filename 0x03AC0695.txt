@@ -1,0 +1,44 @@
+0x04614DB6 = ~z~Alright, I will.
+
+0x1FABF731 = ~z~Hey!
+
+0x6BC50F32 = ~z~We hit her up for joy.
+
+0x6D87A001 = ~z~Whenever you get to town.
+
+0x6ED0A297 = ~z~Till the world goes round and round!
+
+0x7E2C3400 = ~z~Drink that rot gut, drink that rot gut;
+
+0x8C41D02B = ~z~Drink that red eye, boys;
+
+0x9CDD7162 = ~z~Drink old Blood Eyes, boys;
+
+0x32BF9D24 = ~z~We'll go whooping and yelling, we'll all go a-helling;
+
+0x49CEB9F8 = ~z~You're drinking the wrong stuff.
+
+0x82B9ABCD = ~z~It's rubbish, it's water.
+
+0x574A6639 = ~z~We've lived in the saddle and we've ridden the trail;
+
+0x948F4F78 = ~z~Drink.
+
+0x1268E9C5 = ~z~Drink! Drink.
+
+0x41843AAD = ~z~Drink!
+
+0x928469FA = ~z~Whoop-ee!
+
+0x60970620 = ~z~Drink her up for joy.
+
+0xA8899608 = ~z~Till the world goes round and round!
+
+0xCC3A5D65 = ~z~Drink that rot gut; drink that red nose;
+
+0xCD315F57 = ~z~Drink it straight and swig it mighty;
+
+0xD5F6E394 = ~z~It don't make a damn wherever we land;
+
+0xDA64F9BE = ~z~Till the world goes round and round!
+

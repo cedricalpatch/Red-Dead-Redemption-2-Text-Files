@@ -1,0 +1,34 @@
+0x2C3A31E4 = Take out the ~COLOR_ENEMY~bandits~s~
+
+0x2D9A9460 = The supplier was killed
+
+0x9A74786D = Go to the ~COLOR_MP_OBJECTIVE~Supplier's homestead~s~
+
+0x9AFBF36D = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the Supplier
+
+0x9C7F9433 = Collect the supplies from the Supplier and deliver them to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0x9FA75CF9 = The supplies were delivered
+
+0x18CFBFD2 = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x37DC2AA3 = The wagon has been destroyed
+
+0x69E361BD = Deliver the stagecoach ~1~
+
+0x91EF58B4 = Earn the supplies
+
+0x377D2EFD = The supplies were destroyed
+
+0x3700D32E = Deliver the wagon ~1~
+
+0x6726CF81 = Escort the ~COLOR_MP_OBJECTIVE_FRIENDLY~wagon~s~ to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x24744A4F = Go to the ~COLOR_MP_OBJECTIVE~Supplier's camp~s~
+
+0x90512AB5 = Deliver the cart ~1~
+
+0xDFC7FA3E = Protect the Supplier ~1b~ and deliver the supplies to Camp ~COLOR_MP_OBJECTIVE~~BLIP_CAMP~~s~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xE2FBE2D6 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+

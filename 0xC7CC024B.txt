@@ -1,0 +1,220 @@
+0x036E1707 = ~z~It's white... better be rare.
+
+0x03F8FF0B = ~z~Alright. Drive, boy. Let's get where we're going.
+
+0x069FB8BF = ~z~You want to spook her, mister.
+
+0x06C740B7 = ~z~She got him. Crap.
+
+0x074F33E5 = ~z~You're with the German?
+
+0x08C84269 = ~z~The cash is in that cougar, mister. Sure as pumpkins ain't cauliflowers, the cash is in the cougar.
+
+0x09541AC8 = ~z~I ain't interested in your regrets or your life story, Mr. Holmes. Just your damn money.
+
+0x09E566A5 = ~z~precarious... that this whole things was a... risky venture.
+
+0x0C1A4FE9 = ~z~This is it. Her den.
+
+0x0C871A2D = ~z~I tracked this cougar.
+
+0x0D0D9F2C = ~z~What you doing? You're meant to be going the other way.
+
+0x0FE54659 = ~z~What's wrong?
+
+0x1B03BE27 = ~z~Now drive.
+
+0x1E32E2F4 = ~z~Come on.
+
+0x1EE9BEF2 = ~z~the pelt'll more than cover what I owe.
+
+0x2A2F04E6 = ~z~It better be... or I'll turn you into a goddamn cauliflower.
+
+0x2ADB5DD6 = ~z~I been hunting with my pa... shot all kinds of cats... never one like this...
+
+0x2E858A29 = ~z~Don't fire if you don't got her.
+
+0x2ECF436E = ~z~
+
+0x3E5004BF = ~z~The big thing about cougars... is they see you, not the other way around.
+
+0x4C281CA2 = ~z~a-and all the hard work's already done.
+
+0x4C132151 = ~z~Yeah, yeah.
+
+0x4FF92811 = ~z~That may be, but... you'd see this one.
+
+0x5CB83896 = ~z~Yeah, yeah.
+
+0x6AC47ACE = ~z~It's just...
+
+0x6CE0BC20 = ~z~This den's a ways, so, uh, mount up.
+
+0x6D31792C = ~z~Holmes?
+
+0x7E30326C = ~z~Crap, crap, crap.
+
+0x8B40CC8D = ~z~Where are you?
+
+0x12FD2A4D = ~z~it's the only way you'll get paid...
+
+0x25E07EE9 = ~z~Damn dead debtor.
+
+0x37C15A60 = ~z~repayment was by no means guaranteed... I said I'd do my best... and I did...
+
+0x41A0EF73 = ~z~Another body.
+
+0x43AE887B = ~z~If I'm skinning anything...
+
+0x56EFE597 = ~z~We should leave the horses.
+
+0x57B7DC8D = ~z~Careful not to scare her off.
+
+0x57DD2CE2 = ~z~Get out of here, horse. Your man ain't coming.
+
+0x62AD2446 = ~z~If we don't cover both tunnels, we might miss her.
+
+0x63CCCFB8 = ~z~What I know about cats... this one's rare as hens' teeth.
+
+0x64FF39B2 = ~z~You hear that?
+
+0x68B5D5BD = ~z~Please. I'm outta work...
+
+0x69D8E5CE = ~z~and we'll see if we don't converge down a ways.
+
+0x79EB2976 = ~z~Winton Holmes?
+
+0x85D4B8C6 = ~z~Don't spook her!
+
+0x91BA9A8C = ~z~Drive.
+
+0x99BC86A1 = ~z~Well, the German-speaking feller then. Mr. Strauss. He knew my work situation was...
+
+0x139ECC84 = ~z~You got some money for me, boy?
+
+0x202AC174 = ~z~lilly white coat...
+
+0x340A7A32 = ~z~And look out for her.
+
+0x379F015B = ~z~I'll take the left, you go right,
+
+0x486F1A09 = ~z~We'll, uh, uh, need our horses. It's, um, quite a trip.
+
+0x705B33DB = ~z~Drive.
+
+0x6047F666 = ~z~We're going right here. Up the stream.
+
+0x7574F308 = ~z~I mean, you ever seen an alabaster wild cat?
+
+0x8847B5D0 = ~z~I didn't expect to run into no one out here.
+
+0x34927FD9 = ~z~Get down. They'll be here when we come out.
+
+0x325865CF = ~z~I'm skinning you, boy.
+
+0x800596C2 = ~z~Off your horse.
+
+0x37135086 = ~z~You got your mount?
+
+0x62911847 = ~z~I'm driving.
+
+0x76697124 = ~z~Fine.
+
+0xA2D946B3 = ~z~I-It's up in them hills.
+
+0xA802232C = ~z~I didn't know nothing. Your name is all I knew.
+
+0xAF9F638F = ~z~Move.
+
+0xB03385AF = ~z~Funny...
+
+0xB226E54E = ~z~I don't got it yet.
+
+0xB288A3B8 = ~z~Got ya, you hellcat.
+
+0xB876A166 = ~z~Alright... show me.
+
+0xBC728102 = ~z~In another life I'da sought my fortune outdoors... not in the hot, stinking belly of a tar pit.
+
+0xBCD3CCCF = ~z~Hey, you, uh, knew it was a risk...
+
+0xBDB320AE = ~z~I seen your name in our ledger.
+
+0xC2DC9377 = ~z~Up here. We ain't too far now.
+
+0xC25A1B6A = ~z~Can't take that horse in there.
+
+0xC38C0838 = ~z~Hunting it.
+
+0xC788FA35 = ~z~I ain't. No. Certainly not.
+
+0xCAA56872 = ~z~Make me come out here. Make me chase all over this goddamn mountain.
+
+0xCE014CDC = ~z~Hey, how about this then... I guarantee repayment.
+
+0xCE19CCAC = ~z~You'll see her soon. Quiet now.
+
+0xCF4D8464 = ~z~I didn't expect to see anyone out here.
+
+0xD5F5D133 = ~z~Winton Holmes?
+
+0xD6BC2492 = ~z~Okay, follow me.
+
+0xD65D0F30 = ~z~
+
+0xD642ADA5 = ~z~You panning for it?
+
+0xDD9820F9 = ~z~Winton Holmes?
+
+0xDE149B13 = ~z~Cover the other side, alright.
+
+0xDF8EEFF7 = ~z~'Cause I'm going to get that money outta you...
+
+0xDF81AA26 = ~z~Sir... I'm... I'm merely stating... a man without a job... with limited prospects... at those rates...
+
+0xE25F3448 = ~z~There's a cougar in here, and I bet she's white as virgin cotton.
+
+0xE969F81B = ~z~how far a man's debts'll follow him.
+
+0xE71879A9 = ~z~Hey! You'll scare her off.
+
+0xEC588431 = ~z~She'll hide you're not careful.
+
+0xED4C8B72 = ~z~If I got to squeeze you like a lemon, it's coming out.
+
+0xEE7FAFDA = ~z~Are you threatening me Winton Holmes?
+
+0xEECEC893 = ~z~There's a corpse down here... an old one.
+
+0xEF48149A = ~z~Where are ya you mangy cat?
+
+0xF0823FEE = ~z~Come on. We got to cover both forks.
+
+0xF2FC511B = ~z~You're continuing to annoy me.
+
+0xF8CD0FC2 = ~z~How much does this cougar eat?
+
+0xF8E1970A = ~z~Look, I got it for you.
+
+0xF19F137E = ~z~Won't be able to miss her, shining in the dark.
+
+0xF102E555 = ~z~Penniless idiot.
+
+0xF522B9D3 = ~z~
+
+0xF821A11C = ~z~Yeah, of course. We're onto it now, okay? We're onto it now.
+
+0xF826C328 = ~z~Wait. Risky? Am I at risk now?
+
+0xF90898A0 = ~z~You coming?
+
+0xFB4CF7B9 = ~z~It's rare...
+
+0xFB238861 = ~z~The tunnel diverges up here.
+
+0xFDC86CAB = ~z~Don't mess around with me, boy.
+
+0xFE95B335 = ~z~Show yourself.
+
+0xFF9FA5CE = ~z~Come on. We got to go in here.
+

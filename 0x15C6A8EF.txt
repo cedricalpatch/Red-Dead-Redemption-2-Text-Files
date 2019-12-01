@@ -1,0 +1,34 @@
+0x0C6C1825 = ~z~You... you are all my home now.
+
+0x0F9F8FD4 = ~z~A powerful man.
+
+0x1FFDBF48 = ~z~for this, this is my home now.
+
+0x6CCACA29 = ~z~In this country... I spoke no English, I was afraid.
+
+0x8CA59896 = ~z~Instead I was simply starving because nobody cared.
+
+0x35E0DC52 = ~z~I had nothing except from my fear, for I left in a rush.
+
+0x45D77C43 = ~z~I came to America because I killed a man in Mexico.
+
+0x72E26510 = ~z~Then I met Dutch.
+
+0x403BF108 = ~z~I was starving, feeble, and alone.
+
+0x996C236B = ~z~I thought, I would die crossing the desert.
+
+0x1968A366 = ~z~I knew if I stayed, everyone I love would die.
+
+0x52629559 = ~z~I ran, not for my life, but for theirs.
+
+0xABA4C7DC = ~z~I thought I would get here and be sent back. I thought I would be killed here.
+
+0xC5E78B19 = ~z~I don't believe I shall ever go back home now...
+
+0xD79D2E84 = ~z~and he clothed me and I met all of you.
+
+0xE15C4202 = ~z~And we laughed and he took me in and fed me...
+
+0xF13AE1BF = ~z~I was stealing chickens and he, uh... I met him doing the same.
+

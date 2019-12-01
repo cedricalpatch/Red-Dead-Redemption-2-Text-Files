@@ -1,0 +1,12 @@
+0x1E460174 = ~z~He's dead. The combination of beatings and sickness did for him.
+
+0x3B213B2A = ~z~~sl:0.0:1.6:1~My deepest condolences, madam.
+
+0x4EABE23F = ~z~Thank you... and your husband, is he well?
+
+0x88EAD6BC = ~z~And mine to you. For all your wretched lives.
+
+0x418547F2 = ~z~My husband owed you money. Here it is.
+
+0xF1EDA8B4 = ~z~Hello?
+

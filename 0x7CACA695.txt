@@ -1,0 +1,118 @@
+0x04845886 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x07D05AB3 = The goods were stolen
+
+0x0885E4BB = The Delivery Wagon has been destroyed and you have lost a portion of the goods. Deliver the remaining goods ~1b~ to recover some of the sale.
+
+0x0954CED2 = Goods stolen by rival Posse
+
+0x09A0B634 = Deliver your goods to make the sale. If the Delivery Wagon ~1b~ is destroyed, you can still deliver some of the goods.
+
+0x0CC43770 = Deliver the goods ~1~
+
+0x1A215BBF = A bag of goods has been delivered
+
+0x1BE67CFF = The wagon has been destroyed
+
+0x1D8DD7E3 = You can only carry one bag of goods at a time.
+
+0x2C09E709 = ~1~ stole some goods
+
+0x2D25E9C0 = The goods were destroyed
+
+0x6C1E8717 = Deliver your goods to make the sale. If the Delivery Wagon ~1b~ is destroyed, you can still deliver some of the goods.
+
+0x7AFF8363 = Deliver the goods ~1~
+
+0x7F015D52 = ~COLOR_ENEMY~~1~~s~ are trying to steal your goods
+
+0x23BD4C4F = The buyers were killed
+
+0x56B22CA4 = Some goods have been stolen
+
+0x77EEDD99 = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+0x79C0831B = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~
+
+0x91F798D2 = ~COLOR_ENEMY~Rival Traders~s~ can now steal the goods
+
+0x97E9A11E = Turn in goods
+
+0x172FD3AB = Goods stolen
+
+0x193B1110 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x495F0B01 = ~1~ triggered a rival mission against ~2~. Steal and turn in the goods ~3b~ to gain the full reward.
+
+0x610B5DD4 = You triggered a rival mission against ~1~. Steal and turn in the goods ~2b~ to gain the full reward.
+
+0x771E38F2 = ~1~/~2~ goods were stolen
+
+0x782A3295 = Sell the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+0x813B9A24 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+0x816A99B8 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x854CA5AF = Goods destroyed
+
+0x974C1AB7 = The goods were stolen
+
+0x2776F285 = ~COLOR_ENEMY~~1~~s~ are trying to steal your goods
+
+0x38190D21 = Protect the buyers ~1b~ from the bandits.
+
+0x230964E8 = Your Posse delivered some goods
+
+0x990157CF = You destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0x1501649C = You delivered some goods
+
+0x63409705 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+0xA5FEF982 = No goods were stolen
+
+0xA635FC66 = The goods were sold
+
+0xA967B451 = ~1~ triggered a rival mission against ~2~. Steal and turn in the goods ~3b~ to gain the full reward.
+
+0xAB2D6414 = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xAF75608D = Holster weapons and equipment before speaking with the buyer.
+
+0xAFF77861 = Take out the ~COLOR_ENEMY~bandits~s~
+
+0xB8F281DC = Your Posse stole some goods
+
+0xB87EADA2 = Goods stolen by rival Posse
+
+0xBF3DC2DE = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xC0EAABC1 = ~COLOR_ENEMY~Rival Traders~s~ can now steal the goods
+
+0xC12B0F5F = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ on the way ~1~
+
+0xD399CFDB = You stole some goods
+
+0xDAB03B1B = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~goods~s~
+
+0xDB87CDF8 = You triggered a rival mission against ~1~. Steal and turn in the goods ~2b~ to gain the full reward.
+
+0xE9CB8154 = Goods stolen
+
+0xE817D5CC = The goods were sold
+
+0xE3537D2D = ~1~ sold the goods
+
+0xEECFE356 = The goods were destroyed
+
+0xF02BBCC4 = Go to the ~COLOR_MP_OBJECTIVE_NEUTRAL~wagon~s~
+
+0xF1C309F7 = Sell the ~COLOR_MP_OBJECTIVE_NEUTRAL~goods~s~
+
+0xF26AE94A = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~goods~s~ on the way ~1~
+
+0xF92B258B = No goods were stolen
+
+0xFF054BC5 = ~1~/~2~ goods were sold
+

@@ -1,0 +1,600 @@
+0x024DEE76 = ~z~I'm just joking, son.
+
+0x033777B9 = ~z~Well, come back when you're done...
+
+0x03CCF650 = ~z~on the subject of my faults.
+
+0x07270310 = ~z~I understand.
+
+0x075E37F1 = ~z~on your way.
+
+0x075FE399 = ~z~A line of credit... so I can buy some property.
+
+0x08FC2ED4 = ~z~then how come we living here?
+
+0x098742B5 = ~z~Sure...
+
+0x0A3FD8C0 = ~z~Now where west are we headed, you damn grunting fool?
+
+0x0AEAFC24 = ~z~Now of course, we'll be expecting you to make regular payments...
+
+0x0CB576BF = ~z~This is it. Up here.
+
+0x0CF63828 = ~z~Thanks, mister.
+
+0x0D98864B = ~z~Yes of course, sure.
+
+0x0ED4C6B1 = ~z~I've gone straight.
+
+0x0FF5328F = ~z~No one, mister.
+
+0x1A832020 = ~z~but take my advice, Milton...
+
+0x1D8124D8 = ~z~You'll get what you need.
+
+0x1EC16D29 = ~z~Could I have a word?
+
+0x1F3C6157 = ~z~Spending all your money? On a ranch in the armpit of West Elizabeth? Oh, my Lord...
+
+0x1F61E92B = ~z~I'm just joking.
+
+0x1FE4B117 = ~z~while I fix the contracts and talk to Mr. Geddes.
+
+0x2BF1F2D2 = ~z~
+
+0x2C79822B = ~z~We?
+
+0x2DF8CBA2 = ~z~This is a free country.
+
+0x2E200BE2 = ~z~Pa.
+
+0x2F910609 = ~z~and we own your property.
+
+0x3D962464 = ~z~You don't have a hope here, without a wise hand at the tiller.
+
+0x3ED663FA = ~z~Well, how would you put it?
+
+0x3F7A2957 = ~z~Sure...
+
+0x3F12E93F = ~z~It'd be...
+
+0x4AB33EE1 = ~z~I thought you was dead, boy...
+
+0x4AC17F58 = ~z~tell him to ask me direct himself.
+
+0x4AFFEE88 = ~z~Follow me.
+
+0x4B780CB5 = ~z~What property?
+
+0x4BA63FD8 = ~z~No, you're stuck with me...
+
+0x4BD2C447 = ~z~A line of credit...
+
+0x4C64C0E1 = ~z~you think I'm an idiot?
+
+0x4CFE4463 = ~z~be good, Mr. Marston.
+
+0x4FDC48F0 = ~z~Enough of that.
+
+0x5AF42261 = ~z~I ain't asking to borrow none...
+
+0x5B41F7DA = ~z~Okay...
+
+0x5CB02F04 = ~z~Ah, it's you...
+
+0x5D736788 = ~z~Can I help you?
+
+0x5DFB640E = ~z~No...
+
+0x5E2EE5D8 = ~z~Uncle?
+
+0x5E5DAA18 = ~z~issues with some of the decisions I've made.
+
+0x5F4E2891 = ~z~I work for him.
+
+0x5F810456 = ~z~I ain't sure.
+
+0x6BC46785 = ~z~Oh, you mean she left you?
+
+0x6C0CF650 = ~z~take some money.
+
+0x6D3C84E7 = ~z~Now, you can also use this line of credit for any home improvements...
+
+0x6D38C7CE = ~z~Real issues.
+
+0x6DA94547 = ~z~Mr. Geddes.
+
+0x6F61A417 = ~z~That's what he says.
+
+0x6FEAC9AA = ~z~you'll get her back.
+
+0x6FF5AF25 = ~z~Thank you.
+
+0x7A5F92F5 = ~z~Look...
+
+0x7A10A0C2 = ~z~so I can buy some property.
+
+0x7AE36323 = ~z~Do you believe a man can change, sir?
+
+0x7BDAE1AA = ~z~Which folk?
+
+0x7DB67131 = ~z~so I can buy some property.
+
+0x7DCDBCF1 = ~z~Why exactly did you buy this dump?
+
+0x7E334BA0 = ~z~Oh... yeah, Mr. Atherton is in his office. Hey, please head in.
+
+0x8A71604F = ~z~You gonna mount up or what?
+
+0x8B64B39F = ~z~Who's this?
+
+0x8B607D0D = ~z~and given a lack of much evidence you got any means of repaying...
+
+0x8BA0667A = ~z~Yeah, I'm looking for Mr. Atherton. I'm a friend of Mr. Geddes over at Pronghorn Ranch.
+
+0x8C24367E = ~z~You for real, friend?
+
+0x8D2009F7 = ~z~I hope so...
+
+0x8E355DC0 = ~z~Is she an idiot?
+
+0x8F4CDACC = ~z~Ain't nothing on this Earth belongs to no one, partner.
+
+0x9A4AD2CB = ~z~Go try and find somewhere else to stay.
+
+0x9A191E2A = ~z~A joke, huh?
+
+0x9B3D5D60 = ~z~eventually you will be a home owner.
+
+0x9B17609C = ~z~you need to make of course.
+
+0x9BFCF94F = ~z~Why?
+
+0x9C2D4B05 = ~z~Listen...
+
+0x9C249E99 = ~z~to loan a man with two names money...
+
+0x9D1D7F8E = ~z~Some fancy dan city boy... says he owns this land... or he's gonna.
+
+0x9D36A7CD = ~z~I guess I don't know.
+
+0x9E93D9FD = ~z~Owns it?
+
+0x12BA11EE = ~z~I ain't got much money.
+
+0x15D6D615 = ~z~Well, it is you.
+
+0x17B9A471 = ~z~regular as clockwork until the debt's settled.
+
+0x22DDEEC3 = ~z~Oh, bullcrap.
+
+0x23C83D56 = ~z~but I ain't much of a farmer either.
+
+0x23D7F456 = ~z~I want a loan, sir.
+
+0x31E810D3 = ~z~Well, I got some things to take care...
+
+0x35D4DCF7 = ~z~We've been having so many problems recently...
+
+0x39CD9BB3 = ~z~So...
+
+0x41BA2A5B = ~z~Well... sign here and here.
+
+0x43FB32B4 = ~z~This is it.
+
+0x49FD26A6 = ~z~Can I help you, friend?
+
+0x65F3C0E4 = ~z~Now of course we'll be expecting our money back...
+
+0x67E378CD = ~z~Come here.
+
+0x68AC6E2F = ~z~I ain't sure.
+
+0x71E85995 = ~z~But, I will get there.
+
+0x74F72E31 = ~z~Where we headed?
+
+0x76DC949F = ~z~Congratulations, you are now a real American...
+
+0x78C6DCA6 = ~z~be my pleasure...
+
+0x79E810A6 = ~z~says he owns this land...
+
+0x79F6BF5A = ~z~You got a horse? Get on it.
+
+0x84E3FEC4 = ~z~no matter how much you paid.
+
+0x86FD534E = ~z~I'm afraid... afraid you guys are gonna have to go somewhere else.
+
+0x87D3FE5C = ~z~What's the problem, Milton?
+
+0x89E308C6 = ~z~Thank you.
+
+0x91C3E7CA = ~z~West. Ain't you a man of few words?~rp~ I can see we're heading 'west'.
+
+0x97A19CA3 = ~z~Where is this heading?
+
+0x98C7DAC6 = ~z~What are we gonna farm here?
+
+0x102B6AEA = ~z~Look at her.
+
+0x124D15E8 = ~z~Oh...
+
+0x146A9E9B = ~z~I-I know it ain't much...
+
+0x165A59B8 = ~z~I thought you was dead.
+
+0x246A7494 = ~z~I'm real sick, John.
+
+0x264B4237 = ~z~It's really run down and the price isn't too great.
+
+0x310CCE93 = ~z~but maybe you could...
+
+0x313A80AC = ~z~I ain't sure...
+
+0x376E1B7E = ~z~What property?
+
+0x387A3649 = ~z~Who's this?
+
+0x401F2852 = ~z~Now, as much as I would love to pay you, I'm short, so...
+
+0x423FC9D4 = ~z~Listen... I'm buying this land.
+
+0x438CF6CA = ~z~No one, mister.
+
+0x438F786C = ~z~I heard there's squatters up there.
+
+0x443E1B28 = ~z~I hope so...
+
+0x468F29F5 = ~z~'fraid you guys are going to have to go somewhere else.
+
+0x486DBD7D = ~z~Can I help you?
+
+0x517BC9DE = ~z~Now we own you, Mr. Marston...
+
+0x531F7565 = ~z~Yeah.
+
+0x532A1B51 = ~z~Otherwise the farm reverts to the bank...
+
+0x586CDA54 = ~z~dead!
+
+0x613DEF82 = ~z~Nah, you don't have to.
+
+0x680E1B89 = ~z~I'm ready Marston. Come on.
+
+0x712CFD47 = ~z~Thanks, mister.
+
+0x799FDFB8 = ~z~go to the bank and...
+
+0x819F6D13 = ~z~Use my name...
+
+0x826C1FC1 = ~z~You for real, friend?
+
+0x862F78D7 = ~z~put in a good word...
+
+0x868DB652 = ~z~She ever seen it?
+
+0x891A6710 = ~z~What property?
+
+0x947B9573 = ~z~so they could give me a loan?
+
+0x1248D04D = ~z~Evidently...
+
+0x2212B09F = ~z~so I can prove to my wife that I've changed.
+
+0x2652C26B = ~z~That old dump?
+
+0x2935FE27 = ~z~It's a slow and painful death, my brother.
+
+0x2970FFE5 = ~z~well, maybe a little bit.
+
+0x3076DE66 = ~z~Can I help you, friend?
+
+0x3381A85A = ~z~What do you think?
+
+0x4034D542 = ~z~Can I help you?
+
+0x4467F549 = ~z~But...
+
+0x4495B62E = ~z~Not yet.
+
+0x5098C80C = ~z~Okay.
+
+0x5806C00A = ~z~No, she's... uh...~rp~ her and Jack are waiting until I'm set up before joining me out here.
+
+0x5921A808 = ~z~An old ranch...
+
+0x6282B64E = ~z~Well, why don't you go check out the land...
+
+0x7924E201 = ~z~Who's in charge here?
+
+0x8907B8F5 = ~z~But you can buy your freedom... each week...
+
+0x9141BD6C = ~z~Take some money. Go try and find somewhere else to stay.
+
+0x9532D27C = ~z~seems I'm stuck with you.
+
+0x48406CC8 = ~z~Fine, Mr. Milton.
+
+0x50064D0F = ~z~Oh, not a problem, I'll come too.
+
+0x51238C3C = ~z~He said that you could help me out...
+
+0x88387B89 = ~z~and go buy passage on a boat.
+
+0x91694D40 = ~z~I can?
+
+0x100109D8 = ~z~He's a distant cousin.
+
+0x318275A9 = ~z~Now that I ain't so sure about...
+
+0x398015DE = ~z~Is that what you were doing in the bank?
+
+0x547112B7 = ~z~Thank you, sir.
+
+0x917798AE = ~z~Okay, well I got your paperwork ready.
+
+0x3487928A = ~z~Well, I never, I...
+
+0x4365366C = ~z~I'll just get him.
+
+0x5292103D = ~z~take your money...
+
+0x6812917B = ~z~For Abigail.
+
+0x8709356C = ~z~Okay...
+
+0x9825254A = ~z~Absolutely.
+
+0x28559600 = ~z~Now that I ain't so sure about...
+
+0x55601111 = ~z~So old David Geddes told you I'm the kind of man...
+
+0x60853607 = ~z~Really?
+
+0x69438228 = ~z~Yeah I'm right, right here...
+
+0xA0B802C5 = ~z~What were you thinking?
+
+0xA0B25164 = ~z~And you're lucky I'm showing it to you, and not looking for a place to bury you out here.
+
+0xA0DD0F47 = ~z~I ain't sure...
+
+0xA5A73546 = ~z~it's kind of a joke, I guess.
+
+0xA5B9B480 = ~z~Now that's even worse!~rp~ You can run from a bounty, John, you can't run from a bank.~rp~ Is Abigail there?
+
+0xA7D577C1 = ~z~John, the rock farmer.
+
+0xA8BEC73C = ~z~Well let's just say there are no more squatters.
+
+0xA8DD4782 = ~z~Beecher's Hope.
+
+0xA10F7E51 = ~z~Get the hell outta here, this land belongs to me now.
+
+0xA52F3916 = ~z~Oh, no problem.
+
+0xA67A0A1F = ~z~Even worse!~rp~ You can run from a bounty, John, you can't run from a bank.~rp~ Is Abigail there?
+
+0xA76DB52B = ~z~so he can buy a run-down farm...
+
+0xA239B2DE = ~z~Is that what you was doing in the bank?
+
+0xA788ED47 = ~z~You're a real gentleman.
+
+0xA2840A5B = ~z~Okay... then how come we living here?
+
+0xA3673C8D = ~z~the man with two names and no past...
+
+0xAA0B7D4D = ~z~Rocks?
+
+0xAB54FD8F = ~z~and we own Mr. Milton, too...
+
+0xAB7545A2 = ~z~I'm sorry for the disturbance, sir.
+
+0xABA7F425 = ~z~Some fancy dan city boy...
+
+0xACC1746B = ~z~Sure, take it.
+
+0xAED952B2 = ~z~but, if my cousin vouches for you, it'll be okay with the bank.
+
+0xB0158BE4 = ~z~huh?
+
+0xB1ECC01B = ~z~
+
+0xB2E982A8 = ~z~Okay...
+
+0xB5C689C2 = ~z~Sure, take it.
+
+0xB7B2020A = ~z~I'm afraid...
+
+0xB7FCD906 = ~z~Not that that's any of your concern, but...~rp~ I was in the bank borrowing the money.
+
+0xB8A9E00B = ~z~she just began her morning discourse...
+
+0xB8EB6322 = ~z~Sure.
+
+0xB30A2343 = ~z~Not that it's any of your concern, but...~rp~ I was in the bank borrowing the money.
+
+0xB41C5598 = ~z~I've tried to be a good hand.
+
+0xB68CD711 = ~z~Only folk around here call me Milton...
+
+0xB82F56AE = ~z~on account of his lack of farming skills, huh?
+
+0xB88DF046 = ~z~Excuse me, sir? Can I-can I help you?
+
+0xB6792E47 = ~z~No.
+
+0xB77789DF = ~z~You're a real gentlemen.
+
+0xB4075679 = ~z~Spending all your money? On a ranch in the armpit of West Elizabeth? My lord!
+
+0xB6369911 = ~z~I want a loan, sir.
+
+0xBC12BC67 = ~z~I don't care how I seem.
+
+0xBD94375A = ~z~Looks like you made your decision then, partner.
+
+0xBDA6C0A0 = ~z~Owns it?
+
+0xBF9CEA55 = ~z~Go to Brazil and...
+
+0xC1E5A200 = ~z~let's go celebrate.
+
+0xC1EAF135 = ~z~I've worked hard to secure your property...
+
+0xC2C16BD2 = ~z~Don't sound too promising when you put it like that.
+
+0xC4AA1953 = ~z~I never thought she was a smart woman, but this makes me think...~rp~ maybe I was wrong.
+
+0xC4E273BC = ~z~Marston.
+
+0xC8D7FB0B = ~z~M... Marston.
+
+0xC8F43E8C = ~z~I hope so.
+
+0xC39A4B76 = ~z~West.
+
+0xC233B40F = ~z~how's that bull?
+
+0xC487B4C8 = ~z~Have a little pity will ya...
+
+0xC6367644 = ~z~Yeah, I was young and dumb once too...
+
+0xCA592FA2 = ~z~
+
+0xCB454243 = ~z~Alright.
+
+0xCBD78D76 = ~z~That is a very unusual way of asking for a loan, Mr...?
+
+0xCCED2C80 = ~z~I'm buying this land.
+
+0xCD9C8C84 = ~z~they'll need clearing on.
+
+0xCF56CBAE = ~z~Well, I'm trying...
+
+0xCF96C60E = ~z~indebted and owned by the bank.
+
+0xCFAC94FB = ~z~at least mean I was listening to her.
+
+0xD0490F49 = ~z~My wife...
+
+0xD04ABD6A = ~z~or he's gonna.
+
+0xD0650719 = ~z~Sorry to waste your time, sir.
+
+0xD079509A = ~z~Hey, son...
+
+0xD0C70EED = ~z~And for that we are grateful.
+
+0xD2DC40A8 = ~z~Look...
+
+0xD4B66AC1 = ~z~I don't know...
+
+0xD8FB1BD1 = ~z~forget all about family.
+
+0xD22CCBAA = ~z~What do you think?
+
+0xD88D755C = ~z~This ranch I...~rp~ a ranch I bought just now.
+
+0xD668BCD0 = ~z~No more of that. I just bought this place.
+
+0xD2180E2B = ~z~I mean, if you can.
+
+0xD6049AC8 = ~z~My wife...
+
+0xD9445CF5 = ~z~I'm joking, they own me but they just own your property.
+
+0xD5899632 = ~z~Yes, I know it.
+
+0xDA5BE070 = ~z~Come on then.
+
+0xDBF2A464 = ~z~I need to get a place of my own...
+
+0xDC14A6E8 = ~z~In some ways.
+
+0xDC652A15 = ~z~and we'll fix up the paperwork.
+
+0xDCF8AF93 = ~z~Now, you sure about buying this place?
+
+0xDE34AB20 = ~z~An experience I think every man can relate to.
+
+0xDE88AA70 = ~z~and you've paid me well, besides.
+
+0xE3C832AF = ~z~So I can buy that place, Beecher's Hope?
+
+0xE4A99E2D = ~z~I want a loan, sir.
+
+0xE5E6E6BD = ~z~Okay boys, let's go celebrate.
+
+0xE6B47D10 = ~z~Your father in?
+
+0xE33AD91B = ~z~Who's in charge here?
+
+0xE33B3C41 = ~z~A line of credit...
+
+0xE42EA49E = ~z~Hey son, how's that bull?
+
+0xE49F6613 = ~z~That's what he says.
+
+0xE68AF3FA = ~z~I understand.
+
+0xE1986C62 = ~z~she said she wanted it.
+
+0xEAD082A5 = ~z~you ain't changed a bit...
+
+0xEBF0815D = ~z~The very same.
+
+0xEE2BD1F9 = ~z~come on in, how'd you make out?
+
+0xF0B6FFA2 = ~z~Okay, boys...
+
+0xF0B60E0C = ~z~No, for real.
+
+0xF0DA89CA = ~z~I know you're an idiot.
+
+0xF2D33A80 = ~z~I hope so.
+
+0xF2FEDAF8 = ~z~the terms won't be too great...
+
+0xF3CE1AEB = ~z~Ah, it's you...
+
+0xF6FB19B2 = ~z~Lumbago.
+
+0xF56B5835 = ~z~The thing is, I suppose...
+
+0xF57CD95F = ~z~You know speaking in monosyllables doesn't make you seem interesting. It makes you seem stupid.
+
+0xF95FE17E = ~z~my wife also has...
+
+0xF98A2018 = ~z~All these years...
+
+0xF417D20A = ~z~Just make sure you deal with Ansel Atherton at the bank.
+
+0xF1920D8C = ~z~Let your wife know what to complain about.
+
+0xF8235CC5 = ~z~I understand.
+
+0xF27487C8 = ~z~You know speaking in monosyllables don't make you seem interesting. It makes you seem stupid.
+
+0xF52719F5 = ~z~Fine, Mr. Milton.
+
+0xF523937C = ~z~Get outta here...
+
+0xF926589B = ~z~Oh, sit down, I'm sure we can figure something out.
+
+0xFA3B5F95 = ~z~A loan, huh?
+
+0xFA501DA8 = ~z~I saw you going into the bank...
+
+0xFC8E2224 = ~z~and by the looks of things you ain't robbed it.
+
+0xFCB423D0 = ~z~Welcome to home ownership, it's a beautiful thing.
+
+0xFD66706E = ~z~I think it would mean a lot for my wife...
+
+0xFE96A9D4 = ~z~I hope so.
+
+0xFECB903C = ~z~This is a free country.
+

@@ -1,0 +1,36 @@
+0x03D08EE2 = Use ~INPUT_WHISTLE~ to whistle for a horse.
+
+0x0B7D554D = You have bonded with your horse after purchasing a saddle for it. Your horse is indicated by a ~BLIP_HORSE_OWNED~ on the radar.
+
+0x2F12853F = Purchasing Horse Insurance will allow your horse to automatically recover over time if it's critically injured.
+
+0x4ABC400E = Horse Cores drain over time. Feed your horse to replenish its Cores. Hold ~INPUT_OPEN_WHEEL_MENU~ and press ~INPUT_SELECT_NEXT_WHEEL~ to select the Horse Wheel while next to or on your horse.
+
+0x6E6C4292 = Find and accept Free Roam missions from various characters ~1b~.
+
+0x6FF27CA6 = ~INPUT_PLAYER_MENU~ Open the Player menu
+
+0x16861F0A = Gunsmiths ~BLIP_SHOP_GUNSMITH~ will sell and upgrade your weapons.
+
+0x36453E1D = Form or join a Posse with other players, and improve your chance of success in Red Dead Online.
+
+0x11710745 = Visit General Stores ~BLIP_SHOP_STORE~ and Tailors ~BLIP_SHOP_TAILOR~ for supplies and clothing.
+
+0xA5D63E3A = Grooming and caring for your horse increases your bonding level. Continuing to bond with your horse improves its attributes.
+
+0xA20EBF7A = Enter a Series and compete against others by using a Series Marker ~1b~ or through the Player menu.
+
+0xA24F1E8F = Meet Cripps at your ~COLOR_MP_OBJECTIVE~Camp
+
+0xA446E997 = Return to the mission area
+
+0xCDB3DC4C = Your horse has been critically injured. Use ~INPUT_WHISTLE~ to whistle for a Scrawny Nag.
+
+0xED971706 = Extra stalls can be purchased in the Stable. These allow you to buy and manage additional horses.
+
+0xF0458D97 = Camp
+
+0xF7B5BD74 = The Player menu is used to send and receive invites, view nearby players and Posses, access and form your own Posses and manage your Stable or Camp options.
+
+0xF95A9330 = Or counter a rival player's mission for your own reward.
+

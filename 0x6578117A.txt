@@ -1,0 +1,128 @@
+0x04586532 = ~z~Ohh...
+
+0x06A135D8 = ~z~I know how they'll do it, too... ~rp~got it written on some, uh, paper somewhere...
+
+0x2AF107B6 = ~z~You're lousy as the rest. Don't pretend otherwise...
+
+0x2D6B036B = ~z~You know... you know... that, uh... that two-bit, uh... ~rp~that two-bit saloon... charges for a clean glass?
+
+0x2EB5B885 = ~z~~sl:0.0:3.1~Yeah? Yeah? Alright then...~sl:0.8~Someone who ain't a shit in this shithole town.
+
+0x2F404CF9 = ~z~I'm-I'm waiting here w-with a thumb up my ass...
+
+0x2FCD34DA = ~z~What the hell is wrong with you?
+
+0x3ABA88A7 = ~z~Ugh... damn road...
+
+0x3BD51D9B = ~z~~sl:0.0:3.4~Come here... don't be rude, huh...
+
+0x5ED2C113 = ~z~~sl:0.0:3.7~Okay... I reckon need to be going...~sl:0.4~now.
+
+0x6E939EBC = ~z~Giddown already.
+
+0x7A458CC0 = ~z~~sl:0.0:1.2~Bastards...~sl:0.6:2.2~the last time I set foot in there...
+
+0x8D03C412 = ~z~Whoa, whoa!
+
+0x8D8FDCA6 = ~z~~sl:1.5~Yeah...
+
+0x9B5160AD = ~z~Outta nowhere!
+
+0x10A5B68F = ~z~~sl:1.5~I should've... I should've eaten something.
+
+0x17AA3232 = ~z~Oh shit, I don't-I don't feel good...
+
+0x23AE6FEE = ~z~Nope... This is taking forever...
+
+0x27DC2C39 = ~z~~sl:2.6~Where... where's... home?
+
+0x48F4A51B = ~z~Whoa... oh shit.
+
+0x58A0320C = ~z~No one's gonna blink around here...
+
+0x71E433E7 = ~z~~sl:0.0:3.0~You know how I can get where I-I'm staying?~sl:0.3:3.5~I think... I th-you think you could help me, maybe?~sl:0.5~I, uh... ugh...
+
+0x78F2338F = ~z~I'm... I'm fine, I'm fine.
+
+0x82BA34EA = ~z~Just as dumb as the rest, though.
+
+0x97DAF13C = ~z~Who're you?
+
+0x119B4928 = ~z~Don't you... d-don't act like you don't hear me...
+
+0x582ED8F2 = ~z~you ever seen one of them cameras? Well... well, ~rp~I'mma make me... a little one... fit right there in your pocket.
+
+0x820FD95E = ~z~This ain't right!
+
+0x1039C905 = ~z~I dare you, that's right... ~rp~You just sit there...
+
+0x5706E0AB = ~z~So, uh... so where is it I supposed to sit? Huh? Huh?
+
+0x44496CBF = ~z~~sl:1.1~Whoa... goddammit... oh, goddammit.
+
+0x69757B7F = ~z~What kinda horse chewing... Year... year from now, ~rp~I won't even piss in a place like that. I got-I got ideas. Hey...
+
+0x88723AEF = ~z~What's going on?
+
+0x118166C1 = ~z~~sl:0.0:3.3~Hey... You know Butchers Creek?~sl:0.3:2.2~I'm-I'm staying there.~sl:0.3:2.5~But... Butcher Freak, I call it.
+
+0x8485128E = ~z~I ain't ask-asking much here, so...
+
+0xA2B011A1 = ~z~Welcome to Van Horn!
+
+0xA2FD918F = ~z~Smells like the Creek...
+
+0xA5F91F29 = ~z~Steady.... whoa... whoa...
+
+0xA380DA32 = ~z~Sonuvabitch...
+
+0xAA019589 = ~z~Oops...
+
+0xAA7C1684 = ~z~Think you're special up there? Giddown.
+
+0xACB9820A = ~z~I known clever coachmen in my time... you ain't it... ~rp~you ain't it, baby...
+
+0xB477AA75 = ~z~Easy does it...
+
+0xC7B3629D = ~z~Here I go...
+
+0xC114DEAC = ~z~Ugh...
+
+0xC7302194 = ~z~~sl:1.6~Where the hell?
+
+0xC8692906 = ~z~~sl:1.1~Now where the hell...
+
+0xD3CBEEC4 = ~z~~sl:1.1~Lousy, lousy as the rest... ugh... Leave me alone then.
+
+0xD982995D = ~z~~sl:0.0:1.5~We... we walking?~sl:0.9~Some kinda, s-some kinda driver you are.
+
+0xDB3791E8 = ~z~Ohh... hello? Hello, hey, yeah, you!
+
+0xDE821986 = ~z~
+
+0xDEDF67B4 = ~z~Why's this?
+
+0xE1DE9F23 = ~z~Alright, this should do it.
+
+0xE4EA384E = ~z~Hey... gim-gimme an answer already.
+
+0xE8CCE9D5 = ~z~Piece of shit town...
+
+0xE38C1C51 = ~z~Goddammit!
+
+0xE902A537 = ~z~Ohh.... slipping...
+
+0xE96327FF = ~z~Son of a bitch!
+
+0xECC63505 = ~z~~sl:0.0:1.1~Hmm? Oh...~sl:0.7~Hey, hey, hey.
+
+0xEF1ABAB7 = ~z~~sl:0.0:2.2~Oh... ground's...~sl:0.6~nice...
+
+0xF8A127B1 = ~z~Here.
+
+0xF21CC0BB = ~z~Tired...
+
+0xF73296F7 = ~z~Bet you think... I bet you....~rp~ I bet you think you're real clever...
+
+0xF4579145 = ~z~Don't believe me? It's-it's the future... ~rp~I dare you don't believe me... I dare you, I dare you don't believe me...
+

@@ -1,0 +1,84 @@
+0x01576BB8 = The Braithwaite Manor guards were alerted.
+
+0x021DCE51 = The saloon staff were harmed.
+
+0x0220DE89 = The wagon became stuck.
+
+0x031C204B = Lemoyne Raider
+
+0x03542FAF = The wagon was destroyed.
+
+0x05C09841 = Deliver the moonshine to ~o~Braithwaite Manor~s~
+
+0x0E139085 = Go behind the ~o~bar~s~ in the saloon
+
+0x1A41B3C5 = Raise Glass
+
+0x1B4E8532 = Take out the ~e~Lemoyne Raider~s~
+
+0x1C350B32 = The saloon was abandoned.
+
+0x2C98A7F6 = Pour Bottle
+
+0x2D3A61E5 = Moonshine
+
+0x3FA948F6 = Return to the ~o~wagon~s~
+
+0x4BB3DB7C = Hosea was abandoned.
+
+0x5DF50350 = Moonshine
+
+0x7A300223 = The Braithwaites were attacked.
+
+0x9E214200 = Braithwaite Manor
+
+0x10A55683 = The wagon was driven in to camp.
+
+0x12EB2480 = Get into the ~o~wagon~s~
+
+0x13C8AD3F = Get back on the ~o~wagon~s~
+
+0x19E21F3C = Follow ~o~Hosea~s~ upstairs to escape
+
+0x68B2A31B = The wagon was abandoned.
+
+0x78B10233 = Serve Drink
+
+0x82A0AB35 = Manor Guard
+
+0x89F59203 = Raise Bottle
+
+0x90AEF1F3 = Return to the ~o~saloon~s~
+
+0x711B392B = Pick Up
+
+0x7820B612 = Return to ~f~Hosea
+
+0x8082DA88 = Follow ~o~Hosea~s~ to the wagon
+
+0x8860AFD1 = Follow ~o~Hosea~s~
+
+0x11418CC5 = The law were alerted near Rhodes Saloon.
+
+0x904364D8 = Braithwaite Manor was abandoned.
+
+0xA17D67EE = Take the moonshine to the ~o~Rhodes saloon~s~
+
+0xB37BD89B = The moonshine was destroyed.
+
+0xB5817FC1 = Wagon
+
+0xD619FB88 = Rhodes Saloon
+
+0xD2861B74 = Take out the ~e~Lemoyne Raiders~s~
+
+0xD6810DA0 = Collect the moonshine from the ~o~back of the wagon~s~
+
+0xE5C6857D = Wait for ~f~Hosea~s~ to get back on the wagon
+
+0xF7C5EDE8 = Take out the ~e~Lemoyne Raiders~s~
+
+0xF679E44D = Jump into the ~o~wagon~s~ below
+
+0xFEC2A4CE = Hosea has died.
+

@@ -1,0 +1,40 @@
+0x2AFF1DD7 = ~z~What?
+
+0x2BCC9EFA = ~z~What do you mean?
+
+0x3D264225 = ~z~Horses are boring as hell, worse than Englishmen!
+
+0x4F78E6CA = ~z~
+
+0x5B6F7E3F = ~z~Now, I once beat up six Englishmen in a bar in Canada, knocked them all out.
+
+0x6E632436 = ~z~What you reading, Jackie boy?
+
+0x12BF6CE0 = ~z~Their accents. It gets on a feller's nerves, you know?
+
+0x66DB5E91 = ~z~It's true!
+
+0x99A27B0C = ~z~Brian was his name... there was just one problem though...
+
+0x99FFFB6F = ~z~Knights? Brave men of old England, that's ridiculous.
+
+0x303B283F = ~z~I never lie, Jackie boy, I met them, talking horses in Canada.
+
+0x427FCCC8 = ~z~You're kidding me.
+
+0x550D3AF5 = ~z~Shut up.
+
+0x559EF306 = ~z~do you know the English had talking horses?
+
+0x4998DA92 = ~z~The English aren't brave, Jackie...
+
+0x8031C7D3 = ~z~It's uhh, it's about knights.
+
+0x70720681 = ~z~Oh go on, I got work to do.
+
+0xE7FD97C5 = ~z~I'll tell you something strange that isn't in that book of yours...
+
+0xE63B93D9 = ~z~Really? Why?
+
+0xF8093774 = ~z~
+

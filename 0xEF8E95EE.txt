@@ -1,0 +1,16 @@
+0x1C7051C9 = Esteban Cortez's corpse was left behind.
+
+0x9ACC92FA = Esteban Cortez was left behind.
+
+0x1607D693 = You became wanted.
+
+0x18669978 = Return to the mine
+
+0xB5639022 = Del Lobo
+
+0xD09EFBBE = Esteban Cortez escaped.
+
+0xF2B3050F = You attacked the Sheriff.
+
+0xF9C3CF31 = Esteban Cortez's body could not be retrieved.
+

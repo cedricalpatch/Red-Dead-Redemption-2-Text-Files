@@ -1,0 +1,34 @@
+0x03C3F93F = Gain control of the ~COLOR_MP_OBJECTIVE_ENEMY~train car~s~ from ~COLOR_MP_OBJECTIVE_ENEMY~~1p~
+
+0x0894A4FF = Railroad Baron
+
+0x1AE44F85 = ~1p~ is the Railroad Baron
+
+0x1AF84A51 = You scored ~1~ point
+
+0x2D55F008 = The target car is about to change
+
+0x3F3052F2 = Enter the target train car ~COLOR_MP_OBJECTIVE_FRIENDLY~~BLIP_AMBIENT_TRAIN~~s~ with your ~COLOR_MP_OBJECTIVE_FRIENDLY~Posse Member ~BLIP_AMBIENT_KING~~s~ to also increase your own score.
+
+0x6B3AA48A = Gain control of the ~COLOR_MP_OBJECTIVE_NEUTRAL~train car
+
+0x6E6C39CA = Enter the target train car ~COLOR_MP_OBJECTIVE_ENEMY~~BLIP_AMBIENT_TRAIN~~s~ and take out the ~COLOR_MP_OBJECTIVE_ENEMY~Railroad Baron~BLIP_AMBIENT_KING~~s~ to gain control.
+
+0x6F0B0FC4 = Take control of the new target car
+
+0x7B2C8DE2 = Train car
+
+0x248CEAE4 = Enter and remain in the target ~COLOR_MP_OBJECTIVE_NEUTRAL~train car~s~ marked with flags to capture it and score points.
+
+0x654B1F39 = You gained a score of ~1~
+
+0x994F8EE0 = Help defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~train car
+
+0x910172C0 = Is the Railroad Baron
+
+0xBA1B808C = Take control of the train cars as the ~COLOR_FREEMODE_EVENT~Railroad Baron~s~ to score the most points and win.
+
+0xCB15DEC5 = Capture and control the ~COLOR_MP_OBJECTIVE_NEUTRAL~train car
+
+0xE78FE5D3 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~train car
+

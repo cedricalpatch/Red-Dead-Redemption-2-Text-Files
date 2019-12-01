@@ -1,0 +1,332 @@
+0x01042EC6 = ~z~I'm not like that... I'm a good girl, really. I promise I am.
+
+0x01E50E49 = ~z~Oh please. Those poor, poor men. They were fools... and they got what was coming to them.
+
+0x020FBC03 = ~z~~sl:0.0:1.4~Until I met you.~sl:0.7:1.9:1~You turned my world around.
+
+0x04236C99 = ~z~You two! That lady's got to come with me.
+
+0x048940FA = ~z~~sl:0.2:0.0~I just had bad luck with my menfolk, is all.
+
+0x053C8F5D = ~z~I've got a mad man after me!
+
+0x05B552BE = ~z~That's more like it... hush.
+
+0x074A9414 = ~z~Yeah, well, enough on that.
+
+0x0A8A8E7E = ~z~I have an illness. A fever of the brain.
+
+0x0B873C70 = ~z~Goodbye. I'm sorry for all this.
+
+0x0CA323C5 = ~z~Only one who looks foolish right now is you, lady.
+
+0x0CEBB494 = ~z~You see, Sheriff, I know your secrets. And I could spread them all over... like... Miss Moira....
+
+0x0D226BB0 = ~z~What brings a woman to kill like that, hey?
+
+0x0E474B82 = ~z~This the help you're looking for?
+
+0x1ACD3104 = ~z~~sl:0.1:1.9:1~That means you kill your sweethearts...
+
+0x2A97A2A5 = ~z~That man has a heart of stone.
+
+0x2E58B733 = ~z~How you think it is, you idiot?
+
+0x2F0C52FA = ~z~And to think you was sniffing around this office at one point.
+
+0x2FA6EC77 = ~z~Same thing that brings a man to, you dumb idiot.
+
+0x2FF52EA0 = ~z~Let me at it.
+
+0x3AD416FE = ~z~How you think it is, you idiot?
+
+0x3ADE31F7 = ~z~You might be a blood thirsty monster, Mrs. Swan. But I kind of got a soft spot for you.
+
+0x3B247DD0 = ~z~
+
+0x3E5AF81F = ~z~~sl:0.2:2.0~I-I-I seen the newspaper.~sl:3.4~They're saying you're a black widow.
+
+0x3E2104DC = ~z~I'm immune to your charms, Mrs. Swan.
+
+0x3EB980C9 = ~z~Ready when you are.
+
+0x3F487372 = ~z~It's so boring in here... can't we have some fun, Sheriff? Just the two of us.
+
+0x4AFED2FF = ~z~I swear, mister. I had nothing to do with this.
+
+0x4F1A2B5D = ~z~Sadly, one of us had to go.
+
+0x5AC8E9FF = ~z~Look out! He's after you too.
+
+0x5BA50D44 = ~z~You are a piece of work. Now come here.
+
+0x5CB77670 = ~z~Turn yourself in, missy.
+
+0x5E1ED6E1 = ~z~Don't you dare mention Moira again, now hush.
+
+0x5E4246E6 = ~z~You're right about that.
+
+0x5EA589D0 = ~z~I saw how you had that boy wrapped around your finger at the falls.
+
+0x5F72B84D = ~z~Save me. Save me from the sheriff... and moreover from myself.
+
+0x5F92F708 = ~z~~sl:0.0:0.8~I'm just...~sl:0.3~I'm just a lady, is all.
+
+0x5FB9C456 = ~z~Damn you!
+
+0x6A1A1F5E = ~z~That'll be her.
+
+0x6BDD725E = ~z~
+
+0x6D9C56A1 = ~z~~sl:0.2:0.0~W-why, I'm nothing of the kind.
+
+0x6D127B7A = ~z~Why this jailhouse is far more comfortable than any fancy hotel in Saint Denis.
+
+0x6DAB8D23 = ~z~I'm sorry, she's put me up to this!
+
+0x6E3E817A = ~z~I'm afraid I ain't.
+
+0x6E670302 = ~z~You let him get you, you dumb little boy.
+
+0x6F5DA2D4 = ~z~No need to check on me, mister. I'm still here.
+
+0x7AEFD060 = ~z~It ain't tarnished your charm at least.
+
+0x7C605778 = ~z~I guess they'll be hanging you soon?
+
+0x7CF7D426 = ~z~Settle in. You got a ride ahead of you.
+
+0x7F38766A = ~z~It's a bounty hunter. He's after you too.
+
+0x8A405429 = ~z~Well, ain't this a pleasant surprise.
+
+0x8B082B83 = ~z~You are a joy, lady.
+
+0x8D2895B5 = ~z~Willy weren't my sweetheart, he was a bully, okay?
+
+0x8F7BFB23 = ~z~That dumb little boy.
+
+0x9DE26C96 = ~z~Come here.
+
+0x9E906C6A = ~z~What brings a woman to kill like that, hey?
+
+0x11A62830 = ~z~Help me, someone! I'm being chased!
+
+0x12B36EF5 = ~z~You mean them so called poor men I killed?
+
+0x26D6D291 = ~z~He killed my sweetheart!
+
+0x27D24057 = ~z~They'll forgive a woman many things... but killing ain't one of them.
+
+0x27EC270C = ~z~You two! That lady's got to come with me.
+
+0x31EC6C6F = ~z~It's silly keeping me locked up in here.
+
+0x38B3C766 = ~z~Rot in hell. Rot with the rest of them.
+
+0x39E500F3 = ~z~Sometimes it's cause you want something, sometimes it's cause you want to... I would'a killed for survival.
+
+0x41CF3644 = ~z~What kind of man are you? Puny, backstabbing little...
+
+0x44E5BB98 = ~z~Lord forgive me for this.
+
+0x45F37FDA = ~z~If you've come back to propose marriage, I'm afraid you'll be disappointed.
+
+0x46D0BF6A = ~z~You made me an outlaw too, woman!
+
+0x47FFEA81 = ~z~Why this jailhouse is far more comfortable than any fancy hotel in Saint Denis.
+
+0x49B96EF5 = ~z~They'll forgive a woman many things... but killing ain't one of them.
+
+0x53D54DAD = ~z~They can say what they like about you, but at least you respected the sanctity of marriage.
+
+0x55AEB0DB = ~z~Same thing that brings a man to, you dumb idiot.
+
+0x55FFA140 = ~z~You're right about that.
+
+0x57D1383C = ~z~I mean, what am I going to do... just little old me. Let me out to exercise a little.
+
+0x63C9744B = ~z~Did I just do those things?
+
+0x68C84671 = ~z~I'm lucky you was charmed by another.
+
+0x69A1898F = ~z~Be quiet with that.
+
+0x73A11843 = ~z~Eh, so, uhh, how is it in here?
+
+0x73F66154 = ~z~I've done bad things, but... a jail? A jail ain't where I belong. A sanatorium, maybe.
+
+0x75A8F8DF = ~z~I ain't falling for it.
+
+0x81C1446E = ~z~Settle in. You got a ride ahead of you.
+
+0x83DD3600 = ~z~I guess they'll be hanging you soon?
+
+0x94DA4FC6 = ~z~Show me some sympathy, Sheriff. I'm a widow... a poor little widow. You forget.
+
+0x507F2454 = ~z~Just take me in and let's get it over with.
+
+0x523DD134 = ~z~Oh dear... what came over me?
+
+0x621B3F9B = ~z~Now come over here... come here.
+
+0x651EBAF3 = ~z~I wouldn't count on it, mister. I would not count on anything.
+
+0x700F5440 = ~z~Eh, so, uhh, how is it in here?
+
+0x709F2DC3 = ~z~That what you did to all your men?
+
+0x754E000F = ~z~Sure, I thought about it... only pleasure I got since I been in this dump.
+
+0x794D087E = ~z~If that soft spot don't extend to breaking me out of this joint, well, you know, what you can do with it?
+
+0x866FFBF1 = ~z~
+
+0x880B9370 = ~z~Tie me up then... I'm cooperating, mister.
+
+0x928C5E82 = ~z~I hope you thought about what you done?
+
+0x945D65BB = ~z~I'm sorry, Ellie Anne. Go with him.
+
+0x1601E3E7 = ~z~~sl:0.0:1.1:1~Bad luck?
+
+0x1636E455 = ~z~~sl:1.1:2.1~Y'all talking about Frank and Henry.~sl:1.5~And Howie.
+
+0x4887B265 = ~z~It ain't tarnished your charm at least.
+
+0x5131C7C4 = ~z~Really, I am.
+
+0x6628C5B9 = ~z~Get me help, mister. Please.
+
+0x6940DFAA = ~z~Yeah, well, enough on that.
+
+0x32201AF4 = ~z~Just get me there. You're no fun at all.
+
+0x54235A0F = ~z~What in hell is happening here?
+
+0x78365F7E = ~z~I wish you'd die!
+
+0x84372A68 = ~z~If that soft spot don't extend to breaking me out of this joint, well, you know, what you can do with it?
+
+0x237260C0 = ~z~Mrs. Swan. You like to come along with me?
+
+0x379825E4 = ~z~I'm afraid I ain't.
+
+0x485605ED = ~z~Only one who looks foolish right now is you, lady.
+
+0x4614322B = ~z~'Til death do us part.
+
+0x8326089E = ~z~Maybe if I had a strong man like you, I wouldn't be in this mess.
+
+0x33734269 = ~z~I wouldn't count on it, mister. I would not count on anything.
+
+0x57575004 = ~z~The bed is soft as a fluffy white cloud, and the food is magnificent.
+
+0x62567675 = ~z~What you got me into, Ellie Anne?
+
+0xA07665E9 = ~z~Just get me there. You're no fun at all.
+
+0xA2B23A76 = ~z~I hope you thought about what you done?
+
+0xA2F77CA1 = ~z~We're coming up on the jailhouse.... anything else you want to try on me?
+
+0xA6A0E2B4 = ~z~You mean them so called poor men I killed?
+
+0xA531C3CE = ~z~I need help, okay?
+
+0xA778D143 = ~z~But a big strong man like you, you'd set me straight. Wouldn't you mister?
+
+0xA42591D3 = ~z~Sure, I thought about it... only pleasure I got since I been in this dump.
+
+0xAAF3EBCB = ~z~Fair enough.
+
+0xABC95D0F = ~z~Sometimes it's cause you want something, sometimes it's cause you want to... I would'a killed for survival.
+
+0xAF6F9BEF = ~z~I'm just caught up in it. She's trixy.
+
+0xAF28F2AB = ~z~Be quiet with that.
+
+0xAFE87E6B = ~z~You are a piece of work. Now come here.
+
+0xB0755C4E = ~z~~sl:0.2:0.0~Where do they get such nonsense? You're my sweetheart.
+
+0xB079AA7B = ~z~You are a joy, lady.
+
+0xB8213FB8 = ~z~Goodbye, my sweet!
+
+0xBA5B7708 = ~z~You're such a strong man... so tough and burly.
+
+0xBA39F9F0 = ~z~Sadly, one of us had to go.
+
+0xBAB670D0 = ~z~And he got what was coming.
+
+0xBD21E954 = ~z~I hate you, you sad sack of shit!
+
+0xBD922E7F = ~z~That what you did to all your men?
+
+0xC05BD0BD = ~z~That's more like it... hush.
+
+0xC77F617C = ~z~Oh, godammit, you got him. The sweet, dumb son of a bitch.
+
+0xC431E2EB = ~z~The bed is soft as a fluffy white cloud, and the food is magnificent.
+
+0xCAC78944 = ~z~That there's the bounty hunter, get him!
+
+0xCADF04D2 = ~z~I wish I'd cut your belly open, and shown you your guts.
+
+0xCAFFC2B2 = ~z~You believe me, don't you? Don't you, mister?
+
+0xCB8D3913 = ~z~Fair enough.
+
+0xCBC8765C = ~z~You might be a blood thirsty monster, Mrs. Swan. But I kind of got a soft spot for you.
+
+0xD0CEC037 = ~z~Rot in hell. Rot with the rest of them.
+
+0xD4A37AF4 = ~z~All you men are useless.
+
+0xD8A5A05F = ~z~Gutless bounty-hunting nobody!
+
+0xD4059D4E = ~z~Oh please. Those poor, poor men. They were fools... and they got what was coming to them.
+
+0xDD41DF77 = ~z~We're coming up on the jailhouse... ~rp~anything else you want to try on me?
+
+0xDD9539BF = ~z~Mrs. Swan. You like to come along with me?
+
+0xDDCB3DE7 = ~z~My menfolk, they all been weak. That's what my problem's been. How I got in this unfortunate situation.
+
+0xE034C2BA = ~z~Put me on the straight and narrow?
+
+0xE4E1CCBA = ~z~I guess I ought to come along with you then.
+
+0xE49AE84B = ~z~That'll be her.
+
+0xE94F48F2 = ~z~This the help you're looking for?
+
+0xE9174D91 = ~z~It says there's other fellers, it says it right there, in black and white.
+
+0xE23464D7 = ~z~Kill that bounty hunter!
+
+0xEF2F8B1D = ~z~It's a horrible blur. But... I see blood... there's blood everywhere. It won't come out.
+
+0xEF7AD010 = ~z~Dumb like the rest of them.
+
+0xF5BAC1C6 = ~z~Don't you manhandle me.
+
+0xF6A9DC67 = ~z~I hate you, I hate you, I hate you, I hate you!
+
+0xF9B351AA = ~z~Here, boy.
+
+0xF18D1AFE = ~z~~sl:0.1:1.6~Oh, you're a conundrum, missy.~sl:1.0~A real conundrum.
+
+0xF38D627D = ~z~Now, you gonna come over here and romance me?
+
+0xF72DF31C = ~z~Someone stop this monster!
+
+0xF5039CAA = ~z~Ellie Anne, I'm sorry, I... I'm gonna make you go with the feller.
+
+0xFBC60D75 = ~z~I'm just a lady.
+
+0xFE640D39 = ~z~I ain't falling for it.
+
+0xFF13B185 = ~z~I saw how you had that boy wrapped around your finger at the falls.
+

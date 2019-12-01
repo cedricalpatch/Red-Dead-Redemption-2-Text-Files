@@ -1,0 +1,54 @@
+0x036AB646 = ~z~They ain't strung us yet.
+
+0x0C574823 = ~z~
+
+0x1E19EBA8 = ~z~~sl:0.8~We have been stuck before.
+
+0x1F1B426E = ~z~~sl:0.0:1.0~Oh, you know.~sl:0.2~Been better.
+
+0x2FCA8F0D = ~z~
+
+0x4DCC9DDB = ~z~
+
+0x7B65790C = ~z~I know.
+
+0x9DDB2CAD = ~z~~sl:0.4:1.2:1~Of course.
+
+0x117AEC12 = ~z~Whatever you say, Dutch.
+
+0x544F2AF8 = ~z~~sl:0.0:1.0~We did it,~sl:0.7~Hosea.
+
+0x902EA29E = ~z~~sl:0.0:1.2~Whatever else happens...~sl:2.0~we did it.
+
+0x3155E6E3 = ~z~How you keeping, old man?
+
+0x50876AFA = ~z~~sl:0.0:1.5~We're old men, Arthur.~sl:0.0~Let us live in our memories.
+
+0x67437DFE = ~z~Of course.
+
+0x7101917A = ~z~~sl:0.0:1.1~That... oh,~sl:0.0:4.3:1~that nauseating popinjay, in that frontier town.
+
+0x17468337 = ~z~Whatever you say, Dutch.
+
+0x49761546 = ~z~
+
+0xB3C1EBBD = ~z~
+
+0xCC8A9D4E = ~z~~sl:0.0:1.2~We...~sl:0.7~have had quite the ride, huh?
+
+0xD8DDFAD9 = ~z~~sl:0.0:1.7~We're old men, Arthur.~sl:0.4~Let us live in our memories.
+
+0xD22CEE43 = ~z~Whatever you say, Dutch.
+
+0xD63D5BEC = ~z~~sl:1.6:0.8~No.~sl:0.5:1.4:1~Maybe they never will.
+
+0xE7EFFF51 = ~z~~sl:0.0:0.8~They won't.~sl:1.6~I'm gonna get us outta this one.
+
+0xEA2E290B = ~z~~sl:0.0:1.5~We're old men, Arthur.~sl:0.0~Let us live in our memories.
+
+0xF2AE14D1 = ~z~~sl:0.0:0.7~You...~sl:0.2~do you remember that mine?
+
+0xFAC979CB = ~z~~sl:0.0:0.8~Oh yeah,~sl:~quite the ride.
+
+0xFD7FD39E = ~z~Arthur.
+

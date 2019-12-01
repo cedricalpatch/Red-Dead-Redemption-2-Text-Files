@@ -1,0 +1,16 @@
+0x1DD26294 = ~z~~sl:0.0:2.2~Sorry, I'll use shorter words.~sl:1.4~Anyone ever tell you just how dumb you are?
+
+0x7EF8A1B7 = ~z~~sl:0.0:2.3~Why don't you go and make us some money or~sl:0.2:2.0~get us some food if you're so full of energy.~sl:~You get that?
+
+0x9B845ACE = ~z~~sl:0.0:1.3~Do something useful.~sl:0.3~Both of ya!
+
+0x79EE0877 = ~z~Alright, now you're pushing it.
+
+0xAD46FE53 = ~z~Whatever you say boss.
+
+0xAFB3064F = ~z~I'm a what?
+
+0xC2752BD3 = ~z~~sl:0.0:1.0~Hey Bill.~sl:1.2~Anyone ever tell you you're a moron?
+
+0xF6440121 = ~z~
+

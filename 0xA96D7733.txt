@@ -1,0 +1,310 @@
+0x01EC2000 = ~z~Hey, I am defending my honor here.
+
+0x04903D32 = ~z~~sl:0.0:2.1~I told you when you did it the first time...~sl:~and I told you this morning not to pick on that boy.
+
+0x07C3AC1E = ~z~~sl:0.0:1.5~Oh, goddammit.~sl:~You shut that hole or I'mma shut it for you.
+
+0x0842CBF4 = ~z~You're smart.
+
+0x0976D6F4 = ~z~~sl:0.0:1.6~I got my pride and you...~sl:~you're muddying my boots.
+
+0x0CE70DCD = ~z~You are out of your mind.
+
+0x0DB27EEB = ~z~Shut it and ready up.
+
+0x0EE0D842 = ~z~What? Want some too? I got plenty lead.
+
+0x1BB0FB68 = ~z~~sl:0.0:1.9~You just talking big, or you serious?~sl:0.6~You threaten me, I shoot back.
+
+0x1D3D48E8 = ~t~In Spanish: You're crazy!
+
+0x1D5E78DB = ~z~I said ready up.
+
+0x1E07300D = ~z~~sl:0.0:2.2~I don't think, I know you is.~sl:~I didn't expect to see you here, but I got you. So ready up.
+
+0x2B0ED079 = ~z~Oh, that goes both ways. Just leave me alone.
+
+0x2C2BFCE5 = ~z~~sl:0.0:2.7~You questioning my honor? I see you looking.~sl:0.5~You aiming for more than that?
+
+0x2E66E82D = ~z~~sl:0.0:2.6~I see just fine. I know who you are,~sl:~and I know the price on your head.
+
+0x2F108687 = ~z~I'll tell your family where to find you.
+
+0x4CDD8C8F = ~z~Damn right. I did what I had to.
+
+0x4DF76454 = ~z~Hijos de puta. Those 'men'...
+
+0x4F6D349C = ~z~Well, that's some good done.
+
+0x5C06850F = ~z~She drew first. No arguing that.
+
+0x5D914681 = ~z~~sl:0.0:1.8~I don't know what you talking about.~sl:~You think just because I'm Mexican, I'm Del Lobo?
+
+0x5DC3A8B9 = ~z~Need to cash this in before it starts to stink.
+
+0x5DE2E2B3 = ~z~Goddamn you! I was defending myself!
+
+0x5F84FB97 = ~z~Stay out of this.
+
+0x5FE80D32 = ~z~Well alright, then!
+
+0x6B82FC36 = ~z~Finally. At least you admit it.
+
+0x6BF95FCB = ~z~Gonna make that idiot buy me some more bullets.
+
+0x7AAEAF0F = ~z~Oh, y'all got something to say? Say it then.
+
+0x7C658F14 = ~z~~sl:0.0:3.0~Oh yeah? Then why you nothing, chica?~sl:~You think that gun makes you a bounty hunter?
+
+0x7F5A0072 = ~z~Bet I'm serious. You disrespecting all of us by breathing.
+
+0x8B45D947 = ~z~Dammit. Dammit! They'll want me for this too...
+
+0x8BBB4999 = ~z~You get this rope off!
+
+0x8D06D641 = ~z~Who do you think I am?
+
+0x8E845EBC = ~z~Oh, real noble! Damn you to hell!
+
+0x8FAD15E7 = ~z~~sl:0.0:3.7~You talk too much, hayseed. Ain't no one gonna miss you,~sl:~'cept... maybe that idiot brother.
+
+0x9E9A877E = ~z~You keep away from this bounty. It's mine, dammit.
+
+0x9E69EEF6 = ~t~In Spanish: Little shit, I'll kill you!
+
+0x14C7129D = ~z~~sl:0.0:2.5~You look surprised. Don't be.~sl:~I'll take you too, you try me.
+
+0x19DD4D52 = ~z~What? Fine. Fine.
+
+0x21F85F2C = ~z~What are you doing? You piece of shit!
+
+0x27DC7C9B = ~z~Goddamn right.
+
+0x29C74D60 = ~z~Y'all stay back now. That's my bounty. You try me, you're next.
+
+0x29D5150D = ~z~Any of you want to try me? I would not advise it.
+
+0x29E49AC6 = ~z~Okay... let's get this over with...
+
+0x31E67FF4 = ~z~Stay out of it!
+
+0x32EE9B4A = ~z~~sl:0.0:4.3~Listen, all of you, I was minding my own business...~sl:~that a problem?
+
+0x37D5031B = ~z~This ain't right! Damn you!
+
+0x41E95257 = ~z~Okay, good. Just be on your way then.
+
+0x50E739C8 = ~z~Fourth bounty. What do you say to that now, huh?
+
+0x77BB195B = ~z~You looking to join her? You're close.
+
+0x79EEE257 = ~z~Yeah. Good. Leave me alone.
+
+0x80A28719 = ~z~That was fun, too.
+
+0x87C584CC = ~z~You git.
+
+0x91EA4FF3 = ~z~Listen, I was minding my own business. He attacked me. You got a problem, eh? Any of you?
+
+0x92F8CB29 = ~z~I... I never wanted to hurt you.
+
+0x128F91F0 = ~z~Watch out...
+
+0x286FDE6C = ~z~Still my bounty.
+
+0x329D6B8F = ~z~What, you think I'm someone, too? I'm defending myself, no mas.
+
+0x454F20A6 = ~z~Well maybe you don't see so good.
+
+0x580A6425 = ~z~~sl:0.0:3.4~Enough. You're still sore about the damn joke?~sl:~The idiot laughed as much as the rest of us.
+
+0x592BF712 = ~z~Like those drunk hijos de puta could ever shoot that good. Hmph.
+
+0x679D3C0E = ~z~This one's crazy. Keep your distance.
+
+0x734ABE5A = ~z~No, no! I am no Del Lobo! I swear it on my mother's grave!
+
+0x786E0914 = ~z~You keep following I'm gonna do something about it!
+
+0x896C7665 = ~z~Don't you talk about us I'm sick of it.
+
+0x1270E9E6 = ~z~~sl:0.0:2.1~Hayseed? You son of a bitch!~sl:~I oughta put you in the dirt for talk like that.
+
+0x2166E2F5 = ~z~You done for now!
+
+0x2503E35E = ~z~Keep out!
+
+0x2798E186 = ~z~~sl:0.4~What a load of shit you are. All talk, pobre chica.
+
+0x2841F796 = ~z~Best you stay out of this, believe me.
+
+0x6620E402 = ~z~Dios mio. Why you make me do that?
+
+0x7583ECC6 = ~z~You're a goddamn hayseed just like your hayseed brother.
+
+0x7936D5FA = ~z~You're cold.
+
+0x9535C116 = ~z~So... so what now? Can't we just work this out?
+
+0x9864F502 = ~z~~sl:0.0:1.6~How you think the idiot feels?~sl:~You deserve a lot more'n what I said.
+
+0x11339E17 = ~z~Great. Gonna need a new suit...
+
+0x31721F72 = ~z~You got no business here.
+
+0x55844A00 = ~z~Okay... okay fine. Get ready.
+
+0x59751B6E = ~z~You keep your distance. That there's a killer, and I'm gonna collect. Don't try me.
+
+0x283369BD = ~z~Should've kept your mouth shut.
+
+0x651635C9 = ~z~You're about to look the same as that one on the ground.
+
+0x1125912A = ~z~Everyone's got an opinion.
+
+0x3701840B = ~z~You're a goddamn Del Lobo. I seen your face on the poster.
+
+0x9317177C = ~z~Goddamn you too.
+
+0x26386608 = ~t~In Spanish: Let's go,
+
+0x38683936 = ~z~~sl:0.0:1.0~Don't think so.~sl:0.0:2.6~You shot two men outside Blackwater Saloon.~sl:~Folk saw you and described you just right for the picture.
+
+0x52972624 = ~z~Who do you think you are?
+
+0x56596784 = ~z~Hey. I see you. This is my bounty.
+
+0x60971927 = ~t~In Spanish: Goddamn you!
+
+0x87742593 = ~z~Too late!
+
+0x96480700 = ~z~~sl:0.0:2.6~Don't you lie to me, don't you keep lying.~sl:~I saw your picture.
+
+0x99161174 = ~z~Too late.
+
+0xA08B720E = ~z~She asked for this! She's insane!
+
+0xA1FC7371 = ~z~What? What, huh? You got an opinion?
+
+0xA2D84833 = ~z~Shit... I didn't want any of this.
+
+0xA6BC6D15 = ~z~Hey, hey! What the hell? You piece of shit!
+
+0xA86D8CCB = ~z~I... too much killing.
+
+0xA3711BDF = ~z~Ain't no misunderstanding, I know what I saw.
+
+0xA8069D8C = ~z~Okay, you're in for it. Ready up...
+
+0xAA908DE6 = ~z~Fine. I'll put you down fast.
+
+0xAB7821DA = ~z~I ain't no business of yours!
+
+0xAD8C9BCF = ~z~Well, good. Nice to see some integrity 'round here.
+
+0xAD36BA71 = ~z~I'm only dealing with one body.
+
+0xADD7ACB3 = ~z~What? What do you want? You want some too?
+
+0xAFD69E7F = ~z~Goddamn you then!
+
+0xB09B3633 = ~z~~sl:0.0:2.2~You don't give me a chance to defend myself.~sl:0.0:1.8~You just come after me?~sl:~We been through a lot, you and me.
+
+0xB1D68215 = ~z~The righteous hand's the steady hand.
+
+0xB6D15CA6 = ~z~What the hell is your problem?
+
+0xB6F44B76 = ~z~Okay... okay. I am done here...
+
+0xB378D0B4 = ~z~Oh, you want this bounty? You gonna draw for it. Ready up.
+
+0xB66893E5 = ~z~This has nothing to do with you.
+
+0xBA8EE2D7 = ~z~Oh, cheating Susan! I'll gut you!
+
+0xBB410FDA = ~z~Nose elsewheres!
+
+0xBBE6F98B = ~z~That's it! You goddamn sow lover!
+
+0xBC3990C0 = ~t~In Spanish: Little shits.
+
+0xBEEF87AE = ~t~In Spanish: I'll make it better...
+
+0xC09DA182 = ~z~Alright then. Get yourself ready.
+
+0xC4C1D46D = ~z~Don't follow me!
+
+0xC5B9CCB3 = ~z~Gonna make some money with you...
+
+0xC8D67990 = ~z~Yeah, figured. Yellow as my shits.
+
+0xC91EEFCB = ~z~In Spanish: Oh my God.
+
+0xC173F828 = ~z~Move it. Don't concern you.
+
+0xC715A6A9 = ~z~Fine then!
+
+0xC4788CB7 = ~z~Pobre chica, huh?
+
+0xC4096282 = ~z~~sl:0.0:1.2~My picture?~sl:~You say this to every man that looks like me, huh?
+
+0xC7553735 = ~z~Some Lobo you was.
+
+0xCADF93C7 = ~z~Someone with sense. Okay.
+
+0xCC1221F3 = ~z~It was nothing.
+
+0xD3477CB7 = ~z~Oh... mierda... lo siento...
+
+0xD20840A8 = ~z~~sl:1.0:3.7~Now you all delicate. How'd you even get this far,~sl:~you and that ass-headed brother of yours?
+
+0xDB639A4E = ~z~Hijo de puta.
+
+0xDC4E50F1 = ~z~What you looking at, huh?
+
+0xDC6EE9D4 = ~z~She confused me! I'm no one! Leave me be!
+
+0xDDD1A46D = ~z~What choice did I have?
+
+0xDF47BB8E = ~z~Who's the hayseed now, huh? Huh?
+
+0xDFA807B3 = ~z~~sl:0.0:1.8~were trying to push me into their wagon.~sl:~They grabbed me and I warned them and they grabbed me again.
+
+0xE0241E7C = ~z~This is between us.
+
+0xE2D13FFF = ~z~Seems you want me to quiet you up some.
+
+0xE4D80EB5 = ~z~He sees you and your hayseed brother laughing, he laughs too.
+
+0xE7107CE2 = ~z~Shut up!
+
+0xEBFE1C2D = ~z~~sl:0.0:3.0~Yeah, y'all saw I did what I had to do.~sl:~I'll do to it anyone what needs to. Y'all hear me?
+
+0xECEC01C8 = ~z~Not your business!
+
+0xED3418F8 = ~z~~sl:0.0:3.7~Y'all see what I can do. Any of you wanna taste?~sl:~I got plenty of lead.
+
+0xEDE7BA03 = ~z~This don't concern you.
+
+0xEDE54ADB = ~z~~sl:0.0:3.2~Save the sob story. I ain't interested.~sl:~You're getting a rope or a bullet, right now.
+
+0xEFE3F21D = ~z~~sl:0.0:3.8~No, the three bounties I took in make me a bounty hunter.~sl:~This gun's to make sure they're quiet.
+
+0xF1D1D83A = ~z~Did that to yourself.
+
+0xF3A9AC58 = ~z~I know he laughed. He don't understand what you said.
+
+0xF4BBA999 = ~z~What are you looking at, eh? You got something to say?
+
+0xF90D8378 = ~z~You asked for it!
+
+0xF9627C93 = ~z~And don't you call me that! Goddamn you. I saw what I saw!
+
+0xF73907C9 = ~t~In Spanish: Son of a bitch!
+
+0xFC1A6745 = ~z~~sl:0.0:2.0~Pobre chica, you'll see.~sl:~You'll see what happens to women who fight back.
+
+0xFC8F0F6D = ~z~~sl:0.0:2.5~I been looking for you some time.~sl:0.0:3.5~Near got you at camp two nights ago.~sl:~Saw you roasting that little rabbit.
+
+0xFFB3A757 = ~z~You keep away!
+

@@ -1,0 +1,114 @@
+0x05C50B99 = Return to the ~o~shore~s~
+
+0x0D7C281F = Rotate
+
+0x0E04A303 = Cannon
+
+0x1A609F3A = Take out the ~e~guards~s~
+
+0x2DECBD33 = You blew your cover.
+
+0x2FACA172 = Mount your ~o~horse~s~
+
+0x3DD94D34 = You left the fort without Eagle Flies.
+
+0x4D21FAB8 = Lantern
+
+0x6BC09A62 = Take Keys
+
+0x6C2AF698 = Go to the ~o~walkway~s~
+
+0x6CCE3AD3 = Hold ~INPUT_AIM~ to aim the bow.
+
+0x6F599498 = Your horse died.
+
+0x8B26C939 = Eagle Flies
+
+0x8BCCE366 = Take the Lead
+
+0x8BE66FCE = On approaching the guard with the knife hold ~INPUT_AIM~ and press ~INPUT_MELEE_ATTACK~ to execute a stealth kill.
+
+0x8E1D5E42 = Take out the ~e~guards~s~
+
+0x9DBA1CAB = Get back on your ~o~horse~s~
+
+0x11D53E24 = The shore was abandoned.
+
+0x11E9DB74 = Wall
+
+0x28B012B3 = Go to ~o~Charles~s~
+
+0x41CD0CEC = Destroy the ~e~wall~s~
+
+0x56B63FAC = Canoe
+
+0x75A2AE84 = You attacked a civilian.
+
+0x76DD37CB = Pick-up
+
+0x91FDC069 = The canoe got stuck.
+
+0x265A3BBF = Climb up the ~o~tower~s~
+
+0x319A4DA9 = Follow ~o~Charles~s~
+
+0x4036CDBE = Send Charles
+
+0x4226F358 = Stealth kill the ~e~guard~s~
+
+0x4674DC1E = The lantern destroyed wasn't close enough to the supplies.
+
+0x6153C7AD = Search the ~o~guard~s~ for the keys
+
+0x6379D8FE = Follow ~o~Charles~s~ down the river
+
+0x6719F564 = Charles
+
+0x7253F6B2 = Head to the ~o~shore~s~ of the river
+
+0x60122F2A = Take out either ~e~guard~s~
+
+0x66229F43 = Speak to ~o~Rains Fall~s~
+
+0x85836FB2 = Fort
+
+0x480447D2 = Cross the ~o~river~s~
+
+0x3090502B = Silently shoot the ~o~lantern~s~
+
+0x9337758B = Get back in the ~o~canoe~s~
+
+0x90853869 = The guards were alerted.
+
+0xA24FE65B = The canoe was wrecked.
+
+0xAB7BE048 = Follow ~o~Eagle Flies~s~
+
+0xB1389DCD = While aiming hold ~INPUT_ATTACK~ until the aiming circle is the size of the reticle then release.
+
+0xCB56F83B = Take out the ~e~guards~s~
+
+0xCD169361 = Take the keys from ~o~Charles~s~
+
+0xD11CBC0D = Door
+
+0xDDA79CDC = Get in the ~o~canoe~s~
+
+0xDED842B4 = Open the jail ~o~door~s~
+
+0xE7C1B110 = Follow ~o~Charles~s~ to the river
+
+0xE826E128 = Rains Fall's tent
+
+0xEBF4B29E = Tap ~INPUT_VEH_BOAT_ACCELERATE~ to paddle the canoe.
+
+0xEC395C31 = Guard
+
+0xED670539 = Charles
+
+0xF3D10C6B = Open
+
+0xFD8DF9E9 = You lost Charles and Eagle Flies.
+
+0xFE27329B = Enter Tent
+

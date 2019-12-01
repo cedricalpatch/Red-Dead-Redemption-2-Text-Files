@@ -1,0 +1,46 @@
+0x0C3605A4 = ~z~You worry about your horses, not me.
+
+0x1DD128DA = ~z~Alright, none of my business.
+
+0x3DE0E1FC = ~z~I'm fine, don't you worry about me.
+
+0x7E9D51DA = ~z~Oh, sir, are you feeling alright?
+
+0x7F0DFDA1 = ~z~It's just a cough.
+
+0x8C579834 = ~z~Some bad flu going around.
+
+0x10A0A0C8 = ~z~You, er, come down with something there, partner?
+
+0x23E9A9AF = ~z~Really! You seemed happy with the portrait at the time
+
+0x63F88733 = ~z~How you doing there, sir?
+
+0x68FED183 = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0x86F9FB32 = ~z~You don't look so good.
+
+0x91CAF829 = ~z~You just look... a little pale there.
+
+0x135A59CC = ~z~Hello there, sir. I hope that portrait of the two of you is hanging in pride of place.
+
+0x992F71A0 = ~z~You alright there, sir?
+
+0x5239E3B6 = ~z~Something you need, friend?
+
+0x7554D7E8 = ~z~Hey there, mister. You okay?
+
+0x8864D00B = ~z~Everything alright, sir?
+
+0x9103F6A7 = ~z~Why?
+
+0x64141CBC = ~z~I'm fine.
+
+0xA38722CD = ~z~Half of the handsome couple. Good to see you again, sir.
+
+0xAB021545 = ~z~Can I help you, sir?
+
+0xC5B24AA5 = ~z~You looking for anyone, partner?
+
+0xD77BEE38 = ~z~You need something, friend?
+

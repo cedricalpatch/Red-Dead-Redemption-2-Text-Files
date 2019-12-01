@@ -1,0 +1,16 @@
+0x0C72FCA6 = ~z~We robbed a bank!
+
+0x19EC9967 = ~z~He's back, Arthur's back!
+
+0x7779D480 = ~z~Come on!
+
+0x8140E80E = ~z~Whoo! Let's have a party!
+
+0xB2B24926 = ~z~Let's have a party, let's play something fun and forget about this awful world.
+
+0xC4EBED99 = ~z~Uncle, come on, bring some drink over, play some music!
+
+0xDEB8A132 = ~z~
+
+0xFA35582B = ~z~I robbed a bank!
+

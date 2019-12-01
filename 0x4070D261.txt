@@ -1,0 +1,42 @@
+0x1E4A0989 = The camera is too far from Flaco Hernandez to capture a good likeness. Try moving closer to the corpse.
+
+0x2E16A907 = Take out ~e~Flaco Hernandez~s~
+
+0x3E2A5F49 = Flaco Hernandez's head is not visible to the camera. Make sure it is in frame and not obscured.
+
+0x4FDF8218 = Search
+
+0x7AF01AC3 = Defeat ~e~Flaco Hernandez~s~ in the duel
+
+0x7BB2E5FC = Return to ~o~Flaco Hernandez
+
+0x7F24DF25 = Callout
+
+0x16EB0989 = Defuse
+
+0x74B5D802 = Return to the ~o~camp~s~
+
+0x76E0047D = Flaco Hernandez's corpse is not visible to the camera. Make sure you are facing him and he is not obscured.
+
+0x81FED71F = Flaco Hernandez
+
+0x92E7F64A = The camp was abandoned.
+
+0x9443C9A0 = Go to the ~o~shack~s~
+
+0x9732FB3E = Take a closeup photo of ~o~Flaco Hernandez~s~
+
+0x863233D2 = Defeat the ~e~Del Lobo~s~
+
+0xA212C2C9 = Threaten
+
+0xA7749F6F = You abandoned Flaco Hernandez.
+
+0xB12DB2E1 = You failed to take a photo of Flaco Hernandez.
+
+0xC13133E3 = Holster your weapons
+
+0xD1696647 = Flaco's Man
+
+0xE2AC5E8F = Search the ~o~camp~s~ for Flaco Hernandez
+

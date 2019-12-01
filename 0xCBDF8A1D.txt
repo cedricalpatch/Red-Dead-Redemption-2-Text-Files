@@ -1,0 +1,622 @@
+0x009F34D6 = ~z~No...
+
+0x0152A4D3 = ~z~I'm ready... I hope they make it quick.
+
+0x01EEB515 = ~z~Quit that talk. Just be strong, boy.
+
+0x02B2B050 = ~z~Oh no, you don't.
+
+0x03371BA0 = ~z~You take pleasure in this, don't you?
+
+0x03E2C28A = ~z~This is Rhodes... you're almost rid of me.
+
+0x0558708B = ~z~No!
+
+0x057A411F = ~z~How you holding up in there?
+
+0x0598834C = ~z~Don't you believe in redemption? I worked the land. I raised a family. I redeemed myself. Please.
+
+0x07B3C5C6 = ~z~You made a wife a widow and a boy fatherless, you son of a bitch. And you coming here to gloat about it?
+
+0x08381E8F = ~z~Please.
+
+0x086A1A04 = ~z~He ain't trying is all. Again, boy.
+
+0x0919E17E = ~z~You really cared about that family, you would have done better by them.
+
+0x09D105D9 = ~z~You already collected on me once, mister. There's nothing for you here.
+
+0x0CBCAE14 = ~z~Don't look away, boy. Remember this moment.
+
+0x0D219098 = ~z~~sl:3.6~I can't. I'm beat.
+
+0x0DDAEEFE = ~z~Don't... don't leave us, Pop.
+
+0x0DFB5F9D = ~z~And there ain't no such thing as forgiveness.
+
+0x0EF1A2BB = ~z~I got nothing to say to you.
+
+0x0F420B8E = ~z~You shouldn't have done that. And now look what's happened. Dead because of you.
+
+0x1A3E56E5 = ~z~When you put it like that, it does sound kinda off. I apologize.
+
+0x1A530EFC = ~z~I ain't trouble no more.
+
+0x1B03BF37 = ~z~Leave it, Billy. Please.
+
+0x1B1E858B = ~z~Oh yeah? Like you know how I did? I did everything I could...
+
+0x1BA4FAF0 = ~z~Daddy did a bad thing.
+
+0x1DF4C44B = ~z~Momma, he's hurting him!
+
+0x1E2FF2B2 = ~z~A bounty's a bounty, mister. Don't take it so personal.
+
+0x1F38E0DE = ~z~How you holding up in there? You been through a lot.
+
+0x2B912670 = ~z~only it weren't enough for the state of Lemoyne... or a cowboy carrying a wanted poster.
+
+0x2D04E949 = ~z~If you was ever getting out of here... I'd be worried about you.
+
+0x2D55CCE2 = ~z~Yeah, I'm still here, mister. For now...
+
+0x2D58E9D9 = ~z~My son ain't no quitter. Do it again, boy.
+
+0x2DD02938 = ~z~Let me have some peace in my last hours on earth.
+
+0x2DEBEEF5 = ~z~Heartless bastard.
+
+0x2F429983 = ~z~You're gonna answer for that!
+
+0x3A4C9717 = ~z~I was making a life!
+
+0x3A55FC51 = ~z~Dammit. My head.
+
+0x3A88ED2C = ~z~I swear, I'm a good man now, Sheriff. I got a son.
+
+0x3ACC6632 = ~z~Your past catches up with ya.
+
+0x3B1E1A1C = ~z~Hey, stop it, mister, stop it!
+
+0x3B5F05FD = ~z~You woman killing sack of shit.
+
+0x3B24687F = ~z~Hey, hey.... you heard tell of my family, huh?
+
+0x3CBF1592 = ~z~He's a murderer, Sheriff!
+
+0x3E54D275 = ~z~I was out in the bayou, wasn't hurting no one.
+
+0x4B99F0DC = ~z~Good men don't get bounties on them. I know that better than most.
+
+0x4DCD5698 = ~z~No! No!
+
+0x4E1F6BBD = ~z~We knew this might happen. Be thankful for the time you had.
+
+0x5AD2830F = ~z~It's a bit late for running, Johnson.
+
+0x5C4A0806 = ~z~
+
+0x5C55937A = ~z~I might'a done things, but I changed.
+
+0x5D0BF515 = ~z~Sweet girl!
+
+0x5D9635A3 = ~z~There he is. Like the poor boy said.
+
+0x5EEFD598 = ~z~Things happen. You know how it is.
+
+0x5F598C50 = ~z~I hope you ain't ever in this position.
+
+0x6AFC30C7 = ~z~A no good killer.
+
+0x6B365C42 = ~z~I've made my peace.
+
+0x6CC8A72E = ~z~I can't let you do that.
+
+0x6DB4AADB = ~z~There, there. You're the man now.
+
+0x6EAE2601 = ~z~I just wanted to say goodbye.
+
+0x6F267605 = ~z~Bounties is a rough business, Sheriff.
+
+0x6FA97C58 = ~z~I ain't going to fight you in front of my family.
+
+0x7A55642A = ~z~Hey! Give him up!
+
+0x7C2CB481 = ~z~I ain't raising no goddamn sissy.
+
+0x7F754E5C = ~z~
+
+0x7F12209D = ~z~It's all damn pointless. Nothing counts for nothing.
+
+0x8A1763A0 = ~z~Remember your daddy. You might not see him again.
+
+0x8E7C031E = ~z~Let him in, he's been trying for hours.
+
+0x8EEB3D02 = ~z~If you're gonna take me in, take me in.
+
+0x8F836038 = ~z~Okay, okay. He'll get there next try.
+
+0x9A237DD5 = ~z~You're going to answer for this.
+
+0x9AB20F9F = ~z~Make it quick.
+
+0x9ACF8FF7 = ~z~Just... let me say goodbye to my boy.
+
+0x9B77B4F0 = ~z~This is Rhodes... you're almost rid of me.
+
+0x9B276E97 = ~z~I guess how rough I am is my call to make.
+
+0x9BE10733 = ~z~
+
+0x9C1D5C17 = ~z~We knew you was coming. I got something to ask...
+
+0x9C811265 = ~z~Take me or let me loose.
+
+0x9CC5074F = ~z~When you put it like that, it does sound kinda off. I apologize.
+
+0x9E479E03 = ~z~No more games, alright?
+
+0x9E299897 = ~z~Just you're real quiet back there.
+
+0x9F9B88B9 = ~z~You'll pay. You'll pay.
+
+0x9F410970 = ~z~Don't hurt him, mister.
+
+0x9FFB381F = ~z~Damn your eyes, go.
+
+0x14C679AB = ~z~I'll kill you, you cold bastard!
+
+0x15A16607 = ~z~I'm ready... I hope they make it quick.
+
+0x15C47509 = ~z~It'll come around, mister. And it will bite you.
+
+0x15F80E91 = ~z~You got no call to raise that on them!
+
+0x18A4BF4C = ~z~Just a few words, huh?
+
+0x20F17701 = ~z~Oh God. Run, boy. Go!
+
+0x22A792A6 = ~z~Come back, you little sneak.
+
+0x25BF6C3A = ~z~Leave my daddy alone!
+
+0x26A11CC1 = ~z~Hush, we're proud of you boy.
+
+0x26BFDCF7 = ~z~Most captured men, they beg, or they cry, or they rail against fate.
+
+0x27BE8E91 = ~z~It don't feel like much of a country for forgiveness.
+
+0x28CE49B7 = ~z~I built a home... out in godforsaken county. Land no one would want. I made amends, I promise.
+
+0x32AA8ABB = ~z~I didn't take it someone else would have.
+
+0x43ECB51F = ~z~Come back.
+
+0x44EB9158 = ~z~I hope you in there thinking on all the misery you caused?
+
+0x45D45AF6 = ~z~It ain't my place to make judgements. All of this is on you, Johnson.
+
+0x47DD8613 = ~z~Look at him, he's worn through.
+
+0x49A3A286 = ~z~But nothing... nothing I did compared to the evil you caused, serving warrants for the state of Lemoyne.
+
+0x50DF4438 = ~z~I'm gonna hang, and what's that gonna do? For anyone?
+
+0x52AFD1F0 = ~z~Things happen. You know how it is.
+
+0x56B99557 = ~z~I think that's all your friends, ain't it?
+
+0x58CCF9C4 = ~z~You'll find redemption in a chain gang, or on the end of a rope. That's all.
+
+0x58D75C44 = ~z~Damn you.
+
+0x62AD1F0B = ~z~Leave us alone, sir.
+
+0x63B88A3B = ~z~Maybe you weren't. But those partners of yours were a rough bunch.
+
+0x63ED746B = ~z~Bounties is a rough business, Sheriff.
+
+0x64D252D3 = ~z~~sl:3.9~My arms are like rope.
+
+0x66C1B567 = ~z~He murdered my woman, he's the one you should arrest!
+
+0x67F0DF20 = ~z~Sir, I was a bad man. I robbed stage coaches and I killed a feller.
+
+0x69A4E7DF = ~z~Now be a man, boy.
+
+0x70B44D35 = ~z~I love you, Daddy.
+
+0x70C72F68 = ~z~Is that a joke? You catch a man... you kill his wife... then you come to the jail cell playing priest?
+
+0x71ADD9B3 = ~z~He will be if he don't get up there.
+
+0x74D345F3 = ~z~What?
+
+0x75E4B9CD = ~z~Good men don't get bounties on them. I know that better than most.
+
+0x79DC6218 = ~z~Oh no, you don't.
+
+0x81EF200D = ~z~My boy will tell you. He killed my wife.
+
+0x84F1045C = ~z~You killed his wife... we aren't going to let you take him too.
+
+0x86F7C4D3 = ~z~That ain't how the world works...
+
+0x87F5D97A = ~z~What you did to her... it's gonna catch up with you.
+
+0x90E499F2 = ~z~Get out, you son of a bitch!
+
+0x93B77A03 = ~z~Make it quick.
+
+0x93F2B1CE = ~z~I'm who you want!
+
+0x94D99546 = ~z~I can't let you do that.
+
+0x95D3D587 = ~z~Okay.
+
+0x96F0B6DD = ~z~That son of a bitch...
+
+0x118A04CB = ~z~It's that murdering son of a bitch...
+
+0x160C2433 = ~z~We all deserve second chances. Every one of us.
+
+0x185ABF81 = ~z~Hold on. Won't be long 'til we're in Rhodes.
+
+0x188F5E79 = ~z~Come back, you little sneak.
+
+0x212F8ABA = ~z~That's the price for Johnson.
+
+0x274CFBF4 = ~z~It's a bit late for running, Johnson.
+
+0x281BD7DD = ~z~You didn't have to be that rough.
+
+0x291EB55A = ~z~You send one to catch one. That's the theory.
+
+0x307A7626 = ~z~You're a devil, mister.
+
+0x448DAB99 = ~z~I was being good. Don't you get it?
+
+0x514DA09D = ~z~Murdering bastard.
+
+0x554F1F62 = ~z~Heartless bastard.
+
+0x624C6F91 = ~z~Murdering bastard.
+
+0x630E13F6 = ~z~How you holding up in there? You been through a lot.
+
+0x813A5B39 = ~z~Found this feller on a small holding – name's Mark Johnson.
+
+0x814A0A60 = ~z~No more games, alright?
+
+0x838BF951 = ~z~It's the man that brought me in...
+
+0x849D3E4F = ~z~Momma... Momma...
+
+0x849F750B = ~z~Enough with that. Just remember what I said, boy.
+
+0x946EDEAE = ~z~Sure will be.
+
+0x955D58B6 = ~z~They're here for your bounty. Come to momma, boy.
+
+0x960E8EAC = ~z~Run, boy. This ain't a good man.
+
+0x991A1F34 = ~z~Hey! Are we going?
+
+0x1738BFCF = ~z~That son of a bitch...
+
+0x2133AF71 = ~z~Dammit, I knew you was being quiet.
+
+0x2494ABCA = ~z~That's a woman and child!
+
+0x3298AD5C = ~z~I'm not listening.
+
+0x4466D0F8 = ~z~Everyone's got a sob story, Johnson.
+
+0x4519ECD4 = ~z~Lower that weapon!
+
+0x5723E96C = ~z~I been thinking... if you knew bounty hunters was coming, why didn't you run?
+
+0x6385BBCF = ~z~You're in charge now, boy. You take care of things.
+
+0x7491F89E = ~z~Johnson? Johnson?
+
+0x8614DEBE = ~z~You're a forgiving man.
+
+0x9139B1F1 = ~z~Just you're real quiet back there.
+
+0x9434E849 = ~z~Am I free to go?
+
+0x10643E4D = ~z~I guess how rough I am is my call to make.
+
+0x25526D0D = ~z~What's the matter with you?
+
+0x37690F8D = ~z~Billy, leave it!
+
+0x63973E59 = ~z~You're a monster, mister.
+
+0x70714F42 = ~z~Damn you.
+
+0x75530D1F = ~z~Who else was gonna work that land?
+
+0x82478C4F = ~z~If you was ever getting out of here... I'd be worried about you.
+
+0x85622EA3 = ~z~There, Billy. There, there.
+
+0x88057E9F = ~z~Okay.
+
+0x98963D95 = ~z~Let's go see the sheriff.
+
+0x215395F3 = ~z~Boy. Boy, come here. Listen.
+
+0x298616B2 = ~z~It's just us now, son. It's just us.
+
+0x594568DC = ~z~Surely it's about noose time for you?
+
+0x760760D2 = ~z~Enough. We got a ways to go.
+
+0x2976349F = ~z~My son's gonna be an orphan, mister.
+
+0x3080307F = ~z~
+
+0x6018326A = ~z~They haven't hanged me yet, if that's what you're thinking.
+
+0x6573024C = ~z~Go to hell.
+
+0x9467984E = ~z~You aren't collecting this bounty!
+
+0x13313049 = ~z~Don't you hurt them!
+
+0x17289004 = ~z~I spit on you.
+
+0x22771286 = ~z~A bounty's a bounty, mister. Don't take it so personal.
+
+0x35512174 = ~z~How's that?
+
+0x50353387 = ~z~Enough. We got a ways to go.
+
+0x52669707 = ~z~If it isn't the Sheriff's errand boy.
+
+0x54667623 = ~z~Come back.
+
+0x56754180 = ~z~You're the man now.
+
+0x57171455 = ~z~I can't, Daddy. Please.
+
+0x80863242 = ~z~I love you, Daddy.
+
+0x93648081 = ~z~Enough of that. You came for him, didn't you?
+
+0xA03E2BBC = ~z~Hold on. Won't be long 'til we're in Rhodes.
+
+0xA0889FC1 = ~z~Billy don't got a momma 'cause of this son of a bitch!
+
+0xA0F1B162 = ~z~Release your man! Now!
+
+0xA1CD04CB = ~z~Would you end this madness?
+
+0xA2C35504 = ~z~What?
+
+0xA3DC86CF = ~z~I'd done my running... I just thought... after all that time, maybe I'd be forgiven.
+
+0xA7EBAA12 = ~z~You're a forgiving man.
+
+0xA17C2ADB = ~z~You shouldn't have done that. And now look what's happened. Dead because of you.
+
+0xA53B242E = ~z~Is this necessary? You're scaring the boy.
+
+0xA237CE58 = ~z~Hey, over here! Over here, hey!
+
+0xA610EE9A = ~z~Who else is gonna raise that boy?
+
+0xA1960E5B = ~z~Let him go back to his family... or you're gonna have trouble with us.
+
+0xA6668CAC = ~z~Why you do that to my family then let me go?
+
+0xA7920D24 = ~z~Found this feller on a small holding – name's Mark Johnson.
+
+0xA8167B28 = ~z~This is Rhodes... you're almost shot of me.
+
+0xA18290F4 = ~z~You really cared about that family, you would have done better by them.
+
+0xAB15E551 = ~z~He's spent. Let him rest.
+
+0xAD3D392A = ~z~He's a killer! Get him already!
+
+0xAD3FFE5C = ~z~Don't shoot. I'm unarmed.
+
+0xAD76D0BA = ~z~What is this about? You letting me free?
+
+0xAE4B0F14 = ~z~Sure will be.
+
+0xAFDAAAE4 = ~z~There he is. Like the boy said.
+
+0xB1C77FBD = ~z~You can only run so long, son. There's your cell... you're lucky it's not a grave.
+
+0xB3F6469C = ~z~Good boy. You got them. Just like Daddy told you.
+
+0xB3FB9E23 = ~z~I'm a dead man walking... only I got about six foot of space to do it in. My boy, you think he'll handle all this?
+
+0xB4BE38ED = ~z~We're going to look after each other now.
+
+0xB8E880F6 = ~z~~sl:2.4~I can't do it, Daddy.
+
+0xB31D55B9 = ~z~Release him!
+
+0xB32DCE3E = ~z~Dammit, I knew you was being quiet.
+
+0xB34D1F0C = ~z~I'm a changed man, okay?
+
+0xB110DE1E = ~z~How's that?
+
+0xB596E205 = ~z~This ain't happening.
+
+0xB726F60D = ~z~Sir, I was a bad man. I robbed stage coaches and I killed a feller.
+
+0xB33549F2 = ~z~My momma!
+
+0xB1962242 = ~z~I been thinking... if you knew bounty hunters was coming, why didn't you run?
+
+0xB4032937 = ~z~~sl:4.1~Pop, I can't.
+
+0xBAE030D2 = ~z~That's a boy. I knew you'd do it. Just like Daddy told you.
+
+0xBC565ED2 = ~z~He ain't no kind of man 'til he can get on a horse.
+
+0xBDEBD851 = ~z~What you doing? What you up to, mister?
+
+0xBFB1EAF6 = ~z~I hope you ain't ever in this position.
+
+0xBFE5C873 = ~z~Boy, you're the man now. You can't be soft no more!
+
+0xC00BD97A = ~z~Are you gonna take me or what?
+
+0xC1A7D1E6 = ~z~He's showing us clemency.
+
+0xC3BFD56E = ~z~only it weren't enough for the state of Lemoyne... or a cowboy carrying a wanted poster.
+
+0xC4C76F80 = ~z~I don't want to hang.
+
+0xC5E79AFF = ~z~Sweet girl. She didn't do nothing to you!
+
+0xC6A045BE = ~z~Let me say my farewells, I'll come away peaceable.
+
+0xC6BFE6E2 = ~z~You gonna take me, take me.
+
+0xC8CDCCBE = ~z~It don't feel like much of a country for forgiveness.
+
+0xC8DF4267 = ~z~Hey, alright, just take me in then. This is hard enough on them already.
+
+0xC95EF8E3 = ~z~We ain't going 'til you get this right.
+
+0xC781AF6F = ~z~You tell yourself that, bounty hunter! You ain't whiter than white. I hope your past catches up with you!
+
+0xC2313A8E = ~z~I don't know... it's gonna be hard.
+
+0xC9719AA2 = ~z~You woman killing sack of shit.
+
+0xCD4B6584 = ~z~Do you have to do this in front of the boy?
+
+0xCE9D3F69 = ~z~This is Rhodes... you're almost shot of me.
+
+0xCF9B6CFB = ~z~What's the matter with you?
+
+0xCF477AD2 = ~z~Most captured men, they beg, or they cry, or they rail against fate.
+
+0xCFAB5A68 = ~z~Get me off of here!
+
+0xD0B25D8B = ~z~~sl:5.2~I'm... I'm sorry, Pop, I'm...
+
+0xD1D17E70 = ~z~You're evil, mister.
+
+0xD4F16BD3 = ~z~Don't you... don't.
+
+0xD4F54B9E = ~z~Now, what was the point in all that? Could'a got your neck broke... prematurely.
+
+0xD6A16865 = ~z~I'd done my running... I just thought... after all that time, maybe I'd be forgiven.
+
+0xD9ABEFB8 = ~z~I'll do these tighter this time.
+
+0xD23B67E2 = ~z~Oh, great.
+
+0xD37E8CD8 = ~z~Mark, help!
+
+0xD227D6CD = ~z~I'm a dead man walking... only I got about six foot of space to do it in. My boy, you think he'll handle all this?
+
+0xD419B763 = ~z~Let me out of these! You'll answer for that.
+
+0xD587FAEC = ~z~That ain't how the world works...
+
+0xD759FD4A = ~z~Go! Before he changes his mind.
+
+0xD7118C7B = ~z~Oh, great.
+
+0xD68467E0 = ~z~Maybe you weren't. But those partners of yours were a rough bunch.
+
+0xD3829414 = ~z~I think that's all your friends, ain't it?
+
+0xDA68E65B = ~z~Now, what was the point in all that? Could'a got your neck broke... prematurely.
+
+0xDAFC9D94 = ~z~Get the boy out of here.
+
+0xDB1EC441 = ~z~He's just a boy.
+
+0xDB62E943 = ~z~I don't know... it's gonna be hard.
+
+0xDCCE4026 = ~z~You send one to catch one. That's the theory.
+
+0xDE2E8C7C = ~z~I said you'd answer for that, and you will, alright!
+
+0xDF69F9E5 = ~z~He ain't much of a bounty hunter. Come on.
+
+0xDFC0C740 = ~z~But nothing... nothing I did compared to the evil you caused, serving warrants for the state of Lemoyne.
+
+0xDFC271FE = ~z~How you holding up in there?
+
+0xE01D7C61 = ~z~~sl:0.4~The boy is crying.
+
+0xE4D92D39 = ~z~Momma!
+
+0xE8CF3939 = ~z~It's like that, is it?
+
+0xE13E2857 = ~z~Stop!
+
+0xE32F94C9 = ~z~Come on, boy. Run.
+
+0xE62F5B9B = ~z~I hope you in there thinking on all the misery you caused?
+
+0xE96D60DE = ~z~I won't take but a moment.
+
+0xE5567E41 = ~z~Oh, no.
+
+0xE439791B = ~z~I'm the one you want. Leave my family be.
+
+0xE756124F = ~z~Not in this world.
+
+0xE3885640 = ~z~You'll answer!
+
+0xEA8708A6 = ~z~No. No.
+
+0xEAB19D8F = ~z~You ran and you kept running. Don't twist this any other way.
+
+0xEB4B2427 = ~z~Surely it's about noose time for you?
+
+0xEB6B4EFE = ~z~Get the hell out!
+
+0xEBD1B72D = ~z~I've changed.
+
+0xEBDBAE3F = ~z~Am I just gonna lie here with my face in the dirt?
+
+0xEEACB3C8 = ~z~Your past catches up with ya.
+
+0xEF07C269 = ~z~I didn't take it someone else would have.
+
+0xEF5A323D = ~z~No, no, no, no.
+
+0xEFC801F9 = ~z~Is that a joke? You catch a man... you kill his wife... then you come to the jail cell playing priest?
+
+0xF3CBC3DA = ~z~Johnson? Johnson?
+
+0xF57A2153 = ~z~Let me have some peace in my last hours on earth.
+
+0xF58C41A9 = ~z~I'll do these tighter this time.
+
+0xF69B4803 = ~z~You're a killer.
+
+0xF113B7F0 = ~z~You can only run so long, son. There's your cell... you're lucky it's not a grave.
+
+0xF932D840 = ~z~Don't!
+
+0xF514380A = ~z~Oh yeah? Like you know how I did? I did everything I could...
+
+0xFA64C2AB = ~z~It ain't my place to make judgements. All of this is on you, Johnson.
+
+0xFAB548B3 = ~z~Exactly as I say, you hear?
+
+0xFCC20CA2 = ~z~You're in charge now, boy. You take care of things.
+
+0xFE147450 = ~z~I don't wanna see your face!
+
+0xFF5A606C = ~z~You're the one who should be in here, murderer.
+
+0xFFE74D63 = ~z~You made a wife a widow and a boy fatherless, you son of a bitch. And you coming here to gloat about it?
+

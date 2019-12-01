@@ -1,0 +1,348 @@
+0x02F1DFA4 = ~z~Look who it is.
+
+0x089C312F = ~z~The exact variety of my sins was the source of some conjecture...
+
+0x0952AF04 = ~z~That ain't very nice.
+
+0x0A7FD13C = ~z~Excuse me?
+
+0x0DE21D86 = ~z~Thank you.
+
+0x0E1CF5FA = ~z~I did not count on seeing that wagon again...
+
+0x1A61D4BA = ~z~here to demean some good ole boys with my fine words.
+
+0x1B4455B7 = ~z~If the doctor asks, there was one horse when I found you.
+
+0x1BA3B909 = ~z~Thank you.
+
+0x1C037443 = ~z~I didn't mean any offense, sir. Please...
+
+0x1C241210 = ~z~Only people you won't be seeing...
+
+0x1DBAFA9F = ~z~He's after that darkie's wagon!
+
+0x1DEEEC89 = ~z~I'm sick of this fool, come on.
+
+0x1DF7E8BE = ~z~Uppity, ain't he? You tell your “friend”, we going to pay him a visit.
+
+0x1EEB5B79 = ~z~No great love of my medical practice...
+
+0x1FCAB203 = ~z~Getting that wagon back would be a great service.
+
+0x2E2A8430 = ~z~Someone told me you got a wagon here don't belong to you.
+
+0x2FBD4053 = ~z~You know this feller don't ya?
+
+0x3A5C9117 = ~z~defenestration and crucifixion they offered me...
+
+0x3C1341E3 = ~z~Where you got the wagon, eh?
+
+0x3D20833C = ~z~Oh no you don't, you... stop!
+
+0x3FED7EB9 = ~z~Well, why you acting so strange?
+
+0x4CAF36F3 = ~z~Just leave it alone won't you?
+
+0x4CC23287 = ~z~Move?
+
+0x4DCFE55C = ~z~Where's the damn wagon?
+
+0x4DF6398E = ~z~Down the road, that away.
+
+0x4FA8BBAF = ~z~That was my impression.
+
+0x5E2A0620 = ~z~Y'all ain't nice.
+
+0x5F885CA5 = ~z~What the hell you want with this thing?
+
+0x6C60A28D = ~z~Grubby little bastards.
+
+0x6C1877C6 = ~z~Stole your wagon over back chat?
+
+0x6D0B7674 = ~z~compared to the gutting, castration...
+
+0x7D2F17FF = ~z~You okay there, mister?
+
+0x7D637FEB = ~z~Travel safe now.
+
+0x7D599747 = ~z~Ah... If you done, boys, I'll go.
+
+0x7E4E9C32 = ~z~They didn't like my medical practice, I suppose.
+
+0x7F9F821B = ~z~Ah, how about this?
+
+0x8A226E13 = ~z~but I can live in glorious hope.
+
+0x8EF33CE0 = ~z~Where you got the wagon, eh?
+
+0x8F363E01 = ~z~I was helping folk.
+
+0x8F623D51 = ~z~I'm sorry for any offense.
+
+0x9A67D270 = ~z~Excuse me?
+
+0x9A425339 = ~z~nothing at all.
+
+0x9ACFD9B3 = ~z~Hey, you don't want to be down here. Off with ya.
+
+0x9BB63930 = ~z~It won't work for anything chronic...
+
+0x9BC6914F = ~z~nor you for that matter.
+
+0x9DEFDB74 = ~z~And that wasn't popular?
+
+0x9E8BDBA4 = ~z~How could you have offended me?
+
+0x9FC5BC12 = ~z~We gotta get outta here.
+
+0x12BCF332 = ~z~Just leave it alone, will you?
+
+0x19D7CCC3 = ~z~You need me to move?
+
+0x25E01589 = ~z~I wanted the wagon, now I want you.
+
+0x29FB2DBE = ~z~are the folks who took it.
+
+0x38D0CB69 = ~z~I take it they aren't the only...
+
+0x46AE8F22 = ~z~Well...
+
+0x48E005F8 = ~z~Okay. Thanks.
+
+0x55E8482E = ~z~Imaginative bunch.
+
+0x61D3C56C = ~z~make sure you come and say hello.
+
+0x64FD71D5 = ~z~I bet I know who told you. Darkie sumbitch. Tell him we'll pay him a call.
+
+0x65D36A5C = ~z~What're you drinking, mister?
+
+0x66CC4C76 = ~z~What're you drinking, mister?
+
+0x75A309FB = ~z~Nothing, sir...
+
+0x76C8EC6F = ~z~That ain't very nice.
+
+0x78A20DA1 = ~z~But...
+
+0x83BC87B2 = ~z~Stay here.
+
+0x90F224BC = ~z~No...
+
+0x91ED26B6 = ~z~Provide a man a tincture...
+
+0x95CDA739 = ~z~Okay, c'mon.
+
+0x97B1B487 = ~z~it was a pleasure.
+
+0x271C8A75 = ~z~I don't get your meaning.
+
+0x317C681A = ~z~are the folks that took it.
+
+0x361D9058 = ~z~Who goes there?
+
+0x465EE685 = ~z~ignorant bullying clodhoppers in these parts...
+
+0x589A4ED6 = ~z~I'm sort of forced to.
+
+0x633D641C = ~z~Which way did they go?
+
+0x636AC9AE = ~z~it was a pleasure.
+
+0x676B63C3 = ~z~Uppity, ain't he? You tell your “friend”, we going to pay him a visit.
+
+0x752D6D33 = ~z~Well...
+
+0x857B101A = ~z~No...
+
+0x889E2D99 = ~z~I felt I got off lightly.
+
+0x895E4E9B = ~z~Over here! Get that feller!
+
+0x963B434A = ~z~Doctor friend of mine lost his wagon... you all ain't seen it have you?
+
+0x990B30F3 = ~z~Imaginative bunch.
+
+0x2196D979 = ~z~Someone told me you got a wagon here don't belong to you.
+
+0x2322CB67 = ~z~Only people you won't be seeing...
+
+0x4280B1CB = ~z~Doctor friend of mine lost his wagon... you all ain't seen it have you?
+
+0x5391A8E8 = ~z~if you see me on my travels and you're in need of something...
+
+0x5443EB27 = ~z~If the doctor asks, there was one horse when I found you.
+
+0x5589A9F1 = ~z~I don't get your meaning.
+
+0x7564F612 = ~z~Okay, c'mon.
+
+0x7901E63B = ~z~You looking for that feller's wagon? Heard 'em say they was taking it to Macomb's End.
+
+0x9902EDE4 = ~z~There. Get him!
+
+0x14192B0C = ~z~he'll be well for a day.
+
+0x19130BF6 = ~z~It wasn't a trouble now, was it?
+
+0x39592EEE = ~z~I'm very sorry, sir. You have yourself a fine day...
+
+0x80549FA3 = ~z~Where's the damn wagon?
+
+0x299170C5 = ~z~ too free with my wisdom and services.
+
+0x791910BF = ~z~I don't mean to.
+
+0x860929B3 = ~z~Stay here.
+
+0x2510667F = ~z~Still...
+
+0x4377432A = ~z~and I apologize for any offense I may have inadvertently caused.
+
+0x43158509 = ~z~How could you have offended me?
+
+0x88570567 = ~z~Last warning, go!
+
+0xA2DFE44C = ~z~I have no idea.
+
+0xA7A10B80 = ~z~You need me to move?
+
+0xA8C2E071 = ~z~The people of Lagras will be thankful!
+
+0xA67C5EE9 = ~z~Now get out of here.
+
+0xA357C525 = ~z~Okay. Thanks.
+
+0xA883DCBF = ~z~Y'all ain't nice.
+
+0xA9736F43 = ~z~Yes.
+
+0xA97754B2 = ~z~but you may not need it to.
+
+0xAA64F26A = ~z~Please, don't go to any trouble on my account.
+
+0xAB9DE039 = ~z~Get down, that's our wagon now, get down!
+
+0xAB6959AE = ~z~let me give you something for your pleasure.
+
+0xAC36D74A = ~z~Stole your wagon for back chat?
+
+0xACA47D5C = ~z~Better find another way around.
+
+0xB01B7EEB = ~z~Why you acting so strange?
+
+0xB15A8169 = ~z~But I had no idea how I offended the last fellers...
+
+0xB63D7832 = ~z~Grubby little bastards.
+
+0xB71DE2F4 = ~z~Didn't you hear me? Get out of here.
+
+0xB758A048 = ~z~Oh my!
+
+0xB905F3CF = ~z~Thank you.
+
+0xB966AAC6 = ~z~That all of you? Shit.
+
+0xBC1B3D6C = ~z~Move?
+
+0xBC723E1E = ~z~You okay there, mister?
+
+0xBCD212B1 = ~z~You okay there, mister?
+
+0xBD1BFD13 = ~z~What we got here...
+
+0xBDDB5DCE = ~z~Coach incoming, focus your fire.
+
+0xBE73FBC4 = ~z~And that wasn't popular?
+
+0xBEEF8926 = ~z~Get you back to the doctor.
+
+0xBFDA015D = ~z~Would you be so kind as to get down?
+
+0xC2BD176E = ~z~You want us to whip you like we would your uppity chum? Go on!
+
+0xC6CC0F5B = ~z~I just wish I could help with your more pressing ailment.
+
+0xC7BD0BF4 = ~z~That all of you? Shit.
+
+0xC9AC44EF = ~z~Is that?
+
+0xC69D48C1 = ~z~There it is.
+
+0xC190A319 = ~z~or I was too colored...
+
+0xC394C367 = ~z~A-am I sitting in the wrong place?
+
+0xC709ACC7 = ~z~and they stole my wagon on account of my impudence.
+
+0xCD970D99 = ~z~Please. They may show respect to you they wouldn't to me.
+
+0xCDA119B7 = ~z~You looking for that feller's wagon? Heard 'em say they was taking it to Macomb's End.
+
+0xD07FB2F3 = ~z~I know what you about... darkie lover. Go!
+
+0xD0ACA302 = ~z~Can you get down from there please?
+
+0xD0E726F1 = ~z~Travel safe now.
+
+0xD0EE3F84 = ~z~Move?
+
+0xD4F46626 = ~z~You okay there, mister?
+
+0xD34A468C = ~z~I was undercutting the competition...
+
+0xD1741510 = ~z~Ah... If you done, boys, I'll go.
+
+0xDC6E4493 = ~z~I wanted the wagon, now I want you.
+
+0xDED24C8F = ~z~Maybe I'll see you again some day!
+
+0xE2BF4859 = ~z~Teach him to make one...
+
+0xE2C44464 = ~z~But...
+
+0xE3E286EF = ~z~Don't let him get the wagon!
+
+0xE220C604 = ~z~I'll make sure and try to make this.
+
+0xE407C3AC = ~z~Get you back to the doctor.
+
+0xE604FCB2 = ~z~Put a hole in this sumbitch.
+
+0xE5376A66 = ~z~or I was some know it all big city slicker...
+
+0xE50017B9 = ~z~What the hell you want with this thing?
+
+0xE9639279 = ~z~Leave me alone.
+
+0xEA275971 = ~z~I'll make sure to try and make this.
+
+0xF3FB8456 = ~z~so they undercut me.
+
+0xF4A3EC22 = ~z~he might be well a while longer.
+
+0xF4E609C3 = ~z~or I was irritating in nature...
+
+0xF7E0860D = ~z~I bet I know who told you. Darkie sumbitch. Tell him we'll pay him a call.
+
+0xF20CD684 = ~z~I can't do my good work without the wagon.
+
+0xF57BE7DF = ~z~What is wrong with you?
+
+0xF57F69DA = ~z~Which way they go?
+
+0xF1671F0B = ~z~Move?
+
+0xFB4FE90A = ~z~I would much appreciate your help with this.
+
+0xFC54FDCC = ~z~Thank you.
+
+0xFC9752E1 = ~z~You know this feller don't ya?
+
+0xFCB2808C = ~z~Damn uppity immigrant sent you, huh? He ain't getting his wagon back.
+
+0xFEB2C29A = ~z~You need me to move?
+
+0xFEEDD12C = ~z~There it is.
+

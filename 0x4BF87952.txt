@@ -1,0 +1,88 @@
+0x0465D580 = ~z~I don't know much about that.
+
+0x09317073 = ~z~Yeah.
+
+0x2B9D2351 = ~z~As the animals.
+
+0x3AD5DAEB = ~z~~sl:0.0:6.1:1~Nobody wants large children. They eat too much. It's very sad.
+
+0x5F3FCD39 = ~z~John... John Marston... usually... who are you?
+
+0x6D8369C0 = ~z~Hello, little fellow.
+
+0x7AAC8632 = ~z~Neither do I... be well, friend. Be well.
+
+0x8C8469EA = ~z~Did you miss me?
+
+0x23CEA5C5 = ~z~Is it as bad as they say out there?
+
+0x34AD4782 = ~z~Yes.... how are you?
+
+0x43FB540D = ~z~I thought so.
+
+0x53D4788B = ~z~Okay, I suppose.
+
+0x62FC96DB = ~z~Not very exciting, as it goes.
+
+0x70BA3256 = ~z~~sl:2.0~I suppose... pick lonely?
+
+0x70CB3284 = ~z~I'm faced with a stark and unpleasant choice. Be lonely, or get murdered.
+
+0x92BBB430 = ~z~Hi.
+
+0x199E041F = ~z~Nice to see you again.
+
+0x427BE31F = ~z~Happy, and... lonely, like everyone.
+
+0x563D7891 = ~z~Anyway... be well.
+
+0x628D9609 = ~z~That's good. I've been lonely. Very lonely.
+
+0x834F5351 = ~z~I'm rather lonely, you see.... I'm too big.
+
+0x923CF12C = ~z~Hello there, friend. How are you?
+
+0x2857A192 = ~z~And you.
+
+0x3588C929 = ~z~Hello there, friend. How are you?
+
+0x4711DF06 = ~z~How have you been?
+
+0x18488EB9 = ~z~Sure...
+
+0x50102EDA = ~z~What's your name?
+
+0xA8C81E46 = ~z~Is that so?
+
+0xA94AB7CB = ~z~~sl:1.6~I suppose so.
+
+0xA713DCE0 = ~z~Anyway, be well.
+
+0xB5DAB86B = ~z~I haven't got any friends, because I'm too big.
+
+0xBC74C59F = ~z~That and because I was lonely and wanted to talk.
+
+0xBC8687C9 = ~z~I'm not telling you that... I like to be anonymous... I like to blend in...
+
+0xC9D52266 = ~z~that's a joke... I'm well known for my humour, you see.
+
+0xD6BDFA31 = ~z~Yes, yes it is so. That's sort of why I said it.
+
+0xDDBD8830 = ~z~Someone to discuss the human condition with, you know.
+
+0xDFEA1DE5 = ~z~It's John, isn't it?
+
+0xE8E83709 = ~z~One day, I long to have a wife. But women can be so... cruel.
+
+0xE1498EAB = ~z~As... who says?
+
+0xEB13A2DC = ~z~Maybe we can be friends. I've always wanted a real friend.
+
+0xEDABB968 = ~z~Don't be afraid. People think I'm a monster. But I'm not.
+
+0xFA9C5A6D = ~z~Yes. I missed you, too. I've been quite lonely out here.
+
+0xFB76D4FE = ~z~Are you well?
+
+0xFDEE47F4 = ~z~Yeah.
+

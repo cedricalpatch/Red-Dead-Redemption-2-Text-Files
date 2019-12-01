@@ -1,0 +1,18 @@
+0x19EC3C85 = ~z~What's that, Tilly?
+
+0x42D08E8D = ~z~There's something funny going on there...
+
+0x242A5101 = ~z~Well, I'm not exactly sure... something about the Doctor's office.
+
+0x508B2A02 = ~z~No, just that.
+
+0x6055C997 = ~z~Hmmm.... thank you. Maybe I'll go take a look. Anything else?
+
+0xA522532F = ~z~saw a bunch of nasty boys going in and none of them coming out.
+
+0xD2AF2E0C = ~z~So, Arthur... when I was in Valentine, nosing about... I think I found something interesting.
+
+0xDE25C539 = ~z~Will do.
+
+0xEBAB6044 = ~z~Well, keep looking.
+

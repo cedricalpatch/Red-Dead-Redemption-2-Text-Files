@@ -1,0 +1,1124 @@
+0x00C6F3A1 = ~z~Here, I'll show ya.
+
+0x00DC3C1A = ~z~I think I've seen enough blood for one day. Do you mind if we head back now?
+
+0x01B05A78 = ~z~but I turned out to be a far more pathetic anti-heroine...
+
+0x01B8FB2F = ~z~We did. We were fools. Our “little adventure” Cal called it.
+
+0x0249A1AF = ~z~Glad to see you're doing well, ma'am.
+
+0x0277F4D3 = ~z~and firm.
+
+0x02DF33AF = ~z~He's a fast one.
+
+0x02FA16CA = ~z~And that is all there is to it. You did good.
+
+0x04146F6E = ~z~What are we looking for?
+
+0x04BE65F8 = ~z~I'm sorry.
+
+0x051E0D36 = ~z~I'd have hopped the next train back to Chicago if he'd said the word... but now...
+
+0x05BC8079 = ~z~So it's Chicago you came from?
+
+0x05C0CC73 = ~z~Hey, stop it. What's gotten into you?
+
+0x05E6220A = ~z~I don't mean you no harm.
+
+0x0608110F = ~z~Move over, you're right in my line.
+
+0x0638247C = ~z~Oh my God, you're insane!
+
+0x06DED2A1 = ~z~I think I did see something move back there... maybe it's worth another look?
+
+0x07EF43B3 = ~z~I'll, err...
+
+0x0906E207 = ~z~What are we doing?
+
+0x0999F67A = ~z~We were stunted and I wanted us to grow again... oh I don't know. I'll never forgive myself.
+
+0x09B5D59F = ~z~Hey, careful.
+
+0x09B65906 = ~z~Oh really? Cal was in banking too.
+
+0x0A9FD4F3 = ~z~Oh hey there!
+
+0x0AC3C591 = ~z~It's remote, but you can survive here alright.
+
+0x0ADA8CB5 = ~z~Any friend of Arthur's is a friend of mine.
+
+0x0B7FA20A = ~z~I don't see anything.
+
+0x0B90D6E1 = ~z~Much better than I've felt in a long time, I...
+
+0x0BFEFEF6 = ~z~I thought you said that was a good spot?
+
+0x0CB1C790 = ~z~Ever since we got here, it feels like every step forward has come with a hundred steps back.
+
+0x0CE6EEE6 = ~z~And thank you again for everything...
+
+0x0DF7B52D = ~z~I still have some of the rabbit left that I salted up...
+
+0x0F348F7D = ~z~Would you look at that? I haven't hit one that close all day!
+
+0x0FB3E7E8 = ~z~different.
+
+0x1A4D8D16 = ~z~You know I pictured myself...
+
+0x1A5DC206 = ~z~My husband, Cal, was such an optimist...
+
+0x1AE39A1D = ~z~Oh Lord, no, we're done for now.
+
+0x1BDE8ED4 = ~z~sipping homemade wine...
+
+0x1C1A2F34 = ~z~Please, I have everything I need and more.
+
+0x1C11E82D = ~z~I have no doubt one can survive here... whether Charlotte Balfour can is a different matter entirely.
+
+0x1D45E8B4 = ~z~You know I may be weak...
+
+0x1E04A15C = ~z~Alright, ma'am, you take care now.
+
+0x1E3DCE6E = ~z~I am all too aware. So where should we head for?
+
+0x1F9E3572 = ~z~Well, er, that was quite the show.
+
+0x1F149039 = ~z~~sl:0.0:2.5:1~This was supposed to be our little adventure...
+
+0x1FBDD8B9 = ~z~Would you join me for a meal? It's the least I can do...
+
+0x2A01051D = ~z~Wait to breathe out, wait to breathe out...
+
+0x2A1F6189 = ~z~I found that to be very contagious...
+
+0x2B2A63DF = ~z~Well, I don't think that counts.
+
+0x2B750516 = ~z~But you'd better not try any funny business.
+
+0x2B978313 = ~z~we wanted to strip it away to...
+
+0x2D1BE79E = ~z~Oh, you don't really know me.
+
+0x2D99D169 = ~z~It was nice to see you again, but I should be getting on now. All the best.
+
+0x2E05BF51 = ~z~Your “little adventure”, really?
+
+0x2E086EAA = ~z~Wh - what are you doing?
+
+0x2E688CDA = ~z~You've probably lived your whole life in the outdoors.
+
+0x2EC94115 = ~z~Not a phrase I thought any...
+
+0x2FA2A99D = ~z~The pause for dramatic effect, a true showman.
+
+0x3AB9A39F = ~z~Oh, I don't doubt it.
+
+0x3B15E60E = ~z~You just focus...
+
+0x3B912B36 = ~z~I think you knew a friend of mine...
+
+0x3C6D4924 = ~z~Tell me, you ever skinned an animal before?
+
+0x3CA4DE9C = ~z~Please do call again some time, though. A good rest and hopefully I'll be a new woman.
+
+0x3CBDF732 = ~z~Alright, let's see it.
+
+0x3D9F2722 = ~z~Is there a train station or a town I can take you to?
+
+0x3E106ABB = ~z~Well, I...
+
+0x3E427384 = ~z~He gave me the ability to survive...
+
+0x3EC8560B = ~z~so many things.
+
+0x4A04EA5D = ~z~Not at all... well, maybe just a little.
+
+0x4B8ED17E = ~z~And that is all there is to it. You did good.
+
+0x4B32B7F2 = ~z~You two really thought you could make it out here all by yourselves?
+
+0x4C9CA687 = ~z~We were both born with the silver spoon...
+
+0x4C477DE1 = ~z~I'd invite you in, but I'm dead on my feet, if you'll forgive the pun.
+
+0x4C984EFA = ~z~You just lost your husband, it wouldn't be giving up.
+
+0x4C420866 = ~z~Well you look better.
+
+0x4CD6F228 = ~z~so many people...
+
+0x4D094836 = ~z~Alright.
+
+0x4D24FDFA = ~z~Are we going then?
+
+0x4D9613A5 = ~z~Oh no, that wretched rat is back. Over there, you see?
+
+0x4DAD0B58 = ~z~Here, I'll show ya.
+
+0x4DD9E14C = ~z~So it's Chicago you came from?
+
+0x4DD6544C = ~z~Don't worry, you won't need one... now take a look around for any movement.
+
+0x4E632125 = ~z~Well, this clearly isn't a lesson in quick-draw.
+
+0x4E687328 = ~z~Alright then...
+
+0x4EBC4F63 = ~z~Leaving already? I promise my cooking tastes better than it looks.
+
+0x4EC8C97D = ~z~He wouldn't want that, I...
+
+0x4EFAB3F6 = ~z~true, something...
+
+0x4EFDA266 = ~z~You look exhausted.
+
+0x4F81F49E = ~z~No, please! You leave me alone!
+
+0x5BB26588 = ~z~I'll show you.
+
+0x5BD1202D = ~z~Well, I think we should start with something small, don't you? I kill it, you skin it... sound fair?
+
+0x5BDBED81 = ~z~No, thank you, but even this is better than the prospect of having to deal with my ghastly family right now, let alone his.
+
+0x5C63A8C5 = ~z~and always pull the trigger on empty lungs.
+
+0x5C1821F5 = ~z~Go ahead and take a seat at the table. Food is just about done.
+
+0x5E286CE0 = ~z~Come on.
+
+0x5E3915B4 = ~z~Please take it.
+
+0x5E7791A4 = ~z~Oh, what a gentleman. Are you going to clean the dishes for me?
+
+0x5F04ADEB = ~z~How you feeling, ma'am?
+
+0x5F71D4C1 = ~z~Sorry, I'll keep quiet. You know best, after all.
+
+0x6AB5111A = ~z~It's getting away!
+
+0x6ACC05A4 = ~z~That should keep you fed for a few days.
+
+0x6AF54D8C = ~z~Would you look at that? I haven't hit one that close all day.
+
+0x6BE3B109 = ~z~I have far more than I need back in the city...
+
+0x6C3E1EFB = ~z~I guess we only know what we know...
+
+0x6C879E97 = ~z~Business, you could say. Banking, mostly.
+
+0x6DD70455 = ~z~I'll, erm...
+
+0x6E9EC5C8 = ~z~Skin it? But I... I don't even have a knife with me.
+
+0x6E354959 = ~z~Yes! I hit it! I hit it, didn't I?
+
+0x6FC1A7E5 = ~z~
+
+0x6FD5A83A = ~z~My, my...
+
+0x6FF68171 = ~z~You don't want to know, trust me.
+
+0x7A023D9F = ~z~I don't think I'd have made it another day.
+
+0x7A38D0D7 = ~z~This was really his dream more than mine.
+
+0x7A97D8B1 = ~z~I think it's, it's best if I ju...
+
+0x7B1AC22A = ~z~You got a rifle?
+
+0x7BFF280A = ~z~Oh yes, at least. Thank you so much.
+
+0x7C8CCF84 = ~z~What are you doing? Let me go!
+
+0x7CCBDCC1 = ~z~Alright, you try now. Remember to breathe.
+
+0x7CE184D0 = ~z~Woah, careful. Maybe move forward a little.
+
+0x7D057B65 = ~z~Look...
+
+0x7D077D07 = ~z~I don't know, it's hard to explain... I have to do this.
+
+0x7DD3294A = ~z~How do I... I mean... what do I do?
+
+0x7E9B38E2 = ~z~
+
+0x7E125336 = ~z~picking fresh vegetables...
+
+0x7F5C02BF = ~z~That's it, go on.
+
+0x7F183583 = ~z~Well, at least you tried to help.
+
+0x7FE85707 = ~z~Sorry I'm so slow, I'm sure you're in a rush to get going.
+
+0x8A54DE44 = ~z~if we hadn't caught that rabbit...
+
+0x8AEE8472 = ~z~you gotta...
+
+0x8B487B01 = ~z~Can I get a bit more room here, please?
+
+0x8BA26A87 = ~z~I'm sorry, I just don't have the energy to mess around. I'm going back to the house.
+
+0x8C297BD4 = ~z~But, nonetheless one I'm very proud...
+
+0x8CA74D61 = ~z~feller called Arthur Morgan...
+
+0x8DCA6789 = ~z~Yes... well, my husband's.
+
+0x8DF73935 = ~z~Yes, good eye. Okay, stay quiet and still. Watch me.
+
+0x8E2AC838 = ~z~What a pair of fools.
+
+0x8E49CC9F = ~z~I mean this really ain't such a bad spot. You got a good water source.
+
+0x8E9814BC = ~z~Your “little adventure”, really?
+
+0x8ECBF632 = ~z~Can I help you?
+
+0x9A9B23CF = ~z~you gotta hold steady...
+
+0x9A44231D = ~z~Look...
+
+0x9AEB0CE7 = ~z~I reckon you're gonna be just fine.
+
+0x9B5D98C1 = ~z~~sl:0.0:2.4:1~Gosh darnit! Not a single one...
+
+0x9B52DF4C = ~z~Cal.
+
+0x9E095F24 = ~z~Cal spent his summers growing up at his grandparents' lodge in Maine,
+
+0x9E6670DF = ~z~came by and helped you with some hunting and skinning...
+
+0x9F1123C4 = ~z~Well, I didn't think I'd see you again. Please, sit down and, and let me give you that meal I promised.
+
+0x9F60980E = ~z~Please take care...
+
+0x12A33CFF = ~z~You maniac, what do you think you're doing?
+
+0x12B7D6AC = ~z~I wish that there was something else that I could do.
+
+0x12ED927C = ~z~Come on, it's just up this way.
+
+0x14C6FEBE = ~z~Well it's, it's good and hot.
+
+0x14F2DA72 = ~z~if you don't know how to hunt.
+
+0x15BA1B57 = ~z~hold steady...
+
+0x15D85455 = ~z~If you need any poisonous berries, though...
+
+0x17F4F7F3 = ~z~No, but then again, I haven't caught much of anything either.
+
+0x19CE735C = ~z~if we hadn't caught that rabbit, I don't think I'd have made it another day.
+
+0x20A9C44D = ~z~I'm sorry.
+
+0x20C93AFA = ~z~Would you move to the side? You're making me nervous.
+
+0x20C991B7 = ~z~Well, if it takes this long, no wonder I've been doing it wrong.
+
+0x22D3BAA7 = ~z~That's right... have you been?
+
+0x24A6F0E4 = ~z~Put me down! Now!
+
+0x25AE249F = ~z~I am so very grateful to you for all the help...
+
+0x25C6AA5C = ~z~I won't waste what you've taught me. Who knows... maybe in the future I can repay you somehow.
+
+0x26EB9773 = ~z~Well you look better.
+
+0x27E3C4C7 = ~z~I doubt we crossed paths. I was more on the withdrawals side.
+
+0x27ECED7D = ~z~Look, a rabbit! Right there!
+
+0x29C84373 = ~z~breathe slowly...
+
+0x29CB07AA = ~z~Can I help you?
+
+0x29DA7641 = ~z~Oh... well, that's very kind.
+
+0x29F8E5E4 = ~z~Well, you'll need to know how to do both if you're going to survive out here.
+
+0x33DD9B93 = ~z~Well...
+
+0x37EA2728 = ~z~I still have some of the rabbit left that I salted up. Would you join me for a meal? Please, come inside.
+
+0x40B8D7C5 = ~z~No, I came here with Cal and I'm staying here with him.
+
+0x41A0689F = ~z~Thank you. That was the first time anyone's done anything nice for us...
+
+0x41CA5316 = ~z~Oh, it's okay, ma'am. I don't mean you no harm.
+
+0x41D43C48 = ~z~Skin it? But I... I don't even have a knife with me.
+
+0x48A0473A = ~z~Alright then...
+
+0x49C2DBC8 = ~z~Who are you?
+
+0x51ADE476 = ~z~I suggest you learn how to use it. Now come on, let's get you home.
+
+0x53B70843 = ~z~Well, I'll be here once you're done with whatever it is you're doing.
+
+0x54F6CB7A = ~z~Hey, we're all trying to run from something.
+
+0x55D49F2A = ~z~I don't see anything.
+
+0x58EA405D = ~z~Well if you're just here to show off, I'll leave you to it.
+
+0x59D7DF93 = ~z~find something authentic.
+
+0x59E35713 = ~z~Come here, you silly man. I want to thank you.
+
+0x60EB6DC2 = ~z~No, I can't give up now.
+
+0x61DF2740 = ~z~pen of mine would ever ink.
+
+0x63B5759A = ~z~I don't know about that... it sounds awful.
+
+0x63C90CF9 = ~z~Er, so, what are you waiting for?
+
+0x67F1997E = ~z~How you feeling, ma'am?
+
+0x68E1FFEF = ~z~but I still know how to stand up for myself.
+
+0x69C1567B = ~z~I understand.
+
+0x69F7183A = ~z~~sl:0.9:1.3:1~How hard can it be?
+
+0x72C6BDFE = ~z~Glad I could help, ma'am. Good luck.
+
+0x72E519DD = ~z~probably seven or eight years back.
+
+0x73A814F4 = ~z~Just hold the legs tight, and pull the skin away, quickly. Should come right off.
+
+0x73FD787C = ~z~if we hadn't caught that rabbit, I don't think I'd have made it another day.
+
+0x74D51F73 = ~z~Not at all... well, maybe just a little.
+
+0x75D1C41D = ~z~overbearing.
+
+0x77BC057C = ~z~if an outlaw or wild animal doesn't get me...
+
+0x79E696DF = ~z~A lot of it, that's for sure.
+
+0x81A27AE8 = ~z~Oh I do... maybe another time.
+
+0x82A78307 = ~z~Well, go on then.
+
+0x82DD0807 = ~z~Look, are we going to hunt or not?
+
+0x83A87732 = ~z~How's that working out for ya?
+
+0x88A3F79B = ~z~Right.
+
+0x89CD9CC6 = ~z~I suppose I'll just have to wait for you here, then.
+
+0x91C50DDE = ~z~Wait, sorry, I don't have the energy to go that fast.
+
+0x92D0A6FB = ~z~Aristotle, but erm...
+
+0x94A4F2E4 = ~z~Better and determined...
+
+0x95B5A463 = ~z~You promised you'd never leave me...
+
+0x95EF2381 = ~z~And what are you trying to run from?
+
+0x97CA338A = ~z~Oh my... it worked.
+
+0x98A0C131 = ~z~Hey, what are you doing over there? Did you see my shot?
+
+0x98A0E27C = ~z~I'm still standing...
+
+0x98F5DF8F = ~z~Okay then, go on. Time to get your hands dirty.
+
+0x99DAAC2D = ~z~It's been a thorn on my side even since we moved here. Kill it, please.
+
+0x117F5717 = ~z~Hello there.
+
+0x158D8037 = ~z~You helped me to catch it after all.
+
+0x162D9288 = ~z~but I get the impression they did more punting than hunting.
+
+0x174F87E2 = ~z~to finally be able to write.
+
+0x185D706E = ~z~How you feeling, ma'am?
+
+0x190A4F30 = ~z~Oh I couldn't be happier.
+
+0x205EB7AB = ~z~Alright, you try now. Remember to breathe.
+
+0x245F1A12 = ~z~You take care, ma'am.
+
+0x253B90D5 = ~z~There look, a rabbit. Okay, stay quiet and still. Watch me.
+
+0x253EB870 = ~z~What are you doing? Put me down!
+
+0x265DDA22 = ~z~I know enough.
+
+0x276A7F61 = ~z~you ain't gonna last much longer out here...
+
+0x281D8605 = ~z~See, nothing's that easy.
+
+0x290C484B = ~z~Oh you finally got hungry? Good.
+
+0x300B98B7 = ~z~Well, I think we should start with something small, don't you? I kill it, you skin it... sound fair?
+
+0x314B8E83 = ~z~I'm gonna do this for you...
+
+0x347BEBF1 = ~z~I buried him a week ago.
+
+0x374C4D67 = ~z~You've helped me so much.
+
+0x393AD7D0 = ~z~Sorry I can't give you a tour. There's just not much to see.
+
+0x404DE1FB = ~z~Careful! Watch the house, please.
+
+0x408D171B = ~z~Something...
+
+0x410A2ABC = ~z~No, we didn't know the first thing about hunting, we...
+
+0x419DB344 = ~z~A lot of it, that's for sure.
+
+0x434EA921 = ~z~What's mine is yours.
+
+0x437B3786 = ~z~Come on.
+
+0x443B50FA = ~z~Things are going well.
+
+0x468D0632 = ~z~No, you get away from me!
+
+0x477D1C64 = ~z~you helped me to see that.
+
+0x479E210A = ~z~Let's try in the trees down there, near the river.
+
+0x520BA20D = ~z~You make it look so easy.
+
+0x554DFFB7 = ~z~I hope you enjoy it.
+
+0x580C7F9A = ~z~Who are you?
+
+0x602FF437 = ~z~Is there anything left for you to eat?
+
+0x614E1940 = ~z~You alright?
+
+0x625E38D5 = ~z~Sure, I'll walk you back. You did good.
+
+0x626F6D86 = ~z~Is there anything left for you to eat?
+
+0x653D6C07 = ~z~I was feeling lost and got swept away in the idea. It must all seem ridiculous to you.
+
+0x678B0328 = ~z~Got it.
+
+0x715CAEAE = ~z~Oh thank God. You see? If you hadn't been here, I'd be dead now.
+
+0x719E915C = ~z~Arthur Morgan.
+
+0x772AB3DD = ~z~Business or pleasure?
+
+0x789FE83E = ~z~and now I'm writing.
+
+0x832C87B3 = ~z~I know a thing or two about shooting a gun.
+
+0x837CB2DC = ~z~All this squandering and indulgence...
+
+0x852D78F0 = ~z~I don't know much about Aristotle, but err...
+
+0x863C1CF9 = ~z~Much better than I've felt in a long time, I...
+
+0x865CBA28 = ~z~I still can't believe he's gone.
+
+0x916FCF4F = ~z~What on earth are you doing?
+
+0x971C0352 = ~z~I really am grateful.
+
+0x971C91BA = ~z~S-Stay right there, it's, it's gonna be okay.
+
+0x978E8B82 = ~z~I don't know, it's hard to explain... I have to do this.
+
+0x1113FB6B = ~z~and I'd like you to have it.
+
+0x1440E2EB = ~z~Alright, I can do this.
+
+0x1611C56F = ~z~Quick, get him!
+
+0x1984E6DE = ~z~I'll leave you to it.
+
+0x2216A7B8 = ~z~I just um...
+
+0x2449F9D0 = ~z~which is an improvement on the last time you saw me.
+
+0x3022DD94 = ~z~Come on, come on...
+
+0x3126ABE9 = ~z~And if I'm gonna learn to hunt, I figured it was...
+
+0x3369CC32 = ~z~for me... since we got here.
+
+0x3449FA5E = ~z~No, but then again, I haven't caught much of anything either.
+
+0x3521C3B2 = ~z~~sl:0.6~Terrible.
+
+0x3722DB41 = ~z~You too, Arthur. Please be well.
+
+0x3724E5D7 = ~z~Even now it still doesn't seem real. I keep thinking I'll wake up back in Chicago next to him.
+
+0x4397B31B = ~z~I can't have it.
+
+0x4421C0A6 = ~z~Well, I won't keep badgering you. Just sit down when you're ready.
+
+0x4566E1E4 = ~z~than any I could ever pen.
+
+0x4656F3F2 = ~z~Don't worry, you won't need one... now take a look around for any movement.
+
+0x4758BCE1 = ~z~I guess we only know what we know...
+
+0x5041C92B = ~z~Nothing.
+
+0x5566B837 = ~z~There's always more to find in ourselves...
+
+0x5662F549 = ~z~I couldn't have done it without you.
+
+0x6011DD3E = ~z~No, no, that ain't necessary.
+
+0x6352E3C0 = ~z~from the house for your travels.
+
+0x6395F9EC = ~z~Er, you alright there?
+
+0x6761ACB8 = ~z~The guest room... not that I've had many of those.
+
+0x7762DD5B = ~z~I know a thing or two about shooting a gun.
+
+0x8176E8A2 = ~z~Are you coming or not?
+
+0x8312BBEE = ~z~No, I came here with Cal and I'm staying here with him.
+
+0x8496BD40 = ~z~Yes, of course...
+
+0x8864F954 = ~z~Don't worry, you won't need one... now take a look around for any movement.
+
+0x9339ECF2 = ~z~Oh it is. A truly empty and boring existence... but an undeniably easy one.
+
+0x20192CCA = ~z~Oh dear... what happened there?
+
+0x33440DE8 = ~z~That's it, go on.
+
+0x35840D8C = ~z~Well please, go on in and help yourself to anything you need.
+
+0x39612EE0 = ~z~Oh. Oh...
+
+0x41874CAA = ~z~thanks to you.
+
+0x45746E6B = ~z~I have gone out hunting.
+
+0x46802A1B = ~z~Listen... it's a long way out here...
+
+0x47009B4F = ~z~but there's a fine line between optimism and naivete.
+
+0x50243B9E = ~z~Well, that's... very kind of you, ma'am.
+
+0x52260CD7 = ~z~What are we looking for?
+
+0x55354D7D = ~z~I'd barely left the city before coming here.
+
+0x58035E36 = ~z~Oh it is. A truly empty and boring existence... but an undeniably easy one.
+
+0x61059AA6 = ~z~Hello there.
+
+0x64233BC7 = ~z~Shh, just keep your eyes peeled.
+
+0x70699C7F = ~z~
+
+0x80389DB8 = ~z~Look, a rabbit! Right there!
+
+0x93390DB9 = ~z~Yes, this is a good spot.
+
+0x289729A9 = ~z~Then we came out here and I got crushed by this.
+
+0x412906BD = ~z~Are you sure you don't want to sit down?
+
+0x590390D5 = ~z~What can I say? Thank you again.
+
+0x593496CC = ~z~Well, don't stand on ceremony. Please, sit down.
+
+0x823425EC = ~z~And what are you trying to run from?
+
+0x837189E3 = ~z~What happened to your husband, if you don't mind me asking?
+
+0x842660C6 = ~z~My father was very...
+
+0x851642CB = ~z~Yes, this is a good spot.
+
+0x858340CF = ~z~Oh what a pathetic sob story it is... you must think I'm such a spoiled brat.
+
+0x881938D9 = ~z~Well...
+
+0x960396D2 = ~z~Well, if even you struggle sometimes, maybe I shouldn't feel so hard on myself.
+
+0x968924CD = ~z~You two really thought you could make it out here all by yourselves?
+
+0x2177882B = ~z~That's an interesting choice of hat, if you don't mind me saying.
+
+0x3185912F = ~z~Come on.
+
+0x3748245A = ~z~Cal and I were both born into money. Wanting for nothing, yet somehow wanting for everything.
+
+0x3879127F = ~z~We did. We were fools. Our “little adventure” Cal called it.
+
+0x4204322C = ~z~if you don't know how to hunt.
+
+0x4209592E = ~z~Huh?
+
+0x8100487F = ~z~I don't know about that... it sounds awful.
+
+0x8764866C = ~z~You don't want to know, trust me.
+
+0x8971817C = ~z~and firm.
+
+0x9065314B = ~z~How you feeling, ma'am?
+
+0x19836133 = ~z~Oh please, I'm sure it wouldn't take you too long to adjust to a life of privilege and indolence in the big city.
+
+0x31549339 = ~z~I'll show ya.
+
+0x33960447 = ~z~you're welcome to take whatever you need...
+
+0x44939435 = ~z~Shh, just keep your eyes peeled.
+
+0x68698162 = ~z~Oh, I don't doubt it.
+
+0x71195731 = ~z~Yeah, I've passed through a couple of times.
+
+0x76643347 = ~z~Oh please, I'm sure it wouldn't take you too long to adjust to a life of privilege and indolence in the big city.
+
+0x90037159 = ~z~Thank you. That was the first time anyone's done anything nice for us...
+
+0x97416721 = ~z~What are we looking for?
+
+0xA057120C = ~z~for me... since we got here.
+
+0xA06B9729 = ~z~No, thank you, but even this is better than the prospect of having to deal with my ghastly family right now, let alone his.
+
+0xA08A426E = ~z~I don't know much about...
+
+0xA08D2E10 = ~z~Charlotte, it was a pleasure meeting you.
+
+0xA08D86B6 = ~z~I doubt we crossed paths. I was more on the withdrawals side.
+
+0xA1DA5F09 = ~z~Please take something... it would make me happy.
+
+0xA2A6D5CE = ~z~Oh hey there!
+
+0xA3AA48C1 = ~z~At what point does focus turn into too much focus?
+
+0xA4F8A33E = ~z~and remain true to the man I know you are.
+
+0xA5D12232 = ~z~Should we at least try our luck before moving on?
+
+0xA6F78205 = ~z~Unfortunately he passed soon after.
+
+0xA7C33307 = ~z~If I make...
+
+0xA8ACA86A = ~z~Are you alright?
+
+0xA8D4FFCC = ~z~you ain't gonna last much longer out here...
+
+0xA9CB4B04 = ~z~Well, nature provides, but she sure don't always make it easy.
+
+0xA91AA887 = ~z~You just lost your husband, it wouldn't be giving up.
+
+0xA523D101 = ~z~Do something, please!
+
+0xA793F7CE = ~z~couldn't even catch a darn mouse.
+
+0xA969A7ED = ~z~It was nothing.
+
+0xA3138FC5 = ~z~Oh, hey there.
+
+0xA7377C12 = ~z~Oh, good shot.
+
+0xA9131AA8 = ~z~Well, the rigors of simplicity take their toll on a woman.
+
+0xA89448CB = ~z~Hey, we're all trying to run from something.
+
+0xA97787AC = ~z~Alright, finally... not that I could do any better.
+
+0xA6359042 = ~z~Just give it a sharp pull.
+
+0xAAAD8699 = ~z~So, how are you holding up?
+
+0xAADA2EF5 = ~z~and encouragement you've given me.
+
+0xAB451EC1 = ~z~Well, you'll need to know how to do both if you're going to survive out here.
+
+0xAC4BB4FC = ~z~I'd have hopped the next train back to Chicago if he'd said the word... but now...
+
+0xACA20D55 = ~z~Just hold the legs tight, and pull the skin away, quickly. Should come right off.
+
+0xAE9D4082 = ~z~I was supposed to be the one with the level head... but he was so excited.
+
+0xAF5F6571 = ~z~Got a little carried away there, I see.
+
+0xAF85AE8F = ~z~Well, it makes no difference now...
+
+0xAFB3E267 = ~z~A bear got him... it was horrifying. He survived but only for a couple of days.
+
+0xB00CCFB5 = ~z~Wolves! Stay back! Must have smelled the dead rabbit.
+
+0xB016ED96 = ~z~You're a good man.
+
+0xB043E1E1 = ~z~Well, I...
+
+0xB08089A7 = ~z~I'm a natural at finding those.
+
+0xB0874FA7 = ~z~breathe slowly...
+
+0xB3A3E9FE = ~z~Sure, I'll walk you back. You did good.
+
+0xB6C69BBB = ~z~Well...
+
+0xB7D80CC5 = ~z~I figured he might not have had long left...
+
+0xB46CAF39 = ~z~Right.
+
+0xB50FDF1D = ~z~Oh right... you're teasing me.
+
+0xB60A55D0 = ~z~Well it's... it's good and hot.
+
+0xB67DC960 = ~z~What happened to your husband, if you don't mind me asking?
+
+0xB79FD7C5 = ~z~Yes, this is a good spot.
+
+0xB88FCA60 = ~z~There is some money in a box on the nightstand.
+
+0xB384D3F3 = ~z~
+
+0xB3165B8A = ~z~All we need is each other... that's what you said.
+
+0xB4699E8D = ~z~I'll go on ahead if you don't mind... I'm very tired.
+
+0xB44948FE = ~z~Come on, don't do this... please.
+
+0xB1400591 = ~z~I mean this really ain't such a bad spot. You got a good water source.
+
+0xB2461862 = ~z~Come on.
+
+0xBA09EBB6 = ~z~I was feeling lost and got swept away in the idea. It must all seem ridiculous to you.
+
+0xBA3E75DA = ~z~is that not what Aristotle said?
+
+0xBA12DB7B = ~z~Okay... calm and steady... don't snatch at the trigger.
+
+0xBA543D09 = ~z~Well, it makes no difference now...
+
+0xBA2495CC = ~z~Oh I do... maybe another time.
+
+0xBABFBE01 = ~z~I was wondering when I was gonna see you again.
+
+0xBB0F4C70 = ~z~Now you're sure I can't take you to a train station?
+
+0xBD0CAB57 = ~z~You did it all yourself.
+
+0xBD4B2BC4 = ~z~Arthur.
+
+0xBD8E4353 = ~z~I am all too aware. So where should we head for?
+
+0xBDB044FE = ~z~Much better than I've felt in a long time, I...
+
+0xBDC34B0A = ~z~
+
+0xBDD05C2A = ~z~Tell me, you ever skinned an animal before?
+
+0xBE2A51EE = ~z~I wish I could offer more, but as you can see, I don't have much left.
+
+0xBE3EFACD = ~z~What are you waiting for?
+
+0xBE5D182C = ~z~Wolves! Stay back! Must have smelled the dead rabbit.
+
+0xBE9FEBD8 = ~z~You just focus...
+
+0xBE36C2CD = ~z~but I get the impression they did more punting than hunting.
+
+0xBF05A11C = ~z~It's remote, but you can survive here alright.
+
+0xBF48B687 = ~z~I'll shoot a few more this time.
+
+0xC06AE41D = ~z~Even now it still doesn't seem real. I keep thinking I'll wake up back in Chicago next to him.
+
+0xC083970A = ~z~Who are you?
+
+0xC7D61109 = ~z~But the end of labor is to gain leisure...
+
+0xC8D06E05 = ~z~I understand.
+
+0xC20A499B = ~z~Yeah, I've passed through a couple of times.
+
+0xC49AD1B7 = ~z~You look...
+
+0xC80EC42E = ~z~Okay then, go on. Time to get your hands dirty.
+
+0xC369B6EA = ~z~I'd barely left the city before coming here.
+
+0xC614BFFF = ~z~Oh, it-it's ok, ma'am...
+
+0xC978E44F = ~z~I'd invite you in, but I'm dead on my feet, if you'll forgive the pun.
+
+0xC999D9B1 = ~z~Ever since we got here, it feels like every step forward has come with a hundred steps back.
+
+0xC3434C21 = ~z~Something like that...
+
+0xC3507B9E = ~z~Something like that...
+
+0xC17536FB = ~z~How do I... I mean... what do I do?
+
+0xC91075A1 = ~z~My Dear Arthur,
+
+0xC7738672 = ~z~I was supposed to be the one with the level head... but he was so excited.
+
+0xCC2CDB96 = ~z~Are you coming?
+
+0xCC978E2C = ~z~Business, you could say. Banking, mostly.
+
+0xCCB2E19C = ~z~Let's try in the trees down there, near the river.
+
+0xCD646063 = ~z~Oh right... you're teasing me.
+
+0xCDD38EA2 = ~z~You're acting very strangely.
+
+0xCE00989D = ~z~You seem to be shooting at thin air, but what do I know?
+
+0xCEB2CE93 = ~z~call me Charlotte.
+
+0xCEE533CD = ~z~starvation will.
+
+0xCEF7D1C5 = ~z~I mean you no harm.
+
+0xD01E7D51 = ~z~That doesn't seem like the best place for you to position yourself.
+
+0xD2F1F5A7 = ~z~Okay... calm and steady... don't snatch at the trigger.
+
+0xD3C6ED14 = ~z~That's right... have you been?
+
+0xD4ABD96E = ~z~Cal spent his summers growing up at his grandparents' lodge in Maine,
+
+0xD4D2711D = ~z~They're getting closer.
+
+0xD5B922FD = ~z~Ain't no point blaming yourself for any of this.
+
+0xD5ECC830 = ~z~It got away! I told you it was fast. Anyway, my turn.
+
+0xD7AE80BA = ~z~Please do call again some time, though. A good rest and hopefully I'll be a new woman.
+
+0xD9BA2871 = ~z~Oh really? Cal was in banking too.
+
+0xD48ACC2E = ~z~That should keep you fed for a few days.
+
+0xD61CCF4A = ~z~I have no doubt one can survive here... whether Charlotte Balfour can is a different matter entirely.
+
+0xD90B7A77 = ~z~Oh, i-it's okay, ma'am. I mean you no harm.
+
+0xD560D6AF = ~z~real.
+
+0xD570DEF7 = ~z~I wouldn't be here right now if it wasn't for him.
+
+0xD611EC8B = ~z~
+
+0xD3169A42 = ~z~Okay, I don't think this is such a good idea after all.
+
+0xD7734BFB = ~z~He found me at my lowest point and he lifted me up.
+
+0xD90034AC = ~z~Oh no, it's hopping away.
+
+0xD93197B7 = ~z~That she doesn't.
+
+0xD269814F = ~z~I buried him a week ago.
+
+0xD7989677 = ~z~Skin it? But I... I don't even have a knife with me.
+
+0xDA8AF626 = ~z~You got a rifle?
+
+0xDA8B0D8E = ~z~It was just...
+
+0xDA70B8E1 = ~z~Okay, it's my shot.
+
+0xDA112FBD = ~z~What?
+
+0xDAD8E9C2 = ~z~Oh, good shot.
+
+0xDB344C6B = ~z~We came out here from the city in search of a different life.
+
+0xDBD77E2C = ~z~People always talk about the simplicity of country life. But there's nothing simple about any of this.
+
+0xDC1B8E88 = ~z~Oh what a pathetic sob story it is... you must think I'm such a spoiled brat.
+
+0xDC75E68E = ~z~Got it.
+
+0xDC776190 = ~z~I'll leave you to it.
+
+0xDCB22C5F = ~z~I think you should leave now.
+
+0xDD9C3C95 = ~z~Well, let's just say my prey is looking decidedly unscathed.
+
+0xDD95EC69 = ~z~you have done more than enough.
+
+0xDE727A41 = ~z~There look, a rabbit. Okay, stay quiet and still. Watch me.
+
+0xDEAECD3F = ~z~Aren't you a little close there?
+
+0xDED32D8A = ~z~you gotta...
+
+0xDF6EC6E5 = ~z~Oh good, you're back. The least I can do is serve you a hot meal.
+
+0xE03218E0 = ~z~crushed by it.
+
+0xE0C97568 = ~z~Is there a train station...
+
+0xE2C568A3 = ~z~Oh yes, at least. Thank you so much.
+
+0xE2DB68C7 = ~z~You've probably lived your whole life in the outdoors.
+
+0xE3F94DF1 = ~z~I'll shoot a few more this time.
+
+0xE4F7AD36 = ~z~Ain't no point blaming yourself for any of this.
+
+0xE4FCF813 = ~z~you take care of yourself, Arthur.
+
+0xE6CCD094 = ~z~This was really his dream more than mine.
+
+0xE6EB332A = ~z~Well, nature provides, but she sure don't always make it easy.
+
+0xE17F2CBD = ~z~You helped me to catch it after all.
+
+0xE33E4318 = ~z~What are you shooting at?
+
+0xE55C8C50 = ~z~Not bad. Focus on the inhale, shoot on the exhale. My turn...
+
+0xE62A98F6 = ~z~Not bad. Focus on the inhale, shoot on the exhale. My turn...
+
+0xE96AE8D8 = ~z~Well it makes no difference now...
+
+0xE494CE9A = ~z~Shouldn't you shoot it now, before it runs away?
+
+0xE599BCBC = ~z~Showoff. Alright, let me try again.
+
+0xE854A921 = ~z~Sounds terrible.
+
+0xE945EFA0 = ~z~such a shame.
+
+0xE3251D62 = ~z~Ah well...
+
+0xE50241C4 = ~z~Wait to breathe out, wait to breathe out...
+
+0xE453890E = ~z~Yours fondly, Charlotte.
+
+0xE3432302 = ~z~A bear got him... it was horrifying. He survived but only for a couple of days.
+
+0xEB5AD812 = ~z~And how's that working out for ya?
+
+0xEB6B8AAC = ~z~or a town I can take you to?
+
+0xEB732D37 = ~z~Cal and I were both born into money. Wanting for nothing, yet somehow wanting for everything.
+
+0xEB656592 = ~z~I don't know what's gotten into you, but I don't appreciate it one bit.
+
+0xEBB54129 = ~z~I hope you enjoy it.
+
+0xEBDF4F49 = ~z~We were stunted and I wanted us to grow again... oh I don't know. I'll never forgive myself.
+
+0xEC3AA0F6 = ~z~Oh no, I didn't mean it like...
+
+0xEC4D7195 = ~z~No, let me go!
+
+0xECA91A72 = ~z~Yes... well, my husband's.
+
+0xED4BB357 = ~z~What are we going to do?
+
+0xEDF1AD40 = ~z~Well, nature provides, but she sure don't always make it easy.
+
+0xEE55D1A8 = ~z~Business or pleasure?
+
+0xEF8CFCB6 = ~z~Yes, good eye. Okay, stay quiet and still. Watch me.
+
+0xEFBFB498 = ~z~Bon appetit.
+
+0xEFDFC34B = ~z~Yeah, thank you for this...
+
+0xEFE3AFC5 = ~z~What are you chasing?
+
+0xEFFDB8D1 = ~z~Okay, I'm watching?
+
+0xF05737C2 = ~z~Can I get you some water?
+
+0xF066C813 = ~z~Well, I think we should start with something small, don't you? I kill it, you skin it... sound fair?
+
+0xF06A1201 = ~z~Please...
+
+0xF2B13FC7 = ~z~Looks like you need some practice yourself.
+
+0xF3B61585 = ~z~Well...
+
+0xF3DABECD = ~z~writing a great novel...
+
+0xF7BDBF75 = ~z~Where are you going?
+
+0xF7D052E7 = ~z~Please, I know how it silly it sounds now. It's hard to explain how... useless we felt... how useless I felt.
+
+0xF8BA2077 = ~z~I don't understand. Why are you doing this?
+
+0xF10D2E19 = ~z~I suggest you learn how to use it. Now come on, let's get you home.
+
+0xF12B81B9 = ~z~Come on. Untie me, please!
+
+0xF27A0210 = ~z~He wrote fondly of you.
+
+0xF34E6256 = ~z~Please, just stop!
+
+0xF54FE73B = ~z~I can't even see what you're aiming at.
+
+0xF82C8697 = ~z~Oh, it's okay ma'am...
+
+0xF191BB9F = ~z~I was lost in it, I was...
+
+0xF327E7AC = ~z~time I learned how to use Cal's gun properly.
+
+0xF479F9CE = ~z~I think I've seen enough blood for one day. Do you mind if we head back now?
+
+0xF903E49E = ~z~Please, I really don't feel safe with you shooting from back there.
+
+0xF7105CBC = ~z~and always pull the trigger on empty lungs.
+
+0xF7883DBE = ~z~You take care of yourself out here, ma'am.
+
+0xF53477B4 = ~z~banquets, butlers, valets...
+
+0xF5014053 = ~z~See, nothing's that easy.
+
+0xFA1FEBCA = ~z~Please, I know how it silly it sounds now. It's hard to explain how... useless we felt... how useless I felt.
+
+0xFAF629C1 = ~z~Well...
+
+0xFB78E54C = ~z~Seriously, I can only move so fast.
+
+0xFC664DE5 = ~z~Please, enjoy.
+
+0xFC736BE1 = ~z~Please, just let me be.
+
+0xFC2449A5 = ~z~That she doesn't.
+
+0xFC4211C2 = ~z~What can I say? Thank you.
+
+0xFD5BA8E4 = ~z~People always talk about the simplicity of country life. But there's nothing simple about any of this.
+
+0xFD804381 = ~z~I know.
+
+0xFDCAB18C = ~z~Now you're sure I can't take you to a train station?
+
+0xFE19D347 = ~z~No, I'm, I'm, I'm fine.
+
+0xFF5E678A = ~z~Will you please watch where you're shooting?
+
+0xFF905AC4 = ~z~That's quite the attire. I am clearly behind the fashions out here.
+
+0xFFC7C0AF = ~z~Oh thank God. You see? If you hadn't been here, I'd be dead now.
+
+0xFFD730EB = ~z~Ma'am...
+
+0xFFF3DFB1 = ~z~They're going to kill us!
+

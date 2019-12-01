@@ -1,0 +1,58 @@
+0x0381F769 = ~z~Here's the list.
+
+0x092678C8 = ~z~Sharking already?
+
+0x0E878C50 = ~z~You'll find him up in the hills north of Strawberry.
+
+0x4DC60202 = ~z~and you?
+
+0x8FAA4051 = ~z~Herr Strauss.
+
+0x9B1C1CAD = ~z~and not for some of the locals.
+
+0x9BBC26BF = ~z~With enough encouragement...
+
+0x11B493CE = ~z~Tell me who.
+
+0x36D85E15 = ~z~Refinery worker turned hunter...
+
+0x431D6CB1 = ~z~I prefer to call it banking.
+
+0x1945A1CC = ~z~Ah, an apprentice undertaker.
+
+0x2195338F = ~z~by the name of Winton Holmes.
+
+0x93601723 = ~z~No, but I am the one feeding...
+
+0xA73B34EB = ~z~Well enough I guess...
+
+0xA116B290 = ~z~You ain't the one handing out the beatings.
+
+0xA80160AA = ~z~Herr Morgan...
+
+0xAAF9C53A = ~z~both of them.
+
+0xB17C496D = ~z~How are you enjoying yourself here?
+
+0xB70ADE78 = ~z~What choice do we have, Mr. Morgan?
+
+0xC1DE7303 = ~z~And how many of them...
+
+0xC390ED96 = ~z~Well, it turns out the pursuit of freedom...
+
+0xC5127A87 = ~z~the women and children in the camp.
+
+0xCFFE8679 = ~z~Not for us...
+
+0xD8A5A1B1 = ~z~Well, come on then.
+
+0xD45A17F6 = ~z~do you think will be able to pay?
+
+0xEC724826 = ~z~This one working in Rhodes...
+
+0xEDDECC23 = ~z~Ah, I don't know, I...
+
+0xFABFDBFB = ~z~is not a cheap business.
+
+0xFEB4ECAB = ~z~his name was Gwyn Hughes.
+

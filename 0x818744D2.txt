@@ -1,0 +1,4 @@
+0xE9E745B6 = Greet
+
+0xFDDBADC4 = Antagonize
+

@@ -1,0 +1,230 @@
+0x0911158C = ~z~They lacked your...
+
+0x0B849DD7 = ~z~J. John Weathers...
+
+0x0BCC9D47 = ~z~I ain't dead yet.
+
+0x0CA6A9B7 = ~z~Go get a new partner!
+
+0x0E98A3FF = ~z~Man's name is J. John Weathers.
+
+0x1B863CBA = ~z~No, of course not.
+
+0x1B400953 = ~z~I ain't gonna kill you...
+
+0x2A05E475 = ~z~business partners.
+
+0x2BE7A78E = ~z~You waste my time, you depress me...
+
+0x2D8CADEC = ~z~I don't understand...
+
+0x2F11ADDA = ~z~Ah, this should do.
+
+0x3A0979C0 = ~z~You take care.
+
+0x3A9D4771 = ~z~and you shame us...
+
+0x4E58AD1A = ~z~What are you doing?
+
+0x5D548591 = ~z~Herr Strauss.
+
+0x5E050BBC = ~z~and you're a parasite.
+
+0x5F039039 = ~z~That should do.
+
+0x6A7E1FF8 = ~z~are you perhaps available for some work?
+
+0x6BBD2276 = ~z~Are you, um...
+
+0x6CBAABA7 = ~z~Go!
+
+0x7D3E4956 = ~z~Okay.
+
+0x7E9B4DD4 = ~z~Leaving.
+
+0x8D37FD74 = ~z~Herr Strauss.
+
+0x8DF8EACB = ~z~About how I look.
+
+0x8F5070D2 = ~z~what are you doing?
+
+0x9A9FBAEB = ~z~Yes.
+
+0x14B87A04 = ~z~Take that, and get lost.
+
+0x20A57EFE = ~z~Just dandy.
+
+0x31FB6AC4 = ~z~Head to him first...
+
+0x33BE24FF = ~z~What is wrong?
+
+0x48A06413 = ~z~Get your bag.
+
+0x82AF88C7 = ~z~He's called...
+
+0x87E6606A = ~z~What are you doing?
+
+0x91F3F6C5 = ~z~though I probably should.
+
+0x96EAFD87 = ~z~I don't understand...
+
+0x109B249C = ~z~Couldn't one of the boys do this?
+
+0x204E476A = ~z~they're looking for him out on the road near Three Sisters.
+
+0x247A1987 = ~z~I'm...
+
+0x313E330F = ~z~Now, here...
+
+0x385AC388 = ~z~Is this it?
+
+0x482AE28C = ~z~if we could be shamed any more than we already are.
+
+0x488CE0D8 = ~z~Sending me after losers like that.
+
+0x803B8743 = ~z~That's what I was saying...
+
+0x813C5556 = ~z~You disgust me...
+
+0x1353F97B = ~z~nothing at all.
+
+0x4372D778 = ~z~take that.
+
+0x7002AAED = ~z~Mr. Morgan.
+
+0x8065D07D = ~z~Getting rid of you...
+
+0x8116D45F = ~z~I don't understand you...
+
+0x9947FD8B = ~z~about how I look.
+
+0x42704FD9 = ~z~Debtors?
+
+0x87625DA2 = ~z~How are you?
+
+0x97413EFA = ~z~and a time waster.
+
+0x399642EB = ~z~Just get out of my sight.
+
+0x729334D8 = ~z~you time wasting maggot.
+
+0x19578266 = ~z~You're an embarrassment.
+
+0x38138090 = ~z~We were partners...
+
+0x82416597 = ~z~Mr. Morgan.
+
+0x83571726 = ~z~A creep and a parasite...
+
+0x87055906 = ~z~Okay.
+
+0xA1D4012D = ~z~Get up!
+
+0xA4C09932 = ~z~Get your bag.
+
+0xA4F2DA5D = ~z~Now, take that.
+
+0xA8EFD547 = ~z~well, he's called Arthur...
+
+0xA36E91C4 = ~z~How are you?
+
+0xA731DED3 = ~z~You're a creep.
+
+0xA5719D14 = ~z~Go and get...
+
+0xB3B43999 = ~z~a job!
+
+0xB4B479E0 = ~z~Take that...
+
+0xB59C7BA8 = ~z~My comrade?
+
+0xB80A42E5 = ~z~What are you doing?
+
+0xBA77C720 = ~z~they-they say the sick delude themselves.
+
+0xBE610271 = ~z~No, never mind, I didn't...
+
+0xBF238302 = ~z~vigor.
+
+0xBF588370 = ~z~Alright.
+
+0xC0AFCC46 = ~z~About...
+
+0xC3B90E41 = ~z~there's a deserter from Fort Wallace.
+
+0xC59B10E1 = ~z~You know, Mr. Morgan you are...
+
+0xC678CA76 = ~z~Get up.
+
+0xC5564861 = ~z~how did you get on, Mr. Morgan?
+
+0xCA4EA514 = ~z~and don't annoy me.
+
+0xCA149AF4 = ~z~Well...
+
+0xCAE5A63A = ~z~I was your comrade.
+
+0xCD149D90 = ~z~Arthur Londonderry.
+
+0xCD386B01 = ~z~but those folk...
+
+0xCE2CA118 = ~z~Take care, Mr. Morgan.
+
+0xD039A622 = ~z~Look, Strauss...
+
+0xD9FF446D = ~z~I was...
+
+0xD35EF74E = ~z~they was.
+
+0xD71DB1A2 = ~z~like you.
+
+0xD739B41E = ~z~well, I'm sorry for you.
+
+0xD7856C8F = ~z~What...
+
+0xDBD73E79 = ~z~who owes you money?
+
+0xDEF9CD3E = ~z~I'm...
+
+0xE3F61AC0 = ~z~Nothing's wrong...
+
+0xE8CB222A = ~z~I was your friend.
+
+0xE9F9D99E = ~z~I guess.
+
+0xE838E0E0 = ~z~they-they say the sick delude themselves.
+
+0xE882E050 = ~z~Leaving.
+
+0xE2014769 = ~z~You know the type.
+
+0xEA301214 = ~z~Just...
+
+0xEB91DDEE = ~z~The debtors, Strauss...
+
+0xEC302A94 = ~z~You know...
+
+0xECCADD75 = ~z~Hey.
+
+0xED4AE160 = ~z~I, uh... I...
+
+0xF5A6BE21 = ~z~Something I should have done a long time ago.
+
+0xF502EEC4 = ~z~Vigor, huh?
+
+0xFA737881 = ~z~Then, there's a miner over in Annesburg.
+
+0xFB0CC6AD = ~z~You and me, we ain't decent...
+
+0xFBCD7D45 = ~z~Your commitment to your duties is admirable.
+
+0xFBF8B5A5 = ~z~Ah...
+
+0xFC2F35E2 = ~z~What?
+
+0xFC377BD5 = ~z~Family man, desperate.
+
+0xFE600D2A = ~z~You know...
+
+0xFE508007 = ~z~I tried.
+

@@ -1,0 +1,6 @@
+0x862A60C8 = The nearby collectible Bird Eggs have been eaten.
+
+0x4029F40B = Investigate the sound ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~ and use Eagle Eye ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to highlight anything interesting nearby.
+
+0x5726EBD4 = Investigate the sound ~COLOR_FRIENDLY~~BLIP_AMBIENT_COMPANION~~s~ and use Eagle Eye ~INPUT_SPECIAL_ABILITY~ to highlight anything interesting nearby.
+

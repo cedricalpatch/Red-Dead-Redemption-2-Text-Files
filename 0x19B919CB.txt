@@ -1,0 +1,50 @@
+0x03D3089C = ~z~Damn fool that he is.
+
+0x1EADC8D7 = ~z~Always.
+
+0x2CD9F733 = ~z~I know, dear.
+
+0x3AB0822A = ~z~Listen all you want but it's the truth.
+
+0x6A3C6141 = ~z~I'm afraid.
+
+0x9F2E3F54 = ~z~I just... wish John was...
+
+0x31BD6EF6 = ~z~~sl:0.0:1.5~Pinkertons, bounty hunters...~sl:0.3~It all feels...
+
+0x41B2A40B = ~z~~sl:0.0:0.8~Arthur.~sl:~Stop being strange and tell her to make plans.
+
+0x76A6F8C8 = ~z~Can I tell you something?
+
+0x130D2710 = ~z~I care about him.
+
+0x355F883E = ~z~~sl:0.0:1.3~And if I were you...~sl:1.0~think of the boy and make plans.
+
+0x679E6CBB = ~z~~sl:0.0:1.7~It seems we don't have a choice~sl:~but to ride this train to the end of the line.
+
+0x47112BA1 = ~z~~sl:0.0:0.6~I mean,~sl:~he's always found a way but lately I...
+
+0x80311DE0 = ~z~~sl:0.0:1.1~What are we gonna do?~sl:0.3~Is Dutch, I...
+
+0x91952FF6 = ~z~It's the truth, Arthur.
+
+0x30600166 = ~z~Listen to Hosea, Abigail.
+
+0xAA8B7294 = ~z~I know, my dear.
+
+0xC54115FB = ~z~~sl:0.0:1.2~I'm frightened, Hosea.~sl:1.0~Real frightened.
+
+0xD493B5F2 = ~z~First time in my life.
+
+0xD632B7E2 = ~z~I'm a mother.
+
+0xD88131F9 = ~z~~sl:0.0:1.1~Stay calm.~sl:0.9~Jack needs you calm.
+
+0xE7CCDB16 = ~z~feel like my whole life's been one long... bad situation.
+
+0xF5C26C7B = ~z~I know, dear.
+
+0xF9907E9D = ~z~We've been in bad situations before but,
+
+0xFB7A0270 = ~z~Of what?
+

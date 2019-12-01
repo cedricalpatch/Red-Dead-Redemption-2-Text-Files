@@ -1,0 +1,36 @@
+0x0ECC8053 = ~z~You're someone's driver, I assume?
+
+0x2C5123A1 = ~z~I, I don't know, I'm sorry, mister, maybe I had a couple too many...
+
+0x3EA364BE = ~z~she was English... may she rest in peace. Well, anyway...
+
+0x6D42B88E = ~z~A driver at the bar, you never would have seen it in the seventies.
+
+0x7CB7D778 = ~z~Anyway, I-I probably shouldn't be seen talking to you...
+
+0x7E3C476A = ~z~Not that any of these fancy fools are any better.
+
+0x89A87159 = ~z~These days with the oil men, the railway men, you simply don't know.
+
+0x576AF9D4 = ~z~I'll never be one of those... people, but, you know, sometimes we all like to kid ourselves, maybe we're better than we ain't.
+
+0x29321D63 = ~z~Don't know why I still come in here, to be honest. Maybe because I can.
+
+0x97308C71 = ~z~A millionaire can look like a farmhand.
+
+0x76916634 = ~z~You ain't from around here, I'm guessing?
+
+0xA6402A90 = ~z~It's okay, I was just curious. I mean,
+
+0xAE71C44D = ~z~and who's just here trying to fix themselves to the rich.
+
+0xB1834116 = ~z~you know, I used to be able to tell a man's standing with a single glance at his attire.
+
+0xC92BF9C1 = ~z~I look around this place, trying to work out who's really rich
+
+0xD01D07AB = ~z~All fur coat and no knickers, my mother used to say...
+
+0xE97D3A6B = ~z~Like those fish who ride around on turtles cleaning their backs.
+
+0xEE5242B8 = ~z~Nice to see another feller in here who ain't born with a silver spoon in his mouth.
+

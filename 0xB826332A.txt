@@ -1,0 +1,80 @@
+0x3A333862 = Kill the ~e~wolves~s~
+
+0x3D5A7345 = Stash Spot
+
+0x3FB1286C = Equip your binoculars
+
+0x8A024082 = Lead the widow to the ~o~hunting area
+
+0x9BB7AFB0 = Rabbit
+
+0x9EA9D788 = ~s~The widow wrote a letter expressing her inability to fend for herself. She mentions Arthur as an example of the thankless, ruthless nature of the people that roam the wilderness.~n~~n~She mentions missing her husband, and takes small comfort in that she'll at least join him soon.~s~
+
+0x9F040405 = Taste stew
+
+0x9F7C97FD = Shoot three ~e~bottles~s~
+
+0x13A53FD9 = The letter is written by a concerned mother, addressed to her son. In it, the woman shows great love for her offspring, but it appears this and other letters have been kept from the young man.
+
+0x23F8E58C = Shoot the ~e~rat~s~
+
+0x31A286DE = Stranger
+
+0x31B205ED = Search the ~o~area~s~ for an animal
+
+0x52D6A854 = Search the ~o~house~s~ to recover your money
+
+0x81BD8FCF = Scout the ~o~homestead~s~
+
+0x300BCB54 = Drink
+
+0x966E894B = Follow ~o~Javier~s~
+
+0x4187DC86 = Hide behind the ~o~rock~s~
+
+0x6294DC6A = Sit at the ~o~table~s~
+
+0x18629BB9 = Shoot the ~e~rabbit~s~
+
+0x61546DE7 = Deal with the ~e~enemies~s~
+
+0x70927F53 = Outlaw
+
+0x964047DF = Go to ~o~Javier~s~
+
+0xA04C1CCB = Bottle
+
+0xA6C24CBB = Follow the ~o~widow~s~ home
+
+0xA868D82A = Leave
+
+0xAABA125C = Insult
+
+0xABB2AE0A = Pick Up Body
+
+0xAEEA4B08 = Take Money
+
+0xB842A748 = Stranger
+
+0xB910F8A7 = Stay close to ~o~Javier~s~
+
+0xC61B9F3C = Wait for the ~o~widow~s~ to skin the rabbit
+
+0xD26894CD = Help ~o~Javier~s~ push
+
+0xE5D94060 = Search for the stash in the ~o~barn~s~
+
+0xE23664D0 = Wait for the ~o~widow~s~ to shoot
+
+0xE31149EE = Push
+
+0xEBA7963D = Escort the ~o~widow~s~ home
+
+0xED0EDFC4 = Shoot a ~e~single bottle~s~
+
+0xF598C8AC = Sit on the ~o~chair~s~ for dinner
+
+0xF713D992 = Wait for ~o~Javier~s~ to cause a distraction
+
+0xFF5D9C7E = Secret Stash Recovered
+

@@ -1,0 +1,718 @@
+0x0234EEBD = ~z~I know, ~rp~I've seen it. ~rp~There's a Gray boy ~rp~and a Braithwaite girl carrying on a secret affair.
+
+0x023FA4A9 = ~z~Drink up, folks, or you'll make Fenton mad.
+
+0x033DBA70 = ~z~It's already ours.
+
+0x042D22AD = ~z~Fenton, grab another bottle. There's plenty to go around.
+
+0x045B85C0 = ~z~so hurry up, put old Fenton to work.
+
+0x051AA04E = ~z~Arthur!
+
+0x05FE6F08 = ~z~Watch your back!
+
+0x07F6C92B = ~z~Quiet libation?
+
+0x092A3C42 = ~z~Good job, Arthur.
+
+0x09C6E205 = ~z~Just keep 'em coming.
+
+0x0A93FEF9 = ~z~sad and keep quiet. Even you can do that, Arthur.
+
+0x0ACB325B = ~z~Modest little homestead, isn't it?
+
+0x0C2B919A = ~z~~sl:0.0:2.5~Found something... out in the hills, thought...~sl:0.5~thought maybe you was in the market for it.
+
+0x0D3F07C8 = ~z~Where are you going? Take this to the main entrance.
+
+0x0E7CD0EE = ~z~Though it seems that's easy enough.
+
+0x0ECEDF36 = ~z~In front of us, Arthur.
+
+0x0EF75902 = ~z~Yeah...~rp~ that don't surprise me.
+
+0x1A1E1005 = ~z~We'll be watching you.
+
+0x1A4E1C0C = ~z~Don't be shy, boys, don't be shy. It's the land of opportunity.
+
+0x1A7C7795 = ~z~I don't want it.
+
+0x1BAE0FA4 = ~z~What do you want? This is private property.
+
+0x1BCD14CC = ~z~Will you get the other liquor from the wagon, Fenton?
+
+0x1C8F44CD = ~z~~sl:2.1:1.2~~rp~You can't speak.~sl:0.2:1.0:1~~rp~You're turned idiot...
+
+0x1D4C75AC = ~z~Wants to keep their full effort on going after gangs...~rp~ gangs like us.
+
+0x1DBD8B71 = ~z~To our left!
+
+0x1DF3D63A = ~z~Fenton, open another bottle.
+
+0x1FE83807 = ~z~~sl:0.3:3.6~Just a shame you had to strangle her in a rage, right...~sl:0.4:2.4:1~grab two cases of that stuff and follow me.
+
+0x2AC8BD01 = ~z~Sin will catch us all, so drink up.
+
+0x2ADAB574 = ~z~Moonshine, my fine fellow.
+
+0x2AF789E7 = ~z~Oh...
+
+0x2B58DA74 = ~z~Jump!
+
+0x2C56B476 = ~z~Okay... okay. She's at the house.
+
+0x2D667F06 = ~z~Selling it back to where it came from.
+
+0x2E25648D = ~z~
+
+0x2EC85A99 = ~z~are entirely free!
+
+0x2EDFB722 = ~z~Killed our mother, but it weren't his fault.
+
+0x2F4135B4 = ~z~~sl:0.0:3.5:1~Come on, keep Fenton busy. You won't like him when he's bored.
+
+0x2FCD434C = ~z~Well done. Let's go.
+
+0x2FFB2FEC = ~z~We got more on the left.
+
+0x3AE03528 = ~z~Gentlemen...
+
+0x3AE4EF64 = ~z~Hey, careful who you're shooting at.
+
+0x3B65BCB7 = ~z~And, listen...
+
+0x3B759714 = ~z~Drinks on the house for the next thirty minutes only.
+
+0x3BA35EB6 = ~z~When I see a gift horse, I avert my eyes...
+
+0x3BB165C4 = ~z~That was fun, Fenton.
+
+0x3CAB2D4E = ~z~Wanna do a deal.
+
+0x3D2153A5 = ~z~This is my brother, Fenton. Don't mind him, don't madden him, he's turned idiot.
+
+0x3EA1432E = ~z~least not without orders from...
+
+0x3F2EDB41 = ~z~There, there Fenton, ~rp~there there. ~rp~Don't get mad, now.
+
+0x4A114F35 = ~z~No, not bad at all.
+
+0x4A850B73 = ~z~So, for now...
+
+0x4AA5E47D = ~z~You're a fine man, Fenton, a fine man. Don't listen to your brother.
+
+0x4B1CF36B = ~z~Give me strength, boy. Grab the other crates, will you? These people are thirsty.
+
+0x4B9AD69D = ~z~~sl:0.0:0.7~Gentlemen!~sl:0.9~My name is Melvin.
+
+0x4B676E00 = ~z~Up you come, more than enough for everyone.
+
+0x4CCFF683 = ~z~
+
+0x4DF14A6B = ~z~Over there! They got out the back!
+
+0x4E267C0B = ~z~Hello, gentlemen, how are you?
+
+0x4E868B17 = ~z~Yeah....
+
+0x4EA3E333 = ~z~we didn't take it...
+
+0x5A6C3A7C = ~z~Made it.
+
+0x5A12EF38 = ~z~~sl:0.0:3.2~I wanted more, but not bad considering how hot they were,~lr:~especially after that bloodbath in Valentine.
+
+0x5B6E4CF8 = ~z~Shoot this bastard!
+
+0x5BA1DB44 = ~z~Ah, I get you.
+
+0x5C71A6ED = ~z~Advertising.
+
+0x5CCAAFFE = ~z~let me go give old Mrs. Braithwaite some of this moonshine as...
+
+0x5D72B7ED = ~z~The only rule is that you gotta drink them...
+
+0x5E1FA3AE = ~z~Providence... is shining on you, now don't let her down, my boys, come on... come along.
+
+0x5E48A6A7 = ~z~Yeah, I keep seeing those fellers.
+
+0x5F23CAAC = ~z~Hurry and serve these poor gentlemen, Fenton.
+
+0x6A2F4268 = ~z~Remind me never to take up a career in... what was it?
+
+0x6A94EB45 = ~z~Arthur, help!
+
+0x6A407521 = ~z~Like your brother said, you got half an hour, so I'd get to it.
+
+0x6DF47FE9 = ~z~I think we'll cut ourselves a deal.
+
+0x6EA4BA2C = ~z~~sl:1.5:1.0:1~Smoke this pipe.
+
+0x6EAD44C9 = ~z~We got work to do, my boys, let's go!
+
+0x6F00FE2E = ~z~Free drink, up you come, don't be shy.
+
+0x6F2E20D5 = ~z~Sure, okay...
+
+0x7AA5C2F5 = ~z~Why aren't you shooting them?
+
+0x7AAD01C2 = ~z~Come on, Fenton, they're getting thirsty.
+
+0x7BF21AE0 = ~z~Get behind the bar, down the corridor there.
+
+0x7C900C5B = ~z~You boys come back sometime and tell me how you made out.
+
+0x7CC7E908 = ~z~We got more behind us.
+
+0x7E7FD2A2 = ~z~That's the saloon there, pull up 'round the side.
+
+0x7EE896C7 = ~z~Damn it, they're still coming.
+
+0x7EFE5C45 = ~z~
+
+0x7FBB32AE = ~z~
+
+0x8A09EA92 = ~z~Hey, hey... this way!
+
+0x8A71BC87 = ~z~On your left, Arthur!
+
+0x8AB4A8A4 = ~z~Maybe we'll play a little cribbage.
+
+0x8B71EF1A = ~z~Mrs. Catherine Braithwaite.
+
+0x8C0B0923 = ~z~~sl:0.0:2.6~What with us possessing it, and I-I checked all over,~sl:~for the life of me I couldn't see your name on it.
+
+0x8C108E89 = ~z~Why?
+
+0x8CB93268 = ~z~How many are there? They really aren't happy about this.
+
+0x8FD01790 = ~z~~sl:0.0:3.3~You and Dutch already have that... thing going on in town with...~sl:0.5~the sheriff.
+
+0x9DBD8161 = ~z~You and Dutch was just doing your duty...
+
+0x9ED8B5A1 = ~z~~sl:0.0:4.5:1~Now we're... inserting ourselves in his blood feud...
+
+0x9FD438E9 = ~z~Some liquor.
+
+0x13AFB8FB = ~z~Well, ~rp~I'm sure there's money in this for us somewhere, if we can get in the middle of it.
+
+0x14D9C9DD = ~z~Open bar, gentlemen, let's have some fun here.
+
+0x16DD10C5 = ~z~Behind you!
+
+0x19F910D6 = ~z~Quite broke poor mammy's heart.
+
+0x23AA7A8A = ~z~Hosea, please...
+
+0x27A1E996 = ~z~~sl:0.0:2.6:1~Another bottle, Fenton. These men are dry.
+
+0x29B3F391 = ~z~You there, you look like a drinking man, come on up.
+
+0x29E4F05A = ~z~Ah, that's some strong stuff.
+
+0x31A4DB80 = ~z~Okay, Fenton, stay calm now... for momma, she loved you so...
+
+0x32E5A867 = ~z~In fact, sir, now you can do me a favor...
+
+0x35D5C5EE = ~z~I'll leave you fellers to it. Good luck.
+
+0x37B67E27 = ~z~Ahead of ya!
+
+0x38EC5197 = ~z~What's that in the back there?
+
+0x40AF7B4F = ~z~Alright, next stop: the Rhodes saloon.
+
+0x40E9EFE2 = ~z~Do you think that woman set us up?
+
+0x45FA80C8 = ~z~Fenton! Keep it coming. These souls need some joy.
+
+0x49B79FD4 = ~z~Fenton, snap out of it! I'm sorry, gentlemen, he's not normally this slow.
+
+0x54A09FA6 = ~z~Part of me thinks we just get ourselves good and lost...
+
+0x55F6A3DA = ~z~We'll need something.
+
+0x56A49B51 = ~z~They hit the moonshine.
+
+0x56B0EFFD = ~z~You know what?
+
+0x57D006EB = ~z~That's our goddamn liquor.
+
+0x60E01EA3 = ~z~Bring your lip forward just a bit,~rp~ now... squint...
+
+0x61B430B1 = ~z~Turn back now.
+
+0x62E5FEF8 = ~z~come on in, have a drink.
+
+0x63C9BC66 = ~z~~sl:0.0:3.3:1~Come on, Fenton, people are dying of thirst over here!
+
+0x64A8B325 = ~z~~sl:0.0:1.6:1~Of course you're not. You're...
+
+0x64AF0F4D = ~z~Alternative is we go sell it someplace else.
+
+0x64E68FB4 = ~z~I should get going now.
+
+0x65DFC228 = ~z~well...
+
+0x67F85FE1 = ~z~On the right. Look out.
+
+0x71A3720A = ~z~Good shot.
+
+0x75D6D607 = ~z~I think the good citizens ~rp~taking the trouble to return their stolen goods deserve some reward, ~rp~don't you?
+
+0x80CFEBF9 = ~z~This is the moonshine we took after blowing up the Braithwaites' still, right?
+
+0x80F76FF6 = ~z~Shit, that hit the liquor.
+
+0x82D16FB8 = ~z~No, I don't think so.
+
+0x87B6FDCE = ~z~We'll make an actor of you yet.
+
+0x89C2FAAB = ~z~Locked us in.
+
+0x89F3D9D2 = ~z~Pleasure doing business with you.
+
+0x92F33A59 = ~z~Fenton... inebriate these fine gentlemen.
+
+0x93E6AC17 = ~z~Damn it, more of them.
+
+0x97B8F55C = ~z~Pay the man.
+
+0x97D14B4B = ~z~Hey, buddy, if you want a drink, use the front door. This is for staff.
+
+0x132A3D67 = ~z~Hey, send a couple this way, will ya?
+
+0x182C177F = ~z~That won't work.
+
+0x184F38E1 = ~z~
+
+0x193CDACD = ~z~~sl:0.6~That hit the spot. Keep 'em coming, Fenton.
+
+0x239D7752 = ~z~You see any more of them?
+
+0x241AB294 = ~z~And it's time we made a formal introduction, ~rp~like Dutch told us.
+
+0x252B3471 = ~z~Yeah, I keep seeing those fellers.
+
+0x257E5C98 = ~z~Not sure, ~rp~they don't seem too involved in the rest of it, but ...~rp~maybe.
+
+0x261C062D = ~z~You heard the man. Driver, proceed, please.
+
+0x264CB3C0 = ~z~Shit.
+
+0x279E0A4F = ~z~So I finally sold those Cornwall bonds.~rp~ Got close to a thousand for 'em.
+
+0x291D0EBA = ~z~We got more trouble to the right.
+
+0x304AD569 = ~z~~sl:0.0:2.5:1~Work, Fenton... work you dumb bastard.
+
+0x347F5025 = ~z~Locked.
+
+0x371DD89A = ~z~You know the way?
+
+0x409EFE46 = ~z~Don't get him mad, though...
+
+0x459AB23E = ~z~I'll have one, Fenton.
+
+0x489AF440 = ~z~Turn around, more behind you.
+
+0x499DFD56 = ~z~Clearly not too happy to have some new competition.
+
+0x507A2FB8 = ~z~That's it.
+
+0x509C8B4F = ~z~Maybe... this place is odd.
+
+0x526B7E39 = ~z~Hello... hello, I'm Melvin.
+
+0x570D17EE = ~z~You know how I feel about that.
+
+0x594CE691 = ~z~relax, I ain't here to rob you.
+
+0x633B3CDB = ~z~but we still need a lot more money before that can happen.
+
+0x654A83D5 = ~z~you're the bastards who stole the liquor we was going to buy.
+
+0x655A63AB = ~z~Look out, more of them!
+
+0x664F3DAC = ~z~Way we see it, it's ours.
+
+0x676E306B = ~z~Okay, I think we're clear. Now let's just deliver this and be done with it.
+
+0x688D4228 = ~z~~sl:0.0:2.8:1~I ain't in the market for what's already mine.
+
+0x741E96C9 = ~z~Got more coming after us.
+
+0x743B901B = ~z~To your left.
+
+0x766E49BF = ~z~Yeah, what about you?
+
+0x768FC556 = ~z~~sl:0.4:0.0~May I speak with her? I want to discuss a business opportunity.
+
+0x781E66A5 = ~z~let's call it a peace offering.
+
+0x781F3DE8 = ~z~Now would be a good time to shoot!
+
+0x811C225C = ~z~Go see Fenton at the bar there, a mean jaw but a generous pour.
+
+0x856DE322 = ~z~You lost?
+
+0x874EFE97 = ~z~~sl:0.0:5.3:1~One more dollar says give us half an hour, what harm can we do in half an hour?
+
+0x956E70CB = ~z~The alternative is you get shot.
+
+0x971A38C5 = ~z~Get upstairs quick! I see more of them.
+
+0x980DA683 = ~z~We been making money.
+
+0x2190BC64 = ~z~What you want?
+
+0x4014D388 = ~z~Jesus, all this over a few bottles of booze.
+
+0x6290B49A = ~z~We still got more on our tail.
+
+0x6629BAB4 = ~z~Sure.
+
+0x7956E0B7 = ~z~Yeah...
+
+0x8265DC16 = ~z~Boys, get 'em.
+
+0x9057FEF8 = ~z~
+
+0x9159AF1B = ~z~Don't keep them waiting, Fenton.
+
+0x9273C50B = ~z~How rich are you?
+
+0x13852F69 = ~z~I see it!
+
+0x22511C72 = ~z~Look out on your right!
+
+0x29537F84 = ~z~~sl:0.0:1.5:1~You pair of bastards!
+
+0x31176DDD = ~z~There there, ~rp~Fenton, there there. ~rp~Don't get mad, now.
+
+0x65790D6B = ~z~~sl:0.0:1.9~Dutch asked him to look into something.~sl:~To do with the Braithwaite horses, I think.
+
+0x72842AEF = ~z~Alright...
+
+0x75105A1A = ~z~I don't know...
+
+0x75923E7E = ~z~I reckon it's more they don't want another gang on their patch.
+
+0x81138D78 = ~z~
+
+0x81395E42 = ~z~~sl:0.0:5.5:1~I mean no harm... no harm at all... you may happily shoot me if I do.
+
+0x83312A9E = ~z~Well I ain't got a market for it.
+
+0x97862C13 = ~z~his momma made him mad...
+
+0x98539A7E = ~z~~sl:0.2:0.0~Do I have to?
+
+0x302471E4 = ~z~The mind boggles. ~rp~You think they're of use?
+
+0x773446AF = ~z~Unless you got business here, move along.
+
+0x820592C4 = ~z~In front of you, Arthur.
+
+0x911179F1 = ~z~To your right!
+
+0x1407177C = ~z~Behind us, more of them.
+
+0x2268538B = ~z~Right ahead of you!
+
+0x4565723A = ~z~Bounty... it's a sin to look a gift horse in the mouth.
+
+0x7392513A = ~z~Some local militia.
+
+0x7964679B = ~z~~sl:0.0:1.2~Keep drinking!~sl:~There's plenty more where that came from and it's all free.
+
+0x9198890D = ~z~~sl:0.0:1.2:1~Come on, Fenton!
+
+0x10612485 = ~z~Are you coming?
+
+0x13551109 = ~z~Look,~rp~ these are two big old plantation houses ~rp~and all I keep hearing is they hate each other so much they can't see past it.
+
+0x14152533 = ~z~he's a bit funny, but boy can he pour drinks fast.
+
+0x20097407 = ~z~Dollar a bottle.
+
+0x21031938 = ~z~Just don't mention his momma...
+
+0x40195028 = ~z~Left of us!
+
+0x47998769 = ~z~
+
+0x75825965 = ~z~I'll go speak to Dutch.
+
+0x78683878 = ~z~~sl:0.8:1.8~The wife's gonna kill me.~sl:0.9~I only went out for milk.
+
+0x84496575 = ~z~Oh, perfect.
+
+0x87895501 = ~z~Now, who wants to get shot over a bottle or two of liquor?
+
+0x88847877 = ~z~Now it's your opportunity to get hideously drunk, come on. Come on!
+
+0x89327019 = ~z~~sl:0.7~Mr. Gray won't be happy about this.
+
+0xA2B9AF84 = ~z~No, I don't think so.
+
+0xA9E60703 = ~z~look sad and keep quiet. ~rp~ Even you can do that, Arthur.
+
+0xA22F5799 = ~z~As you wish, madam.
+
+0xA51C4379 = ~z~For what?
+
+0xA70E3C25 = ~z~Alright... We're good.
+
+0xA158D18C = ~z~Good. Keep at 'em, Arthur.
+
+0xA343B05E = ~z~~sl:0.2:0.0~I'm the clown...
+
+0xA431E887 = ~z~What have you got against free drinks, boys?
+
+0xA549225C = ~z~There's more to your right!
+
+0xAAA23993 = ~z~Okay, let's head out to the Braithwaites' place.
+
+0xAAE2C5BE = ~z~~sl:0.0:4.6~We're in the new trade of advertising which is an American art form about ~sl:~ ... ensuring people buy the correct things.
+
+0xAB1946C2 = ~z~~sl:0.2:0.0~May I have a word with the man of the house?
+
+0xAC9E127B = ~z~Good evening, gentlemen.
+
+0xAC27C264 = ~z~Some local militia.
+
+0xAC960469 = ~z~Hey, Arthur.
+
+0xACCC6600 = ~z~Serve the drinks, Fenton. You're not having another episode, are ya?
+
+0xB05D2E63 = ~z~Arthur, shoot dammit!
+
+0xB093D917 = ~z~That's it.
+
+0xB0E2B1DD = ~z~Where are you, Arthur?
+
+0xB5F60206 = ~z~Get off me!
+
+0xB6B0A098 = ~z~~sl:0.2:0.0~I'm the clown... ~rp~ you're the brother turned idiot. Just...
+
+0xB8BD3E01 = ~z~Come on!
+
+0xB38C7D33 = ~z~Help me!
+
+0xB65D90F6 = ~z~They made it, they must have someone to sell it to.
+
+0xB265D9A1 = ~z~~sl:0.0:2.8~Drink up, drink up... Fenton...~sl:0.2:3.6:1~serve these men... serve these men, you murderous moron...
+
+0xB910CF2D = ~z~Behind us, Arthur, coming out of the alley.
+
+0xB4762B86 = ~z~I believe they call that a promotional expense.
+
+0xB90225FA = ~z~Look on it as a reward, for finding the property.
+
+0xB700777A = ~z~Over here, Fenton.
+
+0xB4975305 = ~z~You're the idiot.~rp~ Just... look...
+
+0xBA44A314 = ~z~I see them.
+
+0xBA675EA1 = ~z~you're a clown's... idiot... brother.
+
+0xBADBA0F4 = ~z~What are you doing?
+
+0xBF15B76A = ~z~Me?
+
+0xBFA99E56 = ~z~Got one.
+
+0xBFE34260 = ~z~Hush now.
+
+0xC04AC67B = ~z~Now I'm doing mine.
+
+0xC1FA1F5C = ~z~Ain't gonna let this go, are they?
+
+0xC6D6995D = ~z~Quite broke poor mammy's heart.
+
+0xC82DFA2E = ~z~~sl:0.1:1.4:1~Hosea, please...
+
+0xC87FB3FA = ~z~Need you behind that bar now, Fenton, chop, chop.
+
+0xC254FB11 = ~z~The chest is filling up again, slowly but surely.
+
+0xC3477E7E = ~z~I ain't playing dress up.
+
+0xC58391A4 = ~z~and we buried her...
+
+0xC83334A1 = ~z~Hey, Arthur.
+
+0xC159444C = ~z~Eyes front! More of them.
+
+0xC624639E = ~z~An honest mistake.
+
+0xC2775506 = ~z~Upstairs, hurry!
+
+0xCB381020 = ~z~Arthur, stick to the ones shooting at us.
+
+0xCC190204 = ~z~~sl:1.9:1.1:1~Put this hat on...
+
+0xCD3DCDAE = ~z~Of course you're not. ~rp~You're...
+
+0xCD50CDD8 = ~z~~sl:0.0:0.8:1~Put this hat on...
+
+0xCE6496BB = ~z~~sl:0.5:1.5:1~Here we go.
+
+0xCE630726 = ~z~Yeah, I been there.
+
+0xCF6B3DD9 = ~z~He's down.
+
+0xCFEF65C4 = ~z~when you requisitioned it.
+
+0xD08ACFA0 = ~z~Well, shoot them then.
+
+0xD2D849EB = ~z~Why?
+
+0xD3FA9B47 = ~z~Okay, pull off the road here.
+
+0xD4BF82D3 = ~z~One for each of yous.
+
+0xD6F825DF = ~z~~sl:0.0:0.6~Alright...~rp~~sl:1.0~this could get ugly...
+
+0xD7D81719 = ~z~Free drinks, a gift!
+
+0xD9DF0AF5 = ~z~~sl:0.0:2.5:1~Don't be scared of Fenton. He rarely bites.
+
+0xD11ACD72 = ~z~Selling it back to where it came from.
+
+0xD18D1E94 = ~z~I'll take your horse back to camp, Morgan. Good luck.
+
+0xD99C6AF5 = ~z~Shit, we can't do anything with this moonshine with the law after us. You'll have to lose them.
+
+0xD100DB40 = ~z~You.
+
+0xD165B2BE = ~z~On our right, more of the bastards.
+
+0xD405CFAE = ~z~Shoot to your left!
+
+0xD532DE5B = ~z~Then give us fifty cents.
+
+0xD6416F1C = ~z~Momma!
+
+0xDA9A9F85 = ~z~It's those bastards from Shady Belle.
+
+0xDB7033EA = ~z~For the next thirty minutes...
+
+0xDB186967 = ~z~~sl:0.2:0.0~Do I have to?
+
+0xDC8FC473 = ~z~Bring your lip forward, just a bit... squint...
+
+0xDD14D92C = ~z~That's him dealt with.
+
+0xDDBD6EAD = ~z~You know my feelings about that.
+
+0xDE7FC793 = ~z~This way, up the stairs, there's more coming.
+
+0xDF14D274 = ~z~Where's mine then?
+
+0xDF4969CF = ~z~Why?
+
+0xE0A31AAA = ~z~Hey.
+
+0xE4AAED90 = ~z~Stuff looked kinda lonely out here.
+
+0xE5CE03A5 = ~z~Thank you, John. We'll see you later.
+
+0xE5E6C8D7 = ~z~That's my brother Fenton...
+
+0xE7FA272B = ~z~I know Fenton looks mad, but he's enjoying every minute of this, I promise you.
+
+0xE23B5026 = ~z~~sl:0.3:0.0~What about you?
+
+0xE23C0A65 = ~z~Old Sheriff Gray.
+
+0xE32E2B75 = ~z~Shit, it's the Lemoyne Raiders.
+
+0xE39ECB01 = ~z~Come on, jump!
+
+0xE64D1CB1 = ~z~Come on, get up here!
+
+0xE73FBF12 = ~z~The "man" of the house is a lady.
+
+0xE493D91A = ~z~More coming from our right, Arthur.
+
+0xE677AA22 = ~z~Fenton, why aren't you unloading the wagon?
+
+0xE999EFF9 = ~z~Here we are.
+
+0xE1997C71 = ~z~Gentlemen, we're in advertising...
+
+0xE5143A24 = ~z~Go along now... enjoy the money!
+
+0xE700909E = ~z~Drive the stuff into Rhodes...
+
+0xE3790030 = ~z~It's the Lemoyne Raiders.
+
+0xEA929039 = ~z~Apparently,~rp~ Cornwall's been pumping a lot of cash into the Pinkertons.
+
+0xEB05AF5F = ~z~I bet you would...
+
+0xEC4E08B4 = ~z~Don't think so.
+
+0xED6A1D6D = ~z~and give the stuff out for free.
+
+0xED8FEFAD = ~z~That's an order... you mother-killing loon!
+
+0xEFD64A00 = ~z~I been, well, ~rp~helping 'em.
+
+0xF040FBE9 = ~z~I'm getting us outta here.
+
+0xF077CB03 = ~z~Maybe... this place is odd.
+
+0xF09467C5 = ~z~poor thing.
+
+0xF099BA97 = ~z~Quite the town you have here, we just rode in from up north.
+
+0xF0F627D9 = ~z~Oh, I know exactly who gave you your orders.
+
+0xF1A3167C = ~z~you're a clown's... idiot brother.
+
+0xF1DD97B0 = ~z~What do you sell that stuff for?
+
+0xF3D7C113 = ~z~Gentlemen, gentlemen!
+
+0xF3D94F1B = ~z~Now come up to the bar, everybody. Come on, fellers, it's your lucky day.
+
+0xF6D5F8FF = ~z~~sl:0.0:1.0:1~Smoke this pipe.
+
+0xF7B76C78 = ~z~the drinks in this here bar, in this here town...
+
+0xF7DCCCA6 = ~z~~rp~~sl:1.4:1.2~You can't speak.~rp~~sl:0.9~You're turned idiot.
+
+0xF7DD05D3 = ~z~Do something, Arthur!
+
+0xF7FE7BAC = ~z~Oh, perfect.
+
+0xF9E2EA2C = ~z~I'll go visit old Ma Braithwaite, see what's what.
+
+0xF29C0562 = ~z~Get your free drinks from Fenton at the bar.
+
+0xF60EA55B = ~z~Drink up, drink...
+
+0xF752DEA1 = ~z~~sl:0.0:3.5:1~Come along Fenton... just hand out the liquor.
+
+0xF7784844 = ~z~How'd you boys... how'd you boys like a couple of bucks?
+
+0xFA6CECC8 = ~z~Yeah, Mr. Gray.
+
+0xFBABB9F0 = ~z~head over to the tavern run by Mr. Gray...
+
+0xFCA9E3B3 = ~z~So, what exactly are we doing?
+
+0xFD42BD22 = ~z~there's an extra ten bucks if you do.
+
+0xFD143BC1 = ~z~Up ahead, more of them.
+
+0xFDCA03F3 = ~z~Train!
+
+0xFED38956 = ~z~
+
+0xFF3522A4 = ~z~What're you doing?
+

@@ -1,0 +1,30 @@
+0x2B46BDB5 = to the ~HC_~1p~~Grizzlies~s~
+
+0x4B2B5160 = Go ~1~
+
+0x6AF80E81 = to ~HC_~1p~~Caliga Hall~s~
+
+0x7C5CF14F = The supplies were destroyed
+
+0x22A0143C = The supplies were delivered
+
+0x82C724E0 = Collect the wagon and supplies
+
+0x296B3049 = to the ~HC_~1p~~Van Horn Mansion~s~
+
+0x407BA231 = Deliver the supplies to Camp
+
+0x1520E653 = to ~HC_~1p~~Carmody Dell~s~
+
+0xA067B093 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ to ~COLOR_MP_OBJECTIVE~Camp
+
+0xB81F2ADE = Speak to Cripps at Camp to try again to bring the small Delivery Wagon and supplies for Cripps Trading Co.
+
+0xD128BDD4 = Collect Cripps' small Delivery Wagon and his supplies for Cripps Trading Co.
+
+0xDCF0F7A3 = The supplies were destroyed
+
+0xDE00ACFF = Deliver the supplies to ~COLOR_MP_OBJECTIVE~Camp
+
+0xDED9A2F9 = Get in the wagon
+

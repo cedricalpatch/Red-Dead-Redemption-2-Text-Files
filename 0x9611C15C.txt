@@ -1,0 +1,22 @@
+0x2A48FC0C = ~z~Throwing rocks at the O'Driscoll.
+
+0x7FB1A6C8 = ~z~
+
+0x83C06D7F = ~z~
+
+0x98FCD95E = ~z~Leave me alone.
+
+0x189B58B1 = ~z~What you doing, Jack?
+
+0x642C6FD2 = ~z~Leave him alone, go on, away with you.
+
+0x5172CA5F = ~z~Because he's an O'Driscoll... you always said that was bad.
+
+0xB50F119A = ~z~
+
+0xC6C5B507 = ~z~Why?
+
+0xECDC3FB9 = ~z~Get away with ya... leave the rock-throwing to the grown ups.
+
+0xEDFC8374 = ~z~But you said...
+

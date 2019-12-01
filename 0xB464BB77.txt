@@ -1,0 +1,36 @@
+0x7FC206B2 = ~z~~sl:0.0:1.7~So then they wanted me so I went on the run.~sl:~I ran right till I bumped into Dutch.
+
+0x8D88A23F = ~z~~sl:0.0:1.4~I stole a gun...~sl:0.7~and I shot 'em.
+
+0x27CC826C = ~z~~sl:0.0:1.6~He was a...~sl:0.2:1.3~house nigger.~sl:0.4~That's what they called him.
+
+0x37BD76AA = ~z~~sl:0.0:1.8~and killed him, so I...~sl:1.3~I was fifteen at the time.
+
+0x40F534C1 = ~z~~sl:0.0:1.4~They were uh...~sl:0.3~they were tutors.
+
+0x662CFF2C = ~z~~sl:0.0:1.6~My ma was from field stock.~sl:0.9:1.2~But daddy?~sl:0.4~He worked indoors.
+
+0x1309D8EB = ~z~~sl:0.0:1.3~Meant nobody liked them.~sl:0.3~Not the whites and not the blacks.
+
+0x25697DAA = ~z~~sl:0.0:2.2~I mean, he could read and write~sl:0.3~and he never worked in the fields.
+
+0xA55B9109 = ~z~Any system that can kill my daddy...
+
+0xBFA7B224 = ~z~~sl:0.0:1.5~he taught me how to read...~sl:0.2:2.1~he taught me to judge people for what they are.~sl:0.6~Not how they look.
+
+0xC65713DF = ~z~and they beat him...
+
+0xD487B040 = ~z~Some drunks picked on him walking home one night,
+
+0xDDDFEE94 = ~z~~sl:0.0:1.6~But he was smart, my pa.~sl:0.5:0.8~And I loved him.~sl:~And he,
+
+0xDED083F2 = ~z~that ain't a system I want to be a part of.
+
+0xE6AB002E = ~z~~sl:0.0:1.6~He was educated!~sl:0.3~His pa the same.
+
+0xE4464FB9 = ~z~~sl:0.0:1.0~Well...~sl:0.3:1.7~I guess I've ended up working in the law.~sl:0.3~In a way of seeing things.
+
+0xF203EB34 = ~z~~sl:0.0:1.2~Yeah, my pa, he...~sl:0.1~he wanted me to be a lawyer.
+
+0xFB8329DE = ~z~~sl:0.0:1.2~But uh...~sl:1.5:2.1~one thing he couldn't teach me was...~sl:1.4~how not to care.
+

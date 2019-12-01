@@ -1,0 +1,80 @@
+0x016E1C36 = ~z~Don't! I surrendered, dammit!
+
+0x04978242 = ~z~Nothing more to gain from killing me, come on...
+
+0x0532D83E = ~z~~sl:1.0~Too damn close.
+
+0x0AA93647 = ~z~Come on, I'll just go.
+
+0x2D5F2520 = ~z~Come on, don't do it... I'm done here, look.
+
+0x3B08EF24 = ~z~Don't take but a nod and I'm gone.
+
+0x4AB25FCA = ~z~You don't gotta kill me... been enough killing here, huh?
+
+0x4F43EB04 = ~z~What do you gain from killing me now? Let me go...
+
+0x5CA20583 = ~z~Shit... what the hell do you want from me?
+
+0x6E67290D = ~z~Take it easy... just take it easy there.
+
+0x14E5F7A4 = ~z~Oh I am gone, gone for good.
+
+0x18EED2D2 = ~z~Just blink and I'll vanish, it's easy.
+
+0x21A0E8E1 = ~z~Every last man dead, now you expect me to beg like a maricon, eh?
+
+0x23C391ED = ~z~Just don't kill me... I never wanted to run with those bastards.
+
+0x24A1629C = ~z~Oh shit! Please!
+
+0x37DD10C6 = ~z~You and me, we're the same. Let me go.
+
+0x81B04725 = ~z~I hope our paths do not cross again.
+
+0x87D85D97 = ~z~Thank you, you won't regret it.
+
+0x168CC673 = ~z~Please, please, I'm begging ya...
+
+0x178CD4B9 = ~z~Well, you saved me paying a few wages today, that's for sure...
+
+0x269CF009 = ~z~'Ey, 'ey, 'ey! This is stupid!
+
+0x963DCF45 = ~z~No! I'm done, I gave up!
+
+0x1035B9C5 = ~z~No! Don't pull that trigger!
+
+0x29534BB9 = ~z~Come on... I got kids, I swear.
+
+0x41844F48 = ~z~What are you? Army? Government?
+
+0x41914F9F = ~z~How about you do the right thing and let me walk away, hm?
+
+0x147621FF = ~z~You can take whatever you want, just let me go.
+
+0x35853570 = ~z~Give a bad man a second chance huh? Just let me go.
+
+0xB01623F0 = ~z~~sl:0.0:2.2~I'll be in a monastery by tomorrow.
+
+0xC1BDCFF6 = ~z~You know, after this, I feel like a changed man. Let me go, eh?
+
+0xC50BACE0 = ~z~Wait, wait, wait! Think!
+
+0xC3555300 = ~z~You killed every damn one of 'em... every one...
+
+0xDFC1834A = ~z~In Spanish: Thank you very much.
+
+0xE1C41161 = ~z~Last you'll ever see of me, I swear.
+
+0xEAD92230 = ~z~Leave me be, I'm going to live straight from now on, honest.
+
+0xF06001CD = ~z~You won't kill me now. Just walk away, huh?
+
+0xF8E6149C = ~z~'Ey! You don't need to do this!
+
+0xF5000FA0 = ~z~So... you killed enough men today?
+
+0xF21827F7 = ~z~In Spanish: Thank you.
+
+0xFEBF231E = ~z~You fight good, I'll give you that.
+

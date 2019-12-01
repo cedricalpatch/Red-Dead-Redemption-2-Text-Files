@@ -1,0 +1,28 @@
+0x0D909F8D = ~z~But... we are alive.
+
+0x1AD23A10 = ~z~What an awful few months.
+
+0x74463E60 = ~z~I'm fine, I'm fine... I'm fine.
+
+0xA0BB974A = ~z~appear to be a little too drunk.
+
+0xAF0133D5 = ~z~Javier, play something.
+
+0xC45B0D23 = ~z~And we... we... we...
+
+0xD28DFAEE = ~z~I'm sorry, I...
+
+0xD262A92A = ~z~We... we did. Even you, you dumb bastard.
+
+0xD290A98E = ~z~They're dead already.
+
+0xE01BC4A4 = ~z~Unlike those bastards out there, doing what they're told.
+
+0xE079C558 = ~z~We did it.
+
+0xEDE86035 = ~z~We are living, our way.
+
+0xEF566319 = ~z~We're alive!
+
+0xF972C8C3 = ~z~Come on.
+

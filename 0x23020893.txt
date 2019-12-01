@@ -1,0 +1,44 @@
+0x4D918858 = ~z~~sl:2.4:1.2~I'm tired...~sl:0.7~real tired.
+
+0x5B3A0CEC = ~z~~sl:0.0:1.9~When I laid eyes on him the first time...~sl:0.2~I loved him.
+
+0x5B5909DA = ~z~~sl:0.0:1.0~Now look at us.~sl:0.4~All sick, and weak, and pathetic.
+
+0x5FC92CC7 = ~z~~sl:0.0:1.1~Not for all this...~sl:0.6~this land.
+
+0x7B084940 = ~z~~sl:0.0:1.4:1~Every bloody one of us.
+
+0x7C63E5FC = ~z~~sl:0.0:1.1~All this walking.~sl:0.0:1.3~All this standing.~sl:0.4~It's not for me.
+
+0x16C19AB5 = ~z~~sl:0.0:2.1:1~Do you know the Dutch were seafaring folk?
+
+0x19F4A11B = ~z~~sl:0.8:1.1~Even old Dutchy,~sl:~it'd be good for him.
+
+0x42FFF335 = ~z~~sl:0.0:1.4:1~I'm designed to float.
+
+0x68BF24A6 = ~z~Every one of us.
+
+0x99E9210A = ~z~~sl:3.2:1.6:1~I need to sit a minute.
+
+0x330E534E = ~z~~sl:0.0:1.6~No wonder you whole lot went crazy.~sl:0.2~You gotta head out to the sea.
+
+0x4478F623 = ~z~~sl:0.0:1.1~There's too much of it.~sl:~Just too much of it.
+
+0x5434FEDA = ~z~You know, when I was in the navy...
+
+0x42005A71 = ~z~Men could fight until they were a hundred.
+
+0xA2519B1A = ~z~All that brooding...
+
+0xAE4FB316 = ~z~'Pearson, that man needs some sea air.'
+
+0xC0B557E1 = ~z~But, I y'know, I still told myself, I said,
+
+0xC8FC686F = ~z~He was so charismatic...
+
+0xD5B501DC = ~z~It's ridiculous!
+
+0xE600A273 = ~z~~sl:0.0:1.5~We are meant to swim.~sl:0.6~Not ride around on donkeys.
+
+0xF80A4686 = ~z~~sl:0.0:1.4~Harumph, harumph.~sl:0.9:1.6~It's looking at all this damn...~sl:0.5~grass and sky all the time.
+

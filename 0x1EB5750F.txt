@@ -1,0 +1,218 @@
+0x01585EDC = ~z~I-I'm feeling very abandoned... v-very ignored.
+
+0x0774878F = ~z~~sl:0.3:2.6:1~Get away from me... get-get away from me!
+
+0x08405004 = ~z~~sl:0.4:0.0~Stop it!
+
+0x0BEA9EA1 = ~z~I-I'm not coping very well with life, my friend.
+
+0x0D96FDDF = ~z~To him!
+
+0x0EA00A0A = ~z~~sl:0.4:7.6:1~All, all I do is, is curse and, and apologize. Apologize, and curse...
+
+0x0F7E00F1 = ~z~Get away from me! All of you! Run, r-run from me!
+
+0x1D88C1EC = ~z~~sl:0.0:3.4:1~You're not there... you're not there!
+
+0x1E454F4D = ~z~This is total madness, I know it is, but I can't stop. No, I-I can't...
+
+0x1E898D6B = ~z~~sl:0.0:6.9:1~You don't have to answer to sniveling little wretches like me, no, I-I I heard it all before.
+
+0x2B06995A = ~z~~sl:0.9:3.2:1~Please... please, please talk to me.
+
+0x2F2E8FD1 = ~z~~sl:0.0:6.0:1~G-Get away from me. G-get away from me! Stop following me.
+
+0x2F472EE6 = ~z~~sl:0.0:7.4:1~So smart of you. Inventing everything, then laughing, at me, for being!
+
+0x3B42DEDB = ~z~He won't send me the message. He won't!
+
+0x3CECCA31 = ~z~W-w-why? Answer... answer!
+
+0x3FD10D34 = ~z~What do you want from me?
+
+0x4BDF2394 = ~z~~sl:0.0:7.2:1~I'm...I tr-I tried. Oh... oh, I t-I tried...
+
+0x4ED285F2 = ~z~Are you the signal?
+
+0x5C505E2D = ~z~I just don't want him to see me... w-we're not friends anymore, we're not!
+
+0x5C11206F = ~z~Uh, I don't think so.
+
+0x5DB8D4EA = ~z~~sl:0.0:2.9:1~I don't call this very enlightened of you.
+
+0x5EABA00F = ~z~~sl:0.0:1.6~He hates me.~sl:1.5:2.5:1~He hates me!
+
+0x6B95BF86 = ~z~They won't forgive you... they, t-they didn't forgive me.
+
+0x6B522E6F = ~z~He won't leave me alone... I-I asked him, but he-but he won't.
+
+0x6E0FE9B1 = ~z~I come in peace, t-to love the world...
+
+0x6E775DBC = ~z~~sl:0.0:2.9:1~This is... exhausting.
+
+0x6E7251D3 = ~z~~sl:0.0:2.2:1~Just leave me alone, will you? Please?
+
+0x7F17DA45 = ~z~~sl:0.7~See, I-I-I asked f-for a message and he gave me the whole world.
+
+0x8A6AE343 = ~z~~sl:0.7:5.8:1~How do I know?...Wh... How do, well I know...
+
+0x9BAC936E = ~z~All these... all these people and none of them quite right.
+
+0x9BE4A023 = ~z~~sl:0.0:5.4:1~Yeah, I- I never sleep, no. I never do.
+
+0x9E0147D7 = ~z~~sl:1.6:1.5:1~I'm sorry.
+
+0x9FC10FCC = ~z~~sl:0.0:2.0~I think I might be a little crazy.~sl:1.2:3.2:1~Either that o-or, or everyone else is.
+
+0x10E496B9 = ~z~~sl:0.0:1.7~What did I do to you? Nothing.~sl:0.4:1.9:1~What did you do to me? Everything!
+
+0x14FD064C = ~z~~sl:0.0:3.2~He's watching... he's always watching.~sl:1.1:2.0:1~He's never talking.
+
+0x27C7FCBB = ~z~~sl:0.7:5.0~See, I-I-I asked for... f-for a message...~sl:0.6~and he gave me the whole world!
+
+0x33B14379 = ~z~~sl:0.3:4.2~No... it wasn't enough...~sl:3.3:2.2:1~it wasn't enough at all!
+
+0x40EAEE9F = ~z~~sl:0.7:1.5~I'm stuck!~sl:3.5:4.2:1~Forgive me... forgive me.
+
+0x45DFE7D6 = ~z~Wasn't that enough?
+
+0x46B38252 = ~z~It's not my fault. I-I-I didn't do nothing. I didn't invent you, I didn't invent me!
+
+0x50FAE542 = ~z~~sl:0.0:3.5:1~I'm sorry! I-I'm so very sorry...
+
+0x53B3F7BF = ~z~~sl:0.0:7.6~Oh... you won't... you won't, because you're...~sl:0.8~you're all powerful.
+
+0x56EDB9A1 = ~z~S-stop staring at me... it's, it's, it's not my fault... it's not. It's not!
+
+0x64B619B7 = ~z~I didn't ask for this.
+
+0x69F2C0AE = ~z~~sl:0.0:5.5:1~I used to be normal! I d-did what you told me.
+
+0x73A6B5BB = ~z~Oh, I don't think so.
+
+0x79FD4445 = ~z~What did I do wrong?
+
+0x87B3FC30 = ~z~~sl:1.9:1.9~I have enough of this!~sl:1.9:1.6:1~It isn't fun.
+
+0x96AE9014 = ~z~Have you... spoken to... him?
+
+0x162F5996 = ~z~But, no signal I can understand...
+
+0x165A59E0 = ~z~I-I'm feeling... very abandoned... very ignored.
+
+0x256DCBAA = ~z~~sl:0.6:1.6:1~Just go away, will you?
+
+0x498C20AA = ~z~What do you want?
+
+0x502E212A = ~z~~sl:0.5:2.1:1~Leave me alone, will you?
+
+0x529AF903 = ~z~~sl:0.0:6.5:1~I'm sorry. I, I'm sorry... I... I-I'm so sorry...
+
+0x544E90F8 = ~z~There is no forgiveness... none, friend. None!
+
+0x565A7D00 = ~z~~sl:0.0:5.3:1~Why me? Why me? Why? Why?
+
+0x654BBF82 = ~z~You made you and you made me... and, or somebody did and it's not fair. It's not!
+
+0x674B36F5 = ~z~~sl:1.0:5.2:1~I-I-I know you want it... I can smell it on you.
+
+0x772DF535 = ~z~~sl:0.0:2.7:1~I can't see you... you-you're not there!
+
+0x2818FD69 = ~z~~sl:0.3~All these... all these people and none of them quite right.
+
+0x4437FD5F = ~z~~sl:0.3:1.6:1~I don't deserve this.
+
+0x5249A00F = ~z~~sl:0.0:2.4:1~Quite alone, quite alone...
+
+0x8037CEDD = ~z~~sl:1.8:0.0~How, how do you know?
+
+0x49087A66 = ~z~~sl:0.0:5.7:1~I-I-I've been here f-for years... and nothing. Nothing!
+
+0x49288DCD = ~z~~sl:0.0:1.3~Will you leave me here?~sl:2.1:1.3:1~W-will you?
+
+0x51870B6D = ~z~~sl:0.0:0.6~Well...~sl:2.1~it ain't happening. No, no, no, no, it isn't.
+
+0x60829D1B = ~z~~sl:0.0:5.4~That's the problem. I'm so... I'm so greedy.~sl:4.3:1.3:1~I'm awful.
+
+0x567719B7 = ~z~~sl:0.0:1.1~Look at me...~sl:3.3~I'm nothing. I-I-I'm useless.
+
+0x812789C9 = ~z~~sl:0.0:3.4~I've been here many years a-and I'm completely lost.~sl:0.2:2.8:1~I-I don't even know where I am anymore.
+
+0x899576AC = ~z~Just go away, will you? Please?
+
+0x4128529C = ~z~Answer me... answer me, you bastard!
+
+0x6421350B = ~z~~sl:0.4:4.2:1~Now look at me. L-l-look at me, will you?
+
+0xA537C5EA = ~z~~sl:0.0:4.2:1~I'm alone i-in this world, a-as you asked!
+
+0xA7491CFB = ~z~He won't send me the message. He won't!
+
+0xAACF31B3 = ~z~But, no signal I can understand...
+
+0xAB8DBF6B = ~z~~sl:1.9~H-how do you know?
+
+0xAD064266 = ~z~They come for me, but I'm watching.
+
+0xB1C990C8 = ~z~~sl:0.0:5.5~That's the problem. I'm so... I'm so greedy.~sl:4.2:1.5:1~I'm awful.
+
+0xB9CF5BEE = ~z~~sl:0.7:1.1~How do I know?~sl:3.1:1.3:1~How do I know?
+
+0xB79FFA06 = ~z~~sl:0.0:2.7~Be gone... be gone! I...~sl:0.7:2.7:1~be gone, be... be gone!
+
+0xB1863175 = ~z~~sl:0.0:5.8:1~I-I-I've been here for, for years... and nothing. Nothing!
+
+0xC0BF69D8 = ~z~~sl:0.5:5.3:1~That's why, t-t-that's why I'm out here, well away from them, see...
+
+0xC3BBD5E0 = ~z~Are you the signal?
+
+0xC8DBAB32 = ~z~~sl:0.0:3.7~Again, torture. It's torture!~sl:2.0:1.8:1~It's horrifying!
+
+0xC95CEECE = ~z~~sl:0.9~That's very frustrating. The whole world!
+
+0xCF09CB48 = ~z~~sl:0.2:4.3~No... it wasn't enough...~sl:3.4:2.1:1~...it wasn't enough at all.
+
+0xCF2646AE = ~z~~sl:0.0:2.7:1~I am waiting for your sign, still...
+
+0xD16B5448 = ~z~~sl:0.0:2.8:1~There ain't no forgiveness... there isn't.
+
+0xD721C3BB = ~z~~sl:0.0:4.8:1~A-always watching. Never speaking.
+
+0xDA9FA976 = ~z~This is horrible. I-It's really horrible.
+
+0xDCDFE221 = ~z~~sl:0.0:8.7:1~I came as you asked! I...I left them all... I-I have stood here and I have waited.
+
+0xDE841FBA = ~z~I... don't think so. Have you?
+
+0xDFAAF0C7 = ~z~~sl:0.0:4.0:1~I-I begged... I-I-I begged...
+
+0xE1B85160 = ~z~~sl:0.0:2.7:1~Be gone... be gone!
+
+0xE9C35456 = ~z~~sl:0.0:3.8~I'm not talking to you, 'c-cause you won't talk to me!~sl:1.0:3.1:1~You won't and it's not fair.
+
+0xEAAB828F = ~z~~sl:1.0:~That's very frustrating. The, the whole world!
+
+0xEBFBA1BB = ~z~~sl:0.2:0.0~I'm in so much pain!
+
+0xEC29BB05 = ~z~~sl:0.0:8.1:1~Oh yeah, I-I've spoken all the time, but... he's ignoring me. He's...
+
+0xEC77EE67 = ~z~He's watching. Oh, he's always watching.
+
+0xEC573570 = ~z~~sl:0.0:4.4:1~Oh, p-please... j-just forgive me.
+
+0xEFFF6DEE = ~z~~sl:0.0:6.8:1~I-I-I-I asked for forgiveness, but they didn't forgive me... they, they didn't...
+
+0xF9C9D645 = ~z~To who?
+
+0xF80DF0EB = ~z~~sl:0.0:4.5:1~How come... how come you get to make the choice and not me?
+
+0xFA07C464 = ~z~~sl:0.0:3.9:1~Well, it's not fair... it's not!
+
+0xFA8EB4A1 = ~z~S-stop it! Stop it, just... go away!
+
+0xFD3FD745 = ~z~~sl:0.0:4.7:1~I don't hear you, you're not there! Go away!
+
+0xFD4A27CC = ~z~Wasn't that enough?
+
+0xFEFD10BD = ~z~
+

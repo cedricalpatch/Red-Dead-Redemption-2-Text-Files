@@ -1,0 +1,82 @@
+0x03A46D62 = ~z~I'll be damned.
+
+0x0723CFA9 = ~z~~sl:0.3~Jim Milton. Best man I know.
+
+0x097E05BF = ~z~over there, near the house.
+
+0x0BCEEB37 = ~z~Mr. Geddes's house, that's where you wanna go.
+
+0x0CC3F48C = ~z~Ain't you heard? There's a messenger for ya... Jim Milton.
+
+0x1D6F2DA1 = ~z~There's a telegram messenger for you...
+
+0x1D544BD3 = ~z~What you think he wants?
+
+0x1F05A424 = ~z~I've got something to discuss...
+
+0x2D3D4093 = ~z~pay good...
+
+0x5F49122E = ~z~~sl:0.0:2.0~I wouldn't keep him waiting too long, Jim.~sl:0.2~Go up to the main house, won't take but a moment.
+
+0x7B149855 = ~z~Has old Geddes given you that guidance yet?
+
+0x9B7DD407 = ~z~I'm Jim Milton.
+
+0x35BFDE42 = ~z~Okay.
+
+0x65A5684F = ~z~Jim, stop.
+
+0x373BE13A = ~z~There is?
+
+0x484A2D99 = ~z~It's Sadie Adler...
+
+0x833C2384 = ~z~Sign there.
+
+0x5754D0DE = ~z~If you're gonna speak to Geddes, I'd go speak to him.
+
+0x6478BBB7 = ~z~Thanks, Abe.
+
+0x6695EF60 = ~z~Pluck up some courage, boy. And go and speak to the old man.
+
+0x6910DC11 = ~z~'Scuse me, mister... I'm Jim Milton.
+
+0x39728FEA = ~z~If you're the J.M I know, stop.
+
+0x80181D3C = ~z~Yes, here.
+
+0x54864611 = ~z~Thank you.
+
+0xACE676D8 = ~z~Heard you had a telegram for me.
+
+0xB6AA6430 = ~z~I'll see you later, hey. The messenger's up by the big house.
+
+0xCA53B1B2 = ~z~Excuse me, mister...
+
+0xD01692F1 = ~z~Mr. Jim.
+
+0xD26EB609 = ~z~I see him... thanks, Abe.
+
+0xDA839B21 = ~z~meet me in saloon in Valentine...
+
+0xDA540842 = ~z~That messenger's been waiting on you a while now.
+
+0xDD08FB74 = ~z~~sl:0.4~I don't know about that.
+
+0xE1D4366C = ~z~Hey, Mr. Jim?
+
+0xE830B67B = ~z~I'm there most days, stop.
+
+0xEBC798F1 = ~z~~sl:0.0:3.0:1~Everyone wants a piece of Jim Milton now, don't they?
+
+0xF06DA23D = ~z~Abe, enough already.
+
+0xF7C480B4 = ~z~That's him.
+
+0xF6037D32 = ~z~~sl:0.0:1.3~I have no idea...~sl:1.0~but I doubt someone wants to give me a big pile of money.
+
+0xF642529E = ~z~Sadie Adler...
+
+0xFEB7F033 = ~z~Abe.
+
+0xFF05D910 = ~z~~sl:0.0:1.3~They've found you, Jim...~sl:0.6~go see the messenger up by Mr. Geddes's house.
+

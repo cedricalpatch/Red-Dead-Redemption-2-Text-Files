@@ -1,0 +1,20 @@
+0x4B3E2F92 = ~z~Gone where?
+
+0x59F0CCF7 = ~z~Mary-Beth, do you hear this? Karen's gone.
+
+0x365B05CC = ~z~What do you mean, she's gone?
+
+0x509B395A = ~z~Well... I... yes. Sorry, girls.
+
+0x9087BA24 = ~z~Well, she's gone.
+
+0x11283B67 = ~z~I don't know, just gone. She... well you all saw, she hasn't been herself recently.
+
+0xA4326179 = ~z~She's gone... stormed off last night.
+
+0xD4F1C353 = ~z~Neither can I.
+
+0xEABFEEEF = ~z~I just can't believe it... Karen.
+
+0xFEF216FB = ~z~She told me to go to hell and just walked off.
+

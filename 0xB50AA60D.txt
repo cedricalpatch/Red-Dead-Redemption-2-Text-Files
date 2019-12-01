@@ -1,0 +1,36 @@
+0x05AF92F7 = Mount your ~o~horse~s~
+
+0x2EEEB733 = Pick up the ~o~Special Spinner~s~
+
+0x3B37BFA0 = You killed your horse.
+
+0x3F92AE61 = Return to ~o~Gill~s~
+
+0x4B9DA301 = You broke the law.
+
+0x5F058B52 = Dismount your horse
+
+0x8A5E9219 = Catch and mail the legendary fish to Gill
+
+0x8F854BE2 = You killed your horse.
+
+0x9A151407 = Go to the ~o~fishing spot~s~
+
+0x691A8A2E = You failed to photograph Gill.
+
+0x865686A1 = Photograph ~o~Gill~s~ while he fishes
+
+0xA230DDAD = Find a ~o~location~s~ to photograph Gill fishing
+
+0xAA543104 = Stranger
+
+0xCB8E6A95 = You killed Gill.
+
+0xE3E52887 = Follow ~o~Gill~s~ to the fishing location
+
+0xE33AB1B4 = Greet
+
+0xE197FE43 = Gill was abandoned.
+
+0xF5889161 = You killed Gill's horse.
+

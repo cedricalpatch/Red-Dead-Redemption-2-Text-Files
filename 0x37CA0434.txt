@@ -1,0 +1,56 @@
+0x03D45C3C = ~z~beverages was consumed, and I find myself in something of an embroilment with a couple of fellers.
+
+0x2A2E0E99 = ~z~Guess you could say that.
+
+0x3F3A0D6B = ~z~And I used to be able to pick up regular bits of work here and there in Armadillo or Tumbleweed.
+
+0x5A770980 = ~z~And gambling's kind of the other issue, or, what led to it.
+
+0x6DA773FD = ~z~So, you new to these parts?
+
+0x7B29B792 = ~z~Alright, if you're gonna be rude, we can just sit in silence.
+
+0x8AC9EA25 = ~z~Last time I was in Tumbleweed, I settled into a poker game and one thing led to another,
+
+0x61F252DB = ~z~Problem now is... Armadillo's in the grip of fever, time and again, place seems cursed.
+
+0x68EF131D = ~z~Who joins a feller's fire and acts like that?
+
+0x74BDF75D = ~z~And I swear, pretty much all I did was call another feller a son of a bitch.
+
+0x87D41D89 = ~z~~sl:0.0:5.2~For about ten seconds, I-I honestly thought he was gonna kill me right there in the street.~sl:0.2~Crazy bastard.
+
+0x510B2FF8 = ~z~Sam Freeman, his name is.
+
+0x522B9C30 = ~z~I know, it's a terrible business.
+
+0x729FF436 = ~z~~sl:0.0:2.7~Only money to be made there is in burning bodies, and...~sl:0.5~I might be a gambling man, but, that's not a bet worth taking in my book.
+
+0x952AB836 = ~z~Won't be going back there any time soon.
+
+0x66985C2F = ~z~I've been travelling round New Austin for a few years now. Suits me well... dry, open.
+
+0x6336544E = ~z~~sl:0.0:4.0~So I'm on my knees in the middle of town, and he's got a gun to my head...~sl:0.2~ranting and raving about salvation and justice.
+
+0x6888600F = ~z~'Bout last that's left of the old west.
+
+0x79187400 = ~z~Well, anyway, I can't be nattering all day. Things to do.
+
+0x99720775 = ~z~~sl:0.0:2.7~Next thing you know, the sheriff bursts in,~sl:0.2~big black feller, strong as an ox, mean as a viper, righteous as the angel of the Lord...
+
+0xB20C38A9 = ~z~You know how it is when whiskey and money share a table.
+
+0xC77FE390 = ~z~slams me into the wall, and drags me outside.
+
+0xC6894529 = ~z~Why would you say that?
+
+0xCC34264C = ~z~So with both those towns on my black list, I might just have to move on for a while, maybe try my luck up in Big Valley.
+
+0xD75D052E = ~z~Guess you could say that.
+
+0xDF76324B = ~z~Why would you say that?
+
+0xE2D2A68A = ~z~Hey, it's fine. I don't need to know your business.
+
+0xF630AFD6 = ~z~I'm just being civil here, friend.
+

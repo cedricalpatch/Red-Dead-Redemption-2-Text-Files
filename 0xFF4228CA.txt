@@ -1,0 +1,24 @@
+0x03E8E4D0 = ~z~I'm thinking about heading to Indochina.
+
+0x291EAF3B = ~z~I, uh... I don't really know...
+
+0x627393ED = ~z~Good.
+
+0xC0E85ED0 = ~z~Go? Why?
+
+0xCEAFFA5F = ~z~Good... listen... I'm... soon, I'm gonna go.
+
+0xCF726DE9 = ~z~Well, I'll stay... for a while.
+
+0xD23B0175 = ~z~well... I don't know... I wanna see some more of the world.
+
+0xD4110519 = ~z~Sure... I mean... I think so.
+
+0xDD2A095C = ~z~Well... I wish you'd stay.
+
+0xE26DA1D2 = ~z~Quite a place... I hope Abigail is happy.
+
+0xEFDB3CB5 = ~z~Because... because this is your life, not mine, and...
+
+0xF757CBAE = ~z~Where in the world is that?
+

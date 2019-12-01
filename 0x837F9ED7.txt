@@ -1,0 +1,48 @@
+0x04871E92 = ~z~I'll blow your brains out!
+
+0x0951A82F = ~z~You son of a bitch!
+
+0x0E2231C8 = ~z~You get off my land!
+
+0x5CB7CEFA = ~z~Stay off my damn property!
+
+0x5F1109D4 = ~z~Yeah, go get him!
+
+0x7B7CC2AB = ~z~Run him off, boys!
+
+0x7BC3824A = ~z~Hey, get the hell off my land!
+
+0x8DAF2621 = ~z~Hey, can't you read? Get out of here!
+
+0x65DCE144 = ~z~You hearing me yet?
+
+0x91B2EF17 = ~z~Attack, boys!
+
+0x610D579D = ~z~I'll kill you!
+
+0x754C364A = ~z~After him, boys!
+
+0x828FD6B8 = ~z~Easy, boy, what is it?
+
+0x5064AB8D = ~z~Hey, get out of here!
+
+0x70353203 = ~z~You okay, boy?
+
+0xA23BCF3A = ~z~Hey, this is private property!
+
+0xABBC2914 = ~z~What's wrong, boy?
+
+0xAE1A27E5 = ~z~Alright get him, boys!
+
+0xBDFDCD97 = ~z~What you got, boy?
+
+0xCB17E7CB = ~z~What is it, boy?
+
+0xD960845C = ~z~What you see, boy?
+
+0xE07FCBC5 = ~z~Hey, move the hell along! You're trespassing!
+
+0xEEF268AA = ~z~Hey, get off my property or I'll set my dogs on you!
+
+0xFC464440 = ~z~Go get that bastard!
+

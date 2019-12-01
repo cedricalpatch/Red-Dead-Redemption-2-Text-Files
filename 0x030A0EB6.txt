@@ -1,0 +1,20 @@
+0x03C35804 = ~z~So... you're still alive?
+
+0x44DF01B7 = ~z~And do what?
+
+0x9639FCEB = ~z~
+
+0xA3193E2E = ~z~Listen... Listen!
+
+0xB24FDC9B = ~z~~sl:0.0:2.1~Try to stop Dutch getting all of you killed,~sl:0.0:1.7~cause I'm about beginning to think~sl:~he's finally lost his mind.
+
+0xC631845E = ~z~
+
+0xD0EAF248 = ~z~~sl:0.0:1.5:1~For now.
+
+0xD872A8E0 = ~z~If we stop doing this?
+
+0xE050911F = ~z~Well... yeah.
+
+0xEB554EA5 = ~z~~sl:0.0:1.3~I don't know...~sl:2.0:1.2~I never knew.~sl:1.5:2.1:1~Guess I could never figure that out, neither.
+

@@ -1,0 +1,48 @@
+0x4C95B09D = ~z~Kiss that snake!
+
+0x4CDB45D7 = ~z~Take care with that thing.
+
+0x5E535418 = ~z~You're dangerous, lady!
+
+0x5F2D6A7B = ~z~Be careful with that snake!
+
+0x6BAAF805 = ~z~Less snakes, more dancing girls!
+
+0x6DF5F339 = ~z~That's a big snake!
+
+0x7E039CB6 = ~z~Bite her and get it over with!
+
+0x9D09814C = ~z~Snake lady!
+
+0x53A5C7FB = ~z~Turn that snake into boots!
+
+0x63B4DEB7 = ~z~Careful, it will bite ya!
+
+0x72A657AA = ~z~She took that snake's teeth out!
+
+0x516A3A22 = ~z~That snake looks mad!
+
+0x4370B302 = ~z~Some cities ain't all bad! I like this.
+
+0x31658EEC = ~z~Getting that snake riled up!
+
+0x34051A0C = ~z~Boo! I hate snakes!
+
+0x96121E81 = ~z~Ring her neck!
+
+0x4156235C = ~z~That ain't a real snake!
+
+0xA89FF1E2 = ~z~Fake snake!
+
+0xA160351D = ~z~That snake's half dead!
+
+0xB4BD5BD7 = ~z~Bite her!
+
+0xBF48BBAB = ~z~Alright, serpent lady!
+
+0xC68EFF7A = ~z~I hope it bites you!
+
+0xCA70C108 = ~z~Serpent lady!
+
+0xEB11FB50 = ~z~Just bite her already!
+

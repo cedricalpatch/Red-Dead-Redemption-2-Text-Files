@@ -1,0 +1,26 @@
+0x02F026AD = ~z~Yes... I'll take mud over snow, any day. But I don't much like either.
+
+0x2E61FD90 = ~z~Sure... very well.
+
+0x3C8999D7 = ~z~Are you well, sir?
+
+0x9AE2C3B6 = ~z~Okay... if I find it... I'll let you know.
+
+0x1118C2FE = ~z~Beats the snow, huh?
+
+0x614616CE = ~z~Oh, I know all about it...
+
+0xAAB9F642 = ~z~Huh? Oh, I don't know, I mean, I overheard some... guy complaining about them in town...
+
+0xB88C91E7 = ~z~Where is it?
+
+0xD5FECCCB = ~z~There's money hidden someplace.
+
+0xD26E4890 = ~z~What about you, Arthur? This could interest you.
+
+0xE3CC6866 = ~z~If you can find it, 'cause apparently there's a crazy woman and some outlaws that live there, but...
+
+0xF51A0B01 = ~z~Right, here's the thing... I found a place, Watson's Cabin,
+
+0xF516CCDC = ~z~Sure, maybe.
+

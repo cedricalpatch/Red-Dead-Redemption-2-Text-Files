@@ -1,0 +1,50 @@
+0x1B988284 = ~s~Search for Thomas Downes~s~
+
+0x1E7BBAA2 = Contribute to the camp funds to add supplies, tent upgrades and additional utilities to the camp. You manage the money and decide what the camp buys.
+
+0x2D7A613E = ~s~Retrieve the debt from ~o~Mr. Downes~s~
+
+0x4ABC94F2 = You left camp
+
+0x8B1B53FE = Confront
+
+0x8BD9B553 = You did not return to Strauss.
+
+0x23A44D92 = ~s~Beat up ~e~Mr. Downes~s~
+
+0x78E2F4EC = Return to the ~o~ledger~s~
+
+0x91CE2494 = The front page of the ledger shows recent contributions to the camp funds from all companions.
+
+0x96CBB3E3 = ~s~Go to ~o~Downes Ranch~s~
+
+0x765FF308 = ~s~Return to ~o~Downes Ranch~s~
+
+0x766AB35F = Browse to the next page to view camp upgrades
+
+0x329082BA = Mr. Downes has died.
+
+0x674949E8 = You'll receive a cut of each recovered debt you donate to the camp funds.
+
+0x1586464B = The debt was abandoned.
+
+0x4832138B = Return to the ~o~camp funds~s~
+
+0x7928490A = Donate the recovered debt to the ~o~camp funds~s~
+
+0x8870143D = Exit the ledger
+
+0xAF467C2C = Mr. Downes' family were injured.
+
+0xB697B91C = Use the ~o~ledger~s~ to purchase a camp upgrade
+
+0xC524A7E8 = Mr. Downes fled.
+
+0xD1C0CF85 = Purchase an upgrade for the camp
+
+0xDA29BA9E = ~s~Return to ~o~Horseshoe Overlook~s~
+
+0xEC185E7B = ~s~Return to ~o~Leopold Strauss~s~
+
+0xF75DB255 = Camp Funds
+

@@ -1,0 +1,120 @@
+0x012BE32E = You attacked Jules.
+
+0x02717787 = Brace
+
+0x082A2BF6 = Beckon
+
+0x1ABDAF8E = Thomas
+
+0x1E1CEAE4 = Exit Skiff
+
+0x2A718B31 = You attacked your horse.
+
+0x4A2B2648 = Follow ~o~Thomas~s~
+
+0x4E902CDA = Mount your ~o~Horse~s~
+
+0x5A438941 = Dress ~o~Jules'~s~ wound
+
+0x5C5FC8A0 = You can press ~INPUT_OPEN_WHEEL_MENU~ to stash your lantern.
+
+0x5D9FBE49 = Use ~INPUT_CONTEXT_Y|PromptId=INPUT_MOB4_UC_WRAP_PC,Gutter~ to apply the bandage
+
+0x5D128C0B = Use ~INPUT_LOOK_LR|PromptId=INPUT_MOB4_UC_WRAP,PromptStyle=3~ to apply the bandage
+
+0x5F429952 = You attacked Dutch.
+
+0x6B1428AA = Jules was eaten.
+
+0x6C982DEA = Stop ~o~Jules'~s~ bleeding
+
+0x6CE5E009 = Skiff
+
+0x19E0F0E4 = Follow ~o~Dutch~s~ to Lagras
+
+0x20D60FD0 = Pressure
+
+0x49D0F801 = You attacked Dutch's horse.
+
+0x60E4D607 = Escort the Skiff to the ~o~Dock~s~
+
+0x72AB7F61 = Return to ~o~Dutch~s~
+
+0x81CD9354 = Follow ~o~Dutch~s~
+
+0x83AE194D = Investigate the ~o~Trap~s~
+
+0x94F78995 = Hold ~INPUT_CONTEXT_LT|PromptId=INPUT_MOB4_UC_PRESSURE_L,Gutter~ and ~INPUT_CONTEXT_RT|PromptId=INPUT_MOB4_UC_PRESSURE_R,Gutter~ to apply pressure
+
+0x99C208B8 = Jules has drowned.
+
+0x231CD5AF = Jules
+
+0x393BECB9 = Trap
+
+0x806B684B = You attacked Thomas.
+
+0x7041B61D = Escort the Skiff to the ~o~Dock~s~
+
+0x9560FAC7 = Hold
+
+0x42486D34 = Search Area
+
+0x56261D3B = The Lantern is located in the melee section of the Weapon Wheel.
+
+0x727925F3 = Your horse has died.
+
+0x917934E3 = Search the ~o~Trap~s~
+
+0x5542778B = Thomas was spooked by the law.
+
+0x9975700B = Speak with ~o~Thomas~s~
+
+0xA3DBCC3F = Jules
+
+0xA5F563A0 = Jules has bled out.
+
+0xA6D10FAE = Help
+
+0xAE42DE92 = Thomas
+
+0xB5F8C0AA = Kill the ~e~Giant Alligator~s~
+
+0xB9D738C9 = Tighten
+
+0xB7798223 = Find ~o~Jules~s~
+
+0xBA3BE11F = Return to the ~o~Search~s~
+
+0xC6A4AA6C = Dutch was abandoned.
+
+0xC7C58C68 = Wrap
+
+0xC7F0DF06 = Return to the ~o~Skiff~s~
+
+0xC91287C0 = Dutch's horse has died.
+
+0xC7266305 = Slow ~o~Jules'~s~ bleeding
+
+0xCC92D454 = Alligator
+
+0xD50EBD4D = Beckon ~o~Jules~s~
+
+0xD6574064 = The Skiff has been damaged.
+
+0xDC224B74 = Get into the ~o~Skiff~s~
+
+0xE4B80023 = The search was abandoned.
+
+0xE454D93B = Callout
+
+0xE9179DAD = Search
+
+0xE382962D = Save ~o~Jules~s~
+
+0xF1BC32A0 = Search for ~o~Jules~s~
+
+0xF5B513BA = Return to ~o~Thomas~s~
+
+0xFA2C072B = Wait for the Alligators to pass
+

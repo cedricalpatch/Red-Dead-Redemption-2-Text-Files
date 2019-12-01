@@ -1,0 +1,118 @@
+0x00469C4D = Accept
+
+0x01468D56 = Take out the ~e~guard~s~ silently
+
+0x077E152F = Douse the ~o~tobacco fields~s~ with moonshine
+
+0x1C6D00A0 = Free the ~o~horses~s~ while Sean looks for the payroll
+
+0x2EBBA53D = Wait for ~o~Sean~s~
+
+0x3A7EAB6F = Wait for ~o~Sean~s~ to get on the wagon
+
+0x4A0025C4 = Escape with ~o~Sean~s~
+
+0x4B06287C = Hamish
+
+0x4F7E100F = Moonshine
+
+0x6C0F0862 = The wagon caught fire.
+
+0x6EDB27F4 = Drying Barn
+
+0x6FE8F1A4 = An escape horse has died.
+
+0x7CC1844E = Get on the ~o~wagon~s~
+
+0x7DC1D0C2 = The guards were alerted.
+
+0x7E7D73B8 = When hiding amongst tobacco plants guards will not be able to see you as easily.
+
+0x7EB6E157 = Free Horse
+
+0x8E1FD16E = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip a required item.
+
+0x11F31F39 = Equip Fire Bottles
+
+0x12F6D79E = Return to the ~o~carriage barn~s~
+
+0x24A80A49 = Wagon
+
+0x47CA9A61 = Follow ~o~Sean~s~
+
+0x62FD50C6 = Help Sean to hide the ~o~body~s~
+
+0x74C76FF4 = Wait for ~f~Sean~s~ to douse the ~o~barn~s~
+
+0x83BA554A = Pour
+
+0x94ABDFC8 = Go to ~o~Caliga Hall~s~
+
+0x102A26BB = Burn the ~o~barn~s~
+
+0x300E968F = Hide in the wagon while ~f~Sean~s~ drives into ~o~Caliga Hall~s~
+
+0x316BC3E7 = Exit
+
+0x580B6688 = Hide in the wagon until it's safe to exit
+
+0x954CDA97 = Return to the ~o~fields~s~
+
+0x1537B0A2 = Pick up the ~o~moonshine~s~
+
+0x3538BD61 = The wagon was destroyed.
+
+0x6289CB79 = Meet Sean at the ~o~barn~s~
+
+0x7198C1A7 = Use ~INPUTGROUP_LOOK~ to look around.
+
+0x23000E65 = Return to the ~o~barn~s~
+
+0x82854B67 = The wagon was driven in to camp.
+
+0x479361A5 = All the moonshine was used.
+
+0x589892AA = Drop Moonshine Jug
+
+0x2245282F = The moonshine bottles were destroyed.
+
+0xA0DD8D4D = Take out the ~e~Grays' guards~s~
+
+0xA715F13D = Use ~INPUT_ENTER|PromptId=BRT2MountPrompt~ to mount the horse
+
+0xA64808C3 = Carriage barn
+
+0xAB10F1D7 = Decline
+
+0xAFD441BF = Sean
+
+0xB707E79E = Caliga Hall
+
+0xB2583042 = Follow ~o~Sean~s~ to the horses
+
+0xBC831C17 = ~INPUT_INTERACT_LOCKON_DETACH_HORSE|PromptId=HorseCutFreePrompt~ to cut the horse free
+
+0xC23C9D99 = You attacked the Braithwaites.
+
+0xC53CB88A = Sean was abandoned.
+
+0xC7365A60 = Guard
+
+0xCB3CB98A = Hold ~INPUT_AIM|PromptId=IloInteractPrompt,Gutter~ to focus on the horse
+
+0xD5A41749 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to drop the moonshine jug.
+
+0xD9B17C7F = Tobacco Field
+
+0xD34E068B = You lost a horse.
+
+0xD91404A7 = You attacked the Braithwaite's manor.
+
+0xDA78F816 = Hide in the wagon
+
+0xDC6826ED = Tap ~INPUT_NEXT_CAMERA~ to change to Arthur's point of view.
+
+0xEB54D323 = The barn was not doused.
+
+0xFDE78236 = Burn the ~o~tobacco fields~s~
+

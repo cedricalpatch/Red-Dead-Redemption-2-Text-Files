@@ -1,0 +1,50 @@
+0x1E8A84BA = Equip Bandana
+
+0x5FF97066 = Evade the law by escaping from the red search area on the map and staying out of sight until they stop looking for you.
+
+0x7DE089DE = Escape the law with ~o~Micah~s~
+
+0x9CB02E84 = You've picked up the cell keys. They can be used to open the jail cell downstairs.
+
+0x9FA37767 = Stay with ~o~Micah~s~
+
+0x65C8EC15 = Protect ~o~Micah~s~
+
+0x80B46CB4 = Cell Door
+
+0x115AB63D = Grab Hook
+
+0x949F73CA = You blew your cover.
+
+0x3228B785 = Find a way to free ~o~Micah~s~
+
+0x7845C293 = Attach Hook
+
+0x9644C00F = Grasp Lever
+
+0x746174E5 = Pull Lever
+
+0x1286435F = Pull the lever on the ~o~steam donkey~s~
+
+0x59764493 = Unlock
+
+0x65547930 = Mount your ~o~horse~s~
+
+0x79589196 = Grab the ~p~cell keys~s~
+
+0xB9D6A981 = Hold ~INPUT_HORSE_STOP~ while moving quickly on your horse to skid to a halt.
+
+0xCB65B8C6 = Locate and speak to Micah
+
+0xCD172CB2 = Steam Donkey
+
+0xCDD92B17 = Grab Lever
+
+0xD55964F6 = Your Dead Eye bar will refill with each enemy Arthur kills.
+
+0xE24F7EFE = Press ~INPUT_SPECIAL_ABILITY~ while aiming with ~INPUT_AIM~ to enter Dead Eye. This will slow down time, making you more effective in combat. Press ~INPUT_SPECIAL_ABILITY~ to deactivate.
+
+0xF52FD5A1 = Cell Window
+
+0xFC6C0259 = Tap ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip a required item.
+

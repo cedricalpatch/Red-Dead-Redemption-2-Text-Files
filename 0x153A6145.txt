@@ -1,0 +1,10 @@
+0x2FFE3E16 = Search deeper into ~o~Skinner territory~s~
+
+0x3CFDD1A7 = Investigate the gunshots in ~o~Skinner territory~s~
+
+0x3E6DDAF5 = Investigate the ~o~camp~s~
+
+0x71FD9D1B = Press ~INPUT_SPECIAL_ABILITY~ to view tracks.
+
+0xB2BD675E = Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view tracks.
+

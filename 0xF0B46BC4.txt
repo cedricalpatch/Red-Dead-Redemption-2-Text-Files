@@ -1,0 +1,134 @@
+0x0089667F = ~z~More of them.
+
+0x018224A3 = ~z~Do something about that lawman.
+
+0x0393752B = ~z~Come on. We got to move.
+
+0x0DB76BC4 = ~z~I'm done with your shit.
+
+0x2A050E90 = ~z~They want a fight, we'll give it to 'em.
+
+0x2C733AC6 = ~z~The sheriff's boys are here!
+
+0x2F197FD1 = ~z~You're going to have to deal with that guy.
+
+0x3A425664 = ~z~We got the law coming.
+
+0x3B5D5EA7 = ~z~They given up the chase.
+
+0x3D907891 = ~z~~sl:0.2~You saved me, alright. I guess I owe you.
+
+0x4B3BD981 = ~z~Hold them, hold them off a little while longer.
+
+0x4E297B9A = ~z~We lost someone.
+
+0x5B4A799E = ~z~Where the hell is it? Hold on.
+
+0x5C6C181F = ~z~They're gone!
+
+0x5CCEA977 = ~z~Now, how am I travelling?
+
+0x6DEA9B3A = ~z~Get me out of here soon, okay? We don't have long.
+
+0x6FF722F7 = ~z~I need more time.
+
+0x7F1BD77C = ~z~Okay. Got it. There's one more stash and we can go.
+
+0x8AF61159 = ~z~Hey, I hope you're here to get me out this cell.
+
+0x8B2ECDDA = ~z~I never liked him.
+
+0x9E9C77BD = ~z~They got us pinned down.
+
+0x9F49A02E = ~z~~sl:0.3~Okay, it's, it's here somewhere. Watch my back.
+
+0x10FB8FFF = ~z~Let's go! Come on.
+
+0x26CF2CE6 = ~z~They're down!
+
+0x29AABB42 = ~z~I think we've seen the last of them.
+
+0x37C3AA0D = ~z~They're making us fight!
+
+0x37E8FA76 = ~z~~sl:1.2~Got it. Now let's go.
+
+0x57C588D0 = ~z~That's the first stash. Now let's get the other.
+
+0x64FB1D90 = ~z~~sl:0.2~Feels good to be free. Alright.
+
+0x72D2B93F = ~z~Okay. Let's go.
+
+0x524A7B9B = ~z~I ain't joking, I need my stash.
+
+0x599AEDBB = ~z~They ain't letting me off easy.
+
+0x961B8DD2 = ~z~My stash is 'round here. Look out while I find it.
+
+0x4407DF16 = ~z~You gonna let me collect my stash, or what?
+
+0x4569FAA6 = ~z~Tell me you got a ride for me?
+
+0x9464E046 = ~z~He was always a prick to me.
+
+0x80193F97 = ~z~You don't spring me soon, this ain't happening.
+
+0x93742AF7 = ~z~You lead the way!
+
+0x941197FB = ~z~Now, before we go, I got some things to collect.
+
+0x1211429A = ~z~That's it. But there's another.
+
+0x2898143A = ~z~Keep them off of me!
+
+0x31054152 = ~z~Shit! Poor fool.
+
+0xA547BA67 = ~z~~sl:0.0:1.5~I got some things stashed nearby.~sl:~We got to get them.
+
+0xA614B197 = ~z~Look out, lawmen!
+
+0xB030E470 = ~z~I'm gonna follow you now.
+
+0xB7489D1F = ~z~You springing me from this joint?
+
+0xBBD13D62 = ~z~Sheriff keeps a key on his desk. Go and get it.
+
+0xC3E10332 = ~z~You. You here to break me out this joint?
+
+0xC22CE5F4 = ~z~This is it. Keep them off me while I'm looking for it.
+
+0xC886951B = ~z~I'll follow you.
+
+0xCD8400F7 = ~z~~sl:0.2:1.4~Helps having friends, don't it?~sl:0.5:1.9~I'd be getting a rope fitted right now,~sl:0.1~folk weren't looking out for me.
+
+0xCEC582F8 = ~z~More damn lawmen!
+
+0xD08066C0 = ~z~The key to this cell is over on the sheriff's desk. Get it.
+
+0xD985E199 = ~z~You breaking me out?
+
+0xD53766C7 = ~z~Well, well. That's my damn posse.
+
+0xD721942E = ~z~~sl:0.0:3.0~First thing I'm going to do is find a new set of clothes...~sl:0.2~and a big bottle of rye.
+
+0xD727855F = ~z~I got to find my stash, alright?
+
+0xDA6FB251 = ~z~~sl:0.0:2.1~You got me out of there, and just in time.~sl:0.4~Thank you kindly.
+
+0xE1A87FAD = ~z~Look there. It's my posse.
+
+0xE4E120D2 = ~z~I need to collect these things.
+
+0xE51A4E42 = ~z~Hey. Show me where to go.
+
+0xE54C3083 = ~z~Look at all this space. Sure beats a ten-foot cell.
+
+0xE593B92C = ~z~How's about some urgency? Come on.
+
+0xF56958D7 = ~z~Let's hurry this up.
+
+0xFB785C5D = ~z~Dammit, more deputies.
+
+0xFE2586F0 = ~z~~sl:2.0~That's it. Let's go.
+
+0xFF11E412 = ~z~This is what freedom tastes like, blood and horse sweat.
+

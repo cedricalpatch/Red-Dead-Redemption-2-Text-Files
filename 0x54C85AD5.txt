@@ -1,0 +1,40 @@
+0x2B1FBF88 = ~z~My top-sails are hoisted, and I must out to sea;
+
+0x3EB866B9 = ~z~Oh there's a wind that blows, and it's blowing from the West;
+
+0x5AD4EF0E = ~z~For the oak, and the ash, and the bonny birchen tree;
+
+0x7C39B20B = ~z~And it's home, dearie, home!
+
+0x31BB1CDB = ~z~They're all a-growing' green in the North Country;
+
+0x72E79F67 = ~z~Oh it's home I want to be!
+
+0x99AD6CF2 = ~z~Oh I wish with my heart, I was far away from here;
+
+0x143C91C2 = ~z~Oh, it's home I want to be!
+
+0x342E21E5 = ~z~Oh, Amble is a fine town, with ships about the bay;
+
+0x377A583D = ~z~For the oak, and the ash, and the bonny birchen tree;
+
+0x453EC3E2 = ~z~My top-sails are hoisted, and I must out to sea;
+
+0x860DF567 = ~z~And it's home, dearie, home!
+
+0x8763C85F = ~z~Sitting in my parlour, and talking to my dear.
+
+0x29780C79 = ~z~And I wish with my heart, that I was only there today;
+
+0xAC854255 = ~z~They're all a-growing' green in the North Country;
+
+0xBB61DECE = ~z~And it's home, dearie, home!
+
+0xC90B7B41 = ~z~And it's home, dearie, home!
+
+0xCD4103CC = ~z~And of all the winds that blow 'tis one I like the best;
+
+0xE05A29FE = ~z~For it blows at our backs, and it shakes the pennon free;
+
+0xF060CA0B = ~z~And soon it will blow us home to the North Country;
+

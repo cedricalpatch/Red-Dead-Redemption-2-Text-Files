@@ -1,0 +1,82 @@
+0x099335E1 = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~outlaw
+
+0x0AD95854 = Outlaw Returned
+
+0x1D0D0FB3 = Outlaw Reinforcements
+
+0x1DF214A7 = Using Eagle Eye (~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~) you can more easily find targets hidden throughout the area.
+
+0x1EA75708 = Capture ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ alive and deliver them to score the most points and win. Dead ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ lose half their value.
+
+0x2AC7AB14 = Outlaw Reinforcements
+
+0x3C0CEC83 = Return the outlaw to a ~COLOR_MP_OBJECTIVE~Bounty Wagon~s~ or ~COLOR_MP_OBJECTIVE~cell~s~
+
+0x3FF34BD5 = Outlaw Killed
+
+0x3FFEE850 = Outlaw Search Area
+
+0x4F05126F = Return the outlaw to a ~COLOR_MP_OBJECTIVE~Bounty Wagon~s~ or ~COLOR_MP_OBJECTIVE~cell~s~
+
+0x5AB1424F = Bounty Collector
+
+0x5AC66F73 = Capture ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~ and score the most points
+
+0x6EDF54F3 = All The Outlaws Returned
+
+0x9DAEA3CA = Outlaw Search Area
+
+0x52BCF970 = Whether hogtied or killed, quickly pick up captured ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~ before opposing players steal your bounty.
+
+0x60BCFD26 = ~1~ points
+
+0x60D38D2C = You won the event
+
+0x71FD087C = Day of Reckoning
+
+0x92DB8CF7 = DELIVERED DEAD +~1~
+
+0x95E2EE6D = Outlaw Returned
+
+0x172F5871 = DELIVERED ALIVE +~1~
+
+0x591B7D21 = Time's expired
+
+0x790F43AC = Outlaw
+
+0x6825D933 = DRAW
+
+0x74420B29 = Pick up the ~COLOR_MP_OBJECTIVE_ENEMY~outlaw
+
+0x23214435 = Day of Reckoning
+
+0x52887887 = Outlaw Detained
+
+0xA5076014 = Find and detain the ~COLOR_MP_OBJECTIVE_ENEMY~outlaws
+
+0xADDBC5AA = ~1~ Points
+
+0xBA5A4095 = Outlaw Killed
+
+0xC0862C0D = Outlaws Remaining
+
+0xCC07E9A8 = Outlaw
+
+0xCF486170 = Using Eagle Eye (~INPUT_SPECIAL_ABILITY~) you can more easily find targets hidden throughout the area.
+
+0xD1C2BFCE = Capture ~COLOR_MP_OBJECTIVE_ENEMY~bounty targets~s~ and score the most points
+
+0xE4FAB43B = ~1~ won the event
+
+0xE7A3491F = Outlaw - ~1~ pts
+
+0xE35C0E27 = Last Hunter Standing
+
+0xE454A1E7 = You've Lost
+
+0xF305397E = Outlaw Detained
+
+0xFC68968C = ~COLOR_ENEMY~~1~~s~ WON THE EVENT
+
+0xFF3FF868 = Outlaw - ~1~ pts
+

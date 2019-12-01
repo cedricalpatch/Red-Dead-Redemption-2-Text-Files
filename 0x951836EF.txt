@@ -1,0 +1,34 @@
+0x01A1CF93 = ~z~While others live at ease.~n~~m~While others live at ease.
+
+0x070FC6BB = ~z~That do our states disdain;~n~~m~That do our states disdain;
+
+0x0F666B1C = ~z~We spend our lives in jeopardy,~n~~m~We spend our lives in jeopardy
+
+0x1D5286F4 = ~z~Shall we go dance the round, a round, a round.~n~~m~Shall we go dance the round, a round, a round.
+
+0x2AF42237 = ~z~Shall we go dance the round, a round, a round.~n~~m~Shall we go dance the round, a round, a round.
+
+0x3E1334C1 = ~z~To them we dance this round, a round, a round.~n~~m~To them we dance this round, a round, a round.
+
+0x46A3D996 = ~z~And he that is a bully boy~n~~m~And he that is a bully boy
+
+0x78C7BDD1 = ~z~Come pledge me on this ground, a ground, a ground.~n~~m~Come pledge me on this ground, a ground, a ground.
+
+0x214DFB37 = ~z~We care not for the martial men~n~~m~We care not for the martial men
+
+0x58536941 = ~z~To them we dance this round, a round, a round.~n~~m~To them we dance this round, a round, a round.
+
+0xB04C9936 = ~z~That do our states mantain.~n~~m~Who do our states mantain.
+
+0xC2903DBD = ~z~But we care for the merchant men~n~~m~But we care for the merchant men
+
+0xDE7C8949 = ~z~Newly come from the seas;~n~~m~Newly come from the seas;
+
+0xE33C12BC = ~z~That's a good one!
+
+0xEB6E0F78 = ~z~Come pledge me on this ground, a ground, a ground.~n~~m~Come pledge me on this ground, a ground, a ground.
+
+0xF3D8B401 = ~z~We be three poor mariners,~n~~m~We be three poor mariners,
+
+0xF3E7206A = ~z~And he that is a bully boy~n~~m~And he that is a bully boy
+

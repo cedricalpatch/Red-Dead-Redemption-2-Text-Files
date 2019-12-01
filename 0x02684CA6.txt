@@ -1,0 +1,80 @@
+0x0AC5FBB8 = ~z~You blink and I'll be gone.
+
+0x0F450B04 = ~z~Well alright, that's more'n I'dda done.
+
+0x2AF2C25F = ~z~Alright... I'm on the trail.
+
+0x3F0A646A = ~z~Come on, you made your point.
+
+0x5AB0A1DA = ~z~Won't forget this.
+
+0x7AB9C638 = ~z~Hey now, easy... we're on the same side, you and me.
+
+0x7AE36D6F = ~z~You're bluffing!
+
+0x7AF43588 = ~z~Look at me, we cut from the same cloth. How about letting me go?
+
+0x7F61A9D5 = ~z~No, I can't die like this!
+
+0x9D99FAD3 = ~z~Gonna let me go, or you got one last bullet?
+
+0x9E652807 = ~z~How about I just walk away and keep on walking? How about that, huh?
+
+0x34DC25B4 = ~z~~sl:0.0:0.8~Thank you...~sl:1.0~thank you.
+
+0x88E3628B = ~z~~sl:0.0:1.7~Hey, hey, I'm done, okay?~sl:0.9~Take it easy...
+
+0x90BE8CBA = ~z~~sl:0.0:1.6~It's cold blood now,~sl:0.9~you ain't gonna kill a man in cold blood?
+
+0x644EB3DB = ~z~You won't cut down a man holding a white flag, will ya? You ain't the type...
+
+0x652C4201 = ~z~Don't! Don't make me beg!
+
+0x711B0D48 = ~z~I surrendered, you piece of shit!
+
+0x719C86B3 = ~z~Alright, you have my attention.
+
+0x866DC8D6 = ~z~~sl:1.1~Damn near shit my britches.
+
+0x899DD2DB = ~z~Guessing you ain't the merciful type, or you gonna surprise me?
+
+0x1931EE60 = ~z~~sl:0.0:1.2~I knew you'd see sense!~sl:2.0~Yes!
+
+0x98306C5B = ~z~Oh, you've seen the last of me, I guarantee it.
+
+0x512519F3 = ~z~Shit, you don't gotta do this!
+
+0x762558C3 = ~z~I ain't a changed man, but I sure am relieved.
+
+0x9810164E = ~z~You don't wanna kill me, come on.
+
+0xA662B2F3 = ~z~No sense killing me now.
+
+0xA6429D4D = ~z~Hey, I barely knew those worthless maggots, glad you killed 'em.
+
+0xB3EA2773 = ~z~Always gotta leave one survivor, s'how the stories start...
+
+0xB47D39C2 = ~z~Looks like I was running with the wrong gunmen, huh?
+
+0xC20E6F59 = ~z~Other way around, I'd let you go, swear it.
+
+0xC723B1C0 = ~z~You one hell of a butcher, I'll give you that.
+
+0xC3167DD8 = ~z~No wait, wait, wait!
+
+0xCC7B4407 = ~z~Don't you fucking do it.
+
+0xD0E64545 = ~z~Every last one of 'em... you some piece of work.
+
+0xDAA41BA3 = ~z~Come on, just let me walk away.
+
+0xDAD4E0BA = ~z~No! Please!
+
+0xE4EF3039 = ~z~You'll never see me again.
+
+0xE969B92A = ~z~Don't make me beg you, come on.
+
+0xEAB178DB = ~z~I oughta skin you alive for what you done to us.
+
+0xFC7C5F25 = ~z~Just turn your back long enough for me to run.
+

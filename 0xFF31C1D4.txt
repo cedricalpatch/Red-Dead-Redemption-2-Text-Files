@@ -1,0 +1,436 @@
+0x00F8FFE7 = ~z~This will lead to war.
+
+0x034A848A = ~z~We cannot fight another war.
+
+0x0359BED2 = ~z~I see it.
+
+0x05842115 = ~z~was that this had nothing to do with you?
+
+0x0679DEBD = ~z~That explosion came just in time.
+
+0x075BD31C = ~z~I thought you wasn't getting involved?
+
+0x08932763 = ~z~That you, Al?
+
+0x08A8666C = ~z~We need to lose them!
+
+0x091512F3 = ~z~Yes.
+
+0x0A376D9D = ~z~Hey, this is private property!
+
+0x0AF0DD52 = ~z~
+
+0x0C91B448 = ~z~He rather liked you.
+
+0x0D42DF9B = ~z~Hey, do I know you?
+
+0x0DE11637 = ~z~Obviously they can't...
+
+0x0EEA1AA9 = ~z~Well you have great powers of observation.
+
+0x0F203E09 = ~z~Here's your money.
+
+0x1B714CEF = ~z~I'll go take a look.
+
+0x1BFD42E4 = ~z~I need a file by the Leland Oil Development Company. The one about the oil near Wapiti.
+
+0x1D213717 = ~z~and at the party, you were upstairs.
+
+0x2B5C512D = ~z~claiming huge reserves of oil under their land.
+
+0x2CBE02DF = ~z~Sure.
+
+0x3A4BFA27 = ~z~Yeah, but we need to get the hell out of here.
+
+0x3C7DA2B0 = ~z~We need to get away from here!
+
+0x3D2F75F3 = ~z~Like you, I've been running for as long as I can remember...
+
+0x3D8EF592 = ~z~So, you want me to try to steal it?
+
+0x3E5E7469 = ~z~Does that seem important right now?
+
+0x4D2E3A7B = ~z~
+
+0x4E21DB82 = ~z~Danbury... think, man... a mind is a terrible thing to lose.
+
+0x4F5F3A22 = ~z~well, I mean to say...
+
+0x5A3BCFDB = ~z~can you steal things?
+
+0x5BB9CD83 = ~z~Ideally...
+
+0x5C8D7859 = ~z~Especially all over such a nice floor as this...
+
+0x5D69366A = ~z~Listen, I-I realize that it is a ridiculous request, but we're very desperate.
+
+0x5E4371A0 = ~z~but who knows...
+
+0x5EED4489 = ~z~
+
+0x5F03D14F = ~z~we should head over there.
+
+0x5FCBBACD = ~z~Easy now, fellers.
+
+0x6B23BCD6 = ~z~~sl:0.0:3.9:1~Ah... you must be Danbury.
+
+0x6C6C86D9 = ~z~You're not from head office.
+
+0x6C266E8C = ~z~Picking up?
+
+0x6C788E02 = ~z~Thank you.
+
+0x6D4E5EF4 = ~z~Lord give me strength... bureaucracy; the modern hell... and personally I prefer the fiery pits.
+
+0x7B51B9E1 = ~z~Hold it right there, you son of a bitch!
+
+0x7BE09782 = ~z~Now stay quiet... or head office will send me back to get you.
+
+0x7CA794B2 = ~z~Well, I'm sorry. Have you met?
+
+0x7F74684A = ~z~Now stay quiet... or head office will send me back to get you.
+
+0x8A1C0F6D = ~z~~sl:0.0:1.0:1~What the hell?
+
+0x8A1EBDAB = ~z~I believe we've met.
+
+0x8AAFBF48 = ~z~Who... what?
+
+0x8B3D2AE1 = ~z~Come, perhaps the senator won't mind waiting.
+
+0x8DFD5064 = ~z~Follow me!
+
+0x8E589848 = ~z~I'm a working man, I got problems of my own.
+
+0x8EA897C8 = ~z~It's to do with oil...
+
+0x9A194779 = ~z~just west of the oil fields.
+
+0x9D8A5013 = ~z~We understand, and we will pay.
+
+0x9E96669A = ~z~Can I say something rude?
+
+0x9F781409 = ~z~Shoot them!
+
+0x13FCE6DB = ~z~Okay, looks like we lost them.
+
+0x16B0120E = ~z~If you are quick, you could climb into the back of that wagon.
+
+0x17ACB3B2 = ~z~Hello? Oh, come now.
+
+0x18A3ABBC = ~z~and even more obviously, I would be useless.
+
+0x21E002FF = ~z~I...
+
+0x23B7E294 = ~z~The mayor thinks you robbed him.
+
+0x25B0C956 = ~z~and we have become far weaker, Mr. Morgan.
+
+0x29BAE982 = ~z~If there's a problem, call for me.
+
+0x33CC9596 = ~z~Danbury...
+
+0x33FAE5EA = ~z~They have got stronger...
+
+0x35B406CC = ~z~Do you...
+
+0x42E92F35 = ~z~Unfortunately so, Mr.?
+
+0x53FAA4C9 = ~z~we've made peace treaties...
+
+0x56D7698E = ~z~It's here, it's here!
+
+0x61B0077D = ~z~I don't see any more of them!
+
+0x71D476F0 = ~z~It's a waste of our time and his.
+
+0x78E95861 = ~z~Who? What?
+
+0x83CF0595 = ~z~and we've been moved and punished and...
+
+0x92FD77CA = ~z~Yes, don't worry. ~rp~He was very obliging.
+
+0x94E361E3 = ~z~He has the files in the office above the refinery room.
+
+0x95FA3F3B = ~z~Gentlemen, that appointment with the senator...
+
+0x158A4639 = ~z~To be clear, he wasn't very upset about it.
+
+0x164BAA32 = ~z~Hey, who are you?
+
+0x230BC2EC = ~z~we fought hard...
+
+0x278F637F = ~z~Come along.
+
+0x335A7CF1 = ~z~Hey, Tom...
+
+0x350E5383 = ~z~Oh, Danbury...
+
+0x409BFE0C = ~z~Yes, my people, if we are even a people anymore...
+
+0x465E98D7 = ~z~Hey, who's over there?
+
+0x488C5457 = ~z~What the hell are you doing here?
+
+0x511ECBA0 = ~z~Arthur Morgan, at least sometimes.
+
+0x569DEC91 = ~z~Hey, what are you doing round here at this time of night? Get moving.
+
+0x659E6F1A = ~z~Intruder! Everyone over here now!
+
+0x734F61D4 = ~z~Hey, hey, hey, hey, hold it right there.
+
+0x740D9189 = ~z~Oh, Evelyn Miller?
+
+0x842C9BA0 = ~z~We are very grateful for your help.
+
+0x894B2889 = ~z~You could crawl under the fence...
+
+0x952AD43E = ~z~~sl:1.7~You must be Danbury.
+
+0x1498E150 = ~z~You see that light up there?
+
+0x1897C590 = ~z~Hello, Mr. Miller...
+
+0x2707B776 = ~z~Tell the guard you're fine.
+
+0x2913B6D5 = ~z~Otherwise you will have to sneak past the guards.
+
+0x5664CC8B = ~z~Oh, Danbury...
+
+0x6381E267 = ~z~Is there a reason you're asking me to incriminate myself, Mr. Miller?
+
+0x6431B9BE = ~z~Yes, it's just... I'm working... all's fine.
+
+0x6511C559 = ~z~
+
+0x9192D125 = ~z~Yes...
+
+0x13985C43 = ~z~I thought you were gonna enter and leave silently?
+
+0x14337A30 = ~z~I was to happy to watch some of that oil burn. ~rp~So you met Mr. Danbury?
+
+0x27444A1D = ~z~The government doesn't like me any more than it does you.
+
+0x32438E3C = ~z~Come on! Let's get out of here.
+
+0x51851E40 = ~z~Weapons on the ground and hands in the air.
+
+0x71109A3E = ~z~There's a foreman...
+
+0x77837B20 = ~z~What was that noise?
+
+0x80270B3A = ~z~I... I...
+
+0x90753C3A = ~z~What was that? Is someone there?
+
+0x447128B2 = ~z~Thank you.
+
+0x466989A7 = ~z~and those treaties were broken...
+
+0x492721A3 = ~z~What are you waiting for?
+
+0x1882660B = ~z~maybe these will be of some use.
+
+0x3188546C = ~z~Danbury? Mr. Danbury, are you okay?
+
+0x4435282C = ~z~Tell the guard you're fine.
+
+0x6009321A = ~z~Alright, I'm going to start loading up.
+
+0x8515350B = ~z~Mr...
+
+0x9750580E = ~z~We have?
+
+0x11392067 = ~z~No, my son, it will not.
+
+0x16365657 = ~z~Oh God... what'd you want?
+
+0x26240466 = ~z~his name is Danbury.
+
+0x50423584 = ~z~and like you, my time here is nigh on done.
+
+0x94582327 = ~z~I know it is, but I need the proof.
+
+0xA0A03CD7 = ~z~We will pay you very handsomely, Mr. Morgan.
+
+0xA2DEF315 = ~z~Guards! We have an intruder!
+
+0xA2EF5536 = ~z~You should go now.
+
+0xA6AD39A0 = ~z~What was that?
+
+0xA6BBCB6E = ~z~I'm sure.
+
+0xA52E38E4 = ~z~Come on, Arthur!
+
+0xA89FE486 = ~z~Okay.
+
+0xA382C7C8 = ~z~If the...
+
+0xA585CBD6 = ~z~if they know you're coming.
+
+0xA602C8DC = ~z~and his son, Eagle Flies.
+
+0xA84608A8 = ~z~I see it.
+
+0xA2629511 = ~z~Mount up and follow me!
+
+0xAB2C51EF = ~z~I'm not a do-gooder, Mr. Miller.
+
+0xAB3D4502 = ~z~We need to go!
+
+0xABDD52EF = ~z~Now. We won't tell you again.
+
+0xADDEF1B0 = ~z~Any ideas how I...
+
+0xB1EA98E9 = ~z~You saved my life.
+
+0xB2EEE6A8 = ~z~There's only one of me, son.
+
+0xB6DB03C4 = ~z~or hide in a wagon.
+
+0xB36D555E = ~z~Over here!
+
+0xB47CE6F0 = ~z~punished and moved.
+
+0xBA7E083E = ~z~Thank you.
+
+0xBAC9DD9B = ~z~Hey, you can't be in here!
+
+0xBB103AA6 = ~z~Intruder! Sound the alarm!
+
+0xBC6E7353 = ~z~It's a bad business.
+
+0xBD7D3316 = ~z~It's that window with the blind drawn up.
+
+0xBDAE8AB4 = ~z~Quick before someone spots us.
+
+0xBF2127A3 = ~z~Mr....
+
+0xBFF38C6C = ~z~They are coming after us!
+
+0xC08B7CAD = ~z~Gentlemen, I'm very sorry for your predicament, but...
+
+0xC1AA3868 = ~z~I thought you wasn't getting involved?
+
+0xC3D00336 = ~z~Told you, they're all mercenaries.
+
+0xC4E7F05D = ~z~Quieten yourself, friend, this won't take long.
+
+0xC9BF17D4 = ~z~Hello?
+
+0xC9DB989A = ~z~'Course I came, I said I would.
+
+0xC23E0218 = ~z~Hey, how did you get in here?
+
+0xC52DA069 = ~z~They keep rolling in.
+
+0xC220B240 = ~z~I need some papers, my friend... nothing important... a file... I'm from head office.
+
+0xC7277E54 = ~z~Excuse me!
+
+0xC61008F6 = ~z~We saw you on the wagon train...
+
+0xC2081872 = ~z~the councillor wants to apologize. He can see you now.
+
+0xCBE19885 = ~z~Mr. Cornwall's men will destroy them...
+
+0xCCA710FC = ~z~No.
+
+0xCD35ADAD = ~z~You meet my son in a couple of days near Citadel Rock...
+
+0xCE1A1CFE = ~z~I don't intend for them to know I'm coming.
+
+0xCE7151F6 = ~z~I hope...
+
+0xCEA61B42 = ~z~Clearly contravening the peace treaty signed three years ago.
+
+0xCEC61802 = ~z~on their land a few months ago who have filed reports...
+
+0xCF522435 = ~z~Did you get the documents?
+
+0xCFEAD7F1 = ~z~There.
+
+0xD0843C53 = ~z~Hey, I heard something over there...
+
+0xD7A2AC1B = ~z~Gentlemen.
+
+0xD7AEA73D = ~z~
+
+0xD7D74B10 = ~z~This is Rains Fall, a great chief...
+
+0xD8D6A04F = ~z~Hey, you ain't allowed in here!
+
+0xD9CEB45F = ~z~files are as incriminating as we believe...
+
+0xD9D24806 = ~z~Or next month, if you'd like to reschedule?
+
+0xD77CB34F = ~z~Hello? Hello? Open up... come now, we have an appointment.
+
+0xD841B566 = ~z~You came.
+
+0xD902AFFB = ~z~And now I am told we are to be moved again.
+
+0xD7587F01 = ~z~Danbury, Mr. Danbury, are you okay?
+
+0xD9822E9A = ~z~There's a price on my head in two states, my friend.
+
+0xD84800E8 = ~z~Keep your door locked until we say it's clear.
+
+0xDBB1B82D = ~z~What will the files say?
+
+0xE02DF56F = ~z~Thank you.
+
+0xE0B9BEC2 = ~z~
+
+0xE0CCB346 = ~z~Keep going!
+
+0xE2DA3D62 = ~z~I need a file by the Leland Oil Development Company. The one about the oil near Wapiti.
+
+0xE5A71BA2 = ~z~Yes... all's fine.
+
+0xE5BFF4EC = ~z~At that ghastly party.
+
+0xE6B547E0 = ~z~I believe there were some prospectors who were...
+
+0xE111BC99 = ~z~with Leviticus Cornwall and the State Government...
+
+0xE128FA6D = ~z~If the...
+
+0xEB6653A2 = ~z~crossing the river at Cumberland Falls...
+
+0xEC275918 = ~z~There'll be a report from Leland Oil Development Company.
+
+0xEE565842 = ~z~How much?
+
+0xEF0FF45D = ~z~Okay... you better get a move on, then.
+
+0xF0937588 = ~z~We've been waiting, I don't know how long.
+
+0xF3BD8B6D = ~z~You done good, Danbury... real good. They'll give you a promotion for this.
+
+0xF9E60A09 = ~z~Yup... supposed to meet the early train to Saint Denis.
+
+0xF9F674B6 = ~z~And you got the money?
+
+0xF11CD9E7 = ~z~I... I...
+
+0xF23B5623 = ~z~We are almost clear!
+
+0xF72D8468 = ~z~I thought the whole point...
+
+0xF95A95A0 = ~z~Will you be quiet?
+
+0xF267FADD = ~z~sneak into this place?
+
+0xF74689FA = ~z~Oh shit!
+
+0xFBE4ACD0 = ~z~well, I don't know what I hope...
+
+0xFC450CEB = ~z~No, we must try everything.
+
+0xFDB8926F = ~z~Hey, how the hell did you get in here?
+
+0xFF5F99E4 = ~z~Okay...
+

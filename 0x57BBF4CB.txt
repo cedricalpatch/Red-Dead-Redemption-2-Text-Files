@@ -1,0 +1,222 @@
+0x0035366C = Eva
+
+0x01EF2667 = The next game will start soon.
+
+0x0201CE44 = No bonus points were awarded.
+
+0x04AF089C = DOMINOES
+
+0x0C1E8A35 = The ~1~ bonus points are awarded to the winner.
+
+0x0F5A889C = ~1~'s Turn.
+
+0x0FF4D5EB = Grace
+
+0x1A8A8AF4 = All Threes
+
+0x1BDFCECF = Your Turn.
+
+0x2DE491D6 = Mabel
+
+0x2EF54498 = Your Money
+
+0x3A309BBB = Pass Turn
+
+0x3B5CACC6 = Anabel
+
+0x3B332D7F = The spinner tile has been placed.
+
+0x3E22AACC = Tiles can now be played off the ends of the spinner.
+
+0x3F6DDE24 = Target Score
+
+0x4A3B234E = Play Tile
+
+0x4A910896 = Winner
+
+0x4CD701E7 = Counting Tiles...
+
+0x4DC9F172 = All Fives
+
+0x4FD0F57D = The last tile has been placed. This round ended in a tie for the lowest number of pips.
+
+0x5B483A8F = Gets ~1~ points.
+
+0x5F8386CA = Claude
+
+0x7B8C195E = ~1~ reaches the target score to win the game.
+
+0x7CDCC174 = Bob
+
+0x7E8AA1AD = Hold ~INPUT_MINIGAME_DOMINOES_VIEW_MOVES~ to look at the table.
+
+0x8FF3D861 = All Threes.~n~The player immediately scores the total of the open ends if it is a multiple of 3.
+
+0x9E6D13F8 = Loser
+
+0x9FB27E0A = View Tiles
+
+0x21AAEB95 = Tiles worth ~1~ points.
+
+0x24AD6578 = Gets 1 point.
+
+0x25E1BED1 = Buy-In (~1$~)
+
+0x26C01544 = Francis
+
+0x33D05D54 = Scored 1 point.
+
+0x36DC8A12 = Next Round
+
+0x39C36B16 = Passed turn.
+
+0x41F93F13 = On your turn, win points by ensuring the edge score totals a multiple of 5.
+
+0x69E51728 = Edge Score
+
+0x71C6AB50 = Willie
+
+0x74DC48BB = The last player has left the table. This game will now end.
+
+0x76E2C39F = Block Game
+
+0x76F13B94 = Lost ~1$~.
+
+0x78E54440 = Hold ~INPUT_MINIGAME_DOMINOES_VIEW_DOMINOES~ to look at your tiles.
+
+0x94F571AD = Alfred
+
+0x97D3FE34 = View Table
+
+0x187BF013 = All players passed.~n~This round ended in a tie for the lowest number of pips.
+
+0x213BFAF7 = Draw Game.~n~Win rounds by being the first to place all your tiles.
+
+0x265C0533 = Block Game.~n~Win rounds by being the first to place all your tiles.
+
+0x293D8DA8 = The classic Block game.
+
+0x328FF780 = ~1~ reaches the target score to win the game, and is awarded the ~2$~ pot.~n~You have no money to carry on. Please leave the table.
+
+0x374CC90F = Waiting for finished players to leave.
+
+0x410BAB20 = A game is currently in progress. Please wait until the game ends to play.
+
+0x420A39C8 = ~1~ tile left.
+
+0x458D4395 = All Fives.~n~The player immediately scores the total of the open ends if it is a multiple of 5.
+
+0x519AB599 = ~1~ reaches the target score to win the game, and is awarded the ~2$~ pot.
+
+0x547B6FB0 = Wait for an opponent to join.~n~You can quit by holding ~INPUT_MINIGAME_QUIT~.
+
+0x575C29A7 = The tiles are being dealt out.
+
+0x593D4AEA = Select Game
+
+0x1251F5F1 = Unable to place domino. Please try again.
+
+0x2084BB93 = Wins 1 bonus point.
+
+0x2803DAFA = ~1~ has left the table.
+
+0x2845A66A = Draw Game
+
+0x3051FC09 = ~1$~
+
+0x9287ECCA = Hyram
+
+0x49519B62 = All players passed.~n~~1~ won this round with the least number of pips.
+
+0x55147E39 = You can buy in to play or leave the table.
+
+0x64937F27 = Edna
+
+0x77911E98 = Skip
+
+0x83074DD1 = Earl
+
+0x84043E18 = Leora
+
+0x387138A6 = Ralph
+
+0x497148EF = Joyce
+
+0x536945E2 = ~1~ has played all their tiles and wins the round.
+
+0x58826711 = Cora
+
+0xA1450E5C = Restore View
+
+0xAB9F0B61 = This tile has a number of available moves.~n~Use ~INPUTGROUP_MINIGAME_DOMINOES_MOVE_LR~ to choose one.
+
+0xAE3B1CDD = Wins ~1~ bonus points.
+
+0xAEDFA801 = 1 bonus point is awarded to the winner.
+
+0xB2A18C78 = Freelook
+
+0xB604E0EF = No tiles left.
+
+0xB705FA47 = Target Score (~1~)
+
+0xB775A4FA = Clara
+
+0xBC6124F9 = Scored ~1~ points.
+
+0xBE2E3871 = Tiles worth 1 point.
+
+0xC00D80E2 = This tile has no available moves. Please select another tile.
+
+0xC930E63C = Press ~INPUT_MINIGAME_DOMINOES_VIEW_DOMINOES~ to look at your tiles.
+
+0xCB127CCC = Select Move
+
+0xCCF5D52B = Use ~INPUTGROUP_MINIGAME_DOMINOES_MOVE_LR~ to choose a tile. Press ~INPUT_MINIGAME_DOMINOES_PLAY_TILE~ to select it.
+
+0xCD0E8F38 = Drawing Tiles.
+
+0xD84BF851 = Cleve
+
+0xD85B339A = Use ~INPUTGROUP_MINIGAME_DOMINOES_MOVE_LR~ to select a play position.~n~Press ~INPUT_MINIGAME_DOMINOES_PLAY_TILE~ to place the tile.
+
+0xD5593D14 = ~1~ reaches the target score to win the game.
+
+0xDF78E820 = The tiles left in each player's hand are counted.
+
+0xDFD5076F = George
+
+0xE2F34496 = Won ~1$~.
+
+0xE8DC0369 = ~1~ has the highest double or tile and goes first. Doubles take priority over a non double of the same value.
+
+0xE339F897 = ~1~ won the previous round and goes first.
+
+0xE636B488 = The spinner tile is now closed.
+
+0xE1303811 = No points awarded.
+
+0xEB785F92 = Draw Tile
+
+0xECD74749 = ~1~
+
+0xEEA97459 = Select Tile
+
+0xEEF19911 = The classic Draw game.
+
+0xF3DD1326 = Waiting turn.
+
+0xF4C94653 = Press ~INPUT_MINIGAME_DOMINOES_VIEW_MOVES~ to look at the table.
+
+0xF4CFA479 = To score, the sum of the edges must be a multiple of ~1~.
+
+0xF77EDA94 = ~1~ tiles left.
+
+0xF2591AB4 = Rosamond
+
+0xFAD8A387 = A new player is joining the table.
+
+0xFB0697B5 = The tiles left in each player's hand are counted and rounded to the nearest ~1~.
+
+0xFDDFB6ED = On your turn, win points by ensuring the edge score totals a multiple of 3.
+

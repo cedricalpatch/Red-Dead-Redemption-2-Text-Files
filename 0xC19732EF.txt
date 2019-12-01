@@ -1,0 +1,6 @@
+0x08239D07 = Antagonize
+
+0x4EBAC9DB = Talk
+
+0x40B20BA6 = Defuse
+

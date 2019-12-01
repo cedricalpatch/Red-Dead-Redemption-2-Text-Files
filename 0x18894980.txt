@@ -1,0 +1,30 @@
+0x5DFC5338 = ~z~~sl:0.0:4.7~We have had a couple of jobs... not go so well.~sl:1.3~That is the way of the world.
+
+0x6C586F64 = ~z~As God intended us to live.
+
+0x9F620679 = ~z~Finally... free.
+
+0x33B67EA9 = ~z~We are gonna take the money... and go to paradise.
+
+0x47D5A65F = ~z~~sl:0.0:3.9~Let the... Pinkertons arrest some other fools.~sl:1.0~We... we are gonna sail to Tahiti.
+
+0x539AF984 = ~z~Come on, all of ya.
+
+0x560B42CA = ~z~~sl:0.0:4.1~We're gonna buy some land... and we are gonna live.~sl:1.1:1.1~Properly.~sl:0.7~In paradise, as we deserve.
+
+0x660C93CF = ~z~One last job and we are gone.
+
+0xADA0A2F6 = ~z~~sl:0.0:2.6~I know we've had a rough couple of months.~sl:0.3:1.6~With this plan, we can...~sl:1.0~be free.
+
+0xC3D6CF62 = ~z~You heard the man... now is not the time for doubts.
+
+0xC17F1A3C = ~z~~sl:0.0:5.8~We are going to rob the Lemoyne National Bank in Saint Denis.~sl:0.7~And we're gonna take the money... listen... all of you.
+
+0xD03237A2 = ~z~Something very big.
+
+0xD21A6BE9 = ~z~Thank you.
+
+0xDDF4D327 = ~z~~sl:0.0:5.2~But... I... we...~sl:1.8~we are planning something big.
+
+0xF8A6888A = ~z~~sl:0.0:0.8~Alright...~sl:1.0~listen...
+

@@ -1,0 +1,22 @@
+0x0D75787C = ~z~If you are dying, how do you plan to repay me?
+
+0x5AF79387 = ~z~Before you come any closer, the answer is no.
+
+0x38DECF4E = ~z~You wanted money.
+
+0x66F8AB89 = ~z~What did I want?
+
+0x2385A49C = ~z~I am not well... I think I'm dying. I need... I need...
+
+0x4298E2C2 = ~z~Just a little... just a little.
+
+0x14000591 = ~z~You already owe me a lot.
+
+0xA50D15D4 = ~z~I'm sure.
+
+0xCF536A60 = ~z~It is for his own good, Mr. Morgan.
+
+0xDF339BF9 = ~z~Oh... you are a heartless little swine.
+
+0xE95CB04B = ~z~You really are!
+

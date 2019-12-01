@@ -1,0 +1,206 @@
+0x033AB364 = ~z~What the hell is going on out there?
+
+0x0400872F = ~z~Hey, if it's a hole in the head you want, then come right in!
+
+0x04600B65 = ~z~I suppose... I'm kind of glad to have those O'Driscolls off my back, to be honest.
+
+0x046D8800 = ~z~It's me. Come on, open up.
+
+0x07D986BB = ~z~Stay put, or you'll be next. You hear me?
+
+0x08FDF0CF = ~z~Don't try anything funny.
+
+0x0907C61F = ~z~No, no, what do you want now?
+
+0x0933DD77 = ~z~Hey! Watch it, cowboy, or I'll throw you in a cell!
+
+0x0A67AB55 = ~z~Oh you're done now!
+
+0x1C50E8E1 = ~z~Shit, we got a problem here!
+
+0x1DF33AF4 = ~z~Hey! I'm doing it! Take it easy.
+
+0x1F8CC1BE = ~z~Oh wonderful, just when I thought my day couldn't get any worse.
+
+0x2A008791 = ~z~Put it on the table, you can see we're in the middle of some business here.
+
+0x2F011385 = ~z~But if you so much as lift a finger out of line...
+
+0x3D69B056 = ~z~Okay, okay...
+
+0x3F697DF7 = ~z~Here. Now you go keep the people safe.
+
+0x3FC250CC = ~z~Let me into that back room of yours right now.
+
+0x4AEFA4BB = ~z~Later, I told you.
+
+0x4D0C70B3 = ~z~Shit! Someone's at the door, everybody stay put!
+
+0x4D3B3AEE = ~z~Come out with your hands up!
+
+0x4D364A42 = ~z~Don't try anything funny.
+
+0x4DF49E8A = ~z~Shit. Dumb move...
+
+0x5B9A3658 = ~z~Yeah, yeah.
+
+0x5C2A3AF5 = ~z~We know you're in there. Come out now!
+
+0x5E30CB3D = ~z~Come on, one kiss to tide me over.
+
+0x6A6AF217 = ~z~You ain't killing me, you son of a bitch!
+
+0x6D608ECF = ~z~Come on, can we put that behind us now?
+
+0x6FDB1987 = ~z~I've been robbed!
+
+0x7A6E5AE0 = ~z~My friend, there are three of us... and we have our guns on that door.
+
+0x7B9EC5BE = ~z~I understand why you had to say something, so just stay quiet and out of my way.
+
+0x7E033014 = ~z~Okay, okay...
+
+0x7FDB6133 = ~z~Let me into that back room of yours right now.
+
+0x9BA6ECD3 = ~z~If you start spending some of that money you stole, maybe.
+
+0x9D8FEF2D = ~z~If you start spending some of that money you stole, maybe.
+
+0x15E9BAAC = ~z~That makes one of us.
+
+0x21CD42BF = ~z~It better all be there. I'll be back to check on you tomorrow.
+
+0x38B2F7C1 = ~z~Get your hands up.
+
+0x38B9004E = ~z~Oh, Come on!
+
+0x59DAAC94 = ~z~Please... I ain't with them... they picked me up in the saloon.
+
+0x74E1BEF9 = ~z~I don't know what game you're playing, pal, but you don't know who you're dealing with.
+
+0x83EC02C8 = ~z~What are you looking at?
+
+0x89B4F96D = ~z~I suggest you leave while you still can.
+
+0x89B7AE63 = ~z~What... the hell happened here?
+
+0x122CBFFB = ~z~I thought we'd moved on from that?
+
+0x351DECE0 = ~z~So what is it you need?
+
+0x376EFDB6 = ~z~~sl:0.0:0.7:1~No...
+
+0x397D4B05 = ~z~I ain't going to hurt you. Just stay out of my way, and you'll be fine.
+
+0x558CC573 = ~z~We know you're in there. Come out now!
+
+0x587F4F99 = ~z~Thought you were that cowpoke who bothered us earlier. Put it on the table.
+
+0x811C2FA2 = ~z~Damnit, someone's making trouble out there!
+
+0x825BE743 = ~z~Nobody open that door. Doc Calloway's been attacked.
+
+0x879FD69E = ~z~I'm done with this! You're crazy!
+
+0x920CB2F4 = ~z~Hmm, you smell so good.
+
+0x973FE1DD = ~z~Shots fired! Frank, you alright in there?
+
+0x4857AC50 = ~z~Oh wonderful, just when I thought my day couldn't get any worse.
+
+0x5153A54B = ~z~I thought we'd moved on from that?
+
+0x5743B33A = ~z~I swear I heard a knock.
+
+0x8504CFAE = ~z~I ain't going to hurt you. Just stay out of my way, and you'll be fine.
+
+0x9512CBCD = ~z~Yeah, it's only the doc.
+
+0x39659CD7 = ~z~Keep those hands high in the air, mister.
+
+0x56158B13 = ~z~And you think I won't?
+
+0x62663B49 = ~z~You're starting to annoy me, friend. You need to leave, now!
+
+0x62907F20 = ~z~Behind you, look out!
+
+0x67746A89 = ~z~I suppose... I'm kind of glad to have those O'Driscolls off my back, to be honest.
+
+0x70626FA0 = ~z~You're like a dog in heat.
+
+0x81019B93 = ~z~You've got some nerve. Get out of here!
+
+0x782125C8 = ~z~No, no, what do you want now?
+
+0x2529592B = ~z~~sl:0.8~Come on.
+
+0x8973486C = ~z~Come on, can we put that behind us now?
+
+0x52899369 = ~z~Damn it! Hey, wake the hell up! We got trouble.
+
+0x55768740 = ~z~Look out, there's an armed nut out here fixing to rob you!
+
+0xA7C509BE = ~z~There's nothing for you back there, sir.
+
+0xA369C814 = ~z~I'd mind your own business if I was you.
+
+0xAB0A5B08 = ~z~They're never going to open now, even if you kill me! You had your chance!
+
+0xAD47B675 = ~z~I'm sorry, I had no choice! They would have killed me!
+
+0xB99FA522 = ~z~Hey, what the hell is your problem?
+
+0xB52147D8 = ~z~Who the hell are you? Get outta here!
+
+0xB735439F = ~z~Now go!
+
+0xBE6999B1 = ~z~What the hell?
+
+0xBFCED0E3 = ~z~Sir, please, you don't want to get involved with them, I promise you.
+
+0xC2BE9500 = ~z~I understand why you had to say something, so just stay quiet and out of my way.
+
+0xD05354B3 = ~z~But if you so much as lift a finger out of line...
+
+0xD8B40EF7 = ~z~He's about to come out the front door! Take him out!
+
+0xD34C40F8 = ~z~Shit. Dumb move...
+
+0xD61CFD7F = ~z~You make them open up or you're a dead man!
+
+0xD87E792D = ~z~Looks like a nice little business you got going back here.
+
+0xD218DA9B = ~z~Come on... please... put the gun away.
+
+0xD701BCE1 = ~z~Don't go all shy on me.
+
+0xD106318F = ~z~Yes, the O'Driscolls... they're very demanding.
+
+0xDA05DD7C = ~z~Better not be that damned hick from earlier.
+
+0xDC03EEE1 = ~z~Just go away. You don't want to be making trouble here, believe me.
+
+0xDE58C5D7 = ~z~Oh God... please... don't kill me...
+
+0xE7DEB100 = ~z~Sir, please, you don't want to get involved with them, I promise you.
+
+0xE46EC40F = ~z~Hey, open up, it's me. I brought some food and whiskey from you fellers.
+
+0xE243BFB9 = ~z~What do you want? This is private. Get lost.
+
+0xEECF4F05 = ~z~You're starting to rile me now, pal, get the hell out of here.
+
+0xF048BF8B = ~z~I should put you down for causing this mess.
+
+0xF0C4C083 = ~z~I'm sorry, I had no choice! They would have killed me!
+
+0xF2E41EA6 = ~z~Stay put, or you'll be next. You hear me?
+
+0xF5ED877D = ~z~So what is it you need?
+
+0xF81B2EAD = ~z~Hey! Stand down! Hands in the air!
+
+0xFB092615 = ~z~Looks like a nice little business you got going back here.
+
+0xFE1FDD82 = ~z~You make them open up or you're a dead man!
+

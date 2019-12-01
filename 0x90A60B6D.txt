@@ -1,0 +1,24 @@
+0x010F51F5 = ~z~There you are, Arthur.
+
+0x2C1A8EDD = ~z~I'm sure you do.
+
+0x4F6BD57F = ~z~I... I...
+
+0x81E4D39E = ~z~I... I...
+
+0x95CA623B = ~z~I feel... ashamed.
+
+0x602A76FC = ~z~Liquor ain't your friend, Arthur. Not when you drink so much of it.
+
+0x8877C796 = ~z~There you are, Arthur.
+
+0x33241D08 = ~z~I know...
+
+0x93977703 = ~z~I am sure you do.
+
+0xA58C9AF1 = ~z~I know.
+
+0xB73A3E4C = ~z~Liquor ain't your friend, Arthur. Not when you drink so much of it.
+
+0xEE562C83 = ~z~I feel ashamed.
+

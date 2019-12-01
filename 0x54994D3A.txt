@@ -1,0 +1,498 @@
+0x02A54D62 = ~z~Yeah, I know you don't want it.
+
+0x02B039F7 = ~z~Hey, you want company, boys?
+
+0x068EE317 = ~z~That's enough now, partner...
+
+0x07962E5F = ~z~Who's this, your daddy?
+
+0x07B3D793 = ~z~You sure as shit need it.
+
+0x0880610C = ~z~Momma...
+
+0x0A291880 = ~z~I'm sorry for what happened, and I was a...
+
+0x0A904296 = ~z~Just give him back to me.
+
+0x0AE2BA5C = ~z~I mean...
+
+0x0CF1D7AB = ~z~I know I ruined your life...
+
+0x0DE00CA5 = ~z~That's enough.
+
+0x0E7B972D = ~z~You couldn't kill no one.
+
+0x1ACF05A9 = ~z~Momma can't leave... or won't leave...
+
+0x1B0B26FB = ~z~Just stop it.
+
+0x1E2B40E9 = ~z~
+
+0x1EF07332 = ~z~Hey, where you going?
+
+0x2A7130E7 = ~z~That way...
+
+0x2EEE7A5D = ~z~I was set free to fight.
+
+0x2FEE2FE7 = ~z~You still here, kid?
+
+0x3BCC27AF = ~z~Oh, God...
+
+0x3E18B8A9 = ~z~So you're sick now too, and you think that affords you
+
+0x3E33CC72 = ~z~Well, yes...
+
+0x3EAC3B1F = ~z~I suffer for it every day, but...
+
+0x3F41F8B9 = ~z~Look at you, all ragged and sick and weak.
+
+0x4B349104 = ~z~Go.
+
+0x4BE9D44B = ~z~I know...
+
+0x4C2BC57F = ~z~Maybe you could just leave us all alone.
+
+0x4DB9A0A8 = ~z~I'm just so ashamed.
+
+0x4DE74BE5 = ~z~I ain't always nice. Sometimes I can be... real nasty...
+
+0x4E87BC41 = ~z~Leave the boy alone.
+
+0x5AB862B0 = ~z~See, foreman don't like him...
+
+0x5B639866 = ~z~he's just a goddamn boy.
+
+0x5B969585 = ~z~You should've stayed out of this.
+
+0x5CAADDEB = ~z~But...
+
+0x5CC818E0 = ~z~around the woods, towards Willard's Rest.
+
+0x5CC958C4 = ~z~What you doing here?
+
+0x5D17AB2A = ~z~Are we getting on your horse?
+
+0x5E56E9D5 = ~z~Maybe...
+
+0x5F71C310 = ~z~I'm sorry.
+
+0x5F4906BC = ~z~Don't forgive me...
+
+0x6A8A1736 = ~z~Can't even fight your own battles, Downes?
+
+0x6AB1CF98 = ~z~Clear off, you goddamn hermit.
+
+0x6AD0C69C = ~z~I said I'd come, didn't I?
+
+0x6C37B771 = ~z~And stay away from Archie, he's got enough troubles as it is.
+
+0x6D953CC9 = ~z~Let's get you outta here.
+
+0x6E7FBC4F = ~z~I'll see what I can do.
+
+0x7A8E9F82 = ~z~Then let's get you outta here.
+
+0x7AE88AD2 = ~z~Be quiet, Mr. Dockery.
+
+0x7BFC4EEF = ~z~Help someone who can still be helped, or help yourself.
+
+0x7C538DC4 = ~z~Hey, boy.
+
+0x7DE62061 = ~z~I'm sorry...
+
+0x7EAE77F7 = ~z~I don't need it no more.
+
+0x8B531AB2 = ~z~Listen...
+
+0x8CFC142C = ~z~Why you kill his daddy?
+
+0x8D41C7EF = ~z~Put that son of bitch down.
+
+0x8DBCC96B = ~z~Listen...
+
+0x9A1E2ED6 = ~z~Oh, you're a silly boy, you're...
+
+0x9A330A65 = ~z~And who are you?
+
+0x9B1397B5 = ~z~Now who's next?
+
+0x9C72E6D7 = ~z~I don't know.
+
+0x9CB0157B = ~z~She's still heading out...
+
+0x9CF3982E = ~z~Ain't my fault you made the boy a bastard.
+
+0x9D5FBECB = ~z~Excuse me.
+
+0x9E7FB3B2 = ~z~It's nice out here, huh? It's quiet...
+
+0x9FE5C460 = ~z~
+
+0x9FF06170 = ~z~'Cause if you're gonna you hit me, it's on, you little maggot.
+
+0x14C3599E = ~z~Sure...
+
+0x16E4A865 = ~z~Here, take this...
+
+0x18D274DB = ~z~
+
+0x19F45E63 = ~z~~sl:2.5~I guess not.
+
+0x23EE5CDF = ~z~~sl:0.0:1.4:1~Can she give me a discount?
+
+0x28CCC27E = ~z~Come on, this ain't fair.
+
+0x38BC4D7D = ~z~Sorry about all of this.
+
+0x38FB168C = ~z~Well, you're sorry.
+
+0x54AD7A90 = ~z~
+
+0x54CF05BA = ~z~She left with some feller down the railway tracks.
+
+0x55BBD96E = ~z~take this...
+
+0x57E74C56 = ~z~Then unleash goodness...
+
+0x57F78124 = ~z~Mrs. Downes...
+
+0x60F6BC88 = ~z~Live someplace else, start over.
+
+0x62A161CA = ~z~not just hell's feeble brother, sir.
+
+0x65D8AA09 = ~z~You and that diseased whore are perfect for each other.
+
+0x69C1AA7A = ~z~I suppose you're right.
+
+0x70F26611 = ~z~And I'm suffering for my foolishness...
+
+0x71A0920B = ~z~Alright, good boy.
+
+0x74BC0E0D = ~z~I'm really sorry, but I...
+
+0x77DF515D = ~z~They're gonna kill me.
+
+0x82EBB5E1 = ~z~I guess...
+
+0x83D8024A = ~z~Momma.
+
+0x83DB3680 = ~z~I don't wanna see you here again!
+
+0x83DCE958 = ~z~Let him go!
+
+0x83EBB23C = ~z~~sl:3.2~All right... let's go.
+
+0x83F6D4B0 = ~z~~sl:3.6~All right... let's go.
+
+0x84CA86DD = ~z~You, and the whore's son here.
+
+0x86C26384 = ~z~I said clear off, before I deal with you.
+
+0x87D4BD9B = ~z~all of it.
+
+0x88D0F330 = ~z~Let the boy go.
+
+0x89DE28BD = ~z~~sl:0.8~Your mom's a whore, and that's a goddamn fact.
+
+0x90FE5EDA = ~z~Get outta here...
+
+0x91D1518C = ~z~I've got some money...
+
+0x94AE4AEC = ~z~~sl:0.2:1.0~You gonna hit me now?~sl:1.4~He's gonna hit me now.
+
+0x94ECEA57 = ~z~Let me go.
+
+0x95AF8CFD = ~z~Come with me.
+
+0x96C4B2BD = ~z~but...
+
+0x163F6FB1 = ~z~Momma, Momma.
+
+0x173BCDAA = ~z~Why don't you shut up?
+
+0x305E1D34 = ~z~the opportunity for penance for cutting his time short?
+
+0x315F10B5 = ~z~Try and talk to your momma...
+
+0x431F0A6B = ~z~a fool.
+
+0x560CD959 = ~z~which won't be long given how hard they work him.
+
+0x619FFFB7 = ~z~Stop saying sorry... sorry won't bring Thomas back.
+
+0x669D7B31 = ~z~and get outta here.
+
+0x718E2B46 = ~z~just take the money and get outta here, please.
+
+0x746C1617 = ~z~so he gets the worst of it.
+
+0x789DC73B = ~z~I'll see you again, deary.
+
+0x841B668E = ~z~Looking for a free fuck, are you?
+
+0x862D28E1 = ~z~I mean, all I know how to do is fight.
+
+0x875D3BF9 = ~z~Well, maybe I could go and...
+
+0x875E4F3A = ~z~Take your hands off me.
+
+0x884BF236 = ~z~Now I've got no job and they're gonna kill me.
+
+0x900E16CF = ~z~I'm sure.
+
+0x918AE0DB = ~z~Don't thank me.
+
+0x1211D21B = ~z~Now run.
+
+0x1311B55B = ~z~Archie should be waiting for us just up ahead.
+
+0x1609E0AA = ~z~
+
+0x1821F86F = ~z~Take it.
+
+0x3125B943 = ~z~Or hang yourself, for all I care.
+
+0x4987F160 = ~z~I'll kill you, you son of a bitch.
+
+0x6576A709 = ~z~She ain't been back for a few hours.
+
+0x6790F3B7 = ~z~Yeah, I heard you.
+
+0x7560A021 = ~z~Come back, you damn coward.
+
+0x8289E12F = ~z~I did not like the look of him.
+
+0x37719B27 = ~z~maybe you could just go fight some other battle.
+
+0x69858F82 = ~z~I'm sorry it had to come to this.
+
+0x73333C66 = ~z~I-I-I presume Archie sent you?
+
+0x147270FC = ~z~I don't.
+
+0x152146C3 = ~z~I guess...
+
+0x200396FF = ~z~You're right to dislike me. I ain't looking for that to change.
+
+0x297382FE = ~z~You think I'm a nice man, deary? A kind man?
+
+0x589426E6 = ~z~You'll never change!
+
+0x600974FC = ~z~I said, hell, even a blind hog finds an acorn every once in a while.
+
+0x644018F6 = ~z~Mr. Morgan.
+
+0x4638476E = ~z~You still here, kid?
+
+0x27276351 = ~z~I'm just joking. I wouldn't touch his momma with a ten foot pole, she's repellent.
+
+0x52445972 = ~z~
+
+0x71612340 = ~z~Get off me.
+
+0x83584476 = ~z~Just take the money and, pack your bags.
+
+0x92942270 = ~z~Clear off!
+
+0xA08AB7A4 = ~z~Well, deary... I been in jail, but it weren't my fault...
+
+0xA5AAFA1F = ~z~I'll try.
+
+0xA5CC985F = ~z~Ashamed? Of what? You loved him... you did everything for him... Let's get you home.
+
+0xA7D60D71 = ~z~Thank you, Mr. Morgan.
+
+0xA8ED27D9 = ~z~clear off.
+
+0xA10CC74D = ~z~You have a son, Mrs. Downes.
+
+0xA12D5EE1 = ~z~That's the thing...
+
+0xA33C73B7 = ~z~Where you think?
+
+0xA272E97A = ~z~well...
+
+0xA652E1A6 = ~z~~sl:1.6~Hey, boy, your mom's a whore, little boy...
+
+0xAA659CF4 = ~z~No.
+
+0xAA9991C1 = ~z~so just forget about me and the guilt you're carrying, because no good can come of that for either of us.
+
+0xAB467313 = ~z~But how?
+
+0xAE00093A = ~z~until he gets sick...
+
+0xAE92BB7C = ~z~That all you got?
+
+0xAF6E3AF7 = ~z~I don't know anything about morals.
+
+0xAFEADA6F = ~z~Oh, Archie. What will we do?
+
+0xB0776174 = ~z~So we're walking back there?
+
+0xB2D893A2 = ~z~Well, why are you doing this?
+
+0xB5B08A99 = ~z~Cause if you gonna hit me, it's on, you little maggot.
+
+0xB7C79286 = ~z~Hit me then.
+
+0xB8F5CE06 = ~z~I'm sorry, son.
+
+0xB190D9D4 = ~z~Nice? Sure...
+
+0xB350A37E = ~z~I said don't thank me.
+
+0xB485EE3F = ~z~don't go and get yourself killed because of your pride.
+
+0xB613A9EC = ~z~That's all I got to say.
+
+0xB4810588 = ~z~Man unleashed?
+
+0xBAF2F9F1 = ~z~I know.
+
+0xBCB6C196 = ~z~I ain't looking for forgiveness...
+
+0xBDA3FFDC = ~z~
+
+0xBFA479E2 = ~z~Get outta here.
+
+0xC0881614 = ~z~Be quiet, please.
+
+0xC0A5AF3C = ~z~you and your momma can go someplace nice.
+
+0xC0CA5FEB = ~z~You just made it a lot worse for that boy.
+
+0xC1CB7A49 = ~z~Feller could do... what he likes out here.
+
+0xC1CF599D = ~z~Push me, and I'll put a bullet in you.
+
+0xC3E40BD3 = ~z~Listen...
+
+0xC10CAF53 = ~z~Where's your son, Mrs. Downes?
+
+0xC34AD69E = ~z~She said it'd be better to die than to take it.
+
+0xC50E8454 = ~z~Or I'll kill you, too.
+
+0xC53E012E = ~z~How 'bout a drink, deary?
+
+0xC70FAE11 = ~z~If you're gonna go, you need to go now.
+
+0xC366A605 = ~z~He's gonna hit me now.
+
+0xC6983A9B = ~z~Go on. Finish that fool.
+
+0xC8323AE0 = ~z~You wanna die out here on account of your pride? That make you happy would it?
+
+0xC30167A0 = ~z~Shame on you...
+
+0xCA1A372B = ~z~Do something, huh?
+
+0xCB99E3F9 = ~z~
+
+0xCBB6F388 = ~z~working, you know.
+
+0xCC5DD680 = ~z~I seen it kill too many folk.
+
+0xCC41EE82 = ~z~Someone who don't wanna hear no more of your nasty mouth.
+
+0xCCF06209 = ~z~it ain't about that.
+
+0xCEE73A54 = ~z~This country is man unleashed.
+
+0xCEF7FC46 = ~z~I say what goes round here, not you.
+
+0xCF0B4302 = ~z~Go away, just go away.
+
+0xCFB45BF6 = ~z~No. I ain't looking for that.
+
+0xD0974066 = ~z~Ooh, you gonna hit me now?
+
+0xD09B5C32 = ~z~Mr. Morgan.
+
+0xD0B9D184 = ~z~Please just leave.
+
+0xD2CA3A98 = ~z~~sl:0.0:3.0~Oh, boy, come on, we're just teasing,~sl:~ain't nothing wrong with being a whore.
+
+0xD5ACFB62 = ~z~Maybe she's right, I don't know...
+
+0xD8D1D195 = ~z~Like I said, this feller looked like real trouble.
+
+0xD44BAD2B = ~z~Why don't you shut up?
+
+0xD57AAF00 = ~z~listen to me...
+
+0xD515A0DD = ~z~Oh, no thank you...
+
+0xD649CF8A = ~z~Come on.
+
+0xD33920A9 = ~z~Or what?
+
+0xD3911808 = ~z~Stop that.
+
+0xD5946805 = ~z~please.
+
+0xDAD4736D = ~z~don't let yourself get killed for... for pride.
+
+0xDB04EB68 = ~z~Too late to run now.
+
+0xDB8A4C18 = ~z~~sl:0.0:2.9:1~Hey, anybody wanna get lucky tonight, go home here with Archie...
+
+0xDC89664C = ~z~Down the mine...
+
+0xDCE5D8FF = ~z~and this man, he killed him.
+
+0xE0EBFE65 = ~z~All you can do now is decide the man you want to be, for the time you have left.
+
+0xE6C49D95 = ~z~I don't know, I said I had the money...
+
+0xE24F3584 = ~z~Leave me alone.
+
+0xE97A4D2B = ~z~Leave the boy alone...
+
+0xE243E10D = ~z~and it ain't my fault any more than is anyone else's...
+
+0xE8110F49 = ~z~I've said all there is to say.
+
+0xE854053F = ~z~Sure, because I wanna be pissing needles tomorrow...
+
+0xEAC34FB9 = ~z~Stop bullying the boy.
+
+0xEADE46B5 = ~z~Are we going or not?
+
+0xEADF505B = ~z~Momma.
+
+0xEB1FF573 = ~z~My daddy died...
+
+0xEB5BCD69 = ~z~Aw, I ain't a baddie, I ain't...
+
+0xEBAB7748 = ~z~Please hurry, they've been gone a while now.
+
+0xEF28625B = ~z~You sound like my husband.
+
+0xF02584E2 = ~z~well, I-I...
+
+0xF2F4AE01 = ~z~I don't want your money.
+
+0xF7BFE9B6 = ~z~Get out of my business, mister.
+
+0xF7E8EA04 = ~z~You after his momma?
+
+0xF8FDC207 = ~z~she said your money weren't moral.
+
+0xF561A750 = ~z~Okay then,
+
+0xF1159FEF = ~z~Don't say anything.
+
+0xF688430A = ~z~you're starting to scare me, let alone the poor woman...
+
+0xFA8A6BC6 = ~z~Of course not...
+
+0xFBCFA346 = ~z~Momma? Oh you found her, thank God.
+
+0xFC1E5442 = ~z~Which way you say?
+
+0xFF1F3C02 = ~z~I...
+
+0xFF256F30 = ~z~Hey, get off.
+

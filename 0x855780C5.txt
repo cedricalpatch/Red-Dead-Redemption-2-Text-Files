@@ -1,0 +1,34 @@
+0x006C3636 = ~z~I'm loyal, don't you know it?
+
+0x1AFB6B54 = ~z~I don't know...
+
+0x2DBD90F4 = ~z~What you mean?
+
+0x5E734C78 = ~z~You think so?
+
+0x8C811C98 = ~z~Probably... because all I'm hearing is shit.
+
+0x9A66B863 = ~z~Real funny...
+
+0x31A898AE = ~z~I got no idea... you?
+
+0x48B520FC = ~z~I think maybe Marston.
+
+0x96C0E2FD = ~z~Who do you think the rat is?
+
+0x440FBD98 = ~z~Well, somebody's talking, I can feel it!
+
+0x516CA6C7 = ~z~
+
+0x3656FC9C = ~z~That don't make much sense either.
+
+0x3751A400 = ~z~Who you think it is?
+
+0x8931C7C3 = ~z~No! It's not me!
+
+0x9707636E = ~z~
+
+0x24115811 = ~z~Well it's the only thing that makes sense.
+
+0xB7C3731C = ~z~You still got your head up your ass, Morgan?
+

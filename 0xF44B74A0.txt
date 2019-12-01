@@ -1,0 +1,40 @@
+0x2B54F7F1 = ~z~Right little madam she is, isn't she?
+
+0x2F52B724 = ~z~
+
+0x4B2E152A = ~z~I knew it. You're a snotty nosed little West Briton.
+
+0x5CEC38A6 = ~z~when I could have paid them to sweep my chimneys at home.
+
+0x6A2EB2AA = ~z~We've both come a long way from home, eh?
+
+0x6AEF2E3C = ~z~Hey! Don't you spread lies about me!
+
+0x7BF9563F = ~z~It's America, everyone's come a long way... or their parents did.
+
+0x9F761D3C = ~z~Ah, but you don't like me. I can see it in your eyes.
+
+0x38E69314 = ~z~You can leave me outta this.
+
+0x86C36BD3 = ~z~You didn't like me very much, do ya?
+
+0x283DCF4A = ~z~I am no such thing.
+
+0x597A1141 = ~z~So, Miss Molly O'Shea...
+
+0x7872CF2E = ~z~I don't have much opinion on you.
+
+0x7915CA89 = ~z~Ah, you're all the same.
+
+0x16802BCF = ~z~'Course you are. I see it now...
+
+0xA9003050 = ~z~I don't know what you're talking about, Mr. Macguire.
+
+0xBB4BD4E7 = ~z~But you look down your pretty little stuck up nose at me.
+
+0xC65CEB09 = ~z~I guess I didn't come to America to meet boys who crawled out of the local bog,
+
+0xE63DCBAF = ~z~You probably have a family with big farmhouses and titles...
+
+0xF05481F1 = ~z~
+

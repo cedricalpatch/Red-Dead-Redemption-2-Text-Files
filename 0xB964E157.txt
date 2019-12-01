@@ -1,0 +1,34 @@
+0x0136D83A = ~z~How'd you win?
+
+0x05A2DC94 = ~z~Good to be alive, my friends. Alive and free.
+
+0x3B124BF4 = ~z~Got something for me?
+
+0x14ED7B29 = ~z~Of course, course.
+
+0x1004F5D6 = ~z~I cheated at cards, my dear, like a proper gentleman.
+
+0x691727F1 = ~z~It's party time! I just won a bunch of money.
+
+0x713333AF = ~z~No, of course not, why would we?
+
+0xA7F6A139 = ~z~A song? Gime me a minute, let me have a drink first.
+
+0xA1231814 = ~z~I always want a drink.
+
+0xB375BCB9 = ~z~Oh, I know.
+
+0xBE30CDAD = ~z~Karen, sing us a song.
+
+0xD36AFCA3 = ~z~Pearson, Karen, get over here... anyone who wants a drink.
+
+0xDDAA1121 = ~z~Come on, come on, I'm in a good mood.
+
+0xE2771639 = ~z~I'm joking, you oversensitive Fenian bastard. There you go.
+
+0xEC812ECF = ~z~Join us, Javier, anyone of you.
+
+0xF0BCB2C4 = ~z~Excuse me?
+
+0xF117B37E = ~z~Karen, please.
+

@@ -1,0 +1,38 @@
+0x0FBAB165 = ~z~Huh? Circus? No...
+
+0x2D7E291A = ~z~
+
+0x3B4744AC = ~z~Well, little prince, tomorrow we begin reading again.
+
+0x3BF59F68 = ~z~And the people?
+
+0x45ADB2D8 = ~z~No, no, no... more like a palace in a story.
+
+0x94B1BAF1 = ~z~Was it nice?
+
+0x577B5673 = ~z~Like a cage?
+
+0x12584C1E = ~z~Oh, how nice for ya... our little prince.
+
+0x207952E2 = ~z~I thought you'd run off to join the circus.
+
+0xA5EA5D62 = ~z~Yeah... really nice.
+
+0xA9DDFB2F = ~z~They were nice too... everything was very... well, different. I slept in a bed in a room.
+
+0xB2351522 = ~z~What could be finer than a home in a swamp surrounded by alligators?
+
+0xCC8449C0 = ~z~Very true.
+
+0xD19FB4CC = ~z~You worried your mother half to death.
+
+0xDEE3CF54 = ~z~I was fine. Really, I was. I ate spaghetti.
+
+0xE935E3F8 = ~z~What?
+
+0xEF198EEA = ~z~Boy's got used to fine living, Arthur.
+
+0xF620FE2E = ~z~
+
+0xFA77867F = ~z~Oh, it's Italian food. It's... I don't know how to explain.
+

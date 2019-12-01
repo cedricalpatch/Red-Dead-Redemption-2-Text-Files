@@ -1,0 +1,40 @@
+0x035500D4 = ~z~Sure, I know you. But then you go act all crazy.
+
+0x7EADF784 = ~z~No you haven't.
+
+0x59CF8C4A = ~z~I've been acting kinda crazy.
+
+0x256AB08C = ~z~Yeah, that's bad, Arthur... that's real bad.
+
+0x707FDB28 = ~z~But I've always been crazy.
+
+0x941A71F4 = ~z~What?
+
+0x1531A489 = ~z~You know me.
+
+0x20638A84 = ~z~I don't know... I...
+
+0x32485F1D = ~z~I've keep going on these killing sprees. Like... I can't stop myself.
+
+0xA5063C32 = ~z~There's always that.
+
+0xA8694553 = ~z~Hurting people just for the sake of it...
+
+0xB7C7E1B5 = ~z~And maybe you're just being a fool.
+
+0xBD3FECAD = ~z~Maybe Micah put a spell on me.
+
+0xBFD0A75D = ~z~You okay, Arthur? You wanna talk?
+
+0xC82AE8FF = ~z~How so?
+
+0xC3167AAD = ~z~I've been getting real violent... for no good reason.
+
+0xD1E6F75D = ~z~I've been killing... a lot, I mean, innocent folk. I don't know why.
+
+0xDDBA0B39 = ~z~I know. I just... well...
+
+0xE67895BB = ~z~Yes.
+
+0xF59633F6 = ~z~What's been going on with you?
+

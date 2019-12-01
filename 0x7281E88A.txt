@@ -1,0 +1,42 @@
+0x5D1A723A = ~z~~sl:0.9:1.5~Thank you kindly.~sl:~This one'll keep me company, for a little while.
+
+0x9FF6C8F7 = ~z~~sl:0.4:2.5~Well, well, what happened here?~sl:~Put the body out back, and I'll ready your blood money.
+
+0x36B02566 = ~z~~sl:0.0:3.0~If that ain't a face I know from the posters...~sl:~Put 'em in the cell.
+
+0x48EF49E4 = ~z~~sl:0.3:2.8~Get 'em alive just so we can string 'em high.~sl:~Law's a funny old thing, ain't it?
+
+0x68E2DACC = ~z~~sl:0.3:3.2~How did I know you'd be taking the ''death'' option?~sl:0.0:2.9:1~Dump that body 'round back, and I'll see what it's worth.
+
+0x274FFADC = ~z~~sl:0.3:1.5~It said dead or alive, and...~sl:~I don't mind keeping things simple.
+
+0x970F3982 = ~z~~sl:0.3~There's your piece of silver.
+
+0x5719B73A = ~z~~sl:1.1:1.5~It said dead or alive, and...~sl:~I don't mind keeping things simple.
+
+0x906358CB = ~z~~sl:0.8:2.0~You delivered us our outlaw...~sl:~put 'em in the cell and let 'em sweat.
+
+0xA5A8F784 = ~z~~sl:0.3~That's the going rate for an ugly as hell corpse.
+
+0xA39FFF44 = ~z~~sl:0.1:2.6~Look who it is, and kicking to boot.~sl:~Put 'em in the cell, won't you?
+
+0xAB5F9B0A = ~z~Okay, go on and settle them in their home over there. Payment's forthcoming.
+
+0xCCC2DDD0 = ~z~Alright, that thing goes in the cell over there. I'll get your money.
+
+0xDA89795D = ~z~You can bundle them up nice and tight in that there cell. I'll see about a payment.
+
+0xE9FA5F57 = ~z~~sl:0.3~It's all there for ya. Hope it was worth it.
+
+0xEDE26763 = ~z~Whatever it said on the poster, it's all right there for you.
+
+0xEF43168D = ~z~If I was you, I'd've put a bullet in 'em for sure.
+
+0xF3C372E9 = ~z~~sl:0.2~To each their due. Money's on the table.
+
+0xF9111E5F = ~z~~sl:0.1~Your gun or my noose. Ends the same, don't it?
+
+0xFC6E81E5 = ~z~~sl:0.8~Your gun or my noose, ends the same, don't it?
+
+0xFFB4B770 = ~z~~sl:0.2~Good business, damn good business.
+

@@ -1,0 +1,32 @@
+0x05AF9056 = ~z~You know, you're not so high and mighty and above everyone than you think you are!
+
+0x08529598 = ~z~I heard what you said about me.
+
+0x1CB543B1 = ~z~Give me strength.
+
+0x1EE6C2C0 = ~z~I said, I heard what you said about me.
+
+0x8FDBAA1D = ~z~You ain't so smart. You little trollop.
+
+0x37ED74D1 = ~z~Okay, good for you.
+
+0x83C691F3 = ~z~Damn you! Damn all of you.
+
+0x726DEF42 = ~z~Trollops!
+
+0x7332EB5B = ~z~I don't think it's very fair.
+
+0x65714FD8 = ~z~Did you? Okay.
+
+0xA73158C8 = ~z~Of course. Of course he does.
+
+0xAC58DDA6 = ~z~Whatever you say.
+
+0xB97FFD65 = ~z~What exactly are we talking about?
+
+0xBA1C792D = ~z~He bloody well loves me, d'you know? He bloody well does.
+
+0xBEB74EB2 = ~z~They're just so unkind.
+
+0xD0B9A667 = ~z~What?
+

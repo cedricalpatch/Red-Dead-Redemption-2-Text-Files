@@ -1,0 +1,542 @@
+0x00571B50 = ~z~I've written a lot of books.
+
+0x00579695 = ~z~and I could sell even more fish, if I had them.
+
+0x009AFA40 = ~z~Stop crowding me.
+
+0x02552FEF = ~z~Or a photograph?
+
+0x03671ADC = ~z~No one wants to imagine Jeremy Gill catching a tiddler...
+
+0x043D652C = ~z~Well, you know, some of 'em.
+
+0x05AAED43 = ~z~Sure, but what are you talking about?
+
+0x06F198ED = ~z~Do you think Hannibal was haggling as he went over the Alps?
+
+0x0746C1B2 = ~z~Oh, oh, oh. I think we got something...
+
+0x0763EA61 = ~z~Wh-What do ya need?
+
+0x096B4076 = ~z~Find a good position before you miss all the action.
+
+0x098E2A66 = ~z~nice to meet you.
+
+0x09B3E6C4 = ~z~I told him “add a zero and maybe then we can talk, chum!”.
+
+0x09F27711 = ~z~Come on, let's get started.
+
+0x0D43773C = ~z~I know how to catch fish.
+
+0x1BD4D24B = ~z~Who?
+
+0x1C21CF8D = ~z~Ah, well...
+
+0x1C7033D6 = ~z~What the hell? Get out of there.
+
+0x1DBF9704 = ~z~I've got quite enough adventures.
+
+0x1E9B97A8 = ~z~Oh, okay then.
+
+0x2AC888B9 = ~z~Is it that catfish?
+
+0x2C085CA7 = ~z~You get ready!
+
+0x2CE6CB05 = ~z~A fan, good timing. Do you have a camera?
+
+0x2CE9A201 = ~z~Yes, but never has a conclusion been more foregone.
+
+0x2D01D7EF = ~z~Listen...
+
+0x2D528AAD = ~z~Okay...
+
+0x2F3D4A9A = ~z~Help! This man's trying to kill me!
+
+0x3A888D82 = ~z~but I say no...
+
+0x3AC47374 = ~z~and that boy will be fine.
+
+0x3BDF2AE6 = ~z~Sorry.
+
+0x3E785A99 = ~z~Ain't that out in the desert?
+
+0x3FECDB72 = ~z~I'll give ya something ya really love.
+
+0x3FFB2FFE = ~z~and what's the plan?
+
+0x4A382755 = ~z~They have to be at least twenty four inches in length...
+
+0x4AF12D2F = ~z~You too.
+
+0x4B80C249 = ~z~but there's really no need to...
+
+0x4BBBED6C = ~z~How did you know?
+
+0x4BD903D1 = ~z~Get away from me!
+
+0x4BDC0A08 = ~z~Yeah, sorry... where is that damn fish?
+
+0x4C70ACEE = ~z~I'm sorry?
+
+0x4E83789F = ~z~Okay then.
+
+0x4EB2FF52 = ~z~I don't think so.
+
+0x4F0B5863 = ~z~You can cut that out! You're not getting in here.
+
+0x4FBB8B68 = ~z~Not right now.
+
+0x5A173F33 = ~z~So~rp~ what exactly am I getting out of this again?
+
+0x5BBCCA66 = ~z~I'd sell this for fifty dollars...
+
+0x5C7A6C1C = ~z~Oh, we got something!
+
+0x5C975077 = ~z~You really don't know who I am?
+
+0x5CEE6524 = ~z~People often get nervous...
+
+0x5CF6B491 = ~z~Come along then.
+
+0x5DB69139 = ~z~And you.
+
+0x5E4CC12F = ~z~I'm ready.
+
+0x5E32AEB5 = ~z~Hey, chum! Wake up, the fish can tell if you're sleeping.
+
+0x5E483A7B = ~z~I want you to get a picture of me...
+
+0x5FAF242C = ~z~Who are you?
+
+0x6B76ACB9 = ~z~I wouldn't know about that, good luck.
+
+0x6BBEB435 = ~z~and I'm going to catch it...
+
+0x6BD2ECCA = ~z~sort of ridiculous.
+
+0x6CD754A3 = ~z~What are you going in the water for? My God, it's like dealing with a child.
+
+0x6E8C98A4 = ~z~Then I'm gonna head over to Europe... bring the royal families together, while I teach them how to fish.
+
+0x6E841084 = ~z~Hey, you're in the way.
+
+0x6EBFF4C8 = ~z~Good for you.
+
+0x6F90D171 = ~z~
+
+0x7A40894D = ~z~Yeah, here...
+
+0x7C7DE4EC = ~z~Arthur.
+
+0x7CD610FC = ~z~Not right now.
+
+0x8AA52A16 = ~z~let me show you.
+
+0x8E6DB2C7 = ~z~there's some man fighting with Neptune on a daily basis...
+
+0x9BB37F93 = ~z~You haven't caught it yet.
+
+0x9D6202F4 = ~z~A catfish in the desert,~rp~ is that normal?
+
+0x9E345078 = ~z~Chum?
+
+0x9EA29AF0 = ~z~Did you say you had a camera?
+
+0x24C635AC = ~z~Help me! I'm Jeremy Gill!
+
+0x25DE3882 = ~z~So I hear.
+
+0x27A30AD2 = ~z~Sure.
+
+0x27AD2C0B = ~z~will discover who really catches these fish.
+
+0x34CF7EC4 = ~z~Yes, how many do you want?
+
+0x37C58574 = ~z~and there's really good money in this.
+
+0x38AF7C68 = ~z~Good God. The avarice.
+
+0x40FAEE15 = ~z~Oh God! Another crazed fan!
+
+0x41EA9C4A = ~z~What I mostly do is send fans stuffed fish.
+
+0x50E40E91 = ~z~it's sort of ridiculous.
+
+0x50E651D4 = ~z~Set up over there.
+
+0x53D28555 = ~z~over in Rio Bravo.
+
+0x54C940DF = ~z~Sure you don't want a photo?
+
+0x63AE74FB = ~z~You won't get much of a shot from there, chum.
+
+0x63D0C590 = ~z~Catfish are easy...
+
+0x63E06261 = ~z~very famous.
+
+0x68B0CC52 = ~z~Hey, you'll scare her off.
+
+0x69FBE9E0 = ~z~But I can't catch enough of 'em...
+
+0x79D8EE55 = ~z~I hope you move faster than this with that camera.
+
+0x81CE75EC = ~z~Yeah and she kept quiet after that... until dinner...
+
+0x82B109FB = ~z~Damn!
+
+0x83CB9BA7 = ~z~there's no money in tiddlers.
+
+0x88E441CF = ~z~Okay, chum?
+
+0x90DA7780 = ~z~Sure.
+
+0x92DC50FF = ~z~Do you want an autograph?
+
+0x92E59ED7 = ~z~Hey back it up, chum.
+
+0x94EF34E6 = ~z~I was talking about money.
+
+0x98EDBCED = ~z~Alright, let's cut left here down to the river.
+
+0x137A88E2 = ~z~You know, they're the liars.
+
+0x148A6362 = ~z~Hey! Are you insane?
+
+0x182E6381 = ~z~You know, the villagers were so grateful, the chief gave me his daughter....
+
+0x212FA44C = ~z~Damn liars.
+
+0x272AA8C6 = ~z~I've got quite enough adventures.
+
+0x273F2473 = ~z~That so?
+
+0x336F52CC = ~z~Stuffed fish?
+
+0x387A83DA = ~z~Only the decent ones.
+
+0x466EE862 = ~z~Ah, it'll be an adventure, come on.
+
+0x484F290F = ~z~I'm married to the fish.
+
+0x503DFE24 = ~z~Yes...
+
+0x504C9E84 = ~z~actually landing the thing.
+
+0x598E4841 = ~z~Listen, chum...
+
+0x615AA4C9 = ~z~Hey, are you the guy that took the photos?
+
+0x673FCA7B = ~z~
+
+0x676F6753 = ~z~And that pays well?
+
+0x700B0B5D = ~z~Chum?
+
+0x703B650C = ~z~Oh, come on, boy! Come on, boy.
+
+0x756C40D0 = ~z~There's a bunch of you fellers, feller gets sent a lot of fish...
+
+0x764A1C9B = ~z~No, you do your best.
+
+0x774F4C4E = ~z~I found a giant catfish...
+
+0x782C8349 = ~z~o-of course, not if they're too rotten.
+
+0x794D6E96 = ~z~Hey.
+
+0x802F164A = ~z~It helps them to know that out there...
+
+0x811DE44F = ~z~Oh, must've been that feller from Quebec.
+
+0x890A2504 = ~z~Do you like that bass?
+
+0x899DDB68 = ~z~I already have a draft of this written for my newspaper column.
+
+0x950EC295 = ~z~So you're... you're famous for fishing?
+
+0x961E07D7 = ~z~Ain't that out in the desert?
+
+0x1511BE31 = ~z~and ten pounds in weight.
+
+0x1751AA47 = ~z~Maybe buy yourself something less ridiculous to wear.
+
+0x2288DA37 = ~z~If you get three, we can do a photograph together...
+
+0x3211FEC5 = ~z~The famous fisherman?
+
+0x3295FB11 = ~z~people love it...
+
+0x4111AFC2 = ~z~There's no good, man. Haven't you ever taken a photograph before?
+
+0x4529F641 = ~z~And you're selling these?
+
+0x5972EE71 = ~z~And now we wait... that's the thing about fish... they can sense when you're desperate.
+
+0x6014BE18 = ~z~Okay.
+
+0x6155FCF8 = ~z~Stop that right now!
+
+0x6291F52B = ~z~Yes, boss.
+
+0x6693E474 = ~z~John.
+
+0x7924CCC1 = ~z~I don't wanna head out to Rio Bravo.
+
+0x8047B40B = ~z~What are you doing? Move.
+
+0x8068B3F8 = ~z~Good, hurry up.
+
+0x9060D0D8 = ~z~I'll try.
+
+0x9448AD2A = ~z~Don't you rush me, chum...
+
+0x39720D85 = ~z~Who are you?
+
+0x47906BD1 = ~z~and you are going to photograph me catching it...
+
+0x84249C5D = ~z~Who?
+
+0x89073D61 = ~z~I-I'm just a, j-j-just a normal guy.
+
+0x94067A0A = ~z~Hey.
+
+0x96788AA0 = ~z~Good, you'll do then.
+
+0x98141CF4 = ~z~Send you fish?
+
+0x99851EFE = ~z~And that pays well?
+
+0x116535B0 = ~z~I'd give you fifteen.
+
+0x162188F4 = ~z~and then these bastards who call me a fake...
+
+0x393989C0 = ~z~Yeah.
+
+0x467922DB = ~z~I fish a little.
+
+0x502138B7 = ~z~Stuffed fish?
+
+0x528409D6 = ~z~Yes, can I help you?
+
+0x646310F3 = ~z~Oh yes.~rp~ I still need a good name for it...~rp~ the fans love a name.
+
+0x774499DC = ~z~Who, well, happens to be...
+
+0x786038ED = ~z~Old Chalky,~rp~ El Diablo Amarillo... oh I'll come up with something, I always do.
+
+0x821061D0 = ~z~up near Frontera Bridge...
+
+0x1812861A = ~z~Let me guess, to Jeremy Gill.
+
+0x7197611D = ~z~What's the plan?
+
+0x8139583E = ~z~He says he's really famous.
+
+0x8739197A = ~z~To watch an artist paint his masterpiece.
+
+0x9317987E = ~z~I don't care if you're The Queen of Sheba, not just of England... fishing is an art form...
+
+0x37261994 = ~z~Hello, chum.
+
+0x72171755 = ~z~It's something big!
+
+0x95142816 = ~z~just a couple of rashers of bacon...
+
+0xA06A7C5F = ~z~I'm gonna head to DC, discuss it with the president.
+
+0xA2A99750 = ~z~
+
+0xA3AD09A0 = ~z~You know, I write poems. Would you like to hear...
+
+0xA3C7A32A = ~z~I catch 'em.
+
+0xA8C8BD85 = ~z~Just for a photograph?
+
+0xA22F3D6A = ~z~Will you give me some room here?
+
+0xA55A3D03 = ~z~So then I said, listen sister...
+
+0xA59628DB = ~z~What do you need?
+
+0xA879558B = ~z~Oh God, he's gone again.
+
+0xA2207457 = ~z~Yes, boss.
+
+0xA4586128 = ~z~Very.
+
+0xAAE11150 = ~z~But it has opened a lot of doors that were previously closed.
+
+0xAB6386E1 = ~z~I'll try.
+
+0xACF5A21B = ~z~No, not at all.~rp~ That's why it's so fascinating.~rp~ It's adapted to a new environment.
+
+0xAD92C7F1 = ~z~Okay.
+
+0xAD601CFE = ~z~Where's this goddamn catfish?
+
+0xAE0640D9 = ~z~Can I get five minutes without a fan badgering me?
+
+0xAE38D714 = ~z~Mount up, we have quite a ride ahead of us.
+
+0xB0F9F603 = ~z~So I hear.
+
+0xB2BB801E = ~z~from a few years back, and this is a book I wrote.
+
+0xB4D6FF99 = ~z~You do?
+
+0xB4E3C772 = ~z~I...
+
+0xB5A6FE3D = ~z~Well, in that case, send them to me...
+
+0xB6EC00C3 = ~z~Maybe I shall.
+
+0xB7E34C7D = ~z~I don't wanna go out to Rio Bravo.
+
+0xB25A78C8 = ~z~Good for you.
+
+0xB54CACDF = ~z~No, thank you.
+
+0xB91C18A7 = ~z~My God...
+
+0xB354D29D = ~z~You too.
+
+0xB4999C55 = ~z~I was out there for five days wrestling that monster... but I got 'em in the end!
+
+0xBB3A6340 = ~z~Well, maybe I shall.
+
+0xBF6893FC = ~z~No, I'm fine, it's...
+
+0xBFAF478E = ~z~Turned a horrible pallid yellow color and weighs close to two hundred pounds, by all accounts.
+
+0xC0503C2E = ~z~I'm actually planning on turning fishing into a way of, well, uniting nations.
+
+0xC8EDAC82 = ~z~I wrote it.
+
+0xC15E0DC3 = ~z~How often do you get to be part of a legend?~rp~ To experience a masterclass in extreme angling up close and personal?
+
+0xC28FE84D = ~z~Come here and let me talk you through this.
+
+0xC39E42C6 = ~z~Hurry up... let's catch this fish and go home.
+
+0xC43BF858 = ~z~Here he comes, here he comes... here comes immo-oh...
+
+0xC83BD2BD = ~z~Yeah... so we gotta stay calm, just... relax...
+
+0xC743FA7B = ~z~you're famous for fishing?
+
+0xC23746AC = ~z~I got invited to China. I'm gonna fish with the emperor there.
+
+0xCB34BCD8 = ~z~My God...
+
+0xCBAA9BED = ~z~And I'm gonna tire him out... get the camera ready!
+
+0xCC194BAD = ~z~Move before I hook you too.
+
+0xCCBBF726 = ~z~Yeah...
+
+0xCD95B5CE = ~z~Jeremy Gill.
+
+0xCD4032F7 = ~z~Just for a photograph?
+
+0xCE5D27C1 = ~z~You'll be handsomely rewarded, don't you worry about that.
+
+0xCF230A39 = ~z~No, I'm fine, it's...
+
+0xD9C63824 = ~z~Oh, oh, no! I still got him on the line...
+
+0xD9EF6F68 = ~z~Oh, I'm ready.
+
+0xD9F07626 = ~z~Hurray.
+
+0xD20AEC45 = ~z~What?
+
+0xD64F40B1 = ~z~Who are you?
+
+0xD83B93A4 = ~z~Stop dawdling and get over here.
+
+0xD90FAC47 = ~z~
+
+0xD95BC782 = ~z~Come with me.
+
+0xD221DEC8 = ~z~My God! What the hell are you doing?
+
+0xD240CB6C = ~z~Maybe buy yourself a less ridiculous hat.
+
+0xD7049DED = ~z~Oh, come on, he's huge! Come on! Here... get this, get this!
+
+0xD1243773 = ~z~like actual friends.
+
+0xDBAC4D43 = ~z~and winning.
+
+0xDBDA8B12 = ~z~A Japanese man once offered me five hundred dollars just for an hour of my company.
+
+0xDC3F9419 = ~z~Sure, but what are you talking about?
+
+0xDC19B620 = ~z~Ah, this is the place.
+
+0xDC931B14 = ~z~Did you bring your camera?
+
+0xDD23F5D5 = ~z~Like I said, fame hasn't changed me.
+
+0xDDB9EEEE = ~z~Out of the way.
+
+0xDEC02A4B = ~z~I fish a little.
+
+0xDF1C42D0 = ~z~This is me and the gods wrestling for immortality... oh my God! It's a monster!
+
+0xE2FE5E73 = ~z~No, to marry...
+
+0xE6A38795 = ~z~What are you doing?
+
+0xE7A4E35C = ~z~Okay.
+
+0xE9F1E9CE = ~z~Okay.
+
+0xE60C28CE = ~z~Come on.
+
+0xE405DAF6 = ~z~Send you fish?
+
+0xE2605F67 = ~z~I'm in the newspaper all the time...
+
+0xE739633D = ~z~You're selling these?
+
+0xEA46367A = ~z~There you are.
+
+0xEB0D31B4 = ~z~I don't think so.
+
+0xEFA379FF = ~z~Nearly there. This is it, chum.
+
+0xEFFE8B42 = ~z~I'm sorry?
+
+0xF007B605 = ~z~Hello... I need to send these...
+
+0xF079FB9A = ~z~here's one from the New Hanover Gazette...
+
+0xF2D2632F = ~z~
+
+0xF3FDFF4A = ~z~You know, mothers, they often offer me their daughters.
+
+0xF4A87C3B = ~z~My card, and a map.
+
+0xF5B003D6 = ~z~Pretty well.
+
+0xF7FED1EB = ~z~Liars!
+
+0xF9B14EFC = ~z~Yeah, but...
+
+0xF160E759 = ~z~He's gonna come back again, I'm gonna pull him in just a little bit...
+
+0xF197EE36 = ~z~What are you getting out of it?~rp~ Only the best day of your mundane little existence.
+
+0xF286C1BF = ~z~You do, right?
+
+0xF484AB46 = ~z~Okay.
+
+0xF5791E17 = ~z~Hey, chum!
+
+0xF7864269 = ~z~A whole hour, huh?
+
+0xFA126017 = ~z~So...
+
+0xFB7ED3B3 = ~z~Listen...
+

@@ -1,0 +1,58 @@
+0x0181003B = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ is getting away. Targets that get too far from you will escape and their bounty may no longer be collected.
+
+0x1A1043FC = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0x2FB39A59 = Go ~1~
+
+0x4C9C167B = A target ~1b~ is heading to their well defended hideout. Deliver the targets alive for the full reward. Dead targets are worth less.
+
+0x4C1158DE = A target was killed
+
+0x4D469D71 = Deliver the target ~1b~ alive for the full reward. Dead targets are worth less.
+
+0x5E5F31D1 = You killed a target
+
+0x5FA5EC08 = Go to the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0x9FD55FC4 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0x21E0CA65 = The target ~1b~ is heading to their well defended hideout. Deliver the target alive for the full reward. Dead targets are worth less.
+
+0x25CC590A = Go to the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0x39BF2EE6 = Get on the horse
+
+0x56C8AB5E = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~targets~s~
+
+0x97D31166 = Protect the target
+
+0x896FFB2F = Bounty complete
+
+0x919DDFB8 = Capture the target dead or alive
+
+0x9826D8DE = The target escaped
+
+0x78111A46 = ~1~ alerted the target
+
+0xA639A187 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xAA548DDB = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0xBCD8AECA = Target has reached hideout
+
+0xC2AEBDB9 = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+0xCABBF65C = Deliver the targets ~1b~ alive for the full reward. Dead targets are worth less.
+
+0xD53E49C7 = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0xDECD569A = Go to the hideout
+
+0xEF000815 = The targets escaped
+
+0xF1FE2787 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0xF3CA6212 = Kill or capture the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~
+
+0xFA354F10 = Drop the target
+

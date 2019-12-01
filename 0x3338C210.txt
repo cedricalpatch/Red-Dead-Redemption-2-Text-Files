@@ -1,0 +1,64 @@
+0x0AC351AA = Return to ~o~Hercule~s~ and ~o~Dutch~s~
+
+0x0F3B7063 = Revolving Cannon
+
+0x1A88A716 = Eliminate ~e~Fussar's men~s~
+
+0x4EE8C159 = Regroup on the ~o~roof~s~
+
+0x6B0DF2E4 = Lean Forward
+
+0x8AD91596 = Follow ~o~Hercule~s~
+
+0x8B203430 = Push Cannon
+
+0x8C7E9FE0 = Cover right
+
+0x8CE906E3 = View Dutch
+
+0x9B17129F = View Warship
+
+0x55D98443 = Eliminate ~e~Fussar's soldiers~s~ landing on the beach
+
+0x107A5B88 = Return to ~o~Hercule~s~
+
+0x441E0CC8 = Warship
+
+0x600B6B60 = Return to the ~o~fort's roof~s~
+
+0x760DB9D2 = Instruct ~o~Hercule~s~ and ~o~Dutch~s~
+
+0x1056BB1F = The battle was abandoned.
+
+0x3804D2A9 = Regroup with Hercule and Dutch at the ~o~base of the fort~s~
+
+0x9229C1A5 = Finish the remaining ~e~soldiers~s~
+
+0x46493E54 = Eliminate ~e~Fussar's soldiers~s~
+
+0x77517A6D = Rowboat
+
+0x77539D3B = Fussar's Soldier
+
+0x888553EE = Follow ~o~Hercule~s~ and ~o~Dutch~s~
+
+0x84351587 = Return to the ~o~base of the fort~s~
+
+0xA6A771C8 = Approach Dutch and Hercule and hold ~INPUT_INTERACT_LOCKON~ to issue combat instructions to each.
+
+0xA7A41E27 = Return to the ~o~battle~s~
+
+0xA8A9F2AC = Fort Roof
+
+0xBAB41141 = Smuggler
+
+0xBE01520D = Hercule and Dutch were abandoned.
+
+0xD399BBF6 = Walk
+
+0xDBD8E718 = Help Hercule push the ~o~cannon~s~ into position
+
+0xDDC0C92D = Destroy ~e~Fussar's ship~s~
+
+0xDEC89138 = Cover left
+

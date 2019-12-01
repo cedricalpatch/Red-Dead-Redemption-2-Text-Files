@@ -1,0 +1,84 @@
+0x059864F6 = ~z~Alright, let's see what we got...
+
+0x07AB76D8 = ~z~Quite a record we'll have on you.
+
+0x0AB0D7AA = ~z~How you doing with that?
+
+0x0B8DC40F = ~z~It's got to be one of you.
+
+0x0C0DDB63 = ~z~Well then, you need your portrait took.
+
+0x1E1C7F80 = ~z~If it's all correct, I'll take a photograph.
+
+0x2D517AEA = ~z~Bring your hands up, onto your chest.
+
+0x2ED54F00 = ~z~Okay now, you sure?
+
+0x2FDA8CA8 = ~z~Who's it going to be?
+
+0x3B47B9D6 = ~z~Okay. Let's get a photograph.
+
+0x3C345FE9 = ~z~Take the time and get this right.
+
+0x3D23EB9D = ~z~Is that all correct? Make sure, now.
+
+0x3E6429BB = ~z~~sl:0.5~Don't try me, now.
+
+0x4DFEDE49 = ~z~Yup...
+
+0x6C3E4000 = ~z~It's a process, alright. But a necessary one.
+
+0x7CC9BBDE = ~z~Okay, then.
+
+0x8FA110F1 = ~z~Hold it...
+
+0x49F9FB74 = ~z~You aren't going anywhere and neither am I.
+
+0x78F99EF1 = ~z~Come on.
+
+0x81AC9E76 = ~z~Well, let's get you in there, then.
+
+0x154F1BF4 = ~z~You better have everything perfect.
+
+0x194F52E6 = ~z~Place your palms by your chest now, for me.
+
+0x431FA686 = ~z~I'll need to see your fingers, palms to you.
+
+0x957D127D = ~z~~sl:0.0:2.8~Tell me everything, except that you're innocent.~sl:~I'd find that hard to believe.
+
+0x5513D71A = ~z~One of you.
+
+0x88013B6F = ~z~~sl:0.5~Make sure this time.
+
+0x90563BC9 = ~z~Okay, you. Head through there.
+
+0x2071842A = ~z~Fine. Go and get your picture took.
+
+0x2575326B = ~z~From what I hear, you ain't leaving us any time soon.
+
+0x52164473 = ~z~Hold up your fingers.
+
+0xA1EEB58C = ~z~Stay there.
+
+0xAC42CA34 = ~z~Okay...
+
+0xAC383FF3 = ~z~We're going to need a fair record of you.
+
+0xAD03F113 = ~z~~sl:3.2:3.6~Tell the marshal this ain't how we do things here.~sl:0.3~But I'll oblige him, this once.
+
+0xB9248D4D = ~z~Alright, then. Deputy, would you please?
+
+0xBB940E33 = ~z~Okay, sheriff. Here they are.
+
+0xBE856EB9 = ~z~Here we go.
+
+0xD9B55EDA = ~z~Okay, let's try again.
+
+0xDEB124E4 = ~z~I'm gonna need your details.
+
+0xE653CE5B = ~z~We got the wrong one in here?
+
+0xF1E6E581 = ~z~We pull the wrong one of you?
+
+0xF2E34D48 = ~z~~sl:0.0:1.9~You're lucky you were caught, you know.~sl:0.0:2.4~The way the town feels about what happened,~sl:~you were likely to be shot.
+

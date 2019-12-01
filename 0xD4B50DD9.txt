@@ -1,0 +1,44 @@
+0x2A8E2248 = ~z~You've gotta love yourself a fire!
+
+0x4D1BD2E1 = ~z~No matter how nice you ask, we ain't kissing!
+
+0x5A4D9472 = ~z~Do something different.
+
+0x5F71778C = ~z~Catch on fire!
+
+0x6D0BB9EE = ~z~She's using mirrors, that ain't real fire!
+
+0x42E6BE77 = ~z~Set your backside on fire!
+
+0x71BDB0A6 = ~z~Don't burn yourself!
+
+0x72F14833 = ~z~Bet she's good with campfires!
+
+0x75B423C1 = ~z~Enough of this crazy fire lady!
+
+0x282C1D84 = ~z~I like hot things too!
+
+0x811DE212 = ~z~This fire lady is pullin our leg!
+
+0x4503D733 = ~z~Come on, fire lady!
+
+0x4886F0E5 = ~z~That's fake fire!
+
+0x5602F931 = ~z~She sure is hot!
+
+0x309819DA = ~z~That ain't real fire!
+
+0x936886A7 = ~z~Get this fire lady off the stage!
+
+0x6769872C = ~z~Burn to a crisp!
+
+0x97771146 = ~z~Don't burn yourself!
+
+0xA9F1B63B = ~z~She's good with that fire!
+
+0xBCB2DBBD = ~z~Go, fire lady!
+
+0xCE647F20 = ~z~She's like a dragon!
+
+0xFCE246ED = ~z~Yeah fire lady!
+

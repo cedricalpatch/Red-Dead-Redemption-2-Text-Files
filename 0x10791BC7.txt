@@ -1,0 +1,60 @@
+0x00978525 = ~z~I want to be in your pocket! Silver, gold, all the good things in existence.
+
+0x05190BA6 = ~z~You heartless bastard, of course I didn't...
+
+0x08131032 = ~z~So... I am watching the house for a few hours and it's as quiet as the grave, I've become convinced it's empty...
+
+0x1DA13B4E = ~z~I ask around, the people ain't been seen, so...
+
+0x2AF3575A = ~z~But you still robbed them, huh?
+
+0x3ED47DB4 = ~z~Exactly!
+
+0x4E051D7D = ~z~I robbed the priest... but not the family.
+
+0x5B2BBA4C = ~z~How?
+
+0x51FC2403 = ~z~No!
+
+0x64EE49E7 = ~z~Oh yes!
+
+0x77B36F75 = ~z~I froze... then uh... then I-I saw his name and I became Macarbi's best friend they never knew about.
+
+0x491E9632 = ~z~
+
+0x890A9223 = ~z~What did you do?
+
+0x1231A859 = ~z~Oh, It starts to call you, that... thing in your stomach... take me... rob me...
+
+0x3893F29B = ~z~That's okay then.
+
+0x64814CF7 = ~z~I became convinced, as you do, that the place was full of loot.
+
+0x885210AE = ~z~right into a wake for their dead Uncle Macarbi.
+
+0x7998733B = ~z~for some reason, I must be getting sloppy, I just... walk right in...
+
+0x76517097 = ~z~I had been watching this house in town... rich family lives there.
+
+0xA1F6C7C5 = ~z~How you been keeping, Hosea?
+
+0xAA65D4D9 = ~z~
+
+0xB343EA5F = ~z~Good... but... nearly got myself lynched, a couple of days ago.
+
+0xC20B058B = ~z~and let them lead me into being Macarbi's former gold-prospecting friend from back in seventy six...
+
+0xC63E56C0 = ~z~
+
+0xCA07157F = ~z~Somehow I winged it,
+
+0xCFE5A140 = ~z~
+
+0xD09C6B7C = ~z~You're a pair of old fools.
+
+0xE46BCCCE = ~z~'Course... I know the feeling.
+
+0xE58DCC90 = ~z~He was a lovely man, old Macarbi.
+
+0xF355681F = ~z~By the end of the evening, we were... laughing together, and crying... it was very sad...
+

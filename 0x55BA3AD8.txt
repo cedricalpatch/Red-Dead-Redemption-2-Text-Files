@@ -1,0 +1,42 @@
+0x01F80815 = The dynamite will be vulnerable if they break through the cargo.
+
+0x0AA5796A = Bill has died.
+
+0x0E0A033B = The patrol was alerted.
+
+0x2B528D58 = Mount your ~o~horse~s~
+
+0x3EEDC026 = Get back into ~o~position~s~
+
+0x4E30501B = Wait for Bill to attack.
+
+0x6BC96992 = You were spotted.
+
+0x8E839EDA = You missed your window.
+
+0x9F8D70E5 = You caught the attention of the law.
+
+0x28C66060 = The wagon was destroyed.
+
+0x80A034FE = Get in ~o~position~s~ for the ambush
+
+0x86C41548 = Bill was abandoned.
+
+0x644B8E97 = Get on the ~o~wagon~s~
+
+0x717996B1 = Follow ~o~Bill~s~ to the ambush location
+
+0xA1180051 = Swap Driver
+
+0xB51D5A8C = The convoy was alerted.
+
+0xCBAECB0E = Head to the ~o~meeting point~s~
+
+0xD6CE6FAF = You failed to stop the convoy.
+
+0xDB0869C1 = Take out the ~e~lawmen~s~
+
+0xE7072FAB = Meeting Point
+
+0xF66B208A = Take out the ~e~wagon guards~s~
+

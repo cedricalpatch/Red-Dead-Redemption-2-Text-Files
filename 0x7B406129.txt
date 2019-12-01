@@ -1,0 +1,28 @@
+0x0F9A129A = ~z~We both know that ain't true. We both know that bravery is in the living.
+
+0x6CF94D57 = ~z~It just takes time, Miss Adler.
+
+0x7F260B22 = ~z~I hope so... I really do.
+
+0x8BE3249C = ~z~I know so... excuse me.
+
+0x9B3429D0 = ~z~I wish... I wish they would have killed me too.
+
+0x462D7FC0 = ~z~I-I don't know you very well, but I can tell you're brave, Mrs. Adler, I really can.
+
+0x19513F7A = ~z~Nonsense. You're about the bravest woman I ever met...
+
+0xA6AAC0B9 = ~z~You know if... I had any courage, if I wasn't so damn weak... I'd kill myself too.
+
+0xC430FBC5 = ~z~I know.
+
+0xCB178992 = ~z~I wish it every goddamned day.
+
+0xD1993007 = ~z~I'm always around if you need someone.
+
+0xDCB32CC9 = ~z~I know...
+
+0xE72E5B31 = ~z~and that tells me you got the courage... the courage to live.
+
+0xFB4469EB = ~z~I don't seem very brave.
+

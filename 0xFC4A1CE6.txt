@@ -1,0 +1,68 @@
+0x01882162 = ~z~What d'you think? You up to it?
+
+0x0213638E = ~z~They'll be bled out if you don't get moving.
+
+0x02294F37 = ~t~In Spanish: Hey! Hey! You there!
+
+0x06AD2A93 = ~z~~sl:0.0:4.0~Listen. Ain't my business... maybe... but...~sl:0.7~you know the docks near here, Quaker's Cove?
+
+0x4AD3CA27 = ~z~~sl:0.0:0.8~Here we are.~sl:0.8~Okay, let's see if we can find a lawman who ain't got his feet up.
+
+0x7B0C750A = ~z~Hey. You got a minute?
+
+0x7B9DE405 = ~z~Shit, they're back! I told you!
+
+0x7C95803C = ~t~In Spanish: Shit! They're taking you out...
+
+0x7CB252C9 = ~z~Ah, really? Well, that's a shame. I thought you looked tough.
+
+0x8BC49341 = ~t~In Spanish: You call yourselves men?
+
+0x13DA071B = ~z~Go on then if you're going.
+
+0x93DD871C = ~z~What are you waiting for? Show me what you're made of.
+
+0x925FE410 = ~z~Well? Readying your spirits? Go on.
+
+0x944E1870 = ~t~In Spanish: I'll make that bastard listen, you'll see.
+
+0x2327E388 = ~z~Bet you could show those boys right?
+
+0x8138AA08 = ~z~~sl:1.0~That was close.
+
+0x59619F8D = ~z~Damn it, I knew there'd be more of them!
+
+0x73851D74 = ~z~I appreciate all the help, friend.
+
+0x96844E1B = ~z~Hello? I know you can hear me.
+
+0xA5A4BB1D = ~z~~sl:0.0:2.2~You think you can give me a ride to Blackwater?~sl:0.6~I'm going to give that Police Chief a piece of my mind.
+
+0xA19370C3 = ~z~Here, have this.
+
+0xB8E292D7 = ~z~Come on, I need to tell you something.
+
+0xB1250A92 = ~z~~sl:1.4:4.6~I don't know what was worse, the smell of esos perros~sl:~or the smell of these docks. Gracias.
+
+0xB1362D52 = ~z~Are you gonna cut me loose?
+
+0xBDFE77B4 = ~t~In Spanish: Let me go and I'll kill you with my bare hands!
+
+0xC5A45B93 = ~z~Just cut me loose, come on!
+
+0xC16E09F4 = ~t~In Spanish: This looks bad.
+
+0xD03447FE = ~t~In Spanish: Never should have stole that hand...
+
+0xD2EE1732 = ~z~~sl:0.0:4.1~Yeah? Okay then... this is gonna be a show!
+
+0xD8664E06 = ~z~~sl:0.0:2.9~Some gunmen got someone over there, all tied up,~sl:~hollering and everything.
+
+0xDA4E8513 = ~z~You're not going to leave me like this?
+
+0xDBC155D5 = ~z~Should be nothing for someone like you.
+
+0xE974235E = ~z~Come on, quick, untie me.
+
+0xEF3BDA2E = ~t~In Spanish: Sons of bitches, you'll regret this!
+

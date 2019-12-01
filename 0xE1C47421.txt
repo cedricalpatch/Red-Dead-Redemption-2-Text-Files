@@ -1,0 +1,22 @@
+0x2CA8AA3E = ~z~Oh dear, have you come down with the flu as well, sir?
+
+0x3BBE4869 = ~z~Flu? No, what are you talking about?
+
+0x6FF70A54 = ~z~You alright there, sir?
+
+0x89E5AF0F = ~z~If you wouldn't mind coughing into your sleeve, sir.
+
+0x497C63E5 = ~z~Nothing, it's just been going around, that's all. Anyway, how can I help you?
+
+0x781F0B82 = ~z~I really can't afford to get sick again this month.
+
+0x1725D8B3 = ~z~you know what, never mind. What can I do for you?
+
+0x99515D08 = ~z~Been some grippe going around here... and I just thought...
+
+0xA39F71A4 = ~z~Yes, why?
+
+0xD3714225 = ~z~Of course, sir. Sorry. Just a polite request, that's all.
+
+0xE33AE1B8 = ~z~Why don't you just do your job?
+

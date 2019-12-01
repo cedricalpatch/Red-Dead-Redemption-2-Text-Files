@@ -1,0 +1,28 @@
+0x04D72C6B = ~z~Someone told me about a rumor of Raiders fighting... oh, well, it ain't true, anyway.
+
+0x093C2E7F = ~z~Well, I hope you aren't planning for any more riff raff with any of those Raiders.
+
+0x7F0120C1 = ~z~Oh, never mind, never mind. Nope. Just curious.
+
+0xA32BE258 = ~z~Feller...
+
+0xB760DE4C = ~z~Anything related to violence...
+
+0xC6447C13 = ~z~I wonder if, perhaps, you may have heard anything... unsavory about this here establishment of recent?
+
+0xD62CA324 = ~z~What are you talking about, feller?
+
+0xD39849EE = ~z~You never mind me.
+
+0xD5001986 = ~z~Perhaps somewhat acquainted with the more, ah, colorful elements, if you don't mind me saying.
+
+0xE9D64332 = ~z~I don't mean to pry, but... well, you look like something of a rough and tumble type.
+
+0xEA877116 = ~z~We admire traditional values here, yes sir, and we respect good manners.
+
+0xF76D8AE2 = ~z~They got a lot of respect in this community, even if they can act up out of turn.
+
+0xF819306E = ~z~What are you talking about, feller?
+
+0xFEAC6CDE = ~z~Hello, friend.
+

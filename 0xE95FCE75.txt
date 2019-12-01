@@ -1,0 +1,36 @@
+0x00E82A2E = ~z~Hey, I-I'm just making conversation here.
+
+0x1B7D6702 = ~z~I done some myself a couple years back.
+
+0x2DC78B96 = ~z~No offence, I just know the type.
+
+0x36C79E06 = ~z~Like most things in life, it don't live up to the billing.
+
+0x218D7392 = ~z~And my brother, he's dead now, but he used to tell me stories about Red Harlow...
+
+0x530B1970 = ~z~I have been... why?
+
+0x6197F6F4 = ~z~Nothing easy in this life... so I can't sit around all day.
+
+0x283833D1 = ~z~I have been... why?
+
+0xA9399E1E = ~z~Yep, you probably heard of him.
+
+0xB1A62709 = ~z~I don't know... bounty hunting never felt like that to me.
+
+0xBFD4DDBF = ~z~Legendary bounty hunter bringing the savage outlaws of the frontier to justice.
+
+0xC811D7F8 = ~z~Hey, it's just a story, but if you don't want to hear it, fine by me.
+
+0xDB799508 = ~z~who uses that pain to become a better man, and ultimately to... wreak his vengeance.
+
+0xDC977CEB = ~z~Nothing heroic about riding for three days to turn in some lowdown chicken thief.
+
+0xDEB3228E = ~z~Why, you got a price on your head?
+
+0xE9C03195 = ~z~A man who watched his parents get murdered in front of him as a boy, but...
+
+0xF6F53868 = ~z~Why, you got a price on your head?
+
+0xF7E825FC = ~z~You a bounty hunter, mister?
+

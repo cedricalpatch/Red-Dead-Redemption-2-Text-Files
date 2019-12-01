@@ -1,0 +1,66 @@
+0x07D254F2 = ~z~~sl:0.3:3.1~I did something to my leg. I can't hardly walk...~sl:0.5~I need some help to town, please?
+
+0x0BC1B2C2 = ~z~Hey, don't leave me here.
+
+0x0CC064D5 = ~z~~sl:0.9~Done it now...
+
+0x1C3F1BA9 = ~z~Oh Lord, this hurts. Dang ankle...
+
+0x3C68008D = ~z~Off your ride. Now.
+
+0x4B28B61D = ~z~I know a mark when I see one.
+
+0x5B29D191 = ~z~~sl:0.6~C'mon.
+
+0x6E0EB01D = ~z~Well? I'm alone out here...
+
+0x8B1FDF6C = ~z~Really? Fine. Hope you never get hurt.
+
+0x8B4C226F = ~z~Will have to come up with a better story than that.
+
+0x9D38AD91 = ~z~~sl:0.0:2.2~The doctor in Strawberry, know him?~sl:0.4~Hopefully, he'll take care of me.
+
+0x88FAFDB6 = ~z~~sl:0.6~Lord, but it feels good getting off my feet.
+
+0x99FE7F4F = ~z~
+
+0x223A21B9 = ~z~~sl:0.0:1.5:1~Oh, oh, thank you.
+
+0x409A7281 = ~z~~sl:0.9~I got you.
+
+0x906EB7AE = ~z~~sl:0.0:1.5~Here's hoping the doctor ain't fishing~sl:~for once in his life.
+
+0x4060D4BE = ~z~Hurts to stand...
+
+0x8252E089 = ~z~Here. Thanks for this.
+
+0x528130DA = ~z~~sl:0.0:1.8~My sister'll never let me hear the end of this~sl:~if she finds out...
+
+0x3359320D = ~z~Hey! Hey, I'm hurt! Gimme a hand, please?
+
+0x85955688 = ~z~Oh... oh, you there! Can you help me out here?
+
+0xA444545F = ~z~~sl:0.8~This is all I need right now.
+
+0xAE61647E = ~z~C'mon... come help me out down here.
+
+0xB69B790D = ~z~~sl:0.0:2.9~Between us? I just slipped on a root.~sl:0.6~I can't believe it.
+
+0xB8496AD8 = ~z~You're gonna help me, right?
+
+0xC0D0919C = ~z~Could you make some space?
+
+0xC13CFFFB = ~z~Thank you.
+
+0xC462A327 = ~z~~sl:0.0:2.6~How we getting there? I can't keep walking~sl:~is the reason I'm talking to you.
+
+0xE40C03C5 = ~z~~sl:0.0:3.3:1~Oh... oh, this is a relief.
+
+0xEB03C27F = ~z~You're too trusting, you know that?
+
+0xF53FEF82 = ~z~Y'know what? I reckon my ankle's fine now...
+
+0xFA64C01E = ~z~
+
+0xFD989027 = ~z~Now you're the one who's gonna be hurting!
+

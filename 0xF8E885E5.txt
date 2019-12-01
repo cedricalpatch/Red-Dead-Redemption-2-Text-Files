@@ -1,0 +1,52 @@
+0x0730394F = Approach the ~o~prison~s~
+
+0x09DEE069 = Provide covering fire for ~o~Sadie~s~ and ~o~John~s~
+
+0x1F3F607D = You were spotted by a guard.
+
+0x2C08710E = Row the boat to ~o~Sisika Island~s~
+
+0x8BB2017E = Eliminate the ~e~guards~s~
+
+0x9D9F076F = You killed a potential hostage.
+
+0x26F9B8EE = Your horse died.
+
+0x94EC4BD4 = Pick up the ~o~rifle~s~
+
+0x431D5A55 = Mount your ~o~horse
+
+0x4107A19D = Return to ~o~Sadie~s~
+
+0x25714A25 = The rowboat was destroyed.
+
+0xA1A8B7D6 = You rowed away from Sisika Island.
+
+0xA732BE41 = Fend off the ~e~attackers~s~
+
+0xAE9F6599 = Return to ~o~Sadie~s~ and ~o~John~s~
+
+0xB06202BF = Go to the ~o~watch tower~s~
+
+0xB37DA4FE = Sadie was abandoned.
+
+0xBC40E29B = Look for John~s~
+
+0xC6EA774F = Your companions were abandoned.
+
+0xC97C5FA1 = Escort Sadie and John to the ~o~rowboat~s~
+
+0xC64203F6 = Catch up to ~o~Sadie
+
+0xD04E12E5 = Follow ~o~Sadie~s~ to Beaver Hollow
+
+0xD694A49B = Investigate the ~o~field~s~
+
+0xDC2004EC = Catch up to ~o~Sadie~s~ and ~o~John~s~
+
+0xDEB15F5D = Take out the ~e~guard~s~
+
+0xF10ADFAD = The guards were alerted.
+
+0xFF2F2668 = Stick with ~o~Sadie~s~ and ~o~John~s~
+

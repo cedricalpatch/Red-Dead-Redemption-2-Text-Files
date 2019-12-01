@@ -1,0 +1,110 @@
+0x06861841 = Sneak up to ~o~Carmody Dell~s~
+
+0x079D6A00 = Barn
+
+0x0A62D456 = Wait for Hosea inside the ~o~Barn~s~
+
+0x0F42EC5F = Carmody Dell
+
+0x1DE23FE8 = Return to the ~o~Route~s~
+
+0x2DE58344 = Hang back from Hosea and sneak into the home.
+
+0x3C24829B = Seamus was threatened.
+
+0x3DF82D1F = Hosea was abandoned.
+
+0x4DDA2606 = The stagecoach became inoperable.
+
+0x4E16FD63 = Release ~INPUT_OPEN_WHEEL_MENU~ ~s~to equip the binoculars.
+
+0x5A2B1BAE = Talk to ~o~Hosea~s~
+
+0x5EB78BC8 = Follow ~o~Hosea~s~ to the stagecoach
+
+0x5EE09EF6 = Hold ~INPUT_AIM~ to look at the ~o~Home~s~ through your binoculars.
+
+0x5FA7707D = Hosea was killed.
+
+0x6BF95129 = Return the stagecoach to ~o~Emerald Ranch~s~
+
+0x9D790E3F = Secret Stash
+
+0x13D1D8ED = Use your binoculars to look at the ~o~Home~s~
+
+0x15EB88ED = Find ~o~Hosea~s~ outside
+
+0x20AFDD1D = Deal with the ~e~Crawford Family~s~
+
+0x29C904C1 = The stagecoach was destroyed.
+
+0x41ABE07A = Look
+
+0x54F01281 = Crawford
+
+0x60B74BC0 = Your horse has been killed.
+
+0x73EAC90A = Use ~INPUTGROUP_RADIAL_MENU_NAV~ ~s~to select Kit and cycle to your binoculars with ~INPUT_RADIAL_MENU_SLOT_NAV_PREV~ or ~INPUT_RADIAL_MENU_SLOT_NAV_NEXT~.
+
+0x84B837BF = Rejoin ~o~Hosea~s~
+
+0x151CF35F = Rob the ~o~Home~s~
+
+0x428AC87D = Night
+
+0x622CA58E = Hold ~INPUT_OPEN_WHEEL_MENU~ ~s~to open the Weapon Wheel and press ~INPUT_SELECT_NEXT_WHEEL~ ~s~to view the Item Wheel.
+
+0x845C39DA = The stagecoach was abandoned.
+
+0x933D579C = Seamus was attacked.
+
+0x945C04A1 = How are you feeling about things?
+
+0x5590C060 = Search for the ~o~Secret Stash~s~
+
+0x7732AB52 = Day
+
+0x46295E25 = Rob the house of $45 worth of items.
+
+0x95318C63 = Emerald Ranch?
+
+0x96815B50 = Wagon Fence
+
+0x130809BC = Follow ~o~Hosea~s~ to scope out ~f~Carmody Dell~s~
+
+0x576179ED = Threaten or Kill the ~e~Witness~s~
+
+0x70921246 = Hosea's horse was killed.
+
+0xA4FF7B20 = The route was abandoned.
+
+0xB0DC0225 = Total robbed: $~1$~
+
+0xB7E620ED = Seamus was killed.
+
+0xB6291D73 = You became wanted.
+
+0xBE0A7B27 = Get to the ~o~Barn~s~ unseen
+
+0xC3E02DB1 = Total robbed: $~1$~ / $45
+
+0xCE3C4F80 = Wait for ~o~Hosea~s~ to get on the Stagecoach
+
+0xCE472FF8 = Steal the ~o~Stash~s~
+
+0xD7EE2500 = Tapping ~INPUT_HORSE_SPRINT~ in time with your horse's gallop will stop its stamina from draining.
+
+0xDEF399C7 = Drive the stagecoach into the ~o~Barn~s~
+
+0xDF45C5F1 = Stagecoach
+
+0xE4CF38FF = Approach the ~o~Rock~s~
+
+0xE86603FC = Get on the ~o~Stagecoach~s~
+
+0xEB794F50 = Emerald Ranch
+
+0xFAB8ECB8 = Mount your ~o~Horse~s~
+
+0xFAB743EF = Go to ~o~Carmody Dell~s~
+

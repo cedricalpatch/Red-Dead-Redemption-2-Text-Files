@@ -1,0 +1,520 @@
+0x006D3A0C = ~z~Alright. Off you go then.
+
+0x00D0F909 = ~z~A muskie, I think.
+
+0x02B83AA5 = ~z~You, sir, are a fish.
+
+0x03370EC7 = ~z~Got to bait it. Fool...
+
+0x03B64B43 = ~z~'Fraid you're coming.
+
+0x04994898 = ~z~Woah... what are you? A sturgeon, perhaps... yes.
+
+0x04C36767 = ~z~A catfish of some kind. Maybe a channel catfish, huh?
+
+0x062118C6 = ~z~Okay.
+
+0x065045DE = ~z~I'ma let you go.
+
+0x06C2CBF7 = ~z~You're a fine bass... what are you, a smallmouth?
+
+0x07AE9101 = ~z~Here we go.
+
+0x0809B9CF = ~z~What are you? A bass?
+
+0x08491C16 = ~z~Didn't get the hook set.
+
+0x0A53AFF3 = ~z~Nice perch, ain't you?
+
+0x0ACDDB7D = ~z~Easy does it.
+
+0x0B2A7E88 = ~z~Now we're fishing.
+
+0x0C4C80CC = ~z~Hook's set.
+
+0x0E953F28 = ~z~You're the damn fish.
+
+0x0EB79727 = ~z~Got you, partner.
+
+0x0EDAD662 = ~z~Got you, partner.
+
+0x0F4E9B31 = ~z~Got you! I damn well got you.
+
+0x1A2C35FC = ~z~Come on.
+
+0x1A60E258 = ~z~You've gone and died, ain't ya?
+
+0x1B28B09C = ~z~Okay.
+
+0x1B1923A5 = ~z~You sir, are a fish.
+
+0x1CC7DB8D = ~z~Whoa. It's you.
+
+0x1D363424 = ~z~I got it.
+
+0x1E9975DF = ~z~We meet at last.
+
+0x1E972561 = ~z~You're on.
+
+0x2A425221 = ~z~I love a catfish, come here.
+
+0x2AE54F82 = ~z~Ha. Got you.
+
+0x2C696556 = ~z~
+
+0x2D0F5BBA = ~z~Okay.
+
+0x2DE6D9F8 = ~z~You're quite a largemouth.
+
+0x2F224BBB = ~z~Look at you.
+
+0x2FAFC792 = ~z~Got ya.
+
+0x3C7FF69C = ~z~Good ole' catfish.
+
+0x3D3E57C9 = ~z~That's not right.
+
+0x4AB0D41A = ~z~~sl:0.5~You don't look too fine.
+
+0x4B7F5471 = ~z~Damn, that's some pickerel.
+
+0x4C9BAE9E = ~z~You're quite a nice bass.
+
+0x4D02E14F = ~z~Got something hooked.
+
+0x4F77A092 = ~z~Let's see if anything is biting.
+
+0x4F2951FB = ~z~What is wrong with me... bait the thing, you fool.
+
+0x5A44F1FC = ~z~What are you? A Redfin Pickerel, I guess?
+
+0x5BBBB0D6 = ~z~Nah. Maybe next time.
+
+0x5E02C048 = ~z~You're a fine steelhead, my friend.
+
+0x5E33BDA3 = ~z~Won't catch nothing there.
+
+0x5F7CE0F6 = ~z~Beautiful. Shit. Yes.
+
+0x5F564708 = ~z~Yeah... the bait.
+
+0x6C56506C = ~z~What the hell are you? I mean...
+
+0x6D08D45B = ~z~Here we go.
+
+0x6DACE3B5 = ~z~Some bait might help. Idiot.
+
+0x6DFF6C77 = ~z~Shit. Dead.
+
+0x6F469D15 = ~z~~sl:0.4~You don't look right.
+
+0x6FD3048A = ~z~Damn... snagged on nothing.
+
+0x7A393BBB = ~z~Got you.
+
+0x7B71DBB9 = ~z~Ah. You might be for putting back.
+
+0x7B96897F = ~z~No... no way.
+
+0x7B232438 = ~z~Here we go. Come on...
+
+0x7C09DD8E = ~z~Shoulda done that earlier.
+
+0x7EC677D6 = ~z~Okay... let's see what's what down there.
+
+0x8AA57AC5 = ~z~Too late, I guess. Sorry...
+
+0x8BF9DF3C = ~z~That's set, I think. Yes.
+
+0x8C5D5169 = ~z~I got it.
+
+0x8DD02DF2 = ~z~Oh, you gotta be kidding me.
+
+0x8EC03F74 = ~z~Got ya! I damn well got ya! Shit.
+
+0x9B4DAFF9 = ~z~You're in luck, my friend.
+
+0x9B3093A4 = ~z~That's not very intelligent.
+
+0x9BD70D73 = ~z~Didn't set it.
+
+0x9EFDD5A6 = ~z~Shoulda done that earlier.
+
+0x9F9FA414 = ~z~Ya ain't for eating, are you?
+
+0x9F35B8B4 = ~z~Anyone hungry, then?
+
+0x9FE1CC45 = ~z~This could work.
+
+0x10A868A7 = ~z~Now I'm fishing. Got something.
+
+0x10F69B4D = ~z~Swim away, little feller.
+
+0x11CCDCCB = ~z~Nah. Fatten up for next time.
+
+0x12A4084B = ~z~What are you? A sockeye, marvelous.
+
+0x15DFEB25 = ~z~And what exactly are you? A sturgeon? I think so.
+
+0x15F85859 = ~z~What are you? A Redfin Pickerel, I think.
+
+0x17B268A2 = ~z~You're in luck.
+
+0x19C4CEB7 = ~z~I'm keeping you, I'm afraid.
+
+0x24A1F73B = ~z~
+
+0x24BD4608 = ~z~You're quite a fish... a gar, I reckon.
+
+0x24F2D569 = ~z~Got away.
+
+0x24F788A8 = ~z~You look pretty revolting.
+
+0x27BEF348 = ~z~A small mouth?
+
+0x28D7FB61 = ~z~Steelhead... wow.
+
+0x35EAED79 = ~z~Okay.
+
+0x36DC8320 = ~z~What are you? Bass?
+
+0x38E377D0 = ~z~Just what are you? A sockeye, great.
+
+0x39F5F216 = ~z~You're quite a bass!
+
+0x41B5494B = ~z~Come on.
+
+0x47DE7D2F = ~z~Whoa. Okay.
+
+0x54EC5F10 = ~z~Whoa. Okay.
+
+0x55C388CB = ~z~Damn, fool.
+
+0x55E4DCD8 = ~z~Damn. Jean-Marc? Is that you? I'm sorry, buddy.
+
+0x57BEAC10 = ~z~You are one fine fish, my friend.
+
+0x59A843C9 = ~z~You're dead, ain't ya?
+
+0x65D837CF = ~z~A pickerel, huh?
+
+0x66FAC26B = ~z~No! The line... damn.
+
+0x71F1DD42 = ~z~Off you go, then.
+
+0x72B0E9A4 = ~z~Steel head... wow. Nice.
+
+0x72DF66FA = ~z~Can't swim in that.
+
+0x82A73DFD = ~z~~sl:0.5~Got it.
+
+0x83A87F10 = ~z~Damn. What the hell are you?
+
+0x83E8890C = ~z~Missed.
+
+0x94B6CE51 = ~z~Oh crap.
+
+0x94CBB1F2 = ~z~Got to bait the hook.
+
+0x94CFC71F = ~z~Worth a shot.
+
+0x99FC1EEA = ~z~A muskie, I reckon. Nice.
+
+0x100B06ED = ~z~What are you? A gar... and quite a fish, too.
+
+0x120E855F = ~z~What is this abomination?
+
+0x162B99CA = ~z~That is a fish.
+
+0x167DDAF3 = ~z~Give up already. You're mine.
+
+0x192FE609 = ~z~Got to bait the hook. Idiot.
+
+0x318F5091 = ~z~Pleased to meet you.
+
+0x345F1DF6 = ~z~Look at you.
+
+0x427E9CA9 = ~z~Yeah, he'll be okay...
+
+0x433BCDC1 = ~z~You're on, my friend.
+
+0x436DA709 = ~z~Ah, a blue gill... nice.
+
+0x482EBE54 = ~z~Easy does it. Easy.
+
+0x504C3844 = ~z~Too late, I guess.
+
+0x524E4699 = ~z~You kidding me? Yes!
+
+0x579D2630 = ~z~You're quite a largemouth.
+
+0x602A34CA = ~z~Shit... line's gone.
+
+0x643FB376 = ~z~You're a fine looking muskie.
+
+0x645F7C67 = ~z~Some bait might help.
+
+0x665F91B7 = ~z~Little more.
+
+0x718F9BCE = ~z~Yeah. You're alright.
+
+0x833CFFD8 = ~z~I'mma let you off.
+
+0x907A87C6 = ~z~You're quite a fish... a gar? I think so...
+
+0x945AC601 = ~z~Yup.
+
+0x971C2009 = ~z~~sl:0.5~Pike.
+
+0x979AD94B = ~z~Yep, yep, come on.
+
+0x981D7532 = ~z~That's it.
+
+0x1096CEC4 = ~z~Damn. Dead.
+
+0x1511E355 = ~z~Swim away little buddy.
+
+0x1613EFFE = ~z~Can't put you back.
+
+0x1614CFF4 = ~z~You're a fine bass.
+
+0x1871F6C5 = ~z~Come on.
+
+0x1914A69C = ~z~You kidding me?
+
+0x3589E7A7 = ~z~Beautiful.
+
+0x4009F9D3 = ~z~Come here, you.
+
+0x4205EC3E = ~z~That's set.
+
+0x5530CA8F = ~z~A blue gill... okay.
+
+0x6295FA63 = ~z~Good to meet you!
+
+0x7334F6E6 = ~z~Dead.
+
+0x8655A9F7 = ~z~Let's try this.
+
+0x21053E9E = ~z~Damn.  That's... you.  Alright.
+
+0x44882B0D = ~z~Shit. That's... you. Alright.
+
+0x61132F98 = ~z~Alright.
+
+0x87846C4C = ~z~Water might help proceedings.
+
+0x93628B9A = ~z~Somehow, I don't think you're for eating.
+
+0x204921D4 = ~z~Jesus. What the hell are you?
+
+0x216225C7 = ~z~Quite a salmon.
+
+0x241849D4 = ~z~Anything biting, I wonder...
+
+0x352263FC = ~z~Yes. You're okay.
+
+0x3409788C = ~z~You okay there?
+
+0x3621217A = ~z~Wow.
+
+0x7306102F = ~z~Yeah, that ain't no fish.
+
+0x10113272 = ~z~Line's gone.
+
+0x16803559 = ~z~Ain't no bait on it.
+
+0x22784184 = ~z~You're magnificent.
+
+0x32887094 = ~z~Didn't set it right.
+
+0x92689946 = ~z~Line. Damn.
+
+0xA3AE41A5 = ~z~Come on.
+
+0xA6A8F774 = ~z~Ah. Not a fish after all.
+
+0xA6B5B2E5 = ~z~Yeah, he'll be okay...
+
+0xA9D5DC06 = ~z~Might need some bait on there.
+
+0xA60C0FEC = ~z~'Fraid I'm keeping you.
+
+0xA922A80A = ~z~Missed it.
+
+0xA16088AC = ~z~Here we go.
+
+0xA28569EE = ~z~Oh, very impressive.
+
+0xA4997773 = ~z~What the hell are you? A sturgeon?
+
+0xAD9CE7BB = ~z~How's about this bait? I wonder...
+
+0xAEB08BA5 = ~z~Woah... what are you? A sturgeon, perhaps...
+
+0xAF79A4DE = ~z~Yup. Yup.
+
+0xB0D673FE = ~z~You're kidding me! Damn line.
+
+0xB1A5DA40 = ~z~You're quite a bass! A largemouth, I believe.
+
+0xB577E538 = ~z~Who's biting?
+
+0xB5336B9D = ~z~Shit.
+
+0xB8369E62 = ~z~Don't fight too much.
+
+0xB79144E3 = ~z~Didn't set the hook.
+
+0xB80699C4 = ~z~You're a fine steelhead, my friend.
+
+0xB5251403 = ~z~You're a decent bass.
+
+0xBB1B1165 = ~z~Yeah... you can stay.
+
+0xBCF5BFCE = ~z~Give it up already.
+
+0xBCF58C38 = ~z~Stupid line.
+
+0xBD6015F3 = ~z~Afraid you're staying with me.
+
+0xBDD2956D = ~z~A decent catfish.
+
+0xBE4E99E8 = ~z~How's about this.
+
+0xBEF9A8DC = ~z~A pike, I think. Tough guy, huh?
+
+0xBF6DCFBA = ~z~What are you? A pickerel?
+
+0xBF470B0F = ~z~Let's try something new.
+
+0xC1A030D4 = ~z~You okay there? No... you're far from okay.
+
+0xC3F5CC8F = ~z~You're quite a perch.
+
+0xC4A87DC5 = ~z~The line! Damn it!
+
+0xC6D67F7D = ~z~~sl:0.2~Pike, I think.
+
+0xC6E813DB = ~z~Quite a salmon, ain't you?
+
+0xC6EC0F0E = ~z~Oops.
+
+0xC9DBC1AC = ~z~That's it. Come on.
+
+0xC15F8E40 = ~z~Missed.
+
+0xC65E3AB1 = ~z~Come here.
+
+0xC179C8D6 = ~z~
+
+0xC191C6F7 = ~z~You're coming with me.
+
+0xC593828F = ~z~You're a fine muskie.
+
+0xC912185F = ~z~A bluegill...
+
+0xC3210329 = ~z~What are you? A gar... and some fish.
+
+0xC4380229 = ~z~Ha. You'll do.
+
+0xCAB5B09E = ~z~I can't put you back.
+
+0xCB704A97 = ~z~Bait, you fool...
+
+0xCBBB313E = ~z~I love catfish.
+
+0xCCF46AC7 = ~z~A pickerel, huh?
+
+0xCCF87733 = ~z~Damn.
+
+0xCD0A3559 = ~z~You're quite a perch.
+
+0xCDA77113 = ~z~Didn't hook ya.
+
+0xCE60E165 = ~z~Nice perch.
+
+0xCE873A59 = ~z~Uh huh.
+
+0xCF2E29DD = ~z~Damn. Missed.
+
+0xCF3AE458 = ~z~
+
+0xD3CAEB69 = ~z~Yeah... you can come.
+
+0xD3CC42CB = ~z~Sorry, but you're mine.
+
+0xD5B56418 = ~z~~sl:0.5~You're okay.
+
+0xD84D36D5 = ~z~~sl:0.3~Bluegill.
+
+0xD2421B4B = ~z~A catfish of some kind...
+
+0xDFE1870E = ~z~Hook's set.
+
+0xE1E42FE5 = ~z~What are you? A pickerel?
+
+0xE2C45209 = ~z~Maybe...
+
+0xE5CFA8E1 = ~z~Should probably try that again.
+
+0xE15A5501 = ~z~Damn line.
+
+0xE234FD4F = ~z~The mayor wanted you to disappear.
+
+0xE476BFB4 = ~z~What are you, a catfish?
+
+0xE779029C = ~z~Might need some bait on there.
+
+0xE841945A = ~z~Sorry, but you're coming.
+
+0xE6301242 = ~z~Don't fight it.
+
+0xEAA9F29E = ~z~Might work.
+
+0xEAE2D25A = ~z~Look at you! Yes!
+
+0xEBB969BF = ~z~The line. Dammit.
+
+0xEC3CE3FA = ~z~Damn, didn't get him.
+
+0xEC2405DF = ~z~Damn. You're dead, ain't you?
+
+0xEC52050D = ~z~A pickerel, okay.
+
+0xED83103B = ~z~You're not bad at all.
+
+0xEF3F17B0 = ~z~You can go.
+
+0xF2F813E8 = ~z~
+
+0xF7D0F0D7 = ~z~Water might help.
+
+0xF8D8D9E5 = ~z~Got something.
+
+0xF30CBBE1 = ~z~Didn't hook him.
+
+0xF62F078C = ~z~You're coming with me.
+
+0xF76A449C = ~z~Shit. Missed.
+
+0xF80C07C1 = ~z~Bit late to release him, but...
+
+0xF87DB846 = ~z~Oh, I got you. I got you...
+
+0xF3325FC9 = ~z~You can go.
+
+0xF6564A8D = ~z~What are you? A catfish, but what kind... a channel, I reckon.
+
+0xFA9428D2 = ~z~Idiot, Morgan.
+
+0xFB87B581 = ~z~~sl:1.0~A smallmouth?
+
+0xFB91A51B = ~z~Little more. You're almost done...
+
+0xFCFD5F73 = ~z~Bit late to release him but... sorry.
+
+0xFDCA2684 = ~z~~sl:0.5~A pike. Real tough.
+
+0xFE1B2657 = ~z~Shit. Snagged.
+

@@ -1,0 +1,34 @@
+0x0E3EF6F5 = ~z~How are you keeping gentlemen?
+
+0x7C73D359 = ~z~~sl:0.0:2.1~Now you know me, I'm a God-fearing,~sl:~Rome-hating gentleman.
+
+0x8BD18A4A = ~z~It's a terrible burden, friends.
+
+0x8E3476DA = ~z~You mind if I join you?
+
+0x32BD3FED = ~z~Makes me do the stupidest of things.
+
+0x333EC0F0 = ~z~~sl:0.0:1.1~When we doubt,~sl:~we become the devil's plaything.
+
+0x579D09AC = ~z~You know...
+
+0x884B0339 = ~z~~sl:0.4:1.5:1~a child could defeat me.
+
+0x6958AD23 = ~z~doubt is a hell of a thing.
+
+0x4505647D = ~z~Makes us do the stupidest of things.
+
+0x71785598 = ~z~A terrible burden indeed.
+
+0xA9A245E7 = ~z~When I'm strong, I can move mountains.
+
+0xB31B40A7 = ~z~A hell of a thing.
+
+0xBA83E7AA = ~z~But when I'm weakened by doubts...
+
+0xBE0B6EBD = ~z~I am frozen by my doubt yet I cannot overcome it.
+
+0xD6241EEE = ~z~But when the doubt takes hold of me...
+
+0xE2BEB823 = ~z~I'm a fiend for that stuff.
+

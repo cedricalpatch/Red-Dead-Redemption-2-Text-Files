@@ -1,0 +1,20 @@
+0x0D0B1B45 = ~z~~sl:0.0:1.2:1~Yep.
+
+0x1A500242 = ~z~Like you wouldn't believe.
+
+0x2C73A689 = ~z~Well, I'll leave this here then.
+
+0x9E430A36 = ~z~So you're the O'Driscoll, huh?
+
+0x3505B7B9 = ~z~
+
+0x160079AF = ~z~Oh yeah?
+
+0x22441236 = ~z~~sl:0.0:1.0~In the dirt.~sl:1.0~Where those other O'Driscolls left my husband.
+
+0xC329D403 = ~z~I've met some of your boys before.
+
+0xE7BC9D28 = ~z~You must be hungry.
+
+0xF19CB0E8 = ~z~~sl:0.0:1.7~I'm the feller tied to the tree so,~sl:0.6~I guess I must be.
+

@@ -1,0 +1,4 @@
+0xBABE254E = Locations
+
+0xE46344A6 = STAGECOACH
+

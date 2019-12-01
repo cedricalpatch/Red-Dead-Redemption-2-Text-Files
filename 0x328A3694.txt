@@ -1,0 +1,54 @@
+0x0372028C = Chase ~o~Billy Midnight~s~
+
+0x0C2E14DD = You scared Billy Midnight.
+
+0x1A0B6198 = Billy Midnight's head is not visible to the camera. Make sure it is in frame and not obscured.
+
+0x3F8A6131 = The camera is too far from Billy Midnight to capture a good likeness. Try moving closer to the corpse.
+
+0x4BF9010C = Wait for the ~o~train~s~ to stop
+
+0x6AE953B2 = Search the ~o~train~s~ for Billy Midnight
+
+0x8E485B10 = You left the train station.
+
+0x41D35736 = Billy Midnight's corpse is not visible to the camera. Make sure you are facing him and he is not obscured.
+
+0x47D193DB = You missed the train.
+
+0x95E858BA = ~o~Billy Midnight?
+
+0x703C6E15 = Deal with ~e~Billy Midnight~s~
+
+0x810BC758 = Billy Midnight got away.
+
+0x8022D4A4 = Return to ~o~Billy Midnight
+
+0x61122B3E = Wait for the next train
+
+0x38745155 = Take a closeup photo of ~o~Billy Midnight~s~
+
+0xA5EE7230 = Wait for the ~o~train~s~ to arrive
+
+0xA478CC72 = Defeat ~e~Billy Midnight~s~ in the duel
+
+0xAA00D010 = You attacked Billy Midnight.
+
+0xB8A9A18F = You lost Billy Midnight's body.
+
+0xBC5874BF = Billy Midnight has been killed.
+
+0xBD37E660 = Billy Midnight
+
+0xC73FB4E3 = Question ~o~Billy Midnight~s~
+
+0xD90D7B6F = You left the train.
+
+0xDA2A1933 = You became wanted.
+
+0xE77ECB7F = The ticket officer has been killed.
+
+0xF9A96FD4 = You attacked the ticket officer.
+
+0xFC4AAAB5 = Greet
+

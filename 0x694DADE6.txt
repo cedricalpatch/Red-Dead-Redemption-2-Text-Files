@@ -1,0 +1,402 @@
+0x01489117 = ~z~Friends.
+
+0x022F9EB0 = ~z~~sl:0.0:3.5~If we leave 'em, they'll probably circle back to the main camp.~sl:0.3~So it's take them now or take them later.
+
+0x0288BFFF = ~z~Alfredo Montez...
+
+0x033F8E15 = ~z~~sl:0.0:2.7~If I'd known I was leading a bunch of greenhorns,~sl:~I'd have told the Marshal where to stick it.
+
+0x03AF30DA = ~z~Let's try and hang onto that small advantage as long as we can.
+
+0x0457B88A = ~z~~sl:0.0:1.4~They can go down at once,~sl:~or one at a time when the others ain't looking.
+
+0x04814DA1 = ~z~~sl:0.5~Big group ahead. Figure out how you want to handle this.
+
+0x04E15F84 = ~z~It's gonna be tough, y'know?
+
+0x04FFA6F6 = ~z~Put a damper on this, now.
+
+0x059B4D3F = ~z~Well, I don't know how they didn't hear that. Press on.
+
+0x05BB36F4 = ~z~I don't see Lee, and I don't see Montez.
+
+0x094A7587 = ~z~More men! We got to clean this up quick.
+
+0x0A1C041F = ~z~~sl:0.5:1.5~Hold. Riders.~sl:1.0~Take 'em down, or let 'em pass. It's all the same to me.
+
+0x0A3B345D = ~z~~sl:0.0:1.8~Men been coming up from New Austin~sl:0.0:2.0~to join his merry band for days.~sl:0.3~~rp~Del Lobos, for the most part. ~rp~So we're in good company.
+
+0x0A6E9ACE = ~z~Why ain't they down?
+
+0x0D70357D = ~z~Very civilized.
+
+0x1A015D7E = ~z~~sl:0.0:4.2~I told Marshal Davies... Montez knows we're coming, I'm sure.~sl:~But he don't know when.
+
+0x1AA60584 = ~z~Look out!
+
+0x1BD4C62F = ~z~The feller we're supposed to meet.
+
+0x1D131CCE = ~z~Now, let's be clear...
+
+0x1E1C9C85 = ~z~Get your horses.
+
+0x1EC6E41D = ~z~Go away, old man. I told you to go away.
+
+0x2ADB8134 = ~z~Can someone tell me what happened?
+
+0x2BCE6622 = ~z~Ah, anyway, here's Lee.
+
+0x2EA203D3 = ~z~Ah, they're gooduns, real gooduns.
+
+0x2EA31731 = ~z~Hell...
+
+0x2EAF172B = ~z~I think he's holed up near Manzanita Post.
+
+0x3A0E02A1 = ~z~But the thing is, is uh...
+
+0x3B5CEF9F = ~z~~sl:0.0:3.5~You sure you don't have a bow? I'll wait a little while,~sl:~if you want to go back to your horse and get 'em.
+
+0x3BB8CD32 = ~z~Montez is wily, you know it and I know it.
+
+0x3CD0B38C = ~z~What in hell?
+
+0x3D195D20 = ~z~Dammit! Here's some more. Take them down, quick.
+
+0x3D1714B2 = ~z~Here.
+
+0x3E7240AC = ~z~They'll stop when they see the settlement.
+
+0x4A5A1AC4 = ~z~Deal with them.
+
+0x4AFEB081 = ~z~Just fine, just fine.
+
+0x4E975F3A = ~z~We was lucky there. They didn't hear. Keep going.
+
+0x4E91896B = ~z~We're going to make Manzanita.
+
+0x4ED483B0 = ~z~Maybe up in Van Horn if you have any chance?
+
+0x4FC74F18 = ~z~We're clear. It's just around the bend.
+
+0x5C2252C8 = ~z~Oh...
+
+0x5CEAC85A = ~z~I'd be causing a crime or...
+
+0x5CFE3FF0 = ~z~Bring them down, quick and quiet.
+
+0x5D6420CF = ~z~My next lead is that maybe Alfredo Montez will be there.
+
+0x5DA3A24A = ~z~Here he is. He's dead, alright. Let me get him.
+
+0x5EA3D79F = ~z~~sl:1.2:2.9~Patrol. Up ahead. Del Lobos.~sl:0.5~We take 'em here, or we let 'em pass.
+
+0x5F572AF6 = ~z~C'mon! C'mon.
+
+0x6C49E9A1 = ~z~~sl:0.0:3.0~Somewhere up here, there's a lot more men than that.~sl:0.5~We'll keep following the tracks.
+
+0x6CBB9D3E = ~z~They're tailing off.
+
+0x6E7417D4 = ~z~I'll go...
+
+0x8A437A8D = ~z~Killed the wrong goddamn bastard.
+
+0x8BD2C3BA = ~z~all we need is the bastard's head.
+
+0x8FAACBD8 = ~z~~sl:0.0:4.7~This is the camp. No need to be quiet no more, Montez is here.~sl:~If he ain't, I'll eat all the crow you got.
+
+0x9B370D89 = ~z~Alright.
+
+0x9D022084 = ~z~~sl:0.0:1.7~You let them know we're here.~sl:~There's only one thing for it, find his camp.
+
+0x9D0B9CBD = ~z~That's his brother.
+
+0x9D169CCF = ~z~But this ain't Montez.
+
+0x12D6FB6F = ~z~Place is crawling with guards, patrols, everything.
+
+0x14F5FA1C = ~z~Over there.
+
+0x16A57DC0 = ~z~Something that don't make noise would be real useful here.
+
+0x17C3CA24 = ~z~Well, this should show folks that we're willing...
+
+0x18B0B752 = ~z~Are we set?
+
+0x25DD31C2 = ~z~Well, these things happen, Lee.
+
+0x25F2A1A6 = ~z~He knows we're coming, Tom.
+
+0x27A669E9 = ~z~Yup.
+
+0x27ABB249 = ~z~More of them! We need to put a damper on this.
+
+0x28F516FB = ~z~Okay. Keep moving.
+
+0x31E0D006 = ~z~Ride!
+
+0x39E22EB1 = ~z~See, I'm going.
+
+0x44B44455 = ~z~Been sent on a trail of a band of killers.
+
+0x48BAFDBA = ~z~Yee-haw!
+
+0x51CECA2C = ~z~This land is full of scum.
+
+0x53FAC4EB = ~z~They seen us! Get them.
+
+0x55BE0E23 = ~z~It's less than I promised, but more than nothing.
+
+0x56F568D7 = ~z~I'm still going!
+
+0x58A9DF1D = ~z~~sl:0.0:4.4~You can use that gun by all means, but it's going to be a whole lot~sl:~more difficult once they realize we're here.
+
+0x58A43758 = ~z~They aren't going to go away. Get them.
+
+0x61DD9AD7 = ~z~is that clear?
+
+0x65C7D19F = ~z~Come on.
+
+0x66ECE831 = ~z~I don't mind leaving them, as long as they haven't seen us.
+
+0x67D309CF = ~z~~sl:0.0:2.5~There was a fair layering of tracks there...~sl:0.2~gait's shortening, means the riders was slowing down.
+
+0x81F89BD9 = ~z~~sl:0.0:3.9~They're spread out all over this hill. That suits us just fine.~sl:0.6~We might just fortunate if they knew we was coming.
+
+0x84A5079C = ~z~I don't want to hear you break a sing twig, alright?
+
+0x94A75F87 = ~z~I know you, huh?
+
+0x178ABD9B = ~z~Hello, Tom.
+
+0x273A9EA9 = ~z~Keep your heads down.
+
+0x294B6F8D = ~z~Quick, get them! Others will hear.
+
+0x334C55FD = ~z~If they group up, God help us all.
+
+0x448D2FA9 = ~z~I hope so.
+
+0x462D4417 = ~z~Mount up. Come on.
+
+0x466CEFCB = ~z~There's some more of them here! Let's fix this.
+
+0x474A1BF5 = ~z~Look out and ride hard.
+
+0x593D6FC8 = ~z~Okay, this way.
+
+0x597FC40D = ~z~That was a camp, but it weren't the camp.
+
+0x623F6174 = ~z~We've been spotted! Take 'em out, quick.
+
+0x761C79D1 = ~z~More of them! On horseback.
+
+0x770E957D = ~z~And he'll know what to do when you find him.
+
+0x817F6869 = ~z~~sl:0.8~Two more, drop 'em. Quiet, now.
+
+0x909E161F = ~z~~sl:0.8:4.1~Hold here. Camp up ahead. And two men.~sl:0.3~Bring them down... quiet.
+
+0x1981D993 = ~z~Heart of pure gold.
+
+0x2393BEC3 = ~z~Over here.
+
+0x2584CFB6 = ~z~~sl:0.0:3.5~Lots of tracks going up here. Men coming back and forth.~sl:0.2~Camp could well be close.
+
+0x2822F9C1 = ~z~~sl:0.0:1.3~Bring bows if you've got them.~sl:~Or anything that won't scare the birds out the trees.
+
+0x3974D591 = ~z~Given that you killed the wrong brother...
+
+0x4952CC72 = ~z~Alright then, let's go.
+
+0x5135E633 = ~z~And if they don't, they'll meet the Marshal.
+
+0x5453E064 = ~z~Get these horses.
+
+0x6091ECA0 = ~z~What the hell happened up there?
+
+0x7298C7D8 = ~z~Here's some money. Lee, here's yours.
+
+0x7408EE21 = ~z~All okay?
+
+0x9967EC6F = ~z~Okay. Come on, now. Keep up.
+
+0x9990ED4A = ~z~They is almost where they was going... and so're we. Come on.
+
+0x21664E97 = ~z~Down towards the water here... we're close, I can feel it.
+
+0x29964C12 = ~z~Or I can keep moving, if some of you is ready.
+
+0x31545A44 = ~z~Hey, come back.
+
+0x34374E76 = ~z~In fact, they happen more often than we like to admit.
+
+0x50542F2D = ~z~whatever the damn law is.
+
+0x57544EE5 = ~z~Well, that's done. Let's move.
+
+0x71797D76 = ~z~Here's his head.
+
+0x87552B9F = ~z~Get them! They know we're here.
+
+0x178404C9 = ~z~He's holed up in there waiting for us.
+
+0x277089CE = ~z~Tom Davies, US Marshal.
+
+0x305716E8 = ~z~Who the hell are you all?
+
+0x399222AE = ~z~Here.
+
+0x581969FF = ~z~You take a ride with me to take a look?
+
+0x800762B5 = ~z~You lot, here's yours.
+
+0x1883970F = ~z~Well I never.
+
+0x4761716A = ~z~it's mighty generous of me.
+
+0x20108675 = ~z~~sl:0.0:1.8~Dammit, he'll tell the others.~sl:~There's nothing for it now, find the camp.
+
+0x75861784 = ~z~Yup. Follow me.
+
+0x85021158 = ~z~Marshal Davies told me I'd be guiding seasoned guns.
+
+0xA06C6766 = ~z~I spend most of my time thinking they're better off left to it.
+
+0xA06EFAC7 = ~z~Dammit.
+
+0xA0EAFE3F = ~z~~sl:0.9:4.3~Hold here. Camp up ahead and four men, bring 'em down...~sl:0.2~quiet.
+
+0xA0EC5060 = ~z~Now, I cannot be seen to get too close to any of this.
+
+0xA1B15DE5 = ~z~How'd you get on?
+
+0xA8EEA7A0 = ~z~Not while I don't have the evidence I need.
+
+0xA209FA4C = ~z~You better not be Del Lobos.
+
+0xA709252D = ~z~to an unfortunate dispute that...
+
+0xAA02960F = ~z~You need to be quicker on that. Come on. Might have got away with it.
+
+0xAABD3820 = ~z~Argh...
+
+0xAAE83872 = ~z~At least it ain't Alfredo Montez...
+
+0xAB395C65 = ~z~Take them.
+
+0xAD4E58EE = ~z~Hey, we got to do this quiet.
+
+0xAED9C433 = ~z~Why in hell you do that? Now it's on their terms.
+
+0xAEEF267B = ~z~Follow me. We're going up into the back country.
+
+0xB3B9CD75 = ~z~Jorge Montez was a no good son of a bitch...
+
+0xB8DD8805 = ~z~Just managed that. Let's keep moving. Find Montez.
+
+0xB9FBAEE2 = ~z~He's wanted in four states and two countries.
+
+0xB55FC1DA = ~z~I did not see and results in the death of some undesirables.
+
+0xB93F1E96 = ~z~You know what...
+
+0xB95CB90B = ~z~~sl:0.0:2.0~Well, there goes our slim advantage.~sl:~They know we're coming now.
+
+0xB390CD27 = ~z~Only in that family was he considered a saint.
+
+0xB486DDFD = ~z~Okay. Come on. Stay with me.
+
+0xB68537D8 = ~z~Let's go. They got horses here they don't need.
+
+0xB85432B2 = ~z~Dammit, let's get out of here quick. Hope they didn't hear.
+
+0xBC1D4DFD = ~z~I can't go and kill a man in cold blood, Lee.
+
+0xBF19FC85 = ~z~I said, stay down.
+
+0xC08CA79A = ~z~So you're Horley's proteges, huh?
+
+0xC1DF69C4 = ~z~Alright, friends, I'll be seeing ya.
+
+0xC1EC69DA = ~z~with a price on his head.
+
+0xC58ED4AA = ~z~~sl:0.0:2.3~You all got bows... ~rp~something like that?~sl:0.2~~rp~Get 'em off your horses if you do.
+
+0xCA12AEC3 = ~z~to bring law and order any way we can.
+
+0xCB5D8301 = ~z~Stay with me.
+
+0xCE4F431F = ~z~He sent word you was decent.
+
+0xCEBF5F88 = ~z~We can't take chances like that. Might have got away with it though. Let's go.
+
+0xD5C1231F = ~z~Where you going? Stay with me.
+
+0xD37CFE14 = ~z~The cause of which is unknown to me and other authorities...
+
+0xD448D501 = ~z~Come here.
+
+0xD536CA55 = ~z~~sl:0.0:1.5~I got a man been tracking him...~sl:0.5:2.3~~rp~when I left him, it looked promising, but...~sl:~~rp~we all know a trail can go cold in a heartbeat.
+
+0xD5318181 = ~z~Come on, let's go.
+
+0xDC7DFB05 = ~z~Damn lucky, that was. They didn't hear. Now, come on.
+
+0xDCC2511B = ~z~~sl:0.8~Up here, three more men. Take them out together.
+
+0xDFFC96FF = ~z~Nope, not remotely.
+
+0xE07E96BF = ~z~Paying us to do your job.
+
+0xE51DF19A = ~z~~sl:0.0:2.8~I ain't going to be able to go after Montez with you, but...~sl:0.1~~rp~my man will lead you to him, if he can.
+
+0xE7886EF8 = ~z~Particularly, if the one you're tracking don't want to get tracked.
+
+0xE24770FE = ~z~Okay.
+
+0xE86493D1 = ~z~Coming up on the Post.
+
+0xEB774E8B = ~z~We need to stick together.
+
+0xED9D3240 = ~z~Then that's perfect.
+
+0xED73AC8B = ~z~~sl:0.0:2.2~We're going back to Manzanita.~sl:~I've got a head to give to the Marshal.
+
+0xEE5C97A3 = ~z~killed a family up near Thieves Landing.
+
+0xEE273210 = ~z~Well, that's what I pay you all for.
+
+0xF0411B70 = ~z~This one, um...
+
+0xF6FBC3C5 = ~z~But, I can turn a good old fashioned blind eye...
+
+0xF57CAD4E = ~z~~sl:0.5~Up here, more men. Take them out together.
+
+0xF60A12A4 = ~z~I'll go away, mister Marshal.
+
+0xF70BD10A = ~z~Look out, more on the way.
+
+0xF90C9200 = ~z~~sl:0.0:3.5~Fortunately for us, signs point to Mr. Alfredo Montez~sl:~not caring one fart for who is on his trail.
+
+0xF931EA00 = ~z~Stay with me.
+
+0xF979C298 = ~z~~sl:0.8:4.4~Hold here. Camp up ahead. And three men.~sl:0.4~Bring 'em down... quiet.
+
+0xF7398B6A = ~z~Wrap this up quickly.
+
+0xF4817785 = ~z~How's it going, Lee?
+
+0xF5429401 = ~z~Stay low and move quiet. Come on.
+
+0xFBF568E0 = ~z~~sl:0.0:2.8~Okay, that's enough. We got 'em all.~sl:0.3~Lemme find Montez's corpse, and we can be leaving.
+
+0xFBFB675C = ~z~~sl:0.0:2.9~You see that? Enough game for an army.~sl:0.3~Let's pray they stay thinned out, and we can pick 'em off.
+
+0xFC7FD005 = ~z~Good luck in there.
+
+0xFDB3F9A8 = ~z~Get down or they'll be all over you.
+
+0xFF9FBA29 = ~z~Did some unspeakable things.
+
+0xFF4110FC = ~z~Tidy work. Let's keep moving. Find Montez.
+

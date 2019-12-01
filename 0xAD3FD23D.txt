@@ -1,0 +1,26 @@
+0x0216E2C8 = ~z~I'm a fool, Miss Grimshaw!
+
+0x0E17A730 = ~z~Yep!
+
+0x4E6E3D88 = ~z~Here...
+
+0x6DADB9F4 = ~z~Pathetic wretch... come on!
+
+0x74F08A8C = ~z~Thank you.
+
+0x78F0FCE5 = ~z~
+
+0x86AB2E01 = ~z~some money for your troubles.
+
+0x462E9761 = ~z~Alright...
+
+0x47158677 = ~z~Oh, Mr. Morgan!
+
+0xAD3AD2C4 = ~z~I see you're a slow learner.
+
+0xC395FF7A = ~z~Well...
+
+0xEDA139DD = ~z~
+
+0xF3DD4655 = ~z~That is not up for debate! But in my camp, you'll be a clean fool.
+

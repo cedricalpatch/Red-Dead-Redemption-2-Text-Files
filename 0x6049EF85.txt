@@ -1,0 +1,28 @@
+0x0263BBF0 = ~z~Sure, why not?
+
+0x1FBECE2F = ~z~
+
+0x4B19812A = ~z~In Blackwater, I know. But if I find one, you can have it.
+
+0x4FEFABEF = ~z~Actually, I have a pipe right here. Don't ask.
+
+0x5D6025B7 = ~z~I've been meaning to get one for ages, I left the old... one in...uh...
+
+0x67A2DDF6 = ~z~So... I found you a pipe.
+
+0x77B05A57 = ~z~Not bad. But sometimes, I prefer a pipe.
+
+0x88E6FCC0 = ~z~
+
+0x89F9FEEA = ~z~How's the cigar?
+
+0x133B116A = ~z~~sl:0.5~Aw, don't take too much pride in your work.
+
+0x2491B417 = ~z~You are a gentleman, Mr. Morgan. I raised you well.
+
+0x5506E139 = ~z~Well... would you look at that.
+
+0x46954456 = ~z~You want these? I stole them anyway.
+
+0xA4233338 = ~z~Arthur!
+

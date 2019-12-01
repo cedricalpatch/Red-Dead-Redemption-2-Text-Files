@@ -1,0 +1,666 @@
+0x00660832 = ~z~Well don't let me keep you.
+
+0x013FB90D = ~z~I asked my boys here if they would help their pa build a... a new house.
+
+0x015C2FED = ~z~Move it!
+
+0x01792ED3 = ~z~Look at all that wood! I don't believe it! I can't thank you enough, friend.
+
+0x022BC29A = ~z~You don't have the first idea what you're doing here, do you?
+
+0x02644B91 = ~z~Listen, sorry, I just don't have time to help you with this lumber.
+
+0x02DAA8DC = ~z~Hey what are you doing?
+
+0x05B34D76 = ~z~Hey, come on, don't kick a feller while he's down.
+
+0x06719702 = ~z~We're about ready to call it quits, to be honest with you.
+
+0x07EF7DB3 = ~z~That's it! Get 'em!
+
+0x09862814 = ~z~No, no, you go away! We don't need you raising no more hell round here!
+
+0x0AEF1CE8 = ~z~You stay out of trouble, now.
+
+0x0B1EF718 = ~z~No, no, no! Get out of here! We don't want your help, not after what you did!
+
+0x0B9B1FC6 = ~z~We're broke.
+
+0x0B784D98 = ~z~I appreciate it.
+
+0x0BBA94D3 = ~z~Should'a paid up. Stubborn old fool.
+
+0x0C453749 = ~z~I'mma be a hundred years old by the time we get this done.
+
+0x0D011F96 = ~z~Guess we just have to hurry up and finish.
+
+0x0EC880B2 = ~z~I can't believe this.
+
+0x0F897A2E = ~z~I'll be back later for what you owe me.
+
+0x1AF654AB = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+0x1D0FC185 = ~z~Well don't feel you have to hang around on my account...
+
+0x1DF77941 = ~z~Hey there! Thanks to your help, we should be finished with this soon, God willing.
+
+0x1E325EF3 = ~z~Can't we just leave it now?
+
+0x1EE05141 = ~z~What the hell are you doing to her?
+
+0x1F9D3D1F = ~z~If you're gonna do it, do it right.
+
+0x1F22533E = ~z~At least we don't have to work now.
+
+0x2A7F12F4 = ~z~What, you can't even defend yourself?
+
+0x2A103C26 = ~z~What in holy hell are you doing, boy?
+
+0x2A3830EB = ~z~I can't believe he's making us build a house.
+
+0x2B5B7D85 = ~z~We're done if we don't get more money.
+
+0x2BC0FA10 = ~z~Who's going to buy this shithole?
+
+0x2BFFAC8A = ~z~What's all this about?
+
+0x2D78906C = ~z~I hate this, it's so stupid.
+
+0x2F0AFC4E = ~z~You'll be alright, just stick it out.
+
+0x2F50D5E4 = ~z~It's like being in a chain gang, but your pa's the prison warden.
+
+0x3A1FE9C7 = ~z~~sl:1.5:2.6:1~Don't reckon they'll be back any time soon.
+
+0x3A3C290C = ~z~Good luck.
+
+0x3A64C910 = ~z~No, not yet.
+
+0x3ACE6E0F = ~z~Yeah, doesn't look half bad. Glad it all worked out for you.
+
+0x3ACFFB33 = ~z~Dammit, I was really hoping to get out of this.
+
+0x3B3C7DC6 = ~z~They tried to kill us.
+
+0x3B3DD212 = ~z~Oh, of course, of course! Just as soon as we sell the house you'll get your money back, and then some!
+
+0x3B82576C = ~z~Don't you do that again.
+
+0x3BDD6D88 = ~z~Had any luck finding that lumber for us?
+
+0x3DA157FE = ~z~Get away from it before you mess it up even worse than it is.
+
+0x3E0712A7 = ~z~I guess that's a no, then...
+
+0x3E27734D = ~z~Just back off.
+
+0x4B0BF2DF = ~z~Look out!
+
+0x4B51CA57 = ~z~That's alright, just watch where you're going.
+
+0x4C03ECCA = ~z~Just keep your mouth shut or this visit'll go a lot worse.
+
+0x4CD3701F = ~z~Not that I care too much, but I think my father might want your help.
+
+0x4E0693E1 = ~z~What the hell are you doing to him?
+
+0x4F11CE32 = ~z~Well hey there! What do you think? Turned out pretty nice, didn't it?
+
+0x4FFCB13C = ~z~Hey, that ain't yours.
+
+0x5AE2B684 = ~z~Oh, hello again. Good to see you again.
+
+0x5B343C83 = ~z~Alright, here you go. But you best not be playing me for a fool.
+
+0x5B283396 = ~z~I asked my boys here if they would help their pa build a... a new house.
+
+0x5C2A40E3 = ~z~How's it going?
+
+0x5C6D2FF1 = ~z~Will you keep your hands off our property?
+
+0x5CBEF773 = ~z~He won't let us have no guns. I just want to go home now.
+
+0x5CC5B377 = ~z~We run out of money and he still won't give up.
+
+0x5DAF481A = ~z~Alright, I've had enough of this.
+
+0x5F275751 = ~z~I sure hope so. God, I can't wait to get out of here.
+
+0x5FB7143C = ~z~You better watch that mouth before you go and make me angry again.
+
+0x6A7ACEE1 = ~z~Maybe he'll see reason now.
+
+0x6B2EA8F7 = ~z~Oh, I asked God for sons and he sent me donkeys.
+
+0x6B8F0929 = ~z~You can't think this piece of shit is worth anything?
+
+0x6B234B79 = ~z~What the hell's your problem?
+
+0x6B715E8A = ~z~Just take it easy, come on.
+
+0x6C143E42 = ~z~That means leave! I don't want to see you around here.
+
+0x6C772ABE = ~z~Turned out pretty nice, huh? Just sold it to a farmer moving up here from the south.
+
+0x6CAAB09B = ~z~You're gonna kill somebody, you're not careful!
+
+0x6D18572C = ~z~Hey, hey, what's going on here?
+
+0x6D192368 = ~z~I told 'em where to stick it and, well, guess you just saw how that panned out.
+
+0x6DDAB083 = ~z~Careful, my friend. You don't want to get me all riled up again.
+
+0x6ED0BA68 = ~z~Get that back up again right now!
+
+0x6F3DF378 = ~z~This was a bad idea from the start...
+
+0x6F12BAFD = ~z~You'll be alright, just stick it out.
+
+0x6FEFF112 = ~z~Having fun there?
+
+0x7A05AB32 = ~z~Shit, I didn't think they were serious.
+
+0x7A0895AF = ~z~I won't warn you again, leave!
+
+0x7A1D61A6 = ~z~What the hell is going on?
+
+0x7A9C4708 = ~z~As much trouble as it was, I... think I might actually miss the place.
+
+0x7B198D10 = ~z~I won't be pushed around by the likes of you!
+
+0x7C91C664 = ~z~Whoa, I sure hope you got a good reason to be carrying that around.
+
+0x7DAFDA41 = ~z~I'm gonna keep my eye on you.
+
+0x7DD78A23 = ~z~You make a sorry trio, I gotta say.
+
+0x7EDB7B04 = ~z~What a time to be building, eh?
+
+0x7FD9282F = ~z~What the hell is your problem? You could've killed someone!
+
+0x8A6E56DE = ~z~Looks like it'd blow down in a light breeze.
+
+0x8A67620F = ~z~Don't be bringing no trouble here. We got enough of that already.
+
+0x8AEAFD6F = ~z~Hey, we're just getting started. My sons may be idiots but it'll hold up.
+
+0x8C1D2A91 = ~z~No, no, you go away! We don't need you raising no more hell around here.
+
+0x8C924DB7 = ~z~Same to you.
+
+0x8CD17689 = ~z~What's your problem? Can't you just leave us alone?
+
+0x8E89E61A = ~z~You need to get off our land right now.
+
+0x8FEAF4DF = ~z~Now get the hell out of here!
+
+0x8FF9C5E5 = ~z~What would be the fun in that?
+
+0x9A9DBDBA = ~z~And now we're broke. I swear we'll never be rid of this place.
+
+0x9ADAC6FA = ~z~You're gonna kill somebody, you're not careful.
+
+0x9AF2559C = ~z~I ain't paying you a damn cent!
+
+0x9D8E610E = ~z~What's your problem? Can't you just leave us alone?
+
+0x9D89B7ED = ~z~Thieving bastard!
+
+0x9D97981A = ~z~I can't believe you got somebody to buy that pile of scrap wood.
+
+0x9E281D6E = ~z~You watch yourself, alright?
+
+0x9F7EC48F = ~z~Seriously? Who gives away that much?
+
+0x11AEEFAE = ~z~Ha! Tell that to them.
+
+0x13DF6601 = ~z~Hey, you're preaching to the choir, mister.
+
+0x14C733AD = ~z~Listen, I-I... I hate to ask , but...
+
+0x15D87C12 = ~z~Reckon you fellers should've just paid up.
+
+0x17DDB5F8 = ~z~What happened to you two? Cowering like dogs!
+
+0x17E6B855 = ~z~Oh, hey there.
+
+0x18D49944 = ~z~I'd give up now if I was you. This is going nowhere.
+
+0x19DE63CC = ~z~Time for me to move on, though. Just sold it to a farmer moving up here from the south.
+
+0x21BD62D8 = ~z~I don't care if we just give it away at this point.
+
+0x23AF04E4 = ~z~I sure hope you got a good reason for carrying them around.
+
+0x25A82B95 = ~z~Well good luck to you.
+
+0x25C043F3 = ~z~Yep. Well, I should be making tracks. All the best to you.
+
+0x25C0EEA8 = ~z~Hey, put that down.
+
+0x27A694F0 = ~z~You fools are never going to finish this place.
+
+0x32BADACD = ~z~Guess you're still carrying that grudge, huh?
+
+0x33FF8861 = ~z~Hey, watch where you're pointing that thing.
+
+0x40FD6A8F = ~z~Leave me outta this.
+
+0x46ABE9D2 = ~z~Making us do all the work...
+
+0x54D1A06D = ~z~No, you get the hell out of here! Stay away from my family!
+
+0x54DB3892 = ~z~Get that back up again right now!
+
+0x55F16934 = ~z~And don't worry, I ain't forgotten your payment. Come back once we've finished and I'll have it for you.
+
+0x56BD1058 = ~z~Hey, watch it.
+
+0x57BD5119 = ~z~I won't tell you again.
+
+0x59D63D5E = ~z~That seems a real bad idea, mister.
+
+0x60C3F53B = ~z~Sorry 'bout that.
+
+0x60C21E4B = ~z~What in holy hell are you doing, boy?
+
+0x62E4CFCB = ~z~do you think we could have the lumber on that wagon there?
+
+0x63BF9EC5 = ~z~Hey what are you doing with that dynamite?
+
+0x67BDF11A = ~z~Get the hell out of here now!
+
+0x70CC7A9B = ~z~Looks like you're almost done.
+
+0x70E908CE = ~z~We sure are... did you change your mind?
+
+0x70EA65D3 = ~z~Whoa, what are you doing with that dynamite?
+
+0x74C6D192 = ~z~Look out!
+
+0x76B3B57C = ~z~Hey enough of that.
+
+0x76EF5B77 = ~z~No, Pa!
+
+0x78FC46EE = ~z~Help us, please!
+
+0x79F82DA6 = ~z~No lumber, but I guess I can lend you some money.
+
+0x86DF8E7D = ~z~I got more of a chance of teaching a pig to sing opera,
+
+0x86E275C9 = ~z~Well I hope to be further along when you next pass through.
+
+0x87A5AE1E = ~z~Looks like you're almost there.
+
+0x87DFC6E6 = ~z~We're lucky to be alive.
+
+0x93B9591E = ~z~Well, will you help us?
+
+0x97BCDF16 = ~z~You might be right... though they'd probably fall in and drown. Goddamn fools.
+
+0x127DAC61 = ~z~Well I'm sure you got things to do.
+
+0x193DB985 = ~z~Heh, with my luck? We'll see.
+
+0x194CD968 = ~z~The place is looking good.
+
+0x217EBB39 = ~z~They don't look so bad to me.
+
+0x315D0953 = ~z~Stay out of trouble.
+
+0x328FA5CA = ~z~Yup. For now, at least...
+
+0x471BB1CB = ~z~You'll be alright.
+
+0x513BF6BE = ~z~Well, I appreciate you trying. If we don't get our hands on some soon, I reckon we'll just have to call it quits.
+
+0x524C7737 = ~z~~sl:0.0:1.2:1~Ain't that right, boys?
+
+0x617D57F7 = ~z~Can we just go home already?
+
+0x621E09D8 = ~z~Not gonna tell you again, get the hell outta here. Now.
+
+0x682DDF37 = ~z~I'mma be a hundred years old by the time we get this done.
+
+0x690CD834 = ~z~Oh, I ain't mister. I swear.
+
+0x751CEAF8 = ~z~Ah, we're moving along slowly, but less than surely.
+
+0x795A7B43 = ~z~Well, it ain't going at all.
+
+0x829BAC33 = ~z~Still short on supplies?
+
+0x854D3FE7 = ~z~Stay outta my way, then.
+
+0x891AF84F = ~z~Are you listening to me? You ain't welcome here.
+
+0x960B7AF0 = ~z~I think my father might want your help.
+
+0x1073B982 = ~z~Now get the hell out of here!
+
+0x1342ED4E = ~z~No, come on. Please. I'm at my wit's end here.
+
+0x2571C841 = ~z~We've given you enough chances.
+
+0x2857C260 = ~z~Of course, not a problem.
+
+0x2903AEC3 = ~z~I'mma be a hundred years old by the time we get this done.
+
+0x3842E70C = ~z~What the hell do you want now? Ain't you done enough to hurt us? Leave us the hell alone!
+
+0x5803C8A1 = ~z~Alright, that's it! You've gone too far!
+
+0x6325AE50 = ~z~
+
+0x7694CBFC = ~z~I'd seriously rather be doing anything else.
+
+0x8676DCF7 = ~z~Looks like you're making progress at least.
+
+0x8908FF76 = ~z~I'm clutching at anything right now.
+
+0x27210E5D = ~z~Good for you. So, can I have my money now?
+
+0x34326EA1 = ~z~This is the worst idea I ever had.
+
+0x51550AAF = ~z~Well, good luck to you.
+
+0x53421DF5 = ~z~Are you listening to me?
+
+0x70730CD2 = ~z~Kinda like rolling molasses up a steep sandy hill, with these two.
+
+0x76010AD5 = ~z~We might actually finish this thing.
+
+0x76440F97 = ~z~You can't do that! Let him go.
+
+0x76652D2F = ~z~Hey, leave her alone.
+
+0x79968BF5 = ~z~Shit, I'm outta here.
+
+0x88386F43 = ~z~Keep at it, you'll get there.
+
+0x91358A73 = ~z~Couldn't hammer a nail to save their lives.
+
+0x98639E32 = ~z~They think it's their land. But it ain't.
+
+0x208993B2 = ~z~
+
+0x225048B2 = ~z~I think it's best you keep moving along.
+
+0x232008FE = ~z~Get the hell out of here.
+
+0x495684D1 = ~z~You best put that away, before you hurt somebody.
+
+0x1780151B = ~z~Go on, get out of here! I don't want to see your face.
+
+0x2571511F = ~z~You wouldn't give us no guns, Pa!
+
+0x3378064D = ~z~You can't think this shithole is worth anything?
+
+0x8239305E = ~z~We're moving along here slow as ever, as you can see.
+
+0x9313894A = ~z~Why can't we just quit?
+
+0x9718504F = ~z~Hey what the hell are you doing to him?
+
+0x37591246 = ~z~If only I could turn back time and say no to this.
+
+0x38492030 = ~z~Next time maybe take your sons fishing or something.
+
+0x54193474 = ~z~Hey, what's the dynamite for?
+
+0x55517045 = ~z~I know, but try telling that to our pa.
+
+0x59285090 = ~z~I hope you're right.
+
+0x81819431 = ~z~This is the exact opposite of fun, mister.
+
+0x93380872 = ~z~Ain't sure you should be carrying them around on our land.
+
+0x95916249 = ~z~Wish Pa'd teach us to shoot instead building this stupid house.
+
+0xA0B8F2D4 = ~z~do you think you could lend us the money that we're gonna need to finish?
+
+0xA1CFDC38 = ~z~Get off my land!
+
+0xA7C71E67 = ~z~Maybe he'll yell at someone else for a change.
+
+0xA9FD2473 = ~z~Sure don't feel like it.
+
+0xA37A2EFC = ~z~Thought I'd teach them a few things, you know?
+
+0xA42AB5BD = ~z~You'll have to figure this out yourselves, it ain't my problem.
+
+0xA64BF393 = ~z~Oh, you're back!
+
+0xA3826DA4 = ~z~I'll try...
+
+0xAB3DB366 = ~z~Alright. If that's how you're gonna be, I'm leaving.
+
+0xAC85F1A4 = ~z~I ain't gonna tell you again!
+
+0xAD4FCD1C = ~z~I'm done with this son of a bitch. Take him out, boys.
+
+0xADBE4384 = ~z~Whatever you say, Pa.
+
+0xAFD4910F = ~z~I-I-I will pay you back, I swear on my life.
+
+0xAFFA3E23 = ~z~What are you doing to that woman?
+
+0xB01757C1 = ~z~Right from under my nose, you bastard.
+
+0xB0C40030 = ~z~Well, good luck to you.
+
+0xB0CFB22A = ~z~Come on, mister, don't do nothing stupid.
+
+0xB2F52693 = ~z~You seem to be back on track anyway. I'll see you later.
+
+0xB5BCD2AC = ~z~Just cut it out, will you?
+
+0xB5F932BC = ~z~I got enough on my own plate. I'm sure you three can work it out.
+
+0xB7DB47FB = ~z~You make a sorry trio, I gotta say.
+
+0xB20F1154 = ~z~Get the hell off my property!
+
+0xB37C9CA4 = ~z~Again? Are you serious?
+
+0xB133D03D = ~z~Yeah! Give it to those sons of bitches!
+
+0xB935FC67 = ~z~Yeah, you better.
+
+0xB5730216 = ~z~Hey! Get outta here. This doesn't concern you.
+
+0xBAC83A14 = ~z~is there any way that you could help us get the supplies that we need to finish?
+
+0xBB10BCF8 = ~z~might have lumber for sale.
+
+0xBB423665 = ~z~You boys don't seem cut out for this.
+
+0xBBEC2A9D = ~z~Alright, sure. Take it. Ain't like I got much use for it.
+
+0xBC3900D4 = ~z~Looks like you're almost finished.
+
+0xBD4BC16E = ~z~There's a logging camp over in Big Valley, pretty much straight west of here, that
+
+0xBD9C19F8 = ~z~What in holy hell are you doing, boy?
+
+0xBD8064DC = ~z~Hey, what are you doing?
+
+0xBDDBE91F = ~z~I never said it was. No harm in asking.
+
+0xBE1F40CB = ~z~Hey, you can't just take that.
+
+0xBE1FE447 = ~z~Ain't that right, Curtis?
+
+0xBE29F36D = ~z~Thieving bastard.
+
+0xBEF00507 = ~z~I never wanted to be here in the first place...
+
+0xBF8CC76D = ~z~I just want to go back home.
+
+0xC00AFA00 = ~z~I swear he's crazy.
+
+0xC1EA0A12 = ~z~We're with you on that.
+
+0xC2A82410 = ~z~Get that back up again right now!
+
+0xC4BFC560 = ~z~What the hell is going on?
+
+0xC4FCBB5F = ~z~We're about ready to call it quits, to be honest with you.
+
+0xC5F9827B = ~z~You got some nerve coming back here! Get the hell out of my sight or you'll be sorry!
+
+0xC9C2C4EB = ~z~Listen, I... I-I hate to ask, but...
+
+0xC9D905CF = ~z~Hey, you don't ask, you don't get.
+
+0xC50F079C = ~z~We're almost done, right?
+
+0xC58CCF9D = ~z~Listen, I-I... I hate to ask, but uh...
+
+0xC89A0878 = ~z~I don't know what you fools are playing at here.
+
+0xC94E639D = ~z~We managed to drum some together. Here you are, as promised, and with interest.
+
+0xC328E7BB = ~z~If he don't like the way we're doing it, he should do it himself.
+
+0xC1147C7C = ~z~Hey! What the hell do you think you're doing?
+
+0xC5656DED = ~z~I'm done with this.
+
+0xC7822DAC = ~z~Well I hope to be further along when you next pass through.
+
+0xC95534C8 = ~z~You let him go right now!
+
+0xCA0836A0 = ~z~At least we're almost done.
+
+0xCB0AD5F6 = ~z~Oh, I agree. We ain't. This was our pa's dumb idea.
+
+0xCCB6A094 = ~z~All that for this crappy piece of land.
+
+0xCD506300 = ~z~You'll be alright, just stick it out.
+
+0xCDCEE021 = ~z~We're about ready to call it quits, to be honest with you.
+
+0xCEDCA4EB = ~z~I ain't promising nothing, but I'll see what I can do.
+
+0xCF8365DD = ~z~Well... I ain't promising nothing, but I'll see what I can do.
+
+0xCFC04CB6 = ~z~Go away!
+
+0xD0D9831C = ~z~Why does he yell at us like that?
+
+0xD0E2C085 = ~z~Useless as a eunuch in a cat house, the pair of you!
+
+0xD2CAA313 = ~z~Soon as we're finished, I'm striking out on my own.
+
+0xD2F85B40 = ~z~Why don't you leave us alone?
+
+0xD5C09956 = ~z~Shoot them, the damn crooks!
+
+0xD50B0459 = ~z~Okay, I'll take your word for it.
+
+0xD64D235F = ~z~Ah, never mind.
+
+0xD68DE8FC = ~z~Just help us out here!
+
+0xD95DAF28 = ~z~Alright, that's it. You've gone too far!
+
+0xD99D49D7 = ~z~Get the hell off our property!
+
+0xD398E22E = ~z~Holy shit, just calm down.
+
+0xD531C90B = ~z~Look out!
+
+0xD4871FD3 = ~z~We'll figure something out, I guess.
+
+0xD40853FB = ~z~Ah, good to see you again.
+
+0xD194986E = ~z~Alright, keep your shirt on. Just paying my regards.
+
+0xD3793519 = ~z~You too, friend.
+
+0xDB7CC5D3 = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+0xDB816B7A = ~z~Get away from it before you mess it up even worse than it is.
+
+0xDE4717AA = ~z~I'll have it just as soon as we manage to sell this place off.
+
+0xDFCD7C05 = ~z~I ain't gonna tell you again!
+
+0xDFF62155 = ~z~Let's just enjoy the silence for a few minutes, before he starts griping at us again.
+
+0xE062E078 = ~z~I'll kill all you bastards!
+
+0xE08C5EEA = ~z~Hey, that ain't yours to take!
+
+0xE1B1D18A = ~z~All the best.
+
+0xE4E0C31C = ~z~You seriously think you're going to make any money off this place?
+
+0xE33F3BC3 = ~z~There was me thinking we'd put all that behind us.
+
+0xE73C83F5 = ~z~He just wants to lord over us.
+
+0xE855EF6B = ~z~Look why... why do you never listen?
+
+0xE2564ECC = ~z~I-I-I will pay you back, I swear on my life.
+
+0xE9849C3D = ~z~Appreciate you stepping in there.
+
+0xE7489183 = ~z~Are you crazy?
+
+0xEA8FB0B7 = ~z~You're paying me back, though.
+
+0xEBA48952 = ~z~I don't even care. I just want to be done with it.
+
+0xEBAB69B0 = ~z~I'm just passing through, nothin' but civil.
+
+0xEC06A141 = ~z~Those bastards been turning the screw on me from day one, saying I gotta pay them "protection" money.
+
+0xEC10C5D2 = ~z~That's right, that's right... you better run.
+
+0xECBAE84F = ~z~Get away from it before you mess it up even worse than it is.
+
+0xED28F514 = ~z~Hey, what are you doing?
+
+0xEE2FFA31 = ~z~No more of that, you hear me?
+
+0xEEDD7D8B = ~z~You a bounty hunter, mister?
+
+0xF05EDE1C = ~z~We told you not to build on this land.
+
+0xF2E5C611 = ~z~I just hope those two boneheads get their act together.
+
+0xF3E84495 = ~z~No, no, no, no. No, no, no, no, no. Get away from it.
+
+0xF4AF4AC7 = ~z~Damn straight.
+
+0xF4C80CB7 = ~z~Just back off!
+
+0xF4DC6313 = ~z~You're right, who's gonna buy this hunk of junk?
+
+0xF5AF88E9 = ~z~Just give me my money.
+
+0xF52A20FC = ~z~Bye then...I'll keep an eye out for that lumber.
+
+0xF3791D80 = ~z~We got a long way to go, huh?
+
+0xF6950CDC = ~z~You can't intimidate me!
+
+0xF50640D3 = ~z~Stop taking our stuff, damn it.
+
+0xFA1EE65A = ~z~I'm gonna get out of here before you try to scrounge anything else off me.
+
+0xFB91539E = ~z~He's barely even picked up a hammer.
+
+0xFCF6AF69 = ~z~We should never have said yes to this.
+
+0xFD56782A = ~z~Just a few more nails.
+
+0xFD925380 = ~z~It's just been one thing after the next. Can't wait to just be shut of the place.
+
+0xFED47DE9 = ~z~than to turn this pair into carpenters.
+
+0xFFE71785 = ~z~Just leave me alone.
+

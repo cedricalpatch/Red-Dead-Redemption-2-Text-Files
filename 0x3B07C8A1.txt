@@ -1,0 +1,30 @@
+0x1FFE975F = ~z~Please go away.
+
+0x2F19B2B3 = ~z~And you be careful before you hit me again, you goddamn moron.
+
+0x20CE161C = ~z~Dutch or no Dutch, you'll be up there with the angels playing harp before sunset. You hear me?
+
+0x396DCA3D = ~z~What is your problem, you little strumpet?
+
+0x824B5909 = ~z~Look at me. Look at me, you little...
+
+0x1198FA98 = ~z~It means, go away.
+
+0x6662A138 = ~z~
+
+0x48526806 = ~z~I got lots of problems, mostly I drink too much.
+
+0x58030479 = ~z~I'm the dumb strumpet. Now get lost.
+
+0xA36A9E3D = ~z~And what is that supposed to mean?
+
+0xBCFA4E72 = ~z~Damn you!
+
+0xBFFF5766 = ~z~Just who do you think you are saying them things about me?
+
+0xD6158392 = ~z~What is your problem?
+
+0xE4F3214D = ~z~Nothing but the obvious.
+
+0xF6C0C4E8 = ~z~What's your problem with me?
+

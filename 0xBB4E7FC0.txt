@@ -1,0 +1,30 @@
+0x0CF6DDE0 = ~z~You're a sneaky one, Morgan... I know your type.
+
+0x2B8E3D19 = ~z~Bye now.
+
+0x3AA8B943 = ~z~Don't mind me.
+
+0x9C561E8F = ~z~I got work to do.
+
+0x96FF7DC9 = ~z~You could make a feller real happy... bet you know how.
+
+0x820A47F5 = ~z~Bye now.
+
+0x993D0244 = ~z~Thank you.
+
+0x5625703C = ~z~I got work to do.
+
+0xA87EA0CB = ~z~Quite a woman...
+
+0xAB06BBF0 = ~z~Oh, don't mind me.
+
+0xAB87A6D9 = ~z~you're quite a woman.
+
+0xBDA8CB1B = ~z~I never... I never told you this. But...
+
+0xCFEE6FA6 = ~z~Just fine.
+
+0xE0549072 = ~z~How you keeping, Abigail?
+
+0xF29334EF = ~z~
+

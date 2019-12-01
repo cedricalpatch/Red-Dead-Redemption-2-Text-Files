@@ -1,0 +1,88 @@
+0x097ED222 = ~z~Of silver and gold;~n~~m~Of silver and gold;
+
+0x0C28F3ED = ~z~And when I get thirsty, I'll lay down and cry.
+
+0x2E1B55F5 = ~z~Do make me a pallet, I'll lie on the floor.~n~~m~Do make me a pallet, I'll lie on the floor.
+
+0x3B496EF1 = ~z~If the ocean were whiskey;
+
+0x5A541042 = ~z~I surely will die.~n~~m~I surely will die.
+
+0x5F0F7D42 = ~z~I'm a rabble rouser and Dixie's my home.
+
+0x6D4F19C1 = ~z~My love for you, it has caused me to roam;
+
+0x7D5BF2F9 = ~z~And get one sweet sup;
+
+0x7D54B9CC = ~z~That I leave my old parents, my house and my home;
+
+0x8AABD47A = ~z~O Mollie, O Mollie, it's for your sake alone;
+
+0x8DC6F727 = ~z~O baby, O baby, I've told you before;~n~~m~O baby, O baby, I've told you before;
+
+0x21A7BB92 = ~z~And I were a duck;
+
+0x43D446CC = ~z~Jack o' diamonds, Jack o' diamonds;~n~~m~Jack o' diamonds, Jack o' diamonds;
+
+0x56BF0838 = ~z~And them that don't like me can leave me alone.
+
+0x99EC0E7D = ~z~My foot's in a stirrup, my bridle's in my hand;
+
+0x126C1D1B = ~z~But the ocean ain't whiskey;
+
+0x252A42B3 = ~z~I'm a rabble rouser and Dixie's my home.
+
+0x364B2BBA = ~z~I know you of old;~n~~m~I know you of old;
+
+0x370FE662 = ~z~I'd dive to the bottom;
+
+0x894AED4F = ~z~I'll eat when I'm hungry, I'll drink when I'm dry;
+
+0x991C0DBD = ~z~Green backs when I'm hard up;~n~~m~Green backs when I'm hard up;
+
+0x26498BB7 = ~z~You robbed my poor pockets;~n~~m~You robbed my poor pockets;
+
+0x71213DDC = ~z~If I don't get rye whiskey;~n~~m~If I don't get rye whiskey;
+
+0xA6CDA920 = ~z~And whiskey when I'm dry;~n~~m~And whiskey when I'm dry;
+
+0xA948AD36 = ~z~And cause me to brawl.~n~~m~And cause me to brawl.
+
+0xB4A0C4C6 = ~z~Rye whiskey, rye whiskey;~n~~m~Rye whiskey, rye whiskey;
+
+0xB660C766 = ~z~Her parents don't like me, they say I'm too poor;
+
+0xBDD8D66A = ~z~They say I drink whiskey, my money's my own;
+
+0xBEE85969 = ~z~Rye whiskey I cry;~n~~m~Rye whiskey I cry;
+
+0xC4A263E9 = ~z~I'm leaving sweet Mollie, the fairest in the land.
+
+0xC25B603B = ~z~And hell when I die.~n~~m~And hell when I die.
+
+0xC9380C30 = ~z~And then we'll get drunk;
+
+0xCABC0DD8 = ~z~Raising hell with the gang, that's where I am bound;
+
+0xCBB07219 = ~z~They say I'm unworthy to enter her door.
+
+0xD3F621AC = ~z~O Baby, O Baby, I've told you before~n~~m~O Baby, O Baby, I've told you before
+
+0xD7FBA857 = ~z~It's with these gunslingers, dear Mollie, I'll roam;
+
+0xDD7B95B3 = ~z~You've been my downfall;~n~~m~You've been my downfall;
+
+0xE3F5C1AB = ~z~And I ain't no duck;
+
+0xEE32D4C5 = ~z~Do make me a pallet, I'll lie on the floor.~n~~m~Do make me a pallet, I'll lie on the floor.
+
+0xF5AB6516 = ~z~So I'll play Jack o' diamonds
+
+0xF6BBC833 = ~z~You've kicked me, you've cuffed me;~n~~m~You've kicked me, you've cuffed me;
+
+0xFBB93697 = ~z~O Whiskey, you villian;~n~~m~O Whiskey, you villian;
+
+0xFD97738E = ~z~I've rambled and trambled this wide world round;
+
+0xFDDA5750 = ~z~It's beefsteak when I'm hungry;~n~~m~It's beefsteak when I'm hungry;
+

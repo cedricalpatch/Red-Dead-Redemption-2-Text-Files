@@ -1,0 +1,454 @@
+0x00171D6A = ~1~ Deliveries
+
+0x00BE0A29 = You already have maximum ~1~~s~ ammo.
+
+0x013F903A = Deliveries
+
+0x0178EEAB = ~1~ Bout Won
+
+0x021692CA = Beaver's Hollow
+
+0x03F4984F = Blackwater
+
+0x04B64D63 = Gunfight
+
+0x051709A3 = Missing Husband Shack
+
+0x051E4C67 = WINNER
+
+0x05B38D19 = Bacchus Bridge
+
+0x05EFFCCE = Clemens Cove
+
+0x06810174 = ~1~~s~ is now spectating
+
+0x0784EC46 = POSSE STATS
+
+0x0819071F = Flatneck Station
+
+0x0862A92D = Valley View
+
+0x0A4BD8CB = BOUT WON
+
+0x0A735616 = Cinco Torres
+
+0x0CCDC9BB = Hill Haven Ranch
+
+0x0D4BD5EF = Camp
+
+0x0E06596D = Lucky's Cabin
+
+0x0E9B7C32 = Serial Killer Shack
+
+0x0EA3DEB4 = Fun
+
+0x0EF244FA = Deciding Bout
+
+0x0F1E5E27 = WON
+
+0x0FA56903 = Time Alive
+
+0x0FF5826C = Castor's Ridge
+
+0x1A8C6083 = Starving Children Shack
+
+0x1B6C7845 = Balanced
+
+0x1DD3A9F1 = Compsons Stead
+
+0x1DF1C041 = ~1~/~2~
+
+0x1EEB4A1C = Orange Plantation
+
+0x2A9BB911 = Colter
+
+0x2C5431F7 = Bouts Won
+
+0x2CDB002A = Cornwall Kerosene & Tar
+
+0x2CDF8298 = Round ~1~
+
+0x2EA91E3A = Unbalanced
+
+0x3E6EBDC5 = Boring
+
+0x3E7B71B1 = Owanjila Dam
+
+0x4A32F232 = ~1p~
+
+0x4A36783D = Crop Farm
+
+0x4B8CB138 = First to ~1~ Bouts Wins
+
+0x4C49B30F = HEATMAP
+
+0x4C97107E = WINNERS
+
+0x4E5CB18A = BOUT LOST
+
+0x4EB3857C = Thumbs Up
+
+0x4F0762A1 = MISSION PASSED
+
+0x5A57E97D = Beechers
+
+0x5AFB8B8C = Captures
+
+0x5B54E686 = Time ~1p~
+
+0x5BAB3132 = Vote Like
+
+0x5CE1DD7F = Tied
+
+0x5D8CCF0F = Value
+
+0x5D48D4F1 = Aguasdulces
+
+0x5F0E2F11 = Clemens Point
+
+0x6C722D82 = Tumbleweed
+
+0x6D88593B = Round Won
+
+0x6F51B927 = Brandywine Drop
+
+0x7A0ABA29 = Rathskeller Fork
+
+0x7A808C1D = Macleans House
+
+0x7AA36D43 = Canebreak Manor
+
+0x7B84F3AF = Siltwater Strand
+
+0x7B741C62 = ~1~ Death
+
+0x7CB3169C = ~1~ Delivery
+
+0x7DD3F7F1 = Poison Leak Shack
+
+0x7F9D3CCE = Crawdad Willies
+
+0x8ADA1148 = Love Triangle Shack
+
+0x8B5EB665 = Death
+
+0x8BF3479D = OUT OF TIME
+
+0x8D11A3B9 = Veteran Shack
+
+0x8E822E1C = Copperhead
+
+0x8F48E56B = Serendipity
+
+0x9B553A55 = Happy Family Shack
+
+0x9D305445 = Strawberry
+
+0x10FEE088 = Clingman
+
+0x17E232FF = Lonnie's Shack
+
+0x20C5568F = Wilderness
+
+0x25AE704E = Civil War Bridge Shack
+
+0x32C2A211 = Adler Ranch
+
+0x32E107F0 = La Capilla
+
+0x39F85A13 = Close Leaderboard
+
+0x43A9B876 = Annesburg
+
+0x44EA02A6 = XP
+
+0x45A34A1E = Exploitable
+
+0x45EDF99E = Play Style
+
+0x54BA3C7A = DNF
+
+0x55C52E12 = Eris Field
+
+0x57BAEE4D = Cliched
+
+0x58DE46D3 = ~1p~ got the first kill
+
+0x61F0C560 = Round Lost
+
+0x63E0C2DD = Butcher's Creek
+
+0x65D66E1B = Horseshoe Overlook
+
+0x65D78CF2 = Mountain Man
+
+0x65EC03C4 = Pronghorn Ranch
+
+0x67AA5348 = El Hueco
+
+0x74B6AD38 = Granite Pass
+
+0x75DC7ADE = Score
+
+0x76F0A09C = Wallace Station
+
+0x77EAFC4C = RETURN TO STATS
+
+0x80B16CD3 = ~1p~ had more health left
+
+0x83E46813 = Scoreboard
+
+0x85BA1EE3 = Roanoke Valley
+
+0x89DA49EB = The Loft
+
+0x93A21BF7 = Monto Rest
+
+0x93CDB078 = Radley's Pasture
+
+0x93D50E52 = Aurora Basin
+
+0x95F62C49 = ~1~~s~ is now playing
+
+0x99BF5769 = Carmody Dell
+
+0x139AFE90 = Mossy Flats
+
+0x181F419B = Van Horn Mansion
+
+0x216A8441 = Original
+
+0x233A8023 = Chez Porter
+
+0x407C9CEE = First Bout
+
+0x531CED29 = Name
+
+0x552AB569 = Larned Sod
+
+0x573C0825 = Emerald Ranch
+
+0x574B9DAC = Value ~1~
+
+0x590EE869 = Tempest Rim
+
+0x645DD16B = You already have maximum ammo for the ~1~~s~.
+
+0x652F1FCB = Rounds Won
+
+0x800F2C5C = Six Point Cabin
+
+0x805A2260 = MATCH WON
+
+0x985D2FB2 = Hanging Dog Ranch
+
+0x3332BFF3 = Cohutta
+
+0x4437A78A = ~1~ Captures
+
+0x5060B346 = ~1~ Kills
+
+0x6017B09C = Kills
+
+0x6886E18B = Tanner's Reach
+
+0x6888E7E1 = Fort Riggs
+
+0x6954EE35 = ~1p~ had fewer deaths
+
+0x7057E4CF = El Nido
+
+0x7484DE4C = ~1p~ captured more locations
+
+0x8020F3C4 = Time
+
+0x8160C3EE = Dead Rival Shack
+
+0x9159DF58 = Downes Ranch
+
+0x9740A7B6 = PLACED
+
+0x9744A3D8 = Bulger Glade
+
+0x9758F26C = Manzanita Post
+
+0x19614E5E = First to ~1~ Rounds
+
+0x45725ADA = Appleseed Timber
+
+0x46044C24 = Loony Cult
+
+0x50920CF5 = ~1~ ~2p~
+
+0x352323A1 = Bout ~1~
+
+0x677224C9 = Lone Mule Stead
+
+0x763309E1 = You already have maximum health.
+
+0x936434D5 = Thumbs Down
+
+0x3947849A = ~1p~~2p~
+
+0x4654243B = Watsons Cabin
+
+0x6288051A = Aberdeen Pig Farm
+
+0x8325498E = Grangers Hoggery
+
+0x8872185D = PLAY STYLES
+
+0x38515837 = Painted Sky
+
+0x48637417 = Kills
+
+0x61440604 = Braithwaite Manor
+
+0x81414733 = ROUND LOST
+
+0x97470680 = LOSER
+
+0xA01E4F98 = Underground Railroad Shack
+
+0xA3CFD018 = ~1~% Accuracy
+
+0xA21E691D = Dino Lady
+
+0xA85E2102 = Doverhill
+
+0xA88DEE96 = You are unable to pick up this weapon.
+
+0xA95A2E84 = Calumet Ravine
+
+0xA210D3EC = ~1~ Points
+
+0xA917BDEA = ~1~ Bouts Won
+
+0xAA683FBC = ~1~~s~ is now playing on ~2~
+
+0xAB046BF1 = Millesani Claim
+
+0xADD17787 = Macomb's End
+
+0xADE959AF = Saint Denis
+
+0xB01C7003 = ~1~ Point
+
+0xB5A4899F = Cumberland Falls
+
+0xB6CE9281 = Dead Settler
+
+0xB9C612A9 = ~1~ Capture
+
+0xB9F5C097 = Hungry Bear Shack
+
+0xB23E4B6F = Black Balsam Rise
+
+0xB61D3B79 = Wapiti
+
+0xB99F10EC = CLOSE
+
+0xB6803EC1 = Frozen Explorer
+
+0xB849185C = ~1p~ had more kills
+
+0xBA878ED4 = Winter Mining Town
+
+0xBAFD24A3 = Gaptooth Breach
+
+0xBDA9BDBC = Vote Dislike
+
+0xBEF56596 = Catfish Jacksons
+
+0xC0B05660 = Beryl's Dream
+
+0xC5C18851 = Key Players
+
+0xC47D31F0 = ROUND WON
+
+0xC70BB15B = Shack
+
+0xC285AED3 = Pacific Union Railroad
+
+0xC727D1A5 = Deaths
+
+0xCB341F97 = Slave Den Shack
+
+0xCB173640 = Team Lives
+
+0xCBBF8F6A = WINNERS
+
+0xCC5B2ADF = Riggs Station
+
+0xCC9D4983 = Fastest Lap
+
+0xCD7BBD84 = ~1~
+
+0xCE0C094F = Points
+
+0xCF83AB9F = Lagras
+
+0xD0968BF8 = Caliga Hall
+
+0xD0E9E898 = Shadybelle
+
+0xD386C57C = Isolationist Shack
+
+0xD4212952 = Merkin's Waller
+
+0xDBF226A6 = LOST
+
+0xDC8DF276 = Sisika Penitentiary
+
+0xDF21727F = Abandoned Mill
+
+0xE0BC632F = MATCH LOST
+
+0xE10EE796 = ~1~ Deaths
+
+0xE51FDCCC = WON
+
+0xE98EB1B4 = ~1~~s~ is now playing on your team
+
+0xE271FEA1 = Cochinay
+
+0xE719B447 = LOST
+
+0xE9394D51 = Quakers Cove
+
+0xE31545C8 = Position
+
+0xE84061DA = Van Horn Post
+
+0xE8366929 = Lives
+
+0xECC5AAB9 = Manicato
+
+0xECE535F9 = Rocky Seven
+
+0xEF0F8162 = Shepherds Rise
+
+0xF3F82E53 = Valentine
+
+0xF5D7666F = MVP
+
+0xF6E03E4C = ~1p~ had more headshots
+
+0xF9D8B51E = Stylish
+
+0xF492A6ED = Fort Wallace
+
+0xFA5642FD = Accuracy (%)
+
+0xFA9487AF = ~1~ Kill
+
+0xFB6D5073 = Score
+
+0xFB68E393 = Cash
+
+0xFC75ED27 = Rhodes
+
+0xFCEB866E = Lakay
+
+0xFEF6C3F6 = Ironcloud
+

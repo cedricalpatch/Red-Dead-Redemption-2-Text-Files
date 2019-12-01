@@ -1,0 +1,104 @@
+0x07CC6732 = Pick up Compson's ~o~ledger~s~
+
+0x0BFD3253 = Inspect note
+
+0x0DB4A42A = Deal with the ~e~squatters~s~
+
+0x1C964A21 = Search the ~o~house~s~ for Compson's pistol and ledger
+
+0x1E7B66B3 = Pick up old revolver
+
+0x2A7465DD = Search the ~o~house~s~ for Compson's watch, pistol and ledger
+
+0x4CBE1799 = Pick up black book
+
+0x5E1A5694 = Inspect hat
+
+0x6D8CF579 = Inspect toy dog
+
+0x7D838C02 = Search the ~o~house~s~ for Compson's watch and ledger
+
+0x8B026845 = Confront
+
+0x31A60841 = Inspect Photo
+
+0x31C19DDF = House
+
+0x36D88811 = Inspect diary
+
+0x42B0A030 = Compson's pistol
+
+0x87CBAA06 = Inspect drawing
+
+0x95E50369 = Pick up Compson's ~o~watch~s~
+
+0x98CB4291 = Pick up Compson's ~o~pistol~s~
+
+0x319E07FD = Notice
+
+0x379F0AB9 = Ledger
+
+0x492ED0D9 = Move Rug
+
+0x597FB5FF = Put down
+
+0x693FC66B = The watch was destroyed.
+
+0x779E09AB = Inspect picture
+
+0x3668F959 = Greet
+
+0x5163B3C3 = Search the ~o~house~s~ for Compson's watch
+
+0x9751A28E = You killed Compson.
+
+0x56351F22 = You failed to return the items.
+
+0x4341177E = Search the ~o~house~s~ for Compson's pistol
+
+0x60425180 = Search the ~o~house~s~ for Compson's watch and pistol
+
+0xA51752FD = Return to the ~o~house~s~
+
+0xAD3874DF = Inspect bottles
+
+0xB0608584 = Inspect
+
+0xB0F482FE = ~1~/~2~ Items Found
+
+0xB9F0CBEE = Jeremiah Compson
+
+0xB69B7E31 = Return the items to ~o~Compson
+
+0xB30659F7 = The pistol was destroyed.
+
+0xBAC6B63C = Visit Compson at Eris Field
+
+0xBB2235A7 = Back
+
+0xC2D296FE = Items Found
+
+0xC4AF1A54 = Search the ~o~house~s~ for Compson's ledger
+
+0xC4BFFD6A = The ledger was destroyed.
+
+0xC54A7C2D = You gained honor for sparing Compson.
+
+0xC938052A = You failed to find all the items.
+
+0xCD995033 = Stranger
+
+0xCFBD9117 = You gained a large amount of honor as you killed Compson.
+
+0xD097151C = You scared Compson.
+
+0xD9FBCE65 = Inspect letter
+
+0xD22D67BE = Pick up pocket watch
+
+0xE25938A0 = You became wanted.
+
+0xEC1DCC29 = A clue was destroyed.
+
+0xF175962B = Watch
+

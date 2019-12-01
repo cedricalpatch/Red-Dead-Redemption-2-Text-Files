@@ -1,0 +1,14 @@
+0x344D2119 = ~z~We've all done it.
+
+0x837ABF73 = ~z~I... I made a fool of myself.
+
+0x913B5AF4 = ~z~Don't mention it, Reverend.
+
+0x52415CFD = ~z~Mr. Morgan... Mr. Morgan, you saved my life and I'm... well, I'm very grateful.
+
+0x26898592 = ~z~I just... I just... I get so confused and-and angry and then I...
+
+0xB8442905 = ~z~I am a real prize dolt... I know it.
+
+0xCE025481 = ~z~I hear God laughing at me and I get even angrier and, well,
+

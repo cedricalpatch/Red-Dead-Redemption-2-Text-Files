@@ -1,0 +1,534 @@
+0x00CA7224 = ~z~If only I was younger.
+
+0x04A05E9E = ~z~out near Six Point Cabin.
+
+0x0743F7E7 = ~z~Hey. You got it.
+
+0x08770BDC = ~z~Oh. You know, the way you handled that last job was admirable.
+
+0x0A761F08 = ~z~Catch 'em while you can. Go on, now.
+
+0x0E720CC8 = ~z~You ain't done yet are you? Where is it?
+
+0x0E907CF1 = ~z~I got a bad feeling about you, I'm sorry.
+
+0x0F008471 = ~z~I appreciate you're keen, but there's no more work yet.
+
+0x0F1F55EE = ~z~Bye now.
+
+0x0FC0CEEF = ~z~You're still a little hot, I reckon.
+
+0x0FE0D28B = ~z~Come back and see me another time, okay?
+
+0x1B9444CC = ~z~~sl:0.0:1.4~Take the note, won't ya?~sl:0.4~It's all there.
+
+0x1C6642E8 = ~z~~sl:0.0:1.6~I'm sure that travelling party~sl:0.0:2.4~will express their gratitude fulsomely.~sl:0.4~They ain't got much... they'll share it with you.
+
+0x1CDF535C = ~z~Sorry... see, I don't think you're quite ready for this yet. No disrespect, of course.
+
+0x1DA896AD = ~z~well...
+
+0x1E6BAFE2 = ~z~That was unfortunate.
+
+0x1F85891B = ~z~Stop! That's an order.
+
+0x1F267116 = ~z~Can't speak to you right now.
+
+0x2BC7005E = ~z~You got a good heart don't you? Don't see that kind up here often.
+
+0x2BF7CE91 = ~z~You're becoming quite indispensable.
+
+0x2C6D9F7F = ~z~~sl:0.0:1.5~Am I pleased to see you.~sl:0.6~Looking for work I hope?
+
+0x2C88A321 = ~z~You're going to stop!
+
+0x2CBC34D4 = ~z~You come here to rob me, you ain't gonna get much.
+
+0x2E2E31B9 = ~z~that ain't gonna make you too proud in your old age.
+
+0x3AA73BF2 = ~z~~sl:0.0:1.1~Well. You guessed it...~sl:0.4~I got something else you might help me with.
+
+0x3B655D72 = ~z~~sl:0.0:2.9~Now, the reason I tell you about my fishing is...~sl:0.2~the creek down there's been taken over.
+
+0x3D7211C5 = ~z~~sl:0.0:2.6~So let's just leave 'em on the banks, okay?~sl:0.6:1.4~Get them boats.~sl:1.0~Good luck.
+
+0x3DDD7D67 = ~z~~sl:0.0:1.5~He needs some help with something...~sl:0.1:3.0~and since you're helpful... here.~sl:0.6~You can do that and he'll pay. Take it.
+
+0x3EC14426 = ~z~You think you could help me out again?
+
+0x3F1F7380 = ~z~You oughta go.
+
+0x3F45D98C = ~z~~sl:0.0:2.4~Now, I warned them there were certain...~sl:0.5~elements about Skinner Brothers, but...
+
+0x3F340C0B = ~z~~sl:0.0:1.4~Now, now.~sl:0.6~I should not miss an opportunity to bore you with some stories.
+
+0x3FA4EFD8 = ~z~Hope it ain't trouble.
+
+0x4AEC6B35 = ~z~Thank you.
+
+0x4B57720A = ~z~Only thing I got worth taking, is uh...
+
+0x4D03E0AB = ~z~Hey there, I hope you're here to lend a hand?
+
+0x4D0AF516 = ~z~~sl:0.0:3.2~Well, alright then. Hoped you'd be good for it.~sl:1.7~This party come through here the other day.
+
+0x4D5E8BAF = ~z~So long.
+
+0x4D535C40 = ~z~Can you leave, please?
+
+0x4E1E0774 = ~z~~sl:0.0:2.1~And I wrote 'em down here.~sl:0.3:2.8~I should like you to handle 'em for me, okay?~sl:0.5~Just do that and I'll pay you.
+
+0x4EEFE35B = ~z~Say, I got something needs doing, if you got time to help.
+
+0x4F26F95E = ~z~Now I hear they got it, and all the supplies...
+
+0x4F4843A3 = ~z~~sl:0.0:1.7~Fools don't know what they gotten into.~sl:0.7:2.4~These fellers aren't choir boys, but...~sl:~they ain't bad, exactly, either...
+
+0x5A5229E5 = ~z~~sl:0.0:1.4~I could'a been done with this by now.~sl:0.6~You leaving?
+
+0x5A209336 = ~z~What are you doing?
+
+0x5AD54375 = ~z~Don't be a fool.
+
+0x5B02A6F7 = ~z~I wish I could do it.
+
+0x5BFF765F = ~z~You just take a trophy, alright? He sure is something.
+
+0x5E6449D0 = ~z~Who's this then?
+
+0x5FF5EB7E = ~z~~sl:0.0:2.4~So again, I'll ask you to retrieve it.~sl:0.7:2.3~We know the Murfrees done worse~sl:~than kill in robberies before...
+
+0x6B6A9E2D = ~z~You'll want to deal with that bounty before helping me.
+
+0x6C23C2FC = ~z~The thing is, you'll need a bigger posse you're going to take care of this.
+
+0x6D2DC872 = ~z~I know you, don't I?
+
+0x6D5EE860 = ~z~~sl:0.0:3.2~But, I took the trouble to write this out.~sl:0.3~So, you may as well just read it, eh?
+
+0x6F5487C7 = ~z~~sl:0.0:3.8~I heard one of them mention it, and would have gone myself, but~sl:~in my decrepitude, I wouldn't have a hope.
+
+0x6FFAA192 = ~z~It's best that you go.
+
+0x7A2B4F76 = ~z~So, what do you say?
+
+0x7A614FDA = ~z~A supply wagon supposed to make its way up here...
+
+0x7B5E6171 = ~z~'Fraid this job will take a posse bigger than your one.
+
+0x7B52C0B4 = ~z~Hey! Enough!
+
+0x7B61088E = ~z~Cut that out!
+
+0x7BDAE5CC = ~z~Come over and say hello again.
+
+0x7D7123F8 = ~z~~sl:0.0:2.7~If you're in, there's no time to waste.~sl:0.9:2.6~I'm privy to some information...~sl:~and my Lord you got to act on it.
+
+0x7F9FA85D = ~z~~sl:0.0:3.7~They was alive very recently, so let us hope they still are.~sl:0.9~It's a godsend you came when you did.
+
+0x7FEA0DA2 = ~z~You're being an ass.
+
+0x8A9426F4 = ~z~I'll return fire!
+
+0x8AA7FEA9 = ~z~Hey. That's it alright.
+
+0x8B95A432 = ~z~Introduce yourself, why don't you?
+
+0x8DA7A91D = ~z~Dunderhead.
+
+0x8E60D089 = ~z~Go on. There.
+
+0x8EB77E43 = ~z~~sl:0.0:3.2~There's Murfrees, see, on the track up to the east of here.~sl:0.3:3.8~This cart driver didn't think to check on the safety of the roads.~sl:0.2~Rode right into 'em.
+
+0x9D061AE8 = ~z~~sl:0.0:2.8~Let's get his cart back, return it to the family...~sl:0.3~these murderous bastards shouldn't have no right to it.
+
+0x9E0664DB = ~z~You are whiter than white, huh? How you get to be like that in this muddy old world?
+
+0x11CBC018 = ~z~~sl:0.0:2.7~Good. 'Cause time is of the essence here.~sl:0.6~A supply train to some settlers' camp's been highjacked.
+
+0x14D91EF4 = ~z~Hey. Come on now. Go.
+
+0x17A42A36 = ~z~Hey, I'm grateful for the way you handled that before.
+
+0x21BCB8BB = ~z~You wanna do this, you should set off.
+
+0x24EB6657 = ~z~~sl:0.0:1.5~I'll make it right with you if you do,~sl:0.5~and you'll be doing a good thing for some poor people.
+
+0x29F7AEF0 = ~z~~sl:0.0:1.3~Now, folks that know think~sl:0.0:2.8~they might be up near Moonstone Pond.~sl:0.2~Who can tell if they're alive? More likely... not.
+
+0x31DB5EA4 = ~z~Oh. Got to say, you was a real help with that.
+
+0x32E48ADC = ~z~~sl:0.0:1.7~You think you could try and retrieve it~sl:~before the whole thing gets outta hand?
+
+0x34B594FE = ~z~~sl:0.0:2.2~Right. This'll take some grit.~sl:0.7:2.6~Another supply wagon's been waylaid,~sl:~this time by them unfortunates at Beaver Hollow.
+
+0x35D1FD6D = ~z~Stop!
+
+0x39A5C8A8 = ~z~Now you try not to be causing any casualties if you can.
+
+0x39B66A0E = ~z~I'm coming to rely on you, you know that?
+
+0x44F730E9 = ~z~~sl:0.0:2.5~Well, then. No sense hanging around here,~sl:0.0:2.0~listening to an old man chew cud.~sl:1.8~I got it all written down for you.
+
+0x47A290F1 = ~z~~sl:0.0:3.7~Okay now. I was passed this note by~sl:~one of the other isolationists who lives around here.
+
+0x48AA2DDC = ~z~~sl:0.0:3.1~It's hard enough living off your wits out here against the elements.~sl:0.2~You don't need this kind of misfortune befalling you as well.
+
+0x48F87D0D = ~z~~sl:0.2:0.9~Maybe not...~sl:0.5:1.8~but you'll be treated like you're driving~sl:0.0:2.1~an express coach full of gold,~sl:0.0:2.3~if you get that supply wagon back to us,~sl:~I promise you will.
+
+0x51C76D9E = ~z~Enough of that.
+
+0x52DE8118 = ~z~You know folks like to come out here, lend a hand time to time.
+
+0x53E8483F = ~z~~sl:0.0:1.3~Do your best by him.~sl:0.9~I'm sure you will.
+
+0x54E46177 = ~z~If that's it, so long.
+
+0x55A48669 = ~z~To be more precise, the lacking of it...
+
+0x55DA86CD = ~z~Alright.
+
+0x56A9D44E = ~z~If you can handle this, I'll make it good.
+
+0x56E5C4E8 = ~z~~sl:0.0:3.3~Okay, then. You can put this right.~sl:1.3:2.7~There's a group of fools on the Kamassa...~sl:0.5~been going up and down in boats...
+
+0x56F3B5D2 = ~z~Put that away.
+
+0x57DA0514 = ~z~I know that only too well.
+
+0x60B53478 = ~z~Jeez. You messed that up.
+
+0x60DCD89A = ~z~~sl:0.0:4.2~You know these idiots? The Lemoyne Raiders, they're called.~sl:0.4~As wrong-headed a bunch as I ever encountered.
+
+0x63C122A2 = ~z~prevents me from taking care of things the way I like to.
+
+0x65F4376C = ~z~~sl:0.0:2.6~I'd rather be stuck in a room full of canned goods~sl:~than a room full of cash when the weather comes in, wouldn't you?
+
+0x68C14274 = ~z~Wish I was going with you.
+
+0x69DB154F = ~z~Go now. I've had enough.
+
+0x70BBAC3A = ~z~And you'd be right to put that question to me.
+
+0x72AB7C37 = ~z~~sl:0.0:1.9~No one who actually fought that war~sl:0.0:3.1~would wish to see it re-ignited, I can promise you...~sl:0.4~whatever side they was on.
+
+0x72CE9869 = ~z~Can you come back another time?
+
+0x74D45A59 = ~z~What's the hold up?
+
+0x78A32FB6 = ~z~~sl:0.0:1.5~I know I harp on about it,~sl:0.0:2.5~but my leg is playing up something terrible...~sl:0.2~if it weren't, I'd be after him myself.
+
+0x79DC00BF = ~z~Ain't no one else to speak to here, except me.
+
+0x81E04230 = ~z~~sl:0.0:2.6~Would you take care of him before anyone comes to harm?~sl:0.2~As I said, you will profit from this hunting.
+
+0x84CCBD5D = ~z~Take it.
+
+0x84D73C7A = ~z~Come back later.
+
+0x85A91047 = ~z~~sl:0.0:2.5~They're just to the north of here, at the Loft.~sl:0.7:3.1~I heard things from there. Horrible things.~sl:0.1~Suffering. Captives.
+
+0x87D5EE9C = ~z~Stop.
+
+0x89FF6F06 = ~z~~sl:0.0:1.8~You look after yourself too, while you're at it.~sl:1.0~Be safe. Good luck.
+
+0x90A0CA10 = ~z~I wish I could'a kept my hands as clean as yours... but I just don't see how it's possible.
+
+0x92C97AF2 = ~z~So long.
+
+0x98E2C391 = ~z~Don't shoot!
+
+0x112CED95 = ~z~~sl:0.0:1.6~Look, I don't want to muddy the water,~sl:0.5~who's the leader here?
+
+0x128D3EB8 = ~z~Know what? I think you got some learning to do before you can handle this one.
+
+0x245C9BDC = ~z~You're looking for a fight, you're in the wrong place, friend.
+
+0x307A8164 = ~z~~sl:0.0:1.1~You know them, right?~sl:0.7:2.5~Don't think they'll be too far, probably a~sl:~band of 'em camping somewhere up in Cumberland Forest.
+
+0x323C5783 = ~z~Lord. You can't win them all.
+
+0x340B6FFE = ~z~Down your weapon.
+
+0x461DACAA = ~z~~sl:0.0:2.4~Poor feller has everything he owns in that cart,~sl:0.4~so get it back and he'll reward you.
+
+0x490F89A3 = ~z~Hey. Let's not talk about that last job, okay?
+
+0x520C830A = ~z~You're being belligerent.
+
+0x560E7F3F = ~z~I didn't move up here to get treated like this, okay?
+
+0x563AF745 = ~z~~sl:0.0:0.6~Good luck.~sl:0.9~Thanks.
+
+0x629B0FF9 = ~z~~sl:0.0:2.7~Alright. This is embarrassing.~sl:1.4:2.4~If I can't deal with a bear, you might ask,~sl:~what business do I have living out here in the wild?
+
+0x644B2787 = ~z~Don't.
+
+0x647E6580 = ~z~~sl:0.0:1.1~You're in my prayers.~sl:1.0~Go, quick now.
+
+0x677E443D = ~z~You going or what?
+
+0x680A9A24 = ~z~Stop that right now!
+
+0x681EB6AC = ~z~You've done all I got to do. Why don't you come back later?
+
+0x682DD846 = ~z~Down your tool.
+
+0x702AED5D = ~z~You're in my home, you should say hello.
+
+0x881AD6D8 = ~z~Ah... hey, you think you might be able to help with something else?
+
+0x886CEBF9 = ~z~You wanna help an old man out with what's vexing him?
+
+0x990B0448 = ~z~So, are you interested then?
+
+0x1600D115 = ~z~~sl:0.0:1.8~The wagon is all I'm looking for.~sl:0.5~They're just boys. Thank you.
+
+0x1886BB29 = ~z~~sl:0.0:3.8~A wagon train came by here, going up past Fort Wallace...~sl:0.0:3.4~it's been picked upon and fought over by bandits.~sl:0.2~Ain't right at all.
+
+0x2045C873 = ~z~You're being reckless.
+
+0x2288E581 = ~z~~sl:0.0:3.6~We found him, cold and hungry, but we couldn't find the cart.~sl:0.4~From the tracks, I'd say the Murfrees might've taken it.
+
+0x2759FA47 = ~z~~sl:0.0:2.2~The wagon should be at their cave, there.~sl:0.7~An unfortunate bunch. That's what they are.
+
+0x2976B3C3 = ~z~~sl:0.0:3.0~Okay. This one ain't gonna end happy.~sl:0.4~From what I hear, the poor feller's dead already.
+
+0x5091A1A6 = ~z~Alright then, shouldn't be too hard.
+
+0x6132E778 = ~z~I just know if the wrong people go after it, it'll only go one way.
+
+0x6250A576 = ~z~~sl:0.0:2.9~Of course there'll be some reward for your retrieval of it,~sl:0.2~but that's the right thing to do.
+
+0x6623DB19 = ~z~Read it. Should be plain as day.
+
+0x6955E076 = ~z~You're acting foolish.
+
+0x7365CD3A = ~z~Why don't you take a rest or something? I ain't got another job just yet.
+
+0x7797CA37 = ~z~~sl:0.0:2.6~they kept going anyway and, you guessed it.~sl:0.6~They never came back.
+
+0x8095B8D1 = ~z~This has been nice, huh?
+
+0x8219EADA = ~z~~sl:0.0:0.8~Fine.~sl:0.8:1.9~I ever told you about my fishing?~sl:0.5~I could bore you into an early grave with my angling tales.
+
+0x8366DC2D = ~z~Ending lives when it can be avoided, well...
+
+0x8702E960 = ~z~ Life's pretty simple out here.
+
+0x8732D7F0 = ~z~Couldn't have done it better myself.
+
+0x8826EB65 = ~z~got caught in an ambuscade.
+
+0x9785D0F1 = ~z~Unfortunately, there's nothing going.
+
+0x18869A6C = ~z~Oh. I knew you'd find it.
+
+0x24188ED1 = ~z~Hey, you think you could help me out again?
+
+0x44882E23 = ~z~~sl:0.0:3.2~Might not be possible, but I'd be grateful if you tried.~sl:0.5~They're somewhere east of Wapiti.
+
+0x46538D2A = ~z~You can read, can't you? Take it.
+
+0x46879ED8 = ~z~The hell you doing?
+
+0x51790DA7 = ~z~~sl:0.0:1.3~No disrespect,~sl:~but you'll need some more riders in your posse to handle this.
+
+0x58628BCD = ~z~~sl:0.0:2.1~But if they are, it's your job to go get 'em.~sl:1.6:2.5~Ah, they been belligerent, alright, but..~sl:0.3~ they oughtn't to die for that.
+
+0x66508E3E = ~z~You need to get out of here!
+
+0x72631C6C = ~z~Well, good to see ya.
+
+0x74094EB9 = ~z~~sl:0.0:3.7~That's the thing about fishing, or hunting, or anything else.~sl:0.4~Do it as much as you like, just don't talk about it. It's boring.
+
+0x75904A11 = ~z~What has gotten into you?
+
+0x80130DF0 = ~z~What's the meaning of this?
+
+0x174899AE = ~z~~sl:0.0:1.9~Should be up on Roanoake Ridge.~sl:0.4:3.1~But it ain't worth dying for, nor killing neither.~sl:0.3:0.8~You hear?~sl:0.7~Good luck.
+
+0x347563D8 = ~z~Hey, I should thank you for what you done for me before.
+
+0x447753BE = ~z~~sl:0.0:1.9~You'll find it up near Cotorra Springs.~sl:0.3~And get a trophy off of it for me.
+
+0x738428A1 = ~z~You better leave.
+
+0x6383221E = ~z~So, here it is.
+
+0x25763194 = ~z~~sl:0.0:2.8~Murfrees Brood destroying the reed beds,~sl:~turning everything to silt, spoiling the habitat.
+
+0x64862467 = ~z~And I'll pay 'em for it when I can.
+
+0x65045423 = ~z~~sl:0.0:3.2~It might be rough when you catch up to it, I'd count on it...~sl:-.3~but if you could rescue whatever wagons you can...
+
+0x65346185 = ~z~~sl:0.0:3.1~causing trouble to all good and peaceable folk.~sl:0.5~The best way to stop 'em, I believe, is to seize their vessels.
+
+0x70164101 = ~z~There's no sense in any of this. None at all.
+
+0x89938139 = ~z~Look who it is.
+
+0x91311316 = ~z~I miss something?
+
+0x96517345 = ~z~~sl:0.0:1.2~Well, hello.~sl:0.5~You gonna lend a hand to a man without a leg?
+
+0x99715350 = ~z~~sl:0.0:3.4~Alright. Need to see if you can find a cart.~sl:0.4~Driver got lost in the hills and had to abandon it.
+
+0xA5AE94E7 = ~z~You done good.
+
+0xA7D559CC = ~z~~sl:0.0:3.0~Okay. There is something you can help me with.~sl:0.2:2.6~The older I get, the less I can do...~sl:0.2~but the more that bothers me.
+
+0xA8FA171C = ~z~You can read, can't you? Take it.
+
+0xA373B79B = ~z~You okay?
+
+0xA482C088 = ~z~~sl:0.0:1.0~Well, alright.~sl:0.6~Too big of an ask that last one, wasn't it?
+
+0xA530F37F = ~z~~sl:0.0:3.0~Hurry now... and don't delay.~sl:0.8~Good luck.
+
+0xA893160F = ~z~~sl:0.0:2.6~He's a good egg, and you are too.~sl:2.4~So long.
+
+0xAAEC89A0 = ~z~Take it, already.
+
+0xACD39816 = ~z~~sl:0.0:2.0~who's never approved of hunting for profit,~sl:0.2:2.4:1~asking you to do that very thing.
+
+0xAD6E8A4C = ~z~You need to go cool down, alright?
+
+0xB1BC055D = ~z~I don't have anything available for you right now.
+
+0xB3FF0FB6 = ~z~~sl:0.0:4.1~Okay, yeah. One of the advantages of isolation is...~sl:~you got the time to write.
+
+0xB6F8377A = ~z~Bravo.
+
+0xB34C521B = ~z~~sl:0.0:3.6~Maybe 'cause the only thing worth taking up here is supplies.~sl:0.2~There ain't a bank to rob in miles.
+
+0xB62DDA6D = ~z~Good to see you again.
+
+0xB95B0C55 = ~z~Actually, I don't think you can quite handle this one... yet.
+
+0xB61917C3 = ~z~~sl:0.0:3.9~I'm a sensitive and sentimental old man, indulge me if you can.~sl:0.2~And if you can't, so be it.
+
+0xB3283189 = ~z~There someone else I should be speaking to?
+
+0xBAD8ED34 = ~z~Well, well. Last one proved a bit much, huh?
+
+0xBC5E4E1B = ~z~Good luck.
+
+0xBCA07E31 = ~z~~sl:0.0:4.0~Good, good. Now, this might not be nice.~sl:0.6:2.4~You look out at nature's majesty...~sl:0.4~this green and pleasant valley...
+
+0xBCAB2D1D = ~z~You gonna take it?
+
+0xBDEBEC8B = ~z~Anything else you need?
+
+0xBE7DBED3 = ~z~~sl:0.0:3.5~That's the job. And that's what you'll be paid for.~sl:2.4~Okay.
+
+0xBE32CE97 = ~z~What you think?
+
+0xBE773B5D = ~z~~sl:0.0:3.5~There is a bear, lives below Fort Wallace, and he's, eh...~sl:~made quite a nuisance of himself of late.
+
+0xBFE1DB1D = ~z~some old stories.
+
+0xC3DDB34C = ~z~~sl:0.0:2.5~but no one was harmed when the wagon was taken...~sl:0.4~so I would hope no life will be lost if it is retrieved.
+
+0xC6ADF892 = ~z~~sl:0.0:4.5~Good, good. Just this morning, I was cursing my fate~sl:~and the tasks I was unable to achieve.
+
+0xC9EA5B2B = ~z~Look, I ain't going to judge you, but you oughta make things right with that bounty.
+
+0xC22A4DDE = ~z~Great job.
+
+0xC93C5D9D = ~z~Who's in charge of this outfit?
+
+0xC210A606 = ~z~You know, I don't have anything.
+
+0xC9927EA7 = ~z~Well. We lost a wagon. Seem to have trouble keeping hold of 'em...
+
+0xC134075C = ~z~~sl:0.0:3.1~We got men 'round here would make the devil blush.~sl:0.4~A gang of them... the Skinner Brothers, they're called.
+
+0xC936031F = ~z~You waiting on something?
+
+0xCB84693A = ~z~How about it then?
+
+0xCE099399 = ~z~Oh, hey. Don't get het up about before, okay? It happens.
+
+0xCE6CC1EA = ~z~~sl:0.0:2.2~Okay. Good to have you on board.~sl:0.6:3.7~A wagon's gone missing, and I got a good idea~sl:~it was taken by some boys been camping up here.
+
+0xCEBD041B = ~z~So get their boats, won't ya? Down the Kamassa.
+
+0xCF38798F = ~z~You see this old leg here, uh, well...
+
+0xD1FDE8DB = ~z~~sl:0.0:1.1:1~Alright then...
+
+0xD9B8DC8E = ~z~~sl:0.0:3.4~You heard about them kidnappings? From the stagecoach?~sl:0.1:1.5~The Murfree Brood?~sl:0.6~Well, I know where the folk are.
+
+0xD20A7F6E = ~z~And those ain't to everyone's taste neither.
+
+0xD42B03BB = ~z~Well, well, well, looky here.
+
+0xD3317128 = ~z~~sl:0.0:1.8~No, I ain't never claimed to be no smart man,~sl:0.0:1.7~so excuse me if I ain't clever enough~sl:~to figure out when this place has got me beat.
+
+0xD9128783 = ~z~these coming months might not be so hard on certain folk.
+
+0xD9292233 = ~z~Looks like you're missing something. Go and get it.
+
+0xDA832DCC = ~z~Maybe you should make things right with the law before coming by.
+
+0xDB2A6A1B = ~z~~sl:0.4~Take it?
+
+0xDB89F582 = ~z~~sl:0.0:1.5~Now, how about this then?~sl:0.5~Here I am, a hunter of game, for food and the sport of it...
+
+0xDC0AE132 = ~z~There's a big clearing, like a crater, on Roanoke Ridge.
+
+0xDC37FFC6 = ~z~Best job you can do is get rid of that bounty.
+
+0xDEFA0930 = ~z~Should I be speaking to the one in charge?
+
+0xDF113911 = ~z~Hey. You sure helped me out before.
+
+0xE1AF8E2C = ~z~~sl:0.0:2.6~So if you just... help me with the grizzly,~sl:0.0:2.8~so I can keep on living out here until some even bigger beast~sl:~comes along and proves to be my better.
+
+0xE2E697FE = ~z~How's about helping then?
+
+0xE3D7CCA3 = ~z~~sl:0.0:4.4~If there's folk up there, you should save 'em. They need you now.~sl:0.6~And so do I.
+
+0xE5C3733E = ~z~~sl:0.0:3.0~So, I've written down what I need.~sl:0.0:2.6~If you can look after this, I will look after you.~sl:0.2~I've spelled it out real plain. Take it.
+
+0xE6D022FE = ~z~If you can bring it back for us, why...
+
+0xE20EBA7C = ~z~What would I do without you?
+
+0xE85AC97B = ~z~Turn yourself into the law. Then we can speak.
+
+0xE346BE13 = ~z~Didn't have much luck on that last one, did we?
+
+0xE3820DA9 = ~z~~sl:0.0:1.7~Think you could do something else for me?~sl:0.3~There's money in it.
+
+0xEC8639D5 = ~z~You got a mean streak don't you? Afraid we can't do business.
+
+0xEDA9268E = ~z~You ain't in charge of this posse are you?
+
+0xEFEE5B7D = ~z~~sl:0.0:0.9~Good luck.~sl:2.8~Though I doubt you'll even need it.
+
+0xEFF13213 = ~z~Well?
+
+0xF2FB6AEA = ~z~~sl:0.0:3.2~and you could think, and be forgiven for doing so,~sl:0.3~that it is a peaceful land. It is not... by any means.
+
+0xF3BFAE24 = ~z~Could you lend me a hand one more time?
+
+0xF4B73C9E = ~z~~sl:0.0:3.5~I don't need to deal with you, friend. So you know what?~sl:0.4~I won't.
+
+0xF5E8E497 = ~z~You know you got the law on you? Keep riding.
+
+0xF17395B1 = ~z~Would you mind coming back later?
+
+0xF8642878 = ~z~Don't want to keep you any longer.
+
+0xFA4D5563 = ~z~I don't mean no offense, but I can't deal with no out and out bad'uns.
+
+0xFC46686D = ~z~I was expecting you to bring me something. You gonna get it?
+
+0xFD7E2A6A = ~z~Nope, I ain't quite ready to make amends with you.
+
+0xFD6002A8 = ~z~Holster that.
+
+0xFF201AC1 = ~z~~sl:0.0:2.1~Nope, you do not.~sl:0.9:3.4~They should be 'round about Bacchus Bridge, these bastards...~sl:~get them wagons back off them, quick as you can.
+

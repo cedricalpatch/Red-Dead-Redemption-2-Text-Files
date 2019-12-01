@@ -1,0 +1,28 @@
+0x2B592352 = ~z~You and Arthur.
+
+0x6A93D3F5 = ~z~~sl:0.0:1.1~I owe you...~sl:0.4~for life.
+
+0x7C4D7768 = ~z~Of course.
+
+0x7CB1915C = ~z~You and Arthur.
+
+0x8B009532 = ~z~
+
+0x8E189AFE = ~z~I know you'd save me.
+
+0x9F9B3E03 = ~z~~sl:0.0:1.0~Thank you...~sl:0.3~for saving me.
+
+0x995731DF = ~z~Yeah, ruined my fine features.
+
+0xB78F6E4F = ~z~~sl:1.0:1.4:1~Scar looks pretty.
+
+0xCB25151A = ~z~Good.
+
+0xDCE838A0 = ~z~Hey, how you getting on there, John?
+
+0xED0FF21B = ~z~You okay, Arthur?
+
+0xF82B86B7 = ~z~You and Arthur.
+
+0xFD2D46F7 = ~z~Thank you, again.
+

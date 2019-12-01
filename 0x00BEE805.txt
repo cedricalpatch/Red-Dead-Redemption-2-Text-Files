@@ -1,0 +1,256 @@
+0x030CCECA = Press ~INPUT_NEXT_CAMERA~ to change camera distance and perspective or hold ~INPUT_CINEMATIC_CAM~ to activate Cinematic Cameras.
+
+0x03A9A6EF = Use ~INPUT_ENTER~ to mount your ~COLOR_MP_OBJECTIVE~horse
+
+0x0615B34E = Bandit
+
+0x070EE1DA = Hold ~INPUT_HITCH_ANIMAL|PromptId=MPINTRO_UCID_HORSE_HITCH,Gutter~ to hitch the horse to the ~COLOR_MP_OBJECTIVE~post
+
+0x0930CE82 = Hideout
+
+0x0D3BE4F0 = Hold ~INPUT_OPEN_SATCHEL_MENU|PromptId=UCID_SATCHEL,Gutter~ to open your Satchel
+
+0x0EC9EBA1 = If a horse is agitated you can press ~INPUT_INTERACT_ANIMAL~ while riding to calm it.
+
+0x0FBA33A4 = Wait for Jessica LeClerk
+
+0x2A227AE6 = Treasure Map
+
+0x3C6B5868 = Wardrobe
+
+0x3D955DAE = Valentine Post Office
+
+0x3DA319A2 = Gun Belt
+
+0x4B335576 = Holding ~INPUT_HORSE_SPRINT~ while viewing cinematic camera will allow you to automatically follow roads and other paths.
+
+0x4C4A6B94 = Horley
+
+0x4D7AFD03 = Clay Davies
+
+0x5B70BD9D = Select Camp
+
+0x5DA08B4E = Follow ~COLOR_MP_OBJECTIVE~Horley
+
+0x5E6C21D7 = Rio Bravo
+
+0x5E67C889 = Post Clerk
+
+0x6B49CA17 = Pick up the ~COLOR_MP_OBJECTIVE~Treasure Map
+
+0x6CCED537 = Meet ~COLOR_MP_OBJECTIVE~Clay Davies~s~
+
+0x6E07DB85 = Return to the ~COLOR_MP_OBJECTIVE~stranger
+
+0x7B8463B0 = Horse Health is displayed in the lower left corner. A horse will collapse if its Health bar fully depletes.
+
+0x7BFC424B = A Scrawny Nag will come to you if none of your owned horses are available.
+
+0x7CC01C0F = Exit the wardrobe when ready
+
+0x7E4A3767 = Your Dead Eye bar will refill with each enemy you kill.
+
+0x7E7B9CAF = Health is displayed in the lower left corner. The outer bar shows your remaining Health. The inner core influences how quickly your Health refills.
+
+0x7FB26CBB = Return to ~COLOR_MP_OBJECTIVE~Horley
+
+0x8F76FF8C = Pressing ~INPUT_WHISTLE~ can be used to whistle for your horse while in Red Dead Online.
+
+0x9B741339 = Camp
+
+0x9D2A18F1 = Your movement speed will be limited when your Stamina Core is empty. Eating certain provisions will refill your Stamina Core.
+
+0x9DD6DB87 = near Manzanita Post
+
+0x9F58B7D3 = Select Small Camp
+
+0x12B94E7C = Your horse has been critically injured. Use ~INPUT_WHISTLE~ to whistle for a Scrawny Nag.
+
+0x16AA1BAF = A horse will not gallop when its Stamina is empty. Slowing down will allow the horse to regain Stamina.
+
+0x18C59890 = Use ~INPUT_CONTEXT_X~ to speak with the post clerk
+
+0x23AA4427 = Holding ~INPUT_HITCH_ANIMAL~ when next to a hitching post or tree will hitch your horse to it. This will stop the horse from wandering.
+
+0x26B09CA7 = Take Map
+
+0x29B3AACB = Horse Stamina is displayed in the lower left corner. Stamina drains when a horse gallops or jumps.
+
+0x35ABEBE6 = Remain with the bandit
+
+0x36DA8485 = You have discovered an Ability Card coupon. This can be redeemed to acquire your first Ability Card.
+
+0x43FCA904 = Go to ~COLOR_MP_OBJECTIVE~Cumberland Forest
+
+0x46D92BD9 = Select Set Camp Location
+
+0x49A6D1DF = Go to the ~COLOR_MP_OBJECTIVE~post clerk
+
+0x49C99EC9 = Go to ~COLOR_MP_OBJECTIVE~Valentine Post Office
+
+0x86A53096 = Visit Clay Davies ~1b~ to start a Story Mission. These missions are displayed on the edge of your radar and are colored yellow.
+
+0x90B10230 = ~INPUT_PLAYER_MENU~ to open the Player menu
+
+0x91FAEB9F = Approach the ~COLOR_MP_OBJECTIVE~hitching post
+
+0x92B7E886 = Approach your ~COLOR_MP_OBJECTIVE~horse
+
+0x98B2EE37 = Hold ~INPUT_OPEN_WHEEL_MENU~ and press ~INPUT_QUICK_SHORTCUT_ABILITIES_MENU~ to open the Ability Loadout menu. Use this menu to customize your equipped abilities, and to purchase new ones.
+
+0x114E76D6 = Explore the wardrobe options
+
+0x132D0AF6 = Horse
+
+0x167DBE97 = Hold ~INPUT_INTERACT_LOCKON~ to focus on the post clerk
+
+0x216A9ED9 = Speak to the ~COLOR_MP_OBJECTIVE~shopkeeper
+
+0x232D8952 = Hold ~INPUT_CONTEXT_X~ to pick up the ~COLOR_MP_OBJECTIVE~gun belt
+
+0x331F4636 = near the ranch
+
+0x364C3A2C = Wait for the stranger
+
+0x481D890B = Hold ~INPUT_OPEN_SATCHEL_MENU|PromptId=UCID_SATCHEL,Gutter~ to open your Satchel
+
+0x592B58E6 = Approach the ~COLOR_MP_OBJECTIVE~post clerk
+
+0x711CF45F = Bayou Nwa
+
+0x734AB66C = You can also fire weapons quickly from the hip by tapping ~INPUT_ATTACK~ when not aiming.
+
+0x974D05C7 = ~INPUT_QUICK_SHORTCUT_ABILITIES_MENU~ View the Ability Loadout menu
+
+0x1080E0B2 = Press ~INPUT_CINEMATIC_CAM_CHANGE_SHOT~ to change cinematic cameras. ~n~Press ~INPUT_CINEMATIC_CAM~ to exit.
+
+0x1300BEE0 = Open the Treasure Map
+
+0x2732EF42 = Kill or spare the ~COLOR_MP_OBJECTIVE~bandit
+
+0x5640DC7A = outside Rhodes
+
+0x6580A683 = (~COLOR_MP_OBJECTIVE~Optional~s~) Customize your outfit
+
+0x8836F458 = Gold Bars ~COLOR_GOLD~~BLIP_GOLD~~s~ can be used to purchase or unlock certain items early. Once you own 100 Gold Nuggets, these will automatically convert to 1 Gold Bar.
+
+0x31493E60 = The world will be influenced by your honor. Spare the bandit to increase your honor, or kill him to lower it.
+
+0x38064BED = Stamina is displayed in the lower left corner. The outer bar depletes when you run, jump or climb. The inner core affects how fast Stamina refills.
+
+0x57408D5C = Shopkeeper
+
+0x58657E1D = Waypoints provide a route to your chosen location on the radar and map. A dashed line indicates when a route doesn't follow a road.
+
+0x71086A0B = You can not inspect documents while carrying something.
+
+0x213017F9 = Search the ~COLOR_MP_OBJECTIVE~treasure chest
+
+0x837505D5 = Rhodes Post Office
+
+0x3332568B = Blackwater Post Office
+
+0x6597068A = Select the location for your Camp. Cripps will set this up for you. A fee can be paid to move your Camp again when you enter Free Roam.
+
+0x59058612 = Follow ~COLOR_MP_OBJECTIVE~Jessica LeClerk
+
+0x67345844 = Press ~INPUT_NEXT_CAMERA~ to change camera distance and perspective or hold ~INPUT_CINEMATIC_CAM~ to activate Cinematic Cameras.
+
+0xA0267801 = Approach the ~COLOR_MP_OBJECTIVE~bandit
+
+0xA5A20560 = Use ~INPUT_WHISTLE~ to whistle for a Scrawny Nag.
+
+0xA9214483 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for the treasure
+
+0xACB75B8D = Go to ~COLOR_MP_OBJECTIVE~Tall Trees
+
+0xB048B23F = Go to ~COLOR_MP_OBJECTIVE~Rio Bravo
+
+0xB2C16FD8 = Benedict Point Train Station
+
+0xB2F5D638 = You have just received a Treasure Map. Hold ~INPUT_OPEN_SATCHEL_MENU~ to open your Satchel and select the Treasure Map.
+
+0xB3A4E82F = Buy and equip an Ability Card
+
+0xB7CE8DBD = Take the map or kill the ~COLOR_MP_OBJECTIVE~bandit
+
+0xB30F63F3 = Mount your ~COLOR_MP_OBJECTIVE~horse
+
+0xB442D7DA = Hold ~INPUT_HORSE_SPRINT~ while riding to match the speed of ~COLOR_MP_OBJECTIVE~Horley.
+
+0xB86059CF = Cumberland Forest
+
+0xBB495FD0 = Cash can be used to purchase a range of products and services at stores throughout the world.
+
+0xBE802F99 = Go to ~COLOR_MP_OBJECTIVE~Blackwater Post Office
+
+0xC3A624F6 = Free Roam mission givers ~1b~ can be found across the map. The closest mission giver will be shown on the radar when you enter Free Roam.
+
+0xC3DBA080 = Your Health Core drains over time. When empty you will experience negative effects. Provisions can be eaten to restore some of your Health Core.
+
+0xC7FCA351 = Approach the ~COLOR_MP_OBJECTIVE~gun belt
+
+0xC40C2A60 = Select ~1~
+
+0xC18955B1 = Holding ~INPUT_MAP~ allows you to quickly bring up the map. Use ~INPUT_FRONTEND_ACCEPT~ when on the map to place a waypoint.
+
+0xC627703A = outside Rathskeller Fork
+
+0xC1112106 = Aim Weapon
+
+0xCE6C5817 = Spare
+
+0xCE8CE464 = Go to ~COLOR_MP_OBJECTIVE~Bayou Nwa
+
+0xD22BA6C0 = Pick up
+
+0xD128588A = Hold ~INPUT_HORSE_SPRINT~ to ride faster. ~n~Use ~INPUT_HORSE_STOP~ to slow the horse down.
+
+0xDA909A9B = Shop items will become unlocked as your rank increases. You can see your rank unlocks under Progress in the Pause menu.
+
+0xDB3988B6 = Search for the ~COLOR_MP_OBJECTIVE~hideout
+
+0xDDD70FAD = Jessica LeClerk
+
+0xDE16D178 = Hold ~INPUT_HORSE_SPRINT~ to ride faster. ~n~Use ~INPUT_HORSE_STOP~ to slow the horse down.
+
+0xE06FDA16 = Search the ~COLOR_MP_OBJECTIVE~hideout
+
+0xE0AA2959 = Go to ~COLOR_MP_OBJECTIVE~Benedict Point Train Station
+
+0xE5CE2B7B = Gang Hideouts ~COLOR_ENEMY~~BLIP_REGION_HIDEOUT~~s~ may appear across Free Roam. Enemies at these hideouts can be looted for cash, ammo and other items.
+
+0xE7FA6D8F = Return to the mission area
+
+0xE49A89EC = Tall Trees
+
+0xE84BA34E = Hold ~INPUT_INTERACT_LOCKON~ to focus on the ~COLOR_MP_OBJECTIVE~gun belt
+
+0xE239A57C = Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel
+
+0xE712485B = You've opened a Treasure Map. Search the area ~COLOR_MP_OBJECTIVE~~BLIP_MP_GAME_TREASURE_HUNT~~s~ for the treasure to claim your reward.
+
+0xEA287B68 = With a gun equipped, hold ~INPUT_AIM~ to aim and use ~INPUT_ATTACK~ to fire. Press ~INPUT_RELOAD~ to reload.
+
+0xEBA42868 = Go to ~COLOR_MP_OBJECTIVE~Rhodes Post Office
+
+0xEBF9143C = Ability Cards can be purchased and equipped to offer certain boosts in combat situations.
+
+0xECF9F0DE = You now have a Dead Eye Card. When aiming, press ~INPUT_SPECIAL_ABILITY~ to enter Dead Eye and use the card's effect. Some cards require a weapon to be equipped first.
+
+0xED27E01B = Kill
+
+0xF2FAF2EE = Different provisions have different effects. Eating food will refill your Health Core. Better quality food will refill more of the Core.
+
+0xF6F475EA = Hold ~INPUT_OPEN_WHEEL_MENU~ to show the Weapon Wheel. Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select a weapon and release ~INPUT_OPEN_WHEEL_MENU~ to equip it.
+
+0xF64F68BE = Follow the ~COLOR_MP_OBJECTIVE~stranger
+
+0xF94D3364 = Hitch Post
+
+0xF7588B96 = The Handheld Catalogue will become accessible when you enter Free Roam. This can be used to purchase items while you're out in the world.
+
+0xF7899E13 = Stranger
+
+0xFB74395E = While viewing cinematic camera your horse will automatically follow roads and other paths.
+

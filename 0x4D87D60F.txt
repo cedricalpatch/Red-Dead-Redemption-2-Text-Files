@@ -1,0 +1,70 @@
+0x0A7DC676 = ~z~
+
+0x1C0CB33E = ~z~I'm gonna get what I need and we can both forget this ever happened.
+
+0x4A769658 = ~z~~sl:0.0:2.5~Bet you're thinking, I'm gonna get her for this...~sl:0.5~Stay alive instead.
+
+0x5CDA08F0 = ~z~You'll just leave me out in the desert?
+
+0x6B8B2652 = ~z~Please? I'm in a rough place here...
+
+0x7FC24D96 = ~z~Alright, okay. Let's not make this complicated.
+
+0x8CD6150A = ~z~Glad to rest a spell.
+
+0x9F3CB3D9 = ~z~Hey, my horse just dropped dead on me.
+
+0x28A06C08 = ~z~Please. I really need a hand here.
+
+0x40A5CEBC = ~z~~sl:0.0:0.8~Oh...
+
+0x85FBBEC4 = ~z~~sl:0..0:2.1~Can you give me a ride to Fort Mercer?~sl:~My brother's stationed there.
+
+0x90FA1754 = ~z~~sl:0.0:1.3~You seem decent enough.~sl:0.4~You think you could take me someplace?
+
+0x91D49DEF = ~z~Where's your horse?
+
+0x738D851F = ~z~Hey, hey! Just in time.
+
+0x814E20A0 = ~z~Oh? Oh, hey, hey, you!
+
+0x2369F553 = ~z~Know what? I'll take my chances walking.
+
+0x2759DF13 = ~z~See? I ain't the one dying in the desert today!
+
+0x4864B8C6 = ~z~~sl:0.0:4.7~Cousin probably fed it rotted corn when he fed it anything. Looked thin.~sl:1.0~~rp~What can I do? Ain't my horse.
+
+0x9177CAE3 = ~z~I hate the desert...
+
+0x33596E42 = ~z~Down, or I shoot.
+
+0x44571FA9 = ~z~Fort's coming up...
+
+0x1661478A = ~z~Hey, help me out here.
+
+0x3696952A = ~z~~sl:0.0:5.6~Truth is, ~rp~I liked that horse more'n he did. ~rp~I really cared about the damn thing.~sl:0.9~~rp~Horrible to watch it die.
+
+0xA4ACF14D = ~z~~sl:0.0:1.9~My cousin's horse, that was.~sl:0.3~~rp~Now they're gonna say I owe them for a new one...
+
+0xB14A7276 = ~z~Oh, you poor thing...
+
+0xBD3E609B = ~z~~sl:0.0:0.6~Take this.~sl:0.4~You deserve it.
+
+0xC4CE7B5C = ~z~I need someplace to sit here.
+
+0xC6D09532 = ~z~Down off there. I wanna see you straight.
+
+0xC6EEB5D0 = ~z~~sl:0.0:3.5~And what do you care? ~rp~What do I care, neither? It's dead.~sl:0.6~~rp~Can't get no deader...
+
+0xCEACF724 = ~z~Fine then. Let me die with my horse...
+
+0xD8DF2F90 = ~z~~sl:0.0:2.2~Can you believe that horse died on me?~sl:0.4~Wasn't even that old.
+
+0xDEFB9314 = ~z~Help me out, okay? This is no place to be stranded...
+
+0xEA0CB041 = ~z~Thanks. I mean it, really. Thank you.
+
+0xEECB0F11 = ~z~He's gonna blame me.
+
+0xFD08AB8C = ~z~What am I gonna do?
+

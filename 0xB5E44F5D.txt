@@ -1,0 +1,436 @@
+0x01C0014E = ~z~By order of Judge... repossession order.
+
+0x01F9D848 = ~z~Son of a bitch.
+
+0x0393B248 = ~z~
+
+0x03D5D4E7 = ~z~Damn the world... damn the world...
+
+0x0479C0D3 = ~z~living in the shit and in the mud...
+
+0x05CCF338 = ~z~Like your ol' Pa, you're a cunning old dog and a credit to this community.
+
+0x05CFC743 = ~z~Compsons Stead, it's a...
+
+0x0607EE48 = ~z~Finders keepers.
+
+0x08D5B5F2 = ~z~I didn't deserve this...
+
+0x090ABBB1 = ~z~That'll be the pistol.
+
+0x0930936D = ~z~They, they, they took it away.
+
+0x0943D15F = ~z~I'll see what I can do.
+
+0x097FBF91 = ~z~Just the damn watch.
+
+0x0A9D99FB = ~z~and some legacies...
+
+0x0AB22242 = ~z~April second, 1870.
+
+0x0C304E0E = ~z~
+
+0x0EA314DC = ~z~That old revolver yours?
+
+0x1ACA17D4 = ~z~We found this place first.
+
+0x1B6D37E6 = ~z~My things...
+
+0x1B7475C0 = ~z~No, you look awful.
+
+0x1CE23E84 = ~z~Old man, some jobs ain't for saving...
+
+0x1E1140E2 = ~z~Well, what about this old crap, huh?
+
+0x2A70B721 = ~z~Oh, goddamn it.~n~~m~Damn it.
+
+0x2B45343A = ~z~How you doing in there?
+
+0x2C30E12F = ~z~I do have a thirst on me.
+
+0x2CB35A72 = ~z~What about this crap?
+
+0x2CCE9874 = ~z~time is hell.
+
+0x2E45E2D2 = ~z~Still got to get his damn watch and pistol.
+
+0x2EDAC553 = ~z~Dear sir,
+
+0x2FD6ED08 = ~z~Come on!
+
+0x3B99D973 = ~z~Easy...
+
+0x3C8860AE = ~z~June seventh, 1855.
+
+0x3E9B38D9 = ~z~old pistol...
+
+0x3EF8FEFD = ~z~Those bastards, they changed everything.
+
+0x3EFC3CCF = ~z~Bank says I can't go near it.
+
+0x3FF13B7D = ~z~If only...
+
+0x4A27CDAA = ~z~I'm sorry to hear that.
+
+0x4AAC1A17 = ~z~I still exist.
+
+0x4AB1E60B = ~z~we do hereby grant repossession of this property and all items herein to the Bank of Rhodes.
+
+0x4B5F3E3E = ~z~Well that's that. I was somewhere near Rhodes when they caught me.
+
+0x4CD5554D = ~z~a watch...
+
+0x4DA756E9 = ~z~Me too.
+
+0x4E4FD1DA = ~z~if that's anything to boast about.
+
+0x4E587E52 = ~z~That'll be the pistol.
+
+0x5A8385AE = ~z~M. Holden, Judge Holden.
+
+0x5AC1F126 = ~z~Personal mementos...
+
+0x5B5FF25A = ~z~I was supposed to live a different life...
+
+0x5B575E1E = ~z~~sl:0.0:1.7~Light's fading so that's it for now.~sl:0.8:4.6:1~I do hope I live to see the end of this war and justice win out.
+
+0x5C6CBD98 = ~z~Damn you.
+
+0x5F37C32E = ~z~Damn you!
+
+0x6DAABD94 = ~z~I'm just here looking for a few things.
+
+0x6E769647 = ~z~I stole a lot of things, but that's quite a lot to steal.
+
+0x7BDAEF4A = ~z~I'm just looking around for some things.
+
+0x7C8005DC = ~z~The Ascension Plantation.
+
+0x7E21359C = ~z~I'm sorry.
+
+0x7E670431 = ~z~Just his stinking pistol.
+
+0x8A2D3806 = ~z~Ledger, watch, pistol.
+
+0x8C5CC028 = ~z~'Til the day I die I ain't going to forget the sound of that dog barking at my heels,
+
+0x8C41901B = ~z~Come on!
+
+0x9ADDDAE2 = ~z~Okay, where is all this old crap?
+
+0x9C446A30 = ~z~Still got to get his damn watch and pistol.
+
+0x9D5ED415 = ~z~Now the ledger and the pistol.
+
+0x9D22F9AA = ~z~Now the ledger and the pistol.
+
+0x9ED827A8 = ~z~Now the watch and ledger.
+
+0x9FD9E722 = ~z~~sl:0.0:3.3~but I don't suppose that day going to be far off yet.~sl:~It was fifty lashings yesterday and fifty more to come.
+
+0x13B66310 = ~z~Where's this house again?
+
+0x16A7652E = ~z~Look at me here...
+
+0x17FC78E1 = ~z~Just the ledger now.
+
+0x30C8E651 = ~z~You asked me to get you something.
+
+0x32C31AC1 = ~z~Compsons Stead.
+
+0x33C3A0E2 = ~z~Well, if I'm ever out that way I'll see what I can do.
+
+0x35B49B07 = ~z~Old man.
+
+0x38FC42A0 = ~z~By order of Judge Meredith Holden and the Courts of the State of Lemoyne,
+
+0x43DF0389 = ~z~Shit...
+
+0x47A686E2 = ~z~Where are you going?
+
+0x57BD68D5 = ~z~Me too.
+
+0x60BE76B7 = ~z~Good for you...
+
+0x65E60AA2 = ~z~I'm living rough over by Eris Field.
+
+0x68D35E83 = ~z~I'm afraid there's no more work for you down here at the plantation.
+
+0x69D088DF = ~z~Who did?
+
+0x70D36665 = ~z~That's, that's my history.
+
+0x71A38AB6 = ~z~I don't think I can take any more. Man said he was doing his job.
+
+0x76A8FA2E = ~z~~sl:0.0:3.8~I'm grateful for the help you've given us, and the help your pappy~sl:~and your pappy's pappy gave us before you.
+
+0x78FD9640 = ~z~Do I look okay?
+
+0x87BD33BF = ~z~No, you look awful.
+
+0x93A3AC05 = ~z~W-what're you doing?
+
+0x143FCCC6 = ~z~Look at me...
+
+0x150E7758 = ~z~Who makes the world?
+
+0x257B0451 = ~z~Where's this house again?
+
+0x302B4D08 = ~z~~sl:0.3~Wrack and ruin... wrack and damned ruin.
+
+0x321B9FD2 = ~z~I could get my old things back.
+
+0x434CBBD4 = ~z~My whole life...
+
+0x458D97F8 = ~z~These are trying times for all of us. You are in our thoughts and prayers.
+
+0x465F101D = ~z~they are for pissing on.
+
+0x492FF49F = ~z~Yeah.
+
+0x500AFDC5 = ~z~Say something...
+
+0x531C3315 = ~z~Yours truly, Col. J Nixon.
+
+0x548FE7F6 = ~z~If I'm ever out that way...
+
+0x573E2611 = ~z~Come on then!
+
+0x733B7D00 = ~z~Old man.
+
+0x740DB8C2 = ~z~Henrietta Blackley, Clerk.
+
+0x824CBC77 = ~z~I'm sorry.
+
+0x836D0FA6 = ~z~I know you? Oh yeah...
+
+0x875CC7B2 = ~z~Now the watch and ledger.
+
+0x981DE579 = ~z~They.
+
+0x1912DD52 = ~z~
+
+0x2617B8E1 = ~z~They forgot about us... just when they needed us, they threw us away, like... like shit on their boot.
+
+0x5669D119 = ~z~I used to be a gentleman.
+
+0x8463ECA0 = ~z~A trapdoor, huh?
+
+0x9544DFC7 = ~z~What did they take?
+
+0x9577E2C1 = ~z~Sorry to hear that.
+
+0x15951DFA = ~z~God...
+
+0x22586BA5 = ~z~Curse you and all you wrought.
+
+0x23086A57 = ~z~Jeremiah Compson...
+
+0x32099FB6 = ~z~my ledger.
+
+0x40775E9E = ~z~You get him?
+
+0x72061BEA = ~z~My old house...
+
+0x79815FB3 = ~z~It's all... it's all gone to hell...
+
+0x83652E39 = ~z~Funny kind of employment if you ask me, but I suppose you ain't.
+
+0x93115F7C = ~z~Who did?
+
+0x276286A4 = ~z~repossessed by the bank.
+
+0x1025473F = ~z~Bastard. Bastard.
+
+0x3094692F = ~z~After numerous complaints from customers and fellow employees alike,
+
+0x4008011B = ~z~Don't you understand?
+
+0x7628617A = ~z~God...
+
+0x9887934D = ~z~What you doing here?
+
+0x10801772 = ~z~That's the old watch.
+
+0x42494369 = ~z~north of Scarlett Meadows.
+
+0x45061242 = ~z~There's just no place for a man like you at the Central Union Railroad Company.
+
+0x49605026 = ~z~The respect accorded to a gentleman.
+
+0x67127594 = ~z~June '64.
+
+0x69291749 = ~z~This your precious ledger? Jesus Christ.
+
+0x84287501 = ~z~Time's wasn't perfect, ain't saying that... it's just...
+
+0xA0B4FAC3 = ~z~And what did they take?
+
+0xA2F7BD87 = ~z~Easy...
+
+0xA6DB5B0B = ~z~Let me at you!
+
+0xA7D0877E = ~z~quite a lot to steal.
+
+0xA47F9F32 = ~z~There ain't nothing here of any value, I wouldn't give you a nickel for it.
+
+0xA987BAAF = ~z~The Ascension Plantation.
+
+0xA1589707 = ~z~Gonna get you!
+
+0xAA2464F8 = ~z~You okay?
+
+0xABBD14F6 = ~z~You show some respect.
+
+0xAC8CCC1B = ~z~Okay, where is all this old crap?
+
+0xADB51A33 = ~z~if that's anything to boast about.
+
+0xAE5487D7 = ~z~
+
+0xAE12307A = ~z~Goddamn ya!
+
+0xAF379BD3 = ~z~You asked my friend to get you something.
+
+0xB0C45920 = ~z~Come on then!
+
+0xB0D285ED = ~z~I wasn't born to this...
+
+0xB2BE3BAF = ~z~~sl:0.0:2.2~Come by for a sup of whisky any time.~sl:0.8~Bill.
+
+0xB2BEA659 = ~z~What you want?
+
+0xB7B79337 = ~z~Rance.
+
+0xB47CA65D = ~z~You asked me to get you something.
+
+0xB97AAAD2 = ~z~I stole a lot of things, but that's...
+
+0xB97FB07B = ~z~Old man?
+
+0xB212BF62 = ~z~~sl:0.0:3.0:1~This your ledger? A list of slaves?
+
+0xB3229B82 = ~z~career.
+
+0xB70609F5 = ~z~Just the ledger now.
+
+0xB4807135 = ~z~we must terminate your employment.
+
+0xBA68CB88 = ~z~This your precious ledger? Jesus Christ.
+
+0xBA982ADB = ~z~
+
+0xBC6323F4 = ~z~
+
+0xBD0882DC = ~z~This man... he understands.
+
+0xBD5DF5FA = ~z~You okay?
+
+0xBD6DCB8D = ~z~Thanks indeed for your talk to our Sunday school class.
+
+0xBEEB5409 = ~z~~sl:0.0:1.2~P.S.~sl:~I was sorry to hear of Betsy's passing. Things is easier up there for sure.
+
+0xBF9E2384 = ~z~Awful...
+
+0xBFB09B04 = ~z~Just his stinking pistol.
+
+0xC002BECE = ~z~Good for you...
+
+0xC05381B4 = ~z~I took pride in my work.
+
+0xC06981D8 = ~z~and some legacies...
+
+0xC4BEB073 = ~z~No, damn you.
+
+0xC6F54B66 = ~z~I was respected once.
+
+0xC9E83798 = ~z~~sl:0.0:0.6~Heck,~sl:0.5~none of us want nothing to do with ya.
+
+0xC26A8CDD = ~z~Dear Mr. Compson,
+
+0xC5183F6D = ~z~a whole way of living, a...
+
+0xC2641220 = ~z~I'll stick you!
+
+0xCA167909 = ~z~~sl:0.0:1.5~By order of Judge...~sl:1.4~repossession order.
+
+0xCCBFEECD = ~z~Ledger, watch, pistol.
+
+0xCD145205 = ~z~it's all dilapidated and destroyed...
+
+0xCF576F60 = ~z~Thought you might like this drawing young Josh did of ya.
+
+0xCFB2DCC9 = ~z~I want my job, my pride.
+
+0xD2A82655 = ~z~Old man, some jobs ain't for saving...
+
+0xD5DC3483 = ~z~You and me... we understand each other.
+
+0xD6E754C4 = ~z~Get away.
+
+0xD8C285DA = ~z~It's ours!
+
+0xD18E2429 = ~z~I was a good worker.
+
+0xD23E8C1C = ~z~for your assistance in the recovery of my Property.
+
+0xD53ED9E2 = ~z~May eighteenth, Wilfred. Eighteen dollars.
+
+0xD30349CE = ~z~Pa, Godammit! I told you to stay away from the boy. He don't want this.
+
+0xD88649E9 = ~z~Just the damn watch.
+
+0xD371091B = ~z~That old revolver yours?
+
+0xD2550253 = ~z~What you doing?
+
+0xDA0AD85D = ~z~useless.
+
+0xDB985BB9 = ~z~Shit...
+
+0xDF6DF6B8 = ~z~the house my grandfather built...
+
+0xDFC39040 = ~z~He wants to grow up just like ya. Sam.
+
+0xE0F07F44 = ~z~There's no bringing back what I want.
+
+0xE3D148AF = ~z~Pissed on my legacy.
+
+0xE3F12F81 = ~z~Please accept this likeness of your family as a small token of appreciation
+
+0xE5F28ABD = ~z~Time...
+
+0xE39CD004 = ~z~I'd... I'd sure appreciate that help mister.
+
+0xE56ACF92 = ~z~they're for pissing on.
+
+0xE80E7F7D = ~z~May twenty-fourth, Minnie and child. Twenty dollars.
+
+0xE864DDA4 = ~z~Dear Mr. Compson,
+
+0xE7057D6F = ~z~January eighteenth, Louise. Twelve dollars.
+
+0xE7501BDC = ~z~I just... it's ridiculous... me... who makes the rules?
+
+0xE685235E = ~z~That's the old watch.
+
+0xEC950E66 = ~z~They took everything from me.
+
+0xEE921BCD = ~z~This your ledger? A list of slaves?
+
+0xF02AB0FA = ~z~November eighteenth, 1895.
+
+0xF0E2912D = ~z~Rewards. January fifteenth, Betsey. Seventeen dollars.
+
+0xF4A6F6A5 = ~z~It's just a prick!
+
+0xF5F44226 = ~z~Dear Jeremiah,
+
+0xF7F35785 = ~z~Yours, Col. Joshua Nixon.
+
+0xF93C2FF3 = ~z~I had a profession.
+
+0xF856D2E6 = ~z~Son of a bitch.
+
+0xFE21099D = ~z~I'll get you, you bastard!
+

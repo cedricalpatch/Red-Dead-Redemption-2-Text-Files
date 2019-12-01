@@ -1,0 +1,840 @@
+0x003DE3D4 = ~z~My... angel...
+
+0x01309F94 = ~z~
+
+0x01D10199 = ~z~Bray!  No!
+
+0x0200445D = ~z~Maybe once our guest leaves, we can have a little dessert upstairs, honey pie.
+
+0x025DC942 = ~z~Hey, come say howdy!
+
+0x0288F96A = ~z~Hunger's just getting the better of me, partner, and I figured it'd give you a chance to check out the place.
+
+0x02A1E404 = ~z~I'm gonna kill you, you bastard!
+
+0x03FA0EE1 = ~z~
+
+0x03FEE8C8 = ~z~I don't know what that needs.
+
+0x04A48F5A = ~z~Those crazy sons of bitches got some explaining to do.
+
+0x054F89FA = ~z~
+
+0x057F10C6 = ~z~Why didn't you tell me we had guests comin'?
+
+0x061962D7 = ~z~He just asked me to check on you, that's all.
+
+0x066D23E5 = ~z~You're gonna pay, you bastard!
+
+0x0704B465 = ~z~Why not go check upstairs to see what's taking her so long, huh?
+
+0x0716E07D = ~z~I'm sure you two can have more than enough fun without me.
+
+0x0780E909 = ~z~One more, and you and I both'll go upstairs and have a lie down.
+
+0x07897146 = ~z~So I opened a door up there and saw some bones. Human bones.
+
+0x078FEA90 = ~z~Well, ain't this a rare treat?
+
+0x08144CCC = ~z~An old family photo... it got...  damaged, unfortunately.
+
+0x09BCBE69 = ~z~Feels like someone's stabbing me in the head.
+
+0x09DE6D89 = ~z~Okay, there's welcoming, and then there's whatever you two are.
+
+0x0A39ABE8 = ~z~So did you check and see if she's finished up there already?
+
+0x0B092A06 = ~z~What a shame, partner, we were just starting to have a good time!
+
+0x0D02AF0B = ~z~It's good...
+
+0x0D33DAE7 = ~z~That ain't happening.
+
+0x0D318567 = ~z~No. I think I just lost my appetite.
+
+0x0DD75EA7 = ~z~Hey there.
+
+0x0E2CEAEC = ~z~Night night, partner.
+
+0x0EE9E9CF = ~z~Oh, about time! And take whatever cash he has on him and put it behind Momma.
+
+0x0F653B63 = ~z~You ain't exactly subtle with your courtship, are you?
+
+0x1A92DA39 = ~z~Oh, you don't know her like I do. Married to the mirror, that one.
+
+0x1AE116E4 = ~z~Oh that's my momma. Rest in peace. I just couldn't bring myself to bury her. This way is better.
+
+0x1B9D8AC2 = ~z~No such thing as a stranger here.
+
+0x1B14C1C9 = ~z~Ugh... you sick sons of bitches.
+
+0x1B230B58 = ~z~There's no such thing, partner!
+
+0x1C00BC61 = ~z~Sure you don't want try a little? It's delicious.
+
+0x1D9E9497 = ~z~Would you just pop your head round the door? Or we won't be eating till Christmas!
+
+0x1D62F186 = ~z~Interminable... squealing...
+
+0x1DAEA4BD = ~z~Ah got a brown dog scratching at the back door, have you, partner?
+
+0x1F450F8C = ~z~Judging... us...
+
+0x1FF7F34D = ~z~Oh, you don't know her like I do. Married to the mirror, that one.
+
+0x2AAAFA56 = ~z~I didn't mean to intrude, miss.
+
+0x2B405857 = ~z~It's alright, looking ain't a crime.
+
+0x2B644028 = ~z~Well you just come take a seat here when you're done!
+
+0x2CA83357 = ~z~What the hell is that?
+
+0x2D7DF1D2 = ~z~You ain't shy, are you?
+
+0x2D607FD4 = ~z~Look, I'm sure she'll be down in a minute.
+
+0x2E9B48D6 = ~z~You're just really looking for trouble, ain't you?
+
+0x2E45AE9F = ~z~This is, uh, very kind of you.
+
+0x2EE07AF3 = ~z~I'll go open that bottle.
+
+0x2FCBF14D = ~z~this place used to be a pig farm when we was...
+
+0x3B3CE545 = ~z~Oh, that's a big mistake!
+
+0x3B5393D9 = ~z~I appreciate the offer, but I... I best be on my way.
+
+0x3C6E423D = ~z~Well, right here next to me, partner.
+
+0x3EB88338 = ~z~I'm just passin' through.
+
+0x3EC4833F = ~z~like a couple of old friends.
+
+0x3EDF6B59 = ~z~What do you think you're doing?
+
+0x3EE01F29 = ~z~Go on, partner! She won't mind.
+
+0x4AA7403D = ~z~
+
+0x4B6ECDCE = ~z~Uh, not sure why you want me to fetch your woman for you.
+
+0x4B225E02 = ~z~No, already? I thought we was gonna have some fun together.
+
+0x4BF90E95 = ~z~
+
+0x4C7F6C85 = ~z~Don't be shy, partner.
+
+0x4C59B074 = ~z~Figured I'd check on you two while I was passing through.
+
+0x4C97AAE4 = ~z~Before we lost our Ma and Pa.
+
+0x4DB668BE = ~z~No, come on. Don't go!
+
+0x4DBCBDE3 = ~z~Cheeky. Why don't you taste it before you judge it?
+
+0x4F391331 = ~z~It ain't easy to concentrate with you creeping around.
+
+0x5A09AAB6 = ~z~
+
+0x5A8866E3 = ~z~That's my girl!
+
+0x5BD94967 = ~z~Horrible business.
+
+0x5CC8078E = ~z~You're a fussy one, aren't you?
+
+0x5DD1DDF0 = ~z~Alright, that's it. It's time for you to go. Right now, if you know what's good for you.
+
+0x5E28E740 = ~z~Aaagh... ugh, what the hell is that?
+
+0x5F4452F1 = ~z~It's decided then. I'm gonna go freshen up.
+
+0x6A82A303 = ~z~Oh well, your loss.
+
+0x6AEEEA0B = ~z~Easy.
+
+0x6D2EFCCB = ~z~Err, I ain't no guest, miss, I'm just passing through.
+
+0x6D62DD3E = ~z~What the hell was that?
+
+0x6DB27069 = ~z~I can't stay for long.
+
+0x6DEF3612 = ~z~No, what are you doing? No!
+
+0x6EAA5374 = ~z~What the hell?
+
+0x6F3B5A0B = ~z~Look who's here.
+
+0x6FE3D049 = ~z~
+
+0x6FF7F3A2 = ~z~
+
+0x7A11DE5E = ~z~I appreciate the offer but I...
+
+0x7AD6A261 = ~z~That's it. Yeah, just settle in. Make yourself at home.
+
+0x7AEA078C = ~z~But we still got each other...
+
+0x7AF8CFF7 = ~z~
+
+0x7B6A932F = ~z~be down in just a minute.
+
+0x7B148B39 = ~z~Yeah, yeah.
+
+0x7C0A6E34 = ~z~What are you doing?
+
+0x7C3853C3 = ~z~Oh my God... sis... no!
+
+0x7D82F1A8 = ~z~
+
+0x7E06AF7E = ~z~What's a meal without a drink and some fun to follow? Real shame you don't want to join us.
+
+0x7F94E854 = ~z~Err, I ain't no guest, miss...
+
+0x7FAD8EE3 = ~z~I loved him like a husband!
+
+0x8A29EF3E = ~z~Ma and Pa, you brought this on yourselves.
+
+0x8AD120C4 = ~z~Me?
+
+0x8BCA2CA4 = ~z~There...
+
+0x8C4C330E = ~z~That ain't happening.
+
+0x8D001FB5 = ~z~Ah, it's a short life, but a merry one!
+
+0x8E8F2B9C = ~z~And there was me thinking you was the bashful type.
+
+0x8E444909 = ~z~Miss, I don't know what exactly you're insinuating, but I'm spoken for.
+
+0x9A390CC7 = ~z~Alright. Make sure you get it all in.
+
+0x9B1C1280 = ~z~Maybe back up a little, honey. Let's not rush things.
+
+0x9B3C1FA2 = ~z~It's decided then.
+
+0x9B32A438 = ~z~Hey, that ain't yours to take!
+
+0x9B207A5C = ~z~Can't wait to get stuck in, huh? I like your spirit.
+
+0x9BA5393F = ~z~I'm sorry, I shouldn't be mithering you like this. Just chomping at the bit, that's all.
+
+0x9C09B0DB = ~z~We sure did.
+
+0x9C33CF3C = ~z~Well ain't this cozy.
+
+0x9C547F29 = ~z~Don't sweat it, partner. The pleasure's all ours.
+
+0x9CDA22DE = ~z~I'm gonna go freshen up.
+
+0x9CFBA4B5 = ~z~You'd make me a happy girl.
+
+0x9D2E1461 = ~z~Feels like someone's stabbing me in the head.
+
+0x9FCA8376 = ~z~Hey, hey. Slow it down there. Plenty of time for that.
+
+0x13CDD28B = ~z~Come on, I thought I had a man here, not a boy.
+
+0x14D67FF3 = ~z~What a tough guy, kidnapping a lady!
+
+0x14E4A700 = ~z~You should be careful, miss, inviting strangers into your home like this.
+
+0x17C55ACA = ~z~Hey time you cut that out now, mister. Just go upstairs and check on her for me, will you?
+
+0x20FE5426 = ~z~Here, here. That's for you.
+
+0x21D5D815 = ~z~
+
+0x25D1E06C = ~z~What are you going to do to me?
+
+0x28E3E57B = ~z~
+
+0x29B5E871 = ~z~Well like I said...
+
+0x31A5325C = ~z~I found some bones in an armoire, what's that about?
+
+0x31D7CDF5 = ~z~Where the hell are you taking me?
+
+0x32B220C0 = ~z~What the hell just happened?
+
+0x32BA6B74 = ~z~Oh, I doubt he needs that. Let's loosen you up some more.
+
+0x32BB9980 = ~z~Come on over!
+
+0x32D3ABF3 = ~z~Oh well, look who it is. You are hungry, ain't you?
+
+0x32DDC4CC = ~z~Goddamn son of a bitch! She was everything to me!
+
+0x34C6A9E9 = ~z~Oh, you've always been the naughty one.
+
+0x34F8D31D = ~z~good company?
+
+0x35D2471C = ~z~Why didn't you tell me we had guests coming? I'd've fixed myself up nice.
+
+0x36D5F373 = ~z~I'd've fixed myself up nice.
+
+0x37AC3883 = ~z~Wish we could've given you a proper burial, but things ain't never perfect.
+
+0x38ACC5A6 = ~z~See? He doesn't want to leave.
+
+0x40BB167B = ~z~Yeah, I could definitely use a drink.
+
+0x42FAFA75 = ~z~I... didn't mean to intrude, miss.
+
+0x44E1605E = ~z~Oh you don't need to make any excuses. No sirree.
+
+0x44EC1C01 = ~z~ain't that right, honey pie?
+
+0x52F5F109 = ~z~Let me go, you son of a bitch!
+
+0x53ABA020 = ~z~Well, we had a bit of fun, didn't we honey?
+
+0x53BE9EAC = ~z~I know what you want, but now's not the time.
+
+0x53C4B9B2 = ~z~And we still know how to have a hog-killing time!
+
+0x54E3AE99 = ~z~Jesus!
+
+0x57BBCCA9 = ~z~It's decided then. I'm gonna go freshen up.
+
+0x59A9BD2C = ~z~different.
+
+0x61FB17D2 = ~z~That's alright...some folk just have habit of taking advantage of our hospitality sometimes.
+
+0x65DEDF9A = ~z~Now we got food on the stove... and a bottle of the good stuff we been saving.
+
+0x68C3633B = ~z~Horrible.
+
+0x68D15B7B = ~z~That meat is so tender.
+
+0x69C4AB56 = ~z~Fine. Stay if you want, but I gotta get this journal done.
+
+0x70DEA7CC = ~z~~sl:1.0~Chop... chop... bye...
+
+0x71DD090F = ~z~That's alright...some folk just have habit of taking advantage of our hospitality sometimes.
+
+0x74AC7D35 = ~z~Oh nonsense. Well come on in, rest a while.
+
+0x76B4D0CE = ~z~Here, open up. Let me know if it needs more cream.
+
+0x78D7C591 = ~z~You get the hell away from me!
+
+0x78F95314 = ~z~Alright... stay and watch, if that's what you like.
+
+0x81B925DB = ~z~That smells...interesting.
+
+0x82A075DA = ~z~
+
+0x82D20F84 = ~z~How do you like it?
+
+0x83EBB180 = ~z~Right...
+
+0x86E6C8FF = ~z~Alright, I don't know what you're playing at here, you need to leave. Now.
+
+0x87CC79D3 = ~z~I best be on my way.
+
+0x89A92A27 = ~z~You're keen.
+
+0x89FBD1A4 = ~z~You tell him, honey!
+
+0x91FDF7D7 = ~z~Sorry about that.
+
+0x94BC88B7 = ~z~Oh, he's just a boring old stick in the mud.
+
+0x94F9C6C8 = ~z~Just wait until you see her after a couple of drinks...
+
+0x95BE5525 = ~z~Well, that's why you're here, ain't it, partner? Every stranger is a new friend waiting to happen, I say.
+
+0x95CB87CF = ~z~Ugh, you sick sons of bitches.
+
+0x97B2352A = ~z~Now we got food on the stove..
+
+0x98A64373 = ~z~Just go hurry her up a little, she won't listen to me!
+
+0x98C9137C = ~z~Why the sudden hospitality, mister? You don't know me.
+
+0x99E73D15 = ~z~Guess you came here hungry for something else.
+
+0x124EDF56 = ~z~I'm sure you two can have enough fun without me.
+
+0x131D1CDE = ~z~
+
+0x184AC59B = ~z~Where are my manners?
+
+0x204E3CC9 = ~z~Go check on her, will you?
+
+0x240BB324 = ~z~Never rush a good time, my pa always told me. Rest his soul.
+
+0x250EAC09 = ~z~Right...
+
+0x278C93B8 = ~z~Ah, I think I just lost my appetite.
+
+0x290A57DC = ~z~Aw, now you know you look perfect, princess.
+
+0x339C8F12 = ~z~Hey there!
+
+0x342A0B02 = ~z~She's my everything, friend. From the womb to the tomb. I'm a lucky man.
+
+0x370B10B8 = ~z~She seems...a real nice lady.
+
+0x389AFAD7 = ~z~Here we are, all the fixin's.
+
+0x398D78D1 = ~z~Well hey!
+
+0x438A2144 = ~z~I will hack your corpse apart!
+
+0x507F26B4 = ~z~Then look at us...
+
+0x547E197E = ~z~
+
+0x570F5BF6 = ~z~I'm sorry, Momma! I'm sorry...
+
+0x622E4A23 = ~z~Well come on in...
+
+0x627DB2C8 = ~z~Oh you don't need to make any excuses. No sirree.
+
+0x634AB0C8 = ~z~I'm just passin' through.
+
+0x640DA93C = ~z~So I opened a door up there and saw some bones. Human bones.
+
+0x669DBDBD = ~z~
+
+0x693A66C9 = ~z~Okay, now you got a problem!
+
+0x693E4F15 = ~z~He always likes watching me get ready, too.
+
+0x700B65DD = ~z~Oh nonsense.
+
+0x703D581F = ~z~Well, if you change your mind, partner, you're always welcome here!
+
+0x741BC720 = ~z~
+
+0x748A7D7D = ~z~I appreciate the offer, but I... I best be on my way.
+
+0x761F7617 = ~z~You know what...
+
+0x768BF1E9 = ~z~Whoa!
+
+0x861A52B5 = ~z~This is, uh, very kind of you.
+
+0x880A95CE = ~z~Well ain't this just about perfect...
+
+0x895B88D6 = ~z~Hey!
+
+0x972D2E68 = ~z~I'll give you a guess, though. Want a taste?
+
+0x1042E0E2 = ~z~All this food, I think I'm going to need a lie down.
+
+0x1506ED30 = ~z~Are you still here?
+
+0x1659D65E = ~z~Why the sudden hospitality, mister? You don't know me.
+
+0x2041F1CE = ~z~You don't know what you want.
+
+0x2378CF74 = ~z~I'll give you a guess, though. Want a taste?
+
+0x2464BCF8 = ~z~We kept telling you, leave us alone.
+
+0x2498DD04 = ~z~You're a feisty one.
+
+0x2891C7C7 = ~z~
+
+0x3261E41E = ~z~What the hell just happened?
+
+0x3297F759 = ~z~Yeah?
+
+0x5439F2CA = ~z~I appreciate the hospitality, folks, but I best be on my way.
+
+0x6181C9EF = ~z~Oh, I doubt he needs that. Let's loosen you up some more.
+
+0x7065D165 = ~z~
+
+0x7225A3F4 = ~z~Whoa, hey, what are you doing? Just calm down.
+
+0x7305FFAD = ~z~Hey, there he is! Come on in. Come on.
+
+0x7878DEC2 = ~z~He just asked me to check on you, that's all.
+
+0x8378F0DB = ~z~No need to stand on ceremony here.
+
+0x8418BBD6 = ~z~You animal!
+
+0x8577A820 = ~z~How you gonna turn down a hot meal and good company?
+
+0x8799B593 = ~z~She's my everything, friend. From the womb to the tomb. I'm a lucky man.
+
+0x9021BC9D = ~z~Woohoo! That is what I like to hear!
+
+0x9639DA6D = ~z~What are you doing?
+
+0x11802B83 = ~z~Well that would be telling!
+
+0x17988FDC = ~z~I'm gonna bleed you dry!
+
+0x21721E17 = ~z~I found some bones in an armoire, what's that about?
+
+0x38758D98 = ~z~Whoa, calm down, partner! We're all friends here.
+
+0x45215C56 = ~z~Don't sweat it, partner. The pleasure's all ours.
+
+0x45419E36 = ~z~Oh, about time. Take whatever cash he has on 'im and put it behind Momma.
+
+0x53933AD9 = ~z~Ah, what the hell.
+
+0x54793DF7 = ~z~different.
+
+0x58494E08 = ~z~She'll, uh... be down in just a minute.
+
+0x95483DAF = ~z~Stop it, I ain't a damn hog!
+
+0x98678FED = ~z~There's my pal! I knew you'd be back.
+
+0x145357E9 = ~z~You rascal! I'll be right down, I promise! This ain't over... just an intermission.
+
+0x261513E0 = ~z~I appreciate the hospitality, folks, but I best be on my way.
+
+0x351207E0 = ~z~You? You ain't...
+
+0x421295DA = ~z~when we was kids.
+
+0x443952C9 = ~z~No, already? I thought we was gonna have some fun together.
+
+0x474977BE = ~z~I'll go open that bottle.
+
+0x628523F3 = ~z~I don't know what that needs.
+
+0x753707E3 = ~z~Hey, now, pull up a chair partner!
+
+0x867347B7 = ~z~What? You again?  How do you keep coming back?
+
+0x895338E4 = ~z~Sure. My apologies, miss.
+
+0x945497BB = ~z~Tears... of red...
+
+0x3073961E = ~z~Bray... no!
+
+0x3778915F = ~z~Oh nonsense. Well come on in, rest a while.
+
+0x4595603C = ~z~Uh, I reckon she might be a little too friendly.
+
+0x6610066C = ~z~Well sure!
+
+0x7450169A = ~z~Hey!
+
+0x8684059A = ~z~Put me down!
+
+0x9853365F = ~z~I can't stay for long.
+
+0x18864855 = ~z~You? You ain't... damn, what a fine surprise this is. Honey. Honey, can you come over here right now?
+
+0x20779001 = ~z~Oh you met Momma? She always did love visitors. We like to keep her here with us.
+
+0x23237136 = ~z~
+
+0x26335353 = ~z~Woohoo, That stuff'll put hair on your chest.
+
+0x28184619 = ~z~Whoa there, partner, you can't just go around taking our valuables!
+
+0x43326197 = ~z~Oh you met Momma? She always did love visitors. We like to keep her here with us.
+
+0x46552087 = ~z~Err, I ain't no guest, miss, I'm just passing through.
+
+0x49933594 = ~z~Now we got food on the stove... and a bottle of the good stuff we been saving.
+
+0x72538550 = ~z~An act... of love...
+
+0x74288582 = ~z~Oh come on now.
+
+0x77861125 = ~z~Takes one to know one.
+
+0x84754445 = ~z~
+
+0x88034401 = ~z~I appreciate you stopping by, but I'm busy right now.
+
+0xA05D1313 = ~z~I see that.
+
+0xA2FEA53B = ~z~Love thy neighbor as thyself, partner.
+
+0xA5D2D86F = ~z~I'm sorry, ma'am.
+
+0xA6CAD85C = ~z~I figured I'd check in on you while I was passing through.
+
+0xA6DB7BB0 = ~z~What the hell?
+
+0xA17B639E = ~z~Please, no! Please, I'm sorry, not here! Momma!
+
+0xA37EFDF1 = ~z~Hunger's just getting the better of me, partner, and I figured it'd give you a chance to check out the place.
+
+0xA56C2CC2 = ~z~Well, that's why you're here, ain't it, partner? Every stranger is a new friend waiting to happen, I say.
+
+0xA171E3ED = ~z~I couldn't pass on a free ticket to the freakshow.
+
+0xA4724EE2 = ~z~
+
+0xA1406014 = ~z~Where are you taking me?
+
+0xAA75A0E4 = ~z~
+
+0xAB6CB0DE = ~z~It's an old Aberdeen home recipe. That one right there's an 1894.
+
+0xAB401D9E = ~z~Whoa. Easy, partner.
+
+0xABF161BE = ~z~It's good...
+
+0xAC2F5E24 = ~z~Err, I ain't no guest, miss...
+
+0xAC10137D = ~z~Hey, we didn't say you could just take whatever you want.
+
+0xAC78754A = ~z~She'll, uh...
+
+0xAD797867 = ~z~That is what I like to hear!
+
+0xAEE57C6F = ~z~It'll get you warmed up nicely, believe me.
+
+0xAF0708FB = ~z~
+
+0xAF1AE433 = ~z~I knew you wouldn't be able to stay away.
+
+0xB2ABB7B0 = ~z~He's going upstairs by himself, Bray.
+
+0xB3BD1B42 = ~z~Well, ain't you a stiff one!
+
+0xB4DB89A4 = ~z~Write the past down, it starts to heal. That's... that's what they say.
+
+0xB5BC0E3B = ~z~Well, come on! Take the weight off.
+
+0xB5C67145 = ~z~one of them moments you wish could last forever.
+
+0xB7D8CBF9 = ~z~Well you get right to it, don't you?
+
+0xB8EB46EA = ~z~Just wait until you see her after a couple of drinks...
+
+0xB16C9D24 = ~z~Hey, get to know the place.
+
+0xB38B3E4E = ~z~Together... always...
+
+0xB40DF4E5 = ~z~Apology accepted, honey. Just behave. For now anyway...
+
+0xB49A95B9 = ~z~They all are, honey. Believe me.
+
+0xB79F365C = ~z~No harm done.
+
+0xB237EA6D = ~z~That stuff'll put hair on your chest.
+
+0xB250EBFF = ~z~Let me go, you son of a bitch!
+
+0xB9498F6F = ~z~Uh, I reckon she might be a little too friendly.
+
+0xB127418C = ~z~Okay, there's welcoming, and then there's whatever you two are.
+
+0xBA427E3A = ~z~Write the past down, it starts to heal. That's-that's-that's what they say.
+
+0xBAB54AF6 = ~z~Oh I'm a very good judge of character. I see the look in your eyes.
+
+0xBE5D65E4 = ~z~and a bottle of the good stuff we been savin'.
+
+0xBEC7E9AF = ~z~Those crazy sons of bitches got some explaining to do.
+
+0xBF8EE9BA = ~z~Sure. My apologies, miss.
+
+0xBF323C10 = ~z~You're a dead man, you son of a bastard!
+
+0xBF47681E = ~z~Come on, honey.
+
+0xC0FB95E8 = ~z~Got myself all warmed up for nothing.
+
+0xC1F0DDE6 = ~z~
+
+0xC7E999B2 = ~z~I hope you boys left some room in your trousers.
+
+0xC24B527C = ~z~Whoever it is, they came looking for trouble!
+
+0xC49C1459 = ~z~Make yourself at home!
+
+0xC669A1DE = ~z~Drinks!
+
+0xC775B00B = ~z~I told him you'd be back before long.
+
+0xC5781F5F = ~z~How you gonna turn down a hot meal and good company?
+
+0xC8704454 = ~z~That's what Pa used to say.
+
+0xCB0F8D9D = ~z~Hey pull up a chair, partner.
+
+0xCB1A18F8 = ~z~One drink, what's the worst that can happen?
+
+0xCB3B7742 = ~z~Honey, we got a live one! I'll search his pockets and put it behind Mama!
+
+0xCB7C1F7C = ~z~What are you cooking?
+
+0xCC5FF0C2 = ~z~What in the hell?
+
+0xCC6DAFC6 = ~z~Hey there.
+
+0xCD372EFE = ~z~I said, "get the hell out of here!"
+
+0xCE38582E = ~z~She's upstairs, but you're more than welcome to take care of business first.
+
+0xCFBCA531 = ~z~Hey!
+
+0xCFE079C5 = ~z~Come on, I thought I had a man here, not a boy.
+
+0xD021827A = ~z~Well, we still can enjoy ourselves, princess...
+
+0xD0D9DBFE = ~z~You want me to go up there?
+
+0xD1E9403B = ~z~Hey, now, pull up a chair partner!
+
+0xD3B8F553 = ~z~Who the hell's out there?
+
+0xD4C0BDF0 = ~z~I'll go open that bottle.
+
+0xD5F38798 = ~z~What's going on?
+
+0xD8D69AD6 = ~z~Oh come on now.
+
+0xD51CB418 = ~z~Mmm, that smells delicious...
+
+0xD672ACEE = ~z~What are you cooking?
+
+0xD2854B55 = ~z~She seems...a real nice lady.
+
+0xD9510E13 = ~z~Well, you look like you need to take a load off.
+
+0xDAF0DB8D = ~z~Sorry about that.
+
+0xDB98D40D = ~z~There's no such thing, partner!
+
+0xDBA1B47B = ~z~Oh I'm a very good judge of character. I see the look in your eyes.
+
+0xDBB9B7B2 = ~z~What the hell you doing, you son of a bitch?
+
+0xDC2B6A2B = ~z~Let's cut him open and watch him bleed!
+
+0xDC74B73E = ~z~Couldn't turn down another free ticket to the freakshow.
+
+0xDC722D39 = ~z~Uh, not sure why you want me to fetch your woman for you.
+
+0xDCC1646F = ~z~One more, and you and I both'll go upstairs and have a lie-down.
+
+0xDFAB79A1 = ~z~Make yourself at home!
+
+0xDFD744DE = ~z~Oh my God!
+
+0xE08BC2EF = ~z~You go on and have a seat at the table. I'll be down in a minute.
+
+0xE0A70D4A = ~z~Ughh... Ugh... Uhhhh.
+
+0xE2B378DA = ~z~I'm a chip off the old block alright.
+
+0xE4BFC5D9 = ~z~I hope she ain't primping for hours up there or we'll never eat!
+
+0xE5D25169 = ~z~rest a while.
+
+0xE7E20D57 = ~z~Apology accepted, honey. Just behave. For now anyway...
+
+0xE8D15BD5 = ~z~But you loved them pigs, and that day they ate well.
+
+0xE27B836C = ~z~It was the only way we'd all have peace.
+
+0xE41B5B14 = ~z~What? How the hell did you... oh, it don't matter, I'll make sure you're dead this time!
+
+0xE43D23EB = ~z~Aw, now you know you look perfect, princess.
+
+0xE80BAC5E = ~z~You're not shy are you?
+
+0xE239CA2B = ~z~Well like I said...
+
+0xE791D1E7 = ~z~I know just what he wants.
+
+0xE837D078 = ~z~Well that would be telling!
+
+0xE910DD42 = ~z~Well sure!
+
+0xE4186B32 = ~z~Get the hell out of my home!
+
+0xE5521EF2 = ~z~Come on, friend, sit yourself back down and loosen up a bit. Life's too short.
+
+0xE21777F6 = ~z~Hey, sit down, will you?
+
+0xE36750AD = ~z~and the food don't smell too bad neither.
+
+0xE99753CD = ~z~Chore... after chore...
+
+0xE7626590 = ~z~See, princess, I told you he'd be back! Come on, pull up a chair, partner.
+
+0xE8203969 = ~z~How you gonna turn down a hot meal and...
+
+0xEAC72B21 = ~z~You should be careful, miss, inviting strangers into your home like this.
+
+0xECB53859 = ~z~Honey, we got a live one! I'll search his pockets and put it behind Mama!
+
+0xEDCD1BEB = ~z~That's an interesting way to make yourself at home, friend.
+
+0xEE3FB64C = ~z~Oh, he's just a boring old stick in the mud.
+
+0xEE8F710F = ~z~Oh, not for nothing, princess.
+
+0xEE9599AE = ~z~Hey now, you better stop taking what ain't yours, mister!
+
+0xEFF1860B = ~z~That look... Ma...
+
+0xF03E74EB = ~z~Oh come on now.
+
+0xF0528E8D = ~z~I'm surprised you know how to write.
+
+0xF4BD550D = ~z~Come on, try one bite. It was my mother's recipe.
+
+0xF6D98186 = ~z~Down, boy.
+
+0xF8C98437 = ~z~I'm gonna get him for you, sis, I promise!
+
+0xF8F983D6 = ~z~Takes one to know one.
+
+0xF9DBD5EB = ~z~Oh that's my momma. Rest in peace. I just couldn't bring myself to bury her. This way is better.
+
+0xF9E9A746 = ~z~I can't wait to get to the fun.
+
+0xF9EF4DE6 = ~z~
+
+0xF14C202B = ~z~I'm sorry, ma'am.
+
+0xF81D5DE8 = ~z~No! Honey!
+
+0xF491F302 = ~z~Oh stop it, you.
+
+0xF8467BAD = ~z~Hey, get to know the place.
+
+0xF8821BF4 = ~z~It's an old Aberdeen home recipe. That one right there's an 1894.
+
+0xF54710EA = ~z~~sl:0.0:3.6~Hey, no need to get light-fingered, friend.~sl:0.1~We're already offering you a hot meal.
+
+0xF160161E = ~z~Look, I'm sure she'll be down in a minute.
+
+0xF923750A = ~z~You know what any man wants, honey pie.
+
+0xFA2FDD88 = ~z~I appreciate the offer but I...
+
+0xFA205C63 = ~z~Aren't you a curious little boy?
+
+0xFA415F47 = ~z~That smells... interesting.
+
+0xFB2A6119 = ~z~Cheeky. Why don't you taste it before you judge it?
+
+0xFB73E010 = ~z~I best be on my way.
+
+0xFBEF0CE4 = ~z~Yeah, I could definitely use a drink.
+
+0xFC2AC451 = ~z~Ah, what the hell.
+
+0xFC2D5227 = ~z~Love thy neighbor as thyself, partner.
+
+0xFD6CFF15 = ~z~I'm surprised you know how to write.
+
+0xFE6C43B2 = ~z~I thought I told you to cut that out?
+
+0xFF2D41BB = ~z~Sweet... like roses...
+
+0xFF9F465B = ~z~Oops-a-daisy.
+

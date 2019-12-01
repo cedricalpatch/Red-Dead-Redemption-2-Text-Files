@@ -1,0 +1,12 @@
+0x0406DFEA = Wheelbarrow
+
+0x779F699C = Drop Off Manure
+
+0x13082D6F = Manure
+
+0x28607F2E = Press ~INPUT_MINIGAME_ACTION_X~ when near the wheelbarrow to drop the manure into it.
+
+0xAE9011EB = Manure
+
+0xB0629862 = Press ~INPUT_MINIGAME_ACTION_X~ when near manure to scoop it up using the pitchfork.
+

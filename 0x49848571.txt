@@ -1,0 +1,146 @@
+0x0149EA13 = Return the horse to the ~o~coach driver~s~
+
+0x1A5825FB = Salted Beef
+
+0x3EE04825 = Calm the ~o~escaped horse~s~
+
+0x4B5C4791 = You can return the horse you stole to its owner in Valentine to gain honor.
+
+0x4B9237F4 = ~s~Chase the ~e~man from Blackwater~s~
+
+0x4CA9B513 = Kick Door
+
+0x5BED2B73 = ~s~Search the hotel for ~o~Karen~s~
+
+0x6CCB0FEC = Your actions in the world impact your Honor level and change how people in the world interact with you. Positive actions will make you more honorable.
+
+0x6F26E7BF = Coach Driver
+
+0x6FFE18C6 = Wake
+
+0x7BECEAC8 = ~s~Buy some ~o~chocolate~s~
+
+0x9A416365 = This horse does not have your saddle on it. Your weapons and equipment are stored on your saddle, which can be transferred between horses.
+
+0x9BC27482 = Shout
+
+0x9C77A2C9 = Question
+
+0x14C361D3 = ~s~Ride to ~o~Valentine~s~
+
+0x24DB1027 = Recovered Escaped Horse
+
+0x36D9C3E8 = Help
+
+0x43A467F2 = ~s~Buy some ~o~coffee~s~
+
+0x48B305B8 = Browse the store
+
+0x49BD3307 = Don't Help
+
+0x70EC737C = The man from Blackwater was killed.
+
+0x75F52240 = You lost honor. Continue to perform negative actions to become more dishonorable.
+
+0x86E04A0F = Uncle
+
+0x94D1FB30 = Question
+
+0x254F7BBA = Lead the ~o~horse~s~
+
+0x262C36D8 = Don't Help
+
+0x306FD0B7 = ~s~Deal with the ~o~man from Blackwater~s~
+
+0x878C6F6C = Man from Blackwater
+
+0x1839E668 = This horse does not have your saddle on it. Your weapons and equipment are stored with your saddle.
+
+0x9246F760 = ~s~Meet ~o~outside~s~ when ready
+
+0x92737EB8 = ~s~Defuse the ~o~argument~s~
+
+0x281792F6 = Coffee
+
+0x323854FC = Help
+
+0x6682209F = ~s~Buy some ~o~salted beef~s~
+
+0x16140761 = You lost the man from Blackwater.
+
+0xA8A1EAEA = Escaped Horse
+
+0xA20ED87B = Question
+
+0xA26AD0A4 = ~s~Meet ~o~outside~s~
+
+0xA70B0F11 = Agitated horses need to be calmed before you can approach them. When near, lock on with ~INPUT_INTERACT_LOCKON~ and press ~INPUT_INTERACT_LOCKON_ANIMAL~ to calm it.
+
+0xB65DDA7D = Get on the ~o~wagon~s~
+
+0xB547AB8A = Once calmed you will be able to lead or ride the horse back to its owner.
+
+0xB824E974 = Gang Member
+
+0xBCCA977D = Defuse
+
+0xBFAA1139 = Items in a shop can be purchased directly from shelves by looking at the item and holding ~INPUT_PICKUP_CARRIABLE~.
+
+0xBFDCD17E = ~s~Follow ~o~Uncle~s~
+
+0xC1ADB180 = Hotel Owner
+
+0xCDBE5AA5 = Saved Jimmy Brooks
+
+0xCF092FF7 = Items can also be purchased by talking to the shopkeeper and browsing the store catalogue.
+
+0xD04228F7 = ~s~Go ~o~outside~s~
+
+0xD0C2D438 = Speak to the ~o~coach driver~s~
+
+0xD2FBDC44 = You gained honor. Continue to perform positive actions to become more honorable.
+
+0xD6BFD877 = Left the area.
+
+0xD7D326D5 = You ruined the girls' plan.
+
+0xD8C55305 = Killed Jimmy Brooks
+
+0xD83F55C1 = Cigar
+
+0xD88E1916 = Hold ~INPUT_HORSE_SPRINT~ while viewing cinematic camera to automatically follow roads and other paths.
+
+0xD73679A7 = Chocolate
+
+0xDA5D6B0F = Your actions in the world impact your Honor level and change how people in the world interact with you.
+
+0xDA9F2391 = A horse blipped with ~BLIP_HORSE_TEMP~ is your temporary horse.
+
+0xDBCC22A3 = ~s~Buy a ~o~cigar~s~
+
+0xDDF9CAC1 = Didn't help the man from Blackwater
+
+0xE6A2B4ED = Returned stolen horse
+
+0xE6E14608 = The wagon was wrecked.
+
+0xE158F867 = ~s~Buy ~o~alcohol~s~
+
+0xEBB1FD8B = A horse blipped with ~BLIP_HORSE_TEMP~ is your temporary horse. Equip it with your saddle to make it your main horse.
+
+0xED17A960 = Intervene
+
+0xED885569 = Coach Driver
+
+0xEEC3C1C2 = You annoyed the camp inhabitants.
+
+0xF52BB576 = Argument
+
+0xF107555A = ~s~Follow ~o~Karen~s~
+
+0xFB062AFD = Kill
+
+0xFC14233B = ~s~Beat up the ~e~client
+
+0xFCF419BE = Help
+

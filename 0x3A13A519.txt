@@ -1,0 +1,22 @@
+0x0E264531 = ~z~Well, how about this, eh?
+
+0x1C6BE1BC = ~z~How 'bout it?
+
+0x3A901E24 = ~z~She sent me a telegram. Said she's in Valentine.
+
+0x3D5323AA = ~z~Sadie? How'd you hear that?
+
+0x8648B594 = ~z~It's been a long time...
+
+0x9736576F = ~z~I heard Sadie might be alive.
+
+0xA9F07CE3 = ~z~I don't know, all them, it's us three that's left at the end of it.
+
+0xAA59DFE6 = ~z~Oh, time... Sadie wants to see you, you go see her.
+
+0xB7C97AC5 = ~z~John Marston, really. Shame on you.
+
+0xC0CF2AAC = ~z~What's wrong with you, man?
+
+0xD295CE39 = ~z~Sadie sent you a telegram and you ain't paid a visit on her?
+

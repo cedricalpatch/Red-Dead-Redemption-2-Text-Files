@@ -1,0 +1,32 @@
+0x0395B0E6 = ~z~Our own heaven.
+
+0x0C0D72F1 = ~z~What I tell you?
+
+0x5BF8E1AB = ~z~Free.
+
+0x8F507971 = ~z~There's a real plan.
+
+0x16CB5751 = ~z~~sl:0.0:1.0~Tahiti.~sl:0.4:1.1~Fiji.~sl:0.4~Australia.
+
+0x35A31500 = ~z~The real new world.
+
+0x40E4DC9F = ~z~~sl:0.0:1.0~Listen.~sl:0.3~Next time, listen.
+
+0x79E64EA1 = ~z~~sl:0.0:1.2~We have a plan.~sl:0.5:1.1:1~My friends.
+
+0x165A078A = ~z~We had faith and we made it.
+
+0x467CB6B3 = ~z~~sl:0.0:2.6~Not this godforsaken dump~sl:~that all of Europe's detritus has acted out its peasant's vengeance on!
+
+0x4424E31F = ~z~We are gonna make it.
+
+0x5125CC05 = ~z~We are gonna be free!
+
+0x27972A04 = ~z~~sl:0.0:1.2~My loved ones.~sl:0.8~A plan.
+
+0xDD3E9554 = ~z~~sl:0.0:1.0~See?~sl:0.4~See!
+
+0xEF79B9CA = ~z~~sl:0.0:1.1~Faith.~sl:0.7~Faith is all that matters.
+
+0xFA679E8A = ~z~~sl:0.0:2.6~We are going to leave this place,~sl:0.3~and we are going to find our own paradise.
+

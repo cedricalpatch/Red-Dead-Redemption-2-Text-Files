@@ -1,0 +1,70 @@
+0x07834919 = ~z~What the hell's going on out there?
+
+0x0C227F16 = ~z~You will? Oh, thank you.
+
+0x1F5E5C3B = ~z~~sl:0.0:2.7~You bastards! Leave me alone, you bastards,~sl:~I didn't do nothing.
+
+0x3A99077A = ~z~You gonna help or not?
+
+0x3DA10805 = ~z~~sl:0.0:2.4~I'm camping up the hill a ways with my friend...~sl:0.4~would you mind?
+
+0x5BBAC9BD = ~z~To the river, go on.
+
+0x6D7B6D3E = ~z~Please, I'm really worried about her.
+
+0x6EF90FE7 = ~z~Oh God, this is a nightmare...
+
+0x7CBAAB6A = ~z~They're killing you!
+
+0x8EF717A3 = ~z~~sl:0.0:1.4~What the hell do you want from me?~sl:~I didn't do nothing.
+
+0x33F7A321 = ~z~~sl:0.0:1.8~Oh, oh you're alive!~sl:0.6~Thank God. You had me so worried.
+
+0x57AE60C2 = ~z~~sl:1.8~I, I just don't know what to say...
+
+0x61EDFDF1 = ~z~Can I... is it safe to come out now?
+
+0x62C8F56C = ~z~Come on, don't you ignore me now!
+
+0x75A11B28 = ~z~I need some help over here.
+
+0x91BDB571 = ~z~Best you hurry. Like I say, I think I heard gunshots.
+
+0x639B2515 = ~z~Oh, shit! I knew there'd be more of them!
+
+0x6978DD6C = ~z~~sl:0.4~Just up a bit further.
+
+0x9069D1AF = ~z~~sl:0.0:2.4~Christ, you kill all them sons of bitches?~sl:0.4:2.1~I was by the water and they came outta nowhere,~sl:~just chased me down...
+
+0x69869DB7 = ~z~Oh... hey, you there!
+
+0x99442C3D = ~z~What the hell is wrong with you people?
+
+0x318940F2 = ~z~Christ, no, more of them!
+
+0x68100185 = ~z~~sl:0.2~What a goddamned hell of a day...
+
+0xAE000CDB = ~z~~sl:0.0:1.1~I don't know why I ran in there,~sl:~but then they had me trapped.
+
+0xAF5EC25D = ~z~It wouldn't take you too long...
+
+0xB608E5C6 = ~z~Somebody help me!
+
+0xB9742CFC = ~z~Hello? What's happening?
+
+0xBC749D1C = ~z~Here. This is all I got.
+
+0xCC718333 = ~z~I think I heard gunshots... think you could look for me?
+
+0xDE3726BE = ~z~~sl:0.0:1.3~and she went down the river,~sl:~and I ain't seen her in some time.
+
+0xE9F291EB = ~z~~sl:0.0:2.9~You ain't gonna help? Okay, I guess~sl:~I'll have to see if I can find someone else.
+
+0xE18BA6B6 = ~z~Please? Just go see.
+
+0xECDCD36D = ~z~This ain't right, leave me be!
+
+0xF0FE4C4C = ~z~~sl:0.0:2.9~Hey, um, okay... I know I'm probably worrying~sl:~over nothing, but I been camping with a friend,
+
+0xFB45E5E1 = ~z~~sl:0.0:2.2~Alright. Thanks.~sl:0.6~Guess we ain't too welcome 'round here, huh?
+

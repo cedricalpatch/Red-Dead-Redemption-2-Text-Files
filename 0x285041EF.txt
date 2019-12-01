@@ -1,0 +1,52 @@
+0x081D6CB4 = ~z~What do you think, Arthur?
+
+0x0B2E927B = ~z~Do you worry that maybe we've lost our way?
+
+0x0DD67B09 = ~z~It-it seems awful.
+
+0x1CED192E = ~z~Then it seems the same as always, and then it seems like there's just no other way and I-I... I just...
+
+0x1D5336C4 = ~z~How do you mean?
+
+0x4A787444 = ~z~Ignore that. I won't pretend ignorance, I know just what you mean.
+
+0x4B19124F = ~z~Good.
+
+0x4E566DA8 = ~z~Apart from wishing I wasn't going to find out sooner than I'd like.
+
+0x5D89B730 = ~z~How are you?
+
+0x29B732C2 = ~z~Listen, we've got outta of worse situations than this.
+
+0x66ACC976 = ~z~Fine.
+
+0x77D74F01 = ~z~The world is changing, and... I'm not making much sense, am I?
+
+0x92A1215E = ~z~
+
+0x5182E4BC = ~z~
+
+0x6620AB94 = ~z~But I don't know... things seem bad.
+
+0x79086E2D = ~z~Hey, do you think... do you worry...
+
+0x30963228 = ~z~I don't know, son. I don't know what I believe.
+
+0xAC15A931 = ~z~Is that what you believe?
+
+0xAE31D87F = ~z~Okay, a little better.
+
+0xB01F3F9C = ~z~Done plenty of bad things that we've all forgotten about.
+
+0xB8CD50F8 = ~z~Don't take Dutch's patter about redemption too seriously.
+
+0xCBA4F6A7 = ~z~We're doomed, just like every other creature on this rock. But unlike them, we'll go down fighting.
+
+0xD74B8B11 = ~z~I don't do too much thinking, Hosea... killing's more my thing.
+
+0xDF8CBB34 = ~z~How you feeling?
+
+0xED89B78D = ~z~I don't believe that for a second.
+
+0xF3A546A7 = ~z~No... but somehow you've summarized how I feel.
+

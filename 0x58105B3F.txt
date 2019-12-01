@@ -1,0 +1,50 @@
+0x3AC8230A = ~z~Just passing through.
+
+0x3B3D0BF0 = ~z~Hey, hey, if you just listen, mister, you might learn something.
+
+0x4B5ED974 = ~z~Hey, that's fine... so long as you mean me no harm, the rest I'm in no position to judge.
+
+0x4BE8FD59 = ~z~This place... I never known anywhere that can be so beautiful and so ugly all at once.
+
+0x5DCBCE41 = ~z~Chills me to the bone, every time.
+
+0x6B49693C = ~z~Way she talk, I reckon someone must have killed her, o-or she killed herself.
+
+0x8C6D6B21 = ~z~Yep, some people don't believe these things.
+
+0x15A290CD = ~z~The moment you start thinking you own the Bayou, she'll remind you that you're just her guest.
+
+0x62E9A3C3 = ~z~No reason to concern you.
+
+0x81D59654 = ~z~Long white dress like you see on them fancy ladies in Saint Denis, but she ain't of the living world.
+
+0x88D9D3CA = ~z~But this is where I want to die. Here, I know I'll live on.
+
+0x97DDD558 = ~z~Yeah, you know what I'm talking about.
+
+0x275D3442 = ~z~What feeds you also feeds on you.
+
+0x437E0B06 = ~z~You say what you want, I know what I saw.
+
+0x6496DA84 = ~z~So, what brings you out here, friend?
+
+0x9627EE66 = ~z~And if there's a divine purpose to that... well, I can't bring myself to celebrate it.
+
+0xA2972AD8 = ~z~~sl:0.0:4.4~I been all over, the desert, the snow, but... I'm always drawn back here.~sl:1.0~There's a magic, like a, like a power here.
+
+0xAB6598E1 = ~z~Now, I ain't much of a religious man. I seen too much unnecessary suffering...
+
+0xB1AB5D79 = ~z~No reason to concern you.
+
+0xB64ABBA6 = ~z~~sl:0.0:4.4~They say that life and death are more fluid here, like, more present.~sl:0.5~Like we're not quite in one place or the other.
+
+0xC3C96FF5 = ~z~~sl:0.0:2.4~Well, while I'm still living,~sl:0.3~I should probably get things fixed up around here.
+
+0xC5F0D3D7 = ~z~But I lived out here my whole life, so don't know what makes you such an expert.
+
+0xC290D432 = ~z~There's a girl I see out here sometimes, just, floating out over the water.
+
+0xD7AA774A = ~z~Alright then, I ain't gonna say any more.
+
+0xDFC75C26 = ~z~Just passing through.
+

@@ -1,0 +1,76 @@
+0x0E86D18B = ~z~Before bang, bang, bang, bang!
+
+0x1BFC4F2F = ~z~Like I said, I ain't scared of much, but if she were mad at me? I'd be scared of her.
+
+0x2A5EEBF4 = ~z~~sl:0.0:2.3~Maybe not as good as one woman I know, though.~sl:0.2~Goes by the name of Black Belle.
+
+0x2C7C7AC7 = ~z~~sl:0.3:0.0~So you heard of her too, huh?
+
+0x3E3D8DC8 = ~z~I've seen just about everything out here.
+
+0x4B9F5C36 = ~z~“I ain't coming for you pathetic sons of bitches!" Tells 'em to send some real men, instead of little boys,
+
+0x4F71D3AD = ~z~I've seen just about everything out here.
+
+0x8F202867 = ~z~Strange how that works... for the longest time they revile you...
+
+0x9D6AB922 = ~z~Alright, I'm done then, if you're gonna act like that...
+
+0x10A2E62E = ~z~So she calls back:
+
+0x12DCED79 = ~z~Nothing like a good fire under the sky, is there?
+
+0x23F3FC65 = ~z~Four shots from under the floorboards and they're all dead on the ground.
+
+0x36B73266 = ~z~She told me one time she'd be staying in this cabin for a few weeks, when she woke up to shouts outside...
+
+0x85AD228F = ~z~Well, believe me, I ain't scared of much...
+
+0x482FD3EA = ~z~What, you don't believe me? Just cause she's a woman?
+
+0x633A5DA6 = ~z~Killed more men than cholera and heartbreak combined.
+
+0x777D8630 = ~z~I can shoot, drink, ride and spit good as any man.
+
+0x9566EFC4 = ~z~Well, I first met her in Tucson. We drank for two days straight.
+
+0x11789580 = ~z~Yeah, well I'd like to see you square up to her!
+
+0x96780148 = ~z~Well, anyways, I should be getting things fixed up around here.
+
+0xA78F1414 = ~z~And every now and again she yells back at them and they can't work out how these bullets ain't hitting...
+
+0xAB158AA6 = ~z~So in the end, they kick in what's left of the door and barely have time to say:
+
+0xB649B189 = ~z~Of course, they start shooting the hell out of the place.
+
+0xB7960664 = ~z~Got a price on her head bigger than Landon Ricketts... been on the run for twenty years or more now.
+
+0xBEEF8801 = ~z~Guess that's America.
+
+0xC049B50E = ~z~“Where the hell is she?”
+
+0xC5A352F7 = ~z~Probably ain't used to finding a woman out here by herself...
+
+0xC5B1A29B = ~z~Possibly the best gun in the whole west.
+
+0xCAF8143C = ~z~I ain't got time for men like you.
+
+0xD8FA9EEA = ~z~Guess so.
+
+0xD8110A75 = ~z~Guess so.
+
+0xDA7C3F22 = ~z~These days, she's almost a celebrity, even seen her picture on a cigarette card.
+
+0xDD6CC503 = ~z~but if you're bad enough, and survive long enough, they start to revere you.
+
+0xDEE902BB = ~z~four bounty hunters, nasty ones.
+
+0xE29D8A30 = ~z~this ain't much more than a one room shack.
+
+0xEE23A130 = ~z~and quickly ducks down into the cellar.
+
+0xF23918F0 = ~z~Apparently, she lined up all the bodies and nailed her bounty poster to one of their heads.
+
+0xFFE9C2C6 = ~z~Quick thinking, right?
+

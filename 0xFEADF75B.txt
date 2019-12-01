@@ -1,0 +1,812 @@
+0x00D20E5E = ~z~See that building up ahead on the island?
+
+0x00F66119 = ~z~~sl:0.0:4.4~Yes, heavenly indeed. Quite remarkable, isn't it?~sl:0.3:2.6~And feels like we have a nice westerly wind so...~sl:~keep her around this height.
+
+0x01FDAF0C = ~z~They're trying to come around behind us!
+
+0x023854F1 = ~z~We aren't high enough yet. Give it a good pull there.
+
+0x02FAC32A = ~z~Mr. Bullard.
+
+0x03670CC2 = ~z~Bastard's gonna swing...
+
+0x0407CE79 = ~z~Killed two of the sons of bitches at a campsite last week.
+
+0x041B1CCE = ~z~~sl:0.0:0.8~Arthur!~sl:1.2~Pull me up!
+
+0x04C4C242 = ~z~Ascend! Ascend!
+
+0x0548DAC4 = ~z~You boys are a goddamn joke!
+
+0x05EF69BC = ~z~Nearly there! Only a few of them left.
+
+0x05F13B8E = ~z~vapors.
+
+0x06C21B40 = ~z~Looks like him... it's hard to tell, though...
+
+0x074388F4 = ~z~Good Lord, is that...
+
+0x08700150 = ~z~No, he's not behind bars.
+
+0x08A172AD = ~z~Now one hates to be coarse, but on the subject of ablutions.
+
+0x08B0FB00 = ~z~Perfect day for a little tour.
+
+0x08C4E8D5 = ~z~he thinks we're just in it for a lesson, ~rp~a bit of a tour.
+
+0x0A6B745E = ~z~How did you get out of this?
+
+0x0B517591 = ~z~~sl:0.0:0.9~I must say,~sl:0.0:3.8:1~the specifics of this job were not described to me at all sufficiently.
+
+0x0B565701 = ~z~You coming?
+
+0x0BFAD53E = ~z~Mr. Bullard?
+
+0x0DE8E23B = ~z~What?
+
+0x0DE419DD = ~z~Very good, keep doing what you're doing.
+
+0x0F047628 = ~z~You won't find more than a couple of these on this side of the pond.
+
+0x0F7F0C0E = ~z~Good because two is all we'll need.
+
+0x0F88A4D0 = ~z~Ah, that's better. Look, we can see for miles now.
+
+0x0F663364 = ~z~~sl:0.0:2.3:1~Oh, my arms...
+
+0x1A7AC217 = ~z~I don't think so...
+
+0x1A27E7DA = ~z~That's it, try to keep us around this height.
+
+0x1AC2DB94 = ~z~~sl:0.0:1.5~That's it, keep going.~sl:~We need more altitude so we can get up some speed.
+
+0x1B4AA245 = ~z~Okay, here goes nothing.
+
+0x1BB8671C = ~z~I thought everyone knew about that.
+
+0x1BD2CC4E = ~z~~sl:0.2:0.0~That's exactly what we're going to do. ~rp~I've found us a hot air balloon!
+
+0x1C8346C2 = ~z~Wait, is that him?
+
+0x1C626927 = ~z~~sl:1.0:0.0~The wind... well this is most unusual.
+
+0x1CA39835 = ~z~Well, it's done now.
+
+0x1D615C7A = ~z~Oh my Lord.
+
+0x1EAE2DCC = ~z~Guarded, sure, but not behind bars.
+
+0x1ED23E0B = ~z~~sl:0.0:0.8:1~Saw that too.
+
+0x1EDAC60F = ~z~And John...
+
+0x1F19778F = ~z~Definitely not.
+
+0x1FD606B9 = ~z~I think I might need to adjust my fee.
+
+0x2A21B99A = ~z~That's exactly what we're going to do. ~rp~I've found us a hot air balloon.
+
+0x2B1E05E7 = ~z~I told you you two would get on.
+
+0x2BEDC84B = ~z~It's well guarded.
+
+0x2BF147E4 = ~z~What about on the left, up a bit?
+
+0x2C1CC549 = ~z~and we'll sneak in and get him outta there.
+
+0x2C79AA0B = ~z~You can't stay out of trouble for one goddamn hour?
+
+0x2CCC66BA = ~z~maybe.
+
+0x2D13DA8E = ~z~~sl:0.0:1.5:1~And Hosea?
+
+0x2E624F75 = ~z~Keep going, sir. We need to get up above the clouds.
+
+0x2EC2D232 = ~z~~sl:0.0:2.9~It's a little overcast, but I'm expecting some good wind...~sl:~once we're high enough.
+
+0x2FF88C0F = ~z~We look a little suspicious, wouldn't you say?
+
+0x3AA11593 = ~z~Sadie!
+
+0x3C2B4571 = ~z~What happened in...
+
+0x3C8F3B0E = ~z~You fuckers, I'll kill you all!
+
+0x3CDC69BA = ~z~Is that something up a little to your left?
+
+0x3D01E833 = ~z~We have our own problems with the law...
+
+0x3E3DE98B = ~z~I'll get us a boat, a little one...
+
+0x3EEB4EEE = ~z~You got that poor bastard killed for his troubles.
+
+0x3F2792FB = ~z~So what's your plan here?
+
+0x3FCC2FFE = ~z~I'll do my best... this filly isn't the easiest to control, you know.
+
+0x4B7E1695 = ~z~What do you mean?
+
+0x4BA6FCA4 = ~z~So... ~rp~what's your plan here?
+
+0x4BBB05A5 = ~z~in case you ain't noticed.
+
+0x4C3E1E66 = ~z~Too low now, up a bit!
+
+0x4D004B6B = ~z~What are you doing? Ascend, I said.
+
+0x4D98CADC = ~z~or below.
+
+0x4E870D0F = ~z~Try up a bit to your left.
+
+0x4F50294B = ~z~We need to get up high enough to get a proper look at the place.
+
+0x4FC5CA9F = ~z~Get back to the basket.
+
+0x4FC52581 = ~z~and our situation is really messed up right now.
+
+0x5A2AEDB1 = ~z~I did not, Mr. Bullard.
+
+0x5A5A652A = ~z~
+
+0x5A5EA1CC = ~z~Meet me at Copperhead Landing.
+
+0x5B40A4B0 = ~z~He's already been tried twice for murder...
+
+0x5B95BD11 = ~z~Come on, Arthur! Let's finish these bastards!
+
+0x5C2FE71A = ~z~Missus...
+
+0x5CD8C13F = ~z~Until the Pinkertons showed up...
+
+0x5CE36971 = ~z~Where'd you find this guy?
+
+0x5DFD41E4 = ~z~I can't get it, you're too low!
+
+0x5E52F033 = ~z~And looks like we are moving again.
+
+0x5E593C4F = ~z~I don't know.
+
+0x5FA5064E = ~z~That's it! You show them, Mr. Morgan!
+
+0x5FFB45E9 = ~z~Closely followed by Marston!
+
+0x6A3A2192 = ~z~For now, yeah.
+
+0x6A8568E5 = ~z~Alright, let's try one of the other fields.
+
+0x6B48E444 = ~z~~sl:0.7:0.0~That could be him...
+
+0x6C4DD838 = ~z~Seems as...
+
+0x6D88E104 = ~z~You saw him?
+
+0x6E5B3442 = ~z~Alright, hold it there, Arthur.
+
+0x6E6B422C = ~z~You ain't serious?
+
+0x6E17A333 = ~z~Most excitement I've had in years.
+
+0x6EA80DDA = ~z~Oh, women can't fly, sir...
+
+0x6F19CE9E = ~z~then we go rescue him.
+
+0x6F589ABE = ~z~~sl:0.9~The wind speed is picking up... we should stay at this altitude. It's...
+
+0x6FCE9EA8 = ~z~I think you might be looking too low there.
+
+0x7A2DA405 = ~z~Certain, sir, quite certain.
+
+0x7ACDACE5 = ~z~Look, you coming or not?
+
+0x7B672758 = ~z~Well ain't she coming?
+
+0x7BFF016C = ~z~You know... ~rp~I'm impressed. ~rp~You've really stepped things up, ain't you?
+
+0x7C93924B = ~z~Okay, he ain't by the barn.
+
+0x7CCE0D11 = ~z~What do you mean?
+
+0x7D2D6AC5 = ~z~Okay...
+
+0x7DDC7B55 = ~z~what began happening in Blackwater, began happening...
+
+0x7F67D0F0 = ~z~We need to be lower, there's not enough wind at this altitude.
+
+0x7FBE033E = ~z~Arthur Morgan.
+
+0x7FD06226 = ~z~Oh, not at all. A child could operate this, with a little supervision.
+
+0x8A2BC4E1 = ~z~They can't?
+
+0x8AA09FEF = ~z~Unless you're planning on learning how to fly...
+
+0x8AD9DCB7 = ~z~Wait 'til I tell Baldassario about this!
+
+0x8B10A2CA = ~z~I see some on the right.
+
+0x8C04239A = ~z~You want a happy customer, don't you?
+
+0x8C9EEB5E = ~z~Please descend a little, there isn't enough wind at this height.
+
+0x8C70934C = ~z~Sure.
+
+0x8E9E49A5 = ~z~I can't believe we're doing this.
+
+0x9A8A9EB5 = ~z~The wind is blowing south westerly so keep her around this height.
+
+0x9A95B0EC = ~z~Is that someone down to your right?
+
+0x9AFC8D42 = ~z~Now the pilot, or whatever you call him...
+
+0x9B063671 = ~z~~sl:0.0:2.2~Well, we got Lenny's body out as well.~sl:~Robbed the morgue and buried them together.
+
+0x9B88469A = ~z~Calm down. They won't care if we stay high enough.
+
+0x9B130738 = ~z~I kind of liked him.
+
+0x9D2C42B4 = ~z~as best I could after you boys left.
+
+0x9D8F4114 = ~z~You know how things is.
+
+0x9E2B6806 = ~z~C'mon! Let's move up and finish these bastards.
+
+0x9ED51C9A = ~z~Alright, we're in the clear now, Mr. Bullard. You can get up.
+
+0x11FCFC48 = ~z~Up the heat now, we're a little low.
+
+0x13DF7EDD = ~z~You can't leave it for one day?
+
+0x17F9B9AC = ~z~~sl:0.0:1.4:1~Pull me up!
+
+0x18B9ED82 = ~z~Dear God, I'm shaking like a leaf.
+
+0x23A077B3 = ~z~Now, pull on that rope... and hope for the best.
+
+0x23E9E825 = ~z~~sl:1.0:0.0~Grab the rope, c'mon. Grab the rope!
+
+0x29DB577A = ~z~Ah yes, Arturo Bullard, at your service, sir...
+
+0x33A049E3 = ~z~Look out! More coming in behind us!
+
+0x34E49D57 = ~z~This is good. Nice air flow here.
+
+0x35CBEB31 = ~z~A slow decline, I guess.
+
+0x42D4B1C7 = ~z~Should we, er, think about heading back?
+
+0x42F99B59 = ~z~What about on the left there?
+
+0x45C0A0E7 = ~z~Is he one of those on the left?
+
+0x45E39420 = ~z~What happened here?
+
+0x45EE98FE = ~z~Hold on!
+
+0x46CA0E55 = ~z~A slightly slower ascent than normal, but we're carrying some weight...
+
+0x54E21B2F = ~z~~sl:0.0:4.7~You can see it... ~rp~Karen's gone fallen fully into the bottle,~lr:~Strauss is a bag of nerves...
+
+0x56A60FD2 = ~z~You sure you shouldn't be doing this?
+
+0x59A624B7 = ~z~~sl:0.0:3.4~Hey, ~rp~we didn't know if you was even coming back.~lr:0.6~Whole thing hit folks real hard.
+
+0x59B3E6FC = ~z~Lower, I can't reach it.
+
+0x63C7C1FB = ~z~Where?
+
+0x66E657ED = ~z~Look out! There's a bridge up ahead!
+
+0x71CA729A = ~z~Yes, she does...
+
+0x72ABECE5 = ~z~Oh, by the way, I've been hunting O'Driscoll boys.
+
+0x73B4F4C6 = ~z~Come here.
+
+0x74AAF376 = ~z~Okay, I'll come down and get you on the other side.
+
+0x74B9ED36 = ~z~Mr. Morgan.
+
+0x74DC56C7 = ~z~It's best just the two of us go.
+
+0x75E2AF56 = ~z~I see someone up to your right there.
+
+0x76C17379 = ~z~Dutch'll wanna see him swing.
+
+0x76D636B5 = ~z~I'm starting to rather enjoy this.
+
+0x84FBC141 = ~z~Come on then, let's go.
+
+0x85AD5C71 = ~z~The government...
+
+0x85C458A6 = ~z~Who? Mr. Milton's friends?
+
+0x87E460DF = ~z~they got Colm O'Driscoll.
+
+0x90D7A571 = ~z~and Icarus would have made it across the sea.
+
+0x91A0EA4D = ~z~What a day!
+
+0x91E595A7 = ~z~
+
+0x95A50C87 = ~z~Sir, please! We are dangerously low here.
+
+0x98A1817B = ~z~You're all gonna pay for what you did!
+
+0x98B8FE8F = ~z~Guarma?
+
+0x99AE3D17 = ~z~~sl:1.8:0.0~Arthur, hurry!
+
+0x113DA86F = ~z~I'm gonna make sure of it.
+
+0x242B3686 = ~z~'cause we're gonna make sure of it.
+
+0x257BB692 = ~z~Maybe try to your left, down a bit.
+
+0x278D02AF = ~z~Lower, Arthur!
+
+0x304E31F0 = ~z~Maybe try looking lower down.
+
+0x320ED24D = ~z~I...
+
+0x347D73AE = ~z~Well, I figure before we do anything, we need to make sure John's even still at this prison.
+
+0x360EDEAE = ~z~It really is stunning up there, you'll have seen nothing like it.
+
+0x370E0770 = ~z~More heat, we are too low.
+
+0x386FA08A = ~z~Are you sure about this?
+
+0x418C8DC4 = ~z~What? ~rp~It's on an island, ain't it?
+
+0x563DBB81 = ~z~Shit, they're O'Driscolls.
+
+0x584F4479 = ~z~Best try another spot.
+
+0x622B956E = ~z~The hell is wrong with you?
+
+0x676A261E = ~z~~sl:0.0:4.2~Swanson, ~rp~well, ~rp~Swanson's actually gone and cleaned up his act.~lr:0.5~So I guess it ain't all gone to shit.
+
+0x695A40E3 = ~z~and found guilty.
+
+0x698B445B = ~z~You boys have fun.
+
+0x744E9C35 = ~z~You're too high!
+
+0x812F59A8 = ~z~~sl:0.0:4.1~You can see it... ~rp~Karen's gone fallen fully into the bottle,~lr:0.2~Strauss is a bag of nerves...
+
+0x853B5AAB = ~z~You can tell Colm he's next!
+
+0x908ACCC5 = ~z~C'mon, let's go get these sons of bitches.
+
+0x910F2807 = ~z~You're too low!
+
+0x918F52CC = ~z~to their...
+
+0x938AA6B1 = ~z~years ago, maybe.
+
+0x973A65BE = ~z~Well? You could start by mounting up?
+
+0x1161AFE5 = ~z~There's more of them on the other side.
+
+0x1941CBD7 = ~z~They must have followed us.
+
+0x2908D026 = ~z~That's it, steady wins the race.
+
+0x4923D525 = ~z~My mother was a keen student of the Italianate.
+
+0x5094A18F = ~z~You know that part.
+
+0x5514AAEA = ~z~between us here. Two gentlemen with a healthy appetite.
+
+0x5609B9C6 = ~z~Is that him?
+
+0x6325FB62 = ~z~Alright then, let's break through these clouds.
+
+0x7211C6A9 = ~z~~sl:0.0:4.1~Besides, Mrs. Adler told me you were very keen to learn the ropes,~sl:~and we have plenty of those.
+
+0x7399F454 = ~z~You have a real habit of stating the obvious, Arthur.
+
+0x7455B9C2 = ~z~I only left you an hour ago.
+
+0x7568B1DD = ~z~Oh my God!
+
+0x7769B1B0 = ~z~My brother's called Baldassario, so you could say I got off lightly...
+
+0x9601EEE0 = ~z~Look, I'm trying to concentrate here.
+
+0x19062C79 = ~z~is that Mrs. Adler?
+
+0x34573FEC = ~z~These goddamn O'Driscolls.
+
+0x45785C44 = ~z~Is that some people just down from where you're looking?
+
+0x47277FBA = ~z~~sl:0.0:4.8~Swanson, ~rp~well, ~rp~Swanson's actually gone and cleaned up his act.~lr:~So I guess it ain't all gone to shit.
+
+0x47831E0C = ~z~Mrs. Adler has a lot to answer for.
+
+0x57885F9B = ~z~Oh no, sir, does terrible damage to them...
+
+0x58393D93 = ~z~Did you break your neck?
+
+0x58949E38 = ~z~bust him from his work detail.
+
+0x71684E7F = ~z~Up, up and away.
+
+0x78485C26 = ~z~I think I see some people down to your left.
+
+0x81358C6B = ~z~Looks like we made it... that'll show 'em.
+
+0x87577BBD = ~z~I guess.
+
+0x98839F31 = ~z~Sure, and no doubt he'll escape again.
+
+0x152915ED = ~z~What about down to your left there?
+
+0x302010B6 = ~z~
+
+0x334596F1 = ~z~~sl:0.0:3.2~Relax, Mr. Bullard... here, take over.~sl:1.0~Keep us well away...
+
+0x442138B8 = ~z~I've only crashed twice...
+
+0x543230BD = ~z~I ain't quite sure.
+
+0x580633CF = ~z~at your service.
+
+0x630949D5 = ~z~A day like today...
+
+0x654457A9 = ~z~I think we're gonna crash.
+
+0x845969F0 = ~z~Go up, quick.
+
+0x4114081F = ~z~Sure... Dutch, he wouldn't even help us with Marston...
+
+0x9893782A = ~z~Oh dear, that boiled egg feels decidedly scrambled.
+
+0x14896647 = ~z~
+
+0x22523610 = ~z~Now the pilot, or whatever you call him...
+
+0x42560512 = ~z~I do.
+
+0x46469050 = ~z~This is my friend I told you about.
+
+0x54239198 = ~z~Didn't you hear me? Please reduce the altitude.
+
+0x65790576 = ~z~~sl:1.0~Yeah, very good, Mr. Bullard.
+
+0x75856576 = ~z~Being chased.
+
+0x80290957 = ~z~That ain't John.
+
+0x88856044 = ~z~Well, just say the word.
+
+0xA019869E = ~z~Yeah, ~rp~seems they've drifted down this way now.
+
+0xA1B35CB9 = ~z~Ascend, the wind isn't strong enough at this altitude.
+
+0xA1E99BEC = ~z~This particular vessel is state of the art, sir, imported from Europe.
+
+0xA7A0CEDD = ~z~Yeah.
+
+0xA9D3E90C = ~z~What about them on the left?
+
+0xA41A2724 = ~z~~sl:0.9:2.9:1~Good Lord, my heart is pounding.
+
+0xA49C52F3 = ~z~I can't hold on much longer!
+
+0xA78F9A72 = ~z~~sl:0.0:3.1~Look at those cowards. Yeah, you run,~sl:~I'll catch up with you soon enough!
+
+0xA453B247 = ~z~Very good... see, you're a natural.
+
+0xA789FF9D = ~z~are you insane?
+
+0xA953E231 = ~z~I'm just looking for a friend of mine.
+
+0xA6123A4E = ~z~No he won't...
+
+0xA238118D = ~z~Well, at least you're alive.
+
+0xA2943232 = ~z~The two of us is all there is anyhow.
+
+0xA4607529 = ~z~This was not the tour I had in mind.
+
+0xAA9AE8AA = ~z~Sorry, we're going in for a closer look.
+
+0xAB55392F = ~z~She did, did she?
+
+0xACA12A54 = ~z~They got Colm.
+
+0xAD0E137A = ~z~~sl:0.3~A very nice woman. And no shrinking violet.
+
+0xAD655E8C = ~z~Well, it's a nice fresh day for flying, sir.
+
+0xAD7635BF = ~z~I expect so.
+
+0xADCD3CD3 = ~z~More heat now. We are going to crash!
+
+0xAE346911 = ~z~There are also some to your right.
+
+0xAF43F200 = ~z~We shouldn't fly too near to it, though, sir?
+
+0xAF58F804 = ~z~We have to gain some altitude, sir.
+
+0xAFEB987D = ~z~Ah, my God!
+
+0xAFF1D051 = ~z~That we can manage.
+
+0xB04799E9 = ~z~So, if I may ask, what got you interested in the pursuit of aviation?
+
+0xB0C0CF23 = ~z~Okay.
+
+0xB1D91C61 = ~z~You're just in time!
+
+0xB3B7B48C = ~z~Guess they know now we ain't in the city.
+
+0xB3BE6FD8 = ~z~I started gathering people up...
+
+0xB7EA6B95 = ~z~Try on the right, a little lower.
+
+0xB8DCB1AA = ~z~Follow me.
+
+0xB9B7F28B = ~z~Maybe ease off on the throttle there, sir.
+
+0xB16F6C54 = ~z~Javier said he got the letter I left at the post office.
+
+0xB55B6A52 = ~z~Nothing nice.
+
+0xB68D9DA4 = ~z~quite a thing.
+
+0xB129B477 = ~z~We are too high, sir. The air isn't moving.
+
+0xB486ECD7 = ~z~You ever flown before, sir?
+
+0xB682F6C0 = ~z~~sl:0.0:3.1:1~Arthur! Get me up there!
+
+0xB5594C1E = ~z~A decidedly harrowing experience for all involved.
+
+0xB178579B = ~z~Right, time to catch a few vapors of our own.
+
+0xB2733261 = ~z~From here on the ground, yes.
+
+0xB6684419 = ~z~~sl:0.4~He's quite the character, ~rp~I think you'll like him.
+
+0xBC48313F = ~z~Hey, Sadie! Up here.
+
+0xBCF4DDBC = ~z~~sl:1.6:2.2:1~Good grief... I've been...
+
+0xBE5515F7 = ~z~Get behind something...
+
+0xBF904C3D = ~z~Yeah, they've had patrols out ever since you boys disappeared.
+
+0xC0140FB1 = ~z~Look, this isn't funny now. What on earth are you doing?
+
+0xC0CA2E00 = ~z~Please hurry.
+
+0xC1B33CC4 = ~z~I didn't exactly. Mrs. Adler thought she'd surprise me.
+
+0xC1BA3FC5 = ~z~I guess.
+
+0xC2AEFFC8 = ~z~Ah, there's Annesburg.
+
+0xC3D256DD = ~z~Not exactly.
+
+0xC5B0DA2A = ~z~Hold that height! I'm coming.
+
+0xC5E3ED33 = ~z~I had a client once who fell foul to a rotten oyster on the ascent.
+
+0xC7CB4A19 = ~z~And may I say, a bold choice of hat, sir.
+
+0xC8ED8C49 = ~z~Try and get us near her.
+
+0xC29D3DE0 = ~z~What are you doing?
+
+0xC98FD6BF = ~z~Have a look up a little and to the right.
+
+0xC132B2EE = ~z~Oh, it's quite a thing...
+
+0xC612FC93 = ~z~but from the fields, yes.
+
+0xC6901CA5 = ~z~I heard they got him working the fields in a chain gang.
+
+0xC4829272 = ~z~I'm just happy you boys were able to find us.
+
+0xC6969322 = ~z~Yes...
+
+0xCA11A8CD = ~z~You ain't serious.
+
+0xCAC66CD5 = ~z~~sl:0.0:3.7~Hey, ~rp~we didn't know if you was even coming back.~lr:0.7~Whole thing hit folks real hard.
+
+0xCB1C95D4 = ~z~What happened to Dutch?
+
+0xCBA9DDBE = ~z~You're a busy woman, Sadie Adler.
+
+0xCC06B15A = ~z~this ain't over yet.
+
+0xCCA6A255 = ~z~Nope, not there.
+
+0xCD2BDD33 = ~z~Arthur and Arturo, how perfect is this?
+
+0xCDEAAB5E = ~z~The guards are bound to spot us.
+
+0xCE01697D = ~z~~sl:0.3:0.0~She a beauty, ain't she?
+
+0xCF9BEF6B = ~z~Send every last son of a bitch you got!
+
+0xCF10A8D2 = ~z~And how do we do that?
+
+0xD076E093 = ~z~Goddamn it! We got more coming out of the woods there.
+
+0xD0FFE109 = ~z~Up a bit from there.
+
+0xD2CEA00B = ~z~Will there be more trouble, sir?
+
+0xD4D2B651 = ~z~There's a group to the right there.
+
+0xD4E0B946 = ~z~Dear God.
+
+0xD4E3AFBC = ~z~in the fields.
+
+0xD4FC9A66 = ~z~No...
+
+0xD6CF7C67 = ~z~Nearly there!
+
+0xD8D63147 = ~z~'Cause he seems...
+
+0xD9ADF102 = ~z~What was she thinking messing with the O'Driscolls right now?
+
+0xD17CF232 = ~z~Did you breakfast in the city this morning, Mr. Morgan?
+
+0xD30B569F = ~z~put these on and hop in.
+
+0xD77FE982 = ~z~~sl:0.0:4.5:1~I'm all for rising above the crowd... and the cloud for that matter.
+
+0xD97E9C50 = ~z~I told you, we need to descend or we won't move.
+
+0xD6494E43 = ~z~Didn't I tell you this would happen?
+
+0xD8102F3B = ~z~Whoa there, no need to go any higher.
+
+0xD42289B0 = ~z~Okay, Mr. Bullard.
+
+0xD91980FF = ~z~I've almost got it!
+
+0xD827089D = ~z~Add a little more heat, Mr. Morgan.
+
+0xD4359578 = ~z~Whatever you say, boss.
+
+0xDB2756B4 = ~z~Off we go then, it really is relatively safe.
+
+0xDB160348 = ~z~Any problems coming in?
+
+0xDDC9C8AA = ~z~That's the infamous Sisika Penitentiary.
+
+0xDEF1AB84 = ~z~Hang him?
+
+0xDFEDB1C1 = ~z~Well, until the Pinkertons showed up...
+
+0xE0992AD1 = ~z~We should have some nice views over the Lannahechee River.
+
+0xE0C7633F = ~z~This is absolutely insane.
+
+0xE4F33E94 = ~z~We should still have some decent views over the river.
+
+0xE4F65435 = ~z~Yep, that's him...
+
+0xE6DBBAC4 = ~z~Thank you, Arthur.
+
+0xE7CE38EF = ~z~Are you listening, sir? We need to be lower.
+
+0xE8F62349 = ~z~I might be wrong but it looks like you have the binoculars too high.
+
+0xE16E7285 = ~z~Why, a delicate flower like Mrs. Adler...
+
+0xE36D8410 = ~z~Good to see you.
+
+0xE38D32C5 = ~z~Got it! Up, up... let's get outta here.
+
+0xE72EFFC6 = ~z~We need to get higher, before they shoot us down.
+
+0xE207CFA0 = ~z~Mr. Morgan, please, this is most irregular.
+
+0xE9300B19 = ~z~They're shooting at us!
+
+0xE20149E6 = ~z~Just ride, I'll deal with 'em.
+
+0xE174131B = ~z~You ain't goddamn men!
+
+0xE221728B = ~z~Wish us luck!
+
+0xE7604029 = ~z~He's quite the character, ~rp~I think you'll like him.
+
+0xEAA8F5B7 = ~z~Nothing to be afraid of, Mr. Morgan.
+
+0xEAAC8EB6 = ~z~~sl:0.0:0.8~Or is it though?~sl:0.3~Did you know they locked up the man who wrote that in a mental asylum?
+
+0xEB31D922 = ~z~~sl:0.0:0.7:1~Sadie!
+
+0xEB69E658 = ~z~A friend?
+
+0xEB94C796 = ~z~From a state penitentiary?
+
+0xEB715B93 = ~z~I heard that.
+
+0xEC0721C4 = ~z~Oh shit!
+
+0xEC85A627 = ~z~Nah.
+
+0xECD18A2F = ~z~Now...
+
+0xECE4D5A9 = ~z~What's that, down to your right?
+
+0xED139636 = ~z~heading north westerly, so that should take us back to land.
+
+0xEE68CEB7 = ~z~By the way, I've been hunting O'Driscoll boys.
+
+0xEEC0A3EF = ~z~That was a good idea.
+
+0xEEC31C8F = ~z~I see a group just above where you are looking.
+
+0xEF2C2D94 = ~z~I think I'm alright, thank you. Recalling the ablutions discussion.
+
+0xEF8E1ED5 = ~z~Shit! There's even more of them coming out of the woods!
+
+0xEF623713 = ~z~You might want to go a little higher there, sir.
+
+0xEFF9B074 = ~z~We won't get anywhere fast if you don't use the burner, sir.
+
+0xF030B172 = ~z~They're gonna hang him in Saint Denis.
+
+0xF0856A12 = ~z~That's not him.
+
+0xF0F6E4AC = ~z~~sl:0.0:1.2~Grab the rope, c'mon.~sl:1.2~Grab the rope!
+
+0xF3A2E660 = ~z~Okay, we are getting a little high now.
+
+0xF3C82B2F = ~z~Try up a bit to your right.
+
+0xF3F8163C = ~z~let us away.
+
+0xF4D52B8B = ~z~I'll kill every last one of ya!
+
+0xF7DFC044 = ~z~Don't stop, sir. We should keep ascending.
+
+0xF7F903CA = ~z~Not in this field.
+
+0xF9A382CF = ~z~Poor bastard has a habit of being in the wrong place at the wrong time.
+
+0xF41BC764 = ~z~Oh... my God.
+
+0xF72A9E01 = ~z~heavens above...
+
+0xF72F68CC = ~z~Yes.
+
+0xF85F2A1B = ~z~~sl:0.0:3.7~I prefer slightly more feminine attire on a lady, but...~sl:~variety is the very spice of life, as they say.
+
+0xF89C4F3B = ~z~
+
+0xF91B62A3 = ~z~So, that's how we'll do it...
+
+0xF317B662 = ~z~How many of you does it take, huh?
+
+0xF943AFBC = ~z~Ah, Mrs. Adler. It's good to see you.
+
+0xF54141A1 = ~z~Just kill these sons of bitches!
+
+0xF8569112 = ~z~Just give it a good yank, don't be shy.
+
+0xFA73D652 = ~z~~sl:0.0:2.3~Liquids over the side, solids...~sl:~do your utmost to levee the situation until we land.
+
+0xFA924D44 = ~z~So long as it works.
+
+0xFB75AFA4 = ~z~I can see that.
+
+0xFD1DC977 = ~z~Well, I have a boiled egg in my pocket here that you're very welcome to.
+
+0xFE1E6DA5 = ~z~he just thinks we're in it for a lesson, ~rp~a bit of a tour.
+
+0xFE3A2D44 = ~z~No.
+
+0xFF130B48 = ~z~Damn it, look.
+
+0xFFA17D58 = ~z~Keep on going, you're doing splendidly.
+

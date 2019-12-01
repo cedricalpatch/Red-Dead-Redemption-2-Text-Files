@@ -1,0 +1,412 @@
+0x039140D7 = ~z~And... and... that you should save me.
+
+0x0607A9ED = ~z~Please.
+
+0x06DF93C4 = ~z~I heard...
+
+0x083D8B80 = ~z~You'll regret this one day.
+
+0x0CF9D0DE = ~z~So much for a sinner, I believe we got outselves an idiot here, deputy.
+
+0x0E014AB2 = ~z~
+
+0x1B9B5A69 = ~z~Who made you God, friend? Who made you judge?
+
+0x1CD2636A = ~z~Save your sweet talk for the hanging judge, Mr. Allbright.
+
+0x1E0FEAC3 = ~z~
+
+0x1E91C65C = ~z~Taking me in?
+
+0x2AE9F906 = ~z~I'm only in it for the money.
+
+0x2B05D110 = ~z~Be gone with you.
+
+0x2B33E0B4 = ~z~Hold on.
+
+0x2B4051DF = ~z~~sl:2.4~You kinda look like him... and I was told he'd be up here.
+
+0x2D6FA9FC = ~z~They expressly told me not to kill you.
+
+0x2D43E3C1 = ~z~~sl:0.0:3.0~And any suggestion that my tinctures could cause harm~sl:~is sheer balderdash.
+
+0x2FA16547 = ~z~in gold...
+
+0x3A7DC418 = ~z~This is about you?
+
+0x3EA99CE3 = ~z~~sl:0.0:2.6~You saved me once, will you save me again?~sl:~This... is all a big misunderstanding.
+
+0x4A836423 = ~z~Ain't we had enough drama?
+
+0x4C3E380C = ~z~Looks pretty clear-cut from where I'm stood.
+
+0x4CA6D301 = ~z~You could drink one of the medicines that killed them folks.
+
+0x4D959706 = ~z~how much was you offering?
+
+0x4F8B251E = ~z~I wanna buy some medicine...
+
+0x5BBF26EF = ~z~No...
+
+0x5C893F16 = ~z~It's because...
+
+0x5E8A76C8 = ~z~~sl:1.6~That's funny, 'cause I heard from your mother...
+
+0x5F57BA8A = ~z~Now, Sheriff...
+
+0x6A76DF3D = ~z~I have to insist that this is a mistake.
+
+0x6AE0FEEE = ~z~Sir.
+
+0x6B4FDCA3 = ~z~I wanna buy some medicine...
+
+0x6C67AD3B = ~z~I'll take my chances.
+
+0x6C822721 = ~z~It's all just a big mistake. I don't feel very well.
+
+0x7AC4C3A6 = ~z~I told you to shut up.
+
+0x7BE64C60 = ~z~You can't shoot me.
+
+0x7CF5053B = ~z~They're going to hang me. Please.
+
+0x7DD184DE = ~z~Come on, partner, that's crap.
+
+0x7F5AB690 = ~z~~sl:0.0:1.8~You won't find Allbright in here...~sl:0.1~man said he saw him on the side of the gorge.
+
+0x8AC54563 = ~z~Look out, the rapids.
+
+0x8B6AD5CB = ~z~And I was told he'd be up here.
+
+0x8D9BEFCB = ~z~Please.
+
+0x8E61C4F9 = ~z~~sl:1.0~Sir, I must warn you, my temperature is subnormal.
+
+0x8EA0CA5A = ~z~~sl:0.0:2.0~If I'd known you was such a talker,~sl:~I'd have written “shoot on sight” on that bounty poster.
+
+0x9C19944D = ~z~~sl:0.5~Uh, Mrs. Calthorpe's a resident in this town like any other...
+
+0x9CADF851 = ~z~No, sir.
+
+0x9D636A9F = ~z~Hold your breath.
+
+0x9DB9C4B2 = ~z~I'm a scientist.
+
+0x9E7FB1DE = ~z~Don't you dare drown!
+
+0x9F966762 = ~z~~sl:2.4~I seem to keep blacking out...
+
+0x15A5491E = ~z~I have done nothing to offend you, sir.
+
+0x24CCB907 = ~z~Uh...
+
+0x25AAD295 = ~z~It is fate I should be free!
+
+0x28CF7127 = ~z~They keeping you comfortable here?
+
+0x29E9F603 = ~z~Or... grab onto something.
+
+0x31D879B2 = ~z~Alive. I got it.
+
+0x31EA86F7 = ~z~I'm sure it does seem that way.
+
+0x33C8B5AF = ~z~Oh, I don't feel well at all... you're a bully, sir.
+
+0x35B2D20A = ~z~~sl:0.2~Please. Throw me a rope.
+
+0x45CB15E6 = ~z~Keep your hands up buddy...
+
+0x46BBEB52 = ~z~Well, he don't understand you, Moira, and that's the truth...
+
+0x46C32B59 = ~z~I'm an innocent medical practitioner, ruined by slander.
+
+0x49E69F23 = ~z~Never been very good at that, I'm afraid.
+
+0x51D44023 = ~z~~sl:0.0:2.5~If you got any more of that poison you sold...~sl:~can you drink it all yourself?
+
+0x51EEDC2A = ~z~Shit.
+
+0x53B55173 = ~z~good luck.
+
+0x53F7175B = ~z~Please.
+
+0x60C4A0C3 = ~z~
+
+0x65BE3224 = ~z~~sl:0.1~Save me... throw a rope or something, please.
+
+0x68D02634 = ~z~O-or what?
+
+0x74B1F3B3 = ~z~they only want you for questioning.
+
+0x75F51616 = ~z~But nothing.
+
+0x78DBED92 = ~z~If you ask folks for forgiveness you remember this, partner.
+
+0x83ABA525 = ~z~And... more so by making me pull you out of that river.
+
+0x83BF8F9A = ~z~I'd be happy to help.
+
+0x87CA6400 = ~z~Bye, friend...
+
+0x98C1958A = ~z~Just put him in the cell, partner.
+
+0x215C48BD = ~z~I'll pay...
+
+0x224F6272 = ~z~But you have offended me. By killing folks just wanted to get well.
+
+0x275ED6DA = ~z~my mother's real sick.
+
+0x322E3149 = ~z~Suffer a little longer.
+
+0x502F2AAE = ~z~this... this is a mistake.
+
+0x563F80EB = ~z~I really do not like you.
+
+0x592B5B83 = ~z~You again.
+
+0x611C585A = ~z~~sl:1.3~You do seem to keep blacking out.
+
+0x682A9F75 = ~z~I-I'd be better off jumping.
+
+0x693F9175 = ~z~Are you Benedict Allbright?
+
+0x911DDA16 = ~z~What? You waiting to be deputized? Go find us our bounty, son.
+
+0x1309AC18 = ~z~I heard good things.
+
+0x1851B733 = ~z~Ain't you getting us that bounty, son?
+
+0x2949FCC9 = ~z~I thought I told you to shut up, partner.
+
+0x2997DC69 = ~z~~sl:0.3~I'll let the judge figure that out. Good luck.
+
+0x3427F18C = ~z~Apparently that stuff you're pushing is killing folk...
+
+0x6508C5E8 = ~z~You ain't much of man.
+
+0x7646E864 = ~z~It's been real fun.
+
+0x8383C0BA = ~z~Save the hangman the trouble.
+
+0x8540F9F2 = ~z~Oh...
+
+0x9002A940 = ~z~I speak to spirits...
+
+0x9456B0C8 = ~z~Finest medicine in the state.
+
+0x12759D1F = ~z~Help... help!
+
+0x21866C2E = ~z~You're back.
+
+0x39108FF4 = ~z~~sl:0.0:1.9~Having saved you from drowning,~sl:0.3~I sure hope I get to see you hang.
+
+0x43912F4D = ~z~I have medicine in my pocket, would you pass it to me, please?
+
+0x69224E1F = ~z~I've already forgotten it.
+
+0x76653BEA = ~z~It's just for questioning.
+
+0x78307BB6 = ~z~You've seen the error of your ways, I hope.
+
+0x81392C9E = ~z~Shut up...
+
+0x424773FC = ~z~Wait. Wait, wait, wait.
+
+0x580196AB = ~z~Have you got a lasso?
+
+0x796678D0 = ~z~and...
+
+0x5703829B = ~z~Don't jump...
+
+0x8397564E = ~z~You saved my life.
+
+0x9239204C = ~z~Now please, remember what I told you.
+
+0x12138206 = ~z~and we was meant to be together...
+
+0x40112344 = ~z~That's even worse.
+
+0x44473731 = ~z~Help!
+
+0x49618234 = ~z~Ah...
+
+0x90231525 = ~z~Allbright!
+
+0x95296405 = ~z~~sl:0.0:2.8~I-I heard a voice. In the night.~sl:0.7~It was your mother. She passed over, yes?
+
+0xA2FA04DD = ~z~And I was told he'd be up here.
+
+0xA4A9174D = ~z~You can't sell yourself outta this one, huckster.
+
+0xA5D7D704 = ~z~I thought I'd stop by to see you.
+
+0xA6D255BF = ~z~a medical man.
+
+0xA15E4D0B = ~z~Folks get real angry for no good reason...
+
+0xA44D2BFF = ~z~Stop!
+
+0xA89B7B62 = ~z~But I told...
+
+0xA2454DC5 = ~z~I've got an aura...
+
+0xA56218E4 = ~z~~sl:0.6~Who made you judge?
+
+0xACED072E = ~z~Come here... come here.
+
+0xACF68418 = ~z~I never did it...
+
+0xAD29A966 = ~z~Now, come on, buddy, let's make this easy.
+
+0xAEE59CC0 = ~z~Are you Benedict Allbright?
+
+0xAFCBDB71 = ~z~Thank you.
+
+0xB5B53FD5 = ~z~Shit...
+
+0xB5F06952 = ~z~~sl:0.3~What we got here?
+
+0xB9AD4F74 = ~z~And now that Allbright's caught, I got business to attend to.
+
+0xB64ED002 = ~z~Don't!
+
+0xB69F68E7 = ~z~Are you Benedict Allbright?
+
+0xB463A7BC = ~z~No... not me, sir.
+
+0xB6832BEF = ~z~No, sir.
+
+0xB34334A6 = ~z~~sl:0.7~I'm only in it for the money.
+
+0xBAB0C9CC = ~z~Come here.
+
+0xBADFC4D2 = ~z~You're taking me in?
+
+0xBC4022AB = ~z~any of it.
+
+0xBDF601F2 = ~z~i-if you can help me find him.
+
+0xBF3687A4 = ~z~I'm not a magician, sir. I'm a medical man, a healer.
+
+0xBFA4CF7D = ~z~
+
+0xBFB71D4D = ~z~~sl:0.0:0.8~I am.~sl:0.1~Please, will you do something about this gross miscarriage of justice.
+
+0xBFF4867A = ~z~In good time.
+
+0xC1F97FCC = ~z~Fifty dollars... here.
+
+0xC2ACA776 = ~z~Swim to the edge.
+
+0xC2D17A81 = ~z~Allbright, try!
+
+0xC3AED2FF = ~z~Oh, my Lord... I wasn't expecting you back so soon.
+
+0xC5F59529 = ~z~What for?
+
+0xC9EB6588 = ~z~
+
+0xC78ECE06 = ~z~It's because...
+
+0xC81A0A14 = ~z~~sl:3.2~Sir... I think I must be suffering from exposure.
+
+0xC97C765D = ~z~No!
+
+0xC97707CC = ~z~Get over to the bank.
+
+0xCA877128 = ~z~~sl:0.4~Uh, just doing my job, you see. Helping the people of Valentine.
+
+0xCBD99FD1 = ~z~if it's for a sick woman...
+
+0xCC926740 = ~z~~sl:1.1~Sir, this isn't necessary. I'm a medical man, a healer.
+
+0xCD89B8F2 = ~z~I wanted to check you was still here, friend.
+
+0xCEB89877 = ~z~Thank you for nothing.
+
+0xCF39D6C2 = ~z~I'm slipping.
+
+0xD069AA0A = ~z~Ain't you got a magic potion to get you outta here?
+
+0xD2AE64D8 = ~z~Alright, let's take you in.
+
+0xD3B8454F = ~z~~sl:0.0:2.3~Look, I'd like to, but...~sl:0.5~what's one little man against the vast machine of government?
+
+0xD7D4B8E7 = ~z~I don't know, it ain't my business.
+
+0xD8DDE999 = ~z~~sl:0.0:3.2~You want your money, you're gonna have to bring us that huckster...~sl:~so get on.
+
+0xD9E7FF71 = ~z~Uh, Mrs. Calthorpe was, uh... was just leaving.
+
+0xD1042A12 = ~z~Game's over, mister.
+
+0xD2784F1B = ~z~and err...
+
+0xDA334A6D = ~z~And we need him alive... that's an important point.
+
+0xDA767610 = ~z~~sl:0.0:1.6:1~Oh no!
+
+0xDB0501B7 = ~z~Sure... where you want him?
+
+0xDBBFB285 = ~z~Unfeeling man, go.
+
+0xDBBFE62C = ~z~
+
+0xDD19C251 = ~z~Oh, well if that's the case...
+
+0xDFB8E99C = ~z~There's been some terrible mistake.
+
+0xE085BC6B = ~z~No, sir...
+
+0xE7E38A97 = ~z~Shit.
+
+0xE35BCEC1 = ~z~Put your hands up...
+
+0xE80B89CC = ~z~~sl:0.0:3.4~and she said you were a lying little wretch,~sl:~who was gonna get what he deserved.
+
+0xE86C5799 = ~z~Let me go. I'll disappear.
+
+0xE99A5C72 = ~z~and there's a price on your head.
+
+0xE6529BBB = ~z~You saved me...
+
+0xE47844C9 = ~z~Madam.
+
+0xEA3F1376 = ~z~No... not me, sir.
+
+0xEA9C83E9 = ~z~
+
+0xEB76E02B = ~z~I'm a healer.
+
+0xEBAA881D = ~z~I shouldn't have done that. Help me!
+
+0xECAE028A = ~z~It's you.
+
+0xF0E82D7D = ~z~~sl:0.5~Cell in the back.
+
+0xF1C1EBA1 = ~z~I'm a healer you know...
+
+0xF4B2F16F = ~z~I'm taking you in.
+
+0xF4F96552 = ~z~No... not me sir.
+
+0xF7CB0F23 = ~z~I didn't mean for any of this.
+
+0xF9C82D45 = ~z~She wanted me to tell you she loved you.
+
+0xF36D6CE4 = ~z~It's just...
+
+0xF67ED712 = ~z~You saved me. Let me go.
+
+0xF93B2126 = ~z~
+
+0xF221BE75 = ~z~Oi!
+
+0xF9722DB4 = ~z~~sl:0.3~I-I gotta cross.
+
+0xFC656D8C = ~z~Keep your head above water!
+
+0xFD5904FF = ~z~Don't be a fool.
+
+0xFF7E5392 = ~z~Sorry...
+

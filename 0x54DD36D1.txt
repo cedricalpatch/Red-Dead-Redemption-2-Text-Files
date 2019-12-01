@@ -1,0 +1,34 @@
+0x1B4F7C4F = ~z~~sl:0.3:4.5~Well, feels like we're... running, running... killing...~sl:0.6~and running some more.
+
+0x2D5DDB4C = ~z~~sl:8.0:1.3:1~So what now, Dutch?
+
+0x3F107EB1 = ~z~Now? Reading, a little sun... we're not home free, but...
+
+0x5AA335F6 = ~z~For now... long enough for us to figure out what we're doing.
+
+0x6DA3DBDF = ~z~~sl:0.0:2.0~Of course there is a goddamn difference,~sl:~and when you figure out what that is,
+
+0x7F647F60 = ~z~you'll know what the hell we're doing.
+
+0x8E3770EE = ~z~You better not be doubting me as well, Arthur.
+
+0x19D9796B = ~z~~sl:0.0:6.3~Not okay... okay, yes or no. Strong or weak.~sl:1.01.2:1~Which is it?
+
+0x51D0A439 = ~z~There's a difference?
+
+0x76EB6E86 = ~z~~sl:0.0:2.8~They're gonna let a bunch of criminals go...~sl:0.2~after what we done?
+
+0x400500A2 = ~z~We are not criminals. We are outlaws.
+
+0x4855915B = ~z~~sl:0.0:1.4:1~You think they're off our backs?
+
+0xB017A5E9 = ~z~Okay.
+
+0xE58C10C9 = ~z~~sl:0.0:4.0~Listen, these are tough times, of course. But now...~sl:~this is when we have to be our strongest.
+
+0xEB999CEC = ~z~~sl:0.0:1.1~Strong...~sl:4.4~Strong.
+
+0xF2C5D545 = ~z~Arthur.
+
+0xF2C32B37 = ~z~~sl:0.0:1.0~We're gonna make it.~sl:0.2~We are gonna be okay, but please, Javier, I need you strong.
+

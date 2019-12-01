@@ -1,0 +1,274 @@
+0x0108E989 = ~z~There you go, now let's get you to Blackwater.
+
+0x028217FA = ~z~He's fine now, you'll be pleased to learn.
+
+0x079C85F5 = ~z~Your death's gonna bring a lot of peace to a lot of people.
+
+0x07EA3243 = ~z~Come here. Try and get me.
+
+0x0EB33CDA = ~z~Trying to take me, is you? Come on.
+
+0x1F0A76F8 = ~z~Hey, you remember a rancher? At Beecher's Hope?
+
+0x2BB6FA65 = ~z~Let's get you up.
+
+0x2C66FB3C = ~z~
+
+0x2CFDFA00 = ~z~I'll see you dead and every man like you. I will.
+
+0x2ECCF08F = ~z~And he'll be a whole lot better knowing you're dead.
+
+0x3B5689A2 = ~z~We put the old man on a fire. I wish we had a roasted the fat pig.
+
+0x3D4BD7D0 = ~z~Justice'll be done and done quick. Lock him up.
+
+0x3D7D6931 = ~z~take his hair first.
+
+0x3E350F67 = ~z~You ain't safe, mister. Not out there on the plains. I know a lot of folk.
+
+0x3FA49F65 = ~z~Ain't much I got to achieve in life, ceptin' seeing you hang, Green. Enough.
+
+0x4B5184D5 = ~z~~sl:0.1:3.9:1~No, no... no, no!
+
+0x5D0CBCF3 = ~z~That was a nice hat you was wearing.
+
+0x6ABDA22A = ~z~And you belong to me, so I guess that makes it okay.
+
+0x6AF5B32B = ~z~You ain't got a rope strong enough for me, Sheriff.
+
+0x6CAD716D = ~z~Death on you! Death on you and blackness!
+
+0x6EC43738 = ~z~~sl:1.8:1.6:1~This one's still breathing.
+
+0x7B8507D9 = ~z~It ain't a smart man, turns his back on me.
+
+0x7B438755 = ~z~You won't take me!
+
+0x7F2713E0 = ~z~What you doing here?
+
+0x8B645B93 = ~z~Quiet, boy.
+
+0x8D2B58B0 = ~z~Calmed down yet? Away from all killing and the torturing?
+
+0x8EBB836E = ~z~They won't know what to do with me!
+
+0x8F9FB4D1 = ~z~I got a visitor.
+
+0x9ABF93D0 = ~z~Jesus.
+
+0x9E63EB19 = ~z~Here we are. Blackwater Police.
+
+0x14AE6640 = ~z~I wish there was something worse than hanging for you.
+
+0x20D9842C = ~z~Elias Green, stop whatever this is and come with me.
+
+0x21A79ABA = ~z~The families, they gonna be at the hanging, is they?
+
+0x21FEDC11 = ~z~It ain't my fault Chief... I needed it. Once you start to killing... you just can't stop! Try it, chief.
+
+0x26F92C45 = ~z~Hello?
+
+0x31B241B7 = ~z~Not here.
+
+0x41D91482 = ~z~How you feeling up there?
+
+0x45AF4FED = ~z~You smell like you got a lady...
+
+0x56B2497B = ~z~Alive is how they're getting you. With a few bruises.
+
+0x58EA2006 = ~z~
+
+0x62D465C4 = ~z~What kind of world do we live in? Dear Lord.
+
+0x69F764BE = ~z~I'm going to kill you...
+
+0x71A5D632 = ~z~I slept fine after I dealt with your boys.
+
+0x71A6C26D = ~z~Do give it a rest.
+
+0x75A44B75 = ~z~Run along now.
+
+0x77A448F8 = ~z~
+
+0x87B4ECA9 = ~z~Elias Green, as I live and breathe. Put him in a cell.
+
+0x97AC8C43 = ~z~Yeah, yeah.
+
+0x98DA767F = ~z~You don't mean that, do you chief? Lucky we got time for me to change your opinion.
+
+0x152A88A8 = ~z~Who'd do a thing like this?
+
+0x361A01CB = ~z~I smelt you before you came in.
+
+0x461B13C2 = ~z~I get you, you're gonna suffer, mister.
+
+0x603B568F = ~z~Here's that Skinner Brother, or what's left of him, Elias Green.
+
+0x614A1C44 = ~z~~sl:0.0:1.6~All the better.~sl:0.9~Hold him.
+
+0x756B4816 = ~z~Set me down. Goddammit...
+
+0x758D95A5 = ~z~Mr. Green, you getting used to city life?
+
+0x766F49C9 = ~z~Come on, Green. Let's get you inside.
+
+0x801A5842 = ~z~You remember me? I killed a bunch of your people.
+
+0x844F0C1F = ~z~Fight, goddamn you!
+
+0x856AFDBC = ~z~They could come back any time. You sleep okay?
+
+0x973CCE94 = ~z~You're dead Green, but there's ways I can make this worse on you.
+
+0x3013CE5E = ~z~~sl:0.0:2.0:1~Let him go, but...
+
+0x4829B34A = ~z~You better damn not.
+
+0x5026C069 = ~z~Elias Green... You will lose your tongue before you lose your head! Mark me.
+
+0x8435D51A = ~z~I'm going to take this headpiece for myself.
+
+0x9268FCDF = ~z~When they jumped my wagon... when they came to my house, and took an old man?
+
+0x9290A8A2 = ~z~There!
+
+0x13686B60 = ~z~I'd sure like to meet her, feller.
+
+0x33663E37 = ~z~I'll look them in the eye and tell them...
+
+0x52883B29 = ~z~Well, I'll be. Didn't think I'd see this one alive or dead.
+
+0x56111F09 = ~z~If some came to your house, I be worried though.
+
+0x63519E0D = ~z~You're real frightening, my friend. We'll all miss you, when you're dead.
+
+0x78244BE5 = ~z~I'll cut you, I swear I will.
+
+0x85280DED = ~z~Kill!
+
+0x886070ED = ~z~Get out of here.
+
+0x3794873C = ~z~You want to hear about the murders? All the folks I killed? How they screamed, Chief?
+
+0x5633863B = ~z~~sl:0.8~Please... please.
+
+0x7859738C = ~z~I would love to see you try.
+
+0x10373882 = ~z~You know how I hear so good, Chief? It's my ears... got a whole chain of 'em around my neck.
+
+0x49979609 = ~z~I'll make you into a hat, mister.
+
+0x57992219 = ~z~I don't know. Old man might ring a bell, but there's plenty Skinners, feller.
+
+0x64612296 = ~z~I say we kill him.
+
+0x98721118 = ~z~I don't want to see you.
+
+0xA096B417 = ~z~And I'll sleep even better when you swing.
+
+0xA0C3C508 = ~z~Get him! Get him!
+
+0xA1F288E9 = ~z~That man weren't worth spit, but here's what we're paying for him.
+
+0xA5D4E3BB = ~z~You can't kill me, Chief! I can't be killed and I won't be.
+
+0xA7C51D72 = ~z~I bet you all do! Bet you'd all like me hung drawn and quartered.
+
+0xA7CA2C7E = ~z~Goddamn it. I'll bite you.
+
+0xA9E7F3EA = ~z~You want a bucket of water while you sleep? You keep this up, Green.
+
+0xA527E06B = ~z~Throw him back out with the rest of the trash, will ya?
+
+0xA708DEE0 = ~z~I could cut you any time, mister.
+
+0xAAB9B5A7 = ~z~Now get. Go.
+
+0xACCD127F = ~z~Some of your boys bushwacked his wagons. And you took an old man from his house.
+
+0xAF1261A5 = ~z~Kill that son of a whore!
+
+0xB05CE844 = ~z~Eyes all whites, mouth a quiver.
+
+0xB06CC6D0 = ~z~They want me dead and buried and all forgotten about.
+
+0xB1BAE7D5 = ~z~Uh, you're the one tied up on a back of a horse. Now, hush.
+
+0xB4DEB65F = ~z~That's mine, mister!
+
+0xB5FAFCC3 = ~z~So long!
+
+0xB9CB83E2 = ~z~There's only one cage I can see. And only one rat, too.
+
+0xB51A3038 = ~z~Shit.
+
+0xB51C7FCA = ~z~Come to look, have you?
+
+0xB58BB8FF = ~z~But you're too polite for that now, ain't you?
+
+0xB4382D74 = ~z~It was a nasty business up there... best that they was stopped.
+
+0xBA9ECF10 = ~z~~sl:0.7:1.4:1~Dammit, Elias.
+
+0xBABB0B76 = ~z~No, I'll just stay out here, feed you hay through the bars, and laugh at you.
+
+0xBBF7D823 = ~z~Clear out of here.
+
+0xBE7741F2 = ~z~Yes, sir. Yes indeed.
+
+0xC06FDA8E = ~z~~sl:1.4~What do you think? Shall we let him go?
+
+0xC77D24FA = ~z~Oh, I'm meek and mild as a lamb. Why don't you come in here and see for yourself?
+
+0xC554E47C = ~z~~sl:0.1~Oh... no, he's a nice kid... let him go.
+
+0xC10367FD = ~z~The judge gonna let me go so I can come and find you.
+
+0xC81197AD = ~z~Real pain... screaming, crying, begging pain.
+
+0xCFB8EE51 = ~z~What you doing? Shit.
+
+0xD1BFFAE8 = ~z~how their kin cried and begged before I killed them.
+
+0xD5E33350 = ~z~I would put you to a fire, have you praying for your death.
+
+0xD6FC67C4 = ~z~You may get a wife of your own... in prison.
+
+0xD65C0841 = ~z~But that's what it says.
+
+0xD91BA06F = ~z~~sl:1.6:2.2:1~And now you're free.
+
+0xD2327E13 = ~z~Please, please let me go.
+
+0xDA108FB4 = ~z~Seems I caught me a wriggler.
+
+0xDAF24B75 = ~z~This ain't a zoo.
+
+0xE5AB8FE7 = ~z~Think you could fix it so we're introduced?
+
+0xE3956697 = ~z~Come at me if you dare, big feller.
+
+0xEC5A343D = ~z~Elias Green, I don't need this paper here to tell me I can shoot you!
+
+0xEC562693 = ~z~Actually, I've changed my mind. A hanging will do you just fine.
+
+0xF1A2407E = ~z~Well, I got you that Skinner Brother: Elias Green.
+
+0xF2AE75A7 = ~z~This how you folk live? Like rats in a cage.
+
+0xF3F6AC7D = ~z~You got a wife somewhere?
+
+0xF60FB0E8 = ~z~That man ain't worth spit, but here's what we're paying for him.
+
+0xF960FA4B = ~z~You ever felt pain, mister?
+
+0xFB635CBC = ~z~You think they want me alive?
+
+0xFC669841 = ~z~You won't get within a whisker.
+
+0xFE7B150A = ~z~They'll come for me! The Skinners ain't afraid of your jail house and your badge!
+
+0xFE671FC6 = ~z~I'm gonna bite you.
+
+0xFEC01FEF = ~z~I'll bite your toes off.
+

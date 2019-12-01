@@ -1,0 +1,150 @@
+0x03722135 = ~1p~ ~2b~ is trying to escape. You will lose them if they get too far.
+
+0x052E2E9B = Capture ~COLOR_ENEMY~~1~~s~ for ~2$~
+
+0x07C90F0B = ~COLOR_POSSE_ALLY~~1p~~s~ surrendered to Bounty Hunters
+
+0x0853CA75 = Killed by Bounty Hunters
+
+0x1C880106 = Take ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~ ~2~
+
+0x2DA47CDA = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0x3B9B3ACA = Wanted dead or alive for ~1$~
+
+0x3FC5EC56 = ~1~ was captured
+
+0x4B7CCB2D = Drop ~1p~
+
+0x4E1F4582 = ~COLOR_POSSE_ALLY~~1p~~s~ is being targeted by Bounty Hunters ~2b~. Help them avoid paying off the full bounty value.
+
+0x5B9288FB = You are being pursued by Bounty Hunters ~1b~. Kill the Bounty Hunters and escape the area to avoid paying off the full bounty value.
+
+0x5C66FD63 = ~COLOR_POSSE_ALLY~~1p~~s~ is being targeted by Bounty Hunters ~2b~. Help them avoid paying off the full bounty value.
+
+0x5F4280C8 = Rival Posse turned in ~1p~
+
+0x6CFE3B83 = You survived
+
+0x6E07F4C5 = ~1p~ escaped
+
+0x6F1D3361 = ~COLOR_ENEMY~~1p~~s~ cannot be retrieved
+
+0x7F406CA6 = Kill Bounty Hunter players ~1b~ and reduce the time you need to survive before escaping capture.
+
+0x8D90588A = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x9E2CD4B1 = ~COLOR_POSSE_ALLY~~1~~s~ is wanted dead or alive
+
+0x9F9F59D3 = ~COLOR_ENEMY~~1p~~s~ delivered alive
+
+0x22AF61A2 = Get on the horse
+
+0x39E5D055 = Wanted dead or alive for ~1$~
+
+0x46FA9DB1 = ~1p~ ~2b~ is surrendering. Capture and hogtie them before they regain control.
+
+0x48FA2D55 = Kill or hogtie ~COLOR_ENEMY~~1p~~s~
+
+0x51F3E2A6 = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x58BCA499 = Placeholder
+
+0x58D4F109 = Survive or evade the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x65D3EEDC = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x72F13937 = ~COLOR_ENEMY~~1p~~s~ delivered alive
+
+0x74E779EA = Capture ~COLOR_ENEMY~~1~~s~ for ~2$~
+
+0x77B0D143 = ~COLOR_POSSE_ALLY~~1p~~s~ has surrendered
+
+0x91BF63B0 = ~COLOR_POSSE_ALLY~~1~~s~ is wanted dead or alive
+
+0x97A77548 = ~1p~ abandoned the hunt
+
+0x206F2643 = ~1~ claimed ~2p~
+
+0x240CA3BF = Help ~COLOR_POSSE_ALLY~~1p~~s~ escape the ~COLOR_ENEMY~area~s~
+
+0x255D3DA8 = Being killed will pay off your full bounty. Surrender or allow yourself to be incarcerated and wait out your sentence to avoid paying your bounty.
+
+0x374EFA11 = ~COLOR_ENEMY~~1p~~s~ delivered dead
+
+0x485C9E1B = Pick up ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~
+
+0x548DF215 = Placeholder
+
+0x638E927D = Steal ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~ from ~COLOR_ENEMY~~2p~~s~
+
+0x1854F22F = Help ~COLOR_POSSE_ALLY~~1p~~s~ kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x13086CB2 = Help ~COLOR_POSSE_ALLY~~1p~~s~ escape the ~COLOR_ENEMY~area~s~
+
+0x91368C9F = ~COLOR_POSSE_ALLY~~1p~~s~ survived
+
+0x96109EDE = Rival Posse turned in ~1p~
+
+0x3926363D = ~COLOR_POSSE_ALLY~~1p~~s~ survived
+
+0x4153475A = Protect ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~ from the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0x7708698D = ~COLOR_POSSE_ALLY~~1p~~s~ surrendered to Bounty Hunters
+
+0x66686565 = Surrendered to Bounty Hunters
+
+0xA5FA39E7 = ~1~ joined the hunt
+
+0xA8CEB058 = Kill the ~COLOR_ENEMY~Bounty Hunters~s~
+
+0xAC7F5FB6 = Help deliver ~COLOR_MP_OBJECTIVE_FRIENDLY~~1p~~s~
+
+0xB34EA29D = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0xBB1191D9 = ~COLOR_POSSE_ALLY~~1p~~s~ has surrendered
+
+0xBDED574F = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0xBEEAD79F = ~1~ was captured
+
+0xBFDC7A34 = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+0xBFEB59A9 = Placeholder
+
+0xC47B103C = You are now visible to Bounty Hunter players ~1b~.
+
+0xC6171891 = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+0xD0019EAA = You survived
+
+0xD6B82E50 = Placeholder
+
+0xD908FEA8 = Kill the remaining ~COLOR_ENEMY~Bounty Hunters~s~
+
+0xD52205C5 = Recover ~COLOR_MP_OBJECTIVE_NEUTRAL~~1p~~s~
+
+0xDDA03D00 = ~1$~ collected
+
+0xDF630C9D = Escape the ~COLOR_ENEMY~area~s~
+
+0xE19F07FD = Get on the wagon
+
+0xE269A6B7 = ~COLOR_POSSE_ALLY~~1p~~s~ killed by Bounty Hunters
+
+0xE999FDFA = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+0xE7494159 = ~1p~ is hiding in the area but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+0xF1BCD4FC = Hold ~INPUT_INTERACT_LOCKON~ and press ~INPUT_CONTEXT_Y~ to surrender to a Bounty Hunter ~1b~ and wait out your sentence in jail.
+
+0xF8B9E43A = You are being pursued by Bounty Hunter players ~1b~. Avoid being caught by hiding in the area to stay concealed or attempt to flee and be seen.
+
+0xF8FE846E = ~1p~ has been put in jail. Certain activities are not available while a Posse member is incarcerated.
+
+0xF9902D08 = ~COLOR_ENEMY~~1p~~s~ delivered dead
+
+0xFC223C5E = ~COLOR_ENEMY~~1p~~s~ is hiding in the ~COLOR_ENEMY~area~s~ but will become blipped if they leave. Find and deliver them alive for the full amount, or less if they are dead.
+
+0xFF48AF9A = ~1~ claimed ~2p~
+

@@ -1,0 +1,150 @@
+0x00F566AE = Samuel
+
+0x04AC08A0 = Round ~1~.~n~Each player has won 1 round.
+
+0x0516F893 = Round ~1~.~n~Complete 2 laps.~n~Each player has won 1 round.
+
+0x08E31D1A = Round 1.~n~Complete 1 lap.~n~~1~ will set the time you have to beat.
+
+0x096DE551 = Round 1.~n~~1~ will set the laps you have to beat.
+
+0x0C178124 = Perform Flourish
+
+0x1BFF7A59 = 1 life left
+
+0x2DEADB30 = Jesse
+
+0x3BB5815C = ~1~ beat ~2~'s laps and wins the ~3$~ pot.
+
+0x3CDC8665 = Longest Play Time
+
+0x4C808261 = ~1~ attempts left
+
+0x4D6003F0 = No attempts left
+
+0x4EC3C82D = Practice.~n~You have 3 practice attempts.
+
+0x4FAF83CA = ~1~ is quitting so ~2~ wins the ~3$~ pot.
+
+0x6EE7006B = ~1~ beat ~2~'s laps and wins the round.
+
+0x7AEF0D28 = End Attempt
+
+0x7BAC4FEB = The buy-in is ~1$~.~n~Press ~INPUT_GAME_MENU_ACCEPT~ to accept the bet.
+
+0x7F754197 = ~1~ lives left
+
+0x8F19BA5E = Beat the time set by ~1~.~n~Press ~INPUT_MINIGAME_FFF_A~ to begin.
+
+0x9AE2D0EA = The new opponent has raised the betting stakes.
+
+0x9F4D128D = Round ~1~.~n~~2~ must win to stay in the game.
+
+0x12ADA4B6 = Floyd
+
+0x12EDB495 = You set a new record of ~1~ laps, and a new fastest lap record of ~2~.
+
+0x18D240E7 = Start
+
+0x67E55E19 = Both players failed to set a time. Tie.
+
+0x78EB0FFF = Hold ~INPUT_MINIGAME_FFF_ZOOM~ to zoom on ~1~'s hand.
+
+0x92D1E9C5 = Perform tricks whilst playing by pressing ~INPUT_MINIGAME_FFF_FLOURISH_CONTINUE~ when the button appears.
+
+0x402A7FAF = Doc
+
+0x456DD104 = You set a new record of ~1~ laps, and a new record for the longest play time of ~2~, and a new fastest lap record of ~3~.
+
+0x467CCCE2 = You beat all opponents.~n~Come back later when they have more money to bet.
+
+0x634A92F1 = You have beaten this opponent. A new opponent wants to challenge you.
+
+0x650C9257 = Your Money
+
+0x662D2EA7 = ~1~ beat ~2~'s time and wins the round.
+
+0x835B3ACC = Round ~1~.~n~Complete 2 laps.~n~~2~ must win to stay in the game.
+
+0x896D895F = ~1~ Rounds
+
+0x1985A839 = You set a new record of ~1~ laps, and a new record for the longest play time of ~2~.
+
+0x6879D51B = Burnout.~n~Complete the most laps in 30 seconds.~n~1 attempt.~n~Win 2 rounds to take the betting pot.
+
+0x8714A908 = Change Sequence
+
+0x40944C8F = Play (~1$~)
+
+0x69733BF5 = You set a new record for the longest play time of ~1~, and a new fastest lap record of ~2~.
+
+0x77486DEA = Joseph
+
+0x82816E32 = 1 attempt left
+
+0x93687A88 = Guts.~n~Complete the most laps in 20 seconds.~n~Unlimited attempts.~n~Win 2 rounds to take the betting pot.
+
+0x99887A6E = Fastest Lap
+
+0x539182C6 = Skip
+
+0x874787E0 = ~1~ beat ~2~'s time and wins the ~3$~ pot.
+
+0x4960921B = Dewey
+
+0x7131769C = You set a new fastest lap record of ~1~.
+
+0x81154487 = No lives left
+
+0xA1CD758D = ~1~ has no lives remaining and failed to set a time.
+
+0xA6ADF60D = Back
+
+0xA25B8755 = Practice.~n~You have unlimited attempts.
+
+0xAB1FB8ED = Round ~1~.~n~Complete 1 lap.~n~Neither player has won a round yet.
+
+0xACCC9FA9 = Most Laps
+
+0xAD8C1802 = End Turn
+
+0xB1F74402 = Round ~1~.~n~Neither player has won a round yet.
+
+0xB6B4CCA3 = Practice
+
+0xB67D6C3B = Vern
+
+0xB99E66F2 = Pot
+
+0xB21106E4 = ~1~ sets the laps to beat.
+
+0xBDB4CAF1 = You set a new record for the longest play time of ~1~.
+
+0xC077804F = Frank
+
+0xC0990EDB = ~1~ sets the time to beat.
+
+0xC0CD0967 = Both players set the same time. Tie.
+
+0xC6886317 = Both players completed the same number of laps. Tie.
+
+0xCEAB821B = Grady
+
+0xD2B824D0 = Hal
+
+0xD5225E59 = Round ~1~.~n~Complete 1 lap.~n~~2~ must win to stay in the game.
+
+0xDBBC379F = Beat the laps set by ~1~.~n~Press ~INPUT_MINIGAME_FFF_A~ to begin.
+
+0xE0B04888 = You do not have enough money to match your opponent's bet.
+
+0xED93BFEB = Ike
+
+0xEDFB5B56 = Clyde
+
+0xF2B0E570 = Zoom
+
+0xF972D0C2 = You set a new record of ~1~ laps.
+
+0xFBF6FCA1 = Classic.~n~Complete the laps in the quickest time.~n~5 attempts.~n~Win 2 rounds to take the betting pot.
+

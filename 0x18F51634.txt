@@ -1,0 +1,22 @@
+0x5EC1C6D1 = ~z~Okay, well would you please try to keep away from old people? While we're getting this much attention.
+
+0x9A15BD74 = ~z~So... you're back?
+
+0x42A98E9D = ~z~
+
+0x49FF9D4D = ~z~Of course... did they ask... anything about us?
+
+0x58FCBB47 = ~z~No, it was just... locals, local problem... a feller I used to know.
+
+0x72D8EEFF = ~z~I understand boss, and I'm sorry for being foolish... it was an old thing and my emotions got the better of me.
+
+0x739C9837 = ~z~Thank you.
+
+0xA85459F1 = ~z~Yes, I'm back.
+
+0xAC606209 = ~z~I heard they wanted to hang you?
+
+0xAEA78E4C = ~z~Dutch... I... you boys are my family now.
+
+0xB3C670D9 = ~z~They wanted to, but Arthur did me right.
+

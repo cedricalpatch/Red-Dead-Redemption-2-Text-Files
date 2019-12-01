@@ -1,0 +1,1084 @@
+0x0008B08D = ~z~My mistress is waiting for us.
+
+0x00185B83 = ~z~This was their mistake.
+
+0x0170B591 = ~z~Aside from you.
+
+0x0172C870 = ~z~They're up near Gaptooth Ridge.
+
+0x01C9E237 = ~z~Each?
+
+0x02E76BE7 = ~z~Well, uh, what we have so far.
+
+0x0343BDE3 = ~z~be so kind as to quickly run away.
+
+0x035ACB53 = ~z~He's long past his prime of course, but uh...
+
+0x0481B97B = ~z~And you did it fantastically well.
+
+0x049F514F = ~z~~sl:0.1:0.7~So...~sl:1.7:3.0:1~I don't wanna die, friend...
+
+0x054ECE1B = ~z~You see...
+
+0x0570655B = ~z~and my former best friend.
+
+0x0626E511 = ~z~You'll find a change of clothes in there...
+
+0x064F50A2 = ~z~I suppose it beats dying, hmm?
+
+0x0671EF32 = ~z~where are we heading?
+
+0x07062137 = ~z~Well you are now, shut up.
+
+0x07535671 = ~z~Anyway, it's a pleasure to make your acquaintance...
+
+0x082BEFDB = ~z~My mistress is waiting for us.
+
+0x08CAC0B5 = ~z~Before somebody gets shot entirely unnecessarily.
+
+0x08F55100 = ~z~Good.
+
+0x0A0D533E = ~z~Act like fools...
+
+0x0A326443 = ~z~Officer Townsend, those rocks ain't gonna break themselves.
+
+0x0B4AF629 = ~z~and I'd rather work.
+
+0x0B75B30F = ~z~You know, my wife has acquired ideas...
+
+0x0BA6E160 = ~z~A catalogue. The latest issue.
+
+0x0BF6DDAB = ~z~and he will help you, better than most of his ilk.
+
+0x0C8EE46C = ~z~Well, some gentlemen have been robbing our stages...
+
+0x0C59BF4B = ~z~and the pair of you will be dead within a minute.
+
+0x0CB62408 = ~z~Been a while since you saw a hitching post, huh?
+
+0x0CEFD13B = ~z~Mr. Went, I believe it was fifty dollars we agreed on?
+
+0x0E7F6871 = ~z~They're up in Tall Trees.
+
+0x0E614E66 = ~z~Jenkins, and Milliken.
+
+0x0EA9D5E8 = ~z~Don't do anything stupid, nobody gets shot.
+
+0x0ECA5B8A = ~z~I don't judge.
+
+0x0F000420 = ~z~How'd you get on with Clay Davies?
+
+0x0FD5E329 = ~z~you're the only other victims of their lies still alive.
+
+0x0FE36479 = ~z~Just came into this armpit from a land more civilized.
+
+0x0FEAAD38 = ~z~Open the gate.
+
+0x1A1A65D8 = ~z~Well, Mr. Jenkins and Mr. Milliken...
+
+0x1A2F577D = ~z~Get on to the station. It's not too far.
+
+0x1AD8736E = ~z~~sl:0.0:2.5~Soon as we're done, you can find your old posse...~sl:0.4~or try and start a new one.
+
+0x1AE8D89C = ~z~And chances to raise hell too, if you feel you're in a need of them.
+
+0x1B3D8982 = ~z~looking for a tough guy with a gun to help 'em.
+
+0x1BA1C4A6 = ~z~We need to perform a work detail out near Blackwater.
+
+0x1C987726 = ~z~Whatever your work may be.
+
+0x1CC18955 = ~z~Officer Jackson, move those prisoners.
+
+0x1E4E6254 = ~z~How about you pick up these guns...
+
+0x1E7C7454 = ~z~Go on, don't look back!
+
+0x1E96A34D = ~z~Horrible little wretch in my opinion.
+
+0x1EB2ADE4 = ~z~I can't be sure...
+
+0x1EC4CACC = ~z~Hello.
+
+0x1F151DBD = ~z~Oh, I saw Horley.
+
+0x1F7285DB = ~z~Here, by the way...
+
+0x2A9C2CC1 = ~z~Come back here and get this horse.
+
+0x2B9E649F = ~z~We need to perform a work detail out near Tumbleweed.
+
+0x2B168EC1 = ~z~Good day, gentlemen.
+
+0x2C714961 = ~z~possibly by all of them.
+
+0x2D5E1307 = ~z~It's not worth being rash.
+
+0x2D6F4125 = ~z~Now! Please.
+
+0x2DAF57D5 = ~z~Be merciful, friend...
+
+0x2E85EDAA = ~z~Go on, get moving.
+
+0x2E3069A3 = ~z~Jessica LeClerk, how do you do?
+
+0x2EFB2DC8 = ~z~Officer Benton.
+
+0x2FBDBF0E = ~z~Now, he wants you to come down and meet him in Blackwater...
+
+0x3A7E8243 = ~z~What did you tell her?
+
+0x3AEAA650 = ~z~Good day, gentlemen.
+
+0x3AF95038 = ~z~in finding out quite what happened.
+
+0x3BED50A9 = ~z~Certainly, madam.
+
+0x3C2FB0AA = ~z~I'm very glad to meet you.
+
+0x3C99DBC2 = ~z~My name is Mr. Horley, by the way.
+
+0x3C45140F = ~z~~sl:0.0:1.8~It's not much of animal, but...~sl:~we haven't got far to ride.
+
+0x3CDF95DA = ~z~Doesn't add much to the world.
+
+0x3E045B9B = ~z~when you get a chance.
+
+0x3EDEE04C = ~z~~sl:0.0:2.2~Ready? Wonderful.~sl:1.6:2.7~I hope you'll forgive the secrecy.~sl:~My employer particularly values discretion.
+
+0x3F9756B7 = ~z~You won't get far without a horse. Come back.
+
+0x3FEC3DCD = ~z~You wanna rob? Rob.
+
+0x4AA6DAD7 = ~z~See what you can do, okay?
+
+0x4AC3A621 = ~z~You.
+
+0x4B02467F = ~z~How about you pick up these guns...
+
+0x4C5EBBDB = ~z~I'm sure you're tired. Get this done and you can rest.
+
+0x4CA0E4B7 = ~z~I'm sure they will have something of interest to you.
+
+0x4CECD151 = ~z~Each?
+
+0x4D53820B = ~z~Come along... then you better get on this horse.
+
+0x4DE4F6DC = ~z~I'm sure you don't object too strongly.
+
+0x4E66B8E8 = ~z~Unnecessary.
+
+0x4F29F5DC = ~z~I'll be patient with you. Come back.
+
+0x5A7F1A64 = ~z~That's it.
+
+0x5A27C66E = ~z~I don't know what you're waiting for.
+
+0x5B0940AD = ~z~I'll wait.
+
+0x5C0070BB = ~z~Okay, okay.
+
+0x5D8580A0 = ~z~See what you can do, okay?
+
+0x5E6D0337 = ~z~and they are not part of the club if you catch my meaning.
+
+0x5FA91DF4 = ~z~Go on, don't look back!
+
+0x5FAA1999 = ~z~Ranch owner, speculator, and crook.
+
+0x5FF07874 = ~z~Act like fools...
+
+0x6A56360D = ~z~Then meet Cripps back at your camp.
+
+0x6B40FC38 = ~z~Now, ma'am.
+
+0x6B98DE9B = ~z~Leave Mrs. LeClerk alone.
+
+0x6B7120EB = ~z~I'm sure they will have something of interest to you.
+
+0x6BF58A99 = ~z~Use it.
+
+0x6CAC1CD4 = ~z~to do whatever it takes.
+
+0x6CB0AE81 = ~z~~sl:0.0:3.4~That's more than reasonable... and freedom out on the range~sl:~can wait a few moments longer, can't it?
+
+0x6CDAB857 = ~z~Mr. Went, I believe it was fifty dollars we agreed on?
+
+0x6CF86736 = ~z~Jessica LeClerk, how do you do?
+
+0x6D0A762F = ~z~Education...
+
+0x6D37CD75 = ~z~~sl:0.0:2.2~Been a while since you rode a horse?~sl:~No shame in that. But, please...
+
+0x6EC2A18B = ~z~Horley...
+
+0x6EF423A8 = ~z~Horley.
+
+0x6F5D0F38 = ~z~How about you pick up these guns...
+
+0x6F28B4E0 = ~z~and the pair of you will be dead within a minute.
+
+0x6F320416 = ~z~Now get outta here, both of you.
+
+0x6FCE1EBE = ~z~and the pair of you will be dead within a minute.
+
+0x6FDEBA02 = ~z~Mrs. Grace Lancing, his wife.
+
+0x7A4DAD55 = ~z~Let 'em out.
+
+0x7A5CB959 = ~z~go introduce her to nice Mr. Cripps.
+
+0x7A8D8844 = ~z~You lot stay calm in there.
+
+0x7A1726C8 = ~z~He said you also were a discouraged man.
+
+0x7ACD1C2C = ~z~and we move out.
+
+0x7AF1D7C3 = ~z~I'll see you at the camp... just as soon as you're done.
+
+0x7B234D9D = ~z~~sl:0.0:2.0~Made a mockery of the rule of law.~sl:0.4~~rp~I still can't quite believe they got away with it.
+
+0x7B912E95 = ~z~My employer and I appreciate your professionalism.
+
+0x7B973E23 = ~z~I'm sure they will have something of interest to you.
+
+0x7B496998 = ~z~Now, we ought to get outta here before the alarm is raised.
+
+0x7BFC5D5E = ~z~It's not worth being rash.
+
+0x7D81BA25 = ~z~Now, what are your names?
+
+0x7DD04295 = ~z~They're up in Cumberland Forest.
+
+0x7E8DC378 = ~z~I'm sorry, but I'm going to need you to come with me.
+
+0x7E8FE0BA = ~z~You all run away.
+
+0x7E5420FA = ~z~Go on, don't look back!
+
+0x7E8141B3 = ~z~my colleagues and I move around these stations as needed...
+
+0x7EAA2C6E = ~z~Mr. Went, I believe it was fifty dollars we agreed on?
+
+0x7EEFD938 = ~z~These bullets.
+
+0x8A00FB1C = ~z~~sl:0.0:2.0~Or maybe, you just want to put it all behind you,~sl:0.0:1.7~forget you were in there at all.~sl:0.9~~rp~That would be fine, of course.
+
+0x8A6EF726 = ~z~He's a horse thief, and not a terribly nice one.
+
+0x8A807492 = ~z~It's either work or beg...
+
+0x8AEF083F = ~z~~sl:0.0:0.9~I know what you're thinking.~sl:0.8:1.1~"This is a trick."~sl:1.2:1.7~let's be real clear...~sl:0.9~this ain't a trick.
+
+0x8AFE77DC = ~z~~sl:0.0:2.1~I'm just... just waiting on something here.~sl:~I'll go strike camp in just a moment.
+
+0x8B644F82 = ~z~You boys get paid a salary.
+
+0x8C8A0032 = ~z~~sl:0.0:2.4~Six months at Sisika Penitentiary...~sl:0.4:~~rp~awaiting a hanging for a murder you did not commit...
+
+0x8CDFC8D9 = ~z~It was.
+
+0x8D1D8AB8 = ~z~Uh, where are my manners?
+
+0x8D34E15E = ~z~See what you can do, okay?
+
+0x8D34FFCF = ~z~and get on down here.
+
+0x8DE35ADE = ~z~Goodbye...
+
+0x8E055B2C = ~z~That's it.
+
+0x8ED26244 = ~z~and he will help you, better than most of his ilk.
+
+0x8F248463 = ~z~Place is pretty nice.
+
+0x8FC61291 = ~z~Just as soon as you can, we'll go.
+
+0x8FDF3057 = ~z~Come on, get in.
+
+0x9A73F863 = ~z~Because you and your accomplices...
+
+0x9A77ED82 = ~z~My mistress is waiting for us.
+
+0x9A880C66 = ~z~~sl:0.0:2.8~Six months at Sisika Penitentiary...~sl:0.3:~~rp~awaiting a hanging for a murder you did not commit.
+
+0x9ABAD9C7 = ~z~be so kind as to quickly run away.
+
+0x9B3FE599 = ~z~My employer and I appreciate your professionalism.
+
+0x9B14FC86 = ~z~I heard you might wanna earn a little extra money.
+
+0x9C01FC09 = ~z~Here, madam.
+
+0x9C381AC0 = ~z~Then head to see Clay Davies.
+
+0x9C228179 = ~z~and all of us are very discouraged.
+
+0x9E219FD9 = ~z~Your wives presumably want you alive?
+
+0x9E5922CC = ~z~I, uh, think I did a good job for you.
+
+0x9E64635A = ~z~How about you pick up these guns...
+
+0x9EC92DF3 = ~z~But I will not avenge it upon them who did not cause it...
+
+0x9EDC9F21 = ~z~He's a horse thief, and not a terribly nice one.
+
+0x10E8FD24 = ~z~Mr. Jeremiah Shaw.
+
+0x14AF36C9 = ~z~I tell you what...
+
+0x15B06FFE = ~z~he hasn't gone entirely crazy just yet...
+
+0x16A1D19B = ~z~This is a stroke of good fortune for all of you.
+
+0x18D8643C = ~z~Your wives presumably want you alive?
+
+0x19D25A3C = ~z~Now, what are your names?
+
+0x19FF7BC9 = ~z~I try not to talk too much to women.
+
+0x20B0DD7D = ~z~and men, I guess.
+
+0x23AD2DA1 = ~z~Okay, okay.
+
+0x24AA24AE = ~z~when you were arrested.
+
+0x27E38EDC = ~z~I look forward to rewarding you...
+
+0x28AFAC72 = ~z~Thank you, Horley.
+
+0x28B0B6C8 = ~z~I'm very glad to meet you.
+
+0x28D19AD5 = ~z~Hello.
+
+0x32B0A8DE = ~z~you walked into the town at approximately...
+
+0x32C41CFC = ~z~All we did was stand there and look tough.
+
+0x33C2AC37 = ~z~and all of us are very discouraged.
+
+0x34BE2891 = ~z~for killing those who made me a widow.
+
+0x34E828F3 = ~z~Whoa...
+
+0x35E54D2C = ~z~Good luck.
+
+0x37CAB52B = ~z~They're up at Bluewater Marsh.
+
+0x38E4807E = ~z~Hitch your horse.
+
+0x39C0D304 = ~z~Now, sir.
+
+0x41B82A07 = ~z~Whoa...
+
+0x42AEBCD5 = ~z~Yes.
+
+0x43BDEE97 = ~z~~sl:0.0:3.1~But you will listen to my mistress first.~sl:0.7:2.7~~rp~She spent a good sum getting you folks out.~sl:0.4~~rp~You owe her an audience, at least.
+
+0x45D23AC3 = ~z~be so kind as to quickly run away.
+
+0x47A73218 = ~z~Okay.
+
+0x47CD33F1 = ~z~Mr. Went, I believe it was fifty dollars we agreed on?
+
+0x48A7A475 = ~z~Well you are now, shut up.
+
+0x51B313C8 = ~z~but that is all I know so far.
+
+0x51F8DC3C = ~z~That's it.
+
+0x52C7E40B = ~z~Just get on the horse, when you're good and ready, okay?
+
+0x52E80552 = ~z~How about you pick up these guns...
+
+0x53F25703 = ~z~Here's fifty each...
+
+0x54AD5AFD = ~z~Now, what are your names?
+
+0x54C18D1E = ~z~Okay, okay.
+
+0x58DF7BD4 = ~z~They're up at Bluewater Marsh.
+
+0x59F0F75E = ~z~the same time my husband was shot in the back...
+
+0x63F29F30 = ~z~~sl:0.0:3.6~Rounding you folks up... and those sham trials?~sl:0.3~~rp~They were a disgrace.
+
+0x64EC301E = ~z~This is a stroke of good fortune for all of you.
+
+0x64FCAF5F = ~z~Your wives presumably want you alive?
+
+0x65BE02D6 = ~z~Use it.
+
+0x65C91B63 = ~z~What are you standing there for? Get moving.
+
+0x67FF08B8 = ~z~Your wives presumably want you alive?
+
+0x68E0A918 = ~z~~sl:0.0:4.1~There's others convicted when you were, ~rp~came out breathing fire.~sl:0.5~~rp~Maybe you're like that, too. ~rp~Guess we'll see.
+
+0x74C5491C = ~z~When you get too old to fight, what choice have you got?
+
+0x75B50784 = ~z~Personally, I'm against education.
+
+0x75CBF301 = ~z~Please, don't bother the lady.
+
+0x75D159DB = ~z~I hope I am right about that.
+
+0x76F1C8F5 = ~z~I do hope we haven't inconvenienced you dreadfully...
+
+0x76FE3178 = ~z~You're the only person I could possibly trust...
+
+0x78B153AB = ~z~Oh, and, uh, madam.
+
+0x78CCB96E = ~z~I find your reticence charming...
+
+0x79B8A513 = ~z~You get that salary whether these people escape or not.
+
+0x81E3495B = ~z~A catalogue.
+
+0x81E43446 = ~z~Now, ma'am.
+
+0x82B34F7B = ~z~See what you can do, okay?
+
+0x83B9DE02 = ~z~Well, Mr. Jenkins and Mr. Milliken...
+
+0x84AF13FC = ~z~Come on, hitch up.
+
+0x85CF4311 = ~z~Now get outta here, both of you.
+
+0x87FFA328 = ~z~Old Jameson is a wretched sour old bastard and no mistake...
+
+0x88BB72D7 = ~z~Then head to see Clay Davies.
+
+0x88BF77C4 = ~z~Now, Mr. Jenkins and Mr. Milliken...
+
+0x88D7580B = ~z~Well, some gentlemen have been robbing our stages...
+
+0x89B8A58B = ~z~Are you going to go deal with this menace?
+
+0x90C4FA57 = ~z~give them some fresh clothes to put on.
+
+0x92B87BFF = ~z~Jenkins, and Milliken.
+
+0x92E4B8C5 = ~z~She's anxious to meet you.
+
+0x93DBCD69 = ~z~Each?
+
+0x93E48096 = ~z~alongside a few other items you might need...
+
+0x94CD04EE = ~z~all because you came to town and didn't talk too much...
+
+0x94E7887C = ~z~Now get outta here, both of you.
+
+0x95BA642E = ~z~You get that salary whether these people escape or not.
+
+0x95F4E360 = ~z~Here's fifty each...
+
+0x96A07671 = ~z~Good afternoon, sir.
+
+0x97B605FA = ~z~Good day, gentlemen.
+
+0x97D87570 = ~z~Get up.
+
+0x98B51349 = ~z~You go see about this business of yours. Don't you worry about me.
+
+0x98D76FA2 = ~z~get back to work.
+
+0x98E13C60 = ~z~Tie it here.
+
+0x109A5EF2 = ~z~~sl:0.0:2.7~You'll have money in your pocket to go to the store with...~sl:0.4:2.0~and there'll be chances to make more,~sl:~if that's what you're after.
+
+0x120D8A62 = ~z~Use it.
+
+0x161DF1F9 = ~z~Cripps.
+
+0x164EDD19 = ~z~and we move out.
+
+0x169F0496 = ~z~~sl:0.0:2.3~Or maybe, you just want to put it all behind you,~sl:0.1:1.6~forget you were in there at all.~sl:0.7~~rp~That would be fine, of course.
+
+0x180DF41F = ~z~Your very good health.
+
+0x187E3FB2 = ~z~There's the camp.
+
+0x261E1652 = ~z~I'm sure they will have something of interest to you.
+
+0x288F30A1 = ~z~Good day, gentlemen.
+
+0x315D2CD0 = ~z~Here, by the way...
+
+0x327D0951 = ~z~It was.
+
+0x342BAE14 = ~z~JB Cripps, at your service.
+
+0x355AA349 = ~z~How about you pick up these guns...
+
+0x359F90F6 = ~z~All we did was stand there and look tough.
+
+0x366C2B54 = ~z~~sl:0.0:2.6~Must be odd being out of those leg irons.~sl:0.5~Get on the horse when you're ready.
+
+0x378D267D = ~z~Aside from you.
+
+0x385A014E = ~z~What you looking at?
+
+0x400E0786 = ~z~I would ask that you leave it.
+
+0x402CD360 = ~z~Good folk, bad folk...
+
+0x406DDBEE = ~z~but seeing as you were due to be hanged in a week...
+
+0x418D4196 = ~z~~sl:0.0:2.6~I waited on them moving you some weeks,~sl:0.4~I can wait a while longer.
+
+0x431F76BD = ~z~And one of these people also made Mrs. LeClerk a widow.
+
+0x459FD19D = ~z~Hey, come on. Ride with me.
+
+0x467FE851 = ~z~Anyway...
+
+0x475A346B = ~z~My employer and I appreciate your professionalism.
+
+0x478C41BF = ~z~I'm very discouraged.
+
+0x484C554A = ~z~are a lady.
+
+0x492F55DB = ~z~and kill them.
+
+0x515D60AF = ~z~You wanna save innocent folk?
+
+0x522AEC1F = ~z~I'm very discouraged, you see?
+
+0x541F7174 = ~z~He said you were also a discouraged... creature.
+
+0x593BE2F2 = ~z~Now, sir.
+
+0x631D8F6C = ~z~You, uh...
+
+0x657EDB97 = ~z~You.
+
+0x682EAFEF = ~z~I'll earn my keep.
+
+0x694B8531 = ~z~Anyway, it's a pleasure to make your acquaintance.
+
+0x752EDABF = ~z~And I will avenge my husband's death...
+
+0x771A4136 = ~z~One time, I almost helped a clown steal an elephant...
+
+0x789AD296 = ~z~See you shortly, boss.
+
+0x806EBFF5 = ~z~I will take the full burden of that sin upon my shoulders.
+
+0x813F957B = ~z~This way.
+
+0x856FC373 = ~z~It's this way.
+
+0x862C57CD = ~z~They're up in Cumberland Forest.
+
+0x897AB987 = ~z~My mistress is waiting for us.
+
+0x903C66D5 = ~z~Hey. Back here, please.
+
+0x964B7F98 = ~z~but that's a very silly story.
+
+0x969B5FD0 = ~z~You must, uh...
+
+0x970F1062 = ~z~We'll pay to get your camp established.
+
+0x973FE12D = ~z~This is a stroke of good fortune for all of you.
+
+0x976C943E = ~z~You boys get paid a salary.
+
+0x976D3C1F = ~z~Nothing. As we discussed.
+
+0x977C678C = ~z~This won't take but a moment more. Come on.
+
+0x2630DB17 = ~z~She's just up here.
+
+0x2706FD2D = ~z~Go on, don't look back!
+
+0x2888A418 = ~z~Up to you if you listen to 'em, I guess.
+
+0x4039E6BA = ~z~Aside from you.
+
+0x4492CD2C = ~z~And I intend to find out which one...
+
+0x4567C9F2 = ~z~Jenkins, and Milliken.
+
+0x4713C58A = ~z~You all run away.
+
+0x5071AE29 = ~z~Madam, we're back.
+
+0x5314E54C = ~z~Well, Mr. Jenkins and Mr. Milliken...
+
+0x5922F6F7 = ~z~We will all help you with pertinent information, even if you...
+
+0x6156A22F = ~z~Now, ma'am.
+
+0x6240F3A0 = ~z~Each?
+
+0x6804F6A0 = ~z~Jenkins, and Milliken.
+
+0x7432AD1A = ~z~Good afternoon ma'am.
+
+0x7451F609 = ~z~and you, you'll do.
+
+0x7692D36B = ~z~Try to stay outta trouble.
+
+0x8566D3FE = ~z~You must be, uh, Horley's friend.
+
+0x9076C783 = ~z~Don't do anything stupid, nobody gets shot.
+
+0x9418EDC6 = ~z~Here, by the way...
+
+0x14246DD3 = ~z~A catalogue.
+
+0x18110EC5 = ~z~Yes.
+
+0x22770AAB = ~z~Pleased to meet you, partner.
+
+0x32502DD6 = ~z~He's one of us.
+
+0x34288EE8 = ~z~Good day, gentlemen.
+
+0x52265D07 = ~z~Now! Please.
+
+0x59083F76 = ~z~Come on, get in.
+
+0x59584ECB = ~z~significantly above her station.
+
+0x64220E04 = ~z~Hello, partner.
+
+0x66918B17 = ~z~Mrs. LeClerk would like to help you get back on your feet...
+
+0x77717F7C = ~z~and you, you'll do.
+
+0x83175EFC = ~z~Horley, please show our guest to their tent and...
+
+0x86301CF9 = ~z~You with the hammer...
+
+0x87322A7E = ~z~She's been reading too many goddamn books.
+
+0x253688E9 = ~z~Get on the horse, there.
+
+0x272599C1 = ~z~If you can make 'em go away...
+
+0x283687E5 = ~z~It was.
+
+0x377691B7 = ~z~We haven't got far to go, now.
+
+0x434413EE = ~z~Come on, get in.
+
+0x609617AF = ~z~Act like fools...
+
+0x610086A1 = ~z~Then Horley...
+
+0x678396DC = ~z~real charming.
+
+0x915010DC = ~z~It must have felt a whole lot longer, my friend.
+
+0x972988CF = ~z~Teddy Brown, her disgraced brother.
+
+0x990557C0 = ~z~Good day, gentlemen.
+
+0x1837178A = ~z~~sl:0.0:4.1~There's others convicted when you were, ~rp~came out breathing fire.~sl:0.8:1.6~~rp~Maybe you're like that, too.~sl:1.0~~rp~Guess we'll see.
+
+0x4755473E = ~z~and we move out.
+
+0x6077177D = ~z~Now, what are your names?
+
+0x6474394A = ~z~so help me God.
+
+0x8807006F = ~z~or caused it unwillingly.
+
+0x9194096D = ~z~Before somebody gets shot entirely unnecessarily.
+
+0x9430767C = ~z~~sl:0.0:4.2~It ain't time for you to ride off on your own... not quite yet.~sl:0.1~Now, come along.
+
+0x13673411 = ~z~What did you tell him?
+
+0x26032296 = ~z~throw your guns to the ground...
+
+0x34013378 = ~z~If you can make 'em go away...
+
+0x42894427 = ~z~My husband was a true believer in this country...
+
+0x48087630 = ~z~Pop this and pop that.
+
+0x60837951 = ~z~and get on down here.
+
+0x63109923 = ~z~Welcome home!
+
+0x70088463 = ~z~Now, Mr. Jenkins and Mr. Milliken...
+
+0x70454425 = ~z~Aside from you.
+
+0x84566003 = ~z~~sl:0.0:2.8~But you will listen to my mistress first.~sl:0.5:2.8~~rp~She spent a good sum getting you folks out.~sl:0.4~~rp~You owe her an audience, at least.
+
+0xA07B7869 = ~z~And you did it fantastically well.
+
+0xA3C5ADD0 = ~z~be so kind as to quickly run away.
+
+0xA4E4A057 = ~z~Whoa...
+
+0xA5B830D5 = ~z~You get that salary whether these people escape or not.
+
+0xA5E0A715 = ~z~You were rounded up and sentenced to death...
+
+0xA7F242E9 = ~z~~sl:0.0:4.1~Just... get to grips with the beast. Then we'll ride.~sl:0.2~Let's just hope no one shows up.
+
+0xA25C6A6E = ~z~And you did it fantastically well.
+
+0xA35E8DB1 = ~z~A catalogue.
+
+0xA38BF9B1 = ~z~Disappointed Alden, that's me.
+
+0xA80F1A2A = ~z~If you can make 'em go away...
+
+0xA179A45B = ~z~While Cripps is establishing your camp...
+
+0xA244B506 = ~z~Anyway, I'm sure this is all a touch confusing and melodramatic.
+
+0xA244D522 = ~z~We need to perform a work detail out in Valentine.
+
+0xA373E301 = ~z~Of women I mean...
+
+0xA674A646 = ~z~~sl:0.0:0.8~Okay...~sl:1.2:2.8~okay... you're good...~sl:1.2~you're real good, friend.
+
+0xA4696F68 = ~z~Act like fools...
+
+0xA5130E2B = ~z~by one of his business partners.
+
+0xA8728D79 = ~z~Oh, there you are, partner.
+
+0xA644921D = ~z~Here, by the way...
+
+0xA875100B = ~z~throw your guns to the ground...
+
+0xA9282551 = ~z~You know, I... I used to like that kind of stuff.
+
+0xAA64AF45 = ~z~Outlaw, wanted man and still in contact with them.
+
+0xAB473A24 = ~z~You get that salary whether these people escape or not.
+
+0xABA87BA6 = ~z~Here's fifty each...
+
+0xABBB1F42 = ~z~Now, I will be honest...
+
+0xAC1690C0 = ~z~Please. We've come this far.
+
+0xACC81106 = ~z~Now, sir.
+
+0xAD5B6CD0 = ~z~Run along then.
+
+0xADDC36C9 = ~z~were little more than patsies...
+
+0xADFEBE4D = ~z~perhaps you can go to the station and see the clerk.
+
+0xAE5825E4 = ~z~We will all help a fellow sufferer with pertinent information.
+
+0xAF1196C1 = ~z~How about you pick up these guns...
+
+0xAFB840D8 = ~z~perhaps you can go to the station and see the clerk.
+
+0xAFCD2DB5 = ~z~Can we go now? Okay.
+
+0xB00A176D = ~z~This is a stroke of good fortune for all of you.
+
+0xB1D4A848 = ~z~I think you'll like Cripps well enough.
+
+0xB1D9AF03 = ~z~real charming.
+
+0xB2C1182F = ~z~You all run away.
+
+0xB4A89AF2 = ~z~It's not worth being rash.
+
+0xB6CA37A0 = ~z~They're up near Gaptooth Ridge.
+
+0xB7D833B5 = ~z~Mrs. LeClerk's husband was murdered...
+
+0xB9AD2607 = ~z~Now, Mr. Jenkins and Mr. Milliken...
+
+0xB9BD2293 = ~z~Yes.
+
+0xB88F36B2 = ~z~See what you can do, okay?
+
+0xB321CBA8 = ~z~Let 'em out.
+
+0xB551C1F9 = ~z~~sl:0.0:1.6~You still seem strong, though.~sl:0.5:2.0~~rp~I mean, it doesn't look like breaking all those rocks~sl:0.0:~has left you entirely broken... ~rp~in body or in spirit.
+
+0xB997B8EE = ~z~he hasn't gone entirely crazy just yet...
+
+0xB21716C7 = ~z~He's one of us.
+
+0xB8494072 = ~z~Sisika Penitentiary – Male Wing
+
+0xB9765682 = ~z~Now! Please.
+
+0xBB2FCCED = ~z~Don't do anything stupid, nobody gets shot.
+
+0xBC8B5392 = ~z~Banker, real estate speculator, and crook.
+
+0xBC37D71C = ~z~My employer and I appreciate your professionalism.
+
+0xBC51093E = ~z~We need to perform a work detail out in Rhodes.
+
+0xBC60408C = ~z~Alden, that's me.
+
+0xBD0AC830 = ~z~~sl:0.0:2.9~There will be plenty of time for adventures, now...~sl:0.3~if you'll follow me, please?
+
+0xBEC5E2A0 = ~z~I don't wanna die... I'm reformed...
+
+0xBEE05690 = ~z~~sl:0.0:3.3~Soon as we're done, you can find your old posse...~sl:0.4~or try and start a new one.
+
+0xBEEEB076 = ~z~Hello.
+
+0xBF0AB58B = ~z~Good day, gentlemen.
+
+0xBF974862 = ~z~And if all works out, well...
+
+0xBFFBB198 = ~z~You boys get paid a salary.
+
+0xC1B7F674 = ~z~~sl:0.0:3.4~I'll wait on you. I've waited some time already.~sl:0.3~But there is some urgency.
+
+0xC4E7D0C3 = ~z~They're up in Tall Trees.
+
+0xC7F2CDDC = ~z~But you need me just as much as I need you...
+
+0xC8C4F51F = ~z~Let 'em out.
+
+0xC28BE06B = ~z~and seemed like you were nasty.
+
+0xC82CEFF6 = ~z~I think he might have some work for you.
+
+0xC87DB54C = ~z~Use it.
+
+0xC95A7161 = ~z~All we did was stand there and look tough.
+
+0xC163C6CC = ~z~That looks more comfortable.
+
+0xC977CB8D = ~z~Now, ma'am.
+
+0xC8434FA7 = ~z~and get on down here.
+
+0xC11647EB = ~z~This is your new boss.
+
+0xC14715BA = ~z~You lot stay calm in there.
+
+0xC1923445 = ~z~Here...
+
+0xC8704839 = ~z~Try to stay outta trouble.
+
+0xCA7FE4DF = ~z~Jackson.
+
+0xCB7DF94B = ~z~Oh, and sir.
+
+0xCB84C992 = ~z~Let 'em out.
+
+0xCC9EF20D = ~z~~sl:0.0:2.9~You'll have money in your pocket to go to the store with...~sl:0.1:1.7~and there'll be chances to make more,~sl:~if that's what you're after.
+
+0xCC86DDAC = ~z~I think you'll like Cripps well enough.
+
+0xCC594B4B = ~z~You must be, uh, Horley's friend.
+
+0xCD62CB3A = ~z~All we did was stand there and look tough.
+
+0xCDA500B2 = ~z~Well, Mr. Jenkins and Mr. Milliken...
+
+0xCDFA7113 = ~z~~sl:0.0:1.3~You been away for a while,~sl:0.0:2.2~so we'll help you get set up in the world.~sl:0.3~~rp~Then, if you want to accept our offer, you can.
+
+0xCE1BE403 = ~z~I, well... let's leave that.
+
+0xCE7BAD93 = ~z~and you, you'll do.
+
+0xCE38F6ED = ~z~Mr. Amos Lancing.
+
+0xCEC97FD6 = ~z~Mrs. LeClerk is a generous benefactor.
+
+0xCF2B80A6 = ~z~And uh...
+
+0xCF43D134 = ~z~Try to stay outta trouble.
+
+0xD05B5FCD = ~z~and in the West.
+
+0xD095D618 = ~z~~sl:0.0:1.3~You been away for a while,~sl:0.0:2.2~so we'll help you get set up in the world.~sl:0.5~~rp~Then, if you want to accept our offer, you can.
+
+0xD0C7E74E = ~z~He's long past his prime of course, but uh...
+
+0xD1B5EC9F = ~z~my colleagues and I move around these stations as needed...
+
+0xD2C45729 = ~z~That's it.
+
+0xD4CD0D2F = ~z~I'm very glad to meet you.
+
+0xD8ADF5FA = ~z~go introduce him to nice Mr. Cripps.
+
+0xD43BEED3 = ~z~If you can make 'em go away...
+
+0xD46F8873 = ~z~Oh, and, er, while you're out on your travels...
+
+0xD55DCF0C = ~z~Before somebody gets shot entirely unnecessarily.
+
+0xD59D6931 = ~z~Do that as well.
+
+0xD65E12D5 = ~z~I'd like to pop him, the slime bucket.
+
+0xD82F5F77 = ~z~Now get outta here, both of you.
+
+0xD927FC5B = ~z~If you can make 'em go away...
+
+0xD4795A13 = ~z~Take this... it's a map... just... be kind... don't kill me, please?
+
+0xD74809A8 = ~z~but not guilty of what you were accused.
+
+0xD283801B = ~z~I know you're innocent...
+
+0xDA028CD5 = ~z~This way.
+
+0xDA21D9F4 = ~z~Yes.
+
+0xDB8BEE70 = ~z~Now, Mr. Jenkins and Mr. Milliken...
+
+0xDBBE92D0 = ~z~The people who run Blackwater.
+
+0xDC926AC5 = ~z~I'm very glad to meet you.
+
+0xDCBD0959 = ~z~Some months later...
+
+0xDDE60157 = ~z~Here, by the way...
+
+0xDDFFFB16 = ~z~He was killed for greed.
+
+0xDEB7CAD3 = ~z~Come on, get in.
+
+0xDECB9C3B = ~z~And you did it fantastically well.
+
+0xDEE372B3 = ~z~~sl:0.0:4.2~That's more than reasonable... and freedom out on the range~sl:~can wait a few moments longer, can't it?
+
+0xE04685BB = ~z~Good.
+
+0xE0908C94 = ~z~I'm sure they will have something of interest to you.
+
+0xE0ED2429 = ~z~While Cripps is establishing your camp...
+
+0xE2FB533A = ~z~Madam, we're back.
+
+0xE3B22CCC = ~z~throw your guns to the ground...
+
+0xE3B26BB5 = ~z~Try to stay outta trouble.
+
+0xE4CADCC1 = ~z~We weren't saying nothing.
+
+0xE4E524E2 = ~z~I know you and those who were with you that died...
+
+0xE4F211AF = ~z~But, Horley insisted you was okay.
+
+0xE8CA2A64 = ~z~Very good, madam.
+
+0xE9F03A28 = ~z~You all run away.
+
+0xE550B0BA = ~z~Anyway...
+
+0xE656FF5A = ~z~Okay, okay.
+
+0xE22151AE = ~z~Come on, Milliken.
+
+0xE75599FA = ~z~and they are not part of the club if you catch my meaning.
+
+0xE1222959 = ~z~~sl:0.0:1.6~You still seem strong, though.~sl:0.8:2.7~~rp~I mean, it doesn't look like breaking all those rocks~sl:0.0:~has left you entirely broken... ~rp~in body or in spirit.
+
+0xE3802684 = ~z~How about you pick up these guns...
+
+0xE7538603 = ~z~Before somebody gets shot entirely unnecessarily.
+
+0xEA4F9295 = ~z~I hope we do.
+
+0xEA132CEA = ~z~a lasso, a knife and a lantern, I believe.
+
+0xEAB3B4FB = ~z~you may see some folk with employment opportunities.
+
+0xEB7D1BAD = ~z~The latest issue.
+
+0xEBE616E2 = ~z~Foul greed when there's quite enough for everybody.
+
+0xEC5D9C35 = ~z~Firing different bullets to those you possessed...
+
+0xECBC2C7C = ~z~Make yourself at home, it is your home.
+
+0xED9C0CDC = ~z~throw your guns to the ground...
+
+0xED319EF5 = ~z~for now.
+
+0xED4835E3 = ~z~here they are.
+
+0xEEBA4489 = ~z~~sl:0.0:2.0~Made a mockery of the rule of law.~sl:0.2~~rp~I still can't quite believe they got away with it.
+
+0xEEEAADB4 = ~z~Sisika Penitentiary – Female Wing
+
+0xEF453D2E = ~z~It was.
+
+0xEFBC8531 = ~z~Now, sir.
+
+0xF0AFC4F4 = ~z~You boys get paid a salary.
+
+0xF1F3168A = ~z~I find your reticence charming...
+
+0xF2E0A9C9 = ~z~or rather I intend for you to find out...
+
+0xF3AD1FEF = ~z~and the pair of you will be dead within a minute.
+
+0xF3B4C1E4 = ~z~Society patroness, lover of the arts, crook...
+
+0xF3D9CDCC = ~z~I've got everything set up.
+
+0xF4E00CDF = ~z~Sooner you do it, the sooner we'll leave you to your own devices.
+
+0xF6BF1DF6 = ~z~Good day, gentlemen.
+
+0xF6EBB269 = ~z~Then Horley...
+
+0xF8F5238E = ~z~and get on down here.
+
+0xF86FC0BE = ~z~Kitchens need staff.
+
+0xF96A8038 = ~z~and you, you'll do.
+
+0xF123BC8E = ~z~All I ask of you is your help...
+
+0xF146C211 = ~z~and we move out.
+
+0xF241BF97 = ~z~well, not perhaps exactly innocent...
+
+0xF595B2F6 = ~z~sort of.
+
+0xF702B17F = ~z~but by another gun.
+
+0xF822AE3B = ~z~I think we all understand each other.
+
+0xF983B21D = ~z~I don't care what your scruples are as to killing.
+
+0xF3797A1E = ~z~We weren't saying nothing.
+
+0xF9397FB6 = ~z~Hello.
+
+0xF67945C2 = ~z~Then serve us both a little refreshment.
+
+0xFA92B449 = ~z~Don't do anything stupid, nobody gets shot.
+
+0xFAAC40A7 = ~z~By the way, I heard you might wanna earn a little money.
+
+0xFB93523E = ~z~and that you were set up by one of three men, or a woman...
+
+0xFC96E042 = ~z~~sl:0.0:3.3~Rounding you folks up... and those sham trials?~sl:0.3~~rp~They were a disgrace.
+
+0xFC65315F = ~z~Whoa...
+
+0xFD4DAD27 = ~z~Now! Please.
+
+0xFD26BF00 = ~z~A catalogue.
+
+0xFD72D989 = ~z~Here's fifty each...
+
+0xFDC6459F = ~z~Just came into this armpit from a land more civilized.
+
+0xFDF0C094 = ~z~And if things work out, well...
+
+0xFFEA6369 = ~z~It's not worth being rash.
+

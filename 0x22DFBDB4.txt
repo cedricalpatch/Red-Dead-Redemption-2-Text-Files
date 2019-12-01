@@ -1,0 +1,64 @@
+0x00BC962A = Safe and secure, receive mail and collect Catalogue orders at your Camp's own lockbox.
+
+0x1C6E1AD5 = Lower
+
+0x1C722DA4 = White Flag
+
+0x1D9C10FE = Heal Cripps ~1$~
+
+0x1F0CD0C2 = You are no longer a member of this Camp's Posse.
+
+0x1FDB0DE9 = Add To Log
+
+0x8F56ABC3 = Stew Quality: Base
+
+0x9A0AE8F1 = STEW POT
+
+0x9DE29EDF = A high quality stew
+
+0x9E49EB80 = Your Camp has been moved to another location.
+
+0x52D25324 = Stew Quality: Cripps' Special
+
+0x309EA5C2 = Cripps is healed ~1$~
+
+0x604D251A = ~1p~ has forced your Camp's theme. Your own tent's theme has been unequipped.
+
+0x1438CFAD = This recipe is available in the stew pot
+
+0x21191A4A = A superior quality stew
+
+0x39107C60 = Wardrobe
+
+0x551618AA = Stew Quality: Superior
+
+0x619068E1 = Stew Quality: High
+
+0x8213594B = Stew Quality: Low
+
+0xA9731EAF = A low quality stew
+
+0xA2232724 = Wilderness Outfitters has closed down due to activity at the Camp.
+
+0xA4795759 = A better quality stew is already available
+
+0xB2DF3C0A = Cripps' Special will change every 3 days
+
+0xBFE437E5 = Resting at Camp will replenish your Cores at an increased rate. The better your tent, the faster the recharge rate.
+
+0xD00762CA = Stew Quality: Medium
+
+0xD5F24DAD = Your Posse has been disbanded.
+
+0xD67C6AA0 = Campfire
+
+0xDA53D936 = Stew Pot effects have been postponed. You will continue to benefit from the Stew Pot after returning to Free Roam.
+
+0xDD3EE955 = Recipes
+
+0xE99014D8 = Raise
+
+0xEBE21166 = Make Stew
+
+0xF29AE29F = A medium quality stew
+

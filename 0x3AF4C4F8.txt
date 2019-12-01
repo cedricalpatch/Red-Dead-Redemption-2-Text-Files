@@ -1,0 +1,50 @@
+0x0132023A = Supplies delivered
+
+0x1A0BA249 = You triggered a rival mission against ~1~. Destroy the supplies ~2b~ to gain the full reward.
+
+0x5C6E7991 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~oil~s~ on the way to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x6E6D9F34 = Take the supplies ~1b~ to the drop off within the time limit to earn the full reward.
+
+0x8E9AC141 = Defend the~COLOR_MP_OBJECTIVE_FRIENDLY~logs~s~ on the way to the ~COLOR_MP_OBJECTIVE~destination~s~
+
+0x9B855E32 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0x42F12964 = ~COLOR_ENEMY~~1~~s~ is attacking the supplies
+
+0x47D43C12 = Supplies destroyed by rival Posse
+
+0x72EF962D = The supplies ~1b~ in the back of the wagon can be destroyed by shooting them or using explosives.
+
+0x82A15EE6 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x955C4189 = You have destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x3045B8AC = Supplies destroyed
+
+0x4911C01D = ~1~ triggered a rival mission against ~2~. Destroy the supplies ~3b~ to gain the full reward.
+
+0x49796FFA = Supplies destroyed
+
+0x43097379 = ~COLOR_ENEMY~Rival players~s~ can attack the supplies
+
+0xA5A791C4 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies~s~
+
+0xA28A3CB6 = Get in the ~COLOR_MP_OBJECTIVE_NEUTRAL~supply wagon~s~
+
+0xA329106D = ~1~ has destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xAF0A9EAE = Supplies destroyed
+
+0xB00C0FAD = Deliver the supplies
+
+0xC1BAEB6F = Pick up the shipment of ~COLOR_MP_OBJECTIVE_NEUTRAL~logs~s~
+
+0xDD960CD8 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way ~1~
+
+0xF66735C7 = Deliver the supplies ~1~
+
+0xFDF1B31C = Pick up the shipment of ~COLOR_MP_OBJECTIVE_NEUTRAL~oil~s~
+
+0xFE31E149 = Supplies delivered
+

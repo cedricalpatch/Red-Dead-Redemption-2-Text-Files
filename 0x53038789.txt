@@ -1,0 +1,34 @@
+0x00584D6E = ~z~~sl:0.0:1.0~Well...~sl:0.5~Javier knows what we saw and it weren't pretty.
+
+0x0D0966D0 = ~z~~sl:0.0:1.2~Ask Micah.~sl:~Although, he encouraged it.
+
+0x6F625A46 = ~z~Maybe I should learn my lesson?
+
+0x9C583431 = ~z~~sl:0.0:1.4~My Lord.~sl:0.2~Been quite a ride since Blackwater.
+
+0x9EDE0A7B = ~z~~sl:0.0:1.4~I just hope Dutch was right when he~sl:0.9~said that we had to do it to survive.
+
+0x43D6D46A = ~z~~sl:1.5:1.0~I love Dutch.~sl:0.9~Y'all know that, but...
+
+0x45B106E4 = ~z~nearly got eaten by a pack of wolves.
+
+0x204F3C21 = ~z~Just... hope Dutch has learned his.
+
+0x880C0B99 = ~z~Since that thing on the boat?
+
+0x5542A607 = ~z~Got my wings clipped there, then...
+
+0xA390C2A2 = ~z~Still trying to forget.
+
+0xB9C5EF0C = ~z~~sl:0.0:1.3~You boys know all about that.~sl:0.3~At least, you know enough.
+
+0xC51856EF = ~z~Weren't pretty at all.
+
+0xDBD58469 = ~z~~sl:0.0:1.3~we're bad men,~sl:~we're fighters. I know. But...
+
+0xE9271F00 = ~z~~sl:0.0:1.1~Sometimes...~sl:0.2~you just gotta do really bad things, I guess.
+
+0xEACA5134 = ~z~How you boys keeping?
+
+0xF695B9E9 = ~z~Sometimes I start thinking about that girl.
+

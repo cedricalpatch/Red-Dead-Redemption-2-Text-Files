@@ -1,0 +1,362 @@
+0x00B465B8 = ~z~Well, if we step foot in Blackwater...
+
+0x01154185 = ~z~Finish him, Tommy!
+
+0x01E399C5 = ~z~Hey hey hey, there he is.
+
+0x051D7535 = ~z~Please, I beg you.
+
+0x05CF7052 = ~z~but there's talk of them moving.
+
+0x064665A8 = ~z~Well, well...
+
+0x077F79C5 = ~z~I beg you.
+
+0x09EF4F12 = ~z~You're kidding me?
+
+0x0BEF7655 = ~z~Hey, come on. Stop that.
+
+0x0D6B99FE = ~z~if he's alive we gotta try.
+
+0x0E109D6D = ~z~Who are you fools, huh?
+
+0x0ECD085C = ~z~Come, sir.
+
+0x0F9D1A96 = ~z~Let's go, Arthur!
+
+0x0F9DB539 = ~z~
+
+0x1A05FA58 = ~z~Try that again.
+
+0x1A4B25E0 = ~z~Stop playing with him, Arthur.
+
+0x1A701FA7 = ~z~You show him, Tommy!
+
+0x1BA82217 = ~z~Put his face in the mud!
+
+0x1C233992 = ~z~Stop dancing around and fight!
+
+0x1EC7C042 = ~z~Show him how we do it in Valentine!
+
+0x1FD30E55 = ~z~No more trouble from you now, you hear?
+
+0x2A429A3A = ~z~How much you cost, anyway?
+
+0x2D6AB740 = ~z~Oh come on, we can handle these fools!
+
+0x2EEDB381 = ~z~You forget how to punch, Arthur?
+
+0x3ABB0B73 = ~z~Come here, you.
+
+0x3C6E3E91 = ~z~Whatever you say.
+
+0x3D3CB904 = ~t~In Spanish: Motherfucker!
+
+0x3D34652A = ~z~You won the fight already, surely that's enough?
+
+0x3DB8ECBB = ~z~Come on, Arthur, we got drinks waiting.
+
+0x4A6E3272 = ~z~Yeah, I got this son of a bitch.
+
+0x4C4C9B4B = ~z~Kill him, Tommy!
+
+0x4E81F61E = ~z~Making new friends again I see, Arthur.
+
+0x5B940CCD = ~z~What are you doing, Arthur?
+
+0x5FB4E654 = ~z~Alright, boys, that's enough!
+
+0x5FCECC0B = ~z~What the hell is going on down here?
+
+0x6ABAAF27 = ~z~You're right, we ain't too popular in Blackwater.
+
+0x6BF7EDEC = ~z~
+
+0x6E013670 = ~z~You're not very popular there it seems.
+
+0x7B634E2A = ~z~Exactly, yes he's a pussy... cat.
+
+0x7BAEDCD1 = ~z~Yeah!
+
+0x7D07E564 = ~z~I said this'd be fun, didn't I?
+
+0x7EBA988E = ~z~I'll crack your damn skull open.
+
+0x8AC47921 = ~z~Come on, hit me!
+
+0x8D51B5BC = ~z~What you scared of, huh?
+
+0x8F10F88F = ~z~I've missed you...
+
+0x8FEFA2C0 = ~z~Take it easy, huh? Huh?
+
+0x10BC78E6 = ~z~come here, come here, come over here.
+
+0x18B2EC99 = ~z~Pretty boy?
+
+0x27FC719C = ~z~~sl:0.8~Come on.
+
+0x32E9612E = ~z~Don't go easy on him!
+
+0x34A67B9A = ~z~Stay out of this, Mr. Downes.
+
+0x37EF0AF8 = ~z~You won't be so pretty when I'm done.
+
+0x43FBC682 = ~z~Get the hell off me!
+
+0x46FEADFE = ~z~Go on, Tommy!
+
+0x54D98783 = ~z~Arthur, give Javier a hand over there!
+
+0x58FC0BAA = ~z~We left a lot of money there.
+
+0x60E61C3A = ~z~Ah Javier and Charles.
+
+0x61A2C627 = ~z~
+
+0x61AF212E = ~z~Javier could use some help, Morgan!
+
+0x69A2AAA9 = ~z~Well ain't you just the tough as teak mountain man?
+
+0x71D76358 = ~z~Well, what about me?
+
+0x74A776B7 = ~z~Pleased to meet you.
+
+0x86A76700 = ~z~and Bill looking as well as can be.
+
+0x86CED351 = ~z~Oh, I didn't know I was talking to a lady.
+
+0x86E4EB99 = ~z~We can deal with these fellers! Go get Javier!
+
+0x93FF4317 = ~z~You're going down in the mud.
+
+0x94E0D0AB = ~z~Come on, fellers, take it easy, please?
+
+0x97F388EC = ~z~I thought you'd gone to New York.
+
+0x104B5630 = ~z~Oh, man, I dread to think about it.
+
+0x208CAC6F = ~z~Kill that peabrain, Morgan!
+
+0x215FBE1B = ~z~You've got this one, Arthur!
+
+0x280EC167 = ~z~Come on, Arthur, he's a moron.
+
+0x370C9EC9 = ~z~~sl:0.0:0.9~Hey!~sl:0.4~Alright, there we go.
+
+0x386E73C3 = ~z~Take it easy, pal.
+
+0x402C1DEE = ~z~You okay there, Arthur?
+
+0x425D9224 = ~z~~sl:0.0:0.9~Oh, Arthur.~sl:0.1:1.1~Arthur, come here, come here.~sl:~Come over here, I want you to meet our friends.
+
+0x464C27B2 = ~z~Come on, let's see it.
+
+0x528AA7C7 = ~z~Don't take that from him!
+
+0x559B62C2 = ~z~Get the hell off me!
+
+0x575D9A10 = ~z~Put that ape down, come on!
+
+0x617F08B6 = ~z~Yeah, a regular dandy and charmer.
+
+0x808DE68F = ~z~We got a wild one here.
+
+0x940A0C61 = ~z~He's being held by some bounty hunters...
+
+0x954E409C = ~z~He about to kiss that guy or punch him?
+
+0x979A414A = ~z~No, Tommy, stay outta this!
+
+0x2115ACED = ~z~No business.
+
+0x4139B323 = ~z~
+
+0x4771C66F = ~z~I'll kill you, you son of a bitch!
+
+0x5684AFEF = ~z~Hey! Watch where you're going!
+
+0x6022A493 = ~z~Sean?
+
+0x6929ED6D = ~z~Come on, I ain't even started.
+
+0x7348AC49 = ~z~you got a fine way with the women, amigo.
+
+0x7369AC87 = ~z~Excuse me.
+
+0x7475C29D = ~z~Gentlemen, always a pleasure.
+
+0x44712C72 = ~z~Stop being a killjoy, Downes.
+
+0x55728D8D = ~z~Hey, tough guy!
+
+0x57054E0B = ~z~Yeah, you got him now!
+
+0x74468F77 = ~z~Just break it up, please?
+
+0x83071C0E = ~z~Oh, and we have our answer.
+
+0x87748E92 = ~z~Well exactly, what about you?
+
+0x94240BE8 = ~z~You wanna fight or not?
+
+0x396899BC = ~z~Come on, you're gonna wreck the joint!
+
+0x503005D4 = ~z~~sl:0.0:1.5:1~Drink up, ladies.
+
+0x619808E4 = ~z~Well, I must say...
+
+0x695372A7 = ~z~Knock his head off!
+
+0x863963D6 = ~z~anyone can tell this one is a pussy cat.
+
+0x992577FE = ~z~Well ain't that a nice way to talk to a lady?
+
+0x49027751 = ~z~Muy bien.
+
+0x84587371 = ~z~What business is it of yours?
+
+0xA0B098C8 = ~z~Arthur!
+
+0xA3FFE318 = ~z~I hope you got more than that.
+
+0xA7C215CE = ~z~You're making a real fool of yourself.
+
+0xA8F7983D = ~z~You can't be the best this town has.
+
+0xA248A8DE = ~z~trying to see how much money the government will pay them.
+
+0xA2981C93 = ~z~Arthur, come here...
+
+0xA690740A = ~z~Just go easy on the tables!
+
+0xA6633066 = ~z~Is that all you got?
+
+0xAC4D93D0 = ~z~Pretty boy?
+
+0xAD173191 = ~z~Pleased to meet you.
+
+0xAEF4C236 = ~z~You've found him?
+
+0xAF869D96 = ~z~Get off me!
+
+0xB4D142BB = ~z~How are you?
+
+0xB8C2F12E = ~z~Charles, go find out what you can, carefully.
+
+0xB30FBF38 = ~z~You must be joking.
+
+0xB682B353 = ~z~You're even slower than you look.
+
+0xB112286E = ~z~Come on then, big boy.
+
+0xB505486B = ~z~You want some too, huh?
+
+0xBB0C1D01 = ~z~I'm trying to run a business here, boys!
+
+0xBB7C79D9 = ~z~
+
+0xBBA8A6E0 = ~z~Ain't there no men in this saloon?
+
+0xBD33D36C = ~z~And miss all this glamour?
+
+0xBD49391B = ~z~Get away!
+
+0xBDC455F5 = ~z~I went to Blackwater looking for you gentlemen.
+
+0xBE4AFCAE = ~z~W-What does that mean?
+
+0xBEE0D524 = ~z~I want you to, uh, to meet our friends.
+
+0xBFB02649 = ~z~Someone's paying for the damage!
+
+0xC2DC0E38 = ~z~Morgan, get in here and fight!
+
+0xC3FEE116 = ~z~Well.
+
+0xC48BA7A4 = ~z~Come on, Arthur, hit someone!
+
+0xC49BED84 = ~z~Yes, I have.
+
+0xC8266AB9 = ~z~Quite well indeed.
+
+0xCA11537E = ~z~Come on, Tommy!
+
+0xCD5EF46E = ~z~And young Sean it seems.
+
+0xCE3BED51 = ~z~
+
+0xCE6A1C7C = ~z~Josiah, take Javier.
+
+0xCE7B4C85 = ~z~You tell me to take it easy?
+
+0xCEBF81CF = ~z~well, then we're dead men for sure.
+
+0xCEE4752B = ~z~Oh, you be quiet, Anastasia...
+
+0xCFC5E542 = ~z~Where's Bill?
+
+0xD1A9ABD3 = ~z~You just gonna watch, Morgan?
+
+0xD1A84A39 = ~z~Oh, please stop!
+
+0xD1C222AC = ~z~Always is.
+
+0xD3E227DC = ~z~Ah, Bill.
+
+0xD6D618A7 = ~z~Stop.
+
+0xD7BD9A42 = ~z~No business, sir. But, please...
+
+0xD3970C7C = ~z~Come on, Charles.
+
+0xD2424311 = ~z~Are you joining us, Arthur?
+
+0xDBA893BD = ~z~Let's just shoot these bastards!
+
+0xDD917657 = ~z~Come on, pretty boy...
+
+0xDED08E7A = ~z~~sl:0.0:1.7~Ya hit like a girl.~sl:1.0:1.1:1~Ya bum.
+
+0xE1DAA903 = ~z~Another round.
+
+0xE12F1B7A = ~z~Look who we found sniffing about.
+
+0xE409AC63 = ~z~There'll be Pinkertons all over the place, but...
+
+0xE466EFB6 = ~z~Come on, calm down, please!
+
+0xE5394A8A = ~z~Come on.
+
+0xE343462E = ~z~Arthur, go get yourself cleaned up.
+
+0xED0F2AF7 = ~z~
+
+0xED510A2C = ~z~I'll beat this whole town if I have to.
+
+0xEF905E48 = ~z~It's you they want, Dutch.
+
+0xF077A73C = ~z~You must be the village idiot, huh?
+
+0xF1ECBCF5 = ~z~Josiah Trelawny.
+
+0xF3A3C063 = ~z~The very same.
+
+0xF6AA2CAF = ~z~Go on, kick his teeth in!
+
+0xF7C670D9 = ~t~In Spanish: I'm going to smash your face, bastard!
+
+0xF16CE281 = ~z~Join them when you're ready.
+
+0xF47ED3F8 = ~z~Stop! Stop! Please!
+
+0xF910DCF1 = ~z~Smash his face, Tommy!
+
+0xF3922CDA = ~z~Ain't that so, Arthur?
+
+0xF9244321 = ~z~Come here, you little greaser.
+
+0xFC0A5CC8 = ~z~I know he's in Blackwater...
+
+0xFF36FD95 = ~z~Yeah, of course.
+

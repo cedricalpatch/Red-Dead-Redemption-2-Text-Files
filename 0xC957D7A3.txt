@@ -1,0 +1,18 @@
+0x9AA72DD4 = SKIP INTRO
+
+0x9E2E8FC6 = Are you sure you want to use this character in Red Dead Online?
+
+0x63E3D441 = Gender
+
+0x395DAE90 = CONFIRM
+
+0x775A5B53 = Are you sure you want to exit to the character selection screen?
+
+0xA842E298 = Character
+
+0xAD6A4642 = Are you sure you want to exit to Free Roam? All changes will be discarded and you will not be charged.
+
+0xC62FA146 = Are you sure you want to exit to the main menu?
+
+0xE627EA18 = The Intro has already been completed on this account. Do you wish to skip the Intro now?
+

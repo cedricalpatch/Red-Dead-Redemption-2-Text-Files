@@ -1,0 +1,404 @@
+0x000C1549 = ~z~And this feller?
+
+0x00B994EF = ~z~But like I always say...
+
+0x019F1893 = ~z~It's mighty bad business.
+
+0x04B99B60 = ~z~They're on the run.
+
+0x04EC7DCE = ~z~The sheriff at Blackwater, he needs help.
+
+0x064BABFB = ~z~bad souls, some of them go good...
+
+0x06841A95 = ~z~Hello, Mr. Jones.
+
+0x07E4251D = ~z~LeClerk was a good man, a-a fine man.
+
+0x09ED9969 = ~z~Oh, oh, and remember...
+
+0x0A0424E2 = ~z~There you are.
+
+0x0A6F8B14 = ~z~Oh, Jones has cooked himself in the sun.
+
+0x0C243CE0 = ~z~Oh, there ain't no luck, Mr. Jones.
+
+0x0E354102 = ~z~don't you and the madam kill the boy with vengeance.
+
+0x0FF29E83 = ~z~I'll see you soon.
+
+0x1C26AD36 = ~z~Blackwater sheriff, he's at Pike's Basin.
+
+0x1DC73A2C = ~z~or maybe all three.
+
+0x1F0EC3AB = ~z~For now.
+
+0x1FCCE431 = ~z~But, but...
+
+0x2C976C43 = ~z~It's mighty bad business.
+
+0x2DD793C6 = ~z~Proved a point.
+
+0x2EFBE265 = ~z~till she comes a calling in her favors.
+
+0x3A85895E = ~z~World always needs good men...
+
+0x3B0BF819 = ~z~and death, and hell warmed up.
+
+0x3B160F0B = ~z~Yeah.
+
+0x3C01EBF8 = ~z~first go see the sheriffs and see what work is afoot?
+
+0x3C5F775C = ~z~Or you'll kill him I guess...
+
+0x3CA28E9D = ~z~You was always a strange one, Horley.
+
+0x3CA93169 = ~z~Showed the world how awful it is, ay?
+
+0x3DA51EF9 = ~z~a fine one.
+
+0x4A7AB8A4 = ~z~Send him to help out the Marshal.
+
+0x4A49132F = ~z~You'll like him, or you'll relate to him.
+
+0x4AD42B00 = ~z~How is Mrs. LeClerk?
+
+0x4DD0AC7E = ~z~She got on just fine.
+
+0x4EECB0F1 = ~z~LeClerk was a good man, a-a fine man.
+
+0x5BFC48D5 = ~z~You know she did.
+
+0x5BFFC58F = ~z~Maybe there ain't no kindness neither.
+
+0x5CC7CD0A = ~z~Nor kill her inside with grief.
+
+0x5FC7DEF2 = ~z~and finds it easier to birth the bad ones.
+
+0x6A78C9DD = ~z~Tumbleweed sheriff's at the Tumbleweed jail and the...
+
+0x6A366549 = ~z~Well, I know she did.
+
+0x6B446ADB = ~z~Course...
+
+0x6BFB6586 = ~z~Is that a she-devil?
+
+0x6C694CC6 = ~z~that was the marshal.
+
+0x6DDF8055 = ~z~Well, she's got a fine one, a goodun.
+
+0x7C8C8510 = ~z~Maybe.
+
+0x7E4180F3 = ~z~Guess the question is...
+
+0x7EE091E4 = ~z~greed and...
+
+0x8A85A5EB = ~z~How'd you get on?
+
+0x8A960B5F = ~z~There's fellers need help.
+
+0x8C9F9B7F = ~z~We've all got gifts, Mr. Jones...
+
+0x8C388D5C = ~z~the Painted Sky Ranch.
+
+0x8C572D00 = ~z~go see Marshal Davies.
+
+0x8DA8342E = ~z~A fine gal in a nasty world.
+
+0x8E84B083 = ~z~Whole damn place is going to shit...
+
+0x9A3E2E3C = ~z~Maybe there ain't no devil, and no kindness neither.
+
+0x9A53AE2B = ~z~Is that a bad man? Is it the devil?
+
+0x9A7429D3 = ~z~A feller from Valentine, he's at, uh...
+
+0x9AE029B3 = ~z~Not the feller that arrested ya...
+
+0x9B53BC37 = ~z~Well you got one...
+
+0x9B156E40 = ~z~Made some enemies.
+
+0x9BFED0DB = ~z~but she's a goodun.
+
+0x9CC2AFB8 = ~z~Maybe.
+
+0x9DC74E91 = ~z~That he was.
+
+0x9EF0D6D7 = ~z~Oh, the madam picked well.
+
+0x9FBD450A = ~z~This is all descending into philosophy.
+
+0x11CA38C5 = ~z~That he was.
+
+0x20A460AC = ~z~The world can always use more good souls...
+
+0x21EC6788 = ~z~Whole damn place is going to shit...
+
+0x26D74730 = ~z~Well, well, well...
+
+0x28AB5EE3 = ~z~Is that a kind woman? Is that a good woman?
+
+0x32C8731D = ~z~Is that a bad woman?
+
+0x34B3FDA4 = ~z~and gentleness, and, and evil...
+
+0x39AB06D1 = ~z~But, but...
+
+0x41CB16AE = ~z~About as you'd expect.
+
+0x42FB2A8D = ~z~Like you said, he's no saint.
+
+0x45FF00EA = ~z~Maybe that'll show us what kinda feller this is.
+
+0x56AAC634 = ~z~but he's a goodun.
+
+0x60C6B679 = ~z~There's a couple of other sheriffs that need help.
+
+0x64BD0190 = ~z~There you are.
+
+0x64D56289 = ~z~He ain't no saint...
+
+0x64F3DBBB = ~z~But...
+
+0x67B7D170 = ~z~none at all!
+
+0x68BC760F = ~z~This gal will do more than avenge her...
+
+0x72D667AD = ~z~I make no judgements as to anyone's character, Mr. Jones.
+
+0x76D501FC = ~z~He's supposed to stop every bastard killing innocent folk.
+
+0x77B4A77F = ~z~How'd you get on?
+
+0x89CCA128 = ~z~And maybe there ain't no she-devil.
+
+0x89FD07ED = ~z~Poor bastard is overrun and...
+
+0x95DABECC = ~z~How is Mrs. LeClerk?
+
+0x99E2B605 = ~z~I have no character...
+
+0x168C4C7C = ~z~it's the nature of the thing that some souls go bad and...
+
+0x189CBEC6 = ~z~I said who is that?
+
+0x218D4788 = ~z~She says you must fend for yourself...
+
+0x222AD8A9 = ~z~it's the nature of the thing that good men go bad and...
+
+0x332A05B7 = ~z~but the Marshall will see you right on that.
+
+0x461B026A = ~z~Maybe this gal can help 'em?
+
+0x495BAB96 = ~z~An American I guess!
+
+0x548EAEAE = ~z~I wanted a man of action.
+
+0x576ED374 = ~z~with any luck, she'll save us all.
+
+0x600B3EB3 = ~z~Go see a feller named Samson Finch.
+
+0x677CE274 = ~z~don't you and the madam kill the girl with vengeance.
+
+0x692A6788 = ~z~Well, that's their business.
+
+0x787F01DE = ~z~You see it in the sky, you smell it in the air.
+
+0x847A9C6F = ~z~and we need more good souls...
+
+0x886AC8EB = ~z~Made some money?
+
+0x909C355B = ~z~stupidity.
+
+0x982C4138 = ~z~He got on just fine.
+
+0x989CC55C = ~z~Oh... Mr. Jones is stupid.
+
+0x1295B718 = ~z~what they do hereafter.
+
+0x1511A3A5 = ~z~Who's that Horley?
+
+0x1859A6E8 = ~z~I know, I know.
+
+0x2837C464 = ~z~Well, maybe they could...
+
+0x6548DDA9 = ~z~You was always a strange one, Horley.
+
+0x6661E21B = ~z~I expect a lot.
+
+0x7138F445 = ~z~money for them as is not so good.
+
+0x7798E41D = ~z~Go and pay 'em all a call.
+
+0x9288A981 = ~z~is it desirable?
+
+0x9998C504 = ~z~Well, they certainly need money.
+
+0x12603DA0 = ~z~A fine man in a nasty world.
+
+0x29085E09 = ~z~Go and pay 'em all a call.
+
+0x51735AFD = ~z~Horley, you picked a fine one if your game is vengeance...
+
+0x53873A89 = ~z~Maybe.
+
+0x56613A52 = ~z~Maybe it's all of them at once.
+
+0x63695C06 = ~z~Well, well, well...
+
+0x73448A37 = ~z~to let us loons rant in peace and howl at the moon in safety.
+
+0x74097B2A = ~z~I expect a lot.
+
+0x88890A96 = ~z~Maybe it's all of them at once.
+
+0x564741E6 = ~z~About as you'd expect.
+
+0x796385CA = ~z~Well, that's their business.
+
+0x802124D8 = ~z~It's just a man's heart, and not much else.
+
+0x2047527B = ~z~My business is...
+
+0x6768727F = ~z~Well, he's got a goodun...
+
+0x22955967 = ~z~The world's business is kindness...
+
+0x40938328 = ~z~Not even yours.
+
+0x66896091 = ~z~Send her to help the Marshal.
+
+0xA0CCC609 = ~z~redemption is possible.
+
+0xA7EC61AB = ~z~That's my business.
+
+0xA75C42AB = ~z~well, for now at least?
+
+0xA5696E80 = ~z~and we need more good fellers...
+
+0xAA554ADD = ~z~They're, uh...
+
+0xAAA5E84E = ~z~Oh, that's the world's business.
+
+0xAB3F6275 = ~z~That's what I reckon.
+
+0xACC2727A = ~z~Horley...
+
+0xACCA6DB7 = ~z~Oh, Jones is old.
+
+0xACF2DC25 = ~z~as determines what we are.
+
+0xAEDFD2AA = ~z~and he don't want old Jones.
+
+0xAFFB6466 = ~z~If you search for it.
+
+0xB07AE685 = ~z~I wanted a woman of action.
+
+0xB6DB7E96 = ~z~You know he did.
+
+0xB7BA0162 = ~z~Money for them is as good and...
+
+0xB62AE048 = ~z~The police chief, he's a decent enough feller for all we know.
+
+0xB62F7FD8 = ~z~to let us loons rant in peace and howl at the moon in safety.
+
+0xB85E66EF = ~z~They're, uh...
+
+0xBDF91030 = ~z~and, and brutality.
+
+0xBE5D7EFA = ~z~Just a gift.
+
+0xBEE290E3 = ~z~And this gal?
+
+0xBF3322F7 = ~z~Nor kill him inside with grief.
+
+0xBFB893C2 = ~z~but the Marshall will see you right on that.
+
+0xC0BC03B7 = ~z~Sure, but it's how we use 'em...
+
+0xC4C91A71 = ~z~Well, I know he did.
+
+0xC17A8884 = ~z~Well...
+
+0xCC4E9D0C = ~z~I have no updates from my mistress.
+
+0xCFAE98E0 = ~z~Hello, Mr. Jones.
+
+0xD048B4CF = ~z~What else is there, mister?
+
+0xD2CD1A84 = ~z~Maybe all that'll show what kinda woman this is.
+
+0xD4C2CD2E = ~z~Oh, there ain't no luck, Mr. Jones.
+
+0xD4FEBE4E = ~z~bad men, some of them go good...
+
+0xD5B99F69 = ~z~I reckon...
+
+0xD45D2E49 = ~z~goodbye.
+
+0xDA854883 = ~z~Like you said, she's no saint.
+
+0xDF98B567 = ~z~Maybe this feller can help 'em?
+
+0xDFD7CBA9 = ~z~I guess we will see.
+
+0xE5B05D4E = ~z~There's always money.
+
+0xE5F7517D = ~z~a bad one.
+
+0xE7E45437 = ~z~And that, I can't answer.
+
+0xE14D3C1D = ~z~Who's that bad man?
+
+0xE17A37DE = ~z~he's at Pike's Basin.
+
+0xE31E69E5 = ~z~It's just a man's heart, and not much else.
+
+0xE43C8091 = ~z~and death, and hell warmed up.
+
+0xE64D4ED9 = ~z~This is all descending into philosophy.
+
+0xE131D6B4 = ~z~stay somewhat outta trouble...
+
+0xE346DACB = ~z~Oh, there's a whole lot else besides.
+
+0xE32853DE = ~z~Who's that Horley?
+
+0xED4E50D2 = ~z~Maybe.
+
+0xED626852 = ~z~Who's that bad woman?
+
+0xEEEC7229 = ~z~if you need to earn some money and...
+
+0xF02A8405 = ~z~this feller will do more than avenge her.
+
+0xF1A56F44 = ~z~Meet me back here after you've seen them.
+
+0xF4A97D90 = ~z~Like lust and...
+
+0xF6FCF268 = ~z~Goodbye, Mr. Jones.
+
+0xF8D0F730 = ~z~Well, good at action and hang the consequences.
+
+0xF12E5652 = ~z~We might as well try.
+
+0xF21DDDBE = ~z~Is that a kind man? Is that a good man?
+
+0xF42F013E = ~z~She ain't no saint...
+
+0xF96B872B = ~z~Course...
+
+0xF514FC17 = ~z~That ain't my business.
+
+0xF792273C = ~z~I make no judgements as to a man's character, Mr. Jones.
+
+0xFA579947 = ~z~Maybe.
+
+0xFBCFF122 = ~z~I said who is that?
+
+0xFCC26FBA = ~z~Get yourself something to eat.
+
+0xFE6D208A = ~z~With any luck, he'll save us all.
+
+0xFE2200B2 = ~z~But I guess you gotta make yourself a living.
+

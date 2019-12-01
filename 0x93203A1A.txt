@@ -1,0 +1,64 @@
+0x023E12E7 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+
+0x06505957 = Cause damage in the ~COLOR_MP_OBJECTIVE~area~s~ to lure in the targets
+
+0x06C28B2A = The targets escaped
+
+0x1E30E568 = The target was delivered
+
+0x3A91A379 = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0x3D3930D4 = A target was killed
+
+0x3DEE858A = Lure the targets to your position by causing damage in the ~COLOR_MP_OBJECTIVE~area~s~. Killing will draw their attention quicker but will affect your honor.
+
+0x6C7DA8E6 = ~1~/~2~ targets were delivered
+
+0x7EC8C10D = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ from ~COLOR_ENEMY~~1~
+
+0x9B0E54D4 = Lure in and capture the target
+
+0x17BD8488 = Drop the target
+
+0x23A7B03E = The targets were delivered
+
+0x34D00BAB = Deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0x917A540B = The target is hiding out near the ~COLOR_MP_OBJECTIVE~area~s~ ~1b~. Deliver the target alive for the full reward. Dead targets are worth less.
+
+0x4668CA09 = Cause damage in the ~COLOR_MP_OBJECTIVE~area~s~ to lure in the target
+
+0x5898B78C = Go ~1~
+
+0x6010F5BA = A ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~ is getting away. Targets that get too far from you will escape and their bounty may no longer be collected.
+
+0x38832DC4 = Lure in and capture the targets
+
+0x78746E8D = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~target~s~ ~1~
+
+0x403589A3 = The targets are hiding out near the ~COLOR_MP_OBJECTIVE~area~s~ ~1b~. Deliver the targets alive for the full reward. Dead targets are worth less.
+
+0x7349804D = You killed a target
+
+0x47612245 = The ~COLOR_ENEMY~target~s~ has arrived
+
+0xAB8F5526 = Killing innocent civilians and animals will cause you to lose honor.
+
+0xC8D085A3 = The ~COLOR_ENEMY~targets~s~ have arrived
+
+0xCBEF04A5 = Kill or capture the ~COLOR_ENEMY~targets~s~
+
+0xD0ADB714 = Lure the target to your position by causing damage in the ~COLOR_MP_OBJECTIVE~area~s~. Killing will draw their attention quicker but will affect your honor.
+
+0xD9E2B910 = Kill or capture the ~COLOR_ENEMY~target~s~
+
+0xE0605F35 = The target escaped
+
+0xE8D070BB = A ~COLOR_MP_OBJECTIVE_ENEMY~target~s~ has escaped
+
+0xEF48AC7A = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~targets~s~ ~1~
+
+0xEFD64C57 = Get on the horse
+
+0xFCDCA79B = Pick up a ~COLOR_MP_OBJECTIVE_NEUTRAL~target~s~
+

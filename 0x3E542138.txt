@@ -1,0 +1,24 @@
+0x004BE8CF = ~z~Because... I don't know, it's hard to say, the mud... the swamps...
+
+0x0657F4DF = ~z~and now, I live in a swamp, waiting to get shot for riding with outlaws.
+
+0x23C53999 = ~z~Actually... I'm fine Miss Grimshaw... nothing like good honest labour... back to work.
+
+0x921A8C6A = ~z~Well then, why do you look like a beaten dog?
+
+0xA3BA2FA9 = ~z~I once crossed the equator during a meteor shower,
+
+0xAA5A46C1 = ~z~I never was... it's the mud and the swamps... sometimes it gets to me.
+
+0xB5ED540F = ~z~do you know, I once saw the cape from a fourty foot swell?
+
+0xB837E27C = ~z~Well, I never took you for the self-pitying sort.
+
+0xDCDE21F4 = ~z~Nothing... oh, nothing.
+
+0xE2C92DC2 = ~z~I rode into harbors surrounded by beautiful maidens selling pineapple,
+
+0xEE84C541 = ~z~What's wrong, Mr. Pearson?
+
+0xF33BCEA7 = ~z~and colors, colors so brilliant they'd burn you eyes...
+

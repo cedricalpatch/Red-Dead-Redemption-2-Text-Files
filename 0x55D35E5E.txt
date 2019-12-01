@@ -1,0 +1,44 @@
+0x031F7995 = ~z~Oh, you mean that hired woman that went massacring johns right upstairs? Really spiced things up here!
+
+0x1DECEE52 = ~z~Hey there, friend. Seems you helped us out of a sticky predicament, with, er...
+
+0x3ED0E7DC = ~z~Not in Smithfield's, no sir.
+
+0x5B4F5ECF = ~z~Will you keep it down! I got it hard enough already, alright?
+
+0x5D17D794 = ~z~She posed as a paid woman, took men up, and sliced 'em to ribbons.
+
+0x6A7DFD2C = ~z~Oh, you mean that hired woman that went massacring johns right upstairs? Really spiced things up here!
+
+0x6AE27329 = ~z~You see they hanged that woman what been killing johns around the state.
+
+0x6EFA7015 = ~z~It's really best if we can put this whole bit of nastiness behind us.
+
+0x9C1D55AC = ~z~I heard she was working upstairs.
+
+0x27FC326C = ~z~What predicament, feller?
+
+0x40F71F53 = ~z~Hey there, feller.
+
+0x45F5341B = ~z~Now, thanks for helping and all, but, honestly, the sooner this is behind me, the better...
+
+0x64BD5B9B = ~z~I've... I've lost enough business as it is...
+
+0x77BC0CE4 = ~z~Happy to say those types of women have nothing to do with this establishment, yessir.
+
+0x3002CA40 = ~z~Hey, that's a damn lie! Where'd you hear that? Doesn't matter. It's a lie, anyway.
+
+0x85569CD1 = ~z~You know, that, er, independently spirited woman.
+
+0x672980DA = ~z~What predicament, feller?
+
+0x1781225C = ~z~Now, thanks for helping and all, but, honestly, the sooner this is behind me, the better...
+
+0xB6BD8AEC = ~z~Hey, that's a damn lie! Where'd you hear that? Doesn't matter. It's a lie, anyway.
+
+0xE8C944E9 = ~z~Will you keep it down! I got it hard enough already, alright?
+
+0xE24DAED7 = ~z~I heard she was working upstairs.
+
+0xE87C6E69 = ~z~Not in Smithfield's, no sir.
+

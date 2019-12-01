@@ -1,0 +1,20 @@
+0x0827BB90 = ~z~Sure.
+
+0x9A785614 = ~z~Well, alright... at least you're alive. I'm gonna head back to camp now.
+
+0x37F0D0D9 = ~z~Suit yourself.
+
+0x52C846BD = ~z~You... you wanna come back with me?
+
+0x88B6B291 = ~z~I been busy...
+
+0x293A336C = ~z~Nah. I'll come back in a bit.
+
+0x3564160C = ~z~Well, alright then!
+
+0xAD097B36 = ~z~Hello, Bill.
+
+0xBF481FB3 = ~z~Dutch has been worried about you... sent me out looking.
+
+0xDE635DE9 = ~z~There you are, Arthur.
+

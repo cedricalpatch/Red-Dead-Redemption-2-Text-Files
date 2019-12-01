@@ -1,0 +1,40 @@
+0x0CDCE426 = ~z~What do you think, Arthur?
+
+0x4A4F54DC = ~z~Can I read it... once you're done?
+
+0x5C6C7916 = ~z~I know.
+
+0x6C0B1853 = ~z~Good grief....
+
+0x7E4FBCDC = ~z~about a Scottish Lord and a princess who was raised as a peasant, but whose noble blood shines through...
+
+0x26D38DE5 = ~z~Just don't tell Karen.
+
+0x214A00E1 = ~z~Your secret's safe with me.
+
+0x231C2F03 = ~z~Do you?
+
+0x3167CB9A = ~z~What you reading?
+
+0x8570F3A7 = ~z~Sometimes.
+
+0x9138E2AE = ~z~I know.  Oh, and this one's particularly... particularly idiotic...
+
+0x37162E6A = ~z~Of course.
+
+0x771456EE = ~z~Yes, and this one is particularly silly... I know you and Karen laugh at me for reading this stuff.
+
+0x68493958 = ~z~Of course we do, but then we read them ourselves.
+
+0xA3748725 = ~z~I don't know... it makes you feel happy, even as it's making you feel sad and driving you mad for being so stupid...
+
+0xB6F6AE29 = ~z~What is it about this nonsense?
+
+0xB15FAD2D = ~z~Anyway...
+
+0xCE30852D = ~z~Aren't all romances silly?
+
+0xDC9921FE = ~z~Oh, some silly romance.
+
+0xFC764359 = ~z~Oh, I don't think too much, I just like hearing you two talk.
+

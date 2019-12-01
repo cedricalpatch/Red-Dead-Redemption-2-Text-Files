@@ -1,0 +1,66 @@
+0x01A30775 = ~z~Ah, thank God.
+
+0x0C544823 = ~z~Yeah... that's better...
+
+0x1D7B27EC = ~z~~sl:0.8~My lucky day! You, not so much.
+
+0x1F7D42AE = ~z~I could really use some help here.
+
+0x2DA6FEE3 = ~z~Know what? I'm done with this. Thanks for nothing.
+
+0x8AF44454 = ~z~Uhm, hey, hello? You got a minute?
+
+0x9B7F0CE8 = ~z~I'd about given up hope of making it back today.
+
+0x9E99AD4B = ~z~You're a good sport, just not enough on you for my tastes...
+
+0x19E7EFF5 = ~z~It won't take long, come on. You'd be doing me a big favor.
+
+0x69C47999 = ~z~This ain't so hard a situation, is it?
+
+0x92DFF968 = ~z~Think this is a joke? Get down.
+
+0x113D2B32 = ~z~~sl:0.0:4.3~Saw a snake up a ways and shot off, leaving me a bum rear and not much else.~sl:0.3~Think you could gimme a ride?
+
+0x6978A69A = ~z~To your feet now.
+
+0x95352E18 = ~z~Please. I ain't trouble, look at me!
+
+0x299348DE = ~z~So, you're done for instead!
+
+0x6524302D = ~z~Here. As a... thanks or whatnot.
+
+0xB2DD3DDA = ~z~You, uh... you planning on us walking?
+
+0xB5A599B6 = ~z~You over there! C-can you help me out?
+
+0xBE43B2B0 = ~z~Am I glad you came along.
+
+0xBF8487BE = ~z~Hey, uh... I ain't proud of this, but my horse up and bucked me.
+
+0xBFD42A35 = ~z~Goddamn unbelievable...
+
+0xCEA247D1 = ~z~I find that nag, I'll shoot it.
+
+0xD181D27F = ~z~~sl:0.0:1.4~Hey, don't you get any ideas now...~sl:0.0:3.8~Just 'cause I'm riding with you, don't mean you get nothing from me, I ain't offering.~sl:~I ain't that kind of lady.
+
+0xD3184F2A = ~z~Don't worry... all I'm after is your valuables.
+
+0xDAAB47BD = ~z~Figures you wouldn't help...
+
+0xDC5EE34A = ~z~Where the hell even am I?
+
+0xDF2E801A = ~z~Got smoke in my nose, we ain't far now.
+
+0xE3B376E2 = ~z~Anyway. Don't mean I don't appreciate the assistance.
+
+0xE400E859 = ~z~I-I'm trying to get to Annesburg.
+
+0xF6BC225E = ~z~Wait, uh, there ain't room for me.
+
+0xF6FD940D = ~z~I-I'm stuck out here otherwise.
+
+0xFD6790D6 = ~z~Stupid animal. Scared of a little snake.
+
+0xFF97F5A9 = ~z~Hopefully this'll be a smoother ride than the last...
+

@@ -1,0 +1,94 @@
+0x0353D22A = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0x035BDB87 = ~z~An Irishman all and his glory is there,
+
+0x06C4BFD2 = ~z~He loves all that's lovely, loves all that he can;
+
+0x07C6E4A9 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0x1FCEF967 = ~z~He courts and he marries, he drinks and he fights,
+
+0x4A1BDC55 = ~z~He goes to a tent and he spends half a crown
+
+0x5F4C903F = ~z~He there meets his Shelagh who blushing a smile,
+
+0x6C16AD47 = ~z~A neat Barcelona tied neat round his neck,
+
+0x6E600EF7 = ~z~Who e'er had the luck to sing Donnybrook Fair,
+
+0x9F857141 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0x14F8F20C = ~z~An Irishman all and his glory is there,
+
+0x91EDD612 = ~z~For love, all for love, for in that he delights,
+
+0x94BF719B = ~z~He meets with a friend and for love knocks him down,
+
+0x120678DC = ~z~With a Sprig of Shillelagh and Shamrock so green,
+
+0x385938D0 = ~z~A neat Barcelona tied neat round his neck,
+
+0x719634D2 = ~z~Cries "Get ya gone, Pat!" yet consents all the while,
+
+0x749922FE = ~z~His heart is good-humored, 'tis honest and sound,
+
+0x2678150E = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0x6630862D = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0x98520249 = ~z~"How do you do Father Pat?"
+
+0xA07A0900 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0xA32B1B6F = ~z~He meets with a friend and for love knocks him down,
+
+0xAA5CA03D = ~z~He there meets his Shelagh who blushing a smile,
+
+0xAA9FA6E4 = ~z~with your Sprig of Shillelagh and Shamrock so green.
+
+0xAD2C1423 = ~z~For love, all for love, for in that he delights,
+
+0xB541BF9C = ~z~He goes to a tent and he spends half a crown
+
+0xB4679B19 = ~z~No malice or hatrid is there to be found;
+
+0xBB5EB088 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0xC6AE3FA6 = ~z~He courts and he marries, he drinks and he fights,
+
+0xC97DCCC6 = ~z~Oh, love is the soul of a neat Irishman,
+
+0xCFDE5206 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0xD0E776E7 = ~z~His clothes spick and span without 'ere a speck,
+
+0xD5F5FD90 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0xD8F76BB9 = ~z~He loves all that's lovely, loves all that he can;
+
+0xDA0E8939 = ~z~With a Sprig of Shillelagh and Shamrock so green.
+
+0xDF2E1004 = ~z~A fine lady cries to the priest soon they go,
+
+0xDF6706E9 = ~z~With a Sprig of Shillelagh and Shamrock so green,
+
+0xE4DF9542 = ~z~Cries "Get ya gone, Pat!" yet consents all the while,
+
+0xE249F6DD = ~z~His heart is good-humored, 'tis honest and sound,
+
+0xEC4B2DB2 = ~z~His heart soft with whiskey, his head soft with blows,
+
+0xEDA1A34E = ~z~His heart soft with whiskey, his head soft with blows,
+
+0xF19D2B55 = ~z~His clothes spick and span without 'ere a speck,
+
+0xF47EA2C7 = ~z~No malice or hatrid is there to be found;
+
+0xF4721B2D = ~z~Oh, love is the soul of a neat Irishman,
+
+0xF5854026 = ~z~At evening returning as homewards he goes,
+
+0xFCCDB361 = ~z~Who e'er had the luck to sing Donnybrook Fair,
+
+0xFFE047CB = ~z~At evening returning as homewards he goes,
+

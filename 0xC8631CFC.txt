@@ -1,0 +1,46 @@
+0x6D88480F = ~z~Which is more than you are being, senor...
+
+0x8DA510B4 = ~z~They keep saying that a traveler like me deserved some rest and refreshment,
+
+0x18DC6092 = ~z~Yes, I see in your eyes that you're not a bad man.
+
+0x36A7306F = ~z~Well, I've sat long enough. Rest here as long as you need.
+
+0x55F41FC0 = ~z~Guess so.
+
+0x59A8CE4D = ~z~I'll take that as a no...
+
+0x59D52911 = ~z~the feeling in my gut said no. I don't know why but I trusted it.
+
+0x69ACB7FF = ~z~I don't know you.
+
+0x89E57EB1 = ~z~You have a problem with me trusting you?
+
+0x583A5A23 = ~z~Like I was riding through the Heartlands the other day, and cut through someone's land,
+
+0x729B0EE0 = ~z~looked like an old pig farm, when a couple call me over from the house.
+
+0x765ECCDA = ~z~You would think this is fine, que no?
+
+0x994F8732 = ~z~Or else we walk this life alone...
+
+0x78688519 = ~z~You trust me then?
+
+0xA16510B2 = ~z~So I live by my instincts... I'm also real fast with a gun, which helps when the instincts fail me.
+
+0xADF10BA7 = ~z~I don't know you.
+
+0xAFA22D2C = ~z~Then the very next day, a man warns me to stay away from that place.
+
+0xB1BCB80C = ~z~Sometimes we must trust each other, even when we don't know each other.
+
+0xBF7CF463 = ~z~inviting me to stay for dinner... I was tired, and I was hungry but mi corazonada...
+
+0xC7AB63E9 = ~z~for all I know, you are a thief and a killer, but, I rely on my instincts to tell me otherwise.
+
+0xC5471971 = ~z~Okay, you wanna act that way, we'll stay silent.
+
+0xE0656A73 = ~z~Very nice man and woman, very friendly.
+
+0xF4F13C8A = ~z~Guess so.
+

@@ -1,0 +1,2068 @@
+0x002B05AB = ~z~Nature in all its glory... and cruelty...
+
+0x0086C95A = ~z~You're a collector of pelts? I hope only in cases of self-defense.
+
+0x00A2C7A5 = ~z~Perhaps a wildlife photographer needs steadier nerves...
+
+0x00AFBE06 = ~z~all thanks to Arthur.
+
+0x00B87278 = ~z~You are a genius.
+
+0x00E0A2A1 = ~z~Why don't we take this boat out...
+
+0x00EAA065 = ~z~How are you?
+
+0x019A7930 = ~z~~sl:0.7~Fine.
+
+0x01C18F75 = ~z~though I doubt it.
+
+0x01D326BF = ~z~No, this is in the 70's, 80's...
+
+0x01DC4A37 = ~z~I'll be some time... working on the mechanism.
+
+0x02D2DBBA = ~z~I think I might be able to help you.
+
+0x02EE17C2 = ~z~Do they?
+
+0x034D26BA = ~z~Quick, jump in the boat!
+
+0x03BEAC47 = ~z~Loving killers is part of our makeup.
+
+0x03CB40EA = ~z~Please, come here.
+
+0x0410848F = ~z~Now turn us.
+
+0x041D9C25 = ~z~It's a westerly so...
+
+0x04669769 = ~z~I been here before.
+
+0x0499D67A = ~z~I'll protect you as needed.
+
+0x04B4A805 = ~z~we've killed ninety percent?
+
+0x05488051 = ~z~If I'm eaten I hope he eats you too.
+
+0x059C64C8 = ~z~Just there please. So I'm facing the landmass.
+
+0x05FBA4E5 = ~z~You killed him. I can't very well take a photograph of a carcass!
+
+0x06170C4D = ~z~
+
+0x0627AC43 = ~z~Well, sir.
+
+0x0699FB5D = ~z~"Wildlife” photographer.
+
+0x06A66741 = ~z~Close, but not too close, got it.
+
+0x06B0452C = ~z~~sl:0.4~Let's go back to where we set off from.
+
+0x06B31CCC = ~z~Hey.
+
+0x073914D7 = ~z~the worst in the local population.
+
+0x079EC7A4 = ~z~Oh, I hope not.
+
+0x07F848F3 = ~z~some amazing pictures...
+
+0x0847CE02 = ~z~You take care.
+
+0x08741AE2 = ~z~the worst in the local population.
+
+0x0874DAC0 = ~z~Don't mean to be rude, but you're blocking my shot of the bait.
+
+0x08C28780 = ~z~Please, he's quite something...
+
+0x0900FFD9 = ~z~Just a harmless photograph taker! I'll be on my way!
+
+0x09615115 = ~z~Argh...
+
+0x0981CC52 = ~z~What you trying to take a picture of?
+
+0x09B9708A = ~z~Carry on like this, I'm not sure you are...
+
+0x0A3C3ADF = ~z~There's one.
+
+0x0A6F4BE5 = ~z~Ah, Morgan...
+
+0x0AB3ACBD = ~z~Well, I can't begin to repay my debt of gratitude.
+
+0x0AB71AD7 = ~z~Here's one.
+
+0x0AFF66F1 = ~z~I'm sorry my...
+
+0x0B0309F0 = ~z~Wildlife, that's my thing...
+
+0x0B85BF8F = ~z~Oh my... they don't seem to be fans of modern technology.
+
+0x0BBE0F64 = ~z~~sl:0.4~Let's try and find another, shall we?
+
+0x0BE1C8D5 = ~z~I need to get this. Come on, man.
+
+0x0C1EC335 = ~z~oh, and to the west... oh, and to the northwest there...
+
+0x0C2A8614 = ~z~Head southeast, good man. We have a final spot to check.
+
+0x0C7602D6 = ~z~I'm working on a project...
+
+0x0CAE8337 = ~z~On the other hand, looks like they may be fans of you.
+
+0x0DAD1027 = ~z~Okay, so, um, now it's southwest or due west.
+
+0x0DBD6FBF = ~z~Very good. Very good.
+
+0x0DD30131 = ~z~I think... I think we're grounded...
+
+0x0DDBA11C = ~z~Not really looking for a shot of you... so if you could move a smidge...
+
+0x0DE8A126 = ~z~Could have been you if you stayed on that bank where I found you.
+
+0x0E3E2BDF = ~z~but, the agent of beauty is a talentless fool.
+
+0x0E7E3554 = ~z~Alright.
+
+0x0E22BF62 = ~z~They found some big bulls in these parts, surely they did.
+
+0x0F07BDFF = ~z~Mr. Morgan.
+
+0x0F49F4A8 = ~z~My name's John Marston.
+
+0x1A1D99B1 = ~z~Go, good heavens.
+
+0x1A2072B5 = ~z~I'd rather you didn't.
+
+0x1A7222BB = ~z~Dear God, I mean you no harm!
+
+0x1B0E9983 = ~z~Quite... It's hardly fair.
+
+0x1B3DEF7E = ~z~thanks to you...
+
+0x1B78DD58 = ~z~I think we got company.
+
+0x1BB2F5B8 = ~z~damn!
+
+0x1BED4A86 = ~z~avoid them whenever possible.
+
+0x1C76C850 = ~z~still, I feel such a fool round you, sir.
+
+0x1D8132EA = ~z~I'm gonna worry about us first and the gators second.
+
+0x1DA3B8C1 = ~z~That...
+
+0x1DC008FA = ~z~Anything shows up...
+
+0x1DF86548 = ~z~Ah, yes. Yes.
+
+0x1E0A0F9A = ~z~I'm sorry my...
+
+0x1E51AC06 = ~z~Oh thank you, thank you sir.
+
+0x1E85FA4E = ~z~My name's John Marston.
+
+0x1E1100CA = ~z~this land can be real treacherous.
+
+0x1E32675C = ~z~When we find one, line me up so I can get the shot.
+
+0x1E358628 = ~z~At least there's nothing out here that's likely to eat me.
+
+0x1EEAACF7 = ~z~Mr. Morgan.
+
+0x1F042C31 = ~z~That “thing” is a coyote!
+
+0x1F2AB47B = ~z~Out the way, quick.
+
+0x2B2DDBD1 = ~z~~sl:0.0:2.6~Very droll. There was even a tour company...~sl:~that let excursionists shoot from the deck of a paddle steamer.
+
+0x2B3DCC50 = ~z~Last spot was on the west of here.
+
+0x2B36E919 = ~z~when one of them's got you in a death roll.
+
+0x2B399285 = ~z~You all shy? Wrong way!
+
+0x2B566892 = ~z~But know, I am eternally in your debt.
+
+0x2C6D174E = ~z~Shame on you.
+
+0x2C365CDD = ~z~Alright, okay, now we go east of here, or back to the southeast.
+
+0x2CB01F72 = ~z~That's real fine.
+
+0x2D001302 = ~z~Oh, thank you.
+
+0x2D0F4940 = ~z~So, you're still alive.
+
+0x2D7714C0 = ~z~~sl:0.0:3.4~If you don't go, I'll have to, and then assuredly I'll be eaten...~sl:~and all of this will have been for naught.
+
+0x2DD62F3A = ~z~Hello!
+
+0x2E1D8970 = ~z~
+
+0x2E5C7D98 = ~z~Come on...
+
+0x2EB23758 = ~z~~sl:0.0:1.0~Alright then...~sl:1.9~I saw movement to the north of us...
+
+0x2EDC72C7 = ~z~could you... run in there and coax him out?
+
+0x2F95C0C4 = ~z~You don't want me chasing you!
+
+0x2F96B5E7 = ~z~They ain't "provoked", they're just wolves!
+
+0x2FB208BB = ~z~Glorious.
+
+0x2FC907AC = ~z~Hound a hell.
+
+0x2FF61A56 = ~z~put me out of my misery.
+
+0x3A70D100 = ~z~Still, worse things happen at sea.
+
+0x3A85EB06 = ~z~Coax him?
+
+0x3A3071DA = ~z~of the wild horses here for weeks.
+
+0x3A5763D0 = ~z~Indigestible, apparently.
+
+0x3AC4EA95 = ~z~Now rotate us so I have a shot of the island.
+
+0x3ADEBBCF = ~z~Well, thank you.
+
+0x3AF4105C = ~z~A sneaky one too.
+
+0x3B4D9CB5 = ~z~We can congratulate ourselves on a job well done, Mr. Marston.
+
+0x3B47C409 = ~z~if you've managed to attract the world's least intelligent wolf.
+
+0x3B992FBE = ~z~Just there please. So I'm facing the landmass.
+
+0x3B911801 = ~z~if you really think that's necessary?
+
+0x3C8497A4 = ~z~avoid them wherever possible.
+
+0x3CAC31BE = ~z~Wolves?
+
+0x3CBE802D = ~z~If I'm eaten I hope he eats you too.
+
+0x3CEA6087 = ~z~Now for a few final checks...
+
+0x3DF05F0B = ~z~Especially when they're clawing at your eyeballs...
+
+0x3E33F16F = ~z~That's not the shot, can you rotate us a little.
+
+0x3F0ED809 = ~z~When we find one, line me up so I can get the shot.
+
+0x3F4EB79F = ~z~You know what...
+
+0x3F480889 = ~z~Bag full of meat will tend to bring out...
+
+0x4A653365 = ~z~What are you working on?
+
+0x4A762452 = ~z~Well, I'm good for laughing at, if nothing else.
+
+0x4AC9A184 = ~z~These pictures you're taking.
+
+0x4B0C7DEE = ~z~~sl:0.1~You had many dealings with wolves, Mr. Marston?
+
+0x4B14B5A5 = ~z~I think you misunderstood our purpose here, put that away.
+
+0x4B23F364 = ~z~Do something, Mr. Morgan! Help!
+
+0x4B9037FF = ~z~Well...
+
+0x4C07B69E = ~z~Mr. Marston.
+
+0x4CE3311B = ~z~But know, I am eternally in your debt.
+
+0x4D3CEDFF = ~z~Ah... Morgan, Mr. Morgan.
+
+0x4D29B4C7 = ~z~"Wildlife” photographer.
+
+0x4D55F497 = ~z~Let's go look then...
+
+0x4D872507 = ~z~These things happen.
+
+0x4DB42E13 = ~z~You say that like it makes you sad.
+
+0x4DDE5FBD = ~z~Got some juicy fat humans for you to eat.
+
+0x4E7F06FF = ~z~Oh, oh...
+
+0x4F37FA8E = ~z~Do they?
+
+0x4FF85E07 = ~z~I don't know what I'd do without you, sir. I really don't.
+
+0x5A0D6635 = ~z~They'll make anything out of gator leather that the market desires.
+
+0x5ABE4B7D = ~z~You take care, sir.
+
+0x5B89F5E1 = ~z~I been here before.
+
+0x5BC72822 = ~z~If we're in luck, an alligator won't be far away.
+
+0x5BFC67F5 = ~z~Oh, I am such a fool.
+
+0x5C5029B1 = ~z~~sl:0.0:3.1:1~Just say something if you see that herd of mustangs running back at me.
+
+0x5CA64BFB = ~z~You stay there...
+
+0x5E9AA05F = ~z~Look at them... magnificent creatures...
+
+0x5E50ACEA = ~z~there.
+
+0x5E89DEDA = ~z~Well, let's try and avoid that from happening today.
+
+0x5E998410 = ~z~You know, the images, they really are beautiful...
+
+0x5ED8A7DE = ~z~This won't do, pull the other way...
+
+0x5F33A850 = ~z~hello.
+
+0x5F724B8D = ~z~That horse is a distraction, if you don't mind, sir.
+
+0x5FAD50A9 = ~z~Come on...
+
+0x5FDB0805 = ~z~The only trophy I need is a photograph. And I hope it catches on.
+
+0x5FE392A8 = ~z~Mr. Mason!
+
+0x6A4D90AE = ~z~C'mon! I told this feller I could herd!
+
+0x6A4E88E7 = ~z~Wherever are we off to?
+
+0x6A73E4D8 = ~z~Arthur Morgan.
+
+0x6ADC3B67 = ~z~Oh! Hello.
+
+0x6B5B14CC = ~z~Got him! What a specimen!
+
+0x6B7C5D5C = ~z~Oh, thank you, thank you, sir.
+
+0x6B29C7F8 = ~z~The trick...
+
+0x6BD0CA34 = ~z~Good mustangs, come on.
+
+0x6BE49866 = ~z~Well, that is very kind of you, Mr. Marston.
+
+0x6BF26817 = ~z~Oh, hello...
+
+0x6C0E009E = ~z~
+
+0x6C4A93D6 = ~z~You think I'm such a dimwit I'd...
+
+0x6C9CFC59 = ~z~It's them or us... especially with the big ones.
+
+0x6C407A47 = ~z~Well, you stay there you'll get a great shot...
+
+0x6CD790B4 = ~z~Well, that is very kind of you, Mr. Marston.
+
+0x6CEFAF46 = ~z~Come on, horses.
+
+0x6D1D14A3 = ~z~damn!
+
+0x6D4B49B2 = ~z~Poking up there? Line us up to it...
+
+0x6D5A6A16 = ~z~I foresaw a many ignominious future for myself, but...
+
+0x6D8ECF02 = ~z~I will feed myself to the lions.
+
+0x6D35C01A = ~z~Hello again.
+
+0x6D113F93 = ~z~Sure.
+
+0x6D154A73 = ~z~Pleasure.
+
+0x6D451957 = ~z~Real treacherous.
+
+0x6DBB2BFA = ~z~Lovely stuff.
+
+0x6DBC0A30 = ~z~Good luck, sir. Although, as we both know, I'm the one who needs it!
+
+0x6DE521DB = ~z~Take care, Mr. Mason.
+
+0x6E08CCA5 = ~z~Oh, look... on that little beach... boars.
+
+0x6E59390F = ~z~Now, now.
+
+0x6EA14EEB = ~z~but, well...
+
+0x6EDF11AC = ~z~Not through lack of trying on their part.
+
+0x6F4F9265 = ~z~Come on. Snap out of it. You're safe.
+
+0x6F7F425F = ~z~~sl:0.0:2.3~Last year they brought 10,000 skins...~sl:~out of the swamps of Lemoyne alone.
+
+0x6F70AB9A = ~z~We can congratulate ourselves on a job well done, Mr. Morgan.
+
+0x6F6636ED = ~z~Oh dear! We're in trouble!
+
+0x6FB56E05 = ~z~Mr. Mason!
+
+0x6FC818E6 = ~z~Well, well.
+
+0x6FD84999 = ~z~Sure.
+
+0x7A087E09 = ~z~Don't worry about it.~n~~m~I'm a...
+
+0x7A542F11 = ~z~quite, quite...
+
+0x7AC6B3A3 = ~z~Nearly got him eating me!
+
+0x7B7F16EC = ~z~Fine fellow.
+
+0x7B726DCF = ~z~You'll be fine... just don't step on it.
+
+0x7B43184C = ~z~Yes, I will make some creature a...
+
+0x7B83018F = ~z~Come on, gator.
+
+0x7BAC69EB = ~z~Go on, and look pretty doing it!
+
+0x7BB08159 = ~z~You are a gentleman.
+
+0x7C6F1CE7 = ~z~I shall certainly try.
+
+0x7C958E6A = ~z~~sl:0.0:2.4~All the really big gators have been hunted out and killed.~sl:0.1~More the shame, I say. It's terrible.
+
+0x7C43701D = ~z~Oh, hello... can I help you?
+
+0x7CB31E2A = ~z~Killing machines?
+
+0x7CBD358D = ~z~Wrong way, you fools.
+
+0x7D0EAFBC = ~z~Don't eat me!
+
+0x7D1CCD1A = ~z~
+
+0x7D1F6427 = ~z~Quite a day, isn't it?
+
+0x7DC40B7C = ~z~I heard about your work through an old friend of mine...
+
+0x7EFEBCCA = ~z~this land can be real treacherous.
+
+0x7F3D6853 = ~z~
+
+0x7F7D04B5 = ~z~You don't want me chasing you!
+
+0x7F53F28C = ~z~Stand here.
+
+0x7FA10EA3 = ~z~Don't worry about it.
+
+0x7FE811ED = ~z~Pork chop isn't in danger of extinction.
+
+0x7FFB83C3 = ~z~Yeah, they can be pretty aggressive.
+
+0x8A7D858E = ~z~Saving alligators, but you don't mind that pork chop gets butchered?
+
+0x8A672979 = ~z~Savage beast!
+
+0x8AB9B561 = ~z~What a shame.
+
+0x8B4ED06E = ~z~What are you waiting for?
+
+0x8B6DCDE0 = ~z~A little assistance here would certainly be appreciated.
+
+0x8B62D37E = ~z~But I'm trying to get an eagle...
+
+0x8B72FF95 = ~z~
+
+0x8B785159 = ~z~I am that much of a buffoon.
+
+0x8BFBAEFD = ~z~Sadly our trip is over.
+
+0x8C06A026 = ~z~And try and stay out of trouble.
+
+0x8CA0FF3F = ~z~~sl:0.0:1.0~Stay back, stay back.~sl:0.2~Can't have a man in the frame. They'd think it's staged.
+
+0x8CE7FA1A = ~z~~sl:0.5~Carry on like this, I'm not sure you are...
+
+0x8D6A804D = ~z~Yeah, I guessed that bit.
+
+0x8D57D04E = ~z~Away from me!
+
+0x8DAA8F11 = ~z~~sl:0.0:2.4~Look, you think maybe you should...~sl:~leave the wildlife photography...
+
+0x8DF58FA3 = ~z~~sl:0.0:1.9~If every great man had thought like that,~sl:~there wouldn't be any great men.
+
+0x8E5AE510 = ~z~Lead him back here, quick!
+
+0x8E35C12F = ~z~Anyway, I hope you got something worth printing.
+
+0x8EAE4E7C = ~z~Before it's too late, align us! Align us!
+
+0x8EB858B1 = ~z~No, b-but...
+
+0x8ECFAD93 = ~z~Ah, yes, of course...
+
+0x8F1CCE39 = ~z~I'm sorry... I tried...
+
+0x9A03D552 = ~z~Hmm. Yeah...
+
+0x9A4A032B = ~z~Don't hurt it!
+
+0x9A21F4E0 = ~z~I remember Arthur.
+
+0x9A34E42B = ~z~to the fellers who know a little something about wildlife?
+
+0x9A59E479 = ~z~A little ignorance can go a long way... at least that's what I tell myself.
+
+0x9A492242 = ~z~Much appreciated, you know.
+
+0x9AE29CEA = ~z~How are the...
+
+0x9AEFF048 = ~z~Argh...
+
+0x9B1EA565 = ~z~I have been trying to capture the grace...
+
+0x9B9B758B = ~z~Yeah, so I believe, but...
+
+0x9B247C59 = ~z~You too, sir.
+
+0x9B876AC5 = ~z~Damn you bushy-tailed bastard!
+
+0x9BCB2B4E = ~z~to the fellers who know a little something about wildlife?
+
+0x9C9BA7BA = ~z~Oh, drat.
+
+0x9C87C503 = ~z~Yes?
+
+0x9CA98585 = ~z~Damn you bushy-tailed bastard!
+
+0x9CAC7611 = ~z~they're-they're...
+
+0x9D5F6EAC = ~z~But you've never been eaten?
+
+0x9D8B632F = ~z~Savage beast!
+
+0x9D913D7C = ~z~W-wait. Spin me back around.
+
+0x9D107452 = ~z~This is what I'd call a robbery gone wrong, coyote...
+
+0x9DAD254A = ~z~Of course...
+
+0x9DEC4DC0 = ~z~Don't mention it.
+
+0x9E4D44B3 = ~z~Good luck, Mr. Mason.
+
+0x9E25AEE1 = ~z~Git up! Go on now, all of you.
+
+0x9E396A0F = ~z~~sl:0.0:2.0~Find somewhere to exhibit them, I guess.~sl:0.4~I should hope you'll come and view them.
+
+0x9E33927D = ~z~I heard about your work through an old friend of mine...
+
+0x9EBA4EBE = ~z~Yeah.
+
+0x9EDF6282 = ~z~~sl:0.0:1.0~Oh, assuredly.~sl:0.3~The nation will see these beautiful beasts for what they are...
+
+0x9F3D7419 = ~z~Please, please.
+
+0x9F8430B0 = ~z~and relax, and pray they don't mistake me for lunch.
+
+0x9FAD3C63 = ~z~You wanted wolves, you got wolves, Mr. Mason!
+
+0x9FD1D393 = ~z~Long as it doesn't pick up, we're fine.
+
+0x10FD3160 = ~z~Quite a day, isn't it?
+
+0x11AB4592 = ~z~Let's see how you speak...
+
+0x11AEE9DC = ~z~Good day to you, sir, and God speed.
+
+0x13F78D61 = ~z~Hey.
+
+0x14CC4834 = ~z~Only the basics...
+
+0x14D017C9 = ~z~A sneaky one too.
+
+0x14E3119C = ~z~~sl:0.0:2.6~Usually, I'm worse than the wolves.
+
+0x14EFAD7C = ~z~No, no, no.
+
+0x15B865DB = ~z~Oh, dear.
+
+0x16A0373A = ~z~I have to run into Strawberry and fetch fresh supplies.
+
+0x16A56ABD = ~z~I haven't quite broken my neck.
+
+0x17A1CDD3 = ~z~Well, sir.
+
+0x17B768BD = ~z~Some more greedy coyotes?
+
+0x17C2668B = ~z~Mr. Morgan.
+
+0x17E9C729 = ~z~Don't mention it.
+
+0x18E0D1B5 = ~z~They creep up on you, you know.
+
+0x18EB69A2 = ~z~~sl:0.0:4.3~Well, that is a sour note to end on. A photograph of him now...~sl:~won't exactly save the species from extinction.
+
+0x20D3A1F3 = ~z~So, you think that photograph will come out?
+
+0x22C2D4EB = ~z~Sure.
+
+0x23B0E4DA = ~z~~sl:1.3~Mr. Morgan.
+
+0x23C35FDE = ~z~Hang in there old boy, nothing to fear.
+
+0x23D947D7 = ~z~Come on, let's go over there, come on!
+
+0x24E1D3BD = ~z~I tried and failed.
+
+0x24F95FF4 = ~z~I'm a...
+
+0x25DBBC01 = ~z~Just...
+
+0x25F90AC0 = ~z~funny how things turn out...
+
+0x26B5F235 = ~z~~sl:0.0:1.5~This is America after all...~sl:0.1~we hold a love for killers that borders on macabre...
+
+0x27C89801 = ~z~He's awake!
+
+0x28B2B890 = ~z~Well, in my world that makes you a genius.
+
+0x28EE6715 = ~z~It's them or us... especially with the big ones.
+
+0x28F27ABA = ~z~Nature in all its glory... and cruelty...
+
+0x29ECE33C = ~z~I know...
+
+0x29F40AEE = ~z~What a shame.
+
+0x30AF1C11 = ~z~Over here.
+
+0x31D03D8C = ~z~I'll try.
+
+0x31DFC0D2 = ~z~So, you think that photograph will come out?
+
+0x32C6B834 = ~z~~sl:0.6:2.0:1~Oh! Oh, that's a big one...
+
+0x32C87B3A = ~z~Over here.
+
+0x32F3D65E = ~z~Umm... you're blocking the shot.
+
+0x33DA4406 = ~z~Damn blasted thing.
+
+0x34A2D41F = ~z~You provoked them, Mr. Marston! Help!
+
+0x34C181C4 = ~z~I tried and failed.
+
+0x34CB566D = ~z~How about we prioritize our lives over the photographs, okay.
+
+0x34D78DB9 = ~z~You sure do make me laugh...
+
+0x35F2A727 = ~z~well, maybe a little.
+
+0x36B81867 = ~z~~sl:0.0:1.0~Alright then...~sl:1.9~I saw movement to the north of us...
+
+0x36CE347A = ~z~never quite how you expect, is it?
+
+0x36F5D516 = ~z~No, but I can ride a horse.
+
+0x36FA63B4 = ~z~I don't like this... not one bit.
+
+0x37A2AE13 = ~z~Yeah...
+
+0x37B37143 = ~z~Come on, gator.
+
+0x37BFD52B = ~z~~sl:0.0:2.0~Find somewhere to exhibit them, I guess.~sl:0.4~I should hope you'll come and view them.
+
+0x38C6D963 = ~z~Sure.
+
+0x38EC813F = ~z~I didn't mean it like that.
+
+0x39A5F5A7 = ~z~I've lost the shot! Redirect me first.
+
+0x39A78534 = ~z~I do, Mr. Mason, I do.
+
+0x40BC3C0B = ~z~Onwards, please.
+
+0x40EA3B7E = ~z~I know the feeling.
+
+0x41BC5E37 = ~z~Me too.
+
+0x41E04376 = ~z~Come on, you big dozy lizard. Rouse yourself.
+
+0x41E51679 = ~z~Let's try and avoid that from happening today.
+
+0x42A4E19B = ~z~You'd think I'd have figured this out by now.
+
+0x42DE28C5 = ~z~~sl:0.3~He's awake!
+
+0x43A11E97 = ~z~And you too, sir.
+
+0x43F5AA26 = ~z~when one of them's got you in a death roll.
+
+0x44BC4204 = ~z~Sure. But we stop too long, the locals are going to start getting curious.
+
+0x44D3C1B2 = ~z~Well, well.
+
+0x44F1924D = ~z~the way you talk about yourself, Mr. Mason.
+
+0x45AC45C2 = ~z~Give me a hand please...
+
+0x45C3AB76 = ~z~Oh!
+
+0x47FF7EAB = ~z~Oh, there's one, right over there.
+
+0x48A5006B = ~z~How are you?
+
+0x49B060DA = ~z~Well I-I...
+
+0x49F9DE02 = ~z~~sl:0.0:1.4~Did you really have to kill him?~sl:0.7~He will have to live on in my photograph.
+
+0x49F54FFC = ~z~Wrong way, you fools.
+
+0x50D1DAA5 = ~z~bugger the eagles.
+
+0x51C8A039 = ~z~Mr. Mason. I'm borrowing your horse.
+
+0x52C88FBE = ~z~Too close, back up!
+
+0x52D294BB = ~z~Now, run! Heya! Heya! Heya! Go on!
+
+0x52F3F668 = ~z~Perfect.
+
+0x53BC3202 = ~z~I hope you're slow.
+
+0x54B7BE3A = ~z~~sl:0.4:3.1~That's the spirit. Out you go then.~sl:~Get him... get him to notice you and... then turn tail and run.
+
+0x56B082C8 = ~z~Go on, and look pretty doing it!
+
+0x57EB4FC5 = ~z~Well, that is very kind of you, Mr. Marston.
+
+0x58D0E9AC = ~z~Please, come here.
+
+0x59CCBC03 = ~z~Well, I'll...
+
+0x59D3FA85 = ~z~Yes...
+
+0x61F9ADCC = ~z~Oh my... they don't seem to be fans of modern technology.
+
+0x64A0CE95 = ~z~Don't!
+
+0x64B7A175 = ~z~Mr. Marston.
+
+0x64E00239 = ~z~given the wind.
+
+0x64E9C5FA = ~z~Aim us at him and I'll get the shot.
+
+0x65A0CEFB = ~z~~sl:0.0:1.2~Well, I don't mean to be rude,~sl:~but this image making will require all my attention.
+
+0x66CC980E = ~z~Ah, yes. Dock her here.
+
+0x67AF9CA0 = ~z~if you manage to attract the world's least intelligent wolf.
+
+0x67FC3F19 = ~z~How's the project going?
+
+0x68A3699D = ~z~Let's see now.
+
+0x68C99F0C = ~z~I'll stay with you a while.
+
+0x69C2AFA3 = ~z~Perhaps wolves do better at sea?
+
+0x69CE6301 = ~z~Oh...
+
+0x70AFEE7C = ~z~Run, if you're running! Quick!
+
+0x70E7A8AC = ~z~all thanks to you.
+
+0x71C68E83 = ~z~But don't get too close... you'll scare them away.
+
+0x71DB162E = ~z~Leave the meat, mister!
+
+0x72B1BADB = ~z~Put the weapon down please. They've given no cause...
+
+0x72C63E6B = ~z~Maybe you can take a photograph of one of them then?
+
+0x73C6DB76 = ~z~of a grumpy house frau, or...
+
+0x75B77046 = ~z~Now, run! Heya! Heya! Heya! Go on!
+
+0x75BF2242 = ~z~Good boys... hungry boys. Come on.
+
+0x76E15E07 = ~z~of our great predators...
+
+0x76F92748 = ~z~I got your bag.
+
+0x77F8E085 = ~z~Pork chop isn't in danger of extinction.
+
+0x80B0BC17 = ~z~Mr. Morgan!
+
+0x80CB486B = ~z~I'd be some poor creature's bad meal by now...
+
+0x80CEC06A = ~z~You wanna be careful up here...
+
+0x83A2F666 = ~z~Although perhaps not his most talented one.
+
+0x83C1EF58 = ~z~You are a gentleman.
+
+0x85DBC560 = ~z~What you trying to take some pictures of?
+
+0x86ABFD9C = ~z~I'm trying to find and capture images...
+
+0x88A14530 = ~z~Sure.
+
+0x88D4E22D = ~z~Good stuff.
+
+0x88ED33A0 = ~z~very happy lunch one of these days.
+
+0x91C892B5 = ~z~Well, this is God's country, and I am his faithful servant.
+
+0x95EFE8AF = ~z~Beast!
+
+0x96CD4C09 = ~z~
+
+0x98B785B5 = ~z~From now on?
+
+0x98C68471 = ~z~You wanna be careful up here,
+
+0x99B575BC = ~z~Just a little further, if I may.
+
+0x99BF38F9 = ~z~~sl:0.4~Let's go back to where we set off from.
+
+0x99ED926C = ~z~Oh, hello... can I help you?
+
+0x112BC561 = ~z~Lead him back here, quick!
+
+0x128E1623 = ~z~No, but I can ride a horse.
+
+0x137EB26C = ~z~Leave it!
+
+0x138BB309 = ~z~The subject is magnificent, the backdrop...
+
+0x167A5F10 = ~z~Quite... It's hardly fair.
+
+0x181BF4D0 = ~z~Mr. Mason!
+
+0x183F59D6 = ~z~Majestic.
+
+0x200E7FF9 = ~z~Advance... just a little.
+
+0x206F04DF = ~z~Come on, you big dozy lizard. Rouse yourself.
+
+0x207B2B82 = ~z~Oh, straight over that way... there you go.
+
+0x222DCA8E = ~z~Aren't you wary of those beasts?
+
+0x235B01F8 = ~z~Please, sir...
+
+0x261DB411 = ~z~Well to me, you're a gentleman.
+
+0x268A40FE = ~z~If I have to take another picture...
+
+0x283B8292 = ~z~~sl:0.0:3.0~And all a gator's gonna do with your leather is eat it...~sl:0.3~maybe chew on it a while.
+
+0x287F6623 = ~z~What?
+
+0x289D6C41 = ~z~~sl:0.0:1.0~Stay back, stay back.~sl:0.2~Can't have a man in the frame, they'd think it's staged.
+
+0x310DFA73 = ~z~Okay. Okay.
+
+0x331B3018 = ~z~Leave it!
+
+0x334AFC97 = ~z~and thank you very much once again.
+
+0x336DC8EA = ~z~
+
+0x360E7185 = ~z~Looks like we got company.
+
+0x363B3D74 = ~z~I'm not quite the outdoor adventurer I thought.
+
+0x371ADD50 = ~z~I've got it! I've got it! Yes!
+
+0x377C83C4 = ~z~But maybe I want this monster stuffed and on display.
+
+0x383D6464 = ~z~Of course...
+
+0x397DC681 = ~z~How are you, sir?
+
+0x398C5D02 = ~z~What a country.
+
+0x409F9599 = ~z~Closer now... closer.
+
+0x412ABCBF = ~z~You were right...
+
+0x418AC3B3 = ~z~Mr. Mason!
+
+0x425B4AD4 = ~z~You too.
+
+0x427EFFAE = ~z~Oh, straight ahead, over to the left, right over there!
+
+0x434BC351 = ~z~but unlike you, they can fly.
+
+0x439C6CC3 = ~z~Yep, we're stuck alright.
+
+0x440C5C60 = ~z~A wild horse is a different beast to his domesticated brother.
+
+0x448CEEC5 = ~z~Sure will... if I... if I can.
+
+0x453C8C55 = ~z~No, no, no, no.
+
+0x453C22B9 = ~z~Yeah, big bag of raw meat will tend to excite the locals.
+
+0x455A79CF = ~z~~sl:0.9~That's it!
+
+0x498F8368 = ~z~Albert Mason.
+
+0x508CB268 = ~z~you're gonna wish them wolves had eaten you.
+
+0x511D0C23 = ~z~Hey.
+
+0x513AFA7C = ~z~Well, sir.
+
+0x529E1B36 = ~z~Now, look. There's an alligator back in those palms. Could you...
+
+0x533A5EDA = ~z~wolves.
+
+0x589D6C7C = ~z~I'm dense...
+
+0x591FD31E = ~z~you're gonna wish them wolves had eaten you.
+
+0x601DF8A1 = ~z~Wolves?
+
+0x613B3509 = ~z~Let's make you all famous.
+
+0x638D3FD9 = ~z~Oh, fantastic!
+
+0x650A6E1E = ~z~They gonna be any good?
+
+0x655E643F = ~z~It's attacking!
+
+0x659D3FD5 = ~z~So, you're still alive.
+
+0x661B2850 = ~z~Yeah, they can be pretty aggressive.
+
+0x692E724B = ~z~A little assistance here would certainly be appreciated.
+
+0x695B6A0B = ~z~You have saved my poor foolish skin once again.
+
+0x713EEF26 = ~z~You don't need to be on that horse now, do you?
+
+0x724F4A0F = ~z~Yeah, I guessed that bit.
+
+0x732DA004 = ~z~Oh, I hope not.
+
+0x765F56EB = ~z~Not this close, back it up.
+
+0x766EDBFE = ~z~Aside from that, very well.
+
+0x770E0EFA = ~z~You carry on shooting from that bank...
+
+0x771D3BB3 = ~z~If anything comes, I'll...
+
+0x777EAD1D = ~z~Got him! What a specimen!
+
+0x785F6267 = ~z~not the easiest...
+
+0x792C5B08 = ~z~
+
+0x795D53E5 = ~z~Keep going.
+
+0x799C6B1F = ~z~You killed him. I can't very well take a photograph of a carcass!
+
+0x799EB3DA = ~z~What a shame.
+
+0x816FDBBE = ~z~~sl:0.0:2.5~You know, in the season, there are more alligator hunters...~sl:~down here than... than... alligators.
+
+0x829AE14F = ~z~literally a dog's dinner.
+
+0x829D13D4 = ~z~Mr. Morgan.
+
+0x834D4D77 = ~z~What you shooting?
+
+0x834E1A8C = ~z~Or is it an easterly?
+
+0x876F699C = ~z~~sl:1.0~No, well, yes... maybe that's not bad thing.
+
+0x883B1DC5 = ~z~~sl:2.3~Hello.
+
+0x887B665D = ~z~Let's make you all famous.
+
+0x890BA7F9 = ~z~~sl:0.0:2.4~Watching fresh paint dry is more interesting than watching...~sl:~a man with his head in a camera, sir. Really.
+
+0x896E808D = ~z~Don't know what I'd do without you. Start neighing, perhaps?
+
+0x909AB97D = ~z~I'm sorry, I tried.
+
+0x941DC67F = ~z~Is that all of them? We might'a kept the wolves from the door.
+
+0x956F04D4 = ~z~But don't get too close... you'll scare them away.
+
+0x969AE6DE = ~z~I know the feeling.
+
+0x972E3CF6 = ~z~Oh!
+
+0x978E002C = ~z~Of course, Mr. Marston. Whatever you need.
+
+0x989E96EB = ~z~How are you, sir?
+
+0x1177B59B = ~z~Well, let's see how you speak...
+
+0x2018A5BC = ~z~~sl:0.9~Going to have to push us off.
+
+0x2046E07D = ~z~How are you?
+
+0x2690F388 = ~z~~sl:2.6~Neither do I.
+
+0x2759D8A8 = ~z~I thought you'd be tired of rowing with me.
+
+0x2791B951 = ~z~Oh dear, back up a little.
+
+0x2817C53B = ~z~Turn us around so I'm facing it, please.
+
+0x3096E760 = ~z~Whatever are you doing?
+
+0x3126EC47 = ~z~I am such a fool.
+
+0x3161C84E = ~z~Ah... can't float over this one I'm afraid.
+
+0x3405A7C1 = ~z~Got some juicy fat humans for you to eat.
+
+0x3497D315 = ~z~photography.
+
+0x4386CBB5 = ~z~Mr. Marston.
+
+0x4471D9E1 = ~z~my nerves.
+
+0x4553E0BF = ~z~Oh! Hello.
+
+0x4649C233 = ~z~I'm your friend.
+
+0x4890D7FF = ~z~No, I don't suppose it is.
+
+0x4996C548 = ~z~Cases, trunks, shoes, boots, belts... bibles even.
+
+0x5065FB8A = ~z~Well, I hope we've changed.
+
+0x5120E1F7 = ~z~Here, gator.
+
+0x5335CB34 = ~z~Maybe, maybe. But usually we wait until after they're dead.
+
+0x5383EF15 = ~z~Help! Here it comes!
+
+0x5470AF91 = ~z~I don't like this... not one bit.
+
+0x5736E6F9 = ~z~Can you stop the boat just there, off the island?
+
+0x5817EC41 = ~z~C'mon! I told this feller I could herd!
+
+0x5941B790 = ~z~Look, I'd much prefer it if we searched over there.
+
+0x5961B927 = ~z~I'm...
+
+0x6444E805 = ~z~They'll be no need for an instrument of killing!
+
+0x6527F3A6 = ~z~Very good, very good.... very good.
+
+0x6565D6BC = ~z~jaw dropping...
+
+0x7068A4B7 = ~z~Please, if I'm to attract any wildlife, I'll need some privacy.
+
+0x7529F340 = ~z~This is history making. Truly.
+
+0x7911CCE1 = ~z~~sl:0.0:1.5~This is America after all...~sl:0.1~we hold a love for killers that borders on macabre...
+
+0x7917EE56 = ~z~Swing us around so we're pointing at him.
+
+0x8017EA54 = ~z~Oh, there's one, straight over that way, see it? I see it.
+
+0x8091B511 = ~z~A while back I helped a friend from getting devoured...
+
+0x8134C089 = ~z~Nearly got him eating me!
+
+0x8414CE7B = ~z~~sl:0.0:2.7~First I was scared of the wolves, and now it's hydrophobia.~sl:~I've got hydrophobia phobia.
+
+0x8440F653 = ~z~Please, I'm here for the wildlife, not the humans!
+
+0x9285AB6E = ~z~The bag also had a lot of my supplies, you've saved me days.
+
+0x9390EDF6 = ~z~many times over but for you.
+
+0x9856C809 = ~z~Well...
+
+0x9874B661 = ~z~A paddle steamer, eh? Why didn't we think of that?
+
+0x9907EBE0 = ~z~Sooner you do it, the sooner we leave.
+
+0x9932EE78 = ~z~You all shy? Wrong way!
+
+0x10021D7E = ~z~Only the buggers can't stand me...
+
+0x12442ABB = ~z~My friend, I will never understand you.
+
+0x12822B69 = ~z~Bag full of meat will tend to bring out...
+
+0x21781CE4 = ~z~oh, and to the west... oh, and to the northwest there...
+
+0x24962E9E = ~z~Don't worry.
+
+0x26549DA7 = ~z~Mr. Marston.
+
+0x32029C10 = ~z~I got your bag.
+
+0x32877DFC = ~z~I'm gonna worry about us first and the gators second.
+
+0x35110C5D = ~z~You say that like it makes you sad?
+
+0x40196D3E = ~z~He's making off with it!
+
+0x44153DCA = ~z~Please. No, no!
+
+0x48298CFB = ~z~Of course, Mr. Morgan. Whatever you need.
+
+0x53119ABE = ~z~Mr. Morgan!
+
+0x54419C6C = ~z~or that's what I want to be my thing.
+
+0x54586D58 = ~z~You wanna be careful up here,
+
+0x59058E29 = ~z~Well, I imagine.
+
+0x60325EFF = ~z~Do you know anything about alligators?
+
+0x61156A48 = ~z~Now, I'm getting ate!
+
+0x61992A58 = ~z~I have a print of the wolves...
+
+0x65340A1D = ~z~Over here, boy.
+
+0x70013D14 = ~z~~sl:0.0:2.2~I can't say with certainty, but I'm hopeful, sir.~sl:0.1:2.0:1~I'm due some good luck, no?
+
+0x72462ADE = ~z~~sl:0.1:2.4~Just... checking this equipment, if...~sl:~only my hands weren't shaking quite so much.
+
+0x72804CD5 = ~z~~sl:1.3~You don't know me very well yet.
+
+0x73214B41 = ~z~~sl:0.4:3.0:1~Come on... stay still, my beauties...
+
+0x75127B73 = ~z~get in the boat, it'll be fine.
+
+0x78152CE3 = ~z~Yeah, they're beautiful...
+
+0x80440C7C = ~z~I certainly hope so...
+
+0x86097FFB = ~z~pompous middle class burgher...
+
+0x94383D7D = ~z~~sl:0.7~Fine.
+
+0x95511C4A = ~z~I love a challenge.
+
+0x97181DD2 = ~z~Go, go, go!
+
+0x157127E9 = ~z~They ain't so very friendly, are they?
+
+0x159385E6 = ~z~Killing machines?
+
+0x250390E5 = ~z~Eagles.
+
+0x298048FB = ~z~could you... run in there and coax him out?
+
+0x328584FA = ~z~They creep up on you, you know.
+
+0x434417D7 = ~z~Well, you carry on shooting from that bank...
+
+0x529197BA = ~z~You want your likeness taken? Go then!
+
+0x532297EE = ~z~Yes...
+
+0x546204DE = ~z~My whole futile existence flashed before my eyes.
+
+0x550402E7 = ~z~~sl:0.0:2.6~Very droll. There was even a tour company...~sl:~that let excursionists shoot from the deck of a paddle steamer.
+
+0x676070FB = ~z~They're beautiful creatures.
+
+0x677157CF = ~z~We caught him... in the middle of his dinner!
+
+0x705247CA = ~z~Here...
+
+0x777046E6 = ~z~They creep up on you, you know.
+
+0x834376CF = ~z~Arthur Morgan.
+
+0x879036C8 = ~z~This is what I'd call a robbery gone wrong, coyote...
+
+0x887240A6 = ~z~~sl:0.0:0.6~Look,~sl:0.5~you think maybe you should leave the wildlife photography...
+
+0x889740F4 = ~z~~sl:0.0:1.9~If every great man had thought like that,~sl:~there wouldn't be any great men.
+
+0x948567D7 = ~z~Mr. Marston.
+
+0x952157DF = ~z~The photographs, what are you gonna do with them?
+
+0x967394BF = ~z~Had a bad run-in with some once, some friends of mine saved me.
+
+0x1200044C = ~z~~sl:0.0:2.2~I can't say with certainty, but I'm hopeful, sir.~sl:0.1:2.0:1~I'm due some good luck, no?
+
+0x1611221D = ~z~If I could take that fellow's likeness... it might...
+
+0x1948575A = ~z~~sl:1.0~No, well, yes... maybe that's not bad thing.
+
+0x2351951A = ~z~Oh, look, over there! Come on, go!
+
+0x2356216B = ~z~~sl:0.0:1.0~Oh, assuredly.~sl:0.3~The nation will see these beautiful beasts for what they are...
+
+0x2545691A = ~z~Oh!
+
+0x3736749F = ~z~Mr. Morgan! Help!
+
+0x5340671E = ~z~A little assistance here would certainly be appreciated.
+
+0x5877668E = ~z~Away! Away!
+
+0x5915179B = ~z~Sure.
+
+0x6557148E = ~z~If we investigate the area to the east we can call it a day.
+
+0x7577382F = ~z~Sure...
+
+0x8393034C = ~z~You point, I'll shoot, old boy. Come on.
+
+0x8870517D = ~z~Fine fellow.
+
+0x9472992D = ~z~kill them all and stick them on some club house wall.
+
+0x9681445A = ~z~I can't begin to repay my debt of gratitude.
+
+0x10244128 = ~z~get in the boat, it'll be fine.
+
+0x12667213 = ~z~protect you as needed.
+
+0x15516309 = ~z~So you're determined to get yourself eaten.
+
+0x15732754 = ~z~Can we get the angle right.
+
+0x17355183 = ~z~~sl:0.0:2.5~It ain't shame to this rowing fool...~sl:0.1~who values his arms being attached to his body.
+
+0x17840296 = ~z~Hello again.
+
+0x25951539 = ~z~~sl:0.0:1.7~That beautiful creature...~sl:0.9~I wouldn't have photographed him if I'd known it would be his death.
+
+0x26172880 = ~z~~sl:0.1~Let's get this right, shall we?
+
+0x27665128 = ~z~Hold on, reorient me.
+
+0x30656467 = ~z~
+
+0x40193193 = ~z~Oh, right over there, see?
+
+0x49233566 = ~z~~sl:0.0:2.4~All the really big gators have been hunted out and killed.~sl:0.1~More the shame, I say. It's terrible.
+
+0x54501174 = ~z~Oh dear, I don't have it.
+
+0x60137928 = ~z~I'm going home!
+
+0x60583347 = ~z~Come on, horses.
+
+0x64050862 = ~z~The gator, it's got it. Quick, quick. I must get this shot.
+
+0x68486691 = ~z~I ain't the one trying to get myself eaten.
+
+0x68865976 = ~z~Ah, don't worry about it.
+
+0x89208629 = ~z~Here?
+
+0x90774707 = ~z~Take us back where we began.
+
+0x98788657 = ~z~Good mustangs, come on.
+
+0x99226949 = ~z~Fine fellow.
+
+0xA00E9BC1 = ~z~I'm sorry... I tried...
+
+0xA038D065 = ~z~He passed some time ago.
+
+0xA1E5303B = ~z~Oh, there's one, straight over there.
+
+0xA2FE6F4E = ~z~It's almost like I'm flying.
+
+0xA4B44FCB = ~z~You are a gentleman.
+
+0xA5C6C7F1 = ~z~At least this time I doubt I'll get eaten.
+
+0xA5CD02A2 = ~z~Oh, hello...
+
+0xA5DC8A0D = ~z~move back from the cliff edge.
+
+0xA5FA8AC1 = ~z~Oh!
+
+0xA6C222EA = ~z~Git up! Go on now, all of you.
+
+0xA6DBE5FF = ~z~I ain't the one trying to get myself eaten.
+
+0xA7ABA835 = ~z~A paddle steamer, eh? Now why didn't we think of that?
+
+0xA7CA70DF = ~z~Very good. Very good.
+
+0xA7F96D69 = ~z~Well, sir.
+
+0xA8A23869 = ~z~You're too kind.
+
+0xA8FA3C24 = ~z~Uh oh. Reverse directions, quick.
+
+0xA13EB96B = ~z~Keep going. Through the palms.
+
+0xA35EDCC5 = ~z~I am such a fool.
+
+0xA38B260C = ~z~~sl:0.0:2.8~Photography, is not that interesting to the observer...~sl:~unless I am eaten that is.
+
+0xA50CD410 = ~z~Feel free to jump aboard, but it really won't be interesting...
+
+0xA51AD8CF = ~z~land is real treacherous.
+
+0xA67CDF16 = ~z~If we're in luck, an alligator won't be far away.
+
+0xA180FE42 = ~z~just slip off the edge of a cliff?
+
+0xA578AFEF = ~z~Look at them... magnificent creatures...
+
+0xA614E385 = ~z~Are they good swimmers?
+
+0xA800B575 = ~z~John Marston.
+
+0xA3532FD4 = ~z~Drop the bag!
+
+0xA9050DE6 = ~z~~sl:0.0:2.8~If we could confine our search to the immediate area,~sl:~that would be marvelous.
+
+0xA48219F8 = ~z~Hello again.
+
+0xA164639A = ~z~Yes.
+
+0xA716821A = ~z~Usually, I'm worse than the wolves.
+
+0xAA09BCE6 = ~z~Hmm.
+
+0xAA4AC4DD = ~z~before our greatest predators...
+
+0xAA5AD22D = ~z~Oh, that might help...
+
+0xAA23F850 = ~z~Try and stay out of trouble.
+
+0xAA531AF7 = ~z~Or a longer tube for this shutter bulb.
+
+0xAAACC1B2 = ~z~Oh, look, right over there.
+
+0xAACD8E03 = ~z~I thought I'd be safe...
+
+0xAB33A777 = ~z~Mr. Mason. I'm borrowing your horse.
+
+0xAB44E523 = ~z~You wanna be careful up here...
+
+0xAB64A9AD = ~z~Mr. Morgan.
+
+0xABB9CE15 = ~z~Leave the meat, mister!
+
+0xABD5E993 = ~z~I do, Mr. Mason, I do.
+
+0xAC59E9FD = ~z~Ten percent who survived...
+
+0xAC748B0E = ~z~The gators got some catching up to do then.
+
+0xAC65960F = ~z~Sorry for all the trouble.
+
+0xACD5AFC1 = ~z~Arthur Morgan.
+
+0xACDC90C3 = ~z~~sl:1.1~What a way to...
+
+0xAD2B0A1B = ~z~~sl:0.6~Or it can get you killed. But hey... good luck.
+
+0xAD40E50A = ~z~No, no, no, no.
+
+0xAD88EA75 = ~z~What a country.
+
+0xADBBDF43 = ~z~My whole futile existence flashed before my eyes.
+
+0xADF14992 = ~z~A gentleman through and through.
+
+0xADF96255 = ~z~Can't thank you enough.
+
+0xAE4D383E = ~z~Oh, I am such a fool.
+
+0xAE7DE8EF = ~z~They gonna be any good?
+
+0xAEF9B575 = ~z~Don't mind me... I may be at this for some time.
+
+0xAF4DA913 = ~z~Just pull up to the bank.
+
+0xAF7F1D1D = ~z~I don't know what I'd do without you, sir. I really don't.
+
+0xAF409B29 = ~z~Well it's my pleasure...
+
+0xAFAB133F = ~z~Well to me, you're a gentleman.
+
+0xAFEDC343 = ~z~~sl:0.0:2.9~And all a gator's gonna do with your leather is eat it...~sl:0.7~maybe chew on it a while.
+
+0xB005D02C = ~z~Alright, now, the other spots were northwest and northeast of here.
+
+0xB00C9138 = ~z~Spin us around!
+
+0xB0902FB7 = ~z~I would never forgive you!
+
+0xB0ABD5F5 = ~z~Indigestible, apparently. Aside from that,
+
+0xB0B7755E = ~z~We're fine... we're fine.
+
+0xB0BE78D4 = ~z~who knows?
+
+0xB0E13DDB = ~z~What a way to...
+
+0xB1ADF578 = ~z~Saving alligators, but you don't mind that pork chop getting butchered?
+
+0xB1B03454 = ~z~I'm sorry my...
+
+0xB1C6D535 = ~z~is to leave a big load of meat...
+
+0xB2F0EFD8 = ~z~You're a curious, curious fellow.
+
+0xB4D1F997 = ~z~May I help you?
+
+0xB4D59013 = ~z~Shh, shhh.
+
+0xB5EE94A8 = ~z~Could have been you if you stayed on that bank where I found you.
+
+0xB6AFF5C8 = ~z~I didn't mean it like that.
+
+0xB6B19858 = ~z~Close, but not too close, I got it.
+
+0xB6CC2E34 = ~z~Ah, yes, of course...
+
+0xB7C05853 = ~z~Oh, photography, you wicked mistress.
+
+0xB8C94A70 = ~z~Thankfully the state legislature put a stop...
+
+0xB8E795DB = ~z~Good luck, Mr. Mason.
+
+0xB8F5DBD7 = ~z~Oh...
+
+0xB9FD27E7 = ~z~You had many dealings with wolves, Mr. Morgan?
+
+0xB20F05E3 = ~z~then you'll get eaten.
+
+0xB91B2A9E = ~z~I left the meat over there.
+
+0xB97F080E = ~z~Please, he's quite something...
+
+0xB798E2E9 = ~z~A little ignorance can go a long way... at least that's what I tell myself.
+
+0xB852B6C5 = ~z~before they tried to eat us.
+
+0xB853BD63 = ~z~Take us back where we began.
+
+0xB970C843 = ~z~You want your likeness taken? Go then!
+
+0xB1815F72 = ~z~Now, rotate... rotate.
+
+0xB3295D40 = ~z~It disappeared toward the back of the island.
+
+0xB8393DCA = ~z~A little closer please.
+
+0xB8492EE6 = ~z~They're beautiful...
+
+0xB8504B5D = ~z~Anyway, I hope you got something worth printing.
+
+0xB8841EA8 = ~z~Sure will... if I... if I can.
+
+0xB9415A9E = ~z~Come on. Snap out of it. You're safe.
+
+0xB67252E1 = ~z~It sort of is...
+
+0xB68402B7 = ~z~Mr. Marston!
+
+0xB96904BD = ~z~You take care now.
+
+0xB596974D = ~z~I hope you got what you came for!
+
+0xB749586E = ~z~Please no! Don't hurt me! Don't eat me!
+
+0xB1287858 = ~z~Yeah, big bag of raw meat will tend to excite the locals.
+
+0xB5098006 = ~z~Okay.
+
+0xB9380457 = ~z~You take care now.
+
+0xBA19B0DB = ~z~b-but please, step away from the cliff edge.
+
+0xBA19B98B = ~z~~sl:2.3~Hello.
+
+0xBA578758 = ~z~Well, only the basics...
+
+0xBA743531 = ~z~For shame!
+
+0xBAEBBC28 = ~z~~sl:0.0:1.5~A much, much longer tube.~sl:~And a cave to hide in. With bars on the outside.
+
+0xBAEE5B54 = ~z~Hey.
+
+0xBB326094 = ~z~The other way, we're getting too close.
+
+0xBBB74D84 = ~z~He passed some time ago.
+
+0xBC083554 = ~z~And you too, sir.
+
+0xBC5DB213 = ~z~This is God's own country, and I feel...
+
+0xBC8ED644 = ~z~It's coming for us!
+
+0xBC60EA69 = ~z~Good heavens.
+
+0xBCD4DCD2 = ~z~~sl:0.4:3.0:1~Come on... stay still, my beauties...
+
+0xBD215FF0 = ~z~Hello!
+
+0xBD779C39 = ~z~The wild horse is a different beast to his domesticated brother.
+
+0xBD92573D = ~z~My God.
+
+0xBDACC9F0 = ~z~Don't you dare do that!
+
+0xBE6C916A = ~z~There! In the channel. You see its head?
+
+0xBEB4EB19 = ~z~Jolly good work.
+
+0xBEB69E3E = ~z~Really?
+
+0xBECEFA0D = ~z~Just a little turn, please.
+
+0xBEF5B73B = ~z~No...
+
+0xBF3E8874 = ~z~That bag also contained half my chemicals.
+
+0xBF3F8DE2 = ~z~I'm working on a project...
+
+0xBF711954 = ~z~That “thing” is a coyote!
+
+0xBFA50DE3 = ~z~Real treacherous...
+
+0xBFB764E6 = ~z~Here?
+
+0xBFCCA15E = ~z~What a way to go.
+
+0xBFE7D0C3 = ~z~Oh, hello...
+
+0xC0524140 = ~z~He passed some time ago.
+
+0xC0DE765A = ~z~How are you?
+
+0xC3C110E7 = ~z~Monster!
+
+0xC4DABA69 = ~z~Don't!
+
+0xC5AC174B = ~z~Yes.
+
+0xC6A342D8 = ~z~Oh dear, oh no!
+
+0xC6B6F759 = ~z~Wildlife, that's my thing...
+
+0xC6BE2025 = ~z~What are you working on?
+
+0xC6BE3871 = ~z~that's probably where we should look.
+
+0xC6C192FA = ~z~Thankfully the state legislature put a stop...
+
+0xC8BAEB02 = ~z~Ah... yes... yes... there! No, he's gone!
+
+0xC8D7BBF2 = ~z~Come back please... away from the bait.
+
+0xC11CFFB1 = ~z~can you be bothered? I feel like such a blunderer.
+
+0xC13D3982 = ~z~how are you, sir?
+
+0xC16B663E = ~z~They'll make anything out of gator leather that the market desires.
+
+0xC18D9855 = ~z~They found some big bulls in these parts, surely they did.
+
+0xC28F4372 = ~z~but, unlike you they can fly.
+
+0xC48E0E96 = ~z~~sl:0.0:4.3~Well, that is a sour note to end on. A photograph of him now...~sl:~won't exactly save the species from extinction.
+
+0xC52C0F32 = ~z~~sl:1.3~That's it!
+
+0xC64D7248 = ~z~Marston, Mr. Marston...
+
+0xC71D34A2 = ~z~Wolves ain't great fans of man.
+
+0xC73DA066 = ~z~And you too, sir.
+
+0xC74B49E6 = ~z~you really must think I'm a buffoon, don't you?
+
+0xC83CA628 = ~z~~sl:0.5~John!
+
+0xC83F9332 = ~z~Take us around the island until we see something.
+
+0xC93E9648 = ~z~What a way to...
+
+0xC307DA55 = ~z~~sl:0.0:2.9~You maybe think about documenting animal life...~sl:~of the farm yard variety?
+
+0xC334C947 = ~z~How about we prioritize our lives over the photographs, okay.
+
+0xC517C447 = ~z~Oh, oh!
+
+0xC778A0D8 = ~z~Don't mention it.
+
+0xC784CC4D = ~z~Oh! Hello.
+
+0xC984E91F = ~z~Ah, yes, of course...
+
+0xC2025D8D = ~z~Can you stop the boat just there, off the island?
+
+0xC2979B16 = ~z~Coyote! Heel!
+
+0xC3121ACA = ~z~Hound a hell.
+
+0xC4610E2C = ~z~Hey, shhh.
+
+0xC5860F72 = ~z~Yes, yes. There they are... in the trees.
+
+0xC6879D02 = ~z~Oh, hello...
+
+0xC8818E7A = ~z~Well, how about I drive him over?
+
+0xC8968EA8 = ~z~Won't come anywhere near me of course...
+
+0xC68775E1 = ~z~I don't know...
+
+0xC70760F2 = ~z~land is real treacherous.
+
+0xC1259852 = ~z~I'm sorry, I tried.
+
+0xC4003420 = ~z~This was a fool of an idea! I tell you!
+
+0xC4426162 = ~z~Chugged up the waterways and churned whole bayous into mud.
+
+0xC6185250 = ~z~It's for you.
+
+0xC7321202 = ~z~Help!
+
+0xCA2DA3BE = ~z~photography.
+
+0xCAF55292 = ~z~I'd be some poor creature's bad meal by now...
+
+0xCB1CCD43 = ~z~Yeah, they can be pretty aggressive.
+
+0xCB1ECA26 = ~z~You are a gentleman.
+
+0xCBF504BE = ~z~Oh! We're here to document living creatures, not their dead bodies!
+
+0xCC078856 = ~z~Good luck with that.
+
+0xCC99AE43 = ~z~Coax him?
+
+0xCC13653D = ~z~And coyote, don't think about coming back!
+
+0xCC757273 = ~z~Sure. But we stop too long, the locals are going to start getting curious.
+
+0xCD3ABE81 = ~z~Thank you, and to you too, sir.
+
+0xCD77A988 = ~z~Sure.
+
+0xCD4453D8 = ~z~Some more greedy coyotes?
+
+0xCD151699 = ~z~Turn, turn.
+
+0xCDF67076 = ~z~Come on. Come on.
+
+0xCE80C1CC = ~z~Well, I hope we've changed.
+
+0xCEA93457 = ~z~One killing is forgivable, but two... I shan't be party to this... this hunt.
+
+0xCEAA8EFC = ~z~Oh!
+
+0xCF16D8E2 = ~z~Arthur!
+
+0xCF353FB4 = ~z~Oh, ah, yes. You had me there.
+
+0xCFB2C375 = ~z~That should do us.
+
+0xCFD8DD25 = ~z~Mostly thanks to Arthur.
+
+0xCFFAB5FC = ~z~Yes, I realize I am a fool.
+
+0xD1B749D6 = ~z~I don't blame them.
+
+0xD2B4AAD3 = ~z~Me neither.
+
+0xD3A40E74 = ~z~You are a genius.
+
+0xD3C4ABEF = ~z~Now, don't do anything. I'm going to take a few photographs.
+
+0xD3C17D94 = ~z~I remember Arthur.
+
+0xD3F7A452 = ~z~Sure, wait here.
+
+0xD4A4E79D = ~z~No, but...
+
+0xD4E655EC = ~z~They ain't so very friendly, are they?
+
+0xD4EBB039 = ~z~Thank you.
+
+0xD6AE2AD7 = ~z~he can smell my stupidity.
+
+0xD6B357E1 = ~z~Please just... come back this way, and we'll wait for them.
+
+0xD6E30294 = ~z~But maybe I want this monster stuffed and on display.
+
+0xD6FB41E5 = ~z~If that's coming from there then...
+
+0xD7C33EEA = ~z~that way you talk about yourself, Mr. Mason.
+
+0xD11DED9D = ~z~Do something, Mr. Marston! Help!
+
+0xD31D4784 = ~z~maybe you should think about documenting animal life of the farm yard variety, from now on?
+
+0xD40E8B84 = ~z~Cases, trunks, shoes, boots, belts... bibles even.
+
+0xD76A673C = ~z~Yeah, sure...
+
+0xD76AA3DE = ~z~I need to face the island.
+
+0xD77AD301 = ~z~never damsel in distress!
+
+0xD96A69DE = ~z~~sl:0.4~My whole futile existence flashed before my eyes.
+
+0xD234DDC1 = ~z~I'm in purgatory.
+
+0xD249DB9B = ~z~Hello again.
+
+0xD349E72F = ~z~Arthur Morgan.
+
+0xD362AB9F = ~z~I've got it! I've got it! Yes!
+
+0xD484AAE7 = ~z~I hope you're slow.
+
+0xD519BC53 = ~z~Oh, look... on that little beach... boars.
+
+0xD632C175 = ~z~it might just save him from the taxidermist.
+
+0xD785EA5B = ~z~Too true...
+
+0xD882C6F8 = ~z~Right, right... there in that cane-break. That's a likely spot for one.
+
+0xD2580F8F = ~z~They ain't "provoked", they're just wolves!
+
+0xD7553E9D = ~z~My name's John Marston.
+
+0xD12311B1 = ~z~Don't worry.
+
+0xD92133CE = ~z~I didn't see any movement over here...
+
+0xD1033357 = ~z~Why don't we take this boat out...
+
+0xD3175123 = ~z~I'll try.
+
+0xD5874888 = ~z~They creep up on you, you know.
+
+0xDA4EB1A5 = ~z~This was a fool of an idea! I tell you!
+
+0xDADDB22A = ~z~Not quite there, turn.
+
+0xDB8EBC94 = ~z~Maybe you can take a photograph of them then?
+
+0xDB618B08 = ~z~Hmm. Yeah...
+
+0xDBED473D = ~z~Yeah, I guessed that bit.
+
+0xDC42F52D = ~z~many times over if it weren't for him.
+
+0xDC686CB9 = ~z~You don't know me very well.
+
+0xDC864DB2 = ~z~Now, I'm getting ate!
+
+0xDC7692E2 = ~z~that's probably where we should look.
+
+0xDC410292 = ~z~~sl:0.0:3.4~I'll give you the benefit of the doubt, and assume that was necessary.~sl:0.7~At least I had him photographed.
+
+0xDD06BCC0 = ~z~Okay.
+
+0xDD3F52C5 = ~z~These things happen.
+
+0xDDB15169 = ~z~Forgive me...
+
+0xDE0A514E = ~z~No, this is in the 70's, 80's...
+
+0xDE4C1758 = ~z~Maybe, maybe. But usually we wait until after they're dead.
+
+0xDE304AF9 = ~z~Have you?
+
+0xDE196675 = ~z~Back over here, please sir.
+
+0xDEB7804C = ~z~Oh! We're here to document living creatures, not their dead bodies!
+
+0xDEBB6F9B = ~z~~sl:0.0:2.3~Last year they brought 10,000 skins...~sl:~out of the swamps of Lemoyne alone.
+
+0xDEEEF4E5 = ~z~Hello!
+
+0xDEF9686D = ~z~~sl:0.0:2.0~This, this is not the scene I designed.~sl:0.1~Join me behind the camera, please.
+
+0xDF1F0F31 = ~z~Hello!
+
+0xDF5BC431 = ~z~~sl:0.7~I'm gonna cry for that gator all the way back.
+
+0xDF9BA70E = ~z~Not through lack of trying on their part.
+
+0xDFF5C40F = ~z~Mr. Marston! Help!
+
+0xE02D2908 = ~z~I think I have it...
+
+0xE05B64C6 = ~z~These pictures you're taking.
+
+0xE09DE0B1 = ~z~Put that away, we're conservationists, not killers.
+
+0xE0CE185B = ~z~You provoked them, Mr. Morgan! Help!
+
+0xE0DFE309 = ~z~You know horses seem like a fine subject for you...
+
+0xE0E6C737 = ~z~Don't blame them.
+
+0xE0F5514E = ~z~You sure do make me laugh...
+
+0xE1CCEC1A = ~z~Please no! Don't hurt me! Don't eat me!
+
+0xE1FC9140 = ~z~I'll wait with you for a while.
+
+0xE2CFF1B3 = ~z~You wanted wolves, you got wolves, Mr. Mason!
+
+0xE2D4D67C = ~z~I do, Mr. Mason, I do.
+
+0xE2DA396B = ~z~Or it can get you killed. But hey, good luck.
+
+0xE2F9B55E = ~z~Well, good luck with that.
+
+0xE3C99F9B = ~z~How are you?
+
+0xE5ADB100 = ~z~The photographs, what are you gonna do with them?
+
+0xE5DC5E61 = ~z~they're the nasty ones.
+
+0xE5F07800 = ~z~They was minding their own business too, 'til you strung that bait up!
+
+0xE6CC57CC = ~z~Excellent! The beast in repose. All is calm as the predator lurks.
+
+0xE6E85F21 = ~z~and I'll protect you?
+
+0xE9B9777E = ~z~Well, I'll...
+
+0xE9C21D42 = ~z~There isn't, is there?
+
+0xE28D59EF = ~z~they're the nasty ones.
+
+0xE36E4457 = ~z~is a silver dapple pinto.
+
+0xE46E81E8 = ~z~and somehow...
+
+0xE70A9254 = ~z~What you shooting?
+
+0xE70E9527 = ~z~Coyote! Heel!
+
+0xE73D54DC = ~z~I'm... I'm...
+
+0xE85FA589 = ~z~~sl:0.4:3.1~That's the spirit. Out you go then.~sl:~Get him... get him to notice you and... then turn tail and run.
+
+0xE97D5698 = ~z~
+
+0xE98E17B5 = ~z~
+
+0xE640C11E = ~z~very well.
+
+0xE743CB8F = ~z~They was minding their own business too, 'til you strung that bait up!
+
+0xE935F589 = ~z~Seventeen feet... nineteen feet... twenty one feet with a five foot head...
+
+0xE6012F69 = ~z~The gators got some catching up to do then.
+
+0xE17052C3 = ~z~I remember Arthur.
+
+0xE20303D0 = ~z~Can you keep your head down while I take the shot?
+
+0xE94093A4 = ~z~Thank you again. Fare thee well.
+
+0xE95467B8 = ~z~If I could take that fellow's likeness... it might...
+
+0xE96816D2 = ~z~Here, gator.
+
+0xE404810C = ~z~You know...
+
+0xE599365E = ~z~Drop the bag!
+
+0xE654614E = ~z~I don't like wolves!
+
+0xE916621F = ~z~I think I might be able to help you.
+
+0xE5118766 = ~z~I think I might be able to help you.
+
+0xE5841972 = ~z~You wouldn't!
+
+0xE6306253 = ~z~Take us around the island until we see something.
+
+0xEAC57D5B = ~z~Alas! We've lost the light. Have to save this photograph for another day!
+
+0xEAF246F0 = ~z~Well, in my world that makes you a genius.
+
+0xEAFEF0F9 = ~z~~sl:0.9~Is that all of them? We might'a kept the wolves from the door.
+
+0xEB0142D6 = ~z~Let's have a look at that other one... and remember that.
+
+0xEB0A47BB = ~z~My bag, that thing is robbing me!
+
+0xEB668ED9 = ~z~Oh good, good.
+
+0xEBA89E30 = ~z~funny how things turn out...
+
+0xEBCAFC60 = ~z~~sl:0.3~Me too.
+
+0xEC32E7C8 = ~z~hello.
+
+0xEC8197AE = ~z~Come here...
+
+0xED02B4C5 = ~z~Loving killers is part of our makeup.
+
+0xED071AA9 = ~z~I heard about your work through an old friend of mine...
+
+0xED8DE512 = ~z~Thank you for trying.
+
+0xED191575 = ~z~This area is quite safe...
+
+0xEE7AB13A = ~z~Oh, ah, yes. You had me there.
+
+0xEE2514D8 = ~z~The final sighting was to the northwest of here.
+
+0xEE77800C = ~z~What?
+
+0xEE295039 = ~z~Yeah, I guessed that bit.
+
+0xEF0BAF0A = ~z~Ah, Marston...
+
+0xEF5B1B5D = ~z~You know, the images, they really are beautiful...
+
+0xEF8B0A0E = ~z~Ok, let's go look then...
+
+0xEFFBC723 = ~z~Oh, amazing.
+
+0xF0527C00 = ~z~Oh, we got a good one...
+
+0xF054F5E3 = ~z~~sl:0.0:3.5~There's twenty foot gators here and us two idiots are sitting in a...~sl:~twelve foot skiff?
+
+0xF070196D = ~z~Ah... yes... yes... there! No, he's gone!
+
+0xF0FA24D1 = ~z~Let's have a look at that other one... and remember that.
+
+0xF1D9CB8A = ~z~But you've never been eaten?
+
+0xF1DB83D7 = ~z~In, in, in, in, in.
+
+0xF1F4212B = ~z~May I help you?
+
+0xF2A7062E = ~z~and I'll protect you?
+
+0xF3B6F360 = ~z~That should do us.
+
+0xF3ED3DEF = ~z~May I help you?
+
+0xF4A9FBFC = ~z~The ten percent who survived...
+
+0xF4ECFBC4 = ~z~Yeah, they can be pretty aggressive.
+
+0xF6C625F3 = ~z~Well you really are trying to get yourself eaten.
+
+0xF6E8DDFB = ~z~We have to head northeast, that's the last one.
+
+0xF6E588D2 = ~z~It sort of is...
+
+0xF6F90C8E = ~z~Well, did you know that in the last fifty years...
+
+0xF7DE4B58 = ~z~You're kind of in the way there, old boy.
+
+0xF7FF0523 = ~z~Seventeen feet... nineteen feet... twenty one feet with a five foot head...
+
+0xF8ED6EE2 = ~z~I hope you got what you came for!
+
+0xF9A8A463 = ~z~Give me this shot, I beg you.
+
+0xF12CC806 = ~z~I'm sorry my...
+
+0xF18F73F1 = ~z~You take care now.
+
+0xF20A838A = ~z~This isn't a hunting trip! Put it down please.
+
+0xF26FCD8D = ~z~The framing, yes. But the lighting, hmm.
+
+0xF31E0E4F = ~z~I don't like wolves!
+
+0xF33ECB7A = ~z~Especially when clawing at your eyeballs...
+
+0xF34AA65F = ~z~Duck a little, will you... make yourself inconspicuous.
+
+0xF40A6D7E = ~z~Usually they are not great fans of man.
+
+0xF40CF77D = ~z~Although maybe I'll... strike a few lucky shots.
+
+0xF51FFB90 = ~z~you'll get a great shot...
+
+0xF52A0056 = ~z~Don't worry about it.
+
+0xF62D2565 = ~z~I haven't quite broken my neck.
+
+0xF63F2581 = ~z~I really did get...
+
+0xF87C766F = ~z~Chugged up the waterways and churned whole bayous into mud.
+
+0xF90D177A = ~z~You're in the way. Move it.
+
+0xF328E3CC = ~z~I know... beautiful.
+
+0xF448DE8D = ~z~it might just save him from the taxidermist.
+
+0xF505E918 = ~z~And coyote, don't think about coming back!
+
+0xF546A259 = ~z~~sl:0.2~I'm gonna cry for that gator all the way back.
+
+0xF585A45F = ~z~Oh good, good.
+
+0xF644E34D = ~z~~sl:0.0:3.5~Don't worry about me. Lightning doesn't strike in the same place,~sl:0.1:1.2:1~and neither do wolves.
+
+0xF2907C93 = ~z~Now the last one is southwest.
+
+0xF4550BC3 = ~z~~sl:0.0:3.8~There's twenty foot gators here and us two idiots are sitting in a...~sl:0.2~twelve foot skiff?
+
+0xF9571B32 = ~z~On the other hand, they look like they may be fans of you.
+
+0xF93636AB = ~z~ain't never how you expect, is it?
+
+0xF173005F = ~z~How are you?
+
+0xF7550798 = ~z~~sl:0.4~Let's try and find another, shall we?
+
+0xFA06317F = ~z~and somehow...
+
+0xFA0C32C3 = ~z~You take care.
+
+0xFA5A0608 = ~z~and then you'll get eaten.
+
+0xFA727797 = ~z~Right, right... there in that cane-break. That's a likely spot for one.
+
+0xFAA64ABE = ~z~You don't need to aim at them...
+
+0xFB550BE3 = ~z~~sl:0.0:2.1~It ain't shame to this rowing fool...~sl:0.3~who values his arms being attached to his body.
+
+0xFBA40E9E = ~z~who knows?
+
+0xFBBE3B7E = ~z~Over here, boy.
+
+0xFBCB4B19 = ~z~Oh! Hello.
+
+0xFCBE4A6F = ~z~how are you, sir?
+
+0xFD5CCEFE = ~z~You know, horses seem like a fine subject for you.
+
+0xFD68A3A7 = ~z~Don't!
+
+0xFD629325 = ~z~Okay... this is good work. It's God's work.
+
+0xFDAF00D4 = ~z~~sl:0.0:2.5~You know, in the season, there are more alligator hunters...~sl:~down here than... than... alligators.
+
+0xFDDAB6F8 = ~z~but not that dense.
+
+0xFDF99102 = ~z~Now, look. There's an alligator back in those palms. Could you...
+
+0xFE38639C = ~z~photos coming along?
+
+0xFEF63C3F = ~z~well, maybe a little.
+
+0xFF3896C9 = ~z~~sl:0.0:2.8:1~It'll take more than a large reptile to consume you.
+
+0xFF80396B = ~z~Come here...
+
+0xFFA4E7F7 = ~z~This will show the boys at the Geographical Society.
+

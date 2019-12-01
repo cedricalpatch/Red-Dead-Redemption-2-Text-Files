@@ -1,0 +1,886 @@
+0x0099EC76 = First Person
+
+0x00D7EBD1 = This setting determines if you will receive Game Invites, Friend Invites, Crew Invites, and Posse Invites whilst in Story Mode
+
+0x00D76114 = Medium
+
+0x02D6A309 = Southpaw FPS
+
+0x02F3F909 = Turning Auto Save 'Off' will mean you have to manually save your game by accessing the Story section of the Pause menu
+
+0x0373876C = Safezone Width
+
+0x05F2BCCC = Controller
+
+0x05FB301F = Radar
+
+0x060ED0A8 = The HUD will now display on the official Red Dead Redemption 2 Companion App. This can be manually controlled on the app.
+
+0x064F3549 = Static
+
+0x0688DCD1 = Clock
+
+0x0776A90A = Control the use of the Kill Cams when you make a special kill in Story Mode.
+
+0x07DA8018 = Look
+
+0x083A281C = Mouse Look Sensitivity
+
+0x08D8F464 = Player Overhead
+
+0x08E8C592 = Mouse Mode
+
+0x095D88F7 = Whistle
+
+0x0AFF4982 = Set blips on the radar to normal or large size.
+
+0x0B5DFD94 = Headphones
+
+0x0B86B9BA = Medium
+
+0x0BCED89B = Melee Block
+
+0x0CBD332B = Cover
+
+0x0D5B2C2B = Horse Overhead
+
+0x0D694C41 = Damage Indicators
+
+0x0DCFA7CE = Dead Eye (When Aiming)
+
+0x0F62F23B = Restore ~1~ Defaults
+
+0x0F3161F0 = Sharpness
+
+0x1AF8B79F = The Temperature Unit will appear when pressing ~INPUT_REVEAL_HUD~
+
+0x1BDEF95D = Sound Volume
+
+0x1C96B9B2 = Safezone Height
+
+0x1CBCECB7 = Changes the size of blips on the radar.
+
+0x1E1C79A3 = Lock-On Mode (Mount / Vehicle)
+
+0x1E213815 = Specifies the overall difference in volume between the loudest moments of the game and the quietest moments.~n~~n~Extended Dynamic Range is best when you are able to play the game at a loud volume on a full range speaker system or headphones.
+
+0x1F0AB117 = Colorblind Mode
+
+0x2A7A12AD = Control the visibility of the overhead Crew tag.
+
+0x2ACF549B = Standard FPS
+
+0x2CBCA824 = Calm / Pat Horse
+
+0x2CC39A7F = Allow the Location information to appear on screen.
+
+0x2D1D8FB3 = Mouse Smoothing
+
+0x2DA3646A = Adjust the opacity of the overheads
+
+0x2E81FAA5 = By default, HUD elements will appear dynamically on screen only when required. Turning the HUD off will remove all elements from the screen, but can be recalled using ~INPUT_REVEAL_HUD~.
+
+0x2EA21C06 = The Wanted meter is used when the law are after you.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x2EFE78E8 = HUD Preset
+
+0x2F6C1477 = Controls if voice chat will be captured automatically while speaking (voice activated) or only while the Push to Talk hotkey is pressed.
+
+0x2F9433C8 = You will still receive Online Invites if this setting is turned off
+
+0x3A8ECF51 = Tritanopia (Yellow-Blue)
+
+0x3B07232C = Dialogue Balance
+
+0x3C27A730 = Toggle Holster
+
+0x3CC468DB = Allow the Honor meter to appear top right of the screen
+
+0x3CED5F0B = Tap to Hold Delay
+
+0x3D37A373 = The Transaction Feed lets you know about items you have acquired as you progress. It is also used to show when items are lost.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x3E7C48FC = Melee Attack Left
+
+0x3EAD1DD8 = On Horse
+
+0x3EC61777 = Third Person Controls
+
+0x3F5AEF60 = First Person Auto Level Camera
+
+0x3FF7F479 = Alternate + Southpaw FPS
+
+0x4A998D96 = Double tap direction key to Run. Triple tap direction key to Sprint. ~n~~n~While Running / Sprinting, release direction key and re-press to change between speeds.
+
+0x4A4354FF = Slow / Stop
+
+0x4B1B6872 = Allow the Objective navigation to always find a path for you
+
+0x4B1C98B7 = Adjust the time that the game will take to distinguish a button tap, from a button hold.
+
+0x4B7F851A = Aim Weapon
+
+0x4BA00CCC = Having trouble with screen edges? Adjust the safe area around the game to better suit your setup.
+
+0x4BC966E6 = Control the display of the Honor meter on screen.
+
+0x4D455FA2 = Quick Use Item (Tap)
+
+0x4DFF0DDE = Item Wheel (When Wheel Open)
+
+0x4EAC9BEE = Cheats
+
+0x4EB40A1B = Change the subtitles to suit your gameplay
+
+0x4ED19F9A = Dismount
+
+0x4F6A34D6 = Completely enable or disable voice chat.
+
+0x5AA9DE97 = Change Damage Indicator Effects
+
+0x5B1C5722 = Mutes incoming voice chat when a microphone is not available.
+
+0x5B39BA70 = Attack
+
+0x5C70CBDD = Allow Objective Text information to appear bottom center of the screen
+
+0x5C490BA8 = Toggle the mouse acceleration in Third Person view.
+
+0x5C989DF7 = Medium
+
+0x5D43E54A = On Foot
+
+0x5DEAB779 = Lock-On Mode (On-Foot)
+
+0x5E2B3B42 = Controls the volume of SFX while other players are talking.
+
+0x5F08055D = Access Photo Mode quickly using the 'Cycle Camera' button. 'Cycle Camera' will not be available with this feature turned on. Photo Mode is only available in Story Mode.
+
+0x5FA84633 = Hold
+
+0x6A27E0DD = Hold to Run
+
+0x6A35696A = Invites from other players may appear while you're in Red Dead Online. These invites may still be accessed in the Player menu if this is turned off, but will not display in the HUD.
+
+0x6A950260 = Weight
+
+0x6AC66047 = By activating a cheat code you relinquish the ability to save single player game progress and collect single player Awards. Are you sure you want to activate this cheat code?
+
+0x6C458624 = Tap Assist
+
+0x6DB2DE66 = Posse Name
+
+0x6DD31AD3 = Advanced
+
+0x6DEB707C = Special Edition
+
+0x6DFD7F96 = Allow the speaker's name to appear on screen
+
+0x6E70ACED = Small
+
+0x6F443E8D = None
+
+0x7A059359 = Change your Display Calibration
+
+0x7A8EED37 = In Story Mode, choose whether the game will save your progress automatically after key moments. You can still save the game manually at any point by accessing the Story section of the Pause menu.
+
+0x7AF55C5A = Control the use of the Drive-By Camera being relative to the vehicle while in First Person.
+
+0x7B5DA394 = Allows Invites from Red Dead Online to appear onscreen while in Story Mode. Invites can be accessed from the Invites section of the Log menu whether this setting is on or off.
+
+0x7B48F166 = Cinematic Camera (Hold)
+
+0x7BF96614 = View Controls
+
+0x7C92D37E = Controls the volume of music while other players are talking.
+
+0x7C192335 = Horse Control Whilst Aiming
+
+0x7D96CFF1 = Increase Speed
+
+0x7D383061 = Enable HDR display on your TV. This will be auto enabled if a compatible TV has been detected.
+
+0x7DE944B8 = Hold To Aim
+
+0x7F5DC52C = Move
+
+0x7F26DB4B = Skip Cutscene (Hold)
+
+0x7F27FD39 = Free Aim
+
+0x7F464683 = Turn on or off the blips on the radar.
+
+0x7FCFAAC3 = Allow Ammo details to appear top right of the screen
+
+0x8AB41515 = Adjust how the Reticle is displayed on screen
+
+0x8B7DD5A0 = Alternate
+
+0x8B40F1A6 = Narrow
+
+0x8C5F6226 = Allow Help Tips to appear top left of the screen
+
+0x8C795484 = Adjust the amount of Dead Zone between aiming and looking whilst in Third Person view.
+
+0x8D9D8BC1 = Adjust the Look Sensitivity setting whilst in First Person view.
+
+0x8DACC784 = This function supports Protanopia / Deuteranopia / Tritanopia
+
+0x8DED58F0 = Control the overall visibility of the overhead information that displays above your horse.~n~~n~Setting to Hidden will hide all overhead information, unless manually recalled by using ~INPUT_REVEAL_HUD~.
+
+0x8EDB5AD5 = Increase / Maintain Speed
+
+0x8F1E76A6 = Adjust the Field of View when in Third Person to better suit your play style.
+
+0x8FDDE1EB = Invert the Y-axis of the main camera and aiming control.
+
+0x9A8E5D8D = Horse Control
+
+0x9A22F460 = Choose to have Vibration feedback from the controller.
+
+0x9B99D8F3 = Adjust how the Reticle is displayed on screen.
+
+0x9C1CC48D = High
+
+0x9C308CEC = Control the use of the Auto-Centering Camera when you are aiming whilst mounted in First Person.
+
+0x9D833942 = GPS Route
+
+0x9DAF8075 = Control the use of the Combat Roll Camera in First Person.
+
+0x9E33C2D2 = Toggle Lights
+
+0x9E41052D = Camera Relative
+
+0x9E507069 = Allow First Person Auto Level Camera
+
+0x9EF9E158 = Change the Targeting Modes for when you are aiming whilst on-foot. Normal, Narrow and Wide will always try to lock-on to the best enemy. Free Aim has no lock-on.
+
+0x9EFA1443 = Shuffle Seat
+
+0x10FE87EC = Change Cinematic Shot
+
+0x22B16F5C = Interactive Music
+
+0x22BFA248 = Complex
+
+0x23CD3DE0 = On Foot Zoom
+
+0x23D157F0 = Mouse Aim Sensitivity
+
+0x27C36328 = CONFIRM
+
+0x27EC3FC1 = Reduced
+
+0x28DE3B45 = Rear Speaker Setup
+
+0x29C8CD07 = Melee Attack
+
+0x30A719B0 = Aiming Mode
+
+0x30C33714 = Southpaw
+
+0x31EE2098 = Allow First Person Cover
+
+0x32B54353 = Control the overall visibility of the overhead information that displays above players.~n~~n~Setting to Hidden will hide all overhead information, unless manually recalled by using ~INPUT_REVEAL_HUD~.
+
+0x32F2B46A = Score Volume
+
+0x33B70478 = Adjusts the leveling of the First Person Camera automatically.
+
+0x33F828AF = 3x
+
+0x35DBD3AD = Mount Horse / Enter Vehicle
+
+0x35F1A202 = Allow HDR to be switched On or Off
+
+0x39A922D8 = Allow First Person Combat Roll
+
+0x39BD2197 = Standard FPS2
+
+0x39C5B6CE = Windows Mouse
+
+0x39FD61B7 = Surround Side
+
+0x40D0D2D4 = Damage Indicator Effects occur every time you get shot. Turn this off if they do not suit your play style. These indicators only appear in Red Dead Online.
+
+0x47C90B6E = Trigger Vibration
+
+0x52B9F2F0 = Keyboard & Mouse
+
+0x54ACD5F9 = Change Screen Kill Effects
+
+0x54CF3551 = Wide
+
+0x56B94203 = First Person Head Bobbing
+
+0x56BCEF04 = Weapon Wheel (Hold)
+
+0x57D2F505 = Control the display of the location on screen
+
+0x61BC8BD2 = Loot
+
+0x62FB4608 = Adjusts the mouse smoothing setting of the main camera and aiming control.
+
+0x66C4C8A2 = Allow Independent Camera View Mode Tracking
+
+0x68B7B79F = Exit
+
+0x68BFE452 = Mouse Aim / Look Acceleration
+
+0x69D18898 = Allow First Person Drive-By Camera Relative to Vehicle
+
+0x70AF66B7 = Regular - Displays the radar at its normal scale and size.~n~~n~Expanded - Forces the radar to display as a larger version at all times.~n~~n~Compass - The compass is a simplified version of the radar, displaying only when an objective is available.~n~~n~Off - Play with no radar on screen.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning the radar off may make parts of the game more difficult to play.
+
+0x70EB7675 = Sets the mode of the mouse.
+
+0x71D06914 = Piaffe / Drift (Hold)
+
+0x73F4E32B = Video Memory:
+
+0x73F29006 = Targeting and Weapons
+
+0x75A0262D = No Function
+
+0x75AEDC92 = Allow First Person Vehicle Auto-Center
+
+0x79BAB75C = The clock will appear when pressing ~INPUT_REVEAL_HUD~
+
+0x84CA86BE = Button Prompt Display
+
+0x87C9B69A = Select the front speaker position that best matches your audio setup.
+
+0x89A376DA = Tap and Hold Speed Control (On-Foot)
+
+0x90B1F4DC = Use 'Cycle Camera' control for Photo Mode
+
+0x92A5417A = Horse Relative
+
+0x93DB6006 = Radar Blip Size
+
+0x94B26056 = Customize your keyboard and mouse mappings.
+
+0x96E80EC6 = Invert Mouse Look
+
+0x99CB0D85 = Screen Kill Effects occur every time you make a kill. Turn this off if they do not suit your play style.
+
+0x110A93FE = Calibrate your HDR display to suit the game.
+
+0x173EC61B = Allow the Wanted meter to appear on screen
+
+0x207C42A3 = Control the use of the Vehicle Camera in First Person.
+
+0x213ACCF8 = Allow First Person Rag Doll
+
+0x243D794F = Allow Automatic Camera Side Switch
+
+0x287C24A7 = Ammo appears dynamically during gameplay. It can also be recalled using ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x319CA95A = Control the use of the Horse Camera in First Person.
+
+0x328A2522 = Select the surround speaker position that best matches your audio setup.
+
+0x345EF074 = Horse Melee
+
+0x379EC1F5 = Look Behind
+
+0x386C5C3B = Normal
+
+0x390F959E = MB
+
+0x403A7B7E = Adjust the Aim and Look Sensitivity setting while in Third Person view.
+
+0x405F41E0 = Alternate FPS2
+
+0x422EE717 = Custom
+
+0x429B67D9 = Alternate FPS
+
+0x429E2922 = Switch firing mode (When Aiming)
+
+0x445E6A55 = Help Tips occur throughout the game, and can be useful to learn about some key game mechanics.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x465BD85E = Switch Control Type
+
+0x476F3A91 = Look Sensitivity
+
+0x511A0B77 = Select if you want the Red Dead Online Player Overhead to appear on screen
+
+0x540FEB60 = Wireless Stereo Headset
+
+0x544C18F8 = Eagle Eye (Left Stick + Right Stick)
+
+0x565AE2C3 = The ticker displays useful information in Red Dead Online. It's useful to track kills, points and game information that may occur outside of your screen space.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x584F5FD3 = Brightness Calibration
+
+0x585D94C9 = Allow the Central Messages to appear on screen
+
+0x611CDE87 = Reticle Messages appear directly above the aiming reticle.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x643F6F7F = Allow the display of the cinematic letterbox to appear on screen
+
+0x679DC728 = Control the volume of your outbound voice chat.
+
+0x698E8732 = A high sensitivity setting allows you to be heard more easily, but could pick up more ambient noise
+
+0x702AFE97 = Adjust this setting to make yourself louder or quieter to other players
+
+0x742A9E1E = Pick up / Swap Weapon
+
+0x750B663B = Red Dead Redemption 2 Companion App
+
+0x761DC8D5 = Autosave
+
+0x812A5CCF = Select the Speakers or Headphones used for voice chat audio playback.
+
+0x840E5EE2 = Controls how quickly the camera will pull around behind the player while moving.
+
+0x859C5A56 = Adjust the Look Sensitivity setting whilst in Third Person view.
+
+0x866BAAF9 = Rear
+
+0x881EA30A = Control the use of the Pull Around Camera.
+
+0x918A9CB7 = Look Behind
+
+0x956D5745 = Controller
+
+0x961F72A0 = 2x
+
+0x971D433D = Select your preferred Distance measurement.
+
+0x1426B2D0 = Allow Score Timers to appear on screen whilst Online
+
+0x1551C556 = Control the use of the Cover Camera in First Person.
+
+0x1722B3DD = Select your preferred Weight measurement. The Weight Unit will appear when inspecting a caught fish.
+
+0x2332EEE5 = Aim Assist Strength (Mount / Vehicle)
+
+0x3950A329 = Keyboard
+
+0x4226C7E0 = Surround
+
+0x4358C0AE = No Devices Detected
+
+0x4710D184 = Front speaker setup
+
+0x4823F6EA = Adjust the Field of View when in First Person to better suit your play style.
+
+0x5837D4E5 = Near
+
+0x6478FAF7 = Choose to display the name of the character who is currently speaking.
+
+0x7905B80A = Select the input device for capturing outbound voice chat audio.
+
+0x8113DDA1 = Allow the ticker feed to appear in Red Dead Online
+
+0x8349CA82 = When turned on, the game will always try to connect to the official Red Dead Redemption 2 Companion App.
+
+0x17857B0B = Southpaw FPS2
+
+0x20838CA0 = Map (Hold)
+
+0x32803AED = 24 Hour
+
+0x35514F4B = Change the Aim Assist Strength for when you are aiming whilst mounted. The higher the Aim Assist Strength the less accurate your shots will need to be to hit the targeted enemy and the easier it will be to keep your aim over the target.
+
+0x42284D54 = Control the use of the Rag Doll Camera in First Person.
+
+0x46114A54 = Adjust the set up of your HUD Safe Zone
+
+0x50302D20 = Calibrate your HDR display
+
+0x53968E93 = In a Vehicle Zoom
+
+0x57689AC8 = Adjust the overall transparency of the overheads for your player and horse.
+
+0x58550FA5 = Show Info (Tap)
+
+0x64920C79 = Aim in the air (When Aiming)
+
+0x67509AF5 = Allow the functionality of Kill Cam
+
+0x67883AB4 = Set the height of the Vehicle Camera.
+
+0x70267F00 = TV
+
+0x83983A27 = Protanopia (Red-Green)
+
+0x84862C4F = Adjust the mouse sensitivity setting for aiming and looking in First Person view.
+
+0x89145D61 = Allows tapping action sequences to be made easier, or even turn it into a hold function. Repeated button presses are used in several action sequences in game that require urgency.
+
+0x309149D2 = Look
+
+0x371310CA = Pull Around Camera
+
+0x493186FC = Change HUD Behavior
+
+0x932210AF = Hitch (Hold)
+
+0x932819BF = Cycle Camera
+
+0x996113A0 = Invert Look
+
+0x1968611C = First Person Controls
+
+0x2563343A = Radar and Blips
+
+0x3704754A = Pause / Online Menu
+
+0x4573048D = Low
+
+0x7317095B = Download the Red Dead Redemption 2 Companion App to make full use of this function
+
+0x27230299 = Changes the size of blips on the map menu.
+
+0x41484403 = Adjusting the sharpness filter can improve the quality of how the game looks and reduce any issues with blurring.
+
+0x50251208 = Alternate + Southpaw
+
+0x54306763 = Adjust the set up of your HUD Scale
+
+0x55026957 = 4x
+
+0x59305683 = Adjust Third Person View
+
+0x71641519 = This function will default to Normal when output is set to TV
+
+0x77186705 = Stereo
+
+0x77535376 = Dot
+
+0x79049070 = Focus Camera (Hold)
+
+0x79133599 = First Person Rag Doll
+
+0x82837269 = Score Timers are used in activities, or special missions where a score or time is useful to know.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0x85619637 = Melee Attack Right
+
+0x89701421 = Light Bar Effect
+
+0x93874781 = Large
+
+0xA0216388 = Tap and Hold Speed Control (Mount / Vehicle)
+
+0xA0A6E819 = Side
+
+0xA0C663F9 = Adjust the Aim and Look Sensitivity setting while in First Person view or aiming down the sights of scoped weapons.
+
+0xA1D434CB = Allow Status Icons to appear on screen
+
+0xA2DC4BC9 = Type that appears at the bottom left of the screen
+
+0xA9EC0C4D = Adjust the size of the Reticle dot
+
+0xA21D6DAD = Redefine Controls
+
+0xA41E461B = The Distance Unit will appear at the bottom of the radar when pressing ~INPUT_REVEAL_HUD~.
+
+0xA42C7128 = Opacity
+
+0xA60F435B = Adjust the amount of Acceleration between aiming and looking whilst in First Person view or aiming down the sights of scoped weapons.
+
+0xA70E64A1 = Surround Rear
+
+0xA72E9FA3 = Output
+
+0xA201F15A = Switch Shoulder (When Aiming)
+
+0xA228BAE0 = HDR Calibration
+
+0xA833FFC8 = Accessibility
+
+0xA4341C94 = Move
+
+0xA6803F65 = HUD
+
+0xAA6E623C = Stamina, Health and Dead Eye Cores will drain 20% slower with this setting turned on.
+
+0xAABF1004 = Running Mode (On-Foot Only)
+
+0xAB92A525 = In Vehicle
+
+0xAC180A02 = Controls the volume of inbound voice chat.
+
+0xACC1C8BC = Normal
+
+0xAD4D60B4 = Look
+
+0xAD4D157A = Aim / Look Dead Zone
+
+0xAE4E7D6A = Weapon Reticle
+
+0xAE795ADF = Controls the volume of dialogue relative to SFX and music.
+
+0xAE1425C8 = Controls the overall volume of the musical score.
+
+0xAED6E26A = Automatic Pin Switching
+
+0xAF03E2BF = Enter Cheat
+
+0xAF43A31E = Off
+
+0xAFC1C13D = Activating a cheat will disable autosaving, manual saving, and Accomplishments in story mode. Reloading a previous save will regrant access to these features.
+
+0xAFF8C3FB = Extended
+
+0xB1F25EB2 = High
+
+0xB12A1219 = Story Mode
+
+0xB18A839C = Crew
+
+0xB48B5461 = Adjust the Aim Sensitivity setting whilst in Third Person view.
+
+0xB49B8372 = Allow Transaction Feeds to appear on screen
+
+0xB51C2C8F = Toggle To Aim
+
+0xB52F49C8 = Control the visibility of the Posse Name.
+
+0xB57C547A = Adjust how the Threat Indicator appears on screen
+
+0xB94E7130 = Standard
+
+0xB293BB7F = Stereo
+
+0xB359F4DA = Allow Display Cinematic Letterbox to appear on screen
+
+0xB802CE2E = Pulse Headset
+
+0xBB7BA0BB = Simple
+
+0xBB94DDEF = Tag Target (During Dead Eye, Story only)
+
+0xBC307ED9 = Status Icons display player, or Horse Stamina, Health and Dead Eye.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0xBC776A58 = Jump
+
+0xBCB92C21 = Targeting mode is currently restricted by network session.
+
+0xBD9A00A1 = Notifications will appear as required during gameplay. Notifications may still be accessed in the Log if this is turned off, but will not display in the HUD.
+
+0xBD78F9ED = Dynamic
+
+0xBDDF7180 = Objective Text appears dynamically during gameplay. It can also be recalled using ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0xBE543A39 = Carry
+
+0xBE9584D6 = Aim Weapon
+
+0xC0E5AC15 = It helps to make a new save game before cheating
+
+0xC1F51165 = Keyboard & Mouse Horse Control
+
+0xC2A8012E = Move
+
+0xC4AFE8B6 = Single tap to speed up. Double tap direction key to Run. Triple tap direction key to Sprint. ~n~~n~While in Run, re-tap same direction key to go to Sprint. If direction key is released and re-pressed then it stays at that speed. ~n~~n~For wagons, double tap direction to Sprint. When released and held, retains the speed that was dropped down to.
+
+0xC11C6B55 = Invert the mouse Y-axis of the main camera and aiming control.
+
+0xC35CA319 = Aim Assist Strength (On-Foot)
+
+0xC37AC74A = Calibrate your screen to adjust the Brightness that the game will display at.
+
+0xC51DCAC1 = Zoom
+
+0xC78BF3B4 = Red Dead Online Horse Overhead
+
+0xC87EAFE7 = Your chosen graphics settings are currently using more memory than your system has available. Please reduce your memory usage in order to apply changes.
+
+0xC329BD09 = Allow Cash details to appear top right of the screen
+
+0xC914FFA3 = Journal / Online Catalog (Hold)
+
+0xC1173DFC = Adjust the mouse sensitivity setting for aiming and looking in Third Person view.
+
+0xC5944D5E = Allow First Person Head Bobbing
+
+0xC7472DBE = The threat indicator is used to hint at the direction of approaching enemies at a glance. Adjust this to better suit your play style.
+
+0xC26533E0 = Adjust the amount of Acceleration between aiming and looking while in Third Person view.
+
+0xC62992DC = Select the Output type that best describes your audio setup.
+
+0xC823277E = Control the sensitivity of your voice chat capture device.
+
+0xC2279544 = Interact (Hold)
+
+0xC5700105 = Adjust the size of the reticle dot to better suit your play style.
+
+0xCA09C795 = Reload
+
+0xCA8A4116 = Slow / Stop
+
+0xCBFF8803 = Toggle the mouse acceleration in First Person view.
+
+0xCC868CDA = Adjust the amount of Dead Zone between aiming and looking whilst in First Person view.
+
+0xCE9EA24A = Attack
+
+0xCF32A239 = Language
+
+0xD0B894AB = Enable or disable participation in voice chat.
+
+0xD1C027C3 = Distance
+
+0xD1F6806A = Vibration
+
+0xD2CB9DC4 = Voice Chat
+
+0xD3AECA54 = Attack
+
+0xD4F738DF = Low
+
+0xD6A86FE2 = Adjust First Person View
+
+0xD6CFDAE0 = Satchel (Hold)
+
+0xD7D7AFD3 = Change the Aim Assist Strength for when you are aiming whilst on-foot. The higher the Aim Assist Strength the less accurate your shots will need to be to hit the targeted enemy and the easier it will be to keep your aim over the target.
+
+0xD9C8D1E4 = Aim Sensitivity
+
+0xD9D52CF3 = Minimal
+
+0xD16A12DC = Key Mapping
+
+0xD95AC7F9 = First Person Field of View
+
+0xD165A2B7 = Whistle
+
+0xD179C7A8 = Reticle Dot Size
+
+0xD719A7AD = Allow the Crew overhead tag to be visible
+
+0xD946BB93 = Default
+
+0xD2841E50 = Change the Targeting Modes for when you are aiming whilst mounted. Normal, Narrow and Wide will always try to lock-on to the best enemy. Free Aim has no lock-on.
+
+0xD77229C5 = Set how the Vehicle Camera Height appears
+
+0xD99268AA = Online
+
+0xD2040990 = Third Person Field of View
+
+0xD6332957 = This setting determines if you will receive Game Invites, Friend Invites, Crew Invites, and Posse Invites
+
+0xDA53F668 = When using the LeMat Revolver, choose whether to automatically switch ammo types to use the shotgun shells once the revolver cartridges have been depleted, and vice versa. ~n~~n~Tap ~INPUT_SWITCH_FIRING_MODE~ while aiming the LeMat Revolver to toggle between shotgun and revolver firing modes.
+
+0xDAFB9239 = Select to allow Blips to appear on the radar
+
+0xDB4B5797 = Aim Weapon
+
+0xDB5B05A5 = Control the display of Subtitles on screen.
+
+0xDB92912B = Turning this setting on will allow the following:~n~- Earn 10% more cash on Gang Robbery missions.~n~- Earn 10% more cash for any animal carcasses sold at the Butchers.~n~- Gain a 20% discount on all camp upgrade items in the Camp Ledger.~n~
+
+0xDC7BDE99 = DirectInput
+
+0xDC59B79B = Wide
+
+0xDD2B4015 = Dynamic Range
+
+0xDDC8485E = Medium
+
+0xDE70533D = Aim / Look Acceleration
+
+0xDE710925 = Adjust the overall scale of the HUD as it appears on screen.
+
+0xDEC2C8BE = These messages are used to communicate game critical information in Red Dead Online.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+
+0xE0A27CF7 = Controls the overall volume of in-game sounds, dialogue and music.
+
+0xE0ECDAF5 = Red Dead Online
+
+0xE2FAD124 = Control the use of the Head Bobbing Camera in First Person.
+
+0xE3A55663 = Do you want to keep these settings?~n~Will revert to old settings in~COLOR_ALERT_TEXT_ATTENTION~ ~1~ ~s~seconds...
+
+0xE3E079EF = Adjust the Aim Sensitivity setting whilst in First Person view or aiming down the sights of scoped weapons.
+
+0xE3F76E0C = Restore All
+
+0xE5DBCBD6 = Map Blip Size
+
+0xE6B22101 = Deuteranopia (Red-Green)
+
+0xE7BD99A3 = Control the use of the Vehicle Auto-Centering camera while in First Person.
+
+0xE8BA3BCD = IN VEHICLE
+
+0xE8FBEBB6 = Set blips on the map menu to normal or large size.
+
+0xE9CE88A5 = 12 Hour
+
+0xE9FE6022 = Allow Auto Objective Navigation
+
+0xE35C887B = Toggle Weapon Zoom (When Aiming)
+
+0xE76D78E0 = Crouch / Stealth
+
+0xE80B8626 = Select Radar Mode (Hold)
+
+0xE86B5F6D = Controller Speaker Volume
+
+0xE909C78C = Third Person
+
+0xE931B69B = Raw Input
+
+0xE1638FA6 = Auto
+
+0xE512585E = Alternate + Southpaw FPS2
+
+0xE8726789 = General
+
+0xEADE6863 = Download the Red Dead Redemption 2 Companion App to make full use of this function
+
+0xEC4CD808 = Allow Reticle Messages to appear in Red Dead Online
+
+0xECA518CA = Select your preferred Temperature measurement. The Temperature Unit will appear when pressing ~INPUT_REVEAL_HUD~.
+
+0xED93DA0F = Normal
+
+0xEDC54401 = Hogtie
+
+0xEF1FA3A8 = Keyboard & Mouse Horse Control Whilst Aiming
+
+0xF0D631A9 = Allow the Posse name overhead tag to be visible
+
+0xF1ABBC8D = Change horse turning to be relative to the camera or the horse. Camera Relative turns based on the direction of the camera. Horse Relative turns based on the direction of the horse.
+
+0xF5CE254F = Temperature
+
+0xF6A7C1C7 = Sprint
+
+0xF8D62EF9 = Grapple
+
+0xF39A9245 = Adjust the amount of Acceleration between aiming and looking while in First Person view or aiming down the sights of scoped weapons.
+
+0xF62CEC1E = Adjust the amount of Acceleration between aiming and looking whilst in Third Person view.
+
+0xF2563B0A = Controller Speaker
+
+0xF634386C = Adjust how you would like button prompts and icons to be displayed based on input device.
+
+0xFB836C24 = Toggle to Run
+
+0xFB5588EA = The Weight Unit will appear when inspecting a caught fish
+
+0xFB606352 = Front Speaker Setup
+
+0xFBFDBD3E = Look Behind
+
+0xFC36D6ED = Jump
+
+0xFC842640 = Log / Online Player Menu (Tap)
+
+0xFD3C7960 = Narrow
+
+0xFD803CC8 = Select your preferred clock format.
+
+0xFFB53BA3 = Cash appears dynamically during gameplay. It can also be recalled using ~INPUT_REVEAL_HUD~.~n~~n~~COLOR_MENU_TEXT_ATTENTION~Turning this off may make parts of the game more difficult to play.
+

@@ -1,0 +1,20 @@
+0x63D0E3F3 = Anthony Foreman has died.
+
+0x929B9090 = Anthony Foreman was left behind.
+
+0x7799FB2A = Return to the saloon.
+
+0x7737785E = Anthony Foreman got away.
+
+0xA1611B54 = Call out
+
+0xA191316B = Question
+
+0xAB93CD75 = Bartender
+
+0xD0CE83E2 = Question the ~o~bartender
+
+0xD94CDD79 = Anthony Foreman escaped.
+
+0xF082CF51 = Threaten
+

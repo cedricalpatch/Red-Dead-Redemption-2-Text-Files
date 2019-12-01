@@ -1,0 +1,100 @@
+0x0B296715 = Passenger
+
+0x1A68AACF = You disrupted the robbery.
+
+0x1B25B8FF = John was abandoned.
+
+0x2A0474B5 = ~s~Use ~INPUT_CONTEXT_LT~ to focus on the uncooperative passenger, then press ~INPUT_MELEE_ATTACK~ to beat them.
+
+0x3CD02338 = Regroup with your ~o~companions~s~
+
+0x4B8BD861 = Charles was killed.
+
+0x6B08FE57 = You started a massacre.
+
+0x7B34BB2A = Threaten
+
+0x7CC178AC = You attacked Charles.
+
+0x8B73D307 = The wagon was destroyed.
+
+0x8D353156 = A carriage horse was detached.
+
+0x9E755F6E = Pick up your ~o~companion~s~
+
+0x21B8530C = Evade the law by escaping from the red search area on the map and staying out of sight until they stop looking for you.
+
+0x35BF18A1 = Baggage
+
+0x51B9879E = Use ~INPUT_SPECIAL_ABILITY_ACTION~ to manually tag enemies as you aim and ~INPUT_ATTACK~ to fire.
+
+0x70F2A750 = Take out the ~e~lawmen~s~
+
+0x79E4A631 = Engineer
+
+0x202D3FB5 = Park the wagon on the ~o~tracks~s~
+
+0x565A9ACF = Board the ~o~passenger car~s~
+
+0x679ECCB5 = Sean was abandoned.
+
+0x3978BF63 = Beat the ~o~passenger~s~
+
+0x6341F65B = You can now manually tag enemies when aiming at them in Dead Eye.
+
+0x9006AB38 = The robbery was abandoned.
+
+0x21089C76 = Total robbed: ~1$~
+
+0x77701C8B = Passenger Car
+
+0x227773E5 = Rob the ~o~baggage~s~
+
+0x703645DC = Sean was killed.
+
+0x37661917 = Charles was abandoned.
+
+0xA421A86C = Drive the wagon to the ~o~railroad crossing~s~
+
+0xA17813B8 = Rob
+
+0xABB7A702 = You killed an innocent passenger.
+
+0xAE7F64D4 = Follow ~o~John~s~
+
+0xB1E3270A = You attacked the gang's horses.
+
+0xB89B8C80 = the train
+
+0xBC737DE2 = The gang was abandoned.
+
+0xC4A470C1 = Baggage Car
+
+0xC2576CDB = Get on the ~o~wagon~s~
+
+0xC6196775 = Check on ~o~Sean~s~
+
+0xCF50EA6D = The law arrived.
+
+0xD8C84923 = Railroad Crossing
+
+0xD977216F = Return to the ~o~train~s~
+
+0xDA33C84A = You are Wanted and have a bounty on your head. Lawmen will search for you and attack you when spotted.
+
+0xDAA11D4B = John was killed.
+
+0xE02E80B9 = Escape the ~e~law~s~
+
+0xE0EFDEDF = The law have lost sight of you. Continue to evade them until they stop looking for you.
+
+0xE9D57C34 = The wagon wasn't positioned in time.
+
+0xE53B7092 = You attacked Sean.
+
+0xEDAB9F0D = You attacked John.
+
+0xEFA2364B = Beat
+
+0xF816AD20 = Take out the ~e~guards~s~
+

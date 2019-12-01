@@ -1,0 +1,26 @@
+0x0372DE21 = ~z~
+
+0x4BC1EEC2 = ~z~I'm in your hat.
+
+0x4D5F5B54 = ~z~
+
+0x9FF8972A = ~z~Oh look, it's the "children's entertainer".
+
+0x11B97AAE = ~z~And what is your job? To eat the children?
+
+0x20FD8291 = ~z~
+
+0x32BB260C = ~z~They look for quiet, empty places to rest in, you know.
+
+0x71B8A402 = ~z~Fool.
+
+0x828F5C58 = ~z~You're a rat, my friend... I know it... you keep turning up here, bringing trouble.
+
+0x565983ED = ~z~A rat or a... snake.
+
+0x64632000 = ~z~A rat?
+
+0xAE5433E1 = ~z~Mr. Bell.
+
+0xC808E74A = ~z~A snake? In that case...
+

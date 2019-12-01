@@ -1,0 +1,20 @@
+0x1E3C5920 = ~z~It's not kind to talk poorly of the dead.
+
+0x1FD35C52 = ~z~I imagine it was his fault things went so bad in Blackwater.
+
+0x2A8671B8 = ~z~I can't remember, I was knocked unconscious almost as things kicked off.
+
+0x2ED3FA4F = ~z~Davey Callander was a dangerous fool.
+
+0x38F68E94 = ~z~I'm gonna miss them Callander boys, they had fight in 'em.
+
+0x434FA346 = ~z~I won't. They were a liability.
+
+0xB31CE8E2 = ~z~Well... what's done is done, I guess.
+
+0xD5DC485D = ~z~We were spotted, or set up... wasn't clear which.
+
+0xE6EDEA80 = ~z~I didn't know that.
+
+0xFD30970D = ~z~What kicked 'em off?
+

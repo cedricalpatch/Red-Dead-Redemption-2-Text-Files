@@ -1,0 +1,464 @@
+0x00D1D27C = ~z~Yep, it's done.
+
+0x024A2D0D = ~z~
+
+0x02850AE8 = ~z~Money's right there on the table.
+
+0x032D8DB2 = ~z~Very good...
+
+0x05ED826B = ~z~not the way things are going.
+
+0x0612A176 = ~z~I'm sorry but I don't have anything for you right now.
+
+0x068AC42F = ~z~any man goes back to work right now, gets double pay.
+
+0x079FFB47 = ~z~You not gonna take the money?
+
+0x07B35A0B = ~z~Excellent, that's very helpful.
+
+0x08A71583 = ~z~Okay, I don't need this kind of aggravation right now.
+
+0x099D2E11 = ~z~I don't want to think about it.
+
+0x0D6C7143 = ~z~Alright, you need to leave now.
+
+0x0EB907C6 = ~z~You won't beat that price anywhere.
+
+0x1ABCACE5 = ~z~You'd think they'd have learned to get out of the way of a tree by now.
+
+0x1CA4AFD9 = ~z~I can't spare anyone to go into town...
+
+0x1EC09A2F = ~z~You better start praying for a miracle.
+
+0x1ED08B06 = ~z~Alright, you lazy bastards. Get back to work. Now!
+
+0x2A664B5C = ~z~We're starting to run low, and...
+
+0x2DAB28BB = ~z~The wolves are gone, so no more excuses.
+
+0x2EAB0769 = ~z~I hope you got a real good reason to be carrying that around.
+
+0x2F046582 = ~z~That's it, you're done.
+
+0x2F981234 = ~z~There ain't nothing for you here.
+
+0x3A8F769E = ~z~You're crazy!
+
+0x3C7FE353 = ~z~For you? Let's call it, eh, seventy-five dollars?
+
+0x3D5FEFB3 = ~z~Thanks, mister.
+
+0x3E2F1734 = ~z~Yeah, to Joe. A more miserable bastard there never was.
+
+0x4B621939 = ~z~We're with the Appleseed Timber Company.
+
+0x4BD6E286 = ~z~What do you say? You gonna take it?
+
+0x4DF5D18A = ~z~Please tell me there are dead wolves
+
+0x4FF13AB8 = ~z~You know what? Let's have a toast. To Joe!
+
+0x5FB17501 = ~z~and not just a dead's man corpse to show for this?
+
+0x6B66F1A3 = ~z~and did you see the state of him? Ripped his head clean off.
+
+0x6C5D746C = ~z~Hey, welcome back. You got any supplies for us?
+
+0x6C6C585B = ~z~That foreman's a real bastard, ain't he? Here, this should help you get back on your feet.
+
+0x6DEE526B = ~z~there's not a brain between 'em.
+
+0x7C87B2E3 = ~z~~sl:1.3~Yeah, yeah...
+
+0x7CA6711F = ~z~Now get off my site.
+
+0x7CC43070 = ~z~We ain't budging on this.
+
+0x7E56A948 = ~z~It's none of your business how I run my site.
+
+0x7EE3CC4E = ~z~Well, I know I said come back later but,
+
+0x7EE7AFF6 = ~z~Hey, I already told you about this.
+
+0x7F1368D4 = ~z~I don't know what you want, but you'd better get off my work site right now.
+
+0x7F498357 = ~z~Come on, don't just stand there. C'mon, sombody! Give me a hand with this.
+
+0x8A71942F = ~z~All right, dinner time. You can pack it in now.
+
+0x8AAF5BD5 = ~z~I got this whole operation running like clockwork.
+
+0x8B6759A5 = ~z~Oh, shit, shit, shit, shit, shit. It's falling the wrong way!
+
+0x8D3696CB = ~z~I've changed my mind, I don't have time for this right now.
+
+0x9A0FC10A = ~z~That leg is just gone.
+
+0x9B0579CC = ~z~Mr. Appleseed is very unhappy.
+
+0x9CE12858 = ~z~Appreciate it.
+
+0x9D1ABEF9 = ~z~Please, someone, get it off!
+
+0x9D30FD38 = ~z~Oh... oh Christ alive...
+
+0x9D34440B = ~z~Okay, that's enough.
+
+0x9E9D0DAD = ~z~Come on.
+
+0x9F1C7B75 = ~z~Oh! I thought I'd see you again.
+
+0x10C0C9FA = ~z~Just think about it!
+
+0x11A19E22 = ~z~Back again?
+
+0x11B5E5D3 = ~z~That should help keep us going.
+
+0x14CC60B2 = ~z~I... I've been around, I know this game. I tell you what...
+
+0x20CB91CE = ~z~If you think I'm going to sell you any lumber, you got another thing coming.
+
+0x25FAC361 = ~z~Oh, hey. Can you believe those fools?
+
+0x36AF22FD = ~z~There you are.
+
+0x38D178F9 = ~z~Plenty more trees where those came from!
+
+0x43B82CAA = ~z~Refusing to work on account of a few little wolves.
+
+0x45CA8F9C = ~z~You'll be very well rewarded.
+
+0x46D1B9E9 = ~z~I'd be happy to pay premium for 'em.
+
+0x47B328C8 = ~z~Alright. If you're paying,
+
+0x47B2823E = ~z~I'm afraid all our lumber's already spoken for.
+
+0x48BC3B6E = ~z~We'll all go, see how they like it then.
+
+0x48F88DA1 = ~z~I got my eye on you.
+
+0x55BF7BEF = ~z~Alright, we've done all we can for you...
+
+0x58D86757 = ~z~There ain't much danger of that with this bunch, my friend.
+
+0x61BEE8AF = ~z~Oh... yes! Yes!
+
+0x69DCA42D = ~z~~sl:0.0:3.3:1~Oh God!
+
+0x70BECC2B = ~z~Hey, you. What the hell are you doing back here?
+
+0x72E630B3 = ~z~No, I ain't ready yet!
+
+0x74D68482 = ~z~Me and all.
+
+0x75CD91A5 = ~z~If you can deal with them, I'll pay you well for it.
+
+0x76E1D816 = ~z~Back for some lumber, I assume?
+
+0x80F4DFC6 = ~z~Ain't you raised enough hell around here?
+
+0x84C6CD57 = ~z~Well, that's it.
+
+0x85AC075F = ~z~very soon if you're interested.
+
+0x88D75570 = ~z~Mr. Appleseed ain't out here getting mauled by wolves!
+
+0x90BFA75F = ~z~That's a relief, I'll tell ya.
+
+0x95FF2805 = ~z~I'll keep that in mind.
+
+0x144D2A1A = ~z~Oh God, no!
+
+0x164D2F10 = ~z~Just taking a look.
+
+0x252FDFB0 = ~z~We're good on supplies.
+
+0x262B862C = ~z~You call yourselves lumbermen? You afraid of a few damn critters.
+
+0x284DC71A = ~z~Alright, well, we'll be here if you change your mind.
+
+0x294D2868 = ~z~Why would you say that?
+
+0x321FC737 = ~z~Can I help you?
+
+0x399F9FC7 = ~z~You treat your workers like shit.
+
+0x443F8C91 = ~z~Hey, glad you came back.
+
+0x566A56CA = ~z~Even the Foreman won't be able to bootlick his way out of that with Appleseed.
+
+0x571BF38A = ~z~Guess I'll come back some other time.
+
+0x602FB6EE = ~z~Listen...
+
+0x660F8CE5 = ~z~Now, is that any way to welcome a friend? Such a lack of hospitality.
+
+0x669E422F = ~z~Alright, take care of yourself.
+
+0x713C9FB6 = ~z~Pretty impressive out there, huh?
+
+0x732F8C41 = ~z~As for you. We could have used your help.
+
+0x753D6279 = ~z~You try that again and there'll be trouble.
+
+0x780FC5EC = ~z~If a tree falls on some feller in the woods... then that feller gets left all alone... did that feller ever exist?
+
+0x792B178F = ~z~Maybe you're the man I need.
+
+0x823B83F9 = ~z~Thanks, mister. You're a good man.
+
+0x852C29D9 = ~z~You get the hell out of here right now.
+
+0x869CA80E = ~z~If the foreman don't do nothing about those wolves soon, I'm outta here.
+
+0x892C7CAB = ~z~I got a wagon out front, already loaded up and ready to go.
+
+0x926C192D = ~z~There you are!
+
+0x1619BF73 = ~z~ I'd rather be poor than dead.
+
+0x2165D7B7 = ~z~Half these workers don't know their ass from their armpit.
+
+0x2763E99E = ~z~I still can't believe we lost Joe.
+
+0x3173B358 = ~z~I can't pay you full for today, of course.
+
+0x4588E7BF = ~z~You think I don't know that? I'm done for!
+
+0x4735DEDC = ~z~Come back for your money at the end of the week.
+
+0x8468AEDB = ~z~There's been some animals attacking the south side of camp.
+
+0x8567FDA8 = ~z~We don't need any supplies for the time being and,
+
+0x8999CD07 = ~z~~sl:0.7~Bunch of good-for-nothing cowards!
+
+0x9309A1E7 = ~z~Ah, look who it is.
+
+0x23623D1C = ~z~Alright, don't get your bonnet in a twist. Just passing through.
+
+0x24072C29 = ~z~Alright, you lazy bastards. You get back to work, first thing in the morning.
+
+0x33217B93 = ~z~We run out of lumber a couple of hours ago!
+
+0x33926B93 = ~z~If you kill those wolves, I'll pay you well.
+
+0x38171C74 = ~z~
+
+0x49745DD0 = ~z~Oh, God!
+
+0x54752CF1 = ~z~What do you say?
+
+0x92274A58 = ~z~Not you again. Well, guess I don't have much choice...
+
+0x95511EFB = ~z~gunshots and howling, you got some good news for me?
+
+0x98396A46 = ~z~It's a forest, what in the hell do you expect?
+
+0x317146FD = ~z~The wolves are gone, so no more excuses.
+
+0x505601DB = ~z~I ain't here for any of your damn trees, alright?
+
+0x863102F4 = ~z~We should be further along by now...
+
+0x886194FA = ~z~I can go wherever I please.
+
+0x3808323C = ~z~I think so...
+
+0x4548803F = ~z~Might as well put me out of my misery...
+
+0x9333043A = ~z~Hey, what in the hell do you want?
+
+0x72816914 = ~z~So did you change your mind? Deal still stands.
+
+0x73275927 = ~z~Operation's looking pretty good, huh?
+
+0xA05525C2 = ~z~Hey, you leave my men alone.
+
+0xA0635B9B = ~z~I don't know about you, but I'm ready to walk.
+
+0xA4EA07CF = ~z~Hey, you get the hell away from here! We don't need you causing anymore trouble.
+
+0xA4EA184E = ~z~you got to give us a little bit more time here.
+
+0xA6F8F32A = ~z~Can you believe these lazy lily livers?
+
+0xA9B1D769 = ~z~We need a real man to get rid of them.
+
+0xA55C0E79 = ~z~We lost too much time on this already.
+
+0xA70C10EE = ~z~
+
+0xA103B4E3 = ~z~Good to see ya!
+
+0xA476BD46 = ~z~Yep, it's done.
+
+0xA611D25B = ~z~We're going great guns here, now. Really coming together.
+
+0xAB931A8F = ~z~Thieving bastard.
+
+0xABAACDE7 = ~z~food, medicine?
+
+0xAC56A920 = ~z~The rest of you, stop gawking! Get back to work.
+
+0xAC6582B6 = ~z~Oh, yes... you.
+
+0xB0DBBF7E = ~z~Hey, you can't just take that.
+
+0xB1AB5F5D = ~z~fine Big Valley lumber for sale...
+
+0xB8EC686A = ~z~you got any supplies for sale...
+
+0xB9E2F4C7 = ~z~What the hell?
+
+0xB29EEA01 = ~z~~sl:2.5~Get this off me!
+
+0xB31B34A8 = ~z~Maybe some other time.
+
+0xB47A719C = ~z~Nah. Sorry, partner.
+
+0xB220FF16 = ~z~To Joe!~n~~m~To Joe!
+
+0xB531A9C0 = ~z~We've got wagons loaded up and ready to go.
+
+0xB734BCE3 = ~z~I ain't no miracle worker.
+
+0xB7219A9D = ~z~Hey there.
+
+0xB79332E7 = ~z~You three, back to work!
+
+0xBAFFF43C = ~z~I take it that wolf pelt you're carrying means you've got some good news for me?
+
+0xBB77FAF5 = ~z~They've been attacking workers on the south side of the camp...
+
+0xBD308098 = ~z~Oh, welcome back again.
+
+0xBE19DD79 = ~z~Alright, well, just make sure none of them fall on you, then.
+
+0xBED4A0F1 = ~z~If you come back in a day or so, we should have lumber for sale again.
+
+0xC4A8327F = ~z~This doesn't sound like any problem of mine.
+
+0xC8BDB158 = ~z~Alright, well...
+
+0xC8FD6B17 = ~z~Just leave us alone. We're done.
+
+0xC9D0CDA5 = ~z~Thank you for your help, mister. I don't know what I'm gonna do now.
+
+0xC9E5AD2F = ~z~ I should be able to take care of that for you.
+
+0xC44B4F0C = ~z~You don't really need to keep checking up on us.
+
+0xC79B0211 = ~z~Oh, you can check back with us later though.
+
+0xC924BC15 = ~z~Yup, me too.
+
+0xC5754A47 = ~z~Hey there. You here for more wood?
+
+0xC9769129 = ~z~Yep, it's done.
+
+0xCD081616 = ~z~We're still getting started on this site...
+
+0xD08606A0 = ~z~And you, there! Thanks for your help.
+
+0xD1D79FB9 = ~z~We're with the Appleseed Timber Company.
+
+0xD6F37EC0 = ~z~Can I assume this trophy means you've taken care of them all?
+
+0xD9C7DD7A = ~z~You've been a real bastard to us in the past, but I gotta ask.
+
+0xD53D31D2 = ~z~The wagon's out front.
+
+0xD3749E51 = ~z~I'm still working on it.
+
+0xDAE2ECAC = ~z~So long as that pack of wolves is out there, we ain't working, 'kay?
+
+0xDC6CCEDC = ~z~Alright then.
+
+0xDE3AB3DD = ~z~Don't worry, I'll get to it.
+
+0xDE507ECE = ~z~You gonna be alright there?
+
+0xDF0DC3FA = ~z~Excellent work.
+
+0xDF1CE950 = ~z~I ain't gonna tell you again, now get out of here.
+
+0xDFCA3B9A = ~z~but we should have some...
+
+0xE0E3394B = ~z~Don't mention it. Me and wolves go way back.
+
+0xE5EA4A10 = ~z~There you are.
+
+0xE9EBD89A = ~z~Man on the ground! I need help over here, right now!
+
+0xE20F575B = ~z~Well...
+
+0xE70E7807 = ~z~These wolves have got me at the end of my rope.
+
+0xE70FD577 = ~z~See you next time.
+
+0xE81BC48F = ~z~I assumed from all the
+
+0xE468EDFA = ~z~Alright, we'll see then.
+
+0xE717E318 = ~z~Oh. Thanks again for your help.
+
+0xE1470D33 = ~z~Thank you, that's just what we need.
+
+0xE5671BA7 = ~z~There you are.
+
+0xE32312FA = ~z~For the love of God! Somebody help us over here.
+
+0xEA05A443 = ~z~What do you want?
+
+0xEA958AD3 = ~z~I'm leaving. Don't work too hard.
+
+0xEAA86B53 = ~z~That you ain't...
+
+0xED4C56A2 = ~z~Can I help you?
+
+0xEE8CA0E9 = ~z~We lost two men already!
+
+0xEE3153CA = ~z~I just ain't got around to it yet, don't worry.
+
+0xEED3A84C = ~z~Very good, we can really use these.
+
+0xEFAD6C48 = ~z~Yeah... I know...
+
+0xF05DF3F8 = ~z~there ain't none of you getting paid for a single minute you didn't work.
+
+0xF2A05BD1 = ~z~I mean, look at these dolts...
+
+0xF3B29D05 = ~z~Yep, it's done.
+
+0xF7AF829F = ~z~Fine by me.
+
+0xF7B9F436 = ~z~~sl:4.1~It hurts so bad!
+
+0xF7E7665F = ~z~but what can you do?
+
+0xF440D71E = ~z~That should help keep us going.
+
+0xF546E6EA = ~z~Come on, please, I'm desperate here.
+
+0xF549D69B = ~z~ It's up to you.
+
+0xF9226A44 = ~z~If you say so. Could've fooled me.
+
+0xF84727A8 = ~z~
+
+0xF7403965 = ~z~What... what are you doing?
+
+0xFBB17A73 = ~z~Timber!
+
+0xFCA3F54D = ~z~Head Foreman.
+
+0xFD691AB6 = ~z~You check back with us in a few days if you're in the market for any lumber.
+
+0xFF6A413C = ~z~Appreciate it.
+
+0xFF9A7B3E = ~z~Just taking a look.
+
+0xFF63EB17 = ~z~Alright, I'll take it.
+

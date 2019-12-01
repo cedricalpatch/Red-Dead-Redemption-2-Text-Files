@@ -1,0 +1,44 @@
+0x0CC8E31E = ~z~Here... here, we got New World problems.
+
+0x3B21BFD3 = ~z~~sl:0.0:4.1~But my momma was safe, whereas I walk into half these towns...~sl:~and their idea of entertainment is lynching.
+
+0x3BB2E7ED = ~z~~sl:0.0:1.4:1~So who should I hate?
+
+0x4BCB5C85 = ~z~Yep.
+
+0x9DBDAC19 = ~z~~sl:0.0:0.7~I don't.~sl:2.4~Confuses the hell outta me!
+
+0x9F1387B5 = ~z~See, you get caught up in a bunch of Old World bullshit, Sean.
+
+0x11A26834 = ~z~So they tell me, but it ain't done me no good.
+
+0x46FAD785 = ~z~My momma was a slave. I was born free.
+
+0x53C88AD2 = ~z~What you think, Arthur?
+
+0x66BEBE04 = ~z~~sl:1.3~I see.
+
+0x503DEA0B = ~z~Okay... and who do you hate?
+
+0x7084D190 = ~z~The slave owners, or the folks who freed us?
+
+0x7990D662 = ~z~I try not to think too much. Don't help no one.
+
+0x55021A8B = ~z~
+
+0xA987C3AD = ~z~~sl:0.0:3.4~We was set free... to suffer.~sl:1.3~It don't make no sense.
+
+0xB751B384 = ~z~You're a bright fellow, Lenny.
+
+0xC8CCDB27 = ~z~~sl:0.0:2.4~The thing is... this country is English.~sl:0.2:2.4~They act like they ain't but they is.~sl:0.2~Heretics, like old Swanson.
+
+0xE1DD8D48 = ~z~then who the hell are we gonna hate to pass the time?
+
+0xE16807C0 = ~z~Anyway... I got work to do.
+
+0xEC1BA1C4 = ~z~~sl:0.0:3.3~It's real simple... if there's no king to hate...~sl:0.9~and no lords to hate,
+
+0xEE81A1F3 = ~z~Good chatting with you.
+
+0xFB834093 = ~z~~sl:0.7:1.8:1~And what are they, exactly?
+

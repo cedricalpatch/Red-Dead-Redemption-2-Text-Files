@@ -1,0 +1,34 @@
+0x0455CDA9 = ~z~Just look at you.
+
+0x0F8EAF1F = ~z~Mind if I warm myself a minute?
+
+0x4C14DD1A = ~z~~sl:1.0:3.2~I know you lot just laugh at me behind my back.~sl:0.4~I know what you say.
+
+0x5E15812B = ~z~Well, you lot ain't got no manners.
+
+0x5FFC5009 = ~z~Gentlemen.
+
+0x6E8BA217 = ~z~~sl:0.0:1.4:1~Being the camp joke.
+
+0x8EDF62BE = ~z~~sl:0.0:1.2~And manners?~sl:0.2:1.4~Manners is important.~sl:0.7~Manners is everything.
+
+0x11EB68D4 = ~z~~sl:0.8:1.4~Bunch of cow herders,~sl:0.0~the lot of ya.
+
+0x56B43D69 = ~z~~sl:0.0:0.5~Now,~sl:~how my girls supposed to feel okay about themselves with
+
+0x58C2F676 = ~z~~sl:0.0:1.3~But it's not easy.~sl:0.7~It's not easy at all.
+
+0x684C6099 = ~z~~sl:0.0:3.2:1~nothing but a bunch of sour-faced killers for company?
+
+0x2154D2AB = ~z~Well, you lot all seem particularly sour.
+
+0x45781AF1 = ~z~But there's no one to help me.
+
+0x32007402 = ~z~~sl:0.0:1.8~Well, I do my best to keep 'em...~sl:0.7:1.2~presentable.~sl:0.2~I really do.
+
+0xCD515FA1 = ~z~Just because I have standards, huh?
+
+0xEB26E654 = ~z~Even by your standards,
+
+0xFEBA0D76 = ~z~which is saying a lot.
+

@@ -1,0 +1,44 @@
+0x06E90B49 = Take out the ~e~O'Driscolls~s~
+
+0x2D363ABD = This weapon is dirty. Weapons become dirty with use and can be maintained by pressing ~INPUT_QUICK_SELECT_INSPECT~ when highlighted in the Weapon Wheel.
+
+0x3E696231 = Search the ~o~chimney~s~
+
+0x5FF947AA = Send John
+
+0x7CC2387D = The hideout was abandoned.
+
+0x9FBFCD06 = Ranged Kill
+
+0x19E65863 = You got him?
+
+0x64E694B9 = O'Driscolls?
+
+0x424E64ED = Cleaning weapons with Gun Oil will improve their condition and performance.
+
+0x882E970C = Send the Gang
+
+0x4169BF31 = You ok?
+
+0x9875E80F = Search the ~o~cabin~s~
+
+0xA1C64084 = Take the ~o~shotgun~s~
+
+0xA587FF5F = Browse weapons stored on your horse by pressing and holding ~INPUT_OPEN_WHEEL_MENU~ when mounted or near your horse ~1b~.~n~For a stealthy approach, select silent weapons like a bow or throwing knives.
+
+0xA979E07A = Knife Kill
+
+0xBD5BDDB3 = ~INPUT_QUICK_SELECT_INSPECT~ Maintain the Double-Barreled Shotgun
+
+0xC11B10E0 = Send Bill
+
+0xC4236B42 = ~INPUT_CONTEXT_X~ Clean the Double-Barreled Shotgun
+
+0xD8FE94F8 = Hold ~INPUT_OPEN_WHEEL_MENU~ to open the Weapon Wheel
+
+0xD8723F8E = Take the Lead
+
+0xEB2DB956 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ to select the Double-Barreled Shotgun
+
+0xF4C21157 = Return to the ~o~cabin~s~
+

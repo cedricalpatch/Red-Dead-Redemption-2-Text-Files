@@ -1,0 +1,112 @@
+0x09FED5AD = ~COLOR_ENEMY~~1~~s~ are trying to steal the horse
+
+0x0CEF99B4 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~horses~s~ on the way ~1~
+
+0x1A71B1EE = ~COLOR_ENEMY~Rival players~s~ can steal the horses
+
+0x1CEB8B6B = Horse stolen
+
+0x2B5895E7 = Get on a ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+0x2CFE3C1F = Get on the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+0x2D15528E = Horse stolen
+
+0x2F0E2A08 = Steal the horse and deliver it to the drop off within the time limit for the full reward.
+
+0x2F4C7E62 = Horses delivered
+
+0x3FB19CAF = Stop the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~ robbery
+
+0x5C19E08C = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x5D9A2339 = Deliver the horse ~1~
+
+0x6AB01C67 = ~1~ delivered a horse
+
+0x6EF04212 = ~1~ triggered a rival mission against ~2~. Steal the horses ~3b~ to gain the full reward.
+
+0x7AB67E6D = You triggered a rival mission against ~1~. Steal the horses ~2b~ to gain the full reward.
+
+0x7CE582D4 = Your Posse delivered a horse
+
+0x7D7FE9DF = ~1~ triggered a rival mission against ~2~. Steal the horse ~3b~ to gain the full reward.
+
+0x25BE08A1 = ~1~/~2~ horses stolen
+
+0x29ECD9F1 = ~1~ delivered a horse
+
+0x38E212EE = You killed a ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+0x38F22C6A = You triggered a rival mission against ~1~. Steal the horse ~2b~ to gain the full reward.
+
+0x45D94B4A = A horse has been delivered
+
+0x60D2401B = Horses stolen
+
+0x62D00A5D = Horses killed
+
+0x83D444B0 = Steal the horses
+
+0x90B4674C = ~COLOR_ENEMY~Rival players~s~ can steal the horse
+
+0x180AE997 = Deliver the horse ~1~
+
+0x388E5593 = Horses killed
+
+0x520A4FE4 = Horse delivered
+
+0x615D4CC8 = You delivered a horse
+
+0x788B8ED5 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~
+
+0x2729ED20 = You delivered a horse
+
+0x4448E5A8 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~horses~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x6022CE46 = A horse has been delivered
+
+0x19981DB9 = Horse killed
+
+0x29070CFD = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~
+
+0x63223AD2 = ~COLOR_ENEMY~~1~~s~ are trying to steal the horses
+
+0x928482F4 = ~1~/~2~ horses delivered
+
+0x25985553 = Steal the horse
+
+0x29090495 = Hitch the horse in the ~COLOR_MP_OBJECTIVE~area~s~
+
+0x56038782 = Horse delivered by rival Posse
+
+0xA3DBF42B = Your Posse delivered a horse
+
+0xA117F3DE = Horses stolen
+
+0xAF573E4A = Steal the ~COLOR_MP_OBJECTIVE_ENEMY~horses~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xBD0694A0 = Go ~1~
+
+0xD049E90F = Intercept the horse
+
+0xE6B8017F = Steal the horses and deliver them to the drop off within the time limit for the full reward.
+
+0xE12109B2 = Horses delivered by enemies
+
+0xE403320F = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~horse~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xE6097035 = Kill the ~COLOR_MP_OBJECTIVE_ENEMY~horses~s~
+
+0xEE88FC9F = Intercept the horses
+
+0xEE938A56 = Horses delivered by rival Posse
+
+0xF77E6B24 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~horses~s~
+
+0xF2885B9F = Horse delivered by enemies
+
+0xFC925D04 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~horse~s~ has been killed
+
+0xFF632ABD = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~horse~s~ on the way ~1~
+

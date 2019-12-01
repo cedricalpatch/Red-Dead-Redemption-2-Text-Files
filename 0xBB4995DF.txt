@@ -1,0 +1,236 @@
+0x02EB5E63 = ~z~If I prick my finger again, I swear I'll just throw this on the fire.
+
+0x0B97D260 = ~z~That's what I like to see.
+
+0x0DB973FF = ~z~I'm happy to swap later if you want.
+
+0x0FAECE27 = ~z~Ah. Reminds me...  I got some debt money for the box.
+
+0x1CF97DFD = ~z~You're doing a good job there.
+
+0x1D901D15 = ~z~Yup.
+
+0x3A02643E = ~z~Yes, if they only knew how boring it really is.
+
+0x3B364F8A = ~z~Sure. Thanks, Jack.
+
+0x3FCFD6D8 = ~z~Thanks, kid.
+
+0x4EAFDB38 = ~z~Okay, thank you.
+
+0x5BC9AB7E = ~z~Well done. In the box.
+
+0x5C6DF6B4 = ~z~Oh hey Arthur, I left something for you by your tent. Just to say thanks for the harmonica.
+
+0x5D731403 = ~z~Here, I hadn't forgotten about that story book you lost.
+
+0x5DE4099C = ~z~Forgot to drop some of that loan money in the box.
+
+0x5DEC238B = ~z~Does this have a funny taste to you?
+
+0x5FEA9971 = ~z~Do you think you'll go back to Mexico one day?
+
+0x6A9EC030 = ~z~Yes, took me from my mother when I was twelve.
+
+0x6B51A477 = ~z~What?
+
+0x6C1A9979 = ~z~Hey, I'll always take some rum.
+
+0x6F0B2635 = ~z~I found this. You said you lost yours.
+
+0x7C7463DB = ~z~So that old gang you ran with, the Foremans, they kidnapped you?
+
+0x7D893B87 = ~z~Hey Arthur, I left a box of ammunition by your tent... a thank you for getting me that pomade.
+
+0x7DE6BC5E = ~z~We're always working.
+
+0x7FB6F448 = ~z~Sure.
+
+0x8AFCB256 = ~z~Here's those herbs you asked for.
+
+0x8C078FF0 = ~z~Fair enough.
+
+0x8D69F467 = ~z~Maybe... but I'm hunted there too.
+
+0x8ECAE035 = ~z~Well, look at that. Thanks, Morgan. I owe you one.
+
+0x9AB47601 = ~z~Well, you girls actually appear to be working.
+
+0x16A2815D = ~z~Don't mention it.
+
+0x28F13CD6 = ~z~Mierda. No wonder you hate them.
+
+0x38CAB5A3 = ~z~Keep doing it wrong then.
+
+0x38F38C68 = ~z~Are they? Good.
+
+0x43D226EA = ~z~They all are...
+
+0x50D2B2FD = ~z~Sorry, I can't talk right now, Tilly.
+
+0x60D8E635 = ~z~You like this author, don't you? I found this.
+
+0x67E5B566 = ~z~Good. I'll make some arrows for you later and leave them by your tent.
+
+0x78B010A5 = ~z~I needed this... a long day.
+
+0x87BBE76F = ~z~Sorry, not right now, Mary-Beth.
+
+0x92E76643 = ~z~Okay. Er, thanks, Bill.
+
+0x95CF4682 = ~z~Sure I did.
+
+0x99D4EEDC = ~z~Keep it coming.
+
+0x100E6835 = ~z~Oh it's beautiful, thank you. Here, please take this. It's the least I can do.
+
+0x124ADDAA = ~z~One of these days we'll actually get the men to help with the laundry.
+
+0x140EE132 = ~z~I wouldn't hold your breath.
+
+0x392AD44A = ~z~Put some of that debt money in the box.
+
+0x440ADC2D = ~z~Well, that is mighty kind. Thank you, Arthur.
+
+0x492B9BB0 = ~z~Hurry up with that, girls. Lots more to do today.
+
+0x591E866A = ~z~Miss Grimshaw's got you working hard here.
+
+0x650C9E95 = ~z~Sure.
+
+0x719BA744 = ~z~I am much more suited to supervisory role.
+
+0x722E38D8 = ~z~Thank you.
+
+0x728CD9F4 = ~z~Excellent.
+
+0x734B4E49 = ~z~I'm trying not to think about it.
+
+0x822A04B8 = ~z~Okay, thank you.
+
+0x850E57F0 = ~z~Damn.
+
+0x2443BD63 = ~z~Done some debt collecting...
+
+0x2834C0A3 = ~z~Laundry and sewing... the exciting life of an outlaw.
+
+0x3124E55F = ~z~This should line the old stomach.
+
+0x3473B270 = ~z~It's fine. The music makes it go by quicker.
+
+0x4036C9F6 = ~z~I feel bad sitting here playing, while you're working so hard.
+
+0x5569F924 = ~z~Guess we're just about done, my friend.
+
+0x6498E3B2 = ~z~Those loans are coming in.
+
+0x6680A838 = ~z~Oh, thanks again for that book, Arthur. I left something for you over by your tent.
+
+0x8012C119 = ~z~Sorry, this ain't a good time.
+
+0x8869D16C = ~z~Of course.
+
+0x9852CD02 = ~z~Ah excellent, thank you. I'll slip these in Pearson's pot when he's not looking.
+
+0x68230B79 = ~z~That's my boy.
+
+0x254905B0 = ~z~I am tired... that was a long day.
+
+0x487384D2 = ~z~Called in on a debtor.
+
+0x563011FB = ~z~Thank you.
+
+0x704669E5 = ~z~Oh, what joy.
+
+0x722349E1 = ~z~Got hold of some oleander.
+
+0x726525BE = ~z~Sorry, I can't right now.
+
+0x810744AE = ~z~I reckon we should both just forget this ever happened...
+
+0x963920B3 = ~z~Are you girls nearly finished with that?
+
+0x32461355 = ~z~Arthur.
+
+0x54406975 = ~z~Sorry, can this wait?
+
+0x56836824 = ~z~You and me both.
+
+0xA80EA8AB = ~z~I'm sure Grimshaw would find some problem with that.
+
+0xA81D6B1E = ~z~You didn't have to do that.
+
+0xA65490B5 = ~z~I'm watching you do that... and can I give you some constructive criticism?
+
+0xA7961073 = ~z~That's a beauty. Thank you, Mr. Morgan. Here, take this. I know it's not much.
+
+0xAE321F03 = ~z~Here's that, er, hair pomade you wanted.
+
+0xAFC655C7 = ~z~You okay with me playing here?
+
+0xB4E56A2E = ~z~Oh Arthur, I left something for you by your tent. A little thank you for that seasoning you brought me.
+
+0xB5A1D52D = ~z~I'm trying not to think about it.
+
+0xB5AE6E6C = ~z~Oh shut up, mother.
+
+0xB5B21A33 = ~z~Leopold.
+
+0xB9DB0B80 = ~z~Put it in the box, Mr Morgan.
+
+0xBCF1B515 = ~z~Good work, Arthur.
+
+0xBD87F14A = ~z~Oh yes. It nice to have some music while I work.
+
+0xBDDC3CFF = ~z~So you mentioned you lost your compass... well here you go.
+
+0xC3D24BB0 = ~z~You could help, you know.
+
+0xC36B9EA5 = ~z~Hey, I got some loan money.
+
+0xC254EE93 = ~z~Does this have a funny taste to you?
+
+0xC392A208 = ~z~Thanks again for that watch, Arthur. I left something for you by your bed.
+
+0xC964E744 = ~z~Been collecting for you.
+
+0xCBA1AF0D = ~z~Will do.
+
+0xCCD3BCA1 = ~z~Sorry, this ain't a good time, Karen.
+
+0xCF317776 = ~z~Thanks so much, Uncle Arthur. Do you want to have this? I found it near camp.
+
+0xCFC3A3B2 = ~z~It's a good one.
+
+0xD58BEF23 = ~z~No, you certainly can't.
+
+0xD56422AC = ~z~The only audience I ever had was my husband and I'm going to keep it that way.
+
+0xDEFEB1EA = ~z~
+
+0xE02564CC = ~z~Yes indeed, and I haven't read this one. Thank you, Arthur.
+
+0xE0C25C0B = ~z~Check the box.
+
+0xE87DA835 = ~z~Here, Jack. I found you a thimble.
+
+0xE491C107 = ~z~Here, got hold of a harmonica for you. Look forward to hearing you play it.
+
+0xEBF9CC37 = ~z~Not yet, Miss Grimshaw.
+
+0xEF6DC0D1 = ~z~Okay.
+
+0xF9C9EB77 = ~z~But thank you, Arthur, this is real kind of you.
+
+0xF73B42A5 = ~z~She's relentless.
+
+0xF251B8B8 = ~z~Here, I picked up this. I heard you talking about losing the one your pa gave you.
+
+0xF704C543 = ~z~Oh, thanks, Uncle Arthur. I drew you a picture, it's by your tent.
+
+0xFAA06984 = ~z~Well, hurry it along.
+
+0xFD82FF30 = ~z~I love that tune.
+
+0xFF890228 = ~z~Don't drink too much tonight.
+

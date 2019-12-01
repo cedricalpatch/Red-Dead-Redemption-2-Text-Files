@@ -1,0 +1,648 @@
+0x01B01EFC = ~z~~sl:0.5:1.1:1~Oh...
+
+0x01CB5330 = ~z~Let's keep moving. We've got to be gaining on them.
+
+0x022EE5CE = ~z~Dear Lord, no.
+
+0x02AE66B9 = ~z~~sl:0.0:1.4~They opened him up pretty good.~sl:0.9:1.7:1~Nearly chopped his head in two.
+
+0x032B9891 = ~z~~sl:0.3~I don't like the sound of that.
+
+0x0533B61C = ~z~And I'm trying to make my employer as comfortable as possible.
+
+0x05A8CD5F = ~z~Bad business.
+
+0x077EBCB5 = ~z~For now.
+
+0x08A3822C = ~z~I was keeping guard.
+
+0x08FF3C93 = ~z~~sl:0.0:3.2~Maybe I've done this kind of thing before,~sl:0.2~~rp~and maybe I can handle a weapon.
+
+0x09F3B54A = ~z~Say...~rp~ is your friend a negro or a redskin?
+
+0x0A086B3A = ~z~Please! God! No!
+
+0x0A59C4C9 = ~z~Buy your tools, John. I want to get out of here.
+
+0x0A96BFD2 = ~z~~sl:0.0:2.9~And if a robber sees some strong men sitting up front,~sl:0.3~two of them guns for hire,
+
+0x0A7716EA = ~z~We've walked into something! Get some cover!
+
+0x0CFDABDB = ~z~~sl:0.0:2.9~This kind of bloodshed... is different.~lr:0.5~Folks have been killed, sure... for good reason and bad.
+
+0x0D0BAB49 = ~z~He's coming at you!
+
+0x0D6C0192 = ~z~John, we've lost one man already. Can we keep moving?
+
+0x0D47D72F = ~z~So Milton is working with Cakes Hardwood and Timber in town.
+
+0x0D76D7DF = ~z~Jesus...
+
+0x0D533C15 = ~z~Now, I suppose you don't know much about robbing caravans?
+
+0x0E487226 = ~z~You boys wait here... after you, Mr. Milton.
+
+0x0F1727DB = ~z~Willard.
+
+0x0FFB2D94 = ~z~Fellers up there used to worship a god with a hammer...
+
+0x1C6A10A5 = ~z~Hold tight, Willard.
+
+0x1CBEE735 = ~z~Mr. Devon, you okay?
+
+0x1D2FAAF1 = ~z~Like I said, Nils is a... an acquired taste.
+
+0x1E3EE832 = ~z~You're in good hands.~rp~ I know this country well.
+
+0x1E4A7869 = ~z~~sl:0.0:2.5:1~He knew what he was getting into.
+
+0x1E15D7C7 = ~z~
+
+0x1E172DB1 = ~z~They grabbed Mr. Wayne!
+
+0x1EA8DEC0 = ~z~You got a shotgun messenger sitting right beside you, alright?
+
+0x1F4D4FCC = ~z~He's charging!
+
+0x2A6896DE = ~z~Don't you forget that.
+
+0x2AD24727 = ~z~Alright, you stay here, guard the wagons.
+
+0x2BCDBD19 = ~z~Okay?
+
+0x2BDE7358 = ~z~~sl:0.0:0.8:1~Alright...
+
+0x2D007B6F = ~z~~sl:0.0:3.1~Oh yeah,~rp~ I know Charles Smith,~sl:~and if he's got cause to be concerned, it's usually good cause.
+
+0x2D948B3E = ~z~Get you tools so we can go.
+
+0x2ED19A16 = ~z~he's building a ranch house up at Beecher's Hope.
+
+0x2FE7B5E3 = ~z~Mr. Devon!
+
+0x3A2ED5C1 = ~z~~sl:0.5~I got it. There's no use in you getting bloody, too.
+
+0x3A9AAA41 = ~z~Shit! They got around us!
+
+0x3B0948C0 = ~z~Is he? Is it? Bad?
+
+0x3C126CF8 = ~z~Whoa!
+
+0x3D7A5108 = ~z~Mr. Devon!
+
+0x3F6F9010 = ~z~He's got a knife!
+
+0x3F442E9D = ~z~Go speak to the man.
+
+0x3F63966C = ~z~Alright then. Beecher's Hope.
+
+0x4AC96BA6 = ~z~Mr. Milton! Mr. Smith!
+
+0x4B4E157C = ~z~~sl:0.0:2.6:1~Oh my Lord... what they do to him?
+
+0x4B262249 = ~z~~sl:0.0:2.8:1~The Skinners. Everyone knows.
+
+0x4C52EF44 = ~z~Goddammit, get after him.
+
+0x4E540225 = ~z~Okay?
+
+0x4EDA5FC1 = ~z~And John...
+
+0x4FA51032 = ~z~Uncle!
+
+0x5BE09B81 = ~z~He needs some tools...
+
+0x5C4FFAAC = ~z~I love you.
+
+0x5DDF3A9E = ~z~~sl:0.0:1.0~Nothing nice...~sl:3.1~Got it?
+
+0x5E844559 = ~z~You hear anything?
+
+0x5EA48FF6 = ~z~Goddamn them.
+
+0x6A01ABD7 = ~z~Mr. Wayne, are you okay?
+
+0x6A1B2A4D = ~z~~sl:0.9~Help!
+
+0x6AA8390C = ~z~best smith around.
+
+0x6B54B938 = ~z~Where's Wayne?
+
+0x6B513805 = ~z~Charles, you alright carrying him?
+
+0x6CAF4A46 = ~z~Uncle!
+
+0x6DC31D05 = ~z~Let's get out of here!
+
+0x6E8F759D = ~z~Hey, we're taking the next right, up toward Manzanita Post.
+
+0x6F42BFFC = ~z~~sl:0.0:1.1~We have to get out of here.~sl:0.2~You take him in the back wagon. Come on, help me.
+
+0x6FF8A0B5 = ~z~I'll take Mr. Devon back to town...
+
+0x7A20CA58 = ~z~Help me!
+
+0x7AEFDB5C = ~z~Okay?
+
+0x7B9CB8B8 = ~z~What are you playing at?
+
+0x7B408E38 = ~z~No. ~rp~Not that time. ~rp~Most folk don't usually put up such a fight.
+
+0x7C1A3E5E = ~z~Shoot that bastard off his branch!
+
+0x7C4D1FEF = ~z~~sl:2.0~Come on.
+
+0x7DCB7276 = ~z~Sir, we do not have time.
+
+0x7E258E2D = ~z~That was fun for them?
+
+0x7F1F0BDA = ~z~I hope not.
+
+0x7F372302 = ~z~They went this way!
+
+0x7FD13037 = ~z~Load the wagon. We've got to move.
+
+0x8A5CEC8D = ~z~Willard, you'll be alright.
+
+0x8AF8C3A7 = ~z~That the last of 'em?
+
+0x8C4C0AC7 = ~z~God, stay down!
+
+0x8C65A276 = ~z~Christ.
+
+0x8DCD8821 = ~z~Now where's Mr...
+
+0x8F86DFD1 = ~z~get poor Mr. Wayne buried.
+
+0x9A8F274D = ~z~They're all around us!
+
+0x9CBB672C = ~z~Yes.
+
+0x9D160CFC = ~z~Over there, come on!
+
+0x9DA8D80F = ~z~Let's go.
+
+0x9DB689D8 = ~z~I don't like this one bit.
+
+0x9E4A13D7 = ~z~No!
+
+0x9EF5C9EB = ~z~Did he?
+
+0x10F90A9E = ~z~Okay.
+
+0x13CB5EB9 = ~z~Hey, wait, hold on.
+
+0x13DA69C2 = ~z~Well, we'll be safe together.
+
+0x18BDB377 = ~z~You mean they drew us in!
+
+0x19C4CE99 = ~z~They climbed up in the trees! Shoot the ones up there first!
+
+0x19D5514D = ~z~Up in the tree!
+
+0x21AA2A0E = ~z~~sl:0.8~We don't wanna stay here. Let's go.
+
+0x21FFEB96 = ~z~
+
+0x26E81682 = ~z~What the hell are they doing?
+
+0x28CB86A3 = ~z~They're on the other side!
+
+0x35DE22E2 = ~z~~sl:0.0:3.1~They'd been trying to sell that property for some time, hadn't they?~lr:0.5~Took a look at it myself, as it so happens.
+
+0x37D8464F = ~z~They've got Mr. Wayne!
+
+0x38CA7055 = ~z~Shit...
+
+0x38FF7BAB = ~z~Poor Mrs. Wayne.
+
+0x39E4E463 = ~z~Let me do the talking.
+
+0x41D17487 = ~z~Uncle!
+
+0x42A04DF2 = ~z~~sl:0.7~Damn them.
+
+0x43CC436C = ~z~~sl:0.0:2.4:1~The Skinners? Everyone knows.
+
+0x46E3CB93 = ~z~They're coming out of the woods!
+
+0x50BDCC5C = ~z~I didn't... think they'd attack.
+
+0x51DE34ED = ~z~Watch out!
+
+0x52ED5D00 = ~z~And men like me too, sadly.
+
+0x53BAE83A = ~z~Enough.
+
+0x55DFE793 = ~z~~sl:0.5~Did he?
+
+0x59E2887D = ~z~Those goddamn animals.
+
+0x61B20428 = ~z~Once this is done...
+
+0x70C9B934 = ~z~Where'd they come from?
+
+0x70D1F47B = ~z~They're coming out of nowhere.
+
+0x71C21A2D = ~z~~sl:0.0:1.5~They opened him up pretty good.~sl:0.9:1.9:1~Nearly chopped his head in two.
+
+0x76FBD6A2 = ~z~This is the spot. Just up ahead.
+
+0x77A4D5FA = ~z~Come on. There could be more.
+
+0x78A2AF10 = ~z~Check the tree line!
+
+0x83BB5ADA = ~z~Where is he?
+
+0x86AC34AD = ~z~You're driving, let's go.
+
+0x88EDE7F2 = ~z~They got me!
+
+0x89E0A5A3 = ~z~But rarely just for the fun of it.
+
+0x94C37237 = ~z~No, no.
+
+0x95E34967 = ~z~Look out!
+
+0x96CAD879 = ~z~Damn that hurts.
+
+0x97FAEC67 = ~z~Have you got any made?
+
+0x99D8D46A = ~z~Mr. Wayne!
+
+0x106C4C8D = ~z~Good.
+
+0x154ED542 = ~z~instead of precut timber, and some tools.
+
+0x167F8317 = ~z~Over here!
+
+0x177A2DB5 = ~z~~sl:4.5~Come on, we gotta go.
+
+0x181DDC08 = ~z~~sl:0.0:3.1~But when I'm out here,~rp~ I'm watching the tree line,~sl:0.5~~rp~I got my gun at the ready.
+
+0x213BF99A = ~z~Something's not right.
+
+0x265BBD9C = ~z~You useless sack of crap.
+
+0x313A7EB8 = ~z~We've got to get after him.
+
+0x341A5919 = ~z~I was...
+
+0x343BC87C = ~z~We have to get past them.
+
+0x433D2C55 = ~z~They're in our way!
+
+0x434FDCB7 = ~z~Help!
+
+0x468A4A5F = ~z~Okay...
+
+0x469C1F17 = ~z~Those were the Skinner Brothers.
+
+0x517BCEC7 = ~z~~sl:0.0:3.3~When I get home, I put my gun on the rack and it stays there.~sl:~I mean it, it really stays there...
+
+0x576D1296 = ~z~He heard you was the best...
+
+0x616CF9FF = ~z~~sl:0.0:1.9~Must have seen something in it I couldn't.~lr:0.7~The world needs men like you.
+
+0x626C97A6 = ~z~I see him!
+
+0x648F0F63 = ~z~Mr. Wayne, we're coming!
+
+0x681C0CD6 = ~z~You off someplace, Nils?
+
+0x706A72B3 = ~z~I told you I was worried.
+
+0x726E217A = ~z~but a heart of gold and he's the best.
+
+0x782C2977 = ~z~~sl:0.5~There he is, working away.
+
+0x782E4830 = ~z~Hold on, over there.
+
+0x813B8DBD = ~z~Goddamn!
+
+0x837F604D = ~z~Willard, how you holding up there? We'll get you out of here.
+
+0x854A2B5C = ~z~Let's search these trees.
+
+0x868BF0D3 = ~z~Okay...
+
+0x875AE656 = ~z~Who are these people?
+
+0x952F0E19 = ~z~Willard Wayne.
+
+0x1142F9D3 = ~z~
+
+0x1179B52D = ~z~Come on.
+
+0x1910C401 = ~z~What was all the nonsense about civilization?
+
+0x2220A446 = ~z~We got to get to Wayne.
+
+0x2469D882 = ~z~He's running at you!
+
+0x2579F588 = ~z~I think you might be.
+
+0x3260FC72 = ~z~Damn.
+
+0x3477F68D = ~z~Am I finally gonna meet this tool maker?
+
+0x3873F6E7 = ~z~~sl:1.9~Let's go. Back to the road.
+
+0x3993E4AA = ~z~Charles, come on!
+
+0x6344F259 = ~z~~sl:0.0:3.4~People wonder how you can handle it... living by your gun.~sl:0.8~~rp~But it's the same as any other occupation, really.
+
+0x6405E979 = ~z~Well, nor do I.~rp~ But... I know a thing or two about protecting them.
+
+0x7382F836 = ~z~Machete!
+
+0x8129E7D0 = ~z~Okay?
+
+0x8254C11B = ~z~Okay.
+
+0x9589FE77 = ~z~Where'd they take him?
+
+0x9781EBA1 = ~z~Okay.
+
+0x15008C91 = ~z~We cleared them! Keep going.
+
+0x44829BDD = ~z~They're like ghosts.
+
+0x54045A95 = ~z~We gotta move fast. Come on.
+
+0x62206F21 = ~z~I'm not gonna be much use to you.
+
+0x79592FFC = ~z~Come on, let's get moving.
+
+0x81988F31 = ~z~Goddammit. A few minutes ago he was chewing my ear off.
+
+0x82808EAC = ~z~Who are these fellers?
+
+0x89597B34 = ~z~More. We've come the right way.
+
+0x95828E2F = ~z~Look out!
+
+0x261276C9 = ~z~~sl:0.0:1.6~Unless they take the guns to mean...~sl:~they're carrying something valuable...
+
+0x358950A8 = ~z~The bushes!
+
+0x447633CD = ~z~~sl:0.8~Shit.
+
+0x448145A1 = ~z~Like I said, an acquired taste...
+
+0x468934B4 = ~z~
+
+0x640559E9 = ~z~~sl:0.0:1.8~Sadie said something too.~lr:0.3~What kind of land have I bought?
+
+0x662708C0 = ~z~Ah, okay.
+
+0x806982D7 = ~z~Watch out for arrows!
+
+0x917248BE = ~z~We got to clear these fellers!
+
+0x2995268B = ~z~You see anything?
+
+0x7858546C = ~z~This is my associate Jim Milton.
+
+0x27898639 = ~z~Seemed like a lot of work. ~rp~Too much for me, but more power to you.
+
+0x32135213 = ~z~Okay.
+
+0x57708411 = ~z~~sl:0.0:1.8~You can always earn more money,~sl:0.3~but good tools will last you a life time.
+
+0x90016181 = ~z~We shouldn't stop!
+
+0xA00B2C9C = ~z~~sl:0.0:1.4:1~Charles, I found the tools.
+
+0xA2DC28E2 = ~z~Over here!
+
+0xA3FFABBA = ~z~Okay...
+
+0xA4B751C2 = ~z~~sl:0.2~It's too quiet.
+
+0xA5DDA37B = ~z~~sl:1.0~Nils...
+
+0xA9BC7435 = ~z~Mr. Wayne!
+
+0xA36ACC85 = ~z~I know the quickest way, follow me.
+
+0xA71B0A0C = ~z~~sl:0.6~Except me.
+
+0xA74DEC3C = ~z~Where are they?
+
+0xA161D05F = ~z~~sl:0.0:3.2~I've already bought a house and hired you today,~sl:0.5~so might as well keep spending while I'm at it.
+
+0xA314482C = ~z~It's the Skinners!
+
+0xA446764A = ~z~They got the tools.
+
+0xA9323454 = ~z~Okay. John, I'm riding with you.
+
+0xAB47817E = ~z~I can't... move my arm.
+
+0xACE6BDEA = ~z~You see him? High up in the branches!
+
+0xAE7B8AAC = ~z~There's more!
+
+0xAF7E2D67 = ~z~Who are these bastards?
+
+0xAF8AB658 = ~z~For all that's holy!
+
+0xAF9D09E0 = ~z~~sl:0.0:5.0~What?~rp~ No, wait. Trust me on this, you're over thinking it.~sl:0.2~~rp~You hire a gun, you hire peace of mind and a deterrence.
+
+0xAF305336 = ~z~Everyone find some cover!
+
+0xAFC7D1BE = ~z~We got bushwhacked!
+
+0xAFC36B86 = ~z~~sl:0.0:1.6:1~He knew what he was getting into.
+
+0xAFF17CA0 = ~z~No time to stop.
+
+0xB020E8B2 = ~z~Alright, let's get outta here.
+
+0xB09221F7 = ~z~Okay...
+
+0xB1A3C702 = ~z~Nils?
+
+0xB3EC0898 = ~z~Can you hear us?
+
+0xB7F266C3 = ~z~Can we move this caravan? Quick!
+
+0xB33E2CA5 = ~z~The one up there has an angle on us!
+
+0xB48B76B2 = ~z~You won't regret it.
+
+0xB51BA6A8 = ~z~Beecher's Hope?
+
+0xB62FD07C = ~z~They're still up there, high in the tree.
+
+0xB87CB73D = ~z~Mr. Wayne, we're right here!
+
+0xB12348B2 = ~z~They're pulling back. Come to the wagons!
+
+0xB684119B = ~z~Over here, come on.
+
+0xB982239C = ~z~Put your tools in the wagon, let's go.
+
+0xB1476492 = ~z~You okay?
+
+0xB4351002 = ~z~
+
+0xBB7E4567 = ~z~Hope you're praying.
+
+0xBCAA3975 = ~z~Shit...
+
+0xBE01EE32 = ~z~Goddamn bastards.
+
+0xBE7960AD = ~z~Nils, it's me...
+
+0xC0372E23 = ~z~I think so.
+
+0xC03D8796 = ~z~~sl:0.2:1.2:1~Later, John.
+
+0xC094A28D = ~z~~sl:0.0:2.9~I saw you getting skittish there, but don't you worry,~sl:~we're not getting shot at.
+
+0xC3D51A84 = ~z~Where they coming from?
+
+0xC3E79F81 = ~z~Men, women, children... ended up like Wayne, or worse.
+
+0xC5DC9954 = ~z~And he knows me. ~rp~So we'll see if we can get him to give you some.
+
+0xC8E4614F = ~z~I hope so.
+
+0xC8F9B7C8 = ~z~They're covering their retreat!
+
+0xC624CD0C = ~z~Skinner Brothers.
+
+0xC6492D52 = ~z~Mr. Wayne!
+
+0xC3662389 = ~z~We've got to move, quick.
+
+0xCB2AC0FB = ~z~~sl:0.7~Alright...~rp~ I'll do just that.
+
+0xCBC92736 = ~z~Look out!
+
+0xCC20A440 = ~z~~sl:0.4~Except me.
+
+0xCDA1DC16 = ~z~be careful.
+
+0xCE4B5342 = ~z~~sl:0.2~I got it. There's no use in you getting bloody, too.
+
+0xCE327408 = ~z~What the hell is going on?
+
+0xCFCAE5BE = ~z~Up in the tree, get him!
+
+0xCFEE5784 = ~z~~sl:1.3~Can't have been quick either.
+
+0xD1B53B1C = ~z~There was a caravan. Few months back. Massacred.
+
+0xD2B96BB6 = ~z~Hold on, Mr. Wayne.
+
+0xD6CF3B39 = ~z~~sl:0.0:2.8~They won't be free, and ~rp~they won't even be cheap,~sl:0.3~but they'll be worth what you pay.
+
+0xD8DF9F6D = ~z~Arrows!
+
+0xD9EFC383 = ~z~Watch it!
+
+0xD9F8D884 = ~z~Where are you going?
+
+0xD12E5011 = ~z~you alive?
+
+0xD62EBF37 = ~z~They're on top of us!
+
+0xD69A5823 = ~z~My damn shoulder.
+
+0xD561CC27 = ~z~Cash is cash,~rp~ so it's all the same to me.
+
+0xD37388F7 = ~z~Keep your head down.
+
+0xD47069A3 = ~z~Lot of 'em?
+
+0xD948740E = ~z~We should move.
+
+0xD8278660 = ~z~Help! Help me!
+
+0xD9620964 = ~z~Save him, quick!
+
+0xDAE6A6B3 = ~z~what happened?
+
+0xDB92C4C0 = ~z~~sl:0.0:2.0~guess it figures they'd still be making them.~lr:0.7~I'm not sure how much English he speaks, but Nils knows tools.
+
+0xDDB0F309 = ~z~~sl:0.0:0.9~It's Wayne...~sl:0.7~he's dead...
+
+0xDF647F9B = ~z~I will.
+
+0xE0E0EC67 = ~z~~sl:0.0:2.4~So, I'll sit here, looking big and scary,~sl:0.1~~rp~and you can concentrate on the horses.
+
+0xE3B3751B = ~z~Alright...
+
+0xE4C36AEA = ~z~I think a bit of both, for what it's worth.
+
+0xE8A04226 = ~z~Oh...
+
+0xE9FCFEE8 = ~z~
+
+0xE16D04E8 = ~z~Sure...
+
+0xE23B3224 = ~z~Damn bushwhacking!
+
+0xE36C19B2 = ~z~Okay. Let's move. He took him down the hill.
+
+0xE50A9883 = ~z~We'll weather this.
+
+0xE4217EEE = ~z~Charles, are you alright carrying him?
+
+0xE78566BC = ~z~Then I hope we put an end to it.
+
+0xEA1DAADB = ~z~What are you waiting for, mister?
+
+0xEB30C40F = ~z~Watch the arrows!
+
+0xEBDABD4C = ~z~There down the hill!
+
+0xEC21B9A0 = ~z~~sl:0.6~Uh huh.
+
+0xED9E1888 = ~z~Should I get them to pay you and add it to his bill up there?
+
+0xED451B5C = ~z~But I'm fairly sure we scared 'em off for now.
+
+0xEDDD8788 = ~z~I'm chopping wood, I'm mending the roof,~rp~ I'm putting the kids to bed.
+
+0xEF1BA045 = ~z~if you say so.
+
+0xEF62EE69 = ~z~Look there!
+
+0xEF80F0DE = ~z~~sl:0.0:1.6~I thought... this...~lr:0.6~this kind of bloodshed was meant to be over with.
+
+0xEF2253F4 = ~z~Get us back to Beecher's.
+
+0xEFF10B97 = ~z~That's, uh, real good of you.
+
+0xF0369C42 = ~z~Goddammit. A few moments ago he was chewing my ear off.
+
+0xF2C5101F = ~z~But I'm not so different from you, partner.
+
+0xF3DB925C = ~z~then they're gonna wait for the next set of fools to come on through.
+
+0xF786A5B8 = ~z~~sl:0.0:1.0:1~Yeah.
+
+0xF3142374 = ~z~Okay.
+
+0xFA31E549 = ~z~Really?
+
+0xFB98D8A2 = ~z~Mr. Wayne didn't make it.
+
+0xFB2817BF = ~z~Not much, I guess... no.
+
+0xFBBFCEA9 = ~z~No! No! No!
+
+0xFD9D0D1A = ~z~~sl:0.2:1.1~It's not the land.~lr:0.3~The Skinners move around, but they're here for now.
+
+0xFD10DA27 = ~z~They're getting away with him!
+
+0xFDA48AEC = ~z~Machete!
+
+0xFDC6892B = ~z~~sl:0.0:5.4~Now, Nils. ~rp~He's an acquired taste, but boy can he work metal.~lr:0.3~Norwegian, you see. Viking blood.
+
+0xFFB3AB34 = ~z~I don't even think about it.~rp~ My mind's on my wife and the little ones.
+

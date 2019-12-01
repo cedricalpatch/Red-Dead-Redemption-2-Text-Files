@@ -1,0 +1,168 @@
+0x06B657E0 = ~z~You come for me...
+
+0x0DE03CE6 = ~z~no one's shot him, yet.~n~~m~The drink, it helps...
+
+0x1E302078 = ~z~~sl:0.5:0.0~Don't miss.
+
+0x1FADA15D = ~z~I didn't shoot him in his sleep!
+
+0x3BC98873 = ~z~I wanna talk.
+
+0x3C45C2FE = ~z~I knew...
+
+0x3F902504 = ~z~I imagine you'll find him riding the next one through here.
+
+0x4DEF6651 = ~z~You don't know nothing, Mr. Midnight.
+
+0x4F6100FF = ~z~I just wanna speak with you, about your old days as a shoot-ist.
+
+0x5FF6B1A4 = ~z~You want that old soak, you'll find him on this one.
+
+0x6EC2C9E8 = ~z~Hey.
+
+0x7A0F1A01 = ~z~name of Midnight, Billy.
+
+0x8A58353B = ~z~Hey, you there, a quick word.
+
+0x9C0A3A91 = ~z~Alden, I need a word.
+
+0x14D5F41F = ~z~so come on!
+
+0x21BBA54D = ~z~Mr. Midnight, listen, this won't take a moment.
+
+0x34E10AE7 = ~z~I couldn't look him in his eyes...
+
+0x44C2E731 = ~z~Excuse me. I'm trying to drink.
+
+0x49D48EAC = ~z~Mr. Midnight... won't take a moment.
+
+0x60E85849 = ~z~I imagine you'll find him riding the next one through here.
+
+0x88D83793 = ~z~There's an old gunslinger I'm looking for, I heard he comes through here...
+
+0x91FE34DB = ~z~Don't do something foolish.
+
+0x93A4FB5A = ~z~Mr. Midnight! Oh, jeez...
+
+0x97B29169 = ~z~No one's saying...
+
+0x98F6A91F = ~z~Not a problem. I'm here about Jim 'Boy' Calloway, no one's shot him, yet.
+
+0x114D43C0 = ~z~The drink, it helps...
+
+0x231EE763 = ~z~it helps you forget, but...
+
+0x314A0878 = ~z~Either that or the next one. Try 'em both. Look in the bar car...
+
+0x408FDC33 = ~z~~sl:0.0:4.0:1~I knew you'd come! But you ain't getting me, you ain't!
+
+0x530BC73C = ~z~But what he'd done for me didn't matter...
+
+0x706A44EB = ~z~
+
+0x811DE478 = ~z~Get away from me.
+
+0x858E692F = ~z~It weren't my fault!
+
+0x958FCB3B = ~z~I had to.
+
+0x969D2155 = ~z~Mr. Midnight?
+
+0x4691AE48 = ~z~not after all he'd done for me.
+
+0x7335FCE4 = ~z~Oh, that old soak? Yeah, he spends days on board these trains, but he's going nowhere but the gutter.
+
+0x8310F284 = ~z~I didn't shoot him in his sleep, and if I did, it was the only way.
+
+0x16343FAB = ~z~Geddaway from me.
+
+0x55319C1A = ~z~This is your train, the Midnight express, we call it.
+
+0x58102B23 = ~z~I just wanna speak with you about your old days as a shoot-ist.
+
+0x59569F10 = ~z~No one's saying that...
+
+0x3862073D = ~z~There's an old gunslinger I'm looking for, I heard he comes through here...
+
+0x4773152B = ~z~~sl:0.0:1.2:1~Mr. Midnight!
+
+0x72064649 = ~z~Excuse me, I'm trying to drink.
+
+0x72120440 = ~z~only what he'd done, you see?
+
+0x79560928 = ~z~Either that or the next one. Try them both. Look in the bar car...
+
+0xA3C30730 = ~z~Not a problem, I'm here about Jim 'Boy' Calloway... and no one's shot him, yet.
+
+0xA9FCC5B3 = ~z~This is the train, just find the bar car.
+
+0xA71D18AB = ~z~You don't know nothing, Mr. Midnight.
+
+0xA127AEAD = ~z~I didn't shoot him in his sleep.
+
+0xA637AE73 = ~z~Mr. Midnight, won't take a moment...
+
+0xA7456EA6 = ~z~That makes some sense?
+
+0xA61662A8 = ~z~name of Midnight, Billy.
+
+0xAC58FE94 = ~z~Oh, that old soak? Yeah, he spends days on board these trains, but he's going nowhere but the gutter.
+
+0xB4D8108A = ~z~Mr. Midnight?
+
+0xB8D991CE = ~z~I... I knew you'd come for me.
+
+0xB5468BB4 = ~z~And if I did, it was the only way.
+
+0xBB095816 = ~z~Hey.
+
+0xBB86636A = ~z~Geddaway from me.
+
+0xBBD9D85E = ~z~Hello, you. What can I help you with?
+
+0xC9F575EE = ~z~No one's saying...~n~~m~I didn't shoot him in his sleep!
+
+0xC652C278 = ~z~I knew you'd come for me... get away from me!
+
+0xC1120A40 = ~z~Hey, you there, a quick word.
+
+0xC1445312 = ~z~What can I do for you, sir?
+
+0xCA943543 = ~z~Tell me about Jim Calloway, Mr. Midnight.
+
+0xCB4F29E2 = ~z~No one's saying...
+
+0xD3D21723 = ~z~Coming.
+
+0xD817D156 = ~z~Not a problem...
+
+0xD8864468 = ~z~I didn't shoot him in his sleep, and if I did, it was the only way.
+
+0xDC5D58D5 = ~z~Mr. Midnight!
+
+0xDFEDD31F = ~z~Hey.
+
+0xE0908B95 = ~z~I wanna talk.
+
+0xE8659B33 = ~z~I knew you'd come for me!
+
+0xEA73760D = ~z~I'm here about Jim 'Boy' Calloway...
+
+0xED613CC5 = ~z~I didn't shoot him in his sleep.
+
+0xEE1EFC58 = ~z~Get away from me.
+
+0xEF31F4DE = ~z~Alright, thank you.
+
+0xF09E7480 = ~z~I didn't shoot him in his sleep.
+
+0xF2B92FE6 = ~z~Don't do something foolish.
+
+0xF7E1D19A = ~z~I just wanna talk with you... 'bout your old days as a shoot-ist.
+
+0xF9183C98 = ~z~It weren't my fault!
+
+0xF7730084 = ~z~Alden, I need a word.
+
+0xFBB99899 = ~z~no one's shot him, yet.
+

@@ -1,0 +1,78 @@
+0x076A3099 = ~z~~sl:0.0:1.2~I don't got that kinda money...~sl:0.0:1.9~and I sure don't have the means to be taking on~sl:~the goddamn Lemoyne Raiders. So...
+
+0x0E934E14 = ~z~Hurry. Those southern boys, they ain't patient.
+
+0x1BB12B98 = ~z~~sl:0.0:3.0~Me and Jimmy was up on the river when those bastards grabbed me...~sl:~can you take me, see if we can find him?
+
+0x2FAF607A = ~z~Christ, these bastards just can't get enough, can they?
+
+0x4AED3689 = ~z~This ain't no joke! C'mon.
+
+0x4C766FD0 = ~z~Please, hurry up if you're gonna.
+
+0x5F57D35A = ~z~Okay, they said they're over at Bluewater Marsh.
+
+0x7E17AC1F = ~z~You gonna help me out here or what?
+
+0x9C3C79C4 = ~z~You're dropping like flies!
+
+0x9C6B7D82 = ~z~You just wait till my Jimmy finds me!
+
+0x15F14455 = ~z~~sl:0.0:3.0~Who are you? Did Jimmy send you?~sl:0.7~Whatever, hardly matters right now. We need to get the hell outta here.
+
+0x24D45020 = ~z~~sl:0.0:0.9~Who is that?~sl:0.6~Jimmy? That you?
+
+0x27F27FAE = ~z~Christ, could use a drink.
+
+0x38E19272 = ~z~I really need some help over here!
+
+0x41B9048D = ~z~More of these sons of bitches?
+
+0x54B9FF29 = ~z~This is useless, I'm done for.
+
+0x66E51276 = ~z~I seen you coats in town! Bunch of damn dogs!
+
+0x96DECF84 = ~z~~sl:0.0:2.4~I was camping when some of those Raiders came,~sl:0.0:1.3~put a pistol to my face and said~sl:~they're taking my girl ...
+
+0x540B2931 = ~z~More? You goddamn kidding me.
+
+0x555E5804 = ~z~Please, you gotta help me.
+
+0x663E6D2B = ~z~Oh God, I'm losing my blamed mind here. C'mere...
+
+0x3874A0B2 = ~z~Just another day in my world of shit.
+
+0x8023E8DB = ~z~Hey, hey! C'mere! Please.
+
+0x9732F315 = ~z~Lay a finger on me, I'll rip your damn eyes out!
+
+0x12167B0D = ~z~Quick, or they'll kill her, I know it.
+
+0x14103CCC = ~z~~sl:0.0:2.8~But please... they see you, they may kill her.~sl:0.2~Just... just be careful.
+
+0x16144DED = ~z~~sl:0.0:1.5~and I gotta come to the marsh with~sl:~a hundred dollars to get her back.
+
+0x88253D91 = ~z~Please, I'm plumb out of options here.
+
+0xA1FB9749 = ~z~~sl:0.0:1.3~Jimmy!~sl:0.5~We're having words you and me!
+
+0xA4AC6B1F = ~z~Hey, hey, I'm in a nightmare here...
+
+0xA19B7326 = ~z~This is a just another goddamn nightmare.
+
+0xACAB1AA1 = ~z~You lot need to pull your finger out, they're killing you.
+
+0xB4519892 = ~z~Are you gonna come and cut me loose, then?
+
+0xDB1DA24F = ~z~~sl:0.0:3.5~Here, take this. Appreciate you stepping in.~sl:0.4~Jimmy sure didn't.
+
+0xF5E8DA72 = ~z~~sl:0.0:2.3~Ain't right. Second I'm anything but miserable,~sl:~I get taken by some coats.
+
+0xF31A84CD = ~z~Oh, thank God! You're alive.
+
+0xF773EE5F = ~z~You will? Oh, thank you! Just please hurry.
+
+0xFA8796D4 = ~z~~sl:0.0:2.6~so you... you look like you might be better equipped~sl:0.0:2.6~to deal with them boys... one way or another...~sl:0.3~please... please?
+
+0xFFD85691 = ~z~Are you going or not?
+

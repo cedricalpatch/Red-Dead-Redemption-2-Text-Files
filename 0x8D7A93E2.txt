@@ -1,0 +1,48 @@
+0x07562346 = ~z~Well exactly, I think that's the point.
+
+0x0A3C28DA = ~z~Jack... Jack, come to bed... come to bed now...
+
+0x1BEA8ECA = ~z~Oh, Marston, you are so tough with them scars...
+
+0x2B43EB21 = ~z~Not yet you didn't.
+
+0x3F27D544 = ~z~Them scars still pretty raw.
+
+0x9EA8D30D = ~z~I wish I had a scar.
+
+0x12B93B2C = ~z~Don't you be an arrogant son of a bitch, John, you're better than that...
+
+0x50E2F8BA = ~z~New ones or the old ones?
+
+0x89A4EA41 = ~z~Exactly.
+
+0x91F7388E = ~z~Ain't nothing ever caught me, Dutch, didn't wanna eat me.
+
+0x158BC0D1 = ~z~That man talks drivel sometimes.
+
+0x7864C7C1 = ~z~I ain't tough. I'm either... stupid or slow and I cannot decide which.
+
+0x287966AC = ~z~Love gets us all in the end, you be grateful it got you.
+
+0x66272346 = ~z~How'd you get them scars, John? Being tough...
+
+0xC05A9554 = ~z~We all get caught eventually, John, I guess the trick is to decide by who.
+
+0xC62AE34C = ~z~Either way, I keep getting caught.
+
+0xCB4E2C5B = ~z~I guess...
+
+0xD12A36F3 = ~z~Just what do you mean, Dutch?
+
+0xE2AA9C4B = ~z~How you boys keeping?
+
+0xE3C65C2B = ~z~Seems like you've been getting caught by a few things. Not just wolves and knives.
+
+0xE64EA393 = ~z~Good.
+
+0xEE9171C1 = ~z~What do you mean?
+
+0xFCAA8DB7 = ~z~I guess I should be going to bed.
+
+0xFDA00FDA = ~z~Listen... I didn't get these scars falling over in church.
+

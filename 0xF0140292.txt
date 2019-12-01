@@ -1,0 +1,22 @@
+0x0F6FD39F = ~z~Si me emborracho, es de puro sentimiento.
+
+0x8ED95264 = ~z~Compro mi trago, se me hace muy poquito.
+
+0x4528BF10 = ~z~El whisky tomo, tomo yo por apetito.
+
+0x4619C0F2 = ~z~Las copas llenas donde estan que no las tengo.
+
+0x21297712 = ~z~Todo lo causa esa ingrata mujer.
+
+0xC51A3EF1 = ~z~Al borrachito todo se le dispensa, cuando anda chirpo no conoce la verguenza.
+
+0xC68641C9 = ~z~Si me emborracho es por una consecuencia.
+
+0xD0BECC16 = ~z~Todo lo causa la pasion de una mujer.
+
+0xD843E544 = ~z~Todo lo causa la pasion de una mujer.
+
+0xDF3168FB = ~z~Como una taza de tequila de mi abuelito.
+
+0xFC532D66 = ~z~Amigo vino, tu me tumbas con tu aliento.
+

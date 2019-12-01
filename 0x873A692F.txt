@@ -1,0 +1,288 @@
+0x03587CAF = ~z~John Marston? I don't believe it! I thought you were dead.
+
+0x042AE1AA = ~z~Oh, I hardly recognized you there. You look... thinner... or something.
+
+0x065CE595 = ~z~Wait, you look... like... no, don't listen to me.
+
+0x0763A755 = ~z~You stay out of that filthy business, you hear me?
+
+0x078B5AD0 = ~z~Just an old friend.
+
+0x088376D3 = ~z~Anyway, what can I do you for?
+
+0x0D2E263C = ~z~How have you been?
+
+0x0D120C58 = ~z~Oh it's you... dropped a bit of weight there.
+
+0x1AC091E6 = ~z~You know, sometimes people here still talk about the brutal demise of the Grays and Braithwaites. I just smile and keep quiet.
+
+0x1DB2A617 = ~z~How's your friend getting on with those new clothes?
+
+0x2A7160C2 = ~z~I was thinking I might send you a letter.
+
+0x2B2E5A3F = ~z~I wouldn't go that far... but I'm trying.
+
+0x2C9C5A5B = ~z~Your boots on the right feet there?
+
+0x2D6B62B4 = ~z~Anyway, no point dwelling in the past...
+
+0x2F9CDED3 = ~z~Oh Arthur, you look terrible. What happened?
+
+0x3AF6902A = ~z~This coffee is as bitter as wormwood!
+
+0x3B543D67 = ~z~Yes, just very lucky I wasn't in the store at the time.
+
+0x3D2912DF = ~z~Sorry dear.
+
+0x3DB8E145 = ~z~Oh very well.
+
+0x3F51FFC6 = ~z~I didn't mean what I said about Momma, alright?
+
+0x4A39DB32 = ~z~Oh yeah? Sorry to hear that. Well you survived at least?
+
+0x4D11345B = ~z~Before her, I was married briefly to a lady called Michele, but she was an absolute nightmare.
+
+0x4E7D270A = ~z~Pretty good. Working on a ranch right now.
+
+0x5A317469 = ~z~You're a fair way out from Great Plains over this way.
+
+0x5B6B1FFF = ~z~It's just a cough.
+
+0x5D897D65 = ~z~I can't say I miss not having a roof over my head.
+
+0x6CFB99FD = ~z~Was it just a social call then, John?
+
+0x6D4974CF = ~z~Yes, dear?
+
+0x7C16DE00 = ~z~John! Nice to see you again, how have you been?
+
+0x7D06ABC7 = ~z~I left when things... well, you know how it was.
+
+0x8A43EDD2 = ~z~You remember all your customers that well, do you?
+
+0x8ECD4F54 = ~z~I heard about Arthur.
+
+0x8F802ADE = ~z~Good. So what can I help you with today?
+
+0x9A3CB59E = ~z~You alright there, Clive?
+
+0x9A7A8553 = ~z~Well, look who it is. I got a very nice sum for them Braithwaite horses...
+
+0x9A63B5E8 = ~z~Are you sulking again, Clive?
+
+0x9B2F509E = ~z~Seems you've landed on your feet this time.
+
+0x9D72259C = ~z~Well, er, not right now... but I've had my share... Anyway...
+
+0x9FCD742F = ~z~Stay in the present now, Clive.
+
+0x11AD3D98 = ~z~Okay, I'll make a fresh pot for you. I just have a customer right now.
+
+0x17EB9A89 = ~z~Not something a lady should be wearing, in my opinion, but each to their own, I suppose.
+
+0x25FB12B5 = ~z~Anyway, no point dwelling in the past...
+
+0x36B5D948 = ~z~Give her my regards.
+
+0x51F6A50F = ~z~You got that funny look again.
+
+0x60BF377B = ~z~So what can I get for you today, sir?
+
+0x61F05E1D = ~z~I love that woman.
+
+0x65E1CCE5 = ~z~I'll feed you soon, Clive, okay?
+
+0x69D8EC3E = ~z~Him?
+
+0x80AABA03 = ~z~Anyway, no point dwelling on it now. What can I help you with today?
+
+0x81D3C3AD = ~z~I don't miss slaving over a hot fire day in day out, let me tell you.
+
+0x92EC5E86 = ~z~Sad how it all turned out.
+
+0x98C6B96D = ~z~Oh yeah? Sorry to hear that. Well you survived at least?
+
+0x98CBD1BF = ~z~How you doing there, partner?
+
+0x196AEA37 = ~z~You're looking a little under the weather there. Is everything ok?
+
+0x270E4048 = ~z~What do you care?
+
+0x507FE7BE = ~z~Finally fixed this place back up properly after a terrible shootout we had in town.
+
+0x532CA5F2 = ~z~Dear oh dear. Tea with lemon, my dear boy, and lots of it. Anyway...
+
+0x545E5A03 = ~z~Hey, you're back! How are things?
+
+0x568A1AD7 = ~z~Well, how can I help you, kind sir?
+
+0x598DE7AC = ~z~Feels like an eternity ago...
+
+0x702EAC05 = ~z~Who's that?
+
+0x713F24D0 = ~z~Well, here we are.
+
+0x883FFE42 = ~z~Oh, shut up.
+
+0x898C9EF9 = ~z~Alright, none of my business.
+
+0x905D60C0 = ~z~I hate to rush you, but I should start drawing a bath for Ethel soon.
+
+0x1367FF9F = ~z~What?
+
+0x2017D8BD = ~z~Of course, dear.
+
+0x3012BC8A = ~z~I always quite liked this area when we were here.
+
+0x3696AD34 = ~z~Anyway, in the past now.
+
+0x9589FB72 = ~z~Not five thousand dollars, I hope?
+
+0x9596A12D = ~z~Pearson! What are you doing here?
+
+0x75110A4A = ~z~Everything alright, sir?
+
+0x77236F68 = ~z~Did you fart again, Clive?
+
+0x86015C61 = ~z~oops, did I say Braithwaite? My mistake.
+
+0x300245D8 = ~z~Not bad. You?
+
+0x404801B2 = ~z~Don't glaze over on me.
+
+0x596824FB = ~z~I don't... I really don't.
+
+0x634396E6 = ~z~That would be telling. So you here for business or pleasure?
+
+0x988162BC = ~z~Not too bad.
+
+0x4264258A = ~z~I'm fine, don't you worry about me.
+
+0x9143195E = ~z~Well, nothing a stiff drink won't fix.
+
+0x18268999 = ~z~Well, I try to... I didn't mean nothing untoward by it. How can I, er, help you?
+
+0x47594343 = ~z~Who'd have thought it?
+
+0x60774087 = ~z~Just a little sick.
+
+0x96658932 = ~z~Funny to think Arthur came here with Mrs. Adler on that fateful shopping trip all those years ago.
+
+0xA0D05A34 = ~z~I overdid it on the rum and told her more than I should.
+
+0xA35A125B = ~z~Yes, dear!
+
+0xA661C39B = ~z~Well, hello again, sir. Are you, er, feeling alright?
+
+0xA1459B54 = ~z~We had some trouble here with a couple of brothers, and you just have a look of one of them. Don't mind me.
+
+0xA75490FA = ~z~I try not to think too much about the... er... old days.
+
+0xAA745CC8 = ~z~Finally fixed this place back up properly after a terrible shootout we had in town.
+
+0xAA31061B = ~z~I have to ask... do you still see any of the others?
+
+0xAA857532 = ~z~Something you need, friend?
+
+0xABA5D86C = ~z~Don't fall asleep again, Clive.
+
+0xAE6F52DE = ~z~~sl:0.0:2.9:1~Yeah! Beats the old butcher's table, doesn't it?
+
+0xAF0FB6E8 = ~z~I'm sorry to hear that.
+
+0xB7F866C8 = ~z~Yeah, just a little tired.
+
+0xB31BFECB = ~z~I can still hear you!
+
+0xB5710B64 = ~z~Pretty good. Got some land in Great Plains. Trying to get a small ranch going.
+
+0xB9133477 = ~z~I just feel like I was a different person back then. Or a different Pearson, you might say!
+
+0xBA2A3FFB = ~z~Hey, who are you talking to?
+
+0xBC269874 = ~z~You need something, friend?
+
+0xBECFC946 = ~z~That's my wife Ethel. A wonderful woman. Changed my life...
+
+0xBF0105E1 = ~z~Yes, just very lucky I wasn't in the store at the time.
+
+0xC9187B5C = ~z~Well, unfortunately you ain't a horse so I can't help you with that. But what can I help you with?
+
+0xC9206EA7 = ~z~So are you after anything in particular?
+
+0xC448946E = ~z~It's a place called Beecher's Hope in Great Plains, West Elizabeth.
+
+0xCE350595 = ~z~Some bad flu going around.
+
+0xD1E7C3F6 = ~z~You looking for anyone, partner?
+
+0xD5A2F6EC = ~z~Have you tidied those shelves?
+
+0xD5D39174 = ~z~So I meant to ask last time... are Abigail and Jack, er... okay? You're still with them?
+
+0xD8B1BD40 = ~z~Oh ticking along. Where is it you're based now again?
+
+0xD4349E68 = ~z~Are you serious?
+
+0xD6425E3D = ~z~Really? Please send my regards, even to Mrs. Adler.
+
+0xD2549087 = ~z~Hey, your friend's quite a bounty hunter.
+
+0xDAA7412D = ~z~You worry about your horses, not me.
+
+0xDD7DFD4C = ~z~You know, this really is a little awkward.
+
+0xDD296785 = ~z~How the hell are you?
+
+0xDFCE7849 = ~z~I don't know. If he is, I sure hope I never lay eyes on him again.
+
+0xDFE028EB = ~z~You, er, come down with something there, partner?
+
+0xDFEAB5D4 = ~z~~sl:1.5:3.4:1~Welcome to my store. How can I help you?
+
+0xE01371DF = ~z~And Dutch? Is he even alive?
+
+0xE3B1533D = ~z~Hey there, mister. You okay?
+
+0xE8BB060C = ~z~Well, I'm at a loss for words.
+
+0xE9E6C18E = ~z~You don't look so good, Pop. Maybe it's time you retired.
+
+0xE31EAC0A = ~z~Yes, they're doing fine. Jack's nearly a young man now.
+
+0xE797BB0D = ~z~Yeah, she's quite a deal maker too.
+
+0xE393674D = ~z~Can I help you?
+
+0xE573274C = ~z~As I say, I'm wary of too much... reminiscing. Ethel has the ears of a bat.
+
+0xEA4C6D27 = ~z~Is that him again? What does he want now?
+
+0xEB790B84 = ~z~What a turn-up for the books.
+
+0xEB614179 = ~z~I'd be very surprised if you had a lady, my friend
+
+0xECE8E5B0 = ~z~You don't look so good.
+
+0xED04116A = ~z~Well, make it quick. I rather not put my own health at risk.
+
+0xF1BD1536 = ~z~Yeah, that didn't end well.
+
+0xF28F70FB = ~z~Some things I wouldn't want Ethel to overhear.
+
+0xF47D0188 = ~z~He just popped in to say hello.
+
+0xF5698AF9 = ~z~You alright there?
+
+0xFA415A4F = ~z~Oh good. I'm glad to hear that. I always liked those two.
+
+0xFB6082A1 = ~z~Mr. Marston! I was wondering if you'd be back.
+
+0xFB47284A = ~z~I'm in touch with some of them again... Uncle, Charles, Sadie.
+
+0xFD0AAEA7 = ~z~This sure has brought the memories flooding back... not all of them good.
+
+0xFEC6016F = ~z~Really? Wow, good for you. Staying out of trouble then?
+
+0xFF3AB5D7 = ~z~I'm alright.
+

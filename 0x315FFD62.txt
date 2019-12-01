@@ -1,0 +1,14 @@
+0x1D170E4B = Take out the ~COLOR_ENEMY~outlaws~s~
+
+0x6D9450E2 = Loot the ~COLOR_MP_OBJECTIVE~bandit~s~
+
+0x85A91CBC = Go to the ~COLOR_ENEMY~hideout~s~
+
+0x930B6A8C = The hideout ~1b~ is guarded by a number of enemies. Kill all the enemies to complete the mission.
+
+0x4262F3AC = All outlaws were taken out
+
+0x749408FC = Assault the ~COLOR_ENEMY~gang hideout~s~
+
+0x814175C3 = Spare
+

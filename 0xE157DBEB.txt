@@ -1,0 +1,768 @@
+0x0116E61B = ~z~Don't, please! If I offended you, I'm sorry!
+
+0x0415C8F9 = ~z~Thanks, mister!
+
+0x05236270 = ~z~I don't know nothing about no damn watch!
+
+0x054ABF1F = ~z~Well, I'm sure you have more important matters to attend to than my old jewelry.
+
+0x056000C8 = ~z~But Saint Denis is acting as a staging post...
+
+0x06D0EA29 = ~z~Open the door, now!
+
+0x07051A13 = ~z~on Gaspar Street in St. Frances.
+
+0x07F88352 = ~z~Often, the people that are most in need of our help, are the most resistant to it.
+
+0x097C6420 = ~t~In Spanish: What are you doing?
+
+0x099B0EE6 = ~z~How you getting on, anyhow?
+
+0x0B31135A = ~z~He talks a lot of nonsense...
+
+0x0C278BED = ~z~Oh, no. Not you.
+
+0x0CC86884 = ~z~I ain't so kind.
+
+0x0CDD238D = ~z~Hey, you! Get your hands off of that boy right now.
+
+0x0D93115A = ~z~Hey you, why don't you leave the boy alone?
+
+0x0F86499C = ~z~Door? What door?
+
+0x1A4E27FD = ~z~But that's not a reason to give up on them, n-n-no. Much the opposite.
+
+0x1A6CAC6C = ~z~No, please.
+
+0x1A12594D = ~z~Hey, you forgot this.
+
+0x1AED9609 = ~z~H-hello?
+
+0x1BCAC168 = ~z~He stole my watch.
+
+0x1C4689B4 = ~t~In Spanish: Shit!
+
+0x1CDCF2AA = ~z~Just pull the big red book called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+0x1D829EF2 = ~z~Sir, no. Please!
+
+0x1DA77FE9 = ~z~It's just through the market there to the left.
+
+0x1E7AE32D = ~z~
+
+0x1E866235 = ~t~In French: Eat...
+
+0x2A33786F = ~z~Thank you, Brother.
+
+0x2B3F9DEA = ~z~Like.
+
+0x2B363D3A = ~z~The people you're hiding! I know they're here, don't lie to me!
+
+0x2CEC67CC = ~z~Someone help me.
+
+0x2DB3BB95 = ~t~In Spanish: Shhh, be quiet.
+
+0x2E94DA21 = ~z~Sir.
+
+0x2E506355 = ~z~This don't seem right...
+
+0x2ED153BA = ~z~He must be a wise man, your mentor.
+
+0x2FAE9461 = ~z~You're wrong on two counts, sir.
+
+0x2FCCB492 = ~z~Come on.
+
+0x3AA5097C = ~z~Well, sir?
+
+0x3BC518A4 = ~z~See, Father...
+
+0x3BF1DEB1 = ~z~Who?
+
+0x3DA85140 = ~z~I think you may be confusing things a little now, Brother Dorkins.
+
+0x3E0378FE = ~z~Brother Dorkins told me about the wonderful thing you did.
+
+0x3E44D2E7 = ~z~
+
+0x3F5673E8 = ~z~~sl:0.0:1.0:1~Mr. Morgan!
+
+0x4A43208E = ~z~Come see me again sometime.
+
+0x4A210931 = ~z~around the corner...
+
+0x4AE96BC2 = ~z~"I don't have any use for stupid books."
+
+0x4B8E49ED = ~t~In Spanish: Where are we going?
+
+0x4B315A81 = ~z~Read on a little. Make the sounds first in your head.
+
+0x4C56D67A = ~t~In Spanish: Is someone there?
+
+0x4E5B92BE = ~z~That's wonderful.
+
+0x4F5AFBF8 = ~z~I must say, you're acting very strange.
+
+0x5A84BED7 = ~z~If he gets away I'll never see it again!
+
+0x5AB2A8C9 = ~z~It's more about the giver feeling better about himself, than the good of the receiver.
+
+0x5B0D73E7 = ~z~Hello?
+
+0x5B40A4EB = ~t~In Spanish: No, please!
+
+0x5B49FB03 = ~z~Son of a bitch.
+
+0x5BA5AD52 = ~z~Well sometimes he's a downright fool but...
+
+0x5BCD0FC6 = ~z~Last Saturday, I saw you steal it with my own two eyes!
+
+0x5C7D8065 = ~z~Don't worry. You know the letters, you know the sounds, you're nearly there!
+
+0x5DC87094 = ~z~I'm a humble Brother.
+
+0x5EB4DE83 = ~z~that's...
+
+0x6A1FAC6B = ~z~Maybe your eyes don't work so good no more.
+
+0x6C735615 = ~z~Brother Dorkins was fantastic.
+
+0x6CEA7AEA = ~z~You were right...
+
+0x6DBC947C = ~z~and for him.
+
+0x6DD29971 = ~t~In Spanish: Who is it?
+
+0x6E70020B = ~z~My brothers, come.
+
+0x7B0F5C7B = ~z~Stay out of this, it's none of your damn business!
+
+0x7B5EC5B3 = ~z~You have it in you, I can tell.
+
+0x7B911B2D = ~z~for your services.
+
+0x7C51ED92 = ~z~the one with the green door...
+
+0x7CB80116 = ~z~They disappear very fast in this city, Mr. Morgan.
+
+0x7CD40CF9 = ~z~You didn't!
+
+0x7EB51E7F = ~z~Come on.
+
+0x7F06743F = ~z~What's it to do with you?
+
+0x7F95B82E = ~z~We shall see.
+
+0x7FFAF359 = ~z~And after all, isn't that the problem of most charities today?
+
+0x8A7FA854 = ~z~No, I did.
+
+0x8A70BF6F = ~z~They made me do it, sir. I always treat them good, but I was forced to do it, sir, I...
+
+0x8A93355F = ~z~mentally he's a piece of work but...
+
+0x8BE8A5C3 = ~z~Get away.
+
+0x8CA08CBC = ~z~Every day, it's a new challenge, Father.
+
+0x8D11BE2E = ~z~I could not have freed these men myself.
+
+0x8E07BE37 = ~z~The people you're hiding! I know they're here, don't lie to me!
+
+0x8E599053 = ~z~You sure?
+
+0x8FE4BDCD = ~z~The rest of you don't snigger. You're next.
+
+0x9A00DA6A = ~z~What are you doing?
+
+0x9A30B013 = ~z~Sure.
+
+0x9B55DEBE = ~z~~sl:0.0:3.6:1~Not even a sorry? Oh, you damn hoodlums...
+
+0x9B123352 = ~z~I told you...
+
+0x9C005839 = ~z~who am I to say...
+
+0x9C1FFFA9 = ~z~"I lick... I-I lick?"
+
+0x9CDB88C3 = ~z~This way. Not much farther.
+
+0x9E302C27 = ~z~Something don't seem right...
+
+0x9F7ACCE7 = ~z~How, I mean...~n~~m~ Now.
+
+0x9FA6CB54 = ~z~Like I said, magnificent.
+
+0x9FDDB371 = ~z~I can't save the poor.
+
+0x10AC4790 = ~z~~sl:2.1:0.0~Now don't worry, I'm on your side.
+
+0x11D3E475 = ~z~
+
+0x14E65ECD = ~z~some poor choices...
+
+0x19B36EDD = ~z~Here. Take that, and come with me. I know someone who can help you.
+
+0x21E5590A = ~z~I'll kill you!
+
+0x22BD9DD0 = ~z~I'll smash your dirty little face in!
+
+0x23CB68AD = ~z~Brother...
+
+0x23CD24DD = ~z~Maybe you should leave now?
+
+0x25ACBDC6 = ~z~Oh no, my mother gave me that when I was a girl...
+
+0x25F4C799 = ~z~My, umm...
+
+0x26A3064A = ~z~but which of us hasn't?
+
+0x27A7A535 = ~z~He's... he's the one I want alongside when darkness comes.
+
+0x31B49276 = ~z~~sl:0.0:1.5:1~You little bastards...
+
+0x32B05B68 = ~z~The, the thing is I'm...
+
+0x33C16332 = ~z~These are a somewhat apathetic lot I'm afraid.
+
+0x33F31AE7 = ~z~That way... I think... oh, damn...
+
+0x35D940AB = ~z~Brother?
+
+0x36A360A7 = ~z~but then over time I learned to ask "how" instead of "why."
+
+0x36F522FA = ~z~I ain't so kind.
+
+0x40F677F4 = ~z~well, poverty will always be with us...
+
+0x42C28138 = ~z~my mentor says that America...
+
+0x43B3A7A1 = ~z~Brother Dorkins is...
+
+0x43D3FB7F = ~z~Every coin makes a difference in someone's life.
+
+0x44D458B2 = ~z~Poor bastards.
+
+0x45C29ED7 = ~z~Mr. Morgan.
+
+0x51CCC7D9 = ~z~What?
+
+0x52F4C7FA = ~z~Are you ready to try out loud again?
+
+0x54FECA37 = ~z~greatly deceived I'm afraid, but...
+
+0x55BB0EE6 = ~z~Well, you just let me know if I can help at all.
+
+0x57ED24C9 = ~z~Help the poor.
+
+0x58FA62B5 = ~t~In Spanish: I don't know. We're free, and that's what matters. We've got to trust him.
+
+0x59A7B9F7 = ~z~Sir? What are you doing back there?
+
+0x65D4489F = ~z~None taken.
+
+0x66F900C6 = ~t~In Spanish: Where are you taking us?
+
+0x69E049C7 = ~z~well...
+
+0x72A2EF85 = ~t~In Spanish: Please.
+
+0x72DDD958 = ~z~What?
+
+0x74A08A5A = ~z~You are the most wonderful man.
+
+0x75EDC1C0 = ~z~But what a soul! What fire! What truth burns in him.
+
+0x80ADA686 = ~z~Let's go get something to eat.
+
+0x86F12EFB = ~z~enjoy your day.
+
+0x86FB2147 = ~z~I got your cross.
+
+0x87D5073B = ~t~In French: My God.
+
+0x89CD5B04 = ~z~Take your time.
+
+0x91CBA02A = ~z~Excuse me, I'm collecting for the poor.
+
+0x91EB178C = ~z~Fair enough.
+
+0x92A92CF8 = ~z~He'll have sold that in a minute if I know that boy.
+
+0x92BE9A6F = ~z~for shipping slaves out to some of the islands.
+
+0x92D25EA7 = ~z~But you do...
+
+0x97A22C3A = ~z~no offense.
+
+0x97D425DE = ~z~
+
+0x120D4531 = ~z~Brother Dorkins, friend.
+
+0x174CAA49 = ~z~Bless you, sir.
+
+0x182A0644 = ~z~If you ain't, why you making us do it?
+
+0x184C1766 = ~z~Please, they made me do it. I was always good to them but they-they forced me to do it, sir, I swear...
+
+0x188F5527 = ~z~Come see me again sometime.
+
+0x203CE62D = ~z~I've had enough of this. You're crazy! I'm going to get help.
+
+0x226CCE44 = ~z~Sister, my friend, Mr. Morgan.
+
+0x233A9B6E = ~z~Arthur. Arthur Morgan.
+
+0x277A4292 = ~z~I know you.
+
+0x285F3DEB = ~z~Or I'll open the hidden door in your chest!
+
+0x301DD413 = ~z~A little can go such a long way.
+
+0x340CFD59 = ~z~
+
+0x376DB646 = ~z~"I like the soon... sooner..."
+
+0x480E3548 = ~z~well, they are blessed to have met you, Arthur.
+
+0x491CC53A = ~z~You know him?
+
+0x491D85D8 = ~z~Hey...
+
+0x491F00A8 = ~t~In Spanish: My god!
+
+0x562C7B4B = ~z~I'm a nasty bit of work, father.
+
+0x580BDA6D = ~z~Come on. You don't have to clean me out.
+
+0x701B1935 = ~z~Where are they?
+
+0x712F5891 = ~z~I can hit a lot harder than you, I promise you that.
+
+0x720E98A9 = ~z~I hope you weren't expecting any kind of... payment? That would be awkward.
+
+0x742D6551 = ~z~None taken at all.
+
+0x753B4461 = ~z~
+
+0x778A7B1C = ~z~I often work at the old church...
+
+0x813BC710 = ~z~Maybe I'm wrong, I hope I am, but we can't ignore the rumors.
+
+0x900B91C6 = ~z~Got a few paintings over there, something for the wife maybe?
+
+0x913F0410 = ~z~It is m... w... m...
+
+0x916C9813 = ~z~~sl:0.7:1.1:1~I hope the boy...
+
+0x944D20AD = ~z~What's back here? It looks like this pulls out or something?
+
+0x946C61DB = ~z~and God does, and that's enough for me...
+
+0x956AA00F = ~z~I got your cross.
+
+0x1210F9BC = ~z~and sometimes a little abrupt in his methods.
+
+0x1337B0AC = ~t~In Spanish: Help us!
+
+0x2072F3E7 = ~z~You alright?
+
+0x2093B73F = ~z~That's a wonderful insight.
+
+0x2331BA1B = ~z~I'm afraid I...
+
+0x4663B0D3 = ~z~Thank you, I...
+
+0x4865D565 = ~z~I'd really appreciate it if you'd take a look.
+
+0x4928C814 = ~z~Stay away from me.
+
+0x6002E11F = ~z~Oh, my...
+
+0x6415C4BF = ~z~Please, sir, will you help the poor?
+
+0x7274FEA3 = ~z~Meet us at the cathedral, Mr. Morgan!
+
+0x7446C7B2 = ~z~
+
+0x7638DFD5 = ~z~that allows... will, and our own needs, to take the place of sacrifice...
+
+0x8058E14D = ~z~Don't worry, you're doing very well.
+
+0x8525B0AC = ~z~What on earth?
+
+0x9228C566 = ~z~Arthur...
+
+0x9652A020 = ~z~When I was younger, those challenges used to frustrate me,
+
+0x9951E72F = ~z~Was there something else, Mr. Morgan? I would hate to keep you.
+
+0x15333CE9 = ~z~Oh, er, nothing much back there, I'm afraid... just a few old books.
+
+0x38862A10 = ~z~You have no idea.
+
+0x40790B32 = ~z~Help, please.
+
+0x54667DC5 = ~z~Brother Dorkins, friend.
+
+0x63509C90 = ~z~Go over it first in your head. Take your time.
+
+0x65386FA0 = ~z~Oh, yes.
+
+0x67306E9A = ~z~I'm happy to help a little.
+
+0x72179A05 = ~z~This man is trying to rob me!
+
+0x73887A62 = ~z~Excuse me, Father...
+
+0x86617E72 = ~z~You timed it well. Some quality pieces in at the moment.
+
+0x147049D8 = ~z~Hi there, mister. Feel free to browse.
+
+0x178172F8 = ~z~Door? What door?
+
+0x304900CC = ~z~you are the most wonderful man.
+
+0x425681A4 = ~z~Hey, stop!
+
+0x635967CC = ~z~Excuse me, Father...
+
+0x704727F8 = ~z~I got no use for stupid books.
+
+0x806721E3 = ~z~Arthur Morgan.
+
+0x869273F1 = ~z~Where are they?
+
+0x4667310E = ~z~A bit of a strange question, but you heard tell of slavers 'round here, buddy?
+
+0x5076774A = ~z~Hey!
+
+0x7238858A = ~z~I found these two imprisoned in that shop.
+
+0x7556665F = ~z~is designed to induce apathy in people.
+
+0x7733646D = ~z~but slavery, I-I thought we had banished that.
+
+0x8323124D = ~z~Give it to the poor, Brother.
+
+0x16216143 = ~z~You may have made some...
+
+0x20717213 = ~z~There's no rush...
+
+0x31320674 = ~z~I often work at the old church...
+
+0x42243749 = ~z~Thank you.
+
+0x46680303 = ~z~Alright, forget it. Little shit ain't even worth my time.
+
+0x50656524 = ~t~In Spanish: Who are you?
+
+0x57486191 = ~z~He robbed me... which way he go?
+
+0x59322601 = ~z~Mrs. Downes?
+
+0x59704632 = ~z~Sister...
+
+0x65355672 = ~z~on Gaspar Street in St. Frances.
+
+0x69982226 = ~z~Yes you are, sir.
+
+0xA1F638DE = ~z~I've heard that the pawnbroker down the block...
+
+0xA2F53799 = ~z~Looking for anything in particular?
+
+0xA4B67C40 = ~z~Senor?
+
+0xA5EBDF2C = ~z~He's fine...
+
+0xA30CC313 = ~z~These kids, they're the worst.
+
+0xA48D7EF0 = ~z~Please! They made me do it.
+
+0xA51AC06B = ~z~Thanks, mister.
+
+0xA60BC42A = ~z~Pulls out? No, it's just an old bookcase, seen better days.
+
+0xA85E28E7 = ~z~Get off me!
+
+0xA480BCA1 = ~z~No.
+
+0xA2252ED3 = ~z~Oh Lord save me!
+
+0xA9117CB0 = ~z~P-p-p-p-pull the big red book. It's called "The Scourge of Crossbreeding" by Harold MacDougal...
+
+0xA67641DE = ~z~well they say he sells more than forlorn trinkets.
+
+0xA84771A7 = ~z~Sister...
+
+0xAA6DC891 = ~z~and charity...
+
+0xAB06BC1D = ~z~You, kind sir. Will you help the poor?
+
+0xAC377ED7 = ~z~Hey now, just calm down!
+
+0xAD336858 = ~z~Hey...~n~~m~Help.
+
+0xAE3C8267 = ~z~What is it you want?
+
+0xAE35FCA4 = ~z~Brother Dorkins was right about you...
+
+0xAEAA0FE0 = ~z~Come with me. Don't worry... you're going to be alright now, I promise.
+
+0xAF63C59B = ~z~Where are they?
+
+0xB015F380 = ~z~I hope the boy...
+
+0xB06215C6 = ~z~and you're a magnificent bit of work.
+
+0xB0CE85A7 = ~z~Payment...
+
+0xB1E26FCB = ~z~Thank you, I will.
+
+0xB2B786CF = ~z~No, no, no, wait...
+
+0xB2FDE331 = ~z~Brother Dorkins found him...
+
+0xB46F4109 = ~z~You kids, you're nothing but trash!
+
+0xB931AB65 = ~z~That we shall, sir...
+
+0xB1328CF2 = ~z~Or I'll open the hidden door in your chest!
+
+0xB2723B38 = ~z~Ow!
+
+0xB2866B12 = ~z~Come see me again some time. I often work at the old church on Gaspar Street in St. Frances.
+
+0xB5594733 = ~z~Okay, okay! Just pull the big red book on the bookshelf.
+
+0xBADAD591 = ~z~Where are they?
+
+0xBB0C2F0A = ~z~There's a door behind the bookcase there.
+
+0xBBCA98B1 = ~z~shortly before she passed.
+
+0xBBF95984 = ~z~Try again, please... read.
+
+0xBC48AB1D = ~t~In Spanish: Thank you, sir. Thank you very much.
+
+0xBD4450DC = ~z~Get off!
+
+0xBFDBDA27 = ~t~In Spanish: Please! Help us! Help, please!
+
+0xC02CF40F = ~z~You see, I've been poor...
+
+0xC058F6BB = ~z~usually, he's the best man I know.
+
+0xC0C9FE8D = ~z~Don't hurt him, please!
+
+0xC0E4C932 = ~z~Goddammit what does this even mean?
+
+0xC1A4384A = ~z~A penitent monk, not a priest...
+
+0xC5CC4F9B = ~z~How about you open that door?
+
+0xC6BCE5A4 = ~z~Your breath smells like hot dog shit, mister.
+
+0xC6BE8132 = ~z~I'm sorry.
+
+0xC6CD31A4 = ~z~Be well, sir.
+
+0xC6FF1BEF = ~z~Help.
+
+0xC7D7B4D9 = ~z~Please.
+
+0xC32DA882 = ~z~Please, they made me do it. I was always good to them but they-they forced me to do it, sir, I swear...
+
+0xC33E7BB6 = ~z~~sl:0.0:1.0:1~No, I did.
+
+0xC1662D59 = ~z~How about you open the door?
+
+0xC4897E04 = ~z~I don't believe you, it's 1899.
+
+0xC9401C54 = ~z~Right now, before I smash your head into that wall.
+
+0xC15222CC = ~z~Thank you...
+
+0xC62415B4 = ~z~Oh...
+
+0xC78525ED = ~z~I'm really not a bad man.
+
+0xCA99C842 = ~z~A kid did this?
+
+0xCB604FC2 = ~z~but why don't you hedge your bets...
+
+0xCC960E65 = ~z~Sister,
+
+0xCCD03BFF = ~z~None of us are perfect, or, purely driven by good.
+
+0xCD940856 = ~z~They made me do it. I was always good to them, but they-they forced me to do it sir... I... swear.
+
+0xCDCDFD2D = ~z~I don't get it.
+
+0xCDF754B4 = ~z~There are so many who will go hungry tonight.
+
+0xCE0BA821 = ~z~Come on. Come, come, come.
+
+0xCFA8B48E = ~z~He's trying to put his hand down my pants!
+
+0xD06FB7FE = ~z~They made me do it, I swear.
+
+0xD3C9BAEB = ~z~physically...
+
+0xD4D1A554 = ~z~it never did anyone any good.
+
+0xD5DA3588 = ~z~Alright, alright! Forget it. Little shit ain't even worth it.
+
+0xD6B741A2 = ~z~Can you spare a little?
+
+0xD33B6DDF = ~z~Watch your language, please. "Summer." "Summer." "I like the summer."
+
+0xD89EDBCA = ~z~Open the door, now!
+
+0xD93B4959 = ~z~This is my brother's store. I'm just watching it while he's away.
+
+0xD320C669 = ~z~you see it's a thing, but...
+
+0xD1779F81 = ~z~Alms for the poor.
+
+0xD3314B8C = ~z~Trust me, in that they're very unusual...
+
+0xD4854EF8 = ~z~Stay away from me!
+
+0xD17630DD = ~z~Hold on...
+
+0xD85687A1 = ~z~Just relax...
+
+0xD577157A = ~z~No!
+
+0xDAC0D672 = ~z~Shall do.
+
+0xDAECE066 = ~z~The hidden door.
+
+0xDB1B4B73 = ~z~Help, this man's trying to touch me!
+
+0xDB45B31D = ~z~Help the poor... help the poor.
+
+0xDBACF01F = ~z~and give two bits to the poor?
+
+0xDD74AE9E = ~z~I can see you're persuaded.
+
+0xDE2E03B4 = ~z~I hate this, it's too hard!
+
+0xDE5C9E4A = ~z~Por favor... it's warm, W, an upside down M.
+
+0xDEA6546B = ~z~Don't tell the police, please.
+
+0xDEDF601D = ~z~Perhaps... but then should they not give at all?
+
+0xDF0B6220 = ~z~here.
+
+0xE08366F4 = ~z~Why are you doing this?
+
+0xE3ADD12F = ~z~Thanks, mister!
+
+0xE3BF1D19 = ~z~I feel, Father, Brother Dorkins is a simple soul,
+
+0xE4C09BB0 = ~z~Would you try and get it back for me, please?
+
+0xE5E7EBF7 = ~z~my mother gave it to me when I was a novice...
+
+0xE8A4B2DA = ~z~and the whole world opens to you.
+
+0xE10EA8EC = ~z~Just pull the big red book called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+0xE39DB1C7 = ~z~Please!
+
+0xE78C5D09 = ~z~This man is bothering me.
+
+0xE95B87B8 = ~z~I'm a nasty bit of work, Father.
+
+0xE373EC11 = ~z~I don't think they speak much English.
+
+0xE820C57A = ~z~~sl:0.6:1.1:1~You didn't!
+
+0xE827ACD7 = ~z~It's called "The Scourge of Crossbreeding" by Harold MacDougal!
+
+0xE885E53F = ~z~Can you help, sir?
+
+0xE51946C4 = ~z~Blessed are the poor... and bless them with your own kindness.
+
+0xE468799F = ~t~In Spanish: Who's this man?
+
+0xE8284437 = ~z~you want some company, mister?
+
+0xEA1FC16D = ~z~The hidden door.
+
+0xEC2B9CF2 = ~z~I'd go myself, but he knows who I am.
+
+0xEC576053 = ~z~I thought you were going after him?
+
+0xED071E69 = ~t~In Spanish: Please.
+
+0xED58EFEE = ~z~Shut up and give me my watch now!
+
+0xEE6F32CB = ~z~No, you should say, "I don't have any," not "I got no".
+
+0xEF3BD368 = ~z~Maybe you should have a look yourself.
+
+0xEF4C4286 = ~z~Hey now, I thought you were helping me!
+
+0xF05C5C69 = ~z~I'm just a fool making foolish choices myself.
+
+0xF06AB670 = ~z~And how is Brother Dorkins, by the way? I worry about that one.
+
+0xF06F0467 = ~z~That's it, come on. You'll be safe soon.
+
+0xF0C386B0 = ~t~In Spanish: Food...
+
+0xF2B43D92 = ~z~Where's my watch, you little weasel?
+
+0xF2C6C568 = ~z~Who?
+
+0xF2D04C6F = ~z~There's a door behind the bookcase there.
+
+0xF5CAF986 = ~z~Now...
+
+0xF9E3E900 = ~z~Excuse me, Father...
+
+0xF25EEE91 = ~z~You got lucky this time, kid.
+
+0xF38CDA7B = ~z~If we seek gratitude and recognition...
+
+0xF47A8AD7 = ~z~I know it's difficult now, but it'll all be worth it, I promise.
+
+0xF192DAB9 = ~t~In French: Shit.
+
+0xF919CF77 = ~z~Just what is it you want?
+
+0xF5725D2E = ~z~Why do you have that weapon out?
+
+0xF75344F9 = ~z~That hurts!
+
+0xFA0267B9 = ~z~I've pressured you enough.
+
+0xFA2D824F = ~z~Officer, help!
+
+0xFA516889 = ~z~Hey...
+
+0xFAF05771 = ~z~Oh, you will. It's like swimming, it takes time, but then it is easy...
+
+0xFB11AB24 = ~z~Yes you are, sir. You have it in you I can tell.
+
+0xFB35BAC6 = ~t~In Spanish: Don't leave us here.
+
+0xFB811950 = ~z~Not even you, Sister Calderon.
+
+0xFBE79BD8 = ~z~It's very kind of you.
+
+0xFC1A2B44 = ~z~~sl:0.0:3.8:1~Please, I'm on your side. It's going to be okay.
+
+0xFCA9AC55 = ~z~Oh, I'll live.
+
+0xFCB61327 = ~z~We'll be at the cathedral!
+
+0xFEF1702C = ~z~I must ask you to put that weapon away, monsieur.
+
+0xFF5C7B4A = ~z~You there, can you spare something for the poor?
+
+0xFF79FAA4 = ~z~I'm sure. What do I know?
+

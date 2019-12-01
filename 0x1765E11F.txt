@@ -1,0 +1,50 @@
+0x1B46A970 = ~z~Then... then I'm sorry...
+
+0x1B114271 = ~z~You okay, Arthur?
+
+0x3DE0451A = ~z~I can't explain it... like... better, almost.
+
+0x5B189E13 = ~z~Only, the thing is... since then, since then I've started seeing things differently...
+
+0x6B7A68B5 = ~z~I don't know... whole world seems different somehow.
+
+0x6BFBAD28 = ~z~Yeah... I might die.
+
+0x6F6D51C0 = ~z~I don't think so.
+
+0x7AA6129B = ~z~Was it Mary?
+
+0x9C5B5605 = ~z~Sick?
+
+0x42AAFC4E = ~z~You don't look fine.
+
+0x58A98684 = ~z~Oh... I'm so sorry...
+
+0x63CCE5D3 = ~z~I guess... only it ain't always clear what that is... not with the big stuff.
+
+0x65AF209B = ~z~Yeah, me too... me too...
+
+0x80BBF45D = ~z~Maybe you'll get better.
+
+0x845B1F36 = ~z~I don't know what I'm trying to say here...
+
+0x5507C849 = ~z~Maybe it's a sign, Arthur... try... try to do the good thing.
+
+0x31576EFD = ~z~Sit down, please.
+
+0x90343EA1 = ~z~I know... trust me, I know.
+
+0x428116C3 = ~z~How so?
+
+0xAC77F63E = ~z~Well, I had some... some bad news.
+
+0xB6248997 = ~z~No... well, not exactly... it's me... I'm sick.
+
+0xC9B37A9F = ~z~Okay... I guess I was trying to say...
+
+0xC65F03B8 = ~z~I'm fine.
+
+0xDD2303ED = ~z~I guess it is... only sometimes I ain't doing the good thing.
+
+0xEEDCA760 = ~z~That a good thing?
+

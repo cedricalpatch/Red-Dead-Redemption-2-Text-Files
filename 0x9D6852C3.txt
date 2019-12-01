@@ -1,0 +1,1232 @@
+0x00F8D93D = ~z~Yeah, that sounds about right.
+
+0x017AA484 = ~z~Please, let me go. I... I won't say nothing, I swear.
+
+0x0187FCC8 = ~z~~sl:0.0:1.7~Sonofabitch, hurry up!~sl:0.9~Come on.
+
+0x01CB8758 = ~z~Karen's going first to put on a bit of a show.
+
+0x0208EED0 = ~z~Get in there!
+
+0x03263FB8 = ~z~It's a good point, Arthur.
+
+0x03464DD0 = ~z~Thank you, gentlemen.
+
+0x036DE08F = ~z~I thought you only brought me for insurance?
+
+0x03CFCBE9 = ~z~You're the only one.
+
+0x03E7F104 = ~z~follow me.
+
+0x04932F0D = ~z~You really think it's worth going back there?
+
+0x04E7A575 = ~z~I've been trying to forget that,~rp~ what little I remember of it.
+
+0x0598AA36 = ~z~
+
+0x05CE400E = ~z~~sl:1.7:0.0~Come on sweetie, you know me. Come on.
+
+0x076A4D60 = ~z~I hope so.
+
+0x081DA197 = ~z~Of course.
+
+0x08A2D779 = ~z~
+
+0x08DCE8D2 = ~z~How're you getting on?
+
+0x0977A0AA = ~z~How's it going in there?
+
+0x0A1C3032 = ~z~What's happened to you? ~rp~You're getting real nervy in your old age.
+
+0x0A8A8FA5 = ~z~even if it did come with a heap of trouble.
+
+0x0A9A79FD = ~z~~sl:0.0:6.6~Yes, I know, Morgan. I'll round up the other boys after this...~sl:~and you come meet us in town when you can.
+
+0x0A840F94 = ~z~and make sure you ain't followed!
+
+0x0A539048 = ~z~~sl:0.0:2.4:1~Well, that's reassuring.
+
+0x0AA740CA = ~z~Come on, let's get in there.
+
+0x0C0CE2BC = ~z~There's more of them!
+
+0x0C7CB91E = ~z~No, not to you. You'll outlive the lot of us.
+
+0x0C47F2E5 = ~z~That'll have to wait... ~rp~we're here.
+
+0x0D11CDDA = ~z~Got a bit hairy in that barn, ~rp~but we all walked away fine from that.
+
+0x0D3361AA = ~z~thank you, Bill.
+
+0x0E8DC2FF = ~z~Ride! Get the hell out of here!
+
+0x0EB60C00 = ~z~Come on, make it quick.
+
+0x0EB956DE = ~z~I'm called a fool and an idiot...
+
+0x0F0659DB = ~z~Alright, I suppose it's worth taking a look at least.
+
+0x0FA08563 = ~z~~sl:0.9:0.0~Is that right?
+
+0x0FB44F2B = ~z~Just a small bank in a little town...
+
+0x0FC6FCF8 = ~z~Too goddamn slow!
+
+0x1A1A46C5 = ~z~and ~rp~four of us could deal with them after the coach robbery,~rp~ I ain't too worried.
+
+0x1A8319E0 = ~z~One mistake,~rp~ and I'll never live it down.
+
+0x1B77B03D = ~z~We deal with them, and any customers who are feeling brave...
+
+0x1C5BCA13 = ~z~Just be careful.
+
+0x1D73C6C8 = ~z~~sl:0.0:2.3~Yeah, if we can even get near the bank...~lr:~without someone recognizing us and raising hell.
+
+0x1D663412 = ~z~Hey, I'm more than willing.
+
+0x1DABE5AC = ~z~
+
+0x1E4C4D4A = ~z~Good morning.
+
+0x1E22CF0B = ~z~Well, that's reassuring.
+
+0x1F5D6B15 = ~z~When you can, head up there and collect.
+
+0x1FBEE8BC = ~z~It's a bank, Arthur.
+
+0x2A14DE0E = ~z~Good afternoon.
+
+0x2B61C6DF = ~z~Bill, how's it going in there?
+
+0x2BA7D095 = ~z~Nah... best I do it.
+
+0x2BE7E6B7 = ~z~Don't worry, I see him.
+
+0x2C84DCCA = ~z~So what's the plan again?
+
+0x2D6E8723 = ~z~I believe he has a wife and child.
+
+0x2E7082C7 = ~z~A very good point.
+
+0x2EA7F8F5 = ~z~~sl:0.0:1.9:1~You've always been a bad drunk...
+
+0x2F3058EC = ~z~I have some other business to attend to.
+
+0x3A923100 = ~z~Of course, ~rp~how can I forget? The nun.
+
+0x3B5E4E58 = ~z~~sl:0.4~Not through lack of trying.
+
+0x3B808EF9 = ~z~Hurry up!
+
+0x3BB137F6 = ~z~We got more on horses!
+
+0x3BBC23BE = ~z~She will assume the debt of course.
+
+0x3BE34268 = ~z~They're still coming!
+
+0x3BED014B = ~z~Alright gentlemen...
+
+0x3BF1BB93 = ~z~It'll be okay... but we need you to leave.
+
+0x3CB337F1 = ~z~We should wait until morning.
+
+0x3D0AAD9F = ~z~Didn't walk away with much.
+
+0x3D9D0A21 = ~z~Hey, watch him, there.
+
+0x3DABEB73 = ~z~We're getting there. Few more minutes.
+
+0x3DAE00E6 = ~z~I-I-I... I really think you should leave, madam.
+
+0x3E7E82B7 = ~z~You know me, don't you pretend otherwise.
+
+0x3EE5B42D = ~z~That's another one cleared. This is looking good.
+
+0x3EF996C8 = ~z~all because of that commotion that you kicked up in Valentine.
+
+0x3EFF9999 = ~z~Sorry...
+
+0x3FB7313E = ~z~Ready, Karen?
+
+0x3FFE292E = ~z~Morgan!
+
+0x4A2FD2EA = ~z~Alright, I suppose it's worth taking a look at least.
+
+0x4AB924B5 = ~z~Karen, go to work.
+
+0x4B0C1B5A = ~z~We need to wire the state marshals right now!
+
+0x4B79D7BA = ~z~So?
+
+0x4B69000D = ~z~I'll go...
+
+0x4B535689 = ~z~So, Bill, this better be good.
+
+0x4BBDF6F5 = ~z~Maybe. It's never enough.
+
+0x4BE32057 = ~z~Somebody robbed...
+
+0x4CB805E7 = ~z~Dutch already managed to get us deputized.
+
+0x4CB93247 = ~z~We was preparing to rob the bank...
+
+0x4D79EBAC = ~z~
+
+0x4D83B615 = ~z~We're shooting our way out of here, boys!
+
+0x4DEEEEB9 = ~z~~sl:0.0:5.6~So far...~rp~ it's been a lot of fancy-talking from him and Hosea,~lr:~while I do all the dirty work.
+
+0x4F6DAF35 = ~z~~sl:0.0:3.1~Hey, Arthur, ~rp~remember that bank in Tucson?~lr:~All them years ago... you, me and Javier?
+
+0x4FD054B9 = ~z~Certainly have been recently.
+
+0x5A157198 = ~z~I better go get changed out of these rags.
+
+0x5AEEB9BD = ~z~Okay.
+
+0x5B048DBF = ~z~We just need to bring you along as a insurance policy.
+
+0x5C6C619C = ~z~So, what's the plan here?
+
+0x5CDE92E3 = ~z~Another bank, Miss Jones. It's been a while.
+
+0x5D4F6426 = ~z~No!
+
+0x5D7A0F66 = ~z~Yeah, I think I should be able to crack these.
+
+0x5D82BB8E = ~z~Somebody's gotta keep you boys out of trouble.
+
+0x5E8A767F = ~z~Alright, what'd you all want me to do?
+
+0x5E18C4C2 = ~z~the bank!~n~~m~Shit.
+
+0x5E168CE9 = ~z~~sl:0.0:0.4:1~Come here.
+
+0x5EA03B94 = ~z~~sl:0.0:4.0~They wanna meet a few of us in Rhodes to lay out some jobs.~sl:0.4~I was thinking me, you, Micah and Sean.
+
+0x5EAA269F = ~z~
+
+0x5ED1ED65 = ~z~Gentlemen...
+
+0x5EDDFB39 = ~z~Who's got the vault, because it ain't me.
+
+0x5EE03028 = ~z~Okay.
+
+0x5F2B9183 = ~z~I... th-the-the manager does that, I...
+
+0x5F96E7A5 = ~z~~sl:0.3~I ain't lose much sleep over them fellers.
+
+0x5FEFB75A = ~z~Alright!
+
+0x6A5C3560 = ~z~Alright. Guess we're doing this then.
+
+0x6A6E6DB1 = ~z~Am I gonna like the sound of this?
+
+0x6A8C8C2B = ~z~
+
+0x6A544710 = ~z~How are you getting on?
+
+0x6A761938 = ~z~harlot it is then.
+
+0x6AD1A44A = ~z~Alright, follow me.
+
+0x6AF21E41 = ~z~Where are you going?
+
+0x6B066F2B = ~z~Been cooking since Horseshoe...
+
+0x6B6258CD = ~z~Hurry up.
+
+0x6CB2B983 = ~z~~sl:0.0:4.8~So far...~rp~ it's been a lot of fancy-talking from him and Hosea,~lr:~while I do all the dirty work.
+
+0x6CB856B8 = ~z~~sl:1.4:0.0~How about we wait 'til after the bank, alright?
+
+0x6CD8192A = ~z~Put your bandana on.
+
+0x6D7C490A = ~z~Let's get it done first.
+
+0x6EB13813 = ~z~We'll see about that, once things get going.
+
+0x6EF5FE86 = ~z~Move!
+
+0x6F01073B = ~z~No, just local boys being rounded up and pressed into action.
+
+0x6F4A236E = ~z~~sl:0.0:2.7~See, you don't realize, Morgan,~sl:~I'm out there putting in the work same as you.
+
+0x6F6784B0 = ~z~How come every time I get in trouble...
+
+0x7A038F14 = ~z~Come on! Lenny, go right!
+
+0x7A5CB236 = ~z~What are you waiting for?
+
+0x7A46C367 = ~z~~sl:0.0:1.2~It was.~lr:0.3~And, apart from that one feller you shot in the knee, nobody got hurt.
+
+0x7AAB4612 = ~z~Open the lock boxes now!
+
+0x7C44FD8E = ~z~Hey, keep still. If I see that leg move again, you get a bullet in it.
+
+0x7C53B4EA = ~z~~sl:0.6:1.6~Oh, you think we're here for fun?~sl:0.4:1.6:1~Come on, come on.
+
+0x7C391066 = ~z~Like I said, ~rp~we'll see how it looks.
+
+0x7D7D4775 = ~z~Up there! On the balcony! Who's got him?
+
+0x7E032B85 = ~z~A night to forget.
+
+0x7F3A1995 = ~z~Blowing the doors.
+
+0x8AA3D2C8 = ~z~Goddammit hurry up.
+
+0x8B4D1B48 = ~z~Reckon I'm gonna have to blow'em.
+
+0x8B964A5A = ~z~Here! Unlock the door.
+
+0x8C8BF3C8 = ~z~What do you need?~rp~ Pat on the back? ~rp~A medal?
+
+0x8CC9C76B = ~z~Yeah... ~rp~that's what I'm thinking.
+
+0x8CDA39EF = ~z~~sl:0.0:1.5~Yeah, thanks.~sl:0.3:3.2~And I heard the rest of them have moved on from there now, so...~sl:0.4~we must have sent enough of a message.
+
+0x8DF28012 = ~z~What are you doing? I thought you were getting the money?
+
+0x8DFEC9AE = ~z~Oh, it is.
+
+0x8E33E016 = ~z~I'm... I'm...
+
+0x8E60A55B = ~z~~sl:0.0:2.1~Come on, open the goddamn vault!~sl:0.1:1.3~Let's go, come on!~sl:0.2~Open it!
+
+0x8E60602E = ~z~Last one.
+
+0x8EA65927 = ~z~~sl:0.0:1.2~I forget...~lr:~I just know the guards were searching everyone on the way in for guns...
+
+0x8FC0CF00 = ~z~Yeah, next time I'll know what you mean by "a couple of drinks."
+
+0x8FCA687E = ~z~~sl:0.0:3.0~I been drinking with them a couple of times now,~sl:0.4~seems they're looking for some extra security.
+
+0x8FE6C544 = ~z~So...how are you feeling about this, Lenny?
+
+0x8FF5DD81 = ~z~let's go rob ourselves a bank.
+
+0x9A046736 = ~z~Don't make us hurt you!
+
+0x9B83CFDF = ~z~That wasn't my fault...
+
+0x9B438DFB = ~z~~sl:0.0:2.4~It's more Dutch and Hosea's thing,~lr:0.5~an old feud they're trying to get in the middle of.
+
+0x9BB9D280 = ~z~Right behind you.
+
+0x9C04F59F = ~z~Gentlemen...
+
+0x9C38FCBD = ~z~You're no fun...
+
+0x9D503CA8 = ~z~Get a move on.
+
+0x9E5CE76E = ~z~When I went scouting the other day, ~rp~there was only a couple of guards.
+
+0x9EA6E992 = ~z~We lent them a lot of money.
+
+0x9EBD04BF = ~z~Stupid and dangerous...
+
+0x9F19827E = ~z~You break my heart...
+
+0x9FA96D03 = ~z~We put a lot of research into this one.
+
+0x9FB15880 = ~z~That wasn't my fault.
+
+0x11A6CFA8 = ~z~Of course.
+
+0x12B06544 = ~z~Okay.
+
+0x13B3C03D = ~z~I still can't believe you ruined our score, Arthur.
+
+0x14ECB99A = ~z~Of course, you know I like the harlot...
+
+0x15A1E9CF = ~z~we've put a lot of research into this one.
+
+0x16ABB5EB = ~z~Okay, okay...
+
+0x19A3FDF6 = ~z~Look out!
+
+0x20C5D1E6 = ~z~~sl:0.0:1.0~I forget...~lr:~I just know the guards were searching everyone on the way in for guns...
+
+0x20D3FD76 = ~z~We should wait until morning.
+
+0x21B25B52 = ~z~What are you thinking this time?
+
+0x21EB7D42 = ~z~but when you get in trouble...
+
+0x23E1765D = ~z~Yeah, that sounds about right.
+
+0x23F46DCF = ~z~but when you get in trouble...
+
+0x24A98D9C = ~z~bunch of filthy sinners and heart breakers the lot of you.
+
+0x24C1B2BF = ~z~I said, come out now!
+
+0x26B580F5 = ~z~If the four of us could deal with them in Valentine,
+
+0x26BB2512 = ~z~That weren't gonna happen.
+
+0x27B8EB6B = ~z~That's the genius of it. ~rp~Folk never look at what's right under their nose.
+
+0x27B981DE = ~z~I just told them we needed you along.
+
+0x27EB8942 = ~z~You really think it's worth going back there?
+
+0x29E8EF6C = ~z~Don't shoot, I'm...
+
+0x32B60E7C = ~z~Yes, I know, Morgan.
+
+0x34A2A5D8 = ~z~couple of punch-ups, ~rp~dealt with some O'Driscolls.
+
+0x36C9E6E1 = ~z~Now I see why you brought me.
+
+0x36E38698 = ~z~until all that nonsense that you got involved in, and...
+
+0x39BDDB18 = ~z~Told you.
+
+0x42E6E07F = ~z~Well, Bill, ~rp~I don't know what to tell you.
+
+0x45E2FD82 = ~z~Everything okay?
+
+0x47EAD718 = ~z~I think we lost 'em.
+
+0x48D21F62 = ~z~Too slowly.
+
+0x49A4C9AB = ~z~How much longer?
+
+0x50BF1C0D = ~z~Now, go on, get out of here.
+
+0x52BF6409 = ~z~Okay.
+
+0x52F3E562 = ~z~Cover your face.
+
+0x52F94BD8 = ~z~Hit the goddamn bank with us.
+
+0x54F06A74 = ~z~Look out! There's more of them riding in!
+
+0x56A64945 = ~z~The last few weeks happened.
+
+0x58FF2B4B = ~z~Either should work.
+
+0x60BFCD8F = ~z~Let's go, goddamn it!
+
+0x61CD9E4C = ~z~Just know, ~rp~I got the lead on this one.
+
+0x64CE2FBD = ~z~Guess we went a bit beyond working it, ~rp~we shot the place to hell.
+
+0x64E8F2E1 = ~z~Could be something in it for us.
+
+0x65C82B09 = ~z~Well, I am ready to get the hell out of here whenever you are.
+
+0x66BB80A5 = ~z~You heard him, nobody move!
+
+0x66D8F6EB = ~z~If we go in quick and quiet...
+
+0x66F0486F = ~z~Well, maybe you're right.
+
+0x67B1A9AA = ~z~
+
+0x67D33E74 = ~z~Guess I'll crack them or blow them up. Keep an eye out.
+
+0x69F8116D = ~z~Come on, let's move this along.
+
+0x70FFA518 = ~z~One mistake,~rp~ I'll never live it down.
+
+0x72BF292D = ~z~~sl:0.0:2.7:1~I'm-I'm with child and it's...
+
+0x73F79434 = ~z~Okay.
+
+0x75C0B1BB = ~z~Once she's got 'em distracted, we'll move in.
+
+0x75FD1B75 = ~z~Reckon we'll skip the saloon this time, kid.
+
+0x76B6A92E = ~z~if I'm gonna be performing.
+
+0x79E7F223 = ~z~~sl:0.0:4.7~Yes, I know, Morgan. I'll round up the other boys after this...~sl:~and you come meet us in town when you can.
+
+0x80B6D914 = ~z~They'd've loved nothing more than to string me up.
+
+0x80D72AE7 = ~z~Anything serious?
+
+0x81FDC4C1 = ~z~It's a bank, Arthur.
+
+0x83ACCC69 = ~z~Keep it down now, we're here.
+
+0x83EF826D = ~z~Dutch'll be happy...
+
+0x86BC1301 = ~z~So are you.
+
+0x86D52C4D = ~z~~sl:0.0:3.2~All of you count to a hundred and keep your mouths shut,~sl:~you understand me?
+
+0x86E7E781 = ~z~I'll keep a lookout at the door.
+
+0x87BBD3C3 = ~z~You're a...
+
+0x93A35707 = ~z~Oh, well we're gonna send Karen on in ahead...
+
+0x94B662D6 = ~z~Hit the goddamn bank with us.
+
+0x95A6850A = ~z~Alright, I'll hit the vault...
+
+0x96A69683 = ~z~Don't shoot.
+
+0x96B26280 = ~z~I mean, why the hell not? ~rp~Roll with it.
+
+0x96CAD6C6 = ~z~Get over here, Morgan.
+
+0x98CBCEA0 = ~z~~sl:0.0:0.9~Alright...~sl:0.2~Hyah, hyah!
+
+0x105C4CAE = ~z~~sl:0.0:1.1:1~Come on!
+
+0x112CE881 = ~z~~sl:0.0:3.2~Oh, and did Dutch tell you I've also been cooking up...~sl:~some deals with them Gray boys?
+
+0x135CBDD0 = ~z~And now we're going back to the one place he knew where to find us?
+
+0x139AC2D0 = ~z~I made a terrible mistake.
+
+0x215E557E = ~z~~sl:0.0:2.4~fellers always like the lost little girl,~lr:0.1~but nobody plays the drunken harlot quite like me.
+
+0x249D1C5E = ~z~So... we never decided.
+
+0x304E1E0A = ~z~Gimme a minute, gentlemen.
+
+0x322DDDA9 = ~z~and you always fancy yourself as the vault man, right, Arthur?
+
+0x343A6300 = ~z~Don't head directly back to camp...
+
+0x345D2C90 = ~z~Now where is he?
+
+0x346D1560 = ~z~Get in here!
+
+0x399D8600 = ~z~~sl:0.0:5.0~If we can get in alright, ~rp~we'll send Miss Jones ahead to the bank.~lr:0.5~They won't recognize her.
+
+0x432E3228 = ~z~So which one?
+
+0x433B8700 = ~z~I ain't even sure if Lenny can be relied on to keep his head...
+
+0x444BB1D1 = ~z~If there's four of us, I mean.
+
+0x449D220B = ~z~I just feel like it's unfinished business.
+
+0x485D63DE = ~z~Is it lost little girl you want, or the drunken harlot?
+
+0x486C7875 = ~z~Pretty good.
+
+0x522A2DC5 = ~z~here we are.
+
+0x536DD4B0 = ~z~So what's the idea here? ~rp~Karen going to distract them?
+
+0x546D5214 = ~z~we can hit it just fine.
+
+0x559E1DA4 = ~z~I'm going as fast as I can. This is slower but it's quieter.
+
+0x589BCA56 = ~z~but you went and kicked up all that commotion in Valentine.
+
+0x601E6622 = ~z~Alright, well what do you all want me to do?
+
+0x604D6838 = ~z~Let's go. Everybody stay calm.
+
+0x612B2B91 = ~z~If the shooting starts, you're all dead.
+
+0x628CF2D7 = ~z~That man, the debtor, Thomas Downes...
+
+0x643E1FED = ~z~~sl:0.0:3.9~We got the biggest price on our heads west of Chicago,~lr:~and now we're working for the law.
+
+0x681FEC38 = ~z~Forget about Cornwall... ~rp~he can't have many men left at this point.
+
+0x698B8F5A = ~z~
+
+0x699B4204 = ~z~I'll be as quick as I can.
+
+0x709DDF8F = ~z~~sl:0.0:3.1~Okay, we'll need to play it smart.~sl:0.4~We got a lot of irons in that fire right now.
+
+0x740EA094 = ~z~~sl:0.0:3.6~We got the biggest price on our heads west of Chicago,~lr:0.2~and now we're working for the law.
+
+0x754F2408 = ~z~Four of us can hit the bank easy...
+
+0x760FA7FA = ~z~~sl:0.0:3.5~Two shotguns and a pistol you had under your skirt.~lr:0.3~I'm surprised you could even walk.
+
+0x774E2D26 = ~z~Oh it is...
+
+0x791E60CF = ~z~Hurry up in there.
+
+0x800F43E1 = ~z~I'm in! Someone come make sure the suit behaves himself in here.
+
+0x815BED03 = ~z~Alright, keep it cool and follow me, fellers.
+
+0x829DBDF7 = ~z~Goddammit, come on. Come on!
+
+0x836ACD0F = ~z~~sl:0.0:2.1~When I was scouting the place the other day,~lr:~there was only a couple of guards.
+
+0x837CCFE3 = ~z~I'm sure they are.
+
+0x843FC5E0 = ~z~According to the feller I met, yes.
+
+0x846EBC0B = ~z~~sl:0.0:0.9:1~Nobody move!
+
+0x864CC89A = ~z~this better be good.
+
+0x882CAC01 = ~z~Guess we'll never learn.
+
+0x900D60E0 = ~z~If we go in quick and quiet, we can hit it just fine.
+
+0x982EDCAE = ~z~Well, no he didn't seem very well.
+
+0x998FE29E = ~z~Whiskey's got me in more trouble than a pistol ever has.
+
+0x1063B8B5 = ~z~I'll show you boys how it's done.
+
+0x1910BE69 = ~z~
+
+0x2421F17E = ~z~but I ain't gonna lie to you...
+
+0x2478E20D = ~z~Am I gonna like the sound of this?
+
+0x3049BA46 = ~z~No, no... I've got it.
+
+0x3400FFEF = ~z~I don't know...
+
+0x4112B944 = ~z~Come on, goddammit! Oh, shit...
+
+0x4578A410 = ~z~Now we was preparing to rob the bank there...
+
+0x4842F0A4 = ~z~~sl:0.0:1.3:1~Something like that.
+
+0x4866D47D = ~z~~sl:0.5:0.0~Would you care to...
+
+0x5330D98C = ~z~Get your goddamn hands up! This is a goddamn robbery!
+
+0x6044FCCD = ~z~~sl:0.0:2.1~Open the goddamn vault!~sl:0.1~Open it!
+
+0x6793EAC8 = ~z~ Glad you and Lenny are along for this, Karen.
+
+0x7150DA18 = ~z~Sonofabitch, hurry up!
+
+0x7173DEA7 = ~z~~sl:0.0:5.0~If we can get in alright, ~rp~we'll send Miss Jones ahead to the bank.~lr:0.2~They won't recognize her.
+
+0x7311F233 = ~z~What the hell are you doing?
+
+0x7704FBC7 = ~z~You better get that door open right now!
+
+0x8008B7E8 = ~z~What're you doing?
+
+0x8368ACB6 = ~z~Four of us can hit the bank easy...
+
+0x8463BC50 = ~z~If you say so...
+
+0x8595C9B5 = ~z~So, Bill, this better be worth it.
+
+0x9094BA47 = ~z~It was just one of them things.
+
+0x9133DA3E = ~z~Get the money, damn it.
+
+0x9293CE60 = ~z~there will be law if we linger.
+
+0x9802F8D7 = ~z~~sl:0.0:3.3~See, you don't realize, Morgan,~sl:0.2~I'm out there putting in the work same as you.
+
+0x9881B68C = ~z~~sl:0.0:2.0~Don't act like you dont know me.~sl:0.2~All stuck up in here.
+
+0x11845F9C = ~z~Work a town and not hit the bank?~rp~ That's downright pathetic.
+
+0x14125A88 = ~z~So, how are you feeling about this, Lenny?
+
+0x16786A84 = ~z~nothing that big in way of security.
+
+0x17746C57 = ~z~Plenty of money and plenty of people milling about.
+
+0x18452B1A = ~z~Ahh, it was fun.
+
+0x19938DD9 = ~z~Surprised you ain't already ribbed me about that dynamite again.
+
+0x29675A7A = ~z~We need to move quick once we're in Valentine.  I'm sure they ain't forgotten us.
+
+0x30853ABD = ~z~I'll go check the front.
+
+0x31690F0F = ~z~Are we doing this, Morgan?
+
+0x34549DC2 = ~z~At first, I thought, "bad idea..."
+
+0x37239BF9 = ~z~Okay.
+
+0x39192B9D = ~z~A very good point.
+
+0x47654AA6 = ~z~~sl:0.0:3.7~Hey, Arthur, ~rp~remember that bank in Tucson?~lr:~All them years ago... you, me, Javier?
+
+0x52171FD8 = ~z~Oh, is that right?
+
+0x59283A4D = ~z~You boys come out here now!
+
+0x63074BC8 = ~z~Were not so goddamn stuck up last night... sorry, just between us.
+
+0x64708C90 = ~z~~sl:0.0:2.8:1~I don't wanna go back to the workhouse!
+
+0x66430D50 = ~z~but I ain't gonna lie to you...
+
+0x72763C93 = ~z~Me neither.
+
+0x75046F92 = ~z~Where is he? Where is he? Have you seen him?
+
+0x77622C5A = ~z~I hope so.
+
+0x84234B10 = ~z~Shit, hurry up!
+
+0x84994CA0 = ~z~Good, we gotta move.
+
+0x94885E2C = ~z~If we didn't rob this bank,~rp~ we really would be slipping.
+
+0x99836F07 = ~z~It is good.
+
+0x118766AF = ~z~~sl:0.0:5.2:1~I can't... I can't bear... fallen women!
+
+0x166372FA = ~z~Okay, we gotta move before they blow. The law will be all over us!
+
+0x167452CF = ~z~oh, it's just one of them things?
+
+0x170868D7 = ~z~We got the place surrounded!
+
+0x181373FD = ~z~Good luck, gentlemen.
+
+0x198360B9 = ~z~I hope so.
+
+0x250689F0 = ~z~Give me a minute, gentlemen.
+
+0x351844E2 = ~z~I mess up, ~rp~I'm the prize idiot.
+
+0x353060FC = ~z~How's it looking? Are you in?
+
+0x595794DF = ~z~Now what?
+
+0x612200CE = ~z~Any case, I need to change out of these rags if I'm gonna be performing.
+
+0x638082C2 = ~z~Any case, I need to change out of these rags...
+
+0x737827B6 = ~z~And you all think it's worth the risk?
+
+0x791440CF = ~z~Okay, let's move out.
+
+0x886692E5 = ~z~~sl:0.0:1.2~It was.~lr:0.4~And, apart from that one feller you shot in the knee, nobody got hurt.
+
+0x945724C4 = ~z~~sl:0.0:1.4~Assuming folk ain't dead in there,~sl:0.1~you won't swing!
+
+0x1675195E = ~z~Bet you didn't think we'd end up over this way.
+
+0x2038427A = ~z~Just open the goddamn door.
+
+0x2993442B = ~z~You see any more of them?
+
+0x3537038D = ~z~until you got involved in all that nonsense and...
+
+0x4541931A = ~z~Come on, let's go!
+
+0x4551326E = ~z~Alright, guess we're doing this then.
+
+0x9207616F = ~z~It's the end of the stock sales.
+
+0x16351407 = ~z~How's it looking there?
+
+0x22610155 = ~z~You did, Morgan, not me. ~rp~I played it cool up there...
+
+0x24375629 = ~z~I'm nearly there.
+
+0x39628208 = ~z~Course...
+
+0x42283969 = ~z~I appreciate the confidence, kid.
+
+0x44293820 = ~z~insurance policy.
+
+0x48309441 = ~z~Then we'll move in once they're off guard.
+
+0x57134617 = ~z~So, ~rp~tell me again about this big, ~rp~can't-go-wrong, plan of yours?
+
+0x65418819 = ~z~Alright, let's go.
+
+0x67759631 = ~z~I don't see the problem.
+
+0x68627100 = ~z~I ain't lose much sleep over them fellers.
+
+0x70261908 = ~z~
+
+0x73216482 = ~z~I hear people out there.
+
+0x76637637 = ~z~Okay, get ready...
+
+0x76871677 = ~z~~sl:0.0:2.0~Goddammit, move!~sl:0.8~Ah, shit...
+
+0x80414068 = ~z~Is the take good?
+
+0x88955760 = ~z~Now, you shut the hell up and be still!
+
+0x92728714 = ~z~Goddamn it!
+
+0x93529472 = ~z~You need to hurry up in there or we're gonna have trouble.
+
+0xA1EE6D15 = ~z~And you all think it's worth the risk?
+
+0xA2D6C7B5 = ~z~Don't make me hurt you.
+
+0xA3B28375 = ~z~Okay.
+
+0xA4AF0943 = ~z~It's the end of the stock sales...
+
+0xA6BE5CFD = ~z~If only they all went like that...
+
+0xA6C179D3 = ~z~His wife...
+
+0xA6C64426 = ~z~Okay, okay.
+
+0xA7FB0C8B = ~z~Can't believe you got me going back to Valentine.
+
+0xA8E83E42 = ~z~I'm sure he knows what he's doing.
+
+0xA9BE96D4 = ~z~And Bill ain't much better.~rp~ So should we stop for some whiskey?
+
+0xA18CDA2A = ~z~we rob Cornwall's train,~rp~ we shoot a heap of his men in Valentine,~rp~ we rob his stagecoach...
+
+0xA23A3B0E = ~z~Nearly. This son of a bitch needs to get a move on!
+
+0xA31D9F64 = ~z~except for sweet Sister Karen.
+
+0xA36E7EB3 = ~z~Why aren't you clearing the safes?
+
+0xA46D789B = ~z~as a distraction.
+
+0xA46FC24D = ~z~Mrs. Downes.
+
+0xA73B9AF5 = ~z~Up on the balcony. You see him? Take that bastard out!
+
+0xA87CBA2F = ~z~Probably.
+
+0xA522A1B9 = ~z~The Grays and... whatever the other one's called...
+
+0xA821D8DD = ~z~
+
+0xA5294BB8 = ~z~And now, we're going back to the one place he knew where to find us?
+
+0xA8100AA9 = ~z~We'll have to see about that. ~rp~Just keep your eyes open.
+
+0xA9446B60 = ~z~it was just one of them things.
+
+0xA9868F52 = ~z~Like I said, you mess up, it's just one of them things.
+
+0xA87715C7 = ~z~~sl:0.0:2.5~I been drinking with them a couple of times now,~sl:0.3~seems they're looking for some extra security.
+
+0xAA8610DC = ~z~We put a lot of research into this one.
+
+0xAAC6DB16 = ~z~I'm not leaving, 'til I find him, boyo!
+
+0xAB91AEC5 = ~z~You did well, ~rp~with that gang at Shady Belle.
+
+0xAB78866B = ~z~What's that about whiskey?
+
+0xAD3EFF36 = ~z~What's taking so long in there?
+
+0xADE89F7F = ~z~~sl:0.4:2.8~But I'm ruined! I'm...~sl:1.7:0.9:1~I'm...
+
+0xAE6D1A6F = ~z~Oh, well we're gonna send Karen on in ahead...
+
+0xAE493BE7 = ~z~Arthur, we need to talk to you.
+
+0xAE919DE8 = ~z~If there's four of us, I mean.
+
+0xAF415910 = ~z~And that is the problem.
+
+0xAF939442 = ~z~Thoughts like that~rp~ and you're one of us, no doubt.
+
+0xAFD7280E = ~z~Deal with the safes, come on.
+
+0xB039AB17 = ~z~We got more coming in!
+
+0xB0448E60 = ~z~"Make one of her scenes"... charming.
+
+0xB0566940 = ~z~And look, look over there!
+
+0xB0A06348 = ~z~Too slow.
+
+0xB0BE9EED = ~z~So?
+
+0xB0E58F96 = ~z~Is that so?
+
+0xB0FFFD20 = ~z~Fuses lit.
+
+0xB1D79FDD = ~z~Just like the old days.
+
+0xB2AC9DCF = ~z~~sl:0.0:2.4~It's more Dutch and Hosea's thing,~lr:0.7~an old feud they're trying to get in the middle of.
+
+0xB3A893A5 = ~z~apparently he's dead.
+
+0xB4DC03D7 = ~z~~sl:0.4:0.0~Sure hope so.
+
+0xB4FC2608 = ~z~So, Bill...
+
+0xB4FC4764 = ~z~
+
+0xB8C71F42 = ~z~So, Bill...
+
+0xB8E8BC75 = ~z~Look out, more of the sons of bitches!
+
+0xB9E27C5E = ~z~~sl:0.0:1.2:1~No!
+
+0xB13B8AF5 = ~z~No, ~rp~not to you. ~rp~You'll outlive the lot of us.
+
+0xB20FFD3D = ~z~I don't know, I just feel like it's unfinished business.
+
+0xB53BAEC2 = ~z~you really do.
+
+0xB60E7C75 = ~z~~sl:0.0:3.7~Two shotguns and a pistol you had under your skirt.~lr:0.7~I'm surprised you could even walk.
+
+0xB71FD8BA = ~z~You ready, Karen?
+
+0xB72C4781 = ~z~That was a good take too, if I remember right.
+
+0xB78A82C1 = ~z~I don't know... not much. This is taking too long.
+
+0xB80E1CB8 = ~z~Are you joining us?
+
+0xB92C323D = ~z~According to the feller I met, yes.
+
+0xB256A776 = ~z~I heard, go on!
+
+0xB6341C2C = ~z~let's go rob ourselves a bank.
+
+0xB61866BE = ~z~Still, this is a very good take.
+
+0xB973414B = ~z~Good haul too. ~rp~That dynamite should come in real useful today.
+
+0xB4218158 = ~z~We got something cooking you might be interested in.
+
+0xB5505712 = ~z~Never can resist a scam those two.
+
+0xBA5A478E = ~z~Something like that.
+
+0xBA64EE37 = ~z~Okay...
+
+0xBAAF3CA3 = ~z~and we're paid.
+
+0xBB59B53C = ~z~we put a lot of research into this one.
+
+0xBB575FE4 = ~z~I don't know, gimme a second.
+
+0xBB90875B = ~z~I heard, go on!
+
+0xBC3ADCA2 = ~z~Don't worry about them! Just get in the vault.
+
+0xBC4DB390 = ~z~
+
+0xBC12F8B5 = ~z~And Bill ain't much better.~rp~ So... should we stop for some whiskey?
+
+0xBC48B461 = ~z~I hope so.
+
+0xBC92625A = ~z~What do we do?
+
+0xBC623989 = ~z~No, just local boys being rounded up and pressed into action.
+
+0xBDBFB914 = ~z~What's the plan then?
+
+0xBE922AFB = ~z~I'll have you know, I'm a professional.
+
+0xBEAF2B29 = ~z~She is real good.
+
+0xBEFB3B66 = ~z~Is the take good?
+
+0xC003DC89 = ~z~Uh... I think I'd like to see the little girl lost...
+
+0xC07FBA6C = ~z~How come every time I get in trouble...
+
+0xC0B8C5BC = ~z~You're a...
+
+0xC0D32666 = ~z~W-what's happening? Y-you got the money?
+
+0xC0F40DDA = ~z~Come on, before you get us all killed!
+
+0xC1C2DA9F = ~z~Going as fast as I can.
+
+0xC1F23038 = ~z~Dead?
+
+0xC9FD2434 = ~z~Shit! Hurry up!
+
+0xC29D32EE = ~z~this better be worth it.
+
+0xC52C47ED = ~z~as a distraction.
+
+0xC58CF8E6 = ~z~Clear the vault and let's go, come on.
+
+0xC76C1771 = ~z~~sl:0.4:1.8:1~Oh, you think we're here for fun?
+
+0xC90D41DE = ~z~What's the plan then?
+
+0xC92B5604 = ~z~~sl:0.0:2.5~He said he loved me!~sl:0.3:3.5:1~He said he'd make a lady of me...
+
+0xC314A224 = ~z~This is just dawning on you now?
+
+0xC448B80B = ~z~~sl:1.1:0.0~Keep going, Miss Jones.
+
+0xC565A667 = ~z~Get outta there, miss.
+
+0xC596C191 = ~z~Nearly there.
+
+0xC810EA6B = ~z~Come on!
+
+0xC835D3C2 = ~z~I ain't sure even Lenny can be relied on to keep his head...
+
+0xC938D256 = ~z~Okay, I suppose...
+
+0xC975A581 = ~z~Alright now... go!
+
+0xC1652F89 = ~z~She makes one of her scenes,~rp~catch 'em off guard, ~rp~then we move in.
+
+0xC1963BA2 = ~z~The Grays and whatever the other one's called...
+
+0xC198467F = ~z~Someone's gotta keep you boys out of trouble.
+
+0xC369722B = ~z~I-I've never seen this woman in my life!
+
+0xC685556A = ~z~What's wrong? Let's get this done.
+
+0xC849367A = ~z~It's a good point, Arthur.
+
+0xCA0DF370 = ~z~Hey Arthur!
+
+0xCA35552F = ~z~Meaning?
+
+0xCB2BB1FE = ~z~not after that night you two had in Valentine.
+
+0xCBE0DF06 = ~z~We're alive...
+
+0xCCFC263D = ~z~You shut the hell up and stay still!
+
+0xCDE39779 = ~z~~sl:0.0:2.1~fellers always like the lost little girl,~lr:~but nobody plays the drunken harlot quite like me.
+
+0xCED761F9 = ~z~So even you long to save the fallen women, eh Arthur?
+
+0xCEFD759C = ~z~I reckon so.
+
+0xCF3ABC41 = ~z~What are you playing at? Let's go.
+
+0xCFD3A466 = ~z~I'm doing it!
+
+0xD025C9B7 = ~z~
+
+0xD0A025DF = ~z~I said hurry up, you son of a bitch!
+
+0xD2F2CEA7 = ~z~I don't care how you do it, but it needs to be now.
+
+0xD2F7C3B2 = ~z~She makes one of her scenes, ~rp~catch 'em off guard, ~rp~then we move in.
+
+0xD2FE10C7 = ~z~
+
+0xD3B94902 = ~z~Shut the hell up and stay where you are.
+
+0xD7C04B7B = ~z~So, thinking this through...
+
+0xD7FF14C7 = ~z~~sl:0.0:3.3~Okay, we'll need to play it smart.~sl:0.4~We got a lot of irons in that fire right now.
+
+0xD8C8F256 = ~z~there will be law if we linger.
+
+0xD9B57843 = ~z~Yeah, I'm sure they are.
+
+0xD9DCEE42 = ~z~~sl:0.0:1.9~If we can even get near the bank...~lr:~without someone recognizing us and raising hell.
+
+0xD9DE4BAF = ~z~Oh, it can go wrong. ~rp~Anything can, once the shooting starts.
+
+0xD25A1DFB = ~z~What? No. What kind of deals?
+
+0xD34B7169 = ~z~Let's go, come on!
+
+0xD76EF28B = ~z~I'm not sure this is quite the place...
+
+0xD98D5F05 = ~z~
+
+0xD699C8DA = ~z~and, ~rp~before you say it, ~rp~I know... ~rp~takes one to know one.
+
+0xD968E295 = ~z~nothing that big in way of security.
+
+0xD1724D9C = ~z~Once she's got 'em distracted, we'll move in
+
+0xD6078EF8 = ~z~Okay, let's leave the horses here off the main drag.
+
+0xD7165BE0 = ~z~Mr. Morgan.
+
+0xD362548F = ~z~I can give you drunken harlot, of course, ~rp~lost little girl... ~rp~whatever the crowd wants.
+
+0xDAD83715 = ~z~~sl:0.0:5.1~we rob Cornwall's train,~rp~ we shoot a heap of his men in Valentine,~sl:0.7~~rp~ we rob his stagecoach...
+
+0xDAEE8F0D = ~z~Thou shalt not steal a habit from the local convent.
+
+0xDB76F109 = ~z~What is it?
+
+0xDB2795BB = ~z~I need a word with you, Morgan!
+
+0xDBAB773B = ~z~plenty of money and plenty of people milling about.
+
+0xDC626200 = ~z~Meaning?
+
+0xDCA9B791 = ~z~Me too. Boys, you need to move this along!
+
+0xDD40F7F1 = ~z~If I'm gonna be performing...
+
+0xDDC353E7 = ~z~Gentlemen, hurry! We seem to have some company.
+
+0xDDD37E6F = ~z~~sl:0.0:1.0:1~Sorry, partner.
+
+0xDE041AA6 = ~z~Okay, the door's unlocked.
+
+0xDE0D1670 = ~z~Let's take it nice and easy.
+
+0xE021ACB4 = ~z~If it plays right,~rp~ they reckon we can get some gold out of it.
+
+0xE0B48A4B = ~z~No doubt.
+
+0xE0D7803B = ~z~It is good...
+
+0xE4A943D4 = ~z~I said come out now!
+
+0xE5B688DC = ~z~Okay, I suppose.
+
+0xE6B90B06 = ~z~Just a small bank in a little town...
+
+0xE7EFBB3B = ~z~You're a disgrace to your sex, madam!
+
+0xE8C85D72 = ~z~Well, we'll have to see about that. ~rp~Just keep your eyes open.
+
+0xE9C3975E = ~z~If you're ready, get going.
+
+0xE9DC4D61 = ~z~Come on, head for the horses!
+
+0xE35E255A = ~z~It's unlocked. We're good.
+
+0xE97F66AA = ~z~How much time do you think we got?
+
+0xE128F01C = ~z~What about lost little drunk girl?
+
+0xE157B43E = ~z~Okay, we're going?
+
+0xE198AC66 = ~z~What, are you insane?
+
+0xE743DACC = ~z~Alright, but you better be quick!
+
+0xE862CC6D = ~z~I guess we went a bit beyond working it. ~rp~We shot the place to hell.
+
+0xE874FE9D = ~z~Herr Strauss.
+
+0xE903E7DA = ~z~We'll see if she can match your preacher performance at Shady Belle.
+
+0xE940B74A = ~z~~sl:0.0:4.7~They wanna meet a few of us in Rhodes to lay out some jobs.~sl:0.3~I was thinking me, you, Micah and Sean.
+
+0xE951FF3F = ~z~What the hell are you doing out there?
+
+0xE1254AE3 = ~z~
+
+0xE2330BAA = ~z~Alright...
+
+0xE2938FCA = ~z~Goddammit, there's more of them!
+
+0xE6604CE0 = ~z~Yep, let's go.
+
+0xE98229D6 = ~z~Come on, play along!
+
+0xE822524B = ~z~Come on.
+
+0xE7422838 = ~z~Only you would want that.
+
+0xEB40C124 = ~z~All good.
+
+0xEB54845C = ~z~Alright, let's go.
+
+0xEB268610 = ~z~We just need to bring you along as a...
+
+0xEB479323 = ~z~Don't tell me it ain't irked you leaving that bank behind.
+
+0xEBAC10C4 = ~z~oh, it's just one of them things?
+
+0xEBD645C4 = ~z~Of course.~rp~ In and out.~rp~ Dutch is gonna love this...
+
+0xEC15C9BA = ~z~No, hold on. Wait 'til she's got them reeled in.
+
+0xED0DC68C = ~z~So~rp~ what's going on with these two families?
+
+0xED2B1E29 = ~z~We got this.
+
+0xED6F0535 = ~z~~sl:0.0:3.3~Oh, and did Dutch tell you I've also been cooking up...~sl:~some deals with them Gray boys?
+
+0xEDC0262F = ~z~Where the hell are they coming from?
+
+0xEDFC9BDD = ~z~If I'm gonna be performing, I'd better go get changed out of these rags.
+
+0xEF076E6A = ~z~~sl:1.3~Of course, ~rp~how can I forget? The nun.
+
+0xEF2DED45 = ~z~Move!
+
+0xEFE1597B = ~z~~sl:0.0:0.9~Oh...~sl:2.2~Okay...
+
+0xF1B8AAB5 = ~z~That was...
+
+0xF1C9897A = ~z~I'm called a fool and an idiot...
+
+0xF3A7C6CA = ~z~Okay, you reckon that's enough now?
+
+0xF3AA8B52 = ~z~We need to move quick once we're in Valentine. ~rp~ I'm sure they ain't forgotten us.
+
+0xF3EEF198 = ~z~Oh my God, someone's robbed the bank!
+
+0xF3F9CF91 = ~z~Don't count your chickens just yet.
+
+0xF4D2FAFE = ~z~Damn right. Looking forward to this.
+
+0xF6A366EF = ~z~Gotta get to the horses!
+
+0xF6BF2E42 = ~z~Anything serious?
+
+0xF8FBAF8B = ~z~Then we're just gonna rush on in afterwards.
+
+0xF9D10F9C = ~z~I ain't sure that's always true.
+
+0xF52F6202 = ~z~~sl:0.3:0.0~No doubt.
+
+0xF85B4B01 = ~z~We need to get out of here!
+
+0xF97AE186 = ~z~Come on, come on.
+
+0xF239FC81 = ~z~I... I'm going as fast as I can.
+
+0xF904CBBD = ~z~Then me and Lenny ~rp~will deal with the guards ~rp~and the customers while you hit the vault.
+
+0xF1570A4D = ~z~~sl:0.0:1.1~I think...~sl:1.0:1.2~I think we're fine.~sl:0.1~C'mon, I'll lead the way.
+
+0xF3748C5A = ~z~I just told them that we needed you along.
+
+0xF6912A91 = ~z~It's worth taking a look at least.
+
+0xF7428C76 = ~z~Come on, get across! Gotta beat that train, Morgan!
+
+0xF8780FF5 = ~z~
+
+0xF7149736 = ~z~Well, just be smart about it, we got a lot of irons in that fire right now.
+
+0xF8260922 = ~z~You, Dutch, scar face...
+
+0xFA049CCA = ~z~Need to make this fast.
+
+0xFAA84026 = ~z~Let's move!
+
+0xFBAF777E = ~z~Forget him... you good?
+
+0xFBFE1B81 = ~z~and ~rp~the four of us could deal with them after the coach robbery,~rp~ I ain't too worried.
+
+0xFC0D208F = ~z~~sl:0.0:1.7~Yeah, thanks.~sl:0.4:3.3~And I heard the rest of them have moved on from there now, so...~sl:~we must have sent enough of a message.
+
+0xFCC39F6B = ~z~Now let's get the hell out of this goddamn town!
+
+0xFCDFD2EF = ~z~Whose idea was that?
+
+0xFD8D37AE = ~z~Not really.
+
+0xFD81301C = ~z~but then I figured,~rp~ they all are if you think about 'em long enough.
+
+0xFDEDAB9E = ~z~Then we're just gonna rush on in afterwards.
+
+0xFE463C70 = ~z~it's worth taking a look at least.
+
+0xFEB4251D = ~z~
+
+0xFFC17EFA = ~z~~sl:0.3:0.0~How about we wait 'til after the bank, alright?
+

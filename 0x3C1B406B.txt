@@ -1,0 +1,10 @@
+0x02BE7A1C = ~z~Blessed are the peacemakers, huh?
+
+0x0BE05AB1 = ~z~So this is what victory looks like, huh, old friend?
+
+0x9D9D99C3 = ~z~Quite a victory for you, old friend.
+
+0x63CFB048 = ~z~I still don't understand you, old friend, but I guess now I won't have to.
+
+0x2101F238 = ~z~Good bye, old friend.
+

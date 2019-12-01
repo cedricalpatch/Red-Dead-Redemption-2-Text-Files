@@ -1,0 +1,312 @@
+0x00D02872 = ~z~Go to hell!
+
+0x0123D7C5 = ~z~I don't like repeating myself. Come here, now.
+
+0x01649FC3 = ~z~Okay. I'll hold this ground.
+
+0x018D7CCE = ~z~This is our town. We don't give up neither.
+
+0x03EF99E8 = ~z~That was... quite a disturbance.
+
+0x050D8493 = ~z~It's been my pleasure.
+
+0x0597E938 = ~z~Keep shooting.
+
+0x07B53FC3 = ~z~With your even newer friend Montez.
+
+0x08A505FC = ~z~~sl:0.0:3.4~Go up and station them where they'll be most useful...~sl:0.3~I expect Montez's men will be here shortly.
+
+0x09A78C9A = ~z~You got that right.
+
+0x0BAA8CEA = ~z~Alright. I hope they come through here.
+
+0x0C779248 = ~z~They been waiting on you all in the sheriff's office. Run quick.
+
+0x0DA4A1FF = ~z~about rule of law.
+
+0x0F9709EE = ~z~Tom...
+
+0x1DA0788D = ~z~~sl:0.0:1.2~Dear Lord...~sl:1.1~it's a war wagon.
+
+0x1E0B4160 = ~z~Now what was the real problem in this town?
+
+0x1F2D290E = ~z~Now he's talking sense.
+
+0x2B8F946B = ~z~There.
+
+0x2CE55625 = ~z~Posse's here!
+
+0x2D083F5A = ~z~Hear that? They're riding in. Shoot them when you see them.
+
+0x3AC1AFCC = ~z~Ah, let's take stock a moment. Come back to me.
+
+0x3C9D1FB8 = ~z~They can only shoot at one of us at a time...
+
+0x3D1D3786 = ~z~I'm afraid, this isn't over yet.
+
+0x3D2C0E77 = ~z~Over here? Fine. I'll do what I can.
+
+0x4AF1905A = ~z~You've been a great help in all this business.
+
+0x4CA07D7C = ~z~Where you want your sharpshooter then?
+
+0x5C30C8AE = ~z~Our defenses are overrun. Save the town however you can!
+
+0x5C66B8AE = ~z~Best get going, huh?
+
+0x5DE0363B = ~z~But not too soon, I hope.
+
+0x5F4FF150 = ~z~And Montez died in the conflict.
+
+0x6C695F87 = ~z~You know what, Bob...
+
+0x6DD28E59 = ~z~he uh, died in the conflict.
+
+0x7A2AFB0A = ~z~and we and every decent person in this town is dead.
+
+0x7B860022 = ~z~We gotta stop that thing.
+
+0x7C1F2AF2 = ~z~Tom! You and your friends saved my town.
+
+0x7E7772E9 = ~z~Give up, your man's dead already.
+
+0x8E88936F = ~z~Those extra guns are here!
+
+0x8EF31747 = ~z~~sl:0.2~So would you.
+
+0x9AA90AC5 = ~z~I said get over here.
+
+0x9ADDE4C4 = ~z~~sl:0.0:3.0~Come on, let's get these folks in position.~sl:0.4~These bastards could ride in at any moment.
+
+0x9D1DB39C = ~z~~sl:0.1~You'd be a lot safer shut up with everyone else.
+
+0x21FC26ED = ~z~Looks like the posse!
+
+0x25B36F36 = ~z~The bastards are retreating!
+
+0x35A37D4F = ~z~Catch your breath while you can.
+
+0x35ECE08B = ~z~~sl:0.0:2.9~These are the folks is willing and able to help...~sl:0.3~with whatever weapons they could muster.
+
+0x37E1FC90 = ~z~~sl:0.0:2.4~Get those guns placed, goddamn you.~sl:0.3~They'll overrun us if you don't.
+
+0x47F3969C = ~z~I'm a man of many contradictions.
+
+0x55AE3211 = ~z~Montez...
+
+0x69ED398E = ~z~You want that gun's attention, you shoot at it! Then duck, quick.
+
+0x70B4D764 = ~z~You're too late, he was executed.
+
+0x72CC0C15 = ~z~Goddamn... that gun.
+
+0x73FD7F0A = ~z~~sl:0.0:1.5~Sounds like we got more coming.~sl:~And from two directions, besides.
+
+0x75DED67C = ~z~Let me go...
+
+0x85F4F69C = ~z~but we are in deep shit, pardon my language.
+
+0x87D77D78 = ~z~~sl:0.0:2.5~Show me where to go. I ain't killed a man yet,~sl:~but I can hit most anything with this long gun.
+
+0x87EF2323 = ~z~That might be the last of those devils. Come over here.
+
+0x88E74482 = ~z~Thanks to all of you.
+
+0x92A0834B = ~z~Hold 'em off, it's all we can do.
+
+0x92AC24F8 = ~z~if you can bring a goddamn posse and come armed.
+
+0x117E8DB1 = ~z~We're all adults here, Bob.
+
+0x228A9410 = ~z~The marshal and the prisoner are in with Sheriff Malloy.
+
+0x358B1FB3 = ~z~The marshal's folks are here.
+
+0x412CED19 = ~z~not to put too fine a point upon it...
+
+0x542D931A = ~z~Tom, who are they?
+
+0x548E13CF = ~z~and I'll let you all live.
+
+0x559EFF38 = ~z~May the Lord be with us!
+
+0x599AA930 = ~z~Montez is dead, you fools.
+
+0x657FDE55 = ~z~You hear any more coming? Okay, come back to me.
+
+0x931A7469 = ~z~They're running!
+
+0x950E2F98 = ~z~and hang the consequences.
+
+0x959B5B7D = ~z~but your new friend, the marshal. He's having problems.
+
+0x979E94F0 = ~z~Don't just shoot the wagon, shoot those men.
+
+0x983CE32D = ~z~Exactly...
+
+0x994EB7E9 = ~z~you killed him.
+
+0x1063FFC3 = ~z~See that? They're beat.
+
+0x1379CDC5 = ~z~Alfredo's dead and you will be too!
+
+0x2361CD79 = ~z~about responsibility...
+
+0x4326B695 = ~z~Still a good soul, huh?
+
+0x5802D683 = ~z~Draw its fire, so they can get that dynamite.
+
+0x6113ACEF = ~z~There. I got a shot!
+
+0x6834C1D3 = ~z~Alright then. If I see 'em, I will shoot them.
+
+0x7198E312 = ~z~Yeah, I thought you could.
+
+0x8450B8E8 = ~z~More problems.
+
+0x9233D9EA = ~z~Come on, you bastards!
+
+0x9461A780 = ~z~Here they come!
+
+0x34076EC4 = ~z~I've thought long and hard about a speech about ethics...
+
+0x838871CF = ~z~They're with me.
+
+0x987142F1 = ~z~Everyone okay?
+
+0x1653271E = ~z~I hope to see you again.
+
+0x7310236B = ~z~
+
+0x50745130 = ~z~There you are.
+
+0x60246719 = ~z~There!
+
+0x80638067 = ~z~Can you do that?
+
+0xA3D64CF8 = ~z~So that's one less problem we got to worry about.
+
+0xA4A7520F = ~z~They're turning tail.
+
+0xA7A1C9BD = ~z~Well, thanks again.
+
+0xA8B381C1 = ~z~real nice...
+
+0xA1130359 = ~z~I see them alright!
+
+0xAA687B4D = ~z~So one of you, draw its fire... and the rest of us will move up.
+
+0xB1AB6F22 = ~z~~sl:0.0:1.9~There's dynamite, in those crates.~sl:~Might be the time to use it, now.
+
+0xB4DA1C67 = ~z~but we help out where we can.
+
+0xB22FE9AB = ~z~No shit.
+
+0xBBFACE88 = ~z~Quick, get in cover.
+
+0xBE69AD2D = ~z~That's nice...
+
+0xC00FDE29 = ~z~Let's kill these bastards.
+
+0xC2A8B804 = ~z~Thank you.
+
+0xC8F5BA25 = ~z~Show me the spot and leave the sharpshooting to me.
+
+0xC9B96A05 = ~z~He's got you in his sights, get down.
+
+0xC73B84C2 = ~z~Now they're coming on the western road. Hold 'em off.
+
+0xC79AB608 = ~z~Come on, then.
+
+0xC2668D5F = ~z~Just tell me where to set up with this shotgun.
+
+0xC4264703 = ~z~~sl:0.0:2.5~Okay. If I can get these barrels close to them,~sl:~there won't be much left.
+
+0xC5497045 = ~z~If you got a stick of dynamite, use it.
+
+0xCA3DBFB0 = ~z~More of them, on horseback.
+
+0xCD1F1F89 = ~z~to kill us all.
+
+0xCEF68DAD = ~z~More riders, coming up fast.
+
+0xCF367C76 = ~z~Keep it together.
+
+0xD04625D7 = ~z~His boys will be back...
+
+0xD0C85692 = ~z~Get into cover.
+
+0xD1DCEFDF = ~z~Here? Okay. Wish me luck.
+
+0xD5AF0757 = ~z~Let's drive them out of here. Come on.
+
+0xD9F8A8A0 = ~z~~sl:0.0:2.5~We must hold this town however we can.~sl:0.5~God help us.
+
+0xD836B71C = ~z~they'll be back until they've freed Montez...
+
+0xD8032986 = ~z~Damn heck I do.
+
+0xDAF7EF2D = ~z~On you. I'm gonna take as many of them with me as I can.
+
+0xDD08F468 = ~z~We might have some breathing room. Let's muster here.
+
+0xDD5D18C3 = ~z~Hold firm!
+
+0xDF9871E3 = ~z~In towns it's the sheriffs that run things...
+
+0xDF539545 = ~z~Now, flank him.
+
+0xDFEBA1C2 = ~z~They're going!
+
+0xE2C96E4D = ~z~~sl:0.0:1.9~Quick, get on to the sheriff's office.~sl:0.1~No telling when they'll be back.
+
+0xE2F04B5B = ~z~I'd just do this...
+
+0xE5AF18F5 = ~z~They're waiting on you in the sheriff's office.
+
+0xE8F8DDF8 = ~z~Here comes the posse!
+
+0xE701D34E = ~z~You...
+
+0xE7522A9D = ~z~They're running for it. Keep firing anyway.
+
+0xE20976CF = ~z~We got another bunch coming in from the east. Look out.
+
+0xE22974AC = ~z~He asked me, to ask you...
+
+0xE488222B = ~z~~sl:0.0:2.2~He's in with the sheriff and the prisoner, okay?~sl:0.2~We got it covered out here.
+
+0xE6755399 = ~z~Sure as shit is shit...
+
+0xED7F6068 = ~z~The marshal's waiting for you in the Sheriff's office, I believe.
+
+0xED9531C8 = ~z~Stay low.
+
+0xEDA848BC = ~z~~sl:0.0:3.0~Okay, now get to your own positions.~sl:0.2~We shall not cede this good town to those devils.
+
+0xEDCC0E4E = ~z~Thank you.
+
+0xEE82CE4C = ~z~I'll give 'em hell, alright.
+
+0xEEB5F465 = ~z~There's dynamite in the gunsmiths! We might be in need of it now.
+
+0xEF3A18C9 = ~z~This must be the posse!
+
+0xEF4FD853 = ~z~We got their boy, them bastards won't give up.
+
+0xF2F3B713 = ~z~I think they're running.
+
+0xF6C072CB = ~z~Then we better get prepared.
+
+0xF2688BA3 = ~z~Get'em!
+
+0xF113127F = ~z~They're in the sheriff's office in Valentine.
+
+0xFBC5E1AE = ~z~Here we go!
+
+0xFBCE0DD8 = ~z~They're on top of us, now. Stop them pillaging this place!
+
+0xFEBB76F6 = ~z~Hey, you sure you want to be outside for this?
+
+0xFED60462 = ~z~Then I decided...
+

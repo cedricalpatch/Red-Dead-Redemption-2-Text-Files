@@ -1,0 +1,84 @@
+0x0771F582 = Some supplies were destroyed
+
+0x0807951C = ~1~/~2~ supplies were destroyed
+
+0x0ABD75E9 = Destroy the ~COLOR_ENEMY~supplies
+
+0x0C657A2C = The supplies were not destroyed
+
+0x2F5A7E2C = The supplies were lost
+
+0x4B813E2F = Holster your weapon to enable stopping the wagon.
+
+0x5A7FE98C = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+0x7B8583B3 = ~COLOR_ENEMY~Rival players~s~ can now defend the supplies
+
+0x7B16467E = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+0x12A9C3D8 = Destroy the ~COLOR_ENEMY~supplies
+
+0x29E3B9F2 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0x54C47802 = ~1~/~2~ supplies survived
+
+0x57EB7C56 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+0x60B56869 = Destroy the ~COLOR_ENEMY~supplies
+
+0x70D372B7 = ~COLOR_ENEMY~Rival players~s~ can now defend the supplies
+
+0x247EEDBE = Destroy the supplies within the time limit to earn the full reward.
+
+0x412ACD5C = ~1~/~2~ supplies were destroyed
+
+0x976FA488 = The supplies were lost
+
+0x997A96D4 = The supplies ~1b~ in the back of the wagon can be destroyed by shooting the individual crates or using explosives.
+
+0x1449FE71 = Go ~1~
+
+0x2870D572 = Destroy the supplies within the time limit to earn the full reward.
+
+0x419339CE = The supplies weren't destroyed in time
+
+0x5291789D = The supplies were destroyed
+
+0xA3604C97 = Destroy the ~COLOR_ENEMY~supplies
+
+0xB5B46568 = ~1~ are defending the supplies
+
+0xB30EE5F8 = ~1~ destroyed some supplies
+
+0xBA5E9E7B = The supplies were destroyed
+
+0xBF1FEC91 = A supply wagon safely reached its destination
+
+0xC7F329B1 = You destroyed some supplies
+
+0xC197E98F = Destroy the supplies ~1b~ within the time limit to earn the full reward.
+
+0xCEBCEA13 = The supplies weren't destroyed in time
+
+0xD5DBE9DF = Take out the remaining ~COLOR_ENEMY~enemies~s~
+
+0xD5EBBB03 = Defend the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies
+
+0xDA0D9E05 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~supplies
+
+0xDAABF775 = The supplies ~1b~ can be destroyed by shooting them or using explosives.
+
+0xDF36EECD = The supplies were destroyed
+
+0xE4E737D7 = Destroy the supplies ~1b~ within the time limit to earn the full reward.
+
+0xE7B6BEC5 = Your Posse destroyed some supplies
+
+0xE76FDCFA = ~1~ are defending the supplies
+
+0xEDFD3CBA = Failed to destroy the supplies
+
+0xEF6890AD = Failed to destroy the supplies
+
+0xF81399AE = The supplies were destroyed
+

@@ -1,0 +1,42 @@
+0x031DC172 = Subdue the ~e~soldiers~s~
+
+0x3A42894E = Don't help Rains Fall
+
+0x4A8277E8 = The guards were alerted.
+
+0x4E1D8CEC = Lead the horses to ~o~shore~s~
+
+0x6D621FB5 = Return to the ~o~canoe~s~
+
+0x9B78E41A = Paddle out to the ~o~boat~s~
+
+0x12D00A5C = Catch and mount one of the three ~o~horses~s~
+
+0x14F0D1F3 = Release the ~o~anchor~s~
+
+0x60A0DA4F = A canoe was destroyed.
+
+0x6887BE41 = You attacked Paytah.
+
+0x7372A11E = Press ~INPUT_ENTER~ to mount one of the horses.
+
+0x8744D838 = Stealth Knockout
+
+0x34345B61 = Plant dynamite
+
+0xA8DEBF42 = Follow ~o~Eagle Flies~s~
+
+0xA8570C6E = Paddle to the side of ~o~boat~s~ so the gang can climb aboard
+
+0xCE143269 = Greet
+
+0xD0D37716 = Wait for Dutch to tell the gang what to do
+
+0xDD666535 = Wait for ~o~Dutch~s~ to get in the boat cabin
+
+0xEA69DBC3 = The Natives' horses have escaped.
+
+0xEB2CEC3B = Reverend Swanson
+
+0xFDE8109A = Help Rains Fall
+

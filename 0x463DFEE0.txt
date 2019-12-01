@@ -1,0 +1,124 @@
+0x0729A30E = Crack open the ~o~safes~s~
+
+0x0DF64158 = Enter the bank~s~
+
+0x0F645869 = Walk up to a safe and hold ~INPUT_CONTEXT_RT~ to plant dynamite on the safe door.
+
+0x1D3B631E = Escape the law with ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+0x1E4A645F = Harlot
+
+0x2EB95180 = The bank robbery was abandoned.
+
+0x3E2B35FA = As you rotate the safe dial, rotation on ~INPUTGROUP_MOVE~ will slow down the closer you are to the correct safe number.
+
+0x3F0F932B = Threaten the bank teller by hitting him or shooting next to him.
+
+0x4ADF4FA5 = Enter the vault~s~
+
+0x4B41F21F = To equip a bandana hold ~INPUT_OPEN_WHEEL_MENU~ , press ~INPUT_SELECT_NEXT_WHEEL~ and then select a bandana from the Item Wheel.
+
+0x4CF5B54A = Follow ~o~Bill~s~ to Valentine~s~
+
+0x4F68A529 = Loot
+
+0x8ABB516D = The law were alerted.
+
+0x8DD9903D = Gang at Shady Belle
+
+0x23AE7F98 = Safe
+
+0x23F7A069 = The townfolk were alerted.
+
+0x34ADB5F5 = Plan
+
+0x58AD6AEA = Fight your way out of Valentine~s~
+
+0x64E68370 = Walk up to a safe with planted dynamite on it and hold ~INPUT_CONTEXT_Y~ to light the planted dynamite's fuse.
+
+0x69BF4022 = Lost Girl
+
+0x75CB7590 = Get to the ~o~horses~s~
+
+0x86A81144 = Return to ~o~Bill~s~~s~
+
+0x87FE37F6 = Regroup with ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+0x98A4AEB9 = Choose how to open the safes~s~
+
+0x129EDA7E = You returned to Valentine.
+
+0x131B4FD8 = Blow up Safes
+
+0x218E9EB9 = Bandanas and masks will conceal your identity during the robbery.
+
+0x425DA170 = Collect the ~o~loot~s~
+
+0x607BEEA5 = Approach the ~o~bank door~s~
+
+0x758D1359 = Ride to ~o~Downes Ranch~s~
+
+0x930D5807 = The bank teller has died.
+
+0x1752C781 = Get to cover before dynamite explodes.
+
+0x3462EED5 = Crack
+
+0x7265F081 = Wait for dynamite to explode~s~
+
+0x7328FEC3 = Crack Safes
+
+0x13422CB2 = Wait for Karen's signal~s~
+
+0x7662640B = Force the ~o~teller~s~ to open the vault~s~
+
+0xA00B34A0 = How do you feel about this?
+
+0xAD6FD6D0 = Plant dynamite on the ~o~safes~s~
+
+0xADAEB65F = Are you ready?
+
+0xAE47B655 = Bank teller
+
+0xB6AAC85B = Good to have you along
+
+0xB29BFF85 = Light the fuse~s~
+
+0xC8B2CB07 = Walk up to a safe and press ~INPUT_CONTEXT_Y~ to rob the safe.
+
+0xC70C2971 = Pick ~o~Karen's~s~ routine~s~
+
+0xCAEE0A65 = Skip the saloon this time?
+
+0xCB456372 = Need to move fast
+
+0xD5CEF9DA = Wait for the gang to mount up~s~
+
+0xD78C6E26 = Follow ~o~Bill~s~, ~o~Karen~s~ and ~o~Lenny~s~
+
+0xD188D96B = Follow the ~o~gang~s~ to the bank~s~
+
+0xD951397E = Open the ~o~teller's door~s~
+
+0xDA2C8F5A = Grays and Braithwaites
+
+0xDC06A3C5 = As you rotate the safe dial, rotation using ~INPUT_RADIAL_MENU_NAV_LR~ will slow down the closer you are to the correct safe number.
+
+0xDC215134 = You attacked the Downes.
+
+0xDE42237E = Light Fuse
+
+0xE0E68EB4 = Cornwall problem?
+
+0xE3E59AD1 = You did not make it past the train.
+
+0xE832B211 = You killed innocents.
+
+0xEEA92A39 = Back to Valentine?
+
+0xF1475717 = What's the plan again?
+
+0xFC7CD3FA = Remember that Tuscon bank?
+
+0xFED51282 = The gang was abandoned.
+

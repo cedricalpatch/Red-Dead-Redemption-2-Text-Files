@@ -1,0 +1,84 @@
+0x00C5F89A = ~z~You had a choice.
+
+0x02E1D810 = ~z~My husband's not cold in the ground...
+
+0x3C1C7302 = ~z~I'll keep her in black...
+
+0x4B818E10 = ~z~He was good, and he did good.
+
+0x4B8090EA = ~z~because mark my words on this...
+
+0x5A84AE52 = ~z~I'll have to take your word on that.
+
+0x5E2FADDF = ~z~Archie.
+
+0x6A55A736 = ~z~He didn't have a choice.
+
+0x6BDD493A = ~z~My husband's not cold in the ground, and you've come back here.
+
+0x8BC410D0 = ~z~thank you for your punctuality.
+
+0x9D40B191 = ~z~You ever wonder about eternity? You should.
+
+0x44BA82BE = ~z~Good day.
+
+0x46A78818 = ~z~Either you've got a lazy eye or a lack of respect.
+
+0x58D028AD = ~z~There wasn't no choice in that.
+
+0x58DD2C83 = ~z~get me that money.
+
+0x67FF470B = ~z~And you've as good as killed him yourself...
+
+0x91F79AFF = ~z~You speak as if killing were something I cared about.
+
+0x694E4BE5 = ~z~That's cleanliness.
+
+0x885C07C0 = ~z~Now, please...
+
+0x9359A17F = ~z~I ain't got no lazy eye...
+
+0x65169CB8 = ~z~Ain't my fault about the way the world is.
+
+0x90029AD1 = ~z~nor respect for the likes of you.
+
+0x482681CD = ~z~I nearly paid off what was owed.
+
+0x9877833D = ~z~but he had a choice.
+
+0xA2023D4C = ~z~Ah, Mrs. Downes...
+
+0xA73920C0 = ~z~Now, I'm real sorry about the way things turned out...
+
+0xAFFED9E5 = ~z~and maybe other events will transpire.
+
+0xB031D9AB = ~z~vengeance is an idiot's game.
+
+0xBBEC4A26 = ~z~Your husband knew the rules when he took that money.
+
+0xBDC8F579 = ~z~You best stick to them books...
+
+0xBE77F7BB = ~z~Well, maybe when your mother's finished mourning your father...
+
+0xC6D2086F = ~z~You think on that, boy.
+
+0xCEB6EFBB = ~z~I nearly paid off what was owed.
+
+0xD8E3AC92 = ~z~on your behalf.
+
+0xDF5F110B = ~z~Archie.
+
+0xE566C598 = ~z~Which is it, boy?
+
+0xEBE84ED7 = ~z~I hope it's hot and terrible, Mrs. Downes...
+
+0xF9B6EA74 = ~z~otherwise I'll feel I've been sold a false bill of goods.
+
+0xF234B6B6 = ~z~and you've come back here.
+
+0xF3715DF1 = ~z~and don't kid yourself.
+
+0xF58165CD = ~z~Well maybe you shall, sir...
+
+0xFD92746B = ~z~It's next to godliness isn't it?
+

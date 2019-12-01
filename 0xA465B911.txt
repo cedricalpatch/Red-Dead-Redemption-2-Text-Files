@@ -1,0 +1,56 @@
+0x058D43BB = ~z~Ah, well. Just figured I'd ask.
+
+0x2F1F82D9 = ~z~Can you help?
+
+0x4B051802 = ~z~Appreciate you doing all this... here, for you.
+
+0x8EB8E2E8 = ~z~Over here, come on!
+
+0x9C55D8E5 = ~z~Why are you doing this? Come on now!
+
+0x9D17DA08 = ~z~~sl:0.6:2.6~Listen... could you give a me ride out of here?~sl:0.4:1.6~I don't come to the city too often,~sl:~I work out in Caliga Hall...
+
+0x31D683E8 = ~z~I promise you, this is far more trouble than I'm worth.
+
+0x40F0267A = ~z~Either you can or you can't, ain't time to mull it over.
+
+0x43BC27B3 = ~z~~sl:0.0:1.9~I-I got no problems with you boys.~sl:~We're on the same side.
+
+0x99D395F2 = ~z~Well, what are you waiting for?
+
+0x114F65B2 = ~z~Damn it, I knew this wasn't over...
+
+0x409F9A8F = ~z~~sl:0.0:2.1~Best hurry now. I'm going home.~sl:~Done with this nasty town.
+
+0x4509CEB5 = ~z~Hey, hey!
+
+0x99309CC2 = ~z~Thought the Braithwaites were bad...
+
+0x704742DA = ~z~You going then?
+
+0x51149671 = ~z~The Grays'll hear about this.
+
+0xA0B4C894 = ~z~~sl:0.0:1.7~The Raiders grabbed some boy over in the alley,~sl:0.0:1.6~taking his money or who know what.~sl:0.1:~You look like you could do something 'bout it.
+
+0xA356B10E = ~z~Saint Denis. Never again...
+
+0xA600AE4C = ~z~Don't hang 'round me...
+
+0xAF6F7EB7 = ~z~the Grays place. You know it? West of here.
+
+0xC33E7AC3 = ~z~Shit, they ain't playing around here.
+
+0xD603BBF4 = ~z~~sl:0.0:1.5~I don't got much money, okay?~sl:~Just let me on my way.
+
+0xD654F213 = ~z~You there, come quick!
+
+0xDC969B53 = ~z~~sl:0.0:0.8~Oh, good...~sl:0.4~I couldn't just leave the feller like that after I saw it.
+
+0xDF118137 = ~z~These more Raiders?
+
+0xE6AFA905 = ~z~Not too far, now...
+
+0xF75E21AC = ~z~Holy shit! You showed them alright.
+
+0xFECEB06A = ~z~~sl:0.0:2.2~Yes! Here we are, Caliga Hall.~sl:0.2~It's good to be back.
+

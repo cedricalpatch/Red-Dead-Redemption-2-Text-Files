@@ -1,0 +1,102 @@
+0x0C1DDC36 = ~z~Good man. Toss him in the cell there and let's get you paid.
+
+0x0EC18872 = ~z~This bastard drowned his wife in a horses' trough. I'll leave it to you to deal with him.
+
+0x1D4939B3 = ~z~I don't need to inspect that body any further. Out back please.
+
+0x2A925445 = ~z~I'd be obliged if you'd take them outside already.
+
+0x2BFA4AF0 = ~z~Alright.
+
+0x2FCB8DB5 = ~z~I don't want a corpse in here. Out back, please!
+
+0x3BB0D6D2 = ~z~Put him in the cell, won't you?
+
+0x3DF705C2 = ~z~Your payment's collecting dust.
+
+0x3E40EF7D = ~z~That's it.
+
+0x4BBDA14F = ~z~Your payment, sir.
+
+0x4BCA4466 = ~z~We'll be offering a price on another outlaw very soon. Check the station presently.
+
+0x4E7ACB13 = ~z~Please, get the corpse outta here.
+
+0x6B8847B7 = ~z~Got a feller here thought he'd try sticking his wife in the trough.
+
+0x6DDE088D = ~z~Should be another poster going up soon. Rhodes means to clean up its environs.
+
+0x7A89B527 = ~z~Got a prisoner. He was being transported, and some of his buddies in the Lemoyne Raiders tried to free him.
+
+0x7C282521 = ~z~Got another outlaw we're seeking. Poster will be done and in the station in no time hence.
+
+0x7F6A538D = ~z~Alright.
+
+0x7F87FE10 = ~z~Finally collecting on that bounty. Okay then. Coins are there.
+
+0x8CF99933 = ~z~I would have sent you your money, but I didn't have an address. Right here, sir. On the desk.
+
+0x8DFC2371 = ~z~This bastard drowned his poor wife in a trough. I'll leave you the honors of killing him.
+
+0x9CFC4AA5 = ~z~Good man. Toss him in the cell there and let's get you paid.
+
+0x9E2E0EF6 = ~z~Feller here thought his wife was a horse, and shoved her face in a trough. Got space for him?
+
+0x26C152C6 = ~z~Cell's just there. Can't miss it.
+
+0x40ED2FF8 = ~z~The body's turning, get it outside.
+
+0x59DCE08B = ~z~Should be something else going up in the station in a little while. Keep an eye out.
+
+0x296B3247 = ~z~Well, look at that. Got ourselves a runner, and an O'Driscoll runner at that. Well, this day just got a whole lot better.
+
+0x940E28B0 = ~z~~sl:0.0:2.6~I doubt you'll find too many more posters~sl:0.0:2.1~going up in the station house, sir.~sl:0.2:2.3~Reckon Rhodes has reached the end of that~sl:~long road to respectability... finally.
+
+0x5945A332 = ~z~Thought it'd be bad form to shove him off a cliff my own self.
+
+0x45254A5F = ~z~Toss him behind bars, and I'll get you a purse ready.
+
+0x82328DAB = ~z~You've left your money!
+
+0x825783FD = ~z~Excellent. Put him in the cell there. I'll get your money.
+
+0x2898868F = ~z~There's a reward on this one. I've come to collect.
+
+0x36892270 = ~z~Excellent. Put him in the cell there. I'll get your money.
+
+0x79422438 = ~z~Toss him behind bars, and I'll get you a purse ready.
+
+0x94112770 = ~z~I have a bounty. I've come to collect.
+
+0xAF55EF58 = ~z~Got a bounty, if you're interested.
+
+0xB265967E = ~z~Got a raider here you might be interested in. His buddies came trying to free him.
+
+0xBBBDCC37 = ~z~That's it.
+
+0xBD39E727 = ~z~Sooner they're celled, the sooner you're paid, sir.
+
+0xC4890EB3 = ~z~Don't delay. Put 'em in the cell.
+
+0xCED7234F = ~z~You going to lock 'em up already?
+
+0xD5BF1801 = ~z~You brought them here to be incarcerated, yes?
+
+0xD7FEB942 = ~z~The coins, sir. The coins.
+
+0xD7168D9F = ~z~This here O'Driscoll had some friends tried to bust him from his wagon. Didn't quite work the way they'd planned, though.
+
+0xDE5C80B4 = ~z~Got a bounty. I hope you're paying.
+
+0xE914D7CA = ~z~I'd be obliged if you'd secure the prisoner.
+
+0xEC7D623F = ~z~Your bounty, sir!
+
+0xF5F0F5B7 = ~z~It's just sitting there, sir. Take your payment.
+
+0xF52E699B = ~z~Back for your payment? It's right where you left it.
+
+0xFC016485 = ~z~Please. The cell.
+
+0xFE9BFC59 = ~z~Take the corpse outside please.
+

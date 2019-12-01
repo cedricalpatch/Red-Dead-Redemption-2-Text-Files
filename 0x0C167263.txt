@@ -1,0 +1,48 @@
+0x0AF77875 = Goods Crate
+
+0x1ACBAF83 = You helped ~1p~ earn ~2~ goods
+
+0x2B846DCD = You have protected ~1~ goods. Wait for your Posse Leader to choose to continue or exit with the current goods.
+
+0x5BD211CC = ~1~ kills
+
+0x7D851E95 = ~1p~ left the event.
+
+0x15EDE248 = You earned ~1~ goods for Cripps Trading Company
+
+0x19EBE4BF = Station reached with ~1~ goods
+
+0x37C560C9 = Bandit
+
+0x618A8FB0 = Clear the ~COLOR_MP_OBJECTIVE~wagon~s~ blocking the train tracks
+
+0x758A1B85 = Goods were destroyed
+
+0x6742C25B = Trade Route
+
+0x9778F049 = Mission passed
+
+0x45210936 = Protect the goods
+
+0xA7C273BE = Goods +6
+
+0xB4D99BCB = Exit Event (~1~ Goods)
+
+0xB88BDECF = Each crate is worth 1 value of goods for ~COLOR_POSSE_ALLY~~1p~~s~'s Cripps Trading Co. on exit of the event.
+
+0xB899C763 = Take out the remaining ~COLOR_MP_OBJECTIVE_ENEMY~bandits~s~
+
+0xC312F3DD = You only have 1 life and will not respawn if you are killed.
+
+0xC3090075 = Cooperate with the ~COLOR_POSSE_ALLY~other players~s~ to protect goods on the train from bandits. Earn more goods at each stop or exit the event with your current value.
+
+0xD7091BC9 = The current number of goods ~BLIP_AMBIENT_CRATE~ is displayed to the left of the timer and the distance remaining on the route is displayed to the right.
+
+0xEBA261FC = Mission failed
+
+0xFC8A5863 = Work together and protect the goods
+
+0xFCE3AB21 = Wagon on the tracks
+
+0xFE65136A = You have protected ~1~ goods. Exit and add these to Cripps Trading Co. or risk continuing and the chance to earn more goods.
+

@@ -1,0 +1,26 @@
+0x056CD641 = ~z~That's a good boy... come on, come on... good boy.
+
+0x2EC3222A = ~z~Good boy, Cain, good boy.
+
+0x6C329D08 = ~z~Good boy...
+
+0x7FB94415 = ~z~C'mon, boy. C'mon.
+
+0x8F23E9AD = ~z~Good boy...
+
+0x60E90D38 = ~z~That's a good boy...
+
+0x75F8B094 = ~z~C'mon, Cain, good boy, c'mon, boy.
+
+0x483B551A = ~z~Hey... c-come on, fetch.
+
+0xB3AFB2C4 = ~z~Good boy.
+
+0xB777FD1A = ~z~Sit.
+
+0xBD1D459F = ~z~You're such a good boy... yeah.
+
+0xC5E199F1 = ~z~Good boy.
+
+0xF69D31DF = ~z~There we go. Good boy... good boy, go.
+

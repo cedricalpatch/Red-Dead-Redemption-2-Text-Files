@@ -1,0 +1,16 @@
+0x0E9E2FD0 = ~z~I'll try Miss Grimshaw... really I will.
+
+0x60805397 = ~z~The reverend left, Arthur!
+
+0x92513734 = ~z~Where'd he go?
+
+0xA5DCDE4B = ~z~Why?
+
+0xA952E537 = ~z~I-I don't know... he left me a note, told me I should do the same...
+
+0xC0521335 = ~z~He's right to be worried... you worried?
+
+0xD0A733DF = ~z~Well, I think he's worried.
+
+0xDC3B4B07 = ~z~Sure, but... I still think... maybe things'll turn out okay, you... you'll steer Dutch right. I know you will.
+

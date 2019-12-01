@@ -1,0 +1,48 @@
+0x06091FB5 = ~z~Oh, goddammit!
+
+0x06B32201 = ~z~You come on.
+
+0x2F507243 = ~z~I'll try and find another way.
+
+0x3B78DD3B = ~z~Everybody, wake up.
+
+0x5E26A292 = ~z~Why? What's going on?
+
+0x8B872BA3 = ~z~you?
+
+0x12DCB95C = ~z~No.
+
+0x29A1398C = ~z~Wake up!
+
+0x596F4774 = ~z~Would you get a move on, you sleepy bastards!
+
+0x723B790C = ~z~You go on ahead, I'll be right behind you.
+
+0x903B06C2 = ~z~Come on, Arthur!
+
+0x4686F357 = ~z~Wake up.
+
+0x5145B649 = ~z~Dutch!
+
+0x44799D89 = ~z~Jesus.
+
+0x54758F30 = ~z~I don't know, but we are getting off of this boat.
+
+0x52403916 = ~z~Dutch...
+
+0xA4775D83 = ~z~Dutch!
+
+0xADCE7031 = ~z~I'm okay...
+
+0xDD3E4F14 = ~z~Yeah.
+
+0xE99A66D8 = ~z~Yeah, you go on ahead...
+
+0xE207AA5A = ~z~Wake up!
+
+0xE72862E8 = ~z~This ain't moving.
+
+0xF4B14FAD = ~z~Wake up!
+
+0xFF5B6501 = ~z~Arthur, Arthur!
+

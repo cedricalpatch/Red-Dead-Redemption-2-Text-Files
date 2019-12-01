@@ -1,0 +1,66 @@
+0x069EE5D2 = ~z~And the cellar door is locked,~n~~m~And the cellar door is locked,
+
+0x2C56B291 = ~z~I'll live on a moderate diet,~n~~m~I'll live on a moderate diet
+
+0x3CFA5280 = ~z~For your own brains out you're dashing,~n~~m~For your own brains out you're dashing,
+
+0x3EA28418 = ~z~Like waves on the Bay of Biscay,~n~~m~Like waves on the Bay of Biscay,
+
+0x4F7F78EA = ~z~And shun each alehouse door.~n~~m~And shun each alehouse door.
+
+0x5B098FFE = ~z~To credit you for a shilling,~n~~m~To credit you for a shilling,
+
+0x5D3A11E7 = ~z~Saying I'll never get drunk any more.~n~~m~Saying I'll never get drunk any more.
+
+0x30D43A6C = ~z~And asks you to pay your score.~n~~m~And asks you to pay your score.
+
+0x42CCDF85 = ~z~I'll not drink but deny it,~n~~m~I'll not drink but deny it,
+
+0x61FE4ACF = ~z~One night when I got frisky,~n~~m~One night when I got frisky,
+
+0x69E62DB7 = ~z~But I swear by the poker and bellows,~n~~m~But I swear by the poker and bellows,
+
+0x87B767F9 = ~z~Put drinking out of fashion,~n~~m~Put drinking out of fashion,
+
+0x132F804B = ~z~You meet with all jovial fellers,~n~~m~You meet with all jovial fellers,
+
+0x588F09A9 = ~z~For when all night you've tarried,~n~~m~For when all night you've tarried,
+
+0x778AC900 = ~z~I'll never get drunk any more.~n~~m~I'll never get drunk no more.
+
+0x852AE440 = ~z~For "That's the place." they tell us,~n~~m~For "That's the place." they tell us,
+
+0x5143A95A = ~z~Over some poteen whiskey~n~~m~Over some poteen whiskey
+
+0x9511B0F5 = ~z~I fell and broke my nob sir,~n~~m~I fell and broke my nob sir,
+
+0x21699B5F = ~z~So by me now, take caution,~n~~m~So by me now, take caution,
+
+0x32443D14 = ~z~Don't you feel your head quite sore?~n~~m~Don't you feel your head quite sore?
+
+0xA6BF5450 = ~z~My face was as red as a lobster,~n~~m~My face was as red as a lobster,
+
+0xA7F52768 = ~z~
+
+0xACFDE0CD = ~z~I began to tumble and roar.~n~~m~I began to tumble and roar.
+
+0xB0BBBB61 = ~z~But straight away she sends her billing,~n~~m~But straight away she sends her billing,
+
+0xCC3A725E = ~z~The landlady is unwilling,~n~~m~The landlady is unwilling,
+
+0xCFECA6AA = ~z~Now I'm resolved to try it,~n~~m~Now I'm resolved to try it,
+
+0xD8A989E8 = ~z~She'll not stop 'till she's emptied your pocket,~n~~m~She'll not stop 'till she's emptied your pocket,
+
+0xD30BFD95 = ~z~In the morning home you're carried,~n~~m~In the morning home you're carried,
+
+0xE1B5CA3C = ~z~I'll never get drunk any more.~n~~m~I'll never get drunk any more.
+
+0xE9F82C85 = ~z~And with your money you're stocked,~n~~m~And with your money you're stocked,
+
+0xF45D414F = ~z~And you can not get drunk any more.~n~~m~And you can not get drunk any more.
+
+0xF86EC85A = ~z~Drinking the punch and claret,~n~~m~Drinking the punch and claret,
+
+0xF4606F91 = ~z~My watch got picked from my fob, sir,~n~~m~My watch got picked from my fob sir,
+

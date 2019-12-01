@@ -1,0 +1,10 @@
+0x5BBA8410 = ~z~He smells something on you... that you're the fool who'll feed him!
+
+0x8E7DE996 = ~z~Away with you, you flea-ridden mongrel!
+
+0x7789BBAE = ~z~Oh, he smells something on you...
+
+0xB2EB3274 = ~z~I don't mean you, Bill, by the way...
+
+0xD87AFD93 = ~z~Oh... you're a good boy. Yes you are, good boy...
+

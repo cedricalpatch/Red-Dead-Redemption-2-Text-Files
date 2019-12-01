@@ -1,0 +1,10 @@
+0x1FD5B2B0 = ~z~Yeah, life is good.
+
+0x87F082E4 = ~z~Hey! We got a well stocked larder, Mr. Morgan.
+
+0x119D163F = ~z~Good.
+
+0x7995DC5B = ~z~At least for now. Your good health.
+
+0xC4047137 = ~z~
+

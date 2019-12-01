@@ -1,0 +1,38 @@
+0x026D812F = ~z~He said the painting got torn up and thrown away, but... he'd heard some pieces of it still exist.
+
+0x0A93E083 = ~z~Well, you have to offer a fellow traveler some repose. Something I get from my pa...
+
+0x5E09B866 = ~z~But what we do, does come back on us, I reckon.
+
+0x8D0E07B7 = ~z~Yep... it's like the town of Valentine, I'm sure you know the place...
+
+0x8FD3F681 = ~z~Okay, that's it, I'm done if you're gonna be like that.
+
+0x82EC81A0 = ~z~Well, anyway, I should get some work done before my luck turns.
+
+0x132C22AC = ~z~I don't know... we all tell ourselves things to explain what we can't explain.
+
+0x764BDA33 = ~z~people there are convinced they're under some curse, that their run of bad luck is punishment for something.
+
+0xA1E251BB = ~z~one of 'em they did on animal hides, that showed a massacre by the settlers...
+
+0xA609823B = ~z~Come on, don't make me regret my hospitality.
+
+0xAF07A968 = ~z~Got killed in his bed when I was nine years old, so...
+
+0xB01F6E35 = ~z~He said he'd heard years ago about an ancient Indian painting,
+
+0xB9D4BF02 = ~z~probably ain't the best superstition to live by, but... it's always stuck with me.
+
+0xB36AB784 = ~z~Right? Stranger things have happened.
+
+0xD0E7F3AC = ~z~Look, you wanna hear this or not?
+
+0xD32B3450 = ~z~and the rumor was, it was connected with Valentine in some way.
+
+0xD88C1EB2 = ~z~Shared a fire out near there with an old feller who told me he think it's the Indians.
+
+0xDC640424 = ~z~he always said it was bad luck not to invite a stranger at the door into the house.
+
+0xFDFCA274 = ~z~Yep, and he prayed every day, too.
+

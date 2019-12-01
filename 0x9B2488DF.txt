@@ -1,0 +1,58 @@
+0x00B0FB25 = Return to ~o~Uncle~s~
+
+0x03744D9A = Wait for the wagon~s~
+
+0x3A21F7C7 = Help ~o~Charles~s~ and ~o~Bill~s~
+
+0x4B94E1CE = Keep up with ~o~Uncle~s~
+
+0x4C701991 = Escape the ~e~pursuers~s~ with the gang
+
+0x4F8429C2 = Fend off the ~e~attackers~s~
+
+0x7EBE2881 = Follow ~o~Uncle~s~
+
+0x13C12830 = Hide in the ~o~barn~s~
+
+0x26FBB370 = You attacked the wagon.
+
+0x36F65FCC = Keep up with the ~o~wagon~s~
+
+0x56EC5AFE = Return to the ~o~gang~s~
+
+0x78EE08A8 = Approach the ~o~wagon~s~
+
+0x84B65AE0 = Look
+
+0x92CEBC3A = Hold ~INPUT_LOOK_BEHIND~ to look behind you at the pursuers.
+
+0x904BD27A = Press ~INPUT_QUICK_EQUIP_ITEM~ to quickly equip your bandana, this will prevent you being recognized.
+
+0x979E2B9F = Hole
+
+0x1489EFC5 = Follow ~o~Uncle~s~
+
+0x3814784A = Keep hidden
+
+0x7534719A = Escape through the ~o~hole~s~ in the barn wall
+
+0x77189068 = Return to the ~o~wagon~s~
+
+0x95628286 = The gang was abandoned.
+
+0xB4CC187F = Search crate
+
+0xBD2BFDD9 = Deal with the ~e~pursuers~s~
+
+0xD6A01C92 = Help Uncle
+
+0xE9F46AB3 = Rob the ~o~wagon~s~
+
+0xEA155BFB = Get into cover near ~o~Uncle~s~
+
+0xEA92797B = You spooked the wagon.
+
+0xEC35FDBB = You lost the gang.
+
+0xF2E0ADE4 = Equip Bandana
+

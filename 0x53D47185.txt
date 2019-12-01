@@ -1,0 +1,206 @@
+0x034813C0 = ~z~Here come my loyal soldiers. Once I'm free we will rebuild the army and topple the regime!
+
+0x047B3CE1 = ~z~Rescue me!
+
+0x06685FF6 = ~z~You can't kill what the system has already crushed!
+
+0x0A759F41 = ~z~~sl:0.0:3.4~Liberty! Liberty from oppression!~rp~~sl:~I may be your captive, but that does not make you free.
+
+0x0BEAC553 = ~z~Be patient. We wait here and hold this tower. Our brothers and sisters will hear about us and come to join the fight.
+
+0x0E06696F = ~z~I said, if you're aren't here to stand with us, leave!
+
+0x0E465077 = ~z~Over here!
+
+0x1CE1112B = ~z~Thug!
+
+0x2D276CE6 = ~z~~sl:0.0:5.9~We will sacrifice whatever and whoever we need to achieve our aims.~rp~~sl:~Freedom or death. We are unwavering.
+
+0x2F15B594 = ~z~Beat me if you must!
+
+0x2FDF283D = ~z~If they didn't find him out.
+
+0x3B61CA18 = ~z~Property is theft!
+
+0x3C8DCC40 = ~z~Property for the people!
+
+0x3C223566 = ~z~Get away from me. I won't be your prisoner!
+
+0x4B1F2093 = ~z~~sl:0.0:5.4~We will not stop until the entire system is brought down!~rp~~sl:0.0:5.8~It is only the beginning... the beginning of the end.~sl:0.1~I promise you.
+
+0x4B5C69DD = ~z~All property is theft!
+
+0x4BE5C35F = ~z~I heard he's bedded in deep with a bunch of these zealots.
+
+0x4CE6C235 = ~z~My brothers... no.
+
+0x6C1D0F1F = ~z~I am not your property!
+
+0x6D5D064D = ~z~That... is how government works.
+
+0x6E72E530 = ~z~~sl:0.0:1.5~You killed those men...~rp~~sl:0.6:3.3~those workers fighting for the freedom of man...~rp~~sl:0.5~but you have not killed the movement.
+
+0x6F1470C3 = ~z~Become an anarchist, my friend.~rp~  We will welcome you.
+
+0x6FC9E9E8 = ~z~~sl:0.0:3.5~It is meaningless against the millions of our brothers and sisters~sl:~I can save from servitude.
+
+0x7ACFAC84 = ~z~I refuse to be chattel.
+
+0x7AD64BE1 = ~z~Don't let them take me!
+
+0x7B96A2C0 = ~z~I used to use this rifle to fight for them...
+
+0x7EFD9936 = ~z~For freedom!
+
+0x7F44C6FB = ~z~Stopping this loudmouth is what the law was made for.
+
+0x8C926196 = ~z~talking that collectivist nonsense.
+
+0x8FA2A999 = ~z~My blood will water the tree of liberty.
+
+0x9CE04418 = ~z~~sl:0.0:4.4~You will see... others will join the cause.~rp~~sl:~This is a revolution. Anarchism!
+
+0x9DA268C4 = ~z~Very good.
+
+0x15C29AC0 = ~z~Trouble! They are here for our amigo, Vincenza!
+
+0x15CCB276 = ~z~Long live the revolution!
+
+0x22A88DD0 = ~z~And who can guess how many minds he poisoned...
+
+0x23E8B445 = ~z~What is the delay?
+
+0x26D7A3E5 = ~z~Brothers, stop them!
+
+0x29E6A722 = ~z~We are slaves! Slaves who will be free!
+
+0x38C87BE6 = ~z~~sl:0.0:4.3~Anarchy! Anarchy! Down with the authority!~rp~~sl:~The ruling class must go!~rp~ The system cannot continue.
+
+0x40E50C1F = ~z~~sl:0.0:2.4~Ah, hang me if you must.~rp~~sl:~My life is worth nothing in the grand narrative of the struggle.
+
+0x45BD38F7 = ~z~Patience... you hear me? Be strong.
+
+0x60D0D43C = ~z~~sl:0.0:4.1~Join us! Use your gun and your rope to fight authority,~sl:~not hold it up.
+
+0x65DCD60E = ~z~~sl:0.0:3.9~This isn't the end. I will be heard...~rp~~sl:~I demand an open trial, so my message can be broadcast.
+
+0x79B80E75 = ~z~Here comes the militia. You were foolish to think my brothers would just give up!
+
+0x87F1AAE8 = ~z~Here, my brothers! Save me!
+
+0x98DA43BF = ~z~Freedom or death!
+
+0x99AD086E = ~z~Unbind my hands!
+
+0x120EAADE = ~z~I won't be your prisoner!
+
+0x186E4374 = ~z~~sl:0.0:5.0~I am a dead man.~rp~ I don't care. What does my life matter,~sl:~or the life of a police chief, or a governor, or even a cafe full of bourgeoisie?
+
+0x464A0E5E = ~z~Dear.
+
+0x629DC705 = ~z~
+
+0x882D668F = ~z~Brothers, we must stick together! Save me!
+
+0x930D3EC2 = ~z~~sl:0.0:3.3~I need... to go out for some air.~sl:~I'll be right back.
+
+0x1422FB6B = ~z~We will die for what we believe!
+
+0x1453B2FD = ~z~Property is theft! Bring down the corrupt regime!
+
+0x2300B53C = ~z~We need to defend the tower! Warn the others!
+
+0x4842CDA7 = ~z~I will not surrender!
+
+0x4920E9AA = ~z~Savage.
+
+0x5604ADD3 = ~z~
+
+0x5760F740 = ~z~He ain't even American either.
+
+0x6914CD8E = ~z~~sl:0.0:1.5~More men join us by the day...~sl:0.8:2.9~At this rate, we will have an army to storm the capital~sl:~by the end of the year.
+
+0x7610A942 = ~z~Freedom or death!
+
+0x8136BCF8 = ~z~The last of my men! Help me, brothers!
+
+0x24087BFB = ~z~I'm still alive my brothers!
+
+0x184503DF = ~z~We won't stop until the abuses do!
+
+0x326053FB = ~z~An attack! Retreat and defend Vincenza!
+
+0x463754ED = ~z~Did you know he was gonna kill the governor?
+
+0x2019487E = ~z~~sl:0.0:2.2~Others will rise in their place.~rp~~sl:0.3:3.3~My amigos' names will live on as their~sl:0.0:2.1~brothers and sisters join the cause...~rp~~sl:0.2~they will not be forgotten.
+
+0x33613341 = ~z~You were warned!
+
+0x51681145 = ~z~If you haven't come to join the struggle, you should go.
+
+0x65139299 = ~z~Ain't gonna be easy though.
+
+0xA43E5B12 = ~z~~sl:0.0:5.0~doing my job, unaware of the evil of the system I inhabited.~rp~~sl:0.7~But then I saw.
+
+0xAC10AD35 = ~z~Cut this rope!
+
+0xAE81EF99 = ~z~You are a coward.
+
+0xAF074A7C = ~z~I am ready to face the music. Come on.
+
+0xB50B15A8 = ~z~My brother.
+
+0xB92EC771 = ~z~Untie me!
+
+0xBBCD72FE = ~z~Come spring, the anarchist flag will fly at the statehouse.
+
+0xBCC9C1F4 = ~z~Goddamn anarchist.
+
+0xBD270C54 = ~z~Now you assassinate.
+
+0xC03412FD = ~z~~sl:0.0:4.8~Death or destruction are the only possible outcomes.~rp~~sl:~The slaves must be freed.
+
+0xC2C1B115 = ~z~Liberty will be shackled at all cost.
+
+0xC12C1D1D = ~z~~sl:0.9~Sergio is dead! Don't let 'em get to his body.
+
+0xCBE9A9D9 = ~z~The coup de grace, of course.
+
+0xCF8FCAB1 = ~z~Oh...
+
+0xCF71D96D = ~z~My people! You're all that I have left! Help me!
+
+0xD747C9C5 = ~z~~sl:0.0:3.9~We knew they would come! Now is our moment...~sl:~defend to the last man!
+
+0xD2244FE6 = ~z~but now, it is turned the other way.
+
+0xD6903FB5 = ~z~~sl:0.0:1.9~I was like you once...~sl:~a drone in the great hive of commerce and commodity...
+
+0xDA55A118 = ~z~Hand me over so I can be heard.
+
+0xDBC38EF1 = ~z~Brute!
+
+0xDFE6EB6B = ~z~Whatever happens, we must be strong, amigo.
+
+0xE8B98856 = ~z~Put me down!
+
+0xE9CDC216 = ~z~Who goes there?
+
+0xE54EF62F = ~z~and he's a former military sharpshooter too.
+
+0xE59393A7 = ~z~Sergio Vincenza.
+
+0xE1019529 = ~z~For freedom!
+
+0xEBEA4EC2 = ~z~Hand me over to your masters. They hold the power. You are just a serf.
+
+0xEF6CF16E = ~z~Once you see the system and its iniquity, you cannot go back.
+
+0xEFB73294 = ~z~For the people!
+
+0xF2C0996C = ~z~The fight continues!
+
+0xF8BCFEA6 = ~z~Brothers! Save me and we will avenge those we have lost.
+
+0xFFC08642 = ~z~These bonds won't hold me.
+

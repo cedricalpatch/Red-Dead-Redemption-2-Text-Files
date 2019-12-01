@@ -1,0 +1,114 @@
+0x0379FB28 = ~z~Are you deaf? Get lost!
+
+0x075964F2 = ~z~~sl:0.0:1.1:1~Are you deaf?
+
+0x1D973ABE = ~z~Whatever you're selling, I don't want it.
+
+0x2C1D6771 = ~z~Go away!
+
+0x3C0E535B = ~z~Did I use words that were too long and complicated? Go! Now!
+
+0x3D60F4EC = ~z~Will you please go away and bother somebody else?
+
+0x3F3C0FC3 = ~z~~sl:1.4~Go away.
+
+0x4B394257 = ~z~Bugger off!
+
+0x5BECAB8E = ~z~~sl:0.0:4.4:1~Go away! Go Away! Be gone, get lost, go!
+
+0x5C6912D5 = ~z~Go away or I'll kill you!
+
+0x9FB62A80 = ~z~You're really starting to annoy me.
+
+0x36CE364A = ~z~I'm starting to lose my patience here.
+
+0x39F50324 = ~z~Well, you can't! It's mine, mine, mine!
+
+0x50AF2F1E = ~z~Persistent asshole aren't ya?
+
+0x56BF3CB8 = ~z~and I can move in with him, and kill him, and steal his cabin.
+
+0x68A46365 = ~z~I'm not buying it, and I don't want it!
+
+0x73FD0EAD = ~z~~sl:0.0:4.6:1~Are you trying to annoy me? Go away. Go away now!
+
+0x79DDDEFA = ~z~Go away...
+
+0x80AA1374 = ~z~~sl:0.0:3.2:1~I said I'm not buying it and I don't want it!
+
+0x82F77075 = ~z~~sl:0.0:3.3:1~A man's home is his castle!
+
+0x530D5E15 = ~z~Get the hell outta here!
+
+0x693AC62A = ~z~This is my home, goddamn ya!
+
+0x749DFE9C = ~z~Go. Away. Now!
+
+0x4222D9C7 = ~z~Are you deaf, or just a horse's ass? Go away!
+
+0x5298D5FC = ~z~Can you please, please, please get lost now?
+
+0x6491D85D = ~z~~sl:0.0:3.5~Maybe he'll ask me, and we can become friends~sl:~and go out fishing together
+
+0x7336F5A7 = ~z~~sl:0.0:3.8~What precisely do you hope to achieve by standing there?~sl:0.2~Are you thinking , maybe he'll soften?
+
+0x42072FF3 = ~z~I have no interest in helping you, meeting you, befriending you, getting robbed by ya or seeing ya!
+
+0x61669EB7 = ~z~Get off my property!
+
+0x21235127 = ~z~~sl:0.0:3.1:1~Whatever it is you want, do it somewhere else.
+
+0x21738767 = ~z~I don't know you. I don't like you.
+
+0x70001748 = ~z~Do not annoy me... get lost.
+
+0xA5A97F1A = ~z~In case I wasn't clear, amigo, get lost, now!
+
+0xA6C1ECB2 = ~z~Somebody wants to speak to you... somebody a long way away, go and speak to them!
+
+0xA8A8163A = ~z~Could you do me a favor and go away now, please?
+
+0xA2594D62 = ~z~~sl:0.0:4.0:1~I'm a lonely man in a house. I'm not worth troubling.
+
+0xB1DC6C68 = ~z~You're not very intelligent, are you?
+
+0xB9E27107 = ~z~Get lost! Get lost! Get lost!
+
+0xB44ACBE2 = ~z~Is this your idea of a joke? Go away!
+
+0xB82BDA1A = ~z~If you don't leave, I'll blow a hole in you!
+
+0xB427D3E5 = ~z~~sl:0.0:5.4:1~Don't make me come outside! Don't make me come outside!
+
+0xB9390F1D = ~z~Please go away.
+
+0xBA88AD3C = ~z~Come on friend, go away, go away!
+
+0xC0FF4772 = ~z~go away!
+
+0xC5492A56 = ~z~You are starting to make me very unhappy.
+
+0xCC2ADC08 = ~z~I am warning you. Go away!
+
+0xCDC71E8E = ~z~Get lost!
+
+0xCF0DE38F = ~z~Get outta here! I said get outta here...
+
+0xD2B9EDE3 = ~z~Go away!
+
+0xD2B4199D = ~z~~sl:0.0:2.7:1~Piss off... go away!
+
+0xDBA5C3FE = ~z~You're all bastards, bastards, bastards!
+
+0xE82BA37E = ~z~~sl:0.0:6.0:1~You annoying bastard, I'll blow a hole in you!
+
+0xE88D7032 = ~z~~sl:1.1:6.9:1~Go. Go. Go. Go!
+
+0xEF636A46 = ~z~Go away, please.
+
+0xF40E3B18 = ~z~You don't scare me! Go away!
+
+0xF19152A0 = ~z~Come on, be gone!
+
+0xFA4E5382 = ~z~Didn't you understand me? I don't want visitors here!
+

@@ -1,0 +1,16 @@
+0x2D4BD0B0 = Arthur has died.
+
+0x3AEFEBF8 = The doctor has died.
+
+0x24E4248D = Follow the ~o~stranger~s~
+
+0x58E34EAF = Walk
+
+0xAB163667 = Stranger
+
+0xC821065C = The stranger has died.
+
+0xDBC61252 = Go to the ~o~examination room~s~
+
+0xFA6E4FA2 = Leave the area
+

@@ -1,0 +1,112 @@
+0x0145EB3B = ~s~Get on ~o~Dutch's horse~s~
+
+0x01A6E76B = Dutch's horse has died.
+
+0x1A7F38B6 = ~s~Collect the ~p~money bags~s~
+
+0x1FFB2A20 = Collect
+
+0x3B38D011 = Climb train car
+
+0x3BB18858 = ~s~Get back to the ~f~gang~s~
+
+0x3D10601A = Press ~INPUT_JUMP~ to jump off the train.
+
+0x3FC354B2 = ~s~Follow ~o~Dutch~s~ to Saint Denis~s~
+
+0x3FDDE7D7 = The train was not captured.
+
+0x4D3D8329 = ~s~Take out the ~e~soldiers~s~
+
+0x5F7B27A4 = ~s~Jump off the train~s~
+
+0x6ACF0B6F = ~s~The gang's cover was blown.~s~
+
+0x6EC5C7B4 = Equip the dynamite.
+
+0x6F837F88 = Cleet
+
+0x18DC9727 = ~s~Wait for the gang to arrive~s~
+
+0x26A5A277 = ~s~Follow ~o~John~s~ to the wagon~s~
+
+0x26F3B67A = ~s~Get to the ~o~side of the train carriage~s~
+
+0x30B4140A = Jump to Horse
+
+0x56DD36D8 = Wait at the right side of the carriage until the gang arrives.
+
+0x89D1FC51 = ~s~Jump onto the ~o~train~s~
+
+0x106D7D56 = ~s~John was abandoned.~s~
+
+0x153A1307 = ~s~Take out the ~e~guards~s~ and get to the front of the train~s~
+
+0x254E9FC9 = ~s~Get the ~o~dynamite~s~
+
+0x607BEF45 = Detonate explosive
+
+0x798F5BCC = ~s~Chase after the ~o~train~s~
+
+0x4632E8E0 = You failed to keep up with the train.
+
+0x4805E9F7 = Disable lever
+
+0x5384AAC0 = ~s~Detach the ~o~stock car~s~
+
+0x6955DD9C = Press ~INPUT_HORSE_JUMP~ to jump onto the train.
+
+0x9088A464 = Get to right side of the carriage beside Dutch.
+
+0x17850B85 = The train was abandoned.
+
+0x287324C9 = Detach train car
+
+0xA06F9D58 = ~s~The dynamite was destroyed.~s~
+
+0xA8E726F8 = ~s~Follow ~o~Dutch~s~ to Saint Denis~s~
+
+0xAC703E50 = ~s~Get to the ~o~armoured carriage.~s~
+
+0xADDE3835 = ~s~You ran out of dynamite.~s~
+
+0xB5C947F7 = ~s~You did not jump off the train.~s~
+
+0xB29ACDE2 = ~s~Exit the Gatling gun and get to the ~o~armored carriage~s~
+
+0xB6617078 = ~s~Exit the train~s~
+
+0xBC4354FF = Cleet has died.
+
+0xC2E16E6F = ~s~Stand back from the explosives~s~
+
+0xC5DC8F72 = ~s~Disable the ~o~brakes~s~
+
+0xC9C4F002 = Joe has died.
+
+0xC37AE35A = ~s~Dutch was abandoned.~s~
+
+0xCCDC7DD7 = Bill's horse has died.
+
+0xD32B2A0F = ~s~Enter the ~o~steam engine~s~
+
+0xDC2F6B0E = Jump
+
+0xDC785CA8 = Javier
+
+0xDEBB99F3 = ~s~You never collected the money.~s~
+
+0xE704B6B9 = ~s~Plant dynamite on the ~o~armored carriage~s~
+
+0xEB9E416B = Dynamite
+
+0xEE7967BE = Press ~INPUT_JUMP~ to jump onto Dutch's horse.
+
+0xF00DE3D4 = ~s~Enter the ~o~armored car~s~
+
+0xF2CE8308 = Joe
+
+0xF82A457D = ~s~Follow ~o~John~s~ back to the gang~s~
+
+0xFB3C5BE7 = ~s~Ignite or shoot the ~o~dynamite.~s~
+

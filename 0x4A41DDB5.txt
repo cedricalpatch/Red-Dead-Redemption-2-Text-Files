@@ -1,0 +1,540 @@
+0x00A46829 = ~z~Yeah...~n~~m~Yeah.
+
+0x01F3A6DD = ~z~That old fort, Cinco Torres...
+
+0x03C02B96 = ~z~Gracias.
+
+0x041B26E5 = ~z~Senor, por favor.
+
+0x0640AD28 = ~z~Have a drink.
+
+0x07EDB78C = ~z~gets processed in that factory there.
+
+0x090A4B42 = ~z~To the right! Come on, hurry up. What are you doing?
+
+0x0920939E = ~z~Go!
+
+0x09E67DEA = ~z~We gotta move, Dutch!
+
+0x0A8A6C2C = ~z~Bill, you're with me! Let's get up there!
+
+0x0A53E482 = ~z~I don't know. What do you think?
+
+0x0B10B5A8 = ~z~We were lost at sea...
+
+0x0B68CFF7 = ~z~~sl:0.8:0.0~Ay, que idiota! Let's go.
+
+0x0E5F3C4D = ~z~is all of this really necessary?
+
+0x0F7442FE = ~z~and get outta here...
+
+0x1B57D9A5 = ~z~I know somewhere you men can rest.
+
+0x1B68EFFF = ~z~Yeah, to the right, damn it! Let's go, vamos. Vamos.
+
+0x1C4EDA24 = ~z~old sugar plantation island.
+
+0x1CC10960 = ~z~I think we gotta get out of here.
+
+0x1EF56BE4 = ~z~Gentlemen, goodbye.~n~~m~Well...
+
+0x1F6D6DF8 = ~z~I need to get some rest.
+
+0x1F238038 = ~z~What sort of trouble?
+
+0x1FF4AA06 = ~z~Come, come, come...
+
+0x2AF2CD76 = ~z~
+
+0x2B937ED7 = ~z~Down there is Aguadulces. Fussar's compound.
+
+0x2D217D38 = ~z~Come on...
+
+0x2DA90A6F = ~z~Well you're right.
+
+0x2E4594D2 = ~z~Guama is in trouble, I'm afraid.
+
+0x2EA77ED5 = ~z~It's on the way I guess...
+
+0x2F07ADED = ~z~Yes, but they can't find out who we are.
+
+0x2F298C42 = ~z~You and me both.
+
+0x3A8B2433 = ~z~We all need to relax.
+
+0x3BB6DAAB = ~z~I have no idea...
+
+0x3BEF9885 = ~z~Somebody give him a goddamn drink!
+
+0x3BF4302F = ~z~This is quite a place you've got here.
+
+0x3DC41D0E = ~z~Is it anywhere near Australia or Tahiti?
+
+0x3ECD2552 = ~z~Let's, uh...
+
+0x4C97C0E7 = ~z~let's rest a moment.
+
+0x4CD7BDCC = ~z~But...
+
+0x4D3ADC66 = ~z~~sl:2.3:0.0~Levi Simon. ~rp~Senior Overseer for Alberto Fussar.
+
+0x4DF83C96 = ~z~We got you...
+
+0x4E0B80CC = ~z~Dut... Dutch...
+
+0x4EFABD8A = ~z~I will bet that he does.
+
+0x5B7478D9 = ~z~We run the third most productive sugar plantation in the Northern Caribbean.
+
+0x5C532FC8 = ~t~In Spanish: Faster! Come on!
+
+0x5CA2091D = ~z~~sl:0.0:3.9:1~Welcome to Guarma, gentlemen. ~rp~Now, if you'll excuse me.
+
+0x5CBC590D = ~z~~sl:0.2:2.3~Bunch of Haitian pirates won't frighten him.~lr:0.6~They'll be strung up in the streets soon enough.
+
+0x5CBD14FF = ~z~Don't thank me yet.
+
+0x5E9CB8BA = ~z~Excuse me, sir! Who're our new friends here?
+
+0x5E589C62 = ~t~In Spanish: Malingerers. Debtors... and worse than that. Agitators. You make me sick, all of you.
+
+0x5EE8210D = ~z~What you doing here?
+
+0x5F3E6002 = ~z~Well, next I guess we're gonna get shot.
+
+0x6A009601 = ~z~Labor troubles. ~rp~And other thieves and pirates looking to disrupt our ways of working.
+
+0x6A3EBE9D = ~z~Quick dammit.
+
+0x6B06B192 = ~z~Thanks for getting us out of there.
+
+0x6D75023E = ~z~Bill...
+
+0x6EB04780 = ~z~Javier?
+
+0x6EE4ADA2 = ~z~So what now, "Aiden"?
+
+0x6F0DD19A = ~t~In Spanish: Sons of bitches!
+
+0x7A86708D = ~z~What crime did they commit?
+
+0x7B70E101 = ~z~Everyone follow me.
+
+0x7EF126E1 = ~z~Our only purpose is to work ourselves to death...
+
+0x7F9D0A09 = ~z~Follow me.
+
+0x7FAEA6B1 = ~z~do some more scouting.
+
+0x8B73D5AA = ~z~You gotta crank it, Bill! Come on, come on!
+
+0x8C1E37D4 = ~z~~sl:0.2:0.0~You was going the scenic route! ~rp~Just as soon as I know exactly who you are, you'll be free.
+
+0x8C7B1145 = ~z~
+
+0x8CA1C242 = ~z~to make him rich.
+
+0x8D2FB9E8 = ~z~Behave yourselves, and no harm will befall you.
+
+0x8E6906E3 = ~z~I'm working on it.
+
+0x8FB792F1 = ~t~In Spanish: You cowards!
+
+0x9AE00003 = ~z~Arthur, it is a miracle.
+
+0x9BB8B933 = ~z~Let's go! We got another group rounded up down the way.
+
+0x9D39F936 = ~z~~sl:0.5:0.0~We can do this!
+
+0x9F47CA9D = ~z~~sl:1.4:3.9:1~You're alive! Arthur, you're, you're alive!
+
+0x9F5562BE = ~z~I need something in return.
+
+0x9FF28196 = ~z~
+
+0x10BFCF79 = ~z~if this is a tropical paradise...
+
+0x11C36DCC = ~z~Arthur...
+
+0x13FE0B39 = ~z~Not so close, friend.
+
+0x15AC5309 = ~z~They're little more than slaves shipped in from other islands.
+
+0x15D35AC0 = ~z~entrance to that cave.
+
+0x21C32688 = ~z~Come on...
+
+0x21C66433 = ~z~Oh, son.
+
+0x26ABAFCB = ~t~In Spanish: Let's go, move!
+
+0x26CB7B94 = ~z~so far it ain't up to much.
+
+0x29D5F341 = ~z~And do we seem like Haitian pirates to you, Mr. Simon?
+
+0x30E98CC6 = ~z~come.
+
+0x35DEAFBD = ~z~We need to get these chains off, come on!
+
+0x36FC90EE = ~z~I don't see you have any choice.
+
+0x37E998D3 = ~z~Okay.
+
+0x42D8244B = ~z~It's not my island.
+
+0x46CFB69F = ~z~Well, Fussar will be desperate to find you.
+
+0x48AF3453 = ~z~Can we trust you?
+
+0x48B6301A = ~z~Gentlemen...
+
+0x50A30829 = ~z~We need to get out of here.
+
+0x50F14173 = ~z~Meantime, you'll not starve.
+
+0x52C15DC9 = ~z~I think so...
+
+0x54EAA0FF = ~z~~sl:0.0:1.1:1~They're running away!
+
+0x59DE7E01 = ~z~Dutch...
+
+0x62CAF384 = ~z~~sl:0.0:1.1~Well...~sl:1.0~for what it's worth, I think I would have preferred Tahiti.
+
+0x62F9ACD6 = ~z~Now we're in trouble.
+
+0x71DF0CBD = ~z~A tyrant, driven by nothing but power and greed.
+
+0x72F0491D = ~z~Dutch van der Linde...
+
+0x78F730B1 = ~z~Come on, Bill!
+
+0x79F20AFB = ~z~Hold them off us, Arthur.
+
+0x80CB7515 = ~t~In Spanish: Fussar can't defeat us!
+
+0x83E2B6E5 = ~z~boys.
+
+0x83E5EB0B = ~z~Give me some room here.
+
+0x86D52E4F = ~z~we got you.
+
+0x86F2F803 = ~z~I'm trying.
+
+0x87C7AE38 = ~z~Aiden O'Malley.
+
+0x87FDD1FB = ~z~~sl:0.0:1.6~Oh, the usual sort.~lr:0.6~People wanting what ain't theirs, and others telling them to take it.
+
+0x91DC4B6B = ~z~And you?
+
+0x92DE0C9E = ~z~Damn...
+
+0x92FE21BC = ~z~In Spanish: Be quiet, Mr. Fuentes. Move it, all of you!
+
+0x98E9D927 = ~z~Carefully.
+
+0x99A26B8A = ~z~The farmers treat the peasants like they are still indentured...
+
+0x383E9012 = ~z~You seem like someone or other...
+
+0x386FD7C7 = ~z~Everyone okay?
+
+0x406EAF67 = ~t~In Spanish: Move! Come!
+
+0x411DD219 = ~z~Well, for now, we're stuck then.
+
+0x434A3A80 = ~z~For once, boys, I don't think they're shooting at us!
+
+0x474C301E = ~z~what next?
+
+0x484A3385 = ~z~I am the only one who can arrange a boat for you.
+
+0x505B1C37 = ~z~~sl:1.9:0.0~In Spanish: Criminals.
+
+0x539A5034 = ~z~We must be very careful.
+
+0x566DD0F0 = ~z~If your friend is still alive...
+
+0x589E51E2 = ~z~Son, take it easy.
+
+0x632E306E = ~z~Just give me a damn second, will you?
+
+0x661BCD93 = ~z~Hey.
+
+0x676B071C = ~z~We better get you gentlemen hidden...
+
+0x711A8649 = ~z~Help Leon with that group of escaped workers...
+
+0x725B984A = ~z~This is a hell of a welcome.
+
+0x732CEBD3 = ~z~I will explain. Just not right now.
+
+0x765B4FF6 = ~z~Spread out.
+
+0x768C9C39 = ~z~am so sorry...
+
+0x840C309C = ~t~In Spanish: I won't say it again!
+
+0x948A1333 = ~z~Get outta here.
+
+0x952BEC57 = ~z~I don't get you?
+
+0x1248E683 = ~z~Of course, ~rp~where there's money to be made, there's trouble.
+
+0x1681DB92 = ~z~
+
+0x2115E641 = ~z~we will do everything we can.
+
+0x4196FB9E = ~z~
+
+0x4853DAEC = ~z~Boys...
+
+0x4929C170 = ~z~What a mess.
+
+0x4981F641 = ~z~running from somebody or something, I guess.
+
+0x5999D4B9 = ~z~So...
+
+0x6086F954 = ~z~Are we all still alive?
+
+0x6228EC09 = ~z~I bring things in and off the islands...
+
+0x6838FF8E = ~z~I...
+
+0x7124D9DD = ~z~
+
+0x7535A2B1 = ~z~so people on both sides die.
+
+0x8795BD1F = ~z~they will have him at Fussar's compound.
+
+0x9324D449 = ~z~There is a cave hidden below the cliffs.
+
+0x67586E41 = ~t~In Spanish: Corporal. Take these men to the jail, along with that peasant's group of cockroaches.
+
+0x75168AD2 = ~z~So...
+
+0x75600A58 = ~z~We was headed to Tahiti.
+
+0x96524B4D = ~z~What's your name?
+
+0x490971C4 = ~t~In Spanish: But especially you, Leon Fuentes.
+
+0x513285A2 = ~z~Quick!
+
+0x598851BA = ~z~Mr. O'Malley?
+
+0x719604B1 = ~z~I don't know...
+
+0x785532AA = ~z~Well, how very upsetting for you.
+
+0x918443AD = ~z~We are on the island of Guarma.
+
+0x1760217A = ~z~See, they are not used to people shooting back.
+
+0x3239717D = ~z~~sl:0.9~Where the hell am I?
+
+0x24347782 = ~z~Arthur...
+
+0x51387987 = ~z~Arthur, you too!
+
+0x54906245 = ~z~Come on, you're moving como vieja!
+
+0x55349487 = ~z~I'm going as fast as I can.
+
+0x62140614 = ~z~I don't get your drift, mister, uh?
+
+0x84104066 = ~z~and the government will not allow peaceful protest...
+
+0xA02B315A = ~z~Who knows?
+
+0xA0E13872 = ~z~Unload on them, fellers!
+
+0xA2EFE568 = ~z~without taking a chance on a bunch of vagabonds.
+
+0xA4CA2C98 = ~z~Hercule Fontaine.
+
+0xA23D3CC9 = ~t~In Spanish: Calm down, you bastard! Hey, calm down!
+
+0xA47A678A = ~z~Nice island you got here.
+
+0xA97FD4C1 = ~z~That means move! You've got a long walk ahead of you.
+
+0xA335E710 = ~z~where the hell are we?
+
+0xA344B0A8 = ~z~Get outta here...
+
+0xA7317615 = ~z~I am not from here.
+
+0xAA5AFDB4 = ~z~these drowned rats are Micah, Bill and Arthur.
+
+0xAB09576D = ~z~Quickly...
+
+0xAC228143 = ~z~Leon wants the people to stand up to Fussar...
+
+0xAD304142 = ~z~Come on. Come on.
+
+0xAD848260 = ~z~Get some sleep, Dutch.
+
+0xAF21FFC8 = ~t~In Spanish: Get these men in chains.
+
+0xAFEF9EA1 = ~z~~sl:0.0:2.1~You gotta twist it, Bill!~sl:2.2~Jesus Christ, goddamn it!
+
+0xB1C5253B = ~t~In Spanish: Move! Come on!
+
+0xB2B8CF8E = ~z~Just hold on.
+
+0xB9D6DDCC = ~z~there's a lot of 'em.
+
+0xB262D5C9 = ~z~Who are these people?
+
+0xB942F3E0 = ~z~Come on, Arthur.
+
+0xB7939D26 = ~z~Thank you.
+
+0xB9481A42 = ~z~The sugar cane these poor men kill themselves farming...
+
+0xB6913765 = ~z~you're alive!
+
+0xBAF481F6 = ~z~It is a goddamn miracle!
+
+0xBB56955D = ~z~What are you doing...
+
+0xBC9A9D4C = ~z~You help us get back our friend...
+
+0xBF5BE599 = ~z~Dammit.
+
+0xBF8AC958 = ~z~Here, have something to drink.
+
+0xC0AB6B67 = ~z~I know, damn it.
+
+0xC3B52701 = ~t~~sl:0.0:1.8~In Spanish: Any nonsense from them...~sl:0.9~In Spanish: shoot them all.
+
+0xC3D94674 = ~z~~sl:0.0:1.3~Come on, Bill.~sl:2.2~Come on, you idiot!
+
+0xC6EF3BDD = ~z~It will lead you right there.
+
+0xC7CA79B3 = ~z~What you think?
+
+0xC8A5CAD5 = ~t~In Spanish: Don't make me hit you again!
+
+0xC56E0C3A = ~t~In French: Run, run.
+
+0xC87A73F8 = ~z~Aren't we all.
+
+0xC952C0A4 = ~z~The workers are somewhere in the jungle.
+
+0xC98831C0 = ~z~Is that so?
+
+0xC1392202 = ~t~Vamos.
+
+0xCAF8BEEF = ~z~but most are too afraid.
+
+0xCCAE2569 = ~z~
+
+0xCE6EBD99 = ~z~Javier asked a local.
+
+0xCE641E22 = ~z~Come.
+
+0xD1D26DE7 = ~z~It is a goddamn miracle.
+
+0xD2F9DE38 = ~z~before more come looking...
+
+0xD3A24A3B = ~z~Now Fussar's men are out hunting them down.
+
+0xD5CD240C = ~z~Hey! Hey, hey, hey! Leave him will you, you're gonna kill him!
+
+0xD6CA28E9 = ~z~Good work, Arthur.
+
+0xD6EBCF5F = ~z~It's a...
+
+0xD9D85260 = ~z~Who are you?
+
+0xD23BC3FF = ~z~Surviving.
+
+0xD69B6BF8 = ~z~~sl:1.2:2.0:1~Gotta get this done, Bill!
+
+0xD394A887 = ~z~We'll find you!
+
+0xD5854A9A = ~z~No, I'm in the habit of looking like this...
+
+0xDB910168 = ~z~You're alive.
+
+0xDCAABAAF = ~z~I have some guns stashed here.
+
+0xDD48A172 = ~z~reinforcements.
+
+0xDE9DE034 = ~z~
+
+0xDF0C9531 = ~z~Come on, push up on them!
+
+0xE4EF089F = ~z~~sl:1.6:0.0~Come on, crank it, Bill. Dammit!
+
+0xE64D05C0 = ~z~~sl:0.3:0.0~Turn it, turn it to the right, a la derecha. To the right.
+
+0xE65FEFB6 = ~z~hoping to find a way back to their homes.
+
+0xE82CCC18 = ~z~Insurrection? That's quite a word.
+
+0xE443EFDA = ~z~Micah, guard this spot.
+
+0xE823DC54 = ~z~Just about.
+
+0xE3586FAA = ~z~So, who is this Fussar?
+
+0xE487823D = ~z~Why is this taking so long?
+
+0xEA04781F = ~z~and then come meet me at the fort.
+
+0xEB2F4EAC = ~z~
+
+0xEBEB7766 = ~z~Is that so?
+
+0xEDB1BDD0 = ~t~~sl:0.0:0.7:1~In Spanish: Let's go!
+
+0xEDEA89CF = ~z~Of course.
+
+0xEE82CE0C = ~z~Well they got them chained and lashed, but they don't look too dangerous.
+
+0xEE307F4B = ~z~A group escaped yesterday into the jungle...
+
+0xEF6E7D8C = ~z~this is quite a welcome.
+
+0xEF8BD5C6 = ~z~Hold them back!
+
+0xEF6445A9 = ~t~In French: My God.
+
+0xF0084313 = ~z~follow me.
+
+0xF8C620A6 = ~z~I'll go scope the...
+
+0xF8F62B12 = ~z~Dale dale, dale dale. Let's go, let's go!
+
+0xF12D0550 = ~z~my men and I use that as a hideout when we are here.
+
+0xF41D8FEC = ~z~behind Colonel Fussar's back.
+
+0xF67C68B7 = ~z~In Spanish: Insurrection.
+
+0xF89810BF = ~z~We got enough troubles around here right now, Mr. O'Malley...
+
+0xF1170644 = ~z~Thank you.
+
+0xF1470224 = ~z~~sl:0.0:2.5~Not half as upsetting as it'll be for them.~lr:0.5~Mr. Fussar has a lot of very powerful friends.
+
+0xF2668654 = ~z~Second island east of Cuba.
+
+0xF4548830 = ~z~in the storm.
+
+0xFA24A243 = ~z~Hopefully we can get to them before Fussar does.
+
+0xFA982919 = ~t~In Spanish: Shit! Where is he? Does anybody have eyes on the shooter?
+
+0xFAD6F70B = ~z~Go!
+
+0xFBC3E1A5 = ~z~Don't lose faith, son!
+
+0xFDDE0137 = ~z~So who are these bastards?
+
+0xFE4E1B4B = ~z~We, are no one.
+
+0xFF36C8B3 = ~z~you're...
+

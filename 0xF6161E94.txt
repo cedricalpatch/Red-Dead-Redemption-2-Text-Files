@@ -1,0 +1,8 @@
+0x28A5B2D3 = Ask For Refund
+
+0x80FC4095 = Don't Buy
+
+0xA9E493BD = Talk
+
+0xF72A9996 = Buy ~1$~
+

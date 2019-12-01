@@ -1,0 +1,64 @@
+0x085D8ABD = ~t~In Spanish: It feels warmer...
+
+0x1D4A0CA7 = ~t~~sl:1.3:3.1~In Spanish: Oh, Jesus... I'm g-gonna freeze out here...
+
+0x2E83ED69 = ~t~~sl:0.6~In Spanish: I can't take this...
+
+0x3D0B103B = ~z~Hop on down, eh?
+
+0x4C771160 = ~z~Ooh, you're still warm...
+
+0x5A54F968 = ~z~Cold out here, eh?
+
+0x5C57FA77 = ~z~I was about ready to give up.
+
+0x5D3488CD = ~z~Well, I sure am glad that I ran into you...
+
+0x6CF05F0E = ~z~I-I don't reckon I'll make it otherwise...
+
+0x6F316390 = ~z~Pl-please, I'm begging you.
+
+0x8EC8DDED = ~z~Oh, thank you... you don't know what this means to me.
+
+0x9E7FCE55 = ~z~Take this. Please...
+
+0x11DEDE1F = ~z~~sl:0.0:1.3~What?~sl:0.3~You're-you're just going to leave me to die out here?
+
+0x18C2C1E7 = ~t~~sl:0.9~In Spanish: This d-damn cold.
+
+0x20D60173 = ~z~I'm going to die out here!
+
+0x85BF16E2 = ~t~In Spanish: Christ alive.
+
+0x331BA5FE = ~z~Please, I'm desperate!
+
+0x454A3484 = ~z~Wait, w-where's your horse?
+
+0x2835B146 = ~z~~sl:0.0:3.2~I-I've been out here for a day or... m-more now...~sl:~I'm going t-to freeze to death...
+
+0x51969ECA = ~z~There's no... no room for me...
+
+0x25725913 = ~z~~sl:0.0:2.6~C-can you give me a ride out of here?~sl:~Please... I can't-I can't feel my hands and feet.
+
+0x49082835 = ~z~Down off there... c'mon...
+
+0xA7C546D3 = ~t~In Spanish: I'm real t-tired...
+
+0xA114D43B = ~z~~sl:0.0:4.7~There are s-some, some houses e-east of here... a ranch, uh...~sl:~could you take me there?
+
+0xBE9B9C5B = ~z~Hey! Over-over here! I need help!
+
+0xC1E17B0B = ~z~The cold out here... it takes a man down fast.
+
+0xC5DA37E4 = ~t~In Spanish: I'll have you freezing soon enough.
+
+0xC60819C7 = ~z~~sl:1.1~Thank you. I-I don't think I'd have made it if you hadn't come along.
+
+0xCDC13AA6 = ~z~Hey! H-hey! Please help me!
+
+0xD4354C49 = ~z~I really appreciate this.
+
+0xDFFECB60 = ~z~I'm just going to take my chances.
+
+0xE7E2B08D = ~z~Hey... please, I'm stranded... my horse died on me and...
+

@@ -1,0 +1,24 @@
+0x0D233642 = You ok?
+
+0x2B6F7AEE = Colonel Favours
+
+0x3E3AACE1 = Go to ~o~Dutch~s~
+
+0x9ABF4079 = Go to ~o~Wapiti~s~
+
+0x18E42740 = Go back to ~o~Wapiti~s~
+
+0x68B7C520 = Loot the ~o~office~s~
+
+0x92D62B33 = Take out ~e~Colonel Favours~s~
+
+0x6512C7E4 = Take out the ~e~soldier~s~
+
+0xCCB5712C = Escape with ~o~Dutch~s~
+
+0xD7719B63 = Take out the ~e~Army~s~
+
+0xE746BBA8 = Eagle Flies?
+
+0xECD68231 = You failed to get to Wapiti.
+

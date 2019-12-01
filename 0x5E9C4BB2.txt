@@ -1,0 +1,86 @@
+0x07E9E937 = ~z~I said I ain't ready. Don't go and rile me afore I turn my meal.
+
+0x0BBA76C4 = ~z~
+
+0x0E8752C3 = ~z~I should hope they do.
+
+0x0EEF1ED9 = ~z~You all up to something nasty?
+
+0x1A3C3573 = ~z~There something bad happening here?
+
+0x3B06FCE4 = ~z~I will cut both your tongues out if you don't give it a rest.
+
+0x3E5D8391 = ~z~What are you looking at?
+
+0x6A5B1223 = ~z~You all interested in fair fights? Come on.
+
+0x6CD638FA = ~z~Can't get too riled up by no lunatic.
+
+0x7E98DC7F = ~z~It ain't madness, alright... I see things.
+
+0x8ACC49F5 = ~z~Whatever this is, it's gonna stop. Now.
+
+0x8CE97355 = ~z~What kind of perversion is this?
+
+0x9CA4F6B6 = ~z~I found you, you monsters.
+
+0x9E0A9566 = ~z~You're a simple man, from simple stock, and that's the end of it.
+
+0x17B63643 = ~z~What are you saying? That's old woman talk.
+
+0x18BACDC6 = ~z~Jesus, bad things happened here.
+
+0x29C15A59 = ~z~You talk like that I'll cut your tongue right outta your head.
+
+0x41DD2012 = ~z~It's a damn burial ground.
+
+0x61A9DFAB = ~z~Goddamn... the poor folk ya brought here.
+
+0x70EA3B42 = ~z~
+
+0x456EC095 = ~z~You really have to kill him?
+
+0x509AA80B = ~z~I'll look anywhere I goddamn please.
+
+0x520C0366 = ~z~Feller's just crazy, you see.
+
+0x620C4AEE = ~z~You keep looking, my eyes staring down at you will be the last thing you see.
+
+0x741DEF11 = ~z~There's a cloud over you, boy. Mark it, there's a shadow on you... you can't never break out.
+
+0x2059F668 = ~z~Tedious man was getting on my nerves.
+
+0x4841EFD2 = ~z~The black hand done touched you, it ain't never gonna let go.
+
+0x63279FBD = ~z~"Has God unfurled the veil of life and death, or do I lie in dream?"
+
+0x34788549 = ~z~That all of you? Sick bastards.
+
+0xA08E7579 = ~z~Someone got to stop you fellers.
+
+0xABC530DB = ~z~I told you not to rile me!
+
+0xAE053577 = ~z~Wake, sweet prince. The day is not yet started.
+
+0xBD3C0150 = ~z~Cut each other, kill each other, do whatever you damn well please.
+
+0xC4C8BF47 = ~z~Ah, crap... they know who they signed up with.
+
+0xD05AA78D = ~z~Just do it quietly, or I will deprive you... of your powers... of speech!
+
+0xD8951072 = ~z~You're marked too, Skinner...
+
+0xE9F4899E = ~z~You killing our boys is getting on my nerves!
+
+0xE354200C = ~z~I ain't ready for that horse crap.
+
+0xF934D1B9 = ~z~Just better hope he don't slit us open in our sleep.
+
+0xF1783FED = ~z~What in hell is going on here?
+
+0xF811497A = ~z~Aesthetic sensibilities ain't gonna come around with your 'pork and beans.'
+
+0xFAFD4F5E = ~z~"And does the mighty world of sleep spread far around its circles?"
+
+0xFBBE2D31 = ~z~Death is but a slumber, boy.
+

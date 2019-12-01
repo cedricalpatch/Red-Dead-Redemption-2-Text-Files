@@ -1,0 +1,18 @@
+0x1FC7705A = ~z~You're not a nice man, Mr. Pearson.
+
+0x83AD3828 = ~z~Five cents... how generous of you.
+
+0x582D6125 = ~z~Well go on then, put it in.
+
+0x926F55AC = ~z~Go on!
+
+0x1205D4D7 = ~z~
+
+0x77029ED3 = ~z~No... I was putting money in. How dare you, Mr. Pearson?
+
+0xAF4B8F64 = ~z~You better not be stealing from the collection box again, Reverend.
+
+0xCB0346D3 = ~z~You.
+
+0xD8C8E25E = ~z~Steal? Stealing, me?
+

@@ -1,0 +1,4 @@
+0x19F7EF3D = Talk
+
+0xA860ED19 = Give ~1$~
+

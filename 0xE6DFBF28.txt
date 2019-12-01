@@ -1,0 +1,218 @@
+0x028185FF = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0x0607A07C = Destroy the boat
+
+0x0868BFBE = ~1~ triggered a rival mission against ~2~. Destroy the boats ~3b~ to gain the full reward.
+
+0x09049F1F = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~
+
+0x099A8D4C = Boats destroyed
+
+0x0A7D5ADD = ~1~ destroyed a boat
+
+0x0A38AC33 = Canoes destroyed
+
+0x1BAABF2B = Canoe delivered
+
+0x1D995AD3 = Boat delivered by enemies
+
+0x1E210662 = Boat destroyed
+
+0x1FA94F8D = Steal the canoe and deliver it to the drop off within the time limit to earn the full reward.
+
+0x2C97C6BE = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~
+
+0x3ACB2769 = Steal the canoes and deliver them to the drop off within the time limit to earn the full reward.
+
+0x5B41615E = Canoe destroyed by rival Posse
+
+0x5C476A9B = Deliver the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats~s~ to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0x5EE65497 = Stop the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~ robbery
+
+0x5F0FF315 = ~1~ delivered a canoe
+
+0x5F8638C1 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats~s~
+
+0x6B3D6047 = ~1~ destroyed a canoe
+
+0x6CA47046 = You delivered a boat
+
+0x6D6B0041 = Recover the ~COLOR_ENEMY~boat~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x6DDFFD9C = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~canoe~s~ on the way ~1~
+
+0x6DECB5AC = Boats destroyed
+
+0x6E07B0DB = Canoes delivered
+
+0x7ABDE47F = Boat delivered
+
+0x7D49F50D = Deliver the ~COLOR_MP_OBJECTIVE~canoes~s~ to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0x7F46AB2A = Boat destroyed
+
+0x8CAFAE11 = You destroyed a ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0x8E5EC620 = ~COLOR_ENEMY~~1~~s~ is attacking a boat
+
+0x8FC0FE2C = Canoe destroyed
+
+0x9DD36442 = Your Posse delivered a canoe
+
+0x11D5B270 = A canoe has been delivered
+
+0x13A5314F = Boats delivered by enemies
+
+0x16CB6C65 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoes~s~
+
+0x22F5B337 = You destroyed a boat
+
+0x26ED0963 = Your Posse destroyed a boat
+
+0x37AC46E6 = ~COLOR_ENEMY~Rival players~s~ can attack the canoes
+
+0x38C8AE95 = Canoe destroyed
+
+0x42BB9498 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~
+
+0x54B37DE3 = ~COLOR_ENEMY~Rival players~s~ can attack the canoe
+
+0x56CD5BA8 = ~COLOR_ENEMY~~1~~s~ is attacking the canoe
+
+0x62DAA82C = A canoe has been destroyed
+
+0x84B52BA7 = Deliver the boat to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0x84DA4E42 = ~1~/~2~ canoes delivered
+
+0x85FF13D9 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0x87DFABA0 = ~COLOR_ENEMY~~1~~s~ is attacking a canoe
+
+0x426AC6E6 = Deliver the boat ~1~
+
+0x469D9767 = Canoe delivered by enemies
+
+0x614A87AA = A boat has been delivered
+
+0x625E9F8A = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~boat~s~ on the way ~1~
+
+0x678DB58D = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~boats~s~ on the way ~1~
+
+0x710C474F = Deliver the canoe ~1~
+
+0x791AF91E = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats~s~
+
+0x969DCD61 = ~COLOR_ENEMY~Rival players~s~ can attack the boat
+
+0x1117E73F = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~canoes~s~ on the way ~1~
+
+0x4871F4C4 = You destroyed a canoe
+
+0x5924C83D = Steal the boats and deliver them to the drop off within the time limit to earn the full reward.
+
+0x8221C318 = Boats destroyed
+
+0x8434D3E8 = Your Posse delivered a boat
+
+0x8967DD9E = Boat destroyed
+
+0x9891FEF0 = You triggered a rival mission against ~1~. Destroy the boat ~2b~ to gain the full reward.
+
+0x19831AE6 = Destroy the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0x49631FE1 = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~canoe~s~
+
+0x64489B78 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~boats~s~
+
+0x71646DBB = Boats destroyed by rival Posse
+
+0x72223C80 = Steal the boat and deliver it to the drop off within the time limit to earn the full reward.
+
+0x76895B21 = ~1~ triggered a rival mission against ~2~. Destroy the canoes ~3b~ to gain the full reward.
+
+0x86358E60 = ~1~/~2~ boats destroyed
+
+0x87798E23 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~ has been destroyed
+
+0x827080F8 = ~COLOR_ENEMY~~1~~s~ is attacking the boat
+
+0x921686E0 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes~s~
+
+0x939057F9 = Steal the boat
+
+0x5123042C = Deliver the canoe to the ~COLOR_MP_OBJECTIVE~drop off~s~
+
+0x7906514F = ~1~ delivered a boat
+
+0x49034283 = Destroy the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes~s~
+
+0xA39E3F12 = Canoes destroyed
+
+0xA6754BD6 = ~1~/~2~ canoes destroyed
+
+0xAC3A9562 = Boats delivered
+
+0xADCBA35D = Canoe destroyed
+
+0xAFF52F75 = You triggered a rival mission against ~1~. Destroy the boats ~2b~ to gain the full reward.
+
+0xB6C0B45F = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes~s~
+
+0xB41E1123 = Your Posse destroyed a canoe
+
+0xBB1FC960 = A boat has been destroyed
+
+0xBE67D8A7 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes~s~
+
+0xBE216245 = ~1~ triggered a rival mission against ~2~. Destroy the boat ~3b~ to gain the full reward.
+
+0xBF6F4143 = Destroy the boats
+
+0xBF527322 = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoes~s~
+
+0xC018BCE9 = You triggered a rival mission against ~1~. Destroy the canoe ~2b~ to gain the full reward.
+
+0xC7BF30EA = Canoes destroyed
+
+0xC178EA2D = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boat~s~
+
+0xCCB32B1E = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0xCF04AEA5 = ~1~/~2~ boats delivered
+
+0xCF4B6062 = Canoes destroyed by rival Posse
+
+0xCF5B82A4 = ~COLOR_ENEMY~Rival players~s~ can attack the boats
+
+0xD7C3F4EC = Boat destroyed
+
+0xD84F63BE = ~1~ triggered a rival mission against ~2~. Destroy the canoe ~3b~ to gain the full reward.
+
+0xD83519DC = Steal the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~
+
+0xD725347C = Destroy the ~COLOR_MP_OBJECTIVE_ENEMY~boats~s~
+
+0xE9C16FEC = You delivered a canoe
+
+0xE626541F = Steal the boats
+
+0xEBD970F6 = Steal the ~COLOR_ENEMY~canoe~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xEE8A8E34 = Stop the ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~ robbery
+
+0xF02C6080 = Go ~1~
+
+0xF07E736B = Boat destroyed by rival Posse
+
+0xF36846AE = Go ~1~
+
+0xF46185AA = You destroyed a ~COLOR_MP_OBJECTIVE_NEUTRAL~boat~s~
+
+0xF646919C = Canoes delivered by enemies
+
+0xFA10B8E6 = A ~COLOR_MP_OBJECTIVE_NEUTRAL~canoe~s~ has been destroyed
+
+0xFB43EF97 = You triggered a rival mission against ~1~. Destroy the canoes ~2b~ to gain the full reward.
+

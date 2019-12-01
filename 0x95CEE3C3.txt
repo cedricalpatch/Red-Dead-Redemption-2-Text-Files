@@ -1,0 +1,1232 @@
+0x0022A9C5 = ~z~Buy another drink here, bartender.
+
+0x00441CB7 = ~z~Whose cousin?
+
+0x011FBDD6 = ~z~Calm down, who cares?
+
+0x01BFE907 = ~z~I'm nobody, buddy.
+
+0x021A5065 = ~z~and then if they get uppity, shoot 'em?
+
+0x02B83B16 = ~z~Any good anecdotes?
+
+0x02C37F77 = ~z~Then I saved you from drowning too.
+
+0x02D370C0 = ~z~Won't have that here, sir.
+
+0x02E1DCD6 = ~z~a couple of days.
+
+0x033BC8DD = ~z~I thought that was sort of what you wanted.
+
+0x0387DD42 = ~z~Mhm.
+
+0x03AA75FE = ~z~Shit indeed.
+
+0x047585CB = ~z~Theodore Levin...
+
+0x048DE79F = ~z~Well what are you waiting for?
+
+0x04BA7593 = ~z~I need a favor, Mr. Grant.
+
+0x052F870C = ~z~You fellers don't happen to have a State Marshall here do you?
+
+0x0614C1CF = ~z~From the old days.
+
+0x061FE403 = ~z~ask if he was the greatest...
+
+0x06459740 = ~z~Hey! I knew someone would come for Grant!
+
+0x065BEF37 = ~z~do you think anyone would mind if I...
+
+0x06EF05AF = ~z~but maybe you need to prove something to you.
+
+0x0732CAEC = ~z~I think so...
+
+0x0799CBB6 = ~z~scum like you, and you, Plato.
+
+0x07A256A4 = ~z~well...
+
+0x08010142 = ~z~Sorry about my friend... I'd make a loud noise to wake him, only my friend here might mistake it for gunfire and shoot me.
+
+0x084EF6E5 = ~z~You're here... but... where's Mr. Grant?
+
+0x08A85F6C = ~z~You can follow me.
+
+0x0A6024DC = ~z~You're here... but... where's Mr. Grant?
+
+0x0B046D04 = ~z~I'll see what I can do.
+
+0x0B1D682E = ~z~It's win-win, freedom or glory.
+
+0x0B58F401 = ~z~Once upon a time...
+
+0x0B83D4F2 = ~z~I shot him in the goddamned back!
+
+0x0B97C849 = ~z~So playing nurse maids about the only choice we got left.
+
+0x0C8DDDEF = ~z~You might as well relax.
+
+0x0D2B32A4 = ~z~The Jim 'Boy' Calloway.
+
+0x0DA409F5 = ~z~Would you stop being so damn cryptic?
+
+0x0E8B7D4E = ~z~you're a snake...
+
+0x0F01E4BB = ~z~This book...
+
+0x0FC4161F = ~z~Yes, indeed son.
+
+0x1A6CD108 = ~z~I think so...
+
+0x1A46A5CD = ~z~Excuse this one, he finds my company so dull he drinks himself into oblivion whenever I try and ask him a question.
+
+0x1AAB7341 = ~z~Come on, fight me...
+
+0x1B6F7BB2 = ~z~I need a favor, Mr. Grant... it's really nothing... I'll explain while we ride...
+
+0x1CE30BB9 = ~z~The joys of gunslinging.
+
+0x1D3B1FFD = ~z~Who's this grass snake?
+
+0x1D9B1254 = ~z~went missing, possibly dead...
+
+0x1DB97709 = ~z~Well, I think that settles that then.
+
+0x1DE46CE2 = ~z~None of us wants to kill us a marshall, and non of us wants to let one go neither.
+
+0x1E1AE970 = ~z~Fight me.
+
+0x1E407C4A = ~z~You all got the Marshall Slim Grant there? I need to borrow him a while.
+
+0x1E6572A4 = ~z~Sure.
+
+0x1F636B3E = ~z~Who's your friend there?
+
+0x1FFBA02E = ~z~Damn you, Theodore Levin...
+
+0x2A6C115E = ~z~Yes.
+
+0x2A972721 = ~z~I'm going to write that down...
+
+0x2B6DC817 = ~z~I'm afraid he's gone way past in vino veritas... into the realm of in vino stupefaction.
+
+0x2B28AD84 = ~z~Last I heard they was in Saint Denis. Had rooms on a River Boat there.
+
+0x2B749D9C = ~z~I don't think so.
+
+0x2B461442 = ~z~What's your name son?
+
+0x2BA728D9 = ~z~if I may?
+
+0x2BB237D4 = ~z~There's always folks out there...
+
+0x2BCF6C95 = ~z~The tree, over here.
+
+0x2C3BCCC8 = ~z~Alright... least you're paying.
+
+0x2CAF269E = ~z~I'll see what I can find out.
+
+0x2D55555E = ~z~Y-you kill I mean.
+
+0x2E01F832 = ~z~My cousin.
+
+0x2E0C3C80 = ~z~Sorry I shot him...
+
+0x2E88F9FE = ~z~
+
+0x2E199B06 = ~z~I'm guessing you're Slim Grant?
+
+0x2E77395A = ~z~~sl:0.6~He passed out... of course he passed out.
+
+0x2F070F27 = ~z~I'm getting real tired of playing nurse maid to this marshal.
+
+0x3AD79F2E = ~z~Same as always.
+
+0x3B5D4DD8 = ~z~at the hands of a bunch of violent wanted men...
+
+0x3B39BAC4 = ~z~But you had been friends back in '73. You rode the Alabaster Trail together.
+
+0x3B90D9A0 = ~z~literature is a filthy business...
+
+0x3BF5BD56 = ~z~Legends, every last one.
+
+0x3C1FF2F3 = ~z~Now come on, who shall we kill?
+
+0x3C212DBE = ~z~Drunk Boy Calloway... this bar's got bullet marks to remember him by.
+
+0x3C281099 = ~z~Look, I don't meant to be rude, but I really should make some progress on this section...
+
+0x3CEF13C0 = ~z~You got Slim Grant? I'm gonna need to take him, fellers.
+
+0x3D1E3826 = ~z~Well, these things happen.
+
+0x3D7752B1 = ~z~shoot 'em.
+
+0x3D55920F = ~z~Is that right? Okay then.
+
+0x3DB03EFD = ~z~You still writing that book?
+
+0x3DD66CE8 = ~z~Oh brother, the problem with the truth is you can't make it up... do you mind if I make it all up, Mr. Calloway?
+
+0x3DE1B755 = ~z~now he's dead.
+
+0x3DFAF6A5 = ~z~Ah, damn, I slayed my dragons years ago.
+
+0x3F7C3DCB = ~z~State Marshall Slim Grant...
+
+0x4A846D86 = ~z~Is he coming back?
+
+0x4AE8FB58 = ~z~You know...
+
+0x4BBC1457 = ~z~About how you'd expect.
+
+0x4BFB8587 = ~z~after he...
+
+0x4C435AEB = ~z~About how you'd expect.
+
+0x4E8B953B = ~z~You might as well relax.
+
+0x4EAE4E90 = ~z~Whatever you say.
+
+0x4F2DFECB = ~z~and then re-write history.
+
+0x4F6EDA73 = ~z~These things happen.
+
+0x4F44F64C = ~z~Any of 'em get uppity...
+
+0x4FCAEBC9 = ~z~ask if he was the greatest...
+
+0x4FD3DD5D = ~z~I will prosecute you for this, you insubordinate bastard.
+
+0x5AC5940D = ~z~How's that going?
+
+0x5AEF9611 = ~z~Quite a way with words.
+
+0x5BA5E0CA = ~z~Just a lot of bunk, Plato, it's just a lot of bunk.
+
+0x5BF254C0 = ~z~Untie me, I'll help!
+
+0x5C146DA4 = ~z~Saint Denis, on a riverboat? Oh, okay then.
+
+0x5CC42718 = ~z~Yes, that's it.
+
+0x5E99029C = ~z~Billy Midnight...
+
+0x5EBA1BFE = ~z~to be honest...
+
+0x5FC37C0C = ~z~No.
+
+0x6BD5BED9 = ~z~Would you stop being so damn cryptic?
+
+0x6BDF9B5F = ~z~give a list of old gunslingers you wanted looked up, and...
+
+0x6BF1B060 = ~z~I'm looking for Slim Grant...
+
+0x6C031F58 = ~z~Not really.
+
+0x6C6EA9EE = ~z~Shit indeed.
+
+0x6CACB98B = ~z~so you can't be me.
+
+0x6DA848E0 = ~z~he did...
+
+0x6DF6D8CC = ~z~I kind of like that feller...
+
+0x6E9DB88D = ~z~~sl:0.0:2.7~That man might be the answer to our problems...~sl:~well, my problems.
+
+0x6E928A4A = ~z~No you weren't...
+
+0x6EAB4E46 = ~z~Yeah, he was pretty wild...
+
+0x6ECE1317 = ~z~Hey, I'm looking for some fellers sojourned around here.
+
+0x6F8F10FB = ~z~Sure.
+
+0x7A3ABBC7 = ~z~What's your name?
+
+0x7A5A5BE2 = ~z~I'm telling you all I can. It's a job. Someone wants to see you, I'm taking you to 'em.
+
+0x7AA8D3D3 = ~z~The joys of gunslinging.
+
+0x7AF646FD = ~z~an ending to your book.
+
+0x7BB65A7A = ~z~This never happened to Achilles...
+
+0x7BD3E510 = ~z~Thank God you came, son.
+
+0x7C30F540 = ~z~You know what...
+
+0x7CF27054 = ~z~Alright, I'll go get him.
+
+0x7D04EAF9 = ~z~instead of being in one.
+
+0x7E5B931D = ~z~Is that right? Okay then.
+
+0x7E9C7B47 = ~z~Now, l-let's not.
+
+0x7F13E0A5 = ~z~Especially when you lie.
+
+0x8A2DF4C2 = ~z~and I know some wild people.
+
+0x8A23B136 = ~z~What the hell?
+
+0x8B0347E3 = ~z~My friend with no name...
+
+0x8B1DDBA5 = ~z~Never heard of 'em.
+
+0x8B2F9FBD = ~z~an old friend of Mr. Calloway's.
+
+0x8B5D07A9 = ~z~He was...
+
+0x8B14434D = ~z~if you'd shown up.
+
+0x8BF85F42 = ~z~I don't have a name.
+
+0x8BFB0E65 = ~z~Now come on, who shall we kill?
+
+0x8C0FD3B0 = ~z~You should have shot him twenty years ago...
+
+0x8C196943 = ~z~at least now you got a...
+
+0x8CF197F1 = ~z~and we should kill Plato here...
+
+0x8D045791 = ~z~Whatever you say.
+
+0x8D632BBC = ~z~State Marshal Grant!
+
+0x8EBF0C5D = ~z~Oh hey...
+
+0x8F78E45B = ~z~Maybe you can go and speak to them...
+
+0x8F6264F2 = ~z~This is real peculiar. I'm state marshal, you know.
+
+0x8F6275E1 = ~z~If your boss' boss, who you all hated...
+
+0x8F13110A = ~z~You fellers don't happen to have a State Marshall here do you?
+
+0x8FFD7877 = ~z~Good luck with those dreams.
+
+0x9A1AAAA4 = ~z~You're a mess.
+
+0x9A1F324C = ~z~Maybe you should write my book...
+
+0x9AB94BD8 = ~z~Look at those portraits I gave you. I made notes on the backs...
+
+0x9AD0244F = ~z~you got an ending to your book.
+
+0x9B204736 = ~z~This is it. Down here. It's almost over, Marshal Grant.
+
+0x9BDCC5F6 = ~z~This all seems... I don't know... you sure you know what you're asking for?
+
+0x9C038B00 = ~z~I wanna deify him.
+
+0x9C61E5FC = ~z~But I don't care now...
+
+0x9C581BB9 = ~z~Hey, I'm already damned.
+
+0x9CC29AB5 = ~z~Good luck! I'm counting on you.
+
+0x9D5A1D2D = ~z~just as long as...
+
+0x9D109FA2 = ~z~Have you been being me?
+
+0x9D7632BF = ~z~Quite a way with words.
+
+0x9E157FCA = ~z~an old friend of mine asked me to...
+
+0x9EC4CDA3 = ~z~Okay, well... soon as you can.
+
+0x9ED54708 = ~z~He's state marshal now out of Annesburg.
+
+0x9F0F0F32 = ~z~Aw don't you start now...
+
+0x9F1BA558 = ~z~Son, what the hell are you up to?
+
+0x9F4D7A2B = ~z~No.
+
+0x9F840D21 = ~z~This the riverboat they're staying on?
+
+0x10E674C8 = ~z~Either I'd kill him...
+
+0x13DB3CAD = ~z~Hey, over here!
+
+0x13DB58D3 = ~z~I'm a state marshal and this is an abduction.
+
+0x14ED0A4A = ~z~that'll shoot you in the back...
+
+0x15CD12C9 = ~z~Well, that's a good argument for keeping that rope around your wrists.
+
+0x16CC1E94 = ~z~It is something to behold, a proud lion in his twilight.
+
+0x16EAFBF1 = ~z~Round this time, Mister Calloway's usually enjoying a drink on the observation deck.
+
+0x17E56570 = ~z~Well...
+
+0x18C16E05 = ~z~Come on, draw.
+
+0x18E28988 = ~z~ask 'em about Calloway.
+
+0x19A629B9 = ~z~otherwise this won't be a book, it'll be a memorial.
+
+0x22B572DE = ~z~State Marshall Slim Grant...
+
+0x22BCB358 = ~z~I do hope you can help us.
+
+0x22BDAAFE = ~z~Not so goddamn fast.
+
+0x22F15E30 = ~z~Who?
+
+0x25A000BC = ~z~Boy Calloway and a writer called Levin?
+
+0x25AF90CA = ~z~there's a whole list of gun fighters.
+
+0x26B21101 = ~z~Wh-who are you?
+
+0x27D0B7C9 = ~z~Yeah, I know. Just sit tight. All will be revealed.
+
+0x30D9ED36 = ~z~If there's anything else I can do... let me know.
+
+0x31E84407 = ~z~D-damn you, nobody.
+
+0x32B46477 = ~z~Okay... let's get you out of here.
+
+0x35AD49DD = ~z~you kill him yourself.
+
+0x36A8DC22 = ~z~Well, that's a good argument for keeping that rope around your wrists.
+
+0x37A4CF7C = ~z~but trust me it ain't nothing I wanna be...
+
+0x38BFEE5F = ~z~right?
+
+0x38EF4911 = ~z~Drunk Boy Calloway... this bar's got bullet marks to remember him by.
+
+0x39E1E228 = ~z~Send it to Jim Milton...
+
+0x40ED64E9 = ~z~I'm will kill both of you!
+
+0x41B5E0BA = ~z~I may have.
+
+0x41FA7A8B = ~z~Okay... let's get you outta here.
+
+0x46C664BF = ~z~Boy Calloway and a writer called Levin?
+
+0x51C483F0 = ~z~Well...
+
+0x52E663B6 = ~z~Well, that settles that then.
+
+0x52F963E0 = ~z~Now calm down... who cares?
+
+0x55CD88DD = ~z~If you're quick, you might catch him sober.
+
+0x55DBA00B = ~z~Find out what you can, or... or generate some interest in great gunslingers of yore.
+
+0x57E1CC97 = ~z~Never been so disrespected.
+
+0x59EB04E7 = ~z~Still...
+
+0x59FDB0DA = ~z~Sure.
+
+0x60CCD9E2 = ~z~Go right ahead.
+
+0x60DB2040 = ~z~things went a little differently.
+
+0x61BB9B39 = ~z~How much you paying?
+
+0x62AFA55F = ~z~Cut me loose.
+
+0x62E61CE9 = ~z~yeah, probably, because I'm a fool.
+
+0x64BBE5A5 = ~z~So you got him?
+
+0x65A45A3A = ~z~Who's your friend there?
+
+0x65AA6828 = ~z~Just wait until I reach State capital.
+
+0x65C71900 = ~z~Apparently not.
+
+0x67A2A576 = ~z~It is something to behold, a proud lion in his twilight.
+
+0x67C31BB9 = ~z~You want me...
+
+0x67DC8DA6 = ~z~goddamn both of you!
+
+0x69A2B458 = ~z~I was... before you got so short with me.
+
+0x69C8F06D = ~z~You're fine how you are.
+
+0x70C87644 = ~z~If you fellers got the State Marshall here, I'm gonna be taking him.
+
+0x70F69320 = ~z~Not for you it won't be.
+
+0x72D21FCF = ~z~I'm guessing you're Slim Grant?
+
+0x74A26118 = ~z~No, of course you don't, but...
+
+0x74CB2F00 = ~z~Black Belle.
+
+0x77CD4E90 = ~z~Well, I'd, err...
+
+0x77F0A66F = ~z~Is he coming back?
+
+0x78E848CA = ~z~I'll see what I can find out.
+
+0x79F45662 = ~z~Boy Calloway.
+
+0x80C1589F = ~z~What and you ain't gonna go look for him?
+
+0x81A0496E = ~z~Yeah, I know. Just sit tight. All will be revealed.
+
+0x83ACB875 = ~z~No, but...
+
+0x83BBDFF4 = ~z~You...
+
+0x83FD4AD6 = ~z~You alright there? ~rp~This here is the famous Grand Korrigan.
+
+0x84C06BFA = ~z~Sure, I don't care...
+
+0x86ACD40B = ~z~I may have.
+
+0x87DA6CF6 = ~z~You can follow me.
+
+0x89B740A7 = ~z~it's nigh on twenty years ago...
+
+0x90D21C56 = ~z~he killed my cousin.
+
+0x91A32158 = ~z~b-but maybe you need to prove something to you.
+
+0x92A78290 = ~z~This the riverboat they're staying on?
+
+0x92D7228C = ~z~otherwise this won't be a book, it'll be a memorial.
+
+0x93FE24DE = ~z~We'll wait for you at Brandywine Drop.
+
+0x95A13845 = ~z~Follow me please.
+
+0x95BC722A = ~z~Strange...
+
+0x95DB5CD2 = ~z~No one's come for the cantankerous old bastard yet, has they?
+
+0x96DFC19C = ~z~Well, then I saved you from drowning too.
+
+0x97DE92CA = ~z~thems as I didn't, I...
+
+0x98E93B30 = ~z~He ain't no friend of mine.
+
+0x98E30987 = ~z~sad, deluded fools like him...
+
+0x109ED717 = ~z~you found us.
+
+0x117CBF28 = ~z~You shot Ged Calloway.
+
+0x137E3BEC = ~z~They seen you!
+
+0x138E7A08 = ~z~kill him yourself.
+
+0x150E17FB = ~z~Look, I don't meant to be rude, but I really should make some progress on this section...
+
+0x151F6CA4 = ~z~Anecdotes?
+
+0x204A5D81 = ~z~
+
+0x218C0F4C = ~z~to go find some sad, deluded folks like him...
+
+0x253D56C8 = ~z~Okay... let's get you out of here.
+
+0x304FACD3 = ~z~How much you paying?
+
+0x331B4945 = ~z~Sir, calm down.
+
+0x347C05CC = ~z~Damn you.
+
+0x422F5B59 = ~z~Well, a lot.
+
+0x428FCA8A = ~z~Flaco Hernandez...
+
+0x436EE714 = ~z~damn you.
+
+0x443D11D9 = ~z~Alright, I'll go get him.
+
+0x445A07C2 = ~z~Yes, indeed son.
+
+0x447AF9E2 = ~z~I can finally go back to writing westerns...
+
+0x462BDD69 = ~z~Shit...
+
+0x462F41DA = ~z~Last I heard they was in Saint Denis. Had rooms on a River Boat there.
+
+0x468EFAAA = ~z~fair and square.
+
+0x484C1CF8 = ~z~Ha! Put that in your fucking book, Plato!
+
+0x485C0728 = ~z~Where's Slim Grant?
+
+0x491A3BB3 = ~z~Ancient history, done and dusted. The dead got off lucky, the living gotta keep suffering.
+
+0x500F3782 = ~z~I was going to look them up myself but... but you're a better man for the job.
+
+0x528C1608 = ~z~I'm free...
+
+0x544C878F = ~z~I did shoot a lot of people, I...
+
+0x549F358B = ~z~Yes, indeed son.
+
+0x589A3A93 = ~z~Great.
+
+0x591ADBB4 = ~z~It's not bunk, Mr. Calloway, sir. It's history.
+
+0x625B3C8A = ~z~well let's prove it one more time.
+
+0x630FB75A = ~z~Mr. Calloway... Mr. Calloway... is anyone in there?
+
+0x639E2E43 = ~z~Now, you going to tell me what the hell is going on here?
+
+0x660EAB13 = ~z~I thought that was sort of what you wanted.
+
+0x662E0204 = ~z~Oh, my friend with no name...
+
+0x676C2F3F = ~z~Aw don't you start now...
+
+0x747CC8F9 = ~z~Untie me.
+
+0x747CCE7B = ~z~Great...
+
+0x750C25A9 = ~z~Why?
+
+0x754D55B6 = ~z~Stop it!
+
+0x763CC9BB = ~z~Round this time, Mister Calloway's usually enjoying a drink on the observation deck.
+
+0x766F2ACB = ~z~Goddamn you...
+
+0x816A2FF9 = ~z~I was there.
+
+0x847C15FB = ~z~Come on, then.
+
+0x849A435F = ~z~State Marshall Slim Grant...
+
+0x853A63D1 = ~z~Good luck with those dreams.
+
+0x862D42E8 = ~z~Sure, when he catches them fellers he's been after.
+
+0x868B7024 = ~z~It can't happen to me.
+
+0x943EF697 = ~z~Yes, sir. They're here.
+
+0x997E91F2 = ~z~yes, that'll be fine.
+
+0x999C1F09 = ~z~We're waiting on you... and Grant of course.
+
+0x1496F55E = ~z~Okay.
+
+0x2595FC48 = ~z~~sl:0.2~Horse shit. I'm saving you. This is just a little... detour, on the way to liberty.
+
+0x2633A4E5 = ~z~Think of that.
+
+0x2674B802 = ~z~Don't do that.
+
+0x2762AD48 = ~z~I reckon, right now...
+
+0x3085CCFA = ~z~Our friend is uncharacteristically sober, so... tick tock.
+
+0x3761FFBF = ~z~Yeah, yeah.
+
+0x3877C2E2 = ~z~That's brilliant.
+
+0x4241A157 = ~z~
+
+0x4376E755 = ~z~more or less, I guess...
+
+0x4498C71B = ~z~I shot him in the back...
+
+0x4946F2C0 = ~z~well, I don't know what the goddamn you are...
+
+0x4978D742 = ~z~Funny thing about pig's penises: they're curly, like their tails.
+
+0x5990F0D7 = ~z~I ain't got no name, and I ain't your son. Sit tight, I'll take you to your friend, then this will all be over.
+
+0x7542DBC0 = ~z~Do you think another drink rouse him? Or would it put him out for good? It might be worth the gamble.
+
+0x7978BF24 = ~z~Never heard of 'em.
+
+0x8039EE03 = ~z~mortally wounded Slim Grant...
+
+0x8287D142 = ~z~I need money, sure...
+
+0x9510D64C = ~z~So you got him?
+
+0x9573D373 = ~z~You're fine how you are.
+
+0x9598EE0D = ~z~This is the Grand Korrigan Riverboat, Queen of the Lannahechee.
+
+0x9637D5E9 = ~z~I don't give a pig's penis about the Newton Twins!
+
+0x9981A3F2 = ~z~and I know some wild people.
+
+0x46487A6F = ~z~while our friend here sleeps.
+
+0x48482CBE = ~z~Did you kill his cousin, back in '82?
+
+0x52873D57 = ~z~while our friend here sleeps.
+
+0x54585E55 = ~z~Anecdotes?
+
+0x68528D69 = ~z~Can I help you sir?
+
+0x68656DBA = ~z~The outlaws treated me better.
+
+0x73575D1E = ~z~Just sober up and start practicing...
+
+0x75415ED6 = ~z~This all seems... I don't know... you sure you know what you're asking for?
+
+0x91801CF2 = ~z~I almost drowned.
+
+0x97730C2F = ~z~Be my guest.
+
+0x123382EA = ~z~Well...
+
+0x483004B4 = ~z~I know I won't get anything out of this one, anything coherent at least...
+
+0x586506FB = ~z~Something like that.
+
+0x691730B0 = ~z~Well, you're starting to understand something very important.
+
+0x761028E4 = ~z~You need something?
+
+0x877586BE = ~z~I'm nobody, buddy.
+
+0x983709C2 = ~z~Uh...
+
+0x1376004A = ~z~yeah, probably would, because I'm a fool.
+
+0x1852110C = ~z~Yeah, that's it.
+
+0x2883936C = ~z~they been looked up.
+
+0x3894338D = ~z~a lot of people got shot...
+
+0x5107048C = ~z~Of course I will...
+
+0x5629834D = ~z~And there are notes on the back...
+
+0x6148746E = ~z~you returned.
+
+0x6445063F = ~z~There you go again, Mr. Grant. Ain't doing yourself no favors.
+
+0x7056432A = ~z~but sometimes it pays well.
+
+0x8790764E = ~z~What if I don't want to see them?
+
+0x9506763F = ~z~Don't think so.
+
+0x9553682F = ~z~Not for you it won't be.
+
+0x11459018 = ~z~Well...
+
+0x12656281 = ~z~Horse shit. I'm saving you. This is just a... little detour on the way to liberty.
+
+0x21651455 = ~z~Be my guest.
+
+0x25043795 = ~z~Last of the gunslingers.
+
+0x50169801 = ~z~Alright, alright...
+
+0x58399381 = ~z~nor Caesar.
+
+0x61528957 = ~z~And you ain't interested in fame?
+
+0x61798557 = ~z~Yeah!
+
+0x64056322 = ~z~You must be Slim Grant?
+
+0x65515628 = ~z~I wouldn't drink here though. Get on to Saint Denis and have you some Sazerac.
+
+0x71819991 = ~z~looking for some outlaws.
+
+0x72869629 = ~z~But nothing. Eat your beans.
+
+0x84918601 = ~z~Yeah, whatever you say...
+
+0x86380952 = ~z~Alright, just sober up and start practicing...
+
+0x91690913 = ~z~Marshal Grant's coming just... give me a moment.
+
+0x98089077 = ~z~Yeah, he was pretty wild...
+
+0xA003BAB9 = ~z~Well, I always hated Slim Grant...
+
+0xA0588762 = ~z~I need money, sure...
+
+0xA1D2320B = ~z~and no, that ain't my real name.
+
+0xA2C50929 = ~z~which is probably the problem.
+
+0xA2DEDD20 = ~z~Look at those portraits I gave you. I made notes on the backs...
+
+0xA3C00DC9 = ~z~I am a little desperate.
+
+0xA3EBB566 = ~z~in the back...
+
+0xA4F5225E = ~z~I'll be a hero riding a horse from town to town, mister.
+
+0xA5C8D4F3 = ~z~State marshal?
+
+0xA6F37F01 = ~z~I will prosecute you for this, you insubordinate bastard.
+
+0xA7B38085 = ~z~There you go again, Mr. Grant. Ain't doing yourself no favors.
+
+0xA7CDACDC = ~z~Yes, sir. They're here.
+
+0xA9E93AD8 = ~z~I was... before you got so short with me.
+
+0xA34A8DE6 = ~z~bunk.
+
+0xA59DA884 = ~z~I don't have a name.
+
+0xA60AF13A = ~z~Get them! Get them!
+
+0xA77F4D0C = ~z~You've got quite a way with the words.
+
+0xA80D3293 = ~z~Share the money?
+
+0xA438A8A2 = ~z~you goddamn...
+
+0xA493AF68 = ~z~Okay, well... soon as you can.
+
+0xA646B20E = ~z~I don't know.
+
+0xA8869EA7 = ~z~
+
+0xA98431FD = ~z~Do you think anyone noticed it was you?
+
+0xA4757264 = ~z~But did you shoot the Newton Twins?
+
+0xAAD9AD74 = ~z~Does sound a lot worse than it did in my head.
+
+0xAAE228BD = ~z~I don't wanna kill him...
+
+0xAC084E7F = ~z~Ah, now you're drunk and you're bored.
+
+0xAC2B9ABE = ~z~Noticed?
+
+0xAC7FEF65 = ~z~I was going to look them up myself but... but you're a better man for the job.
+
+0xAC932E33 = ~z~He's got our marshal!
+
+0xAC10495E = ~z~If anyone knows how to get blood from a stone, I would gladly like to hear how it's done.
+
+0xAD0BA168 = ~z~I mean folks who need shooting, I try and shoot in the back.
+
+0xAD2D96DF = ~z~he's dead now.
+
+0xAD5F41DF = ~z~I'm taking you to see an old friend of yours... it's a reunion of sorts.
+
+0xADBC2229 = ~z~but you like fortune?
+
+0xADD2A9BE = ~z~Hey, I'm looking for Boy Calloway and a man writing a book about him.
+
+0xADE0451E = ~z~You all got the Marshall Slim Grant there? I need to borrow him a while.
+
+0xAE013F0F = ~z~nor Gawain...
+
+0xAEA1CE32 = ~z~I'm sorry I shot him...
+
+0xAF04B502 = ~z~Okay.
+
+0xAF553FDA = ~z~So long!
+
+0xAFABD72A = ~z~Hey, I'm already damned.
+
+0xB3A57EAD = ~z~And how do I find these guys again, guys and girl, your gunslingers?
+
+0xB5DE78BF = ~z~You wanting Mister Calloway or not?
+
+0xB6A863BF = ~z~Who's Slim Grant?
+
+0xB6C885E0 = ~z~The gunslinger...
+
+0xB6D185F6 = ~z~He once killed fourteen men in a fight at Lewsey Hollow.
+
+0xB8D2F0E6 = ~z~Yes, indeed son.
+
+0xB9B7370D = ~z~well...
+
+0xB9F0CB01 = ~z~would you go looking for him?
+
+0xB12AA7C2 = ~z~I've gotta make a thing of it, and...
+
+0xB31CD50C = ~z~Son, what the hell are you up to?
+
+0xB38D707C = ~z~Make a damn cousin killer state marshal do they?
+
+0xB48E4A2E = ~z~Now, you going to tell me what the hell is going on here?
+
+0xB240B21B = ~z~
+
+0xB413C570 = ~z~Not really.
+
+0xB4559EBC = ~z~the State Marshal.
+
+0xB5245C2C = ~z~Who's that? I said this would get us into trouble!
+
+0xB6344C99 = ~z~And I can't have any nobody being this somebody...
+
+0xB7271B8A = ~z~You take that back.
+
+0xB7800B30 = ~z~and I would have...
+
+0xB19498D0 = ~z~How did you get on?
+
+0xB791421B = ~z~I'm trying to write his biography.
+
+0xB1555189 = ~z~and then re-write history...
+
+0xB9336115 = ~z~Still...
+
+0xBA852628 = ~z~What's your name son?
+
+0xBB39D568 = ~z~Noticed?
+
+0xBB7871A2 = ~z~But that was years ago.
+
+0xBBB34FDA = ~z~maybe I'll become marshal.
+
+0xBC663550 = ~z~You are a sickness....
+
+0xBCD3C058 = ~z~then forgive me, mister if I seem a little desperate...
+
+0xBCEF6ACD = ~z~certainly complicated.
+
+0xBD6F5432 = ~z~And you ain't going out to look for him?
+
+0xBD32F288 = ~z~I need a favor, Mr. Grant... it's really nothing... I'll explain while we ride...
+
+0xBD98D2F2 = ~z~and then if they get uppity, shoot 'em?
+
+0xBDE53E31 = ~z~The people I shot noticed.
+
+0xBE92E40B = ~z~You got Slim Grant? I'm gonna need to take him, fellers.
+
+0xBE637AD8 = ~z~No, of course you don't...
+
+0xBEABC0F6 = ~z~It's best I don't give you too many details, but...
+
+0xBED644FD = ~z~All that other stuff, it's...
+
+0xBF2234D1 = ~z~Heard you boys know where to find him.
+
+0xC063DC18 = ~z~Your problems? See if a good sleep can fix those.
+
+0xC0A95266 = ~z~He's dead.
+
+0xC1D5DAA4 = ~z~Oh, get photos.
+
+0xC1E8FBA4 = ~z~Sir, calm down.
+
+0xC4FE1DDC = ~z~~sl:0.6~I almost drowned.
+
+0xC5F915F9 = ~z~This is it. Down here. It's almost over, Marshal Grant.
+
+0xC6BB8828 = ~z~Ah, now you're drunk...
+
+0xC7B7E68F = ~z~Well...
+
+0xC7DCBCF5 = ~z~you left town...
+
+0xC7F35A49 = ~z~~sl:2.1~This isn't going very well.
+
+0xC9AA92B5 = ~z~Okay... let's get you outta here.
+
+0xC20B3A27 = ~z~I'm looking for Slim Grant...
+
+0xC24B61DF = ~z~Folks who need shooting I try to shoot in the back.
+
+0xC40C206B = ~z~Well what are you waiting for?
+
+0xC46A4597 = ~z~Yes?
+
+0xC90EAE4D = ~z~And I told you then I'd shoot you, too...
+
+0xC310F500 = ~z~Send it to Tacitus Kilgore...
+
+0xC1928C82 = ~z~Well where's Slim Grant?
+
+0xC2942E2D = ~z~One of them was a girl, anyhow.
+
+0xC3443C2F = ~z~About how you'd expect.
+
+0xC40845FC = ~z~It's a bit late isn't it?
+
+0xC44165C3 = ~z~Hey, I'm looking for Boy Calloway and a man writing a book about him.
+
+0xC467211D = ~z~fastest left-handed draw that ever drew breath.
+
+0xC991762F = ~z~I'm an old man.
+
+0xCA46E786 = ~z~He's a god.
+
+0xCAC2EBB9 = ~z~Ah, hello. Have you come back for another look at the great man?
+
+0xCBDA8595 = ~z~We'll see.
+
+0xCC15963C = ~z~I don't have to prove nothing to you, nobody.
+
+0xCCB2F85A = ~z~I think the people I shot noticed.
+
+0xCCC5F2DF = ~z~How long's he been gone?
+
+0xCCD24AC2 = ~z~I ain't got no name, and I ain't your son. Sit tight, I'll take you to your friend, then this will all be over.
+
+0xCD8CD1A6 = ~z~Oh, mister marshal was here last week...
+
+0xCDA0B039 = ~z~I been praying for someone like you to come, son.
+
+0xCE09FF1C = ~z~But I can't take credit for that which I...
+
+0xCE577522 = ~z~Well, when he's dead...
+
+0xCF0C8CC3 = ~z~at least now...
+
+0xCF5E2819 = ~z~Who's Slim Grant?
+
+0xCF8DF02F = ~z~I'm happy...
+
+0xD093B78C = ~z~And how do I find these guys again, guys and girl, your gunslingers?
+
+0xD0D957C3 = ~z~You...
+
+0xD2D0042C = ~z~I mean...
+
+0xD4E00C40 = ~z~if we, said he'd done it?
+
+0xD4EA00D0 = ~z~if you help me get it written.
+
+0xD5C7FD80 = ~z~from ever having to speak to him again.
+
+0xD5D61A86 = ~z~where do I send the money?
+
+0xD6B80782 = ~z~Oh! We can't get caught with no lawman tied up!
+
+0xD6D37B40 = ~z~
+
+0xD8A32BF7 = ~z~I'm a tired old man.
+
+0xD9FF320F = ~z~Alright, alright, well let's prove it one more time.
+
+0xD14E547C = ~z~How did you get on?
+
+0xD39E7E35 = ~z~of those portraits that should lead you to 'em.
+
+0xD50EEDBC = ~z~Still talking about it...
+
+0xD63DBABB = ~z~Find out what you can, or... or generate some interest in great gunslingers of yore.
+
+0xD292EBD6 = ~z~Okay...
+
+0xD4160DB4 = ~z~Nothing.
+
+0xD96800EC = ~z~If you're quick, you might catch him sober.
+
+0xD493005A = ~z~Hey, I'm looking for some fellers sojourned around here.
+
+0xD4419995 = ~z~and you didn't shoot him...
+
+0xD6782142 = ~z~That's the best idea I've got.
+
+0xDA3A343F = ~z~If you fellers got the State Marshall here, I'm gonna be taking him.
+
+0xDA3E7BCD = ~z~But you are a gunslinger?
+
+0xDA4B8BAA = ~z~Well, how long's he been gone?
+
+0xDAB0A40F = ~z~I'm telling you all I can. It's a job. Someone wants to see you, I'm taking you to 'em.
+
+0xDB3D4ECD = ~z~How do you mean?
+
+0xDBAB0FD5 = ~z~Heard you boys know where to find him.
+
+0xDC25A070 = ~z~This is real peculiar. I'm state marshal, you know.
+
+0xDC75842C = ~z~Stop them!
+
+0xDCB12A5B = ~z~Something like that.
+
+0xDDA820D8 = ~z~What the hell's going on here?
+
+0xDDD42A52 = ~z~and no, that ain't my real name.
+
+0xDE3CA869 = ~z~Time is of the essence here.
+
+0xDE39E4FE = ~z~Untie me, I'll help!
+
+0xDEDE0022 = ~z~To be honest, things went a little differently...
+
+0xDEEC9C5D = ~z~I imagine we'll be stuck here upon your return.
+
+0xDF7B16C5 = ~z~Apparently not.
+
+0xDF88F0F1 = ~z~About how you'd expect...
+
+0xDFC3FC0B = ~z~You should have shot him twenty years ago...
+
+0xE0749E39 = ~z~All that other stuff...
+
+0xE1DA94C8 = ~z~No, I'm not starting, I'm...
+
+0xE2B2BD3B = ~z~just as long as...
+
+0xE3C563BA = ~z~I never shot no one didn't deserve it.
+
+0xE3D4BE3B = ~z~Now, now, now, now, let's not.
+
+0xE3E7D60F = ~z~I know I won't get anything out of this one, anything coherent at least...
+
+0xE6A1A43F = ~z~Half the proceeds of the book...
+
+0xE8F6409A = ~z~What if I don't want to see them?
+
+0xE20B07B4 = ~z~Why, yes.
+
+0xE21D1BFE = ~z~You want me to go and find some...
+
+0xE33EFD0A = ~z~I think he headed up to Beaver Hollow...
+
+0xE37F0381 = ~z~Why?
+
+0xE42E8614 = ~z~I'm a state marshal and this is an abduction.
+
+0xE58A3C26 = ~z~No...
+
+0xE71C4C49 = ~z~Yes you are.
+
+0xE85DDAC2 = ~z~Yeah, yeah.
+
+0xE88EE970 = ~z~Well...
+
+0xE819A746 = ~z~Well...
+
+0xE914AAA8 = ~z~the State Marshal.
+
+0xE3935F75 = ~z~I do hope you can help us.
+
+0xE7549ADA = ~z~I'll see what I can do...
+
+0xE33773AA = ~z~You're an old man...
+
+0xE331195E = ~z~I think I'd prefer the duel.
+
+0xE547453F = ~z~you're a mess.
+
+0xE3899907 = ~z~or he'd kill me and I could be set free...
+
+0xE4113595 = ~z~Hey, hey.
+
+0xEA6045B9 = ~z~Ah, hello. Have you come back for another look at the great man?
+
+0xEB72C2B9 = ~z~Go get him and hurry back.
+
+0xEC4D9FFB = ~z~But you've fought duels?
+
+0xED56B6D0 = ~z~You made short work of them.
+
+0xED2138C6 = ~z~Here or some other flop house.
+
+0xEDC1C911 = ~z~There's more?
+
+0xEEC60AC7 = ~z~we're old men... we're lucky.
+
+0xEF053B5A = ~z~well...
+
+0xEF43B5C7 = ~z~Saint Denis, on a riverboat? Okay then.
+
+0xEF774CCE = ~z~Go right ahead.
+
+0xEFAACCC8 = ~z~Psst.
+
+0xEFCAA1FB = ~z~Sure, I don't care...
+
+0xEFEAA373 = ~z~Well, you going to introduce yourself?
+
+0xF1C4FBD8 = ~z~Yeah, we'll see.
+
+0xF1EC0D58 = ~z~Come on, sir, try to remember... what really happened at Sylvia's Saloon back in '76?
+
+0xF3CFBF63 = ~z~I can't believe I just said that but...
+
+0xF3E72AAC = ~z~You're looking at the pride of Lemoyne here, the Grand Korrigan paddle steamer.
+
+0xF4EAE1AB = ~z~Great.
+
+0xF7EC1D4C = ~z~You must be Slim Grant?
+
+0xF8B0D6E9 = ~z~Well, I'm somebody!
+
+0xF8DE6096 = ~z~Oh, there's always folk who'll shoot you in the back...
+
+0xF9E7BF03 = ~z~You might as well relax.
+
+0xF9F28EF6 = ~z~State Marshall Slim Grant...
+
+0xF29E737C = ~z~Alright... least you're paying.
+
+0xF35F701B = ~z~This is him...
+
+0xF56BBDD3 = ~z~And how's that going?
+
+0xF57DA77E = ~z~I said draw goddamn it...
+
+0xF62BF65E = ~z~State Marshal Grant!
+
+0xF66D01D1 = ~z~I'm tied to this tree.
+
+0xF81A8051 = ~z~Marshal Grant's coming just... give me a moment.
+
+0xF90E6CCD = ~z~and you're bored and...
+
+0xF151B497 = ~z~What's that?
+
+0xF274D108 = ~z~It's nothing big, I'll explain along the way, you... you might as well relax.
+
+0xF419D34D = ~z~No, sir, you do not.
+
+0xF461AE2F = ~z~Emmet Granger...
+
+0xF572E8F6 = ~z~I'm a legend!
+
+0xF583B267 = ~z~Once upon a time...
+
+0xF646AA78 = ~z~Goddamn you!
+
+0xF903E300 = ~z~Mhm.
+
+0xF959C9AF = ~z~Ha!
+
+0xF7486522 = ~z~You kill I mean.
+
+0xFBB6945A = ~z~
+
+0xFD5A6827 = ~z~Over here.
+
+0xFD65C037 = ~z~well...
+
+0xFD68D88D = ~z~It's win-win, freedom or glory.
+
+0xFD5757FE = ~z~bunk.
+
+0xFE3C94C7 = ~z~This is Jim 'Boy' Calloway.
+
+0xFE4FDB23 = ~z~Who?
+
+0xFEA4D045 = ~z~and be able to be Baltimore's finest ever gunslinger...
+
+0xFF516D50 = ~z~I'm taking you to see an old friend of yours... it's a reunion of sorts.
+
+0xFF558CEA = ~z~That's the best idea I've got.
+
+0xFF876C9C = ~z~more or less, I guess...
+
+0xFF4949C6 = ~z~I need a favor, Mr. Grant... it's nothing big, I'll explain along the way...
+
+0xFF34505C = ~z~Well, you're starting to understand something very important.
+
+0xFF545194 = ~z~I reckon, right now...
+

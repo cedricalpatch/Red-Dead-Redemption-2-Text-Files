@@ -1,0 +1,30 @@
+0x5D948E44 = ~z~You're a fine woman.
+
+0x6BE72AE9 = ~z~Oh, you keep it hidden under that sour vinegar face and nasty acid tongue, but I know that's just a rose's thorns.
+
+0x46EA60FC = ~z~Oh, there's something about that woman... sweet and sour...
+
+0x80DED4D8 = ~z~Oh, now I tell the truth, ma'am.
+
+0x88FE7E0C = ~z~Oh, no, no. Well, if I was five years younger and a thousand dollars richer,
+
+0x93F793FE = ~z~I must say, all this adventuring and wandering over mountain passes, being chased and running for our lives... surely agrees with you.
+
+0x389CC461 = ~z~I must get back to my work.
+
+0x775BDAC3 = ~z~Well, I'd marry you... make a dishonest woman of you, I would...
+
+0x7740DA91 = ~z~Oh, away with you, silly man!
+
+0x89397E7E = ~z~And that'd be the best decision I ever took.
+
+0xA57A3703 = ~z~If I didn't know, I would think you was the same age as them silly girls.
+
+0xAE6C48E7 = ~z~Fine, Miss Grimshaw, and you?
+
+0xB3BB3A9C = ~z~You're a silver-tongued flatterer and no mistake.
+
+0xC035EC7A = ~z~Just fine, sir, just fine.
+
+0xDB11A22D = ~z~How you gentlemen keeping?
+

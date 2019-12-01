@@ -1,0 +1,16 @@
+0x4E925812 = ~z~~sl:0.0:1.8~So what do you think, Arthur, of...~sl:~Dutch's latest plan?
+
+0x77A23ACE = ~z~~sl:1.5:1.1:1~Sure.
+
+0x545A63A2 = ~z~You know me, I never did much thinking.
+
+0x26248737 = ~z~
+
+0xA5870EFF = ~z~If you say so.
+
+0xB6C83181 = ~z~~sl:0.0:1.3~I know you like to...~sl:0.4:1.9~hide behind the angry moron act~sl:~but it's a thin enough veneer.
+
+0xCCC9E51C = ~z~It's good to be warm.
+
+0xD3B3EB58 = ~z~~sl:0.0:2.1~It's time to start thinking, Arthur,~sl:0.3~before it's too late.
+

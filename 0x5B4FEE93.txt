@@ -1,0 +1,14 @@
+0x5FC877A1 = Investigate the ~o~shack
+
+0x2084E96F = Field
+
+0x4283A850 = Robbie Laidlaw escaped.
+
+0x5479D758 = Shack
+
+0x96329C9E = Robbie Laidlaw has died.
+
+0xC0460C2A = Search the ~o~field
+
+0xE392C542 = Robbie Laidlaw was left behind.
+

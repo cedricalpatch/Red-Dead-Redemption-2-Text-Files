@@ -1,0 +1,6 @@
+0x098C0775 = Purchase Map ~1$~
+
+0x0D7EE103 = Treasure Hunter
+
+0xCBCF667C = Treasure Hunter
+

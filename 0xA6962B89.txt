@@ -1,0 +1,84 @@
+0x0364DD32 = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0x0D4AF0FE = ~z~I wander over,~n~~m~I wander over,
+
+0x0F747431 = ~z~I wander over,~n~~m~I wander over,
+
+0x1F161498 = ~z~And I rove and sing with morn's first beam.~n~~m~And I rove and sing with morn's first beam.
+
+0x2C5A2E00 = ~z~And she aye rewards him with a crumb~n~~m~And she aye rewards him with a crumb.
+
+0x2C6FEBC7 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+0x2FDD34FE = ~z~The wide, wide world,~n~~m~The wide, wide world,
+
+0x3C20CEAD = ~z~And softly murmuring flows, the stream;
+
+0x3C458B76 = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0x4CAB6E9A = ~z~I sing a merry song;~n~~m~I sing a merry song;
+
+0x6A7BE7E2 = ~z~The wind roves free o'r hill and river;
+
+0x6DBE31E7 = ~z~The wide, wide world,~n~~m~The wide, wide world,
+
+0x7F03D472 = ~z~I sing a merry song;~n~~m~I sing a merry song;
+
+0x9FEAD2BB = ~z~And the clouds roam free along the sky;~n~~m~free along the sky;
+
+0x45D3E213 = ~z~The wind roams free, a wild song singing,
+
+0x87FBE896 = ~z~I wander over,~n~~m~I wander over,
+
+0x92DBE4BA = ~z~I sing a merry song;~n~~m~I sing a merry song;
+
+0x248EA1BD = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0x293E28E8 = ~z~The bird roves free, its wild way winging,~n~~m~its wild way winging,
+
+0x429EDA89 = ~z~The good earth loves a wild free rover,
+
+0x494DE7E7 = ~z~For a roving bird is never dumb;~n~~m~bird is never dumb;
+
+0x770D2D1D = ~z~I wander over,~n~~m~I wander over,
+
+0x817D95E1 = ~z~And a rover wild,~n~~m~And a rover wild,
+
+0x8542C988 = ~z~The wide, wide world,~n~~m~The wide, wide world,
+
+0x8949E8FE = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+0x9502BCEB = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0x375143E6 = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+0x1728039C = ~z~He sings to please his dear old Mother,~n~~m~He sings to please hid dear old Mother,
+
+0x3635450A = ~z~And a light, light heart, I rove, along.~n~~m~And a light, light heart, I rove, along.
+
+0xAF477174 = ~z~And free am I.~n~~m~And free am I.
+
+0xB0051F0C = ~z~Oh! I'm a wild free rover,~n~~m~Oh! I'm a wild free rover,
+
+0xBDBA0E59 = ~z~Each little bird is a wild free rover,~n~~m~Each little bird is a wild free rover,
+
+0xC008BF13 = ~z~I rove along.~n~~m~I rove along.
+
+0xCE4A5B96 = ~z~With a light, light heart,~n~~m~With a light, light heart,
+
+0xD6F1ECFD = ~z~Oh! I'm a wild free ranging rover,
+
+0xDBF576EC = ~z~The wide, wide world I wander over,~n~~m~The wide, wide world I wander over,
+
+0xDEDED0A2 = ~z~The wide, wide world,~n~~m~The wide, wide world,
+
+0xE13C97C2 = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0xE93C1179 = ~z~I roam, and sing a merry song;~n~~m~I roam, and sing a merry song;
+
+0xEF13336F = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+
+0xF0B4744D = ~z~I sing a merry song;~n~~m~I sing a merry song;
+
+0xF1BC39E1 = ~z~With a light, light heart, I rove, along.~n~~m~With a light, light heart, I rove, along.
+

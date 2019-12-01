@@ -1,0 +1,28 @@
+0x44D6A181 = ~z~~sl:5.2~We gonna make it... out of this mess?
+
+0x53C9E684 = ~z~And forgiveness, well... mostly that's God's business, but...
+
+0x988D701A = ~z~~sl:0.0:1.0~I disagree.~sl:0.9~When you're my age, you'll realize more gets forgotten than remembered.
+
+0x5931CA37 = ~z~~sl:0.0:0.8~Never better...~sl:1.5~that's a lie, but not so bad.
+
+0x67080D10 = ~z~for the rest of us... just an easy way of saying "I don't care no more."
+
+0x68196806 = ~z~~sl:0.0:2.1~Life is the mess... but...~sl:~I reckon we can give the law the slip one more time.
+
+0xA37CDECC = ~z~How you keeping?
+
+0xB4618099 = ~z~Disappear. Like a memory, we'll just fade away... grow old and bored...
+
+0xC0C9C092 = ~z~That so?
+
+0xC71025F6 = ~z~~sl:0.9~And then what?
+
+0xD2A0643F = ~z~Yes.
+
+0xD9D84B86 = ~z~That's nonsense... people don't forget... nothing gets forgiven.
+
+0xEA2BEC2D = ~z~And people just gonna forget about us?
+
+0xFA860CDD = ~z~~sl:0.0:1.1~Sure...~sl:1.4:0.9~maybe...~sl:2.0~I don't know...
+

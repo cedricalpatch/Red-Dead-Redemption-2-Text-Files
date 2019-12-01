@@ -1,0 +1,1180 @@
+0x00BDED4D = ~z~~sl:0.4:3.0~It's the same old European triviality,~sl:0.0:1.1~savagery,~sl:0.0:1.4:1~puritanism!
+
+0x00DC56BE = ~z~But man or not...
+
+0x02ACC801 = ~z~This way, this way, come on.
+
+0x02CA85EC = ~z~I have that right here.
+
+0x02D28520 = ~z~and I should go away.
+
+0x02E13451 = ~z~Go. I can't let you in. They will search this place.
+
+0x03501149 = ~z~Kept me amused for years.
+
+0x03FAAF7C = ~z~I don't think that the art is the problem.
+
+0x0404248E = ~z~Come, come. By the entrance.
+
+0x04F78DD6 = ~z~Well that's very kind, Charles.
+
+0x05246025 = ~z~Two brandies, bud.
+
+0x05E00673 = ~z~Where were you on your journey?
+
+0x05E9C3A2 = ~z~Henry...
+
+0x05FD3FD4 = ~z~They will see you.
+
+0x0663291E = ~z~Ah, here we are. I know a lady over here, she may let me stay for a while.
+
+0x07BDB7D7 = ~z~I hope the sailors know who they're bunking with.
+
+0x07F4F350 = ~z~It is cloudy like milk. Or semen.
+
+0x07FE6EBA = ~z~Perhaps...
+
+0x083D0C8E = ~z~Oh, you are funny you know. I hope to see you again sometime!
+
+0x0913189F = ~z~It kept me amused some years.
+
+0x09301643 = ~z~It better be good.
+
+0x096C9B82 = ~z~Hmmm.
+
+0x098AF097 = ~z~it doesn't matter.
+
+0x099BCBE2 = ~z~Funny you should say that, yeah.
+
+0x09C31F33 = ~z~So, wait. You ain't sold none of your work?
+
+0x0A1A5A56 = ~z~And this Prussian feller, he really Prussian?
+
+0x0A4FF66C = ~z~But this cad.
+
+0x0A86582B = ~z~Come on, Horace, we're leaving.
+
+0x0C6FCECF = ~z~
+
+0x0D99028D = ~z~
+
+0x0D467187 = ~z~Oh my.
+
+0x0DF6BBE5 = ~z~It might just be from someone over in Blackwater.
+
+0x0E4B0A60 = ~z~I feel like you'll find distractions yourself wherever you go.
+
+0x0E5AAB47 = ~z~Yes, yes. I know a lot of people. But please, just help me get out of here.
+
+0x0E7D963E = ~z~I am ridiculous.
+
+0x0E80EE13 = ~z~Are you insane?
+
+0x0F6CEEAA = ~z~Why are you doing this?
+
+0x0F9323ED = ~z~Well, at least you got some self-knowledge.
+
+0x0F178195 = ~z~How do Americans drink this bilge?
+
+0x1AB86B60 = ~z~Look at you, pretty little thing!
+
+0x1AD4BC22 = ~z~You must go, my friend...
+
+0x1AFC2902 = ~z~Good luck.
+
+0x1B043AC8 = ~z~Merci, mon ami.
+
+0x1B4B3F3F = ~z~Come on...
+
+0x1B7E3ADF = ~z~Me personally?
+
+0x1B626F6F = ~z~And who are you? A collector?
+
+0x1C785A62 = ~z~I'll tell you what I won't miss... civilisation.
+
+0x1CA83293 = ~z~I have been all over the world...
+
+0x1D89BA8E = ~z~According to them I cannot draw, I cannot paint...
+
+0x1E40D85D = ~z~Charles... where are you?
+
+0x1EB58D3F = ~z~He's the cad, dammit.
+
+0x1FC30C44 = ~z~You should know the artworks are not endorsed by gallery staff.
+
+0x2B230A1F = ~z~Stay with me.
+
+0x2BE28D54 = ~z~I was going to buy the red ones, to bring out the colors in your cheeks.
+
+0x2D952EB3 = ~z~If the purpose of life was to be liked... it would be very boring indeed.
+
+0x2E3949BA = ~z~What's this show then?
+
+0x2F0D454E = ~z~Charles. Come on. You better hope this ship's leaving soon.
+
+0x2F7C1CAD = ~z~Art should test people, push them. I thought I was a fraud, a no-talent brush washer.
+
+0x2F755E65 = ~z~Not according to the salons of Paris, no.
+
+0x3A720D19 = ~z~~sl:0.0:1.0~Come on.~sl:0.5~You won't have seen the like of it before, I promise.
+
+0x3ACC3AC6 = ~z~What's this show then?
+
+0x3B006ECD = ~z~Is that Charlie Chutney?
+
+0x3BF8E3C2 = ~z~~sl:0.0:1.2~You're a dead man!
+
+0x3C5DC1EB = ~z~Have pity on a wretched starving artist.
+
+0x3CF095D5 = ~z~This is not good. No, no.
+
+0x3D7E5343 = ~z~My angel, my little bird, it's me!
+
+0x3F6FF83E = ~z~how do you say?
+
+0x3F5782F2 = ~z~Ah, yes...
+
+0x3F64797B = ~z~Well, at least you have some self-knowledge.
+
+0x3FC826D9 = ~z~Buy me a drink, mon ami?
+
+0x3FE65F7E = ~z~How else could I get up in the mornings?
+
+0x4B3F4E4C = ~z~That's my momma.
+
+0x4B4F96E5 = ~z~Arthur.
+
+0x4B70FFC1 = ~z~Money lenders?
+
+0x4B566580 = ~z~We'll miss the party...
+
+0x4C2D59CC = ~z~Now I'm not sure. We provoke emotions, no?
+
+0x4CBB68D5 = ~z~Remind me to avoid that place.
+
+0x4D6BDF28 = ~z~Disgusting.
+
+0x4D4498A3 = ~z~much better.
+
+0x4DA677CC = ~z~That went wrong in a hurry. Please, protect me.
+
+0x4DB4982C = ~z~Excuse me... I am changing my draws.
+
+0x4E381722 = ~z~Whole ass.
+
+0x4EFA3629 = ~z~~sl:0.0:2.1~Well I'm not so very sure how I feel about 'progression,'~sl:0.5~paintings or otherwise.
+
+0x4F33BA5B = ~z~So close, so far.
+
+0x4F54C5F2 = ~z~Sure.
+
+0x4FFAA8A1 = ~z~Hey, you gonna do right by this feller's wife?
+
+0x5A8B9197 = ~z~Okay, come on.
+
+0x5B07DBAB = ~z~That's real kind, Charles.
+
+0x5B8A6ABF = ~z~This show is well and truly over. Let's get out of here.
+
+0x5C4FC14B = ~z~you got yourself into trouble...
+
+0x5C5CA00B = ~z~Oh, it's nothing. I thought I knew him.
+
+0x5C8AB72F = ~z~One is better...
+
+0x5C83B3B9 = ~z~Asshole?
+
+0x5C92A673 = ~z~Back, back. The money lenders. We go another way.
+
+0x5CC3C537 = ~z~This is a question par excellence, American.
+
+0x5D07FB81 = ~z~~sl:0.4~You keep provoking those emotions, all your canvases will have punch-holes in 'em.
+
+0x5E48DF6B = ~z~Psst...
+
+0x5E6839F2 = ~z~You know, John...
+
+0x5EB5C3E3 = ~z~Because barbarity is boring, no?
+
+0x5EB17530 = ~z~As nude as the day she was born.
+
+0x5FBEE507 = ~z~Hush, hey. I may know these people.
+
+0x5FF9FDA8 = ~z~Now I'm not sure. We provoke emotions, no?
+
+0x6A4A0D3D = ~z~Friend of mine left me some of your work.
+
+0x6A119130 = ~z~Look at you, pretty little thing!
+
+0x6B1561DA = ~z~And new kinds of deviance?
+
+0x6B993262 = ~z~The hole in the fence... we go through there.
+
+0x6C4D7E36 = ~z~What's this?
+
+0x6C5255DE = ~z~is truth.
+
+0x6D02DDEB = ~z~but I wanted to say thank you for the drinks.
+
+0x6D055704 = ~z~I don't know...
+
+0x6D505F5F = ~z~Adieu.
+
+0x6E1564D6 = ~z~you got yourself out of it.
+
+0x6ED344F8 = ~z~~sl:2.5~Please do not do that again. Now, get moving. Come on.
+
+0x6F45DEE1 = ~z~with old buildings and ghosts and...
+
+0x6F41606E = ~z~Oh no, no, no, no, no, no, no, no.
+
+0x6FC65FD2 = ~z~You know, Arthur...
+
+0x7B0304FE = ~z~Is the coast clear?
+
+0x7B38CB91 = ~z~I'm sorry... I'll do anything!
+
+0x7B4559EB = ~z~Saint Denis water, my, my.
+
+0x7B9025A7 = ~z~
+
+0x7BF1555A = ~z~I know those men. I shat on their bar.
+
+0x7C3BF8BD = ~z~Charles.
+
+0x7C8A8088 = ~z~You must go my friend...
+
+0x7C594CCB = ~z~Good luck to all of you.
+
+0x7D3F61D8 = ~z~What's this? Quickly!
+
+0x7D19D7BB = ~z~So long as they weren't just telling you that...
+
+0x7D647B1E = ~z~That smelly, filthy place...
+
+0x7FFB7CB9 = ~z~Sir, I must recover. please.
+
+0x8AE0AA92 = ~z~~sl:0.2:0.6~Ha!~sl:0.7~We made it!
+
+0x8B9F4DD3 = ~z~repression...
+
+0x8BF22670 = ~z~You know I think you knew a friend of mine.
+
+0x8C766E0C = ~z~Well you ain't no kind of man at all.
+
+0x8CD1FD04 = ~z~A little more... the first pump is stale.
+
+0x8D7FE946 = ~z~I'll be back for you, you cad.
+
+0x8D445FB5 = ~z~Mr. Charles Chatenay. Go and see it for yourself. But don't blame me.
+
+0x8DAA9025 = ~z~The damn French...
+
+0x8E9927D9 = ~z~Hmmm.
+
+0x8EC699B0 = ~z~My word! You really are a cowboy. Now I have no choice but to leave.
+
+0x8EFA2567 = ~z~You have gotten me out of a very sticky situation.
+
+0x8F07ACA6 = ~z~Hmm...
+
+0x8F9D02A2 = ~z~And, even better, it is free.
+
+0x9A9DD9A8 = ~z~Come out here and answer for what you done!
+
+0x9ACCB97E = ~z~unless you want to wipe your bottom with it...
+
+0x9B293CC9 = ~z~before the gendarmerie arrive.
+
+0x9BCCB6FA = ~z~Yeah, yeah...
+
+0x9BE2B27E = ~z~meeting the locals...
+
+0x9C6C3D1A = ~z~So long.
+
+0x9DFC8A33 = ~z~This isn't over, Frenchman.
+
+0x9E2E9178 = ~z~Don't know what I was getting so vexed about.
+
+0x9EB4BA62 = ~z~what do you do?
+
+0x9EF314E2 = ~z~Oh dear.
+
+0x9F04CD01 = ~z~Is someone out there? Hello?
+
+0x9F4E9E51 = ~z~you sure got a way of ingratiating yourself with people...
+
+0x10BA48FB = ~z~In Paris, they say leave, go far away...
+
+0x10FE7566 = ~z~Ah, my friend. Where I go, I cannot take you.
+
+0x11A365A9 = ~z~Son of a bitch!
+
+0x14DF073F = ~z~They are watching the port, and I need a chaperone.
+
+0x15C274B1 = ~z~Eh, buy me a drink. Please.
+
+0x17C0674F = ~z~is that your behind?
+
+0x17CB031F = ~z~I've developed a feeling the purpose ain't to be hated.
+
+0x17F084FE = ~z~I don't want to die!
+
+0x19AAE681 = ~z~Money lenders?
+
+0x19C75ADC = ~z~Well, it better be good then.
+
+0x24B64E2F = ~z~You miss Paris?
+
+0x24D94E79 = ~z~Asshole?
+
+0x24DDAD31 = ~z~Leave me alone!
+
+0x24EAC710 = ~z~Art is lies...
+
+0x25C1D1FC = ~z~I... I'm having a silly little show at the gallery...
+
+0x25F04C37 = ~z~You know...
+
+0x25F2A950 = ~z~
+
+0x26C88FF3 = ~z~Well maybe she shouldn't exposed herself like that!
+
+0x28F2F933 = ~z~It's the best.
+
+0x29EF1A03 = ~z~It was Yellow Ben, Prussian Henry, and the Chicken Strangler.
+
+0x31BA5CD3 = ~z~That I am a prize...
+
+0x31BBBDA1 = ~z~I can hear you breathing!
+
+0x31CF050F = ~z~Yeah, I kind of know what you mean.
+
+0x32B60CB5 = ~z~Hey.
+
+0x32B13677 = ~z~What the hell?
+
+0x32BD18B5 = ~z~How do you think I can afford to buy paint? Not by selling art, that is for sure.
+
+0x32DEEA80 = ~z~do you paint?
+
+0x32F1EAAA = ~z~How very French.
+
+0x34A1F7D5 = ~z~You might even have given him some of your work... Arthur Morgan.
+
+0x35A56F31 = ~z~Sure.
+
+0x38B1CEE4 = ~z~Okay...
+
+0x40D8EF7B = ~z~So many distractions... so many temptations here... I never had a hope.
+
+0x40F8FB34 = ~z~I know...
+
+0x41BB2912 = ~z~John.
+
+0x42F1596B = ~z~Hate, love... they are the same. I provoke, I challenge, I amuse... do I not?
+
+0x42FA7C7C = ~z~We must go quietly.
+
+0x44AA724C = ~z~keep on going to the South Pole.
+
+0x45E5133E = ~z~Look, I have an exhibit at the gallery.
+
+0x46A00CA2 = ~z~You a painter?
+
+0x46B82EE1 = ~z~Why I thought I would find my way in a country founded by puritans, I'll never know.
+
+0x46EB129C = ~z~What do you do?
+
+0x47A7BA8C = ~t~In French: Thank you, thank you!
+
+0x47AD0C50 = ~z~What do you do?
+
+0x47C60C86 = ~z~What, me personally?
+
+0x48CBD7BC = ~z~Yeah. But not cause he'd run from no fight.
+
+0x49F9DAE8 = ~z~I find the brushwork... baffling.
+
+0x50CEC8EA = ~z~What you want?
+
+0x51A0BB7A = ~z~I just don't like how much time you spending with the man is all.
+
+0x51D22863 = ~z~So long.
+
+0x55FCA8EF = ~z~I love it.
+
+0x57A92C4C = ~z~It's quite a country you're building here, eh?
+
+0x57E207C5 = ~z~But this cad.
+
+0x58CB9714 = ~z~Charles. Come on. You better hope this ship's leaving soon.
+
+0x58D536F6 = ~z~And merci to you, too!
+
+0x60ACA019 = ~z~we will never understand you here.
+
+0x61C45BBD = ~z~~sl:0.0:2.4~Just wait until you see his work!~sl:0.5~It's very progressive.
+
+0x62BB7C60 = ~z~as she was and will be in paradise.
+
+0x63FC6F45 = ~z~Brandy.
+
+0x66BF8414 = ~z~There's nothing natural about that.
+
+0x67BCAD01 = ~z~Okay, come on.
+
+0x67FF0AEE = ~z~Maybe.
+
+0x68AB604B = ~z~Hello... is the angry man still out there?
+
+0x69D57053 = ~z~Hello, hello... it is I, Charles Chatenay, the painter.
+
+0x69EF51F8 = ~z~Trust me, I've tried both.
+
+0x70C7195B = ~z~in her...
+
+0x70D000D0 = ~z~Relax. Hey?
+
+0x71B1E181 = ~z~What is it?
+
+0x72BF8172 = ~z~Keep them away from me.
+
+0x72EB6B22 = ~z~A great good deal you did for me.
+
+0x74C02C61 = ~z~It's a free show, so don't come asking for a refund.
+
+0x74C276FE = ~z~That's far too modern for my tastes.
+
+0x76AAECCF = ~z~You miss Paris?
+
+0x77CF509D = ~z~Come on.
+
+0x77E215EE = ~z~Hey! I got him. He's out here.
+
+0x82D483C6 = ~z~but here...
+
+0x85ACC402 = ~z~couldn't you have painted some drawers on her?
+
+0x85CDD5CB = ~z~Hurry up, will you?
+
+0x85E0ECE0 = ~z~Quick.
+
+0x86AB1C26 = ~z~Has he gone?
+
+0x88CDC022 = ~z~Well, let's just say... I can't say. Not in mixed company.
+
+0x88E60CE2 = ~z~Yeah, I kind of know what you mean.
+
+0x88ECC75B = ~z~But maybe something gayer. A purple, perhaps?
+
+0x89E5EC11 = ~z~That picture I gave you. It will be worth something someday. I can feel it!
+
+0x91DD4955 = ~z~I guess so.
+
+0x95A888C8 = ~z~Quick, behind here.
+
+0x95C2B433 = ~z~I'll think of something. Just watch.
+
+0x96F1DE2A = ~z~You did, and you are.
+
+0x97E72F84 = ~z~Or... could be Roman.
+
+0x98E1ACD9 = ~z~So repressive. So stifling. I can hardly breathe in the city.
+
+0x99F40804 = ~z~We have many weeks together. We will get to know each other well.
+
+0x121C77C2 = ~z~How else could I get up in the mornings?
+
+0x162B0FCC = ~z~I'm the wronged one here.
+
+0x168F7C7E = ~z~Hey. Come on. My fresh excrement was better than any of the drinks they served in there.
+
+0x186A76F6 = ~z~I need a name like that. Give me an air of misty.
+
+0x195CFA67 = ~z~~sl:0.0:2.6:1~Anywhere you want, mon ami.
+
+0x215CFB2A = ~z~My friend, is it safe?
+
+0x232C67CA = ~z~So repressive. So stifling. I can hardly breathe in the city.
+
+0x237E28D0 = ~z~
+
+0x249EC551 = ~z~That picture I gave you. It will be worth something someday. I can feel it!
+
+0x355EAD64 = ~z~I think we are okay. The exhibition, what can you say? It was not boring!
+
+0x377C7571 = ~z~you will come huh?
+
+0x377D5743 = ~z~I left mine in Paris I've not thought of her since.
+
+0x385A441D = ~z~So, long my friend. It was a pleasure. Bien.
+
+0x397A1E31 = ~z~All aboard for the South Pacific.
+
+0x436AEA4B = ~z~Your French friend is safe... for now.
+
+0x456B8419 = ~z~I pose, I show off, I complain.
+
+0x463CB20D = ~z~Good meeting you.
+
+0x528EAA51 = ~z~you got yourself out of it.
+
+0x542A8FA7 = ~z~
+
+0x542E7E68 = ~z~Brandy.
+
+0x562EB123 = ~z~Mostly I just shoot people.
+
+0x572BCC9A = ~z~
+
+0x576D0C62 = ~z~Bad as it is...
+
+0x580EB791 = ~z~I must do what I feel.
+
+0x590AF477 = ~z~That's it!
+
+0x633AB43E = ~z~Maybe.
+
+0x732B9BD9 = ~z~But then I thought the blue was altogether more serious.
+
+0x752A20E9 = ~z~Clothes are civilization...
+
+0x772E6C76 = ~z~If you say so.
+
+0x799EE084 = ~z~Mr. Charles Chatenay. Go and see it for yourself. But don't blame me.
+
+0x803A6025 = ~z~Hate, love... they are the same. I provoke, I challenge, I amuse... do I not?
+
+0x858DB145 = ~z~He ain't here, let's go.
+
+0x862FE9E7 = ~z~what are you dressed up like that for?
+
+0x897A1255 = ~z~but you paint?
+
+0x903D1752 = ~z~I am busy, my friend. This is a party for two.
+
+0x930D9EEA = ~z~That man owes us money!
+
+0x951F32E9 = ~z~You have done right by her...
+
+0x952D654A = ~z~I feel like you'll find distractions yourself wherever you go.
+
+0x995F37F1 = ~z~Then you're getting into the wrong kind of trouble.
+
+0x1264C93D = ~z~Take care of them.
+
+0x1530FE1B = ~z~Bar-shitting, money-borrowing, wife-stealing...
+
+0x1620B028 = ~z~No matter.
+
+0x1998B06C = ~z~that is truth.
+
+0x3086A36F = ~z~This is disgusting!
+
+0x3211DED6 = ~z~that too.
+
+0x3244E180 = ~z~Mostly I just shoot people.
+
+0x3418E888 = ~z~I guess so.
+
+0x3612E839 = ~z~My angel, my little bird, it's me!
+
+0x3741EBBE = ~z~but the vagina...
+
+0x4168DB88 = ~z~Get them!
+
+0x4264E24A = ~z~Help me get to the next ship.
+
+0x4375CE98 = ~z~~sl:1.0~Oh my goodness...
+
+0x4693C100 = ~z~Come here.
+
+0x4758DDF8 = ~z~Those fellers, you shat on their bar?
+
+0x5018F837 = ~z~Hey!
+
+0x5109D8FD = ~z~Madame, I paint her in her natural state...
+
+0x5477AF67 = ~z~I don't quite know why I did that...
+
+0x5584AF4C = ~z~keep on going to the South Pole.
+
+0x6178E134 = ~z~
+
+0x6251ECFE = ~z~Good luck to all of you.
+
+0x7036A765 = ~z~It's a... you know...
+
+0x7172C296 = ~z~With my impropriety? A mediocre life is meaningless.
+
+0x7766CD8D = ~z~I say I go to Saint Denis.
+
+0x8003A788 = ~z~Okay...
+
+0x8084C801 = ~z~What's he... trying to represent, aside from a filthy mess?
+
+0x8198B378 = ~z~I told you I was a whole ass!
+
+0x9964E95E = ~z~death.
+
+0x14267D52 = ~z~you'll get a bullet if I see you again.
+
+0x18310DCD = ~z~My friend, my friend, it is me, Charles Chatenay, the painter.
+
+0x19193CDB = ~z~I don't quite know why I did that...
+
+0x31109ACB = ~z~Look at these idiots...
+
+0x33235F89 = ~z~Well, how very French.
+
+0x39027CAD = ~z~Hey!
+
+0x41297A78 = ~z~This is a question par excellence, American.
+
+0x47162C6F = ~z~
+
+0x50915ED7 = ~z~You keep provoking emotions like that and all your canvases will have punch holes through 'em.
+
+0x51611ED5 = ~z~Perhaps... right now seems like the only thing it'd get me is a kick in the balls.
+
+0x68017E8A = ~z~I'm sorry, I don't know.
+
+0x75393DFE = ~z~With my impropriety? A mediocre life is meaningless.
+
+0x96428C3D = ~z~It's good to know you got a fail-safe philosophy at least.
+
+0x185988FA = ~z~Perhaps... right now seems like the only thing it'd get me is a kick in the balls.
+
+0x204160CC = ~z~Come along.
+
+0x206344AD = ~z~Good meeting you.
+
+0x214491E8 = ~z~But of course. I needed to shit.
+
+0x284028C7 = ~z~Oh, you are funny you know. I hope to see you again sometime!
+
+0x321717D9 = ~z~Come on. I know a place where I can disappear for a few days.
+
+0x473450CA = ~z~The nerve on you!
+
+0x630588EC = ~z~Enjoy the show... if that's possible.
+
+0x779873EF = ~z~If they don't like you in the islands...
+
+0x874093B4 = ~z~Come on...
+
+0x2432455B = ~z~How very American of you...
+
+0x3680129C = ~z~If you say so.
+
+0x3896329E = ~z~Art should test people, push them. I thought I was a fraud, a no-talent brush washer.
+
+0x4280927B = ~z~Mr. Chatenay. He's just a terror. It's making me blush.
+
+0x5862649D = ~z~My friend.
+
+0x6377450C = ~z~It's just a little doodle.
+
+0x8450114E = ~z~I can read you from a mile away.
+
+0x9762676D = ~z~Excuse me, Mr. Chatenay...
+
+0x11102277 = ~z~shit and French people?
+
+0x16657985 = ~z~Sooner you go in there, the sooner you can come out.
+
+0x19217561 = ~z~You filthy little man!
+
+0x23555153 = ~z~You gonna do right by this feller's wife?
+
+0x26897499 = ~z~persecuted for my art.
+
+0x29132743 = ~z~Please! Je suis desole!
+
+0x33557257 = ~z~There is always a heavy demand for fresh mediocrity, but new kinds of brilliance... not so much.
+
+0x38065063 = ~z~There, he was with that reprobate!
+
+0x40278583 = ~z~Maybe, mon ami, maybe.
+
+0x43470939 = ~z~
+
+0x56817327 = ~z~Why they call him Yellow Ben? He yellow?
+
+0x59003246 = ~z~Charles.
+
+0x63274311 = ~z~Leave me, I am quite shaken up.
+
+0x64526249 = ~z~Over here.
+
+0x73416912 = ~z~We go through here.
+
+0x81623846 = ~z~What are you looking at?
+
+0x84234553 = ~z~
+
+0x85300781 = ~z~they're the truth.
+
+0x85436946 = ~z~They say that is not far enough.
+
+0x89027956 = ~z~
+
+0xA01B983F = ~z~I said get outta here!
+
+0xA065DCBE = ~z~My makeup will run.
+
+0xA0C33A55 = ~z~Hey! Come here!
+
+0xA0FA19B6 = ~z~Tight-arsed idiots. All of you.
+
+0xA1E6A59B = ~z~Hey!
+
+0xA1E540C3 = ~z~Thank you.
+
+0xA2AB6CD7 = ~z~My friend, my friend, it is me...
+
+0xA2BDC9BD = ~z~Au revoir!
+
+0xA2CD9CB8 = ~z~More friends? I'll deal with him.
+
+0xA3DD0ADA = ~z~Hey...
+
+0xA3F904FE = ~z~Come on...
+
+0xA4B469B4 = ~z~Don't drag your feet.
+
+0xA4C8CEC4 = ~z~you got yourself into trouble...
+
+0xA5F523E8 = ~z~Hey, buy me a drink, mon ami.
+
+0xA6E0D66C = ~z~the little bird is free.
+
+0xA8F54CA3 = ~z~All the civilised world.
+
+0xA19B942C = ~z~More friends? I'll deal with him.
+
+0xA59F1161 = ~z~Gives him an air of mystique.
+
+0xA83B3194 = ~z~Follow me.
+
+0xA97E8ACD = ~z~Why would you be showing it to that man?
+
+0xA150A609 = ~z~Ah, this is the drink I need.
+
+0xA535CA21 = ~z~I think that it's Greek.
+
+0xA1674A82 = ~z~The man simply can't paint...
+
+0xA6379E97 = ~z~Two brandies, bud.
+
+0xA57497B4 = ~z~Please conceal your weapons, sir.
+
+0xA93159D5 = ~z~I am an artist, cowboy.
+
+0xA573515D = ~z~Hey, you gonna do right by this feller's wife?
+
+0xA898696C = ~z~~sl:0.0:1.1~Maybe that's a good thing.~sl:1.0~Hold-hold on, let me compose myself.
+
+0xA4452842 = ~z~A bold life... filled with art and truth, dirty truth. That is something that matters.
+
+0xA7739815 = ~z~Just one little drink, come on.
+
+0xAA8F0578 = ~z~Now maybe go be an asshole somewhere else for a while...
+
+0xAAD3B32E = ~z~I don't think art is the problem.
+
+0xAB1B0BB7 = ~z~~sl:1.0~Men are all the same. Anything in a skirt.
+
+0xAB17558F = ~z~I thought we had covered this?
+
+0xAC4EACB9 = ~z~I hope the sailors know who they're bunking with.
+
+0xAC255360 = ~z~Why I thought I would find my way in a country founded by Puritans, I'll never know.
+
+0xAD4952BA = ~z~There is always a heavy demand for fresh mediocrity, but new kinds of brilliance... not so much.
+
+0xADF6C78A = ~z~But of course. I needed to shit.
+
+0xAE233BFA = ~z~Bar-shitting, money-borrowing, wife-stealing...
+
+0xAEEA2583 = ~z~Where you going, pretty lady?
+
+0xAF1FBC91 = ~z~Hmm.
+
+0xAF333D25 = ~z~It seems to me that they were right...
+
+0xAF753405 = ~z~Merci, thank you.
+
+0xAFADDC7C = ~z~it's lies.
+
+0xB013DE44 = ~z~So, I must be boring you...
+
+0xB051173A = ~z~To be naked is to be free...
+
+0xB0A1DFBE = ~z~
+
+0xB0B63868 = ~z~Too many of them.
+
+0xB0C49959 = ~z~we are all just here to fuck.
+
+0xB1DBA7EC = ~z~Say your last adieu!
+
+0xB6B9E82C = ~z~Painting my little pictures...
+
+0xB8F1F625 = ~z~I hear there the light is really fantastique!
+
+0xB9FA9440 = ~t~In French: Come on. Faster.
+
+0xB24D54B6 = ~z~You did, and you are.
+
+0xB38CBEDB = ~z~If no one else will buy me a drink, I will go.
+
+0xB62B2962 = ~z~Hello, boys.
+
+0xB85E5E89 = ~z~You know, it's Italian most likely.
+
+0xB280E222 = ~z~Believe in women...
+
+0xB507C796 = ~z~to get you to the other side of the world.
+
+0xB871D201 = ~z~We go. We go.
+
+0xB884D15A = ~z~Get them!
+
+0xB2271A3B = ~z~Come on.
+
+0xB2569D05 = ~z~Look at these idiots...
+
+0xB2723CEC = ~z~
+
+0xB237593E = ~z~I'm going.
+
+0xB5051192 = ~z~As bad as it is...
+
+0xB6447533 = ~z~before the gendarmerie arrive.
+
+0xBB456227 = ~z~Those fellers, you shat on their bar?
+
+0xBBA1FEB6 = ~z~Hmmm.
+
+0xBDAA4EC3 = ~z~You have people to shoot, no? I have people to fuck. Art to paint.
+
+0xBDE8F76A = ~z~Eh. My friend. Let's go.
+
+0xBE0FB2B7 = ~z~innocent...
+
+0xBE2E3249 = ~z~Hello, boys.
+
+0xBF0FF647 = ~z~So, wait. You ain't sold none of your work?
+
+0xBF9D93AE = ~z~Hey! I know you're in there!
+
+0xBF981B81 = ~z~Good luck.
+
+0xBFAF789F = ~z~Mostly I...
+
+0xBFF1DEA2 = ~z~but it doesn't matter.
+
+0xBFFB03DA = ~z~Two brandies, bud.
+
+0xC00174D2 = ~z~This is an outrage.
+
+0xC0A03998 = ~z~A whole ass probably, and a drunk one at that.
+
+0xC1CB8A11 = ~z~We'll see.
+
+0xC2AB255F = ~z~This way... to the end of the docks.
+
+0xC2EB3DA6 = ~z~Well, that explains the decadence of those hottentots.
+
+0xC3DC676C = ~z~I've developed a feeling the purpose ain't to be hated.
+
+0xC5E8C8E4 = ~z~This way, this way, come on.
+
+0xC46C78F4 = ~z~Now maybe go be an asshole somewhere else for a while...
+
+0xC52D89DB = ~z~No. I'm a whole ass...
+
+0xC55D62C2 = ~z~Far as you're concerned, I am the devil... now get outta here.
+
+0xC73F07DE = ~z~I have seen the sights...
+
+0xC107F895 = ~z~Through here, we sneak.
+
+0xC480DFFD = ~t~In French: Shit.
+
+0xC484AD86 = ~z~My critics are savage.
+
+0xC2808C9B = ~z~You have done right by her...
+
+0xC5304D80 = ~z~Hey! I'm coming after you, Frenchy!
+
+0xC85700C5 = ~z~I told you I was a whole ass!
+
+0xC89295E9 = ~z~You're a painter?
+
+0xC291688A = ~z~My arm. My word.
+
+0xCA56C33D = ~z~My friend, go. Quick. You must leave.
+
+0xCAADEA01 = ~z~I don't know why you're so flustered.
+
+0xCAB8768E = ~z~Stay close, my chaperone.
+
+0xCB153DB2 = ~z~well, what are you dressed up like that for?
+
+0xCB512DE1 = ~z~Look at these idiots...
+
+0xCB3936BD = ~z~Let's go.
+
+0xCC439DB9 = ~z~If only the getting out of trouble...
+
+0xCD245CAC = ~z~this is no place for us.
+
+0xCDC07A3F = ~z~Now, I go to South Pacific...
+
+0xCF7CFD9E = ~z~
+
+0xD034001B = ~z~If the purpose of life was to be liked... it would be very boring indeed.
+
+0xD0D6D845 = ~z~alive.
+
+0xD1B6E079 = ~z~Come on back now, baby!
+
+0xD2C32E30 = ~z~Yeah, sometimes the getting in ain't so fun either.
+
+0xD3A95CD3 = ~z~We are in Saint Denis after all.
+
+0xD3DE24B4 = ~z~Sante.
+
+0xD4E9A333 = ~z~and I have discovered the one eternal truth.
+
+0xD5AAF820 = ~z~No weapons please... unless you will use them on the canvases.
+
+0xD6CA10FB = ~z~This will give me the typhoid. No matter.
+
+0xD6F06638 = ~z~Said you gave it to him in a bar. Said you were a...
+
+0xD7BCAE13 = ~z~You are the one at fault!
+
+0xD7C39864 = ~z~How do you think I can afford to buy paint? Not by selling art, that is for sure.
+
+0xD8BCC2ED = ~z~Charles... where are you?
+
+0xD8D93E1E = ~z~We stay behind here.
+
+0xD9B36D87 = ~z~We are away. Come now. Follow me.
+
+0xD13DDF87 = ~z~
+
+0xD39A5D21 = ~z~
+
+0xD57E35A6 = ~z~Hmmm.
+
+0xD80D378C = ~z~Ah, my friend.
+
+0xD94DD2E6 = ~z~Follow me.
+
+0xD319DE03 = ~z~Hey, you got a picture of my wife here...
+
+0xD431D803 = ~z~
+
+0xD570EE01 = ~z~Alright!
+
+0xD2252BE4 = ~z~the little bird is free.
+
+0xD3531ECD = ~z~And new kinds of deviance?
+
+0xD4912F9C = ~z~Okay.
+
+0xD8839CA7 = ~z~Remind me to avoid that place.
+
+0xD30391D9 = ~z~~sl:0.0:1.5~So much for the new world,~sl:0.4:1.2~the new morality,~sl:0.3~Saint Denis.
+
+0xD6800206 = ~z~O-of course, merci.
+
+0xDAFD1E44 = ~z~Come on out! You coward! We gonna talk about what you done to my wife!
+
+0xDB6A71C3 = ~z~So many distractions... so many temptations here... I never had a hope.
+
+0xDB9EDEC5 = ~z~Oh, I am a wanted man...
+
+0xDBFA8A1C = ~z~Brandy.
+
+0xDBFA429E = ~z~You gonna do right by this feller's wife?
+
+0xDBFE32B0 = ~z~That too...
+
+0xDD2098FD = ~z~What's this? Quickly!
+
+0xDD407001 = ~z~No. Don't get like that.
+
+0xDE489B4F = ~z~they always tell me the light there is perfect for my work.
+
+0xDE569E7A = ~z~Far as your concerned, I am the devil... now get outta here.
+
+0xDE1927DD = ~z~Hey...
+
+0xDEC69EAA = ~t~In French: Come on. Faster.
+
+0xDED5BAEB = ~z~don't believe in art...
+
+0xDED9EC43 = ~z~The gendarmes, they will come. Go.
+
+0xDEEF9169 = ~z~It's good to know you got a fail-safe philosophy at least.
+
+0xDF0FCA8B = ~z~Keep up, keep up.
+
+0xDFC988C0 = ~z~Don't be cheap... a drink.
+
+0xE1F519F3 = ~z~Sure what you want?
+
+0xE3A989FB = ~z~That it was not.
+
+0xE6E02C68 = ~z~
+
+0xE6F89110 = ~z~Hey...
+
+0xE7B53B0A = ~z~Hey, come on. My fresh excrement was better than any of the drinks they served in there.
+
+0xE7BC11AF = ~z~Stop looking at my momma!
+
+0xE9B5A592 = ~z~Sure what you want?
+
+0xE25DA377 = ~z~Oh, it's nothing. I thought I knew him.
+
+0xE25E81CF = ~z~That it was not.
+
+0xE28DCDC5 = ~z~We'll see.
+
+0xE63B2369 = ~z~No, no, no.
+
+0xE69BC84C = ~z~I'll tell you what I won't miss... civilisation.
+
+0xE93EBAC7 = ~z~Come on, what you need a wife for anyway?
+
+0xE314AF1E = ~z~If they don't like you in the islands...
+
+0xE468FEBE = ~z~Come on back now, baby!
+
+0xE471A7A1 = ~z~Well, so long as they weren't telling you that...
+
+0xE881B46A = ~z~In French: Oh no. How awful.
+
+0xE986EEE2 = ~z~Hey... where you gone off to, Frenchman?
+
+0xE2669CD4 = ~z~Who the devil are you?
+
+0xE2987BC8 = ~z~Like Buddha said, you know...
+
+0xE6764B86 = ~z~That poor child. The timid bird. You keep her in a cage, I just make her sing!
+
+0xE9727A6C = ~z~Charles Chatenay, the painter.
+
+0xE54748AA = ~z~You know, entirely worthless...
+
+0xE57136B4 = ~z~
+
+0xE1278875 = ~z~Well, I'll be...
+
+0xE4771320 = ~z~Are you crazy?
+
+0xE7985462 = ~z~Sometimes the getting in ain't so fun either.
+
+0xEA3CC780 = ~z~Ah, here we are. I know a lady over here, she may let me stay for a while.
+
+0xEBADD497 = ~z~Breasts...
+
+0xEBE62B36 = ~z~Leave me... I am drunk... I have things to do.
+
+0xEC953AF7 = ~z~Who the devil are you?
+
+0xECC0D058 = ~z~You are distracting us from important work, please.
+
+0xED4981E1 = ~z~Two brandies, bud.
+
+0xEDC25F68 = ~z~What you want?
+
+0xEDCB2B67 = ~z~What would you do in my situation, huh?
+
+0xEEA1EEB7 = ~z~Hey... where you gone off to, Frenchman?
+
+0xEF43373E = ~z~There he is, that degenerate!
+
+0xEFD2A5CB = ~z~The man's actually yellow... from the ague.
+
+0xEFF7884B = ~z~We have many weeks together. We will get to know each other well.
+
+0xF0471468 = ~z~Hey, look out.
+
+0xF065E047 = ~z~So I went away.
+
+0xF1C46E32 = ~z~Hey!
+
+0xF1CC4256 = ~z~just to get you on the other side of the world.
+
+0xF6CA1208 = ~z~Defend me.
+
+0xF7A2CE01 = ~z~
+
+0xF7A10AFF = ~z~Oh dear. Oh my.
+
+0xF7FAEE11 = ~z~Art, it's for idiots.
+
+0xF9F6791E = ~z~was as much fun as getting into it.
+
+0xF14B7709 = ~z~Hey! Hey!
+
+0xF22A5F0C = ~z~you know.
+
+0xF22F2E90 = ~z~I'll be back, you cad!
+
+0xF25B6C28 = ~z~You come, see what I mean.
+
+0xF47DBC85 = ~z~A bold life... filled with art and truth, dirty truth. That is something that matters.
+
+0xF50D2C51 = ~z~Stop looking at my husband's buttocks!
+
+0xF655CB53 = ~z~Please do not do that again. Now, get moving. Come on.
+
+0xF874C7DC = ~z~What to do?
+
+0xF1902C4D = ~z~I am dying of thirst over here.
+
+0xF2219C12 = ~z~delicates!
+
+0xF25783D9 = ~z~Up here. She is my ship.
+
+0xF4182542 = ~z~I think we are okay. The exhibition, what can you say? It was not boring!
+
+0xFA23F90B = ~z~Yeah, but...
+
+0xFB6B3939 = ~z~Come on, Mildred...
+
+0xFB47FF3C = ~z~There never been no mystery 'bout you.
+
+0xFB409679 = ~z~
+
+0xFC28450B = ~z~The exhibition is through there, if you can call it that.
+
+0xFCE5BFED = ~z~No more than you or I. Feller just wears a beard.
+
+0xFD09DBE0 = ~z~I said get outta here.
+
+0xFDBFDF36 = ~z~If you given her pox, I'll come back and kill you twice!
+
+0xFE6D09E3 = ~z~They are coming... keep them away.
+
+0xFE20CC12 = ~z~I didn't know that the French fool had a minder.
+
+0xFE7073B7 = ~z~Find yourself another hidey hole.
+
+0xFF1E258A = ~z~It's two dollars a glass.
+
+0xFF9ED2F7 = ~z~you sure got a way of ingratiating yourself with people...
+
+0xFFDD8482 = ~z~Where were you on your journey?
+
+0xFFE0C224 = ~z~Come here!~n~~m~Hey!
+

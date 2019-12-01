@@ -1,0 +1,28 @@
+0x4DFB5D81 = Defend the ~COLOR_MP_OBJECTIVE~campsite~s~
+
+0x6FAC1E39 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~traveler~s~ at the ~COLOR_MP_OBJECTIVE~campsite~s~
+
+0x8B76CFBB = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~travelers~s~ at the ~COLOR_MP_OBJECTIVE~campsite~s~
+
+0x43F68AB4 = Protect the travelers ~1b~ at the ~COLOR_MP_OBJECTIVE~campsite~s~ for the full reward.
+
+0x52D07594 = The traveler was abandoned
+
+0x93F134BB = The traveler was killed
+
+0x516B0641 = Traveler
+
+0x1949FF45 = Protect the traveler ~1b~ at the ~COLOR_MP_OBJECTIVE~campsite~s~ for the full reward.
+
+0x374857F2 = The traveler was defended
+
+0x44360856 = ~1~/~2~ travelers were defended
+
+0xA51F9928 = The travelers were defended
+
+0xB835F6DC = The travelers were abandoned
+
+0xC619E875 = Defend the ~COLOR_MP_OBJECTIVE~campsite~s~
+
+0xD077D7F8 = The travelers were killed
+

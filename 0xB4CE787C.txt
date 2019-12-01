@@ -1,0 +1,44 @@
+0x053E40B3 = Safe
+
+0x07664799 = Force the cashier to open the ~o~safe~s~
+
+0x3B21EDCF = Swap Sides
+
+0x3BD1440E = The cashier was killed before he opened the safe.
+
+0x4B033686 = Use ~INPUT_VEH_SHUFFLE~ to swap to the other side of the trolley.
+
+0x4BE03906 = Return to the ~o~station~s~
+
+0x5A74EDB5 = Search the ~o~safe~s~
+
+0x5A99CFF1 = The gang was abandoned.
+
+0x7FAC40E7 = Get on the ~o~wagon~s~
+
+0x9A7A7529 = Follow ~o~Lenny~s~
+
+0x9D8F4E2E = The wagon became immobile.
+
+0x90EDE36A = Follow ~o~Lenny~s~
+
+0x99BF1142 = You will now remain in Dead Eye when firing without any targets tagged.
+
+0x695E5F7E = Loot
+
+0x159388C0 = Fend off the ~e~lawmen~s~
+
+0xBF8AB783 = Keep up with ~o~Lenny~s~
+
+0xC91F0E5F = Cashier
+
+0xCB53B52A = Safe
+
+0xDFCDAECD = Fend off the ~e~lawmen~s~
+
+0xEC1CA584 = Customer
+
+0xF5B8A43E = Rob the ~o~customers~s~
+
+0xF963699F = Take out the ~e~pursuers~s~
+

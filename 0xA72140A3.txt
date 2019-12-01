@@ -1,0 +1,12 @@
+0x0EC57D7B = Accept
+
+0x9BD6EAFC = Mark Johnson escaped.
+
+0xA9D2E04A = Mark Johnson has died.
+
+0xB9E762F6 = Mark Johnson was left behind.
+
+0xFABE4343 = The kid was frightened.
+
+0xFFEFDFBC = Decline
+

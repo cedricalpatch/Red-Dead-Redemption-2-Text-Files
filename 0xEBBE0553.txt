@@ -1,0 +1,582 @@
+0x01680BAD = ~z~There.
+
+0x02B037C5 = ~z~Throw them in here. Ugh, I don't have the stomach for this...
+
+0x036F51AE = ~z~You sure they all dead? One of these starts talking I'll shit my britches...
+
+0x05363135 = ~z~And who is this?
+
+0x055E53B2 = ~z~Just a short drive. Watch over me, Santa Maria...
+
+0x06B15ADD = ~z~On the floor for now.
+
+0x09106709 = ~z~Here, I suggest you buy yourself a drink.
+
+0x0A86653D = ~z~In there, rough as you like. They ain't for complaining no more.
+
+0x0AC4806B = ~z~You're gonna sing for me, jailbird! I'll make sure of it.
+
+0x0BA0AE68 = ~z~Bad luck for you, eh? Not long now!
+
+0x0CEC6753 = ~z~Put them just there.
+
+0x1CA28DEE = ~z~Got 'em all alive, huh? Between you and me, might not stay that way...
+
+0x1CB7F29F = ~z~Got regrets, I bet. Not as many as me...
+
+0x1E000F7D = ~z~I believe this delivery is for me.
+
+0x1EE8E146 = ~z~Bounties in that wagon?
+
+0x1FBE4FF6 = ~z~You got a good haul in there, I hope...
+
+0x1FD3089B = ~z~These ones aren't going to behave, I can feel it.
+
+0x2D78EB6B = ~z~At last! I was just getting bored...
+
+0x2D92848F = ~z~Put 'em there for a minute.
+
+0x2DEB2C0A = ~z~You should smell 'em at the other end. Gets hot in there.
+
+0x2E4ED6D9 = ~z~Dead? Alright, in they go...
+
+0x2E6B96DF = ~z~You just... cooperate, okay?
+
+0x2F54085C = ~z~Well ain't this a whole stack of mess. I gotta clean this wagon out when I'm done, too.
+
+0x2FA01D13 = ~z~~sl:0.0:0.7~There.~sl:0.7~See you again, no doubt.
+
+0x3C1D3242 = ~z~This one looks... angry.
+
+0x3C19D56F = ~z~Got 'em all alive? Gonna pay out good.
+
+0x3C67C1C4 = ~z~You don't want to drive them yourself? No?
+
+0x4A15DC79 = ~z~Dump 'em there.
+
+0x4BFF698E = ~z~~sl:0.0:0.9~Ugh...~sl:~it better not be a mess in there...
+
+0x4C6C03C9 = ~z~You belong to me now, you piece of shit. In there!
+
+0x4C20C3F5 = ~z~And this is yours.
+
+0x4E0463E4 = ~z~Ooh, a mixed bag. My favorite. Throw 'em in.
+
+0x4E8BAE2A = ~z~No fighting, no talking, no groaning and no screwing in my wagon.
+
+0x4EA0FA7D = ~z~~sl:0.0:2.7~Good hunting. Most I know would've settled~sl:~for the dead price on these...
+
+0x4FF4B062 = ~z~Hope that's full to brimful!
+
+0x5B09BDC9 = ~z~Ah, this must be my fare...
+
+0x5B3A37EE = ~z~And what do we have here...
+
+0x5B3CA16A = ~z~Must have a strong stomach, bounty hunter. I wouldn't touch this turd.
+
+0x5E1C0028 = ~z~Long as one's still breathing, I still count 'em alive.
+
+0x5EF6145B = ~z~Dead or alive was it? You just hedging your bets with a little of both?
+
+0x5F9A93E1 = ~z~They begged for their life yet? It's like music to me, I swear...
+
+0x5F21D565 = ~z~Let me guess, you're innocent? You can tell me all about it on the way.
+
+0x6A0DB156 = ~z~Reckon we'll get these hanging before the next sun up...
+
+0x6A9A2BA3 = ~z~You still breathing there? Well, I'm sure your friend saved you a spot in hell.
+
+0x6B638994 = ~z~Hard day's work for you. I get the easy bit.
+
+0x6C24ACFB = ~z~Still kicking, good, good...
+
+0x6D6E71FE = ~z~Very good, the sheriff has been asking for this one personally.
+
+0x6E3A3120 = ~z~I expect you looted 'em all already? Can't hurt to double check...
+
+0x6F9E0454 = ~z~Throw the body down there.
+
+0x6F61E679 = ~z~Well now, I smell a comeuppance...
+
+0x6FDBA3A7 = ~z~You'll get the full price for any still breathing.
+
+0x7AA74B59 = ~z~Whoever is in there is going to make you rich, huh?
+
+0x7AAA3B07 = ~z~Who you got there?
+
+0x7B51862B = ~z~Drop 'em just there.
+
+0x7C4BCF06 = ~z~If you're gonna talk on the way, talk to your dead friend there, I ain't for chatter.
+
+0x7D272D1B = ~z~All in there, let's get this done.
+
+0x7EDDB078 = ~z~In the wagon please. It's a long trip, don't dawdle...
+
+0x7F25BFA8 = ~z~Well, this must be my lucky day...
+
+0x7F385322 = ~z~Ropes good and tight?
+
+0x8AD7CFB6 = ~z~Hey! Don't look at me, I didn't catch you.
+
+0x8B2725D6 = ~z~Down there.
+
+0x8C544B65 = ~z~I ain't paid to handle stiffs, just drive 'em. You can throw 'em in there.
+
+0x8CD95B0F = ~z~Ugh, can't a feller get a rest...
+
+0x8D9A60E7 = ~z~Got one huh? Good, good...
+
+0x8DA3CFC9 = ~z~Look like you got beat, friend.
+
+0x8E3C3E94 = ~z~I sure hope this ain't one for talking, 'cause I ain't in the mood.
+
+0x9ACA2FD2 = ~z~In there. Way I see it, you saved us a hanging...
+
+0x9B38DB89 = ~z~Throw it down there.
+
+0x9B9242DA = ~z~Ah, you two remind me of my wedding night...
+
+0x9BAAF8B2 = ~z~This for me I suppose?
+
+0x9BE26C46 = ~z~Hook, line and sinker.
+
+0x9C32BEC4 = ~z~Those ropes better be tight.
+
+0x9C44E7F5 = ~z~There.
+
+0x9C4624D0 = ~z~Toss 'em in. Ain't no sense respecting the dead, if you ask me...
+
+0x9EABDC5C = ~z~In there. Good money for corpses these days, eh?
+
+0x13ADFB2D = ~z~Heavy one? In here please...
+
+0x13BDAF32 = ~z~Well, well, lookie here...
+
+0x16B6591D = ~z~Here's your reward.
+
+0x19BC4A9F = ~z~Make the most of the ride, my friend, it won't take long.
+
+0x25C0A18D = ~z~Well, well, let's see what you have.
+
+0x30B3B2F7 = ~z~~sl:0.0:3.3~Here I was hoping this would be a do-nothing day,~sl:~and then you trundle into view...
+
+0x32B0D74E = ~z~Got 'em alive. Good hustle, good hustle...
+
+0x34CFB1ED = ~z~Stiffs down there.
+
+0x37BDC96E = ~z~I sure hope this one ain't a talker...
+
+0x39BC900A = ~z~See my wagon there? Gonna be your home real soon.
+
+0x39C254DA = ~z~By tomorrow, you will be just as dead as your friend there.
+
+0x41F041B3 = ~z~There's your money.
+
+0x43BF40AD = ~z~That one's hands is a little blue, you tied 'em right.
+
+0x50E5314F = ~z~Just there.
+
+0x51BB8906 = ~z~Just think, their soul is downstairs heating up already...
+
+0x52B206D1 = ~z~The things I heard folk say to their dead comrades in this here wagon. Makes you wonder...
+
+0x59D20856 = ~z~Alright, let's get 'em hanging.
+
+0x59F4DDA9 = ~z~In there. Just fold 'em up anyhow, I don't care...
+
+0x61C7F65D = ~z~Well, they paid their due now. Throw 'em in.
+
+0x62FBECC7 = ~z~You have someone for me?
+
+0x63C80F6B = ~z~Don't mind getting cosy with the corpse of your comrade, do you? Good!
+
+0x65D41BDB = ~z~This here's my date huh? Throw 'em in there...
+
+0x66AB5CDB = ~z~Sling 'em there.
+
+0x68F8D36B = ~z~Well, I do like me a surprise.
+
+0x75E281C8 = ~z~Always takes about twenty minutes before they're blaming each other.
+
+0x76F8BE24 = ~z~Know what I think we should do we these? Pig food. You think about it...
+
+0x81E1917F = ~z~Are you people supposed be famous? I don't recognize you.
+
+0x87B5ECA6 = ~z~~sl:0.0:2.6~Well, ain't these folks a handful?~sl:~Don't worry, I'll take 'em from here.
+
+0x89DF7EAF = ~z~Get 'em in there. Thinking I might have a little fun with this one on the drive home...
+
+0x91F5F897 = ~z~You wanna spit on 'em before I take 'em? Last chance!
+
+0x92D4D80C = ~z~I am sure they all deserved it. Throw them inside.
+
+0x93D8255E = ~z~So... you have one more for me?
+
+0x93DE4652 = ~z~Alive and dead, all go in the same wagon...
+
+0x96C1E78A = ~z~You are brave, keeping this one alive.
+
+0x98A35366 = ~z~Well, it's a long trip. You wanna confess to someone, ask for a damn priest.
+
+0x98EF85B6 = ~z~In here. Looks almost... peaceful, no?
+
+0x106A692B = ~z~Nasty work.
+
+0x124F781C = ~z~Ah, there was me starting to twiddle my thumbs.
+
+0x203D4957 = ~z~Enjoy.
+
+0x244A1612 = ~z~Down there.
+
+0x246EBACA = ~z~~sl:0.0:2.2~Still breath in this one's lungs,~sl:~that's worth something to ya...
+
+0x261E0D9A = ~z~Ugh, there goes my nap.
+
+0x276A1722 = ~z~Right there.
+
+0x283A23F1 = ~z~Alright, let's open her up, see what you got.
+
+0x295CF982 = ~z~This one must be for me...
+
+0x310DEAF8 = ~z~S'yours.
+
+0x321C29EC = ~z~Another one? Been a busy day.
+
+0x351FBEF6 = ~z~Give you much trouble?
+
+0x365EC174 = ~z~Looks like a wriggler...
+
+0x393D3667 = ~z~That one alive? Hey, should've gone down fighting like your friend.
+
+0x414E88FD = ~z~Welcome, my friend.
+
+0x418EACD1 = ~z~These are some nasty goods you selling. In there.
+
+0x458AACFA = ~z~You know, I'd almost switch places with 'em. I hate this job.
+
+0x459CE52C = ~z~Kept 'em alive? Well ain't you just mercy on two feet...
+
+0x533D485F = ~z~All aboard. Next stop, end of the line.
+
+0x560D832E = ~z~This is you. I'll be on my way.
+
+0x567AE624 = ~z~Howdy, I'll be your driver today...
+
+0x620E6601 = ~z~I hear one peep outta you, I hit every bump in the road, clear?
+
+0x640E55D5 = ~z~Okay, settle down my friends, we have a journey ahead of us.
+
+0x714DF3AE = ~z~~sl:0.0:1.8~Any of you rile me up...~sl:~all I gotta say is you were delivered dead.
+
+0x735DBA2F = ~z~Got some business, I see.
+
+0x791C8630 = ~z~~sl:0.3~The faster this one hangs, the better.
+
+0x801D0BA0 = ~z~And what do we have here...
+
+0x838EA3B5 = ~z~You and me gonna have some fun...
+
+0x857C9EF4 = ~z~In there. Careful, this ones bites.
+
+0x873B1570 = ~z~Over there.
+
+0x890E8C5B = ~z~One stiffening corpse. In the wagon, please.
+
+0x895BE8C2 = ~z~This delivery is for me, I think?
+
+0x896F424A = ~z~There you go.
+
+0x901BE884 = ~z~Go down fightin' huh?
+
+0x918A68BF = ~z~Now, would this client be living or dead?
+
+0x1540F551 = ~z~In there. All the same when they're dead, ain't they?
+
+0x3290B29F = ~z~Drop them there.
+
+0x3310B158 = ~z~Next stop, the butcher shop! I ain't joking...
+
+0x3409E98E = ~z~Open her up and let's see what we got.
+
+0x4226AB1D = ~z~A successful hunt, eh?
+
+0x5570C772 = ~z~Oh, don't you worry, you're in good hands now...
+
+0x6076FAF5 = ~z~No point struggling, it's too late now.
+
+0x6080A26E = ~z~Trust me, once you shared this wagon with a corpse, you'll wish you was dead instead of them...
+
+0x7003FC98 = ~z~You nice and uncomfortable?
+
+0x7064B5B8 = ~z~And this is yours...
+
+0x7610C334 = ~z~Honest day's work.
+
+0x8179A1F8 = ~z~In the wagon. Looks this one won't be struggling much, eh?
+
+0x9519BB41 = ~z~~sl:1.0:2.5~Ain't this a bag full of rats.~sl:~Wager one gets eaten before we arrive.
+
+0x9707CAA7 = ~z~Those ropes too tight? Good good!
+
+0x16321E51 = ~z~~sl:0.0:1.7~This one give ya much trouble?~sl:~Looks like a little... pussycat!
+
+0x25444C03 = ~z~Don't keep me in suspense, who we got?
+
+0x29142C1B = ~z~Your carriage awaits, your highness...
+
+0x35289D1F = ~z~Seems to me we best leave the judging to God. Anyway, in they go.
+
+0x43273F7D = ~z~Go on, squirm a little harder. That oughta work...
+
+0x54644F98 = ~z~Bounty? You're in the right place...
+
+0x91986C28 = ~z~You got them alive... Increible!
+
+0x447590A1 = ~z~And who's this?
+
+0x684727A1 = ~z~Here, enjoy.
+
+0x711414E5 = ~z~In there. I met these idiots once, always knew it'd end like this.
+
+0x741678A5 = ~z~I do love me a surprise...
+
+0x758532E5 = ~z~Left that one alive, huh? Always worth leaving one or two alive...
+
+0x770079B3 = ~z~Howdy, that one dead or soon to be dead?
+
+0x827029F8 = ~z~That goes down there.
+
+0x871140EF = ~z~In there. Get heavy when they're dead don't they?
+
+0x879654D7 = ~z~Looks to me like we have a customer...
+
+0x4213149F = ~z~I got me a wagon too...
+
+0x4736382C = ~z~You know what my pa used to call this? A tin of sardines in shit.
+
+0x13790848 = ~z~You will have a lot to think about on this journey...
+
+0x17130432 = ~z~I think I can guess who you have in there...
+
+0x41227431 = ~z~Still kicking I see. Well, don't make no difference to me...
+
+0x41505430 = ~z~Don't suppose you got my mother-in-law in there, do ya?
+
+0x42914903 = ~z~So, one alive there. Tough break.
+
+0x72422256 = ~z~Here. Don't be a stranger.
+
+0x81398021 = ~z~Ugh, don't be dead, don't be dead...
+
+0xA1A304A2 = ~z~Oh good. A customer.
+
+0xA4B554D0 = ~z~And who's your friend there?
+
+0xA5F8D250 = ~z~Don't break the neck when you drop them!
+
+0xA6B64B1A = ~z~Bah, mierda... Who is this?
+
+0xA18A570F = ~z~Those ropes are... tight, yes?
+
+0xA26E63E1 = ~z~Throw what's left of that one in the wagon and let's get on with this.
+
+0xA87A035A = ~z~Throw them in. At least the undertaker gets well paid.
+
+0xA134E0FF = ~z~Throw them all in there, even the dead.
+
+0xA1318D30 = ~z~Hunters like you is what puts hangmen outta work...
+
+0xA5287CB3 = ~z~Put them in the wagon. I envy you, you know. You seem at peace with all of this.
+
+0xA7392BAC = ~z~~sl:0.6~Sorry looking stack of turds now, ain't they?
+
+0xA809797B = ~z~Just down there.
+
+0xAB650036 = ~z~Sling 'em down there for now.
+
+0xAC77B00D = ~z~Done deal.
+
+0xACAA2E3E = ~z~There you go, good luck out there.
+
+0xAD4FC02D = ~z~~sl:0.0:3.4~Throw 'em in. Least their trials are over now...~sl:0.3~unlike mine...
+
+0xAD5C988A = ~z~And this is for you.
+
+0xAD6DC5CF = ~z~This one'll crack. Blubbering and hollering for mama all the way home...
+
+0xAD373FFC = ~z~~sl:0.0:3.2~Why can't I just pay you and bury them here?~sl:0.5~Damn red tape...
+
+0xADC21005 = ~z~All over now, best not make a fuss.
+
+0xADD58E6B = ~z~I see you believe in keeping these things simple. Toss 'em in there.
+
+0xADDCEB41 = ~z~Dump 'em there.
+
+0xB1B13C50 = ~z~In here. The sheriff will be pleased to see these ones...
+
+0xB3C37B81 = ~z~~sl:0.3~This is going to be a long ride...
+
+0xB4FE1967 = ~z~Catch.
+
+0xB8D4DDED = ~z~You enjoy killing 'em? I would...
+
+0xB72DEC09 = ~z~I expect that is a bounty you have there?
+
+0xB81EFDF9 = ~z~I'm sure you good citizens will have a lot to talk about eh?
+
+0xB89E779B = ~z~At least you are breathing, for now.
+
+0xB636F422 = ~z~Got someone for me there?
+
+0xB748C268 = ~z~In here. What the hell am I doing with my life?
+
+0xB1816EB8 = ~z~Uh-oh, someone been naughty?
+
+0xB8620F59 = ~z~You left this one alive? Merciful, I guess...
+
+0xB3601272 = ~z~Here, you earned it.
+
+0xBB8BB4E8 = ~z~Don't spend it all at once.
+
+0xBB8C84D4 = ~z~I think I saw your pictures in the newspaper. You are just as ugly in the flesh!
+
+0xBB66F10B = ~z~You can throw that one right in there.
+
+0xBCDB1D2C = ~z~You caught someone, eh? Or more than one?
+
+0xBD2CA3C5 = ~z~Drop 'em just there.
+
+0xBDB51A76 = ~z~How long has this one been dead? The stink!
+
+0xBE9D0618 = ~z~That's your due.
+
+0xBE702FA0 = ~z~In there. I ain't paid enough to be no damn undertaker.
+
+0xBF8964A0 = ~z~~sl:0.0:2.7~In here. Good thing about being dead,~sl:~you don't notice the long journeys.
+
+0xBFC6D87B = ~z~In there. You know I have to bury these? Some job, eh...
+
+0xC040552B = ~z~Roped 'em up good. Look at 'em, all helpless...
+
+0xC1A737CF = ~z~Your runs ends here, my friend.
+
+0xC7C8BEFC = ~z~Here.
+
+0xC8A49846 = ~z~Down there.
+
+0xC8B4A276 = ~z~~sl:0.0:1.0~You folks hungry?~sl:0.4~Me too, and there ain't shit to be done about it.
+
+0xC53AA19D = ~z~You let yourself get taken alive, eh? Big mistake...
+
+0xC67E60D3 = ~z~In there. Just don't touch me with it...
+
+0xC826E76B = ~z~This is yours.
+
+0xC7769FFA = ~z~Hey, if you folks know any songs, keep 'em to your damn self.
+
+0xC6977972 = ~z~Throw that dog meat in the wagon...
+
+0xCB952D48 = ~z~Now go ahead and budge up in there, there's plenty of room.
+
+0xCB2113EF = ~z~You are wanting some money for that, I suppose?
+
+0xCB84787C = ~z~Dead or alive, or in this case, a little of both...
+
+0xCD2DEBE9 = ~z~~sl:0.0:1.8~Fair warning, I need 'em whole.~sl:0.3~If they's in bits in there, no deal.
+
+0xCD8AA3F3 = ~z~Good deal.
+
+0xCD12708E = ~z~Why don't you just kill 'em all? Seems like a job half done to me.
+
+0xCFDF6A8B = ~z~Throw 'em in. You see if any of 'em got gold teeth?
+
+0xD03A346A = ~z~Oh, I heard of this one.
+
+0xD3E281B9 = ~z~Feel free to protest your innocence, always good for passing the journey...
+
+0xD24ACE01 = ~z~Throw 'em down there.
+
+0xD24D10DD = ~z~Dead one huh? No fun...
+
+0xD96E0BCD = ~z~Good work, these ones deserved nothing less.
+
+0xD129C5C9 = ~t~In Spanish: This looks bad...
+
+0xD23085D4 = ~z~That one still alive huh? Well, not for long.
+
+0xD27449FF = ~z~Dump the stiff there.
+
+0xD85046BE = ~z~Ain't y'all a sight. So much for big bad outlaws, huh?
+
+0xD751838C = ~z~And here's your prize...
+
+0xDAF3547B = ~z~You still alive there? I almost feel sorry for you...
+
+0xDB2483C4 = ~z~Down there.
+
+0xDBD956BE = ~z~Dirty work, my friend. Toss that one in there.
+
+0xDCAB4053 = ~z~They can go down there.
+
+0xDD316CC8 = ~z~In there. You have killed a lot of people?
+
+0xDEF78F7C = ~z~My favorite guessing game. Dead or alive, what's it to be?
+
+0xDF9A0711 = ~z~Go on, stare in them dead eyes. That's all the company you deserve.
+
+0xE3FDED12 = ~z~Bodies go down there.
+
+0xE6B02651 = ~z~In there. They don't look so tough anymore, eh?
+
+0xE8BC4BB5 = ~z~All done but the burying huh? In there.
+
+0xE12E240B = ~z~Don't worry, the dead make quiet fellow passengers...
+
+0xE24C7403 = ~z~Your reward.
+
+0xE72AE473 = ~z~Well, if you lovebirds have anything to tell each other, this ride's your last chance...
+
+0xE92ABE98 = ~z~You showed this one good. In there.
+
+0xE4007C81 = ~z~You ain't gonna cause me no trouble now are you?
+
+0xE5141DFA = ~z~Did you close the eyes? I hate it when they stare at me.
+
+0xE9490BC2 = ~z~Still kicking...
+
+0xEA2AC643 = ~z~~sl:0.0:2.2~Next time gag 'em, would ya?~sl:~All got filthy mouths, these bounties.
+
+0xEB31F9D9 = ~z~So... who is in there?
+
+0xEC77049F = ~z~Good money.
+
+0xEE4BB2A0 = ~z~Good hunt? How many do you have in there?
+
+0xEEBCDEF5 = ~z~And who might be in there?
+
+0xEF8B6574 = ~z~Don't go anywhere, will you? Hah!
+
+0xF1F26AE1 = ~z~Drop them there.
+
+0xF6E5D358 = ~z~In there. I'm sure we'll get along fine.
+
+0xF8AEC18E = ~z~Well this one's all kinds of dead... In there, please.
+
+0xF71FB735 = ~z~If these ones get free, they are going to kill me...
+
+0xF90A4592 = ~z~Reckon you done some justice in that wagon, am I right?
+
+0xF502C2F6 = ~z~Throw them in. I'll take them from here.
+
+0xF705CF62 = ~z~Is that one alive? This is going to be a bad ride for you...
+
+0xF4877007 = ~z~Put them down there.
+
+0xFA47A040 = ~z~There you go.
+
+0xFAE94ABB = ~z~For you, good trails to ya.
+
+0xFCDA53A8 = ~z~I saw this one's poster. Always smaller when you meet 'em in person.
+
+0xFEF3A15C = ~t~In Spanish: Shit, I don't like this.
+

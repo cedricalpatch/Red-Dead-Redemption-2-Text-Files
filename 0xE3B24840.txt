@@ -1,0 +1,36 @@
+0x091BBED6 = ~z~I'm... I-I was always a good girl, and well... well... is there something wrong?
+
+0x0A3AC114 = ~z~Can I come in?
+
+0x1C8665AB = ~z~I'm still kinda resting.
+
+0x8B21F1AE = ~z~I mean, we have... we have made our escape outta the mountains, and life is beautiful once more.
+
+0x97B3D749 = ~z~Perhaps.
+
+0x134E8209 = ~z~But you've been so cold.
+
+0x259D26A6 = ~z~Miss O'Shea. I am many things. Many bad things. But cold? Never!
+
+0x635C222F = ~z~Though I do need my rest. So please.... please, excuse me.
+
+0x340284F9 = ~z~Would you excuse us a moment?
+
+0x42412176 = ~z~Oh hello, Arthur.
+
+0xA978FAD3 = ~z~Perhaps we could walk together later?
+
+0xAED90A52 = ~z~Nothing?
+
+0xB8409D71 = ~z~How've you been today?
+
+0xBD399781 = ~z~Miss O'Shea was just leaving.
+
+0xBDCFA83F = ~z~What could be wrong?
+
+0xC6193922 = ~z~I've been resting.
+
+0xD5415722 = ~z~Nothing at all, my dear.
+
+0xF6B71A0D = ~z~The thing is Dutch... the thing is... I'm eh...
+

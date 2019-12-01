@@ -1,0 +1,22 @@
+0x5C442209 = ~z~~sl:1.3~No, not Arthur! Also, a couple of morons threatened to lynch me...
+
+0x6E70C662 = ~z~~sl:0.6:2.3:1~Arthur never said he'd been robbed.
+
+0x7E0F659F = ~z~Robbed a drunk who wanted a fight.
+
+0x43B5EE54 = ~z~How about you?
+
+0x98B39AEB = ~z~Sure. A few bits and pieces.
+
+0x320B4AFF = ~z~A few bits and pieces. Nothing that exciting... not yet at least.
+
+0x4601F5C1 = ~z~~sl:1.3~Good lad.
+
+0x50020985 = ~z~~sl:0.0:4.5:1~So... I ran away, came back and robbed them.
+
+0xAA793E76 = ~z~Have any luck out there?
+
+0xB3585034 = ~z~~sl:0.3~Hosea!
+
+0xC702F789 = ~z~~sl:0.0:0.9:1~Leonard!
+

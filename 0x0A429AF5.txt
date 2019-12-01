@@ -1,0 +1,28 @@
+0x9CA6127D = ~z~Well,
+
+0x26ADE1DD = ~z~Ain't doing nothing wrong.
+
+0x658E244E = ~z~Hey little feller.
+
+0x7447FD1C = ~z~You ever tried parenting, Arthur?
+
+0x45061E99 = ~z~Leave the boy alone.
+
+0x63471FC0 = ~z~What you up to?
+
+0xA1635756 = ~z~
+
+0xAEA7B680 = ~z~A dollar? Sure.
+
+0xB13CD28C = ~z~
+
+0xC0FADB26 = ~z~How'd you like to earn a dollar?
+
+0xD3457FBB = ~z~Nothing.
+
+0xE5C2A4BD = ~z~I'll give you a dollar.
+
+0xF6EB0258 = ~z~Cow. Poke.
+
+0xF7F8C929 = ~z~~sl:0.0:1.8~go up to old Arthur Morgan,~sl:~ask him about the pole he's got stuck up his ass,
+

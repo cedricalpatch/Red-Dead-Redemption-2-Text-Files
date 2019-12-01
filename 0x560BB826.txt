@@ -1,0 +1,64 @@
+0x03DE243A = ~z~She took me down into her cellar,
+
+0x09F3B02D = ~z~The ring-dang-do, now what is that?~n~~m~The ring-dang-do, now what is that?
+
+0x0AC1BF6A = ~z~The ring-dang-do, now what is that?~n~~m~The ring-dang-do, now what is that?
+
+0x2E30F8DF = ~z~And that's what you call the ring-dang-do.~n~~m~And that's what you call the ring-dang-do.
+
+0x6B598098 = ~z~Hung this sign upon her door;
+
+0x7C0E2201 = ~z~The ring-dang-do, now what is that?~n~~m~The ring-dang-do, now what is that?
+
+0x18FB5BDD = ~z~To take a crack at my ring-dang-do.
+
+0x19B2CFAB = ~z~It's soft and round like a pussy cat,~n~~m~It's soft and round like a pussy cat,
+
+0x37BD1960 = ~z~Got a hole in the middle and it's split in two;~n~~m~Got a hole in the middle and it's split in two;
+
+0x40E22A62 = ~z~Got a hole in the middle and it's split in two;~n~~m~Got a hole in the middle and it's split in two;
+
+0x53ACCFF7 = ~z~It's soft and round like a pussy cat,~n~~m~It's soft and round like a pussy cat,
+
+0x98AF4DA6 = ~z~When I was just a lad you know;
+
+0x960BD738 = ~z~Said that I was a mighty fine feller,
+
+0x27876B54 = ~z~Got a hole in the middle and it's split in two;~n~~m~Got a hole in the middle and it's split in two;
+
+0x28497BB5 = ~z~Now you have lost your maiden head;
+
+0x39889E33 = ~z~Let me ride on the ring-dang-do.
+
+0x48463BAE = ~z~The ring-dang-do, now what is that?~n~~m~The ring-dang-do, now what is that?
+
+0x466236AA = ~z~It's soft and round like a pussy cat,~n~~m~It's soft and round like a pussy cat,
+
+0x72729006 = ~z~And that's what you call the ring-dang-do.~n~~m~And that's what you call the ring-dang-do.
+
+0xA4B27485 = ~z~Fed me wine and whiskey too;
+
+0xAACE7F81 = ~z~Make your living off a ring-dang-do.
+
+0xADDD86DF = ~z~Got a hole in the middle and it's split in two;~n~~m~Got a hole in the middle and it's split in two;
+
+0xB423048D = ~z~She had blonde hair and blue eyes too;
+
+0xC1F62DD4 = ~z~She went off to be a whore;
+
+0xCFB5C953 = ~z~And that's what you call the ring-dang-do.~n~~m~And that's what you call the ring-dang-do.
+
+0xD1404DA4 = ~z~Her father come in and angrily said;
+
+0xDD7DE4E3 = ~z~A dollar each and three for two;
+
+0xDE7B593D = ~z~I met a gal from ol' Bordeaux;
+
+0xDF03E92B = ~z~It's soft and round like a pussy cat,~n~~m~It's soft and round like a pussy cat,
+
+0xEF3286F8 = ~z~And that's what you call the ring-dang-do.~n~~m~And that's what you call the ring-dang-do.
+
+0xF5871631 = ~z~Pack your bags and your coat tags too;
+
+0xFC3814B6 = ~z~She let me rid on the ring-dang-do.
+

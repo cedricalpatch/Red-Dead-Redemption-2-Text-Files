@@ -1,0 +1,14 @@
+0x2C808D41 = ~z~~sl:0.0:3.0:1~Yeah, wasn't so good at the end, I'll give you that.
+
+0x5B556AEA = ~z~~sl:1.1~Wasn't so good at the end.
+
+0x77D8A3F0 = ~z~
+
+0x9002D444 = ~z~~sl:2.3:1.2~Can you believe this?~sl:0.3~You, me, John, it's... just like the good old days.
+
+0xA512FE64 = ~z~~sl:0.0:2.0:1~You know, I'll toast to that.
+
+0xC617C061 = ~z~~sl:0.0:4.4~For a while, I thought Dutch had found a better, fairer way to live.~sl:~But it wasn't real.
+
+0xD85664DE = ~z~Guess I'm done fighting for something I can't change.
+

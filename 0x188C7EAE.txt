@@ -1,0 +1,1052 @@
+0x000F581A = Hosea was abandoned.
+
+0x006B581F = ~z~I should really be heading back over to Great Plains to see about Sean.
+
+0x00B98991 = Clues left by the Legendary Animal appear as ~BLIP_AMBIENT_SECRET~. While using Eagle Eye, approach these clues and inspect them to reveal the animal trail.
+
+0x00C25483 = ~z~~sl:0.0:1.9~Goddamn Micah...~sl:0.9~we send him out scouting and he ends up in a jailhouse.
+
+0x00F3DBC8 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the clue
+
+0x017316BA = ~z~~sl:0.0:2.7~Nonsense. ~rp~We'll be alright.~sl:0.8~Just need some money to get back on our feet.
+
+0x02600E4D = ~z~Don't let that big bastard get the better of you there, Arthur.
+
+0x02C26D09 = ~z~Oh ~rp~I remember now, just about. ~rp~That turned into a long day.
+
+0x03CC95C8 = Your Iron Grey Roan Ardennes horse will be available to collect in the stables.
+
+0x042998D4 = ~z~You alright with that horse?
+
+0x045C8AA5 = ~z~And how he's enjoyed his hero's return.
+
+0x048CFB1E = ~z~Hey, I don't think he went that way.
+
+0x057F0164 = ~z~But this time we're doing the chasing...
+
+0x0592CFDE = ~z~Is he gone?
+
+0x065D1DAF = ~z~You saved my life, Arthur.
+
+0x06AA5BE7 = ~z~Every day.
+
+0x06AFC57A = Hold ~INPUT_OPEN_WHEEL_MENU|PromptId=Hnt1WeaponWheel~ ~s~to show the Weapon Wheel
+
+0x073AE547 = ~z~Hold up here.
+
+0x07A692E6 = Grooming and caring for your horse increases your bonding level. Your horse's attributes improve as your bonding level increases.
+
+0x080C1FE1 = ~z~well I stole it from him...
+
+0x08B007CA = ~z~Alright, let's get going. ~rp~We got quite a ride ahead of us.
+
+0x08C2D69F = You failed to plant the bait.
+
+0x09169F8A = Plant the bait near the ~o~large stones~s~
+
+0x09CA7B80 = ~z~Looks real fresh. Reckon he's gotta be close.
+
+0x09DC3DB4 = ~z~I ain't picking it up, it's your kill.
+
+0x09FA561C = ~z~Yeah, I just don't know if he was picked up, or picked off.
+
+0x0A09F7E2 = ~z~So...
+
+0x0B7054BE = ~z~Okay.
+
+0x0C23E21E = ~z~Some beautiful saddles... I used to have a real nice one.
+
+0x0CF673DE = ~z~~sl:0.0:2.0~So Trelawny says...~sl:0.4~Javier and Charles have gone with him to scope it out.
+
+0x0D7D9549 = ~z~we could place bait here.
+
+0x0D7EF19B = ~z~Quick, before they hightail it.
+
+0x0D89D56C = ~z~Well, of course, that's gonna affect what I can pay but your lucks in.
+
+0x0E94A0D7 = ~z~I see.
+
+0x0FEDA1C7 = ~z~He'll still be celebrating a month from now.
+
+0x1A2E3BB8 = ~z~~sl:1.2~I never would.
+
+0x1AAE69B1 = ~z~Must be something.
+
+0x1B065C03 = ~z~Maybe.~rp~ But please don't you put that to the test.
+
+0x1CBB9BE0 = ~z~Hurry up so we can get going.
+
+0x1D7C7551 = ~z~I got a feller who's been looking for a decent workhorse like this for a while.
+
+0x1D88E0F1 = ~z~~sl:0.0:1.3~Or got away.~sl:0.5~There's one thing Sean Macguire's good at, it's wriggling out of things.
+
+0x1E1B9383 = ~z~Pretty dangerous going anywhere near Blackwater.
+
+0x1F3DEC8C = ~z~Hey, Arthur!
+
+0x2A00709E = Split Up
+
+0x2BEBE7A0 = ~z~He said it-it told him where to find...
+
+0x2C1BF8BE = ~z~Let's split up.
+
+0x2D040DE2 = ~z~Bears like fish, obviously...
+
+0x2D5BAF22 = ~z~Don't give up already.
+
+0x2D18BB52 = ~z~Good job.
+
+0x2D25FCC3 = ~z~
+
+0x2D37E7C4 = ~z~~sl:0.0:1.7~I'm going off to the general store...~sl:0.6:2.4:1~get a few things to lure that bear out with...
+
+0x2E0DB892 = A stable worker was hurt.
+
+0x2E84C0DB = ~z~You ready?
+
+0x2E621EEB = ~z~So what do you think about Sean? You reckon he's alright?
+
+0x2EBA2C0A = ~z~Okay.
+
+0x2F0F0225 = Search the ~o~hill~s~ for the bear's trail
+
+0x2F1C29F4 = ~z~What am I looking for?
+
+0x2FE9371E = ~z~Right... but, if he's alive, we gotta try.
+
+0x3A0918A6 = ~z~
+
+0x3A4D8467 = ~z~some real big animals.
+
+0x3BA07746 = ~z~Perhaps, but nothing's how it was right now.
+
+0x3BEF1806 = Wait for the bear
+
+0x3C83B764 = ~z~Easy...
+
+0x3C1363B6 = ~z~Where are you going, Arthur?
+
+0x3D79C989 = ~z~How's that horse treating you?
+
+0x3D97B90C = ~z~~sl:0.0:3.2~Alright, go sell that big brute and...~sl:0.9~buy yourself a horse.
+
+0x3EB19DE9 = ~z~Let's just make a call.
+
+0x3F0B0F16 = ~z~It's a pleasure
+
+0x3F4E20FE = ~z~Let's leave the bag over there.
+
+0x3FD63679 = Skin the rabbit
+
+0x4A6E180E = ~z~Are you going to mount that new horse of yours or not?
+
+0x4A99E0EF = ~z~Sarcasm should be beneath a man such as you.
+
+0x4BF3FF73 = ~z~~sl:0.0:2.0~Yes, remember?~lr:0.7:3.3:1~Mac went crazy, threatened to kill the whole town.
+
+0x4C1FAF91 = ~z~In you go.
+
+0x4D8796C4 = Pick up the ~o~rabbit
+
+0x4E63A190 = ~z~~sl:0.5~I guess you're right.
+
+0x4E65E828 = Equip the saddle on the new ~o~horse~s~
+
+0x4E199E1E = ~z~Well at least Sean made it back.
+
+0x4E446F82 = ~z~~sl:0.0:2.0~First time out of hiding as wanted men...~sl:~and he gets tangled up with the law.
+
+0x4FA5C3DF = ~z~Cook that rabbit then. They're... delicious on an open fire like this.
+
+0x5A9E68A0 = ~z~Don't worry about it.
+
+0x5A99B71E = ~z~Well let's just hope they don't find that money.
+
+0x5A273780 = ~z~You won't know till you get in the saddle.
+
+0x5ABEE957 = ~z~we might need to lay bait to draw him out.
+
+0x5B09305F = ~z~what do you think?
+
+0x5B367B34 = ~z~Arthur?
+
+0x5BC91DEC = Bear Dung
+
+0x5BED1BAB = ~z~Gimme a minute.
+
+0x5C1DE236 = ~z~Well go get it before a fox makes off with it.
+
+0x5E9AA2D1 = ~z~Alright, partner...
+
+0x5E681AF2 = ~z~~sl:0.0:4.2~Yes... I remember this place... Moonstone Pond.~sl:0.8~We're going the right way.
+
+0x5ED661A4 = ~z~A thousand pounds, you say?
+
+0x5F6B132C = ~z~No luck? Keep trying.
+
+0x5FA2AD22 = Cook the Game Meat
+
+0x5FF63FF1 = ~z~To be fair, Arthur, trouble has a habit of finding you too.
+
+0x6B2E48DE = ~z~Alright, let's head into town. And maybe stay out of the saloon this time.
+
+0x6BD59AD6 = ~z~You don't want to use anything too powerful on a small animal like that.
+
+0x6C2BCB07 = Bear Pawprints
+
+0x6D0DD652 = ~z~Hurry up, will you?
+
+0x6D6A5E89 = ~z~This one's okay but...
+
+0x6DAB62B1 = ~z~~sl:1.4:3.4~Nobody else would have been welcomed back that easy~sl:~after that long, and you know it.
+
+0x6DEC902C = ~z~You see anything?
+
+0x6E6799ED = Return to the ~o~trail
+
+0x6F9A7BF0 = ~z~Well then, you get us set up.
+
+0x7A6EFA73 = ~z~I hope so. ~rp~You find a way to offload those Cornwall bonds yet?
+
+0x7A87298F = ~z~Let's keep on this trail while it's still fresh.
+
+0x7B7BED5C = ~z~It's called O'Creagh's Run,~rp~ up in the mountains east of Cumberland Falls.
+
+0x7B413C2C = ~z~Susan sent them out scouting, but I figured they'd be back by now.
+
+0x7B791AE9 = ~z~I think so... you're the expert.
+
+0x7B93279E = ~z~What, you need me to come with you?
+
+0x7C3D05F5 = ~z~I'm coming with you.
+
+0x7C9FA2D4 = ~z~I'm in the market for a new horse.
+
+0x7CE89A3D = ~z~~sl:0.4~Don't be rude about this magnificent creature.
+
+0x7CF0E33E = ~z~By those boulders up ahead looks like a good spot for it.
+
+0x7D12CC17 = ~z~~sl:0.0:1.3~Okay, well...~sl:0.7~with some good care, you should be able to make something of it.
+
+0x7D5917B8 = ~z~You're fine, old man.
+
+0x7EAD872A = ~z~I'm sure he does.
+
+0x7F5BF904 = ~z~Either that or...
+
+0x8A6E0E3E = ~z~Shoot that thing, please!
+
+0x8A7AE29B = Horse
+
+0x8AD7FC6B = ~z~~sl:0.0:3.4~Running off on that kid is one thing, but there's a code,~sl:~and he knows that.
+
+0x8C054D6E = Stow the rabbit on your ~o~horse
+
+0x8CC025C8 = ~z~What's the holdup here?
+
+0x8D0EBE14 = ~z~Ready with your gun there?
+
+0x8DBE9E19 = ~z~Let's go then.
+
+0x8DFBB47A = ~z~~sl:0.8~Fine.
+
+0x8E1C45CD = ~z~I've got some beauties in at the moment.
+
+0x8E9DDB1E = ~z~Truth is, there's never really any getting out, and staying in...
+
+0x8F0EF92E = ~z~Put your saddle on him, let's get going.
+
+0x8FFE198F = ~z~That was fun.
+
+0x9AF862DD = ~z~Sure, I'll try and shoot one.
+
+0x9B7EF4E0 = ~z~I remember you not being around for a while, but things were looser back then.
+
+0x9B20D6B9 = ~z~He won't throw me?
+
+0x9B30B297 = ~z~Come on, Arthur!
+
+0x9C043AA4 = ~z~I don't think so, I got all I need.
+
+0x9C06A994 = Hold ~INPUT_SADDLE_TRANSFER|PromptId=SaddleTransferPrompt,Gutter~ to remove the saddle
+
+0x9C7292C7 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the next clue
+
+0x9D076F80 = ~z~~sl:0.0:5.0~Not yet. ~rp~They're still very hot. Need to be done right.~lr:0.8~I have a couple of leads I'm looking into.
+
+0x9D98DCE2 = ~z~~sl:0.0:3.2~Pretty bad. Swarming with Pinkertons.~sl:0.4~No way we're getting back in there any time soon.
+
+0x9DBB7EA1 = ~z~~sl:0.0:1.2~You'll just ruin the meat.~sl:0.3~Best thing's a bow or a .22 caliber varmint rifle.
+
+0x9E898AFE = ~z~Reckon we should camp here...
+
+0x9EC71F53 = ~z~~sl:0.3:1.0~I don't need another~sl:~“we gotta be out there making money” speech.
+
+0x9F09DAE1 = ~z~You want some of this?
+
+0x9F13F18A = ~z~I need to head out to Emerald Ranch soon, look into something.
+
+0x9FCD741B = ~z~Are you going to help me track this thing or not?
+
+0x13CB68FF = Legendary Bear
+
+0x15E43C49 = ~z~I think so.
+
+0x15F15D0D = ~z~~sl:0.0:2.2~Yes, remember?~lr:0.5:3.7:1~Mac went crazy, threatened to kill the whole town.
+
+0x17C4A9D7 = ~z~That could work...
+
+0x17F094D8 = You failed to wait for the bear.
+
+0x18D462D3 = ~z~Oh yeah,~rp~ I remember now, just about. ~rp~That turned into a long day.
+
+0x18EAEFB6 = ~z~Why, you thinking about getting out?
+
+0x19C2434D = ~z~but that's another story.
+
+0x24DBD346 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the next clue
+
+0x26D1B00C = ~z~Just mix it together, it's not hard.
+
+0x27A67799 = If your horse is agitated you can press ~INPUT_INTERACT_ANIMAL~ to calm it.
+
+0x27C02880 = ~z~Go on then, I thought you said you were famished?
+
+0x27F95325 = ~z~Hop on up there and let's go.
+
+0x29B611C9 = ~z~No, it's too close...
+
+0x30AC7111 = ~z~to be after the biggest game.
+
+0x31A3F43C = ~z~You coming, or...
+
+0x33DB7812 = You saddled the wrong horse.
+
+0x34FECDB6 = ~z~
+
+0x35F6BAF0 = Take the horse into the ~o~stable~s~
+
+0x36A715C1 = ~z~That's the lake there. Good, we made it. Let's loop around the other side.
+
+0x37BF9C7D = ~z~Look there, rabbits. Maybe we should catch one to cook.
+
+0x44BBCD47 = Ask about Micah?
+
+0x45C87631 = ~z~Let's just take a look at that bait...
+
+0x45D88E4E = ~z~I could do with a break from this place.
+
+0x46BE84AA = ~z~Stables are just up ahead.
+
+0x46D547F2 = ~z~Here, take a look.
+
+0x46F6BE56 = ~z~One of the biggest I ever saw.
+
+0x50CDD826 = ~z~You're doing that wrong.
+
+0x51ED8A97 = ~z~~sl:0.0:3.6~I've spoken to him many times...~rp~ he knows he did wrong...~lr:0.7~he just wants to put it behind him.
+
+0x52B4A3D8 = Go Hunting
+
+0x53D76ADA = ~z~I have hunted rabbits before, you know.
+
+0x54B390BA = ~z~Take a look then.
+
+0x55AE5BC5 = ~z~I wish. No, I saw a huge bear.
+
+0x56A4FE7B = Horse Cores drain over time. Feed your horse to replenish its Cores. Hold ~INPUT_OPEN_WHEEL_MENU~ and press ~INPUT_SELECT_NEXT_WHEEL~ to select the Horse Wheel while next to, or mounted on, your horse.
+
+0x58E8C9FE = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to find the trail
+
+0x58F64099 = Use Bait
+
+0x59ED4457 = ~z~~sl:0.0:2.2~So Trelawny says...~sl:0.4~Javier and Charles have gone with him to scope it out.
+
+0x60F1C1EC = ~z~Just lucky Lenny was with him.
+
+0x61A64D1C = ~z~So how are things with you and John?
+
+0x63A18607 = ~z~~sl:0.0:1.7~He's effective, in his own way.~sl:0.6~And Lenny's got a good head on his shoulders.
+
+0x63ABFCD6 = ~z~~sl:1.9~Maybe you're right...
+
+0x64A09B33 = ~z~Interesting choice. How much did you pay for that thing?
+
+0x64B6B6C6 = Mount your ~o~horse~s~
+
+0x65B23BF4 = ~z~a new grooming brush...
+
+0x65BA9618 = Go to ~o~Hosea~s~
+
+0x66A838DF = ~z~Hey, where are you wandering off to?
+
+0x66B89869 = ~z~Are you going to mount up?
+
+0x68ED746B = You discarded the game meat.
+
+0x68F5484F = ~z~I just hope I can remember how to get there.
+
+0x68FA3760 = ~z~and a fine new horse.
+
+0x70AC6AE8 = ~z~He's alright.
+
+0x72C7B781 = ~z~Not that much.
+
+0x72EA8F6A = ~z~Something strong and fast.
+
+0x75A17D54 = Return to ~o~Hosea~s~
+
+0x76D78E34 = ~z~Let's bait here.
+
+0x76F3E77B = ~z~You know what, Arthur Morgan?
+
+0x77B89FB3 = You will bond with a horse the first time you saddle it.
+
+0x79EFC835 = ~z~So where's the rabbit?
+
+0x80C4B4EC = ~z~Well, thanks, Arthur. I probably owe you one.
+
+0x81D0DAEC = ~z~Of course.
+
+0x81E05545 = Stay
+
+0x81F35F03 = ~z~We'll unload him, you can buy yourself a new horse.
+
+0x81F1694E = ~z~You have my word on that.
+
+0x83C4CC50 = ~z~Everything alright?
+
+0x84DBD572 = ~z~Uh... a large bear...
+
+0x85EB0626 = ~z~For now...
+
+0x89E152CD = ~z~~sl:0.0:1.6~Goddamn Micah...~sl:1.2~we send him out scouting and he ends up in a jailhouse.
+
+0x89E91786 = ~z~I been meaning to offload this big shire horse for a while now.
+
+0x93C37341 = ~z~Alright... let's see if we can find this feller.
+
+0x97ABB30B = ~z~ain't no Boadicea.
+
+0x97EFD3D6 = ~z~I'm good. You okay? You seem nervous.
+
+0x133CC700 = ~z~Okay...
+
+0x142EB952 = ~z~I think I'm going back to camp to...
+
+0x179AA59B = ~z~Back into the mountains, I sure didn't figure on that.
+
+0x179BD933 = ~z~Are you going to grab it then?
+
+0x202F8C1B = ~z~Oh... my God... there, down by the water's edge...
+
+0x235E57B1 = ~z~lick my wounds.
+
+0x249D7D01 = ~z~but I prefer to hunt on the ground.
+
+0x267FB0CD = ~z~Well... we'll see if we can track him, but...
+
+0x288AE3F8 = Hunt a rabbit~s~
+
+0x309C8531 = ~z~~sl:0.0:3.3~More or less. Big scar down his face.~sl:1.2~Hey, did that bait look okay to you?
+
+0x325A1A33 = ~z~~sl:0.0:3.5~Well, ~rp~Lenny and Jenny could never have worked.~lr:0.3:4.5:1~That's like Arthur and Martha. Or Bill and Phil.
+
+0x344A1DE3 = Shoot the ~e~bear~s~
+
+0x354FDD4C = Pawprints
+
+0x380D99B1 = ~z~You're in the right place...
+
+0x442FA0E3 = ~z~~sl:0.0:4.4~I've spoken to him many times...~rp~ he knows he did wrong...~lr:0.8~he just wants to put it behind him.
+
+0x456ACE01 = ~z~Yes, and obliterated them with a shotgun, if I remember right.
+
+0x461A9605 = ~z~Ain't it about time you let it go now?
+
+0x548BDD85 = ~z~~sl:0.0:1.0~Or got away.~sl:0.8~If there's one thing Sean Macguire's good at, it's wriggling out of things.
+
+0x604C4335 = ~z~You need anything?
+
+0x616F6772 = ~z~Fine by me.
+
+0x621ED5D3 = Hunt a ~o~rabbit
+
+0x641EF8B2 = ~z~Of course. Let's go.
+
+0x695AE3B1 = ~z~I'm gonna stick around here for a while.
+
+0x704DE338 = ~z~Oh, me too. It's been a rough couple of weeks.
+
+0x707C1F49 = You failed to search for the trails.
+
+0x742ACDC1 = ~z~Well, I don't sell anything other than good animals.
+
+0x752E6C47 = ~z~So how bad was it, Blackwater, I mean?
+
+0x770FEB82 = ~INPUT_CONTEXT_A~ Sleep
+
+0x803F9451 = ~z~~sl:0.0:4.0~Well, ~rp~Lenny and Jenny could never have worked.~lr:0.5:3.9:1~That's like Arthur and Martha. Or Bill and Phil.
+
+0x803FF10F = ~z~Appreciate it.
+
+0x818AA39A = ~z~you head down that track.
+
+0x823F448D = Craft ~s~bait~o~
+
+0x912AD6D6 = ~z~Keep your eyes on his trail, so we don't lose it.
+
+0x924F93F6 = ~z~What's taking so long with this saddle?
+
+0x929C1734 = Mount up and follow ~o~Hosea~s~
+
+0x1146D9D2 = Half-eaten Fish
+
+0x1714DEA7 = ~z~Good... Pack up and we'll get going.
+
+0x2083A0FC = ~z~Okay, I think we need to head right up here.
+
+0x2369F73D = ~z~My god.
+
+0x3631EAD3 = Greet
+
+0x3954F547 = ~z~Up near the Dakota River.
+
+0x4334DC11 = Bait
+
+0x4496D2F7 = ~z~And ~rp~Davey was passed out so cold we left him there,
+
+0x4629E39F = ~z~It's bounty hunters who've got him?
+
+0x4639CAD0 = ~z~Shit...
+
+0x4877B175 = ~z~Come on, before we lose him altogether.
+
+0x5209B432 = ~z~So... what's this lake we're heading for?
+
+0x5861B659 = ~z~Jenny too. She had some spark, that girl.
+
+0x6219FFA9 = ~z~Arthur! Help!
+
+0x6409E0C6 = ~z~Are you going to get set up then?
+
+0x6525EAD1 = ~z~Fine by me.
+
+0x7601DC93 = ~z~and some treats.
+
+0x7771D2B4 = ~z~Sure.
+
+0x8842C8A2 = ~INPUT_SELECT_NEXT_WHEEL~ ~s~ Switch to the Item Wheel
+
+0x9682F7FD = ~z~Don't be scared of him.
+
+0x9980AC63 = ~z~Look out!
+
+0x12872D2C = Hold ~INPUT_CONTEXT_Y~ to investigate a nearby clue.
+
+0x17397ABB = Wait for ~o~Hosea~s~
+
+0x23227D89 = Fish
+
+0x30333E52 = ~z~The tracks go into those trees.
+
+0x35132FD1 = ~z~Where you think Micah and Lenny got to?
+
+0x36584CDC = ~z~Come on, let's see if there's anything else.
+
+0x51891F49 = ~z~We should set it by those boulders at the bottom of the hill.
+
+0x69951EE5 = ~z~Down there, start scanning, keep nice and quiet
+
+0x75725CE9 = You discarded the bait.
+
+0x79842B25 = Use ~INPUTGROUP_RADIAL_MENU_NAV~ ~s~to select 'Camp' from the Crafting slot and release ~INPUT_OPEN_WHEEL_MENU~ ~s~to use
+
+0x89328CB1 = ~z~Well...
+
+0x91493B44 = ~z~What's taking so long, Arthur?
+
+0x95719B79 = ~z~~sl:1.1~I never would.
+
+0x193000F6 = ~z~We'll try our luck down by the water, that's where I saw him last.
+
+0x248550CA = ~z~We only just set it, Hosea.
+
+0x297517B2 = ~z~Over here, Arthur.
+
+0x382825CF = ~z~It must be pretty hard on Lenny, you could tell he was sweet on her.
+
+0x428356E4 = ~z~Come on, let's eat something, then get some rest.
+
+0x484040FD = ~z~Okay, I think I got this done.
+
+0x539329C3 = ~z~Might take a day or two.
+
+0x608665A4 = ~z~~sl:0.8:1.7:1~I'm famished.
+
+0x699398D1 = ~z~I have no idea. I hope they weren't picked up.
+
+0x779636AC = Follow ~o~Hosea~s~
+
+0x820674E5 = ~z~Wait a minute... there's something on the ground here.
+
+0x870510AA = ~z~Nah. I miss her, she was quite a horse.
+
+0x1550296D = ~z~Alright, let's head into town.
+
+0x2657495C = Mount your ~o~horse~s~
+
+0x2938550A = ~z~Well, where are we heading exactly?
+
+0x3218949A = ~z~I reckon nearly a thousand pounds.
+
+0x3931114C = ~z~Look for tracks, dung, bones... any sign of him.
+
+0x4032052D = ~z~And the stables always have the best ones.
+
+0x6231498F = Hold ~INPUT_SADDLE_TRANSFER|PromptId=SaddleTransferPrompt,Gutter~ to equip the saddle
+
+0x6468473F = Hosea
+
+0x7065142D = ~z~See you later.
+
+0x7552842E = Follow the trail
+
+0x8927761F = ~z~Coffee?
+
+0x9276957C = ~z~Alright you...
+
+0x9345470F = ~z~I'll head this way...
+
+0x14960916 = Go with Hosea
+
+0x25035224 = Clues are highlighted by an orange trail while in Eagle Eye.
+
+0x27245289 = ~INPUT_CRAFTING_EAT~ Eat the cooked meat
+
+0x64794286 = ~z~I'm a little old and beaten up...
+
+0x70651050 = ~z~We're heading out. Might be gone a couple of days.
+
+0x93091773 = ~z~What are you doing? Go around the other side.
+
+0x98855513 = ~z~Arthur!
+
+0xA0F2313B = ~z~Come on, I promise you don't want to ride that one bareback.
+
+0xA6FA9774 = You failed to hunt a rabbit.
+
+0xA9AA774B = ~z~~sl:0.0:0.9~So do you.~sl:0.7~I'm fine.
+
+0xA9F1394D = ~z~Alright let's see...
+
+0xA14EB3FE = ~z~You take the right, Arthur.
+
+0xA23FBE12 = ~z~I think.
+
+0xA32E1CEF = ~z~They ran down the hill, there.
+
+0xA52F18F6 = ~z~Did you two ever think about getting out of the life?
+
+0xA96FEFB1 = ~z~Okay, after all that...
+
+0xA369C9C7 = Ask about Sean?
+
+0xA475CC9F = ~z~Where'd you get him?
+
+0xA519A3F7 = ~z~I'll do my best.
+
+0xA831EC25 = You failed to enter the stables.
+
+0xA16376E4 = ~z~Hosea.
+
+0xA20243A1 = You have discovered a Legendary Animal. Return to the area alone to track it.
+
+0xA98218AD = ~z~No, but no point thinking the worst.
+
+0xA967601A = ~z~~sl:0.0:3.4:1~I wanna be up at first light to find this monster.
+
+0xA3805348 = ~z~Pack up, Arthur, and let's get after him.
+
+0xA9816351 = You can remove the saddle from your horse and transfer it to another to make it your horse.
+
+0xAA4E7514 = ~z~This is gonna be fun, Arthur.
+
+0xAA5B78BF = ~z~Stay back!
+
+0xAB52D038 = ~z~Thank you...
+
+0xAC0A197D = Help
+
+0xAC6D36D9 = ~z~Something else on the ground just here.
+
+0xACD6F67B = ~z~No, I'm fine, I don't like eating this late.
+
+0xAD01BBC8 = ~z~~sl:0.0:2.1~We were just out scoping a lead...~sl:0.1~he doesn't need to know it was a big furry one
+
+0xAD9E5588 = ~z~I think we split up and each look.
+
+0xAD79F34D = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and find the clue
+
+0xADC2125C = You can use the camp fire to craft a wide range of tonics, horse care items and ammunition.
+
+0xAE6540A2 = ~z~Morning, Arthur.
+
+0xAF0971E4 = ~z~~sl:2.0~Maybe you're right...
+
+0xAF94D140 = To place Predator Bait, open your Satchel and select Predator Bait from the Kits menu.
+
+0xB06DC676 = ~z~you got yourself a deal...
+
+0xB0B65202 = ~z~~sl:0.0:4.2~Nobody else would have been welcomed back that easy~sl:~after that long, and you know it.
+
+0xB1E317A2 = ~z~we'll have a much better chance of getting a good shot in...
+
+0xB1F8F3A8 = ~z~You can have this.
+
+0xB3BED80C = ~z~you treat this feller well...
+
+0xB5A49582 = ~z~Sleep well, Arthur.
+
+0xB5EB7951 = ~z~Let's get going then.
+
+0xB7AD2E64 = ~z~~sl:0.0:3.0~First time out of hiding as wanted men...~sl:~and he gets tangled up with the law.
+
+0xB7B1F1FF = ~z~So, you still ain't replaced Boadicea?
+
+0xB7BF1B62 = ~z~Tie it up in that rag when you're done.
+
+0xB8C36BD2 = ~z~a little optimism, Arthur.
+
+0xB9A61CE4 = ~z~You looking to sell?
+
+0xB9FAC6F5 = ~z~~sl:0.0:2.8~But we run with our code, always have.~sl:0.3~That don't mean nothing to him.
+
+0xB22F6812 = ~z~Unruly bastard!
+
+0xB55E5C1D = ~z~I thought we were splitting up?
+
+0xB78F56A4 = ~z~~sl:0.0:1.3~came back in the next day and...~lr:0.0:2.5:1~he woke up, started right back drinking again.
+
+0xB93FE500 = ~z~Yeah, that's probably a good idea.
+
+0xB94E7EE4 = ~z~Come on, grab your stuff and let's go.
+
+0xB314D580 = ~z~Put your saddle on him and let's go.
+
+0xB438E2C1 = ~z~We lost him?
+
+0xB678BB89 = ~z~We did briefly, you don't remember? Guess you were still young. Didn't last long.
+
+0xB8647A97 = ~z~It was a year, Hosea.~rp~ He ditched us for a goddamn year.
+
+0xB28363C3 = ~z~Not bad, Arthur. You happy?
+
+0xB93586EF = ~z~Okay, let's go.
+
+0xB191988A = ~z~Got one!
+
+0xB660522B = ~z~I hope so.
+
+0xBA0B6B36 = Go to your ~o~horse
+
+0xBB3BBC20 = ~z~~sl:0.3~Shouldn't have taken them this long.
+
+0xBBD0B1FB = ~z~No, no papers.
+
+0xBC22E3CF = ~z~Don't be sloping off, we got work to do.
+
+0xBC32FDB3 = ~z~Now we wait.
+
+0xBC7288AF = ~z~Thank you.
+
+0xBD9174B5 = ~z~nothing at all.
+
+0xBE010CF8 = ~z~you gonna track that monster?
+
+0xBF6D9F52 = ~z~Nasty little look in his eyes.
+
+0xC1F3147D = ~z~Okay, see if you can get your leg over that brute.
+
+0xC2FBA473 = Check the ~o~bait
+
+0xC3A00C07 = ~z~There's nothing wrong with two horses.
+
+0xC3D350A2 = ~z~~sl:0.0:3.7~Pretty bad. Swarming with Pinkertons.~sl:0.6~No way we're getting back in there any time soon.
+
+0xC7C1D95B = ~z~Got stolen outside that saloon in Deer Creek.
+
+0xC22C423A = ~z~Me? No, of course not.
+
+0xC55FBC23 = ~z~Let's look by the water here, see if he's been fishing again recently.
+
+0xC60A7CA3 = ~z~I know he's gonna look after you just fine.
+
+0xC81E4404 = ~z~but they also have a sweet tooth.
+
+0xC82A8F11 = ~z~I guess we'll see.
+
+0xC561F249 = ~z~~sl:3.4~I miss those boys.
+
+0xC3293A2E = ~z~and if he bolts we can start right off after him.
+
+0xC8809E4C = ~z~~sl:2.9:2.5~Alright... well...~sl:1.8:1.5:1~we better get some rest.
+
+0xC48018BA = ~z~What is it?
+
+0xC87972B7 = ~z~Let's see if Dutch gives us any crap about disappearing like that.
+
+0xC339300A = ~z~Yeah... and what about this one here?
+
+0xC959790B = Dung
+
+0xC5326446 = Approach the trail
+
+0xCA1E55BD = Go to the ~o~rocks~s~
+
+0xCA13F3FB = You have entered Legendary Animal Territory. Follow clues to track the animal. You can find Legendary Animals throughout the world.
+
+0xCAFF10C5 = ~z~This way.
+
+0xCBC82B61 = ~z~Must be pretty hard on Lenny, you could tell he was sweet on her.
+
+0xCBFF5853 = Follow ~o~Hosea~s~
+
+0xCC3FA975 = ~z~Well?
+
+0xCC15B8B3 = ~z~Arthur?
+
+0xCCA6574A = ~z~really new, maybe we can all have a new start.
+
+0xCCE43A3F = ~z~No, he's an angel... if I'm near him...
+
+0xCD003455 = ~z~There's some paw marks here, Hosea, they sure look big enough.
+
+0xCD6FCEBB = ~z~Can you mix up this bait for me while I finish packing us up?
+
+0xCD8A5085 = ~z~~sl:0.0:2.7~Nonsense. ~rp~We'll be alright.~sl:0.3~Just need some money to get back on our feet.
+
+0xCD247FB3 = ~z~and on me...
+
+0xCDE58281 = ~z~Fine.
+
+0xCEC12135 = ~z~Some big, loud-mouthed bastard tried to rob me when I was out riding so I...
+
+0xCEF541FA = ~z~Get the hell over here now!
+
+0xCFED6DC5 = ~z~Alright... it's getting late.
+
+0xD0C55548 = ~z~He better be worth all this drama.
+
+0xD7CF7547 = ~z~Why she sent Micah, I don't know.
+
+0xD9FA646B = ~z~What are you hunting? An elephant?
+
+0xD11B626D = ~z~Arthur? You falling asleep on me there?
+
+0xD13CE05B = ~z~I drifted back into it. She understood... she knew what I was.
+
+0xD17F0DA0 = ~z~Come on.
+
+0xD26D6EA6 = ~z~They got a good range of horse tack at the Valentine stables.
+
+0xD27A96FA = ~z~Stay on his tracks, Arthur.
+
+0xD30C9C80 = ~z~Lead the way.
+
+0xD32AE55F = ~z~~sl:1.2:3.6~We run with our code, always have,~sl:0.1~and that don't mean nothing to him.
+
+0xD35F2054 = ~z~it's nothing...
+
+0xD70CB7CB = ~z~I know...~rp~ but it's done, has been for a while now.
+
+0xD96EFB59 = ~z~No... but that's the fun, come on!
+
+0xD97B49B5 = Get back to ~o~Hosea~s~
+
+0xD371F577 = ~z~So far, so good.
+
+0xD526BA07 = ~z~It's a map.
+
+0xD1004B98 = ~z~You got papers?
+
+0xDA08C507 = ~z~You coming or not?
+
+0xDAE86998 = ~z~A lot of fellers bait then shoot from the trees...
+
+0xDB3A9A44 = ~z~There you go.
+
+0xDBF6E6EA = ~z~Good, let's hope it's him. Can you tell which way he went?
+
+0xDC4F8461 = If you lose sight of the trail, press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.
+
+0xDD7D21B4 = ~INPUT_CONTEXT_Y~ Choose a time to sleep until
+
+0xDDD75C36 = ~z~which you think?
+
+0xDDFE806A = Follow ~o~Hosea~s~
+
+0xDE87E502 = You planted the bait in the wrong location.
+
+0xDE792979 = Stand next to your new ~o~horse
+
+0xDEACF135 = ~z~Fish, berries.
+
+0xDEBDA81D = ~z~Sure...
+
+0xDFA0F06D = ~z~~sl:4.5:1.2:1~I miss those boys.
+
+0xDFF1C392 = ~z~Let's take him to Valentine.
+
+0xDFFCF482 = Your bonus horses will be available to collect in the stables.
+
+0xE0023209 = ~z~Where are you going? It's this way.
+
+0xE04D7998 = If you lose sight of the trail, press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.
+
+0xE0BCD8CD = ~z~Go get yourself a horse then.
+
+0xE0F3627F = Hold ~INPUT_CONTEXT_LT~ to focus on your horse
+
+0xE2CDEF33 = ~z~I ain't sure yet.
+
+0xE5E25F95 = ~z~~sl:0.0:5.6~Not yet. ~rp~They're still very hot. It'll need to be done right.~lr:0.6~I have a couple of leads I'm looking into.
+
+0xE5E75095 = ~z~Okay, but I do kind of like this horse.
+
+0xE6AE0B3D = ~z~it's hard, you know that, but Bessie and I made it work.
+
+0xE8AA92AF = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye to find the trail
+
+0xE9F69FA6 = ~z~Shit. He's massive!
+
+0xE30DCFCD = ~z~He ain't Trelawny.~rp~ Dutch and you pretty much raised him.
+
+0xE33B8248 = ~z~Easy, big feller.
+
+0xE33D81CA = Inspect Dung
+
+0xE39B2D8F = ~z~Half eaten fish here... must have been left by our friend, I reckon.
+
+0xE55E8CE5 = ~z~Yeah, guess we don't know nothing till we know.
+
+0xE59DC4D1 = ~z~Of course, I'm fine, it's...
+
+0xE76EF81E = Tear down your ~o~camp~s~
+
+0xE84A618A = ~z~I don't mind either way.
+
+0xE170D077 = ~z~I'll see you back at camp?
+
+0xE358DAC0 = Inspect Pawprint
+
+0xE823BA5C = Your Reverse Dappled Black Thoroughbred horse will be available to collect in the stables.
+
+0xE904D11C = ~z~Guess we'll see.
+
+0xE2404BC1 = ~z~I know, but we need to do this right.
+
+0xE3905FA2 = ~z~~sl:0.0:4.2~Running off on that kid is one thing, but there's a code,~sl:~and he knows that.
+
+0xE22692E0 = ~z~You know, I was in this area with Bessie, years ago.
+
+0xE94102EC = ~z~You wanna go hunting?
+
+0xE7600919 = ~z~He'll pay a good price.
+
+0xEA1B9FF4 = ~z~Are you sure this is a good idea?
+
+0xEAD78A04 = ~z~Keep looking.
+
+0xEB222260 = ~z~~sl:0.0:2.3~He's effective, in his own way.~sl:0.4~And Lenny's got a good head on his shoulders.
+
+0xEBA148E5 = ~z~Arthur! What are you doing?
+
+0xEBF6E7A7 = ~z~A man in a bar gave it to me...
+
+0xEC0996F3 = ~z~~sl:0.4:2.2~I grew up in the mountains, Arthur...~sl:0.5~I was virtually weaned on bear meat.
+
+0xEC202DC8 = Return to the ~o~rabbit hunting area
+
+0xECF124D8 = ~z~~sl:0.0:1.7~Come on, he's not that bad...~sl:0.9~all the time.
+
+0xED76202F = ~z~So, what's this lake we're heading for?
+
+0xEDE4E66B = Set up the ~o~camp~s~
+
+0xEF69C43D = ~z~here are your papers...
+
+0xEFDDDABD = Select the Potent Predator Bait and press ~INPUT_FRONTEND_ACCEPT~ to place it
+
+0xF0D63A69 = ~z~Give me a hand here. Got your knife?
+
+0xF2C53F6B = Press ~INPUT_SPECIAL_ABILITY_ACTION~ to focus on the track
+
+0xF3B13550 = ~z~~sl:0.2:1.0:1~Sure.
+
+0xF3E7DDD9 = Inspect Fish
+
+0xF5CE8451 = ~z~Come on, let's unpack and get a fire going.
+
+0xF5DDA942 = ~z~Damn it, looks like the trail ends here.
+
+0xF7A8531F = ~z~what's your plan?
+
+0xF7C13B3B = ~z~Yes, isn't he magnificent? Let's head down there real quiet... see if we can't get close to him.
+
+0xF7E4BE5C = ~z~Really? I didn't know that. I imagine you still miss her.
+
+0xF8E3F0D6 = ~z~Looks like a nice animal you got there. You happy?
+
+0xF9F13F8F = ~z~Let's keep going.
+
+0xF12F938A = ~z~~sl:0.0:1.8~came back in the next day and...~lr:0.0:2.5:1~he woke up, started right back drinking again.
+
+0xF39B7CD2 = ~z~Good job. Now let's get ourselves hidden and see how we get on.
+
+0xF48E2375 = ~z~Otherwise, I can always stable him here for you.
+
+0xF68A66AA = ~z~You're fine, old man.
+
+0xF220DF27 = Hold ~INPUT_OPEN_SATCHEL_MENU~ to open the Satchel
+
+0xF534EE18 = ~z~It's on the way, sort of. There's a decent dealer there.
+
+0xF842D2EF = ~z~How are you getting on with that bait?
+
+0xF2667C20 = ~z~Through the doors there.
+
+0xF5569E74 = ~z~More dangerous, but...
+
+0xF14196EE = ~z~~sl:0.0:4.1~Who knows, I sure hope so, but it's been a while now...~sl:0.6~somebody said he got knocked out in Blackwater?
+
+0xF46626AD = ~z~Listen, if Dutch's grand plans work, and we can make enough money to go some place new,
+
+0xF70155EE = ~z~Bear shit here, watch your step.
+
+0xF77992C7 = ~z~What is it?
+
+0xF3273493 = Dismount your horse
+
+0xFA514E65 = ~z~Alright, let's head into town. No bar fights, please. I heard about that.
+
+0xFB7A7AA7 = ~z~well, you know how it is.
+
+0xFBB81D4C = ~z~~sl:0.0:4.8~Who knows, I sure hope so, but it's been a while now...~sl:0.8~somebody said he got knocked out in Blackwater?
+
+0xFDE1815A = ~z~Does feel a bit like our luck died with them, too.
+
+0xFE1B2CA0 = ~z~Hosea.
+
+0xFE3FBB5F = ~z~~sl:0.0:2.1:1~I hope you know what you're talking about.
+
+0xFE688A22 = ~z~~sl:0.0:1.2:1~Meet you back here in a bit.
+
+0xFE6546A1 = ~z~Yeah,~rp~ what happened to that?
+
+0xFF6DBCD8 = ~z~Anyway, for now, let's try and chase ourselves a bear, shall we?
+
+0xFF26A83C = ~z~Hey, how can I help you?
+
+0xFF535544 = ~z~Go on, then.
+

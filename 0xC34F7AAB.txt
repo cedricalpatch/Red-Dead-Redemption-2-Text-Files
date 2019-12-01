@@ -1,0 +1,28 @@
+0x0D65D328 = ~z~I thought maybe you was in espionage or something.
+
+0x1C7FA57D = ~z~That so?
+
+0x3A472CEA = ~z~My pleasure.
+
+0x5FBBF7D3 = ~z~Nope.
+
+0x63FDB478 = ~z~
+
+0x388F5D9C = ~z~Was you a-a military man, eh, Mr. Williamson?
+
+0x4960FF3F = ~z~Sure was. Cavalry.
+
+0xAF9ACB7D = ~z~Well... thank you.
+
+0xB0E29A23 = ~z~Good chatting, Bill.
+
+0xE1DBAFFE = ~z~Oh... real impressive. Always impressed by folk who... who make sacrifices.
+
+0xEB9D0E53 = ~z~My pleasure.
+
+0xECDBC5FA = ~z~Sure.
+
+0xED5C9316 = ~z~And was you a military man, Morgan?
+
+0xFFB037BD = ~z~Always sneaking about, covert like.
+

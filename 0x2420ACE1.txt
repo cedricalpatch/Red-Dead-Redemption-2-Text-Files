@@ -1,0 +1,4 @@
+0x6AC3EE68 = Take Book
+
+0x8D946457 = Decline
+

@@ -1,0 +1,14 @@
+0x472BD310 = ~z~I'll keep you safe, Miss, you have my word.
+
+0x1121E6FD = ~z~I know...
+
+0xA3850BC5 = ~z~What we doing so far south, Arthur? I don't like it.
+
+0xB557AF6A = ~z~It seems like as good a place as any to get chased by the law, Miss Tilly.
+
+0xE9B0981B = ~z~I'll keep you safe Miss Tilly.
+
+0xFC553D64 = ~z~My momma was a slave until she was 15 years old, Arthur.
+
+0xFF1A42EE = ~z~You ain't so dumb as that, Arthur... I'm a negro.
+

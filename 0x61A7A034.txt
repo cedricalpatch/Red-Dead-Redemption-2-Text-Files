@@ -1,0 +1,22 @@
+0x5A7A8197 = ~z~I like to think so.
+
+0x903FED21 = ~z~You're quite the amusing companion, aren't ya?
+
+0xA009C73C = ~z~Said he couldn't bear to see your face for even one moment longer than he had to.
+
+0xCB221D74 = ~z~Hello, Karen.
+
+0xCB541DD0 = ~z~You know, while we were stuck up that mountain, I thought long and hard about if we'd have to eat you.
+
+0xD92BB97F = ~z~I'm so glad...
+
+0xD975BA1B = ~z~Ah, what a delightful surprise...
+
+0xE6ADD48B = ~z~Fine.
+
+0xE61FD367 = ~z~I suggested we roasted you alive, but... Mr. Pearson was keener on chopping you up and turning you into stew.
+
+0xF4D870E0 = ~z~Hello, Miss Grimshaw... how is your meal?
+
+0xF48E7044 = ~z~Very amusing.
+

@@ -1,0 +1,188 @@
+0x01AF801C = ~z~This goddamn bounty!
+
+0x04D12C20 = ~z~One day it's gonna be you in here, mister.
+
+0x091A7F23 = ~z~Saint Denis stinks.
+
+0x0990EFFF = ~z~I ain't going to kill you, but I can rough you up some.
+
+0x0ADE82A7 = ~z~Damn this bounty.
+
+0x0DC89532 = ~z~But I'm going to need a hot bath after coming in here.
+
+0x1B5C3379 = ~z~Sit down and get comfortable.
+
+0x2ABBF7F5 = ~z~I know who you are, mister. You must have been in that gang.
+
+0x2E9DC269 = ~z~That's a little thing for her.
+
+0x2E9E21E3 = ~z~Let go of me.
+
+0x3C84135F = ~z~Get off me.
+
+0x3CA56634 = ~z~What gives you the right?
+
+0x3E926D75 = ~z~Foreman!
+
+0x5A316B36 = ~z~Anthony, look out!
+
+0x6A38B7FC = ~z~Look, if you're with that other friend of hers, I promised to stay away... and I did.
+
+0x6AFB187D = ~z~But they let me live... and I kept my promise to them.
+
+0x6E269EAD = ~z~Ain't no Anthony Foreman in here, no matter how antsy you get.
+
+0x6EE74159 = ~z~Hey, you're not the... no, he was bigger.
+
+0x6F9EF9E5 = ~z~I'd take music and dancing and girls and booze in a Saint Denis slum
+
+0x6F9813E6 = ~z~It would'a taken longer, if I'd had an iron to shoot you through that saloon door.
+
+0x7E42499B = ~z~You just trip me? Hey, I'm still gonna get ya!
+
+0x8C4A38C2 = ~z~The man who caught Anthony Foreman.
+
+0x8D1E3A76 = ~z~~sl:0.0:4.8~When he got killed and we lost them other boys at Radley's House...~sl:0.5~that's when things went sour.
+
+0x8D921D46 = ~z~Now, you can go.
+
+0x8F79A0EB = ~z~Stop wriggling. And praise yourself lucky I want you alive.
+
+0x9D30FCE8 = ~z~Yeah, well, they was friends of mine. Ain't with us no more.
+
+0x9F5CDEF3 = ~z~The Foremans ain't been quite so much since then.
+
+0x13ABB7BA = ~z~You had a gang... way back then... didn't you?
+
+0x20B803FC = ~z~Not many folk still is.
+
+0x23EB49FA = ~z~Now get, mister.
+
+0x27C2C23A = ~z~To think you got a second chance in life, and still... you ended up here.
+
+0x37F2BE07 = ~z~Oh yeah, I had a gang... Foreman Brothers, only we was cousins.
+
+0x49A8CAB1 = ~z~Hey.
+
+0x54CD2BBD = ~z~This conversation's over.
+
+0x54DD77DC = ~z~Oh, no reason, just... knew the name, I guess.
+
+0x58EF693E = ~z~Where you going?
+
+0x60C35C2E = ~z~over all this fancy crap any day of the week.
+
+0x70EA7C2B = ~z~Get this damn rope...
+
+0x79F0C480 = ~z~Save me your terrible tale of woe.
+
+0x81C70586 = ~z~Oh, I'm lucky, alright! Real lucky.
+
+0x246B0D7D = ~z~You got no right.
+
+0x274F555C = ~z~But I ain't bringing you in for Tilly Jackson. I'm bringing you in 'cause they're paying me.
+
+0x535B8A42 = ~z~Don't bring me in 'cause of Tilly Jackson... things is long settled between us.
+
+0x859D6EC5 = ~z~Tilly Jackson... I ain't heard that name in a time.
+
+0x970E7F88 = ~z~Anthony Foreman? I... I don't recollect that name, I'd try the other place.
+
+0x986BF7AF = ~z~Mr. Foreman?
+
+0x1886AA2F = ~z~Foreman, you're coming off that horse.
+
+0x8197C58F = ~z~Anthony Foreman. Tell me where he is, or I'll start making things difficult.
+
+0x9038ED88 = ~z~Shit. Your pal just tripped me, but I'm still coming!
+
+0x9136AA9A = ~z~Hey, look. We meet again.
+
+0x28066A64 = ~z~Damn bounty...
+
+0x46275A70 = ~z~Boy, those were some times, riding and robbing. Why you interested?
+
+0x82786B36 = ~z~That's true... I just know where you are.
+
+0x659206AC = ~z~You was paid a visit wasn't you? By a man and a woman. When you took Tilly against her will?
+
+0x769275B5 = ~z~Actually, I like the slums.
+
+0x800844B6 = ~z~Put me down.
+
+0x5149450F = ~z~Sure, sure. You sleep well at night. They'll get you, too.
+
+0x7712546A = ~z~Who are you to talk? You don't know about my life. You don't know what got me here.
+
+0x30196256 = ~z~Get out of here, alright?
+
+0x43874047 = ~z~You want to know where to spend that bounty money? I can give you some tips.
+
+0xA0817459 = ~z~Hey you, what you looking for?
+
+0xA7BBEC02 = ~z~Stop... or I'll bring you in with a broken neck.
+
+0xA5621C2F = ~z~Hey, could you help me find an Anthony Foreman?
+
+0xA800745E = ~z~Stop your damn horse!
+
+0xAC853C90 = ~z~Hey, ~rp~I think you knew a friend of mine, Tilly Jackson?
+
+0xB4DD045C = ~z~Well, yeah, freedom is the thing I guess but, world is full of folk and things want to imprison us.
+
+0xB9C0B607 = ~z~That woman was a banshee. And the man... had something in his eyes.
+
+0xB307D2FF = ~z~Lemoyne ain't what it used to be.
+
+0xB56716FF = ~z~I ain't going to make it easy on you.
+
+0xBAF9E990 = ~z~Look here... it's the ratcatcher. You looking for something?
+
+0xC071211B = ~z~~sl:1.0~If my cousin was still here, you wouldn't have got me.
+
+0xC608F802 = ~z~Tell me, this police station's pretty fancy. Your bed there beat the slums?
+
+0xC2521EF5 = ~z~Bastard.
+
+0xCD8C3569 = ~z~Who the hell?
+
+0xD0B3C3E6 = ~z~Shut your mouth, you don't know nothing.
+
+0xD0DACDE6 = ~z~You ain't taking me in.
+
+0xD2AAC58E = ~z~I wouldn't have had to hide out in no slum, avoiding no bounty.
+
+0xDA68CC99 = ~z~You're going to want a hot bath, after taking that trip through the slums.
+
+0xDBD794A7 = ~z~I wouldn't piss on these people if they were burning.
+
+0xE4E91AB4 = ~z~Good to meet you finally, sir. I hope you find your accommodation suitable. Cell's back there.
+
+0xE30BF248 = ~z~If I had my piece, bounty hunter.
+
+0xE494B618 = ~z~Damn this all.
+
+0xE923F953 = ~z~It feels like a miracle to me... it taking all these years for your sins to catch up to you.
+
+0xE9903018 = ~z~Here's the station... ~rp~I'm guessing you ain't on this side of town much.
+
+0xEB6E0651 = ~z~Come on. The chief wants to see you.
+
+0xEC2E0F2D = ~z~Anthony, get out of here.
+
+0xF01394DF = ~z~What could have been, eh? Gets in your head, don't it? Think on that, why don't you?
+
+0xF5D9060A = ~z~Damn you.
+
+0xF81CECFB = ~z~I ain't going anywhere.
+
+0xF565BC83 = ~z~Folk round town, they're happy you're behind bars. And you know what? So am I.
+
+0xF830B1FF = ~z~Anthony Foreman...  he ain't society's problem no more. He's yours.
+
+0xF4378AED = ~z~What was it... the Dutch boys? Yeah, I asked around, found out all about you.
+
+0xFEE0181B = ~z~Foreman! Foreman, damn you!
+
+0xFF5CAAED = ~z~I got friends in these parts.
+

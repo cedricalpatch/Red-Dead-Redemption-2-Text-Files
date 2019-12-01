@@ -1,0 +1,464 @@
+0x0031BE3B = ~z~A drunk like you's just asking to get robbed.
+
+0x00980E59 = ~z~What? Who the hell are you?
+
+0x03CD51E2 = ~z~Violating my home!
+
+0x0637A5F2 = ~z~It's alright, calm down.
+
+0x0687DBE0 = ~z~It was him or me. And I chose him.
+
+0x06A47E8E = ~z~We ain't had food in the keep for weeks.
+
+0x07FFD0A3 = ~z~Who do you think you are? Get the hell outta my house!
+
+0x088DD8AB = ~z~I wouldn't grieve too hard. Seems your dad was hiding letters you mom sent you.
+
+0x0A75DDBD = ~z~What? Ma? She wrote to me?
+
+0x0C66D5CC = ~z~Don't try nothing stupid, old man.
+
+0x0CA48131 = ~z~What the hell? You stay put. I'll deal with this.
+
+0x0DC93E91 = ~z~You ain't too hospitable, are you?
+
+0x0E0822C7 = ~z~Let's all calm down here.
+
+0x0FD6117A = ~z~Jesus!
+
+0x1B4D2116 = ~z~No, please! Don't hurt him.
+
+0x1DBE9DB9 = ~z~You shut the hell up, or I'll make sure you join your daddy soon enough.
+
+0x1E122DF2 = ~z~What the hell!
+
+0x1F484E72 = ~z~You ain't no guest, you son of a bitch. Get off my damn property now!
+
+0x2A79C719 = ~z~Relax, I aint gonna hurt you.
+
+0x2C72A6E1 = ~z~I reckon you had enough, Pa.
+
+0x2D924A02 = ~z~No, please.
+
+0x2FF5186F = ~z~I told you where the money is, why won't you go?
+
+0x3A72B61F = ~z~What am I gonna do now? He's all I had left.
+
+0x3AA67C28 = ~z~Nothing will happen to you as long as you tell me where you keep your money.
+
+0x3B19E33C = ~z~There's nothing left to take. Just go!
+
+0x3C257FF4 = ~z~Pa? Pa, are you alright?
+
+0x3EEC1724 = ~z~You won't get away with this!
+
+0x3FE0EE9F = ~z~Oh God.
+
+0x4AAC0507 = ~z~You already took it all. There's nothing left. Please, just leave.
+
+0x4B291853 = ~z~What more could you possibly want?
+
+0x4CE31C77 = ~z~Hey, what are you doing?
+
+0x4E687468 = ~z~No, why would he do that?
+
+0x4F5137EE = ~z~Let me go, damn it.
+
+0x4F8597B3 = ~z~Pa? Pa, where are you?
+
+0x5A01D4C0 = ~z~Take whatever you want, just please don't hurt me!
+
+0x5A272A45 = ~z~I'm sorry... I'm so sorry, Nate.
+
+0x5AECD5DB = ~z~Get the hell outta my house. Now!
+
+0x5B1DB8EC = ~z~Goddamn you.
+
+0x5B50A8F4 = ~z~Last warning. Get the hell off my property!
+
+0x5BC0EF45 = ~z~Keep your mouth shut, kid, or this is about to get a whole lot worse.
+
+0x5C2747AF = ~z~What was that?
+
+0x5D523A3C = ~z~You tell anyone what happened here and I will find you.
+
+0x5EB24FD2 = ~z~Same shit different day, I see.
+
+0x5FEBFFFB = ~z~Nate, go to your room.
+
+0x6A0267CC = ~z~She walked out on us.
+
+0x6AC2BA7B = ~z~Please just take what you're gonna take and leave me be.
+
+0x6CD8FFB0 = ~z~Jesus!
+
+0x6CFEDCD0 = ~z~I lost everything and I hate you for it.
+
+0x6D73B97E = ~z~Please, not this again! Whatever's left'll be in Pa's room, just please take it and go!
+
+0x7B24AEAC = ~z~You dead, or just dead drunk?
+
+0x7E47E4B0 = ~z~What you drinking there, mister?
+
+0x8A9B4CCA = ~z~You stay away from him.
+
+0x8AC04165 = ~z~Goddamn you.
+
+0x8B349520 = ~z~Tell me where you keep the money or I swear I'll kill you right there.
+
+0x8FE197CD = ~z~What the hell? How dare you sneak in here, you son of bitch.
+
+0x9AAB2534 = ~z~Lowdown thief!
+
+0x9AEB66E5 = ~z~Gotta play two roles in this damn house.
+
+0x9D01E5E8 = ~z~What the hell?
+
+0x9D60991D = ~z~Help! Somebody!
+
+0x9F14E870 = ~z~Really taught that kid a lesson, didn't you?
+
+0x10B5056F = ~z~Yes, Pa.
+
+0x15D575D9 = ~z~Get the hell out of my house.
+
+0x17D975D5 = ~z~What the hell are you doing here?
+
+0x21D973A2 = ~z~I don't believe it. You again? You're a dead man.
+
+0x25B816CC = ~z~Don't try nothing stupid, old man.
+
+0x28AD1294 = ~z~It was him or me. And I chose him.
+
+0x34E674BC = ~z~No! Please don't kill me! Take whatever you want, just leave!
+
+0x36C9BEC5 = ~z~I won't say a word, I promise. Just please go. I beg you.
+
+0x38F5ED62 = ~z~Are you crazy?
+
+0x43A596FA = ~z~Hey, what are you doing in here?
+
+0x43B6A416 = ~z~Oh no, you ain't robbing me!
+
+0x45CB4C39 = ~z~This is a nice place ya have here. It'd be a shame if we had to make a mess.
+
+0x48AE315E = ~z~Whoa there, partner. Just take it easy.
+
+0x49CAC92B = ~z~I said get the hell out of here! I won't tell you again.
+
+0x53C3FF1B = ~z~I wouldn't grieve too hard. Seems your dad was hiding letters you mom sent you.
+
+0x56D045AC = ~z~You better be. Barging into a feller's home like that. You lucky I ain't shot you.
+
+0x58CD23D4 = ~z~You bastard.
+
+0x59C61BAD = ~z~Get the hell out of my house!
+
+0x66B685D0 = ~z~What... who the hell are you?
+
+0x70B27AB0 = ~z~Untie me, you son of a bitch!
+
+0x71CBDF0D = ~z~Goddamn you!
+
+0x71F1AE29 = ~z~You're done now!
+
+0x83A5B330 = ~z~Hey, what are you doing?
+
+0x84BA7C7C = ~z~The chimney. It's in the chimney, just please don't hurt me!
+
+0x87EA7A79 = ~z~Leave us alone! Please!
+
+0x88FA5D06 = ~z~I ain't scared of you, you lowdown coward.
+
+0x91C23269 = ~z~Let me go, please!
+
+0x91CFBFFE = ~z~Nothing will happen to you as long as you tell me where you keep your money.
+
+0x93D6D305 = ~z~No! Nate!
+
+0x94D24011 = ~z~Christ alive!
+
+0x95AAD59C = ~z~What the hell? How dare you sneak in here, you son of bitch.
+
+0x99DF258A = ~z~Oh shit!
+
+0x104DADC4 = ~z~You alright there, mister?
+
+0x115B3C4F = ~z~We ain't got much, just whatever's in Pa's room.
+
+0x176B855D = ~z~Get on outta here. Get on out, ya hear me?
+
+0x266BB99C = ~z~Untie me, you bastard!
+
+0x288CE9FE = ~z~Nate! No...
+
+0x360DC0C4 = ~z~But you didn't deserve to die.
+
+0x391A645A = ~z~You... you can't be in here. You need to leave.
+
+0x465CC235 = ~z~Hey, you alive there?
+
+0x514E78CF = ~z~You stay away from him.
+
+0x520A9F41 = ~z~What the hell?
+
+0x606EFC48 = ~z~No, not this again. You ain't leaving here alive this time.
+
+0x666B50D3 = ~z~Oh God! Not you again.
+
+0x690D6A26 = ~z~Hey now, take it easy. Clearly I got the wrong house. I'll be on my way.
+
+0x697BB317 = ~z~What the hell is your problem?
+
+0x720EFB8F = ~z~You're gonna pay, you son of a bitch!
+
+0x802A079E = ~z~What the hell is going on?
+
+0x867CA366 = ~z~Shit!
+
+0x917E2275 = ~z~You? How dare you come back here?
+
+0x929D5543 = ~z~What? How dare you threaten me in my own home.
+
+0x1593F56F = ~z~Who the hell you think you are?
+
+0x2105A610 = ~z~Nate, go to your room.
+
+0x2291EEA6 = ~z~You shut the hell up, or I'll make sure you join your daddy soon enough.
+
+0x2849DEFD = ~z~My Pa's buried out back because of you.
+
+0x2859DF96 = ~z~Please, you don't have to do this!
+
+0x3940C3B3 = ~z~You tell anyone what happened here and I will find you.
+
+0x4307DC42 = ~z~Keep your mouth shut, kid, or this is about to get a whole lot worse.
+
+0x6701C206 = ~z~Leave him alone!
+
+0x8529EBC7 = ~z~Hey you... get the hell off my property.
+
+0x8876ADB1 = ~z~She doesn't know... she can't know.
+
+0x9471E906 = ~z~Yes, Pa.
+
+0x16203B23 = ~z~Come on, you don't have to tie me up!
+
+0x17027FCC = ~z~Why... why would you do this?
+
+0x42260A4F = ~z~Goddamn murderer!
+
+0x53205DF1 = ~z~Keep your mouth shut, kid, or this is about to get a whole lot worse.
+
+0x65868FDB = ~z~No, come on, my Ma gave that card to me.
+
+0x74078EA2 = ~z~Please. We ain't got much.
+
+0x76203FA2 = ~z~Listen, I'm just trying to look out for you. I'll be on my way.
+
+0x79559D83 = ~z~Get the hell outta my house. Now!
+
+0x295183ED = ~z~You leave my son alone, you goddamn bastard!
+
+0x392649E4 = ~z~Letters from my Ma? She wrote to me?
+
+0x536459B7 = ~z~You come back here after what you done!
+
+0x592005A2 = ~z~You ain't looking out for me. Just get outta here.
+
+0x666002DA = ~z~Why are you doing this to us? We're just people.
+
+0x731265BC = ~z~I won't say a word, I promise. Just please go. I beg you.
+
+0x992831CE = ~z~You think you can just come back in here after what you did to us? Bleeding us dry!
+
+0x1483247D = ~z~Hey!
+
+0x4846368B = ~z~Christ alive!
+
+0x5167393C = ~z~Jesus!
+
+0x6367309A = ~z~You took his life, I'm taking yours!
+
+0x9618522E = ~z~Shit!
+
+0x16756933 = ~z~Lowdown thief!
+
+0x49171845 = ~z~You took my boy from me!
+
+0x78785669 = ~z~Pa... no...
+
+0xA00B4B6B = ~z~What? Ma? She wrote to me?
+
+0xA0DF719D = ~z~You bastard, you killed my boy!
+
+0xA0E3FFBB = ~z~I'm done with bastards thinking they can rob this house!
+
+0xA1E00454 = ~z~Hey, who's there? Nate, you stay put.
+
+0xA2B5DB52 = ~z~Pa! Answer me!
+
+0xA32D2706 = ~z~Calm down? Get the hell out of my house.
+
+0xA43A4FB0 = ~z~Why you keep coming here?
+
+0xA597BC72 = ~z~Look what happened to you.
+
+0xA814CD40 = ~z~Some strange feller was just in my room.
+
+0xAA853F18 = ~z~Pa! Pa! Get in here quick!
+
+0xAB02AD7C = ~z~Who the hell are you?
+
+0xAB5FEAD8 = ~z~Get out of my house.
+
+0xAB87D68D = ~z~Nate, go to your room!
+
+0xAC9C5382 = ~z~Oh, shit! Get in here, Pa! That feller's back!
+
+0xAC517807 = ~z~Relax, I aint gonna hurt you.
+
+0xACECCB1C = ~z~This is why Ma left.
+
+0xACFDB7AD = ~z~Hey, who are you? Get the hell out of my house.
+
+0xADCD19D5 = ~z~Pa! There's someone in the house.
+
+0xAFECD1C7 = ~z~I should be the one dead, not you.
+
+0xB3B70A6E = ~z~Who do you think you are? Get the hell outta my house!
+
+0xB3D1DE81 = ~z~Okay then, you bastard!
+
+0xB91FBC84 = ~z~You damn coward!
+
+0xB247EFE4 = ~z~For what it's worth, that father of yours kept letters your mom sent you.
+
+0xB4094D11 = ~z~Who you think you are, barging into my home?
+
+0xB9533CD6 = ~z~What you drinking there, mister?
+
+0xB2185423 = ~z~Why?
+
+0xBCBC43BD = ~z~Call yourself a man?
+
+0xBD7B61FA = ~z~Oh God...
+
+0xBEC9573F = ~z~I aint taking no more chances with you.
+
+0xBEFB1D62 = ~z~You... you can't be in here. You need to leave.
+
+0xBF0E598C = ~z~Doing the best I damn well can.
+
+0xC0FB0D4A = ~z~Now they're both gone...
+
+0xC28C5BC3 = ~z~I'll bury you!
+
+0xC38F4439 = ~z~Now that's no way to treat a guest.
+
+0xC70AD8BE = ~z~No, no, please. Pa!
+
+0xC706FDED = ~z~No, put him down! You sick bastard.
+
+0xC763F6EB = ~z~What? Who are you?
+
+0xC58574ED = ~z~You thieving bastard!
+
+0xCA41D10F = ~z~Pa, are you there?
+
+0xCA138C4C = ~z~Keep your mouth shut, kid, or this is about to get a whole lot worse.
+
+0xCCC2865D = ~z~Pa! Stop it, please!
+
+0xCCEA069A = ~z~Why the hell are you doing this?
+
+0xCE60E706 = ~z~Rotten bastard!
+
+0xCEAC2F85 = ~z~Please, please just go, mister.
+
+0xCF6F722E = ~z~Nobody hurts my son.
+
+0xD1C414CE = ~z~You damn maggot. Who the hell you think you talking to? You need to learn some respect.
+
+0xD389751B = ~z~Uh uh. No, I ain't gonna turn out like you, Pa.
+
+0xD823665F = ~z~Oh no, Pa! you... you're a monster!
+
+0xDA51F3BF = ~z~Aw, leave me one of them at least.
+
+0xDB9B1408 = ~z~Just leave him be!
+
+0xDC5DB0E0 = ~z~What... what are you doing here?
+
+0xDC9963F5 = ~z~Whoa there, partner. Just take it easy.
+
+0xDF0A61E5 = ~z~Are you deaf? I told you to leave.
+
+0xDFC37F53 = ~z~What kind of man breaks into a house and kills a boy?
+
+0xE035B1B1 = ~z~~sl:0.0:3.2:1~You'd only gamble or piss it away if I did.
+
+0xE3DF909D = ~z~Now they're both gone...
+
+0xE5CC515E = ~z~Goddamn thieving bastard.
+
+0xE30D904A = ~z~What? Who are you?
+
+0xE51EE2C0 = ~z~Hey, you alive there?
+
+0xE868F38F = ~z~Let's all calm down here.
+
+0xE5701270 = ~z~No, why would he do that?
+
+0xEA23B19F = ~z~
+
+0xEA808CC2 = ~z~What... what are you doing here?
+
+0xEBC83551 = ~z~Hey... hey, who's there?
+
+0xEC223C4A = ~z~What the hell are you doing here?
+
+0xECBBA249 = ~z~I should tell you, kid, your dad was keeping letters from your mom. I found one in his room.
+
+0xECD300C0 = ~z~Who's out there? Best not be another fool trying to rob me.
+
+0xED2B086A = ~z~Hey. Same shit different day, I see.
+
+0xEE92E408 = ~z~I'll kill you!
+
+0xEE9438FA = ~z~Oh no... please, no. Pa!
+
+0xF1C9A35F = ~z~Tell me, what kind of man does that make you?
+
+0xF5E7DD15 = ~z~Well, you ain't a babe in the crib no more. You full growed now, boy. Start pulling in your pieces.
+
+0xF396B606 = ~z~What am I gonna do now? He's all I had left.
+
+0xF571D9C2 = ~z~Don't do this.
+
+0xF41954F8 = ~z~You let me go right now.
+
+0xFA1DC234 = ~z~Enough? All I had enough of is you!
+
+0xFAC73D1E = ~z~Letters from my Ma? She wrote to me?
+
+0xFB2A721A = ~z~I'm ready for you this time, you son of a bitch.
+
+0xFBD1EAB2 = ~z~Where are you, you son of a bitch!
+
+0xFBFB2AC1 = ~z~Don't tell me to calm down, you son of a bitch. Get off my damn property.
+
+0xFD0A7537 = ~z~I couldn't keep your momma, and I couldn't protect you.
+
+0xFD18F23A = ~z~Really taught that kid a lesson, didn't you?
+
+0xFDBA604A = ~z~Hey! Get the hell off my property.
+
+0xFE1BC8B1 = ~z~No, stop! Hit me if you gonna hit anyone!
+
+0xFE62DCFE = ~z~Tell me where you keep the money or I swear I'll kill you right there.
+
+0xFF14E918 = ~z~What's wrong, Nate?
+
+0xFFF62A43 = ~z~Oh God, say something, Pa. Please!
+

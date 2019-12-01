@@ -1,0 +1,626 @@
+0x0098F59E = ~z~Burning rich folks' property? ~rp~Sean was like a pig in shit.
+
+0x01997DB4 = ~z~five thousand.
+
+0x02428156 = ~z~We've got gold, Yankee...
+
+0x03B89D3B = ~z~~sl:0.0:2.2~What are you still doing here?~sl:~God help us if you're the brains of the operation.
+
+0x05312E48 = ~z~~sl:0.7~but... perhaps we should look elsewhere...
+
+0x0A0A3261 = ~z~And everywhere... there's troubles. Who are you?
+
+0x0A648905 = ~z~Crazy old fool.
+
+0x0C245983 = ~z~And I was told that the moon was made of ladies' tears...
+
+0x0F7AC375 = ~z~~sl:3.7:1.4:1~Oh my God!
+
+0x0FCCAD2C = ~z~But I like ya... and I'll give ya...
+
+0x1A9ECC68 = ~z~Well... ~rp~that could've gone smoother.
+
+0x1B02F693 = ~z~What are you doing, Arthur? Let's stay together!
+
+0x1B0B19D7 = ~z~Just what are you playing at?
+
+0x1C4CD6E6 = ~z~~sl:0.0:4.0~You don't know me... you turn up in this town...~sl:0.8~and you're helping everybody.
+
+0x1C46680F = ~z~I met your son, the sheriff.
+
+0x1E38492F = ~z~No.
+
+0x1EE4EDC4 = ~z~problems with a family...
+
+0x1F5EFFF8 = ~z~only it ain't true.
+
+0x1F9A006E = ~z~Not one little bit.
+
+0x1F96E313 = ~z~Someone'll come see ya.
+
+0x1FFBBCC8 = ~z~And?
+
+0x2A1B7283 = ~z~~sl:0.0:3.9~Like I said, some people in the area will hold us back for ever.~sl:1.0~We need stability.
+
+0x2AAE4FDD = ~z~Five thousand?
+
+0x2BDF6CDF = ~z~Oh, looks like you boys had some trouble.
+
+0x2CD9F5A7 = ~z~~sl:0.0:3.4~Yeah,~rp~ he doesn't know what he's talking about.~rp~~sl:0.6~But, ~rp~if we get even a third of that, ~rp~it'll be worth it.
+
+0x2E0BD318 = ~z~What the hell you doing?
+
+0x3AA7F393 = ~z~The old man was cursing the Braithwaites about that.
+
+0x3B6B674A = ~z~~sl:0.0:5.1~Like I said, some people in the area will hold us all back forever.~sl:0.6~We need... stability.
+
+0x3B90628F = ~z~At the end of it we felt like prize idiots.
+
+0x3ECFB9F3 = ~z~~sl:0.5~Alright then...
+
+0x3EF3553D = ~z~Whoa, you okay there, boy?
+
+0x4A569686 = ~z~Don't you dare question me, boy.
+
+0x4C9895E1 = ~z~they've ruined this county.
+
+0x4C669710 = ~z~Burning rich folks' property? ~rp~Sean was like a pig in shit.
+
+0x4DC73F73 = ~z~Well, I... okay then. Head on up to the stables...
+
+0x4E0A18D8 = ~z~I ain't nothing...
+
+0x4E6AD5CD = ~z~Let me do the talking.
+
+0x4FFF2B9E = ~z~So how are we gonna play this?
+
+0x5B5B34F9 = ~z~If he only knew we just torched his tobacco crop.
+
+0x5D0579CB = ~z~John, Arthur, Javier.
+
+0x5D571F2F = ~z~~sl:0.4:1.4~These here's mainly the studs,~sl:0.0:2.1~available for purchase or for working,~sl:0.9~if that's what you're interested in.
+
+0x5D403744 = ~z~my daddy came over on the boat from Scotland.
+
+0x5EA416C3 = ~z~Quick, or you'll never catch him!
+
+0x6A030C0C = ~z~What are you doing?
+
+0x6AA7CFD3 = ~z~Feller over there will run them out of state...
+
+0x6B556440 = ~z~we're twins, but I was born first...
+
+0x6C69B24E = ~z~Are you going after him?
+
+0x6C595BDC = ~z~Can I help you there?
+
+0x6D591196 = ~z~There's a gap in the fence. We can get out that way!
+
+0x6E193E09 = ~z~~sl:0.0:3.8~Yeah,~rp~ he doesn't know what he's talking about.~rp~~sl:0.4~But, ~rp~if we get even a third of that, ~rp~it'll be worth it.
+
+0x7A075A29 = ~z~Ok, bandanas on. Don't need nobody recognizing us.
+
+0x7A4A7144 = ~z~They killed my uncle, you know.
+
+0x7A57990F = ~z~mongrels...
+
+0x7C3D9CD3 = ~z~I'm Scottish.
+
+0x7E0D89B0 = ~z~He's funny.
+
+0x7E2A6CC6 = ~z~~sl:0.0:4.9~You got him, well done. Clemens Cove is just over there, come on.~sl:1.0~Let's get this over with.
+
+0x7E2489DA = ~z~Yeah, I know these horses.
+
+0x7F4AB579 = ~z~Look there! The fence is down, come on!
+
+0x7FD602D5 = ~z~arranged a meeting, I believe, about some horses?
+
+0x8B68BD30 = ~z~Relax, boy. C'mon.
+
+0x8B80B25C = ~z~What are you doing?
+
+0x8B84D842 = ~z~And maybe someone there'll hang you.
+
+0x8B94FBAA = ~z~Okay fine, follow me.
+
+0x8C6C2595 = ~z~That so?
+
+0x8D00DBFC = ~z~Shit, one of the horses broke free! Arthur, get after him!
+
+0x8D8A3F6C = ~z~And the Braithwaites?
+
+0x8D3094E4 = ~z~Easy.
+
+0x8DF4CBCE = ~z~Oh well, nobody likes degenerates.
+
+0x8DF20751 = ~z~Believed a yarn, spun us by one of that Gray family...
+
+0x8FD22D35 = ~z~They ain't yours.
+
+0x8FEB2D6B = ~z~Ain't he funny, Clive?
+
+0x9A8F4AB4 = ~z~My sense is we keep all horse rustling away from the public.
+
+0x9AF2AA53 = ~z~That was you?
+
+0x9B1230A7 = ~z~Over in Clemens Cove.
+
+0x9BA53C7E = ~z~~sl:0.0:2.3:1~We heard good men can do well in this country.
+
+0x9BA8559F = ~z~Listen, mister... we're good men. Like you.
+
+0x9DC0382F = ~z~Problem is we can't be seen to get too close.
+
+0x9DD37CDF = ~z~We're gonna need more than that.
+
+0x9E203F69 = ~z~Sure... I was supposed to meet my business partners here, they...
+
+0x9F7C4BB5 = ~z~You're funny.
+
+0x9FA66F31 = ~z~That hag and her inbred sons...
+
+0x10BB11EA = ~z~We're an old Scottish family. We work.
+
+0x12D64A0A = ~z~These are prized horses I'm talking about...
+
+0x12F63617 = ~z~~sl:0.0:1.1:1~Greaser, huh?
+
+0x13D92237 = ~z~and give you fifty cents on the dollar.
+
+0x15B80D31 = ~z~~sl:0.0:1.8:1~Just look at those balls.
+
+0x15BBA50D = ~z~Alright, you heard the man. Follow me, I know the way.
+
+0x17B88512 = ~z~Shit, they blocked our way out!
+
+0x19A8C872 = ~z~Can I help you?
+
+0x20C4E1C2 = ~z~~sl:0.0:2.6~Five thousand dollars for horses?~sl:0.8~~rp~We've been robbing the wrong folk all these years.
+
+0x23AE2BDE = ~z~What is you boys interested in?
+
+0x26CE4A6D = ~z~I ain't no Yankee, friend...
+
+0x30F88627 = ~z~We're an old Scottish family. We work.
+
+0x31E05830 = ~z~Talking of Sean... ~rp~he said to give you a message to meet him, Bill and Micah in town soon as you can...
+
+0x34E52BE4 = ~z~You goddamn fool, Marston.
+
+0x35A37E33 = ~z~Go left, into the fields!
+
+0x35AFE1E0 = ~z~We always got horses.
+
+0x35EAE38F = ~z~Anyway,~rp~ leave that, ~rp~we're getting close now.
+
+0x42A3B52D = ~z~Okay.
+
+0x48AD9E19 = ~z~You ain't Cuban.
+
+0x49B503DD = ~z~My family try... my sons are good boys, but it's been hard.
+
+0x54E70390 = ~z~Watch it, there's guards by that wagon!
+
+0x55FECA31 = ~z~We heard good men can do well in this country.
+
+0x59B4C0FF = ~z~Clive don't talk...
+
+0x60BE65B2 = ~z~~sl:0.5:0.0~I'm sure.
+
+0x60C3D8AD = ~z~That'll be on my gravestone.
+
+0x61B0C896 = ~z~You don't know me... you turn up in town, you're helping everybody.
+
+0x64E5480D = ~z~That was you?
+
+0x67B4312C = ~z~~sl:0.0:1.5~This one's, uh, Old Faithful.~sl:0.4:1.7~He was a champion, briefly,~sl:0.5:1.0~'til he hurt his leg.~sl:0.2~Didn't you, boy?
+
+0x69AE9496 = ~z~Hey Morgan, over here!
+
+0x74D36EDB = ~z~And there's troubles... everywhere.
+
+0x75A0A13B = ~z~Hello there.
+
+0x75B480A8 = ~z~Thank you and, uh... sorry for your troubles friend.
+
+0x76EF7A9C = ~z~why what do you care?
+
+0x78B4FE0B = ~z~So what are you?
+
+0x79B019BF = ~z~~sl:0.0:1.0~Good boy.~sl:0.9~Easy now.
+
+0x87C5406D = ~z~I think we're clear!
+
+0x89C698C1 = ~z~Lost money on some failed railway speculation.
+
+0x92C82C4E = ~z~~sl:0.0:4.2~Marston, you ride point. I'll cover up the back. If there's any problems...~sl:~we regroup at Clemens Cove.
+
+0x92F70101 = ~z~Alright, let's hitch up here.
+
+0x94B84D3C = ~z~~sl:0.0:2.1~Five thousand dollars for horses?~sl:0.9~~rp~We've been robbing the wrong folk all these years.
+
+0x95A946AD = ~z~Let's go, quick!
+
+0x96C4B928 = ~z~You'd be armed if you were about to spend five thousand on horses.
+
+0x96EA5234 = ~z~all you got to do is look at them.
+
+0x99C71BAE = ~z~No,~rp~ not yet. ~rp~If they're there already, they better keep their heads down.
+
+0x111B276C = ~z~Look, mister... we're good men. Like you.
+
+0x150D6557 = ~z~Javier, you're gonna lead the stallions.
+
+0x205E37BD = ~z~Stop! Stop! We're being robbed!
+
+0x250E7D3E = ~z~Alright, I'll grab the white one in the middle, you get the other two.
+
+0x270F449F = ~z~Fine horses, I mean.
+
+0x301B101C = ~z~a family of degenerates.
+
+0x352C7F91 = ~z~Yes, sir.
+
+0x372A9E57 = ~z~I guess we'll see.
+
+0x396A1108 = ~z~My family try... my sons are good boys, but it's been hard.
+
+0x409B5878 = ~z~Leigh spoke highly of you, don't give me cause to doubt his judgment.
+
+0x436E937F = ~z~Cuban?
+
+0x451C9F44 = ~z~publicly I mean.
+
+0x454FAED5 = ~z~My daddy taught that to me, I taught my sons. Work hard, but fair.
+
+0x573B33AB = ~z~Bandits attacked my fields... men getting killed... just who are you?
+
+0x742E3745 = ~z~Uh huh? Greaser, huh?
+
+0x756D4F5B = ~z~~sl:0.0:1.6~We represent a famous, uh...~sl:0.0:2.2~stable and stud farm from, um...~sl:~Saratoga.
+
+0x761BACF3 = ~z~They're sending out riders! Go, I'll hold them off!
+
+0x761BDA30 = ~z~Let's get these horses to Clemens Cove
+
+0x786AD299 = ~z~~sl:0.0:1.5~Amazing runner though.~sl:0.8~He's up for sale for a decent price.
+
+0x814DC357 = ~z~We got more on horseback! Keep going, I'll cover you!
+
+0x823B4F3D = ~z~Move, you son of a bitch!
+
+0x831C8B71 = ~z~~sl:0.0:2.8~Sure... and bad men.~sl:0.8~We haven't recovered as well as I'd hoped from the war.
+
+0x834F466E = ~z~I'm Clay Davies, that's my brother, Clive.
+
+0x1350AD61 = ~z~Okay.
+
+0x1638A0E1 = ~z~Another one? ~rp~Okay... ~rp~I'll go see what they're up to when we're done with this.
+
+0x2319DB6C = ~z~Feller with a scar and a Mexican?
+
+0x2405DAF8 = ~z~Damn, the gate's blocked!
+
+0x2787C007 = ~z~You dumb bastard! They're onto us!
+
+0x3079EDB2 = ~z~I don't like Cubans.
+
+0x3527C706 = ~z~Heads down,~rp~ play it cool.
+
+0x5552DA8B = ~z~Mr. Gray here was saying how he had...
+
+0x5597CEC2 = ~z~Okay, you need to leave, now. I am losing my patience.
+
+0x6365A381 = ~z~Alright,~rp~ I think that's the stables just up ahead.
+
+0x6622D903 = ~z~Maybe...
+
+0x8219F22C = ~z~quick, before we run into any more trouble.
+
+0x8235DE06 = ~z~What are you doing? You'll blow our cover!
+
+0x8348E855 = ~z~~sl:0.0:1.4~This here's Cerberus.~sl:0.6~Here you go, boy.
+
+0x9057E2C8 = ~z~Close the gate, Clive.
+
+0x9476A72F = ~z~I'm sure. ~rp~Five thousand for horses? ~rp~They must be rich.
+
+0x9484BB86 = ~z~That's it,~rp~ nice and easy. ~rp~No need to rush.
+
+0x9591E193 = ~z~Get going, you two! I'll watch the rear.
+
+0x14663E96 = ~z~Look, I'm not paying you to follow me around.
+
+0x14692C6C = ~z~Shit, one of the stallions is loose! Keep going, I'll get him!
+
+0x26423CF8 = ~z~I'm sure.
+
+0x42953EA1 = ~z~Quick, come on. Cover your face, they know you.
+
+0x48412EB6 = ~z~~sl:0.0:2.8~Sure... and bad men.~sl:1.5~We haven't recovered as much as I'd hoped from the war.
+
+0x70155CDA = ~z~And that ain't right.
+
+0x70743A83 = ~z~You trying to draw attention to us?
+
+0x73537BB1 = ~z~Just keep us away from this...
+
+0x74734E8D = ~z~Hey, watch it.
+
+0x87831AA5 = ~z~Three armed men?
+
+0x95786AC0 = ~z~We're twins.
+
+0x105862CB = ~z~Here. Take it, or leave it.
+
+0x285627EE = ~z~Of course, sir. I didn't mean no offense.
+
+0x348065D1 = ~z~we've got gold.
+
+0x471363C7 = ~z~We'll have to go through the fields!
+
+0x671832B1 = ~z~We ain't officials. We're connoisseurs. Looking to do some breedings.
+
+0x838435D3 = ~z~And have you met my partner Arthur Morgan?
+
+0x920705D1 = ~z~~sl:0.0:2.1~Cerberus is a real reliable stud.~sl:0.4~Fathered many a race winner.
+
+0x3408979F = ~z~No.
+
+0x5842325D = ~z~~sl:0.0:2.9~Look, we want to help and all, Mr Gray, but...~sl:0.5~five-thousand-dollar horses? We ain't fools.
+
+0x6098563B = ~z~Mister, you got yourself a deal.
+
+0x14666521 = ~z~I'll speak to him, okay?
+
+0x27538514 = ~z~Go, get out of here! I got the back!
+
+0x95465957 = ~z~No.
+
+0x97875343 = ~z~
+
+0x98985588 = ~z~Goddamn peasants.
+
+0xA0EC8315 = ~z~But...
+
+0xA0EF0652 = ~z~So much for going in quiet! Idiota!
+
+0xA2C7531F = ~z~he came out all yellow and black, but he's okay.
+
+0xA3D3EC75 = ~z~Oh shit!
+
+0xA6C1F1DB = ~z~I don't know...
+
+0xA7B90F41 = ~z~That so?
+
+0xA8E33FC2 = ~z~Alright.
+
+0xA9DCE636 = ~z~We don't want to draw any unnecessary attention.
+
+0xA12FA422 = ~z~His coat might be a little thin for them Saratoga winters, but uh...
+
+0xA23AA8FD = ~z~I don't like officials.
+
+0xA28A654F = ~z~~sl:0.0:3.8~Hosea and Sean were planning on going over to the Braithwaites.~sl:~~rp~You haven't seen 'em?
+
+0xA53FD61E = ~z~The place is well-guarded,~rp~ so there ain't no point in blasting in there.
+
+0xA58B0D32 = ~z~but nice meeting you.
+
+0xA83F0421 = ~z~More coming this way, out of the fields!
+
+0xA96B76A2 = ~z~~sl:0.0:3.9~Yeah, ~rp~he doesn't know what he's talking about...~sl:0.6~~rp~but, ~rp~if we get even a third of that, ~rp~it'll be worth it.
+
+0xA830FF2C = ~z~I met your son, the sheriff?
+
+0xA871CB66 = ~z~And where do we sell them, these...
+
+0xA5044BB4 = ~z~Just do the job or I'll find someone else who will.
+
+0xA635519E = ~z~~sl:0.0:2.9~That awful business was nothing to do with us.~sl:~I like... I like smoking tobacco, not recklessly burning it.
+
+0xAB59BED3 = ~z~We don't need this to be any more complicated than it already is.
+
+0xAB61C4BF = ~z~No!
+
+0xAB52055A = ~z~Okay.
+
+0xACCF7DFE = ~z~How much gold?
+
+0xAF0092BA = ~z~Heard you was...
+
+0xAF7240A7 = ~z~~sl:0.0:0.8~bred right,~sl:0.4~he'll produce another winner.
+
+0xAFF3045F = ~z~~sl:0.8~What the hell are you doing?
+
+0xB068D14B = ~z~My daddy taught that to me and I taught my sons. Work hard... be fair.
+
+0xB3B8A98D = ~z~Ain't no one round here got five thousand dollars, boys...
+
+0xB7E8F505 = ~z~Like I said... we had a run of bad luck in the west...
+
+0xB8DE5644 = ~z~Come on now, partner...
+
+0xB25A08CF = ~z~Horses?
+
+0xB35E27F8 = ~z~I like you boys...
+
+0xB37FFC3E = ~z~Out by the stables, I think.
+
+0xB45DF64C = ~z~Sure.
+
+0xB653AD36 = ~z~Stay with us, Arthur!
+
+0xB939FE12 = ~z~We'll make them think we're there looking to purchase.
+
+0xB6246F71 = ~z~A feller with a scar and a Mexican?
+
+0xB415182E = ~z~You think they look like they're paying five thousand for horses?
+
+0xB9226040 = ~z~Don't think so!
+
+0xBA0D33E9 = ~z~Sure, pop.
+
+0xBB34075A = ~z~'Course.
+
+0xBB800018 = ~z~Hey! Get a hold of yourself, or this'll never work!
+
+0xBC43E3F4 = ~z~and imagined we was gonna be wonderfully rich.
+
+0xBC284A99 = ~z~Okay.
+
+0xBE769227 = ~z~~sl:1.1:0.0~Yeah, we had some trouble... bad trouble... what you want?
+
+0xC009C0A2 = ~z~Stay close to the horses! We don't need any more trouble.
+
+0xC0A63605 = ~z~heard you paid good prices for horses.
+
+0xC3F4AC04 = ~z~Yeah, we're here to see about some horses...
+
+0xC4A39607 = ~z~Maybe I like Cubans?
+
+0xC52F2EBD = ~z~Enough.
+
+0xC53D5387 = ~z~No, look out! There's more of 'em on the road!
+
+0xC87BF57F = ~z~Whoa!
+
+0xC6434DC2 = ~z~but I ain't got more than seven hundred on me.
+
+0xC6226605 = ~z~Watch out by that wagon, more of 'em!
+
+0xC9281578 = ~z~Out by the stables.
+
+0xCA05D627 = ~z~C'mon.
+
+0xCA582A7F = ~z~Go on then. Get out of here.
+
+0xCAE4D598 = ~z~heard you paid good prices for horses.
+
+0xCB690D54 = ~z~~sl:0.0:1.1~I hope so.~sl:0.3~Heard you got some horses.
+
+0xCDDDEE04 = ~z~Marston, you're gonna tether 'em up to Javier's horse.
+
+0xCE8340D1 = ~z~You should see the Braithwaite woman.
+
+0xCE67113B = ~z~The old man was cursing the Braithwaites about that.
+
+0xCEDAC1D0 = ~z~Can I help you gentlemen?
+
+0xCEFA5DB7 = ~z~What you boys want?
+
+0xCF579931 = ~z~them they'll get you...
+
+0xD020449F = ~z~slave fuckers...
+
+0xD0C036BA = ~z~~sl:0.0:2.1~Oh, I was supposed to meet some business partners here,~sl:~they arranged a meeting, I believe.
+
+0xD2CF5941 = ~z~Look out ahead! They're coming out of the fields!
+
+0xD3C1E1C6 = ~z~~sl:0.0:3.2~Go to the stables on the south side of the manor.~sl:0.6~That's where they keep the thoroughbreds.
+
+0xD3CC1E32 = ~z~Yeah you do, come on...
+
+0xD3E3A249 = ~z~For horses?
+
+0xD6C1EEBF = ~z~You want it, or you want to ride them fellers into town?
+
+0xD6C5D172 = ~z~~sl:0.0:4.6:1~Yeah, we had a-an appointment with Mr. Braithwaite, I believe...
+
+0xD7D740A0 = ~z~Is that so?
+
+0xD9AAA9D7 = ~z~Can I help you boys?
+
+0xD9BB53B0 = ~z~You should see the Braithwaite woman.
+
+0xD48BC5CE = ~z~Just get the job done, then we can talk about pleasure.
+
+0xD70FF72C = ~z~More on the road there! Hijos de puta!
+
+0xD86C72F4 = ~z~See you boys again I hope.
+
+0xD776B215 = ~z~Yes, sir.
+
+0xD93717A5 = ~z~We'll head around the front. ~rp~Hitch up there.
+
+0xD776954D = ~z~Let's get to these horses.
+
+0xD965405E = ~z~I can give you six hundred and fifty for 'em.
+
+0xDA3258DD = ~z~~sl:0.0:3.0~Keep your mouth shut or you'll get a bullet through it.~sl:~We're taking the horses.
+
+0xDB57A4AA = ~z~You see any more of them?
+
+0xDBEC333D = ~z~Whoa! I thought you said "Be cool!"
+
+0xDC93F8F6 = ~z~Oh, we'll buy more or less anything, pop.
+
+0xDD318AE0 = ~z~See if we get rid of them in the trees!
+
+0xDEC29F47 = ~z~Boss'd probably sell him to you if you made the right offer.
+
+0xE048E45C = ~z~~sl:0.0:3.3~Hosea and Sean were planning on going over to the Braithwaites.~sl:0.5~~rp~You haven't seen 'em?
+
+0xE2B72D8D = ~z~Crazy old fool.
+
+0xE11C81FB = ~z~Heard you was...
+
+0xE43C3CE5 = ~z~some other job they got going with the Grays.
+
+0xE88B74FD = ~z~Yeah, I never heard about any of this.
+
+0xE89D821C = ~z~I think we lost them!
+
+0xE207BAA9 = ~z~I don't get you, friend.
+
+0xE542FF3E = ~z~What you boys want?
+
+0xE55086F6 = ~z~Careful, there's a guard.
+
+0xED043BCA = ~z~~sl:0.0:1.7~And this here is Old Father Time.~sl:0.5:1.2:1~My favorite horse.
+
+0xED2165C4 = ~z~We should go in the back way though, ~rp~avoid too many questions.
+
+0xEDAF7B98 = ~z~~sl:0.0:4.0~Yeah, ~rp~he doesn't know what he's talking about...~sl:0.5~~rp~but, ~rp~if we get even a third of that, ~rp~it'll be worth it.
+
+0xEEA07B8E = ~z~Lost some money on a failed railway speculation.
+
+0xEEBCFA30 = ~z~~sl:0.0:1.8~I just wanted to say, uh...~sl:~it's a pleasure working for your family, Mr. Gray.
+
+0xF1B0DDE3 = ~z~five thousand dollar horses?
+
+0xF1BC57E5 = ~z~If he only knew we just torched his tobacco crop.
+
+0xF2F8B66E = ~z~Let's try to lose them in the trees!
+
+0xF6AEC6D6 = ~z~That's a lot of money to let go, Arthur.
+
+0xF7AB6D9B = ~z~Crazy old fool.
+
+0xF7CAEC4D = ~z~Morgan! Could use a hand here!
+
+0xF8C6A110 = ~z~And have you met my partner Arthur Morgan?
+
+0xF9F63527 = ~z~I was told we could get up to five thousand dollars for 'em.
+
+0xF29B6E4E = ~z~What's gotten into you? Calm the hell down.
+
+0xF35A8A9B = ~z~~sl:0.0:3.6~Our partner wanted to make a significant investment...~sl:~in some stables down here...
+
+0xF6167D1E = ~z~Unofficially...
+
+0xFAF3790E = ~z~Thank you... have a wonderful day now.
+
+0xFCE8181D = ~z~Like I said... we had a run of bad luck in the west.
+
+0xFE0E7322 = ~z~~sl:0.0:2.5:1~I said stop these men! Stop!
+
+0xFED03FBB = ~z~I ain't got no more money, pop.
+
+0xFF35C086 = ~z~Alright.
+
+0xFF57C974 = ~z~Out of my damn way!
+
+0xFFB7E3F6 = ~z~Listen, why don't you get out of here? You, scar face, and your greaser buddy.
+

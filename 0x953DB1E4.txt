@@ -1,0 +1,20 @@
+0x11A3422D = ~z~~sl:0.0:1.8~The thing is...~sl:~thing is, Dutch, it isn't...
+
+0x10523F8B = ~z~
+
+0x96374B4F = ~z~I need to be left alone by all the second guessers.
+
+0xB68C8C01 = ~z~~sl:0.0:1.2~I ain't just some...~sl:0.5~two-bit huckster, Hosea.
+
+0xD985D1F3 = ~z~~sl:0.0:1.0~I...~sl:0.2:2.7~I am willing to die for this if that is what it takes.~sl:~But right now,
+
+0xE6394719 = ~z~I'll get us out of this Arthur, you know that.
+
+0xEB3A755C = ~z~~sl:0.0:1.3~Well...~sl:~what's the plan?
+
+0xF19B73F9 = ~z~As you wish, my friend.
+
+0xF499E3DA = ~z~As you wish, my friend.
+
+0xFDF89AD8 = ~z~~sl:0.0:1.2~I mean,~sl:~after Blackwater we don't want any more deaths.
+

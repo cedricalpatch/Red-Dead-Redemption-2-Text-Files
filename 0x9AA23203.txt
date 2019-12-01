@@ -1,0 +1,454 @@
+0x00D774C3 = ~z~Dance the devil away.
+
+0x034A1ABC = ~z~
+
+0x04A6C960 = ~z~If any of you useless fools are still alive, get them!
+
+0x04BE8F4B = ~z~but you're just gonna have to grin and bear it.
+
+0x07477512 = ~z~~sl:0.0:2.8~And I'll kill you too if you give me as much as a sniff of it.~sl:0.0:2.9~I steal, and I kill, and I torture,~sl:~and I love it all, so help me Jesus.
+
+0x094718BB = ~z~~sl:0.0:3.3~From king of the castle, to face down in a horse's ass.~rp~~sl:0.7~This is quite a damn reversal.
+
+0x097541C7 = ~z~Come on... do something, the suspense is killing me. Literally.
+
+0x098D730A = ~z~We got something special saved for bounty hunters!
+
+0x0990EB9D = ~z~You'll have to get all four of them that's on the list.
+
+0x0B21393D = ~z~~sl:0.0:2.3~They odds ain't good, partner...~sl:0.3:2.8~and you'll be betting your whole life.~sl:0.2~And a world of pain besides.
+
+0x1A9D032D = ~z~~sl:0.0:3.3~Well... I didn't expect my day to go the way it did~sl:~when waking up this morning...
+
+0x1BBB3D9B = ~z~~sl:0.0:1.9~Then you went and spoiled the party.~sl:~I hope you're pleased with yourself.
+
+0x1C4A7176 = ~z~Look at that, a rolling cage.
+
+0x1E57FB25 = ~z~As luck would have it, I tend to do some surgeries myself.
+
+0x1F9AA64B = ~z~Y'enjoying yourself?
+
+0x2C56E141 = ~z~Come here! Give us a ride!
+
+0x2E8ED233 = ~z~~sl:0.0:4.6~You see... you cut 'em deep, they die too quick.~sl:1.0~Cut 'em shallow.... they don't barely feel it.
+
+0x3ADFDA40 = ~z~Is this the horse-drawn carriage going to take me to the ball?
+
+0x3B46B502 = ~z~Oh yeah... a regular sawbones is me.
+
+0x4AF91E85 = ~z~~sl:0.0:0.9:1~Frisky, ain't ya?
+
+0x4C4FACC6 = ~z~~sl:0.0:1.8~You can wipe my damn ass with it,~sl:~and show it to the governor.
+
+0x4C2056B5 = ~z~Don't.
+
+0x4E780E00 = ~z~You move up any closer, you'll be in killing range.
+
+0x5A817037 = ~z~Stupid horse... make me use my damn legs!
+
+0x5CB399EA = ~z~All they had to do was look out.
+
+0x5E11FC39 = ~z~There's something I need to grab.
+
+0x5E177106 = ~z~I will flog the life out of you, you don't get up right now.
+
+0x6C7190FE = ~z~There's some good ears on that head.
+
+0x6F0063CD = ~z~No, no, no!
+
+0x7ABC6A89 = ~z~~sl:0.0:4.3~but he taught me a thing... and I'll teach you too.~sl:0.9~Just let's find someone and settle down a few days.
+
+0x7B51B5E4 = ~z~Least I ain't walking out.
+
+0x7CA53897 = ~z~This is all 'cause a that horse.
+
+0x7FD62461 = ~z~Now, if you'll excuse me... I should go.
+
+0x8A55E4D9 = ~z~I don't want to throw up on myself.
+
+0x8D1FD8B3 = ~z~If you don't see a doctor soon, that could be it for you.
+
+0x9A02516F = ~z~~sl:0.0:4.0~Tell me you believe me? ~rp~You got to understand.~sl:0.1:2.1~They made me do it all.~sl:~~rp~All the stealing... and the killing... and the torture.
+
+0x9ACA75D7 = ~z~Having second thoughts on account of my charm?
+
+0x9D5A66B2 = ~z~Drive, drive, drive! We're almost there.
+
+0x9DD8417C = ~z~I think I need a rest.
+
+0x9E8A5136 = ~z~~sl:0.0:2.0~Ahh... ~rp~this is about the bounty, ain't it?~sl:0.6~Well, I can tell you what you could do with that bounty.
+
+0x9E9913FA = ~z~~sl:0.0:3.5~Ain't this just economic individualism at work...~sl:~~rp~The state's too cheap, or too scared, or too incompetent to bring us in...
+
+0x9ED4160D = ~z~They shouldn't be too far away from each other...
+
+0x9F71B09C = ~z~Kill 'em!
+
+0x9FC88A88 = ~z~Change of heart?
+
+0x12F91B08 = ~z~~sl:0.0:3.1~That black-eyed coyote could cut a man for days...~sl:0.5~and just when he thought he was all out of hurt...
+
+0x17A29A77 = ~z~~sl:0.0:1.8~I snuffed enough lights out...~sl:0.7:2.1~~rp~I got some idea of death.~sl:1.2~But I'd say there's nothing like firsthand experience now is there?
+
+0x20E1D5EB = ~z~~sl:0.0:3.3~No, I don't care a bit, I'll enjoy the hospitality...~sl:0.7~~rp~until I'm done with it.
+
+0x21E664D0 = ~z~Everyone! We got us a bounty hunter!
+
+0x21E9608E = ~z~I want to lie down.
+
+0x21F0B8F7 = ~z~~sl:0.0:5.1~No, you got to cut 'em just right. Just...~sl:2.3~An old Mex taught me down near Punta Orgullo.
+
+0x22AE9326 = ~z~No! Please. Just leave us be, don't kill us...
+
+0x22DB1E31 = ~z~Wait till you see how folks look, after the family's done with them.
+
+0x25A9D180 = ~z~~sl:0.0:1.7~I don't know if I want to stare at the ground,~sl:~or this animal's ass.
+
+0x28C14B71 = ~z~I can't believe this.
+
+0x28FBD81C = ~z~~sl:0.0:3.4~You know, we was having a celebration before you showed up.~rp~~sl:0.0:1.5:1~A real Owlhoot hoedown.
+
+0x30E8B600 = ~z~What are you, a damn butcher?
+
+0x30E379B7 = ~z~~sl:0.0:2.4~You all better be keeping your eyes out.~sl:~Or I'll take them eyes outta your heads myself.
+
+0x34D7C693 = ~z~Shit my drawers!
+
+0x34D68CA7 = ~z~~sl:0.0:3.0~You got some stones, I'll give you that.~sl:0.2~~rp~Got a real pair of stones on you.
+
+0x36FD5224 = ~z~You want to be an Owlhoot? Kill 'em!
+
+0x38A61D3F = ~z~If we can just make it back...
+
+0x39EADC58 = ~z~I ain't gonna stay here and watch this.
+
+0x40F0F1FC = ~z~Fiery lakes of shit.
+
+0x44DF0766 = ~z~And when you get them...
+
+0x49D87EE2 = ~z~~sl:0.0:2.2~This is quite an adventure.~sl:0.4~~rp~They're going to hang me, ain't they?
+
+0x50FD3F73 = ~z~Shit, is that the wagon? Don't look much, does it?
+
+0x51AEE1D2 = ~z~Sugar, you're in pretty bad shape.
+
+0x52BEAB4A = ~z~
+
+0x52E589F4 = ~z~I thought y'all wanted in the family? Kill 'em! Now!
+
+0x53A9A4FB = ~z~but you'll have to do some looking.
+
+0x54BAF0CF = ~z~Who the hell are you?
+
+0x59AB9E8C = ~z~~sl:0.0:2.6~Looks like you got me at your mercy, alright.~sl:0.5:3.0~~rp~I mean, ~rp~you could do whatever you want to me...~sl:0.8~and there's nothing I could say.
+
+0x60B999ED = ~z~First off, they ain't no family.
+
+0x62AF9C38 = ~z~~sl:0.0:1.3~Look here.~sl:~Someone was dumb enough to take that bounty.
+
+0x62D68421 = ~z~I need help.
+
+0x62EF052B = ~z~I'd shoot it again if I could.
+
+0x64A02D69 = ~z~Someone bring me their head!
+
+0x64C64CC4 = ~z~Changing your mind?
+
+0x65DDB2D0 = ~z~Get a good feel!
+
+0x66DBF9AA = ~z~So close to home... I don't care if you die at the door, get there.
+
+0x73F3D318 = ~z~~sl:0.0:1.7~Could be an occasion...~sl:~especially if there's a few of us up there.
+
+0x75F639B8 = ~z~
+
+0x76DAC62F = ~z~The Owlhoot family.
+
+0x78D6EA26 = ~z~And you are?
+
+0x82AFA2CA = ~z~~sl:0.2~I'm still a good girl ain't I? ~rp~You believe me, don't you?
+
+0x82BEE1D3 = ~z~I'll cut this rope, and I'll cut you too.
+
+0x84DC5DE2 = ~z~This is a regular massacre.
+
+0x84E957A2 = ~z~Don't kill ya. It ain't me... it's the bullets.
+
+0x87B923C4 = ~z~~sl:0.0:3.3~When the family hears about this... boy!~sl:0.4~It ain't gonna be pretty when the family hears about this.
+
+0x87FFBEDE = ~z~You got me at your mercy, what you going to do?
+
+0x88E75FC4 = ~z~~sl:0.7~All tied up, and ready for anything.
+
+0x94DC1055 = ~z~Let's just get this over with.
+
+0x94E29B7E = ~z~Or don't kill 'em, wound 'em... so we can have a good time.
+
+0x95B61C7B = ~z~If I choose to, I will drop you in a second.
+
+0x158BBF3F = ~z~~sl:0.0:2.5~And when I'm done... why, you better look out.~sl:1.0~~rp~'Cause I'll still be short a mount.
+
+0x196D0CAF = ~z~My horse is dead. I'm gonna have to ride you.
+
+0x200F914C = ~z~Shake that grog off and do something!
+
+0x204F14CD = ~z~The smell...
+
+0x289A2694 = ~z~Well that's that, then.
+
+0x306C9F4E = ~z~No...
+
+0x311E7664 = ~z~~sl:0.0:1.7~You think I care if you lock me up?~sl:0.3~~rp~Hot meals, a roof over my head?
+
+0x334DECC8 = ~z~~sl:0.0:2.4~This is too much. Too much!~sl:~My brain's rattling around my skull like a liar's dice.
+
+0x358AF474 = ~z~I don't, I don't know... look... please.
+
+0x384D4CDD = ~z~I had an inkling I weren't done killing just yet.
+
+0x427C657C = ~z~Least you did the job on all these imbeciles. You hadn't killed 'em, I woulda done 'em myself.
+
+0x463A5A3D = ~z~
+
+0x468A45F9 = ~z~~sl:0.0:2.0~You think I can go to sleep in that thing?~sl:1.3~Know what... I think I can.
+
+0x501D705D = ~z~Stupid horse!
+
+0x673E2541 = ~z~I swear, I'll die of boredom in a cell before they can build the gallows.
+
+0x677E3A31 = ~z~~sl:0.0:1.6~I got some ideas what I'd do~sl:0.0:1.8~if the situation was reversed...~sl:0.7~but so far... you been real civil. ~rp~It's mighty noble.
+
+0x730CE3C1 = ~z~don't hold back.
+
+0x780E8A1C = ~z~Everyone! We got us some bounty hunters!
+
+0x823F81D8 = ~z~You ain't the first that's come for this scalp.
+
+0x1960A3CE = ~z~I'm just looking for an excuse to turn around, and aerate you.
+
+0x2665B7FD = ~z~~sl:0.0:1.7~Quite an adventure.~sl:1.0~~rp~I do so hope you'll come to my hanging.
+
+0x2747C7CC = ~z~You think that thing will hold me?
+
+0x2955F5A6 = ~z~~sl:0.0:2.3~Trusting some deputy to keep me locked up~sl:0.0:4.2~until the hangman comes... ~rp~well that is brave.~sl:0.8~~rp~ Brave or stupid.
+
+0x3131BADE = ~z~Bringing just one of these Owlhoots down will not cut it here.
+
+0x3909EB50 = ~z~Guess we got to see.
+
+0x4732E6E0 = ~z~the worst bastards and bitches on God's green earth.
+
+0x5413BC7E = ~z~~sl:0.0:2.7~Them ears'll look good on a necklace...~sl:0.8~and that's the best you can hope for.
+
+0x6069C6A0 = ~z~Yes, yes, yes, now... come here.
+
+0x7290E859 = ~z~How about you serving up some more justice of your own, huh?
+
+0x7378DC06 = ~z~~sl:0.0:2.3~That Mex sure was something.~sl:1.6~Ain't going to pretend I'm near as good with my blade,
+
+0x7664E1DE = ~z~~sl:0.0:3.2~he'd make him hurt some more... and then some.~sl:0.7:2.7~Just whittling away at the man...~sl:0.0:3.1~'til there was barely nothing left 'cept the scream.
+
+0x8062E4EE = ~z~Give 'em a lead shower!
+
+0x9775AC44 = ~z~Real foolish, coming here!
+
+0x15849C16 = ~z~Come any closer, you're dead in your boots!
+
+0x30243E31 = ~z~You're after that bounty, is you? That's even better.
+
+0x44350E37 = ~z~
+
+0x47033DC5 = ~z~That's my ride, is it?
+
+0x67232B29 = ~z~Shit! Shit! Shit!
+
+0x71678F35 = ~z~What's the hold up then?
+
+0x79628AD4 = ~z~Going to take a load off.
+
+0x326335F3 = ~z~Get back to killing!
+
+0x420560EE = ~z~You got real lucky here.
+
+0x547576B3 = ~z~
+
+0x1840537B = ~z~~sl:0.0:4.9:1~Be one thing snuffing me out... but ~rp~taking me in alive?
+
+0x3962037D = ~z~Whatever do we have here....
+
+0x5288952F = ~z~Burning piss.
+
+0x8406791C = ~z~I'm running right now, you don't want to see me stopped and shooting.
+
+0x17043435 = ~z~~sl:0.0:1.6~God, I hope it ain't flatulent.~rp~~sl:1.4~Queasy don't even begin to describe it.
+
+0x68134537 = ~z~Keep your eyes peeled.
+
+0x73419562 = ~z~I know what I'd do, I had you tied up like this...
+
+0x74860677 = ~z~~sl:0.0:4.2~I ain't the things they made me do, I'm a nice girl... a good girl.~sl:0.4~~rp~Tell me I'm a good girl.
+
+0x76814261 = ~z~Oh God, oh... No, please, you don't have to do this, you don't have to do...
+
+0x78134054 = ~z~~sl:0.2~I choke on vomit, that's on you.
+
+0x79274913 = ~z~I thought I'd get a bullet, or a knife... not a hangman's noose.
+
+0xA041046A = ~z~~sl:0.0:1.6~If anyone's still got their heads,~sl:0.0:2.0:1~they're sure going to feel 'em tomorrow.
+
+0xA0647F3C = ~z~Yes... yes...
+
+0xA32FFF1D = ~z~Ya'll want the fort, you can have it!
+
+0xA87D1EC9 = ~z~See?
+
+0xA98A5055 = ~z~Which one of you sacks of shit missed the bounty hunter?
+
+0xA1241EA5 = ~z~I won't be tied up!
+
+0xA2139981 = ~z~Look at that... there's still some more to go around!
+
+0xAB9F5EBF = ~z~Get up you damn nag!
+
+0xAE8AE2E1 = ~z~I am pooped.
+
+0xB027B717 = ~z~~sl:0.0:1.6~Not you though, nope. ~rp~~sl:0.3~You're being a good little doggy.
+
+0xB0447DF3 = ~z~~sl:0.0:2.0~Then the Lord took my brother, Philip...~sl:0.1:1.9~~rp~he always was a weak child...~sl:0.8~but I weren't so lucky. ~rp~I'm still here.
+
+0xB1B4A1FA = ~z~I don't want to shoot you again, get up.
+
+0xB3BD0A76 = ~z~~sl:0.0:3.1~I reckon I could last a minute... two...~sl:~~rp~hanging by my neck, wouldn't know the difference.
+
+0xB4F50728 = ~z~~sl:0.0:2.7~I guess you're wondering how a nice girl like me~sl:~ended up an Owlhoot. ~rp~I weren't always like this, you know?
+
+0xB8ED7A70 = ~z~Going to break you in good.
+
+0xB77F2CEE = ~z~The journey continues.
+
+0xB523B816 = ~z~For the love of God, please. Don't kill us. Please. Please!
+
+0xB746D2BD = ~z~Why ain't they dead?
+
+0xB1872E05 = ~z~Are we going to do this or what?
+
+0xB7563CA1 = ~z~This is quite a development, eh?
+
+0xB7959B90 = ~z~You gonna free these hands so I can put 'em round your neck?
+
+0xBA856527 = ~z~I hope the devil pecks your eyes out.
+
+0xBAAE432B = ~z~Oh... no! Oh, God...
+
+0xBD570E9E = ~z~I'm going to tend to the sick.
+
+0xBEB185F4 = ~z~Let's saddle you up.
+
+0xC3BBA4B5 = ~z~~sl:0.0:4.7~I was a good girl... ~rp~I promise... and I still am...~sl:0.1~somewhere... ~rp~deep inside.
+
+0xC3D55361 = ~z~You shoulda stayed away from us.
+
+0xC6F44C5F = ~z~I wish I had something for the pain...
+
+0xC24ADB5D = ~z~~sl:0.0:2.5~All business, ain't you? ~rp~~sl:0.5:3.1~I was a bounty hunter, I'd be stopping over yonder...~sl:~executing a little corporal punishment of my own.
+
+0xC38F907F = ~z~~sl:0.0:4.2~I got a whole cylinder full of the stuff and nowhere to put it...~sl:0.5~except straight into you.
+
+0xC290F6DA = ~z~~sl:0.0:1.7~You should've turned up sooner,~sl:~you wanted to save these poor souls.
+
+0xC427AB4B = ~z~~sl:0.0:2.4~Maybe I'll see, maybe I won't...~sl:0.3:3.2~maybe I'll live to show you my scar,~sl:~give you a few of your own.
+
+0xC628BC0E = ~z~Sure looks comfortable.
+
+0xC1150B82 = ~z~~sl:0.0:1.3~If I don't shoot y'all,~sl:~what the hell am I supposed to do with all this lead?
+
+0xC355009A = ~z~This ain't happening.
+
+0xCB3972CF = ~z~Get this rope off me!
+
+0xCC8F967F = ~z~What kind of lookouts is you? Kill them!
+
+0xCE2BDA47 = ~z~I preferred my wagon, but still.
+
+0xCE893102 = ~z~Load up the wagon with whatever you find, you got that?
+
+0xCF4791A4 = ~z~'Cause I got a feeling he ain't too far.
+
+0xCFBCDFBB = ~z~So, what's the hold up?
+
+0xD019F399 = ~z~~sl:0.0:1.3~I know why you're here...~sl:0.5~for me.
+
+0xD3AF16AC = ~z~You don't belong here...
+
+0xD4AF81DB = ~z~You think they look bad on this poster?
+
+0xD6E7CB39 = ~z~~sl:0.0:4.3~Oh, shit. I can't keep this up. I ain't a good girl.~sl:~~rp~I killed my own daddy, and that little sourface Philip too.
+
+0xD248FD0A = ~z~More like an unhinged congregation of...
+
+0xD2989B39 = ~z~Let's go. Drive! Drive!
+
+0xD819970E = ~z~I'm gonna have a good old time with you!
+
+0xD6284075 = ~z~
+
+0xDA31BDC3 = ~z~~sl:0.1~Don't.
+
+0xDD495D8E = ~z~~sl:0.0:2.4~Like I said, you got some stones.~sl:0.4~~rp~I can hear 'em rattling round in that head of yours.
+
+0xE089DE51 = ~z~~sl:0.0:3.9~I wasn't born no Owlhoot. ~rp~I was taken by them.~sl:0.4~~rp~Orphaned. ~rp~When I was only a girl.
+
+0xE5F74946 = ~z~I'm going to take more than that bounty's worth out of you.
+
+0xE7C26792 = ~z~~sl:0.0:3.9~We is outlawed by the state... and while we is...~sl:~I am the only one getting any rest.
+
+0xE26A67D0 = ~z~~sl:0.0:2.2~I got a strong neck, see?~sl:0.5~~rp~Not one of them chicken necks, the head'll pop right off a?
+
+0xE40DAC4E = ~z~Rain metal on their ass.
+
+0xE58C9B49 = ~z~I'm gonna... I'm gonna air my paunch.
+
+0xE74ECBFD = ~z~My ass would be a better lookout!
+
+0xE80F17C0 = ~z~I thought we had an appointment.
+
+0xE129D7A7 = ~z~You aren't a bounty hunter by chance?
+
+0xE338E3AF = ~z~~sl:0.0:5.3~They killed my daddy... ~rp~momma too... and Uncle John.~sl:0.8:1.7~~rp~Little Philip and me, we...~sl:0.7~~rp~They made us do such awful things.
+
+0xE598AF64 = ~z~~sl:0.5~Stupid horse!
+
+0xE852E4CA = ~z~
+
+0xEBD55FAC = ~z~Now, who's this here? We're looking for a volunteer.
+
+0xEBEBA905 = ~z~It's a damn fort, let's hold it!
+
+0xECC10E48 = ~z~They're trying to get me! Stop 'em!
+
+0xF1D4D6BE = ~z~~sl:2.0~Come on, dance. Just dance like the whole world depended on it.
+
+0xF3AF841B = ~z~What's going on? Check me in, already.
+
+0xF4BB892A = ~z~I ain't going to stick this out to see the ending.
+
+0xF5EDB37D = ~z~Is there a problem?
+
+0xF19C5D28 = ~z~I can't quite believe it.
+
+0xF19980AD = ~z~~sl:0.0:3.1~Don't think I'd bet my life on a wagon like that...~sl:0.5~holding a man like me.
+
+0xFAA29840 = ~z~~sl:0.0:4.8~Y'think they'll hang me? ~rp~Really? ~rp~You trust 'em to?~sl:0.2~~rp~With the whole family, out there looking?
+
+0xFAC9CC5A = ~z~~sl:0.0:2.3~so they put our lives on the market.~sl:0.0:3.0~~rp~I hope you feel empowered, my friend.~sl:~'Cause I sure don't.
+
+0xFD3E5866 = ~z~I loves cutting me a bounty hunter.
+
+0xFD60C88B = ~z~I don't like to let it go to waste...
+
+0xFE56612E = ~z~I thought it would be nicer.
+
+0xFEC84EBE = ~z~If you fools can't hold a fort, you deserve to die.
+
+0xFF1913C0 = ~z~Who's that there? I am tending to the sick.
+

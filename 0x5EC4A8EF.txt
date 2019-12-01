@@ -1,0 +1,18 @@
+0x5A298B52 = ~z~Out where?
+
+0x7C8FD01A = ~z~I got smoked, John Marston... I got smoked for this place.
+
+0x7CCAD094 = ~z~No, I like it too much here, JM. This is my home... my home.
+
+0x8E96742B = ~z~Why don't you go see for yourself?
+
+0x8EBF7479 = ~z~Well, do some work then.
+
+0x211A9931 = ~z~Well, mine hurt more.
+
+0x33713DDE = ~z~We all had our beatings.
+
+0xB3A9BE4D = ~z~Anything interesting out there?
+
+0xC87B67F0 = ~z~Out there, in the big wide world.
+

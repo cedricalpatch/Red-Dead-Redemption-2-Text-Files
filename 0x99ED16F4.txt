@@ -1,0 +1,880 @@
+0x00ED57AC = ~z~Come on, man, do it, do it.
+
+0x01ADCC50 = ~z~Oh, no. No, no, no!
+
+0x01C728F3 = ~z~Well, uh...
+
+0x01D1E89B = ~z~metaphorically, I mean...
+
+0x01D52A72 = ~z~Are you...
+
+0x02872DEC = ~z~Think about what you're doing here.
+
+0x03A60584 = ~z~Presta!
+
+0x03D72EEA = ~z~Whoa.
+
+0x03E50910 = ~z~You have sherry. Bertram want.
+
+0x0518A30D = ~z~Sit down and be good.
+
+0x053459A7 = ~z~Without further ado...
+
+0x0557EF3F = ~z~Have you ever betrayed a close friend?
+
+0x070F83A4 = ~z~Thanks to you. Thank him, boys.
+
+0x0811EAC5 = ~z~especially not that Magnifico.
+
+0x085CE557 = ~z~Make it the cheapest one you have... rat piss will do, he's pretty dense.
+
+0x08CEEEAF = ~z~You gave me a whoopsy.
+
+0x09D8B2F1 = ~z~Want to see a trick?
+
+0x09D58828 = ~z~We ain't friends...
+
+0x0AAADD4A = ~z~What he needs is a good sleep. Knock him out.
+
+0x0AE21336 = ~z~And even the art of... transfiguration. Poof.
+
+0x0B126AAE = ~z~You sir, would you assist?
+
+0x0BACF799 = ~z~Get these weirdos off the stage.
+
+0x0BD76C3C = ~z~Our half-witted Hercules is as strong as a bull...
+
+0x0C33968B = ~z~It's me, it's all me.
+
+0x0E859294 = ~z~Thanks for nothing, dummy.
+
+0x0EA8F323 = ~z~Alright.
+
+0x0F64F781 = ~z~I'll be the top of the bill!
+
+0x0FA92B58 = ~z~Bertram does like Miss Marjorie.
+
+0x1A84BA01 = ~z~Everything okay?
+
+0x1AA97D47 = ~z~What you waiting for? Slug him.
+
+0x1AC6CE69 = ~z~You gonna behave? No?
+
+0x1ACB9649 = ~z~Come here, Bertram.
+
+0x1B328EB0 = ~z~What...
+
+0x1BD043AA = ~z~No...
+
+0x1C6B36FA = ~z~No, stay away.
+
+0x1C9ADDF6 = ~z~Naughty! Naughty!
+
+0x1D171A6D = ~z~Less freaks, more dancing girls.
+
+0x1F8B3C88 = ~z~I have mastered hypnosis, telekinesis, telepathy, and escapology.
+
+0x1F9335E3 = ~z~No one said anything about splitting the gate.
+
+0x2A2CD27D = ~z~and you know, that thing.
+
+0x2A87A76D = ~z~Bad... Bertram...
+
+0x2A557D88 = ~z~Listen to your mother...
+
+0x2C142F81 = ~z~I could try.
+
+0x2D26DB97 = ~z~Yum yum in my tum.
+
+0x2DE404E3 = ~z~Come on now. She ain't as bad as all that.
+
+0x2E28FB0E = ~z~Treachery...
+
+0x2FA5D608 = ~z~What I done to deserve you two?
+
+0x2FEF3E13 = ~z~he made a contract, and he broke it.
+
+0x3A0F59FD = ~z~Zap!
+
+0x3BB15597 = ~z~He made more than a promise...
+
+0x3C1A9D1F = ~z~Quite a place you got here.
+
+0x3C986DAD = ~z~Some friends. Some friends!
+
+0x3DDD1B9A = ~z~Umm, uh...
+
+0x3DEC7295 = ~z~Bye bye.
+
+0x3FA2FD7D = ~z~Marjorie.
+
+0x4A7B39E0 = ~z~They seemed nice.
+
+0x4A8662F5 = ~z~Yeah!
+
+0x4C1D36FA = ~z~and they...
+
+0x4C5BB192 = ~z~You're a naughty boy.
+
+0x4C77F724 = ~z~Yes, well, Magnifico made a promise too, huh?
+
+0x4CB14935 = ~z~Well, that's our show. Thanks, Saint Denis.
+
+0x4DCF441C = ~z~Alright... well, uh... I'll let 'em know you're in. The curtain's about to come up, so...
+
+0x4DD78DF3 = ~z~Because the way Big Fanny tells it...
+
+0x4F16CF88 = ~z~Hey... will you talk...
+
+0x5B825DCB = ~z~Whoa.
+
+0x5BF3E552 = ~z~It's steak dinners and dancing girls for Magnifico!
+
+0x5CC59F69 = ~z~Obscura!
+
+0x5D2B94FB = ~z~but first, you gotta tell me where that little worm ran off to.
+
+0x5D576175 = ~z~That's amazing.
+
+0x5EDBED8A = ~z~Go follow your brother.
+
+0x5F06B189 = ~z~until you are as old as you are tiny!
+
+0x5F1AE6B3 = ~z~why don't you take a seat then come back and see me after the show.
+
+0x6A1C3A16 = ~z~Vanishio!
+
+0x6A8C9E94 = ~z~I ain't back.
+
+0x6AD397B6 = ~z~Goddammit.
+
+0x6B074CCE = ~z~We'll be playing Saint Denis next...
+
+0x6DF60497 = ~z~You are not in my good books, Bertram.
+
+0x6E9CC477 = ~z~Where's he gonna go?
+
+0x6E503744 = ~z~I know, momma's gonna make it all better...
+
+0x6EA215A0 = ~z~Jesus, he'll bite your head off.
+
+0x6F708EBF = ~z~
+
+0x7AACCF79 = ~z~
+
+0x7AF61E14 = ~z~Oh, good luck.
+
+0x7B402E34 = ~z~Mean man!
+
+0x7C3B3852 = ~z~Ain't you led me on a merry old dance. C'mon down now. Lady said you had a contract.
+
+0x7C98508C = ~z~You'll know him when you see him.
+
+0x7E3A9B34 = ~z~and I made them stars...
+
+0x7E9701F8 = ~z~That's not it...
+
+0x7EA36484 = ~z~Teleport!
+
+0x7F73FCC0 = ~z~Too bad about that train!
+
+0x8A628116 = ~z~Oh... dammit. Dammit, shit. Oh God...
+
+0x8B0B6BD0 = ~z~Magnifico.
+
+0x8CB74196 = ~z~Yeah, I gotta go deal with this. But there's something here for you.
+
+0x8D6CFB8A = ~z~Gimme a beer will you?
+
+0x8DD40F23 = ~z~Aim for the top all of you.
+
+0x8E443B47 = ~z~More!
+
+0x9AD236EC = ~z~Bertram crush, squash, break.
+
+0x9B267DA0 = ~z~Running ain't solving anything...
+
+0x9B78469E = ~z~He's strong alright.
+
+0x9C3F1E6B = ~z~Ha!
+
+0x9C9AADB4 = ~z~I did miss you.
+
+0x9CAF5E21 = ~z~Enough! Cut that out!
+
+0x9D00986C = ~z~So, you just tell me exactly where he is...
+
+0x9D0CF1CD = ~z~Bertram get a whoopsie.
+
+0x9D3D81D2 = ~z~She just wants to speak to you.
+
+0x9D25D5B3 = ~z~
+
+0x9DF8C7FD = ~z~Come on, Bertram, please.
+
+0x9E08BB8D = ~z~Alright, I'll... let 'em know you're in. Curtain's just about to come up, so...
+
+0x9E6168D3 = ~z~Quite a place you got here.
+
+0x9E32855B = ~z~Friend!
+
+0x9EA2E56D = ~z~You don't get this with dancing girls.
+
+0x9EAB9E0F = ~z~You should think about who you're serving.
+
+0x9F058D4B = ~z~Hello.
+
+0x9FC8708B = ~z~Very clever.
+
+0x9FD11CB5 = ~z~Thank you for all of your help, Mr. Stranger.
+
+0x11F8A229 = ~z~Marjorie.~n~~m~ Well...
+
+0x12AB7495 = ~z~let me present Miss Marjorie's medical miracle...
+
+0x14CF7BF1 = ~z~He's strong alright.
+
+0x16EBAAF7 = ~z~How the hell?
+
+0x18B903D0 = ~z~Easy, boy.
+
+0x18C3270B = ~z~Thank you!
+
+0x19E98B2C = ~z~Oh, his name is Magnifico.
+
+0x20ED27B9 = ~z~Be gone!
+
+0x23BD9D50 = ~z~I want you to hit him, right here, right in the bread basket.
+
+0x23CC2033 = ~z~Goddammit.
+
+0x24F69142 = ~z~Look, you got the wrong end of this...
+
+0x25C9400F = ~z~Family? Still, after everything?
+
+0x28FD6AD6 = ~z~Now, I don't want to do this.
+
+0x30B4D4E2 = ~z~Put him up there.
+
+0x32D7E6F9 = ~z~Bertram eat little man.
+
+0x37A0C512 = ~z~Go on, give him a real big sock.
+
+0x37A70F12 = ~z~No! Bertram!
+
+0x38BF3F67 = ~z~Get him, get him!
+
+0x44ADFEE4 = ~z~on our next show, you earned it.
+
+0x48A2B80C = ~z~Be gone.
+
+0x51EE57BD = ~z~If you're here, I'm going to find you.
+
+0x52F70D2C = ~z~In a puff of smoke!
+
+0x54CC9D15 = ~z~So you are gonna be pulling rabbits out of your ass...
+
+0x56DE1566 = ~z~You don't stop that, mommy will give you a spanking.
+
+0x56E256A1 = ~z~Sit down and be good.
+
+0x57D04A67 = ~z~why don't you take a seat then come back and see me after the show? Alright.
+
+0x57E41F35 = ~z~Imagine saving people...
+
+0x59AFD21F = ~z~entertainers...
+
+0x62EF1A72 = ~z~Yes. And Miss Marjorie likes Bertram...
+
+0x64A7F22C = ~z~No one likes a tantrum, mister.
+
+0x65F20398 = ~z~No fair.
+
+0x66ECD9E2 = ~z~Do you know what betrayal means, Bertram?
+
+0x67AB777B = ~z~Quite something.
+
+0x68C3E888 = ~z~That's them alright.
+
+0x68D3CA8F = ~z~Hey, partner, come back here.
+
+0x68E515C7 = ~z~Where are ya?
+
+0x69A846CC = ~z~Leave me for the bears. I won't be more than a mouthful.
+
+0x70C6C76B = ~z~Disappear!
+
+0x73DF30B1 = ~z~Damnit.
+
+0x76DE4E90 = ~z~Dammit...
+
+0x78C8E851 = ~z~Oh, shut up. Half-man and half-wit.
+
+0x79BAE6F1 = ~z~You robbed me. You robbed your brother.
+
+0x80C650C9 = ~z~Well hello Saint Denis.
+
+0x80FD6755 = ~z~What the hell...
+
+0x82AE8381 = ~z~I'm sorry. Bertram very sorry.
+
+0x84AC15C9 = ~z~That's one odd feller.
+
+0x85E48048 = ~z~I know, come to momma.
+
+0x86E3225D = ~z~Nah? Nah?
+
+0x87AF3809 = ~z~Sherry...
+
+0x89E6778B = ~z~Easy, big guy.
+
+0x90CF86DF = ~z~Everything okay?
+
+0x91FA63D0 = ~z~You want me? Come and get me.
+
+0x91FFDC5B = ~z~Where my sherry?
+
+0x92EB88D6 = ~z~You little...
+
+0x95D5064D = ~z~He wouldn't have abandoned us.
+
+0x96A2AA53 = ~z~Stay away from me.
+
+0x96D57B6F = ~z~Stuck in some rat piss town drinking cat piss liquor...
+
+0x99D60AF3 = ~z~You just stay away from that sherry, you hear?
+
+0x99F6087F = ~z~Would Bertram like a sherry?
+
+0x109C3C7D = ~z~Roll up, roll up. I need a volunteer from the audience.
+
+0x133DBEC5 = ~z~Nah? Nah?
+
+0x133EB61D = ~z~So long, dummy.
+
+0x137F6E54 = ~z~Where you running off...
+
+0x155D9CFC = ~z~What do you need a stump of a showman for?
+
+0x171C2B44 = ~z~Who?
+
+0x207C6834 = ~z~I'm not going back.
+
+0x208FB360 = ~z~Same bad jokes, the same cheap tricks...
+
+0x213B37FF = ~z~No, get in the back.
+
+0x295BC4F8 = ~z~Maybe I did. So what?
+
+0x305A08D9 = ~z~These novelty acts...
+
+0x372B13D2 = ~z~Easy there!
+
+0x402A296F = ~z~Can't magic out of this, partner.
+
+0x458E60ED = ~z~Look, I don't know.
+
+0x500CBFF9 = ~z~Do something, he'll eat him.
+
+0x566FDCBE = ~z~All tickets sales are final.
+
+0x571CA07D = ~z~you spent all of our takings on a case of the French pox!
+
+0x591A9041 = ~z~But Bertram promised.
+
+0x602DE03B = ~z~Put the nice man down!
+
+0x615AA9F3 = ~z~He's gone!
+
+0x639E0A1E = ~z~Bring out more freaks!
+
+0x680E7B20 = ~z~Damn.
+
+0x725E849C = ~z~Bertram!
+
+0x733FA961 = ~z~Look at that big guy!
+
+0x743AAD50 = ~z~What the hell you pulling here?
+
+0x774F2A34 = ~z~Quite something.
+
+0x784F3A19 = ~z~Well, look who's back.~n~~m~ Put me down!
+
+0x805D0CC6 = ~z~Oh, that's nice, that's very nice.
+
+0x821E50CE = ~z~Come on now. She ain't as bad as all that.
+
+0x832A5440 = ~z~What kind a two-bit show is this?
+
+0x850DE72F = ~z~and then we'll come along, and we'll find you.
+
+0x909E9E72 = ~z~Hey... will you talk...
+
+0x919C215C = ~z~We're in this fix and it's all your fault, you numbskull.
+
+0x1045C969 = ~z~You're a naughty boy.
+
+0x1189CA4F = ~z~Are you Magnifico by any chance?
+
+0x2264E4A6 = ~z~Bertram! Bertram!~n~~m~More!
+
+0x3617C204 = ~z~You look like a strapping young lad.
+
+0x4481EEE2 = ~z~Too slow!
+
+0x4654AC6D = ~z~Oh, fucketty.
+
+0x6430AE4F = ~z~That tiny man is a big problem for us...
+
+0x6523BFCF = ~z~Now don't you ever run off on us like that again!
+
+0x6903EAE2 = ~z~Think about what you're doing here.
+
+0x7060FF81 = ~z~dreamers...
+
+0x7409B5D8 = ~z~Mhmm.
+
+0x7525BEDF = ~z~So why don't you go and tell me where that nasty little Magnifico has run off to so I can get on with whipping that snot nose runt into shape!
+
+0x7856F2BA = ~z~Really? Really?
+
+0x8180B2DF = ~z~I give up. Amateurs.
+
+0x8186F895 = ~z~Well, I'm glad everything worked out.
+
+0x8778C69D = ~z~Ouchie!
+
+0x8977CAA3 = ~z~Mean!
+
+0x9102D300 = ~z~That's a neat trick.
+
+0x9269B144 = ~z~Bet he eats like a horse.
+
+0x9447F521 = ~z~Can't magic out of this, partner.
+
+0x10157D48 = ~z~I'm sorry.
+
+0x12130A05 = ~z~Poof!
+
+0x15866AEA = ~z~Hey, hold on there.
+
+0x20735FA3 = ~z~and these are sad, low, unlovable people...
+
+0x34015D8B = ~z~We ought to give you a piece of the gate...
+
+0x49079E18 = ~z~It means hurting Miss Marjorie...
+
+0x53531C2E = ~z~Well, I'm glad it all worked out.
+
+0x59212FB3 = ~z~And now, for my next feat, I will relieve Miss Marjorie of her frock.
+
+0x64297C33 = ~z~What the hell you pulling here?
+
+0x73463DE8 = ~z~Come along, Bertram.
+
+0x77437A8F = ~z~"Friends for life," we said and now the two of you have betrayed me at once.
+
+0x85661A7A = ~z~Bad... Bertram...
+
+0x93971E47 = ~z~Look, you got the wrong end of this...
+
+0x107469DD = ~z~Friend!
+
+0x111041FD = ~z~Woof, woof!
+
+0x162267E4 = ~z~Yeah, I gotta go deal with this. But there's something here for you.
+
+0x194883BA = ~z~Hey, hold on there.
+
+0x389819AE = ~z~He was meant to come see them here.
+
+0x680924A2 = ~z~Oh yeah.
+
+0x701485A4 = ~z~Sherry!
+
+0x735443BC = ~z~would you just make a little racket...
+
+0x857887FF = ~z~She's a succubus. She's a succubus!
+
+0x911940F1 = ~z~My little tiny magician has gone and stabbed his momma in the back.
+
+0x982223BF = ~z~I'm outta food, and I'm out of ideas.
+
+0x5645234A = ~z~check with the box office.
+
+0x6482721F = ~z~Magnifico?
+
+0x6717295E = ~z~Easy, big guy.
+
+0x9226542A = ~z~Not like that you're not.
+
+0x24676034 = ~z~Just wait, he's making it.
+
+0x30094051 = ~z~These ain't no medical miracles.
+
+0x64481655 = ~z~Liquor, Bertram like liquor.
+
+0x66982870 = ~z~Where are ya?
+
+0x92263058 = ~z~No. Bertram say no.
+
+0x99529796 = ~z~Imagine saving people...
+
+0xA068155F = ~z~Hell yeah, come on up.
+
+0xA3C57FE6 = ~z~Just make him a damn sherry, alright?
+
+0xA3CC37E6 = ~z~Take these freaks out back and shoot 'em!
+
+0xA5F37BC4 = ~z~What? Damnit. We were going to give them a show.
+
+0xA6E06C7F = ~z~no, he's gone off alone.
+
+0xA8E6B285 = ~z~Come here, Bertram.
+
+0xA17B2009 = ~z~If you see that slippery little feller sleeping rough out there...
+
+0xA22B0ED1 = ~z~Come here.
+
+0xA52DC761 = ~z~You've made love to her, haven't you?
+
+0xA67A1985 = ~z~Magnifico?
+
+0xA95B7295 = ~z~Easy there!
+
+0xA268BBEA = ~z~Running ain't solving anything...
+
+0xA407A2B2 = ~z~Yes, well if he were your friend, he'd be here wouldn't he?
+
+0xA963F842 = ~z~Bertram!
+
+0xA4881EE7 = ~z~Oh no, Bertram.
+
+0xA6901B0B = ~z~Bad Bertram.
+
+0xAAE4FA8C = ~z~Bad Bertram!
+
+0xAB92AE6C = ~z~Gimme a beer will you?
+
+0xAB889BEF = ~z~If you're here, I'm going to find you.
+
+0xABB6AC00 = ~z~Bertram like sherry.
+
+0xAC22A785 = ~z~Oh, isn't this a fine looking place?
+
+0xAC71D653 = ~z~Mezmero!
+
+0xACC46DA9 = ~z~Damn.
+
+0xACF022D6 = ~z~Friend forever!
+
+0xACFFC650 = ~z~God... oh, no.
+
+0xAD11D13C = ~z~She just wants to speak to you.
+
+0xAE205D88 = ~z~Silly little man.
+
+0xAE715269 = ~z~Back together. Back together!
+
+0xAEBB3BE1 = ~z~and then we will all be even.
+
+0xAFEA8E2E = ~z~What the hell...
+
+0xAFF75F6A = ~z~why don't you take a seat then come back and see me after the show? Alright.
+
+0xB0DC5EC6 = ~z~Whoa.
+
+0xB4F537D5 = ~z~Your freak nearly killed me.
+
+0xB6E3EACD = ~z~That's not it...
+
+0xB7C206EF = ~z~My sherry?
+
+0xB8B21142 = ~z~e-e-easy there.
+
+0xB10E86DF = ~z~Bertram!
+
+0xB22ABA2C = ~z~Bertram, Bertram.
+
+0xB24D61A8 = ~z~That's amazing.
+
+0xB54FA800 = ~z~How the hell?
+
+0xB58E09DA = ~z~Oh no, now family's not enough, no...
+
+0xB62F5FD5 = ~z~You should watch your mouth.
+
+0xB73E4F30 = ~z~No one's gonna hurt you ever again.
+
+0xB88D19ED = ~z~Let's be friends, okay?
+
+0xB109D261 = ~z~These freaks are boring!
+
+0xB166B75C = ~z~but as sweet as a baby.
+
+0xB286CAFA = ~z~Magnifico is my friend...
+
+0xB620C388 = ~z~Maybe you should think about who you're serving.
+
+0xB882BD96 = ~z~Now where you gone?
+
+0xB6921D01 = ~z~What you doing? You nasty little pervert.
+
+0xB77687C2 = ~z~Let's be friends, okay?
+
+0xB91181D0 = ~z~Easy, boy.
+
+0xB7819922 = ~z~Hey, partner, come back here.
+
+0xB8684010 = ~z~Now they told me you were all dandies and dancing girls.
+
+0xB9945193 = ~z~That's my boy.
+
+0xBA84E884 = ~z~Even you, dummy. Go on, clear off.
+
+0xBACD9C60 = ~z~She's a witch, she's a witch!
+
+0xBAE09082 = ~z~helped them out with something up in Van Horn.
+
+0xBC3BD58A = ~z~Bertram like sherry.
+
+0xBDA72010 = ~z~Stop! Bad boy!
+
+0xBDDC72D1 = ~z~Where you running off...
+
+0xBE9BCE5A = ~z~You want me? Come and get me.
+
+0xBEE3F13E = ~z~You don't need me. You're better off without me.
+
+0xBF71BA74 = ~z~Oh, thanks.
+
+0xBF45531D = ~z~He owes me. He owes us, big time... Bertram and Marjorie.
+
+0xC00460BC = ~z~Oh, yes, Marjorie's here.
+
+0xC096E8D6 = ~z~So strong and so stupid...
+
+0xC0F58010 = ~z~Well, I'm the talent.
+
+0xC1CAD824 = ~z~Let's see it.
+
+0xC3E620A1 = ~z~Listen to your mother...
+
+0xC5ADD972 = ~z~Bertram, put him down.
+
+0xC5B83443 = ~z~Now, I don't want to do this.
+
+0xC6EEE372 = ~z~Too bad about that train!
+
+0xC9C585D1 = ~z~You should watch your mouth.
+
+0xC42FE917 = ~z~Don't worry, we'll pay for what we broke.
+
+0xC81DC7EE = ~z~Not nice!
+
+0xC136DD10 = ~z~Whoopsy hurt.
+
+0xC427F89D = ~z~This ain't no circus!
+
+0xC740D7FF = ~z~Really? You got enough for a ticket?
+
+0xC7000B6F = ~z~
+
+0xC86440A5 = ~z~Disrobe-io.
+
+0xC7929534 = ~z~Very clever.
+
+0xCB59F51E = ~z~He's camping in the woods.
+
+0xCC5A15C1 = ~z~Whoa.
+
+0xCCAE341D = ~z~Hey, uh, the performers asked me to come see them here, I
+
+0xCDFEF910 = ~z~Oh, don't you get him started.
+
+0xCEADF1EA = ~z~Me?
+
+0xCEFA8285 = ~z~I hope not.
+
+0xCF5B52F8 = ~z~You little...
+
+0xCF9E139E = ~z~Of course, you silly little man.
+
+0xCF74798B = ~z~And you wouldn't have got that whoopsy, would you?
+
+0xCFF4EA64 = ~z~Very good, very good. I'm gonna get you now.
+
+0xD0408579 = ~z~like a mother.
+
+0xD081163F = ~z~Get back at him!
+
+0xD098C074 = ~z~
+
+0xD1A258E3 = ~z~Up here, dummy.
+
+0xD1A882E1 = ~z~You're starting to irritate...
+
+0xD1C9A4DA = ~z~Pop goes the weasel.
+
+0xD3F1D0B6 = ~z~You gonna behave? No?
+
+0xD3F3F5FE = ~z~Bertram, Bertram!
+
+0xD4FA7372 = ~z~I'm gone, on the next train to the Great White Way.
+
+0xD6A001CE = ~z~Bertram, the pin-headed giant.
+
+0xD6D26F27 = ~z~Over here, dummy.
+
+0xD7AC7E98 = ~z~Now that ain't true is it?
+
+0xD8C5B7E1 = ~z~Really? Really?
+
+0xD50CA1AE = ~z~
+
+0xD74C1AEC = ~z~Dammit, dammit. Oh hell, shit...
+
+0xD94FCD60 = ~z~Alright, I'll... let 'em know you're in. Curtain's just about to come up, so...
+
+0xD455AEBA = ~z~That's a neat trick.
+
+0xD851FE8E = ~z~Sometimes he gets carried away.
+
+0xD6280ABA = ~z~Why didn't you tell me in the first place?
+
+0xD61854A8 = ~z~Hey, uh, it's been some years, but a friend of mine helped the performers out. Up in Van Horn.
+
+0xD276820B = ~z~I'm sorry.
+
+0xD806248A = ~z~we're family, as much as it pains me to say it.
+
+0xD3420737 = ~z~You should keep that thing in a cage.
+
+0xDA471C3E = ~z~You're in a lot of trouble, young man.
+
+0xDB538C79 = ~z~The only danger is breaking your arm.
+
+0xDD1514D8 = ~z~No one looks after you like momma does.
+
+0xDDD838BD = ~z~Are you Magnifico by any chance?
+
+0xDE462184 = ~z~Caring and raising them...
+
+0xDED10DAD = ~z~Very good, very good. I'm gonna get you now.
+
+0xDF9C407F = ~z~Your head's gonna pop off.
+
+0xE0AC1286 = ~z~Ain't you led me on a merry old dance. C'mon down. Lady said you had a contract.
+
+0xE0CC2628 = ~z~Well, uh...
+
+0xE1C54F8D = ~z~Well, I thought you liked me? I've clothed you, I fed you.
+
+0xE4E03E22 = ~z~And him?
+
+0xE7E6AE37 = ~z~You just apologize to these men.
+
+0xE8FD7E0E = ~z~They seemed nice.
+
+0xE23B39B3 = ~z~What you coming over here for?
+
+0xE26A8075 = ~z~You don't get this with dancing girls.
+
+0xE32EC5DC = ~z~The performers asked me to come see them here.
+
+0xE65E14B1 = ~z~There's no putting this off. Give him a whack.
+
+0xE65F1BFD = ~z~Well grab onto your seats and hold onto your lunches...
+
+0xE72D0A25 = ~z~I'm going it alone!
+
+0xE79D4CA9 = ~z~'Tis I, Magnifico the Magnificent. And I have tamed the beast.
+
+0xE85AA543 = ~z~He ain't even as smart as he looks...
+
+0xE94A4FA1 = ~z~She cares about you a lot.
+
+0xE468F1F6 = ~z~Now where you gone?
+
+0xE842C2CB = ~z~Who is dummy anyway? The missing link?
+
+0xE870B891 = ~z~Dear Lord, he'll be even more stupid.
+
+0xE4983D3C = ~z~You're starting to irritate me.
+
+0xE17690D7 = ~z~Leave her alone.~n~~m~Bertram! Bertram! Bertram!
+
+0xEAE6B2DF = ~z~Hey, you just stay away from that sherry now, you hear?
+
+0xEB373C4E = ~z~Wooosh!
+
+0xEC00CC63 = ~z~Met him at the bar, he agreed to help.
+
+0xECF42FBA = ~z~What are you afraid of?
+
+0xED7B3BA9 = ~z~Momma.
+
+0xEE4359F9 = ~z~Ladies and gentlemen, I, Magnifico the Magnificent, am a master of apparition...
+
+0xEF6B059E = ~z~If you say so.
+
+0xEFB7AD59 = ~z~No, no, no, no, no...
+
+0xF00C3023 = ~z~Come here.
+
+0xF0BDDFA0 = ~z~she cares about you a lot.
+
+0xF2DAD7F7 = ~z~in a package half the size?
+
+0xF6D54858 = ~z~No one cares for you like I do...
+
+0xF6F9BD32 = ~z~because we have a show for you.
+
+0xF8F3EF56 = ~z~Drop him.
+
+0xF37C8C5E = ~z~Umm... e-e-easy there.
+
+0xF61F6D85 = ~z~Bertram hurt you.
+
+0xF67B4194 = ~z~Yes he does... barkeep, sherry.
+
+0xF73D0756 = ~z~No one likes a tantrum, mister.
+
+0xF89FACDF = ~z~These novelty acts...
+
+0xF564E902 = ~z~Who?
+
+0xF620CEF7 = ~z~Jesus... what the...
+
+0xF3874C06 = ~z~taking them to your breast...
+
+0xF3894BA2 = ~z~and then they go and stab you in the back.
+
+0xF41765A1 = ~z~And... dissipation.
+
+0xF824383D = ~z~Mister, I thought you was gonna deal with this?
+
+0xF7806146 = ~z~Shut up, you dimwit! You sold me out.
+
+0xFA4E68FE = ~z~Ah, sleeping rough don't suit me much.
+
+0xFA11C8B1 = ~z~but what he lacks in brain he makes up for in brawn.
+
+0xFA524F46 = ~z~But, he's my friend.
+
+0xFBB11E90 = ~z~
+
+0xFC23EA89 = ~z~You got Bertram. You got dummy over there.
+
+0xFC90EE62 = ~z~I can't do anything when he's in this state. Stop him.
+
+0xFCA6F8CC = ~z~I helped them out with something up in Van Horn.
+
+0xFCEFD121 = ~z~I could try.
+
+0xFE867B31 = ~z~I share the money with her...
+
+0xFEAE633C = ~z~Oblivio!
+
+0xFF89E6C3 = ~z~Not his face, okay. That's his money maker.
+

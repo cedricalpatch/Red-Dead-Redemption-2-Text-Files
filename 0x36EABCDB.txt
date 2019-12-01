@@ -1,0 +1,134 @@
+0x011715EF = ~z~While there are laws, there will be law breakers. Take a look up on the wall there.
+
+0x0561C611 = ~z~You have my sworn oath on that.
+
+0x0ADCD0FF = ~z~Joaquin Arroyo. Word is, he's up at Solomon's Folly...
+
+0x1C967472 = ~z~These Del Lobos been killing, stealing, torching, and tormenting the good people of this region for too long.
+
+0x1ECBF1E2 = ~z~It is a pretty big ask, and that's a pretty big price.
+
+0x2B4EC129 = ~z~Del Lobos ain't ones for running, but this bounty's got 'em spooked.
+
+0x3EC094BD = ~z~You have the authority of this office. Don't be mistaken.
+
+0x4A09935B = ~z~Ah, I see you've found our poster.
+
+0x4A194F77 = ~z~You bring him here, I'll have a few words... and then I'll send him to Saint Peter.
+
+0x6B0A9125 = ~z~Whoever you are... if you're interested in justice... how about taking that new bounty poster off the wall, and going out and serving some?
+
+0x7A252F49 = ~z~You see, Cortez is a rat... and like a rat... he'll find himself a dark wet hole to hide in.
+
+0x8A6019E7 = ~z~Just take that bounty poster there, and you'll find out.
+
+0x8EB12289 = ~z~I didn't want to be this varietal of sheriff... but the situation demands it.
+
+0x62C4822B = ~z~Let me take a look at that bounty.
+
+0x76ABD7E2 = ~z~There's a big bunch of 'em holed up at Gaptooth Breach, Cortez included.
+
+0x80DB584B = ~z~Esteban Cortez. Brother of Ramon Cortez. Believed to be in New Hanover somewhere.
+
+0x84C883BD = ~z~It don't look like no one else is going after them... so come back any time.
+
+0x87CA94B8 = ~z~I was hoping you was the obliging kind.
+
+0x94CFBF19 = ~z~Good luck.
+
+0x122A3815 = ~z~You'll find the posters on the wall there.
+
+0x252B4DC8 = ~z~I don't care how you bring them back, long as you bring him, you get me?
+
+0x358B11C7 = ~z~Tell you what, you shoot them all, then you count the bodies, that's how many was out there.
+
+0x517DEE0A = ~z~Brother of Ramon Cortez. Now deceased.
+
+0x577B4C24 = ~z~Okay. I'll make sure to bring some bullets then.
+
+0x686A8BD4 = ~z~This place he's likely at, Gaptooth Breach, there's an old mine out there.
+
+0x1629C480 = ~z~Alright. If you got bounties, I could get 'em for you...
+
+0x2888E93E = ~z~You in the market for any bounties in this hell hole?
+
+0x3923A1B6 = ~z~This bounty... alive seems a pretty big ask for one of these Del Lobos.
+
+0x5051DD46 = ~z~Okay, you got a bounty... I'll take a look at it.
+
+0x5827B0B8 = ~z~I'll pay him a call. Introduce myself.
+
+0x7334BCFE = ~z~You know the Del Lobos don't you... of course... well, this one's the big one.
+
+0x9903EEA9 = ~z~I'm a helpful sort, I promise. I'll get to your bounty.
+
+0x17242E62 = ~z~The poster says alive... not to be mistaken.
+
+0x20300B6F = ~z~You know of the Del Lobos don't you... of course... well, this one's the big one, Esteban Cortez.
+
+0x92031B8C = ~z~Well, look who it is. You here to help? Bounty posters are on the wall there.
+
+0x611865CB = ~z~Okay. I'll see if I can get him out of there.
+
+0x8457803D = ~z~you'll know the situation we're in with these Del Lobos... desperate don't begin to describe it.
+
+0xA5AF4B3E = ~z~Ain't outlaws the law's concern? Instead of mine?
+
+0xA117D96A = ~z~You're my right hand. Remember that.
+
+0xAB616D1C = ~z~If I'm going to get this bounty... is there anything else I should know?
+
+0xAD750F36 = ~z~If you're worried about justice, he won't be alive for long after you walk 'em through that door.
+
+0xB6F446DF = ~z~Hmm.
+
+0xB36E7E17 = ~z~Let justice be swift and absolute.
+
+0xB64E66C8 = ~z~Well, we aren't going anywhere. And neither is that bounty.
+
+0xBB51D345 = ~z~I don't care how many pieces they're in, just bring them back to me.
+
+0xBD4157D5 = ~z~Now it's just the not so small task of bringing him in.
+
+0xC91C1217 = ~z~I feel like the law around here should be your concern... and yours only.
+
+0xC93B4D85 = ~z~I hope you're here to help. For help is what the law here needs. The poster on the wall will explain it better than I can.
+
+0xCD1B76D8 = ~z~We'll take 'em any which way you bring 'em. Dead, alive, or somewhere in between.
+
+0xCF14B657 = ~z~Hey, uh, where you hang your bounty posters?
+
+0xD4FB2F1C = ~z~I only wish they was that civilized.
+
+0xD62CA638 = ~z~Come back if you change your mind on that bounty...
+
+0xDACDB57A = ~z~I'm suspicious of folk who pay other folk to solve their problems for them.
+
+0xE084462E = ~z~“of the wolf” in the Mexican tongue...
+
+0xE1EDC3F6 = ~z~I'd rather nothing befell that varmint. Justice will be mine.
+
+0xE48F5CE0 = ~z~On the wall right there. That's who we need.
+
+0xE321DBBC = ~z~I'll pay him a call. Tell him I knew his brother.
+
+0xEA02C792 = ~z~God no... I'll converse with him first. But after that things'll move real swift around here.
+
+0xEB873460 = ~z~I got everything I need except this bounty.
+
+0xF32E6B82 = ~z~These fellers is known as the Del Lobo gang meaning
+
+0xF67EE48A = ~z~I seen you round these parts long enough...
+
+0xF84E2BE2 = ~z~Only good one's a dead one... except if they know a thing or two... and, I believe, this one does.
+
+0xF1993FD3 = ~z~If you got to shoot that animal, I ain't going to chide you for it.
+
+0xF34966AD = ~z~We'd like that one alive. Sheriff's prerogative.
+
+0xF771626F = ~z~Ours ain't a hanging judge, you'll see... he's the "I'm with you whatever" kind.
+
+0xF5402920 = ~z~The bounty, Cortez, how many men has he got with him?
+
+0xFD3DADCD = ~z~Am I going ride across the desert...bring you a bounty just so you can kill him?
+

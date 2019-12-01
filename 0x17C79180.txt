@@ -1,0 +1,98 @@
+0x0265946C = Subdue the ~o~bolting horse~s~
+
+0x0C41DDC2 = Return the settler to his ~o~family~s~
+
+0x1B65A7A4 = Return to your ~o~horse~s~
+
+0x1C9AA7F0 = Settler's wagon was destroyed.
+
+0x2E230988 = Return to the ~o~creek
+
+0x2FF8734F = Approach the ~o~captive settler~s~
+
+0x5F9C93F4 = Investigate the ~o~body~s~
+
+0x6CDAAE9B = Charles was abandoned.
+
+0x6F1C80C8 = Aim a gun at a settler to threaten them.
+
+0x6FA44A12 = The family was attacked.
+
+0x7C5CE104 = Your horse was abandoned.
+
+0x8D3B1989 = Return to the ~o~captive settler~s~
+
+0x8EFB2661 = Follow ~f~Charles
+
+0x31D2531D = Search the ~o~camp ~s~for the settler
+
+0x44FFC726 = Tell ~q~Charles~s~ to follow you to Clemens Point
+
+0x86E33621 = Dutch has died.
+
+0x94C2FE40 = Search ~o~Dewberry Creek~s~ for any inhabitants
+
+0x342CA8D7 = Defend against the ~e~attackers~s~
+
+0x356C3744 = Return to ~o~Charles~s~
+
+0x702DC1B8 = The camp was abandoned.
+
+0x831A5AEF = Ride to ~o~Dewberry Creek~s~
+
+0x891AFC5D = The creek was abandoned.
+
+0x967B39E8 = Follow ~f~Dutch~s~
+
+0x4693F9C0 = You alerted the law.
+
+0x7560EAB9 = The settler was abandoned.
+
+0x9679EB15 = Talk to ~f~Dutch~s~
+
+0x44764EED = ~s~Press ~INPUT_SPECIAL_ABILITY~ to view the tracks.~s~
+
+0x79946DB8 = Dutch
+
+0x181728ED = Return to the ~o~settler~s~
+
+0x3627544F = Charles has died.
+
+0x7172379F = Search the ~o~camp
+
+0x9109483A = Search Crates
+
+0x9293785E = The family was aggravated.
+
+0x12713758 = ~s~Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ to view the tracks.~s~
+
+0x73923351 = Mount your ~o~horse~s~
+
+0xAEAE9CE7 = Free the ~o~captive settler~s~
+
+0xAF1E96F7 = Your horse has died.
+
+0xB827B2B9 = The camp was attacked.
+
+0xB6776384 = Charles' horse has died.
+
+0xC0DB4A2B = Approach the ~o~settler~s~
+
+0xDAF95EF3 = Follow ~o~Charles~s~
+
+0xDF932489 = Greet
+
+0xE0076A98 = Mount your ~f~horse~s~
+
+0xE8AAB56C = The settler has died.
+
+0xE37E3DA8 = Remove carried items slung over the back of your horse to let passengers mount with you.
+
+0xE5489FEE = Return to the ~o~camp
+
+0xF0EB45AA = Head to the ~o~settler's camp ~s~at Clements Point
+
+0xF8CFEE59 = The settler was attacked.
+
+0xFC3124D1 = Return to the ~o~body
+

@@ -1,0 +1,146 @@
+0x043573FE = Emerald Ranch
+
+0x0474B976 = The law were alerted.
+
+0x048022EA = Return to the ~o~animal handler~s~
+
+0x07A76016 = Zebra
+
+0x0995DABA = Return to the ~o~trail~s~
+
+0x0A867C48 = The animal handler was scared.
+
+0x0F027B7F = Sally was killed.
+
+0x0F31856E = The cougar was attacked.
+
+0x1C0C68A5 = Margaret was scared.
+
+0x1F90BA08 = Enter the ~o~barn~s~
+
+0x1F7577AA = Get back on the ~o~wagon~s~
+
+0x2A7D3274 = Sally was scared.
+
+0x2EA30DD6 = Margaret was killed.
+
+0x3FFB99C7 = A rancher was killed.
+
+0x4A2EC4ED = The zebra was abandoned.
+
+0x4B447402 = Margaret was killed.
+
+0x4D7D0544 = The animal handler was abandoned.
+
+0x4D36B43D = The ranch was abandoned.
+
+0x6DE38FFA = Return to Emerald Ranch
+
+0x6F9C3518 = Return to the ~o~zebra~s~
+
+0x7D114597 = Return the cougar to ~o~Margaret's camp~s~
+
+0x7ED89764 = The lion escaped.
+
+0x8AE13576 = Put the dog in the ~o~wagon~s~
+
+0x8BDDB8FA = Capture or calm the ~o~zebra~s~
+
+0x9A611EB0 = Question
+
+0x9F8D5802 = ~s~Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.~s~
+
+0x12D2807D = Search Emerald Ranch for the lion
+
+0x19B590E5 = Margaret was scared.
+
+0x27BAAA4D = Kill the ~e~lion~s~
+
+0x30F81B0F = The zebra has been calmed and will now follow you.
+
+0x37ED206A = The zebra has died.
+
+0x42C543EB = Search the ~o~barn~s~
+
+0x48C87C69 = ~s~Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye.~s~
+
+0x55D188E4 = A wagon horse was killed.
+
+0x55DB31DC = Place Dog
+
+0x57FD9705 = The cougar was disturbed.
+
+0x58DB0F2F = The wagon was destroyed.
+
+0x61D434BB = Take Trophy
+
+0x66F1AB5C = The cougar was killed.
+
+0x74DCB57E = Return to ~o~Sally~s~
+
+0x77B49FF8 = The zebra was attacked.
+
+0x96DEC9ED = Follow the trail
+
+0x110DA732 = Sally Nash
+
+0x515ACF49 = It's not safe to whistle for your horse right now.
+
+0x660E3326 = The law were alerted.
+
+0x911FC37E = Return the zebra to ~o~Margaret's camp~s~
+
+0x967A7869 = Return to the ~o~wagon~s~
+
+0x4786CECD = Wait beside ~o~Sally~s~
+
+0x5878AD5D = Shut the cougar in the ~o~wagon~s~
+
+0x6551FB33 = The zebra escaped.
+
+0x7637CC65 = Wagon
+
+0x18404F06 = Find the ~o~trail~s~
+
+0x88036D47 = A wagon horse was scared.
+
+0x569798C1 = Shed
+
+0x52577784 = Stranger
+
+0x54769257 = The animal handler was killed.
+
+0xA43B4DD7 = Animal Handler
+
+0xACE14553 = Barn
+
+0xAD17F30F = Margaret's Camp
+
+0xB1D1FD72 = You became wanted.
+
+0xB9A28290 = Margaret's missing Zebra was last spotted in this area.
+
+0xBA5916A1 = Get on the ~o~wagon~s~
+
+0xC31EBB25 = Margaret's Camp
+
+0xC241C2F2 = Investigate the ~o~disturbance~s~
+
+0xD4A806CB = Sally was abandoned.
+
+0xD9A9ABA0 = Greet
+
+0xD4310498 = Lion
+
+0xE9BB3127 = Close Doors
+
+0xE56C25AD = Find the ~o~lion~s~
+
+0xEA3684FA = Margaret was abandoned.
+
+0xEDB8B642 = Search ~o~Emerald Ranch~s~ for the lion
+
+0xF13F7C30 = A rancher was threatened.
+
+0xF38074B3 = Wait beside the ~o~animal handler~s~
+

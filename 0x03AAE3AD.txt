@@ -1,0 +1,22 @@
+0x1FCA460C = ~z~And what was my crime?
+
+0x4D02FE1E = ~z~~sl:0.0:3.0~Everyone steals, kills, suppresses, lies.~sl:0.2:1.8~All they do better here~sl:~is make you believe that it's not that way.
+
+0x9DE3C241 = ~z~For that I have been chased and hunted.
+
+0x77B575E1 = ~z~~sl:0.0:1.0~My mother...~sl:1.3~I heard she died.
+
+0x93BEADF7 = ~z~My crime was wanting food and fairness for the people.
+
+0x142E2ED4 = ~z~~sl:0.0:2.5~You know it's nearly five years since I left Mexico,~sl:0.2:1.2~and the rebellion?~sl:0.5~Ah, that still has not happened.
+
+0x656DD152 = ~z~If I go back and they find me, I'm dead.
+
+0xCA579B28 = ~z~Huh?
+
+0xD7C0139A = ~z~~sl:0.0:1.2~I come here...~sl:0.3:1.1~things are...~sl:0.6~not so very different.
+
+0xDCA43FC1 = ~z~~sl:0.0:1.2~I mourn her...~sl:0.6~but I did not bury her.
+
+0xEADEDC36 = ~z~~sl:0.0:1.7~My sister got married, she moved away.~sl:0.1:1.5~I hope she's safe but I...~sl:0.2~I will never know.
+

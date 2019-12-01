@@ -1,0 +1,26 @@
+0x00251BFC = ~z~And, son... I'm sorry... I feel like a fool.
+
+0x0A2FFD8C = ~z~I know... I know, I cannot believe... what an idiot I was and that happened...
+
+0x1B8AD2C7 = ~z~Micah and Sean are in. I'd like you to be there too.
+
+0x8B7D0028 = ~z~Yeah... I was getting the special guest treatment from Colm.
+
+0x31B3FF19 = ~z~Sure.
+
+0x48DD2D6F = ~z~What happened to you?
+
+0x96B7492A = ~z~Well, the whole thing, it was... it was odd.
+
+0x644FE454 = ~z~I'm alive.
+
+0x328600C1 = ~z~Yeah, well... It seemed like a good opportunity... Micah and I both feel like idiots.
+
+0xAD237602 = ~z~We kept waiting for them to jump us, then they all left...
+
+0xB112CB53 = ~z~I guess forgiveness... there's some folks that don't deserve it...
+
+0xCD4FB652 = ~z~Arthur... if you feel up to it, Bill's got something cooking with the Grey boys in Rhodes.
+
+0xE8A4BA76 = ~z~So we figured we'd meet you on the trail back, but you never showed up...
+

@@ -1,0 +1,32 @@
+0x6A35D3BD = Walk to the manor with ~o~Dutch~s~
+
+0x8C06E6C2 = The Braithwaites were alerted.
+
+0x97C2B20F = Kill the ~e~attackers~s~
+
+0x97C79C3A = Search for Jack inside the ~o~manor~s~
+
+0x476C49C3 = Leave the manor with ~o~Dutch~s~
+
+0x626B3088 = Help ~o~John~s~ break the door
+
+0x9659A2CD = Catherine
+
+0x21847720 = Go to ~o~Dutch~s~ upstairs
+
+0xA095B571 = Wait for ~o~Dutch~s~
+
+0xCCAD6948 = Kill the ~e~sons~s~
+
+0xDA0AAEA8 = Door
+
+0xDBB56DE4 = Break
+
+0xE5A027DA = Ride with ~o~Dutch~s~
+
+0xE668B30D = Catherine Braithwaite has died.
+
+0xF23C2781 = Take out the ~e~Guards~s~
+
+0xFFD404B7 = Go to ~o~Dutch~s~
+

@@ -1,0 +1,144 @@
+0x01215A67 = ~z~~sl:0.0:4.0~A drought is no time to have a draft.~sl:~Keep your eyes dry and your lips wet with whiskey.
+
+0x01FADBB0 = ~z~~sl:0.0:3.3~You cannot produce an endless fountain of wisdom~sl:0.0:1.9~simply by tossing coppers,~sl:0.0:3.3~this is the only the way of producing endless loyalty~sl:0.0:2.2~amongst the political class.~sl:~Please come back later.
+
+0x09411C4A = ~z~Listen closely for your fortune.
+
+0x0CE6E586 = ~z~~sl:0.0:2.8~True wisdom is knowing nothing.~sl:0.0:3.2~Ignore the future and delight in the past.~sl:~And there you will be blissful and wise in yourself.
+
+0x1B493853 = ~z~~sl:0.0:3.1~You are facing great danger,~sl:~especially while dressing in those ridiculous garbs.
+
+0x2A0B55D7 = ~z~~sl:0.0:4.3~The clothes make the man, and you have chosen the clothes~sl:~of a very distressed man.
+
+0x3ED3F7E5 = ~z~~sl:0.0:4.4~Craving and famine may season the mind, but you would be wise~sl:0.0:5.0~to indulge in a supper, for you will soon lie down and wallow in~sl:~famishment, which is a terrible way to court a wife.
+
+0x3F3B083D = ~z~~sl:0.0:7.2~I have been waiting for you. Listen, as Madam Irene is an endless fountain of wisdom,~sl:~as long as you have the silver...
+
+0x4CBD156C = ~z~~sl:0.0:4.9~A great many men would profit in your dallying at a fortune machine.~sl:~Look over your shoulder.
+
+0x4CC57110 = ~z~Wisdom comes with time, and you have inquired too many times.
+
+0x4D662493 = ~z~You have come to the Great Madam Irene seeking your future, listen closely.
+
+0x5F353F2D = ~z~Your mother has raised a saint, and you have become a sinner.
+
+0x6A7C2D1F = ~z~~sl:0.0:4.5~The hair of the dog gathers briars by midday,~sl:~then pants in the shade.
+
+0x6D7ADBB8 = ~z~A man is only as good as his honor, and yours is questionable.
+
+0x6EAC99B8 = ~z~~sl:0.0:3.8~Life is a struggle, and you need to sleep.~sl:~It is true. I am incapable of lying.
+
+0x7ABD7F41 = ~z~I am consulting the clouds for your fortune... yes, here it is.
+
+0x7B1EF22F = ~z~~sl:0.0:4.4~You may smirk as sand passes though the hourglass,~sl:0.0:3.6~but soon someone will crack you over the head with it~sl:~as you are a highly profitable prize.
+
+0x7B7C80C3 = ~z~~sl:0.0:1.9~Hello Wanderer!~sl:~I am looking deep into my crystal ball. Yes, here we are.
+
+0x8B8F0995 = ~z~~sl:0.0:5.2~You have bathed in blood whereas lye soap would be better suited~sl:~to cleaning your conscience.
+
+0x9FBAB9B5 = ~z~~sl:0.0:4.5~Appetence is admired, but you have elevated it to a level such that~sl:0.0:4.4~you might soon perish. Find sustenance and you will no longer~sl:~require wisdom from a machine.
+
+0x33A13E1D = ~z~~sl:0.0:5.5~Keep your mind well fed, for your body is fed well enough.~sl:~You are like a sow, and less tasty when salted.
+
+0x57DFFB87 = ~z~~sl:0.0:4.7~All sunshine delights, then fades into gloom,~sl:0.0:3.3~and you will fall unconscious and unappreciative~sl:0.0:3.1~unless you have created a fire in your soul,~sl:~and one that can roast a fowl.
+
+0x58DC89E0 = ~z~~sl:0.0:4.6~When the time comes, look back, not forward,~sl:~or sideways or askew.  I hope that this is clear.
+
+0x61F2488F = ~z~I have been waiting for you. Here is your fortune.
+
+0x67AE483A = ~z~~sl:0.0:4.6~Continue on your path of patience, of honor, and you may~sl:~redeem yourself should you stay away from your vices.
+
+0x88E89293 = ~z~~sl:0.0:3.5~Your deeds are done, and judgement awaits.~sl:~If only you valued honor as much as avarice...
+
+0x161F3606 = ~z~I am Madam Irene. Come close and bathe in my wisdom.
+
+0x459ED705 = ~z~~sl:0.0:4.2~Flowers are a ray of beauty that shine like the sun,~sl:0.0:2.7~spread their seed in beautiful splendor,~sl:~and die, forgotten. Do not be a flower.
+
+0x696FCED1 = ~z~~sl:0.0:4.3~You are swimming upstream and a great many men~sl:~are seeking profit from your capture. Dive deep.
+
+0x716D9F2E = ~z~~sl:0.0:5.5~Yesterday is history, and you are already history today.~sl:~Sleep and avoid cocaine chewing gum.
+
+0x766B65B4 = ~z~~sl:0.0:4.7~Prevail. Prevail in your kindness and thoughts. For it will~sl:~redeem you in the end, like finding money in forgotten pants.
+
+0x769CA278 = ~z~~sl:0.0:3.4~You would be better seeking substance or supper~sl:~than seeking savvy from a machine.
+
+0x917D1D3A = ~z~~sl:0.0:4.6~You will come to a crossroad, and before you make a decision, eat.~sl:0.0:4.3~You have mistaken clarity for veracity. A meal would serve you~sl:~better than any sermon.
+
+0x964B0452 = ~z~~sl:0.0:6.7~Time must pass for wisdom to be conveyed, and you seek it too much, too often...~sl:~like all men. Visit again.
+
+0x1202FC2A = ~z~~sl:0.0:4.7~Do not adopt the pace of nature and lie dormant for a winter,~sl:~then mate and murder before perishing without purpose.
+
+0x4814E704 = ~z~~sl:0.0:3.1~A man must be willing to admit his mistakes,~sl:0.0:3.2~but you have undertaken the mistake of gluttony,~sl:~which you silently admit to everyone with your obese demeanor.
+
+0x5798A80F = ~z~While we are forgotten shortly after death, your honor will not be.
+
+0x22639BA2 = ~z~~sl:0.0:5.8~The reward for hard work and toiling in the fields is a hearty supper,~sl:0.0:5.6~however you have taken to rewarding yourself to the point of a swollen and~sl:~distended belt that can hold back your midriff no longer.
+
+0x74689E10 = ~z~~sl:0.0:4.8~Before you seek to fulfill your soul, try your belly first.~sl:~It grumbles to a deafening degree.
+
+0x4475454A = ~z~~sl:0.0:5.0~You have toiled too long, and seek wisdom from a machine~sl:~instead of a pillow.
+
+0xA2A37A85 = ~z~~sl:0.0:4.2~You have taken to wine, women and song too much.~sl:~Maybe try to eat first.
+
+0xA3A35110 = ~z~A fortune seeker. I shall provide.
+
+0xAA02D5C8 = ~z~~sl:0.0:5.2~My advice to you is to not inquire on whether your future is bright,~sl:~for your outfit is too ridiculous to whither.
+
+0xAFC64211 = ~z~~sl:0.0:3.6~A life setting high standards is noble.~sl:~Whatever that is you are wearing? Not so much.
+
+0xB1D76D78 = ~z~Behold and hear your fortune from the Magnificent Madam Irene.
+
+0xB4C8C1B7 = ~z~A man has given you something you cannot leave behind.
+
+0xB60D5E91 = ~z~~sl:0.0:4.5~A man covered in blood brings supper or sadness,~sl:~and my crystal ball says you have brought both.
+
+0xB72E3A16 = ~z~~sl:0.0:5.4~Toil as if money is no object, yet covet and horde it~sl:0.0:2.6~and perish so that distant relatives~sl:~may feud in blood endlessly over it.
+
+0xBB92A655 = ~z~~sl:0.0:3.9~You do not gain wisdom from growing your beard long.~sl:~Men stroke their beard because it itches, not because they are wise.
+
+0xBEFA3BA9 = ~z~~sl:0.0:3.5~You may not know where you are going, but...~sl:~you should cut your hair before you get there.
+
+0xBFD3721D = ~z~~sl:0.0:5.2~I see a fantastic future for you... yes, yes,~sl:0.0:4.8~a bath maybe, free of the blood of your ravenous deeds.~sl:0.1~Good Lord.
+
+0xC09C152A = ~z~~sl:0.0:4.9~A man who lives in disarray, covered in mud, may think himself to~sl:~be toiling towards greatness. But, you look like a pig.
+
+0xC5F76414 = ~z~~sl:0.0:5.9~You are a pastured donkey that bays wistfully at the sunset,~sl:~having ignored the blissful ignorance of being a beast of burden.
+
+0xC34FC454 = ~z~~sl:0.0:5.5~A tangled web is woven in life, and your tangled web should have~sl:0.0:3.5~been cut a long time ago, for your hair blinds you~sl:~to the world around you.
+
+0xC5756D6F = ~z~~sl:0.0:4.1~You will meet a wise man who will question your judgement~sl:~about that thing on your head.
+
+0xCA5843E0 = ~z~~sl:0.0:3.9~Your beard does not convey character, instead,~sl:~it is becoming a repository for birds.
+
+0xCA719020 = ~z~~sl:0.0:5.8~Cleanliness is next to godliness, and you are next to revolting.~sl:~Maybe visit a bath instead of a fortune machine?
+
+0xD34B3A88 = ~z~~sl:0.0:4.3~It is amusing to lay amongst swine briefly,~sl:~however you wear the cloak of dirt too proudly.
+
+0xDCA61BD8 = ~z~~sl:0.0:4.1~You can observe a lot by looking in the mirror and wondering~sl:~what on earth convinced you to put that on your head.
+
+0xDD9E12F7 = ~z~~sl:0.0:3.9~I am tired and cannot fathom reaching into the~sl:0.0:2.3~deep recesses of my psychic wisdom.~sl:~Please, come back another time.
+
+0xDE53886C = ~z~~sl:0.0:5.0~A tree is known by its fruit, until it falls and decays,~sl:~and it's fruit only fed scavengers and savages unappreciative of its gifts.
+
+0xE16A9AFE = ~z~Your vices gently persuade you into misery, oh but please, embrace them fervently.
+
+0xE80E7F4C = ~z~~sl:0.0:4.4~It has become obvious that your goals cannot be reached,~sl:~as you cannot fulfill the simple goal of shaving.
+
+0xECB5E334 = ~z~I have reached into the great beyond for your fortune.
+
+0xEF75DA30 = ~z~~sl:0.0:5.7~Be wise to insults directed at you, unless they are about your smell,~sl:~which is repugnant as you haven't had bath in ages.
+
+0xEF6836F5 = ~z~A chicken and an egg are equal metaphors for your journey.
+
+0xEFF6F3DF = ~z~~sl:0.0:5.3~You are filthy. There are pearls and swine, and a woman named~sl:0.0:4.4~Pearl who is swine but a bit of fun, but in your current state she~sl:~will have nothing to do with you.
+
+0xF2F43E11 = ~z~A crone and a strumpet will give you equal guidance on your journey.
+
+0xF3E03F7B = ~z~If you are so greedy for knowledge, I suggest visiting a place of learning.
+
+0xF3E5B390 = ~z~~sl:0.0:2.6~While you have teeth that bear wisdom,~sl:~they will only need to be extracted under sedation.
+
+0xF8C62F40 = ~z~~sl:0.0:5.6~Many a wise man stood at the doorstep of the temple with flowing hair.~sl:~You... should cut yours.
+
+0xFCC774CB = ~z~~sl:0.0:4.8~A man's philosophy cannot be easily communicated with words,~sl:0.0:3.4~nor can the smell you exhibit since you have not bathed~sl:~in what seems like a decade.
+

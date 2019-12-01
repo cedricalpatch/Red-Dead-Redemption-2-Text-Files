@@ -1,0 +1,24 @@
+0x0CFCA066 = ~z~Let me tell you boys a story...
+
+0x1F2B44C3 = ~z~~sl:0.0:1.8~When old Uncle was just a little boy,~sl:0.0:2.6~back before they called me Uncle,~sl:~they called me nephew I guess...
+
+0x5DA99654 = ~z~~sl:0.0:1.4~Turned him into Aunt Jemima.~sl:1.1~Not one word a lie.
+
+0x6BF432E9 = ~z~~sl:0.0:0.9~Only...~sl:0.2:3.6~it wasn't Jeb drowning Ned like I figured,~sl:1.1~it was Ned stabbed Jeb right in the money maker!
+
+0x91F2AA54 = ~z~~sl:0.0:3.5~Anyway, h-h-he kept trying to take me,~sl:0.5~all week long he was telling me to go.
+
+0x819D09A9 = ~z~~sl:0.0:1.1~I didn't want to go,~sl:0.0:2.4~because if there's one place a man acts funny,~sl:~it's around fish...
+
+0x82075F0F = ~z~~sl:0.0:1.3~I never liked Ned anyway,~sl:0.0:2.4~I figured they could do their damndest to each other,~sl:0.2~and they did.
+
+0x83880D7B = ~z~In the end I sent my brother's friend, Ned, instead...
+
+0xCA889B7F = ~z~~sl:0.0:2.0~My real Uncle, Uncle Jeb,~sl:0.0:2.6~my mother's brother's cousin he was,~sl:0.2~funny kind of a feller...
+
+0xDCAA3FC2 = ~z~~sl:0.0:2.6~not the sort of man you wanted to be left alone with~sl:~on account of the things...
+
+0xEC3BDEE5 = ~z~~sl:0.0:1.9~you know the kind of things I mean,~sl:~not right with the young men.
+
+0xF685F379 = ~z~Anyways, he wanted to take me fishing.
+

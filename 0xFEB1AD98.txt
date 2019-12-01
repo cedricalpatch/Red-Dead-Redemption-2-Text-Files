@@ -1,0 +1,24 @@
+0x03A7B4D9 = ~z~~sl:0.0:1.8~What are we still doing down here?~sl:0.3~Thought we was heading west.
+
+0x1E383C79 = ~z~Just... seems like something's changed.
+
+0x8FBCDED5 = ~z~Don't forget who you are, John.
+
+0x15C8D91B = ~z~~sl:0.0:3.9~And have you forgotten that we came down here to get your son back?~sl:0.4:1.2:1~I look after my own.
+
+0x27FE7D86 = ~z~I don't need no "Noble Savages" speech again...
+
+0x84C33712 = ~z~~sl:0.0:1.4:1~You're quiet.
+
+0x99F6F349 = ~z~You always said he was too smart.
+
+0x30266055 = ~z~You've changed!
+
+0xA85F901A = ~z~Like he ain't gonna agree with you.
+
+0xBAC634E7 = ~z~Can you believe this ingrate, Arthur?
+
+0xF16D1064 = ~z~We live free. You know that.
+
+0xF90A721E = ~z~Don't forget who you are, John.
+

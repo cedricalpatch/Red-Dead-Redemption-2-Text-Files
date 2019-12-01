@@ -1,0 +1,24 @@
+0x5B8DA3F6 = ~z~just lost it.
+
+0x14DE9699 = ~z~Oh, okay.
+
+0x37C55C66 = ~z~So I lost momma's thimble... I was playing with it and...
+
+0x46A1FA1F = ~z~She's going to kill me.
+
+0x47D6D51E = ~z~Well... maybe I can find you another one. You can give it to her.
+
+0x564671FD = ~z~Oh no, she will kill me.
+
+0xA30CB2EF = ~z~I don't think she'd care too much. It's only a thimble.
+
+0xCBB58444 = ~z~Yeah, me too.
+
+0xD9F920CB = ~z~Not much... well, I had fun fishing...
+
+0xE18D088C = ~z~Oh, that would be fine. Thanks, Arthur.
+
+0xF0534D7F = ~z~What's up, kid?
+
+0xFE91E9FC = ~z~Uncle Arthur, Uncle Arthur.
+

@@ -1,0 +1,72 @@
+0x0197F228 = Deliver the supplies ~1~
+
+0x0203CDB5 = The supplies were destroyed
+
+0x3A95B076 = The supplies were delivered
+
+0x5BE93350 = You can only carry one supply bag at a time.
+
+0x6FF49053 = Stop the ~COLOR_ENEMY~enemies~s~ from escaping with the supplies.
+
+0x8C2AF5A7 = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ in the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x9DBD6D6B = The supplies were not delivered
+
+0x24E198F4 = Find the supplies
+
+0x29EDA84B = An ~COLOR_ENEMY~enemy~s~ escaped with supplies.
+
+0x36BD55B9 = Drop the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ in the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x51C872E9 = Deliver the supplies ~1~
+
+0x72F01DBE = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0x81C54C64 = The supplies were destroyed
+
+0x83D012AB = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0x88B4F217 = Find the supplies
+
+0x705FAEAE = Search the area for the supplies.
+
+0x879C2121 = The supplies were not delivered
+
+0x9072C7FD = The supplies were delivered
+
+0x55185CDF = The ~COLOR_ENEMY~enemies~s~ escaped with the supplies.
+
+0xAB1CD469 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xB7A003DA = You delivered the supplies
+
+0xBB97802E = ~1~ delivered the supplies
+
+0xC7AC59A7 = An ~COLOR_ENEMY~enemy~s~ escaped with supplies.
+
+0xC54E6C4A = Supplies were destroyed
+
+0xCA289069 = Go ~1~
+
+0xCCCC3924 = Protect the ~COLOR_MP_OBJECTIVE_FRIENDLY~supplies~s~ on the way to the ~COLOR_MP_OBJECTIVE~Camp~s~
+
+0xCFA5BF34 = Some supplies were delivered
+
+0xD3C915DF = Some supplies have been delivered
+
+0xD64B46D5 = Find the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xD2114660 = to the ~COLOR_MP_OBJECTIVE~broken down wagon~s~
+
+0xDB80B4AA = The ~COLOR_ENEMY~enemies~s~ are escaping with the supplies.
+
+0xDF1EF6E3 = Your Posse delivered the supplies
+
+0xF686D873 = You destroyed the ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~
+
+0xF831A3F5 = Steal the supplies and deliver them to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xF913442F = Steal the supplies and deliver them to Camp ~BLIP_CAMP~ to resume operations. Supplies returned will also add materials to Cripps Trading Co.
+
+0xFE87D558 = Some ~COLOR_MP_OBJECTIVE_NEUTRAL~supplies~s~ have been destroyed
+

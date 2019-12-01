@@ -1,0 +1,24 @@
+0x05DEC77E = ~z~You've gone mad!
+
+0x08236943 = ~z~Reverend... Reverend... Can we speak?
+
+0x5F5617AB = ~z~Of what?
+
+0x6D03B306 = ~z~I'm frightened, I am so very frightened.
+
+0x242CA159 = ~z~I'm a changed man, Herr Strauss, entirely changed, I have been saved from hell!
+
+0x419FDC3F = ~z~Have they? For me... for me they've been different.
+
+0x149964F3 = ~z~Of course, but not yet and the path shall become clear. I have been saved, Herr Strauss!
+
+0x15030306 = ~z~We are going to die...
+
+0xC2D15EA0 = ~z~These past months have been hellish.
+
+0xC9134DF4 = ~z~
+
+0xD0A7FA4D = ~z~Of everything, thi-this... this cannot go on, how many more times will we survive?
+
+0xF9F0CCDE = ~z~Of course... what's wrong?
+

@@ -1,0 +1,36 @@
+0x0966CB29 = ~z~Not to my knowledge.
+
+0x1E3903CD = ~z~Something real wrong about the place.
+
+0x2F8A17E4 = ~z~What do you think?
+
+0x5F731F72 = ~z~~sl:0.2:0.0~Seems you don't suffer from an excess of niceties, though?
+
+0x7AF4794E = ~z~And there's an old feller sitting there ranting and raving in whatever language it is.
+
+0x8BBB7EC0 = ~z~Wait, you ain't Swedish or Norwegian, are you?
+
+0x61AD46C0 = ~z~All handshakes and smiles... but smiles where the eyes don't join in.
+
+0x939FEE99 = ~z~Just kinda stuck with me.
+
+0x1214A88B = ~z~Alright, anyway, that's enough of that...
+
+0x41756AB2 = ~z~All Nordic types, real strange. They tripped over themselves to make me welcome.
+
+0x657584CA = ~z~Okay, if you ain't gonna be civil, I'll just shut up.
+
+0xBC8AAB1C = ~z~What do you think?
+
+0xD6C99558 = ~z~~sl:0.4:0.0~Just thought there was something about the hair and the eyes.
+
+0xD3540E69 = ~z~Traded some furs for tools.
+
+0xE4E33187 = ~z~I stopped by this settlement over in Tall Trees the other week, Manzanita Post.
+
+0xE9E36833 = ~z~Right, you know what I'm talking about.
+
+0xE41F8F87 = ~z~Then I walk around the back and see another feller with his head in his hands, and a girl crying.
+
+0xFCE53AB2 = ~z~Not to my knowledge.
+

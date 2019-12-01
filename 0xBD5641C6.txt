@@ -1,0 +1,230 @@
+0x0018BFA5 = ~z~We kill this dog!
+
+0x017C276F = ~z~~sl:0.0:2.9~What kind of a person becomes a bounty hunter?~sl:0.2:3.6~one with no pride... one with no guts...~sl:0.3~one with no balls?
+
+0x06C9FFFB = ~z~Let me go!
+
+0x08F0798D = ~z~And now they try to kill me.
+
+0x0B74F84A = ~z~I think they're all held up at that old mine, Gaptooth Breach.
+
+0x0D9F0C5D = ~z~~sl:0.0:2.6~And if you ever tell her I said that...~sl:~I'll make sure you suffer whatever fate befalls me.
+
+0x1A7BD96E = ~z~~sl:0.0:2.8~And for your son's, and for your mother's.~sl:~Everyone you know and love will die because of this.
+
+0x1CB418F7 = ~z~~sl:0.0:3.2~If any of you are still fighting, hold them back.~sl:~I will find a way out through the mine.
+
+0x1CD2FF90 = ~z~You chase me any further, you won't go back.
+
+0x2AC8A8DF = ~z~They have come for our lady!
+
+0x2BD18FBA = ~z~Keep your eyes to the north.
+
+0x2BE6421A = ~z~You know what to do, stop them!
+
+0x2F5DD0FA = ~z~I'm sick of running.
+
+0x3A12A238 = ~z~~sl:0.0:3.8~Where are my men? Dead? The useless swine.~sl:0.1~They were meant to stop you.
+
+0x3CA2EB84 = ~z~How about you die instead?
+
+0x6D3F211C = ~z~Punish them!
+
+0x6DE96265 = ~z~Is anyone still with me? Hold them back to your last breath.
+
+0x6E3D63C3 = ~z~No surrender!
+
+0x7AFE686E = ~z~No!
+
+0x7C339E9F = ~z~I would expect a confrontation with this lady.
+
+0x7DC7C178 = ~z~I spit on your bounty.
+
+0x7DF75D4D = ~z~Ah, Barbarella Alcazar, our bandit queen.
+
+0x7DFDC299 = ~z~We are not done yet!
+
+0x7FA920D8 = ~z~Get away, I'm warning you.
+
+0x8B6EF83C = ~z~Del Lobos for the most part...
+
+0x8D9E8125 = ~z~~sl:0.0:1.7~I will find a way out through the mine,~sl:~hold them back as long as you can.
+
+0x8F079018 = ~z~Curse you!
+
+0x8F6A63F6 = ~z~I am the target, not you, men. Hold this dog!
+
+0x9A281BFE = ~z~Get back to work... and know your place.
+
+0x10B15C0F = ~z~You all got lazy out here in the sun.
+
+0x15CBEF45 = ~z~Stop the dog!
+
+0x18ECA7C7 = ~z~~sl:0.0:2.0~Either take me in or let me go.~sl:0.2~Either way, you will die for what you have done here.
+
+0x44BAEAD5 = ~z~I'm a might sad I ain't gonna be the one to bring her down myself.
+
+0x51AA7F29 = ~z~Barbarella, no!
+
+0x51BAEA88 = ~z~You will pay for this, I promise you.
+
+0x61B3B589 = ~z~Alright! Alright!
+
+0x68FB2AE4 = ~z~~sl:0.8~You think this little jail will hold me? I am a queen.
+
+0x77B6606E = ~z~~sl:0.0:5.7~I rode with the great Alcazar. So noble, so fair...~sl:~a true hidalgo.
+
+0x91FCC57F = ~z~Get away from me.
+
+0x93E2EE63 = ~z~Take their head!
+
+0x97E6DB93 = ~z~~sl:0.0:3.6~Which pale man sitting behind a dark wooden desk?~sl:0.3~I will cut his cock off and feed it to you.
+
+0x97FFDBC1 = ~z~You're a mangy dog looking for a master.
+
+0x156FF072 = ~z~Come any closer, I'll turn around and fight!
+
+0x229B8BD6 = ~z~For Ricardo!
+
+0x481DD222 = ~t~In Spanish: Bounty hunter!
+
+0x530E6C06 = ~z~You don't want me cornered.
+
+0x773A4762 = ~z~A queen, do you hear me? La reina!
+
+0x883C6C24 = ~z~Barbarella!
+
+0x902B4304 = ~t~In Spanish: Bounty hunter!
+
+0x919F049C = ~z~and there ain't been no let up in bloodshed since.
+
+0x944E40B6 = ~z~Curse you.
+
+0x1517B175 = ~z~Take their heads!
+
+0x1590E339 = ~z~~sl:0.0:4.7~Watch the sky. If you see birds, or you see dust...~sl:0.4~you raise the call.
+
+0x3089A6FD = ~z~Men have come for me before and they have died.
+
+0x5207F75D = ~z~The bastard dogs are here!
+
+0x6105EAAE = ~z~Hold them back. You didn't come all this way to see me fall.
+
+0x63834E4F = ~z~We are not done yet!
+
+0x67066F93 = ~z~Stay back!
+
+0x83941F42 = ~z~Damn you!
+
+0x216488B3 = ~z~I will drag your corpse through Armadillo.
+
+0x275655F2 = ~z~For Ricardo!
+
+0x343349C6 = ~z~Sooner her bloody reign comes to an end the better, I'd say.
+
+0x350323E5 = ~z~Protect our lady!
+
+0x710549B9 = ~z~You trying to start a conversation with me?
+
+0x712254B6 = ~z~Get off!
+
+0x747766C1 = ~z~~sl:0.0:3.4~They have me, you swine! What are you waiting for?~sl:0.3~Kill them! Kill this bounty hunter and set me free.
+
+0x807594BC = ~z~They're here, we knew this moment would come! Fight them!
+
+0x1313078E = ~z~Unless you're real, real delicate...
+
+0x2537844E = ~z~They're here for the bounty!
+
+0x95187142 = ~z~Well, I guess we don't have far to go...
+
+0xA0230243 = ~z~Bounty hunter, we have one here!
+
+0xA0CBA2F5 = ~z~Let's see...
+
+0xA5E93738 = ~z~We kill these dogs!
+
+0xA9AB7F1C = ~z~~sl:0.0:2.0~I want to know who signed this bounty.~sl:0.3~Which politician? Which banker?
+
+0xA56F0539 = ~z~Goddamn... no!
+
+0xA72C8662 = ~z~~sl:0.0:2.2~If the bastard dogs come for us,~sl:~they will be riding from there.
+
+0xA88BA15F = ~z~You know what to do, stop this useless dog!
+
+0xA177E599 = ~z~Bounty hunters, they're here!
+
+0xA610E43B = ~z~You'll pay.
+
+0xAE058D5C = ~z~Goddamn... No.
+
+0xAE2C7029 = ~z~Men! They have come for me, stop them!
+
+0xAE5B1764 = ~z~You could be moving twice as fast.
+
+0xAF5F466C = ~z~I'd rather fuck a goat.
+
+0xAF611EE6 = ~z~Rally 'round, stop them!
+
+0xB5D69025 = ~z~~sl:0.0:2.2~Your entrails will bloody the dirt~sl:~and the children will point and laugh.
+
+0xB712CF83 = ~z~she came over this side of the Saint Louis with a bunch of men...
+
+0xB24208D0 = ~z~they will not stop until you are found and executed.
+
+0xBBDA3E5D = ~z~No surrender!
+
+0xBE41CCCB = ~z~Make this dog pay!
+
+0xC04040A4 = ~z~You won't collect this bounty!
+
+0xC4B643C7 = ~z~Come on!
+
+0xC80C4AC6 = ~z~Faster or I'm going to send a few bullets down to speed you up.
+
+0xC82FC3DA = ~z~No. Don't speak. You wouldn't.
+
+0xC3848E50 = ~z~Punish them!
+
+0xC891356E = ~z~~sl:0.0:2.4~You will be dragged through the streets~sl:~and hung from the courthouse tower.
+
+0xCDA0BFB9 = ~z~When you take this bounty, it is for your death too.
+
+0xD02C92C1 = ~z~No, no!
+
+0xD4DF4E0A = ~z~~sl:0.0:1.4~Do you know who I am?~sl:0.1:2.2~I am La Reina de los Banditos.~sl:0.1~You will die for what you have done to me.
+
+0xD9ED6755 = ~z~~sl:0.0:2.6~Let me ask you, if it was my husband here,~sl:0.0:1.9~Ricardo Alcazar 'The Butcher'...~sl:0.1~would you speak like this?
+
+0xD386DA8C = ~z~Get out of here before I cut your ears off.
+
+0xD398E18C = ~z~Look at this, I got nowhere to go. The only way out's through you.
+
+0xDF72314C = ~z~
+
+0xE06A7225 = ~z~You gonna take me or what?
+
+0xE1C37705 = ~z~My husband, God rest his soul, was much more forgiving than me.
+
+0xE7B214F7 = ~z~You won't take me alive.
+
+0xE215AE7E = ~z~Make these dogs pay!
+
+0xE325EA97 = ~z~~sl:0.0:3.9~I have an army of men who will lay down their lives for me.~sl:~Killers, soldiers, pistoleros, thieves...
+
+0xF012849C = ~z~~sl:0.0:5.9~You are a criminal... a cheap thief... a beggar for bounties.~sl:0.0:3.1~Pathetic. I spit on you.~sl:2.2~You're nothing. I spit.
+
+0xF1DF7BD7 = ~z~
+
+0xF5A252F1 = ~z~~sl:0.0:1.6~I'm not out here for the chit chat.~sl:~I'm out here because those pigs killed my husband.
+
+0xF5D0264D = ~z~Pick it up, you dopey son of a whore.
+
+0xF58FC1FA = ~z~Men, they're after me, not you. Hold them.
+
+0xF7469FE1 = ~z~Look at this, I got nowhere to go. So I guess I'm coming with you.
+
+0xFBDB68D6 = ~z~~sl:0.0:2.2~But how he ever handled our lady...~sl:~The Terror... I will never know.
+
+0xFF95C2D9 = ~z~They won't take her!
+

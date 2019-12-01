@@ -1,0 +1,20 @@
+0x0F7009C2 = ~z~
+
+0x5F31AFF1 = ~z~Fool.
+
+0x6D5C4C46 = ~z~~sl:0.0:1.3~Oh look.~sl:~The Big Dog is here.
+
+0x95DECA1B = ~z~~sl:0.0:1.1~Unusual...~sl:0.9~for one of you.
+
+0x110BC077 = ~z~You know... you got all the charm and personality of a fresh turd, Micah.
+
+0x2145AD6D = ~z~
+
+0x7012FE84 = ~z~~sl:0.0:1.9~Ain't that nice.~sl:0.7~You can write and everything.
+
+0x60975F8D = ~z~~sl:0.0:1.5~That's a good line.~sl:0.9~I must remember that.
+
+0x23146488 = ~z~~sl:0.0:1.3~Oh, you know...~sl:0.6~hoodlums.
+
+0x85752948 = ~z~One of who?
+

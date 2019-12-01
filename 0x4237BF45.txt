@@ -1,0 +1,66 @@
+0x02E6FE25 = Enter the ~o~office~s~
+
+0x0490CB4F = Threaten
+
+0x09C0ACB0 = Go to ~o~Eagle Flies~s~
+
+0x0C167DE2 = Window
+
+0x1AFD4F29 = Interrogate ~e~Danbury~s~
+
+0x1F5DB775 = Danbury destroyed the documents.
+
+0x2E5B0E7A = Open
+
+0x3C99AAF7 = Take
+
+0x53EB4104 = Find ~o~Eagle Flies~s~
+
+0x73C1E48D = Go ~o~upstairs~s~
+
+0x82E2FE7E = Eagle Flies was abandoned.
+
+0x99A4BB8A = Wait for ~o~Danbury~s~ to retrieve the file
+
+0x243D6005 = Danbury
+
+0x542C495F = To activate Cinematic Cameras press and hold ~INPUT_CINEMATIC_CAM~.
+
+0x696ACF94 = Exit wagon
+
+0x3916EAE7 = The factory was abandoned.
+
+0x6646E5BB = Escape the factory with ~o~Eagle Flies~s~
+
+0x8556A3D6 = Sneak ~o~upstairs~s~
+
+0x9775C814 = Sneak into the ~o~factory~s~
+
+0x840980BF = Eagle Flies has died.
+
+0x4292262B = To exit Cinematic Cameras press ~INPUT_CINEMATIC_CAM~.
+
+0xA27BA470 = Return to the ~o~factory~s~
+
+0xAECF2A1C = File
+
+0xAF2AE696 = Take the ~o~file~s~
+
+0xBD9EDAB6 = Return to ~o~Eagle Flies~s~
+
+0xBD4493B9 = Sneak into the ~o~office~s~
+
+0xCDC59436 = Your horse has died.
+
+0xDACA3400 = Enter the ~o~factory~s~
+
+0xE0895A42 = Escape the office through the ~o~window~s~
+
+0xE884C9B4 = Danbury has died.
+
+0xE945E240 = Use ~INPUT_JUMP~ at the rear of a wagon to climb into the back.
+
+0xEA59ED7E = Beat
+
+0xF9406B2B = Eagle Flies' horse has died.
+

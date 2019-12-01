@@ -1,0 +1,20 @@
+0x0879239D = Herd
+
+0x1FED1401 = Herd
+
+0x20AA46C7 = Herd
+
+0x654D3DCE = Try to maintain a constant speed behind the herd. Be careful not to trample the animals from behind.
+
+0xB2A23C8B = Urge
+
+0xB22530D4 = Shout
+
+0xD761F1CB = Herd
+
+0xE2FB1E41 = Animals Remaining: ~1~
+
+0xED4FC8DF = Herd
+
+0xEED4B3D1 = Animal
+

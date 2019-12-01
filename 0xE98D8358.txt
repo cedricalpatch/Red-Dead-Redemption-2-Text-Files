@@ -1,0 +1,30 @@
+0x0A8E9ECE = ~z~Why should I?
+
+0x5D6B448A = ~z~Why should you? One day, kid, you'll be very, very old. Then you'll understand...
+
+0x8F31A570 = ~z~W-what's credit?
+
+0x9E5F43CB = ~z~Just ask them to give you some credit.
+
+0x14C8B342 = ~z~Well, if you do, buy me a bottle of hooch, will ya? Oh, and don't tell your momma.
+
+0x43E01188 = ~z~Oh... come here, kid.
+
+0x80F788FC = ~z~Oh, never mind... but try steal a bottle if you can.
+
+0x220B7059 = ~z~Be careful...
+
+0x9927BC16 = ~z~I was... going for a walk.
+
+0xA75E5883 = ~z~What're you up to?
+
+0xB5B3752D = ~z~Sure.
+
+0xBAD47CB5 = ~z~I ain't got any money.
+
+0xE0BE4B46 = ~z~I wasn't planning on it...
+
+0xEE8066CA = ~z~Heading into town?
+
+0xF8BC1DBB = ~z~What? Don't look at me like that.
+

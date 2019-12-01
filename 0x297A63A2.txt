@@ -1,0 +1,14 @@
+0x09A9E196 = ~z~~sl:0.0:2.2~You're gonna be okay, but...~sl:1.7:~be ready... just... be ready.
+
+0x4E016A48 = ~z~~sl:0.2:0.0~What the hell they doing here?
+
+0x21C311CC = ~z~Two guns he knows.
+
+0x3385B551 = ~z~Who those two creepy fellers over with Micah?
+
+0x44785736 = ~z~I have no idea...
+
+0xE1E81213 = ~z~I understand.
+
+0xFF63CD0A = ~z~~sl:1.6:3.4~Arthur... I'm real scared, this...~sl:0.8:1.4:1~this ain't good.
+

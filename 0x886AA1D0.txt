@@ -1,0 +1,150 @@
+0x0B36D68F = Inspect
+
+0x0CC13BC6 = Search the ~COLOR_MP_OBJECTIVE~area~s~ for clues
+
+0x0F083DFB = The cougar has been killed. Collect its carcass ~1b~ and deliver it as proof of the kill.
+
+0x1A1FF828 = The cougar was nearby recently. Use Eagle Eye to track down additional clues.
+
+0x1B2D5CAE = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the alligator.
+
+0x2C972F87 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~alligator skin~s~ ~1~
+
+0x3C239386 = Hunt & deliver the alligator's skin
+
+0x3CAFA90C = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~wolf ~s~
+
+0x4CBA2D62 = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and look for clues. Finding clues will bring you closer to finding the wolf.
+
+0x4D073C47 = Deliver the bear pelt ~1~
+
+0x4DFA6927 = Proof of kill delivered
+
+0x5F002AB9 = Deliver the alligator skin ~1~
+
+0x7A8618E2 = ~COLOR_MP_OBJECTIVE_FRIENDLY~~1~~s~ inspected a clue
+
+0x7C59830E = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~wolf~s~ ~1~
+
+0x8A5139A0 = Drop off the bear pelt
+
+0x8AD2B308 = Hunt & deliver the bear's pelt
+
+0x9DCEFEA1 = Hunt & deliver the cougar
+
+0x9E141B57 = Search the area ~1b~ for the bear. Deliver its pelt for the full reward.
+
+0x14A8221E = Hold ~INPUT_CONTEXT_Y~ to skin the bear.
+
+0x41ADB1B6 = The bear was nearby recently. Use Eagle Eye to track down additional clues.
+
+0x51A357B1 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~cougar~s~
+
+0x56DD604F = Search the area ~1b~ for the alligator. Deliver its skin for the full reward.
+
+0x64B9A103 = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and look for clues. Finding clues will bring you closer to finding the bear.
+
+0x91EB2115 = Recover the ~COLOR_MP_OBJECTIVE_ENEMY~bear pelt~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x94A61614 = ~1~ has joined in the Hunt
+
+0x167E5531 = The bear has been killed. Collect its pelt ~1b~ and deliver it as proof of the kill.
+
+0x180B6E4A = Go ~1~
+
+0x486A5132 = Hold ~INPUT_CONTEXT_X~ to pick up the wolf.
+
+0x693BC9C7 = Deliver the cougar ~1~
+
+0x762CFCA6 = Kill the ~COLOR_ENEMY~wolf~s~
+
+0x968D8FEF = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the bear.
+
+0x8019B93B = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and look for clues. Finding clues will bring you closer to finding the alligator.
+
+0x8312FB88 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~alligator skin~s~
+
+0x9263BA3F = Hunt & deliver the wolf
+
+0x32063CE2 = Get the ~COLOR_MP_OBJECTIVE_ENEMY~alligator skin~s~ from ~COLOR_ENEMY~~1~~s~
+
+0x49987A25 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the bear.
+
+0x88873E75 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~cougar~s~ ~1~
+
+0x11140347 = Drop off the wolf
+
+0x83075142 = Drop off the alligator skin
+
+0xA8D77448 = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the cougar.
+
+0xA18D7361 = Proof of kill destroyed
+
+0xA71A686C = Use the lasso to retrieve the alligator ~1b~ from the water.
+
+0xA52531DF = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the cougar.
+
+0xA4167284 = Proof of kill destroyed
+
+0xA9085260 = Pelts can be stored on your horse for easy transport if there is space.
+
+0xAFD9CDDB = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the wolf.
+
+0xB074FC87 = Skin the ~COLOR_MP_OBJECTIVE~alligator~s~
+
+0xB4548EF1 = Pick up the ~COLOR_MP_OBJECTIVE~wolf~s~
+
+0xBA889E30 = Press ~INPUT_SECONDARY_SPECIAL_ABILITY_SECONDARY~ and ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the alligator.
+
+0xBC5624B5 = The wolf was nearby recently. Use Eagle Eye to track down additional clues.
+
+0xBCF5B7AD = Get the ~COLOR_MP_OBJECTIVE_ENEMY~wolf~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xC6B0A539 = Investigate the ~COLOR_ENEMY~noise~s~
+
+0xC62FBC83 = The alligator was nearby recently. Use Eagle Eye to track down additional clues.
+
+0xC4743CEA = You must dismount your horse to inspect the clue.
+
+0xCAACAAA7 = The alligator has been killed. Collect its skin ~1b~ and deliver it as proof of the kill.
+
+0xCDA36A13 = Help deliver the ~COLOR_MP_OBJECTIVE_FRIENDLY~bear pelt~s~ ~1~
+
+0xD02BC65C = Search the area ~1b~ for the cougar. Deliver its body for the full reward.
+
+0xD8CB963E = Kill the ~COLOR_ENEMY~cougar~s~
+
+0xD233CF77 = Kill the ~COLOR_ENEMY~alligator~s~
+
+0xDB809AEE = Skin the ~COLOR_MP_OBJECTIVE~bear~s~
+
+0xDCFF33D1 = Investigate the nearby noise ~1b~
+
+0xDD5D784D = Get the ~COLOR_MP_OBJECTIVE_ENEMY~cougar~s~ from ~COLOR_ENEMY~~1~~s~
+
+0xDF359B3B = Kill the ~COLOR_ENEMY~bear~s~
+
+0xE4C6EBCA = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~bear pelt~s~
+
+0xE60D682D = Search the area ~1b~ for the wolf. Deliver its body for the full reward.
+
+0xE77FF2AC = Press ~INPUT_SPECIAL_ABILITY~ to activate Eagle Eye and search for signs of the wolf.
+
+0xF6DFB982 = Hold ~INPUT_CONTEXT_Y~ to skin the alligator.
+
+0xF7FF95E4 = Drop off the cougar
+
+0xF16F5A16 = Press ~INPUT_SPECIAL_ABILITY_ACTION~ while looking at a trail to follow it and look for clues. Finding clues will bring you closer to finding the cougar.
+
+0xF73FF985 = Hold ~INPUT_CONTEXT_X~ to pick up the cougar.
+
+0xF464AA80 = Focus on the clue
+
+0xFB16753B = Deliver the wolf ~1~
+
+0xFDFC911A = The wolf has been killed. Collect its carcass ~1b~ and deliver it as proof of the kill.
+
+0xFE9B49F2 = Pick up the ~COLOR_MP_OBJECTIVE_NEUTRAL~cougar~s~
+
+0xFF63EFC8 = Get on the horse
+

@@ -1,0 +1,26 @@
+0x3C987ADE = The oil wagon was destroyed.
+
+0x4CF60D01 = Ride the stolen oil wagon away from camp
+
+0x7BD8A17C = Ride the stolen ~o~oil wagon~s~ away from camp
+
+0x7FA96D14 = Cornwall Oil Wagon
+
+0x9F2676F4 = Wagons that can be stolen for John are blipped with ~a~
+
+0x12DBF558 = ~BLIP_~1~~
+
+0x477AC989 = The law were led to the drop-off point.
+
+0x87163E0F = Steal a Cornwall Oil Wagon
+
+0x502240AB = Greet
+
+0x3500128E = Drive the wagon to the ~o~drop off location~s~
+
+0xA49DEBBE = The oil wagon was abandoned.
+
+0xC9BDB1EC = Get on the ~o~wagon~s~
+
+0xE4BD0D31 = The oil wagon was brought to camp.
+

@@ -1,0 +1,20 @@
+0x0CD7F963 = ~z~You're drunk again.
+
+0x4C29918C = ~z~I did what I had to do, Mr. Morgan.
+
+0x5DFD3533 = ~z~Perhaps.
+
+0x44E2E978 = ~z~You seemed to like it, I saw that... beady look in your eye.
+
+0x229A24E7 = ~z~And you're a fucking murderer!
+
+0x370A4DC7 = ~z~You think I wanted to shoot her?
+
+0x695FB271 = ~z~You're a nasty woman, Miss Grimshaw, a nasty woman.
+
+0xC61C6BF5 = ~z~Goddamn you... murderer... murderer!
+
+0xE864307C = ~z~She broke the rules!
+
+0xFDAB5B0A = ~z~She did no such thing, she was in love, you sour-faced old crone!
+

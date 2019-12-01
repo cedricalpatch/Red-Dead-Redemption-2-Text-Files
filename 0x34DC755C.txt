@@ -1,0 +1,60 @@
+0x0204AA74 = ~z~Years creep slowly by Lorena,
+
+0x0733F558 = ~z~and hear the distant church bells chime...
+
+0x0AB8FB16 = ~z~A hundred months have passed, Lorena,
+
+0x0EB44383 = ~z~Oh, the sun can never dip so low,
+
+0x2B923E1C = ~z~Our heads will soon lie low, Lorena,
+
+0x2E49438A = ~z~life's tide is ebbing out so fast...
+
+0x3E8AE2C1 = ~z~A hundred months 'twas flowery May,
+
+0x3F16E525 = ~z~It matters little now, Lorena,
+
+0x5CAB9F02 = ~z~To watch the dying of the day,
+
+0x8DAC80FF = ~z~And felt the pulse beat fast, Lorena,
+
+0x9BABA5FA = ~z~but there, up there, 'tis heart to heart...
+
+0x9FD52550 = ~z~though mine beat faster far than thine...
+
+0x34B2CF11 = ~z~and hear the distant church bells chime...
+
+0x52BF8C76 = ~z~'Tis dust to dust beneath the sod,
+
+0x62AF2B05 = ~z~a down affection's cloudless sky...
+
+0x109F06EA = ~z~when up the hilly slope we climbed,
+
+0x757ED1F4 = ~z~but there, up there, 'tis heart to heart...
+
+0x863A736B = ~z~There is a future, oh thank God,
+
+0x190398FF = ~z~of life this is so small a part...
+
+0x75781105 = ~z~Sun slowed down the sky Lorena,
+
+0xAD81C1F9 = ~z~'Tis dust to dust beneath the sod,
+
+0xCA87BB7B = ~z~as when the summer nights were nigh...
+
+0xD1F80AE1 = ~z~the past is the eternal past...
+
+0xD8D1580E = ~z~But the heart throbs on as warmly now,
+
+0xDB681C75 = ~z~since last I held that hand in mine...
+
+0xE5FA7260 = ~z~the frost gleams where the flowers have been...
+
+0xE278AA96 = ~z~to watch the dying of the day,
+
+0xF7AF95CA = ~z~snow is on the grass again...
+
+0xF24E8AB8 = ~z~The sun can never dip so low,
+
+0xFD65A0E6 = ~z~a down affection's cloudless sky...
+

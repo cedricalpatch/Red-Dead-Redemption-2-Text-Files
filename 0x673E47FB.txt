@@ -1,0 +1,570 @@
+0x002A8BA6 = ~z~Go! Hide, will you.
+
+0x0043C903 = ~z~When they fails me, you fails me.
+
+0x01306964 = ~z~
+
+0x0165DFD2 = ~z~They really don't like outsiders, especially on their turf.
+
+0x01C31937 = ~z~Go on with you now. Sleep deep.
+
+0x02740676 = ~z~We'll show you we cants be undone!
+
+0x02A611B3 = ~z~Now you gots to keep strongly for the awakening.
+
+0x0321E34A = ~z~Apparently, this family's been isolated for so long they've started talking in their own weird dialect.
+
+0x041950AB = ~z~Don't thinks you're slinking outta here!
+
+0x06A43817 = ~z~Not much of it.
+
+0x08ADE494 = ~z~So, these boys thought they was sitting on a lot of cash...
+
+0x098892A6 = ~z~Frazzle-dipping your little pullywag more like!
+
+0x0CAAC6B9 = ~z~Godless outlander!
+
+0x0EFD0338 = ~z~Mierda, this is taking too long.
+
+0x1A137593 = ~z~Swinkin heck!
+
+0x1C7D4046 = ~z~Encroacher!
+
+0x1E25B661 = ~z~Damn it, Arthur. Come back here, you're going to blow the whole thing.
+
+0x1FC9BF28 = ~z~You sees when I gets a woman like that, don't you? Frazzle-dipping all the night.
+
+0x2B87748F = ~z~Swinkin heck!
+
+0x2C7846EF = ~z~But why's me every time hunting the swinkin' pig?
+
+0x2CB442B4 = ~z~You shut your gulper or I'll flagger your felt, I will.
+
+0x2E129A07 = ~z~Slinkin gutterfunk.
+
+0x2F745E7D = ~z~Guggling at what a raggedy squirler you is.
+
+0x3A01E202 = ~z~Mal's right, no more yakketing.
+
+0x3B173368 = ~z~The reckoning will come for you early, outlander!
+
+0x3C5CB69B = ~z~Unhand me, outlander!
+
+0x3D07DA33 = ~z~You'll join the perished!
+
+0x3DACFAEE = ~z~You see that girl at the market... guggling at me again?
+
+0x3F8CE917 = ~z~Just up the hill this way. Follow me.
+
+0x4A9B39C3 = ~z~See if you can spot anyone.
+
+0x4A9C063C = ~z~We's surely stuck here like hog pins now.
+
+0x4AD67E58 = ~z~It's up north, on the other side of the river from Valentine.
+
+0x4C6B699C = ~z~Come on, we didn't come all this way for nothing.
+
+0x4CA75731 = ~z~could be interesting.
+
+0x4D5708A8 = ~z~Callow? You's guggling the girls at the market, no work to pride on!
+
+0x4DECBE1A = ~z~Swinkin heck!
+
+0x4F5D0E26 = ~z~Mal!
+
+0x5A58B840 = ~z~Last one's in the cabin.
+
+0x5D562BB0 = ~z~We makes a right tangle of that, Mal.
+
+0x5E9DAB35 = ~z~Cause you's callow as a pup, don't you?
+
+0x6B2BDB69 = ~z~You comes to kill my brood!
+
+0x6B2C39BE = ~z~Sure.
+
+0x6B2450E2 = ~z~We gots to put this out, don't you?
+
+0x6B5847D0 = ~z~I tells you every time, no yakketing in the market!
+
+0x6BB1D838 = ~z~The stash could be in any one of them buildings and who knows how many people are in there.
+
+0x6BD1670A = ~z~Just take it slow, we need to know what we're dealing with.
+
+0x6C0CC613 = ~z~Pappy hears and I'll be munching doodle from the horses.
+
+0x6C6DB77E = ~z~What we doing, Javier?
+
+0x6DEFCCE3 = ~z~Now shut your gulpers and do it right on that ginseng!
+
+0x6EFF2678 = ~z~I hears.
+
+0x6F1728CA = ~z~Encroachers? Kill them!
+
+0x6F407239 = ~z~Look what we have here.
+
+0x7A5A62AE = ~z~Shut your gulper, Newt, don't you!
+
+0x7AAC53FB = ~z~Okay, you take cover by the rock over there.
+
+0x7B308AC6 = ~z~Let's finish this so we can find the cash.
+
+0x7BD20B2C = ~z~You mooching worm!
+
+0x7BDF2736 = ~z~Damn it, Arthur. You went too soon!
+
+0x7CBF8D3B = ~z~I'll meet you back at camp.
+
+0x7D1F41BC = ~z~Flagger his felt, why don't ya!
+
+0x7F60BCA7 = ~z~couple of fellers I heard in town they said...
+
+0x8BE0CBBB = ~z~There must be a lot of people living here... large house.
+
+0x8EDA3170 = ~z~Sounds good.
+
+0x9AE8C236 = ~z~I don't wants no different.
+
+0x9BF499A6 = ~z~You swinkin' gutterfunk!
+
+0x9CAA1266 = ~z~Dingbust it!
+
+0x9E3C8FBF = ~z~Okay then...
+
+0x9E3D1B1C = ~z~What kind of distraction?
+
+0x9EE42BC1 = ~z~Maybe you's hunt a pig this time once, Mal?
+
+0x9F9D8172 = ~z~Are you alright? Come on, before we get spotted.
+
+0x9FFCFD3E = ~z~Swinkin cur!
+
+0x10B80014 = ~z~You'll see.
+
+0x10BA2D45 = ~z~Hey now!
+
+0x16E4AE9F = ~z~I ain't sure about this...
+
+0x17E2D5E0 = ~z~Unhand me, you swinkin gutterfunk!
+
+0x17EB3C3D = ~z~But on twenty years we waits.
+
+0x19ADD0DC = ~z~What the hickory?
+
+0x19D34DEA = ~z~Not too busy, why?
+
+0x20B589D2 = ~z~Don't bend to the blandishing 'cause there's nothing but damnation out there.
+
+0x20C243CB = ~z~You're mine, outlander!
+
+0x23D8885B = ~z~He bring the eye of the demon, don't ya!
+
+0x23E1E043 = ~z~You puts me down, outlander!
+
+0x25A9B952 = ~z~Square don't put gristle in your gizzard like Pappy tells you.
+
+0x26CCC448 = ~z~Hey, hey, stay with me, Arthur.
+
+0x27CBDADC = ~z~Untie this now!
+
+0x29ED255C = ~z~You busy, Arthur?
+
+0x30AAC255 = ~z~Okay, stick close now.
+
+0x32B55A87 = ~z~Beware the reckoning!
+
+0x35E91A25 = ~z~Put me away from you, don't ya!
+
+0x38DBA363 = ~z~Pretty big barn in the back. Not a bad place to start looking.
+
+0x39D9B843 = ~z~Swinkin' outlander!
+
+0x39F30C3F = ~t~In Spanish: Watch out.
+
+0x40B642DC = ~z~Dingbust it!
+
+0x41F66D38 = ~z~What? No, Edie get all the jam!
+
+0x42B715FE = ~z~I see at least three of them outside.
+
+0x46B970D9 = ~z~There's a spot up ahead where we should be able to get a good look at the place.
+
+0x47E60EA7 = ~z~Yeah, so far.
+
+0x51D0D502 = ~z~Encroachers! Keeps them out of the shed!
+
+0x52C2B1EB = ~z~Any folks steps on this soil... they don't leaves. Okay now?
+
+0x53ED2B1D = ~z~Blenching worm, toe-tipping up on us!
+
+0x54E4F230 = ~z~We're free and freer still surely in the world to come.
+
+0x55CBE857 = ~z~Hellborn gutterfunk!
+
+0x56A2BF1A = ~z~Pappy, no!
+
+0x61A3E588 = ~z~Hellfire!
+
+0x67E07280 = ~z~Be quiet.
+
+0x77A782DB = ~z~I'll flagger your felt!
+
+0x77CE934E = ~z~Damn it, if we get caught, it's on you.
+
+0x78F2A91D = ~z~What is your problem?
+
+0x84BA475A = ~z~What kind of a house?
+
+0x85D7AB1A = ~z~Creepers, Fin, don't score notions in the dippy plimick's head!
+
+0x85E8C9B2 = ~z~Loose me, don't ya!
+
+0x88C15C7B = ~z~Dammit, alright. Let's just get down there and take a closer look.
+
+0x92CD09EE = ~z~Swinkin heck!
+
+0x92F264F4 = ~z~What the hickory you doing?
+
+0x154C1B49 = ~z~Ah, well...
+
+0x177A44A5 = ~z~Sleep deep, Papa.
+
+0x185DB66F = ~z~Leave us alone, outlander!
+
+0x295EA0BD = ~z~What the hell, Arthur?
+
+0x339F412B = ~z~Move over, I want to listen to this.
+
+0x346FF546 = ~z~The outlanders'll blandish you, surely they will.
+
+0x365F5D6F = ~z~
+
+0x399EF9B4 = ~z~What the hell, Arthur? You just made this a lot harder for us.
+
+0x435E5B3F = ~z~Hey, keep it down. I hear voices.
+
+0x457A1EAD = ~z~I told you it was worth the trouble, didn't I?
+
+0x458C0353 = ~z~Okay, we're pretty close now. Let's stop and go on foot from here.
+
+0x598C70FB = ~z~I heard about a house...
+
+0x658D1956 = ~z~Arthur, come here.
+
+0x771EC178 = ~z~Exactly...
+
+0x865B01D5 = ~z~Down me or elsewise!
+
+0x908B7FB9 = ~z~I'll create a little distraction then you jump 'em, okay?
+
+0x919EE123 = ~z~said it was really freakish.
+
+0x960C32B1 = ~z~Come stepping on our soil, don't you!
+
+0x982FA57E = ~z~Where the hickory takes me?
+
+0x3075E203 = ~z~Stop twiddling me!
+
+0x3183F759 = ~z~They're gonna hear us.
+
+0x3369E07E = ~z~I don't know what the hell you're playing at.
+
+0x3663B52E = ~z~We sells to 'em, don't you?
+
+0x3796D294 = ~z~I want to make sure we don't run into any surprises.
+
+0x4823BE9A = ~z~Damnation cometh for thee!
+
+0x5323CBC6 = ~z~We falls for nobody!
+
+0x5416BBE6 = ~z~Here...
+
+0x5903A327 = ~z~Newt and Edie takes the wagon now, don't you!
+
+0x6531CB7A = ~z~Loose me, don't ya!
+
+0x6867CF52 = ~z~Do you want the money or not? Come on.
+
+0x7267ADFE = ~z~Who the hickory are you?
+
+0x8384AA48 = ~z~Blenching gutterfunk!
+
+0x8979A316 = ~z~What the hickory was that?
+
+0x9232CB3F = ~z~That barn, they're protecting it good.
+
+0x13607A05 = ~z~They're well hidden in the woods.
+
+0x17714A13 = ~z~No, no you slinkin skulkbobber, you can't be stepping here!
+
+0x21475E8A = ~z~Hey!
+
+0x28090CD2 = ~z~You blenching cur!
+
+0x36736BC2 = ~z~The coast seems clear so far.
+
+0x47924BE4 = ~z~You damn skulkbobber!
+
+0x52923DF1 = ~z~Hopefully it'll make it harder for them to spot us too.
+
+0x59035CD0 = ~z~You understand what they're saying?
+
+0x76387C94 = ~z~Go at 'em!
+
+0x83849F77 = ~z~Hey you can't be stepping in here, don't you!
+
+0x88756F0E = ~z~End that mooching cur!
+
+0x161356FC = ~z~I'll square you up, don't ya!
+
+0x255062AA = ~z~We need to get a good look at this place.
+
+0x337567C0 = ~z~I got an idea. Follow me.
+
+0x472256AB = ~z~But we keeps apart like we always keeps. The outland's in the shadows, like I says it is.
+
+0x1825528C = ~z~What the hickory?
+
+0x3449015F = ~z~All these trees, I can't get a proper look at the place.
+
+0x6871805B = ~z~I decided to improvise.
+
+0x8432399E = ~z~Arthur, watch out! Shooters near the barn!
+
+0x14624000 = ~z~Arthur, stay close.
+
+0x16189519 = ~z~Where you been now, Newt?
+
+0x40278166 = ~z~No! I don't like feeling trapped!
+
+0x44801566 = ~z~Now goes watch the shed, you dippy plimick, fore Pappy spunks his top again.
+
+0x71003293 = ~z~Goddamn it. Wait, Arthur. What has gotten into you?
+
+0x88219285 = ~z~Stay low, Arthur.
+
+0x98324420 = ~z~you take this.
+
+0xA1BB9B59 = ~z~Come on, let's hide behind this shed, see if we can hear what they're saying.
+
+0xA7E4A30F = ~z~just take a look.
+
+0xA7E1390C = ~z~Go guard the shed. Go!
+
+0xA7F13436 = ~z~Damnation!
+
+0xA46D9944 = ~z~Blenching encroacher!
+
+0xA95E6648 = ~z~You blenching cur!
+
+0xA97E1E6E = ~z~There's no place else they could store it.
+
+0xA575AF43 = ~z~What the hickory?
+
+0xA679E0AF = ~z~Let's split up...
+
+0xA8180E15 = ~z~So?
+
+0xABBC1602 = ~z~Bury him with the rest!
+
+0xACD1E900 = ~z~You got your binoculars?
+
+0xAD5375B9 = ~z~Sends you back to the shadows!
+
+0xAED846FA = ~z~You needs to pull it up, boy. Up.
+
+0xAF5BB7C9 = ~z~Hellfire!
+
+0xAFBDDF12 = ~z~Next run to market I combs my hairs all flowy like, I says to the girl "Good morning" and you watch now.
+
+0xB3A6DCC7 = ~z~Flagger that gutterfunk!
+
+0xB3B81EEA = ~z~We got at least one in the cabin, at the window.
+
+0xB5BB83F0 = ~z~He knows not the awakening!
+
+0xB6F3ABCC = ~z~I don't know...
+
+0xB41C8E55 = ~z~Frees me now!
+
+0xB41D33AC = ~z~Has to be under here.
+
+0xB122EEAA = ~z~But you, me, Mal, Finney, we's full growed now.
+
+0xBA345BD3 = ~z~We shouldn't go in blind, Arthur.
+
+0xBB4781D5 = ~z~Hellborn fiend!
+
+0xBC32CEF6 = ~z~No! Pappy!
+
+0xBD0C79AF = ~z~Digs her up and ask, don't you?
+
+0xBDFDC931 = ~z~Blenching gutterfunk!
+
+0xBEC5569C = ~z~What the hickory?
+
+0xBF7E45D8 = ~z~What are you doing? Let's stick together.
+
+0xBF138D87 = ~z~Now... big place, right?
+
+0xBFCD43A0 = ~z~Let's take 'em out quick. The rest will be on their way.
+
+0xC0512D96 = ~z~Arthur, come here.
+
+0xC076D433 = ~z~let's go take a look.
+
+0xC0773FFD = ~z~Lets me free, don't you!
+
+0xC2DE2BD8 = ~z~Mooching cur!
+
+0xC5BE07B1 = ~z~Stepping on our land!
+
+0xC9A3D12C = ~z~Family local bogeymen, I guess...
+
+0xC9AF2E90 = ~z~Encroacher! Kills him!
+
+0xC85C2F27 = ~z~Let's get going.
+
+0xC91CFA17 = ~z~Okay, Edie.
+
+0xC2349988 = ~z~I don't see any more of them. Alright, quick, let's look for the stash.
+
+0xCB79AF6C = ~z~Lets me off, don't you!
+
+0xCB54390A = ~z~Be gone, outlander!
+
+0xCD8CA781 = ~z~We gots all we envys right here.
+
+0xCD69EC64 = ~z~Great shot, Arthur.
+
+0xCD82264A = ~z~Loose me!
+
+0xCDA5DA5A = ~z~Damn now, loose me!
+
+0xCF2EFE43 = ~z~Darn it. Down me, gutterfunk!
+
+0xCF7D3AEF = ~z~Damn you!
+
+0xCF8B085F = ~z~You can lollygag all the now day long 'cause Edie takes patrol now, don't you!
+
+0xD03A848B = ~z~Arthur, we need to find the money, get the hell out of here.
+
+0xD08B6E4C = ~z~He takes me to the shadows!
+
+0xD0FBE5FD = ~z~Now, Arthur!
+
+0xD4BA0788 = ~z~Flagger that skulkbobber!
+
+0xD4CC9242 = ~z~Best way there is through Cumberland Falls, though. You know it?
+
+0xD9AFFBD8 = ~z~So no more of this dippy yakketing, you hears?
+
+0xD24F430D = ~z~You got all you need, let's go.
+
+0xD344A61F = ~z~Ooh what the hickory's her names now?
+
+0xD870D543 = ~z~Mal! No!
+
+0xD6170DAD = ~z~We need to get a good look at this place.
+
+0xD8692E5E = ~t~In Spanish: Over here, fools.
+
+0xD2484303 = ~z~Mount up, come on.
+
+0xDBF0805D = ~z~I needs you to be the tall man here, Finney, now don't you?
+
+0xDDAC191F = ~z~Arthur, wait up. Don't just go running in there.
+
+0xDDDB673C = ~z~What are you doing? Get over here!
+
+0xDE60C90C = ~z~Danger is upon us. Defend yours, don't ya.
+
+0xE04A0C05 = ~z~Hey Arthur... give me a hand here.
+
+0xE06F3EC3 = ~z~Will you move so I can get in there?
+
+0xE2A2F39A = ~z~What the hickory? Lets me down!
+
+0xE5A72855 = ~z~You just keep selling me on this job, don't you?
+
+0xE6ADA36E = ~z~Hurry, before they spot us.
+
+0xE7B1BFAF = ~z~Return to the shadows!
+
+0xE47F9C44 = ~z~there ain't much risk of getting caught.
+
+0xE60E4963 = ~z~Keep quiet.
+
+0xE65ACC4B = ~z~Pappy was boiling when he sees her, don't you?
+
+0xE82C648F = ~z~What are you doing? Get down.
+
+0xE669D8A5 = ~z~I'll flagger your felt!
+
+0xE62858B8 = ~z~We gots to keep clean now, don't you?
+
+0xE79337CF = ~z~Sure, more or less.
+
+0xE194658A = ~z~Damnation!
+
+0xE2562491 = ~z~Frees me or elsewise, outlander!
+
+0xEB9EFB79 = ~z~Slinkin' gutterfunk!
+
+0xEBC2C197 = ~z~Go on, take cover over there.
+
+0xEC3925A7 = ~z~Leaves me on the ground, don't you!
+
+0xED2DF650 = ~z~You blenching worm!
+
+0xEEDAB0FA = ~z~Of course, it's dubious, but...
+
+0xF04BCF29 = ~z~What are you doing?
+
+0xF0AFF67E = ~z~They weren't shy about defending that barn. Let's check in there first.
+
+0xF2A2ADC1 = ~z~Mal and Newt, they sees you veering squirly, they veer squirly likewise.
+
+0xF4A14927 = ~z~Lets me off, darn you!
+
+0xF4E92B3F = ~z~What the hickory?
+
+0xF4ECFE41 = ~z~Just the ones in the barn left, Arthur.
+
+0xF5CA54DD = ~z~Don't be boiling now, Pappy. I was gone but ten minutes, I was.
+
+0xF8F305C5 = ~z~Step off our soil, don't ya!
+
+0xF20C31B6 = ~z~Just stay quiet.
+
+0xF63A030C = ~z~Swinkin' heck.
+
+0xF82A712B = ~z~I-I think we need to draw them out somehow.
+
+0xF92C459D = ~z~Sounds pretty dubious.
+
+0xF94A572F = ~z~Back to hell, don't ya!
+
+0xF372CDE9 = ~z~See if you get a closer look...
+
+0xF8327C36 = ~z~Swinkin cur!
+
+0xF47356E6 = ~z~Now square's not what this is!
+
+0xF49568C0 = ~z~We has that one we keeps in the woods.
+
+0xFA45D9BA = ~z~We need to finish this, find the money and get the hell out of here.
+
+0xFAB5E012 = ~z~What are you doing? Get over here.
+
+0xFAC726B5 = ~z~You got your binoculars with you, don't you?
+
+0xFB2FE711 = ~z~
+
+0xFB18C96A = ~z~they're highway robbers, kidnappers, apparently.
+
+0xFBFBB5DB = ~z~but they're crooked in every way.
+
+0xFC74966A = ~z~Lancers!
+
+0xFE1AD31A = ~z~What the hickory happened here?
+

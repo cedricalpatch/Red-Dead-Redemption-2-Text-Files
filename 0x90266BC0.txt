@@ -1,0 +1,40 @@
+0x02195A50 = ~z~Wolf dung.
+
+0x7E83D31F = ~z~Alright then, Jack. How do you tell if they are bird bones?
+
+0x7F9C9A75 = ~z~Okay.
+
+0x8AE31D59 = ~z~~sl:0.0:1.7:1~And Uncle's would stink a lot more.
+
+0x9EC4139B = ~z~~sl:0.0:1.3~You'll have to do better than that...~sl:2.2~Last chance.
+
+0x9F3D460D = ~z~~sl:3.3:1.0:1~Can I keep it?
+
+0x10D877CE = ~z~
+
+0x39F049FD = ~z~Wolf!
+
+0x42F4A0E6 = ~z~Will you take me hunting, Pa?
+
+0x43D50F3E = ~z~We'll have to keep our eyes open around here.
+
+0x61F61A04 = ~z~~sl:0.0:2.0~Oh come on, you know this.~sl:1.1~Because they're hollow, right?
+
+0x483A6691 = ~z~Found it not a half mile away.
+
+0x5207ABA3 = ~z~~sl:1.0~It looks just like Rufus's.
+
+0x6673D47B = ~z~Yeah... you see the hair in there? That's deer.
+
+0x41359D68 = ~z~Soon, when you're ready.
+
+0xC3F38F7D = ~z~If you like.
+
+0xD4357E81 = ~z~~sl:0.9:1.0:1~I don't know.
+
+0xE6605452 = ~z~~sl:0.8~Oh yeah.
+
+0xF4ADF0ED = ~z~A coyote's wouldn't be as thick.
+
+0xF44BBEB5 = ~z~What is it?
+

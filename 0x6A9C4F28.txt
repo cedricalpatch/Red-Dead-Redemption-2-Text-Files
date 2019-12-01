@@ -1,0 +1,364 @@
+0x01681045 = ~z~What right do you have?
+
+0x08F7C341 = ~z~I was robbed!
+
+0x0A5D4490 = ~z~Go, see if you can retrieve my lawful property...
+
+0x0B9B3B6E = ~z~Help! Help me!
+
+0x0B1235C6 = ~z~I did no such thing.
+
+0x0BCDC87C = ~z~Good, good.
+
+0x0CAE2681 = ~z~or what you done, but...
+
+0x0CBD844F = ~z~~sl:0.5~Oh dear Lord.
+
+0x0E1F0061 = ~z~That was a good horse, damn you.
+
+0x0E497AEF = ~z~Now, see you on the river.
+
+0x1ACF8B51 = ~z~About what?
+
+0x1C48B95F = ~z~It's cruel, is what it is! Damn you.
+
+0x1C23681C = ~z~Wait, what?
+
+0x1CA17EDD = ~z~I told you to get all his associates, didn't I? Well? Where are they?
+
+0x1DBF1586 = ~z~Keeping his hands clean, as usual...
+
+0x1E772A80 = ~z~Flung around like a sack of potatoes.
+
+0x1F6AA2FC = ~z~~sl:0.3~You ran me into the ground.
+
+0x1F35EFBD = ~z~Ain't nobody convicted of nothing.
+
+0x2A7785D3 = ~z~Thank you.
+
+0x2ADC2526 = ~z~Come on. I should like to resolve this.
+
+0x2B8D2CCC = ~z~My stolen property.
+
+0x2C5C8A0A = ~z~Kill nobody.
+
+0x2EF2510F = ~z~Come on, be reasonable...
+
+0x3C96D781 = ~z~Let's split up.
+
+0x3E83BD7E = ~z~Yes you do.
+
+0x4BA7B79F = ~z~Whatever he told you was a lie.
+
+0x4CB059D7 = ~z~“Hello, Clinton. How've you been since we robbed you?”
+
+0x4D2AFE7C = ~z~Damn that horse.
+
+0x5AE08A58 = ~z~~sl:0.0:1.8~because of some Staffordshire china~sl:~and an argument between a man and his sister.
+
+0x5B44341C = ~z~~sl:0.0:2.2~We bide our time and we wait...~sl:0.5~and when we find out where all this loot's hidden...
+
+0x5D1DDA87 = ~z~You ain't right in this.
+
+0x5EBB2DF3 = ~z~The men you killed weren't good men, you can still put this right.
+
+0x6AA6197D = ~z~Go, go, go!
+
+0x6AB16296 = ~z~maybe you ain't all bad after all.
+
+0x6B0AAF7D = ~z~Hired guns... you get what you pay for.
+
+0x6BFB0246 = ~z~You were meant to bring me Crawfish, where is he?
+
+0x6C7BC974 = ~z~I hope he's paying you a load.
+
+0x6D7B588A = ~z~we'll kill Crawfish ourselves.
+
+0x7CD7BDE0 = ~z~They won't get us on the river.
+
+0x7D246AC5 = ~z~Whatever he told you was a goddamn lie.
+
+0x7DDBD164 = ~z~I pay your goddamn wages, me and folks like me.
+
+0x7EC5A7DB = ~z~And where the hell is Crawfish? Well?
+
+0x8B1DBA71 = ~z~Get me off of this!
+
+0x8D1EB9E9 = ~z~Here's your money.
+
+0x8D5C4494 = ~z~Leave them on the tracks.
+
+0x8F5F2BE5 = ~z~For a moment I thought you were...
+
+0x9A560EAE = ~z~Here he is, of course.
+
+0x9B9FE11B = ~z~don't kill them.
+
+0x9F3B2A93 = ~z~They won't hold 'em. Damn that Arnsdale... come on, let's go.
+
+0x13F5157C = ~z~Treat me with some respect.
+
+0x18F12A25 = ~z~The Upper Montana, we'll lose them on the river.
+
+0x18FB8165 = ~z~Whatever are you waiting for? Go after him.
+
+0x22CA8868 = ~z~Let's go then.
+
+0x23B0A159 = ~z~Come on.
+
+0x23DC3836 = ~z~No bounty hunter or lawman would touch this.
+
+0x25A32686 = ~z~Hey!
+
+0x29A7D41D = ~z~Damn you to hell!
+
+0x34BA3F22 = ~z~How do.
+
+0x34F22CB7 = ~z~Okay, we're square then.
+
+0x35ABF87C = ~z~just on Clinton Arnsdale's say so, so...
+
+0x39E91422 = ~z~Leave me and my men alone!
+
+0x43C03755 = ~z~Not without more support and funding.
+
+0x53AE9230 = ~z~Don't do this.
+
+0x53BBB49F = ~z~Goddamn.
+
+0x54CF88FE = ~z~~sl:0.7~Okay. Get us off. Quick.
+
+0x59A364A3 = ~z~just down from Fort Riggs station...
+
+0x62AFC62C = ~z~I knew you were greedy, I didn't realise you were evil.
+
+0x65EEFBB2 = ~z~I seem like some kind of liar?
+
+0x68F35F1A = ~z~You got what you came here for, didn't you?
+
+0x69FB0C5B = ~z~
+
+0x71D98D8F = ~z~In fact...
+
+0x76A17316 = ~z~I hope you haven't messed this up.
+
+0x76B69D45 = ~z~Ain't nobody knows who took your stuff, mister.
+
+0x79C84CF8 = ~z~So much for those gunmen.
+
+0x79D397DD = ~z~Save me!
+
+0x80E6D664 = ~z~~sl:0.2:0.6~Now come on,~sl:0.8~you're not gonna let some good ol' boys die...
+
+0x82C95F79 = ~z~Quickly, please.
+
+0x87AB6507 = ~z~I ain't got the manpower to go after Bob Crawfish.
+
+0x92FE967D = ~z~Be reasonable, okay?
+
+0x96E1CE0E = ~z~You're making a huge mistake.
+
+0x162D879B = ~z~
+
+0x183B3DEB = ~z~This is against the law.
+
+0x186A9E6B = ~z~Damn this.
+
+0x232DB3F1 = ~z~
+
+0x283C90F0 = ~z~I don't rightly know what you're talking about, Clinton.
+
+0x437E0CD0 = ~z~Come on. You don't have long.
+
+0x447C6438 = ~z~Come on!
+
+0x510E1FB0 = ~z~He's hidden away like a school child.
+
+0x511FF7F1 = ~z~What are you gonna do about it, Sheriff?
+
+0x514DA86F = ~z~Go get them.
+
+0x528CE7EC = ~z~Our quarrel's with Clinton, not them.
+
+0x532CD62E = ~z~Is that why you won't help me?
+
+0x550A03FB = ~z~Just do it, won't you?
+
+0x808FA16A = ~z~You're caught up in something you don't understand.
+
+0x898FC2F7 = ~z~from some goddamn thieves.
+
+0x909E76E9 = ~z~I'm sorry, Mr. Arnsdale, really I am.
+
+0x997A5298 = ~z~In the basement of your sister's house.
+
+0x1728F125 = ~z~We all square here?
+
+0x1958D253 = ~z~You owed us money.
+
+0x2020AB15 = ~z~Why, huh? Why?
+
+0x2408D536 = ~z~you wouldn't kill a man in cold blood...
+
+0x5563AB94 = ~z~Shame on you! Shame on you!
+
+0x6888D6E5 = ~z~I am waiting. But not for long.
+
+0x7256CF80 = ~z~This isn't right.
+
+0x7604C1BA = ~z~Ain't much I can do about it.
+
+0x8177C365 = ~z~It's all just a big mistake...
+
+0x9793EF9D = ~z~My fine collection of Staffordshire china, gone!
+
+0x17659F49 = ~z~He's made you all patsies.
+
+0x23009BAF = ~z~Howdy.
+
+0x47270F1B = ~z~This is a black mark on all of you.
+
+0x61434FAE = ~z~gonna let that train ride right over us.
+
+0x80142A04 = ~z~Kill these men, will you.
+
+0x87328DD7 = ~z~Come on, be reasonable please!
+
+0x320193D8 = ~z~Will you go for me?
+
+0x538350DF = ~z~Thieves!
+
+0x632286BB = ~z~Where's my property?
+
+0x711162EF = ~z~Cold-blooded killers! That's what you are.
+
+0x733626E2 = ~z~My collection of photographs of fairies, gone!
+
+0x37024944 = ~z~
+
+0x73750735 = ~z~What you're doing isn't right.
+
+0xA6AA718A = ~z~Over here! It's me, Bob Crawfish!
+
+0xA6E54B5D = ~z~~sl:0.0:1.4~Keep your eyes open.~sl:0.1~Crawfish is sure this old man's going to send people.
+
+0xA9EC144D = ~z~My paintings of scenes in Italy, gone!
+
+0xA25FE46B = ~z~Here.
+
+0xAFC07F24 = ~z~Where are my things?
+
+0xB4A59A2D = ~z~Thank you.
+
+0xB8E79C1E = ~z~I'm expecting Mr. Bob Crawfish. Where the hell is he?
+
+0xBA4C94E3 = ~z~This is not justified.
+
+0xBAE6ADD1 = ~z~
+
+0xBDE61B6F = ~z~Goddamn her to hell.
+
+0xC0E55136 = ~z~Get me Bob Crawfish. That's all you have to do.
+
+0xC0EE9A6D = ~z~Just do as you're told.
+
+0xC4BE14DC = ~z~They got me!
+
+0xC5A03B0B = ~z~But there ain't nothing I can do about this.
+
+0xC9EFB04C = ~z~~sl:0.0:3.0~And... I heard he has some hired guns.~sl:0.3~Get through them then take Mr. Crawfish and the rest... alive.
+
+0xC28AB674 = ~z~Not by any means necessary.
+
+0xC46DF95B = ~z~I regret the day I met those Arnsdales.
+
+0xC87341E5 = ~z~Listen.
+
+0xCB79373C = ~z~I'll settle things with your boss, but not like this.
+
+0xCC31D067 = ~z~
+
+0xCE35CC42 = ~z~No, but...
+
+0xCFE0511F = ~z~No!
+
+0xD051FF9F = ~z~Right on the tracks, it's important.
+
+0xD3A546ED = ~z~My sister...
+
+0xD7A39A18 = ~z~Please don't...
+
+0xD9A7D399 = ~z~Leave off! Come on.
+
+0xD36A57B6 = ~z~That's the right thing to do.
+
+0xD70F0D77 = ~z~Come on. Get us off of here?
+
+0xD613B787 = ~z~Get off!
+
+0xD3203ED0 = ~z~Enough of that.
+
+0xD3698F04 = ~z~Get me a boat.
+
+0xD27603E7 = ~z~Lay them on the trainline, if you please.
+
+0xDA2824CF = ~z~This is just a family dispute.
+
+0xDD635356 = ~z~Don't play around with me.
+
+0xDFF30278 = ~z~Hello Bob... old friend... nice to see you...
+
+0xE2DDA4B6 = ~z~Put them on the tracks.
+
+0xE4AE7BDB = ~z~Mr. Arnsdale.
+
+0xE5AA7CB3 = ~z~by any means necessary.
+
+0xE6A46CEB = ~z~We invested in them together.
+
+0xE6F20056 = ~z~and you will be handsomely paid.
+
+0xE6F61387 = ~z~This isn't the whole party.
+
+0xE9FD3ECB = ~z~Oh, come on. No?
+
+0xE12A21AD = ~z~Oh, thank you. Now get us off before something comes along.
+
+0xE13BF359 = ~z~Yes. Thanks.
+
+0xE23C2CA9 = ~z~There's riders in pursuit.
+
+0xE82FDBA7 = ~z~I'm got!
+
+0xE751DA03 = ~z~
+
+0xF2E1E692 = ~z~No... no... no!
+
+0xF3B118B4 = ~z~Get me Bob Crawfish and his closest associates...
+
+0xF7C820E2 = ~z~Get them and bring them to me...
+
+0xF10C505A = ~z~~sl:0.0:1.4~There's a train coming!~sl:0.9~Please!
+
+0xF52AC950 = ~z~On the tracks, please.
+
+0xF817B5CA = ~z~This isn't all of them, though, is it?
+
+0xF923A4B9 = ~z~Sheriff.
+
+0xF6192EC4 = ~z~Put 'em on the tracks. Come on.
+
+0xF7842F80 = ~z~Hello, Clinton.
+
+0xF50609AE = ~z~Where are they?
+
+0xFA087F58 = ~z~
+
+0xFA74820E = ~z~Look, I ain't gonna pretend I like you...
+
+0xFD595A0B = ~z~A train could come at any moment. Please?
+
+0xFDFF2CDF = ~z~Quite right.
+
+0xFFE3CF32 = ~z~Well? What are you waiting for?
+

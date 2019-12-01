@@ -1,0 +1,1050 @@
+0x000502F4 = ~z~A good man. He'll be at the meeting and he knows the true situation.
+
+0x018C0C8A = ~z~It ain't my business, brother.
+
+0x02F10666 = ~z~Yes, just leaving...
+
+0x0325D63C = ~z~and you'll do everything that you have to do, just fine.
+
+0x0335D550 = ~z~don't compromise...
+
+0x039B573B = ~z~Reverend?
+
+0x04CB0523 = ~z~~sl:0.4:4.9~Perhaps. There's an army captain, Lyndon Monroe,~sl:0.1~who was seconded here from a regiment in the North.
+
+0x06ECB16A = ~z~~sl:0.0:1.8~Do it! Shoot him!~sl:1.1~Don't let him get away!
+
+0x081DBEA9 = ~z~I, uh...
+
+0x084B4D6B = ~z~Open fire on them!
+
+0x0860FE8B = ~z~I-I can't die for a bunch of nonsense spouted by a fool.
+
+0x08697B60 = ~z~You're getting mighty sentimental, Reverend.
+
+0x08A0BF17 = ~z~~sl:0.0:2.4~He will be at the meeting and he is one person...~sl:~who knows the true situation, at least.
+
+0x0960C6BA = ~z~Out this way! Come on!
+
+0x09B0240A = ~z~Charles, Captain Monroe, mount up now. We're getting out of here.
+
+0x09B8C1D3 = ~z~you disrupted a negotiation...
+
+0x0A4F1EA4 = ~z~come on.
+
+0x0A6F1F51 = ~z~I'm a changed man, Arthur.
+
+0x0AC6934E = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+0x0B3C8442 = ~z~You're...
+
+0x0C2A9E6F = ~z~Go on, place is quiet, get outta here...
+
+0x0C8E9EB4 = ~z~Be grateful that for the first time...
+
+0x0C58EE35 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+0x0C67DF4C = ~z~Here we are. There's my men up ahead.
+
+0x0CFCE96B = ~z~To be able to say, look, you see how these savages behave?
+
+0x0DA93D63 = ~z~Over here, Arthur! Don't get split up!
+
+0x0DC42445 = ~z~You take it and get out of here, and...
+
+0x0E9187D9 = ~z~Listen, Mr., uh...
+
+0x0E535331 = ~z~I still have hope that we can come to... an agreement.
+
+0x0F79A2DE = ~z~What are you doing here?
+
+0x0F193EDC = ~z~Yes, yes, I'm... I'm sure they do.
+
+0x0F9951F7 = ~z~It certainly won't help our case today.
+
+0x1A64482C = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+0x1B7E655E = ~z~Let him go.
+
+0x1B95A1E1 = ~z~Yeah, they won't cause any trouble.
+
+0x1C954330 = ~z~Sure...
+
+0x1CB239E8 = ~z~I'll see you soon.
+
+0x1D0F4491 = ~z~I'm still a bad man.
+
+0x1D3E3F47 = ~z~Take a gamble that love exists...
+
+0x1E76BD6E = ~z~You can't worry about that now.
+
+0x1F0B6027 = ~z~Let's stay together, Arthur!
+
+0x1FA5DB69 = ~z~Thank you for doing this, both of you.
+
+0x2A54A391 = ~z~but in the time that you have left...
+
+0x2B128CCB = ~z~I think we're finally in the clear.~rp~ Everybody okay?
+
+0x2BD9EB3A = ~z~Look out, they're still coming!
+
+0x2BEE5BC7 = ~z~are you okay?
+
+0x2D9848F9 = ~z~but you're not all bad...
+
+0x2DE6025E = ~z~~sl:0.0:2.5~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+0x2E4A5A55 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0x2E5A0A09 = ~z~Arrest this man.
+
+0x2E281AB9 = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x2F330FF3 = ~z~I still have hope that we can come to an agreement.
+
+0x3A5D7A51 = ~z~What am I gonna do now?
+
+0x3AC5E485 = ~z~Men, please, hold your fire!
+
+0x3B66D477 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0x3B5092BE = ~z~I wish we could have done more to control the situation.
+
+0x3B7964BB = ~z~either.
+
+0x3CE0FDAC = ~z~Never better.
+
+0x3D2B7D40 = ~z~I still have hope that we can come to an agreement.
+
+0x3D38809B = ~z~what are you doing here?
+
+0x3E7C4DF4 = ~z~And the women? Little Jack?
+
+0x3E26DFAB = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+0x3EA5EE33 = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0x3F9F18B9 = ~z~
+
+0x3F82B570 = ~z~~sl:0.0:2.4~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+0x3FDDBE24 = ~z~~sl:0.0:3.2~How can I convince Eagle Flies and the others that they...~sl:0.1~shouldn't fight back?
+
+0x4A1AA56E = ~z~Chief Rains, the thing is...
+
+0x4A8CD382 = ~z~~sl:0.0:4.4~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+0x4A261496 = ~z~beating a man...
+
+0x4ADEC312 = ~z~You insult me...
+
+0x4C6169BE = ~z~he's very strange, recently.
+
+0x4C846910 = ~z~Okay.
+
+0x4CFA4DE8 = ~z~I wish we could have done more to control the situation.
+
+0x4D9B66AF = ~z~~sl:0.0:3.4~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for very much.
+
+0x4D7036FD = ~z~Ain't a problem.
+
+0x4E4D08A1 = ~z~Come on, we should get started.
+
+0x4EB6AAFB = ~z~I've changed...
+
+0x4ECBA98E = ~z~We're sitting ducks here!
+
+0x4F9D2793 = ~z~but maybe this time...
+
+0x5A9F863A = ~z~I tried to make Dutch see sense but he's...
+
+0x5B6D6423 = ~z~And did it want impudence, sir...
+
+0x5BAFC898 = ~z~Exactly.
+
+0x5C0AC123 = ~z~My momma died when I was a kid...
+
+0x5C54C0F2 = ~z~I believe so.
+
+0x5C310D77 = ~z~Go! Find some cover and protect Monroe.
+
+0x5D9DE890 = ~z~Was that it's plan too, sir?
+
+0x5E2CCC92 = ~z~~sl:0.0:2.9~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+0x5E5EA85D = ~z~All aboard!
+
+0x5EF00DE7 = ~z~Fight, and keep fighting.
+
+0x5FE8C5EE = ~z~Well, I'll be back.
+
+0x6B07DC39 = ~z~I'm leaving.
+
+0x6B5D437A = ~z~and look after yourself.
+
+0x6BCED15A = ~z~We got some on our tail!
+
+0x6BEFBB3C = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x6CD9CA9A = ~z~~sl:0.0:3.4~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for very much.
+
+0x6D59E373 = ~z~Here.
+
+0x6DA4C6E9 = ~z~Be well, Reverend.
+
+0x6DBF6775 = ~z~This is insanity!
+
+0x6DC188B9 = ~z~I am my government... their government.
+
+0x6DD864BE = ~z~and my daddy...
+
+0x6F1463BE = ~z~Perhaps you could help somebody?
+
+0x6FAFDFA9 = ~z~Yeah, I got TB.
+
+0x7AC6297F = ~z~Dutch shouldn't have gotten involved.
+
+0x7AD36146 = ~z~All aboard!
+
+0x7B0FE706 = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+0x7BDCC2EB = ~z~~sl:0.0:2.9~But when our people are sick and hungry...~sl:0.2~and we find our medicine and supplies are being deliberately withheld,
+
+0x7BF3FCB1 = ~z~I'm afraid.
+
+0x7C347225 = ~z~Look out behind, they're catching up!
+
+0x7CC6FB37 = ~z~You don't know you.
+
+0x7D8AE7D5 = ~z~I don't know about that.
+
+0x7D538E86 = ~z~They're still coming!
+
+0x7DBF7BC8 = ~z~I'm, uh...
+
+0x7E87CE0E = ~z~Running away?
+
+0x7F772C24 = ~z~~sl:1.3:4.0~I see that expecting you to understand my position,~sl:~as a representative of your government, is quite impossible.
+
+0x7FA02C78 = ~z~I still have hope that we can come to an agreement.
+
+0x8AE68F07 = ~z~~sl:0.0:2.7~But when our people are sick and hungry...~sl:~and we find our medicine and supplies are being deliberately withheld,
+
+0x8AE983C6 = ~z~I'm changed...
+
+0x8B3C1FE4 = ~z~You want us to keep the peace?
+
+0x8B90C4ED = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x8C3BD8E5 = ~z~Arthur! Get back to Monroe!
+
+0x8C4516DD = ~z~This way.
+
+0x8CCA6A93 = ~z~I'm leaving.
+
+0x8DBDBC27 = ~z~Listen... we're all Americans here... and, we... want an outcome,
+
+0x8E1B9DE0 = ~z~You don't know me.
+
+0x8E867AB5 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+0x8EF5B1CA = ~z~More behind us!
+
+0x8FECB35E = ~z~More incoming!
+
+0x9A9C005D = ~z~~sl:0.0:3.3~How can I convince Eagle Flies and the others that...~sl:0.5~they shouldn't fight back?
+
+0x9A19FF65 = ~z~~sl:0.0:3.1~I just hope Colonel Favours can be reasoned with.~sl:0.4~I am not asking for any special treatment.
+
+0x9A34E19F = ~z~This... this was my land. These are my people.
+
+0x9A75C84D = ~z~~sl:0.0:3.0~How can I convince Eagle Flies and the others that...~sl:0.6~they shouldn't fight back?
+
+0x9B0884EB = ~z~a fighter...
+
+0x9B71C470 = ~z~I-I tried to make Dutch see sense but he's...
+
+0x9B258745 = ~z~what are you doing here?
+
+0x9C98B9B7 = ~z~Perhaps.
+
+0x9D934D75 = ~z~~sl:0.0:2.8~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+0x9E38C689 = ~z~Come on, Arthur!
+
+0x9EA8C6BD = ~z~but I feel with some non-tribe members present...
+
+0x9ED3152E = ~z~Thank you for doing this, both of you. You have already done so much.
+
+0x12EC76D1 = ~z~I told them to run, too...
+
+0x13DD98A3 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+0x14AD33CD = ~z~I won't die over some nonsense spouted by a fool.
+
+0x15E8DFA2 = ~z~Follow me!
+
+0x18A25E7A = ~z~To be able to say, look, you see how these savages behave?
+
+0x18A72B0C = ~z~They're coming after us!
+
+0x19C1399C = ~z~No, let's not get over sentimental.
+
+0x19C27090 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+0x20BD1276 = ~z~You're leaving them?
+
+0x24B277D2 = ~z~I...
+
+0x24CBEBB7 = ~z~Find a lull, then make for the valley!
+
+0x26A0E094 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+0x26AB9C3F = ~z~you'll die your way...
+
+0x26CFDF97 = ~z~We need to leave now.
+
+0x28A5FEA1 = ~z~Gross insubordination.
+
+0x30C2CAC4 = ~z~I swore an oath!
+
+0x35A6D6CE = ~z~You do see.
+
+0x39BC4380 = ~z~Reverend...
+
+0x40BA870B = ~z~Helping makes you really happy.
+
+0x40EA77E7 = ~z~You're a gentleman with limits?
+
+0x43D1BB77 = ~z~This way!
+
+0x43E19551 = ~z~You're leaving them?
+
+0x46BF168C = ~z~I had a girl who loved me...
+
+0x47C4FA3F = ~z~
+
+0x49B00976 = ~z~Come this way, buddy.
+
+0x49BE1846 = ~z~I guess I...
+
+0x50CC424D = ~z~So, let me be very...
+
+0x52C6ABAA = ~z~No you won't, let's not pretend no more.
+
+0x53A837A4 = ~z~Josiah.
+
+0x55CBB2D4 = ~z~Sir.
+
+0x55D0E20C = ~z~~sl:0.0:2.5~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+0x56AE057C = ~z~Hold your fire!
+
+0x56F19AA3 = ~z~I do.
+
+0x57BA258A = ~z~I said, “are you being facetious”, Captain Monroe?
+
+0x57DD5E1B = ~z~You had those vaccines stolen...
+
+0x57F2B02F = ~z~Okay...
+
+0x58B7F8A1 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x58B1344B = ~z~Sent by Washington.
+
+0x59BCB763 = ~z~Meet me at the reservation.
+
+0x60B8293B = ~z~My horse!
+
+0x60E2ADCC = ~z~Over this way. Is there a problem, Mr Morgan?
+
+0x64AA5CDA = ~z~Here come more of them!
+
+0x67FBC60D = ~z~No, sir, I am not.
+
+0x68B6055F = ~z~Thank you for doing this, both of you. You have already done so much.
+
+0x68ED22D5 = ~z~I'm running away.
+
+0x69D9587C = ~z~There is nothing to be afraid of, Mr. Morgan.
+
+0x70C84C45 = ~z~Well, I should hope not.
+
+0x71A41094 = ~z~Oh, is that so, sir?
+
+0x72B1ECA0 = ~z~Mr. Morgan.
+
+0x72EDEE34 = ~z~Why could he possibly want to humiliate us further?
+
+0x76A16358 = ~z~Someone...
+
+0x80AC8542 = ~z~But avoid Guarma.
+
+0x82E10A8B = ~z~but then, I meet someone like you...
+
+0x85BD895A = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+0x86A2136D = ~z~Meet you back at camp.
+
+0x87AEC5FE = ~z~~sl:0.0:1.7~I heard them talking...~lr:0.6:2.5~They was gonna have you hanged for treason.~sl:~You can't die for those fools.
+
+0x87D216A8 = ~z~I am sorry to impose on you again...
+
+0x87E66C4E = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+0x88DB9DB1 = ~z~How did this go so wrong?
+
+0x88E13F0E = ~z~and that the treaty had not been broken by anybody.
+
+0x89D3E28E = ~z~That's all I am...
+
+0x89F14B5A = ~z~Come on!
+
+0x90B62635 = ~z~Often neither do I...
+
+0x90BA255D = ~z~Where?
+
+0x91B98858 = ~z~More of them!
+
+0x91C1B22E = ~z~Behind us!
+
+0x91FFF9E1 = ~z~~sl:0.0:4.3~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+0x93ED2E03 = ~z~Meet me at the reservation.
+
+0x94AFB063 = ~z~How can I help you?
+
+0x95A038CD = ~z~And the women? Little Jack?
+
+0x95A0CD54 = ~z~Arthur, get over here!
+
+0x97E7B93B = ~z~their chances of lying or worse will be reduced.
+
+0x99BE3D94 = ~z~Arthur! Let's go!
+
+0x123ABE1E = ~z~I can't shoot at these men.
+
+0x133D39CD = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0x155D4CDA = ~z~What's our plan here?
+
+0x212AF51A = ~z~I will find a way to help him, I promise you.
+
+0x264A180D = ~z~~sl:0.0:1.3~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0x271F5458 = ~z~You've been a fine friend to me.
+
+0x289B59F3 = ~z~start a new life somewhere.
+
+0x314C699A = ~z~Mr. Morgan.
+
+0x315E96B1 = ~z~My son has a mind of his own... too much so, in fact.
+
+0x346DE926 = ~z~I got it...
+
+0x400C3D3E = ~z~Hello.
+
+0x407F2DF8 = ~z~This way. I also have some men meeting me there.
+
+0x448A0F31 = ~z~Get outta here.
+
+0x461EBA9E = ~z~Are you mad?
+
+0x483E17B9 = ~z~How are you?
+
+0x504B0C36 = ~z~You too, Arthur.
+
+0x527DA6A5 = ~z~that's the problem.
+
+0x560B595F = ~z~from a junior officer in public?
+
+0x581D245E = ~z~~sl:0.0:1.3~You know what they say about him.~sl:0.2~High-tail Favours. The man who missed a battle.
+
+0x624AF1CA = ~z~A good man. He'll be at the meeting and he knows the true situation.
+
+0x626FC8C9 = ~z~Forget about it.
+
+0x647BE37D = ~z~We'll do what we can.
+
+0x673CD7E2 = ~z~my men are not allowed to carry arms.
+
+0x676E5C6A = ~z~very strange, recently.
+
+0x685FFF20 = ~z~Disobeying an order.
+
+0x714F32A5 = ~z~Be true to yourself, Mr. Morgan...
+
+0x741EFBEB = ~z~~sl:0.0:2.7~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for very much.
+
+0x743A7602 = ~z~I told them to run, too...
+
+0x770C017A = ~z~~sl:0.0:2.7~But when our people are sick and hungry...~sl:~and we find our medicine and supplies being deliberately withheld,
+
+0x827CBB9A = ~z~And what about the chief?
+
+0x836BD6DE = ~z~Good luck out there.
+
+0x843A90C1 = ~z~Colonel Favours has agreed to a meeting...
+
+0x846AA4F5 = ~z~how can we not view that as something personal?
+
+0x878DC5C0 = ~z~You get out of here... fast.~rp~ We'll take you to the station.
+
+0x882B8995 = ~z~~sl:0.0:3.2~How can I convince Eagle Flies and the others that they...~sl:0.1~shouldn't fight back?
+
+0x894AA5F7 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.6~When they destroy our sacred sites?
+
+0x902AB191 = ~z~I-I'll be fine.
+
+0x934DA6E4 = ~z~I'm dying, Sister.
+
+0x940A9D7F = ~z~Removes how?
+
+0x940CB855 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x952E32A8 = ~z~Now, he has lied to me more times than I care to remember...
+
+0x963D1929 = ~z~your journey, your path, will be just fine.
+
+0x986BD183 = ~z~but quite frankly... quite frankly, I-I'm confused.
+
+0x1042A9F7 = ~z~Will you, Arthur?
+
+0x1229EB86 = ~z~~sl:0.0:2.1~He will be at the meeting and is one person...~sl:~who knows the true situation, at least.
+
+0x1280D36F = ~z~This is all getting out of hand.
+
+0x1521D799 = ~z~you insult the regiment.
+
+0x2078CE7C = ~z~I asked them to come with me and they wouldn't.
+
+0x2474BEFC = ~z~Jackson, take him away.
+
+0x2911A739 = ~z~Damn it, more on the left! Head for the trees, we're penned in!
+
+0x3546F0A7 = ~z~I'll miss you, Arthur.
+
+0x3564FC03 = ~z~Sure.
+
+0x5110A2A8 = ~z~This is all pretty much over.
+
+0x6561B578 = ~z~~sl:0.8:0.0~Interesting looking fellows...
+
+0x6568CE65 = ~z~I'll kill you!
+
+0x7381EF4C = ~z~You have?
+
+0x7512F42A = ~z~Do it for me?
+
+0x7807F3F9 = ~z~Meet you back at camp.
+
+0x8501EBB8 = ~z~Why is this so confusing, sir?
+
+0x9437B273 = ~z~You should have him do your negotiations.
+
+0x9463A6A6 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+0x9775DC21 = ~z~~sl:0.6:2.3~That's not really the point here, sir.~sl:0.6~Get that through your skull.
+
+0x9859B25C = ~z~Forgive me, but...
+
+0x12492A29 = ~z~you see your life clearly.
+
+0x15407A85 = ~z~and leave the lies and the hypocrisy to fools like me.
+
+0x17020BAE = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+0x34097A0A = ~z~Arthur, let's go!
+
+0x38585D6D = ~z~but you'll do what's right.
+
+0x44302EF2 = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0x47822FB9 = ~z~~sl:0.0:5.0~But... I pride myself on being a gentleman. Really, I do.~sl:1.0~But there are limits.
+
+0x59293B60 = ~z~I threw that away.
+
+0x62084C69 = ~z~he must want peace.
+
+0x64934EBC = ~z~Sure.
+
+0x69043EC8 = ~z~I've felt that way for a long time about myself I mean, but...
+
+0x77285C44 = ~z~I asked them to come with me, but they wouldn't.
+
+0x82628DD2 = ~z~whenever we happen to meet, you're always helping people and smiling.
+
+0x87345F63 = ~z~I suppose so, yes.
+
+0x90742B59 = ~z~I know, son...
+
+0x96908EDD = ~z~Why?
+
+0x186286AC = ~z~~sl:0.0:2.7~Maybe that's part of the reason they're doing these things...~sl:0.5~because they want you to fight.
+
+0x198220CD = ~z~well you're, you're not a good man, Arthur...
+
+0x394503C3 = ~z~It's quite a cough.
+
+0x436610D1 = ~z~Charles, I got...
+
+0x549016EC = ~z~Everything will be...
+
+0x561816E5 = ~z~They're, uh, friends of my people.
+
+0x662765FE = ~z~Yes, but we can.
+
+0x851814A1 = ~z~like a warrior...
+
+0x866416CC = ~z~You owe this man.
+
+0x1234861F = ~z~that it wanted peace, and peace for all...
+
+0x2989634C = ~z~~sl:0.0:4.4~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+0x4257185C = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being deliberately withheld,
+
+0x4631104C = ~z~Mr. Morgan...
+
+0x5860358A = ~z~You're too smart for me, Sister...
+
+0x7503736F = ~z~Perhaps I could make one last request...
+
+0x8247500A = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+0x8557983C = ~z~I'm running away.
+
+0x9554614D = ~z~~sl:0.0:0.9~Not really...~lr:1.2~what do we do now?
+
+0x18062295 = ~z~I still have hope that we can come to an agreement.
+
+0x31235859 = ~z~Where was I?
+
+0x64905839 = ~z~I don't wanna kill this man... but shall!
+
+0x66395677 = ~z~But it is mine.
+
+0x72181294 = ~z~Treason.
+
+0x89438371 = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0x95616163 = ~z~~sl:0.0:2.0~I can't believe that just happened.~lr:1.0~I've been an army man my whole life.
+
+0xA01FACFE = ~z~Save who you can and let the rest rot...
+
+0xA04A6725 = ~z~~sl:0.0:5.3~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+0xA04BA253 = ~z~The lands you currently occupy...
+
+0xA078A5D6 = ~z~Just hold!
+
+0xA0C447B1 = ~z~Reverend?
+
+0xA0D70CDF = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+0xA0E7CDC9 = ~z~This was meant to be a truce!
+
+0xA4E248CF = ~z~~sl:0.0:2.1~He will be at the meeting and is one person...~sl:~who knows the true situation, at least.
+
+0xA6BCD686 = ~z~I had a son...
+
+0xA7BE61CB = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0xA8C9E572 = ~z~We got more coming in!
+
+0xA8C959DE = ~z~his alleged grievances and mine.
+
+0xA8ECC198 = ~z~~sl:0.0:2.6~Maybe that's part of the reason they're doing these things...~sl:0.3~because they want you to fight.
+
+0xA23C39E2 = ~z~~sl:0.0:1.8~Favours wants him tried for treason...~sl:0.7~and hanged.
+
+0xA48D51D9 = ~z~I hear Tahiti's nice.
+
+0xA55CDBF5 = ~z~I'll fetch you some water.
+
+0xA502A7B5 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+0xA7663A6B = ~z~You lived your life like a man, Arthur...
+
+0xA38344E5 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0xA202444D = ~z~Brother Dorkins is very jealous.
+
+0xA6405149 = ~z~and everything makes sense.
+
+0xA9775497 = ~z~we all sin...
+
+0xAA6223AA = ~z~So be it.
+
+0xAAB10C4C = ~z~Let's go! Captain Monroe, you're with me!
+
+0xAADBC9DA = ~z~Poor Monroe... I kind of liked him.
+
+0xAB4D6006 = ~z~We got words for his kind, but they're colloquial.
+
+0xAC0F6236 = ~z~We need to move!
+
+0xAC560B82 = ~z~I wish we could have done more to control the situation.
+
+0xAD76C79C = ~z~Maybe.
+
+0xAD7937E7 = ~z~~sl:0.0:1.6~Dutch shouldn't have gotten involved,~sl:~and now Eagles Flies is under arrest.
+
+0xAE7EC89C = ~z~Good luck out there.
+
+0xAE99E35C = ~z~Reverend...
+
+0xAE565D32 = ~z~What do you mean?
+
+0xAEEF61C7 = ~z~Just hop on a train to Saint Denis, jump on a boat...
+
+0xAF6D5444 = ~z~Why does... Favours care about the Indians?
+
+0xB034E0B2 = ~z~What's wrong?
+
+0xB09DA1A8 = ~z~Arthur! Stay with Monroe!
+
+0xB1FAC0EA = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0xB2D9F024 = ~z~and I know that you will face your destiny like a man...
+
+0xB3C8544F = ~z~Maybe.
+
+0xB3E51E56 = ~z~To be able to say, look, you see how these savages behave?
+
+0xB4A89686 = ~z~I have been appointed to negotiate a new treaty. That treaty will grant you new lands.
+
+0xB4AF726B = ~z~he passed away.
+
+0xB6B47962 = ~z~Favours wanted this to happen.
+
+0xB9D5FBF7 = ~z~but I believe I've made progress brokering peace.
+
+0xB90A8318 = ~z~Rains Fall.
+
+0xB94F3DC3 = ~z~~sl:0.0:3.0~how can we not view that as something personal?~sl:0.7~When they destroy our sacred sites?
+
+0xB331D265 = ~z~Hurry, I don't think we should keep them waiting.
+
+0xB476EFF1 = ~z~Sir.
+
+0xB642F544 = ~z~Thank you.
+
+0xB976B07C = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0xB2327DDE = ~z~
+
+0xB5820BAF = ~z~Your men are... little more than criminals, in my opinion.
+
+0xB7077F4A = ~z~Wait here...
+
+0xB83370EC = ~z~Well...
+
+0xB3386819 = ~z~but I know you.
+
+0xB6101372 = ~z~Come on! Follow me!
+
+0xBA395F2A = ~z~~sl:0.5:3.2~Colonel Favours... Captain Monroe,~sl:0.1~we come in peace.
+
+0xBB4C6CAD = ~z~Are you being facetious, sir?
+
+0xBB341287 = ~z~Dutch should not have gotten involved.
+
+0xBBE18237 = ~z~My path is coming to an end, Reverend.
+
+0xBBF4C6CF = ~z~You lived your way...
+
+0xBCA76741 = ~z~I'm a changed man, Arthur.
+
+0xBDA7F0B9 = ~z~Because he doesn't want to back down... his whole professional life...
+
+0xBDE00158 = ~z~Life is full of pain...
+
+0xBDF95DAA = ~z~Charles...
+
+0xBE772AB9 = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+0xBEED84DE = ~z~Found a friend looking for you.
+
+0xBF4BF3F1 = ~z~~sl:0.0:6.8~No, no. You know he's going to have Monroe... court martialled. Or, attempt to...~sl:1.1~he's going to make a disgrace of him.
+
+0xBF5C08BB = ~z~I've saved your life.
+
+0xBFB7F392 = ~z~~sl:0.0:0.7~I know...~sl:0.9~well still, he's kinda stuck up.
+
+0xBFD8FEC0 = ~z~~sl:0.0:3.6~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+0xC08D4FF4 = ~z~because that's what you are.
+
+0xC0981325 = ~z~Time to get out of here, come on.
+
+0xC0E0422D = ~z~Don't leave Monroe!
+
+0xC1A54053 = ~z~Dutch should not have gotten involved.
+
+0xC3C00ADE = ~z~You son of a bitch!
+
+0xC3E8F370 = ~z~Sure.
+
+0xC4BEFBFD = ~z~Thank you.
+
+0xC4C192F2 = ~z~No, I know.
+
+0xC4CB0B3E = ~z~I've lived a bad life, Sister.
+
+0xC4F912B0 = ~z~Get out of here, Captain Monroe.
+
+0xC5EAB90A = ~z~Your men violated the treaty. That treaty is null, and void.
+
+0xC6BD0DC2 = ~z~Well, I'm on my way down to Mexico...
+
+0xC6D31091 = ~z~To be able to say, look, you see how these savages behave?
+
+0xC7CFFA57 = ~z~~sl:0.0:0.8~Hello again.~sl:1.6~Who are these two?
+
+0xC7E1C299 = ~z~Thank you for doing this, both of you.
+
+0xC9FA1479 = ~z~if I was you, I'd disappear too.
+
+0xC73F7036 = ~z~I'm afraid the Federal Government was quite clear, Colonel...
+
+0xC83DC341 = ~z~how can we not view that as something personal?
+
+0xC743AF32 = ~z~Keep breaking peace treaties... we've made. Causing disturbances in everybody's lives.
+
+0xC1038F97 = ~z~Yeah, I suppose so, I'm...
+
+0xC119147C = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.2~and we find our medicine and supplies are being deliberately withheld,
+
+0xC1881957 = ~z~I wish we could have done more to control the situation.
+
+0xCA81FDBB = ~z~~sl:0.0:2.8~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0xCAC4A319 = ~z~Running away?
+
+0xCADC26BB = ~z~That's, uh...
+
+0xCAE02034 = ~z~I ain't changed...
+
+0xCB041C30 = ~z~and do a loving act.
+
+0xCB2D28A4 = ~z~~sl:0.0:3.5~I just hope Colonel Favours can be reasoned with.~sl:0.3~I am not asking for very much.
+
+0xCBEBDF0B = ~z~~sl:0.0:3.6~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+0xCC12F9E1 = ~z~belong to the United States Government.
+
+0xCC406872 = ~z~We'll see.
+
+0xCD340FD1 = ~z~Monroe? Seems likeable enough for a West Pointer, why?
+
+0xCD1984F2 = ~z~~sl:0.8:0.0~Chief.
+
+0xCD15212D = ~z~I hope so.
+
+0xCE1C06C6 = ~z~If we were all like you things might have turned out differently.
+
+0xCE6A53BE = ~z~Okay, it's now or never!
+
+0xCE43EB6D = ~z~a killer...
+
+0xCEE127C5 = ~z~Do it for me.
+
+0xCF8C8ED3 = ~z~~sl:0.0:4.4~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+0xCF359D79 = ~z~~sl:0.0:2.9~How can I convince Eagle Flies and the others that...~sl:~they shouldn't fight back?
+
+0xD00EA5B5 = ~z~but there is also love and beauty.
+
+0xD025DDD6 = ~z~~sl:0.0:2.4~He will be at the meeting and he is one person...~sl:~who knows the true situation, at least.
+
+0xD077044D = ~z~~sl:0.0:4.3~Perhaps. Captain Monroe will be at the meeting...~sl:~and he knows the true situation, at least.
+
+0xD1C52F83 = ~z~I am sorry, Mr. Morgan, I cannot kill these men!
+
+0xD2BBAB92 = ~z~Found a friend looking for you.
+
+0xD3F1E4EC = ~z~I wish we could have done more to control the situation.
+
+0xD3FA1134 = ~z~They're trying to kill you!
+
+0xD5ABAEB5 = ~z~Get off me!
+
+0xD6CFC9BE = ~z~~sl:0.0:2.7~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for very much.
+
+0xD6FF1BC8 = ~z~I understand.
+
+0xD7A886D8 = ~z~It certainly won't help our case today.
+
+0xD9E3C615 = ~z~~sl:0.0:4.2~Ain't a problem. Just hope nobody recognizes me.~sl:~I've had a few run-ins with the army recently.
+
+0xD47FF87E = ~z~I still have hope that we can come to an agreement.
+
+0xD74E9754 = ~z~~sl:0.0:4.9~Perhaps. There's an army captain, Lyndon Monroe,~sl:~who was seconded here from a regiment in the North.
+
+0xD80CBCC5 = ~z~I wouldn't think so...
+
+0xD94C45F9 = ~z~~sl:0.0:3.5~I just hope Colonel Favours can be reasoned with.~sl:0.6~I am not asking for any special treatment.
+
+0xD488A959 = ~z~they're finally sending me on a mission.
+
+0xD705AFB3 = ~z~We've all lived bad lives, Mr. Morgan...
+
+0xD786B7CB = ~z~I fear it may be Mr. Monroe from now on.
+
+0xD942B8AD = ~z~All aboard!
+
+0xD8888D9D = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+0xD34525E9 = ~z~Feeling better?
+
+0xD97514A1 = ~z~Good day, Colonel Favours.
+
+0xDA79AA5C = ~z~You know what Favours is like... because he thinks it's right.
+
+0xDB57A359 = ~z~I'm worried my path is coming to an end, Mr. Swanson.
+
+0xDB274247 = ~z~I knew this was a mistake.
+
+0xDBAF0CE2 = ~z~~sl:0.0:2.7~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0xDBE5A259 = ~z~and you turned into a good man.
+
+0xDC964A2F = ~z~Chief Rains...
+
+0xDD3E398A = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0xDDDC4080 = ~z~I still don't believe in nothing.
+
+0xDDF4C4F9 = ~z~What you mean?
+
+0xDEE80DC1 = ~z~I don't have to see, I know you.
+
+0xDF8C2A25 = ~z~
+
+0xDF608A3B = ~z~~sl:0.0:2.4~But when our people are sick and hungry...~sl:0.3~and we find our medicine and supplies are being... deliberately withheld,
+
+0xE000D648 = ~z~It certainly won't help our case today.
+
+0xE02CC201 = ~z~to death...
+
+0xE0718FC8 = ~z~and a crazy man.
+
+0xE0A5C766 = ~z~Thank you, Arthur.
+
+0xE0C92D93 = ~z~Mr. Morgan, it's time.
+
+0xE2BC4FEC = ~z~I know...
+
+0xE2D2A231 = ~z~~sl:0.0:3.9~But when our people are sick and hungry and we find our medicine...~sl:~and supplies are being deliberately withheld,
+
+0xE3A367F1 = ~z~~sl:0.0:4.3:1~Yes, uh, Mr... I can't... say that silly name.
+
+0xE3F1D1E6 = ~z~Let's go.
+
+0xE5E72355 = ~z~I will find a way to help him, I promise you.
+
+0xE7A44FCD = ~z~I, um, I was, uh...
+
+0xE8E5274E = ~z~~sl:0.0:3.7~How can I convince Eagle Flies and the others...~sl:~that they shouldn't fight back?
+
+0xE8F26E03 = ~z~My son has a mind of his own... too much so, in fact.
+
+0xE13A2DF6 = ~z~You just can't quite admit it to yourself.
+
+0xE19DBF1D = ~z~
+
+0xE98A8014 = ~z~I wasn't sure if you'd be able to help.
+
+0xE99F5966 = ~z~I shall try.
+
+0xE165C863 = ~z~and it weren't soon enough.
+
+0xE624B589 = ~z~I can't do it!
+
+0xE890C68A = ~z~~sl:0.0:3.3~Because he thinks Monroe is a patsy, or a spy.~sl:0.3~He's convinced he had something to do with those vaccines getting stolen...
+
+0xE1034EB2 = ~z~~sl:0.0:0.8~I...~sl:1.8~guess I won't be submitting my report.
+
+0xE5142BDF = ~z~Well, that was remarkably unproductive...
+
+0xE72751AC = ~z~You won't get away with this!
+
+0xEA3681A3 = ~z~Sent by Washington, apparently.
+
+0xEB00D18B = ~z~~sl:0.0:2.5~Maybe that's part of the reason they're doing these things...~sl:0.4~because they want you to fight.
+
+0xEB445D8B = ~z~A little better.
+
+0xED5FE6B8 = ~z~They're trying to surround us.
+
+0xEDAF5ABD = ~z~~sl:0.0:1.2~Yeah, come on.~sl:0.5:0.7:1~Let's go.
+
+0xEDD4F228 = ~z~Thank you for doing this, both of you. You have already done so much.
+
+0xEE5762C9 = ~z~you go with my blessing.
+
+0xEEBC41D8 = ~z~Hop on, Captain. We sure as hell don't want to hang around here.
+
+0xEF9FE9B3 = ~z~Maybe your path isn't changing, Arthur.
+
+0xF01BE947 = ~z~I don't know, but...
+
+0xF5E31A34 = ~z~Captain Monroe, let's get out of here.
+
+0xF5FBF442 = ~z~to discuss, and maybe resolve...
+
+0xF7CF6507 = ~z~~sl:0.0:4.8~He thinks, Monroe is gonna force him into making a concession with the Indians.~sl:0.7~So he removes Monroe.
+
+0xF7D175CA = ~z~I know you will.
+
+0xF7DEE5D1 = ~z~You okay, man?
+
+0xF8FE4983 = ~z~I wish we could have done more to control the situation.
+
+0xF15E6341 = ~z~Leaving again?
+
+0xF39B6CCE = ~z~My husband died a long time ago.
+
+0xF72F1C34 = ~z~~sl:0.0:3.9~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+0xF145EB49 = ~z~I'm sorry about your career.
+
+0xF482F270 = ~z~Yeah, it'll be a lot of dull talking and ceremony...
+
+0xF795D86B = ~z~Come on, Captain! Can you shoot?
+
+0xF2052F84 = ~z~~sl:0.0:2.4~how can we not view that as something personal?~sl:0.5~When they destroy our sacred sites?
+
+0xF6661A22 = ~z~Arrest me?
+
+0xF9189D17 = ~z~If I were you I'd keep my mouth shut, amigo...
+
+0xF63382A9 = ~z~I will find a way to help him, I promise you.
+
+0xF272668C = ~z~for a few bucks.
+
+0xF2772206 = ~z~My son has a mind of his own... too much so, in fact.
+
+0xF6237475 = ~t~In Lakota: These men are our friends... come on... let's go.
+
+0xFB2A4BD8 = ~z~~sl:0.0:2.9~I just hope Colonel Favours can be reasoned with.~sl:0.5~I am not asking for very much.
+
+0xFB9728BC = ~z~To be able to say, look, you see how these savages behave?
+
+0xFC0480C6 = ~z~Here's some money.
+
+0xFC97E4B1 = ~z~We'll see.
+
+0xFC8399B1 = ~z~~sl:0.3:2.5:1~In English they call me Rains Fall.
+
+0xFCB44F04 = ~z~~sl:0.0:4.7~Ain't a problem. Just hope nobody recognizes me.~sl:0.3~I've had a few run-ins with the army recently.
+
+0xFD4C7F60 = ~z~But...
+
+0xFD9A6DBE = ~z~To be able to say, look, you see how these savages behave?
+
+0xFDF4B973 = ~z~~sl:0.0:3.9~Perhaps. Thank you for helping Captain Monroe...~sl:~to retrieve those vaccines, Arthur.
+
+0xFF9E8848 = ~z~well, I watched him die...
+

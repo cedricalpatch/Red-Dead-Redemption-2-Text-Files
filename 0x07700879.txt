@@ -1,0 +1,18 @@
+0x0889DBE6 = ~z~He's only a boy, he ain't even half grown!
+
+0x7E80C7DA = ~z~
+
+0x13F85CCE = ~z~You ain't no better, neither.
+
+0x19A37E19 = ~z~He'll be alright.
+
+0x90C5EC64 = ~z~We'll get him back, I promise.
+
+0x54554F3C = ~z~Just leave me alone.
+
+0x710316AE = ~z~~sl:0.0:2.9:1~A gang of supposed 'strong men', you can't protect one boy!
+
+0xA4FC94CD = ~z~~sl:0.0:2.3~If they so much as put one bruise on him I swear,~sl:~I'll bring the fires of hell on 'em myself.
+
+0xB6213716 = ~z~Ain't like nobody else around here's up for the task!
+

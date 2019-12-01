@@ -1,0 +1,134 @@
+0x0425E0B6 = ~z~Hey there yourself.
+
+0x09156295 = ~z~Hold it right there!
+
+0x0C7F168D = ~z~Okay, okay!
+
+0x0E5CA85E = ~z~This does not bode well. Driver, hurry on!
+
+0x1C7CFB93 = ~z~I'm not! I swear!
+
+0x1CA5804D = ~z~I'm not! I swear!
+
+0x1FEFA369 = ~z~I'm taking us as... gently... as I can, sir.
+
+0x2A1816C9 = ~z~You better not be lying to me...
+
+0x2D9C7676 = ~z~I see you move before I'm gone, I'll pull a bullet in you.
+
+0x3D235DD0 = ~z~It may be with these roads, sir.
+
+0x4A4CD2AC = ~z~What?
+
+0x4AEFE486 = ~z~Can't go any faster!
+
+0x4D8DC63E = ~z~Hey, just back off a bit will you?
+
+0x6CA140D2 = ~z~Hey there.
+
+0x6F02A08D = ~z~Okay! Okay! Stop! I'll tell you...
+
+0x8D24975F = ~z~Me? Maybe it's you he's after!
+
+0x8FC6140F = ~z~You stay right there, you hear me?
+
+0x9E330376 = ~z~You better not be lying to me...
+
+0x10A2C5DF = ~z~Please... no...
+
+0x18F19914 = ~z~You may as well tell me, save yourself some pain.
+
+0x36CC8B6D = ~z~Get your hands up and keep 'em there! I just want a word with your passenger.
+
+0x36F62240 = ~z~Hey, okay! Don't shoot. I just drive the coach.
+
+0x37C5B224 = ~z~There's a lock box hidden under the coach. The money's in there.
+
+0x61B3E30A = ~z~Faster, dammit, faster! We've got a madman after us!
+
+0x62A69112 = ~z~Yah! Yah! Move it!
+
+0x86C035FE = ~z~I know about the money. Hand it over!
+
+0x89CE30F6 = ~z~Please! No!
+
+0x95E09CF7 = ~z~You leave me alone!
+
+0x98A0349E = ~z~Please. This man means nothing to me!
+
+0x3049F23D = ~z~Where is it? I can do this all day, pal.
+
+0x4630DB08 = ~z~Faster, faster! Go on!
+
+0x6716B1B6 = ~z~I don't want your excuses. This is your job, so do it.
+
+0x7557CE82 = ~z~I don't know what you're talking about!
+
+0x9100D3B5 = ~z~You say anything to the law... I'll come find you. Don't make me regret letting you live.
+
+0x53478A18 = ~z~Yes, sir.
+
+0x66562A69 = ~z~Hey, you're gonna need to move out of the way.
+
+0x86512F0F = ~z~Okay! He's all yours!
+
+0x88544F98 = ~z~Listen. I've been told to shoot at anyone trailing me.
+
+0x123407F2 = ~z~No need for that tone. You're well enough paid. A smooth ride is not too much to ask.
+
+0x865153ED = ~z~I see you move before I'm gone, I'll pull a bullet in you.
+
+0x883738E4 = ~z~I don't know what you're talking about!
+
+0x2649822D = ~z~Hey there.
+
+0x49043559 = ~z~God, we're being robbed!
+
+0x99942178 = ~z~You stay right there, you hear me?
+
+0xA319AA05 = ~z~I know about the money. Hand it over!
+
+0xA1418094 = ~z~Hey! Anyone there? You need to move!
+
+0xAB62E879 = ~z~Please... no...
+
+0xAE5A2486 = ~z~Hold it right there!
+
+0xAE5B066C = ~z~Ignore him! Keep moving.
+
+0xAF74B3D3 = ~z~Dammit, come on! Hyah!
+
+0xB7AC603E = ~z~Last chance. Give me something worthwhile or you won't like what happens next.
+
+0xB56DC0DB = ~z~Oh, God! Somebody! Help!
+
+0xBB6273DA = ~z~Why's he after you?
+
+0xBC743FF8 = ~z~There's a lock box hidden under the coach. The money's in there.
+
+0xBD910584 = ~z~I understand.
+
+0xBDF94C69 = ~z~Last chance. Give me something worthwhile or you won't like what happens next.
+
+0xBEFEA298 = ~z~Where is it? I can do this all day, pal.
+
+0xCA3DDB8B = ~z~Okay! Okay! Stop! I'll tell you...
+
+0xCBE54F68 = ~z~Why are you doing this?
+
+0xD05069AE = ~z~You say anything to the law... I'll come find you. Don't make me regret letting you live.
+
+0xD089DF24 = ~z~Where's the driver...
+
+0xD2EDBC2F = ~z~Hey! Stop the coach!
+
+0xDB740DB9 = ~z~Hey! Stop the coach!
+
+0xE4E91595 = ~z~Damn horse. Out of the way!
+
+0xEB648546 = ~z~You may as well tell me, save yourself some pain.
+
+0xF78E5E7C = ~z~Get your hands up and keep 'em there! I just want a word with your passenger.
+
+0xF5994EBD = ~z~These damn roads are hell on my back. Could you please control your horse?
+

@@ -1,0 +1,40 @@
+0x3CD1C513 = ~z~Well, I didn't quite understand what the woman was saying,
+
+0x6E74A858 = ~z~Almost perverse... seems polar opposite of romantic.
+
+0x7FAC1FAC = ~z~Well, if they massacred people, they deserved to be cursed.
+
+0x13AF9EB4 = ~z~You believe in curses, Arthur?
+
+0x35E3A9DE = ~z~I didn't really get it.
+
+0x39A3BEB7 = ~z~What's Valentines curse?
+
+0x44A854B0 = ~z~No... I wonder why they called it Valentine?
+
+0x69B5F3C8 = ~z~'Course.
+
+0x83DB5325 = ~z~A curse? Now nothing's more romantic than a curse.
+
+0x91EA4428 = ~z~and a last surviving Indian cursing the county.
+
+0x178E6D34 = ~z~But what was it? W-was it just bad luck or bad weather or something else?
+
+0x275D1A2A = ~z~entire country turned into morons... curses everywhere.
+
+0x809ABF4B = ~z~Well I think it sounds very interesting.
+
+0x4331C47A = ~z~Something about an Eagle or an Owl and a grave site...
+
+0x8155FA03 = ~z~No. I believe in bullets... and not too much else.
+
+0x9614F798 = ~z~Exactly... a prince turned into a toad, lovers into stone,
+
+0xA020E095 = ~z~on account of her being a bit of an idiot... but... something about a massacre...
+
+0xC06DCC3D = ~z~Well... I don't know... some lady I was speaking to in town told me about a curse.
+
+0xF561E219 = ~z~You soulless wretch.
+
+0xF2843065 = ~z~This isn't exactly an enchanted forest, this place, is it?
+

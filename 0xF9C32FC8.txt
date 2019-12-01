@@ -1,0 +1,968 @@
+0x00C56124 = ~z~~sl:0.8:3.6:1~You like running with bad men, little lady?
+
+0x01118527 = ~z~Yup.
+
+0x01E80891 = ~z~
+
+0x02345774 = ~z~So?
+
+0x023998C4 = ~z~Jesus.
+
+0x028EC7EC = ~z~Shh...
+
+0x0371D473 = ~z~How you doing, O'Driscolls?
+
+0x04303630 = ~z~I got a knife. ~rp~Won't be so clean, but it'll do the job.
+
+0x05558944 = ~z~~sl:0.0:1.3~Dutch said you might...~lr:0.8:2.2~I was asked to give them...~sl:0.3~and ~rp~I'm doing you the further courtesy of telling you about it.
+
+0x06289F00 = ~z~We got 'em. Close in!
+
+0x075D13C2 = ~z~Over here.
+
+0x0762D68A = ~z~Let's get close to these two... make no mistakes here.
+
+0x0797D692 = ~z~Now... ~rp~who knows if this son of a bitch we got with us is talking true...
+
+0x0812ACBC = ~z~Okay, get down.
+
+0x09020F5B = ~z~John, Bill, come here...
+
+0x09183AF8 = ~z~~sl:0.0:0.5:1~Yep.
+
+0x09965EE0 = ~z~What?
+
+0x09F17D08 = ~z~How many times I gotta say? I ain't an O'Driscoll.
+
+0x0A18E645 = ~z~If I was setting you up...
+
+0x0A95ECE5 = ~z~
+
+0x0B1198A2 = ~z~
+
+0x0C7B3946 = ~z~Geld him!
+
+0x0D8D50C6 = ~z~With you, Morgan.
+
+0x0ECEB032 = ~z~~sl:0.0:3.6:1~So... how much you get, huh?
+
+0x0EF61B9F = ~z~He's down.
+
+0x0F002104 = ~z~Wary of strangers.
+
+0x1A5F807E = ~z~Sure, thank you.
+
+0x1B7ED683 = ~z~I smell like a stall ain't been cleaned out in a month...
+
+0x1BDEBBB4 = ~z~~sl:0.0:1.2~Dutch said you might...~lr:1.0:1.7~I was asked to give them...~sl:0.3~and ~rp~I'm doing you the further courtesy of telling you about it.
+
+0x1C675B3D = ~z~Veering left.
+
+0x1CD98E58 = ~z~and most loyal of courtiers.~n~~m~No, no, no, no...
+
+0x1CF6CCF0 = ~z~I ain't cleaned myself in weeks...
+
+0x1D263F25 = ~z~I ain't, I'm trying to help, honest.
+
+0x1E1F089A = ~z~Hey. There, there. You see?
+
+0x1EFBBC94 = ~z~~sl:0.0:1.7~'Stead of hiding it somewhere,~lr:~hoping the opportunity comes up to mention it.
+
+0x1FA7B2A0 = ~z~Check the perimeter!
+
+0x1FAE41F3 = ~z~Those are the hills. Head for 'em.
+
+0x2A9240B3 = ~z~Ain't you checking the cabin for Colm?
+
+0x2B5A9D23 = ~z~Feller that spooked the game, I reckon.
+
+0x2B6CD434 = ~z~John, you take this little rattlesnake with you... any nonsense, kill him.
+
+0x2B7F34C0 = ~z~What, Morgan?
+
+0x2B16CD2E = ~z~Let's go.
+
+0x2B66A6A6 = ~z~You got lead on this. What're we doing?
+
+0x2BADA96E = ~z~You did, Colm O'Driscoll ain't here!
+
+0x2C9B805D = ~z~What're we doing about the pisser, Morgan? One by the tree.
+
+0x2D785626 = ~z~Look it! They nearly caught me flagrante.
+
+0x2DA99E21 = ~z~Umm... yes, sir.
+
+0x2E539F46 = ~z~I'll be stood guard duty, sun up to sun down, soiling my drawers on the spot.
+
+0x2F2860BF = ~z~Save your horses, we got a climb, boys.
+
+0x2FC7A25D = ~z~it'd be that mean son of a bitch.
+
+0x2FFBACCF = ~z~I said easy.
+
+0x3A0D2BDF = ~z~You see, we heard that part...
+
+0x3A20719B = ~z~~sl:0.9:0.0~Up into the hills behind Valentine. I'll show you.
+
+0x3B353909 = ~z~If the old man loses it, I won't get another chance in ages.
+
+0x3CF78C99 = ~z~Colm O'Driscoll, where are you?
+
+0x3D13C5DA = ~z~Come here!
+
+0x3E4F333F = ~z~What's he doing?
+
+0x3E67FE62 = ~z~And ~rp~I'd do the same for you... if you was in a bad way...
+
+0x3EFF111C = ~z~Mercy... come on... mercy...
+
+0x3FB6E966 = ~z~A moment of peace, give me that.
+
+0x3FF2D48A = ~z~You're kidding me right.
+
+0x4A091719 = ~z~Are these fellers armed?
+
+0x4A6E0950 = ~z~But if we do... ~rp~we move quick and hard, ~rp~we settle this like we know how. ~rp~Okay?
+
+0x4AAD2804 = ~z~None of them get out of here!
+
+0x4ADC616B = ~z~Colm O'Driscoll...
+
+0x4B2F7849 = ~z~You stay here, you're dead men!
+
+0x4B68CE96 = ~z~Hurt him.
+
+0x4C12083C = ~z~Come on, he's showing us.
+
+0x4CA26CD9 = ~z~I don't like him.
+
+0x4CBF653D = ~z~You alright?
+
+0x4D483A15 = ~z~Granted... granted... I was in with a bad lot, I'm trying to make amends... if I can.
+
+0x4E4CD63D = ~z~What you got, O'Driscoll?
+
+0x4E56E40F = ~z~Boys, we're almost on 'em.
+
+0x4F2501CF = ~z~Change of plan.
+
+0x4FF06FB9 = ~z~We need orders.
+
+0x5AF297CF = ~z~Run and hide, if you know what's good for you!
+
+0x5B08B440 = ~z~Everyone does, Bill. ~rp~Every one of us.
+
+0x5B75ED90 = ~z~Screw it.
+
+0x5BE60F96 = ~z~
+
+0x5C98D8B6 = ~z~You don't know the half...
+
+0x5D90F2E6 = ~z~Dutch, what do you want me to do?
+
+0x5D2400B5 = ~z~So uh, who's gonna tell him we ain't got nothing for the pot?
+
+0x5DA76415 = ~z~~sl:0.0:1.8:1~Not in a hurry they won't.
+
+0x5DC6CE21 = ~z~
+
+0x5E6BACEF = ~z~You seen something?
+
+0x5F1BE5BD = ~z~I said... give up the information...
+
+0x6B96D132 = ~z~I can do that.
+
+0x6C58BB2D = ~z~Let them come!
+
+0x6D7FDE06 = ~z~The cabin's in the clearing down there.
+
+0x6E102F96 = ~z~now go on, get out of here.
+
+0x6E317F39 = ~z~Hey... he said Colm'd be in the cabin.
+
+0x6E768CDA = ~z~Shit... shit...
+
+0x6EB1791D = ~z~Come on, let's go.
+
+0x6EBC29B2 = ~z~Die you drunk idiots!
+
+0x6ED7EED7 = ~z~I'll take it... ~rp~after all, you are an authority on not being clever.
+
+0x6EDA0D04 = ~z~Keep that in your mind, young feller. Right at the forefront of it.
+
+0x6F2CA4C6 = ~z~Let...
+
+0x6F9D831C = ~z~Okay, now-now cut left up here. W-We go down the hill, into the forest.
+
+0x6F394E8A = ~z~Arthur.
+
+0x6FB0D5C3 = ~z~Good work. We moving on the camp?
+
+0x6FCA0FFE = ~z~Alright then.
+
+0x7C500BA1 = ~z~My arms is going to fall off...
+
+0x7D0BB1DB = ~z~it is to tell us what is going on.
+
+0x7DB5F26F = ~z~Time to move on'em. You ready?
+
+0x7DB9F9A2 = ~z~Morgan. ~rp~You got throwing knives in your saddle bag.
+
+0x7E78A47B = ~z~I been watching you all these weeks and, uhh...
+
+0x7F1E259F = ~z~We catch you unawares?
+
+0x8A5CEDAA = ~z~See? This is why you're an O'Driscoll, O'Driscoll. You're out to survive... we're out to live... free.
+
+0x8A2044B2 = ~z~Come on, let's get to camp.
+
+0x8C8D9323 = ~z~~sl:0.0:4.1~Keep back where they won't hear us... when I move, you move.~sl:0.4~Take 'em out at a distance.
+
+0x8CB340F0 = ~z~You been tied to a tree... you don't know nothing about this gang...
+
+0x8CC71692 = ~z~You know what's really quiet? A knife.
+
+0x8CD0EBB7 = ~z~I won't kill ya.
+
+0x8E4CCDE3 = ~z~just yet.
+
+0x8E451E7B = ~z~Fine. ~rp~Still ain't right, but I'm fine.
+
+0x8E9871EC = ~z~You sick bastards!
+
+0x8E476303 = ~z~Nah, we ain't gonna fall for that...
+
+0x8EC23F3A = ~z~Okay then, partner.
+
+0x8F648440 = ~z~That's the last time I go hunting with the pair of you.
+
+0x9A8E3B13 = ~z~It's on. We move quick, we move hard!
+
+0x9AD7D8B1 = ~z~
+
+0x9B6BE749 = ~z~Yeah, there's usually some cash...
+
+0x9BD368F0 = ~z~you tell Dutch, old Kieran ain't worth killing...
+
+0x9BE7ACCA = ~z~You ready to talk boy?
+
+0x9D1FDBE5 = ~z~Alright you...
+
+0x9DC420FF = ~z~Three hours and a whole bag of nothing. Colm ain't gonna be happy.
+
+0x9F16F4D1 = ~z~geld him.
+
+0x10D2D2B5 = ~z~You'll die, boy. But you'll lose your balls first.
+
+0x12E15D88 = ~z~Horseshit.
+
+0x12F3E8B6 = ~z~Come on, shake it off.
+
+0x14BBA7A7 = ~z~~sl:0.0:5.4~The captive gets a little cough in his throat, ~rp~looks at you with some big doe eyes...~sl:0.4~~rp~you gonna let Colm go free?
+
+0x15A3B04F = ~z~
+
+0x15E8FF67 = ~z~He's at Six Point Cabin.
+
+0x17CB044F = ~z~The only question is now...
+
+0x20C0236B = ~z~Give up, O'Driscolls. We got you beat!
+
+0x21FB8674 = ~z~Speak! Don't cry, boy. Speak. About your gang.
+
+0x23E510B8 = ~z~~sl:0.9:0.0~I'll take it... ~rp~after all, you are an authority on not being clever.
+
+0x24B2CC6D = ~z~There'll be a bunch of fellers hiding out there too.
+
+0x24B78E30 = ~z~Hey, we're real close. I'd leave your horses the other side of this clearing...
+
+0x25EA97FC = ~z~We caught 'em on the drink.
+
+0x26C2A22A = ~z~eunuchs was among the happiest...
+
+0x26F1F6AB = ~z~~sl:2.7:5.7:1~Mark it, boys. One of these days they're gonna know my name too.~sl:0.2~That's right.
+
+0x28A3F0B7 = ~z~Morgan.
+
+0x28CFFF6F = ~z~I got an inkling of what you all do to your enemies when you put those gelding tongs to my parts.
+
+0x28F72AE0 = ~z~From where I been, you just look the same is all...
+
+0x29CC731E = ~z~I smell like that 'cause you had me tied up there about as long.
+
+0x30A2F3F4 = ~z~Clean 'em up, clean 'em out!
+
+0x31A219E9 = ~z~but he'd tell a lie.
+
+0x32B11F06 = ~z~Now, what you stashing in here?
+
+0x32BC62CF = ~z~~sl:0.2:0.0~we got a social call needs making.
+
+0x33DABAC0 = ~z~Colm O'Driscoll's gonna lose his mind about this.
+
+0x34A2DE7A = ~z~I just been ridden with them for a while.
+
+0x35A712B2 = ~z~Come on then. Come on!
+
+0x36DED10D = ~z~You screwed that up.
+
+0x37CE8BB8 = ~z~Okay, go to work.
+
+0x38FBC502 = ~z~That's as good as killing me.
+
+0x39B3847C = ~z~Sooner we get this over with...
+
+0x41D2BD49 = ~z~Give it up.
+
+0x45CF8E1D = ~z~~sl:5.2:7.0:1~It ain't being drunk is his problem, it's being dumb. Once it gets past his fingers the poor boy's lost!
+
+0x45E3C26C = ~z~Let's just have some fun...
+
+0x45E31DF0 = ~z~Oh Lord... please. End it...
+
+0x46F20BB1 = ~z~but ~rp~if it's what he says it is... ~rp~and Colm O'Driscoll's here... we can end years of fighting. Here and now.
+
+0x47F62C07 = ~z~I'm going to deal with this first feller.
+
+0x48A9B8E2 = ~z~fighting the law... nature... you're out for yourselves...
+
+0x49FE0B42 = ~z~Feller on the log... what we doing about him?
+
+0x50B2A3E3 = ~z~~sl:0.0:1.1:1~Hey...
+
+0x56F5F30A = ~z~Morgan.
+
+0x57C4428A = ~z~Please... come on, you brought me in, help me.
+
+0x58C9DACE = ~z~We showed that town, didn't we?
+
+0x59BB4214 = ~z~You see them coming?
+
+0x62E8BACD = ~z~Whoa, hold your horses there...
+
+0x62E58E25 = ~z~Hey... hey... I-I-if I got my bearings, it's over here.
+
+0x63BA13DB = ~z~Come on.
+
+0x64A78628 = ~z~It don't matter how much we got.
+
+0x64BE865A = ~z~What matters is how many fools we left for the vultures.
+
+0x69FD0544 = ~z~Hey, Bill...
+
+0x73CC2A65 = ~z~anyone's actually gonna shoot the messenger...
+
+0x73EF1850 = ~z~So you got the cash then?
+
+0x74FE4950 = ~z~But if we do... ~rp~we move quick and hard. ~rp~We settle this like we know how. ~rp~Okay?
+
+0x77E4479F = ~z~I'll get my guns off my horse and I'm ready.
+
+0x80E8B954 = ~z~Okay, I got him.
+
+0x81AB1A27 = ~z~Keep that in mind, young feller. Right at the forefront of it.
+
+0x81D7A33B = ~z~And that's the man you chose to ride with. A woman killer.
+
+0x81DA65C6 = ~z~That ain't all of them. We got more coming back!
+
+0x82F32D74 = ~z~Yeah, well, I'd... I'd say you don't know much about the O'Driscolls...
+
+0x84B3D794 = ~z~Like I told you... O'Driscolls. That was the deal.
+
+0x85B5BE2D = ~z~We're gonna pay your buddies our respects.
+
+0x87C584BE = ~z~I told all of you.
+
+0x88D9CA97 = ~z~Come on. Get down this hill, or I'll pull ya down it.
+
+0x90EDC299 = ~z~You got some speaking to do of your own... about that old gang of yours.
+
+0x92DD55A7 = ~z~They know I led you here!
+
+0x93BDDB3A = ~z~Leave 'em. Colm's still here.
+
+0x97A412D4 = ~z~I thought he was mine?
+
+0x99A1113E = ~z~I saw your eyes, Morgan. ~rp~You didn't go clever, you went soft.
+
+0x99C1C236 = ~z~Give me some of that Irish gold.
+
+0x99F035D1 = ~z~How you holding up, John?
+
+0x105FF3CB = ~z~So I'm one of you now.
+
+0x108D25DB = ~z~And quit breathing on my neck.
+
+0x130AC59F = ~z~Morgan. You didn't tell me what the O'Driscoll smelled like before you asked me to ride with him.
+
+0x172EABB4 = ~z~But you sure as shit was.
+
+0x184CA50A = ~z~We're going in quiet, ~rp~taking them out as we find 'em, ~rp~trying not to set things off.
+
+0x200ADF85 = ~z~Hey.
+
+0x209D0CED = ~z~he ain't here.
+
+0x225BC736 = ~z~~sl:3.6:3.1~It don't matter how much we got, long as we got it...~sl:1.6:0.9:1~Right boys?
+
+0x231D32E7 = ~z~Some fellers coming back into camp. Watch out!
+
+0x266E04A1 = ~z~so how about you tell the truth.
+
+0x299B74DE = ~z~I got this, Dutch.
+
+0x314BB62C = ~z~he don't like you...
+
+0x326B1C97 = ~z~Ah...
+
+0x328DE81F = ~z~Armed.
+
+0x350D1BFC = ~z~Go on and show us then.
+
+0x354F922E = ~z~You're outlawed like them... you're out to survive like them... you live rough... you live hard...
+
+0x369E7133 = ~z~~sl:0.0:1.8~'Stead of hiding it somewhere,~lr:0.1~hoping the opportunity comes up to mention it.
+
+0x459E0896 = ~z~Sure.
+
+0x502D62D7 = ~z~~sl:3.5:2.0:1~I can't...
+
+0x528DEE09 = ~z~~sl:0.0:3.3~How wise you think beating a man to death woulda been...~sl:0.2~~rp~with all them folks looking on? ~rp~When we supposed to be laying low?
+
+0x539A735B = ~z~What're you hiding out in the woods for?
+
+0x574B5FED = ~z~See, Arthur...
+
+0x591E8453 = ~z~I didn't set you up.
+
+0x675B20CC = ~z~Get lost.
+
+0x680D23B2 = ~z~I'll take you there...
+
+0x694B50C5 = ~z~~sl:0.0:2.3~Why do you try and vex me, Morgan?~sl:0.6~~rp~You take pleasure in my torment?
+
+0x708D6FB8 = ~z~There! Edge of the clearing.
+
+0x714DF5B9 = ~z~Please...
+
+0x717A5FF9 = ~z~We're here... we don't need nothing else from you.
+
+0x735B1E39 = ~z~He's yours, Williamson.
+
+0x744E6DB3 = ~z~Arthur.
+
+0x774B916D = ~z~I'll check. You look out here.
+
+0x783E1E2E = ~z~~sl:0.0:2.4~Why do you try and vex me, Morgan?~sl:0.8~~rp~You take pleasure in my torment?
+
+0x794FA943 = ~z~Oh yeah!
+
+0x809BB124 = ~z~They know it was me!
+
+0x831D4CAF = ~z~I-I'll catch up.
+
+0x833B1909 = ~z~~sl:0.0:2.9:1~O'Driscolls, that's right!
+
+0x853D4863 = ~z~Get to it then...
+
+0x911AC9C3 = ~z~but maybe I know more about you than you know about them... and I know all about them, so...
+
+0x915CDA7D = ~z~So the next time he opens his mouth...
+
+0x996D8796 = ~z~or after we got these little fellers off?
+
+0x997EA830 = ~z~I told you mister...
+
+0x999BF9A4 = ~z~me think.
+
+0x1504EACF = ~z~I got him.
+
+0x1735FA1F = ~z~You set us up.
+
+0x2466C624 = ~z~Where we heading?
+
+0x3013E500 = ~z~Well, it was after he'd killed his brother... and the way I understood it...
+
+0x3177ADDE = ~z~That's it. They're turning tail!
+
+0x3610B28F = ~z~I'm gonna drain it...
+
+0x4762B629 = ~z~Don't run away from me!
+
+0x4869A275 = ~z~Now stay here, don't you damn move.
+
+0x5559CDB6 = ~z~He dropped it. And I opened up on him anyway.
+
+0x5663A9CC = ~z~Hush... hush now...
+
+0x5675CE92 = ~z~right now.
+
+0x6294D847 = ~z~When's this going to end...
+
+0x6676E8A0 = ~z~~sl:0.6:0.0~He ain't goin' to piss forever.
+
+0x7737BC9C = ~z~I didn't move... please.
+
+0x7840A1CB = ~z~I ain't so bad.
+
+0x8118CC39 = ~z~Alright, I'll lead.
+
+0x8744EDDD = ~z~We're going in quiet, ~rp~taking them out as we find 'em,~rp~ trying not to set things off.
+
+0x9142E552 = ~z~Yeah, yeah, yeah...
+
+0x9200D46B = ~z~Oh, I know.
+
+0x9308C57F = ~z~
+
+0x9402F46C = ~z~Just over the ridge.
+
+0x9694EA02 = ~z~~sl:0.0:5.9:1~Hey... what... how much did we get in the end, anyway, huh?
+
+0x9727EB2C = ~z~
+
+0x16059F5C = ~z~They're all around us!
+
+0x16968CC6 = ~z~~sl:0.0:4.3:1~If you boys are rich, I'll be hot as you like.
+
+0x20440EB6 = ~z~Ain't ya gonna deal with them?
+
+0x25881E1B = ~z~without you...
+
+0x28904F50 = ~z~Last goddamn favor I do you.
+
+0x31274B73 = ~z~That's right. Boy, are you high.
+
+0x33353B23 = ~z~Well, you are going to talk.
+
+0x40716C71 = ~z~The boy said Colm'd be in the cabin.
+
+0x44482A37 = ~z~Why don't you take a few of us up there...
+
+0x46384F3E = ~z~If...
+
+0x59862A85 = ~z~The next two... what's the plan?
+
+0x62046FFA = ~z~This is it. The cabin's just the other side of this hill.
+
+0x65921E2E = ~z~Get lost?
+
+0x75871DFD = ~z~I knew a few of these...
+
+0x84455D46 = ~z~What do you want from me?
+
+0x89344F45 = ~z~
+
+0x139789A4 = ~z~Hold this ground!
+
+0x177157AA = ~z~They ain't goin' to forget us.
+
+0x234166D2 = ~z~let's go.
+
+0x340089A8 = ~z~Should be fun.
+
+0x391211A9 = ~z~You'd be smelling worse if we'd done what some was arguing for.
+
+0x397269E5 = ~z~As I'll ever be.
+
+0x480911A4 = ~z~I hope so, but I fear you don't know how to help anyone... excepting yourself.
+
+0x496160F0 = ~z~I ain't made a sound...
+
+0x565076A5 = ~z~but if I know where we are, it's up past Valentine.
+
+0x585633AF = ~z~Drunk.
+
+0x620406D5 = ~z~we're gonna wait, so you can tell him yourself.
+
+0x659881D5 = ~z~just gonna cause you trouble.
+
+0x679761D8 = ~z~Give us Colm, this is done!
+
+0x732405D4 = ~z~I do know Colm killed Dutch's sweetheart...
+
+0x775411AA = ~z~Shot him full of holes. He's got more holes in him than an SD Bordella.
+
+0x881222B7 = ~z~O'Driscolls!
+
+0x1084488F = ~z~You don't understand...
+
+0x1815891D = ~z~Colm's a sneak thief and a killer... Dutch is... Dutch is more like a teacher.
+
+0x2469286B = ~z~You hear that? That getting you hot, huh?
+
+0x3234105A = ~z~Okay. Off your horses... let's go.
+
+0x4426067B = ~z~Next time you wanna give me something, ~rp~how about you give it to me?
+
+0x4739617D = ~z~Out there...
+
+0x5862666F = ~z~Alright then.
+
+0x8987260F = ~z~Talk to them... to Dutch.
+
+0x9072745A = ~z~I'm letting you run away...
+
+0x9207723B = ~z~Colm's down there, I promise...
+
+0x9974549E = ~z~Oh, none taken.
+
+0x17577611 = ~z~Hear, hear.
+
+0x20520169 = ~z~You got him?
+
+0x20546032 = ~z~That's because you wasn't asked to ride with us, you was told.
+
+0x25959530 = ~z~I'm taking you to him. Look, I-I-I'll give you more directions when we're close,
+
+0x27315323 = ~z~One thing goes wrong... one thing other than you smelling funny... you're the first O'Driscoll we'll shoot.
+
+0x30709782 = ~z~Where's he going?
+
+0x36394007 = ~z~serious.
+
+0x42473670 = ~z~This one's mine. We need it done right.
+
+0x59440419 = ~z~Now we go left... road'll take us up and round.
+
+0x61169209 = ~z~Make a call, won't you?
+
+0x73307962 = ~z~Put in a good word, would you?
+
+0x74294012 = ~z~
+
+0x88319232 = ~z~Through the trees here.
+
+0x98288810 = ~z~
+
+0xA0079DD3 = ~z~Funny. ~rp~And I guess you're good here...
+
+0xA0207804 = ~z~who am I kidding?
+
+0xA055D1D2 = ~z~~sl:0.0:3.8~How wise you think beating a man to death woulda been...~sl:0.3~~rp~with all them folks looking on? ~rp~When we supposed to be laying low?
+
+0xA0AE71C6 = ~z~But I'm warning you...
+
+0xA0DE452E = ~z~I told you, he'll be in the cabin.
+
+0xA1C6767B = ~z~It's just like I said, ain't it?
+
+0xA4E41601 = ~z~Your worthless O'Driscoll hides...
+
+0xA5ED178B = ~z~No, I didn't.
+
+0xA7FFF78D = ~z~Tell us then... how we like those mongrel dogs?
+
+0xA9A583BC = ~z~What cash?
+
+0xA64DFA4D = ~z~~sl:1.4:0.0~Everyone does, Bill. ~rp~Every one of us.
+
+0xA906F50F = ~z~Can you believe that stupid son of a bitch buy any of my crap? I can't believe it.
+
+0xA926B5EF = ~z~Let's get closer.
+
+0xA989BA9B = ~z~Okay, now what? We're at the perimeter.
+
+0xA4611F28 = ~z~Don't worry. I won't.
+
+0xA5277A3B = ~z~What the hell?
+
+0xA77727E6 = ~z~Then you looked, but you ain't seen...
+
+0xA78423C3 = ~z~You know, in Imperial Rome...
+
+0xA107141F = ~z~Eh?
+
+0xAA45F641 = ~z~No offense.
+
+0xABC29461 = ~z~~sl:0.0:2.6:1~That's what gets ya in the Times Tribune.
+
+0xAC4CB65D = ~z~unless some soft-handed feller comes along ~rp~and tells you you've gone too far.
+
+0xAD797C98 = ~z~come on...
+
+0xAE09A956 = ~z~Just gonna check this guy...
+
+0xAE0F3284 = ~z~You hold him there. Don't give him a chance.
+
+0xB06F9E77 = ~z~What are you waiting for?
+
+0xB0B8566B = ~z~it seems the cat has got our friend here's tongue.
+
+0xB3A24CBB = ~z~He sure ain't.
+
+0xB3BFFA12 = ~z~~sl:0.4:0.0:1~Pow, pow, pow.
+
+0xB4D53384 = ~z~You said you was looking for Colm?
+
+0xB5FC612B = ~z~I don't know nothing, okay?
+
+0xB13FA9E3 = ~z~Amen to that.
+
+0xB21FAAAB = ~z~Be passed out, booze blind, likely as not.
+
+0xB49B91FC = ~z~
+
+0xB74A465D = ~z~
+
+0xB97F4049 = ~z~I'll take what I can get.
+
+0xB505C303 = ~z~John? Shut that boy up.
+
+0xB4385DA3 = ~z~They-They ain't no friends of mine.
+
+0xB5010BB7 = ~z~I mean, I like him even less than I like you.
+
+0xB7993B6B = ~z~Come at me, you Irish bastards.
+
+0xBA8F48B5 = ~z~I know where O'Driscoll's holed up...
+
+0xBA90F225 = ~z~Don't move.
+
+0xBB791CA6 = ~z~Don't call my record into question.
+
+0xBCF18899 = ~z~You got supplies, you drunk dead bastard.
+
+0xBD98ABA2 = ~z~I'll check it.
+
+0xBF65F3C6 = ~z~I was thinking Mr. Williamson could have a word.
+
+0xBFFFFA81 = ~z~Follow me, alright? It ain't far.
+
+0xC0F7149C = ~z~Amen...
+
+0xC3E94E3E = ~z~Over there...
+
+0xC4E4BF72 = ~z~Okay by me.
+
+0xC5B105E7 = ~z~We might'a shared a horse, but we ain't friends. Remember, I'm watching you. Every moment.
+
+0xC5BB312A = ~z~I was fighting Colm when you was pretending to fight Indians.
+
+0xC5C05905 = ~z~Glad to see ya.
+
+0xC6A9DF64 = ~z~It's a good point, Arthur.
+
+0xC7E3C78A = ~z~One of O'Driscoll's boys couldn't open his mouth...
+
+0xC8A3D417 = ~z~come on.
+
+0xC8BE46E6 = ~z~You see, O'Driscoll? ~rp~If this is how he treats his friends, imagine what he does to his enemies.
+
+0xC9F6C1DD = ~z~Take him quiet, Marston.
+
+0xC37F4D39 = ~z~Guess they know we're here. Let's get 'em!
+
+0xC42A0AD4 = ~z~~sl:0.2:3.9:1~You're so drunk... that you'd probably count double.
+
+0xC57C0BA7 = ~z~I'm going to check it. Search out here, make sure we ain't missed anything.
+
+0xC2944F02 = ~z~You ain't going to check the cabin, I will.
+
+0xC3084D74 = ~z~Shut up.
+
+0xC4293EF5 = ~z~they're only balls boy...
+
+0xC4370A02 = ~z~Well, ~rp~when you was having a failure of reason... and hiding behind your woman...
+
+0xC6563A9C = ~z~Get your hands dirty for a change.
+
+0xC13633B5 = ~z~Yeah, right you are.
+
+0xCA346C31 = ~z~
+
+0xCAADC668 = ~z~Jesus Christ...
+
+0xCAFEE44E = ~z~You want me to take him?
+
+0xCB6746BE = ~z~Protect me!
+
+0xCB72943D = ~z~Let's both hope you ain't trying to trick us, O'Driscoll.
+
+0xCC150224 = ~z~Steady on, just a minute.
+
+0xCCBA60D8 = ~z~I swear, this is where he...
+
+0xCCF2E29F = ~z~~sl:0.5~You see, O'Driscoll? ~rp~If this is how he treats his friends, imagine what he does to his enemies.
+
+0xCE6E3D8D = ~z~I said... I told you... I don't know nothing.
+
+0xCE382D8B = ~z~Hurry up already.
+
+0xCEA263B0 = ~z~someone's coming.
+
+0xCEA325FF = ~z~We riding?
+
+0xCEB7ADC5 = ~z~Wait on my mark... I'm going to take a look at these boys.
+
+0xCEEA2145 = ~z~Ain't you checking the cabin?
+
+0xD047E30E = ~z~Boy...
+
+0xD0506DEB = ~z~Shit.
+
+0xD0515D7E = ~z~~sl:3.4:5.6:1~Th-the more column inches we get, the more star-toters they'll send after us,you dolts.
+
+0xD0A146F6 = ~z~It's your abilities that call your "record into question", Bill.
+
+0xD0CA752B = ~z~and you're right...
+
+0xD0E4C92B = ~z~This is quite a hideout!
+
+0xD1D3FC9F = ~z~Enough out of you.
+
+0xD1DEDA60 = ~z~Oh, don't worry...
+
+0xD2C9D604 = ~z~in the chimney.
+
+0xD4ED7BEB = ~z~Alright then, go on, get out of here.
+
+0xD7B45019 = ~z~That's what I thought.
+
+0xD8F15412 = ~z~Least you got something tucked away.
+
+0xD22ECD22 = ~z~~sl:0.0:0.7~didn't I?~sl:1.4:5.0:1~Everyone knows the O'Driscolls. They run and ride when they hear us coming.
+
+0xD66EAE71 = ~z~we were getting shot at.
+
+0xD72A177A = ~z~You sure look like one and... you smell like... goddamn. You smell like one too.
+
+0xD72DAF0A = ~z~He said he'd be hiding in the cabin.
+
+0xD75F8690 = ~z~Easy, Bill. Quiet.
+
+0xD98E60CD = ~z~~sl:0.0:6.7~The captive gets a little cough in his throat, ~rp~looks at you with some big doe eyes...~sl:0.2~~rp~you gonna let Colm go free?
+
+0xD4674BCF = ~z~And then dropped it, didn't he?
+
+0xD61753B7 = ~z~You know... you all ain't that different from the O'Driscolls.
+
+0xD85902C6 = ~z~I-I wouldn't have saved your life.
+
+0xD555886E = ~z~Williamson, Williamson.
+
+0xD1033405 = ~z~I left our guide up there. He's meek as a little lamb.
+
+0xDA260121 = ~z~You gonna get them knives?
+
+0xDAB54818 = ~z~That's right.
+
+0xDABAFCA8 = ~z~Look out... more of them. Coming out the woods!
+
+0xDE03860D = ~z~That's what he says. Come on.
+
+0xDE72F9C1 = ~z~~sl:0.0:4.9:1~That's how we like it... more lawdogs to get our guns going.
+
+0xDE2579E2 = ~z~You moving or not?
+
+0xDF5D4F10 = ~z~Sure thing.
+
+0xDFFE68C1 = ~z~
+
+0xE052BBDC = ~z~They're trying to catch us with our pants down. Look out!
+
+0xE0F2C379 = ~z~You damn well should be after all that bed rest.
+
+0xE1D066A1 = ~z~And then I said, and then I said, drop the gun and you won't get hurt.
+
+0xE2AD0D1F = ~z~When we're there, we move at the same time.
+
+0xE5E8B4F7 = ~z~I smell like horse shit.
+
+0xE8D05A59 = ~z~Let's go if we gonna go.
+
+0xE42E1BF2 = ~z~Aww...
+
+0xE49E0617 = ~z~
+
+0xE71CCB91 = ~z~~sl:0.7:0.0~I ain't no O'Driscoll.
+
+0xE289A2D6 = ~z~What you talking about? ~rp~Fighting that big bullock up in Valentine?
+
+0xE342D53B = ~z~What you holding, O'Driscoll?
+
+0xE783C8BC = ~z~We got 'em on the run.
+
+0xE1456A49 = ~z~Now we got a real fight... come on!
+
+0xE1996A94 = ~z~He weren't lying, that little toad!
+
+0xE7291A06 = ~z~You set us up.
+
+0xE8370036 = ~z~but... ~rp~if it's what he says it is... ~rp~and Colm O'Driscoll's here... we can end years of fighting. Here and now.
+
+0xEA45570A = ~z~~sl:3.0:5.2:1~How much we get then? Anyone of you fools think about counting it, huh?
+
+0xEAAB5E8F = ~z~Yeah... I know this country, take this track up through the rocks.
+
+0xEB587E39 = ~z~What did you just say?
+
+0xEBF500B2 = ~z~~sl:2.5:4.8:1~D'you think they know my name? I turned most of'em into buzzard bait,
+
+0xEC082BA2 = ~z~Okay! Okay! Listen.
+
+0xEC7522F0 = ~z~He taking us to Colm?
+
+0xED2F27AC = ~z~Might have something on him...
+
+0xEDB4DE6E = ~z~Oh, he'll be holed up in his cabin.
+
+0xEDFB8D07 = ~z~I ain't going to shop you now, come on. It'd be suicide.
+
+0xF07071FB = ~z~We're waiting.
+
+0xF2B067D4 = ~z~
+
+0xF2F7C589 = ~z~~sl:0.0:3.6:1~I like any man, as long as he's paying.
+
+0xF3CC2CB8 = ~z~What's the call?
+
+0xF6DE1B8C = ~z~Bill, you still got those tongs?
+
+0xF7B79FE3 = ~z~Rest of you boys get to camp, quick.
+
+0xF9D85173 = ~z~Just... to say, ~rp~well... ~rp~even you can't screw up killing O'Driscolls.
+
+0xF9F245F8 = ~z~He was here, I swear, I sw...
+
+0xF14BB73D = ~z~Of course.
+
+0xF17B75FA = ~z~Help me... speak to them for me...
+
+0xF43AC813 = ~z~~sl:1.9:1.0:1~"Payin'..."
+
+0xF48A6B94 = ~z~~sl:0.0:4.0:1~I'm too drunk to count anything... besides my drinks.
+
+0xF66F9FC0 = ~z~I didn't know they'd be so many here...
+
+0xF82FD985 = ~z~Sharing saddle with an O'Driscoll. Who'd have thought.
+
+0xF793A208 = ~z~I didn't lie to you... you see?
+
+0xF32167D6 = ~z~Hey, alright, ~rp~Abigail wouldn't let me up... you know her... ~rp~she won't be reasoned with.
+
+0xF47630B1 = ~z~That's what the knife's for.
+
+0xF97095F1 = ~z~
+
+0xFAF4FEA2 = ~z~Well, c'mon on then.
+
+0xFBB3A556 = ~z~Okay.
+
+0xFBC67A91 = ~z~And Colm O'Driscoll?
+
+0xFCA58B45 = ~z~He better be.
+
+0xFDF100BB = ~z~Making excuses for the man... and his crimes. What kind of trap you leading us into, boy?
+
+0xFE9750A6 = ~z~Give me a break.
+
+0xFE29416E = ~z~What we doing?
+
+0xFEBDE398 = ~z~The boy said he'd be in the cabin, I'm gonna check. You all look out here.
+
+0xFF99D2C9 = ~z~any more than you like him.
+
+0xFFDAAD81 = ~z~I swear... I promise. ~rp~I'm taking you to Colm as best as I can. ~rp~You'll see. I'll make good.
+

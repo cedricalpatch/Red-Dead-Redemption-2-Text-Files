@@ -1,0 +1,22 @@
+0x4C900D24 = ~z~No... I'm scared Miss Grimshaw... feels like... feels like now...
+
+0x5D2AAE59 = ~z~Oh, I ain't never normally scared but feels like now it's only a matter of time.
+
+0x7BADEB5F = ~z~Really?
+
+0x1629A054 = ~z~You okay?
+
+0x6917C633 = ~z~Oh, sure.
+
+0x79156C33 = ~z~It'll be okay, Miss...
+
+0xC59E8548 = ~z~No... but I'm sure you'll be okay and I'm also sure that... well,  I'm sure that I really proud of you.
+
+0xD67D2705 = ~z~You've grown into a fine woman... you'll be well. I just know it.
+
+0xDA070E62 = ~z~Oh, Arthur, I'm... I'm nervous.
+
+0xE564251C = ~z~I'll do my best for you. You know that.
+
+0xFA67EEDA = ~z~You sure?
+

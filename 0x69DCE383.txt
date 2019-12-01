@@ -1,0 +1,40 @@
+0x0DB037B4 = ~z~Ya got me, alright? I know whens I'm beat.
+
+0x1DCAA76C = ~z~Dammit, I gave up here.
+
+0x6EDC8649 = ~z~You done plenty of killing here, how about you let me go?
+
+0x38B7EFB5 = ~z~Hey, gonna let me be?
+
+0x88BD56A7 = ~z~Alright, thank you.
+
+0x267A4B3A = ~z~So, I get to walk away from this?
+
+0x553C6FA6 = ~z~I'm all but dust.
+
+0x899BBBC7 = ~z~You don't need another corpse here, let me walk away, huh?
+
+0x98251C1B = ~z~Wait! I... I said mercy...
+
+0x36823232 = ~z~Mighty kind, I'm all gone.
+
+0x42160271 = ~z~Come on, you made your point.
+
+0xA52FC8A3 = ~z~Come on, you know what's right.
+
+0xB5A7D720 = ~z~Ah shit, come on.
+
+0xC02D9CA8 = ~z~Those were hard men, so what in hell are you?
+
+0xC7DEFB8E = ~z~Don't, you don't need to do this.
+
+0xCC3A4103 = ~z~Shit, I am done with this... you let me live, and I will disappear.
+
+0xD15167CE = ~z~Good... you won't be seeing me anytime soon.
+
+0xDBC553D7 = ~z~Dammit, I knew every one of those boys like a brother.
+
+0xDCFFE28E = ~z~You spare me, and you won't see me again, not ever.
+
+0xF1697F1F = ~z~Damn, you cut us down fast, who the hell are you?
+

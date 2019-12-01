@@ -1,0 +1,42 @@
+0x01F4D71A = ~z~Sure. Me too.
+
+0x028C91AF = ~z~Face me to the west so I can watch the setting sun and remember all the fine times we had that way.
+
+0x6D6718A3 = ~z~Thank you.
+
+0x9F27FC24 = ~z~Of course... least I could do.
+
+0x33D13ADA = ~z~I rode back and planted some flowers she would have liked.
+
+0x47CACD6B = ~z~Did you?
+
+0x90A85F25 = ~z~~sl:3.3~When I die, I just want to be buried with friends.
+
+0x102B7387 = ~z~I know you were sweet on her.
+
+0x342E3B90 = ~z~You know, I'm sorry about Jenny...
+
+0x1467B565 = ~z~See Tilly, I told you Arthur had a soul.
+
+0x4667E007 = ~z~Oh yeah, pretty obvious.
+
+0x25749E1D = ~z~Fine...
+
+0x25879E47 = ~z~I made sure we buried her carefully.
+
+0x394145BA = ~z~~sl:1.9~Was it that obvious?
+
+0xA5DA1EE6 = ~z~How you doing, kid?
+
+0xA26A82A9 = ~z~When I go, I hope they cover my grave with roses.
+
+0xA41F8617 = ~z~~sl:0.8~Me too... with friends or with family.
+
+0xB1C82168 = ~z~I don't know if it matters more than that.
+
+0xCAE0133C = ~z~Come on.
+
+0xEB77546A = ~z~What about you, Arthur?
+
+0xFAB6F2E9 = ~z~Me? I don't care about that nonsense...
+

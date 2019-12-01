@@ -1,0 +1,404 @@
+0x005E3CC4 = ~z~I'm... oh... look at that meat turn.
+
+0x00B1C4F1 = ~z~~sl:0.0:3.3~You just want me to go! Guess...~sl:1.0~guess you and I... ain't nothing.
+
+0x00BCB1C8 = ~z~~sl:0.6~ Yeah... yeah.
+
+0x013B2B55 = ~z~~sl:0.0:1.5:1~I, am...
+
+0x02B9B722 = ~z~
+
+0x039A996C = ~z~~sl:0.0:0.6~I'm...~sl:3.1~You'll help me? Gimme some food? Some tasty meat?
+
+0x03A303E0 = ~z~Uh, that, uh, strange feller's back again...
+
+0x03A18640 = ~z~Stab me to death... leave me to rot.
+
+0x07AC38C7 = ~z~Look, look... just, don't... I don't want pain.
+
+0x08E68E55 = ~z~Oh, alright!
+
+0x09DC792B = ~z~~sl:0.0:0.8:1~You're back.
+
+0x0A0F5026 = ~z~No, now, don't... not too much. I like the red...
+
+0x0C93CAD6 = ~z~
+
+0x0DEA4543 = ~z~~sl:0.0:2.4~You gonna hurt me again? Or...~sl:2.3~you do what you want...
+
+0x0E621BB1 = ~z~Don't... Don't untie me... leave me...
+
+0x0EED46B1 = ~z~~sl:0.0:2.8~You make a man wait, he gets...~sl:~He gets angry...
+
+0x0F9D1DAE = ~z~~sl:0.0:2.1:1~This for me? Yeah?
+
+0x1A71C9D6 = ~z~'Til that time...
+
+0x1B284EB2 = ~z~
+
+0x1C21BB68 = ~z~Just do it already.
+
+0x1D09E2EA = ~z~I'm waiting... I'm getting... needy...
+
+0x1ED7E71E = ~z~~sl:0.0:2.9~You can't do no worse to me than anyone else.~sl:0.4~Least you got a fire.
+
+0x1FC97B9A = ~z~~sl:0.8~It's glowing...
+
+0x2A8D3980 = ~z~You tie me? Tie me?
+
+0x2B1C7ECC = ~z~~sl:2.0~Hey there...
+
+0x2C8B9506 = ~z~He's by the fire. Again.
+
+0x2FCF6D9C = ~z~
+
+0x3FCB29DD = ~z~Here we are again. Again and again...
+
+0x4A0C8872 = ~z~I know you have it! You lucky I don't gut you...
+
+0x4C864B67 = ~z~~sl:0.0:2.8~Meat? Nice, charred meat...~sl:~that's good... that's... good...
+
+0x4FE750F7 = ~z~You want me to deal with that feller or what?
+
+0x5A9C1447 = ~z~Oh, don't be a scared... you's a friend...
+
+0x5B100FAC = ~z~~sl:1.4~You have been busy, yeah... me too...
+
+0x5D37CFED = ~z~~sl:5.5~Blood in... the air...
+
+0x5E40EEDC = ~z~Hey... could you gimme something? My belly's aching, I...
+
+0x5F89A378 = ~z~
+
+0x5F4301EA = ~z~~sl:0.0:2.9~Third time... that one sure smells strange.~sl:~Maybe it's all the meat?
+
+0x5FC9B3EC = ~z~Here I am, begging... and you say no?
+
+0x6C209408 = ~z~~sl:0.0:2.0:~You and me, together again?~sl:1.4:1.0:1~Huh.
+
+0x6D319A0C = ~z~I'm hungered. I want meat. Nice, cooked, meat.
+
+0x6D6283D4 = ~z~~sl:0.0:2.9~I keep seeing them... upstairs... running,~sl:0.0:4.7:1~running behind my eyes... waiting for me... but, nothing I do...
+
+0x6E980D71 = ~z~
+
+0x6FBC8AE4 = ~z~~sl:0.0:2.2~They grabbed the light from his eyes...~sl:3.6~it don't matter.
+
+0x7A206899 = ~z~~sl:0.0:1.5~Deny me?~sl:4.8~Heartless...
+
+0x7C10ABEB = ~z~I'll just keep waiting. I'm waiting forever.
+
+0x7CC5A9CC = ~z~
+
+0x7DD929D1 = ~z~Dog... lover. Leave me alone.
+
+0x7DE599A1 = ~z~~sl:0.0:2.5~Okay, okay, okay...~sl:1.8:1.3:1~I'm hungering...
+
+0x7E5028B0 = ~z~I'll be seeing you, friend. Again and again, I'm sure...
+
+0x7F4FB75B = ~z~You scared of that idiot? Talk to him.
+
+0x8AAF4371 = ~z~You smell. Leave.
+
+0x8AF44407 = ~z~~sl:0.0:0.7~You...~sl:2.2~Rude!
+
+0x8C89D58D = ~z~~sl:1.1~Not yet, not yet...
+
+0x8E941158 = ~z~This is your camp? Nah... go away!
+
+0x8F9D2D0B = ~z~While everything spins I wait, I wait...
+
+0x9A81E550 = ~z~
+
+0x9A70668D = ~z~
+
+0x9ADC66E4 = ~z~Listen, you got a past with that guy, or what?
+
+0x9B1E3413 = ~z~~sl:0.0:4.0~See you. Unless I see my family first...~sl:0.5~if I is so lucky...
+
+0x9F9150E7 = ~z~~sl:0.0:2.8~Oh... oh, that's who you are?~sl:~Holding all the nuts... scared squirrel.
+
+0x9FBC063B = ~z~~sl:0.0:5.2~I thought, I thought... you're selfish!~sl:0.5~Taking, taking, taking, like the rest...
+
+0x9FF5B41B = ~z~I'm waiting for a particular... ain't you.
+
+0x11D2A02D = ~z~Oh, look at this now!
+
+0x14EEDA2C = ~z~
+
+0x18CE3010 = ~z~~sl:0.0:4.1~Hey, you ain't like the rest of 'em... no...~sl:0.0:2.8:1~we're alike, for strangers...
+
+0x22B81F25 = ~z~~sl:0.0:2.4~We always end alone, yeah? Yeah?~sl:0.0:2.9~Hey, hey, y-you are a lonesome bird like me...~sl:2.8~Always alone... we are.
+
+0x25EFDE16 = ~z~~sl:0.0:3.8~I'll die without you helping me... or worse...~sl:0.8~I been dead before...
+
+0x28FFEA61 = ~z~~sl:2.6~Did I ever leave?
+
+0x29BE8C3A = ~z~Talk to him or get rid of him.
+
+0x35E17DF9 = ~z~I can't eat nothing but meat... everything else hurts...
+
+0x36B769F6 = ~z~Some red meat!
+
+0x37C095C0 = ~z~~sl:0.0:5.1~I'll just be back, then. I'll be here forever...~sl:~and when I come back... forever and ever.
+
+0x47EE19C1 = ~z~~sl:0.7~I'm, I'm itching...
+
+0x50D00605 = ~z~~sl:0.4~The rope burns...
+
+0x56A1D6AD = ~z~~sl:0.0:3.2~H-hey... I know.~sl:0.8:~How'm I here again? But I am. I am...
+
+0x62AF1565 = ~z~~sl:0.0:1.8~I feel a cold coming...~sl:1.8~Yeah, tight dead cold, deep in my bones...
+
+0x75DACF72 = ~z~~sl:0.0:1.1~Yeah!~sl:2.6:1.5:1~I knew you was kind.
+
+0x79FA2103 = ~z~~sl:0.0:2.9~Well, your strange friend is by the fire again.~sl:~How long is this gonna go on for, anyway?
+
+0x80CEE602 = ~z~~sl:0.6:1.3:1~The knots...
+
+0x81DC75CF = ~z~How long that idiot gonna keep showing up for?
+
+0x81FF2F69 = ~z~~sl:0.0:3.4~Maybe you'll kill 'em, the killers what did it...~sl:1.2:1.6:~Maybe you did already...~sl:3.1~Don't matter.
+
+0x85B67F99 = ~z~You sniffing at me? Go away!
+
+0x88A8C2FE = ~z~
+
+0x88F63D4F = ~z~~sl:0.0:1.9~I worked the mules once.~sl:~I worked 'em and I worked 'em and I...
+
+0x91B3B52C = ~z~Fine. But we ain't done... no...
+
+0x94F531A5 = ~z~~sl:0.0:2.3~Well, I know you have some... you...~sl:1.2:2.0~I shoulda... I...~sl:4.6:2.4~That's the song I'll be playing~sl:~the day you die...
+
+0x268E1422 = ~z~~sl:0.0:3.7~I should have known... I seen what you do,~sl:0.0:1.5~you ate it all!~sl:0.8~Glutty fat mess you are...
+
+0x279BE42A = ~z~Maybe... I'll see your face in the moon...
+
+0x396C3EB2 = ~z~~sl:0.0:2.4~You cruel, rot-hearted...~sl:0.8~I'll spit my last tooth on you one day.
+
+0x424CB005 = ~z~~sl:0.0:3.5~I miss making money. But my head don't...~sl:1.3~I go so long without talking... it gets too loud...
+
+0x472DF7F6 = ~z~~sl:0.0:2.7~A lonesome bird... I need meat.~sl:0.5:2.1~Tasty joints, steaks...~sl:1.1~greasy chunks... I know you have some...
+
+0x632AD03A = ~z~~sl:0.0:1.7~And you leave 'em waiting...~sl:~hungry... listing and needy...
+
+0x635E1B1B = ~z~Remember me?
+
+0x642B71C0 = ~z~Can't get rid of me... never get rid of me...
+
+0x857EA361 = ~z~You came! To me? J-just to talk to me...
+
+0x889EC269 = ~z~~sl:0.0:1.9~Why you don't just toss him in a river?~sl:~Hey, not my business.
+
+0x901EA364 = ~z~I knew this was coming.
+
+0x1208E2C4 = ~z~~sl:0.0:4.0~I'm in... agony!~sl:1.6~Give it to me?
+
+0x2171FB60 = ~z~Okay now. Off I go... into nowhere...
+
+0x2232B893 = ~z~I'm looking... looking for them who owns the fire.
+
+0x2830CA73 = ~z~~sl:0.0:2.7~You won't give... me? You won't?~sl:1.5~I won't forget this. Never.
+
+0x3033FB7C = ~z~Hey. There's a peculiar feller over by the fire.
+
+0x7383DB34 = ~z~I want the person whose fire it is. Not you.
+
+0x8668BDFD = ~z~Surprised he ain't dead yet, I'll tell you.
+
+0x9492D490 = ~z~~sl:0.0:1.5~My brother was four.~sl:0.7~Men cloaked as animals, ravagers...
+
+0x9935E08A = ~z~You trespassering.
+
+0x9971B159 = ~z~~sl:1.0:2.2:1~To think, I was gonna...
+
+0x9989EBCF = ~z~Get on with him. Tired of smelling that fool.
+
+0x29988C1E = ~z~~sl:0.0:4.0:1~You cruel... crueler than I knew... hmm...
+
+0x44463C91 = ~z~~sl:0.0:1.5~You gonna talk to him or what?~sl:~He's got my gooseflesh up...
+
+0x46462B69 = ~z~~sl:0.7:~You're kind. You're good... and kind.
+
+0x65217B6B = ~z~Can you talk to him already?
+
+0x75241BE9 = ~z~
+
+0x385102D4 = ~z~You have something for me? Do you?
+
+0x556234A9 = ~z~I'll just be... warming my gums...
+
+0x798817F6 = ~z~~sl:2.4~I'll just... scrabble away...
+
+0x826907F9 = ~z~
+
+0x874438CA = ~z~~sl:0.0:0.6~Oh?~sl:3.0:3.2~Over and again and over again...~sl:~keep on meeting by the fire...
+
+0x894945CA = ~z~Gimme some meat. I want it.
+
+0x24167135 = ~z~~sl:0.0:2.9~Forever... at this fire, until...~sl:1.6:1.9~until I been traveling a thousand hours~sl:~and ten hundred years and, and...
+
+0x72118486 = ~z~You're just gonna let him keep on coming back?
+
+0x73165843 = ~z~Honestly, you're too kind to that one.
+
+0x74221970 = ~z~Longer you keep him waiting, worse he smells.
+
+0x74413889 = ~z~~sl:0.0:2.3~I can't hear my family no more...~sl:0.0:2.0~I go to where they lay, but it's...~sl:2.6~just... teeth, in the ground.
+
+0xA5BDCEA2 = ~z~What is this?
+
+0xA8BA81C5 = ~z~
+
+0xA13A689A = ~z~~sl:2.7:4.0~Yeah! A kindness.~sl:2.1~A kindness...
+
+0xA95AA2B7 = ~z~I was happy once... books'n thick shoes.
+
+0xA129D85D = ~z~~sl:0.0:4.8:1~See you soon, friend. As someone I can count on...
+
+0xAB53B032 = ~z~~sl:0.0:3.1~Yeah, you know, I, I visited my family?~sl:0.0:2.9~Been a long time. They missed me, and...~sl:0.8~It hurts to be away.
+
+0xABAA55CA = ~z~~sl:0.0:1.2:1~You gave me...
+
+0xAC655072 = ~z~~sl:0.0:1.2~I can't hunt...~sl:0.0:2.9~my elbows are bright hot and my knees crackle.~sl:~Will you give me  some meat? I need it.
+
+0xACA45C2E = ~z~~sl:0.0:4.7~You don't love me, or hate me, or both.~sl:2.5~Goodbye.
+
+0xACED8B06 = ~z~You just gonna leave him waiting?
+
+0xB5C61D60 = ~z~Oh, Lord. He's back...
+
+0xB7F29E03 = ~z~~sl:1.0~Leave me be.
+
+0xB8E663E6 = ~z~He's just foul. What do you see in him?
+
+0xB39C6A5F = ~z~~sl:0.0:0.7:1~Why?
+
+0xB57F5F5A = ~z~~sl:0.0:5.0~I will be back. Forever and ever...~sl:~waiting... on your charity.
+
+0xB63C1582 = ~z~I-it'll never stop, until you stop...
+
+0xB24667F7 = ~z~~sl:0.0:1.0:1~Hey...
+
+0xB649290B = ~z~I... want it.
+
+0xB5899554 = ~z~~sl:2.3~All alone, we are...
+
+0xBA2F7E46 = ~z~~sl:2.2:2.7:1~Listen to the fire crackle...
+
+0xBD3F6EAE = ~z~You ain't who I'm waiting for.
+
+0xBD9D54C5 = ~z~~sl:0.0:1.6~You got family, once?~sl:2.8:3.0~Flickering... limning...~sl:0.9~the big lonely insides...
+
+0xBEB3ADB7 = ~z~
+
+0xC3CFB94F = ~z~
+
+0xC4EA124C = ~z~Holy damn!
+
+0xC79F3D5C = ~z~Go away, I said.
+
+0xC34074B7 = ~z~So, uh... who the hell was he, anyway?
+
+0xC42987CA = ~z~~sl:2.2:1.2~You don't know me...~sl:0.7~but I know you. I've been waiting..
+
+0xC788381A = ~z~~sl:0.0:2.4~Once I caught a bat in my hand~sl:0.0:4.0~and punched its head out with a bullet~sl:~I fashioned from my mother's tooth...
+
+0xCC4A8AAE = ~z~Well, he's gone... doubt that'll last...
+
+0xCC26AD41 = ~z~~sl:5.1~Music under my feet.
+
+0xCC48B0F4 = ~z~Dear friend... dear... friend.
+
+0xCC694922 = ~z~
+
+0xCE336C68 = ~z~Chattering through the wind...
+
+0xD042CA72 = ~z~~sl:0.0:2.3~You don't feed me, I'll...~sl:1.2~I need it...
+
+0xD3B59A4E = ~z~Strange man.
+
+0xD9D7DCB9 = ~z~~sl:0.0:1.6~I just keep on...~sl:1.0~You and me... keep meeting each other forever.
+
+0xD60C5DC8 = ~z~
+
+0xD807B887 = ~z~Gonna need a shovel?
+
+0xD916F5BC = ~z~~sl:0.0:2.2~Well, well...~sl:3.5~I'll be back...
+
+0xD38358DA = ~z~~sl:0.5~That feller's back by the campfire.
+
+0xDA81940C = ~z~What's you 'fraid of? I just... come talk to me...
+
+0xDBB18171 = ~z~~sl:0.0:1.8~Fine. Fine!~sl:4.2:2.5~I'mma find me a... a juicy...~sl:0.6~juicy ferret... just dead'n fresh...
+
+0xDBCA63F3 = ~z~Fine then. Off I go.
+
+0xDDFEBB74 = ~z~~sl:0.0:1.7~I been watching you.~sl:1.7:3.7~You... good, you got...~sl:1.1:1.5~remind me of me...~sl:2.0:1.5:1~when I was...
+
+0xDE572284 = ~z~~sl:0.0:2.0~Give it over!~sl:1.2~Please? Come on...
+
+0xDFEE0FDD = ~z~~sl:0.0:4.7:1~All they leave me with is the memories of what they was...
+
+0xE1B97546 = ~z~The drunk is back. Is he drunk?
+
+0xE3C071C1 = ~z~~sl:0.7:2.0~How long we've seen each other?~sl:1.3~Bet it'll be... forever...
+
+0xE3F8C47A = ~z~Finally!
+
+0xE4FE0D8A = ~z~Fine... fine. I get it.
+
+0xE7F0DDDC = ~z~No, not again, not again...
+
+0xE7FAA081 = ~z~You think he'll ever stop coming?
+
+0xE561D313 = ~z~Oh, this is a long time coming.
+
+0xEA26857F = ~z~Oh, Jesus. Talk to that nasty man already, will you?
+
+0xEADB7EC0 = ~z~~sl:0.0:2.4~When you gonna help me? Huh?~sl:1.2~When you gonna help me off this thing?
+
+0xEEA89959 = ~z~~sl:1.8~That smells good...
+
+0xEEBE5CF3 = ~z~~sl:0.0:1.4:1~Been out here a long time.
+
+0xF0C6F211 = ~z~~sl:0.0:2.2~I'mma piss on your fire.~sl:3.2~Gimme what I want.
+
+0xF2A48D00 = ~z~~sl:0.0:3.3~You know why I'm here. You know I'm just...~sl:1.5:2.0~We all the same, ain't we?~sl:0.8~Just taking. Now gimme.
+
+0xF2F3A975 = ~z~~sl:0.0:1.3:1~You're hateful...
+
+0xF5B47963 = ~z~~sl:2.1~Blood in the water!
+
+0xF7F84D1E = ~z~~sl:2.0~Give it to me...
+
+0xF9B5F650 = ~z~~sl:0.8:5.0~I wonder... You must just want t'be rid of me...~sl:~giving me precious... grease-flecked sustenance.
+
+0xF10FF713 = ~z~~sl:0.0:2.1:1~Off to kick the roses...
+
+0xF31AE533 = ~z~
+
+0xF3858FEA = ~z~~sl:0.0:2.9~You want me to beg? I'll beg...~sl:1.3~I ain't nothing I can offer you...
+
+0xF8913ACF = ~z~Suppose he likes you... eh, well.
+
+0xF1721333 = ~z~
+
+0xFA7D5D2E = ~z~~sl:2.7~Yeah!
+
+0xFA859E7A = ~z~~sl:0.0:2.1~I know, I know...~sl:2.8~Can't we be friends?
+
+0xFB26FE9D = ~z~Damn. Nasty feller.
+
+0xFC8C7806 = ~z~~sl:2.0~This'll never end.
+
+0xFCEC2BAB = ~z~That feller's over by the fire again.
+
+0xFD88890F = ~z~I can't...
+
+0xFD152593 = ~z~We all die anyway... I hope.
+
+0xFDF196F8 = ~z~~sl:0.0:1.2~I don't know him...~sl:~He seems like he knows you, though.
+
+0xFE68AE03 = ~z~How long before you deal with him?
+

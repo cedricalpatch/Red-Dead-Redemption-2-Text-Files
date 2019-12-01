@@ -1,0 +1,630 @@
+0x0143026E = ~z~~sl:0.5~I did my research, alright?
+
+0x02796310 = ~z~I've got this, Uncle.
+
+0x03B773D4 = ~z~You would be.
+
+0x03D58C16 = ~z~You got us into this.
+
+0x0430D492 = ~z~~sl:0.0:1.3:1~Oh shit...
+
+0x049D5C84 = ~z~Like he always says, loyalty is everything, so...
+
+0x050A8E84 = ~z~Nicely done, Bill. They teach you that move in the army too?
+
+0x0A0551FA = ~z~Come on, hurry up.
+
+0x0AB97767 = ~z~Watch it, Charles.
+
+0x0B06345A = ~z~There's a whole lot of 'em back there.
+
+0x0CF140C0 = ~z~Arthur!
+
+0x0D82824F = ~z~a very sick man indeed.
+
+0x0DD00DDB = ~z~Mr. Cornwall ain't gonna be happy about this.
+
+0x0E927408 = ~z~I work for Cornwall Kerosene and Tar... Mr. Leviticus Cornwall.
+
+0x0EFED507 = ~z~Quick, behind these rocks.
+
+0x0F177178 = ~z~but if he...
+
+0x0FCFA07F = ~z~~sl:0.0:2.6:1~Now, let's see what's inside.
+
+0x1B038813 = ~z~We should cover our faces.
+
+0x1B14A864 = ~z~No, not after that business in Valentine.
+
+0x1B35810B = ~z~I told you... there's a wagon with a lockbox passes through every week.
+
+0x1B35959D = ~z~Alright...
+
+0x1BA21CAA = ~z~and I'll only take a small commission for my information...
+
+0x1D3AE595 = ~z~Yeah, I'll deal with you later.
+
+0x1D642686 = ~z~We better go give them a hand.
+
+0x1E9F9422 = ~z~~sl:0.3:0.0~So you know him?
+
+0x1FE4A2EF = ~z~You know, Arthur, bitterness, it works on the inside...
+
+0x2A0657EC = ~z~Looks like Mr. Cornwall's gone and upped his security.
+
+0x2AB89370 = ~z~Stay with me, for chrissakes, and keep it down.
+
+0x2CCE4E3B = ~z~Is this your place?
+
+0x2CF4388C = ~z~More on the right here.
+
+0x2D6E06AE = ~z~You see anything?
+
+0x2DD25C08 = ~z~~sl:0.0:1.8~There. ~rp~You see, gentlemen?~lr:0.6:1.4:1~Just like clockwork.
+
+0x2E51716E = ~z~What are you going out there for?
+
+0x3A0750C3 = ~z~Once a decade, maybe. So what is it you've scoped here, exactly?
+
+0x3A479574 = ~z~I don't reckon this is what he meant by split up, Arthur.
+
+0x3B63BE1C = ~z~they're coming this way.
+
+0x3E8ECF29 = ~z~When?
+
+0x3F0C5C35 = ~z~Outta the way, Uncle.
+
+0x3F30D94B = ~z~Dig in, boys, come on.
+
+0x3FF3A3B1 = ~z~~sl:1.0~We need to do this quietly.
+
+0x4A5DEB9E = ~z~Whoa...
+
+0x4A1896A0 = ~z~Why? You got another surefire plan for us, Uncle?
+
+0x4AA3CDA5 = ~z~~sl:0.0:3.4:1~Yeah, I don't think they're here. Don't see any horses.
+
+0x4B307221 = ~z~~sl:0.0:3.7~All right. Cooperforth, Lowe...~sl:~go check out the... the barn.
+
+0x4C6693E0 = ~z~Shut up.
+
+0x4CAC565D = ~z~This feller really don't like getting robbed.
+
+0x4CEEB93A = ~z~Oh this is it. I'm officially retired.
+
+0x4D3D6C86 = ~z~They'll be passing through the crossroads up ahead.
+
+0x4E08172B = ~z~Absolutely.
+
+0x5A0E5F3B = ~z~Just about...
+
+0x5B901AD2 = ~z~Oh, shit... fire! The oil from that lantern!
+
+0x5C12B340 = ~z~Shit!
+
+0x5CBF0DB6 = ~z~Excuse me, Miss O'Shea.
+
+0x5D9B85DA = ~z~~sl:0.0:2.4~How you get wind of this, old man?~lr:0.4~We only been down here all of five minutes.
+
+0x5E4D9A42 = ~z~Arthur, come on, you're wide open there!
+
+0x5E6AAC66 = ~z~What happened to "keep this calm", Arthur?
+
+0x5FC82F18 = ~z~Okay, one of you check out round the back.
+
+0x5FD1A419 = ~z~Go on... get outta here.
+
+0x6A08CFEE = ~z~We'll try to lose them in the woods.
+
+0x6A37BAE8 = ~z~It's a supply wagon carrying payroll...
+
+0x6A6566CF = ~z~Arthur, help me out here.
+
+0x6B3C43C6 = ~z~
+
+0x6B9A2985 = ~z~Uh oh. Clearly those boys ain't as quiet as us.
+
+0x6C50D4CB = ~z~Hey, Arthur... can I have a quick word?
+
+0x6C9948C3 = ~z~They was seconds from finding us anyway.
+
+0x6DE22667 = ~z~~sl:0.0:2.0~While you boys been off fishing or...~lr:~playing lawmen or whatever the hell you've been doing,
+
+0x6DFF411B = ~z~Yes, you are a compulsive liar.
+
+0x6E783128 = ~z~Arthur!
+
+0x6F84C1E6 = ~z~What you want?
+
+0x7B78CE98 = ~z~Let's go, Arthur.
+
+0x7CFD5DBF = ~z~No I'm not.
+
+0x7D2EDD82 = ~z~I can risk my neck, and make you some money...
+
+0x7D41FA6A = ~z~~sl:0.0:3.5~So this is what you call "easy pickings", Uncle?~sl:0.6~Easy pickings for them, more like.
+
+0x7D88408A = ~z~Check the boxes at the back, Arthur.
+
+0x7E6EE242 = ~z~Now you boys should do this, it's easy...
+
+0x7E5443FC = ~z~Your right or my right?
+
+0x7E24775B = ~z~There's a light...
+
+0x8A558FC5 = ~z~let's try and get outta here.
+
+0x8AFD791F = ~z~while you lounge around.
+
+0x8B82FD7E = ~z~as it passes through a crossroads near here...
+
+0x8C077BD3 = ~z~Arthur's above a little stick up I heard about.
+
+0x8CB1F051 = ~z~Oh great...
+
+0x8D61FE75 = ~z~Damn it.
+
+0x8E791797 = ~z~While, we uh...
+
+0x8F00E555 = ~z~We need to do this quietly.
+
+0x8F00FB7D = ~z~Hold them back! Do not let 'em close in on us.
+
+0x9A0D876A = ~z~Arthur, how is Dutch?
+
+0x9BF72DC1 = ~z~There's a goddamn horde of them on the left here.
+
+0x9CD026ED = ~z~
+
+0x9DABB5FC = ~z~get some rest.
+
+0x11F710BF = ~z~Made a meal outta that, didn't you?
+
+0x14AC162D = ~z~Making an old man suffer...
+
+0x17EB939D = ~z~as long as you ride with us.
+
+0x17F31D99 = ~z~~sl:0.0:1.3:1~Come on, old man!
+
+0x19DEFFEE = ~z~~sl:0.8:0.0~This whole place is catching.
+
+0x22EB4BC9 = ~z~Keep going!
+
+0x22EDB2B0 = ~z~Just stand there, why don't you?
+
+0x26EDB455 = ~z~before it connects with the rest of the wagon train.
+
+0x27C86E41 = ~z~Oh, I told you... there's a wagon with a lockbox passes through every week.
+
+0x29E0B927 = ~z~but it's now or never.
+
+0x30F5BB61 = ~z~Oh, shut the hell up.
+
+0x32BF4944 = ~z~Well you just said...
+
+0x32C3BD2F = ~z~Arthur, what are you doing?
+
+0x34B49488 = ~z~Every man split up. Go on, run, quick.
+
+0x38E7AFCE = ~z~Come on, Arthur, quick and quiet.
+
+0x39B07F42 = ~z~Move, Bill.
+
+0x42CD30B9 = ~z~Sure, but now we got Cornwall on our backs again.
+
+0x43C16AA8 = ~z~If you say so...
+
+0x45C287DF = ~z~Get outta here, go on...
+
+0x46CB9704 = ~z~Getting outta here! What kind of dumb question's...
+
+0x47FDADC8 = ~z~How was I to know?
+
+0x49A3F9C1 = ~z~I'm happy.
+
+0x58C87BDB = ~z~I been watching them.
+
+0x58DC14DD = ~z~the great gift of information.
+
+0x59BF5420 = ~z~They're coming in from the front.
+
+0x60F5143B = ~z~Guess we should go give 'em a hand.
+
+0x62DA2B19 = ~z~I hardly know you.
+
+0x65A3262B = ~z~Keep going! We're losing 'em.
+
+0x69F2DB0F = ~z~~sl:0.1~I been watching them.
+
+0x70AD46BF = ~z~Exactly.
+
+0x70E233CF = ~z~Soon, Williamson. Chrissakes. It should be due any time now.
+
+0x71F1295C = ~z~This would be a lot quicker if someone helped me.
+
+0x72B2A438 = ~z~I wouldn't leave that old fool by himself, Arthur.
+
+0x74D6E8E9 = ~z~~sl:0.0:2.9~Let's split up a bit, try to confuse 'em...~sl:0.2~Arthur, with me.
+
+0x77ACF683 = ~z~~sl:0.0:2.9~They switch outriders just north of here but the front wagon's...~sl:~by itself for a stretch before the last run down into Rhodes.
+
+0x79BC59F1 = ~z~where there's an old ruined church...
+
+0x80CC77B4 = ~z~Come on then, you miserable bastards.
+
+0x81CF667B = ~z~I bring a gift...
+
+0x83D96EFB = ~z~You are a sick man, Arthur Morgan...
+
+0x84E2A878 = ~z~~sl:0.0:2.4~Well, while you boys been off fishing or...~lr:~playing lawmen or whatever the hell you've been doing,
+
+0x88CE9583 = ~z~Where are they all coming from?
+
+0x95E40F94 = ~z~What are you talking about?
+
+0x95FD4AAD = ~z~~sl:0.0:2.4~How you get wind of this, old man?~lr:0.5~We only been down here all of five minutes.
+
+0x98AE550E = ~z~Yes, Miss O'Shea?
+
+0x99B3057C = ~z~Okay, hold up here.
+
+0x118DC6E6 = ~z~~sl:0.6~Perfect.
+
+0x133A72B1 = ~z~
+
+0x137DA6E3 = ~z~Yes, well done with that. I'm sorry we ever doubted you.
+
+0x148C9961 = ~z~If we don't get outta here soon, we're charcoal.
+
+0x165FBDBF = ~z~Right. That's what I'm saying.
+
+0x173A6C64 = ~z~Will you keep up?
+
+0x176EB1B5 = ~z~See what happens.~n~~m~Open it up!
+
+0x199FB23E = ~z~How about we stop robbing Cornwall for a while?
+
+0x223A3227 = ~z~~sl:0.0:1.3:1~Come on, Arthur!
+
+0x242C00FB = ~z~Shit... fire!
+
+0x257E035A = ~z~~sl:0.0:0.8~Sure.~sl:1.1:2.1:1~You head inside, I'll go round the back.
+
+0x302ABE72 = ~z~Let me get in there.
+
+0x307FEBA4 = ~z~What are you doing? You've gone and spooked 'em.
+
+0x316DB9BE = ~z~
+
+0x329B8494 = ~z~Ain't you glad now I insisted you come along?
+
+0x343CA0D7 = ~z~Well the place looks deserted enough...
+
+0x344B473A = ~z~We got more of the bastards on this side.
+
+0x368EEFF5 = ~z~I ain't got, I ain't got nothing to rob, mister.
+
+0x452AD1AA = ~z~Perfect.
+
+0x458B707C = ~z~Oh, God help me...
+
+0x537C2352 = ~z~I'll see you later.
+
+0x550F8F84 = ~z~Charles, have I ever lied to you?
+
+0x608EA4E2 = ~z~Hey, I'll do it...
+
+0x669DB060 = ~z~So, you got some tip off, so now...
+
+0x705B280A = ~z~and I'll take the right, ok?
+
+0x718ADE30 = ~z~Look, I was just trying...
+
+0x728F5B3A = ~z~This way... bunch of smart alecks.
+
+0x738CB1B8 = ~z~~sl:0.0:4.1~Hey, ~rp~you don't want in on this, Williamson, that's fine by me.~lr:0.1~Do us all a favor and head home.
+
+0x743A0FC5 = ~z~Are you trying to get killed out there?
+
+0x772A70C3 = ~z~Don't worry, fellers. We ain't going out like this, no goddamn way.
+
+0x811BAC87 = ~z~Bastard...
+
+0x820ADFDD = ~z~~sl:0.4:0.8:1~Sir.
+
+0x882ACD59 = ~z~Let's just hope we don't run outta bullets.
+
+0x909C2216 = ~z~
+
+0x970F2938 = ~z~Alright...
+
+0x2083F966 = ~z~Shit!
+
+0x2357EA7A = ~z~They're coming this way.
+
+0x2766DAAF = ~z~Out of the way, Bill.
+
+0x3796CE5F = ~z~we all still alive?
+
+0x4603EFCD = ~z~I got a serious medical condition.
+
+0x5436A313 = ~z~Charles, you keep watch for now.
+
+0x6646D283 = ~z~Ride, boys, come on!
+
+0x6841FBA2 = ~z~Leave it, go on, get out of here.
+
+0x7252DF4B = ~z~Alright, let's get outta sight. Come on.
+
+0x8044E5A6 = ~z~No need to be like that.
+
+0x8451B63A = ~z~Ahh, great.
+
+0x8614D677 = ~z~~sl:0.0:3.2~They switch outriders just north of here, but the front wagon's...~sl:~by itself for a stretch before the last run down into Rhodes.
+
+0x22531E1C = ~z~Anything dumb, Williamson, you're on your own.
+
+0x48937CE4 = ~z~Uh oh. Sounds like they got some trouble over here.
+
+0x70625BD7 = ~z~over by the house.
+
+0x71316C21 = ~z~Okay, we're looking good. Must be nearly a thousand here.
+
+0x74054AD0 = ~z~Hold it right there.
+
+0x80907BC6 = ~z~We'll stay until dark and...
+
+0x81427D9F = ~z~Shut up, old man.
+
+0x89406A27 = ~z~Hurry, come on.
+
+0x91743BB8 = ~z~
+
+0x94366DE6 = ~z~Are you gonna give me a hand here?
+
+0x579823CE = ~z~~sl:0.4:1.3:1~Better not be...
+
+0x748789B0 = ~z~We got more on this side.
+
+0x881904CF = ~z~Go ahead, go ahead. Tell me what you heard.
+
+0x935808A6 = ~z~Behind you, Charles.
+
+0x1203072C = ~z~but you can go find some other fool to run your errands.
+
+0x1512109E = ~z~Very easy pickings.
+
+0x1810121C = ~z~Move over.
+
+0x4674078E = ~z~and then we'll sneak outta here.
+
+0x12172899 = ~z~Can't you keep your fat feet still for ten goddamn seconds?
+
+0x28901875 = ~z~You take the left...
+
+0x58656928 = ~z~~sl:0.0:1.4~Place looks empty to me.~sl:0.9:2.1:1~Now, the old guy up there is full of crap.
+
+0x72801297 = ~z~Hey, think I see something!
+
+0x85171153 = ~z~Quick! Get off the trail, into the woods.
+
+0xA1AC4CC8 = ~z~Where the hell are we going?
+
+0xA1EA3871 = ~z~Why don't you just tell me, partner, what you heard.
+
+0xA2E9AC53 = ~z~Well, what is it?
+
+0xA7C04A25 = ~z~Sure.
+
+0xA8B57F01 = ~z~Shit...
+
+0xA20BCEB5 = ~z~I thought you were going with Uncle?
+
+0xA20D99C9 = ~z~Let's head into the woods!
+
+0xA31A21F6 = ~z~~sl:0.0:2.7~No, we need to find a place to lie low.~sl:0.2~We can't risk leading Cornwall's men to camp.
+
+0xA45FF58E = ~z~Hey, are you crazy? Get back in here.
+
+0xA147EDA9 = ~z~It was an honest mistake.
+
+0xA256B062 = ~z~Follow my lead.
+
+0xA79632F8 = ~z~You too, Charles.
+
+0xA98647A9 = ~z~Ain't me.
+
+0xAA85D025 = ~z~Hey.
+
+0xAB210AB8 = ~z~Drop your goddamn weapons right now.
+
+0xACEBF8D7 = ~z~Come on, we need to lose 'em!
+
+0xAEB2C3E5 = ~z~Fine, I'll do it.
+
+0xAFBF0B56 = ~z~Not yet...
+
+0xB04A2096 = ~z~Looks like we're shooting our way outta here, fellers.
+
+0xB2D3B8F6 = ~z~Ah, call me Molly would ya?
+
+0xB2D1496E = ~z~will you be my other fool?
+
+0xB5B8895B = ~z~Into the trees, come on.
+
+0xB5E442A9 = ~z~Stop the wagon!
+
+0xB53A59FB = ~z~Who doesn't?
+
+0xB793E3C4 = ~z~~sl:0.0:0.6~I don't...~sl:1.2~maybe I heard some noises out by the barn a while ago?
+
+0xB832269C = ~z~Let's go, Arthur!
+
+0xBA4362B4 = ~z~Get back in here, you crazy bastard!
+
+0xBAB71946 = ~z~Looks like we're shooting our way outta here, fellers.
+
+0xBC319C2F = ~z~~sl:0.0:2.3:1~You take the left and I'll take the right, ok?
+
+0xBCD36611 = ~z~I am.
+
+0xBD674E1D = ~z~About the same as usual, I guess.
+
+0xBEB19C62 = ~z~Faster, come on!
+
+0xC02A66D4 = ~z~but very briefly unguarded apparently...
+
+0xC7FA9F48 = ~z~~sl:0.0:0.8~Woah...~sl:0.2:1.7~Let-let-let's hide in here...~sl:0.3~quick.
+
+0xC7FAE6D6 = ~z~I said, stop the damn wagon!
+
+0xC22DC45D = ~z~Bill, you idiot! Give 'em hell, boys.
+
+0xC24F3A5A = ~z~They can't have gone too far.
+
+0xC27FA3FE = ~z~Go, get rid of them!
+
+0xC49CED05 = ~z~Bill, come on over here...
+
+0xC58A28E7 = ~z~Nice going, Uncle! Most guarded wagon in goddamn history.
+
+0xC72ABBE7 = ~z~H'ya!~n~~m~Stop!
+
+0xC80A5767 = ~z~Shh...
+
+0xC82E5AEE = ~z~Finding the nearest grog house.
+
+0xC84BC7AE = ~z~Damn...
+
+0xC85063EF = ~z~I mean, how does he seem to you?
+
+0xC984409A = ~z~Let's go.
+
+0xC6503074 = ~z~Goddamn it, Arthur, what was that? Let fly at 'em boys.
+
+0xCA3683EF = ~z~~sl:0.4:3.4~I hear he's rich enough to share the wealth around...~sl:0.2:1.8:1~and not miss it too much.
+
+0xCB1BCA66 = ~z~You're telling me.
+
+0xCCE1E455 = ~z~~sl:0.0:2.8~Oh, just have a little faith for once, will ya?~sl:0.2:1.8~I've been scoping jobs like this...~sl:~since you fellers were knee-high to a grasshopper.
+
+0xCD8B1DEF = ~z~Get out here.
+
+0xCDC946AB = ~z~Good luck, gents.
+
+0xCECFDFCD = ~z~Light a shuck, boys! Get rid of these sons of bitches.
+
+0xCF89BDC5 = ~z~~sl:0.0:2.3~Just have a little faith for once, will ya?~sl:0.2:1.8~I've been scoping jobs like this...~sl:~since you fellers were knee-high to a grasshopper.
+
+0xD0B61D4B = ~z~Where are we going, Bill?
+
+0xD3F4A118 = ~z~Hey, are you trying to get us caught?
+
+0xD4CA064A = ~z~I've been getting down to business.
+
+0xD8C25550 = ~z~Shh...
+
+0xD40E471B = ~z~Come on, Arthur!
+
+0xD889F451 = ~z~Follow my lead.
+
+0xD3652CBE = ~z~Let's go, let's go!
+
+0xD90667C8 = ~z~Sons of bitches... how we gonna find them in this?
+
+0xDB1F2ADE = ~z~~sl:0.4:0.7:1~Kinda...
+
+0xDB7D9D76 = ~z~As long as we get paid or, you get shot...
+
+0xDB71E475 = ~z~Arthur, let's go!~n~~m~Oi, you!
+
+0xDBEF139F = ~z~Let's shake them and get back to camp!
+
+0xDC188F15 = ~z~Now, don't try anything stupid and we won't do anything unkind.
+
+0xDC917B50 = ~z~Ride, fellers, come on.
+
+0xDD5E6EEB = ~z~Last time I'm doing the payroll wagon.
+
+0xDDC6C7AC = ~z~Watch out.
+
+0xDE23BF20 = ~z~Damn.
+
+0xDE389F38 = ~z~Stay quiet and move.
+
+0xDF68AE53 = ~z~~sl:0.1:0.0~Oh, he'll miss it.
+
+0xE1BF0AD4 = ~z~Quick, behind these rocks.
+
+0xE1F5D4D8 = ~z~Made a meal outta that, didn't you?
+
+0xE8FBD4D0 = ~z~Don't shoot!
+
+0xE9A74924 = ~z~Goddamn it. They're piling in this way now.
+
+0xE15A95FF = ~z~I... I really love him you know...
+
+0xE20CE318 = ~z~They're still on us!
+
+0xE46AA58B = ~z~Just give it a rest, you two.
+
+0xE67EB963 = ~z~Everyone still breathing?
+
+0xE68A4643 = ~z~What the hell're you doing, we need to be quiet.
+
+0xE333ABCE = ~z~Then it's never.
+
+0xE367E8EF = ~z~Get the hell off me!
+
+0xE32564FC = ~z~~sl:0.0:3.6~Hey, ~rp~if you don't want in on this, Williamson, that's fine by me.~lr:0.1~Do us all a favor. Head home.
+
+0xE98114E8 = ~z~Just shut up, Williamson.
+
+0xEA8078CC = ~z~Your right or my right?
+
+0xEABE4DFC = ~z~Where the hell you going?
+
+0xEDAB0676 = ~z~We got some money, didn't we?
+
+0xEE9B79A9 = ~z~Shh...
+
+0xEF8D7007 = ~z~~sl:0.7~This is a young man's game...
+
+0xEF16968C = ~z~~sl:0.0:0.7~Boss.~sl:0.8:1.0:1~Place is empty.
+
+0xF05BB2C0 = ~z~Let's keep this quiet and clean. Nobody needs to die here.
+
+0xF4C14543 = ~z~Alright.
+
+0xF9C1765B = ~z~L-L-L-L-Let's just... keep this calm.~n~~m~ Get out here right now, I know you're in there!
+
+0xF14F014F = ~z~~sl:0.4~Finding the nearest grog house.
+
+0xF46F87DD = ~z~Everyone stay tight!
+
+0xF72EB043 = ~z~You can move fast when you have to, can't you?
+
+0xF358AE07 = ~z~Damn...
+
+0xF4935DC6 = ~z~I-I... I...
+
+0xF8316F62 = ~z~I didn't know we was robbing Cornwall, alright?
+
+0xF9586BDF = ~z~Stop that. You'll lead them right to us.
+
+0xF8808201 = ~z~Alright, we best hit it quick then.
+
+0xFBB7A28F = ~z~We all still alive?
+
+0xFC1C9687 = ~z~We got a lotta company back there.
+
+0xFCD1D087 = ~z~~sl:0.1:3.4~You know, boys... I... I don't, I don't want to get shot,~sl:0.2~but this is a mistake.
+
+0xFCD13201 = ~z~Come on, let's head back.
+
+0xFD415DA9 = ~z~as well as on your sour face.
+
+0xFE5D715A = ~z~And you didn't hear nothing?
+
+0xFFD6AD3E = ~z~He's being robbed up ahead!
+

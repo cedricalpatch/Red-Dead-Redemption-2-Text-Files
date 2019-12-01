@@ -1,0 +1,32 @@
+0x7FD1DB92 = ~z~Hurrah, me boys, we're bound to go...
+
+0x9AA41B57 = ~z~They give three loud cheers, while the tears downward flow,
+
+0x91BF7F6D = ~z~It's now we are hauling, right out of the dock,
+
+0x97688ABF = ~z~She sails to the westward, where stormy winds blow,
+
+0x627220D3 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+0xA86D36E9 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+0xA92C2E46 = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+0xB43D4468 = ~z~Bound away in the Dreadnaught, to the westward we'll go,
+
+0xC6A56938 = ~z~Hurrah, me boys, we're bound to go...
+
+0xD136087A = ~z~Goodbye fare ye well, goodbye fare ye well...
+
+0xDE0E1809 = ~z~It's of a flash packet, a packet I've seen,
+
+0xDE142236 = ~z~Where the boys and girls on the pier head do flock,
+
+0xEDCBC1A5 = ~z~Hurrah, me boys, we're bound to go...
+
+0xF2694B08 = ~z~Hurrah, me boys, we're bound to go...
+
+0xFBF4D3D6 = ~z~She's a hardy flash packet, the Dreadnaught's her name,
+
+0xFFF2661A = ~z~Bound away in the Dreadnaught, to westward we'll go
+

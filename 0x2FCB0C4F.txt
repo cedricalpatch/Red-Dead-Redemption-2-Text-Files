@@ -1,0 +1,30 @@
+0x009D6594 = ~z~~sl:0.0:1.3~I know I been...~sl:1.1~kinda... mad with you all.
+
+0x2EA2C2FB = ~z~You boys mind if I sit down a while?
+
+0x8B1BF2F3 = ~z~~sl:0.0:1.7~I'm sorry, okay?~sl:1.5~I'm sorry, but, I...
+
+0x26DB5079 = ~z~forgive me, all of you.
+
+0x58B08AC0 = ~z~Same as Dutch, same as Hosea.
+
+0x75BED132 = ~z~Been a tough few weeks.
+
+0x300BD5BE = ~z~I don't know what I'm trying to say here.
+
+0x3600E930 = ~z~I want us to get outta here.
+
+0xA6FF275C = ~z~~sl:0.0:2.1~I guess I'm struggling to just...~sl:0.7~find a path forward for us all.
+
+0xA61BFD6B = ~z~~sl:0.0:1.6~Sometimes it gets hard...~sl:2.2~I guess I'm...
+
+0xAC2F5CF7 = ~z~~sl:0.0:1.8~Everybody nearly gone crazy,~sl:0.0:0.9~I'm just...~sl:0.2~trying to keep things together.
+
+0xC2B85C25 = ~z~I don't wanna die.
+
+0xC84A8795 = ~z~~sl:0.0:1.0~Okay.~sl:0.4~I guess I was trying to say...
+
+0xC77121CF = ~z~~sl:0.0:1.1~Okay.~sl:0.7~I guess I was trying to say...
+
+0xC8726799 = ~z~~sl:0.0:1.7~But if I have to, I will.~sl:0.6~So...
+

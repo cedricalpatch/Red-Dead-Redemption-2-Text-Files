@@ -1,0 +1,20 @@
+0x3A1D5197 = Crazy
+
+0x6B7CD2AE = Refuse
+
+0x10C8A80B = Hug
+
+0x312C983E = Sure
+
+0x455B986F = Don't Hug
+
+0x1080020B = No
+
+0xA73C0737 = Give ~1$~
+
+0xB703C9BA = Ignore
+
+0xD5B0B1C9 = No
+
+0xFD02C4BC = Arthur
+

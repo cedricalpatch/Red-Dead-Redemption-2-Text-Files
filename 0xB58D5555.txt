@@ -1,0 +1,72 @@
+0x0920A802 = ~z~Great!
+
+0x0FAAD422 = ~z~We have a victim.
+
+0x1D93807C = ~z~
+
+0x2A5DD144 = ~z~Fine weather, sir.
+
+0x3D9B77BF = ~z~Sure...
+
+0x7E857992 = ~z~You know...
+
+0x9FE23DC1 = ~z~Mr. Morgan!
+
+0x15DA283D = ~z~Fine times.
+
+0x25FFC3CB = ~z~
+
+0x30DF777F = ~z~We need two for cards, come on!
+
+0x35C92192 = ~z~is gonna finance our retirements.
+
+0x71E49898 = ~z~Great.
+
+0x84CD8626 = ~z~If you say so.
+
+0x93B9DC42 = ~z~so how about you join me in a few hands of poker?
+
+0x98BFAE06 = ~z~We'll survive to see another season, at least.
+
+0x504F9D27 = ~z~when times are good...
+
+0x801AB504 = ~z~Sure.
+
+0x5293BAEB = ~z~Sure, why not?
+
+0x44511E66 = ~z~Might I tempt you at a quick turn at the card table?
+
+0x113980AD = ~z~
+
+0x577944B6 = ~z~I'll go easy on you.
+
+0x63854392 = ~z~I sure hope so.
+
+0xA1F878BF = ~z~I do...
+
+0xA3792677 = ~z~
+
+0xACB18E25 = ~z~Let's see...
+
+0xAF04F3CC = ~z~Yes?
+
+0xB3A39C15 = ~z~You old degenerate.
+
+0xB49465B3 = ~z~it's a sin not to appreciate them.
+
+0xC1F438B6 = ~z~Mr. Morgan here...
+
+0xC488F862 = ~z~Mr. Pearson.
+
+0xCD4914E2 = ~z~Mr. Morgan!
+
+0xCEEAD297 = ~z~Swanson!
+
+0xD95AE783 = ~z~Hosea.
+
+0xDF976A80 = ~z~
+
+0xF1E57E06 = ~z~
+
+0xFF1C93FA = ~z~Arthur's playing and we know he's got a soft touch!
+

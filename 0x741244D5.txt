@@ -1,0 +1,18 @@
+0x5D0E8915 = ~z~Just listen to the man, will you? Come on!
+
+0x6ED12C9A = ~z~We're getting out of here soon. Faith, people, faith!
+
+0x7ABDC44B = ~z~That is the one thing I can't bear!
+
+0x8DD86A80 = ~z~Faith! Just have... have... faith!
+
+0x43C8565D = ~z~What is wrong with you all?
+
+0x68FF20CE = ~z~Don't lose faith!
+
+0x531CF506 = ~z~I got this... I got this!
+
+0x67311D32 = ~z~We have been through worse before, we survived!
+
+0x927873E8 = ~z~I still believe in you, old man.
+

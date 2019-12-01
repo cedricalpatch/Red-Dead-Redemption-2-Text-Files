@@ -1,0 +1,1064 @@
+0x01253B03 = ~z~~sl:2.5~Or what, exactly?
+
+0x02B48738 = ~z~Oh, I agree.
+
+0x03049371 = ~z~Why?
+
+0x0326EDC9 = ~z~~sl:0.0:3.9~Do I look like I got the energy to waste on charity?~sl:0.6~That fool can get his own horse.
+
+0x0356BB1A = ~z~Here... here you go.
+
+0x036F5707 = ~z~Mister, please, I'm sorry!
+
+0x03D8E96C = ~z~Go on, Arthur.
+
+0x03F3AFE9 = ~z~
+
+0x0430A2EC = ~z~Are you crazy?
+
+0x049EBE68 = ~z~Of course we do.
+
+0x055F7D83 = ~z~Or is that Uncle?
+
+0x059911C9 = ~z~~sl:0.0:1.8:1~Is one of you gonna get that feller's horse?
+
+0x059A3FBF = ~z~~sl:0.0:1.2:1~C'mon, let's go!
+
+0x05B4BD17 = ~z~~sl:0.3:0.0~I-I-I didn't see nothing!
+
+0x05D9A027 = ~z~Always thinking ahead, ain't you?
+
+0x06709C5F = ~z~Get off of me!
+
+0x076AD62F = ~z~I can't hold on much longer!
+
+0x07C84F01 = ~z~Alright then.
+
+0x0805A093 = ~z~I think at the hotel...
+
+0x083CBD86 = ~z~No, sir.
+
+0x0960C1E8 = ~z~Hey... hey... take it easy. There's no problem here.
+
+0x0A75A6CA = ~z~Show us how it's done.
+
+0x0AFCB345 = ~z~Well, this here's a sheep town, the lamb's the best in the state.
+
+0x0B8A8C1B = ~z~Let's go!
+
+0x0BB8F9C4 = ~z~~sl:0.0:2.7~You know you don't seem in that much of a hurry.~sl:~Look, it'd only take you five minutes most.
+
+0x0D4E6F5F = ~z~It'll find its way back.
+
+0x0DEEDCC5 = ~z~What was that all about?
+
+0x0E484BEE = ~z~Let's park up down the end there, near the stables.
+
+0x0EC25A9D = ~z~Very funny.
+
+0x0F868ECD = ~z~you get to think all day.
+
+0x1A07CE18 = ~z~~sl:0.8~Now you'll keep your mouth shut.
+
+0x1AA445D0 = ~z~Where's Tilly and Karen?
+
+0x1AD467C0 = ~z~So what do you need?
+
+0x1BB59A7D = ~z~here we are, just like I said...
+
+0x1BDF3E55 = ~z~Oh, I got lumbago, it's very serious!
+
+0x1C12A9C3 = ~z~the very embodiment of civilization.
+
+0x1CBFF238 = ~z~~sl:0.0:1.4:1~A friend of mine...
+
+0x1D92DB35 = ~z~Are we going to the store then?
+
+0x1DC3E45F = ~z~
+
+0x1DCC7005 = ~z~~sl:0.0:2.1~No, not really... I was just...~sl:0.3~trying to impress the women.
+
+0x1E997C4A = ~z~Yeah, they're in 2B, upstairs. Are you, uh, a friend of his?
+
+0x1F46BA13 = ~z~Ladies, sing us a song.
+
+0x1F461589 = ~z~They paid for the room up front, so I didn't ask any questions.
+
+0x2A0CB72B = ~z~put the women to work.
+
+0x2A242C01 = ~z~Please, do something!
+
+0x2AAE65E8 = ~z~Go right here, it's quicker.
+
+0x2B10C8E9 = ~z~Look at all that snow on the mountains. ~rp~Sure don't want to be back up there.
+
+0x2C6FD70D = ~z~You have a nice day now, sir.
+
+0x2CDB5E78 = ~z~Okay,~rp~ take a good look around, ladies. ~rp~Let's see what we got here.
+
+0x2CDC18CF = ~z~A friend of hers...
+
+0x2D0836F3 = ~z~Please don't bother the other guests, sir!
+
+0x2DB54D08 = ~z~real civilized.
+
+0x2E7B7D06 = ~z~Are you joining me or not?
+
+0x2E398480 = ~z~
+
+0x2F9CC0EB = ~z~You can do it, Arthur.
+
+0x2F410B8E = ~z~Oh, you were.
+
+0x2F374180 = ~z~man at his finest.
+
+0x3A10C672 = ~z~~sl:0.0:2.0:1~You thought I wouldn't find you, Tilly?
+
+0x3A750FB2 = ~z~What are you saying?
+
+0x3A9059E4 = ~z~Come on.
+
+0x3ADA73E2 = ~z~C'mon, c'mon...
+
+0x3B053521 = ~z~I'm looking for a girl who came in here earlier with a drunk feller?
+
+0x3B401D48 = ~z~A friend of hers.
+
+0x3C5A3834 = ~z~Sure, he only punched me.
+
+0x3C5F7F41 = ~z~Plumes in her hat was two feet tall...
+
+0x3CF9B6FB = ~z~I lied... ringworm, then rats with the plague, then you.
+
+0x3D2B7C25 = ~z~I think it's best for both of us...
+
+0x3E6A2EEB = ~z~Yeah, reckon I should probably steer clear of the saloon this time.
+
+0x3E8523D2 = ~z~
+
+0x3F01B6BF = ~z~~sl:1.4:0.7:1~Who are you?
+
+0x3F08D196 = ~z~Trying to play him. Not very well.
+
+0x3F0DCBFC = ~z~~sl:0.3:0.0~With pleasure... we'll start at the saloon.
+
+0x3FEB32B9 = ~z~I snuck into this fancy house...
+
+0x4AAC8A5A = ~z~we always do.
+
+0x4AC4C295 = ~z~Me? No.
+
+0x4B4BFE0E = ~z~~sl:0.4:0.0~Very inspiring, Arthur.
+
+0x4B74D0A3 = ~z~I imagine Paris and Valentine are easily confused.
+
+0x4B321176 = ~z~Plumes in her hat was two feet tall...
+
+0x4D3AAA1B = ~z~Appreciate it.
+
+0x4D8F68FF = ~z~~sl:0.0:2.8~Well, we're gonna do what any self-respecting maniac does...~sl:0.5~put the women to work.
+
+0x4E8A1E11 = ~z~You sure?
+
+0x4E737FF8 = ~z~Alright...
+
+0x4F2BDDD7 = ~z~You okay?
+
+0x4F9F8402 = ~z~Come on, ladies...
+
+0x4F39123F = ~z~I'm going, ain't I?
+
+0x4FCDF754 = ~z~You have to help me!
+
+0x4FF6C6B5 = ~z~Hey!
+
+0x5A6A4F5E = ~z~What the hell are you doing?
+
+0x5BAEB92B = ~z~you want a pen?
+
+0x5BFCB30B = ~z~The crack in her pants paid for it all.
+
+0x5C5D9C4E = ~z~Full stock list in the catalogue, here on the counter.
+
+0x5C9F4DB1 = ~z~A drop of whiskey for a start. Something to pass the time while we're waiting on the women.
+
+0x5CD8BAAE = ~z~Fine...
+
+0x5D066718 = ~z~Impossible.
+
+0x5D19D198 = ~z~~sl:0.0:0.5:1~Yes!
+
+0x5D41743C = ~z~Come on ladies... imagine we're in Paris.
+
+0x5E2C6F3B = ~z~and acted like a servant girl...
+
+0x5E5A0410 = ~z~Just pull me up, come on.
+
+0x5E6FEB0F = ~z~I understand.
+
+0x5F9F05CC = ~z~Thanks mister. It's the white one over there.
+
+0x5FC77F0E = ~z~Yeah.
+
+0x6A0B6179 = ~z~Excuse me.
+
+0x6A9C94B8 = ~z~Arthur punched him a lot harder.
+
+0x6B38D76E = ~z~The bank?
+
+0x6B383A03 = ~z~Plenty out on the shelves, but I got more out back.
+
+0x6C47C852 = ~z~Careful not to work yourself to death there, Uncle.
+
+0x6C6806FF = ~z~Arthur did a lot worse to him.
+
+0x6CDA80A4 = ~z~I don't know... maybe.
+
+0x6CDF8E48 = ~z~Well, Arthur, I'm proud of you.
+
+0x6D85DA62 = ~z~Just remember, keep a low profile.
+
+0x6DE4A257 = ~z~Sure, no problem.
+
+0x6E4DB0C8 = ~z~Hey, whoa! Slow down, damn it.
+
+0x6FB85475 = ~z~Well, can Miss Grimshaw spare you?
+
+0x6FDA0420 = ~z~Can I help you, sir?
+
+0x7A08A240 = ~z~Sure, he only punched me.
+
+0x7A3484EF = ~z~passing through a bit of deserted country at night...
+
+0x7AA9C23E = ~z~You like that, huh?
+
+0x7AA69D5D = ~z~
+
+0x7B0D27C5 = ~z~Watch he doesn't bolt.
+
+0x7B4A0B93 = ~z~You stay away from me!
+
+0x7B871EA0 = ~z~Come on, Arthur, enough showing off.
+
+0x7C8F13F2 = ~z~Go on, he's an old man!
+
+0x7CA89418 = ~z~Well, you seem a little scattered, Arthur. Trust Old Uncle.
+
+0x7D3C79CF = ~z~Will you remember that, though, Arthur?
+
+0x7D5F6E8B = ~z~You're lucky we're in a busy town, you son of a bitch.
+
+0x7D479B4E = ~z~I wouldn't leave it much longer.
+
+0x7DB7E6B6 = ~z~I'm sorry, friend, your horse didn't make it...
+
+0x7F9D7A4C = ~z~likes to drink that fancy wine.
+
+0x8A79FFB8 = ~z~If you're gonna take the old man into town...
+
+0x8A6261AF = ~z~~sl:0.0:1.0:1~Get off of me!
+
+0x8ACA2F22 = ~z~Shut up... this is the place, now. Come on.
+
+0x8B1F339E = ~z~Oh, here's to your good health, sir...
+
+0x8B4AE543 = ~z~~sl:0.0:1.6~They got some nice jerky here,~sl:0.4~and you look like you could use some energy, Arthur.
+
+0x8B603ED0 = ~z~~sl:0.4:1.3:1~Well, you didn't!
+
+0x8B923EA4 = ~z~That's one of them Foreman boys.
+
+0x8BC0564E = ~z~~sl:0.0:1.4:1~I got you now.
+
+0x8C4B0E03 = ~z~~sl:0.0:1.7~Come on, hyah!~sl:1.3:0.8:1~Hyah!
+
+0x8CE44359 = ~z~Why are you telling lies about me?
+
+0x8CEBCE64 = ~z~What's that supposed to mean?
+
+0x8DC4AC0B = ~z~they were picking up some drunken fellers...
+
+0x8DCE10A0 = ~z~We're bored out of our minds.
+
+0x8EF91D48 = ~z~Probably not.
+
+0x8F175D46 = ~z~All sorts in here, Arthur.
+
+0x9A9C2000 = ~z~Do you wanna head into town...
+
+0x9ADF1EDE = ~z~Goddamn it! I just want to go home.
+
+0x9B416B0B = ~z~Lizards have hearts!
+
+0x9B696529 = ~z~~sl:0.0:1.8~I really think you should check on her, Arthur.~sl:~She's been in there a while.
+
+0x9BFAE005 = ~z~~sl:0.0:2.8~To be honest, if you lot hadn't been here...~sl:0.9~I probably woulda robbed him.
+
+0x9C01D52B = ~z~and to being down here, off that mountain.
+
+0x9C1C861C = ~z~Okay, just stay outta trouble and don't get yourselves noticed.
+
+0x9C63D38E = ~z~~sl:0.0:2.0~Why don't you pick out a cigar?~sl:0.3~A cigar always focuses the mind, I find.
+
+0x9C902240 = ~z~Why have you got it in for me?
+
+0x9D36F985 = ~z~You waiting out there?
+
+0x9DA7EFDC = ~z~~sl:0.0:1.4:1~To Valentine!
+
+0x9DB14A78 = ~z~~sl:1.0:0.0~This should do the trick.
+
+0x9DCA322B = ~z~Heaven forbid you put your head on the line.
+
+0x9E76A462 = ~z~~sl:0.0:1.9~Oh, I'm colder than you realize.~sl:0.6~I feel bad I didn't rob and kill the bastard.
+
+0x9EF866C6 = ~z~
+
+0x9F247B4F = ~z~Desperately... you're my favorite parasite.
+
+0x9FA3F474 = ~z~I've got a good memory.
+
+0x9FE24299 = ~z~Sorry, I'm afraid I ain't got the time to be running around after your horses.
+
+0x10A2D2F3 = ~z~~sl:0.3:0.0~I, I didn't hear nothing, uh, just...
+
+0x10F423B7 = ~z~if we pretend this never happened.
+
+0x11F2D446 = ~z~Go get the girls home.
+
+0x12ECD8C1 = ~z~Train full of rich tourists, heading to Saint Denis...
+
+0x13D4126E = ~z~Nothing...
+
+0x15EB909B = ~z~imagine we're in Paris.
+
+0x17D6F224 = ~z~Whoa, come on! Easy, easy. Easy!
+
+0x18ADBEC3 = ~z~that they was going to rob.
+
+0x19F4510A = ~z~Gentlemen.
+
+0x22CF74D9 = ~z~~sl:0.0:0.6:1~Who are you?
+
+0x22E35544 = ~z~~sl:0.0:1.5:1~I gotcha now!
+
+0x23CF99F0 = ~z~You can go kiss a damn snake for all I care... get off me!
+
+0x24BA7C5C = ~z~from New York or someplace.
+
+0x25DF3C4B = ~z~Alright, do you know the way?
+
+0x26CEC075 = ~z~Okay, wait for me outside when you're done.
+
+0x26F3B522 = ~z~You alright there, friend?
+
+0x27FDC0DC = ~z~~sl:0.0:1.7~I'd really appreciate the help.~sl:~I'm worried this one here will bolt on me too, if I leave him.
+
+0x29E4E36C = ~z~Here's your horse back, friend.
+
+0x30CEF8FF = ~z~~sl:0.5~Well done, Arthur!
+
+0x31C04DA8 = ~z~Just, please, just leave!
+
+0x34E37A4E = ~z~Sounds good.
+
+0x37F4DB9D = ~z~Hey! That's my horse!
+
+0x39C043AC = ~z~I don't want no trouble!
+
+0x40DF407F = ~z~You coming?
+
+0x41CD7C6D = ~z~I hope, uh, everything's okay up there?
+
+0x41D53246 = ~z~Alright, I'll see what's going on...
+
+0x44B739D2 = ~z~Me neither.
+
+0x45DD48C2 = ~z~Okay... I'm not gonna ask why.
+
+0x46F71FD2 = ~z~Let me go!
+
+0x50B24F94 = ~z~You okay?
+
+0x50DE5738 = ~z~Evening.
+
+0x52C82866 = ~z~ I was in Blackwater.
+
+0x55C34C46 = ~z~He looks real mad.
+
+0x56BB98BE = ~z~What? No. That cost me a fortune.
+
+0x56BB2947 = ~z~Go on, lead the way.
+
+0x57BB96C7 = ~z~Okay, if you're done, I'll meet you outside. I won't be too long.
+
+0x60D9334B = ~z~Yeah, Valentine...
+
+0x60EF26A1 = ~z~Okay, just stay out of trouble and don't get yourselves noticed.
+
+0x64AAB054 = ~z~So, you're actually buying for once? Are you feeling alright?
+
+0x65EE806A = ~z~
+
+0x67E66EE9 = ~z~~sl:0.0:2.6~Oh hey, you couldn't help me get my other horse back~sl:~from over there, could you?
+
+0x68D68358 = ~z~That's it, Arthur.
+
+0x69C00C3B = ~z~~sl:0.0:3.3~You're making a big mistake, Tilly Jackson.~sl:1.8~I ain't doing this with you right now.
+
+0x69C701B1 = ~z~Hey, who's that guy over there looking at us?
+
+0x69EFD5AD = ~z~Here...
+
+0x70AAB4DD = ~z~What the hell were you doing here?
+
+0x70C43574 = ~z~Think you two can scam me?
+
+0x70D8AF95 = ~z~Man at his finest.
+
+0x70DB81E6 = ~z~No trouble now, please!
+
+0x72A75817 = ~z~You okay, partner?
+
+0x72AAD6EE = ~z~feels like weeks since we did.
+
+0x73A7A456 = ~z~You're a sad man, Arthur Morgan.
+
+0x74AFA2EE = ~z~No harm done.
+
+0x75B766F3 = ~z~I got a girl in Berryville...
+
+0x75D3A030 = ~z~~sl:0.0:1.2~It means you've got a heart.~sl:0.2~A small one perhaps, hidden deep inside, but a real one.
+
+0x77AA06FC = ~z~That's a ripe cheese alright.
+
+0x78D52490 = ~z~I think I've got something good.
+
+0x80D41ED0 = ~z~It's a funny world.
+
+0x81E4AD5A = ~z~No, no! I-I-I got it wrong, partner... I got it very wrong, now please, help me up!
+
+0x82EC2300 = ~z~Here's to your good health, my sir.
+
+0x83A21A62 = ~z~Yes, but this won't take long. Look at the poor feller.
+
+0x83F1C756 = ~z~when I have to be.
+
+0x85B4A311 = ~z~Now I know what the smell is.
+
+0x91DF36DC = ~z~I thought you wanted to head into town?
+
+0x95C3320F = ~z~the crack in her pants paid for it all.
+
+0x95ED2019 = ~z~can't be screwed 'cause she's too damn ill.
+
+0x97AD5D7D = ~z~Alright, then.
+
+0x97E0A15D = ~z~Fair enough, you got me.
+
+0x113E5A7F = ~z~What is wrong with you?
+
+0x136DDF94 = ~z~Get off her.
+
+0x171B0A29 = ~z~Alright... come on...
+
+0x177CCE7A = ~z~Come here you silly nag...
+
+0x181BB6BA = ~z~I got a girl in Valentine...
+
+0x191F5E6A = ~z~Whiskey's on the top shelf, nearest the door.
+
+0x196F7C1D = ~z~Hey, mister!
+
+0x204C70F9 = ~z~I'm gonna go have a word with our friend.
+
+0x207BFE10 = ~z~No... ringworm's my favorite parasite, you're my second favorite parasite.
+
+0x222D4558 = ~z~You okay?
+
+0x244A0096 = ~z~Oh my God, you're crazy!
+
+0x269FFC66 = ~z~Get the hell off of her, you son of a bitch.
+
+0x284F6AA7 = ~z~
+
+0x285D45C0 = ~z~Three young healthy women want you to take 'em robbing...
+
+0x302F99EF = ~z~Can I help you, sir?
+
+0x303A5034 = ~z~stealing, killing, lying...
+
+0x338C9549 = ~z~when I have to be.
+
+0x352E77C4 = ~z~It seemed easy.
+
+0x363AEF4C = ~z~and maybe I shoulda killed you.
+
+0x377B6094 = ~z~Sure, you'll see...
+
+0x386DC894 = ~z~Help!
+
+0x404A7BA4 = ~z~Come on.
+
+0x416AA2E4 = ~z~Arthur, come on.
+
+0x477D81C2 = ~z~This looks like a decent little town.
+
+0x495ED1D4 = ~z~Mid twenties, blonde, you'd remember her.
+
+0x505C938B = ~z~Lumbago. Really...
+
+0x514B798F = ~z~Like I said, as far as I know they're in 2B.
+
+0x552E9F62 = ~z~What's happened to you, Arthur?
+
+0x570C1FB1 = ~z~Come on then.
+
+0x593B2539 = ~z~or to do any real work. She's a society lady, now.
+
+0x621A9219 = ~z~Uncle, what're we doing?
+
+0x674F3614 = ~z~L-lumbago! It's really serious, it can be deadly.
+
+0x680E1D07 = ~z~I'm getting what I paid for!
+
+0x684BDA70 = ~z~I paid for nothing!
+
+0x686E3C23 = ~z~Just wanted you to know.
+
+0x704EBDF8 = ~z~All the best, fellers.
+
+0x715F2231 = ~z~I understand.
+
+0x721C07F0 = ~z~I'm sure he can handle it.
+
+0x736E0DA3 = ~z~Get outta here, buddy, I paid.
+
+0x743B4D39 = ~z~I imagine Paris and Valentine are easily confused.
+
+0x762C4F6C = ~z~Hey!
+
+0x769C5437 = ~z~See this? Young folk got no respect for their elders no more.
+
+0x797C73F5 = ~z~~sl:0.0:5.7~Yeah. Nothing... nothing to worry about, just... men, but...~sl:0.5~stupid bastard... stupid bastard was boasting about the bank.
+
+0x845C85AF = ~z~Morning.
+
+0x859EFE00 = ~z~You think we should've asked Molly to come with us?
+
+0x888F261D = ~z~Get back here right now!
+
+0x891DBE16 = ~z~We need to talk, pal!
+
+0x903A1340 = ~z~Help me!
+
+0x903D07EF = ~z~I don't believe you're quite that cold, Mr. Morgan.
+
+0x918C5023 = ~z~Come here.
+
+0x928CE728 = ~z~Won't take less than seven dollars.
+
+0x949E5003 = ~z~~sl:0.0:0.9~Ain't paid to hit her,~sl:~you goddamn animal!
+
+0x965EBDE9 = ~z~~sl:0.1~This is all I need.
+
+0x984DE020 = ~z~fits my peter like a diamond ring.
+
+0x1199D03C = ~z~Well, I definitely saw you. With a bunch of fellers.
+
+0x1813B2FE = ~z~Should I have killed you, Jimmy Brooks?
+
+0x1847C270 = ~z~~sl:0.0:1.7:1~I've been looking too long.
+
+0x2261B483 = ~z~fighting to try to survive...
+
+0x2606B6D3 = ~z~Why what you got planned?
+
+0x2934C403 = ~z~I can't believe we're going to see civilization...
+
+0x3164AFB5 = ~z~You thieving bitch!
+
+0x3675FECA = ~z~~sl:0.5~You're a good man, Arthur.
+
+0x4225E7DF = ~z~Lemme know if you have any questions, fellers.
+
+0x4327F115 = ~z~see if we can find anything out?
+
+0x4481A9C3 = ~z~Hurry, Arthur.
+
+0x5101A15A = ~z~Oh yes, ~rp~we can get up to some mischief here alright.
+
+0x5372F3D1 = ~z~~sl:0.0:0.9~Stop it!~sl:2.4:1.2:1~Go to hell!
+
+0x5487D2A1 = ~z~Yes, yes... me too... now please, pull me up, please!
+
+0x5696A232 = ~z~"Can Miss Grimshaw spare you?"
+
+0x5729CB74 = ~z~It's a funny world.
+
+0x5830E91D = ~z~Get your hands off her, friend.
+
+0x7632EE33 = ~z~You're a good man and I, err...
+
+0x8569EF96 = ~z~Okay, well we'll see you at the general store when you're done.
+
+0x8970BA73 = ~z~Can you do another old feller a favor and get back on the damn wagon?
+
+0x9294A03E = ~z~I got a girl in Valentine...
+
+0x9363D2A2 = ~z~That's far enough!
+
+0x9423A943 = ~z~Okay... keep investigating.
+
+0x15999BC0 = ~z~Yeah... me and the boys got into a bit of a fight at the saloon there.
+
+0x16155B65 = ~z~~sl:0.0:1.2:1~A friend of mine...
+
+0x17593E30 = ~z~~sl:0.5~Stop... help!
+
+0x18527E86 = ~z~~sl:0.0:3.4~Alright! Here we are, just like I said.~sl:0.2~The cultural center of civilization.
+
+0x24764BC3 = ~z~I kill people...
+
+0x25835F7A = ~z~So what do you need?
+
+0x35169A91 = ~z~I don't like this.
+
+0x37968C4E = ~z~I pictured myself being married to an heiress.
+
+0x40010FA8 = ~z~Oh, you really were just borrowing it!
+
+0x47291ED9 = ~z~Right, it's real quiet out there.
+
+0x56336BDA = ~z~I don't much like being saved, but...
+
+0x56872ED1 = ~z~Let's go.
+
+0x65863DE3 = ~z~I got no money on me.
+
+0x68370FE1 = ~z~Thank you, Arthur.
+
+0x69556FCB = ~z~This time in my career...
+
+0x71619FCA = ~z~But I know you love me.
+
+0x74155AED = ~z~Oh no, Miss O'Shea is far too high and mighty now for the likes of us...
+
+0x78305B25 = ~z~could you take us too?
+
+0x83637BCB = ~z~Karen's about ready to murder Grimshaw.
+
+0x84698AA0 = ~z~You saved my life.
+
+0x88553DB5 = ~z~I saw you...
+
+0x96171EF2 = ~z~There is that.
+
+0x98370DCC = ~z~
+
+0x128796AD = ~z~You ladies are gonna love it.
+
+0x144078A9 = ~z~I didn't mean nothing by it, honest!
+
+0x168053E3 = ~z~That should do us, let's go wait for them outside.
+
+0x303194F1 = ~z~~sl:0.4:0.0~You're turning into a regular old fairy godmother there, Arthur.
+
+0x345647E5 = ~z~All the best, fellers. Try to stay out of trouble now.
+
+0x466841FE = ~z~I think we have an understanding?
+
+0x594766FE = ~z~You're a gentleman, sir, a gentleman!
+
+0x616004CF = ~z~She kicks and squeals and farts and hollers.
+
+0x702309D7 = ~z~I ain't never been in Blackwater...
+
+0x716317F3 = ~z~I will remember that.
+
+0x739491A0 = ~z~Don't reckon folk ever seen Tommy lose a fight before.
+
+0x769584C6 = ~z~Hey! You damn thief!
+
+0x838689E2 = ~z~Tether it first then... good luck.
+
+0x859644BB = ~z~No... wrong room.
+
+0x944519A4 = ~z~Afternoon.
+
+0x962153C2 = ~z~~sl:0.3:0.0~Arthur'll murder that dumb bastard.
+
+0x1016013F = ~z~After you.
+
+0x1061938B = ~z~Other people... finally.
+
+0x3191960A = ~z~Someone was saying her sister was taking a trip...
+
+0x3224136E = ~z~~sl:0.0:1.8:1~Get your hands off of her.
+
+0x4566069D = ~z~~sl:0.3~This isn't one of the “ladies first” situations.
+
+0x5954256F = ~z~Very funny.
+
+0x6664765A = ~z~I've got an unfortunate face.
+
+0x8563353D = ~z~Well, it's all done now.
+
+0x9844234C = ~z~Well, you ain't dead.
+
+0x9905951E = ~z~
+
+0x18572725 = ~z~Sorry, Jimmy Brooks.
+
+0x41033036 = ~z~I don't much like being saved, but...
+
+0x41326416 = ~z~It looks pretty spooked.
+
+0x41483577 = ~z~usually works.
+
+0x55119199 = ~z~Why didn't you help that poor man?
+
+0x56198470 = ~z~Hey! My horse!
+
+0x61022515 = ~z~cultural center of civilization...
+
+0x65707273 = ~z~Can we go now?
+
+0x66087965 = ~z~Go left here, down the main street.
+
+0x76169938 = ~z~Listen, buddy. Come here for a minute.
+
+0x90649760 = ~z~Sheriff's office on the right. Sure you can pick up some bounties there, Arthur.
+
+0xA2A9712D = ~z~You stop right here!
+
+0xA3D1F4AE = ~z~Come on, get!
+
+0xA3F7F132 = ~z~
+
+0xA21CC535 = ~z~~sl:0.1:3.1~Sure, I know small town banks are usually a waste of time, but...~sl:0.2~this is a livestock town, there's lots of cash sometimes.
+
+0xA29EDD11 = ~z~Okay, thanks Arthur.
+
+0xA34D7845 = ~z~See, Uncle? That is a gentleman.
+
+0xA93A793B = ~z~Who are you?
+
+0xA243B753 = ~z~No...
+
+0xA621C1F5 = ~z~~sl:0.2~Am I glad to see you!
+
+0xA861AE21 = ~z~No, I was just leaving.
+
+0xA864FEEC = ~z~Me?
+
+0xA2190B8D = ~z~Please!
+
+0xA54657F2 = ~z~I guess I'll go see if there's any trouble.
+
+0xAAC09287 = ~z~So that's how you see yourself, is it? A maniac?
+
+0xAC7E502C = ~z~Come on! One of you?
+
+0xAC384D74 = ~z~Been cooped up here for two weeks now.
+
+0xAC7067F6 = ~z~Yep... that's fine whisky.
+
+0xACFB4CC2 = ~z~Alright, come on.
+
+0xACFDA6E9 = ~z~~sl:0.6:2.4:1~No! Get off!
+
+0xADFCB0BD = ~z~You bastard!
+
+0xAE8EFA45 = ~z~Absolutely.
+
+0xAEA94214 = ~z~Right, I need to get something from the stores.
+
+0xAED32696 = ~z~Oh, get the hell outta here will you?
+
+0xAF060D94 = ~z~I got a gal and she's got a thing
+
+0xAF7DC921 = ~z~I didn't hear nothing, just -
+
+0xB56ED5A9 = ~z~we'll find something for y'all to do...
+
+0xB70F5DDC = ~z~So, while the rest of us are busy...
+
+0xB304F36F = ~z~They have been gone for quite a while.
+
+0xB379D235 = ~z~I don't even know what to say...
+
+0xB1334B86 = ~z~What is your problem?
+
+0xB6369A9B = ~z~Weren't you in Blackwater a few weeks back?
+
+0xB364598C = ~z~I'm a mess.
+
+0xBC1C8964 = ~z~Damn horses.
+
+0xBC5E5BD4 = ~z~we'll start at the saloon.
+
+0xBC39A1C1 = ~z~I can't... hold... shit!
+
+0xBCF8C2E1 = ~z~Sorry... wrong room.
+
+0xBD3CE49F = ~z~I-I-I didn't see nothing!
+
+0xBD808866 = ~z~Oh, there's Tilly over there...
+
+0xBDE1AB4B = ~z~hair down there like a horses mane.
+
+0xBE5CA72B = ~z~Wait, ain't you the feller who had the fight with Tommy outside the saloon?
+
+0xBF8E81F5 = ~z~not usually.
+
+0xC2F311DB = ~z~~sl:0.0:2.0~You're looking a bit tired there, Arthur.~sl:0.2~Why you don't pick up some coffee while we're here?
+
+0xC3A6FA11 = ~z~no, I am not.
+
+0xC3E45F19 = ~z~Oh, goddamn it! Oh shit, the horses!
+
+0xC5C57FC9 = ~z~I got a girl in Berryville...
+
+0xC7B80235 = ~z~Smell those sheep.
+
+0xC9D81A34 = ~z~likes to drink that fancy wine.
+
+0xC20A560F = ~z~Sir?
+
+0xC30DEF3B = ~z~You son of a bitch!
+
+0xC95F845A = ~z~Okay then.
+
+0xC97DC787 = ~z~And you haven't, you repulsive old lizard.
+
+0xC269F797 = ~z~Let's go.
+
+0xC488F8CF = ~z~Eventually.
+
+0xC707B4FD = ~z~You not getting anything, Arthur?
+
+0xC807CD15 = ~z~Well, in my youth, I used to be known as the "one-shot kid".
+
+0xC817C1DA = ~z~Just, j-just please,  j-just leave!
+
+0xC2889C78 = ~z~There, you got it!
+
+0xC5638DEF = ~z~I n-never saw you...
+
+0xC6593B16 = ~z~I thought you said you was going to see about Karen?
+
+0xC8708C68 = ~z~So I don't go down there no more.
+
+0xCA0F0C9D = ~z~He's real skittish, he's always been.
+
+0xCA794200 = ~z~Ain't from there.
+
+0xCBCA59A2 = ~z~I got a girl in Berryville.
+
+0xCCD49198 = ~z~You looking for a room?
+
+0xCCE0AA46 = ~z~yeah, yeah, it's right out near New Hanover.
+
+0xCD009AFC = ~z~I will.
+
+0xCD6A330E = ~z~~sl:0.0:1.8~Why don't you treat yourself to something, hm?~sl:0.2~Nice bar of chocolate always goes well with a slug of whisky.
+
+0xCD2561A5 = ~z~Please! My hands are slipping.
+
+0xCEF144A8 = ~z~Come here!
+
+0xCEF688B8 = ~z~Great.
+
+0xD01DCAAD = ~z~Yeah, that all got a little out of hand, but... I didn't swing first.
+
+0xD0D82488 = ~z~You see...
+
+0xD2A2D4CD = ~z~I got a girl across the lane...
+
+0xD2A42870 = ~z~not-not now, not-not never.
+
+0xD9AFFC4F = ~z~~sl:1.1:2.1:1~Can't a man get some goddamn peace...
+
+0xD27F9587 = ~z~~sl:0.0:2.6:1~Every time I get a goddamn rhythm...
+
+0xD52F9B9D = ~z~You're lucky I ain't put the law on you!
+
+0xD69F28C5 = ~z~There's a blue horse lays outside her door.
+
+0xD80CA43F = ~z~There's a blue horse lays outside her door.
+
+0xD81CC50E = ~z~Right, I-I need to get something from the stores.
+
+0xD84D0850 = ~z~Help! Someone!
+
+0xD89A2637 = ~z~you're worried about house chores.
+
+0xD848A910 = ~z~He's just on the other side of the tracks there.
+
+0xD34789A2 = ~z~Uncle, what are we doing?
+
+0xD61322C0 = ~z~~sl:1.0:0.0~That's a young man's game.
+
+0xD65132B6 = ~z~I got a lot to replenish after that godawful time in the mountains.
+
+0xD872699E = ~z~Just get lost.
+
+0xDB8A8BD8 = ~z~Hey you! Where's my horse? You said you we're borrowing it!
+
+0xDB58266D = ~z~Does it pay well?
+
+0xDD7F1D51 = ~z~~sl:0.0:1.3~I mean, you might as well...~sl:~get my horse for me if you're just gonna wait around.
+
+0xDD92EE0A = ~z~A train laden with baggage and...
+
+0xDD339221 = ~z~Please, I can't get up!
+
+0xDDB46A90 = ~z~Just get lost.
+
+0xDE1C3427 = ~z~A bath, perhaps?
+
+0xDE45BF5F = ~z~Just figured I'd ask. I worried this one's gonna bolt on me too.
+
+0xDF023FCC = ~z~that's very kind of you.
+
+0xDF044E8D = ~z~Yeah, I know it...
+
+0xE08DA42E = ~z~Well, we're going to do what any self-respecting maniac does...
+
+0xE0CE2C67 = ~z~Sure, I got some errands to run.
+
+0xE1CF6E10 = ~z~Sure, well, these things happen. And that was some good viewing.
+
+0xE3DA006D = ~z~You wanna find out?
+
+0xE3DE4DD0 = ~z~What is this list of yours?
+
+0xE7B2D28D = ~z~Me...?
+
+0xE9AE63E1 = ~z~in some place called Scarlett Meadows.
+
+0xE15B723E = ~z~I messed it up.
+
+0xE28B5714 = ~z~~sl:0.0:1.3:1~You're coming with me!
+
+0xE68BB8C8 = ~z~Just borrowing it...
+
+0xE77C116F = ~z~Look at that coach, he... he's all over the place.
+
+0xE88A03FC = ~z~Okay.
+
+0xE88F8337 = ~z~A drop of whiskey for a start. Something to pass the time while we're waiting on the women.
+
+0xE92DC2E9 = ~z~~sl:0.0:2.9~Oh, so all that talk about how hard you been working...~sl:0.0:1.5:1~you mean drinking.
+
+0xE916C1EA = ~z~I was thinking.
+
+0xE6693E10 = ~z~~sl:0.0:1.1~Unbelievable.~sl:0.4~I better go find it. Cost me a six months' pay that horse!
+
+0xE257800C = ~z~I haven't... I haven't! Not-not one lick! Not... one sense in this here old mind!
+
+0xE895454C = ~z~So I don't go down there no more.
+
+0xE7834044 = ~z~Last time I saw it, it was alive and well.
+
+0xEBC71EE8 = ~z~I'm begging you.
+
+0xEBE0D989 = ~z~Oh...
+
+0xEC058732 = ~z~~sl:0.0:3.3~You're making a big mistake, Tilly Jackson.~sl:2.2~I ain't doing this with you right now.
+
+0xECB04C23 = ~z~Jimmy Brooks.
+
+0xECE6CA55 = ~z~~sl:0.0:1.7:1~Leave me alone, all of you!
+
+0xED6A919C = ~z~All done.
+
+0xEDD4737B = ~z~Go wait with Uncle and Mary-Beth, they're across the street.
+
+0xEE89169B = ~z~No, no, t-they're upstairs. Room 2B.
+
+0xEF7F0F5F = ~z~Be careful, Arthur.
+
+0xEF976C93 = ~z~that does not look ideal.
+
+0xF00A89AC = ~z~Then why are you chasing me?
+
+0xF05A58A3 = ~z~Sir?
+
+0xF0644844 = ~z~~sl:1.7:0.0~What about you, Arthur?
+
+0xF0D5F3A9 = ~z~~sl:0.0:1.6:1~Get off of me! Go!
+
+0xF1ADE96F = ~z~Look at this, a jaw harp.
+
+0xF3D9E33A = ~z~can't be screwed 'cause she's too damn ill.
+
+0xF4EDFEB0 = ~z~Okay, well we'll see you at the general store when you're done.
+
+0xF4F46877 = ~z~No! What are you doing?
+
+0xF5C31FF3 = ~z~~sl:0.6~Well, anyway, thank you.
+
+0xF9C5E4C9 = ~z~Hey you! Where's my horse? You said you we're borrowing it!
+
+0xF9D9636F = ~z~It's a strange world we live in, Arthur Morgan.
+
+0xF12CA341 = ~z~Just someone I used to know.
+
+0xF49FF8BA = ~z~~sl:0.0:3.3:1~I've been looking too long!
+
+0xF83DD38E = ~z~With pleasure...
+
+0xF83FE7AE = ~z~Like I said, Arthur, I've got terminal lumbago.
+
+0xF3001B2B = ~z~Jimmy Brooks...
+
+0xF6921AEC = ~z~~sl:0.0:2.4~Uncle! Look after her.~sl:0.5~I'mma go see about Karen in the hotel.
+
+0xF8199FBA = ~z~I got a girl in Berrybille...~n~~m~I got a girl across the lane...
+
+0xF49775B9 = ~z~Alright, out through the trees here, then take a left.
+
+0xF3830191 = ~z~No, please!
+
+0xF5153184 = ~z~I made a mistake, I'm sorry!
+
+0xF6895631 = ~z~What the hell did I ever do to you?
+
+0xFA2CA741 = ~z~and then cruising off to Brazil.
+
+0xFA4C23BF = ~z~There will be if you don't get outta here right now.
+
+0xFA19F5FB = ~z~It's one of them steel ones.
+
+0xFB6C6766 = ~z~~sl:0.6~Already?
+
+0xFB8F07A6 = ~z~as to get to the docks in time for the tides...
+
+0xFBEB89B6 = ~z~Let's see it, Arthur.
+
+0xFC3BF86B = ~z~
+
+0xFC9BED02 = ~z~I'd advise you to stay away from me.
+
+0xFCF65739 = ~z~~sl:0.0:0.9~Join me...~sl:0.4:1.2~I'm a Chelonian.~sl:0.2~Have you read our book?
+
+0xFD2F17AA = ~z~What do you reckon, a lamb or a sausage?
+
+0xFD91AB84 = ~z~Just a word.
+
+0xFD623CD1 = ~z~Can't get it in her cause she won't stay still.
+
+0xFDCCFE71 = ~z~But I'm not a good man, Jimmy Brooks...
+
+0xFE38E73C = ~z~Go check the horses are ready.
+
+0xFEF4D03B = ~z~~sl:0.0:1.1:1~Get your hands off me.
+
+0xFF2B6EDE = ~z~~sl:0.9:1.6:1~You think this is funny?
+
+0xFF253511 = ~z~Thank you kindly.
+
+0xFFE437CB = ~z~Hey! I thought we were done with this!
+

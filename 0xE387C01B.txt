@@ -1,0 +1,76 @@
+0x029D654C = ~z~You mind making some space on there?
+
+0x033E2D44 = ~z~Here. This might come in useful.
+
+0x0AF744DB = ~z~Want I shoot you down off there?
+
+0x0FA9C01A = ~z~~sl:0.0:2.3~Maybe they'll sell me another one at MacFarlane's.~sl:0.3~~rp~Won't be spending no nine dollars on it, mind.
+
+0x1D721172 = ~z~Hey, I need a hand here! Hello?
+
+0x2E66FD94 = ~z~Now it's just gonna rot out there for the wolves to eat.
+
+0x2F56B52F = ~z~Hey, oh, hey! You there! C'mere.
+
+0x3A9EDE04 = ~z~Well then. Some kind of charitable sorts on this road...
+
+0x3B6AFE1D = ~z~~sl:0.0:0.9:1~This all you got?
+
+0x3BF1E2B6 = ~z~Let's have some fun.
+
+0x3C44994F = ~z~~sl:0.0:2.7~Didn't even have the decency to die back home'n~sl:~let me do something with its corpse.
+
+0x3EFFACEF = ~z~Get down from there.
+
+0x4A96B5F3 = ~z~~sl:0.5:1.2~Don't believe this.~sl:0.2:3.6~~rp~Paid nine whole dollars for that damn horse not three months ago.~sl:0.1~Already kicked out on me.
+
+0x6C9C74D9 = ~z~You hearing me? I need some help, here.
+
+0x9B071676 = ~z~Take me to Macfarlane's Ranch. Know it? Sure you know it.
+
+0x9CAF38F3 = ~z~~sl:0.0:2.1~Thank you. It's bleak out here.~sl:0.2~Normally I don't bother to notice...
+
+0x23FEDA49 = ~z~you think I could hitch a ride?
+
+0x39AAB95F = ~z~Well, not so lucky for you.
+
+0x57BE30B3 = ~z~~sl:0.0:4.5~Alright, here we are. Don't see that rancher girl anywhere.~sl:0.3~Anyway, thanks for the ride.
+
+0x80CA0726 = ~z~~sl:0.0:1.4~I'll be needing your valuables.~sl:0.2~Don't try nothing funny, and that's all I'll take.
+
+0x90EE42A1 = ~z~~sl:0.0:3.3~Three dollar horse'll do me fine, it'll only die anyway.~sl:0.3~~rp~Save the rest of the money for whiskey.
+
+0x93F30F67 = ~z~Won't make that mistake again.
+
+0x206BF954 = ~z~Oh, yeah? Alright. Finally, a bite of luck.
+
+0x562BE345 = ~z~Okay, getting close now.
+
+0x754C8B5E = ~z~~sl:0.0:1.9~Hope that MacFarlane girl's around.~sl:0.2:2.9:1~~rp~Something about a woman in man's clothes.
+
+0x6782EFCB = ~z~~sl:0.0:1.4~Not that I'd tell the wife that.~sl:0.5:3.5~~rp~Anyway, you clearly ain't the sociable type, so...~sl:0.3~I'll just save my breath.
+
+0x83488AA2 = ~z~Ain't so hard a choice, is it?
+
+0x56634867 = ~z~You deaf? Come here a minute.
+
+0x84302925 = ~z~That right there's the better investment.
+
+0xA9CFF7C7 = ~z~~sl:0.3~Nice to be off my feet for a spell.
+
+0xA239ABF4 = ~z~Trouble from the start...
+
+0xB192E736 = ~z~C'mon... be nice.
+
+0xBC05647C = ~z~Okay, that's it! I'll do better on my own.
+
+0xC4FFF67A = ~z~~sl:0.1~Stupid damned horse.
+
+0xC9A3258F = ~z~~sl:0.0:2.6~Listen. My damn horse dropped dead on me~sl:0.1~and now I'm stranded and, well...
+
+0xD75FACC3 = ~z~C'mon. Just a ride's all I need.
+
+0xFCDDE143 = ~z~Leaving me here to rot.
+
+0xFE1C8571 = ~z~So, where's your transport? I ain't looking for a walking partner.
+

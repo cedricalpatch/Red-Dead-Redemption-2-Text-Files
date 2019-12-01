@@ -1,0 +1,672 @@
+0x00C362E6 = ~z~Yeah.
+
+0x015E5D80 = ~z~For sometimes a man is so savage, the only way to deal with him justly is by savagery.
+
+0x016822C3 = ~z~Get out of there.
+
+0x01B89F28 = ~z~Damn ya!
+
+0x01F60BEA = ~z~
+
+0x021785B0 = ~z~This is not a task we take lightly...
+
+0x031560EE = ~z~Yet justice itself can at times be barbaric.
+
+0x031C5151 = ~z~~sl:0.0:3.5~Arthur, oh, Arthur.~sl:1.0~I was just starting to dream the silliest and softest of dreams.
+
+0x041D143B = ~z~Well, nor would I...
+
+0x06F0F70F = ~z~What are they pointing at?
+
+0x0A74BE46 = ~z~Hello, officer.
+
+0x0AB7F247 = ~z~You've broken my heart, again, and I fear I have broken yours.
+
+0x0ADCE1D5 = ~z~Alright, we're out. Go, go, go.
+
+0x0B4CF315 = ~z~~sl:0.0:3.1~When I am with you, the world makes sense,~sl:~but when we are apart,
+
+0x0B6D5E8B = ~z~Arthur, if you can hear me, shoot some of these O'Driscolls!
+
+0x0B9BD06F = ~z~we have to have our wits about us and move fast.
+
+0x0B70E4ED = ~z~Oh... here comes somebody.
+
+0x0BA88953 = ~z~~sl:0.6:0.0~I'd dress up like the Queen of Sheba if it meant seeing that son of a bitch swing.
+
+0x0DFABC6B = ~z~Follow.
+
+0x0EA8D7A5 = ~z~My Dear Arthur,
+
+0x0EA46E51 = ~z~And... do it silently.
+
+0x1B6E5293 = ~z~Die.
+
+0x1C0A0B14 = ~z~You've broken my heart, again, and I fear I have broken yours.
+
+0x1CE57302 = ~z~and once he starts shooting...
+
+0x1E054953 = ~z~and not before time.
+
+0x2AF5EEBC = ~z~I'll go back to Mrs. Adler.
+
+0x2B73F29E = ~z~Bastards.
+
+0x2BF4BEDE = ~z~and I hope by returning it to you I can finally be free.
+
+0x2DFD5650 = ~z~~sl:0.0:2.7~You see that feller, Arthur? We can't.~sl:~Can you get 'em out of our way?
+
+0x2E4FEACF = ~z~Arthur, we're in need of divine intervention down here.
+
+0x2E6FC60C = ~z~They're Colm's boys.
+
+0x2ED4C49E = ~z~~sl:0.0:4.8~I hope, one day you will find some people in love who can use this,~sl:0.4~for it kept me thinking of you all these years,
+
+0x3A3B5149 = ~z~Goodbye,
+
+0x3A3F3CF3 = ~z~I guess that's one less thing to worry about.
+
+0x3D476C90 = ~z~Mrs. Adler... might I say, being a fancy woman of Saint Denis suits you.
+
+0x3E5CE5E6 = ~z~Yes, I think so.
+
+0x3E4647A8 = ~z~~sl:0.0:4.9~I am sorry I asked for your help with Daddy, but at the time,~sl:0.3~I felt that I had nowhere else to turn.
+
+0x3F74D919 = ~z~Where's this shooter, then?
+
+0x4A614D0B = ~z~We judge each other, and we judge you as unfit to be a member of our society.
+
+0x4A43909D = ~z~That's Van der Linde's bruiser!
+
+0x4BBD5DAB = ~z~Don't dawdle, Mr. Morgan.
+
+0x4BEF2B2D = ~z~I guess we faced worse than this before.
+
+0x4D2B4786 = ~z~Hey. Hey. You know I wasn't going to let it come to that.
+
+0x4DC3F5B7 = ~z~Where are you?
+
+0x4F1AAA39 = ~z~And follow him onto the scaffold?
+
+0x5AC0DB63 = ~z~Very good. Carry on.
+
+0x5AD283F7 = ~z~We'll cut through the alley to get to the gallows.
+
+0x5D7C6828 = ~z~I guess I don't know what I know no more.
+
+0x5DAC75AF = ~z~~sl:0.0:2.3~I see clearly that your world is not~sl:~a world from which one can escape.
+
+0x5E102E59 = ~z~Amen to that.
+
+0x6A0A2EE2 = ~z~Today, we as citizens of this republic assert our will, and our will is for justice, and for civilization at any cost.
+
+0x6B9EE489 = ~z~That boy's been on the gallows more than most.
+
+0x6BF13940 = ~z~I guess we've faced worse than this before.
+
+0x6C8E35EE = ~z~Mary.
+
+0x6CA927A4 = ~z~We keep our weapons holstered, our disguises on, and our wits about us.
+
+0x6D20A4D8 = ~z~~sl:0.0:2.5~I am so sorry, for everything,~sl:~for everything long ago and for starting up that business again.
+
+0x6E49E9DB = ~z~That so?
+
+0x6E6768FA = ~z~I think l'd die a happy man.
+
+0x7B599CA0 = ~z~I don't know, officer...
+
+0x7B885BCE = ~z~~sl:0.0:2.1~I guess you could go out on the balcony,~sl:0.1~if you took the stairs up a level.
+
+0x7B950471 = ~z~Either they hang him, or I shoot him...
+
+0x7BBA4F4F = ~z~Firing.
+
+0x7C4C898A = ~z~Die, you cowards.
+
+0x7CC2B280 = ~z~Go brush that horse, officer.
+
+0x7DD71B96 = ~z~Go.
+
+0x7EA15041 = ~z~Goodbye,
+
+0x7EE6A023 = ~z~You got your vengeance! We're moving for the wagon.
+
+0x8A1AA526 = ~z~I'm gonna cut your pale bellies right open...
+
+0x8AD31EE1 = ~z~Are you going to keep your cool? Really?
+
+0x8B8318A5 = ~z~Colm O'Driscoll...
+
+0x8B85588C = ~z~Wagon! Get them.
+
+0x8B568236 = ~z~Here I am.
+
+0x8BE9210D = ~z~Don't we all.
+
+0x8D1AC022 = ~z~There are some stairs down the end there that will take you to the next story.
+
+0x8D39FF31 = ~z~~sl:0.5:2.8~Ma'am, I need to get out onto the roof.~sl:~You know how I can do that?
+
+0x8D6472A3 = ~z~I got this.
+
+0x8D38263C = ~z~Come on.
+
+0x8E1E5188 = ~z~Ladder might be a good place to start.
+
+0x8E773D66 = ~z~Stick close to me!
+
+0x8F9DA87A = ~z~We all got a job to do, and we're all in rough agreement about how we're doing it... as far as I can tell.
+
+0x9C2C8B53 = ~z~Mary.
+
+0x9CBED9F5 = ~z~Come on.
+
+0x9D1D1507 = ~z~He has murdered, tortured, robbed, stolen, raped, and abused for a decade across five states. Seemingly with impunity.
+
+0x9D2BBBDA = ~z~our civilization is to prosper.
+
+0x9E2EC598 = ~z~This doubting and questioning of yours... I miss the old Arthur.
+
+0x9F08F341 = ~z~What you waiting for? Go.
+
+0x9FB39071 = ~z~~sl:0.0:2.3~Well, obviously I'm gonna do it silently,~sl:~I wanna see this bastard swing.
+
+0x11B4004D = ~z~Go with Dutch.
+
+0x12B68F25 = ~z~Arthur.
+
+0x12F25311 = ~z~Here and now, Colm O'Driscoll's going to get his due.
+
+0x17E396B8 = ~z~~sl:0.0:2.9~I am so sorry, for everything,~sl:0.3~for everything long ago and for starting up that business again.
+
+0x17F3EA3B = ~z~~sl:0.0:1.2~You never showed up,~sl:0.5~and now, after looking at the newspapers, I understand why.
+
+0x17FC0CCB = ~z~and I hope by returning it to you I can finally be free.
+
+0x19B71A63 = ~z~Goodbye,
+
+0x24DDB54A = ~z~How am I supposed to relax today?
+
+0x26F73ABA = ~z~I ain't gonna get him.
+
+0x26F90849 = ~z~~sl:0.0:2.9~I am so sorry, for everything,~sl:0.9~for everything long ago and for starting up that business again.
+
+0x29BE383B = ~z~Okay. Thank you.
+
+0x30B68E9D = ~z~And I guess this isn't the time to question either my decisions, or yours.
+
+0x31EF89CD = ~z~Afternoon sir, could you tell me how you get onto the roof of this building?
+
+0x32C5F18C = ~z~which is why, despite us being wanted men...
+
+0x37A7C24F = ~z~~sl:0.0:3.5~I enclose a ring you gave me many years ago,~sl:0.7~when we were both young,
+
+0x38C46BDE = ~z~~sl:0.0:1.9~This feller's in our way, Arthur.~sl:~Would you kindly do something about it?
+
+0x42CFBED6 = ~z~Enough...
+
+0x49F066E0 = ~z~For that, I will never forgive myself, but you must let me go now.
+
+0x51D615E5 = ~z~And that is why we will shepherd him to eternity.
+
+0x55EFE10C = ~z~Arthur, we don't have the time.
+
+0x62ECC779 = ~z~may God, in his infinite wisdom...
+
+0x66B707C4 = ~z~~sl:0.0:3.4~Arthur, oh, Arthur.~sl:0.5~I was just starting to dream the silliest and softest of dreams.
+
+0x69FFABDA = ~z~I'll hold them down.
+
+0x71E5771D = ~z~Paul's up on the roof...
+
+0x74F2DC1E = ~z~Now keep those fingers off those triggers 'cause we'll need cool heads and calm dispositions to see this done.
+
+0x75AC8DAF = ~z~Leave him! We're going for the wagon.
+
+0x79E98C08 = ~z~Thank you, Arthur.
+
+0x83ED9B29 = ~z~~sl:0.0:0.9~and once he starts shooting,~sl:~we have to have our wits about us and move fast.
+
+0x85C8B8C0 = ~z~I guess they did miss their chance to see John swing by his neck...
+
+0x86A18AB4 = ~z~As well you may.
+
+0x86DD2D9E = ~z~Well, we got him.
+
+0x89A56154 = ~z~Stay here.
+
+0x89D2A0EC = ~z~Oh they are going to hang him.
+
+0x90EFF4DE = ~z~and I hope by returning it to you, I can finally be free.
+
+0x91E1AF12 = ~z~Look out! One of his boys!
+
+0x96CD40E8 = ~z~What's it look like?
+
+0x97B24055 = ~z~Your fearless leader soiled his damn britches!
+
+0x99B57E01 = ~z~~sl:0.0:3.3~When I am with you, the world makes sense,~sl:0.3~but when we are apart,
+
+0x131E28EF = ~z~Arthur, come look at this.
+
+0x199E3123 = ~z~I hear ya. Okay...
+
+0x240F24F1 = ~z~~sl:0.0:4.9~I hope, one day you will find some people in love who can use this,~sl:0.5~for it kept me thinking of you all these years,
+
+0x246D114F = ~z~the whole thing ain't gonna save us.
+
+0x283E05A9 = ~z~No time for dawdling, go.
+
+0x382DAAB2 = ~z~~sl:0.0:3.3~There's a good man within you, Arthur,~sl:0.6:2.8~but he is wrestling with a giant.~sl:1.2~And the giant, wins, time and again.
+
+0x387F29FA = ~z~Yes, sir.
+
+0x441CC170 = ~z~How many?
+
+0x473F97BF = ~z~We'll get it done, alright.
+
+0x484DD687 = ~z~~sl:0.0:1.4~What's this then?~sl:0.4~A gun case.
+
+0x500A6E73 = ~z~Well, don't we just look the part...
+
+0x537BB323 = ~z~Well, let's hope not...
+
+0x541F93C9 = ~z~if you're not going to act like one.
+
+0x565F3CB4 = ~z~Well, Colm. There goes your escape plan...
+
+0x575E67F3 = ~z~Bunch of cops.
+
+0x608C520A = ~z~Die.
+
+0x633D997A = ~z~~sl:0.0:5.8~I hope, one day you will find some people in love who can use this,~sl:0.6~for it kept me thinking of you all these years,
+
+0x647CAFF1 = ~z~~sl:0.0:2.8~I enclose a ring you gave me many years ago,~sl:0.3~when we were both young,
+
+0x741B4300 = ~z~No man can make himself God. And no man, is above the law.
+
+0x753D97AA = ~z~The crowd came to see a show, we don't want to disappoint them.
+
+0x885C053A = ~z~He's cutting in there.
+
+0x948DE371 = ~z~~sl:0.0:2.2~I don't imagine you will receive this letter,~sl:~but I nonetheless must send it.
+
+0x950E0B75 = ~z~I want to see that fucker swing.
+
+0x964E7514 = ~z~Well... we saw the bastard hang okay, but...
+
+0x971E66F6 = ~z~Don't you worry about me.
+
+0x1320C634 = ~z~Keep moving.
+
+0x1381AF01 = ~z~
+
+0x1644F33C = ~z~Oh, Arthur, here's a ladder.
+
+0x1832ADD8 = ~z~Relax, son.~n~~m~O'Driscoll is that you are
+
+0x2170CEE2 = ~z~we're gonna attend the event ourselves.
+
+0x2425D474 = ~z~but if I could see that son of a bitch breathe his last...
+
+0x4106E902 = ~z~~sl:0.0:3.2~not because I don't like it, but because I care for it~sl:~far too much and it reminds me too much of you.
+
+0x4472E5CA = ~z~I'm staying, you go.
+
+0x5186E076 = ~z~~sl:0.0:3.3~I know you. We had you on a hook.~sl:0.9~Now, neither of us wants those cops to hear.
+
+0x5871BA23 = ~z~Exactly.
+
+0x5917BD0F = ~z~Come on.
+
+0x6015D37E = ~z~So what do you think?
+
+0x6586F0EF = ~z~After that, I have no idea.
+
+0x6986BE97 = ~z~Don't you worry about me.
+
+0x7292D0AF = ~z~Mrs. Adler...
+
+0x8485F003 = ~z~~sl:0.0:2.9~There's a good man within you, Arthur,~sl:0.0:2.0~but he is wrestling with a giant.~sl:0.3~And the giant, wins, time and again.
+
+0x9342D857 = ~z~Relax, alright?
+
+0x9352A91B = ~z~By the gate! There.
+
+0x11927FF8 = ~z~~sl:0.0:3.1~I enclose a ring you gave me many years ago,~sl:0.3~when we were both young,
+
+0x16598E12 = ~z~Well, obviously I'm gonna do it silently...
+
+0x18349D35 = ~z~I can't get a shot on him.
+
+0x20094E42 = ~z~And like a thunder bolt he will strike you down!
+
+0x21082B65 = ~z~Alright, good. Now...
+
+0x40968D59 = ~z~We are gonna disguise ourselves.
+
+0x43455A92 = ~z~Officer.
+
+0x50252D96 = ~z~Yeah...
+
+0x60174D76 = ~z~Today is the day they are going to hang Colm O'Driscoll.
+
+0x68679B66 = ~z~~sl:0.0:2.3~I see clearly that your world is not~sl:~a world from which one can escape.
+
+0x75653DC9 = ~z~~sl:0.0:3.8~not because I don't like it, but because I care for it~sl:0.3~far too much and it reminds me too much of you.
+
+0x80280B9F = ~z~Watch out, he's going for you!
+
+0x85783CC2 = ~z~How am I supposed to relax today?
+
+0x96443FD6 = ~z~Yeah...
+
+0x473677C1 = ~z~you see that...
+
+0x476919B2 = ~z~Okay.
+
+0x560282AC = ~z~Sure...
+
+0x689349CB = ~z~Whoa, whoa, look out!
+
+0x932902B7 = ~z~~sl:0.0:2.3~I don't imagine you will receive this letter either,~sl:~but I nonetheless must send it.
+
+0x1225327A = ~z~Can you hear me, Arthur? Clear us a path.
+
+0x3968001C = ~z~I wouldn't count anything until his neck's broke.
+
+0x8011489A = ~z~How you get on, Arthur?
+
+0x8261704C = ~z~looking like a lady won't help us...
+
+0x8403529D = ~z~~sl:0.0:6.5~I miss you, and I will always miss you, but I cannot live like that,~sl:0.5~and it seems you cannot live any other way.
+
+0x9661295A = ~z~Mary?
+
+0x56247234 = ~z~Well, what we got here...
+
+0x79018518 = ~z~Don't wait.
+
+0x87402195 = ~z~I'm coming.
+
+0x98491789 = ~z~Mary.
+
+0x99225228 = ~z~Let's just get outta here.
+
+0xA5E5BE07 = ~z~nearly butchered me, that don't mean I'm comfortable in this... woolen coat.
+
+0xA7FAE343 = ~z~Bunch of cops.
+
+0xA8A0CF80 = ~z~Now you know how it feels to watch somebody you love die.
+
+0xA8E32E2B = ~z~~sl:0.0:3.1~It was foolish of me to ask for your help again and~sl:~I promise there will be no recurrence.
+
+0xA20F418F = ~z~Silence!
+
+0xA118ADBA = ~z~Come on, let's go.
+
+0xA517DB24 = ~z~Don't suppose you remember me?
+
+0xA839D212 = ~z~have mercy upon your soul.
+
+0xA858BA04 = ~z~What a surprise...
+
+0xAA6D4716 = ~z~~sl:0.0:5.3~You lost your husband. I lost my darling, Annabelle. That poor boy, Kieran.~sl:0.2:0.0~We've all lost something because of Colm.
+
+0xAB77D387 = ~z~Oh, okay.
+
+0xAC736BFB = ~z~Behind ya.
+
+0xAE0EC570 = ~z~I'm glad we're here.
+
+0xAE835E89 = ~z~but it is a task we must carry out if...
+
+0xAEB35FDC = ~z~Men by the gate.
+
+0xAF243622 = ~z~I'm covering you!
+
+0xAFAB9880 = ~z~Paul's up on the roof...
+
+0xAFD73A7B = ~z~Colm O'Driscoll is one such man.
+
+0xB1F55C8E = ~z~Dammit!
+
+0xB4E4F308 = ~z~You two, quit it.
+
+0xB5F76A2D = ~z~You ruined my life!
+
+0xB7C16CF3 = ~z~I've been a bad man.
+
+0xB7DDBDC4 = ~z~Don't do nothing.
+
+0xB8C6DC67 = ~z~Arthur, get over here.
+
+0xB8D0BA18 = ~z~I guess, compared to the entire government, in the end...
+
+0xB8F30D9E = ~z~Come on.
+
+0xB9F68673 = ~z~Come on, Arthur.
+
+0xB11B9018 = ~z~Look out! We got to deal with this wagon.
+
+0xB68F0552 = ~z~~sl:0.7~Reliable as ever.
+
+0xB73CDA02 = ~z~There you are.
+
+0xB99F74C1 = ~z~are we ready?
+
+0xB825E287 = ~z~Colm hung me up...
+
+0xB7857FFB = ~z~You're all gonna follow him under.
+
+0xB59647A9 = ~z~~sl:0.0:2.3~I don't know if you received the letter I wrote to you~sl:~from Saint Denis a while back.
+
+0xBA3A68FE = ~z~He's turned down there.
+
+0xBA5FD1BE = ~z~I'm fine here by myself.
+
+0xBB1D0987 = ~z~How many?
+
+0xBC9875C8 = ~z~I know it's from that Mary...
+
+0xBF91FD2A = ~z~Die!
+
+0xBF281F6E = ~z~If we ain't missed it, it's this way.
+
+0xBFF9FB1A = ~z~Hold here! Find some cover!
+
+0xC0EFAFC0 = ~z~We got a wagon load of 'em coming.
+
+0xC0F42306 = ~z~I hope you got yourself in order. Now, come on.
+
+0xC1CB0CD4 = ~z~Whatever do you mean?
+
+0xC2CBE214 = ~z~My Dear Arthur,
+
+0xC7B88BF8 = ~z~Who is?
+
+0xC49B6B9C = ~z~Hello, sir.
+
+0xC84D28CE = ~z~Well done, Mr. Morgan.
+
+0xC445E4F0 = ~z~~sl:0.0:3.4~Arthur, oh, Arthur.~sl:1.0~I was just starting to dream the silliest and softest of dreams.
+
+0xC2623DED = ~z~So what you think?
+
+0xC7432EFD = ~z~Stay with me!
+
+0xC46506B2 = ~z~Alright, alright.
+
+0xC512976F = ~z~And why're you so riled up?
+
+0xC3088321 = ~z~This is not a court where you shall be tried.
+
+0xC8113016 = ~z~Move, move!
+
+0xCA695FEC = ~z~My Dear Arthur,
+
+0xCAE21746 = ~z~Gentlemen...
+
+0xCBE0B8D3 = ~z~Carry on then, shall we?
+
+0xCC6DAC28 = ~z~Enough...
+
+0xCC8D1720 = ~z~Die!~n~~m~Okay, let's go.
+
+0xCC49F360 = ~z~Today, justice catches up with him.
+
+0xCD2C3610 = ~z~There.
+
+0xCDFC9890 = ~z~Colm O'Driscoll didn't seem like such a worry...
+
+0xCE4998A7 = ~z~The big man rides with Van der Linde!
+
+0xCF11D878 = ~z~~sl:0.0:6.5~I miss you, and I will always miss you, but I cannot live like that,~sl:0.5~and it seems you cannot live any other way.
+
+0xD4FA42C6 = ~z~Find a way up the roof and stop him.
+
+0xD6A6E682 = ~z~Yeah...
+
+0xD6CCC422 = ~z~We move for the wagon. That's our get out.
+
+0xD16FD15A = ~z~Howdy, officer.
+
+0xD25C3202 = ~z~Today is a great day, Arthur.
+
+0xD30C8F47 = ~z~pair of assholes?
+
+0xD45A8379 = ~z~For as long as any of us can remember, it is justice that separates us from barbary.
+
+0xD186B996 = ~z~That wagon's going to get us out of here. Come on.
+
+0xD432C8DC = ~z~Stay with me.
+
+0xD36121E8 = ~z~Stop here! Get in some cover!
+
+0xD46902FB = ~z~Gallows... gallows... which way was you?
+
+0xD55627BC = ~z~These charges...
+
+0xD365284C = ~z~to be hanged by the neck until you are dead.
+
+0xDA23B24D = ~z~Die! ~n~~m~Shit.
+
+0xDA57D4A3 = ~z~Go on, go!
+
+0xDADFC1E9 = ~z~In this?
+
+0xDB08A84C = ~z~You made it outta that predicament, as I remember Mr. Morgan. My husband weren't so lucky.
+
+0xDE0A9891 = ~z~~sl:0.0:4.8~I miss you, and I will always miss you, but I cannot live like that,~sl:0.6~and it seems you cannot live any other way.
+
+0xDF24E69D = ~z~Hey... we're gonna wait.
+
+0xDF549B7D = ~z~For that, I will never forgive myself, but you must let me go now.
+
+0xDFE6CB98 = ~z~Has your mind wandered?
+
+0xE01E97CB = ~z~Let's go. Quiet.
+
+0xE0C50CA3 = ~z~~sl:0.0:2.1~I don't imagine you will receive this letter,~sl:~but I nonetheless must send it.
+
+0xE4CD17A6 = ~z~I don't know...
+
+0xE5FCC96D = ~z~Don't you damn well move.~n~~m~and your sentence Colm
+
+0xE8A8E98D = ~z~You can still shoot, at least.
+
+0xE70C5756 = ~z~~sl:0.8:0.0~Practice what you preach, brother.
+
+0xE83BD203 = ~z~Look here. Don't the public love an execution.
+
+0xE89D030E = ~z~~sl:0.0:0.9~Mrs. Adler,~sl:~looking like a lady won't help us if you're not going to act like one.
+
+0xE90F8B57 = ~z~What's it look like?
+
+0xE92EAF35 = ~z~~sl:0.0:3.3~There's a good man within you, Arthur,~sl:0.2:2.4~but he is wrestling with a giant.~sl:0.5~And the giant, wins, time and again.
+
+0xE836CE55 = ~z~Alright, I'm just about done.
+
+0xE1263EE3 = ~z~A letter came for you.
+
+0xE1407CD5 = ~z~~sl:0.0:3.6~When I am with you, the world makes sense,~sl:~but when we are apart,
+
+0xE6387A91 = ~z~Arthur, there's a ladder here.
+
+0xE68827D4 = ~z~Fair citizens of Saint Denis...
+
+0xE735149C = ~z~What's delaying you, Arthur?
+
+0xEB20A74A = ~z~So, they got a guy up on the roof, overlooking the gallows.
+
+0xEBA4D459 = ~z~is to be carried out...
+
+0xEBDD2E5B = ~z~Yeah.
+
+0xEBE1D44A = ~z~She ain't worth it, Arthur.
+
+0xEC8EF911 = ~z~Run!
+
+0xEE3FBDDF = ~z~Sure...
+
+0xEE79A80C = ~z~~sl:0.0:2.6~After reading of recent events in the newspaper,~sl:0.4~I understand much better now just how busy you have been.
+
+0xEEE8C95D = ~z~Let's go where?
+
+0xEEFB3A72 = ~z~when I read about your recent activities in the newspaper.
+
+0xEF0EEA47 = ~z~In this.
+
+0xEF4DE6AD = ~z~Alright, then. Come on. We got a hanging to witness.
+
+0xEF6E206C = ~z~There! By the wagon.
+
+0xEF87DD4D = ~z~Whenever you are ready...
+
+0xEFEAE157 = ~z~it is not a task we enjoy...
+
+0xF1C84064 = ~z~~sl:0.0:3.8~not because I don't like it, but because I care for it~sl:~far too much and it reminds me too much of you.
+
+0xF1D66F77 = ~z~We can't lose them.
+
+0xF2E6B3D9 = ~z~We gotta follow them to find out.
+
+0xF4BCD2A7 = ~z~Sure.
+
+0xF4E7B001 = ~z~You need to catch your breath, friend?
+
+0xF5CE334D = ~z~Morgan, you hear us? Take a shot on these O'Driscolls!
+
+0xF6BF6B66 = ~z~Yeah, yeah, I'm coming!
+
+0xF8AF91D5 = ~z~On me.
+
+0xF44CFBB5 = ~z~Let's go.
+
+0xF44EAB94 = ~z~Arthur, get over here.
+
+0xF190B726 = ~z~Sir.
+
+0xF254D696 = ~z~Your boss is gonna swing. I promise.
+
+0xF823C73C = ~z~Sir.
+
+0xF8737A24 = ~z~When you seem to lose it, oh so often, now.
+
+0xF8067198 = ~z~~sl:0.0:1.7~Wait. Hold on.~sl:0.9~I see something. Don't go in yet.
+
+0xFA1ECADE = ~z~Let's get to it.
+
+0xFA87518A = ~z~~sl:0.0:2.8~I see clearly that your world is not~sl:~a world from which one can escape.
+
+0xFC0D597A = ~z~Let's get to it.
+
+0xFCE9CADC = ~z~~sl:0.0:3.1~Find a way up there... onto one of these verandas,~sl:0.3~through a building, maybe. And get him.
+
+0xFD59C8BF = ~z~Yeah...
+
+0xFDEAF8E5 = ~z~This is a place where your sentence...
+
+0xFE653A34 = ~z~~sl:0.0:3.2~You ain't no cop. You're Dutch's boy.~sl:0.3~Keep quiet when I stick it in you, huh?
+

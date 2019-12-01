@@ -1,0 +1,42 @@
+0x01C3601B = ~z~I know not to judge a book by its cover, but all you can do is go with your gut and, failing that, go with your gun.
+
+0x02D50F33 = ~z~What does that mean?
+
+0x0765B025 = ~z~Well, you seem half normal, at least.
+
+0x0C8F7291 = ~z~I was camping out there, probably about two years back now, and I heard people talk about these Night Folk?
+
+0x6F103AAB = ~z~~sl:0.0:3.5~It takes a lot to spook me. Probably the worst night I ever spent...~sl:0.2~was in the Lemoyne Bayou, near Saint Denis?
+
+0x74A580FF = ~z~Anyways, night ain't here yet, so I probably should get something done around here.
+
+0x91F3CED3 = ~z~What does that mean?
+
+0x592F0BDB = ~z~But you know, every place has these tales, so you learn not to pay them too much heed.
+
+0x698C4EC7 = ~z~And I ain't even got to the good bit yet.
+
+0x710AAFB2 = ~z~Thank you.
+
+0x4322C79F = ~z~At least hear me out, Jesus.
+
+0x5812F362 = ~z~Thank you.
+
+0x42814565 = ~z~All I could do was keep yelling and firing off shots from my rifle.
+
+0xA63E8CDE = ~z~Never seen anything like that before or since.
+
+0xB5712B43 = ~z~Dawn has never come slower, a-and when it did, I hightailed it out of there as fast as I could.
+
+0xC99D6CAE = ~z~~sl:0.0:2.9~But soon as night fell, it started...~sl:0.4~figures in the trees all around me, making the most horrible noises, closing in on me...
+
+0xD41484BE = ~z~~sl:0.0:4.7~Sorry, that came out wrong. Just been crazies and creeps through here today.~sl:0.5~Some days is like that, you know?
+
+0xEA7F4ED0 = ~z~Alright, I'm done if you're gonna be like that.
+
+0xEE1A35A7 = ~z~preying on travelers?
+
+0xF82EEA2F = ~z~Maybe I was generous calling you "half normal"...
+
+0xFB57D022 = ~z~Living in the swamps 'round those parts, like feral, barely human...
+

@@ -1,0 +1,596 @@
+0x00F82299 = ~z~I didn't know it myself, until the moment it was done.
+
+0x01A4B2AA = ~z~Is that them?
+
+0x01CF5982 = ~z~Let's go.
+
+0x020AB643 = ~z~Please.
+
+0x02135293 = ~z~I don't need to see them.
+
+0x0297330E = ~z~Look, I-I want you to know, I-I had nothing to do with this business.
+
+0x04DDD7AC = ~z~Anyway, friends...
+
+0x05F65685 = ~z~Even that crazy old fool said not to trust any of it.
+
+0x06CB8920 = ~z~Anyone would have done the same.
+
+0x0792283E = ~z~He also has your money.
+
+0x0B74244A = ~z~Please, please let me in!
+
+0x0D9231FE = ~z~I'm not.
+
+0x0E7B9240 = ~z~My friends, my true friends.
+
+0x0F0C98D5 = ~z~They're coming after us, alright.
+
+0x0FDF9F0E = ~z~~sl:0.0:2.2~all had a hand in putting you away.~sl:0.3~~rp~And setting you up for the gallows, too.
+
+0x1A8302FA = ~z~nor turn me into a fugitive.
+
+0x1D65093A = ~z~Although there's uh...
+
+0x1E1FB333 = ~z~but, have produced some rather surprising results.
+
+0x1E97E39A = ~z~I believe it might be.
+
+0x1FAFD5E4 = ~z~Forged.
+
+0x2B036F20 = ~z~You signed, last year.
+
+0x2CE27049 = ~z~Yes, forged.
+
+0x2D9BFBE0 = ~z~Indeed.
+
+0x2E5B33E4 = ~z~Help him get my papers. And stop him getting killed.
+
+0x2F4ED1D5 = ~z~Drive us out of here. North.
+
+0x2F6F084D = ~z~Thank you.
+
+0x3C47C683 = ~z~One of you drive the wagon, the other keep guard.
+
+0x3C268E06 = ~z~nominal sum.
+
+0x3D1FC4DB = ~z~I shouldn't imagine they would kill us in broad day light, but...
+
+0x3D42D1B3 = ~z~Shaw went up Main Street.
+
+0x3DDBC841 = ~z~~sl:0.0:1.8~Think of your self-interest too, ma'am.~sl:0.3:1.1~~rp~Your safety.~sl:0.5~~rp~I'm sure we're all concerned with that.
+
+0x3E929DD5 = ~z~Did Jeremiah Shaw send those men after us?
+
+0x3EB4FD20 = ~z~~sl:0.0:3.6~And I said I wanted to hear what he had to say... ~rp~and to~sl:~look him in the eye when he was saying it.
+
+0x3F0F9738 = ~z~Oh, you do, do you?
+
+0x3FA69202 = ~z~Protect the wagon.
+
+0x3FF143A2 = ~z~~sl:0.1~No... just make sure we aren't both killed...
+
+0x4AF32A77 = ~z~Is that them?
+
+0x4C35E65F = ~z~I never imagined they'd kill my husband...
+
+0x4C49AE4C = ~z~the other took control of the business in exchange for a...
+
+0x4C656366 = ~z~during the meeting at Blackwater.
+
+0x4E9F117E = ~z~extricate ourselves from the mess we have uncovered.
+
+0x4F1BF0DA = ~z~~sl:0.1:4.1~Well, don't. ~rp~When I want your advice, I shall ask for it.~sl:0.4~~rp~And I have not asked, have I?
+
+0x5A7B4BCF = ~z~cleans up your mess, doesn't it?
+
+0x5AFB6C56 = ~z~Let's go.
+
+0x5B53ABEF = ~z~into too much additional trouble.
+
+0x5BCA0A42 = ~z~to say when the feud is over, Mr. Horley.
+
+0x5DDC57FD = ~z~quite terrible.
+
+0x5F3C8C6C = ~z~but I wanna make sure once the shooting starts...
+
+0x5FC4C7E8 = ~z~I need those papers from Mr. Shaw.
+
+0x6A852C76 = ~z~If she gets hurt, I won't forgive you.
+
+0x6B72F32A = ~z~No, it hasn't.
+
+0x6BA2EE1E = ~z~I am destroyed with grief.
+
+0x6BDC4E37 = ~z~More coming. Get back to the wagon.
+
+0x6C3AEEFD = ~z~Get the hell out of my sight, you pathetic lowlife...
+
+0x6CD72921 = ~z~They were forged.
+
+0x6D7B6355 = ~z~I'll go after him. If you can find us a way out of here.
+
+0x6D9A2927 = ~z~all of them end up dead.
+
+0x6EAB2115 = ~z~~sl:0.2~Just make sure if we do get killed, everyone dies.
+
+0x6FE3F580 = ~z~You lie, sir.
+
+0x7B641C0A = ~z~Go, help them!
+
+0x7B92744D = ~z~This wagon won't last much longer.
+
+0x7D0E0640 = ~z~He may be dead, but his money isn't. ~rp~Stay down, my lady.
+
+0x7DE25B55 = ~z~They're here.
+
+0x7F2F308E = ~z~Please, I had nothing to do with it.
+
+0x7F91CE96 = ~z~Here are the documents, madam.
+
+0x7F561533 = ~z~Nothing whatsoever... he... he was blackmailing me, Mr. Lancing was.
+
+0x7FC31662 = ~z~You, your wife, or your business partner...
+
+0x8B0CAE15 = ~z~Oh, well...
+
+0x8B3E2E45 = ~z~More gunmen, over there.
+
+0x8B858DFD = ~z~Well, not surprising...
+
+0x8BAB208B = ~z~Nothing!
+
+0x8BB19311 = ~z~Help me, help me!
+
+0x8D9ADEF4 = ~z~~sl:0.0:2.3~Tells everyone he's the boss now.~sl:0.7~Keeps me from acting too crazy.
+
+0x8E796FA0 = ~z~~sl:0.0:3.3:1~Quite right, ma'am. Quite right. Of course. I was only...
+
+0x8EFFB4DB = ~z~Well, he was a bad man.
+
+0x9AA584C1 = ~z~This is a good spot, pull up.
+
+0x9B08B5C6 = ~z~Is that all you want?
+
+0x9B1EEC90 = ~z~Why, it's been a long...
+
+0x9C16CDE9 = ~z~In the event of one of us dying...
+
+0x9C99512C = ~z~Get in, quick.
+
+0x9CD4C2DE = ~z~~sl:0.0:0.9~Good Lord...~sl:2.7~It had nothing to do with me.
+
+0x9D964FC0 = ~z~They're here.
+
+0x9DCC8070 = ~z~Do what you want, but we should go.
+
+0x9DDD4E08 = ~z~Horley, do you have the papers?
+
+0x9E978B21 = ~z~Thank you.
+
+0x9EC3D583 = ~z~I am a man of impeccable morality.
+
+0x9F0555D3 = ~z~More men, in front of us!
+
+0x9FCF8A39 = ~z~Which is why we need you.
+
+0x9FFE8D2F = ~z~but uh, perhaps we should hear him out.
+
+0x11D9C45C = ~z~~sl:0.0:2.1~What a fool Amos was.~sl:0.2:2.6~~rp~A man's presumptions about women...~sl:0.5~~rp~they can be their undoing, Horley.
+
+0x12B07351 = ~z~shall we go?
+
+0x12BB0F26 = ~z~Right again.
+
+0x13FFF66C = ~z~No, I don't suppose you do.
+
+0x14A64592 = ~z~Oh, Jessica...
+
+0x15A7F5E8 = ~z~Mr. Jones...
+
+0x23F17E3F = ~z~Well hello, darling.
+
+0x26BC63F9 = ~z~
+
+0x27C201B1 = ~z~Spare me.
+
+0x29C39001 = ~z~Come on!
+
+0x30C8D885 = ~z~It seems your efforts have not been entirely in vain...
+
+0x33B4BD4C = ~z~Come on, get in.
+
+0x34CD8074 = ~z~I'm glad he was killed.
+
+0x36D8FB13 = ~z~Anybody in there? Anybody in there?
+
+0x40D37C62 = ~z~More coming. On the road behind.
+
+0x40E15465 = ~z~You haven't.
+
+0x41AB758E = ~z~Okay. Come on.
+
+0x41BA7A68 = ~z~Thank you.
+
+0x46D629C9 = ~z~~sl:0.0:2.3~We'll wait for the others to get the papers,~sl:0.1~then pick them up.
+
+0x48B0B6A4 = ~z~~sl:0.0:2.7~Okay, I'll wait here. Go to the others.~sl:0.2:2.7~See if they need help with Shaw.~sl:0.3~He was going toward City Hall.
+
+0x52D5AE12 = ~z~More men are coming.
+
+0x56F3EA61 = ~z~Let's go! Move.
+
+0x58BB736D = ~z~More coming! We should meet the others.
+
+0x62D75EC7 = ~z~Madam LeClerk, I will ask you to watch your manners.
+
+0x64E2EA75 = ~z~~sl:0.0:1.9~I'm pretty sure this... feud...~sl:~ended when you put a bullet in him.
+
+0x65B05DB3 = ~z~Yes, ma'am. Let's go.
+
+0x68CF43BA = ~z~This is what we all got.
+
+0x74C63A7A = ~z~To the left of us. Look out!
+
+0x74F0414C = ~z~Someone stay with Madame.
+
+0x80CB37E9 = ~z~Jessica...
+
+0x81B6D95B = ~z~Jump in.
+
+0x85DA8B6A = ~z~~sl:0.0:4.3~Remember, this is not just the man who killed my husband.~sl:0.2~~rp~He, his wife, and Jeremiah Shaw...
+
+0x88AA63F6 = ~z~~sl:0.0:2.7~I'm pretty sure it's up to the grieving widow...~sl:0.2:1.9~and the folk here who were condemned,~sl:0.1~wrongfully, to die...
+
+0x88DE480F = ~z~You too.
+
+0x89E465A1 = ~z~And don't shoot Shaw just yet, I need to speak to him.
+
+0x94A831B2 = ~z~Make your choices, quick.
+
+0x94D7F6EE = ~z~I don't know exactly what yet, but...
+
+0x99FB2611 = ~z~but this is what he got.
+
+0x117B7027 = ~z~well, it means something.
+
+0x143FF82F = ~z~Past the photographer and right.
+
+0x160CDE47 = ~z~Please...
+
+0x194FCBB9 = ~z~Five hundred dollars.
+
+0x215DB6E0 = ~z~and my husband has been avenged.
+
+0x489BB1E7 = ~z~No, I believe they were working for Mr. Lancing.
+
+0x504BB9B0 = ~z~You murderous thief.
+
+0x506C5D3A = ~z~Keep going!
+
+0x522F681E = ~z~Come along, Mr. Horley.
+
+0x536E9FCB = ~z~I'd prefer not to drive, so... one of you.
+
+0x599AE562 = ~z~~sl:0.2~I've suffered enough.
+
+0x635A3AF4 = ~z~I'm not sure the state authorities take too...
+
+0x645E61D5 = ~z~My husband's property was worth a hundred times that.
+
+0x648C15A1 = ~z~~sl:0.0:4.0~Oh, Mr. Horley. I'll be fine. ~rp~We all shall.~sl:0.9~~rp~It's them who won't, should things head that way.
+
+0x668B9E05 = ~z~There, to the left, more of them!
+
+0x687AA57C = ~z~They were heading to City Hall.
+
+0x729DF2C5 = ~z~We have to get back to the wagon, come on.
+
+0x773B0432 = ~z~Well, you see...
+
+0x778CEECF = ~z~~sl:0.0:4.0~When we get there, you decent folk can stay by my side.~sl:0.2:1.5~~rp~Or you can look over the meeting~sl:~from some vantage point.
+
+0x868F123C = ~z~My lady... she's dead!
+
+0x874C0BC0 = ~z~It seems as though we're in some trouble.
+
+0x924BE30B = ~z~We need you down here.
+
+0x978C00F4 = ~z~~sl:0.0:1.9~Lancing's gunmen are everywhere.~sl:~We have to get through them.
+
+0x1849C714 = ~z~I don't know about that... give me the papers.
+
+0x2264E10F = ~z~Not compared with all eternity.
+
+0x2892D0DC = ~z~~sl:0.0:2.7~Like I said, ~rp~I would be much more comfortable~sl:~going as your emissary, ma'am.
+
+0x3180B057 = ~z~Madam, take cover.
+
+0x4091BD9D = ~z~Drive!
+
+0x5685BFC0 = ~z~We need to hold them off.
+
+0x5694D393 = ~z~Thank the Lord for that. Keep going to the north of here.
+
+0x5959A6DB = ~z~Because right now, their little plot is over...
+
+0x6257C465 = ~z~I do confess, this is a most strange appointment.
+
+0x6291D7D8 = ~z~Keep them off us.
+
+0x6719DA0E = ~z~Come on, come on!
+
+0x8587D618 = ~z~Nowhere to run, Mr. Shaw.
+
+0x8627A89B = ~z~But you seem...
+
+0x8863E03A = ~z~I'll take it from here.
+
+0x9183F0FA = ~z~Today may go any number of ways...
+
+0x9581B6E1 = ~z~Here!
+
+0x22920FC0 = ~z~You're to help keep Mrs. LeClerk protected...
+
+0x24657AF8 = ~z~~sl:0.7~We're all victims here.
+
+0x38393B7C = ~z~M-Mr. Horley, I-I have the papers...
+
+0x41069A53 = ~z~Would you kindly take us to Blackwater?
+
+0x41449ECE = ~z~A long time?
+
+0x42699CCC = ~z~then you have little to fear of death.
+
+0x61443B76 = ~z~One of you's got to get in. Come on, now.
+
+0x78020C50 = ~z~I miss Philip every day.
+
+0x82412D90 = ~z~Yep. Let's get ourselves prepared.
+
+0x546719DB = ~z~Someone go with him. He'll need some help, at least.
+
+0x935338F4 = ~z~Hurry up, then. Whatever was keeping you?
+
+0x5684018F = ~z~Let's find them. Come on.
+
+0x8256108A = ~z~Move.
+
+0x8287524D = ~z~I don't think any of us think Mr. Lancing has become a saint, madam...
+
+0x9202194B = ~z~But right now, I need to make myself scarce.
+
+0x13353290 = ~z~~sl:0.0:2.2~Stay down, ma'am. We're not out of this yet.~sl:0.1~~rp~Shoot them when you see 'em!
+
+0x25680124 = ~z~how lovely to see you.
+
+0x47180258 = ~z~But that's a problem for another day.
+
+0x48149888 = ~z~~sl:0.0:1.9~Okay. I need some of you~sl:0.0:2.0~to come with me to chase down Shaw...~sl:0.1~and some of you to stay with Mrs. LeClerk.
+
+0x48162705 = ~z~You don't seem... quite well, my dear.
+
+0x55795461 = ~z~Come along.
+
+0x60648488 = ~z~~sl:0.0:2.7~You can hide up on the roofs or stay down here...~sl:~just make sure we don't get killed.
+
+0x70397327 = ~z~Hold them back!
+
+0x75706028 = ~z~My poor husband...
+
+0x85615252 = ~z~They're blocking this way.
+
+0xA2C7BAD6 = ~z~And I recommend that you all do your best not to get...
+
+0xA2CC61E4 = ~z~Awful what happened to him...
+
+0xA9FF2544 = ~z~Look out, on the right!
+
+0xA11A8CD3 = ~z~Anything and everything.
+
+0xA11ED919 = ~z~and your brother-in-law, but he's dead.
+
+0xA94F5253 = ~z~Let's just see.
+
+0xA196BEDB = ~z~They murdered Mr. Lancing!
+
+0xA565E087 = ~z~he and I had an agreement.
+
+0xA673E3C3 = ~z~Sure...
+
+0xA4381A50 = ~z~He's running towards City Hall.
+
+0xA3897020 = ~z~Well, we're here.
+
+0xAA2097FF = ~z~So, the meeting is this way.
+
+0xAB50E2C5 = ~z~~sl:0.0:1.8~Amos Lancing's dead...~sl:0.2:~so, these men are working for someone.
+
+0xAB964B53 = ~z~kindly to revenge killings, madam.
+
+0xACFDF31B = ~z~I have good standing in this town.
+
+0xAD26FF8F = ~z~Please.
+
+0xAF24F643 = ~z~Get in, come on.
+
+0xB051870F = ~z~Surely that is the last of them?
+
+0xB0A6F949 = ~z~You God awful swine.
+
+0xB4F162DF = ~z~Is one of you going to drive?
+
+0xB6F131A0 = ~z~In the middle of town... of course... very good, Mr. Lancing.
+
+0xB21B5875 = ~z~And also, we have to decide how we're...
+
+0xB93B9F38 = ~z~Back this way.
+
+0xB850C1E7 = ~z~On the right.
+
+0xB67363DC = ~z~a widow, a harlot, a fool, a mad woman.
+
+0xB825633A = ~z~That's your prerogative. Come on.
+
+0xB1483712 = ~z~Horley, we're coming.
+
+0xB5166754 = ~z~~sl:0.2~I don't think we can take much more of this.
+
+0xBB45FEED = ~z~Of course, I'll go back for the wagon.
+
+0xBBCC8E1B = ~z~I always knew you were a low life, Mr. Shaw.
+
+0xBD8745AC = ~z~Amos Lancing wants to talk.
+
+0xBDDAEFDC = ~z~No, I'm sure they don't.
+
+0xBE7DEF16 = ~z~Drive on, Mr. Horley.
+
+0xBF4CF36C = ~z~Up ahead! They're in the road.
+
+0xBFA3748D = ~z~That's your business.
+
+0xC03C5B93 = ~z~Good Lord!
+
+0xC0C1173D = ~z~Yeah, life... can be terrible, but...
+
+0xC4DDFDFA = ~z~gonna clear all our names and...
+
+0xC6B29988 = ~z~I'm down, alright. ~rp~Be careful, Horley.
+
+0xC8DF481C = ~z~Take this.
+
+0xC37D996C = ~z~Up there. Stop the wagon just ahead.
+
+0xC3025A86 = ~z~~sl:0.0:2.6~One of these days he'll do something foolish.~sl:0.2~I hope today isn't it.
+
+0xC7300A11 = ~z~Help me!
+
+0xC238801E = ~z~Help!
+
+0xC8904749 = ~z~All Lancing's men are killers.
+
+0xCA3A2AF6 = ~z~Yeah, but not a murderer.
+
+0xCA842AC3 = ~z~Oh, of course.
+
+0xCB6CE177 = ~z~Suddenly, shortly after we killed his brother-in-law...
+
+0xCCDCB2D4 = ~z~The document lies with Mr. Shaw over there.
+
+0xCD298F9D = ~z~I owe you more than words can say.
+
+0xCDFFC8C0 = ~z~Somehow, I'm not too worried about our lady.
+
+0xCE2B6988 = ~z~Perhaps.
+
+0xCFE201F6 = ~z~We should look for somewhere to stop.
+
+0xD034F7D4 = ~z~Go back to her!
+
+0xD4C3FE09 = ~z~I worry for Horley. He's not as young as he used to be.
+
+0xD6A56BB5 = ~z~Come down from there.
+
+0xD6E5E3F4 = ~z~Get them!
+
+0xD8FAADA2 = ~z~~sl:0.2~How did you let this happen?
+
+0xD46D1FCB = ~z~I'm so glad you came.
+
+0xD95B2800 = ~z~Thank you.
+
+0xD95EC05C = ~z~~sl:0.0:2.1~Come on, let me in.~sl:0.9~Come on, let me in!
+
+0xD8713D05 = ~z~Careful as we can be.
+
+0xD57621DD = ~z~after castigating me as a...
+
+0xDABC3102 = ~z~No...
+
+0xDAC96F2C = ~z~This has nothing to do with me.
+
+0xDADF0CE1 = ~z~Help Horley, please.
+
+0xDC5DE57C = ~z~Come on!
+
+0xDCBF0343 = ~z~The wagon, there.
+
+0xDD65D716 = ~z~that I had something to do with his demise.
+
+0xE3CF94D0 = ~z~This means...
+
+0xE5B281C2 = ~z~I'll be back.
+
+0xE5CE40E6 = ~z~And should our paths cross again and...
+
+0xE6BF9BEC = ~z~Of course they were forged.
+
+0xE7B45B45 = ~z~Let's go.
+
+0xE8C50DCF = ~z~Okay. Now take us to the others.
+
+0xE39A2179 = ~z~Come on. We'll go up here.
+
+0xE325DC06 = ~z~Oh, sure there is.
+
+0xE734C55A = ~z~Confusing...
+
+0xE7904AAA = ~z~Don't!
+
+0xE383119F = ~z~He sent word via an intermediary.
+
+0xEA63A2BC = ~z~you never know.
+
+0xEAAE497E = ~z~There's Grace Lancing, but she will have to wait.
+
+0xEAE0766E = ~z~~sl:0.2:3.3~That is not quite how Amos or any of those fools~sl:~expected that parley to work itself out.
+
+0xEB10726B = ~z~my dear you seem under the misapprehension...
+
+0xED8D71F5 = ~z~at least one of you did...
+
+0xEEEFF39A = ~z~Well, there is a... business matter that we need to discuss.
+
+0xEF58DA5E = ~z~Protect me, you imbeciles!
+
+0xF1AA1302 = ~z~Now, slow down. And stop just over here.
+
+0xF1FF7217 = ~z~One of you's got to stay with Madame. Please.
+
+0xF5FA050E = ~z~You thief.
+
+0xF8DAB58A = ~z~Good luck... and thank you.
+
+0xF8FAE8E6 = ~z~Confusing.
+
+0xF9F98A78 = ~z~Alright... better go rescue Mrs. LeClerk.
+
+0xF72D0F03 = ~z~~sl:0.0:1.1~That he did, ma'am.~sl:0.7:2.0~~rp~But I think we would all have liked to know~sl:~you were going to shoot him before hand... ma'am.
+
+0xF88DE5F1 = ~z~There! In front of us, more of them.
+
+0xF625B97C = ~z~All of you.
+
+0xF8853F77 = ~z~Here.
+
+0xF691458F = ~z~Get them all.
+
+0xF780255D = ~z~Good to see you, Mr. Lancing.
+
+0xF7816120 = ~z~he deserved so much better than this...
+
+0xFA2E1509 = ~z~~sl:0.0:3.7~There we were looking to find him and have our revenge...~sl:0.7~~rp~and he came right to us.
+
+0xFC086D5A = ~z~well, I'm sure they may.
+
+0xFCA886B3 = ~z~Open up! Open up!
+
+0xFD9B7123 = ~z~There's just room for one of you with us. Come on.
+
+0xFD657654 = ~z~~sl:0.3~Be decent.
+
+0xFDA5FA9B = ~z~~sl:0.0:1.1~With that in mind...~sl:0.3~~rp~I hope you trust me to act in all our interests here.
+
+0xFF2F4FA1 = ~z~Horley, no!
+

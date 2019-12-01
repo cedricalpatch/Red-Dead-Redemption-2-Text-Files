@@ -1,0 +1,904 @@
+0x004423D7 = ~z~The switches...
+
+0x006F989A = ~z~incredible things are in my lab...
+
+0x00C7C73B = ~z~Oh, you did...
+
+0x00F7027A = ~z~European coarseness.
+
+0x019959DD = ~z~Whoa.
+
+0x02F012AB = ~z~Now the dimwit will use invisible waves to destroy the little sailing boats before they get to other side of pond.
+
+0x0387B3C9 = ~z~I watched them conspire, you morons.
+
+0x041F267F = ~z~second time lucky, eh?
+
+0x04319D37 = ~z~You avoid the mines, yes. That is what controls are for.
+
+0x04B032AA = ~z~This ain't got nothing to do with me.
+
+0x06B20348 = ~z~They ain't getting away from me.
+
+0x0765FC14 = ~z~
+
+0x07B7A343 = ~z~Now get out of here.
+
+0x07C36631 = ~z~That wasn't you, was it? Good, good.
+
+0x07DB0197 = ~z~and slippery tongued ball suckers.
+
+0x08365608 = ~z~Oh, oh, the buffoon...
+
+0x08604159 = ~z~and leave you...
+
+0x08B38B6B = ~z~Go...
+
+0x0900AF2A = ~z~For now...
+
+0x093D0EF3 = ~z~When all three conductors in place... lightning strikes the rods...
+
+0x09644F16 = ~z~Watch the mine.
+
+0x09B590E3 = ~z~Professor, I ain't come to rob you...
+
+0x0A03C1E9 = ~z~Okay, how is the piles?
+
+0x0B6CC153 = ~z~waves I cannot see.
+
+0x0DB0F331 = ~z~Hurry... the experiment... must... go on.
+
+0x0E6F5D03 = ~z~You're doing... a bang up... job.
+
+0x0EE41B3C = ~z~Oh, okay, but... I'm not much of a scientist.
+
+0x0F080B5C = ~z~Oh boy.
+
+0x0F8A7883 = ~z~I got one! See.
+
+0x0F9ABD5B = ~z~It is not a toy, big nuts...
+
+0x1B8C8E33 = ~z~this is expensive.
+
+0x1B9BDA11 = ~z~~sl:0.0:7.9:1~you want the three illuminations... so flick the switches... 'til that is the outcome.
+
+0x1CAAB7D6 = ~z~Very good, very good. Now, bring in the boat back here.
+
+0x1D08659E = ~z~only this time let the buffoon control it...
+
+0x1D8C9F6D = ~z~I am an invisible wave engineer not a rocket physicist!
+
+0x1D67B843 = ~z~I don't understand.
+
+0x1D685A0A = ~z~No, I am a fucking genius with poker up the ass...
+
+0x1DAA65CE = ~z~Oh, good for you...
+
+0x1DC65886 = ~z~Good for you...
+
+0x1DDB59DC = ~z~So, what's this toy about?
+
+0x1E4C1565 = ~z~You okay, buddy?
+
+0x1F0E1B04 = ~z~What have I got myself into?
+
+0x1F78BC69 = ~z~my friend helped you at the pond.
+
+0x1F4161D1 = ~z~Okay...
+
+0x2ABB8613 = ~z~He did?
+
+0x2B78910C = ~z~What now?
+
+0x2C2D4AD9 = ~z~Come on. We must continue the demonstration.
+
+0x2C8835F2 = ~z~I'm gonna go.
+
+0x2C20753A = ~z~using electricity and waves you cannot see.
+
+0x2CFE783D = ~z~Sure...
+
+0x2D407D5A = ~z~~sl:0.0:5.0:1~Flick one switch on the array... and another might go off...
+
+0x2D7088C2 = ~z~Yes, hello...
+
+0x2F7B6C0E = ~z~There. That one's gone, too.
+
+0x3A403A1B = ~z~it's me, I'm...
+
+0x3AE56FCE = ~z~you make a fine buffoon.
+
+0x3AFB711A = ~z~I don't understand.
+
+0x3B80A4E2 = ~z~Yeah, good, good, good, okay...
+
+0x3BFE9AA2 = ~z~You better hope I ain't fried up here!
+
+0x3C8F7696 = ~z~it's me.
+
+0x3CD5FB42 = ~z~He's not controlling that thing.
+
+0x3CE086D8 = ~z~You see what stupid man does?
+
+0x3D2D5ACC = ~z~It's a trick. It's on a rail. It must be.
+
+0x3D9DEDBA = ~z~Bring back. Quick.
+
+0x3EA8FE39 = ~z~Now get out of here.
+
+0x3EB5C306 = ~z~just a puddle on the floor.
+
+0x3F791D3A = ~z~Yes, yes, goodbye...
+
+0x4A46ABE5 = ~z~Back, back. Come on.
+
+0x4C2024ED = ~z~You are no longer needed. Okay. Go.
+
+0x4CDB9A9E = ~z~After all that? If you think this is a trick, wait until you see what I have at the lab.
+
+0x4EA09ED7 = ~z~I assure you, improbably, I am.
+
+0x4EFDD264 = ~z~No, no. You've done quite enough. Now you can leave me alone.
+
+0x4F1BC2DD = ~z~Am I missing something?
+
+0x4F9A1517 = ~z~I've about got the hang of this thing.
+
+0x5AAEC872 = ~z~A quick demonstration is a good demonstration, yes?
+
+0x5B4F53CE = ~z~I am so happy...
+
+0x5C2DAEC4 = ~z~Easy.
+
+0x5CCAC663 = ~z~Or he'll attempt to at least.
+
+0x5E1A5F82 = ~z~I wish I'd ever gone to school...
+
+0x5E4761E9 = ~z~Use these ones to steer. And this one to shoot torpedoes. Okay?
+
+0x5EBB830D = ~z~The real miracles require investment...
+
+0x5EEA6BB5 = ~z~hello, sir.
+
+0x5F2B25B0 = ~z~Yes, you see what he does! Now bring the boat back to the dock.
+
+0x5FD879CB = ~z~this!
+
+0x6A84563E = ~z~and that is what you will get with your generous... and hard-won, may I say... investments.
+
+0x6AF19F14 = ~z~This is the darndest thing.
+
+0x6B3501FA = ~z~and this, and...
+
+0x6BBDA0AC = ~z~Might make a navy man out of me yet.
+
+0x6BE8649E = ~z~Shush. You're not here for the smart talk.
+
+0x6EEEB4F6 = ~z~can I count on your support?
+
+0x6F0649D8 = ~z~Professor...
+
+0x6F86C667 = ~z~That sure was something.
+
+0x7A4C8C56 = ~z~Thank you, thank you.
+
+0x7BBE1CC7 = ~z~they will all seem pedestrian in comparison to this technology.
+
+0x7CB67AA2 = ~z~But what is not difficult is the secret of life, the soul's transmigration...
+
+0x7D7C4429 = ~z~Well, how about that.
+
+0x7DC452A1 = ~z~Well...
+
+0x7E300F78 = ~z~Watch and marvel as this man's ineptitude travels thirty feet through air to that little boat.
+
+0x7EA43994 = ~z~The mine now... look.
+
+0x7F377EFD = ~z~All of you, goddamn traitors!
+
+0x7F98638B = ~z~Torpedoes do not have so much range.
+
+0x8A13CE41 = ~z~after God himself to bring life ...
+
+0x8A16B978 = ~z~The steam train, the telegraph machine, the motorcar...
+
+0x8D9846C0 = ~z~and I am about to prove that.
+
+0x8E1CDCE8 = ~z~Still avoiding magnetic mines.
+
+0x8E339ED5 = ~z~Flick one switch on the array... and another might go off...
+
+0x8E721E19 = ~z~And was this not difficult? It was difficult, but it was not difficult for me.
+
+0x8EA78A99 = ~z~Come on.
+
+0x8EF83D30 = ~z~Toy maker...
+
+0x8F883D38 = ~z~No, he says...
+
+0x8FA7F813 = ~z~
+
+0x9A1E34CA = ~z~I have now illustrated just a small sliver of the miracles I can enact on this earth if you will help me,
+
+0x9A4FF0EB = ~z~Look out, look out.
+
+0x9BFC2552 = ~z~Show them one more to prove.
+
+0x9C82D845 = ~z~hello?
+
+0x9CB7A837 = ~z~they will all seem pedestrian in comparison to this technology.
+
+0x9CF6E57D = ~z~Here, take this...
+
+0x9D463703 = ~z~The filament flashes... when it points at... the locations... for conductors.
+
+0x9EFC95C6 = ~z~We're so close now... can you feel it...
+
+0x9FA4775C = ~z~Another one down... I'm getting the mastery of this.
+
+0x9FB330E4 = ~z~I suppose you intend to make an unmanned killing machine?
+
+0x10DBB68B = ~z~Even little boats can sink, okay. Please!
+
+0x11DBC079 = ~z~of my ideas about the source of life.
+
+0x14FD4D49 = ~z~Go, quick please.
+
+0x17A6C708 = ~z~No, no, no...
+
+0x17B3EBB5 = ~z~Evasive maneuvers.
+
+0x20EB399D = ~z~Professor...
+
+0x24A66675 = ~z~isn't he wonderful?
+
+0x24F20631 = ~z~Be mindful of the danger.
+
+0x25DF6E08 = ~z~You may want to hurry this up.
+
+0x29F3FFC0 = ~z~Okay! Now find... the position... for the second... conductor.
+
+0x30C9D059 = ~z~Americans. All you think about is sales!
+
+0x35BBE7F0 = ~z~Follow flashes... up in hills... and plant conductor rod...where filament glows solid.
+
+0x38A1C430 = ~z~There. All gone for you.
+
+0x38F51E9F = ~z~but, maybe I can make you immortal.
+
+0x39DA8062 = ~z~You played your part. Now please, go.
+
+0x39F41321 = ~z~"Thank you. Oh, thank you."
+
+0x41C9A8EE = ~z~Make nasty explosion if they touch the boat.
+
+0x42AF3213 = ~z~you, you are old...
+
+0x43AE7622 = ~z~You really ought to work on your salesmanship.
+
+0x43BA8298 = ~z~the grand theory of theories.
+
+0x44E09FE9 = ~z~I just saw a machine waddle a few steps.
+
+0x44E949F6 = ~z~Remember... this for the good... of all mankind.
+
+0x46ACCAAB = ~z~Where's your creation now?
+
+0x49F30A4F = ~z~Okay.
+
+0x50FF6799 = ~z~I helped you at the pond.
+
+0x51FA15D8 = ~z~You okay, buddy?
+
+0x52A35327 = ~z~A demonstration of my infinite insight.
+
+0x53D9E400 = ~z~Carefully!
+
+0x53D13AB7 = ~z~Please shoot the thing with torpedo and stop making me look bad.
+
+0x54C6B4EE = ~z~A momentous, momentous occasion...
+
+0x55C7A906 = ~z~I helped you at the pond.
+
+0x55F89AB6 = ~z~Hey.
+
+0x56BB8A58 = ~z~I hope you will forgive my...
+
+0x57AD4E93 = ~z~What are you, some kinda European toy maker?
+
+0x58CF231D = ~z~Only waves in the air.
+
+0x61EF3DE1 = ~z~Yeah, well...
+
+0x62D6C324 = ~z~Hello?
+
+0x63FEC200 = ~z~Anyone there?
+
+0x66B9ADE4 = ~z~He's not controlling that thing.
+
+0x66BDE539 = ~z~as I say...
+
+0x69AC4E7B = ~z~Help me adjust these things and...
+
+0x70DE2689 = ~z~None of you has the wisdom to invest in my genius... genius!
+
+0x70FD2790 = ~z~Ah...
+
+0x71BF06CB = ~z~What now?
+
+0x71C51425 = ~z~I wish to make clear that I have weapons...
+
+0x73F84861 = ~z~I assure you, improbably, I am.
+
+0x74F4DFCC = ~z~Well, how about that.
+
+0x75F16CBD = ~z~Sure...
+
+0x75F926EF = ~z~There. All gone for you.
+
+0x76C38AB6 = ~z~My son lives!
+
+0x78A94E3B = ~z~and thank you...
+
+0x79B11DE2 = ~z~What are you a....
+
+0x79FC9934 = ~z~Americans. All you think about is sales!
+
+0x82C67143 = ~z~I don't need you, buffoon. The boy... he needs me.
+
+0x82E7A571 = ~z~Okay! If this silly dimwit can use torpedoes on boat to destroy the battle ships...
+
+0x83B0083A = ~z~Are you ready?
+
+0x83B4ADA4 = ~z~That wasn't you, was it? Good, good.
+
+0x83BCA5C0 = ~z~I have a son...
+
+0x84C83774 = ~z~All of us, we feel old...
+
+0x84E71E9C = ~z~Is a small boat... those mines are not so small.
+
+0x86BF08A4 = ~z~Uh, well, well, well. Well...
+
+0x86C7EA78 = ~z~Oh, of course...
+
+0x86F930CE = ~z~~sl:0.0:5.3:1~I am an invisible wave engineer, not an electrical technician... okay?
+
+0x87F49077 = ~z~and not stab me in the ass like the other Americans. Traitors!
+
+0x88DD6E9B = ~z~What is that?
+
+0x88E90BD8 = ~z~I will show you what I mean.
+
+0x89F7BE6F = ~z~I'm inclined to agree.
+
+0x91C8950F = ~z~You misunderstand. This is the secret to life, not death.
+
+0x95D9E5CD = ~z~Now, I become the second creature...
+
+0x98EF499B = ~z~It is the stuff of life, sir...
+
+0x98FC5020 = ~z~Yes, you meet him...
+
+0x99EB6096 = ~z~You're a goddamn fraud...
+
+0x140B294D = ~z~Fool proof. Undeniable fool proof. But you are not fools.
+
+0x170DE837 = ~z~Like...
+
+0x186EE54B = ~z~Anything else I can help you with?
+
+0x195F5508 = ~z~I assure you all... any defects lie with the operator here, not my technology.
+
+0x271C7AF2 = ~z~Isn't that right?
+
+0x292E7196 = ~z~like I say.
+
+0x309F077A = ~z~Whoa.
+
+0x316AFF97 = ~z~it is demonstration of my genius...
+
+0x329F2562 = ~z~You're better than my last assistant. I hope you live longer, too!
+
+0x330D0313 = ~z~Yes, it is a 'toy boat' that I can power remotely...
+
+0x347EFCD1 = ~z~After all that? If you think this is a trick, wait until you see what I have at the lab.
+
+0x382F9BEC = ~z~any moron could do it...
+
+0x440FB8BB = ~z~If you are here to rob me...
+
+0x449CE053 = ~z~back at Doverhill....
+
+0x510EB9DB = ~z~any fool...
+
+0x517CFFE1 = ~z~Goddamit.
+
+0x526DF54A = ~z~~sl:0.0:3.1:1~Why do I waste my time? Why?
+
+0x529F3B66 = ~z~I'll see you later.
+
+0x569BCA30 = ~z~Ladies, please.
+
+0x588A53B9 = ~z~Just tell me what goddamn one of these things to pull.
+
+0x598D1ED1 = ~z~Go away. I have work to do!
+
+0x618BE138 = ~z~no.
+
+0x631D2323 = ~z~Maybe.
+
+0x642DF3E8 = ~z~it is easy...
+
+0x665F700C = ~z~and had a clue of what was going on.
+
+0x697B4055 = ~z~Another one down... I'm getting the mastery of this.
+
+0x720E035C = ~z~No...
+
+0x782DBEA6 = ~z~Anything else I can help you with?
+
+0x815F78A1 = ~z~Might make a navy man out of me yet.
+
+0x870C0A8F = ~z~You have... the detector... in... your hands.
+
+0x874CA4C0 = ~z~What is it?
+
+0x881FD5D5 = ~z~This is really remarkable.
+
+0x884D8681 = ~z~This is the darndest thing.
+
+0x902D4D1A = ~z~Using waves you cannot see, I will power this boat...
+
+0x948AEEAB = ~z~This is just a demonstration of my prowess, sir.
+
+0x950EA793 = ~z~Professor, I ain't here to rob you...
+
+0x955C25DE = ~z~it is the geometry of life...
+
+0x957AEF0A = ~z~Fools! Fools!
+
+0x964F26A4 = ~z~Here, take these.
+
+0x967C8415 = ~z~It is immortality...
+
+0x1112E8B1 = ~z~I did?
+
+0x1537F11D = ~z~You're there!
+
+0x1678A6F5 = ~z~Hello?
+
+0x1825F5E7 = ~z~Hello.
+
+0x3162EE27 = ~z~Glorious day!
+
+0x3318C313 = ~z~if you are ever up near Doverhill pay me a visit...
+
+0x3933AC82 = ~z~so I had a clue what was going on.
+
+0x4356F88E = ~z~Fantastic!
+
+0x6229BF76 = ~z~There is just one more, big problem...
+
+0x6529E74C = ~z~just a couple of old ladies and a moron.
+
+0x6551A784 = ~z~there I will really amaze you.
+
+0x6674D84A = ~z~History is ours...
+
+0x8091C538 = ~z~
+
+0x8891AE23 = ~z~waves I cannot see.
+
+0x8997FA89 = ~z~But I'm not sure what, if anything, was proven here.
+
+0x8998AAEE = ~z~It's incredible.
+
+0x9962F374 = ~z~Or he'll attempt to at least.
+
+0x19322D88 = ~z~Of course you don't.
+
+0x20595DDB = ~z~Look at him...
+
+0x22180D62 = ~z~I've about got the hang of this thing.
+
+0x34040D63 = ~z~Yes, now blow up the little battle ships, and avoid the sea mines. They have magnets attached.
+
+0x36895EF3 = ~z~You Americans are nothing but shysters and traitors...
+
+0x38892D5F = ~z~The mines! They're magnetized, remember.
+
+0x50881D88 = ~z~and we harness power of nature... to make life.
+
+0x51623FBD = ~z~Ah, it's a toy boat.
+
+0x57395F0E = ~z~Hello?
+
+0x64450C9F = ~z~All of you... fools.
+
+0x66621D2E = ~z~~sl:2.4~Bastards! Total bloody bastards!
+
+0x76141A0C = ~z~My friends...
+
+0x90642D95 = ~z~Still avoiding magnetic mines.
+
+0x92139A8F = ~z~
+
+0x167373DA = ~z~Hello.
+
+0x370290DE = ~z~~sl:0.0:3.8:1~The switches... are on... a circuit.
+
+0x585417FA = ~z~Next he will show you the moving ducks.
+
+0x608271A0 = ~z~that could liquefy each of your internal organs in turn...
+
+0x644067B9 = ~z~Do I look like I should entertain children?
+
+0x731275BE = ~z~Of course it is doing. Now tell it do closer to battle ship and shoot with torpedo.
+
+0x912941F4 = ~z~imagine what technology can do in hands of a certified genius.
+
+0x926125F7 = ~z~And unlike fools, not fools and their money are difficultly parted.
+
+0x975853EB = ~z~Hey.
+
+0x1907248D = ~z~We wait for you, dimwit.
+
+0x2235583E = ~z~Tell me, between us, are you huckster? This all some snake oil trick?
+
+0x3930390D = ~z~It's glowing!
+
+0x4276283A = ~z~and adjust them for me.
+
+0x5076815E = ~z~Clearly, we have more than one dimwit here.
+
+0x5559879C = ~z~I'm going to go.
+
+0x6130997A = ~z~Mr. Marcelle...
+
+0x7094487A = ~z~Well, alright.
+
+0x8300777F = ~z~You see what he does? No wire like telegraph. No pulley system under water.
+
+0x9075227F = ~z~It's a trick. It's on a rail. It must be.
+
+0x9512404B = ~z~Is that it?
+
+0x43181191 = ~z~The mysteries of nature... and life...
+
+0x54855497 = ~z~Come, please, please...
+
+0x58944880 = ~z~We're done here. Please.
+
+0x62310511 = ~z~Shush. You're not here for the smart talk.
+
+0x74386273 = ~z~Whoa, well I...  I'm not much of a scientist.
+
+0x80481029 = ~z~Hey, it is doing what I'm telling it.
+
+0xA0405398 = ~z~If this was all a setup, it wouldn't be taking so long.
+
+0xA09BA1DA = ~z~Goddamit.
+
+0xA0D31B16 = ~z~Yes, very well done.
+
+0xA0E7AD91 = ~z~Come back another time...
+
+0xA3CC3E00 = ~z~Oh boy.
+
+0xA4B62088 = ~z~sir, it is...
+
+0xA4F2614B = ~z~Two down... and one... to go... and you're not dead... yet.
+
+0xA5FA92EA = ~z~I hope I'm not disturbing you.
+
+0xA6AC22A5 = ~z~If you hit another mine, the boat is kaput! Understand?
+
+0xA6C3CE6D = ~z~Tell me, between us, are you huckster? This all some snake oil trick?
+
+0xA6DF8E7D = ~z~Now the dimwit will use invisible waves to destroy the little sailing boats before they get to other side of pond.
+
+0xA7E3FDAB = ~z~you are about to witness history.
+
+0xA67C92A2 = ~z~Let me just reload her.
+
+0xA69E620A = ~z~I say look out for mines!
+
+0xA77C6D20 = ~z~I am the savior of the mankind, buddy.
+
+0xA222C5DA = ~z~Clearly, we have more than one dimwit here.
+
+0xA912F760 = ~z~You really ought to work on your salesmanship.
+
+0xA5304B4A = ~z~He lives!
+
+0xA6366C0E = ~z~And I have certificate.
+
+0xAB081CBF = ~z~That's it!
+
+0xAC8F59AC = ~z~You see... you see...
+
+0xAC58F5B1 = ~z~And still the investors will not come...
+
+0xAD7B5162 = ~z~Come on.
+
+0xAD12F86C = ~z~I just saw a machine waddle a few steps.
+
+0xADF9D1D9 = ~z~They're tricky little fellers.
+
+0xAE7B3593 = ~z~
+
+0xAEED4CA2 = ~z~The steam train, the telegraph machine, the motorcar...
+
+0xAF1FC558 = ~z~Yes, very well done.
+
+0xAF9A5936 = ~z~you are an American.
+
+0xB065DBED = ~z~and maybe I solve it, but...
+
+0xB08A8B94 = ~z~Huh, a toy boat?
+
+0xB0EE9BF6 = ~z~Wonderful.
+
+0xB1D6444F = ~z~What I got myself into?
+
+0xB2E666B6 = ~z~Watch...
+
+0xB3BDB5D5 = ~z~You see what stupid man does?
+
+0xB5E9C2EF = ~z~it is very cheap.
+
+0xB6B51E08 = ~z~Is anybody here?
+
+0xB9DE3AB1 = ~z~the buffoon.
+
+0xB10C0E8F = ~z~Oh, this dimwit.
+
+0xB10ECEBE = ~z~Of course it is doing. Now tell it do closer to battle ship and shoot with torpedo.
+
+0xB38C7ED5 = ~z~There...
+
+0xB50F8F69 = ~z~And funding from you, of course. But what a thing to fund. What an opportunity. No one is stupid enough to pass this up. Not even dimwit here.
+
+0xB82CE2E4 = ~z~Marvelous... fantastical... return to the lab...
+
+0xB146BA5A = ~z~Life and death... the master equation... that unlocks everything...
+
+0xB874F353 = ~z~The switches... are on... a circuit.
+
+0xB5795C70 = ~z~And what a way to go... trapped in a box at the bottom of the bay.
+
+0xB8330FB5 = ~z~Say thank you, Marko...
+
+0xB8710F09 = ~z~The one the silver tongue American betray, and...
+
+0xB623357A = ~z~Just glad the breeze ain't up.
+
+0xB678328D = ~z~yes, he did.
+
+0xBA48EA77 = ~z~Just glad the breeze ain't up.
+
+0xBB0F679C = ~z~This is remarkable... think of those poor boys on the H.L. Hunley. Eight of them perished to a mere five on the Housatonic...
+
+0xBBE97A40 = ~z~you want the three illuminations... so flick the switches... 'til that is the outcome.
+
+0xBC02EA08 = ~z~you are the great genius...
+
+0xBC7C9C49 = ~z~Am I missing something?
+
+0xBC681712 = ~z~I'll see you later.
+
+0xBCB7F491 = ~z~I can't get it right.
+
+0xBD6761E7 = ~z~I got one! See.
+
+0xBD44748A = ~z~Science is far beyond you, but...
+
+0xBDD1FC31 = ~z~No... it is for humanity itself.
+
+0xBDF51918 = ~z~It is me and you.
+
+0xBEA0420C = ~z~You're fools.
+
+0xBF8F2BDD = ~z~is a stoolie.
+
+0xBF44FF63 = ~z~This is my life's work...
+
+0xBFC0F5ED = ~z~Uh oh.
+
+0xC01DCE95 = ~z~There. That one's gone, too.
+
+0xC0519EE9 = ~z~You just saw Creation's second birth.
+
+0xC059F71B = ~z~
+
+0xC09E0225 = ~z~and it is incredible.
+
+0xC0CD2C19 = ~z~Okay, what's the toy about?
+
+0xC6AFAB86 = ~z~Professor Marko Dragic.
+
+0xC6E5D6FF = ~z~They're tricky little fellers.
+
+0xC7DB1043 = ~z~And this is for military purposes?
+
+0xC9D2A054 = ~z~If you want to continue this conversation, we will do it at my lab. Doverhill.
+
+0xC12C6FA2 = ~z~Easy.
+
+0xC34E2BE6 = ~z~And funding from us.
+
+0xC59D8DA8 = ~z~I am an invisible wave engineer, not an electrical technician... okay?
+
+0xC72DB9DE = ~z~So, Professor, show us your magical toy boat...
+
+0xC98181CE = ~z~And funding from you, of course. But what a thing to fund. What an opportunity. No one is stupid enough to pass this up. Not even dimwit here.
+
+0xC617737F = ~z~The demonstration's not over yet! Any fool can explode a sitting duck.
+
+0xC792905D = ~z~Yes? Yes?
+
+0xC1652219 = ~z~so we shove the hot poker up the ass.
+
+0xC1733384 = ~z~Hello?
+
+0xC8426921 = ~z~You okay, buddy?
+
+0xCB23B489 = ~z~They doubted me.
+
+0xCC20DF36 = ~z~Hello!
+
+0xCC12426B = ~z~You okay, buddy?
+
+0xCC726752 = ~z~No, no. You've done quite enough. Now you can leave me alone.
+
+0xCD0D9AF4 = ~z~More like seven thousandth...
+
+0xCDFE49E3 = ~z~enchante.
+
+0xCEBC0F5A = ~z~No problem, Marko...
+
+0xCED3A014 = ~z~Just tell me what goddamn one of these things to pull.
+
+0xD0744632 = ~z~No, just rays in the air, like the voice of a god.
+
+0xD2F3A7E6 = ~z~It's working... it's working... come down here... quick!
+
+0xD3F7C616 = ~z~He total shit man.
+
+0xD6AAA50E = ~z~Very good, very good. Now, bring in the boat back here.
+
+0xD9B7B448 = ~z~Second time?
+
+0xD43AFF91 = ~z~Perhaps over lunch?
+
+0xD63F19C7 = ~z~
+
+0xD266A34F = ~z~Look who rules the seas...
+
+0xD536D72C = ~z~I never met this buffoon before two minutes ago.
+
+0xD806CE4F = ~z~I... those morons!
+
+0xD936FBA1 = ~z~They ain't getting away from me.
+
+0xD25647FC = ~z~the bloody switches.
+
+0xD64383A6 = ~z~that will astound all of you.
+
+0xD407528D = ~z~No...
+
+0xDB3C2543 = ~z~And funding from us.
+
+0xDB58D3DF = ~z~It is life itself.
+
+0xDB62633B = ~z~My boat!
+
+0xDBCFE1E6 = ~z~don't touch that.
+
+0xDC496679 = ~z~Ladies, gentleman...
+
+0xDCB3AB49 = ~z~back to work with a bloody smile.
+
+0xDD162775 = ~z~Uh oh.
+
+0xDEB3E2B1 = ~z~We are not reliant on wires, or coal, or gasoline.
+
+0xDF448515 = ~z~No, but I did.
+
+0xDFBE8671 = ~z~Of course you are disturbing me, buddy.
+
+0xE043AD2B = ~z~Hey, it is doing what I'm telling it.
+
+0xE1EA8971 = ~z~Hello!
+
+0xE2D7E3F1 = ~z~I am the luckiest man alive...
+
+0xE3D0745F = ~z~and this buffoon dressed up like a buffoon...
+
+0xE5A3466B = ~z~the grand theory of power...
+
+0xE6CB87B3 = ~z~to this earth.
+
+0xE12D7C73 = ~z~I wish I ever went to school...
+
+0xE23B629D = ~z~and not pay the money to, yes.
+
+0xE31C8631 = ~z~Please! This stinking bilge water.
+
+0xE93D5353 = ~z~second time lucky eh?
+
+0xE640F700 = ~z~European toy maker?
+
+0xE881C8BC = ~z~Look who rules the seas...
+
+0xE5524B31 = ~z~Now, let me go over the investment with you once more.
+
+0xE48160C2 = ~z~What is that?
+
+0xE2804275 = ~z~I did?
+
+0xEA8DC6FD = ~z~Here, help me please...
+
+0xEB069BB9 = ~z~You did?
+
+0xEB0BCB9D = ~z~Oh my! Such a sousing.
+
+0xEBA7747C = ~z~Those morons who doubted me...
+
+0xED2E3B13 = ~z~Where's your creation now?
+
+0xED8F21AA = ~z~I can't get the bloody conductor straight.
+
+0xED1748F9 = ~z~No, just rays in the air, like the voice of God.
+
+0xEE64CE46 = ~z~Well, I'm not sure about that...
+
+0xEF838256 = ~z~climb up there...
+
+0xF03E1886 = ~z~Show them one more to prove.
+
+0xF0683620 = ~z~One more bang and boat go bye bye. Please!
+
+0xF1A9D09C = ~z~Okay.
+
+0xF5C5AB83 = ~z~Oh! Was a deluge really necessary?
+
+0xF6AF0A87 = ~z~Is that it?
+
+0xF8A69E07 = ~z~Which part of it?
+
+0xF14DA98F = ~z~I almost solved biggest problem...
+
+0xF33A5235 = ~z~You make much nuisance, buffoon!
+
+0xF37B2C92 = ~z~Professor, I ain't here to rob you...
+
+0xF72F97A9 = ~z~Which part of it?
+
+0xF788EF9E = ~z~In the Balkans, we are a manner-less people but we work hard.
+
+0xF1060D9A = ~z~check if there's any funny business.
+
+0xF4816B6F = ~z~You better hope I ain't fried up here!
+
+0xF7980C5D = ~z~What is it?
+
+0xF9416FF7 = ~z~I hope I'm not disturbing you.
+
+0xF8386252 = ~z~I'm inclined to agree.
+
+0xFA315145 = ~z~It's incredible.
+
+0xFC3669E9 = ~z~The transmigration of the soul... I make lifeless metal breathe like man.
+
+0xFCF66F72 = ~z~I shall have to send this out to be cleaned.
+
+0xFD0A2AAD = ~z~just a puddle on the floor.
+
+0xFE39A801 = ~z~No, this ain't nothing to do with me.
+
+0xFEAFC3EB = ~z~and you mess it up.
+
+0xFF5CED84 = ~z~We are not reliant on wires, or coal, or gasoline.
+
